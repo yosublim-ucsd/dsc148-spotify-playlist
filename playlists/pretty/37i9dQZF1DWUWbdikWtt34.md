@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,667 likes - 82 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,688 likes - 82 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 69 | [Ku Puja Puja](https://open.spotify.com/track/13p3Fu1HTCPsUXQ8JGxVEz) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Ku Puja Puja](https://open.spotify.com/album/7xH7H47nIFy8825YlQPeTv) | 4:55 |
 | 70 | [Satu Hati Sampai Mati](https://open.spotify.com/track/5L51wafs3f9Kd9rWSSoK3k) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Satu Hati Sampai Mati](https://open.spotify.com/album/0NdTR19Y6d5yS3eTRjnoEz) | 3:49 |
 | 71 | [Kau Tercipta Bukan Untukku](https://open.spotify.com/track/2q9f86CdlaXOr6vD3HJK6R) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Sebelas Duabelas](https://open.spotify.com/album/6deRNyvv7AgrJWaA9xx5u8) | 4:21 |
-| 72 | [Sayang](https://open.spotify.com/track/1cs5LFOcznflbTzEKDPXCx) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Sayang](https://open.spotify.com/album/5GuZuYBsOhtIe0xW50jCwm) | 5:06 |
-| 73 | [Pamer Bojo](https://open.spotify.com/track/6YbECT4fvOJE1CdvisQURa) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Pamer Bojo](https://open.spotify.com/album/7BJWsDmLqH8bWqIlzrqCxn) | 4:54 |
+| 72 | [Sayang](https://open.spotify.com/track/1cs5LFOcznflbTzEKDPXCx) | [Via Vallen](https://open.spotify.com/artist/74YCcIyS1oSkCUJFh5ksRl) | [Sayang](https://open.spotify.com/album/5GuZuYBsOhtIe0xW50jCwm) | 5:06 |
+| 73 | [Pamer Bojo](https://open.spotify.com/track/6YbECT4fvOJE1CdvisQURa) | [Via Vallen](https://open.spotify.com/artist/74YCcIyS1oSkCUJFh5ksRl) | [Pamer Bojo](https://open.spotify.com/album/7BJWsDmLqH8bWqIlzrqCxn) | 4:54 |
 | 74 | [Lagi Syantik](https://open.spotify.com/track/2t65pJQA9BpPXehQLkOydo) | [Siti Badriah](https://open.spotify.com/artist/7uFoXSuGpa1zjda9SgmqFk) | [Lagi Syantik](https://open.spotify.com/album/0IQVxZ7YaLlnnoy4v7I61t) | 3:49 |
-| 75 | [Disana Menanti Disini Menunggu](https://open.spotify.com/track/2duwSgIaCDp6hKV106uhPf) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Disana Menanti Disini Menunggu](https://open.spotify.com/album/2wAZfFwKQClDtenYYVPQ66) | 4:53 |
+| 75 | [Disana Menanti Disini Menunggu](https://open.spotify.com/track/2duwSgIaCDp6hKV106uhPf) | [Via Vallen](https://open.spotify.com/artist/74YCcIyS1oSkCUJFh5ksRl) | [Disana Menanti Disini Menunggu](https://open.spotify.com/album/2wAZfFwKQClDtenYYVPQ66) | 4:53 |
 | 76 | [Tatu](https://open.spotify.com/track/55XnOFlzoXBcx1Ov0UvzeL) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/45mzuK7vN3XolfmyyEoOh3) | 4:54 |
 | 77 | [Kulepas Dengan ikhlas](https://open.spotify.com/track/0MMgF49ViaGpAonpNRbavI) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Kulepas Dengan Ikhlas](https://open.spotify.com/album/26nVfbBouNRMtdDOCn3Zq0) | 6:13 |
 | 78 | [Pasrah](https://open.spotify.com/track/5PjYZaJLP6g0iZJq7xWlLb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Pasrah](https://open.spotify.com/album/7JPYB9gYfYyu2vCBmwVnRP) | 5:08 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 81 | [Egois](https://open.spotify.com/track/4avHigwVYoL7TD48EhcNFK) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Egois](https://open.spotify.com/album/4wnJOz5Oeg9tVK7MonAwnt) | 4:17 |
 | 82 | [Cuma Kamu \(feat\. Via Vallen\)](https://open.spotify.com/track/5qfF8hoLmH6wCeHZzhqz4l) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Cuma Kamu \(feat\. Via Vallen\)](https://open.spotify.com/album/4JGs61xAzqTVHt8xURldZ8) | 4:04 |
 
-Snapshot ID: `MCxiMTRkNzU0N2JkN2I4MzVmMWQ3YmQ1MWRhNjFjOTZiOWRjMjNiYzBi`
+Snapshot ID: `MCxlNGNiZTBlNmNlZTQ2MGE4N2NiNTUxMzhlYWU2MjVlNTJiNThkNTVi`

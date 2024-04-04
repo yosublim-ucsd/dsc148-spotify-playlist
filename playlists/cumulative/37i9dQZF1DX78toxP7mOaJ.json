@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "QWERTY II",
+        "url": "https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289760,
+      "name": "2 2 BOOTLEG",
+      "url": "https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB"
+    },
+    {
+      "album": {
         "name": "2 Cups",
         "url": "https://open.spotify.com/album/3ttazupNIeGDk28uLymPTC"
       },
@@ -712,6 +730,24 @@
       "duration_ms": 194733,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/5fkT52XT0Hh2byKCuNhHeS"
+    },
+    {
+      "album": {
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/4MvdltPieYaQAAmECensZA"
+      },
+      "artists": [
+        {
+          "name": "Crispies",
+          "url": "https://open.spotify.com/artist/3OhkcoyaG1TN9xDWzhmgZQ"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143376,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/50yrd6laLgnTqvvNeSq2Bf"
     },
     {
       "album": {
@@ -2556,6 +2592,24 @@
       "duration_ms": 210716,
       "name": "Black Gold - Radio Edit",
       "url": "https://open.spotify.com/track/19nkIKBdFF5qflYHmMDN9N"
+    },
+    {
+      "album": {
+        "name": "Blackball",
+        "url": "https://open.spotify.com/album/7fadt0TocicYywdRr8bDiB"
+      },
+      "artists": [
+        {
+          "name": "Attendant",
+          "url": "https://open.spotify.com/artist/2armY1pDin1spLqVtTGOVV"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273066,
+      "name": "Blackball",
+      "url": "https://open.spotify.com/track/2TAZOFt4QBRIdWyTMNscHI"
     },
     {
       "album": {
@@ -5939,6 +5993,24 @@
     },
     {
       "album": {
+        "name": "Demons | The Truth",
+        "url": "https://open.spotify.com/album/0dBlgoh2aO5pNqJfemUNN0"
+      },
+      "artists": [
+        {
+          "name": "SANZ",
+          "url": "https://open.spotify.com/artist/2WqA6Esx22TJUaMeoBMMAW"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328533,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/5WWgJlfoCLVheLcg0kUjAk"
+    },
+    {
+      "album": {
         "name": "Denial (Demo)",
         "url": "https://open.spotify.com/album/6nIDmmEkZDJHveZYrgeUNJ"
       },
@@ -6418,7 +6490,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 223800,
       "name": "Don't Tell Me What to Do",
       "url": "https://open.spotify.com/track/2DQg2eQRczmctbCCM5T1Xb"
@@ -9336,7 +9408,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 246000,
       "name": "Half Tank",
       "url": "https://open.spotify.com/track/6eeTmM6NgqFKxEyvbN8e5d"
@@ -9743,6 +9815,24 @@
     },
     {
       "album": {
+        "name": "Heartbeat Is Missing",
+        "url": "https://open.spotify.com/album/7LwpZPtPzE5FXYHFJDD6ML"
+      },
+      "artists": [
+        {
+          "name": "EEVAH",
+          "url": "https://open.spotify.com/artist/3yJNIN3Ih9pFuG4cgfzCRL"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171282,
+      "name": "Heartbeat Is Missing",
+      "url": "https://open.spotify.com/track/7BImddfhS8JJCXYW0MQFlx"
+    },
+    {
+      "album": {
         "name": "Stadium Dreams On A Bedroom Budget",
         "url": "https://open.spotify.com/album/0D1pDHXoeqeOdBmtzbnji3"
       },
@@ -9992,6 +10082,24 @@
       "duration_ms": 232073,
       "name": "Here",
       "url": "https://open.spotify.com/track/1IfQ5kpNLdyejFMB28CEzO"
+    },
+    {
+      "album": {
+        "name": "Here Comes the Order of Malta",
+        "url": "https://open.spotify.com/album/02VVB9BavIyjqOG15OMe4p"
+      },
+      "artists": [
+        {
+          "name": "Oh Boland",
+          "url": "https://open.spotify.com/artist/2HmnALl2GrcNUuI9C5visw"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224786,
+      "name": "Here Comes the Order of Malta",
+      "url": "https://open.spotify.com/track/5mZJ3iwSXuLtWNMyDzfvDL"
     },
     {
       "album": {
@@ -11192,7 +11300,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 217781,
       "name": "I Saw Jon Hamm At The Beach",
       "url": "https://open.spotify.com/track/7uyjIiva3TyQ5jhVAWPQvS"
@@ -11863,6 +11971,24 @@
     },
     {
       "album": {
+        "name": "In The Wawa (Convinced I Am God)",
+        "url": "https://open.spotify.com/album/1DqpCzmJ4ilZoRkcmDO1YH"
+      },
+      "artists": [
+        {
+          "name": "Lip Critic",
+          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139234,
+      "name": "In The Wawa (Convinced I Am God)",
+      "url": "https://open.spotify.com/track/0yNH8lmgClOtNtRrjDkYOM"
+    },
+    {
+      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/3FpXjloJZUJ8mnL0frCDs8"
       },
@@ -12094,7 +12220,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 174698,
       "name": "It's A Pain",
       "url": "https://open.spotify.com/track/6fYQfO8TdcHsrGsyiHcbP6"
@@ -12354,6 +12480,24 @@
       "duration_ms": 188746,
       "name": "Jupiter Pluvius",
       "url": "https://open.spotify.com/track/5cdhNOSuIeagxGFAOvUp0m"
+    },
+    {
+      "album": {
+        "name": "Just Like",
+        "url": "https://open.spotify.com/album/0NoGvhRvcF0GaTwSHCm25Z"
+      },
+      "artists": [
+        {
+          "name": "Yuki Dreams Again",
+          "url": "https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172085,
+      "name": "Just Like",
+      "url": "https://open.spotify.com/track/1deniAR9BR8JhNG1679O63"
     },
     {
       "album": {
@@ -12826,6 +12970,24 @@
       "duration_ms": 173630,
       "name": "Left Me Out To Die",
       "url": "https://open.spotify.com/track/5A40rzOHlMBPZ5Typ7kxjb"
+    },
+    {
+      "album": {
+        "name": "Puzzled Panther",
+        "url": "https://open.spotify.com/album/3mxOY0HUITLsgEtrQJUxN4"
+      },
+      "artists": [
+        {
+          "name": "Puzzled Panther",
+          "url": "https://open.spotify.com/artist/6eLqAV3aTYejiXgejCe3ME"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225188,
+      "name": "Legs Long",
+      "url": "https://open.spotify.com/track/47HiAgcGRUbjmgwK3g8XoN"
     },
     {
       "album": {
@@ -14234,7 +14396,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 150000,
       "name": "Milky Max",
       "url": "https://open.spotify.com/track/3W01BtdX8jFwHaqudhTC50"
@@ -15066,6 +15228,24 @@
       "duration_ms": 180000,
       "name": "Never Gonna Change",
       "url": "https://open.spotify.com/track/3VHDLnaAtSuxamz3rXqO35"
+    },
+    {
+      "album": {
+        "name": "Never Said",
+        "url": "https://open.spotify.com/album/1ObJHkOfVc1Q7qmwaa7TI5"
+      },
+      "artists": [
+        {
+          "name": "Los Saints",
+          "url": "https://open.spotify.com/artist/65kpk2PLBzVkgtG47hus0g"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153135,
+      "name": "Never Said",
+      "url": "https://open.spotify.com/track/3j8ZZlpKzdhDdcn2EWDhmB"
     },
     {
       "album": {
@@ -17059,6 +17239,24 @@
     },
     {
       "album": {
+        "name": "KMS Express",
+        "url": "https://open.spotify.com/album/6mizNCzl3AF9x7eF5vv6GT"
+      },
+      "artists": [
+        {
+          "name": "Melkbelly",
+          "url": "https://open.spotify.com/artist/7jrKVdbsnsYOR8roKyx1Th"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "Precious Cargo",
+      "url": "https://open.spotify.com/track/3WwpXIUD8U6LIQOW6heHfu"
+    },
+    {
+      "album": {
         "name": "Pretty Lies",
         "url": "https://open.spotify.com/album/0U6Nt5e2EKALbTI2REdRIC"
       },
@@ -18760,7 +18958,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 197453,
       "name": "Seoul",
       "url": "https://open.spotify.com/track/242MWOVEHopesZNGpUXih2"
@@ -19946,7 +20144,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 241133,
       "name": "Speaking In Tongues",
       "url": "https://open.spotify.com/track/1w0W9lLBKPzXOXSfBouKop"
@@ -22716,7 +22914,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 226188,
       "name": "Trying",
       "url": "https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH"
@@ -22756,6 +22954,24 @@
       "duration_ms": 299136,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj"
+    },
+    {
+      "album": {
+        "name": "Tuk Tuk",
+        "url": "https://open.spotify.com/album/1Ej3MhImiYwTWz6HyfpCzg"
+      },
+      "artists": [
+        {
+          "name": "Dogmanjones",
+          "url": "https://open.spotify.com/artist/3LZuWycCqpivjq1GP0TpvT"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168191,
+      "name": "Tuk Tuk",
+      "url": "https://open.spotify.com/track/0nhVVN2PUImbII3dY3F7tz"
     },
     {
       "album": {

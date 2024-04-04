@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 244181,
+  "2024-04-04": 244282,
   "date_first_scraped": "2022-05-30",
   "description": "Dance Machi Dance\nCover : Jigarthanda DoubleX",
   "name": "Latest Dance Tamil",
@@ -3017,6 +3017,28 @@
       "duration_ms": 259500,
       "name": "Venaam Thalaiva Adviceu",
       "url": "https://open.spotify.com/track/5oSFIFYf3vdzi2pkAIgk7I"
+    },
+    {
+      "album": {
+        "name": "Vibe Aavoma (From \"The Boys\")",
+        "url": "https://open.spotify.com/album/2hP6OrcprFiZEb62JOzQax"
+      },
+      "artists": [
+        {
+          "name": "Arun Gautham",
+          "url": "https://open.spotify.com/artist/3OreWdk2YUILJKiomoy0l1"
+        },
+        {
+          "name": "Soup Sparrow",
+          "url": "https://open.spotify.com/artist/31xTgl4VupV4AqU7QhvRzn"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196235,
+      "name": "Vibe Aavoma (From \"The Boys\")",
+      "url": "https://open.spotify.com/track/4snJxO6JxzjzSjYUQ419lU"
     },
     {
       "album": {

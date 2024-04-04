@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 0,
+  "2024-04-04": 0,
   "date_first_scraped": "2023-03-07",
   "description": "",
   "name": "import of The daily dozen (@pipemanuel10)",
@@ -836,6 +836,24 @@
     },
     {
       "album": {
+        "name": "Pop Music: The Modern Era 1976-1999",
+        "url": "https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273160,
+      "name": "Because You Loved Me",
+      "url": "https://open.spotify.com/track/2c4rr33mgGC4c9cWzqdYxN"
+    },
+    {
+      "album": {
         "name": "Beyond The Sea",
         "url": "https://open.spotify.com/album/6kBY3AkEPLE4sZ1ULhYhAS"
       },
@@ -937,7 +955,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 308826,
       "name": "Bittersweet Memories",
       "url": "https://open.spotify.com/track/6G6h5OBkBpTcQWY4QVyzbx"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 217213,
       "name": "Cambio De Piel",
       "url": "https://open.spotify.com/track/2zUvNMEE2tAGlxmVa52BAc"
@@ -2535,7 +2553,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 317426,
       "name": "Estrechez De Coraz\u00f3n - Edit Version",
       "url": "https://open.spotify.com/track/4w5hkHJxX1RQeF6k3wT8GU"
@@ -2773,7 +2791,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 204133,
       "name": "Fireball - 1996 Remaster",
       "url": "https://open.spotify.com/track/7yQupufXTQcxiVeU1jgknP"
@@ -3105,7 +3123,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 120528,
       "name": "Gnawed",
       "url": "https://open.spotify.com/track/36zunLr76WzSOqwq48up3b"
@@ -3127,6 +3145,42 @@
       "duration_ms": 304080,
       "name": "Go West - 2003 Remaster",
       "url": "https://open.spotify.com/track/5Klo65Y9uouLjNVDV3pqh7"
+    },
+    {
+      "album": {
+        "name": "God Gave Me Everything",
+        "url": "https://open.spotify.com/album/2TTN1zgBtNHefPZWcthk69"
+      },
+      "artists": [
+        {
+          "name": "Mick Jagger",
+          "url": "https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213466,
+      "name": "God Gave Me Everything",
+      "url": "https://open.spotify.com/track/7bmQq7In6J04u3XX4QLUS8"
+    },
+    {
+      "album": {
+        "name": "good dog karma",
+        "url": "https://open.spotify.com/album/7i85GGkYE1XniYzld3Cxln"
+      },
+      "artists": [
+        {
+          "name": "phin",
+          "url": "https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205712,
+      "name": "good dog karma",
+      "url": "https://open.spotify.com/track/0V5xAM9ljDHgPLt9dvUFpk"
     },
     {
       "album": {
@@ -3361,6 +3415,24 @@
       "duration_ms": 271026,
       "name": "Here to Stay",
       "url": "https://open.spotify.com/track/1zSuTmG2vO4eRwoQUIFNCp"
+    },
+    {
+      "album": {
+        "name": "\u71b1\u70c8\uff01\u30a2\u30cb\u30bd\u30f3\u9b42 THE BEST \u30ab\u30d0\u30fc\u697d\u66f2\u96c6 TV\u30a2\u30cb\u30e1\u30b7\u30ea\u30fc\u30ba\u300cNARUTO\u300d vol.5 [\u75be\u98a8\u4f1d \u7b2c1\u8a71\uff5e\u7b2c281\u8a71 \u4e3b\u984c\u6b4cOP \u7de8]",
+        "url": "https://open.spotify.com/album/6sRAepXAxzWYzex1uAKkVZ"
+      },
+      "artists": [
+        {
+          "name": "Junichi Sakamoto",
+          "url": "https://open.spotify.com/artist/3N7zZb665mg5kdJhY2bwBL"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272281,
+      "name": "Hero's Come Back!!\uff08\u7b2c1\u8a71\u301c\u7b2c30\u8a71\uff09",
+      "url": "https://open.spotify.com/track/0ekyKwGvJYXo03wAitRlwv"
     },
     {
       "album": {
@@ -3855,7 +3927,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 221137,
       "name": "Impossible Tracks",
       "url": "https://open.spotify.com/track/7GZvjJkHoTSiP51zNqVnMP"
@@ -4273,7 +4345,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 279333,
       "name": "La Muralla",
       "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
@@ -5137,7 +5209,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 243586,
       "name": "Mysterious Ways",
       "url": "https://open.spotify.com/track/7FOZKzyMlqKMOua5aehMUa"
@@ -5513,6 +5585,24 @@
       "duration_ms": 280280,
       "name": "Of Prometheus and the Crucifix",
       "url": "https://open.spotify.com/track/3M3pLgLlLAKdzmroa2z64m"
+    },
+    {
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/4GoSEQIgXpnYLosQMGfvpa"
+      },
+      "artists": [
+        {
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184093,
+      "name": "Oh l'amour",
+      "url": "https://open.spotify.com/track/2RsIjB4ZFnxnUCfnDD1NuW"
     },
     {
       "album": {
@@ -6487,7 +6577,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 74226,
       "name": "Run - Commentary",
       "url": "https://open.spotify.com/track/7xScm6LUokUPMFsah650OA"
@@ -6613,7 +6703,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 288173,
       "name": "Seemann",
       "url": "https://open.spotify.com/track/0zRaqTJoa20oc8Wqe5SDv6"
@@ -6707,6 +6797,24 @@
       "duration_ms": 290360,
       "name": "Shadow of the Day",
       "url": "https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1"
+    },
+    {
+      "album": {
+        "name": "shaking head",
+        "url": "https://open.spotify.com/album/5FiKwOdK0erlaCZ06n4U12"
+      },
+      "artists": [
+        {
+          "name": "Noah Pope",
+          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164220,
+      "name": "shaking head",
+      "url": "https://open.spotify.com/track/0GCzgti2LYrdH93iJiC9hf"
     },
     {
       "album": {
@@ -6909,6 +7017,24 @@
       "duration_ms": 264000,
       "name": "Solitary Ground",
       "url": "https://open.spotify.com/track/032QyDapuk9L3yrN2n88F4"
+    },
+    {
+      "album": {
+        "name": "Surrealistic Pillow",
+        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174840,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
     },
     {
       "album": {
@@ -7267,6 +7393,32 @@
       "duration_ms": 214752,
       "name": "TANDANG",
       "url": "https://open.spotify.com/track/2sjNju4iGLiOjRrePWWKU0"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Swan Lake",
+        "url": "https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166866,
+      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",
+      "url": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt"
     },
     {
       "album": {
@@ -7814,6 +7966,24 @@
     },
     {
       "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357840,
+      "name": "Thriller - Instrumental",
+      "url": "https://open.spotify.com/track/3yYt5HIf99u6lsinB95Ku8"
+    },
+    {
+      "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/6f4dhaPfZqf2JXewAvE4gq"
       },
@@ -7955,7 +8125,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 46155,
       "name": "Toronto - Abridged",
       "url": "https://open.spotify.com/track/6GhwtCb9r6CljbCCU81MId"
@@ -8125,7 +8295,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 315639,
       "name": "Unholy Confessions - Live in Ventura",
       "url": "https://open.spotify.com/track/7u3FsG0cDevBDFoke0ogiZ"
@@ -8486,6 +8656,24 @@
     },
     {
       "album": {
+        "name": "We Are The Others",
+        "url": "https://open.spotify.com/album/4cGfPdyycjpZp07DbCJtbY"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199280,
+      "name": "We Are The Others",
+      "url": "https://open.spotify.com/track/6uKvnGeg6xgzPTH3QSPTB6"
+    },
+    {
+      "album": {
         "name": "We Both Know",
         "url": "https://open.spotify.com/album/569MveUgubA2WeTrfmbxnf"
       },
@@ -8670,6 +8858,24 @@
     },
     {
       "album": {
+        "name": "Kill 'Em All",
+        "url": "https://open.spotify.com/album/6FMPDVTm8l5IrEQla46VQl"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250026,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/0llXksyxjNlDB9vOcETZi0"
+    },
+    {
+      "album": {
         "name": "E-Mail from Eternity: The Best of Sad Lovers and Giants",
         "url": "https://open.spotify.com/album/1dmmxCkaFXDfZIC0xkqelt"
       },
@@ -8807,7 +9013,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 153117,
       "name": "Y SI SOMOS NOVIOS???",
       "url": "https://open.spotify.com/track/3IGNEoTp4uV1HtcvdfxrSL"

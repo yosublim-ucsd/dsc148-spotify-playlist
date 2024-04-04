@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 81668,
+  "num_followers": 81701,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzBiMjQ5ZWM0N2E2YTBhN2MzOTQ0Mjc4YmZlYmIzY2ZhYWVjNGNi",
+  "snapshot_id": "MCw5NWFjYmQ1Y2U2OWM3MjgyODNkMjljMjI4M2Y0ZjFhMjE0ZmQyNDNl",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -515,26 +515,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/1ZSq87JLDDodzSK2B2bnEe"
-      },
-      "artists": [
-        {
-          "name": "ZEDDY WILL",
-          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 108923,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0ic30oKQ15EvTWS1VYBjFF"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Love Like That",
         "url": "https://open.spotify.com/album/1ewhccVD32md195nWwLG3u"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 166654,
       "name": "Love Like That",
       "url": "https://open.spotify.com/track/22haNP7zwUCrqPJIjfgOjx"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/1ZSq87JLDDodzSK2B2bnEe"
+      },
+      "artists": [
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 108923,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0ic30oKQ15EvTWS1VYBjFF"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "What Happened 2 Me?",
+        "url": "https://open.spotify.com/album/7yZKo3Y1n3RxQklCfzWx8x"
+      },
+      "artists": [
+        {
+          "name": "Is0kenny",
+          "url": "https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb"
+        }
+      ],
+      "duration_ms": 99688,
+      "name": "What Happened 2 Me?",
+      "url": "https://open.spotify.com/track/5GSvt7mMyRlV4O9M8chg1T"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Price Going Up",
         "url": "https://open.spotify.com/album/0zgiDICJXDygNbxUAhn9mb"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 135272,
       "name": "Price Going Up",
       "url": "https://open.spotify.com/track/2T3VMqOKUjnK31A3roI3oe"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "What Happened 2 Me?",
-        "url": "https://open.spotify.com/album/7yZKo3Y1n3RxQklCfzWx8x"
-      },
-      "artists": [
-        {
-          "name": "Is0kenny",
-          "url": "https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb"
-        }
-      ],
-      "duration_ms": 99688,
-      "name": "What Happened 2 Me?",
-      "url": "https://open.spotify.com/track/5GSvt7mMyRlV4O9M8chg1T"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/6AeZAE9S0GDtkKpxSxsHae"
+      },
+      "artists": [
+        {
+          "name": "The Szns",
+          "url": "https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU"
+        },
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "duration_ms": 174623,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/7jRVGR6xzoiBkY51gEla0L"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Vibrate EP",
         "url": "https://open.spotify.com/album/4Z7nLkNRHfL3RRAqECtTEe"
       },
@@ -1395,22 +1415,6 @@
       "duration_ms": 89072,
       "name": "Self Esteem (feat. NLE Choppa) - DJ Smallz 732 Jersey Club Remix",
       "url": "https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Orange Soda (Jersey Club Remix)",
-        "url": "https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O"
-      },
-      "artists": [
-        {
-          "name": "Sjayy",
-          "url": "https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc"
-        }
-      ],
-      "duration_ms": 111304,
-      "name": "Orange Soda - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ"
     }
   ],
   "unique_name": "Jersey Club Heat",

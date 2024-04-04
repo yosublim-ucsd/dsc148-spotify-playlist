@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/druski/?hl=en\">Druski</a>",
-  "num_followers": 46196,
+  "num_followers": 46269,
   "original_name": "Druski's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmZlMmE1NjhlMjUxZjg1NzRhMmU2MjVkZWRlMmI2YzZjODQ5MDhj",
+  "snapshot_id": "MCw2YzRmMmFhZjU2YTRkZTQ5ODVjNWY1MzRkM2Y3Y2Y4ZGJmODE1MjMz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Young & Turnt 2",
-        "url": "https://open.spotify.com/album/3K7w8ofzG4VpAnL3co76qq"
+        "name": "Charlie, Last Name Wilson",
+        "url": "https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP"
       },
       "artists": [
         {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
         }
       ],
-      "duration_ms": 119409,
-      "name": "Been Turnt",
-      "url": "https://open.spotify.com/track/3Bnm2f2khLuWgBT9htSG9h"
+      "duration_ms": 215866,
+      "name": "Charlie, Last Name Wilson",
+      "url": "https://open.spotify.com/track/6UZqMYYQQThvV55IQPvscO"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Charlie, Last Name Wilson",
-        "url": "https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP"
+        "name": "Young & Turnt 2",
+        "url": "https://open.spotify.com/album/3K7w8ofzG4VpAnL3co76qq"
       },
       "artists": [
         {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         }
       ],
-      "duration_ms": 215866,
-      "name": "Charlie, Last Name Wilson",
-      "url": "https://open.spotify.com/track/6UZqMYYQQThvV55IQPvscO"
+      "duration_ms": 119409,
+      "name": "Been Turnt",
+      "url": "https://open.spotify.com/track/3Bnm2f2khLuWgBT9htSG9h"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "1.5 Way Or No Way",
-        "url": "https://open.spotify.com/album/0Jt91wbEFYK34hZ29n2YKg"
-      },
-      "artists": [
-        {
-          "name": "Yung Mal",
-          "url": "https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2"
-        }
-      ],
-      "duration_ms": 147144,
-      "name": "Stay Down",
-      "url": "https://open.spotify.com/track/0p3ExMS9gxtT1GMMmrkuak"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Time's Up",
         "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 155933,
       "name": "Big FlexHer",
       "url": "https://open.spotify.com/track/6Yw5G6x9tiuwzhgTiQtafh"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "1.5 Way Or No Way",
+        "url": "https://open.spotify.com/album/0Jt91wbEFYK34hZ29n2YKg"
+      },
+      "artists": [
+        {
+          "name": "Yung Mal",
+          "url": "https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2"
+        }
+      ],
+      "duration_ms": 147144,
+      "name": "Stay Down",
+      "url": "https://open.spotify.com/track/0p3ExMS9gxtT1GMMmrkuak"
     },
     {
       "added_at": "2022-10-01 16:00:00",

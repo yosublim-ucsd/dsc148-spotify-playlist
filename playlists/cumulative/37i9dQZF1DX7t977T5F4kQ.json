@@ -228,7 +228,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 124931,
       "name": "A POET's BOOK",
       "url": "https://open.spotify.com/track/4E38NnL7k4ttirYrJ7Hxve"
@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180486,
+      "name": "Aseda",
+      "url": "https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG"
+    },
+    {
+      "album": {
         "name": "Ashawo",
         "url": "https://open.spotify.com/album/56jazw4lgbAn1rEyperIPa"
       },
@@ -816,7 +834,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 168674,
       "name": "Away (feat. Stunn)",
       "url": "https://open.spotify.com/track/7nnCN0SbeioycrS1ThwjKZ"
@@ -1238,6 +1256,24 @@
       "duration_ms": 164846,
       "name": "Bunker",
       "url": "https://open.spotify.com/track/430qeeo39VnjbC8aXIsEbS"
+    },
+    {
+      "album": {
+        "name": "Canopy",
+        "url": "https://open.spotify.com/album/3mIQ9QuBDBhLkSJYpKcmPV"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154423,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/6HWx6dqKPfThbHIt79oBus"
     },
     {
       "album": {
@@ -1686,7 +1722,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 173147,
       "name": "Dede",
       "url": "https://open.spotify.com/track/6DhvDRUZK6vvMShO2flK1I"
@@ -3764,7 +3800,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 180000,
       "name": "More Of You",
       "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
@@ -4288,7 +4324,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 184555,
       "name": "Obaa Hemaa",
       "url": "https://open.spotify.com/track/7aE7Icgz0lehLspnBk071W"
@@ -4922,7 +4958,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 171789,
       "name": "Pasa - Remix",
       "url": "https://open.spotify.com/track/5cp6IukocVZv2nfuC0IzIG"
@@ -5413,6 +5449,28 @@
     },
     {
       "album": {
+        "name": "Songs For Her",
+        "url": "https://open.spotify.com/album/4EEXbmKsVMMC4kAdVifMnN"
+      },
+      "artists": [
+        {
+          "name": "Scrip T",
+          "url": "https://open.spotify.com/artist/21GUcqeZGLM4dg5IbMJXN8"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205087,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/4kturYXEBIp8526xEQ3z67"
+    },
+    {
+      "album": {
         "name": "Sex",
         "url": "https://open.spotify.com/album/7rgMsOvr1GZHI84teicBfE"
       },
@@ -5468,7 +5526,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 300000,
       "name": "She Bad (feat. Oxlade)",
       "url": "https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5"
@@ -5490,7 +5548,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 178909,
       "name": "Shine",
       "url": "https://open.spotify.com/track/0OK6S8OsDnbBm5zbcTsb0C"

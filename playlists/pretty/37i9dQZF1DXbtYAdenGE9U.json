@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 549117,
+  "num_followers": 549442,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDNjOWI3NGY4OWVhZDlmYjJlYWIwZGY2Y2QwNmE1YjkzYmNkYjdk",
+  "snapshot_id": "MCwwNWQ5NDBjOWFiN2U5NTkwYTlmNjNjNzAyNTI0MGFjMTk0ZDYxNmUz",
   "tracks": [
     {
       "added_at": "2023-08-11 10:02:57",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "25 Years, Vol. 3",
-        "url": "https://open.spotify.com/album/0WPqeMn5Kmi1RMpNwm5DMV"
-      },
-      "artists": [
-        {
-          "name": "Lustral",
-          "url": "https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7"
-        },
-        {
-          "name": "Nalin & Kane",
-          "url": "https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6"
-        }
-      ],
-      "duration_ms": 249022,
-      "name": "Everytime - Nalin & Kane Mix",
-      "url": "https://open.spotify.com/track/1jxVRXHqJKPzyhDQBmT6vU"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Odyssey: The Remix Collection",
         "url": "https://open.spotify.com/album/1BgbIW5ARri13Isjaz9nsO"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 685640,
       "name": "Silence - DJ Ti\u00ebsto's In Search Of Sunrise Remix",
       "url": "https://open.spotify.com/track/0CB7J9QsvEqmD0MY1plRsh"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "25 Years, Vol. 3",
+        "url": "https://open.spotify.com/album/0WPqeMn5Kmi1RMpNwm5DMV"
+      },
+      "artists": [
+        {
+          "name": "Lustral",
+          "url": "https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7"
+        },
+        {
+          "name": "Nalin & Kane",
+          "url": "https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6"
+        }
+      ],
+      "duration_ms": 249022,
+      "name": "Everytime - Nalin & Kane Mix",
+      "url": "https://open.spotify.com/track/1jxVRXHqJKPzyhDQBmT6vU"
     },
     {
       "added_at": "2023-08-11 10:02:57",

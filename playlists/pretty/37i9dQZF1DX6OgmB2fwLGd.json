@@ -1,32 +1,44 @@
 {
   "description": "Shotgun Willy, born and raised on the internet.",
-  "num_followers": 1398966,
+  "num_followers": 1399024,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjVkM2I3YWM1ZWU2ZTM5OTdiNWMwZmU1NTViOWE3OTRmYTZjMzAx",
+  "snapshot_id": "MCw0ZmJiMWE1MTQwZjllZGYxNjMwNWMzZjhlZDI2ZDI4YTVhZDY5YmYy",
   "tracks": [
     {
-      "added_at": "2024-04-02 18:13:26",
+      "added_at": "2024-04-03 13:45:00",
       "album": {
-        "name": "NOTHIN' TO IT",
-        "url": "https://open.spotify.com/album/7ikk4urY9UBan6I7808bgc"
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/09heES0I3XMjwyxm1stQig"
       },
       "artists": [
         {
-          "name": "ON THE HUNT",
-          "url": "https://open.spotify.com/artist/0H4NDqO4OLCIat2L6ET4yJ"
-        },
-        {
-          "name": "Chandler",
-          "url": "https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx"
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
         }
       ],
-      "duration_ms": 116800,
-      "name": "NOTHIN' TO IT",
-      "url": "https://open.spotify.com/track/0JwrnTwmE0UMctySBYGnJS"
+      "duration_ms": 94666,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/7qHQqWGE4JrOom3uvwHPiJ"
+    },
+    {
+      "added_at": "2024-04-03 18:54:52",
+      "album": {
+        "name": "Mr Beat The Road",
+        "url": "https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "duration_ms": 104470,
+      "name": "Talk My Shit",
+      "url": "https://open.spotify.com/track/6O3WfmAQIgnLBGVzZJVS40"
     },
     {
       "added_at": "2024-02-27 15:12:26",
@@ -63,6 +75,26 @@
       "duration_ms": 231338,
       "name": "act ii: date @ 8 (feat. Drake) - remix",
       "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "added_at": "2024-01-16 15:48:20",
+      "album": {
+        "name": "#CERTIFIED (DJ Ess Mix) [feat. DJ Ess]",
+        "url": "https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "DJ Ess",
+          "url": "https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ"
+        }
+      ],
+      "duration_ms": 122012,
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mix",
+      "url": "https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO"
     },
     {
       "added_at": "2024-03-22 18:17:14",
@@ -107,26 +139,6 @@
       "duration_ms": 205508,
       "name": "Seppuku (feat. Baldie Balboa)",
       "url": "https://open.spotify.com/track/5lI8kRrA9y4B6Qo7WH0TJq"
-    },
-    {
-      "added_at": "2024-01-16 15:48:20",
-      "album": {
-        "name": "#CERTIFIED (DJ Ess Mix) [feat. DJ Ess]",
-        "url": "https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ"
-      },
-      "artists": [
-        {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
-        },
-        {
-          "name": "DJ Ess",
-          "url": "https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ"
-        }
-      ],
-      "duration_ms": 122012,
-      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mix",
-      "url": "https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -179,6 +191,26 @@
       "duration_ms": 189740,
       "name": "Skidoo",
       "url": "https://open.spotify.com/track/5AZMFwVqoTIcx1mMSUZLXl"
+    },
+    {
+      "added_at": "2024-04-02 18:13:26",
+      "album": {
+        "name": "NOTHIN' TO IT",
+        "url": "https://open.spotify.com/album/7ikk4urY9UBan6I7808bgc"
+      },
+      "artists": [
+        {
+          "name": "ON THE HUNT",
+          "url": "https://open.spotify.com/artist/0H4NDqO4OLCIat2L6ET4yJ"
+        },
+        {
+          "name": "Chandler",
+          "url": "https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx"
+        }
+      ],
+      "duration_ms": 116800,
+      "name": "NOTHIN' TO IT",
+      "url": "https://open.spotify.com/track/0JwrnTwmE0UMctySBYGnJS"
     },
     {
       "added_at": "2024-03-22 18:17:14",
@@ -1747,22 +1779,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Diamonds Cry",
-        "url": "https://open.spotify.com/album/7EW3I0378mL1kzW8x9ddp2"
-      },
-      "artists": [
-        {
-          "name": "Tevomxntana",
-          "url": "https://open.spotify.com/artist/4R1Ph1IPb4wG0XWzzOcvQa"
-        }
-      ],
-      "duration_ms": 121399,
-      "name": "Diamonds Cry",
-      "url": "https://open.spotify.com/track/3lq7nObJRC3GXoPDe8zZIW"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "SUPERSTAR!",
         "url": "https://open.spotify.com/album/7rRQ0fz5cgm4y6BmahyXCs"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 129445,
       "name": "GREEN GOBLIN - Spotify Singles",
       "url": "https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "GHOST (DELUXE EDITION)",
-        "url": "https://open.spotify.com/album/5Yte8LPU5DI49QYBiMmI4E"
-      },
-      "artists": [
-        {
-          "name": "FLEE",
-          "url": "https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p"
-        }
-      ],
-      "duration_ms": 109975,
-      "name": "BUBBLE GREEN",
-      "url": "https://open.spotify.com/track/3geCHoatBHgpCbLmittPye"
     }
   ],
   "unique_name": "Internet People",

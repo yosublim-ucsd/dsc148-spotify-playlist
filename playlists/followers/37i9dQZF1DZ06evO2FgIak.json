@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 46314,
+  "2024-04-04": 46326,
   "date_first_scraped": "2022-08-06",
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
   "name": "This Is Muddy Waters",
@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 324386,
       "name": "Bottom Of The Sea",
       "url": "https://open.spotify.com/track/5tBKlkwkliIP05FAMqx5MM"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 465373,
       "name": "Bus Driver",
       "url": "https://open.spotify.com/track/6aMqOnAy0Q5EkHyjjb4VXE"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 149626,
       "name": "Crawlin' Kingsnake",
       "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 174573,
       "name": "I Feel So Good",
       "url": "https://open.spotify.com/track/2pdRmHCY8d3u4oEVLWvws2"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 102546,
       "name": "Introduction - Live",
       "url": "https://open.spotify.com/track/1qA4qY3MhSNKShNB2lDcID"
@@ -1261,7 +1261,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 174866,
       "name": "Louisiana Blues",
       "url": "https://open.spotify.com/track/2nbV8brWogyKVqRhypvzJS"
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 183880,
       "name": "Mad Love (I Want You To Love Me) - Single Version",
       "url": "https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6"
@@ -1381,7 +1381,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 137733,
       "name": "Mean Red Spider",
       "url": "https://open.spotify.com/track/6iukeqLbu4VAniiFbKQ6My"
@@ -1655,7 +1655,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 129293,
       "name": "Rocket 88",
       "url": "https://open.spotify.com/track/6PB2CtohIEh0gXv5kacqaD"
@@ -1691,7 +1691,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 188160,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
@@ -1709,7 +1709,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 177213,
       "name": "She Moves Me",
       "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
@@ -2137,7 +2137,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 178600,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo"
@@ -2403,7 +2403,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 165106,
       "name": "You Need Love",
       "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
@@ -2421,7 +2421,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 166493,
       "name": "You Shook Me",
       "url": "https://open.spotify.com/track/0JGycbFUWSITx4NFCkEeqM"

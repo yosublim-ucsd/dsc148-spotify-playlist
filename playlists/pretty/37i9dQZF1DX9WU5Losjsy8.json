@@ -1,12 +1,12 @@
 {
   "description": "ist nur einmal im Jahr...",
-  "num_followers": 400336,
+  "num_followers": 400431,
   "original_name": "Malle Party 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmQ0M2RiODI2MjRjOTY0NmZjOGYyZmRhMjVjYjg4MDM4NzkzMWYx",
+  "snapshot_id": "MCxmYThhMzdkMWNkZjdlN2U2NTlmMWM4MDcwY2FhNDk0NmQwNWI5NGE2",
   "tracks": [
     {
       "added_at": "2024-03-27 06:55:37",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Ich will mehr",
-        "url": "https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Petry",
-          "url": "https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "Wahnsinn",
-      "url": "https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Oh Baby",
         "url": "https://open.spotify.com/album/5xZubDsUa9davo8N2LOFy6"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 191163,
       "name": "Oh Baby",
       "url": "https://open.spotify.com/track/59HKKV0eD3UPJ3RCG5qFcc"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Ich will mehr",
+        "url": "https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Petry",
+          "url": "https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Wahnsinn",
+      "url": "https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Neverland",
-        "url": "https://open.spotify.com/album/2bDZ4TekRc3saVb0O1G7ik"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 212957,
-      "name": "Neverland",
-      "url": "https://open.spotify.com/track/7HJ7K2RacfpaX2DTEvwYpS"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Schei\u00dfegal, ich feier (Radio Edit)",
         "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 164103,
       "name": "Schei\u00dfegal, ich feier - Radio Edit",
       "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/2bDZ4TekRc3saVb0O1G7ik"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 212957,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/7HJ7K2RacfpaX2DTEvwYpS"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "Knicklicht",
+        "url": "https://open.spotify.com/album/3kklz0c9Z29XpvMv1e1rvq"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "Knicklicht",
+      "url": "https://open.spotify.com/track/6wXGstjGjHtMoGnJ8dar1M"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "Kabinenparty",
         "url": "https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 142750,
       "name": "Kabinenparty",
       "url": "https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Knicklicht",
-        "url": "https://open.spotify.com/album/3kklz0c9Z29XpvMv1e1rvq"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        }
-      ],
-      "duration_ms": 138400,
-      "name": "Knicklicht",
-      "url": "https://open.spotify.com/track/6wXGstjGjHtMoGnJ8dar1M"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
+      },
+      "artists": [
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "Nimm mich mit ins Paradies",
         "url": "https://open.spotify.com/album/3MS34bdsyJSrdMnbEac3pn"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 164078,
       "name": "Nimm mich mit ins Paradies",
       "url": "https://open.spotify.com/track/2ZqVzQrbA3FuXKOUBBqpRy"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
-      },
-      "artists": [
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        }
-      ],
-      "duration_ms": 144533,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Das Album",
-        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
-      },
-      "artists": [
-        {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
-        },
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Anton aus Tirol",
-      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Nachbarn",
         "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 181553,
       "name": "Nachbarn",
       "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Das Album",
+        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
+      },
+      "artists": [
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
+        },
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Anton aus Tirol",
+      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1367,18 +1367,26 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Hits Pur - 20 Jahre Eine Band (Fan Edition)",
-        "url": "https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO"
+        "name": "Grapefruit",
+        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
       "artists": [
         {
-          "name": "Pur",
-          "url": "https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx"
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Julia Engelmann",
+          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
+        },
+        {
+          "name": "Raket One",
+          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
         }
       ],
-      "duration_ms": 280852,
-      "name": "Abenteuerland",
-      "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
+      "duration_ms": 184160,
+      "name": "Grapefruit",
+      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1399,6 +1407,22 @@
       "duration_ms": 239466,
       "name": "7 S\u00fcnden - Party Mix",
       "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Hits Pur - 20 Jahre Eine Band (Fan Edition)",
+        "url": "https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO"
+      },
+      "artists": [
+        {
+          "name": "Pur",
+          "url": "https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx"
+        }
+      ],
+      "duration_ms": 280852,
+      "name": "Abenteuerland",
+      "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1447,30 +1471,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Grapefruit",
-        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
-      },
-      "artists": [
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        },
-        {
-          "name": "Julia Engelmann",
-          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
-        },
-        {
-          "name": "Raket One",
-          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "Grapefruit",
-      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Felicit\u00e0 (Stereoact Remix)",
         "url": "https://open.spotify.com/album/2FWtL7RNtw2bPUo5MM5XBG"
       },
@@ -1491,18 +1491,22 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Bierkapit\u00e4n",
-        "url": "https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC"
+        "name": "Holterdiepolter",
+        "url": "https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J"
       },
       "artists": [
         {
-          "name": "Bierkapit\u00e4n",
-          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+        },
+        {
+          "name": "Georg Stengel",
+          "url": "https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU"
         }
       ],
-      "duration_ms": 210857,
-      "name": "Bierkapit\u00e4n",
-      "url": "https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv"
+      "duration_ms": 192600,
+      "name": "Holterdiepolter",
+      "url": "https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ"
     }
   ],
   "unique_name": "Malle Party 2024",

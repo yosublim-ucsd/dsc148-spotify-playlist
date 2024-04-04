@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,204 likes - 157 songs - 9 hr 1 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,203 likes - 157 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 20 | [Safe Word](https://open.spotify.com/track/3rngTCs5DsdmwTfzckQp3Q) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Safe Word](https://open.spotify.com/album/55h3mimaRUbFUjOkDPQgTP) | 2:04 |
 | 21 | [Da Feeling](https://open.spotify.com/track/3yAZRpEbliOJUnZH3478xG) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [GFDM](https://open.spotify.com/artist/6AIKpm3NV3gJ4UrvrMCJIj) | [Da Feeling](https://open.spotify.com/album/0cNGG4vhhA9ZL2gdmlbvYm) | 3:21 |
 | 22 | [I'm My Only Friend \(feat\. Arden Jones\) \- FrostTop Remix](https://open.spotify.com/track/78bTP14DKsZFxbXyegfJAY) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [These Remixes Are Fire TOO](https://open.spotify.com/album/5KDYfnaLzovDzekL9CLFJs) | 3:29 |
-| 23 | [SOMETHING](https://open.spotify.com/track/1ilSinGAhBBAhGAkPrUxVD) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [HYPER HOUSE](https://open.spotify.com/album/2qrdKTn7a9aPNDPA0NGJVU) | 2:52 |
+| 23 | [SOMETHING](https://open.spotify.com/track/1ilSinGAhBBAhGAkPrUxVD) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [HYPER HOUSE](https://open.spotify.com/album/2qrdKTn7a9aPNDPA0NGJVU) | 2:57 |
 | 24 | [MARAVILLOSA](https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [MARAVILLOSA](https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb) | 2:32 |
 | 25 | [RTC](https://open.spotify.com/track/4kea3sugNepDtJZgDg34zx) | [Squired](https://open.spotify.com/artist/23Ud9TI3CpiqMUY6tBZEb6) | [RTC](https://open.spotify.com/album/4iHjeyUKrUYvEYxJ1AETCk) | 3:08 |
 | 26 | [Feel the Bass \- Original Mix](https://open.spotify.com/track/4HmMkw9WtiJMNJvz6EA2Sb) | [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ) | [Feel the Bass](https://open.spotify.com/album/2rqEzK4GBTdR2DeGikQs69) | 4:09 |

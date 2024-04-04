@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 408235,
       "name": "Amenuveve (Grace)",
       "url": "https://open.spotify.com/track/2DX6n0p3S4IZk7PwemK7J9"
@@ -268,6 +268,24 @@
       "duration_ms": 218928,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE"
+    },
+    {
+      "album": {
+        "name": "Borborbor Gospel Medley",
+        "url": "https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189"
+      },
+      "artists": [
+        {
+          "name": "Bethel Revival Choir",
+          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517432,
+      "name": "Borborbor Gospel Medley",
+      "url": "https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3"
     },
     {
       "album": {
@@ -464,7 +482,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 594921,
       "name": "Fawohodie(Twi Medley)",
       "url": "https://open.spotify.com/track/2N5uglkqAalKPTCnm4a2Cl"
@@ -526,7 +544,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 433646,
       "name": "Glory Chants",
       "url": "https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb"

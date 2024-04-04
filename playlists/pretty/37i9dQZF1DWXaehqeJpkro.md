@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: BIBI\(비비\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,587 likes - 188 songs - 12 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,612 likes - 188 songs - 12 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 17 | [I LOVE YOU](https://open.spotify.com/track/0rXBAMbHo7WTddZYfK2AX9) | [Position](https://open.spotify.com/artist/46Bj2frkvUzqJUwcSx24Wo) | [포지션 스페셜 I LOVE YOU](https://open.spotify.com/album/2KvPzTe2rEACWx6nlQEebv) | 5:29 |
 | 18 | [Fry’s Dream](https://open.spotify.com/track/6f4CAdAmrOfGH3FOfwHMSV) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Love Lee](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) | 3:24 |
 | 19 | [다시 사랑한다면 \(니글니글 버터플라이\)](https://open.spotify.com/track/3UGHBnuq4cFToHy3JfbFcB) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Mask Singer 47th \(Live Version\)](https://open.spotify.com/album/1bgMYNZHBOxr8iFd3IQPIK) | 4:02 |
-| 20 | [Good Night Good Dream](https://open.spotify.com/track/423WHvB4mKprM6hELzpH3F) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [Good Night Good Dream](https://open.spotify.com/album/4lFbDrujNnh4oFGBHIGYiv) | 4:25 |
+| 20 | [‎Good Night Good Dream](https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [‎Good Night Good Dream](https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc) | 4:25 |
 | 21 | [Delete](https://open.spotify.com/track/1GH2zktv0O2oSut4khXRmG) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [The dream of a moth](https://open.spotify.com/album/4VafBO9ZEja9ghat1vb8CL) | 4:12 |
 | 22 | [Honey](https://open.spotify.com/track/3WJbPo8V61piAagZYyRqn8) | [Isegye Rockstar \(STH\)](https://open.spotify.com/artist/76Fuve7XknoppOovQwARzY) | [Honey](https://open.spotify.com/album/5sNDzsRA133ANet8CqVaVk) | 4:09 |
 | 23 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 187 | [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 |
 | 188 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 |
 
-Snapshot ID: `MCxjMWEwYzc5ZmYwNGFkMmFiNTkxOGQ3ODgyY2EyNmZkYjhmODBlZWQw`
+Snapshot ID: `MCw4NjUwYjczNGVkZDZjZDg4ZGU2YTA1ZDQ5ZmZjZDQ4NzJiMjFlNDg1`

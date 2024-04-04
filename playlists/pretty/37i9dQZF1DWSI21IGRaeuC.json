@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 34555,
+  "num_followers": 34601,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWJhOWY1MjI1NTJlYmM1MTE4OGYyNWE5ZWUyYzRlZjlhMWE3Njdl",
+  "snapshot_id": "MCxkMDAzZTNmMDZlZGQyMWNjMDdkYzI1NTQ4M2MzYjNmNjhjNzgxNWNj",
   "tracks": [
     {
       "added_at": "2024-03-29 04:01:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Midtown Playground",
-        "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 222475,
-      "name": "Midtown Playground",
-      "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 337000,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Midtown Playground",
+        "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 222475,
+      "name": "Midtown Playground",
+      "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Un Beso",
+        "url": "https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "duration_ms": 225029,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Provenance",
         "url": "https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 401250,
       "name": "Provenance",
       "url": "https://open.spotify.com/track/1Rbrm7ozBLd32dTyhikJhu"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Un Beso",
-        "url": "https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        }
-      ],
-      "duration_ms": 225029,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Bionic Boy",
-        "url": "https://open.spotify.com/album/4up90bXZVvpCwtYljSiI16"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 206265,
-      "name": "Bionic Boy",
-      "url": "https://open.spotify.com/track/0CtMpuQoedYSaVBVni2rtE"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "The Attention Deficit Track",
         "url": "https://open.spotify.com/album/45KWFCVez0XRbv74zCYSTc"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 228420,
       "name": "The Attention Deficit Track - Edit",
       "url": "https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Bionic Boy",
+        "url": "https://open.spotify.com/album/4up90bXZVvpCwtYljSiI16"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 206265,
+      "name": "Bionic Boy",
+      "url": "https://open.spotify.com/track/0CtMpuQoedYSaVBVni2rtE"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11"
-      },
-      "artists": [
-        {
-          "name": "Viot",
-          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
-        }
-      ],
-      "duration_ms": 162914,
-      "name": "So Far So Good",
-      "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "I Am Somebody",
         "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 417145,
       "name": "I Am Somebody",
       "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        }
+      ],
+      "duration_ms": 162914,
+      "name": "So Far So Good",
+      "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "No Turning Back",
-        "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
-      },
-      "artists": [
-        {
-          "name": "MANT",
-          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
-        }
-      ],
-      "duration_ms": 190449,
-      "name": "No Turning Back",
-      "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Get On The Floor EP",
         "url": "https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 388800,
       "name": "Get On The Floor",
       "url": "https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
+      },
+      "artists": [
+        {
+          "name": "MANT",
+          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
+        }
+      ],
+      "duration_ms": 190449,
+      "name": "No Turning Back",
+      "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/5R8jLYuFWZuBkwSfRIBQmw"
-      },
-      "artists": [
-        {
-          "name": "X-COAST",
-          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
-        }
-      ],
-      "duration_ms": 271886,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/3ENcnIB39ek39fUNaXX7ns"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "What's Your Name",
         "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 444444,
       "name": "What's Your Name",
       "url": "https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/5R8jLYuFWZuBkwSfRIBQmw"
+      },
+      "artists": [
+        {
+          "name": "X-COAST",
+          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
+        }
+      ],
+      "duration_ms": 271886,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/3ENcnIB39ek39fUNaXX7ns"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1715,6 +1715,30 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Targa (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo"
+      },
+      "artists": [
+        {
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+        },
+        {
+          "name": "Ian Isiah",
+          "url": "https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 215642,
+      "name": "Targa - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa"
       },
@@ -1743,30 +1767,6 @@
       "duration_ms": 344000,
       "name": "Picante",
       "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Targa (Logic1000 Remix)",
-        "url": "https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo"
-      },
-      "artists": [
-        {
-          "name": "Niia",
-          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
-        },
-        {
-          "name": "Ian Isiah",
-          "url": "https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI"
-        },
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 215642,
-      "name": "Targa - Logic1000 Remix",
-      "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"
     },
     {
       "added_at": "2024-03-29 04:01:00",

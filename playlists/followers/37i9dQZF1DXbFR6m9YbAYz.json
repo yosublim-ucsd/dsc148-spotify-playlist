@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 72551,
+  "2024-04-04": 72629,
   "date_first_scraped": "2022-08-13",
   "description": "Country tracks to pump up your gaming.",
   "name": "Country Gaming",
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 214405,
       "name": "Flower Shops (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
@@ -1791,7 +1791,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 200593,
       "name": "The Git Up",
       "url": "https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm"

@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 133322,
       "name": "Dicey Baba",
       "url": "https://open.spotify.com/track/647AHuHXU7jtjJyiaIrc3w"
@@ -3470,7 +3470,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 189027,
       "name": "Hot Topic",
       "url": "https://open.spotify.com/track/3MpNAvXaU9awyBXnVTJi5O"
@@ -4288,7 +4288,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 177915,
       "name": "Kpe Paso",
       "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
@@ -5558,7 +5558,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 112667,
       "name": "One Chance",
       "url": "https://open.spotify.com/track/6ve8S2fWHzzceBn0N3OwwH"
@@ -6190,6 +6190,36 @@
       "duration_ms": 152727,
       "name": "S3k3",
       "url": "https://open.spotify.com/track/29FGO8Iej8cr7R6WdoPDG7"
+    },
+    {
+      "album": {
+        "name": "Saba Julukisa (feat. Mfana Kah Gogo & Spux)",
+        "url": "https://open.spotify.com/album/7n1TxSwhsdR6p10jptrKhL"
+      },
+      "artists": [
+        {
+          "name": "Dj Karri",
+          "url": "https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1"
+        },
+        {
+          "name": "Deep Saints",
+          "url": "https://open.spotify.com/artist/0lXcTk3qlOxdzoj2cGoseW"
+        },
+        {
+          "name": "Mfana Kah Gogo",
+          "url": "https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1"
+        },
+        {
+          "name": "Spux",
+          "url": "https://open.spotify.com/artist/0ZxrcCOIeckPgTMHT8feXG"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366573,
+      "name": "Saba Julukisa (feat. Mfana Kah Gogo & Spux)",
+      "url": "https://open.spotify.com/track/2jQx6kd1QLapry5vwk7Zb7"
     },
     {
       "album": {
@@ -7088,7 +7118,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 196471,
       "name": "The One (Chop Life)",
       "url": "https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q"

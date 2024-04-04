@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296521,
+  "num_followers": 296526,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzQwNDc1MGU3ZTRkMzc0NTQ0MGFkOTZiMGEzYzk1OTFiY2Y2MDIy",
+  "snapshot_id": "MCw1NGFlMDY4NTc4ZmM1MDFiMWExYmY0YzgxNGY4MThhYTNlMTVlYzI2",
   "tracks": [
     {
       "added_at": "2024-03-06 16:30:36",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Why Worry",
-      "url": "https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Simulation Theory (Super Deluxe)",
         "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 235600,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Why Worry",
+      "url": "https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Get Rollin'",
-        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 234848,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 198849,
       "name": "Will Of The People",
       "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "Get Rollin'",
+        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 234848,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
+        "name": "Cavalier Youth (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0Jc8iit7R0U4lHflud7pdA"
       },
       "artists": [
         {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
         }
       ],
-      "duration_ms": 202493,
-      "name": "\"45\"",
-      "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
+      "duration_ms": 239050,
+      "name": "Room to Breathe",
+      "url": "https://open.spotify.com/track/0wsxTNqJPuw4DaR9vLKif1"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Cavalier Youth (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0Jc8iit7R0U4lHflud7pdA"
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
       },
       "artists": [
         {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
         }
       ],
-      "duration_ms": 239050,
-      "name": "Room to Breathe",
-      "url": "https://open.spotify.com/track/0wsxTNqJPuw4DaR9vLKif1"
+      "duration_ms": 202493,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "curious/furious",
-        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 184905,
-      "name": "curious/furious",
-      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "The American Dream",
         "url": "https://open.spotify.com/album/3tAukYNlSSBALc9RiMCwmI"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 191626,
       "name": "You Can Count On Me",
       "url": "https://open.spotify.com/track/6AO1BottKVTrfm0SDRvwsY"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "curious/furious",
+        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 184905,
+      "name": "curious/furious",
+      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
     },
     {
       "added_at": "2024-03-06 16:30:36",

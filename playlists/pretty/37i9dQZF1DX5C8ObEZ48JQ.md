@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA?si=AQ0HJi\-XQFi92sXnksyuZQ">Taves</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,077 likes - 61 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,100 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 35 | [Why](https://open.spotify.com/track/1zpXHc5Re0JE3BEYnXeeXW) | [Asomacy](https://open.spotify.com/artist/6qqOGbYKXBzVUf1tbK3zRX) | [Why](https://open.spotify.com/album/4uwoMHbb4RaDxWwxOg1IWq) | 2:17 |
 | 36 | [Your Body](https://open.spotify.com/track/5L5ThSgm3GgmySejY90AGf) | [Daboy Kenzi](https://open.spotify.com/artist/77HPdxhFodvllNDHT3JBmf) | [Your Body](https://open.spotify.com/album/2raMBlYLKnrFXLrCcm90P0) | 2:53 |
 | 37 | [Know](https://open.spotify.com/track/2c9dcjP15etxA83s5PkMdn) | [Nelsane](https://open.spotify.com/artist/1tCLSQV2yTnQe9pXMqgU8H) | [Know](https://open.spotify.com/album/2g8AFiRnGHdabgm78uvmj5) | 3:04 |
-| 38 | [Vitamin D](https://open.spotify.com/track/65aPujtCATKAH8IgGQPt4t) | [3rty](https://open.spotify.com/artist/1tf6tPWbSTGpFgNo9IAP8U) | [Vitamin D](https://open.spotify.com/album/0oiSNg8MdYofwQrLSdQDUf) | 3:07 |
+| 38 | [Vitamin D](https://open.spotify.com/track/38wwH8rLOM07KQ2iYscUiY) | [3rty](https://open.spotify.com/artist/1tf6tPWbSTGpFgNo9IAP8U), [WeTalkSound](https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w) | [Vitamin D / Dey Play](https://open.spotify.com/album/5ZR8Ae56tRPjiEB2fOGt4h) | 3:07 |
 | 39 | [Pandora](https://open.spotify.com/track/3rhO9ZLssnQS3BJMYE7cA6) | [Joe C](https://open.spotify.com/artist/20QRbyJxYbLD00PbrrMG6O) | [Wierdo](https://open.spotify.com/album/11AlbCsKNoqdpYJag9IUsn) | 2:36 |
 | 40 | [Where The Angels Are](https://open.spotify.com/track/6ySWhreO9o23bsflA81nqx) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y) | [Road To Nirvana](https://open.spotify.com/album/5BHWoiwBKnvOXyBCYingCi) | 2:07 |
 | 41 | [Casanova](https://open.spotify.com/track/4ZvDUUJcpywNxrEetDl3vT) | [BRUME](https://open.spotify.com/artist/0mF9O2cuTxRrGsutiPlcP1) | [ROCKSTAR EP](https://open.spotify.com/album/3ZZNbRPy6alzU2zC05BXlb) | 2:44 |
@@ -59,15 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [SONTO](https://open.spotify.com/track/4BSBfuzVm4G0j9mnslMFgV) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX) | [SONTO](https://open.spotify.com/album/2xNiOmXrK7ntorywRn8OE7) | 3:05 |
 | 50 | [Jalimane](https://open.spotify.com/track/6WdTGFsM5cDeIlau9LT7ui) | [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW) | [Jalimane](https://open.spotify.com/album/4KVI1XoSAFSTJxriWHovxm) | 2:29 |
 | 51 | [MORE](https://open.spotify.com/track/56Oe9EY7yofIzej5nin0qa) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq), [Maloon TheBoom](https://open.spotify.com/artist/66xnl7wTIoeKdJV2YblQp4) | [MORE](https://open.spotify.com/album/2OUisYCs0NRCPFbbPCI7qX) | 2:20 |
-| 52 | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 |
-| 53 | [Change](https://open.spotify.com/track/4mvefNiBR6SsC8FCEigGOn) | [MDA Kaliboy](https://open.spotify.com/artist/3R9m39cbAZXQnO18Su5v1b) | [Change](https://open.spotify.com/album/0upjXAN3vFC8VwuoXS8Jmh) | 2:46 |
-| 54 | [Maobane](https://open.spotify.com/track/6uJA7rmqvP0PpYYVtpu7jx) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid), [Rochelle](https://open.spotify.com/artist/55RKbZHb1yAXuvEHTIyaxJ) | [Maobane](https://open.spotify.com/album/05urIcXpSOPIOEIbPi60MV) | 2:55 |
-| 55 | [Whatchu Say ?](https://open.spotify.com/track/38Myszu0cRqEwZbzUWE80J) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [Whatchu Say ?](https://open.spotify.com/album/4emUcj6mqDLRpNUMLVTpfY) | 2:38 |
-| 56 | [Clear](https://open.spotify.com/track/4r9DKPP3egZ5LSSMknYrzc) | [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3) | [Clear](https://open.spotify.com/album/0aznaBi7uhInSSagaQu9dF) | 2:42 |
-| 57 | [No Options Freestyle](https://open.spotify.com/track/2L9kqSwA7q99qPFOHpnRA3) | [Shooterkhumz](https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz), [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy) | [A Good Day In January](https://open.spotify.com/album/6cSp9n4YNfEjQqI16BY0JC) | 2:15 |
-| 58 | [OFFICE DAZE](https://open.spotify.com/track/3e6giYVQntaDOrHKsWk2iS) | [ByLwansta](https://open.spotify.com/artist/08XiXTlJPbnyNFZBygX58N) | [OFFICE DAZE](https://open.spotify.com/album/2z94zHSkwAVLzCPjWEtqUl) | 3:39 |
-| 59 | [Every day](https://open.spotify.com/track/7HywDyyDdavWKQr8GoJi7m) | [Namakau Star](https://open.spotify.com/artist/5PJjfwzboKU6Q8mapvR1oc) | [Every day](https://open.spotify.com/album/0zyh418J1qN9cQ6ZOpY62k) | 2:48 |
-| 60 | [No Lymyt](https://open.spotify.com/track/6iyVmsDyy81510Hs9LP6b1) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [No Lymyt](https://open.spotify.com/album/0vXzKg4qs3SQ9fsHIyOIIH) | 4:06 |
-| 61 | [P \(x\) J](https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [P \(x\) J](https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt) | 4:32 |
+| 52 | [Change](https://open.spotify.com/track/4mvefNiBR6SsC8FCEigGOn) | [MDA Kaliboy](https://open.spotify.com/artist/3R9m39cbAZXQnO18Su5v1b) | [Change](https://open.spotify.com/album/0upjXAN3vFC8VwuoXS8Jmh) | 2:46 |
+| 53 | [Maobane](https://open.spotify.com/track/6uJA7rmqvP0PpYYVtpu7jx) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid), [Rochelle](https://open.spotify.com/artist/55RKbZHb1yAXuvEHTIyaxJ) | [Maobane](https://open.spotify.com/album/05urIcXpSOPIOEIbPi60MV) | 2:55 |
+| 54 | [Whatchu Say ?](https://open.spotify.com/track/38Myszu0cRqEwZbzUWE80J) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [Whatchu Say ?](https://open.spotify.com/album/4emUcj6mqDLRpNUMLVTpfY) | 2:38 |
+| 55 | [Clear](https://open.spotify.com/track/4r9DKPP3egZ5LSSMknYrzc) | [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3) | [Clear](https://open.spotify.com/album/0aznaBi7uhInSSagaQu9dF) | 2:42 |
+| 56 | [No Options Freestyle](https://open.spotify.com/track/2L9kqSwA7q99qPFOHpnRA3) | [Shooterkhumz](https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz), [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy) | [A Good Day In January](https://open.spotify.com/album/6cSp9n4YNfEjQqI16BY0JC) | 2:15 |
+| 57 | [OFFICE DAZE](https://open.spotify.com/track/3e6giYVQntaDOrHKsWk2iS) | [ByLwansta](https://open.spotify.com/artist/08XiXTlJPbnyNFZBygX58N) | [OFFICE DAZE](https://open.spotify.com/album/2z94zHSkwAVLzCPjWEtqUl) | 3:39 |
+| 58 | [Every day](https://open.spotify.com/track/7HywDyyDdavWKQr8GoJi7m) | [Namakau Star](https://open.spotify.com/artist/5PJjfwzboKU6Q8mapvR1oc) | [Every day](https://open.spotify.com/album/0zyh418J1qN9cQ6ZOpY62k) | 2:48 |
+| 59 | [No Lymyt](https://open.spotify.com/track/6iyVmsDyy81510Hs9LP6b1) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [No Lymyt](https://open.spotify.com/album/0vXzKg4qs3SQ9fsHIyOIIH) | 4:06 |
+| 60 | [P \(x\) J](https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [P \(x\) J](https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt) | 4:32 |
 
-Snapshot ID: `MCxjYzllOGNmYzE0NWU3N2ZkZjRkYzM4NDk3MDExYTQ2ODczNjRiZjkx`
+Snapshot ID: `MCxhOTBlOGU0NWYxMDBjYzk0OWI1ZTJhY2ZiMzU4YzE4NjMxNGU0MzAw`

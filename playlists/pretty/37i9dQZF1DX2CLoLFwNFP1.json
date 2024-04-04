@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 35726,
+  "num_followers": 35760,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2YwZjkyNjllZWMzYjBlYmFjZDA2Mzc0ZDc4MjFmYTcyMjA2ZDYz",
+  "snapshot_id": "MCw3ZDZkNTRhMzIyMzQ1Zjg5NmYzOWIwZjNjNzQwMGVjMzQ0NzA4MTQz",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -591,22 +591,18 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/6CcrXh8NHk5agJtbGt0tYR"
+        "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
+        "url": "https://open.spotify.com/album/0IXensrKIZ7dxjoUgx57xb"
       },
       "artists": [
         {
-          "name": "Wolftyla",
-          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "SGBOYZ",
+          "url": "https://open.spotify.com/artist/5PDw41tArOne60p7F4vTtU"
         }
       ],
-      "duration_ms": 191141,
-      "name": "Butterflies (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/2I7OULYLv1IVo3Q4KOt88D"
+      "duration_ms": 256437,
+      "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
+      "url": "https://open.spotify.com/track/00qTDk2XFKM5zgU8cIXotL"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -643,18 +639,22 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
-        "url": "https://open.spotify.com/album/0IXensrKIZ7dxjoUgx57xb"
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/6CcrXh8NHk5agJtbGt0tYR"
       },
       "artists": [
         {
-          "name": "SGBOYZ",
-          "url": "https://open.spotify.com/artist/5PDw41tArOne60p7F4vTtU"
+          "name": "Wolftyla",
+          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 256437,
-      "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
-      "url": "https://open.spotify.com/track/00qTDk2XFKM5zgU8cIXotL"
+      "duration_ms": 191141,
+      "name": "Butterflies (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/2I7OULYLv1IVo3Q4KOt88D"
     },
     {
       "added_at": "2023-11-27 14:05:19",

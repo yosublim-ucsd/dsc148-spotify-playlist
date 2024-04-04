@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa.",
-  "num_followers": 574948,
+  "num_followers": 575044,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGU1MDg5ZDk4OTZkM2Q2OWZjOWMzYTkxN2YwMDhmYzYwZjRmMjQz",
+  "snapshot_id": "MCw4NTZkYzZlYTlkNzdhMTRkMjY5OWNhMTIxOWFiZTMyMDI4NjJmNDgx",
   "tracks": [
     {
       "added_at": "2024-03-28 23:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Sashimi",
-        "url": "https://open.spotify.com/album/3aMv764u9avffhqOQucBYR"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 230183,
-      "name": "Sashimi",
-      "url": "https://open.spotify.com/track/4H5G0DJ9cVVupUlAWOfFKP"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "El Mar No Cesa- Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 241280,
       "name": "Mar adentro",
       "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Sashimi",
+        "url": "https://open.spotify.com/album/3aMv764u9avffhqOQucBYR"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 230183,
+      "name": "Sashimi",
+      "url": "https://open.spotify.com/track/4H5G0DJ9cVVupUlAWOfFKP"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Estop\u00eda",
+        "url": "https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 243769,
+      "name": "Luz de las Velas",
+      "url": "https://open.spotify.com/track/2tg9I46DCFUQLaihBCYUdF"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Ahora o nunca",
         "url": "https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 189600,
       "name": "Y volar (con los Caligaris)",
       "url": "https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Estop\u00eda",
-        "url": "https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 243769,
-      "name": "Luz de las Velas",
-      "url": "https://open.spotify.com/track/2tg9I46DCFUQLaihBCYUdF"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Heroes De Los 80",
-        "url": "https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd"
+        "name": "La Rosa De Los Vientos",
+        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
       },
       "artists": [
         {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+          "name": "La Frontera",
+          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
         }
       ],
-      "duration_ms": 293533,
-      "name": "El ritmo del garaje",
-      "url": "https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1"
+      "duration_ms": 275026,
+      "name": "El Limite",
+      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "La Rosa De Los Vientos",
-        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
+        "name": "Heroes De Los 80",
+        "url": "https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd"
       },
       "artists": [
         {
-          "name": "La Frontera",
-          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
         }
       ],
-      "duration_ms": 275026,
-      "name": "El Limite",
-      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
+      "duration_ms": 293533,
+      "name": "El ritmo del garaje",
+      "url": "https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Rock & Roll Star - 30 a\u00f1os",
+        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
+      },
+      "artists": [
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Cadillac solitario",
+      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Ese d\u00eda piensa en m\u00ed",
         "url": "https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 297106,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Rock & Roll Star - 30 a\u00f1os",
-        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
-      },
-      "artists": [
-        {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Cadillac solitario",
-      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Nos Vemos En Los Bares",
-        "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
-      },
-      "artists": [
-        {
-          "name": "Celtas Cortos",
-          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "20 de abril - En directo 1997",
-      "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Correos",
         "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 236413,
       "name": "Cigarrito",
       "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Nos Vemos En Los Bares",
+        "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
+      },
+      "artists": [
+        {
+          "name": "Celtas Cortos",
+          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "20 de abril - En directo 1997",
+      "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Bailar\u00e9 sobre tu tumba",
+        "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
+      },
+      "artists": [
+        {
+          "name": "Siniestro Total",
+          "url": "https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Bailar\u00e9 sobre tu tumba",
+      "url": "https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Estoy aqu\u00ed (feat. La Pegatina)",
         "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 176747,
       "name": "Estoy aqu\u00ed (feat. La Pegatina)",
       "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Bailar\u00e9 sobre tu tumba",
-        "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
-      },
-      "artists": [
-        {
-          "name": "Siniestro Total",
-          "url": "https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Bailar\u00e9 sobre tu tumba",
-      "url": "https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw"
     },
     {
       "added_at": "2024-03-28 23:00:00",

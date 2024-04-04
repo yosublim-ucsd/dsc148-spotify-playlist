@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: Laufey.",
-  "num_followers": 285192,
+  "num_followers": 285190,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTY5NjkxNTJjYWYwODMxYzdmYzZhYWMxZGIzYmUwYzc2YjMxYjYz",
+  "snapshot_id": "MCw5MDA1ZWZhYzM2MWM2MzliYWYzNWQwZDEzODhlMGIxYzMzODM2Yjk2",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -675,18 +675,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "apart of me",
-        "url": "https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2"
+        "name": "Khutti",
+        "url": "https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z"
       },
       "artists": [
         {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 76285,
-      "name": "apart of me",
-      "url": "https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ"
+      "duration_ms": 132771,
+      "name": "Khutti",
+      "url": "https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -727,22 +731,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Khutti",
-        "url": "https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z"
+        "name": "apart of me",
+        "url": "https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2"
       },
       "artists": [
         {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "Takayoshi",
+          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
         }
       ],
-      "duration_ms": 132771,
-      "name": "Khutti",
-      "url": "https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj"
+      "duration_ms": 76285,
+      "name": "apart of me",
+      "url": "https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "the space between us",
         "url": "https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 253325,
       "name": "the space between us",
       "url": "https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "to love in the 21st century: the epilogue",
-        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "july",
-      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "close with desires (feat. thuy)",
         "url": "https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 205750,
       "name": "close with desires (feat. thuy)",
       "url": "https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "to love in the 21st century: the epilogue",
+        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "july",
+      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "east side",
-        "url": "https://open.spotify.com/album/0TqA7jHzMVftg6xeMa9ZZj"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 165578,
-      "name": "east side",
-      "url": "https://open.spotify.com/track/2AqZLF7yk7Jf17Be1i6jcO"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/2lHJ0k2PbqwVJXy6dRyakY"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 201480,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3RnSyeEzR2AU7ZQN2poS6Z"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "east side",
+        "url": "https://open.spotify.com/album/0TqA7jHzMVftg6xeMa9ZZj"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 165578,
+      "name": "east side",
+      "url": "https://open.spotify.com/track/2AqZLF7yk7Jf17Be1i6jcO"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "maybe",
-        "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 221490,
-      "name": "maybe",
-      "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "If I Say I Love You",
         "url": "https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 230704,
       "name": "If I Say I Love You",
       "url": "https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 221490,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Cold Rain",
-        "url": "https://open.spotify.com/album/1OTzEYnHyxSdrFeDmHuUQf"
-      },
-      "artists": [
-        {
-          "name": "Raine Cloud",
-          "url": "https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Cold Rain",
-      "url": "https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "What (I Wish) He Said",
         "url": "https://open.spotify.com/album/3EXsqaNPtQNCdBoXczLKpl"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 161400,
       "name": "What (I Wish) He Said",
       "url": "https://open.spotify.com/track/4guvT3MyI2ydXSxpW5dxNM"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Cold Rain",
+        "url": "https://open.spotify.com/album/1OTzEYnHyxSdrFeDmHuUQf"
+      },
+      "artists": [
+        {
+          "name": "Raine Cloud",
+          "url": "https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Cold Rain",
+      "url": "https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1583,22 +1583,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Think Twice",
-        "url": "https://open.spotify.com/album/4xTdNoSXzygD6vzyHw5Tlu"
+        "name": "Summer went and came around",
+        "url": "https://open.spotify.com/album/0PLmsTuFzMLdP2bnUygGhl"
       },
       "artists": [
         {
-          "name": "A.G.O",
-          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
-        },
-        {
-          "name": "Yoshi T.",
-          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
+          "name": "Kaz Moon",
+          "url": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
         }
       ],
-      "duration_ms": 192700,
-      "name": "Think Twice",
-      "url": "https://open.spotify.com/track/287GfoUeiVLiSN2ehJ740d"
+      "duration_ms": 168000,
+      "name": "Summer went and came around",
+      "url": "https://open.spotify.com/track/1j0KXEo3vffAUQEnF7EcPG"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1623,18 +1619,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Summer went and came around",
-        "url": "https://open.spotify.com/album/0PLmsTuFzMLdP2bnUygGhl"
+        "name": "Think Twice",
+        "url": "https://open.spotify.com/album/4xTdNoSXzygD6vzyHw5Tlu"
       },
       "artists": [
         {
-          "name": "Kaz Moon",
-          "url": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        },
+        {
+          "name": "Yoshi T.",
+          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Summer went and came around",
-      "url": "https://open.spotify.com/track/1j0KXEo3vffAUQEnF7EcPG"
+      "duration_ms": 192700,
+      "name": "Think Twice",
+      "url": "https://open.spotify.com/track/287GfoUeiVLiSN2ehJ740d"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Cellulite",
-        "url": "https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 190398,
-      "name": "Cellulite",
-      "url": "https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "The Great Escape Of Our Time",
         "url": "https://open.spotify.com/album/74K79LQUF1axz9ZXbBTojZ"
       },
@@ -1935,6 +1919,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Cellulite",
+        "url": "https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 190398,
+      "name": "Cellulite",
+      "url": "https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "2.0",
         "url": "https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2"
       },
@@ -1947,22 +1947,6 @@
       "duration_ms": 166941,
       "name": "2.0",
       "url": "https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "scenic route",
-        "url": "https://open.spotify.com/album/05HfFNIDwT3mknFofyORNE"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 180592,
-      "name": "scenic route",
-      "url": "https://open.spotify.com/track/34LhJDEt54G9Ba8P5hsgOm"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1983,6 +1967,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "scenic route",
+        "url": "https://open.spotify.com/album/05HfFNIDwT3mknFofyORNE"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 180592,
+      "name": "scenic route",
+      "url": "https://open.spotify.com/track/34LhJDEt54G9Ba8P5hsgOm"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Don't Know About The World",
         "url": "https://open.spotify.com/album/5GrDrzY4yWfB2YwyZqx2gP"
       },
@@ -1995,6 +1995,26 @@
       "duration_ms": 143696,
       "name": "Don't Know About The World",
       "url": "https://open.spotify.com/track/76M8uxD1WvL0H4h2Jv8Fm5"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/4bZ6u5RDYajHIfSenUNdwe"
+      },
+      "artists": [
+        {
+          "name": "Chanpan",
+          "url": "https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh"
+        },
+        {
+          "name": "Ladji Mouflet",
+          "url": "https://open.spotify.com/artist/2NNTIDSDRlsf4lzYW9fpKm"
+        }
+      ],
+      "duration_ms": 165942,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/2awBXPPzbOhux8MwSLozg9"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2027,42 +2047,6 @@
       "duration_ms": 133888,
       "name": "Kulture Klub",
       "url": "https://open.spotify.com/track/5JB470bDe4AvruKK2J3Pkv"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/4bZ6u5RDYajHIfSenUNdwe"
-      },
-      "artists": [
-        {
-          "name": "Chanpan",
-          "url": "https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh"
-        },
-        {
-          "name": "Ladji Mouflet",
-          "url": "https://open.spotify.com/artist/2NNTIDSDRlsf4lzYW9fpKm"
-        }
-      ],
-      "duration_ms": 165942,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/2awBXPPzbOhux8MwSLozg9"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "the roaring twenties",
-        "url": "https://open.spotify.com/album/61royB3qzaFhXLp8e0gCtY"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 227927,
-      "name": "the american dream",
-      "url": "https://open.spotify.com/track/6m8SllgidQW1MIn6x8DFEb"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2119,18 +2103,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "PRIMAL",
-        "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
+        "name": "the roaring twenties",
+        "url": "https://open.spotify.com/album/61royB3qzaFhXLp8e0gCtY"
       },
       "artists": [
         {
-          "name": "Chloe Tang",
-          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
         }
       ],
-      "duration_ms": 160357,
-      "name": "PRIMAL",
-      "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
+      "duration_ms": 227927,
+      "name": "the american dream",
+      "url": "https://open.spotify.com/track/6m8SllgidQW1MIn6x8DFEb"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2147,6 +2131,22 @@
       "duration_ms": 183098,
       "name": "I Like U Looking At Me",
       "url": "https://open.spotify.com/track/1hLAuD1gxuAkUSXgeo4mRd"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "PRIMAL",
+        "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
+      },
+      "artists": [
+        {
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+        }
+      ],
+      "duration_ms": 160357,
+      "name": "PRIMAL",
+      "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "the roaring twenties",
-        "url": "https://open.spotify.com/album/61royB3qzaFhXLp8e0gCtY"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 169222,
-      "name": "deadline",
-      "url": "https://open.spotify.com/track/21piSaSVcmB8Q5juvINegj"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Birdwatcher",
         "url": "https://open.spotify.com/album/5jdRIHmKzjrDjvfK6Zf9rZ"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 154553,
       "name": "HSB",
       "url": "https://open.spotify.com/track/1YDfM80A8RdwnaEVvCKdzA"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "the roaring twenties",
+        "url": "https://open.spotify.com/album/61royB3qzaFhXLp8e0gCtY"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 169222,
+      "name": "deadline",
+      "url": "https://open.spotify.com/track/21piSaSVcmB8Q5juvINegj"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2303,6 +2303,22 @@
       "duration_ms": 201102,
       "name": "Laced",
       "url": "https://open.spotify.com/track/7i0aLiaOPGf4KamTr69Dh2"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "moviestar",
+        "url": "https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW"
+      },
+      "artists": [
+        {
+          "name": "asumuh",
+          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
+        }
+      ],
+      "duration_ms": 138714,
+      "name": "moviestar",
+      "url": "https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2387,18 +2403,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "moviestar",
-        "url": "https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW"
+        "name": "Sunset Sensory",
+        "url": "https://open.spotify.com/album/7zIX5owJgjY8yHOWewF0jG"
       },
       "artists": [
         {
-          "name": "asumuh",
-          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
+          "name": "Mai Davika",
+          "url": "https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G"
         }
       ],
-      "duration_ms": 138714,
-      "name": "moviestar",
-      "url": "https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc"
+      "duration_ms": 171285,
+      "name": "Sunset Sensory",
+      "url": "https://open.spotify.com/track/0ECsJAG3NChMyj84hKupSq"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2415,22 +2431,6 @@
       "duration_ms": 203333,
       "name": "Tragic Love",
       "url": "https://open.spotify.com/track/1UBwp5S204qFsVS0enwAEo"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Sunset Sensory",
-        "url": "https://open.spotify.com/album/7zIX5owJgjY8yHOWewF0jG"
-      },
-      "artists": [
-        {
-          "name": "Mai Davika",
-          "url": "https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G"
-        }
-      ],
-      "duration_ms": 171285,
-      "name": "Sunset Sensory",
-      "url": "https://open.spotify.com/track/0ECsJAG3NChMyj84hKupSq"
     },
     {
       "added_at": "2024-03-29 04:00:00",

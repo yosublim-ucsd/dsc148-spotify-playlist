@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Zerb x The Chainsmokers x Ink
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,252 likes - 87 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,260 likes - 87 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 6 | [Monster](https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster](https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz) | 2:24 |
 | 7 | [Empty](https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Empty](https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ) | 3:18 |
 | 8 | [Biochemical](https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [Biochemical](https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS) | 2:43 |
-| 9 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
+| 9 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 |
 | 10 | [16](https://open.spotify.com/track/1DaiV2h1XWvqpyxJ25Q6Cs) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [16](https://open.spotify.com/album/6gmvmAQvthM3tyXqOaOyFX) | 3:41 |
 | 11 | [Lovers In A Past Life \(with Rag'n'Bone Man\) \- Westend Remix](https://open.spotify.com/track/1mEsNYnNvLyG7enKUZ6l83) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Lovers In A Past Life \(Westend Remix\)](https://open.spotify.com/album/4iIX8tATPedKUMG0dmsKMJ) | 3:25 |
 | 12 | [PARALYZED \- TC/TC](https://open.spotify.com/track/0MD5dh34wT3D599gkS2VLR) | [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [PARALYZED \(TC/TC\)](https://open.spotify.com/album/350xyy5gGPc8ibqkgMOsMr) | 4:56 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 86 | [Bodybag \(feat\. Clubhouse\)](https://open.spotify.com/track/7GgzfCuZ0ASs8ptevKYTTj) | [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Look In The Mirror](https://open.spotify.com/album/5BTJf64AvqwYgOAcukNR9O) | 3:31 |
 | 87 | [FOREVER \- Kareem Ali Remix](https://open.spotify.com/track/12OsQucIX8hPcUOYeVGQsU) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx), [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [FOREVER \(Kareem Ali Remix\)](https://open.spotify.com/album/4ynBirhddBTm6AxefL8SNL) | 3:32 |
 
-Snapshot ID: `MCxmNGVjYjdmNjY3ZTI2YjU0ZjFlZDdlYzJlMjIxMDBiODk4NjUxMWNh`
+Snapshot ID: `MCw1OGE1MGM1NTExNjhjNDViNjg1NmQwZWQ5MjBjOGMxZTBkMGQxODQ5`

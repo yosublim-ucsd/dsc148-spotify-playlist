@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 237776,
+  "num_followers": 237841,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2Y0MTM3ZTg0YzhjYjJjNGM5Njk4MGIxNjQwNjQ5Y2U0Mzk5ZWNk",
+  "snapshot_id": "MCw0MWVjNWU2MTBiZmVkYTU1MDA0YmRkY2JkYjU5OTQ3OTdlY2M2NWRk",
   "tracks": [
     {
       "added_at": "2023-04-27 23:54:49",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Medicina De Amor",
-        "url": "https://open.spotify.com/album/5NgeAujhCfKL1jcTAU6qKx"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 360751,
-      "name": "Medicina De Amor",
-      "url": "https://open.spotify.com/track/5hwbK5XM8AqY8DEQRJgjOZ"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "...A Pasito Lento!",
         "url": "https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 272400,
       "name": "Quiz\u00e1s Si, Quiz\u00e1s No",
       "url": "https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Medicina De Amor",
+        "url": "https://open.spotify.com/album/5NgeAujhCfKL1jcTAU6qKx"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 360751,
+      "name": "Medicina De Amor",
+      "url": "https://open.spotify.com/track/5hwbK5XM8AqY8DEQRJgjOZ"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Alma Perdida",
-        "url": "https://open.spotify.com/album/7Jll0qQUYAVBvUUFk5Xeyu"
-      },
-      "artists": [
-        {
-          "name": "El Varon de la bachata",
-          "url": "https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV"
-        }
-      ],
-      "duration_ms": 248600,
-      "name": "No Es Brujeria",
-      "url": "https://open.spotify.com/track/4b1ULLyRgU6FZhb9yQ7E1D"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Noche Primavera",
         "url": "https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 199277,
       "name": "Noche Primavera",
       "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Alma Perdida",
+        "url": "https://open.spotify.com/album/7Jll0qQUYAVBvUUFk5Xeyu"
+      },
+      "artists": [
+        {
+          "name": "El Varon de la bachata",
+          "url": "https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV"
+        }
+      ],
+      "duration_ms": 248600,
+      "name": "No Es Brujeria",
+      "url": "https://open.spotify.com/track/4b1ULLyRgU6FZhb9yQ7E1D"
     },
     {
       "added_at": "2023-04-27 23:54:49",

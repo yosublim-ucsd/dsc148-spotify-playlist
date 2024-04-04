@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 18434,
+  "num_followers": 18450,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjAyNzk5ODhkN2MwNzhiMDQwNjE3NjVlMmRhZjkwN2JlZjAwNTVi",
+  "snapshot_id": "MCxlODg2MWUyNzQ0ZDAzNjE3ODhmODZmNjAwODQxNWI0ZTcwYTM0Nzk0",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -443,6 +443,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q"
+      },
+      "artists": [
+        {
+          "name": "Gaussian Curve",
+          "url": "https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G"
+        }
+      ],
+      "duration_ms": 324255,
+      "name": "Broken Clouds",
+      "url": "https://open.spotify.com/track/7q0OGG60Em2wwPNDpBFPGy"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Between No Things",
         "url": "https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj"
       },
@@ -461,20 +477,20 @@
       "url": "https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
+      "added_at": "2022-12-20 22:19:56",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q"
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
       "artists": [
         {
-          "name": "Gaussian Curve",
-          "url": "https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G"
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
         }
       ],
-      "duration_ms": 324255,
-      "name": "Broken Clouds",
-      "url": "https://open.spotify.com/track/7q0OGG60Em2wwPNDpBFPGy"
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -491,22 +507,6 @@
       "duration_ms": 295500,
       "name": "Fen",
       "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
-    },
-    {
-      "added_at": "2022-12-20 22:19:56",
-      "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -591,18 +591,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Talk from Home",
-        "url": "https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6"
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
       },
       "artists": [
         {
-          "name": "Suzanne Kraft",
-          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 249704,
-      "name": "Renee Sleeping",
-      "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
+      "duration_ms": 209040,
+      "name": "Delta Rain Dream",
+      "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -623,18 +627,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Vernal Equinox (Remastered)",
-        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+        "name": "Talk from Home",
+        "url": "https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6"
       },
       "artists": [
         {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+          "name": "Suzanne Kraft",
+          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
         }
       ],
-      "duration_ms": 229861,
-      "name": "Toucan Ocean",
-      "url": "https://open.spotify.com/track/1an4tDLE2eH2a21bBpuBh5"
+      "duration_ms": 249704,
+      "name": "Renee Sleeping",
+      "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -697,22 +701,6 @@
       "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Beautiful You",
-        "url": "https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m"
-      },
-      "artists": [
-        {
-          "name": "Khotin",
-          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
-        }
-      ],
-      "duration_ms": 370476,
-      "name": "Water Soaked In Forever",
-      "url": "https://open.spotify.com/track/2Wu0k9sazKppf4ihMI1Vfh"
-    },
-    {
       "added_at": "2022-03-30 02:52:41",
       "album": {
         "name": "Point Zero",
@@ -731,6 +719,22 @@
       "duration_ms": 191746,
       "name": "Dear Ko (To Ko the Regt)",
       "url": "https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Beautiful You",
+        "url": "https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m"
+      },
+      "artists": [
+        {
+          "name": "Khotin",
+          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+        }
+      ],
+      "duration_ms": 370476,
+      "name": "Water Soaked In Forever",
+      "url": "https://open.spotify.com/track/2Wu0k9sazKppf4ihMI1Vfh"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -771,22 +775,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Fourth World Vol 1 Possible Musics",
-        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
       },
       "artists": [
         {
           "name": "Jon Hassell",
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 209040,
-      "name": "Delta Rain Dream",
-      "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
+      "duration_ms": 229861,
+      "name": "Toucan Ocean",
+      "url": "https://open.spotify.com/track/1an4tDLE2eH2a21bBpuBh5"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -825,20 +825,20 @@
       "url": "https://open.spotify.com/track/0ImUE2UGVyi9E35qqwjlZQ"
     },
     {
-      "added_at": "2021-11-12 02:58:17",
+      "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Plant Music, Vol. 1",
-        "url": "https://open.spotify.com/album/4BrxiBiX85qOxYPbZXXl3c"
+        "name": "Sketch for Winter IX: Perlita",
+        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
       },
       "artists": [
         {
-          "name": "Modern Biology",
-          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
         }
       ],
-      "duration_ms": 231760,
-      "name": "Fairy Creek Alder in the Evening (Raag Kafi)",
-      "url": "https://open.spotify.com/track/1YwE8ioksrrIOjndQMtofC"
+      "duration_ms": 230309,
+      "name": "Two Halves Touching",
+      "url": "https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S"
     },
     {
       "added_at": "2023-06-07 02:20:45",
@@ -857,20 +857,20 @@
       "url": "https://open.spotify.com/track/0tAp8Yk3Sa6GLEaNkXRGzJ"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
+      "added_at": "2021-11-12 02:58:17",
       "album": {
-        "name": "Sketch for Winter IX: Perlita",
-        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
+        "name": "Plant Music, Vol. 1",
+        "url": "https://open.spotify.com/album/4BrxiBiX85qOxYPbZXXl3c"
       },
       "artists": [
         {
-          "name": "Carmen Villain",
-          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
         }
       ],
-      "duration_ms": 230309,
-      "name": "Two Halves Touching",
-      "url": "https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S"
+      "duration_ms": 231760,
+      "name": "Fairy Creek Alder in the Evening (Raag Kafi)",
+      "url": "https://open.spotify.com/track/1YwE8ioksrrIOjndQMtofC"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -927,22 +927,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Beyond Contact",
-        "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
-      },
-      "artists": [
-        {
-          "name": "Vivian Koch",
-          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
-        }
-      ],
-      "duration_ms": 232867,
-      "name": "Closed - Yosemite Version",
-      "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Sketch for Winter IX: Perlita",
         "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 316214,
       "name": "Agua Azul",
       "url": "https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Beyond Contact",
+        "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
+      },
+      "artists": [
+        {
+          "name": "Vivian Koch",
+          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
+        }
+      ],
+      "duration_ms": 232867,
+      "name": "Closed - Yosemite Version",
+      "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
     },
     {
       "added_at": "2021-10-20 18:30:26",

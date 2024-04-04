@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Black Spygo, C4 Pedro & Bruna Amado.
 
-357 songs - 21 hr 18 min
+358 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [O Nosso Amor](https://open.spotify.com/track/23bemRVqcUNl1ujD87upis) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [O Nosso Amor](https://open.spotify.com/album/0g47qzEGZUVkYQJzMQhIcU) | 4:46 | 2021-12-10 |  |
 | [O Que Eu Não Fiz](https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Consagração](https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V) | 3:08 | 2022-07-01 |  |
 | [O Que Podemos Ser](https://open.spotify.com/track/7oswOjkF7Q3UFxfyw0Df8t) | [Da Silva](https://open.spotify.com/artist/0VbLf7VNOS7UfPfxRGF02E) | [O Que Podemos Ser](https://open.spotify.com/album/2eUWLweyMjgAB0KQzRpOkU) | 3:04 | 2022-04-22 | 2022-06-06 |
+| [Off Para ti](https://open.spotify.com/track/7iGrNb3T8fh4CwxxLIQ10Q) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Off Para Ti](https://open.spotify.com/album/6TRkOPJCJzw7FWk8rjz1Yg) | 3:09 | 2024-03-29 |  |
 | [Only One](https://open.spotify.com/track/47VfEFD5N2nJNasEwnNaGk) | [Dynamo](https://open.spotify.com/artist/6WcIS4bP0CR0yZyuIaq387) | [Only One](https://open.spotify.com/album/3jQGpLyTwrw96I0lWeawGA) | 3:50 | 2022-03-25 | 2022-07-23 |
 | [Over Again](https://open.spotify.com/track/4nqJ8iwqwbvvuVWuas7lXQ) | [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Over Again](https://open.spotify.com/album/0Wu7EvHRSspzoQlD5d0RIS) | 3:27 | 2024-02-09 | 2024-03-08 |
 | [Pa Bo](https://open.spotify.com/track/4kG9TzsANyoGlBBBZOF3ly) | [Dji Matias](https://open.spotify.com/artist/5mOlzlTezQGdusDUogjXnP), [Friderika](https://open.spotify.com/artist/4cSSXhYXK7J0VaLgEp08SS) | [Pa Bo](https://open.spotify.com/album/4QymS0mQNSsiVyV9Ntyw3F) | 3:17 | 2022-07-22 | 2022-07-28 |
@@ -243,7 +244,7 @@
 | [Paradise](https://open.spotify.com/track/4mLhhkXotGXUrHZyNVQ4of) | [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2) | [Paradise](https://open.spotify.com/album/1zcy0WbVAHrs5AacOEvXa8) | 4:08 | 2021-12-10 | 2022-07-13 |
 | [Parar O Tempo \(feat\. Mika Mendes\)](https://open.spotify.com/track/79gXTEpKycijVMspDoi3xG) | [Ravidson](https://open.spotify.com/artist/1vvyxjq4RKNF1AzsdnR5Sk), [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Rising](https://open.spotify.com/album/7gS0bFas0II42WXoKoQTMC) | 4:17 | 2022-02-18 | 2022-05-23 |
 | [Parece Magia](https://open.spotify.com/track/18YNXtBfIAC8OuBENVZULb) | [Da Silva](https://open.spotify.com/artist/0VbLf7VNOS7UfPfxRGF02E) | [Parece Magia](https://open.spotify.com/album/4soPzDjJTGJCCm8i5gseoB) | 3:14 | 2022-05-13 | 2022-05-31 |
-| [Pele Negra](https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Pele Negra](https://open.spotify.com/album/0f21KuFAIbz8Bw7ExD1koZ) | 4:05 | 2021-12-10 |  |
+| [Pele Negra](https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Pele Negra](https://open.spotify.com/album/0f21KuFAIbz8Bw7ExD1koZ) | 4:05 | 2021-12-10 | 2024-04-04 |
 | [Pele Pele](https://open.spotify.com/track/2bSosZIgEuwI0bcYV0LsGc) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj) | [Pele Pele](https://open.spotify.com/album/78C0t64PP514Y5nsMbTkRk) | 3:08 | 2022-05-13 | 2022-05-25 |
 | [Perde Voo](https://open.spotify.com/track/0iMHeQ3WI6bHzQBkb6JpFB) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon) | [Perde Voo](https://open.spotify.com/album/2cqYflO6WXlnfzZQF9ULQj) | 3:06 | 2021-12-10 | 2022-07-15 |
 | [Perigosa \(feat\. Anselmo Ralph\)](https://open.spotify.com/track/0r2ZBAHKX36U3do2a3E0Vd) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Perigosa \(feat\. Anselmo Ralph\)](https://open.spotify.com/album/4qqYgCeX9DdyG9Seds57QX) | 3:38 | 2021-12-10 | 2023-02-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees from the 81st Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,323 likes - 33 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,329 likes - 33 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 13 | [Spider\-Man 2099 \(Miguel O'Hara\)](https://open.spotify.com/track/6iD9kcWB4h25t7OX8Xk6wT) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Spider\-Man: Across the Spider\-Verse \(Original Score\)](https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO) | 1:02 |
 | 14 | [Pure Imagination \(from "Wonka"\)](https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [Wonka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO) | 3:07 |
 | 15 | [Ask Me Why \(Mother's Message\)](https://open.spotify.com/track/104EutLydSehDHiEjmtdBo) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [The Boy and the Heron \- Original Soundtrack](https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW) | 1:48 |
-| 16 | [The Last of Us](https://open.spotify.com/track/4unEKanhrUiSOMqja8Euw5) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:07 |
-| 17 | [Succession \- Andante Risoluto](https://open.spotify.com/track/1hUiKGTTOQcYSaAxXZwUCA) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Succession: Season 4 \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/2RIG29bd8zdq0TtHHTLZdV) | 2:28 |
+| 16 | [Succession \- Andante Risoluto](https://open.spotify.com/track/1hUiKGTTOQcYSaAxXZwUCA) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Succession: Season 4 \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/2RIG29bd8zdq0TtHHTLZdV) | 2:28 |
+| 17 | [The Last of Us](https://open.spotify.com/track/4unEKanhrUiSOMqja8Euw5) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:07 |
 | 18 | [Bella](https://open.spotify.com/track/7dLWK0Gaa5zPswYx1TDWZl) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Poor Things \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3gz3XOFJ5w99GDode87xbO) | 1:43 |
 | 19 | [VARIATION AUTOUR D'UN PRÉLUDE \- Anatomie d'une chute](https://open.spotify.com/track/56aWLDEFQ8M8N5lYELOlCh) | [Benoît Daniel](https://open.spotify.com/artist/1Dx91qbEKrT1WqwsVCROCS) | [ANATOMIE D'UNE CHUTE \(Musique Originale\)](https://open.spotify.com/album/1NB0OhXSZpxJDKZJq5tw8o) | 4:32 |
 | 20 | [Frightening Fishes \- Main Title Theme from "Shrinking"](https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ) | [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL), [Tom Howe](https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6) | [Shrinking: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/1IuPUZAYcDdrcDH4kItWjq) | 2:27 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 32 | [My Pafology \- From "American Fiction" Soundtrack](https://open.spotify.com/track/0m9PfZjzAtpjE6kvNMMZQe) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [American Fiction \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pRlRr8tWybfbSKcrMPMF0) | 3:16 |
 | 33 | [I Wish This Was Real](https://open.spotify.com/track/7EuyxDSG25VWxaQg0DtOIV) | [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Dream Scenario \(Original Motion Picture Score\)](https://open.spotify.com/album/5NDIVLocg7KcHXRqMMHpR8) | 1:49 |
 
-Snapshot ID: `MCwxYjBkNmZiOWQ5YjhiMjJlNWYwZjQ3OTJhM2Q5MGU1M2I2ODI0NDYw`
+Snapshot ID: `MCwwNmRmYzMyOTY2NDQwNGRkNWQzOWFjODJlYmIzNGE2Y2Q2M2JjZDE3`

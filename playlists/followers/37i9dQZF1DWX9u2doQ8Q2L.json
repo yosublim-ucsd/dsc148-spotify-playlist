@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 387706,
+  "2024-04-04": 387727,
   "date_first_scraped": "2022-05-27",
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
   "name": "Tokyo Rising",
@@ -3560,6 +3560,24 @@
     },
     {
       "album": {
+        "name": "Cubism",
+        "url": "https://open.spotify.com/album/7kZYHnhPHOqT4T0KRaUYVx"
+      },
+      "artists": [
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193322,
+      "name": "Cubism",
+      "url": "https://open.spotify.com/track/2vQi0AbpCSO0YRSmH44Jzl"
+    },
+    {
+      "album": {
         "name": "Cult.",
         "url": "https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o"
       },
@@ -4507,7 +4525,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 157773,
       "name": "Don't go (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
@@ -5022,6 +5040,28 @@
     },
     {
       "album": {
+        "name": "EVERGREEN",
+        "url": "https://open.spotify.com/album/0tS8i5iuz4twsxquEFybh7"
+      },
+      "artists": [
+        {
+          "name": "Yojiro Noda",
+          "url": "https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY"
+        },
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228980,
+      "name": "EVERGREEN",
+      "url": "https://open.spotify.com/track/7g52m7qMFNe2FFCEB2rQuu"
+    },
+    {
+      "album": {
         "name": "Better Days (Japanese Edition)",
         "url": "https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc"
       },
@@ -5109,7 +5149,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 125887,
       "name": "Exclamation Mark",
       "url": "https://open.spotify.com/track/5OaXyd4vZLJE4pdFkerhxK"
@@ -5501,7 +5541,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 184214,
       "name": "Feel The Same",
       "url": "https://open.spotify.com/track/6yzc8hNAysupCM89UNzggh"
@@ -5581,7 +5621,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 179266,
       "name": "FINE LINE (feat. Skaai) (Prod. uin)",
       "url": "https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY"
@@ -6615,7 +6655,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 162238,
       "name": "Good Time In Disguise - ft. Chocoholic",
       "url": "https://open.spotify.com/track/2opO61VvinRaGiBGpWamGv"
@@ -7451,7 +7491,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 194323,
       "name": "Highway",
       "url": "https://open.spotify.com/track/6CxLWEMIvFEWG7XdSXlBIf"
@@ -10171,7 +10211,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 206933,
       "name": "Love no Genkei",
       "url": "https://open.spotify.com/track/2WW8KjNeaeKLCV16w4vmO7"
@@ -10349,7 +10389,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 268799,
       "name": "Luv Myself",
       "url": "https://open.spotify.com/track/4woDrq2rIKBbI6UNkzB48j"
@@ -13950,6 +13990,28 @@
     },
     {
       "album": {
+        "name": "Pretense",
+        "url": "https://open.spotify.com/album/64Ucc9nGoY5gpfh86alRVm"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267986,
+      "name": "Pretense",
+      "url": "https://open.spotify.com/track/1iGilBtLO9t5Wm6hs4I7pj"
+    },
+    {
+      "album": {
         "name": "WE'LL DIE THIS WAY",
         "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
       },
@@ -16559,7 +16621,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 168866,
       "name": "Soda (feat. kim taehoon)",
       "url": "https://open.spotify.com/track/45p6nhl7TZv8sa8XXQZHZ7"
@@ -21990,6 +22052,24 @@
     },
     {
       "album": {
+        "name": "\u96e2\u5a5a\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "\u3055\u3089\u307e\u3063\u307d",
+      "url": "https://open.spotify.com/track/4Xg1Dh1bOAHiFrsHTOtX8b"
+    },
+    {
+      "album": {
         "name": "\u3055\u3089\u307e\u3063\u307d",
         "url": "https://open.spotify.com/album/0eWUONdRJ4WYpwcoh3D3hA"
       },
@@ -23277,7 +23357,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 209388,
       "name": "\u30d0\u30c3\u30af\u30df\u30e9\u30fc",
       "url": "https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ"
@@ -23833,6 +23913,24 @@
       "duration_ms": 200840,
       "name": "\u30e9\u30d6\u3058\u3083\u3093",
       "url": "https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY"
+    },
+    {
+      "album": {
+        "name": "AVEANTIN",
+        "url": "https://open.spotify.com/album/4j3SlHJdyICnjRJpvXO206"
+      },
+      "artists": [
+        {
+          "name": "BREIMEN",
+          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237560,
+      "name": "\u30e9\u30d6\u30b3\u30e1\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/5kVFGuQG2DEj8zAHeTcjAp"
     },
     {
       "album": {
@@ -24513,7 +24611,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 245800,
       "name": "\u53f0\u8a5e",
       "url": "https://open.spotify.com/track/57hdi7FlcurVOe7OoFmxA9"

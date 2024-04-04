@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 742,137 likes - 100 songs - 4 hr 59 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 742,143 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,17 +14,17 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 4 | [Unbreakable](https://open.spotify.com/track/7ImmvnWXfjXGPecqo9eUVt) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Unbreakable](https://open.spotify.com/album/50PnhUD4Z1qTrgDLOgfcXV) | 3:16 |
 | 5 | [Alright](https://open.spotify.com/track/2pgcIWzePTTC2a99dRrTzd) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Sync](https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13), [Marky Style](https://open.spotify.com/artist/30rdwRJSoSZicHb4xOCrme) | [Alright](https://open.spotify.com/album/0UQjd1grnKWmHS6OFY1Qqh) | 3:14 |
 | 6 | [Keep You](https://open.spotify.com/track/0NHGqculuy8Aa1bEerrGtS) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Keep You](https://open.spotify.com/album/5dunVmIKUec2zaq5rJeFe5) | 2:42 |
-| 7 | [Burning Wish](https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Burning Wish](https://open.spotify.com/album/6hYHHReXvw9Gv4Tt8JiL3L) | 2:33 |
-| 8 | [Code](https://open.spotify.com/track/1hg8pF09mkmaLzVWKiyhvw) | [MANSHN](https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG) | [Code](https://open.spotify.com/album/21VWyeXDxoL9up6VuCLshi) | 2:29 |
-| 9 | [Stay](https://open.spotify.com/track/6Ms5LyTh0BZQkcQb8RIHel) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Stay](https://open.spotify.com/album/4YiGHpqVOiy6ItV3X8Qust) | 3:28 |
-| 10 | [KHARMA](https://open.spotify.com/track/2GMWUfoFmwy5KO4XZCcW3R) | [Christopher Damas](https://open.spotify.com/artist/03sZi1EjCnl0b3Irnqa9NJ) | [KHARMA](https://open.spotify.com/album/0wNUgo1LK6wv3R0Ot4imWF) | 1:38 |
+| 7 | [Karma](https://open.spotify.com/track/010b8IrP1Yvs9RvafHRylH) | [Ariadne](https://open.spotify.com/artist/5MTn6h662oQm25nnTVhpnK) | [Karma](https://open.spotify.com/album/1qoOg8XtIGRIUsbbr8rzyI) | 2:53 |
+| 8 | [Burning Wish](https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Burning Wish](https://open.spotify.com/album/6hYHHReXvw9Gv4Tt8JiL3L) | 2:33 |
+| 9 | [Code](https://open.spotify.com/track/1hg8pF09mkmaLzVWKiyhvw) | [MANSHN](https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG) | [Code](https://open.spotify.com/album/21VWyeXDxoL9up6VuCLshi) | 2:29 |
+| 10 | [Stay](https://open.spotify.com/track/6Ms5LyTh0BZQkcQb8RIHel) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Stay](https://open.spotify.com/album/4YiGHpqVOiy6ItV3X8Qust) | 3:28 |
 | 11 | [Cruising](https://open.spotify.com/track/6wbsJTgOAlKbpKvhQbQkqW) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [Cruising](https://open.spotify.com/album/4wS9vXssesDfru8gNF7aNY) | 2:40 |
 | 12 | [Round n' Round](https://open.spotify.com/track/3hWiZ3HbvygE8GSjVZklhw) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Round n' Round](https://open.spotify.com/album/5TYEdOgG9hs13w8x7tPjab) | 2:58 |
 | 13 | [AI](https://open.spotify.com/track/72URNFUYBZg3JHf6J6rD2l) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [AI](https://open.spotify.com/album/10YXQqv5CYLQqkPlCvXgLQ) | 3:09 |
 | 14 | [I'm Not Ready](https://open.spotify.com/track/5SqrXYxco02Jh8xHGFk3n4) | [Low Mileage](https://open.spotify.com/artist/0dLhJRQpTrk32TbujPeN8u) | [I'm Not Ready](https://open.spotify.com/album/69pDaNf37OtEABlIn9x8hg) | 2:16 |
 | 15 | [Fell For A Demon](https://open.spotify.com/track/3PXwHjw3Y5DuCAVUONVaSj) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [LINKER](https://open.spotify.com/artist/0THtcraqLXBsPUaZrCZIs6) | [Fell For A Demon](https://open.spotify.com/album/1KVLNWGRRiT6hc15O05rdy) | 4:03 |
 | 16 | [Stick Around You](https://open.spotify.com/track/62DSnDAEydxbgbU3OI2eMF) | [Jinxspr0](https://open.spotify.com/artist/6dGnKpumgA8WOmhmoMsGhK) | [Stick Around You](https://open.spotify.com/album/7axrnFv4TrV9USJVlllNtn) | 2:13 |
-| 17 | [Karma](https://open.spotify.com/track/010b8IrP1Yvs9RvafHRylH) | [Ariadne](https://open.spotify.com/artist/5MTn6h662oQm25nnTVhpnK) | [Karma](https://open.spotify.com/album/1qoOg8XtIGRIUsbbr8rzyI) | 2:53 |
+| 17 | [KHARMA](https://open.spotify.com/track/2GMWUfoFmwy5KO4XZCcW3R) | [Christopher Damas](https://open.spotify.com/artist/03sZi1EjCnl0b3Irnqa9NJ) | [KHARMA](https://open.spotify.com/album/0wNUgo1LK6wv3R0Ot4imWF) | 1:38 |
 | 18 | [pretty afternoon](https://open.spotify.com/track/40YPH9eSjV9VY6OGjSTpAc) | [Andrah](https://open.spotify.com/artist/4zKVc3SBL6SPBkqxeIQlkk) | [pretty afternoon](https://open.spotify.com/album/2zp91IQGRApR3FDJ6wsPC7) | 2:38 |
 | 19 | [Only The Fallen](https://open.spotify.com/track/7pZ4Ry6amHpyDyyIa79HAl) | [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Only The Fallen](https://open.spotify.com/album/5ceqUHXf2JdrWOzqaZcz2t) | 3:15 |
 | 20 | [Galactic](https://open.spotify.com/track/2XG44lK8ODf0Ziikx8pzxo) | [Natty Lou](https://open.spotify.com/artist/01iBGqeIP82ClBsWKXEW1O), [Sebotage](https://open.spotify.com/artist/6wGjRjiTXERLfPwoMY19iP) | [Galactic](https://open.spotify.com/album/7KylNpVIx4aYFZR7WNI1mx) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 99 | [Redemption](https://open.spotify.com/track/7N267HKpnzJzqToo5KcaoF) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Redemption](https://open.spotify.com/album/6M8MlEiGhdNwCrcqAUS23H) | 2:37 |
 | 100 | [Haunted House](https://open.spotify.com/track/0lRWCC1H4Ik57AoCDywzPl) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Haunted House](https://open.spotify.com/album/0kPDBpsKB8gnIePmj1pas7) | 3:01 |
 
-Snapshot ID: `NTYzMywzMjJmODZjZTBlOTgwNDZiOWFiNTBjODA3YWMwNjlhMWExNDZiYzkx`
+Snapshot ID: `NTYzNiw4OWM2NTBiMmEyYzlkNjI2NjBjZDZiM2M2ZGRmYTg1M2MxZTM3ZTYx`

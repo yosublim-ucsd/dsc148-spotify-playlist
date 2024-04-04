@@ -2011,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "minisode 3: TOMORROW",
+        "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171427,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU"
+    },
+    {
+      "album": {
         "name": "DI-DA-DI\u6697\u793a",
         "url": "https://open.spotify.com/album/1hW9QA6WJxiH8VqxSa4KTz"
       },
@@ -9002,7 +9020,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 121226,
       "name": "Wife",
       "url": "https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ"

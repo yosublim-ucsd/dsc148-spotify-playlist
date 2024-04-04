@@ -6,7 +6,7 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "MzU3NywzM2ExZWIxYmM5Nzc4NGU5NTUzNTc3NWZmZjIxYzJmODM4MGU0MTU2",
+  "snapshot_id": "MzU4MCwzZTY5NmU1ZDg5ZGQ5ZTVmZjhlOGYyYWMyZDY5YzA3OGEyNWM5ZDdh",
   "tracks": [
     {
       "added_at": "2024-03-28 23:07:01",
@@ -305,6 +305,22 @@
       "url": "https://open.spotify.com/track/1fy3nyBffRSXHqvip1Hyo2"
     },
     {
+      "added_at": "2024-04-03 14:41:47",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/3okRVbjoH7anbOb5vFYfpc"
+      },
+      "artists": [
+        {
+          "name": "Fede Rego",
+          "url": "https://open.spotify.com/artist/1givwtQXh3LZPSiVqnQdzN"
+        }
+      ],
+      "duration_ms": 137812,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/45GXyr5LIIMAgKK1zc2IWT"
+    },
+    {
       "added_at": "2024-03-28 23:07:01",
       "album": {
         "name": "Feel Alive",
@@ -339,6 +355,22 @@
       "duration_ms": 165942,
       "name": "Boombox (feat. Madam Parker)",
       "url": "https://open.spotify.com/track/76Ha6CD61eRztnKUbiUXbf"
+    },
+    {
+      "added_at": "2024-04-03 14:39:02",
+      "album": {
+        "name": "Pasarla Bien",
+        "url": "https://open.spotify.com/album/33sNxzNSeZZYxocIqTLGLu"
+      },
+      "artists": [
+        {
+          "name": "CastNowski",
+          "url": "https://open.spotify.com/artist/3k401DGwSxRHA33UfMeMtl"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Pasarla Bien",
+      "url": "https://open.spotify.com/track/4hgSRtFwnuwZELfA4whB7v"
     },
     {
       "added_at": "2024-03-28 23:07:01",
@@ -999,6 +1031,26 @@
       "duration_ms": 152800,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/6Qb2N7m4ZTvthTrTsI99qM"
+    },
+    {
+      "added_at": "2024-04-03 14:40:07",
+      "album": {
+        "name": "Don't Be Afraid",
+        "url": "https://open.spotify.com/album/4TCiAtPP4wUJdpI2nDTMz9"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "KeeQ",
+          "url": "https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB"
+        }
+      ],
+      "duration_ms": 210967,
+      "name": "Don't Be Afraid",
+      "url": "https://open.spotify.com/track/0JvzedR9RXOOMcNEAYjWZP"
     },
     {
       "added_at": "2024-03-28 23:07:01",

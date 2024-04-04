@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 302896,
+  "num_followers": 302978,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTk4YzdkMzFmZTFlZTkzYjY3YjY3Y2YxMjk2ZWQ2MTY2ODA2MmJk",
+  "snapshot_id": "MCw3M2JjMjRhYTM5NWNhM2ZmODc0YTk1YTgwZDEwZjYxMDdlZDBhN2U5",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1291,38 +1291,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "made in taiwan",
-        "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
-      },
-      "artists": [
-        {
-          "name": "Lupus Nocte",
-          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
-        }
-      ],
-      "duration_ms": 182190,
-      "name": "made in taiwan",
-      "url": "https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/38idADPCBOedtHFKSaeMva"
-      },
-      "artists": [
-        {
-          "name": "Ambientcloud",
-          "url": "https://open.spotify.com/artist/1YAxvWH0nQeTwtPxOzynf6"
-        }
-      ],
-      "duration_ms": 137692,
-      "name": "Ready",
-      "url": "https://open.spotify.com/track/5nyQzFdSrpty5ogo2pQH1h"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Cosmic Palace",
         "url": "https://open.spotify.com/album/1kedM337e8aXcZomrNCSQx"
       },
@@ -1339,6 +1307,22 @@
       "duration_ms": 254080,
       "name": "Cosmic Palace",
       "url": "https://open.spotify.com/track/51Xlv4UIAcXca91pZxTZQO"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "made in taiwan",
+        "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
+      },
+      "artists": [
+        {
+          "name": "Lupus Nocte",
+          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
+        }
+      ],
+      "duration_ms": 182190,
+      "name": "made in taiwan",
+      "url": "https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1367,22 +1351,34 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Downpour",
-        "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/38idADPCBOedtHFKSaeMva"
       },
       "artists": [
         {
-          "name": "Sleepless-Nights",
-          "url": "https://open.spotify.com/artist/59KIvMzLvDND3LT5DqOleE"
-        },
-        {
-          "name": "Cosmic Cycler",
-          "url": "https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j"
+          "name": "Ambientcloud",
+          "url": "https://open.spotify.com/artist/1YAxvWH0nQeTwtPxOzynf6"
         }
       ],
-      "duration_ms": 484471,
-      "name": "Downpour",
-      "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
+      "duration_ms": 137692,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/5nyQzFdSrpty5ogo2pQH1h"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Midnight Store",
+        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
+      },
+      "artists": [
+        {
+          "name": "Donor Lens",
+          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Turn the Fridge On",
+      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1407,18 +1403,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Midnight Store",
-        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
+        "name": "Downpour",
+        "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
       },
       "artists": [
         {
-          "name": "Donor Lens",
-          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
+          "name": "Sleepless-Nights",
+          "url": "https://open.spotify.com/artist/59KIvMzLvDND3LT5DqOleE"
+        },
+        {
+          "name": "Cosmic Cycler",
+          "url": "https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j"
         }
       ],
-      "duration_ms": 157974,
-      "name": "Turn the Fridge On",
-      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
+      "duration_ms": 484471,
+      "name": "Downpour",
+      "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1471,30 +1471,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Open Tournament 27XX",
-        "url": "https://open.spotify.com/album/23G7wMaTOeBjuJ3UucHtqL"
-      },
-      "artists": [
-        {
-          "name": "SPORTSGIRL",
-          "url": "https://open.spotify.com/artist/2gj2a0b2PhwlDaQerfUoES"
-        },
-        {
-          "name": "VAPERROR",
-          "url": "https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha"
-        },
-        {
-          "name": "Digital Sex",
-          "url": "https://open.spotify.com/artist/4oYPLHQaoegQ4R31ESrVeP"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Electrolyte Elixir",
-      "url": "https://open.spotify.com/track/33Lqj0KYqEIk3ibD3DU1cW"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Marina Forever",
         "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
       },
@@ -1527,22 +1503,26 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Us Ephemeral (George Clanton Remix)",
-        "url": "https://open.spotify.com/album/5iXkNJHC66zdyRjnd3tfwR"
+        "name": "Open Tournament 27XX",
+        "url": "https://open.spotify.com/album/23G7wMaTOeBjuJ3UucHtqL"
       },
       "artists": [
         {
-          "name": "Vitesse X",
-          "url": "https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L"
+          "name": "SPORTSGIRL",
+          "url": "https://open.spotify.com/artist/2gj2a0b2PhwlDaQerfUoES"
         },
         {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+          "name": "VAPERROR",
+          "url": "https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha"
+        },
+        {
+          "name": "Digital Sex",
+          "url": "https://open.spotify.com/artist/4oYPLHQaoegQ4R31ESrVeP"
         }
       ],
-      "duration_ms": 269538,
-      "name": "Us Ephemeral (George Clanton Remix)",
-      "url": "https://open.spotify.com/track/58V1yIBumv9mbcOhaHPFqe"
+      "duration_ms": 197333,
+      "name": "Electrolyte Elixir",
+      "url": "https://open.spotify.com/track/33Lqj0KYqEIk3ibD3DU1cW"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1559,6 +1539,26 @@
       "duration_ms": 104337,
       "name": "Procedurally Generated Corridor",
       "url": "https://open.spotify.com/track/5q2UHZf5yh7IWQZ6JjqwPZ"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Us Ephemeral (George Clanton Remix)",
+        "url": "https://open.spotify.com/album/5iXkNJHC66zdyRjnd3tfwR"
+      },
+      "artists": [
+        {
+          "name": "Vitesse X",
+          "url": "https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        }
+      ],
+      "duration_ms": 269538,
+      "name": "Us Ephemeral (George Clanton Remix)",
+      "url": "https://open.spotify.com/track/58V1yIBumv9mbcOhaHPFqe"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "EMAIL",
-        "url": "https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg"
-      },
-      "artists": [
-        {
-          "name": "Hatena",
-          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
-        }
-      ],
-      "duration_ms": 176269,
-      "name": "SOULLL",
-      "url": "https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Mine on the Street",
         "url": "https://open.spotify.com/album/5g1FwC5d7jc047UHwpqBgk"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 200000,
       "name": "Beijing",
       "url": "https://open.spotify.com/track/7uOpIcc7cSbJ4lkKw6yeTH"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "EMAIL",
+        "url": "https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg"
+      },
+      "artists": [
+        {
+          "name": "Hatena",
+          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
+        }
+      ],
+      "duration_ms": 176269,
+      "name": "SOULLL",
+      "url": "https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Dark Bandwidth",
+        "url": "https://open.spotify.com/album/47Qp7b3d1Md61MyFIo8yAj"
+      },
+      "artists": [
+        {
+          "name": "Diskette Park",
+          "url": "https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic"
+        }
+      ],
+      "duration_ms": 217698,
+      "name": "Eye",
+      "url": "https://open.spotify.com/track/64Uh9G7MJJyandktDmi4yF"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "No Sugar Added",
         "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
       },
@@ -1683,6 +1699,22 @@
       "duration_ms": 162228,
       "name": "Carrie Bradshaw",
       "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Tendencies",
+        "url": "https://open.spotify.com/album/0xa5TQopmTESAMGNV0UQcD"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30c9\u30ed\u30b9MERCURY",
+          "url": "https://open.spotify.com/artist/5wZqTIE3Pav4n1ZjgGXapN"
+        }
+      ],
+      "duration_ms": 94653,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/0U8NH8Nqvs5wEG6kLloyir"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1703,38 +1735,6 @@
       "duration_ms": 203761,
       "name": "vaporgroove ~",
       "url": "https://open.spotify.com/track/7aXuldX1C1OIWdFGGDZlbu"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Dark Bandwidth",
-        "url": "https://open.spotify.com/album/47Qp7b3d1Md61MyFIo8yAj"
-      },
-      "artists": [
-        {
-          "name": "Diskette Park",
-          "url": "https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic"
-        }
-      ],
-      "duration_ms": 217698,
-      "name": "Eye",
-      "url": "https://open.spotify.com/track/64Uh9G7MJJyandktDmi4yF"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Tendencies",
-        "url": "https://open.spotify.com/album/0xa5TQopmTESAMGNV0UQcD"
-      },
-      "artists": [
-        {
-          "name": "\u30de\u30c9\u30ed\u30b9MERCURY",
-          "url": "https://open.spotify.com/artist/5wZqTIE3Pav4n1ZjgGXapN"
-        }
-      ],
-      "duration_ms": 94653,
-      "name": "At Night",
-      "url": "https://open.spotify.com/track/0U8NH8Nqvs5wEG6kLloyir"
     }
   ],
   "unique_name": "vaporwave",

@@ -862,10 +862,32 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 209812,
       "name": "LO INTENTE TODO",
       "url": "https://open.spotify.com/track/2Ve6tuzNCTwM1At1er93yM"
+    },
+    {
+      "album": {
+        "name": "Lo Intent\u00e9 Todo",
+        "url": "https://open.spotify.com/album/0r18uYl5JRCEPLsLqdDEB2"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204044,
+      "name": "Lo Intent\u00e9 Todo",
+      "url": "https://open.spotify.com/track/26waqvvTo7eyRIApBjY5jM"
     },
     {
       "album": {

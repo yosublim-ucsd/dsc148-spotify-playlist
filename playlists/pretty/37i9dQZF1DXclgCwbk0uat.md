@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Lucky Brown.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,900,722 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,901,106 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 4 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
 | 5 | [Enrolar](https://open.spotify.com/track/6kINKNCezsxA0wQFxSP2Aa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:47 |
 | 6 | [Recuérdame </3](https://open.spotify.com/track/5Vigksef6pzPLb0AHLDjsQ) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Recuérdame </3](https://open.spotify.com/album/6YpTQ7sEr94Xcr1EbmPToT) | 2:37 |
-| 7 | [Fashion Girl \- Remix](https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Fashion Girl \(Remix\)](https://open.spotify.com/album/21sLFYA7VmVpCadRw7Z1sq) | 3:11 |
+| 7 | [Fashion Girl \- Remix](https://open.spotify.com/track/4VHKOThPROw1Qo1a43Am8S) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Fashion Girl \(Remix\)](https://open.spotify.com/album/59DS3dN2FAU5ZcxBi9AXiR) | 3:11 |
 | 8 | [MA DIAMANTE](https://open.spotify.com/track/3seBr5Cm5NSEO8CKKR8sYw) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [MA DIAMANTE](https://open.spotify.com/album/0OTV5gYngPkIeYAcFs9Ytw) | 2:28 |
 | 9 | [Vida Peligrosa](https://open.spotify.com/track/5b0lXK1WJTKkDGbWlImwSb) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Vida Peligrosa](https://open.spotify.com/album/4rcHPUrI45fiiI02zqUZXa) | 2:46 |
 | 10 | [Bendito \(Soundtrack Baby Bandito: La Serie\)](https://open.spotify.com/track/0sX1JCSfCemDJe8qK6CGeL) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Bendito \(Soundtrack Baby Bandito: La Serie\)](https://open.spotify.com/album/1ji1ML1G1fSvQDckKxSajC) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
 | 50 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 |
 
-Snapshot ID: `MCw2YTBlYzZlNTNlZTgzYjg1OGZjNjFmMWMyMGFkZWIxYjkxNzc3NzAw`
+Snapshot ID: `MCwxMmM1NzI2NjVmNGMxYjcwNWIxZTcyMWEyN2E2YTc5MTkyYWIxNGQz`

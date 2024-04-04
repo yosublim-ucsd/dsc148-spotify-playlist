@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: MIKADO
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,203 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,222 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [言った!!](https://open.spotify.com/track/7uPHzNeZnRBSxVwuujHo2p) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [言った!!](https://open.spotify.com/album/6NNAnmIDNfskzLKUEBAZI3) | 2:14 |
+| 1 | [Yutta](https://open.spotify.com/track/5dplmBHVIEn5qIhVujSd6I) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [Yutta](https://open.spotify.com/album/2RUujm92ULMhti3zc0mBVL) | 2:14 |
 | 2 | [存在](https://open.spotify.com/track/7EcSfGN8xHg69DsDL9ftao) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [存在](https://open.spotify.com/album/4lYB74MAkeqr4KrhVXmZRB) | 3:32 |
 | 3 | [Succes](https://open.spotify.com/track/47lGTqSRbIXJuVzFPfl5Sd) | [Nero](https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA), [Watson](https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv) | [Local Life](https://open.spotify.com/album/5QReLSHX2gBdrMnVztz7f4) | 2:15 |
 | 4 | [Natural Buzz](https://open.spotify.com/track/19fy3JDujAYlCL0f0LZUHx) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [OHZKEY](https://open.spotify.com/artist/71j3AMPO4zOfdTMc7Blt5j), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [castermild](https://open.spotify.com/artist/6gNIKY01gcqrLVU26YJ4RX) | [DAY TIME SNACK](https://open.spotify.com/album/0puKoRo0S118LVlME7ELtp) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Anthem](https://open.spotify.com/track/0MBzNOhfoa8U32LuXw34f2) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [ISSUES DELUXE](https://open.spotify.com/album/6RwZHwh768vKLfDgAxhsbJ) | 2:50 |
 | 100 | [Karate](https://open.spotify.com/track/5WVG5gcr3IYucGjTAJtKp9) | [Sh0ta](https://open.spotify.com/artist/0DPwzajAlCTDhhq1jgNcW2) | [Karate](https://open.spotify.com/album/7djQ0wgXOnhbVPvmzCeKbH) | 2:08 |
 
-Snapshot ID: `MCxjZjc4NTllYzdhYzA1NjAwNDc0YmQyZTM1ZTk0ZmQ1ZTk1YmM2ZDNi`
+Snapshot ID: `MCwzYjIzNTNjMjdlOTU2NTZlOTIxMmI1MTY3YmNiZWMzNTA3MzAxMzQ0`

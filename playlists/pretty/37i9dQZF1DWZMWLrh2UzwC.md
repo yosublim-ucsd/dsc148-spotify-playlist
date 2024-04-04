@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,689 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,686 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 26 | [吸引之力](https://open.spotify.com/track/4l9cckN8dKOeBBuaL28dFA) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [吸引之力](https://open.spotify.com/album/3rxgdggzUqoYA9zCmRtg3d) | 3:38 |
 | 27 | [week by week](https://open.spotify.com/track/51bPv2VzuFbGXkthHzx30I) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [week by week](https://open.spotify.com/album/0VVxbUd44wpxpWFtvtxfH0) | 3:00 |
 | 28 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 |
-| 29 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
+| 29 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 |
 | 30 | [lil' freak](https://open.spotify.com/track/6guIMfoWJvsCXQxNsAtWPN) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [lil' freak](https://open.spotify.com/album/3sEThxFC8DglKnXEokpmww) | 2:48 |
 | 31 | [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 |
 | 32 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 99 | [Sunday Song](https://open.spotify.com/track/1uJvtc4QPyockQgGuQxZ0r) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Sunday Song](https://open.spotify.com/album/3QuIuCr8XwSA5xjqG6CYlb) | 3:30 |
 | 100 | [Wannabesadsong](https://open.spotify.com/track/4yqxny2mF54hWTaYaixHt3) | [Door Plant](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [Wannabesad Song](https://open.spotify.com/album/7GPhrj2rvTB4wwqLX8UnzQ) | 3:05 |
 
-Snapshot ID: `MCw0ZGIyNTVmZGIxYWNhNmVmYTliNjBlZTVmYjI4MzlmYjYwZDlkMDdk`
+Snapshot ID: `MCw4ZmY3ZWZjYWI5NzdlNjU3MDgwMmJiMmU0MzMzMTk2N2M0YzhlZmRl`

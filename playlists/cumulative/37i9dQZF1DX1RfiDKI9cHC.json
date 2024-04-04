@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Ronald Dregan",
+        "url": "https://open.spotify.com/album/3w9W3fAOdt8eDPD748VsqV"
+      },
+      "artists": [
+        {
+          "name": "Mac Dre",
+          "url": "https://open.spotify.com/artist/4sv6VJ2QZlaSosz3kFlxQH"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224813,
+      "name": "Feelin' Myself",
+      "url": "https://open.spotify.com/track/4pOwXHMGYZbsXQMhYnetHG"
+    },
+    {
+      "album": {
         "name": "Ronald Dregan For President 2004: Dreganomics",
         "url": "https://open.spotify.com/album/2xvk51ccjE7SThC1PM5E0b"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 224813,
       "name": "Fellin' Myself",
       "url": "https://open.spotify.com/track/4sqGlfDc7QCPvAvUBk4OKn"

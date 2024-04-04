@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-242 songs - 12 hr 40 min
+243 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [No Mercy](https://open.spotify.com/track/6fZxZf9m01EPeBDjCEdtKm) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [No Mercy](https://open.spotify.com/album/2aBu3zCR9Z69Xy2fZuhQv0) | 3:10 | 2023-03-29 | 2023-04-17 |
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-03-29 | 2024-01-09 |
 | [Oh My God](https://open.spotify.com/track/2a5XIrIFr3jDlxP3xAYIc5) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Oh My God](https://open.spotify.com/album/5KOYQGntgYRosJlKfc5G26) | 2:46 | 2023-03-29 | 2024-01-09 |
-| [OK Report](https://open.spotify.com/track/1zX6pzlaHvuxnBxGfJqUi1) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [OK Report](https://open.spotify.com/album/1HEcrEyGSgO0mh2OFgBtTI) | 2:21 | 2024-02-01 |  |
+| [OK Report](https://open.spotify.com/track/1zX6pzlaHvuxnBxGfJqUi1) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [OK Report](https://open.spotify.com/album/1HEcrEyGSgO0mh2OFgBtTI) | 2:21 | 2024-02-01 | 2024-04-04 |
 | [Online](https://open.spotify.com/track/5eJNm87J8KZswp9G8lpMCv) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Online](https://open.spotify.com/album/4ujgEUB3UANgxVK9LF7Ib9) | 2:46 | 2023-10-16 |  |
 | [Only You](https://open.spotify.com/track/4PSvazj8Yc6zgtmc4RUoIx) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Only You](https://open.spotify.com/album/6peg85oEmyTYzm8wxik2wd) | 2:22 | 2024-02-16 | 2024-03-01 |
 | [Perfy](https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Perfy](https://open.spotify.com/album/2LbFWGS7q1oV7zTUOQ5ZOB) | 3:03 | 2023-03-29 |  |
@@ -214,6 +214,7 @@
 | [Spaceship](https://open.spotify.com/track/5qox4CsUE4Lq669aGbZDnm) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Spaceship](https://open.spotify.com/album/3ITMvDdM7ZeOsLzv96tKZP) | 3:11 | 2023-03-29 | 2024-04-03 |
 | [Speed 206](https://open.spotify.com/track/4YQyuUSoQr9K4uAzItZ3XF) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [UZIII](https://open.spotify.com/artist/3YBbI2OrHrUGsc8G1w2z1r) | [Midtown Madness](https://open.spotify.com/album/1HNeKGeOzyTWpLVxZJexRL) | 3:47 | 2024-02-08 | 2024-03-23 |
 | [Speed Dial](https://open.spotify.com/track/1uTcgABqGIlkE3HzFM2TTq) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Qaab](https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6) | [Speed Dial](https://open.spotify.com/album/2vAemOhIAe4odQzkKOLkdc) | 2:05 | 2024-01-19 | 2024-02-09 |
+| [Spin On It](https://open.spotify.com/track/2sNfTf311CxI5gYFonxZ9Y) | [wolf.cryman](https://open.spotify.com/artist/43CbNTpTFxvw0F9UxMZVTO), [Faizan](https://open.spotify.com/artist/4SG1sBze1PccNVkHhX4H4x) | [Dil Fenk Ke Marunga 2](https://open.spotify.com/album/5lUERVYyFplh5vXcUyNjpf) | 4:11 | 2024-04-03 |  |
 | [STAY DOWN](https://open.spotify.com/track/6IhL06ppOuyRHEXJ8BlUXe) | [ZZ](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V) | [STAY DOWN](https://open.spotify.com/album/3tM9xF7q94gk2nYQjAT1sx) | 3:08 | 2023-06-06 | 2023-10-10 |
 | [STILL NUMBER 1](https://open.spotify.com/track/0nXYmY9YtiHkFGlR3cusur) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [STILL NUMBER 1](https://open.spotify.com/album/6pJ9lDsQqTMlcvxqbMbmtM) | 3:55 | 2023-10-27 |  |
 | [STRAP](https://open.spotify.com/track/1GmaStjvbOzszpxINI8oTi) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [STRAP](https://open.spotify.com/album/4S53T78rr9YNwFGG08bkNI) | 2:42 | 2023-10-26 | 2024-01-13 |

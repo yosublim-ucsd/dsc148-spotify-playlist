@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inthBIooNX.md) - [plain]
 
 > A playlist for the eclipse\. Photo credits: NASA
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,973 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,184 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inthBIooNX.md) - [plain]
 | 49 | [Fée \- Just Piano Version](https://open.spotify.com/track/56dYf2cZ2HNeyVN3Tuwj5l) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 1:23 |
 | 50 | [Jyoti](https://open.spotify.com/track/27KAWLRYB0djGhfnIvzjQr) | [r mccarthy](https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7) | [Dick Arkive: Issue 2](https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV) | 1:26 |
 
-Snapshot ID: `MCw5MjI5ZTQ3NmJhZmUyMTQ2NmUxMGQyNzNkNzUyNDgyMjcxODJlMmIx`
+Snapshot ID: `MCw2NmVhYjI4NDE0MjNkNTIzNDQwYTA4Y2I5ODJjMjc4OWVjNzA3N2Uy`

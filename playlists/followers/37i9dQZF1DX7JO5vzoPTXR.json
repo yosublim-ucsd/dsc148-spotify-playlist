@@ -1,7 +1,7 @@
 {
-  "2024-04-03": 69542,
+  "2024-04-04": 69583,
   "date_first_scraped": "2021-12-28",
-  "description": "Songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/playlist/37i9dQZF1EFFNsuSPMFRwX?si=1050728f1f5d4fd2\">INK</a>",
+  "description": "Songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/playlist/37i9dQZF1EFRegGOhYpv3j?si=0ea1f81a3471473c\">Alysa Vanderheym</a>",
   "name": "Created by Women",
   "tracks": [
     {
@@ -519,7 +519,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 184077,
       "name": "All On Me - Spotify Singles",
       "url": "https://open.spotify.com/track/0G5QSHzdmwt0FOQeywFRbm"
@@ -1522,6 +1522,46 @@
     },
     {
       "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167013,
+      "name": "Blindsided (Yeah, Sure, Okay)",
+      "url": "https://open.spotify.com/track/65eeFF3JE3YytATkV5Ga1Y"
+    },
+    {
+      "album": {
+        "name": "Blue Dream Baby",
+        "url": "https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176427,
+      "name": "Blue Dream Baby",
+      "url": "https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM"
+    },
+    {
+      "album": {
         "name": "Blue of You",
         "url": "https://open.spotify.com/album/6hYXuO23j4xKi6x216SGLv"
       },
@@ -1977,7 +2017,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 169352,
       "name": "butterfly (feat. Karen Fairchild)",
       "url": "https://open.spotify.com/track/05aF35gAGVmmvsZp7wlgwf"
@@ -3067,7 +3107,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 121994,
       "name": "Deserve",
       "url": "https://open.spotify.com/track/08UOwr56mqHnQOTF2HThmd"
@@ -4758,6 +4798,24 @@
     },
     {
       "album": {
+        "name": "Give Me Vogue",
+        "url": "https://open.spotify.com/album/0p0DW65rytEjBbP3UqHahD"
+      },
+      "artists": [
+        {
+          "name": "Dionne",
+          "url": "https://open.spotify.com/artist/4XHiRwvgzQ1bIhZtfdhdNk"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Golden Boy",
+      "url": "https://open.spotify.com/track/7puqViht1t1uMzI17A4UaO"
+    },
+    {
+      "album": {
         "name": "Golden Child",
         "url": "https://open.spotify.com/album/45jtyAD4KW3lmbDpE9NeRa"
       },
@@ -5637,7 +5695,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 182490,
       "name": "HOW DARE YOU",
       "url": "https://open.spotify.com/track/2mPqRhxkdcszi5MSX6b211"
@@ -5662,6 +5720,24 @@
     },
     {
       "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171240,
+      "name": "How Do I Do This",
+      "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
+    },
+    {
+      "album": {
         "name": "How Do You Know",
         "url": "https://open.spotify.com/album/1XoHk41Co8CNEcqO5oKbEu"
       },
@@ -5673,7 +5749,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 166786,
       "name": "How Do You Know",
       "url": "https://open.spotify.com/track/0l47o8tEeaEFffNXTzP8SG"
@@ -6888,6 +6964,24 @@
     },
     {
       "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139933,
+      "name": "Interlude (Full Length)",
+      "url": "https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2"
+    },
+    {
+      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM"
       },
@@ -6953,7 +7047,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 105445,
       "name": "It Hurts Too Much To Speak",
       "url": "https://open.spotify.com/track/1UlxaIu70eSC0AjpiCUDdw"
@@ -7213,6 +7307,24 @@
       "duration_ms": 180000,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/4I2OyiSq1VNUiMZBTney3q"
+    },
+    {
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/1Kl9pOglEGhjWgCHIoqO58"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181904,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/1EsZpe7WpvsZ1GxkMDt6I3"
     },
     {
       "album": {
@@ -7479,7 +7591,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 145275,
       "name": "late night thoughts",
       "url": "https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW"
@@ -8757,7 +8869,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
@@ -10048,6 +10160,28 @@
     },
     {
       "album": {
+        "name": "Popstar (feat. L\u00e5psley)",
+        "url": "https://open.spotify.com/album/7epnGZBPPyHsA8cP6liUOq"
+      },
+      "artists": [
+        {
+          "name": "Alice Ivy",
+          "url": "https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178981,
+      "name": "Popstar",
+      "url": "https://open.spotify.com/track/3lWdYES9kp95unr6wxJQRb"
+    },
+    {
+      "album": {
         "name": "Poster Girl",
         "url": "https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph"
       },
@@ -10391,7 +10525,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 161540,
       "name": "RECOVER",
       "url": "https://open.spotify.com/track/1xM16w1mELJud010Pu69Vw"
@@ -11620,6 +11754,24 @@
     },
     {
       "album": {
+        "name": "The After Taste",
+        "url": "https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195224,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/7zjT5UAKMHs4P3HuZgKB5j"
+    },
+    {
+      "album": {
         "name": "And Now, We're Shining",
         "url": "https://open.spotify.com/album/6hsl8s8m3Le812hnQfrNAv"
       },
@@ -11747,6 +11899,28 @@
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "album": {
+        "name": "SUGAR",
+        "url": "https://open.spotify.com/album/3nztsVZZnVMTIGOEsgX7oo"
+      },
+      "artists": [
+        {
+          "name": "Bishat",
+          "url": "https://open.spotify.com/artist/3o42mstamO9qGU4P8p50Qr"
+        },
+        {
+          "name": "GLAMHOUSE",
+          "url": "https://open.spotify.com/artist/33lQfkAm6jLcuWDQcrWnRj"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210616,
+      "name": "SUGAR (GLAMHOUSE REMIX)",
+      "url": "https://open.spotify.com/track/4y1y5SZuWy9yJMhH0q1xC4"
     },
     {
       "album": {
@@ -13071,7 +13245,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 247873,
       "name": "VOID",
       "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
@@ -13515,7 +13689,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 189368,
       "name": "Wide Open",
       "url": "https://open.spotify.com/track/5TUpyqeMd2q1rC2xDHN1JE"
@@ -13993,7 +14167,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 74303,
       "name": "you up?",
       "url": "https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn"

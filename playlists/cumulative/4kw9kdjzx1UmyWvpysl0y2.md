@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-694 songs - 1 day 16 hr 7 min
+695 songs - 1 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Fire In Your Eyes](https://open.spotify.com/track/4YpynGMDLvDLLgjzmKNTMj) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [Fire In Your Eyes](https://open.spotify.com/album/37ujeU0QdOtVYjmHZGj90W) | 2:10 | 2023-03-13 | 2023-06-02 |
 | [First Place](https://open.spotify.com/track/21kVD9H40rRQkGmcMi01Fl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Lexi Scatena](https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd) | [First Place](https://open.spotify.com/album/05cVnyWLCNRyeXJUQHutXZ) | 3:13 | 2022-04-22 | 2022-07-02 |
 | [Fix Me](https://open.spotify.com/track/1HLTcIaCy7teNg5HAifIwV) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Fix Me](https://open.spotify.com/album/4Iis1Eijoob88ojKdYQL6X) | 3:45 | 2023-03-13 | 2023-06-03 |
+| [Flex](https://open.spotify.com/track/1Vvkof5rm2wD0IAqy1x1XP) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Flex](https://open.spotify.com/album/0PrzlKhTCHT493lpKK8tCQ) | 3:54 | 2024-04-03 |  |
 | [Flow](https://open.spotify.com/track/4v43DTptT6aZheUUrACW2K) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Flow](https://open.spotify.com/album/6XwawQBMFv5iuFwsXOnyYn) | 3:23 | 2023-04-17 | 2023-07-11 |
 | [Fly](https://open.spotify.com/track/4sYTZ4T4McMnwHMaAdFDM7) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Fly](https://open.spotify.com/album/3YXY6jez22pVNCLbnaShzy) | 3:45 | 2022-07-29 | 2022-10-19 |
 | [Fly](https://open.spotify.com/track/2UUQvhfb7Gt0izk5DYfuAe) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Dream Theory](https://open.spotify.com/album/2AXJp4mHs0986xB690fVHg) | 3:35 | 2021-11-19 | 2022-02-12 |
@@ -276,7 +277,7 @@
 | [Heal](https://open.spotify.com/track/2nGEfupnQbdQyxFjHrx0SM) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Heal](https://open.spotify.com/album/2ZFsWsRhG8XFk4Srgq5qI1) | 4:14 | 2023-08-28 | 2023-12-14 |
 | [Heartbeat](https://open.spotify.com/track/26g9KhoTTaEG4IM1uTkwZ4) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Heartbeat](https://open.spotify.com/album/5ZP5RXBdCFckiXwXN6tWp8) | 3:13 | 2022-08-30 | 2022-11-03 |
 | [HEAT](https://open.spotify.com/track/2GqpGnSsaS4WY4wgURygHO) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [HEAT](https://open.spotify.com/album/0LNjCowJXfTpBCyNyG65vR) | 3:15 | 2023-07-06 | 2023-12-14 |
-| [Heaven](https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Heaven](https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul) | 4:12 | 2024-01-12 |  |
+| [Heaven](https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Heaven](https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul) | 4:12 | 2024-01-12 | 2024-04-04 |
 | [Heavy Heart](https://open.spotify.com/track/2Cg5nw3PsrHYudEux8IBcT) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [your friend polly](https://open.spotify.com/artist/7BMiTAo49FakImrjEyEFFN) | [Heavy Heart](https://open.spotify.com/album/6W3jyRwWtdd7ZIOATdzkOt) | 3:25 | 2024-02-08 |  |
 | [Here For Now](https://open.spotify.com/track/4cU8YjbtwlAFBlPlKBaJ8W) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Here For Now](https://open.spotify.com/album/2imHKzs8s94B6vGL0DTtlf) | 3:49 | 2022-08-11 | 2022-10-25 |
 | [Hero](https://open.spotify.com/track/0gU1afVwFWTspbHNot3yLa) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Hero](https://open.spotify.com/album/5All8BvGGdApHlpnuELjmP) | 3:18 | 2023-06-29 | 2023-09-26 |

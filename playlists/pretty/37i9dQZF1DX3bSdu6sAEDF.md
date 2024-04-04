@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,001 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,039 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 74 | [BIG](https://open.spotify.com/track/3mDQ77Q75GikKUBfxcDoCt) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [BIG!](https://open.spotify.com/album/6vyYj5PBZCQK4IWQnxDZZX) | 3:36 |
 | 75 | [feel it now \(alive\)](https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [chapter of me](https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol) | 3:31 |
 
-Snapshot ID: `MCw2MTFhZTc3ZTAwMzQzMmM2MWIzODNjOGExNGI5MWQ3MmYyZTIxOTA0`
+Snapshot ID: `MCxhMzY4OWYxMDE2ZTBjOTc4NGQxNTQ3MWMyMjgzOGI4NGRlOGE2ZGNi`

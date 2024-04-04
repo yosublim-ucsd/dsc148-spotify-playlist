@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The stomping ground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,219 likes - 170 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,379 likes - 170 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 169 | [Hot Night](https://open.spotify.com/track/5xcmBLG9VO1ILZtUjNP4q8) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Hot Night](https://open.spotify.com/album/1TsV2l0AtV32o8nQCjsnlv) | 3:58 |
 | 170 | [Only You](https://open.spotify.com/track/6xAGaIRVA3rddnDzzjsb5u) | [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [Picture Perfect EP](https://open.spotify.com/album/0C6LlsjVraJSPkdLZAsMhf) | 2:40 |
 
-Snapshot ID: `MCxiZjNhOTUyNTBlMjE1NjVmNWIyN2Q4NTEwYjEyOTA3MGRiNTU0NTc5`
+Snapshot ID: `MCw0ZTk4M2YzNjdlNDY4ZTg2NGJlYThkZWMzN2VkZTcwNTJiZDk1Yzgw`

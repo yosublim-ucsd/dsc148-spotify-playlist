@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Rashid
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,528 likes - 74 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,541 likes - 74 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 13 | [Maybach](https://open.spotify.com/track/5gsMdAjkaCx2FwWfPn2LRM) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [Maybach](https://open.spotify.com/album/2gCYuXnp9xRO4e1eqZo6TN) | 2:30 |
 | 14 | [Vivências & Negócios](https://open.spotify.com/track/5PGnU2xpp0Xt4TmFiEr9b3) | [JL](https://open.spotify.com/artist/6uz5Mq7MWDHlFo6XTKtw8Q), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Kiel Mc](https://open.spotify.com/artist/4JK6yXHA3gPH0j1DTckViZ) | [Vivências & Negócios](https://open.spotify.com/album/18riLkMJy6CmiWT6Wn0XzZ) | 3:24 |
 | 15 | [Domingo no Centro](https://open.spotify.com/track/5B0iquJgVg0bX2jl3AdpDe) | [LONNMAR](https://open.spotify.com/artist/7pHh0Fkpf9Fsa6znXNWyrW), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Domingo no Centro](https://open.spotify.com/album/1a8dxCIPUhMpcaMuyIVPuS) | 2:30 |
-| 16 | [Enigma](https://open.spotify.com/track/4MT2KdPYfTBdKpuZLyU7eC) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Neo BXD](https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73), [MT](https://open.spotify.com/artist/3nDDNAa6ObdyNErfT5bv02) | [Enigma](https://open.spotify.com/album/79cZaharrnC66Lu0ffL6xX) | 2:59 |
+| 16 | [Enigma](https://open.spotify.com/track/4MT2KdPYfTBdKpuZLyU7eC) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [CMKMUSIC](https://open.spotify.com/artist/73IZwmH55Ormc0TTDUTGfO), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Neo BXD](https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73), [MT](https://open.spotify.com/artist/3nDDNAa6ObdyNErfT5bv02), [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL) | [Enigma](https://open.spotify.com/album/79cZaharrnC66Lu0ffL6xX) | 2:59 |
 | 17 | [Igrejas e Terreiros](https://open.spotify.com/track/2z5FWmKAZGQVYi0Q6JeduI) | [Rod 3030](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [RAFA KABELO](https://open.spotify.com/artist/6dVYz8pdgpTFLxzq0heiPo) | [Deus É Brasileiro](https://open.spotify.com/album/43lX3jomJ4z9s5lLEG8qcC) | 2:53 |
 | 18 | [INTENÇÃO](https://open.spotify.com/track/3BSrkgc0HEM0dod45jmqyN) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Dj Juninho da Espanha](https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:46 |
 | 19 | [Criminal](https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:48 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 73 | [Trintou \- Ao Vivo](https://open.spotify.com/track/7hDNDt4A317VTNLdqJIaXK) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 3:30 |
 | 74 | [SP Capital](https://open.spotify.com/track/27mibYlhKxG500N1HIyHy9) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [janderson fundação](https://open.spotify.com/artist/5HcWnzCSCqQ218lLa1ewvb), [DJ Faveliano](https://open.spotify.com/artist/53SS1Ab7P1dG97hT8jwAKQ) | [SP Capital](https://open.spotify.com/album/6Ks8cwo1O3W6FRuH1vRqRj) | 3:16 |
 
-Snapshot ID: `MCxlMDRhZjYwYmZlYjY5YjI4NmUyMThjMDAzNmQ0ZGEzZjUyM2E2ZmJl`
+Snapshot ID: `MCwxMjY4YTU3MzA2NmE2MzE4MzIxYmNjMTU4MWY1ZGQ3OWQ3YzkyYThh`

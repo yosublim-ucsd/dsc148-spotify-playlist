@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,705 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,749 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 55 | [La Carretera 1](https://open.spotify.com/track/4lOVowTMEA5DYrfp2Bxyr9) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Imperio de la Cumbia](https://open.spotify.com/album/1sfzCRMaEsnOO7STpsKswx) | 4:47 |
 | 56 | [Si Te Vas \- Vivo](https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [Si Te Vas \(Vivo\)](https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM) | 4:35 |
 | 57 | [Para dormir contigo otra vez](https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [15Añero](https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk) | 3:01 |
-| 58 | [Así Fue / Tu Cárcel / Estos Celos](https://open.spotify.com/track/1XB6uprTK9QOmgkUtmiDYX) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Así Fue / Tu Cárcel / Estos Celos](https://open.spotify.com/album/0aEZ4jdVNNT8seRRa28vKX) | 5:19 |
-| 59 | [Óyeme](https://open.spotify.com/track/3h3TkFcJCcrZOmhu82KsUW) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Desnudos](https://open.spotify.com/album/3bPO3lMoj5AdStRso5Q2bH) | 3:04 |
+| 58 | [Óyeme](https://open.spotify.com/track/3h3TkFcJCcrZOmhu82KsUW) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Desnudos](https://open.spotify.com/album/3bPO3lMoj5AdStRso5Q2bH) | 3:04 |
+| 59 | [Así Fue / Tu Cárcel / Estos Celos](https://open.spotify.com/track/1XB6uprTK9QOmgkUtmiDYX) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Así Fue / Tu Cárcel / Estos Celos](https://open.spotify.com/album/0aEZ4jdVNNT8seRRa28vKX) | 5:19 |
 | 60 | [Te Vas](https://open.spotify.com/track/1cP3sQJ4cBGUy3mzMHXH96) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/2GhTSWtln0DOTPoEp7qlNe) | 3:54 |
 | 61 | [Feliz Con Verte](https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Feliz Con Verte](https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph) | 3:13 |
 | 62 | [Que Nadie Se Entere](https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:01 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 67 | [No Me Dejes Sin Tu Amor](https://open.spotify.com/track/7HwFftj6pgvU1AN6f5QuYJ) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv) | 2:48 |
 | 68 | [Ahora Que Te Vas](https://open.spotify.com/track/4A0PE9JT69DyzVkFZLTEeq) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Ahora Que Te Vas](https://open.spotify.com/album/2pajddBhVxUas3ioYXCyHL) | 3:05 |
 | 69 | [Si yo fuera él](https://open.spotify.com/track/2UFGsOAjNrQSoZwh5gZJs0) | [La Rosa](https://open.spotify.com/artist/2ygN6IDI4WyTRlIk2czz6i) | [Perfume De Cumbia](https://open.spotify.com/album/0NQV1IrZHzey6XqYs3Iyie) | 3:30 |
-| 70 | [Romance Ilegal](https://open.spotify.com/track/2tIxbFXVABcdR9iX31NSYh) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [De Fiesta Con Hechizo](https://open.spotify.com/album/1UCUQHysKjFuB9yz9k7otf) | 3:11 |
-| 71 | [Juana María](https://open.spotify.com/track/6vOKCDntcnOWFOsEAmu5zI) | [Los Vasquez](https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx) | [Contigo Pop y Cebolla](https://open.spotify.com/album/77shDYtUzVQvAyEpul11EJ) | 3:16 |
+| 70 | [Juana María](https://open.spotify.com/track/6vOKCDntcnOWFOsEAmu5zI) | [Los Vasquez](https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx) | [Contigo Pop y Cebolla](https://open.spotify.com/album/77shDYtUzVQvAyEpul11EJ) | 3:16 |
+| 71 | [Romance Ilegal](https://open.spotify.com/track/2tIxbFXVABcdR9iX31NSYh) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [De Fiesta Con Hechizo](https://open.spotify.com/album/1UCUQHysKjFuB9yz9k7otf) | 3:11 |
 | 72 | [Megamix: Como Dejar de Amarte / Hoy Que Te Vas / La Mesa del Rincon / Charro para Rato](https://open.spotify.com/track/58f4umXEEGdf1S75sXWXGZ) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [17 Hits](https://open.spotify.com/album/1cJXdbu4wHVf4dYoDy5Dyn) | 7:47 |
 | 73 | [Mirá Como Está La Vagancia](https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Sin Remedio](https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT) | 4:59 |
 | 74 | [Entrégame](https://open.spotify.com/track/5N1tERrYir6sDMi0WrbeUZ) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [De Amor y Cumbia](https://open.spotify.com/album/7oABLSw6ZW6kgMzmcScMw1) | 3:36 |
@@ -93,11 +93,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 83 | [Después De Ti](https://open.spotify.com/track/6SmzvjXkM8u1OlHQlw7ynM) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Después De Ti](https://open.spotify.com/album/5WY09iKtH5IL3XKIo7h3zO) | 3:12 |
 | 84 | [No te lo puedo creer](https://open.spotify.com/track/2mtlU0zHtox2WJPMdfZzyr) | [La Rosa](https://open.spotify.com/artist/2ygN6IDI4WyTRlIk2czz6i) | [La Pasión Florece](https://open.spotify.com/album/3ajxuhibornCsqd160ASSU) | 3:48 |
 | 85 | [Lástima](https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:39 |
-| 86 | [¿Y Qué Pasó?](https://open.spotify.com/track/2g3izj5ofjo2oNkOymMV9G) | [Jordan](https://open.spotify.com/artist/4wO1Ld1CKjm4vFMNUn7E7k) | [¿Y Qué Pasó?](https://open.spotify.com/album/2QDDIJhR9YNN8Mnm2IHVs8) | 4:13 |
+| 86 | [Déjame Amarte](https://open.spotify.com/track/2rFdtUO83jOmbgHrgNQZn9) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [Tu Corazón Late Más Fuerte](https://open.spotify.com/album/6ZAjmUWhVKgHu32hJo4zQF) | 3:58 |
 | 87 | [La Mesa del Rincón](https://open.spotify.com/track/7FirJZsR2n0VWs1rzMjdms) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 3:05 |
 | 88 | [La Tortuga Vacilona](https://open.spotify.com/track/6ugIHliLvfqeh3WVn3gLEE) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [La Terrible Pulenta](https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4) | 3:41 |
 | 89 | [Gotitas](https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:22 |
-| 90 | [Déjame Amarte](https://open.spotify.com/track/2rFdtUO83jOmbgHrgNQZn9) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [Tu Corazón Late Más Fuerte](https://open.spotify.com/album/6ZAjmUWhVKgHu32hJo4zQF) | 3:58 |
+| 90 | [¿Y Qué Pasó?](https://open.spotify.com/track/2g3izj5ofjo2oNkOymMV9G) | [Jordan](https://open.spotify.com/artist/4wO1Ld1CKjm4vFMNUn7E7k) | [¿Y Qué Pasó?](https://open.spotify.com/album/2QDDIJhR9YNN8Mnm2IHVs8) | 4:13 |
 | 91 | [Supermandoneao](https://open.spotify.com/track/3gS8gNb2W5h89cYsGTpyev) | [Sonora 5 Estrellas](https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1) | [Cumbia E' Plaza](https://open.spotify.com/album/1GIrK9JtY36HaNnixqCzDj) | 4:32 |
 | 92 | [Bebe Dame / Pobre Corazón](https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Bebe Dame / Pobre Corazón](https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ) | 4:28 |
 | 93 | [Y Me Bebí Tu Recuerdo](https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 99 | [No Te Marches](https://open.spotify.com/track/2p6NdfaJywYmZOfGsQvzXQ) | [Potencia](https://open.spotify.com/artist/26SwMaLuxWolyBYLyjG8NQ) | [Destruye](https://open.spotify.com/album/696bj0AMsu8y5wED4IJCVC) | 3:08 |
 | 100 | [Porque Te Quiero](https://open.spotify.com/track/6cvUP6WuCTW9urJC8EXnoH) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Alegrìa](https://open.spotify.com/artist/0SWWoCXkmvMfBDggBoOjmV) | [El Legado](https://open.spotify.com/album/44hZw1qLhOalSHhS6iVIZH) | 1:17 |
 
-Snapshot ID: `MCw1OTNhZTdhYzUzNDgxNDFhMmQ5MTJiNWI5YzI0MTdiNjE4ZWU3MTQz`
+Snapshot ID: `MCw2NGQ3Yjc2YTgyYzNlZTZkMDY5NTJhYThlNmE4MzAyNjc5MjMwOGJk`

@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 569651,
+  "2024-04-04": 569666,
   "date_first_scraped": "2023-05-28",
   "description": "Cumbia pa' volar la chapa con Los Pibes Chorros.",
   "name": "Cumbia de Barrio",
@@ -741,7 +741,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 157591,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/7IcdA7TnEtxAUvby7MukZY"
@@ -3663,7 +3663,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 256463,
       "name": "Quiero una chica",
       "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"

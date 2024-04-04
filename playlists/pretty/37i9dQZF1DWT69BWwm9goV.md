@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT69BWwm9goV.md) - [plain]
 
 > A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 2 likes - 23 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 7 likes - 23 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT69BWwm9goV.md) - [plain]
 | 22 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 |
 | 23 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 |
 
-Snapshot ID: `MCw2NWQ4YjQ2NjA3ZmVhN2I1YmU1ZmM4MWYxMjE3MzIyYTRkMmZmYWE5`
+Snapshot ID: `MCw0M2Y2OTUwNjhjYjZlNWJjOTljMDNhYmIxNDZiMDEyZjQ4NmM3Yzkw`

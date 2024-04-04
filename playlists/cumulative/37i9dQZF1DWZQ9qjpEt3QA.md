@@ -4,14 +4,15 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-142 songs - 9 hr 37 min
+143 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7942](https://open.spotify.com/track/0xzKYFkaAz6ghf4b5DFWNb) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [7942](https://open.spotify.com/album/6fURT60sqPccrtfa0bhgpO) | 3:58 | 2022-05-26 | 2023-01-20 |
 | [7942](https://open.spotify.com/track/5KKExY5gsSnK8OUKMgeSOO) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [7942](https://open.spotify.com/album/0Fj7skkiFSSaRHjY50cRnK) | 3:58 | 2022-05-26 | 2022-07-29 |
 | [Afterglow](https://open.spotify.com/track/38wNASXJl6tNRoVFpnctt9) | [Oakë](https://open.spotify.com/artist/5FFEE3urupCaWwOzfAfV4I) | [Afterglow](https://open.spotify.com/album/44WOydQRUhz1JihfRZT6Zi) | 3:29 | 2023-02-16 |  |
-| [Algorithm](https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu) | 3:08 | 2024-01-06 |  |
+| [Algorithm](https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu) | 3:08 | 2024-01-06 | 2024-04-04 |
+| [Algorithm](https://open.spotify.com/track/2tGjh54bikVc5x3dl1pUKx) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/04UMoeGtpAK6TyqRLllHqs) | 3:08 | 2024-02-29 |  |
 | [April is a lie \(feat\. salasa\)](https://open.spotify.com/track/0jxdad1Loq437CrfU4jX59) | [sunny after rain](https://open.spotify.com/artist/0h1BKDiSM47e0dNBoExa5N), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [April is a lie](https://open.spotify.com/album/7qzfjQmPpba2duIBdYu9u0) | 3:39 | 2023-05-18 |  |
 | [Aurora](https://open.spotify.com/track/2GximZExZTIeiwKPfVD4Zb) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aurora](https://open.spotify.com/album/1T20Fp610Ugy5v2lZLVeIg) | 3:45 | 2024-01-06 |  |
 | [Baby I'm Good \(Wake\-Up Tune\)](https://open.spotify.com/track/0Dhd8t73mR5sqwDOO21ag2) | [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh) | [Still Good](https://open.spotify.com/album/4qBbqh8QtYLOHyRbpQ2nZx) | 4:18 | 2022-05-26 |  |

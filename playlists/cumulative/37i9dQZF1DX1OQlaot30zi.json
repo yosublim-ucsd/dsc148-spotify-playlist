@@ -40808,6 +40808,32 @@
     {
       "album": {
         "name": "Mille Volte",
+        "url": "https://open.spotify.com/album/7o945svqbqNgI4fdTv5rtw"
+      },
+      "artists": [
+        {
+          "name": "Gheba",
+          "url": "https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc"
+        },
+        {
+          "name": "Suspect CB",
+          "url": "https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz"
+        },
+        {
+          "name": "Pave",
+          "url": "https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Mille Volte",
+      "url": "https://open.spotify.com/track/3DEhOHcKAfwBvuqIMUiMfb"
+    },
+    {
+      "album": {
+        "name": "Mille Volte",
         "url": "https://open.spotify.com/album/0yhujz3RjqMcyasNVKHk8O"
       },
       "artists": [
@@ -40826,7 +40852,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 158437,
       "name": "Mille Volte",
       "url": "https://open.spotify.com/track/3zlaNnmlJ8qVAGzvRmudiP"

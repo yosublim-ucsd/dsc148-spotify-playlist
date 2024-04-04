@@ -4,10 +4,11 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Elmatadormc7
 
-489 songs - 1 day 0 hr 7 min
+490 songs - 1 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [00](https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [00](https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy) | 2:14 | 2024-04-03 |  |
 | [07:34](https://open.spotify.com/track/7wkntyph9MUtz9nz0xFsyz) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [07:34](https://open.spotify.com/album/0zFqRRSuXePG8S0wrRM32f) | 3:11 | 2024-03-14 |  |
 | [1 MESSAGGIO](https://open.spotify.com/track/3GsSmGgMELKhaYSj3QTShu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [1 MESSAGGIO](https://open.spotify.com/album/4ckePFG01HSFnIDOtG9ZjS) | 2:34 | 2023-09-28 | 2023-12-15 |
 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 | 2024-02-27 |  |
@@ -105,7 +106,7 @@
 | [Caribe](https://open.spotify.com/track/5by3TCFHK3YRQzxpR9PcZ0) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Brando Luis](https://open.spotify.com/artist/4TPwT1hZ52JFhjpvIo7HIQ) | [Quanto Manca](https://open.spotify.com/album/4zxnDWLdTfs3UnOkPqaziK) | 2:20 | 2022-06-12 | 2023-03-25 |
 | [Cartier \#1](https://open.spotify.com/track/0IZKfHXiZSlB6uGURuo29K) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Cartier \#1](https://open.spotify.com/album/0j18KQ9kbszuYt5GxDlj8D) | 2:37 | 2022-09-08 | 2022-09-29 |
 | [CASA](https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CASA](https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq) | 3:17 | 2022-05-09 | 2023-03-08 |
-| [Casa Mia](https://open.spotify.com/track/4cWrKV5SN7AknqPy4ryBDG) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Casa Mia](https://open.spotify.com/album/4xFy5R5epCv3JQj92m7lHJ) | 3:30 | 2024-02-07 |  |
+| [Casa Mia](https://open.spotify.com/track/4cWrKV5SN7AknqPy4ryBDG) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Casa Mia](https://open.spotify.com/album/4xFy5R5epCv3JQj92m7lHJ) | 3:30 | 2024-02-07 | 2024-04-04 |
 | [CASABLANCA](https://open.spotify.com/track/6nwsTLwf3gxDJcWgjilg4o) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE II](https://open.spotify.com/album/5wtj64nI3MqbatoKYYAoQO) | 2:37 | 2023-12-14 | 2024-01-05 |
 | [CELL \(feat\. Rose Villain, Ghali\)](https://open.spotify.com/track/52o5vmiZYvQinAT8QqZ7Rw) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 3:01 | 2022-11-07 | 2023-01-13 |
 | [Cella 4](https://open.spotify.com/track/0szf0BqOX6XXa2sHb8HtvC) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:06 | 2023-06-05 | 2023-10-06 |

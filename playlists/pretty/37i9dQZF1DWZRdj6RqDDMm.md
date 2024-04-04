@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=O\-4j6NxkS\-aYvon7eAoaHg">Malcolm Rue</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,168 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,237 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 99 | [Momentum](https://open.spotify.com/track/6OGlcMVlHteIpnT6M27pzT) | [SEYHGA](https://open.spotify.com/artist/6nDYfLpJkJKMVjn9M12Zws) | [Momentum](https://open.spotify.com/album/0I1h4qJOrsZtt9v3X521ba) | 2:55 |
 | 100 | [Loved](https://open.spotify.com/track/6MG67vKhgT79hSKS9PHPuY) | [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [Loved](https://open.spotify.com/album/7HYm3t0UoKBFI2n0xRIrUE) | 3:08 |
 
-Snapshot ID: `MCwzMGM0ZTc1NjY1ZmMyMzQ0OWM3YWQxMTgwZTc1YzhiZDJkNDdhNTU4`
+Snapshot ID: `MCw4NDk1Nzg2MGY4NzMwMGY3MGI2NjE3ZjkzODBkMTNkMTQwYjYyMDhh`

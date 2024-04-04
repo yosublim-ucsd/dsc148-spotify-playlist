@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,897 songs - 4 day 5 hr 16 min
+1,898 songs - 4 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,7 +666,7 @@
 | [Jos et olis siinä](https://open.spotify.com/track/5VYFhGBiwuV8k55Ushpekr) | [Happoradio](https://open.spotify.com/artist/088hJWSolrJNzoNBo2cyOd) | [Jos et olis siinä](https://open.spotify.com/album/15pxPeFv1MqjrkINfduQyo) | 3:46 | 2021-05-16 | 2021-05-17 |
 | [Jos menet pois \(Vain elämää kausi 12\)](https://open.spotify.com/track/7hM1klNeJ3qz68lpWLw2vz) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Jos menet pois \(Vain elämää kausi 12\)](https://open.spotify.com/album/3lnfGFEQnXMyBcKH0h3se0) | 3:05 | 2021-10-24 | 2021-11-05 |
 | [Jos mul on tylsää \(feat\. Fabe\)](https://open.spotify.com/track/3kAKncoIbTWAuGk32R0zf9) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Willain](https://open.spotify.com/album/4fIyn02l750ivFtjp3MXor) | 3:15 | 2023-10-14 | 2023-10-19 |
-| [Jos mä oisin sä](https://open.spotify.com/track/1gSb8215VMM7zqVq1ihvjl) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Jos mä oisin sä](https://open.spotify.com/album/2D3eZu6obirchhjctY1Oq3) | 2:08 | 2023-12-02 |  |
+| [Jos mä oisin sä](https://open.spotify.com/track/1gSb8215VMM7zqVq1ihvjl) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Jos mä oisin sä](https://open.spotify.com/album/2D3eZu6obirchhjctY1Oq3) | 2:08 | 2023-12-02 | 2024-04-04 |
 | [Jos puhutaan totta](https://open.spotify.com/track/4rjRfdvdlRwyAVAwwdDifd) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Jos puhutaan totta](https://open.spotify.com/album/264CvOZdO5iM2dcWxLld5h) | 2:54 | 2024-01-27 |  |
 | [Jos sul ei oo mua \(feat\. F & BESS\)](https://open.spotify.com/track/39R1kVmiHKlRHQapRMyJ6G) | [Kiki](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Intuitio](https://open.spotify.com/album/0mp44eilN5zXNKzifihbkm) | 3:09 | 2023-10-28 | 2023-10-30 |
 | [Joululaulu](https://open.spotify.com/track/18Ra4rWQdsL8ViBBj3sNas) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Joululaulu](https://open.spotify.com/album/7w6ZlRSBRQlQPkrFjUlCmX) | 2:36 | 2023-12-24 | 2023-12-27 |
@@ -1656,6 +1656,7 @@
 | [Toksist](https://open.spotify.com/track/1OYox8IAcpj31Esd7YuD0O) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Viimein](https://open.spotify.com/album/0XsrfuVU2Dbz4yuitHjFU6) | 3:11 | 2023-03-04 | 2023-03-06 |
 | [Tonttu](https://open.spotify.com/track/1rkqIAbd5OMS3tCL2QiTsH) | [Rajaton](https://open.spotify.com/artist/3ZfVp9mvvJt4Zly7lxgcaR) | [Joulu](https://open.spotify.com/album/02Btk2BgBMY3KD7AnMkot9) | 3:23 | 2021-12-19 | 2023-12-27 |
 | [Tonttu](https://open.spotify.com/track/6Fp6QpQkrjBp5WWLQnlbHM) | [Vesa\-Matti Loiri](https://open.spotify.com/artist/1C3guep1CayLvcFFadeQBt) | [Sydämeeni joulun teen](https://open.spotify.com/album/22VOa9w3witxpYb1NqOY0b) | 6:50 | 2022-12-25 | 2022-12-27 |
+| [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-04-03 |  |
 | [Top G](https://open.spotify.com/track/2eJAOtd4MY1mVfs9ivPcgt) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Top G](https://open.spotify.com/album/3LD8AivVWUrAyFXNL7AA7T) | 2:42 | 2022-11-19 | 2022-11-21 |
 | [TOPIA TWINS](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 | 2023-07-29 | 2023-07-31 |
 | [Torna a casa](https://open.spotify.com/track/3590AAEoqH50z4UmhMIY85) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 3:50 | 2021-05-25 | 2021-06-13 |

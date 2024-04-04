@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-670 songs - 2 day 0 hr 4 min
+671 songs - 2 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Push Party](https://open.spotify.com/track/58OhTiU3KMT2pLvGeiYqoe) | [King Edi K](https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO) | [Push Party](https://open.spotify.com/album/66HhgD8992OJjEk8X7KhM4) | 4:29 | 2021-10-26 | 2022-07-28 |
 | [Pé Di Bissilon](https://open.spotify.com/track/7FukgJWJ5qBI1vbXWKWPya) | [Bandé\-Gamboa](https://open.spotify.com/artist/0GvJLG8dgOx1tLGSXJW4Kf) | [Horizonte \- Revamping Rare Gems from Cabo Verde and Guinea\-Bissau](https://open.spotify.com/album/6nHSjff6aB7E60h19cdz2L) | 4:21 | 2021-10-06 | 2022-04-21 |
 | [Ragazzo](https://open.spotify.com/track/4LBhuxtdcv1ZIruY2P1xOz) | [Big Yawn](https://open.spotify.com/artist/01kK806Lcg2RNydzhYMzJZ) | [Ragazzo](https://open.spotify.com/album/57Ht9j2MEaJ65vkHiHuupX) | 3:27 | 2021-10-06 | 2022-07-05 |
+| [Rahat Al Chant Ymme](https://open.spotify.com/track/5ETbQdCORmkZlF23NzmJxx) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Erbil](https://open.spotify.com/album/12kpVIlrWxmOJV7wX4JL8M) | 5:19 | 2024-04-03 |  |
 | [Rainfalls](https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m) | [Rainfalls](https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y) | 3:36 | 2022-01-14 | 2022-04-20 |
 | [Reet \(Habibi Funk 015\)](https://open.spotify.com/track/4OjZmd2lJiwiUw1dSV93kj) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Reet \(Habibi Funk 015\)](https://open.spotify.com/album/2YSgGIQt5aqvew4hkSX4u5) | 4:26 | 2021-10-06 | 2022-07-27 |
 | [Reinventar](https://open.spotify.com/track/5FhgkIuGlTxtzUCQS8CRiw) | [Solovino](https://open.spotify.com/artist/1tK101wDTXF3fmqGUAUYnA) | [Reinventar](https://open.spotify.com/album/31cFn7xwcOwMzBnK56v0mi) | 4:23 | 2023-03-06 | 2023-05-15 |
@@ -526,7 +527,7 @@
 | [She Doesn't Love You](https://open.spotify.com/track/17YZ2Z6z1wRJhN5LSgFKmO) | [Kondi Band](https://open.spotify.com/artist/2IPZPCen311aH09425TKpF), [Mariama](https://open.spotify.com/artist/6QBXN3vAlzmX5e6QQvkiVU) | [She Doesn't Love You](https://open.spotify.com/album/0s8UWpBsEKmiguGmQBBrrc) | 3:40 | 2021-10-06 | 2022-07-18 |
 | [Shepherd Song \- Esa & His Afro\-Synth Band Version](https://open.spotify.com/track/0yM0uVP2UFGgA7SWVkgSnp) | [Keleketla!](https://open.spotify.com/artist/7jIuM7cuEe0bBfoNhISVXU), [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Nono Nkoane](https://open.spotify.com/artist/6U6mRi1Ggv5x8ZMMVkpyUm), [Thabang Tabane](https://open.spotify.com/artist/2kJc29uqdxbvvH670LozXy), [Gally Ngoveni](https://open.spotify.com/artist/1E99VOe0iWh1CMVBJ17sf6), [Sibusile Xaba](https://open.spotify.com/artist/3UZ496XnQSGebDZ8jQqtIJ), [Afla Sackey](https://open.spotify.com/artist/6HbtkYhKlvY9R1m2PkW6YS), [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh), [Esa](https://open.spotify.com/artist/3ImA3dBeTe9Fiff8tHKZ49) | [International Love Affair + Remixes EP](https://open.spotify.com/album/60LuZXWw7HId7zpDtNLHUl) | 5:17 | 2021-10-06 | 2022-07-29 |
 | [Shoreline Transit](https://open.spotify.com/track/3qo9MuJSAYzXSyxPmNN4HB) | [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Malaka](https://open.spotify.com/album/3APaflMX3wNb1BCJZ0UUOS) | 2:59 | 2023-11-03 | 2024-01-12 |
-| [Shēnzhou V.](https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Age of Aquarius](https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws) | 6:08 | 2022-03-04 |  |
+| [Shēnzhou V.](https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Age of Aquarius](https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws) | 6:08 | 2022-03-04 | 2024-04-04 |
 | [Siakwaa / Nana Agyei \- Medley](https://open.spotify.com/track/510hOuZSl4wqLLDARSddjn) | [The Polyversal Souls](https://open.spotify.com/artist/6ucByLJIHHN6HfdMyZylyi), [Sir Frank Karikari](https://open.spotify.com/artist/7ooUPeumSe2dVxkPYD9xmS) | [Siakwaa / Nana Agyei \(Medley\) \(feat\. Sir Frank Karikari\)](https://open.spotify.com/album/7vpecaht2VUeB04vCxL62E) | 4:17 | 2021-10-06 | 2022-07-23 |
 | [Sigo Llorando](https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Sigo Llorando](https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X) | 3:24 | 2021-10-06 | 2022-07-05 |
 | [Silence is Golden](https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:43 | 2021-10-06 |  |

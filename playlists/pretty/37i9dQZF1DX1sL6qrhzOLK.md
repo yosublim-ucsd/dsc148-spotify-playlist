@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 
 > 가장 트렌디한 예술 경험 Sync Next 23의 참여 아티스트가 직접 선곡한 노래들을 즐겨보세요! \(Enjoy the songs selected by participating artists of Sync Next 23, the trendiest art experience!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,263 likes - 36 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,264 likes - 36 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 | 5 | [Hexagon](https://open.spotify.com/track/5lLWytmmISFbNfd2PJ0Q4j) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [HANA](https://open.spotify.com/album/5cYLKcquLbRmq2373tQJ8B) | 3:46 |
 | 6 | [Giant Lion](https://open.spotify.com/track/12dRR2NrTclT2KJeAwuFR3) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [ION](https://open.spotify.com/album/0MFykXNF16vdKA92yO4eiI) | 4:05 |
 | 7 | [Curated by Nerd Connection x Z1](https://open.spotify.com/track/3qDzNky3TH9Qlvv9nqFJ2N) | [Sync Next 23](https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E) | [Sync Next 23 audio liners](https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc) | 0:16 |
-| 8 | [Good Night Good Dream](https://open.spotify.com/track/423WHvB4mKprM6hELzpH3F) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [Good Night Good Dream](https://open.spotify.com/album/4lFbDrujNnh4oFGBHIGYiv) | 4:25 |
+| 8 | [‎Good Night Good Dream](https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [‎Good Night Good Dream](https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc) | 4:25 |
 | 9 | [I Robbed a Bank](https://open.spotify.com/track/3eBQCl5y6oGPnAJ1yTGeMW) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [I Robbed a Bank](https://open.spotify.com/album/0Ml07bUAnZZ4T3utkN0lpl) | 2:50 |
 | 10 | [Curated by The Muddha](https://open.spotify.com/track/0p7b55WF56k8YTMMpQyDGg) | [Sync Next 23](https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E) | [Sync Next 23 audio liners](https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc) | 0:45 |
 | 11 | [Moment:](https://open.spotify.com/track/2jJgwdRGb0JnSTG8sn5GCb) | [노아윤](https://open.spotify.com/artist/0NNBggjhk6qjKo4N3GTYvk) | [Moment:](https://open.spotify.com/album/0U5XVpMvNcRCLG3UFJePgI) | 4:44 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 | 35 | [The Strong Heavy Vehicles \- Korean Version](https://open.spotify.com/track/0p8Qv06h32F2PT45OMGyKX) | [Tayo the Little Bus](https://open.spotify.com/artist/3gzyfNen0cMn6dybhnmwpd) | [Tayo's Sing Along Show 1 \(Korean Version\)](https://open.spotify.com/album/6HX2fE9yheC34o4JpYmn1B) | 2:30 |
 | 36 | [Tannhäuser: Overture](https://open.spotify.com/track/1U1i1HBJ5H8DY5J4fO8ySg) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Sir Georg Solti](https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH) | [Wagner: Orchestral Favourites](https://open.spotify.com/album/4clpzOVyYckfHXEuFZ8gXu) | 14:13 |
 
-Snapshot ID: `MCxiZWNhYmJkMzc5NjVmMmVjNmEwMmU0ZDc5MTFmYzQ4ODE0ZTFhYjQx`
+Snapshot ID: `MCxmMGUyODQwNDBjYjljMTMxYzUyMTg0MWU5MDQ5OTIzZDUzM2UwY2Ew`

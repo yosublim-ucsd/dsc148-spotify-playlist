@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "100 Mili",
+      "url": "https://open.spotify.com/track/2faP6QUfGN94HI1FTSrpsm"
+    },
+    {
+      "album": {
         "name": "100 Mili",
         "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
       },
@@ -20,7 +42,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 142153,
       "name": "100 Mili",
       "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
@@ -678,7 +700,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 128256,
       "name": "Obcecada",
       "url": "https://open.spotify.com/track/7vXn1gdgKiCHntX6GYFPJY"

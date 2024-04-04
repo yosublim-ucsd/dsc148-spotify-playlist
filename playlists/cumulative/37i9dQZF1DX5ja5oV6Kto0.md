@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Tim Lyre & BOJ
 
-644 songs - 1 day 8 hr 14 min
+645 songs - 1 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,7 +618,8 @@
 | [Vex Oh feat\. GoldLink & Ari PenSmith](https://open.spotify.com/track/4n358XQMHXd0xi6NazWdxr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Eight9FLY](https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:42 | 2024-03-21 | 2024-03-25 |
 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 | 2022-10-28 | 2023-04-09 |
 | [VIDEO GIRL](https://open.spotify.com/track/0FlEwDwRmWA7naZtqbKhx9) | [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [VIDEO GIRL](https://open.spotify.com/album/5NMFGvtC0Y2z4FRzXWZodS) | 2:44 | 2023-07-14 | 2023-08-18 |
-| [Vitamin D](https://open.spotify.com/track/65aPujtCATKAH8IgGQPt4t) | [3rty](https://open.spotify.com/artist/1tf6tPWbSTGpFgNo9IAP8U) | [Vitamin D](https://open.spotify.com/album/0oiSNg8MdYofwQrLSdQDUf) | 3:07 | 2024-03-15 |  |
+| [Vitamin D](https://open.spotify.com/track/65aPujtCATKAH8IgGQPt4t) | [3rty](https://open.spotify.com/artist/1tf6tPWbSTGpFgNo9IAP8U) | [Vitamin D](https://open.spotify.com/album/0oiSNg8MdYofwQrLSdQDUf) | 3:07 | 2024-03-15 | 2024-04-04 |
+| [Vitamin D](https://open.spotify.com/track/38wwH8rLOM07KQ2iYscUiY) | [3rty](https://open.spotify.com/artist/1tf6tPWbSTGpFgNo9IAP8U), [WeTalkSound](https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w) | [Vitamin D / Dey Play](https://open.spotify.com/album/5ZR8Ae56tRPjiEB2fOGt4h) | 3:07 | 2024-03-29 |  |
 | [Wa Ba Milo](https://open.spotify.com/track/7enpwC4JCOV84YREv5XZnC) | [X1N0](https://open.spotify.com/artist/5WmSHsUDaF0rdgixO9wL05) | [INGENIOUS](https://open.spotify.com/album/5vrk8X7e8p1JAu6HPWZDU0) | 2:29 | 2023-11-24 | 2023-12-02 |
 | [Wake Up](https://open.spotify.com/track/6lymDMoeOs8GHutXElZTSn) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Wake Up](https://open.spotify.com/album/6tThUvsa9NTLfdkFV2S7I3) | 1:26 | 2022-09-09 | 2022-09-30 |
 | [Wanna Dance](https://open.spotify.com/track/0aRnRPkcyjqw3IeKiZlSFG) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Wanna Dance](https://open.spotify.com/album/6FxgQ6RHEDhRhHNR899ddv) | 3:11 | 2023-12-08 |  |

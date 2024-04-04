@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 852697,
+  "2024-04-04": 853059,
   "date_first_scraped": "2022-06-02",
   "description": "This is Carin Leon. The essential tracks, all in one playlist.",
   "name": "This Is Carin Leon",
@@ -738,6 +738,28 @@
     },
     {
       "album": {
+        "name": "Existo",
+        "url": "https://open.spotify.com/album/0aBkLzScGffWKy1Gz0qHwJ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175355,
+      "name": "Existo",
+      "url": "https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN"
+    },
+    {
+      "album": {
         "name": "Guaro (Remix)",
         "url": "https://open.spotify.com/album/3NnJPRCFbWl8UuMm78YnyK"
       },
@@ -1065,7 +1087,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 226488,
       "name": "La Posible Manera - En Vivo",
       "url": "https://open.spotify.com/track/4dKdZqYLNYQKko5z1ZU6hy"

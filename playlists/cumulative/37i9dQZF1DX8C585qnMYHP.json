@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new music by Experimental independent artists and labels. STEMLINES on cover. Artwork by Thami Nabil",
+  "description": "The best new music by Experimental independent artists and labels. @ (at) on cover. Artwork by Thami Nabil",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 256088,
       "name": "10easy",
       "url": "https://open.spotify.com/track/4tbc7xmFrymbMc7kYDLWrL"
@@ -4014,7 +4014,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 218586,
       "name": "Breath and Synth Experiment",
       "url": "https://open.spotify.com/track/5ewo7wEAO7K9DCFfo8CAow"
@@ -5215,6 +5215,24 @@
     },
     {
       "album": {
+        "name": "\u4e4b / OF",
+        "url": "https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu"
+    },
+    {
+      "album": {
         "name": "Dancing Like Dust",
         "url": "https://open.spotify.com/album/5IfhJxfgiDeYw1OkYVcovX"
       },
@@ -6127,6 +6145,24 @@
     },
     {
       "album": {
+        "name": "EXHALATION Vol.3 The Great Silence",
+        "url": "https://open.spotify.com/album/0Ja7lmUfyC8uX0nd4iLMAq"
+      },
+      "artists": [
+        {
+          "name": "Cam Lasky",
+          "url": "https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315428,
+      "name": "Dacey's Patent Automatic Nanny",
+      "url": "https://open.spotify.com/track/2iEfmDxnxBtUShAQdNjErT"
+    },
+    {
+      "album": {
         "name": "Daddy Vaquero",
         "url": "https://open.spotify.com/album/6EoyMk8z51wYOSjr43DqNp"
       },
@@ -6602,7 +6638,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 149626,
       "name": "Desendere\u00e7ada",
       "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
@@ -9749,6 +9785,24 @@
     },
     {
       "album": {
+        "name": "Forgotten Flower",
+        "url": "https://open.spotify.com/album/7j9Cx2dJNKoAPVVU1LPye4"
+      },
+      "artists": [
+        {
+          "name": "Henryne Girls",
+          "url": "https://open.spotify.com/artist/5ihXHvY7jBzaYC1RVJLp0R"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136317,
+      "name": "Forgotten Flower",
+      "url": "https://open.spotify.com/track/0Hjd5PfLJYEKEb6G4RIXqG"
+    },
+    {
+      "album": {
         "name": "A Call to Arms",
         "url": "https://open.spotify.com/album/5Q0v1RoHd7QKofUo4WLrdA"
       },
@@ -11845,6 +11899,24 @@
     },
     {
       "album": {
+        "name": "House Below the Forest Floor",
+        "url": "https://open.spotify.com/album/3fVQxGGPEkzWNvKwwcs5L2"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188975,
+      "name": "House Below the Forest Floor",
+      "url": "https://open.spotify.com/track/2xo8YQCTyfYAQOLdeVioK5"
+    },
+    {
+      "album": {
         "name": "Housebreaker",
         "url": "https://open.spotify.com/album/1E6JrX9ZgDjJCM24B6335K"
       },
@@ -12192,7 +12264,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 517998,
       "name": "I",
       "url": "https://open.spotify.com/track/35gTDACxDcRebxunF5igw8"
@@ -12366,6 +12438,28 @@
       "duration_ms": 43373,
       "name": "I Like Cars",
       "url": "https://open.spotify.com/track/1Ok16D6N0sy6XPwGJcIcvA"
+    },
+    {
+      "album": {
+        "name": "I Need Time",
+        "url": "https://open.spotify.com/album/4QGahV929GYxYpHc2rag62"
+      },
+      "artists": [
+        {
+          "name": "Melanie Charles",
+          "url": "https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe"
+        },
+        {
+          "name": "Rogerst Charles",
+          "url": "https://open.spotify.com/artist/49Mk8uQuSZ7BLKaw5Km5QM"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257091,
+      "name": "I Need Time",
+      "url": "https://open.spotify.com/track/6pa6928PyZgyt5fpusQvux"
     },
     {
       "album": {
@@ -13915,6 +14009,32 @@
     },
     {
       "album": {
+        "name": "I\u2019ll Do Whatever You Want",
+        "url": "https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463080,
+      "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
+      "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
+    },
+    {
+      "album": {
         "name": "Modest Alterations",
         "url": "https://open.spotify.com/album/3tRqe75XYpnH1uJzW72MDR"
       },
@@ -14226,7 +14346,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 455384,
       "name": "KAPITA\u0141KA 8 (ODCHODZISZ OD NAS)",
       "url": "https://open.spotify.com/track/1UUewV1iQZRFfoHjSBPgTb"
@@ -16298,7 +16418,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 176170,
       "name": "Me she said",
       "url": "https://open.spotify.com/track/2aX2Zojj2dhYdusf2hGRhN"
@@ -17698,7 +17818,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 308841,
       "name": "My Noise Is Nothing",
       "url": "https://open.spotify.com/track/1izzRAv6eDzahDVryCP3dA"
@@ -19799,6 +19919,24 @@
     },
     {
       "album": {
+        "name": "PATTI SMITH",
+        "url": "https://open.spotify.com/album/2fuQ3W0hHAJ1IhOrkDW0F2"
+      },
+      "artists": [
+        {
+          "name": "DeepFaith",
+          "url": "https://open.spotify.com/artist/0b6qpgf9acyHi3PwV18Dyc"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201759,
+      "name": "PATTI SMITH",
+      "url": "https://open.spotify.com/track/7FtjGAVTS5eIJWNpNQ5jaT"
+    },
+    {
+      "album": {
         "name": "Unlit Signals",
         "url": "https://open.spotify.com/album/4VA5lelPeYTDivRo2rf8ah"
       },
@@ -20891,6 +21029,28 @@
     },
     {
       "album": {
+        "name": "Quiero Ser Sexy (zpectrum Remix)",
+        "url": "https://open.spotify.com/album/2isQc3qviqIbL0ZV30odHX"
+      },
+      "artists": [
+        {
+          "name": "SoFTT",
+          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
+        },
+        {
+          "name": "zpectrum",
+          "url": "https://open.spotify.com/artist/0sZKl4bfwAsv7l0zcuqWnp"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318104,
+      "name": "Quiero Ser Sexy - zpectrum Remix",
+      "url": "https://open.spotify.com/track/5q9qM0TFg3LIPrTlABApZO"
+    },
+    {
+      "album": {
         "name": "Quoios",
         "url": "https://open.spotify.com/album/3oDEH2fdmbF4dH37SdEsgg"
       },
@@ -20974,7 +21134,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 93176,
       "name": "Rainbow's End",
       "url": "https://open.spotify.com/track/1Gb4G9QFsEwReyWsmkwS2g"
@@ -21770,7 +21930,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 291680,
       "name": "ROAD2RAILS",
       "url": "https://open.spotify.com/track/78J3e3c0GWy3Crw8jzaqwy"
@@ -21810,6 +21970,24 @@
       "duration_ms": 263000,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4mrYVeASpXLLKF1jXpTnhV"
+    },
+    {
+      "album": {
+        "name": "Figura",
+        "url": "https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa"
+      },
+      "artists": [
+        {
+          "name": "CLARAGUILAR",
+          "url": "https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339125,
+      "name": "Ros Elavy",
+      "url": "https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no"
     },
     {
       "album": {
@@ -22474,6 +22652,24 @@
       "duration_ms": 481160,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/0CgtgR2Rz4z9zmbclEhpg8"
+    },
+    {
+      "album": {
+        "name": "Se eu n\u00e3o me divertir, quem \u00e9 que me diverte?",
+        "url": "https://open.spotify.com/album/0stk9o5pshPltSxf9Qhzsx"
+      },
+      "artists": [
+        {
+          "name": "701",
+          "url": "https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168230,
+      "name": "Se o arrependimento matasse",
+      "url": "https://open.spotify.com/track/1oUOHThOffguKFRhWcNeSV"
     },
     {
       "album": {
@@ -23182,7 +23378,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 203955,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/3aL5ZnB59jfM9Y3XJSICAu"
@@ -24808,7 +25004,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 105739,
       "name": "Sulfate",
       "url": "https://open.spotify.com/track/0uhnXN1UiliphsVAcWKeCt"
@@ -26463,6 +26659,28 @@
     },
     {
       "album": {
+        "name": "the REAL (HAAi Remix)",
+        "url": "https://open.spotify.com/album/4a3Ry7yO3FMCJSY3sWay1j"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        },
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336600,
+      "name": "the REAL - HAAi Remix",
+      "url": "https://open.spotify.com/track/77osvGSRvaYOrZZC5xCx4Q"
+    },
+    {
+      "album": {
         "name": "Far Within Reach",
         "url": "https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g"
       },
@@ -26804,7 +27022,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 423767,
       "name": "The Witness",
       "url": "https://open.spotify.com/track/5dna0ShfmtsCcgZfi8pEjl"
@@ -29925,6 +30143,24 @@
     },
     {
       "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211320,
+      "name": "Webcrawler",
+      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
+    },
+    {
+      "album": {
         "name": "Webs",
         "url": "https://open.spotify.com/album/31ajEKC4KLOWTnaP0IkJun"
       },
@@ -29972,7 +30208,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 287767,
       "name": "Werk",
       "url": "https://open.spotify.com/track/7lXZ2YOqx6Nsx0C5xSfPnZ"
@@ -30163,6 +30399,24 @@
     },
     {
       "album": {
+        "name": "Mind Palace Music",
+        "url": "https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72000,
+      "name": "Where'd You Put Me",
+      "url": "https://open.spotify.com/track/3jf2rCDNPvdBrAfjEl3THV"
+    },
+    {
+      "album": {
         "name": "Whisker Train (Down Time)",
         "url": "https://open.spotify.com/album/6vLBC3eqsYffVXsyfUISAM"
       },
@@ -30264,7 +30518,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 350005,
       "name": "Wichita",
       "url": "https://open.spotify.com/track/1UCMd6FcewF3a0tb6A7IQC"
@@ -30736,7 +30990,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 123692,
       "name": "YATKAMAN3000",
       "url": "https://open.spotify.com/track/3hsMgDto5riKNTHnrlTGLd"
@@ -30776,6 +31030,24 @@
       "duration_ms": 197760,
       "name": "Yellow River Drone",
       "url": "https://open.spotify.com/track/1IhaSAvt7pf9qEEBt5bkoj"
+    },
+    {
+      "album": {
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123953,
+      "name": "Yip, Yip, Yip",
+      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
     },
     {
       "album": {
@@ -31013,6 +31285,28 @@
     },
     {
       "album": {
+        "name": "zen jam",
+        "url": "https://open.spotify.com/album/6m5KZCvu6ef32UNnPNk3uC"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        },
+        {
+          "name": "The Flipside",
+          "url": "https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100869,
+      "name": "zen jam",
+      "url": "https://open.spotify.com/track/53enCvgjbPueMfdhw5wrzt"
+    },
+    {
+      "album": {
         "name": "Zenith",
         "url": "https://open.spotify.com/album/0C2T6aMgCJOvqtugUlAsx5"
       },
@@ -31162,7 +31456,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 362893,
       "name": "\u00c9coute Au Loin",
       "url": "https://open.spotify.com/track/0roPZdFgmpj7jFe7WstJBK"

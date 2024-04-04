@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > The finest set of Malayalam music from the past 10 years.<br/>Cover : Manjummel Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,608 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,784 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 49 | [PakalIravukal \(From "Kurup"\)](https://open.spotify.com/track/11Sw3eTPiS3svF1PFA7j1p) | [Neha Nair](https://open.spotify.com/artist/78NGdhTf5oKXObZbj278qk), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [PakalIravukal \(From "Kurup"\) \- Single](https://open.spotify.com/album/2Pw0C9hhfkYvzwQl3oJtAS) | 3:33 |
 | 50 | [Kamini](https://open.spotify.com/track/5sC8JC6dHcEifGMB8xPbbO) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Anugraheethan Antony](https://open.spotify.com/album/2DJyACvp30UFBGAvk9UGmL) | 3:58 |
 
-Snapshot ID: `MCw3YjI2OTFiZTcxMzFkMzVhZTkzYzc4ZGRkMWEwYjkwYjIyNmRjOTNh`
+Snapshot ID: `MCwxYTBlNzRiY2IwMjJiMTg1ODU4ZjdlYWYzYjU4NjhjOGE3YTNlYzgx`

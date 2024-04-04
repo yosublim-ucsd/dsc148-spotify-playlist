@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: Camilo & Evaluna Montaner
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,594 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,595 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 90 | [Hasta el Sol de Hoy \- Versión Salsa](https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Hasta el Sol de Hoy](https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp) | 3:56 |
 | 91 | [Los Recuerdos](https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Los Recuerdos](https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV) | 2:41 |
 | 92 | [Se Le Nota](https://open.spotify.com/track/6l1CD1Raf4AtgQOJLXwiwt) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi) | [De Camino A Palomino, Vol\. 1](https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M) | 3:30 |
-| 93 | [Uno de los Dos](https://open.spotify.com/track/0GuebVpkNITyobZ52oLTqf) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Mas De Mi](https://open.spotify.com/album/21Q82X4xEiZNbFHEmhZTX3) | 4:24 |
-| 94 | [Ojalá \- Remix](https://open.spotify.com/track/1gkf7yielXnNYK1BqHPkHj) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Ojalá \(Remix\)](https://open.spotify.com/album/7sNRUbrS9DLbbZTtP40KgH) | 3:39 |
+| 93 | [Ojalá \- Remix](https://open.spotify.com/track/1gkf7yielXnNYK1BqHPkHj) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Ojalá \(Remix\)](https://open.spotify.com/album/7sNRUbrS9DLbbZTtP40KgH) | 3:39 |
+| 94 | [Uno de los Dos](https://open.spotify.com/track/0GuebVpkNITyobZ52oLTqf) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Mas De Mi](https://open.spotify.com/album/21Q82X4xEiZNbFHEmhZTX3) | 4:24 |
 | 95 | [Créeme](https://open.spotify.com/track/6hmZuaBLzSLuvHVGCMJwlh) | [Michel Robles](https://open.spotify.com/artist/6cu8qsCgvrKHDLzHOHSeBi), [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [Créeme](https://open.spotify.com/album/3WUjknYm964pru7qXzI85J) | 5:32 |
 | 96 | [Paula C.](https://open.spotify.com/track/5H2y6BJVQ4z44DcscnHgRq) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c) | [SALSWING!](https://open.spotify.com/album/5rYDNDOKwq3T0gK5DCI2CI) | 5:36 |
-| 97 | [Quiero Decirte \- DJ C Remix](https://open.spotify.com/track/76Na3nHNJrkdjZ9qkuiJMz) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [DJ C](https://open.spotify.com/artist/3SchaCFy44QEGv2EdF4ZjS) | [Quiero Decirte \- Remixes](https://open.spotify.com/album/3U2wtzZJqd55HGBfqVHruU) | 3:49 |
-| 98 | [El Combo del Mundo](https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [En Cuarentena](https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2) | 4:19 |
+| 97 | [El Combo del Mundo](https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [En Cuarentena](https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2) | 4:19 |
+| 98 | [Quiero Decirte \- DJ C Remix](https://open.spotify.com/track/76Na3nHNJrkdjZ9qkuiJMz) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [DJ C](https://open.spotify.com/artist/3SchaCFy44QEGv2EdF4ZjS) | [Quiero Decirte \- Remixes](https://open.spotify.com/album/3U2wtzZJqd55HGBfqVHruU) | 3:49 |
 | 99 | [Cómo Olvidar \- Versión 2021](https://open.spotify.com/track/54Gc7ov5yGRn4iaGOph0jJ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Cómo Olvidar \(Versión 2021\)](https://open.spotify.com/album/6hSEwNZfaqGZ6Id9PrOMhO) | 3:46 |
 | 100 | [Sin Fronteras](https://open.spotify.com/track/0EjGZf0b32jCa43xMkEt13) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Mimy Succar](https://open.spotify.com/artist/1hOnt6Sw9sCHTUbljZwayv), [Haila](https://open.spotify.com/artist/4qaVBTUcoHpMlgf5NpQY7P) | [Sin Fronteras \(feat\. Haila\)](https://open.spotify.com/album/5qgoLsJKKnbHtVpqO4FD4C) | 5:01 |
 
-Snapshot ID: `MCw2OTkyMGFjMTZmYWE4NmU5ZDc2MWZmMjc5MjcyM2Y2MjE3MDU1N2Nl`
+Snapshot ID: `MCwxMWZkYjA4NjkyMzQyMGU5NmVmMzM4NmUxMTFmOTM3NzQzYzhhMDdj`

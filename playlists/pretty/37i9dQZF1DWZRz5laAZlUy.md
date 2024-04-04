@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRz5laAZlUy.md) - [plain]
 
 > Featuring Mora, KAROL G, Wisin & Yandel & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,160 likes - 25 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161 likes - 25 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRz5laAZlUy.md) - [plain]
 | 24 | [La Suzi](https://open.spotify.com/track/7Hr9ke37qeKfCajWSZ4iet) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 2:35 |
 | 25 | [LENTITO](https://open.spotify.com/track/4RMKNv1Bl3koY4Kys0G8Rb) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [LENTITO](https://open.spotify.com/album/4wIh0endOPhEFLXLVYQCR3) | 3:23 |
 
-Snapshot ID: `MCxkNzhiNTE0MGI5YWM2NzM0YzY3ZDBmNGU3NWFhZjI2MDdiNDcxMjky`
+Snapshot ID: `MCxjOGE4OWY0ZjU5OGM0NzliODIxMTRjNTQzNDI5YTg0MDY0MWU0Y2U5`

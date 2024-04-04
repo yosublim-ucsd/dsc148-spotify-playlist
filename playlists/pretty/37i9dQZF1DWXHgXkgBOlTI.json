@@ -1,12 +1,12 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: bohemianvoodoo",
-  "num_followers": 27552,
+  "num_followers": 27565,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2M1ZDdlZmU2ZWQ3MTBiYTE1YjU1OTQ1NzhkYjljMmEyODViYmE3",
+  "snapshot_id": "MCw5ODk1NTkzYWJlNmI4ZDFmNTZjOTY0M2NlMDhhYWJkMzE0ZTQxZjMz",
   "tracks": [
     {
       "added_at": "2024-02-27 15:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
-      },
-      "artists": [
-        {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
-    },
-    {
-      "added_at": "2024-02-27 15:00:00",
-      "album": {
         "name": "NEW",
         "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 300560,
       "name": "Red Ocean",
       "url": "https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk"
+    },
+    {
+      "added_at": "2024-02-27 15:00:00",
+      "album": {
+        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+      },
+      "artists": [
+        {
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "Living Message",
-        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
-      },
-      "artists": [
-        {
-          "name": "Hidefumi Ino",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Blood is thicker than water",
-      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
-    },
-    {
-      "added_at": "2024-02-27 15:00:00",
-      "album": {
         "name": "POLY LIFE MULTI SOUL",
         "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 128028,
       "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
       "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
+    },
+    {
+      "added_at": "2024-02-27 15:00:00",
+      "album": {
+        "name": "Living Message",
+        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
+      },
+      "artists": [
+        {
+          "name": "Hidefumi Ino",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Blood is thicker than water",
+      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "PARADISE",
-        "url": "https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD"
+        "name": "Synesthesia",
+        "url": "https://open.spotify.com/album/1VVpMXHWeaLIxyvGnzEqC8"
       },
       "artists": [
         {
-          "name": "T-SQUARE",
-          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
         }
       ],
-      "duration_ms": 362720,
-      "name": "Mystic Island",
-      "url": "https://open.spotify.com/track/6vqjr1gx5FRzVzrODlbxix"
+      "duration_ms": 309433,
+      "name": "Blue Bird",
+      "url": "https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

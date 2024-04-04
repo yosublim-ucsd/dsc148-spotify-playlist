@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-264 songs - 16 hr 49 min
+265 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 | 2022-05-13 |  |
 | [Goin' Home](https://open.spotify.com/track/1hvG8cR9V0XczIkL4SmuzN) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba](https://open.spotify.com/album/1cHjqGzxfwssPgyD6IYW28) | 5:41 | 2022-05-13 | 2022-07-29 |
 | [Goin' Home \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/4vmyjeAmH2YW1Zf2YhTca6) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 5:41 | 2022-06-28 | 2024-03-01 |
+| [Green Light](https://open.spotify.com/track/6pJKUVbk8N858Ukh1L0CWm) | [Stockholm Whereabouts](https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18) | [Green Light](https://open.spotify.com/album/1AYgQw2jkNkyptUflqyMGA) | 3:53 | 2024-04-02 |  |
 | [Half The Perfect World](https://open.spotify.com/track/2Lpy3EwCxTCDnpSoraugYc) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 4:21 | 2022-06-28 | 2023-11-23 |
 | [Half The Perfect World](https://open.spotify.com/track/1kq4ocVnCIxl1ZwXrlPq2c) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux](https://open.spotify.com/album/1TRQHKr7uWu387QasBT7S5) | 4:22 | 2022-11-10 | 2022-11-12 |
 | [Half The Perfect World](https://open.spotify.com/track/3lkbJzh2kPBJHuuYKF48Qs) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux \(International Edition\)](https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m) | 4:22 | 2022-05-13 | 2022-07-29 |
@@ -210,7 +211,7 @@
 | [Small Bossa](https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2) | [Matt Rollings](https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu) | [The Valentine Sessions](https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c) | 3:19 | 2023-09-22 | 2024-01-21 |
 | [So In Love](https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Every Time We Say Goodbye](https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0) | 3:33 | 2023-06-13 |  |
 | [So Nice](https://open.spotify.com/track/1L0DDeREckUNqcKyveuyH0) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd) | 3:50 | 2022-05-13 | 2022-07-29 |
-| [So Nice](https://open.spotify.com/track/383io5N8jcS6SVycxhZdub) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/30i0HL1NsQ2xcMhgmQ7rvi) | 3:50 | 2022-06-28 |  |
+| [So Nice](https://open.spotify.com/track/383io5N8jcS6SVycxhZdub) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/30i0HL1NsQ2xcMhgmQ7rvi) | 3:50 | 2022-06-28 | 2024-04-04 |
 | [So Nice \(Samba de Verao\)](https://open.spotify.com/track/4Cs9QPTqcf2PY8G7RIEBsk) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY) | 5:13 | 2022-05-13 | 2022-07-29 |
 | [So Nice \(Samba de Verao\)](https://open.spotify.com/track/4JP5ptajY7ON3UY8q6EMQ8) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 5:14 | 2022-08-11 | 2023-07-24 |
 | [Sobre o oceano](https://open.spotify.com/track/1hfWhiIqyNu3Qr5jGMNif9) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Sobre o oceano](https://open.spotify.com/album/6u92erX7J21BjD75dEGuHx) | 2:50 | 2024-01-17 |  |

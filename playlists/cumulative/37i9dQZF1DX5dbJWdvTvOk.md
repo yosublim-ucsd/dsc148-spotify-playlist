@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-674 songs - 1 day 4 hr 37 min
+675 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Inside the stone](https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Inside the stone](https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi) | 2:04 | 2023-03-31 | 2023-04-22 |
 | [Intertwined](https://open.spotify.com/track/3oni7vtcnPPUWvnT4zRfQF) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Lighthouse](https://open.spotify.com/album/0Y6A0WTmWoDys4X4okDmq4) | 2:20 | 2023-06-02 | 2023-06-04 |
 | [Intimation](https://open.spotify.com/track/1pPsz87YEWRZKgCLSPKyoL) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Intimation](https://open.spotify.com/album/3zKYzylFhenfGuKNaNfOB6) | 1:24 | 2023-04-21 | 2023-06-03 |
+| [Into Motion](https://open.spotify.com/track/0bu1XZGQadPRJLf8F7hv6p) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Into Motion](https://open.spotify.com/album/1ZcPD4YUAnPcbVUgGOpTz4) | 2:37 | 2024-03-29 |  |
 | [Into the Mist](https://open.spotify.com/track/4V7ieADYvEzdWghzh9mZNa) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Into the Mist](https://open.spotify.com/album/2ZSJZQzqcgxBVIqqBM6cBb) | 3:26 | 2023-04-21 | 2023-06-09 |
 | [Introspection](https://open.spotify.com/track/2cZJIUh0N1GkzZr3YjL5zN) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Introspection](https://open.spotify.com/album/2y68AHyHcrTlqtbsAINzbo) | 2:42 | 2023-04-21 |  |
 | [Is It Worth The Sacrifice](https://open.spotify.com/track/1sEQxb89LCu1u1WtjSOxNL) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Is It Worth The Sacrifice](https://open.spotify.com/album/3acE1KO951uFGG7x2Z7WzQ) | 3:46 | 2023-04-21 |  |
@@ -512,7 +513,7 @@
 | [Saudade](https://open.spotify.com/track/5ya9oJXawpEtTT64juebsM) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Saudade](https://open.spotify.com/album/5Zh8cgGWYAc5qRLwTvPXcF) | 2:42 | 2023-06-08 |  |
 | [Searching](https://open.spotify.com/track/2Th9eX05sSxseR88r9fQnE) | [Donatella Monza](https://open.spotify.com/artist/3jP7DTsE4kq5Gi0KRmO045) | [Searching](https://open.spotify.com/album/3uRBe6voWCE80tm3tC65TY) | 1:37 | 2023-03-31 | 2023-04-22 |
 | [Secret Letters For You](https://open.spotify.com/track/1dLCaGhrgqqcX4m9g5P4EZ) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Secret Letters For You](https://open.spotify.com/album/0LwkZsEqjcn7LA6PxVF5nq) | 2:33 | 2023-04-21 |  |
-| [Secret Soul](https://open.spotify.com/track/5ZgoZtLh1ofGyDavnEqqzp) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Secret Soul](https://open.spotify.com/album/6blFQ8TbMmiSXu2Bw5k07w) | 2:44 | 2023-04-21 |  |
+| [Secret Soul](https://open.spotify.com/track/5ZgoZtLh1ofGyDavnEqqzp) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Secret Soul](https://open.spotify.com/album/6blFQ8TbMmiSXu2Bw5k07w) | 2:44 | 2023-04-21 | 2024-04-04 |
 | [Senderos](https://open.spotify.com/track/0Tac24wJITYhVNDgN6o5iC) | [Julia Quirós](https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF) | [Senderos](https://open.spotify.com/album/5b2Qf2d0ca4auxwQGQ3icv) | 2:09 | 2022-10-07 | 2023-04-22 |
 | [Sense of narrative](https://open.spotify.com/track/0KDz1JWVTq6oKKflHHlmZD) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Sense of narrative](https://open.spotify.com/album/2nAHczJyLyaoAZEMxqqwVj) | 2:00 | 2023-12-15 |  |
 | [Serata Silenziosa](https://open.spotify.com/track/2xIH2lggFO43v7wPbEtHEY) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Serata Silenziosa](https://open.spotify.com/album/1XEY8srIqh18PkbQK84tpc) | 1:23 | 2022-07-15 | 2023-04-22 |

@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-549 songs - 1 day 8 hr 45 min
+550 songs - 1 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [always](https://open.spotify.com/track/0hjZ5WaakADg6SzE8NRfi5) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [portrait of a dog](https://open.spotify.com/album/6SsOunBXV82rQ7xhiQlYi5) | 5:23 | 2023-01-27 | 2023-08-12 |
 | [always](https://open.spotify.com/track/3kO5SqEje4LhVZeD7XWNvr) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [always/the speed of sound!](https://open.spotify.com/album/06DWAGemrz6oW1iWwSPEfl) | 5:23 | 2023-01-27 | 2023-04-30 |
 | [Ancestral Prototypes](https://open.spotify.com/track/6zqpO4lWlxkIvNfdofHHC6) | [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Ancestral Prototypes](https://open.spotify.com/album/0KxhTSZZlWjwMFmP6IloVF) | 2:27 | 2022-03-11 | 2022-04-29 |
-| [Angela](https://open.spotify.com/track/36TkDjlOyExWGWpeThOgsx) | [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m), [Stas THEE Boss](https://open.spotify.com/artist/569JHM0BuZlot1yXODxhUV), [Irene Barber](https://open.spotify.com/artist/4SMPHImE8ShQJ55mJ01LoW) | [Angela](https://open.spotify.com/album/1XyGvGvrTfxboCatcdf3tA) | 3:01 | 2024-01-12 |  |
+| [Angela](https://open.spotify.com/track/1RlwflrljoxcNGoRPjeeUT) | [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m), [Stas THEE Boss](https://open.spotify.com/artist/569JHM0BuZlot1yXODxhUV), [Irene Barber](https://open.spotify.com/artist/4SMPHImE8ShQJ55mJ01LoW) | [Exotic Birds of Prey](https://open.spotify.com/album/3PqRZV34l1ePPXXAHYOQYi) | 3:01 | 2024-01-12 |  |
+| [Angela](https://open.spotify.com/track/36TkDjlOyExWGWpeThOgsx) | [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m), [Stas THEE Boss](https://open.spotify.com/artist/569JHM0BuZlot1yXODxhUV), [Irene Barber](https://open.spotify.com/artist/4SMPHImE8ShQJ55mJ01LoW) | [Angela](https://open.spotify.com/album/1XyGvGvrTfxboCatcdf3tA) | 3:01 | 2024-01-12 | 2024-04-04 |
 | [Animal Kingdom](https://open.spotify.com/track/2wAryG29r8m1kOTL3SHWRP) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Animal Kingdom](https://open.spotify.com/album/2Db37z791rVaI1HHN6YZXA) | 3:34 | 2021-11-12 | 2022-04-09 |
 | [Anywhere \(feat\. Meshell Ndegeocello\)](https://open.spotify.com/track/2JqpzB1Z6r2MjZ7lGaONex) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Anywhere \(feat\. Meshell Ndegeocello\)](https://open.spotify.com/album/0uCaokUXqrnT9ILV69dkZX) | 3:32 | 2023-01-20 | 2023-05-04 |
 | [Anywhere \(feat\. Meshell Ndegeocello\)](https://open.spotify.com/track/4VMzhRu40whxcDcKuoHLr0) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [COOKUP](https://open.spotify.com/album/2MXzQNmgVCjW3BQjq06JAZ) | 3:32 | 2023-01-20 | 2023-06-17 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 235977,
+  "2024-04-04": 236025,
   "date_first_scraped": "2021-12-28",
   "description": "The shape of noise to come.",
   "name": "adrenaline",
@@ -2215,10 +2215,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 177636,
       "name": "D.I.A.D.",
       "url": "https://open.spotify.com/track/4V3dIL2F7vbyrRko2yMkF4"
+    },
+    {
+      "album": {
+        "name": "The Need to Separate",
+        "url": "https://open.spotify.com/album/0gA6P28dwwf52W8fXjZRtD"
+      },
+      "artists": [
+        {
+          "name": "Shell",
+          "url": "https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177636,
+      "name": "D.I.A.D.",
+      "url": "https://open.spotify.com/track/5MCBzwshyfAoOC8t4Yg5TL"
     },
     {
       "album": {
@@ -2634,6 +2652,24 @@
     },
     {
       "album": {
+        "name": "Disturb The Peace",
+        "url": "https://open.spotify.com/album/6x3Z4xT9F4uyqQjjgSRTwO"
+      },
+      "artists": [
+        {
+          "name": "Death Lens",
+          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105556,
+      "name": "Disturb The Peace",
+      "url": "https://open.spotify.com/track/3E4a4lwG05VJCgB8A3m1hI"
+    },
+    {
+      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/7F0bAW23xFNyiFeC3OKJd8"
       },
@@ -2775,6 +2811,24 @@
       "duration_ms": 202207,
       "name": "Drain",
       "url": "https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5"
+    },
+    {
+      "album": {
+        "name": "Drip From The Fountain",
+        "url": "https://open.spotify.com/album/3GvYuzktA2Uoc3kT9cRabX"
+      },
+      "artists": [
+        {
+          "name": "MILLY",
+          "url": "https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210480,
+      "name": "Drip From The Fountain",
+      "url": "https://open.spotify.com/track/7IoSvKuWY2AYDLbfBl3S3d"
     },
     {
       "album": {
@@ -3085,7 +3139,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 208869,
       "name": "Fear",
       "url": "https://open.spotify.com/track/1Zo3Qf54R4NWY7otptNRAc"
@@ -5077,7 +5131,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 194355,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/4me6CoGX1RHTu7VE7Hnkpl"
@@ -9617,7 +9671,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 268673,
       "name": "Under Sound",
       "url": "https://open.spotify.com/track/30Rr0DHxZSrwds8QmxGopf"

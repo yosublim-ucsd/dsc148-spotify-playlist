@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 59563,
+  "num_followers": 59579,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzEyNTUwYjRiYWVkNWNkN2U4MWM0ZGUwOWQ2MjIzOGZmYjJkYmIw",
+  "snapshot_id": "MCxiODQ5OTY2YWYwZDE4NGQwMDMwYzBkNWNjMjViZTgwMDQzNDZiZDAw",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "No Corro, No Grito, No Empujo",
-        "url": "https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy"
-      },
-      "artists": [
-        {
-          "name": "Triciclo Circus Band",
-          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Excusez-Moi",
-      "url": "https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht"
-    },
-    {
       "added_at": "2023-04-12 01:24:34",
       "album": {
         "name": "El Patio",
@@ -71,6 +55,22 @@
       "duration_ms": 260000,
       "name": "Cumbiero",
       "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "No Corro, No Grito, No Empujo",
+        "url": "https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Circus Band",
+          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Excusez-Moi",
+      "url": "https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht"
     },
     {
       "added_at": "2022-01-11 02:50:37",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Grandes de la Musica Instrumental",
-        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
-      },
-      "artists": [
-        {
-          "name": "Tommy Rodriguez Y Su Saxofon Magico",
-          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
-        }
-      ],
-      "duration_ms": 113613,
-      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
-      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "...un poco mas.",
         "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 303893,
       "name": "Naila",
       "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Grandes de la Musica Instrumental",
+        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Rodriguez Y Su Saxofon Magico",
+          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
+        }
+      ],
+      "duration_ms": 113613,
+      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
+      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Orqu\u00eddeas Susurrantes",
-        "url": "https://open.spotify.com/album/4wgY1NlxUvjbhXFbMPyTwz"
-      },
-      "artists": [
-        {
-          "name": "Magos Herrera",
-          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
-        }
-      ],
-      "duration_ms": 239673,
-      "name": "T\u00e9 de Olvido",
-      "url": "https://open.spotify.com/track/11DHmnBqBjuGyDFvYbriWn"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "...un poco mas.",
         "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 370613,
       "name": "Al son de la marimba",
       "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Orqu\u00eddeas Susurrantes",
+        "url": "https://open.spotify.com/album/4wgY1NlxUvjbhXFbMPyTwz"
+      },
+      "artists": [
+        {
+          "name": "Magos Herrera",
+          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
+        }
+      ],
+      "duration_ms": 239673,
+      "name": "T\u00e9 de Olvido",
+      "url": "https://open.spotify.com/track/11DHmnBqBjuGyDFvYbriWn"
     },
     {
       "added_at": "2023-04-12 01:24:34",
@@ -355,22 +355,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Guidum",
-        "url": "https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx"
-      },
-      "artists": [
-        {
-          "name": "Abraham Laboriel",
-          "url": "https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
       },
@@ -391,18 +375,38 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
-        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
+        "name": "Guidum",
+        "url": "https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx"
       },
       "artists": [
         {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+          "name": "Abraham Laboriel",
+          "url": "https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW"
         }
       ],
-      "duration_ms": 148786,
-      "name": "Charleston",
-      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
+      "duration_ms": 167026,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Raz\u00f3n de Vivir (Desde Casa)",
+        "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
+      },
+      "artists": [
+        {
+          "name": "Magos Herrera",
+          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+        }
+      ],
+      "duration_ms": 254269,
+      "name": "Raz\u00f3n de Vivir (Desde Casa)",
+      "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
     },
     {
       "added_at": "2023-10-25 13:56:48",
@@ -419,6 +423,22 @@
       "duration_ms": 127652,
       "name": "Trementina",
       "url": "https://open.spotify.com/track/1kqh6ZavA3h4PpkRAJgG8o"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
+        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Charleston",
+      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -455,26 +475,6 @@
       "duration_ms": 193332,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Raz\u00f3n de Vivir (Desde Casa)",
-        "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
-      },
-      "artists": [
-        {
-          "name": "Magos Herrera",
-          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
-        }
-      ],
-      "duration_ms": 254269,
-      "name": "Raz\u00f3n de Vivir (Desde Casa)",
-      "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -731,26 +731,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
-        "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
-      },
-      "artists": [
-        {
-          "name": "Dannah Garay",
-          "url": "https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK"
-        },
-        {
-          "name": "Oscar Stagnaro",
-          "url": "https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3"
-        }
-      ],
-      "duration_ms": 217840,
-      "name": "Deb\u00ed Llorar",
-      "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Nuevas Relaciones: Atardecer",
         "url": "https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 370586,
       "name": "La vida tiene que seguir, amor",
       "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
+        "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
+      },
+      "artists": [
+        {
+          "name": "Dannah Garay",
+          "url": "https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK"
+        },
+        {
+          "name": "Oscar Stagnaro",
+          "url": "https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "Deb\u00ed Llorar",
+      "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Jazz",
-        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
-      },
-      "artists": [
-        {
-          "name": "Chucho Zarzosa Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "Tipitipit\u00edn",
-      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "D\u00edas Lentos",
         "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 214000,
       "name": "Chorinho Blanco",
       "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
+      },
+      "artists": [
+        {
+          "name": "Chucho Zarzosa Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "Tipitipit\u00edn",
+      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
     },
     {
       "added_at": "2021-07-28 16:44:28",

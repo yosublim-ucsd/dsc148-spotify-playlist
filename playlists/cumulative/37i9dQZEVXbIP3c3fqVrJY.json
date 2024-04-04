@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 208695,
       "name": "A\u017e na m\u011bs\u00edc",
       "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
@@ -4354,7 +4354,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 168923,
       "name": "Cik\u00e1dy",
       "url": "https://open.spotify.com/track/4enbO9cZhJLSZ6Tf21LRnv"
@@ -8820,7 +8820,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 158607,
       "name": "Hannah Montana",
       "url": "https://open.spotify.com/track/2sXnat46y10FtAbW2A0ira"
@@ -10176,7 +10176,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 215171,
       "name": "Ibalgin",
       "url": "https://open.spotify.com/track/4UZ91aYQisCeUTyaw0YxZ2"
@@ -12443,6 +12443,24 @@
     },
     {
       "album": {
+        "name": "Holy Labello",
+        "url": "https://open.spotify.com/album/1D0NQ5Sgriki84qjZYnPZq"
+      },
+      "artists": [
+        {
+          "name": "Labello",
+          "url": "https://open.spotify.com/artist/61vDDKyVrpOG3it5bAC8kt"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166254,
+      "name": "Labible",
+      "url": "https://open.spotify.com/track/7qGsyHexiVqJk3R8m6zu0X"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -14032,7 +14050,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 199053,
       "name": "Malovan\u00ed",
       "url": "https://open.spotify.com/track/5RM8cNb1Sk9XkkwnJ3MvgZ"
@@ -14086,7 +14104,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 203567,
       "name": "Mal\u00e1 d\u00e1ma",
       "url": "https://open.spotify.com/track/6Le5KOUhQgU4PQNkcX6sP4"
@@ -17892,7 +17910,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
@@ -17943,6 +17961,28 @@
     },
     {
       "album": {
+        "name": "Holy Labello",
+        "url": "https://open.spotify.com/album/1D0NQ5Sgriki84qjZYnPZq"
+      },
+      "artists": [
+        {
+          "name": "Labello",
+          "url": "https://open.spotify.com/artist/61vDDKyVrpOG3it5bAC8kt"
+        },
+        {
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160320,
+      "name": "Only the Sekta",
+      "url": "https://open.spotify.com/track/6LJ49x9kzJYg7zveCdCWFV"
+    },
+    {
+      "album": {
         "name": "Optimista",
         "url": "https://open.spotify.com/album/1WYnC2l7zE6lbLX9gtbAOd"
       },
@@ -17958,6 +17998,28 @@
       "duration_ms": 152472,
       "name": "Optimista",
       "url": "https://open.spotify.com/track/3XbM3IsEPJqc3GjBwnKyIJ"
+    },
+    {
+      "album": {
+        "name": "Holy Labello",
+        "url": "https://open.spotify.com/album/1D0NQ5Sgriki84qjZYnPZq"
+      },
+      "artists": [
+        {
+          "name": "Labello",
+          "url": "https://open.spotify.com/artist/61vDDKyVrpOG3it5bAC8kt"
+        },
+        {
+          "name": "Patrik Love ICY L",
+          "url": "https://open.spotify.com/artist/1YV8tnErKoEiXuWGYWMI8N"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165534,
+      "name": "Origo tdy",
+      "url": "https://open.spotify.com/track/2cjqci9DCTJ8HD0QOjRAOj"
     },
     {
       "album": {
@@ -23303,6 +23365,28 @@
     },
     {
       "album": {
+        "name": "Holy Labello",
+        "url": "https://open.spotify.com/album/1D0NQ5Sgriki84qjZYnPZq"
+      },
+      "artists": [
+        {
+          "name": "Labello",
+          "url": "https://open.spotify.com/artist/61vDDKyVrpOG3it5bAC8kt"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199596,
+      "name": "Swag je v na\u0161\u00ed DNA",
+      "url": "https://open.spotify.com/track/1RWC8PWxsaYKD7OsibhQfv"
+    },
+    {
+      "album": {
         "name": "FLEX SYMBOL",
         "url": "https://open.spotify.com/album/1QDlOEwDFrc3Db7Rkrwu2I"
       },
@@ -24878,7 +24962,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
@@ -25268,6 +25352,24 @@
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "album": {
+        "name": "Holy Labello",
+        "url": "https://open.spotify.com/album/1D0NQ5Sgriki84qjZYnPZq"
+      },
+      "artists": [
+        {
+          "name": "Labello",
+          "url": "https://open.spotify.com/artist/61vDDKyVrpOG3it5bAC8kt"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133700,
+      "name": "Upe High",
+      "url": "https://open.spotify.com/track/0bfd5NYCeGZJ1UdAOTBFcA"
     },
     {
       "album": {
@@ -26844,7 +26946,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"

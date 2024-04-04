@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: NCT 127)",
-  "num_followers": 123621,
+  "num_followers": 123589,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWZhN2MyM2Q3MWUyZDkyNTNkNWMxNmQ1M2FlNDFlMDdkZWNjNDU3",
+  "snapshot_id": "MCw4YjJiMjJhMGJiMjcxM2Y2OTIzMzhkNmIxMjNiY2Y1YTRkN2ZkMTk0",
   "tracks": [
     {
       "added_at": "2024-01-08 08:05:07",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "\uc138\uac00\uc9c0 \uc18c\uc6d0 Wish Tree - WINTER GARDEN",
-        "url": "https://open.spotify.com/album/69a7YNzhApHfLFwHvPkCso"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "\uc138\uac00\uc9c0 \uc18c\uc6d0 Wish Tree",
-      "url": "https://open.spotify.com/track/3wtDVPGUMTHgsVdpr9uYin"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "[Hwa Sa Show Vol.2] Grey Christmas",
         "url": "https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 208293,
       "name": "Grey Christmas",
       "url": "https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "\uc138\uac00\uc9c0 \uc18c\uc6d0 Wish Tree - WINTER GARDEN",
+        "url": "https://open.spotify.com/album/69a7YNzhApHfLFwHvPkCso"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "\uc138\uac00\uc9c0 \uc18c\uc6d0 Wish Tree",
+      "url": "https://open.spotify.com/track/3wtDVPGUMTHgsVdpr9uYin"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1219,38 +1219,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "Santa For You",
-        "url": "https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI"
-      },
-      "artists": [
-        {
-          "name": "TRI.BE",
-          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "Santa For You",
-      "url": "https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 204554,
-      "name": "Candy Cane",
-      "url": "https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -1291,6 +1259,38 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 204554,
+      "name": "Candy Cane",
+      "url": "https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "Santa For You",
+        "url": "https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI"
+      },
+      "artists": [
+        {
+          "name": "TRI.BE",
+          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "Santa For You",
+      "url": "https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
         "name": "Winter's Glow",
         "url": "https://open.spotify.com/album/3XujYn9KX1atnDjVatumH4"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 158226,
       "name": "Be Your Christmas (feat. BOL4)",
       "url": "https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "Everyday Christmas",
+        "url": "https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Everyday Christmas",
+      "url": "https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "Everyday Christmas",
-        "url": "https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "Everyday Christmas",
-      "url": "https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
         "name": "Back to Christmas",
         "url": "https://open.spotify.com/album/6V67dnvjQ6q61vwxnLuVjU"
       },
@@ -1407,38 +1407,6 @@
       "duration_ms": 226346,
       "name": "Back to Christmas",
       "url": "https://open.spotify.com/track/3nGiUhlT8s6G6lTfO2LuLg"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
-        "name": "Christmas Time",
-        "url": "https://open.spotify.com/album/2iiAglDTCM1gUDjdPwpXFA"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "Christmas Time",
-      "url": "https://open.spotify.com/track/3ctivX3Mw4AbJe7CVMXCAh"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
-        "name": "The Winter's Tale",
-        "url": "https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v"
-      },
-      "artists": [
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        }
-      ],
-      "duration_ms": 225488,
-      "name": "Because It's Christmas",
-      "url": "https://open.spotify.com/track/4hqJ7ikAK2dXTeptTi58Di"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1459,6 +1427,38 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
+        "name": "The Winter's Tale",
+        "url": "https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "duration_ms": 225488,
+      "name": "Because It's Christmas",
+      "url": "https://open.spotify.com/track/4hqJ7ikAK2dXTeptTi58Di"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/2iiAglDTCM1gUDjdPwpXFA"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/3ctivX3Mw4AbJe7CVMXCAh"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
         "name": "The Christmas Number 12",
         "url": "https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ"
       },
@@ -1471,22 +1471,6 @@
       "duration_ms": 159835,
       "name": "The Christmas Number 12",
       "url": "https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
-        "name": "5 Christmas Languages",
-        "url": "https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH"
-      },
-      "artists": [
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "5 Christmas Languages",
-      "url": "https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "5.1",
-        "url": "https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg"
+        "name": "5 Christmas Languages",
+        "url": "https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH"
       },
       "artists": [
         {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
         }
       ],
-      "duration_ms": 214680,
-      "name": "Before Our Night Is Over",
-      "url": "https://open.spotify.com/track/394qYjT7uu43TIdVgor8bX"
+      "duration_ms": 204906,
+      "name": "5 Christmas Languages",
+      "url": "https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2024-01-08 08:05:07",
       "album": {
-        "name": "YAOKI Project part.1",
-        "url": "https://open.spotify.com/album/5RKzrEffa0PoaM4VHUFSH9"
+        "name": "5.1",
+        "url": "https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg"
       },
       "artists": [
         {
-          "name": "Weeekly",
-          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 243000,
-      "name": "Happy Christmas",
-      "url": "https://open.spotify.com/track/576nYROzQH5gkjBSn0S15u"
+      "duration_ms": 214680,
+      "name": "Before Our Night Is Over",
+      "url": "https://open.spotify.com/track/394qYjT7uu43TIdVgor8bX"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1603,6 +1587,22 @@
       "duration_ms": 207880,
       "name": "Merry Merry Christmas",
       "url": "https://open.spotify.com/track/4PrwSC5G3C9xZsmDBHV5FE"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "YAOKI Project part.1",
+        "url": "https://open.spotify.com/album/5RKzrEffa0PoaM4VHUFSH9"
+      },
+      "artists": [
+        {
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Happy Christmas",
+      "url": "https://open.spotify.com/track/576nYROzQH5gkjBSn0S15u"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1675,22 +1675,6 @@
       "duration_ms": 118705,
       "name": "Santa, Give Me What I Need",
       "url": "https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl"
-    },
-    {
-      "added_at": "2024-01-08 08:05:07",
-      "album": {
-        "name": "It's Christmas time",
-        "url": "https://open.spotify.com/album/0QFzaemkqT2OTuveEFyQ2p"
-      },
-      "artists": [
-        {
-          "name": "B1A4",
-          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
-        }
-      ],
-      "duration_ms": 230161,
-      "name": "It's Christmas time",
-      "url": "https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK"
     },
     {
       "added_at": "2024-01-08 08:05:07",
@@ -1799,6 +1783,26 @@
       "duration_ms": 237080,
       "name": "D-day",
       "url": "https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE"
+    },
+    {
+      "added_at": "2024-01-08 08:05:07",
+      "album": {
+        "name": "cozy christmas",
+        "url": "https://open.spotify.com/album/4aEBSXATsQgKGfnquzq4vo"
+      },
+      "artists": [
+        {
+          "name": "lofi",
+          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
+        },
+        {
+          "name": "Eily",
+          "url": "https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005"
+        }
+      ],
+      "duration_ms": 123666,
+      "name": "Today and other days (Feat. Eily)",
+      "url": "https://open.spotify.com/track/1Uc7vmjgE27iyynA85WW4c"
     }
   ],
   "unique_name": "Christmas K-Pop",

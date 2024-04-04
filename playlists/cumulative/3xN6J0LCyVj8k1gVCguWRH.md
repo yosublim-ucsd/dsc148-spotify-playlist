@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! Includes Summer 23, 22, &amp; 21 editions &amp; bonus tracks.
 
-3,209 songs - 7 day 14 hr 24 min
+3,212 songs - 7 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1865,6 +1865,7 @@
 | [More of the Same](https://open.spotify.com/track/6qyzRjH6fK6P76DdxyXEZl) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [More of the Same](https://open.spotify.com/album/5QVFD34CrJHv6e6THdiBid) | 3:12 | 2021-12-11 | 2022-01-07 |
 | [More of You](https://open.spotify.com/track/0nsofcXSqxPcXXrqeY4TeT) | [Chaise](https://open.spotify.com/artist/0cDDDfHYuslpe1CoOeMmib) | [More of You](https://open.spotify.com/album/29j9jh8N2SezEXDGCQmI6n) | 4:03 | 2022-01-07 | 2022-01-23 |
 | [More Than Lovers](https://open.spotify.com/track/2m99x6RSOJjIaO3h6odEyW) | [Hykay](https://open.spotify.com/artist/0ui2p3tryZSVhl4zelHIAi) | [More Than Lovers](https://open.spotify.com/album/1ncO9OdU9B0dFpqzjfg5Oj) | 2:53 | 2023-03-04 | 2023-03-29 |
+| [More Than This](https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 4:30 | 2024-04-03 |  |
 | [More Than Words](https://open.spotify.com/track/5NITwEcAQXREfP2pzSWJrU) | [Dr\. Stuff](https://open.spotify.com/artist/54T03kwQRj3I5cAqcqjAIA) | [Music Is Medicine](https://open.spotify.com/album/5xmjbpNQy8q3mK71YSAvEF) | 5:34 | 2024-01-16 | 2024-01-25 |
 | [More Than You Know](https://open.spotify.com/track/5NCbLiZLwjQV5SqkGqtHtA) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In A Sentimental Mood](https://open.spotify.com/album/6bqVbJc4p9foiS8tQy1tow) | 4:40 | 2022-07-26 |  |
 | [MOTA](https://open.spotify.com/track/0zpwjk9WosuVgDCyfWshAC) | [TYLOR](https://open.spotify.com/artist/7FBFDgNhHbZvmrMJk4L1vO) | [MOTA](https://open.spotify.com/album/6PKzwCa3CZeWoY7TgGYOwX) | 2:29 | 2022-05-27 | 2022-06-12 |
@@ -2215,6 +2216,7 @@
 | [Promises \- Radio Edit](https://open.spotify.com/track/04rVVz0D8JkqxUY13mW3A5) | [Jayloid](https://open.spotify.com/artist/4PmT0Z7ZBsJXA6kCyMsiHM) | [Promises \(Radio Edit\)](https://open.spotify.com/album/4nMewslQ0942XkLZ8uHVnW) | 4:16 | 2022-04-08 | 2022-04-24 |
 | [Pronto](https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Pronto](https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ) | 3:48 | 2021-02-12 | 2021-02-27 |
 | [Protoplasmic Prison Cell](https://open.spotify.com/track/4k4FyVnSYvzmENv5ixSF3g) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn), [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [Protoplasmic Prison Cell](https://open.spotify.com/album/0W6PkxcCry3f06aB8Ix78c) | 3:33 | 2022-09-30 | 2022-10-18 |
+| [Prove It To You](https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:20 | 2024-04-03 |  |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-05-07 | 2022-06-01 |
 | [PSYCHOPOMP](https://open.spotify.com/track/2ywk95BR6xyLtgO8LwZkIR) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [PSYCHOPOMP](https://open.spotify.com/album/1DaW9c9spKh835Soabfg11) | 2:01 | 2022-09-23 | 2022-10-09 |
 | [Pull Me Under](https://open.spotify.com/track/0zn3fYJWDNQSeczvT8YdIp) | [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Pull Me Under](https://open.spotify.com/album/1GCQ1N8wLN4zgo8sntuBFR) | 5:59 | 2020-05-22 | 2020-06-01 |
@@ -2561,6 +2563,7 @@
 | [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 | 2022-02-11 | 2022-04-07 |
 | [Standing at the Altar](https://open.spotify.com/track/740tWsllt99upfwFNhhWEb) | [Oscar Bryant and The Bluebirds](https://open.spotify.com/artist/53ZHIQIURbIH2KD5sx2iXs) | [Standing at the Altar](https://open.spotify.com/album/15lIUB4sLfY1fVcr0htaoB) | 3:39 | 2023-04-01 | 2023-04-23 |
 | [Star \(feat\. Yogi\)](https://open.spotify.com/track/5p4QNyQvoZtKlp6f4e1X5I) | [The Groove Supplier](https://open.spotify.com/artist/2DFdxWIx41TkkNuFIjhVbE), [Yogi](https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB) | [Star \(feat\. Yogi\)](https://open.spotify.com/album/2CYg0eTUZlemEt7sdhRaA0) | 4:21 | 2022-06-10 | 2022-06-26 |
+| [Star Shaped Pegs](https://open.spotify.com/track/5ScwIBmNQB5YzrRtOSLTYI) | [Drew Neirin](https://open.spotify.com/artist/4FUY0z7cRDDvdIaryGUWdz), [Earl St John](https://open.spotify.com/artist/5bOOJSc3XjrjFmCFUlPnNA) | [Rejects of the New World Order](https://open.spotify.com/album/5upLC17mycSvl1ejR2O9Z6) | 2:40 | 2024-04-03 |  |
 | [Starry Eyed](https://open.spotify.com/track/7zrODsbiWVMFuQWsSjgYQp) | [Band of Silver](https://open.spotify.com/artist/4AnulnIsdMeFSGN8FauJ8v) | [Starry Eyed](https://open.spotify.com/album/5VpDdbLf6y1jdd8rGU6swI) | 3:24 | 2021-07-10 | 2021-07-25 |
 | [Stars](https://open.spotify.com/track/0Y5todJ3IZUePS1nMqBAyC) | [2nd Brightest Object](https://open.spotify.com/artist/0aPb07sJWsxglm6mKBtu2Q) | [Stars](https://open.spotify.com/album/5K1uT2dCoaUoki69kPzKVP) | 3:04 | 2022-09-23 | 2022-10-09 |
 | [Starting Over](https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM) | 4:00 | 2021-07-12 | 2021-11-19 |
@@ -3064,7 +3067,7 @@
 | [What about me?](https://open.spotify.com/track/08vERAB9Aqh7YPqCw9Pe2m) | [Carmen Forbes](https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5), [Jonahh](https://open.spotify.com/artist/2JDD97B00Qrr3c3dzZGnSc) | [What about me?](https://open.spotify.com/album/3p6SIX5KZ8WWamcwYDgg4o) | 2:54 | 2024-02-15 | 2024-02-27 |
 | [What Comes Around](https://open.spotify.com/track/5hGbinUKGdHreb5qjfCq6V) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [What Comes Around](https://open.spotify.com/album/0sIKhZMW2hv6EXEHejtlKV) | 3:29 | 2022-07-22 | 2022-08-07 |
 | [What do you think](https://open.spotify.com/track/4RhtBqLcAIvg5EdC79HDQl) | [Papa Beats](https://open.spotify.com/artist/5ysUw9JRtdLuZT8yhqPkmo), [The Crushboys](https://open.spotify.com/artist/495JzkPWUCyhbtB8fPVb4Z) | [What do you think](https://open.spotify.com/album/5ub1mQSsZH5sFXoP1EbHhX) | 3:02 | 2024-03-03 | 2024-03-15 |
-| [What does she have on me?](https://open.spotify.com/track/0i0WMkkmo1Zx9D2dPDVuxU) | [Keara Jewel](https://open.spotify.com/artist/5WrIIYnt2W23cyqvKfu6Ey) | [What does she have on me?](https://open.spotify.com/album/6Flvi8qJLVZ70aqVjIBhPY) | 2:05 | 2024-03-27 |  |
+| [What does she have on me?](https://open.spotify.com/track/0i0WMkkmo1Zx9D2dPDVuxU) | [Keara Jewel](https://open.spotify.com/artist/5WrIIYnt2W23cyqvKfu6Ey) | [What does she have on me?](https://open.spotify.com/album/6Flvi8qJLVZ70aqVjIBhPY) | 2:05 | 2024-03-27 | 2024-04-04 |
 | [What I Know](https://open.spotify.com/track/79Gg3a5rEcaEWFVSgpeAcL) | [LBR DPT](https://open.spotify.com/artist/4evsswEUZMesBf7Irxg8pC) | [What I Know](https://open.spotify.com/album/0ihbD1OOySf01rTmEJ0Fg2) | 3:15 | 2021-12-05 | 2021-12-20 |
 | [What if](https://open.spotify.com/track/5PDtoSXgJfq8QMavmoNsvn) | [Isa Bellido](https://open.spotify.com/artist/0X87molz4985PMgGOcEVN3) | [What if](https://open.spotify.com/album/04gFOCcTs3WAVOwbJuvEu4) | 2:40 | 2023-03-09 | 2023-04-02 |
 | [what if you break my heart again](https://open.spotify.com/track/7Fr2RRp9HBqfXdC6n3mMhB) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [what if you break my heart again](https://open.spotify.com/album/1G6C5Crg74VSejc5Xyuh6C) | 2:54 | 2022-10-14 | 2022-12-03 |

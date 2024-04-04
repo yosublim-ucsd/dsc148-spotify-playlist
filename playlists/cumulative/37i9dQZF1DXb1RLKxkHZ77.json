@@ -3490,7 +3490,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 220083,
       "name": "Kata",
       "url": "https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y"
@@ -4434,7 +4434,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 262341,
       "name": "Masih Hatiku",
       "url": "https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u"
@@ -4514,6 +4514,24 @@
       "duration_ms": 159183,
       "name": "Masuk",
       "url": "https://open.spotify.com/track/1MjcAJQWeWwDgXIB8aQ9nM"
+    },
+    {
+      "album": {
+        "name": "Mati-Matian",
+        "url": "https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244137,
+      "name": "Mati-Matian",
+      "url": "https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV"
     },
     {
       "album": {
@@ -5370,6 +5388,40 @@
       "duration_ms": 259877,
       "name": "Peri Cintaku",
       "url": "https://open.spotify.com/track/5cASSQjKWI5ox8LykUtJGL"
+    },
+    {
+      "album": {
+        "name": "Semoga Dipermudahkan",
+        "url": "https://open.spotify.com/album/7Fj7rpcLtwQxFIzJDPgaGm"
+      },
+      "artists": [
+        {
+          "name": "53 UNIVERSE",
+          "url": "https://open.spotify.com/artist/4yGA6C1gdOHrpjrtERFfKI"
+        },
+        {
+          "name": "YBJ",
+          "url": "https://open.spotify.com/artist/51KyiLma2yvVRmm4wjvUyt"
+        },
+        {
+          "name": "Akkimwaru",
+          "url": "https://open.spotify.com/artist/2lrCZudusn6gGEh0MIgPd3"
+        },
+        {
+          "name": "DKyoumadethis",
+          "url": "https://open.spotify.com/artist/76A3LioaRCJyquWbYLoWfv"
+        },
+        {
+          "name": "Meorey",
+          "url": "https://open.spotify.com/artist/1tW7RdN7Tw5s0frgltx9e1"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163975,
+      "name": "PP at Bukit Tabur",
+      "url": "https://open.spotify.com/track/5nfej3nNDDdT7JHkfZXO0Z"
     },
     {
       "album": {

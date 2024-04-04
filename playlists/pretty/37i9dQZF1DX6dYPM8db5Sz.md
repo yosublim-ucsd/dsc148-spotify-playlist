@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn?si=NjDnbRXMSPSoKNz9iWVChg">Henry Ate</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,255 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,274 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 21 | [Take Yours, I'll Take Mine](https://open.spotify.com/track/3mN9RcQg6oSPDSumrYNLFa) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [The Home We Built](https://open.spotify.com/album/1TKDPkavJaq0s2g2woXd3e) | 3:43 |
 | 22 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 |
 | 23 | [Ndokulandela](https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Mangaliso](https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A) | 3:51 |
-| 24 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 |
-| 25 | [Cinémed](https://open.spotify.com/track/5JwdtXJVh8PHmPFP5mB47k) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Cinémed](https://open.spotify.com/album/70Dl4djomdHEALG6BuLSMJ) | 3:19 |
+| 24 | [Cinémed](https://open.spotify.com/track/5JwdtXJVh8PHmPFP5mB47k) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Cinémed](https://open.spotify.com/album/70Dl4djomdHEALG6BuLSMJ) | 3:19 |
+| 25 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 |
 | 26 | [Take Me Home](https://open.spotify.com/track/09VP3MkHbI4TvJUMxB03Z4) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E), [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s), [Paul Timitch](https://open.spotify.com/artist/48oyFLkOdjRGiVDSf6q5MS) | [Take Me Home](https://open.spotify.com/album/0KK4ePbsPoLS2bagH6pv5T) | 2:20 |
 | 27 | [Setting Suns](https://open.spotify.com/track/0GB6NBQY3nYvuwaCApTbFx) | [Brandon Grant](https://open.spotify.com/artist/3rD8GtrMQjQ8UAQCEQ0RGU) | [Setting Suns](https://open.spotify.com/album/3BqqPFVR6zGtNkkAtLb68y) | 3:19 |
 | 28 | [Let's Fall in Love Some More](https://open.spotify.com/track/1SZN00cfG8T8UxDmJeqjuv) | [Al Bairre](https://open.spotify.com/artist/3l3OXBVFtuPwDpQTGtXNjj) | [Experience the Al Bairre Show With Al Bairre Experience](https://open.spotify.com/album/3mH4bT4mKi7nydIqqlrWDP) | 3:18 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 42 | [Everything Slow](https://open.spotify.com/track/5OwSmeumvnHstbaBpaEAnZ) | [Jackal & the Wind](https://open.spotify.com/artist/12iw4uOEV5d8gogRQ3wMkx) | [Everything Slow](https://open.spotify.com/album/0oc6tm1J1vjE649NRXyjzT) | 3:31 |
 | 43 | [Let Go](https://open.spotify.com/track/6qEgpYeOqfauh3lti9cnMz) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Let Go](https://open.spotify.com/album/6IzKi4MFCpKnXbJtka7uy8) | 3:12 |
 | 44 | [Fight For Me](https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Fight For Me](https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta) | 3:46 |
-| 45 | [Another Day](https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Another Day](https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP) | 2:16 |
+| 45 | [Come Back Home](https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Come Back Home](https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD) | 2:24 |
 | 46 | [Carry Me](https://open.spotify.com/track/2kW2LAlMohQNsroYSIXncM) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8) | [Carry Me](https://open.spotify.com/album/46wDOIMnP62uR9tjmndXy2) | 2:24 |
 | 47 | [Air \- Single Edit](https://open.spotify.com/track/4SImO1i8rWgT8C7Zu8iVog) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [Air](https://open.spotify.com/album/60AUd6v5EKUDdsrZKK1NKE) | 3:14 |
 | 48 | [Oliver's Garden](https://open.spotify.com/track/6M9tSXVU3XmVXACv7D1tnk) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Oliver's Garden](https://open.spotify.com/album/2GS2hWDDmPb6GxT8aFx2qv) | 3:39 |
-| 49 | [Sydney's Eyes](https://open.spotify.com/track/1IrcJEIzztLjlnY8QKWUGM) | [Luke Beling](https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V) | [Hard to Bleed a Winter](https://open.spotify.com/album/1LEffN4WIGVnFiFgvLkdCv) | 2:47 |
-| 50 | [Madonna](https://open.spotify.com/track/152r40YkplZWECHc392lTa) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Madonna](https://open.spotify.com/album/1RxQeHE8nnHn4pZJxUfwvv) | 3:07 |
+| 49 | [Miss You](https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [Miss You](https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj) | 4:47 |
+| 50 | [Sydney's Eyes](https://open.spotify.com/track/1IrcJEIzztLjlnY8QKWUGM) | [Luke Beling](https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V) | [Hard to Bleed a Winter](https://open.spotify.com/album/1LEffN4WIGVnFiFgvLkdCv) | 2:47 |
 
-Snapshot ID: `MCwwMjJiZmU2OWNlZjI3MzIxNjFlZjg5YWIwNzBjNWM5NjU4ZDkwNDRk`
+Snapshot ID: `MCxlYTMyOWFhMTMyNzdjYjI5YzNkM2VjMWMyOTQyMTYwOGYxMmRjNTQ4`

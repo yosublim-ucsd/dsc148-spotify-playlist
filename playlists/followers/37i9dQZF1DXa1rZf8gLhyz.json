@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 1267744,
+  "2024-04-04": 1268041,
   "date_first_scraped": "2021-12-21",
   "description": "Let these calm Jazz tracks lull you to sleep.",
   "name": "Jazz for Sleep",
@@ -1104,6 +1104,24 @@
     },
     {
       "album": {
+        "name": "But of course",
+        "url": "https://open.spotify.com/album/2KlWgUZEM0mOw14TWYwGOK"
+      },
+      "artists": [
+        {
+          "name": "Art Beckett",
+          "url": "https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178992,
+      "name": "But of course",
+      "url": "https://open.spotify.com/track/3rK5GAVF7TiVeULcgK2Z4w"
+    },
+    {
+      "album": {
         "name": "Cabin In The Sky",
         "url": "https://open.spotify.com/album/0VAsLDBshbyYcZeJAAgTcZ"
       },
@@ -1335,6 +1353,24 @@
       "duration_ms": 212776,
       "name": "Clear State Of Mind",
       "url": "https://open.spotify.com/track/36OpzLOYcztdNv6V9cJ9DB"
+    },
+    {
+      "album": {
+        "name": "Cloud Forest",
+        "url": "https://open.spotify.com/album/3OkHIfehZPLWt4vHD22rSo"
+      },
+      "artists": [
+        {
+          "name": "Irvin Smith",
+          "url": "https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131299,
+      "name": "Cloud Forest",
+      "url": "https://open.spotify.com/track/2y5qgLWzfv0O2izfRLUPcO"
     },
     {
       "album": {
@@ -2199,6 +2235,24 @@
       "duration_ms": 134997,
       "name": "Exactly Like You",
       "url": "https://open.spotify.com/track/3vBEW0nRntYnJwHxWLQRaV"
+    },
+    {
+      "album": {
+        "name": "Faithful In Paradise",
+        "url": "https://open.spotify.com/album/5dAEvV7iXei0kLOO1a14UY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Smith",
+          "url": "https://open.spotify.com/artist/50mD2f9PAcpylaGDNNkBk2"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137750,
+      "name": "Faithful In Paradise",
+      "url": "https://open.spotify.com/track/3qFofnQCLubRsgBlugtPdg"
     },
     {
       "album": {
@@ -5910,6 +5964,24 @@
     },
     {
       "album": {
+        "name": "Past Bedtime",
+        "url": "https://open.spotify.com/album/46cRjEkOHMYToSrDYUTCDg"
+      },
+      "artists": [
+        {
+          "name": "Rhys Wells",
+          "url": "https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174178,
+      "name": "Past Bedtime",
+      "url": "https://open.spotify.com/track/2aeyOhoYRURobHW9vyiKzx"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/47srmsx8SpAb0YQhA9fLva"
       },
@@ -7329,7 +7401,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 203439,
       "name": "Sudden Light",
       "url": "https://open.spotify.com/track/4n1f5JBvnngHCassE6jyt6"

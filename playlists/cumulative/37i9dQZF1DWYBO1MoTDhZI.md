@@ -4,7 +4,7 @@
 
 > Just good vibes all day long
 
-802 songs - 1 day 19 hr 8 min
+803 songs - 1 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,8 @@
 | [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 | 2022-05-13 | 2022-06-11 |
 | [Insecure](https://open.spotify.com/track/13KpGAOxkGiuDCtnGzmiLO) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Insecure](https://open.spotify.com/album/4IsEf0WVcerjcsks34aJGa) | 3:19 | 2021-11-20 | 2022-01-08 |
 | [Intergalactic Janet](https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/3vS1oa8XAK2I4BLsMPEsK2) | 2:40 | 2024-03-15 | 2024-03-24 |
-| [Intergalactic Janet](https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj) | 2:40 | 2024-03-22 |  |
+| [Intergalactic Janet](https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj) | 2:40 | 2024-03-22 | 2024-04-04 |
+| [Intergalactic Janet](https://open.spotify.com/track/7zgEoBci3rKmEkLdsZ8ZKJ) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/7zu5604lPvQjVBERSdwrTe) | 2:40 | 2024-03-29 |  |
 | [It Was A Good Day](https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Predator](https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46) | 4:20 | 2023-03-17 |  |
 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 | 2019-09-05\* | 2021-08-28 |
 | [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 | 2023-03-31 | 2023-04-15 |

@@ -4,7 +4,7 @@
 
 > Blues meets funk\. Cover: Eric Gales
 
-84 songs - 5 hr 45 min
+85 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Spike the Punch](https://open.spotify.com/track/4tzM9L39FaKPh6uY0bmRGx) | [Carl Verheyen](https://open.spotify.com/artist/3BpUUAvJhkvkpYI6nQ7OUf) | [Riverboat Sky](https://open.spotify.com/album/6qqnFUo7wzneVRQw26ewhq) | 3:47 | 2023-07-21 |  |
 | [Stop On By](https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [All The Way](https://open.spotify.com/album/7EVdCFnjNzPlPBWI89YtGs) | 4:07 | 2020-12-01 |  |
 | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Lucy Woodward](https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE), [Dashawn Hickman](https://open.spotify.com/artist/73bkH6RCIOB2BAD1RWVTBY) | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/album/7AJbYy5GiP9z3mGX9085tO) | 2:56 | 2021-04-23 |  |
-| [Sugar Sweet](https://open.spotify.com/track/13cYITViVXDJ9PQv7YqJPM) | [Jeff Healey](https://open.spotify.com/artist/4SsLXt0cHcVRhHzxXa8Wnx) | [Mess Of Blues](https://open.spotify.com/album/6KopMX1sqafvcQVLtOpnw6) | 3:46 | 2020-12-01 |  |
+| [Sugar Sweet](https://open.spotify.com/track/5LtkJC7nQhyOuEOzLbk2d1) | [Jeff Healey](https://open.spotify.com/artist/4SsLXt0cHcVRhHzxXa8Wnx) | [Mess Of Blues](https://open.spotify.com/album/5jHcovMQ9lseSj1EBnISjb) | 3:46 | 2020-12-01 |  |
+| [Sugar Sweet](https://open.spotify.com/track/13cYITViVXDJ9PQv7YqJPM) | [Jeff Healey](https://open.spotify.com/artist/4SsLXt0cHcVRhHzxXa8Wnx) | [Mess Of Blues](https://open.spotify.com/album/6KopMX1sqafvcQVLtOpnw6) | 3:46 | 2020-12-01 | 2024-04-04 |
 | [Take Me Just As I Am](https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [LaDonna Gales](https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 3:03 | 2022-01-28 |  |
 | [Telephone Song](https://open.spotify.com/track/3hGsDRUzPgXMDSRZzgXkhS) | [The Vaughan Brothers](https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG) | [Family Style](https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL) | 3:28 | 2020-12-01 |  |
 | [That's What The Blues Is All About](https://open.spotify.com/track/3VeDKWLLDcWHzY4VWmfrz7) | [Ray Beadle](https://open.spotify.com/artist/7wGs0wj3dW628DJio6N4r3) | [STAX of BLUES](https://open.spotify.com/album/0xOYSJJhn7c2KRj2lkT5AK) | 5:25 | 2022-08-19 |  |

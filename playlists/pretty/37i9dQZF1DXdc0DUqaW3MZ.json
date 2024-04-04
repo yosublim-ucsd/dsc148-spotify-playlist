@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 333925,
+  "num_followers": 334025,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDVlZTYzYmFjNTkxNzRlODA1YTI3ZTk0YzcwYTAwMzVjN2ExYzJh",
+  "snapshot_id": "MCxmYTIxYTkxNGI2MzllMjE5ODkyYTljOGI0ZWFmNDcwMzhkOTg1ZDA0",
   "tracks": [
     {
       "added_at": "2024-03-22 15:38:32",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-03-22 15:38:32",
       "album": {
+        "name": "Morning Matters",
+        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Morning Matters",
+      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
+    },
+    {
+      "added_at": "2024-03-22 15:38:32",
+      "album": {
         "name": "soulboy (IZCO Remix)",
         "url": "https://open.spotify.com/album/63sYFrw1yLHU0k3IkCPUdX"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 229320,
       "name": "soulboy - IZCO Remix",
       "url": "https://open.spotify.com/track/3G1YAm52YxIp0jlxalE0hK"
-    },
-    {
-      "added_at": "2024-03-22 15:38:32",
-      "album": {
-        "name": "Morning Matters",
-        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Morning Matters",
-      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
     },
     {
       "added_at": "2024-03-22 15:38:32",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2024-03-22 15:38:32",
       "album": {
-        "name": "Holier (JD. REID Remix feat. Shygirl)",
-        "url": "https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "JD. REID",
-          "url": "https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ"
-        }
-      ],
-      "duration_ms": 215063,
-      "name": "Holier - JD. REID Remix feat. Shygirl",
-      "url": "https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD"
-    },
-    {
-      "added_at": "2024-03-22 15:38:32",
-      "album": {
         "name": "Click Bait",
         "url": "https://open.spotify.com/album/0dvAgkKcoVFHDYAYFViWm1"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 331540,
       "name": "UTHANDO",
       "url": "https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh"
+    },
+    {
+      "added_at": "2024-03-22 15:38:32",
+      "album": {
+        "name": "Holier (JD. REID Remix feat. Shygirl)",
+        "url": "https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "JD. REID",
+          "url": "https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ"
+        }
+      ],
+      "duration_ms": 215063,
+      "name": "Holier - JD. REID Remix feat. Shygirl",
+      "url": "https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD"
     },
     {
       "added_at": "2024-03-22 15:38:32",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2024-03-22 15:38:32",
       "album": {
-        "name": "Moves EP",
-        "url": "https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj"
-      },
-      "artists": [
-        {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
-        },
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        }
-      ],
-      "duration_ms": 223537,
-      "name": "Moves",
-      "url": "https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks"
-    },
-    {
-      "added_at": "2024-03-22 15:38:32",
-      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
       },
@@ -1267,18 +1247,22 @@
     {
       "added_at": "2024-03-22 15:38:32",
       "album": {
-        "name": "STAY UP / SWEET",
-        "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
+        "name": "Moves EP",
+        "url": "https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj"
       },
       "artists": [
         {
-          "name": "Stevedreez",
-          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        },
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
         }
       ],
-      "duration_ms": 229765,
-      "name": "STAY UP",
-      "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
+      "duration_ms": 223537,
+      "name": "Moves",
+      "url": "https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks"
     },
     {
       "added_at": "2024-03-22 15:38:32",
@@ -1299,6 +1283,22 @@
       "duration_ms": 189683,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
+    },
+    {
+      "added_at": "2024-03-22 15:38:32",
+      "album": {
+        "name": "STAY UP / SWEET",
+        "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
+      },
+      "artists": [
+        {
+          "name": "Stevedreez",
+          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
+        }
+      ],
+      "duration_ms": 229765,
+      "name": "STAY UP",
+      "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
     },
     {
       "added_at": "2024-03-22 15:38:32",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-03-22 15:38:32",
       "album": {
+        "name": "OUR LOVE (80'S)",
+        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
+      },
+      "artists": [
+        {
+          "name": "YOURS",
+          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
+        }
+      ],
+      "duration_ms": 179323,
+      "name": "OUR LOVE (80'S)",
+      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
+    },
+    {
+      "added_at": "2024-03-22 15:38:32",
+      "album": {
         "name": "North",
         "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
       },
@@ -1343,26 +1359,6 @@
       "duration_ms": 222000,
       "name": "Middle of Things, Beautiful Wife (feat. Xavier Oma\u0308r))",
       "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
-    },
-    {
-      "added_at": "2024-03-22 15:38:32",
-      "album": {
-        "name": "do you feel it too?",
-        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        },
-        {
-          "name": "Ouri",
-          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
-        }
-      ],
-      "duration_ms": 218308,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
     }
   ],
   "unique_name": "Soultronic",

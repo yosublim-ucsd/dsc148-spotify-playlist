@@ -4,7 +4,7 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-266 songs - 12 hr 53 min
+267 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Like U](https://open.spotify.com/track/5szHKznw9GQ8CUcRua8Olw) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Like U](https://open.spotify.com/album/19s7rGXavDLSNNZ5LtbfHj) | 2:23 | 2024-02-08 | 2024-02-16 |
 | [Loca Loca](https://open.spotify.com/track/3JbxNrWdx6Di9I5E62vZzK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Pelican](https://open.spotify.com/artist/2uzcKKlZZ4eIanI41raEZ8) | [Loca Loca](https://open.spotify.com/album/2ijafytsdehzweHgZKv2mm) | 2:12 | 2023-11-30 | 2024-02-18 |
 | [Look What You've Done](https://open.spotify.com/track/2Y9oTMNY5CPT4m9l6CgbgM) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Look What You've Done](https://open.spotify.com/album/5kpRcX0pCeMK74PSgnaX7g) | 3:01 | 2021-11-19 | 2023-11-13 |
+| [Loose Ends](https://open.spotify.com/track/1IAGVO9a3LDO5VttJ96DtA) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Loose Ends](https://open.spotify.com/album/0YoJT2pQtuoTmgzj6TUon6) | 2:24 | 2024-03-28 |  |
 | [Lose my mind](https://open.spotify.com/track/4Cz2101t2TdPKBsgb7O6dS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Lose my mind](https://open.spotify.com/album/53H8HfdZu1DoXqPfTGj8CG) | 2:53 | 2021-11-19 | 2023-11-21 |
 | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/track/601pOTGkiTqGFpAtphsZDx) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/album/3egxqN0wJ8CMeVbtRZYN3s) | 2:38 | 2024-01-11 |  |
 | [Love Me Now](https://open.spotify.com/track/5pgwmLQHdWJlx3u5X15HXF) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Love Me Now](https://open.spotify.com/album/5llcK6YgjwFK0ladOHjbDu) | 2:52 | 2021-11-19 | 2022-07-28 |
@@ -186,7 +187,7 @@
 | [Only Fanz \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/3bcv37HaYugMNI6VUEhwBy) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Only Fanz](https://open.spotify.com/album/6mjAFRn6ioy8Z2fxWhGn3I) | 2:53 | 2021-11-19 | 2022-07-04 |
 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 | 2022-07-15 |  |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 | 2021-11-19 |  |
-| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 |  |
+| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 | 2024-04-04 |
 | [Perfect \(Exceeder\)](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp) | 2:31 | 2024-02-08 |  |
 | [Peru](https://open.spotify.com/track/5GTboKbndutgM0oJOMpzTC) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Peru](https://open.spotify.com/album/76fUJrrJWxbtURfKeTHbVV) | 2:27 | 2021-11-19 | 2022-07-15 |
 | [Peru](https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Peru](https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI) | 2:27 | 2022-07-28 |  |

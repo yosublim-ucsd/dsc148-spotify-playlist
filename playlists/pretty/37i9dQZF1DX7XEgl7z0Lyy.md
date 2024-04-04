@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,235 likes - 100 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,729 likes - 100 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 20 | [FIGHT!](https://open.spotify.com/track/4kH0eBEIesgcCDE4WZA3zL) | [xxephyrr](https://open.spotify.com/artist/3cEaIs4fKVawohqNOTVxWB), [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [FIGHT!](https://open.spotify.com/album/1o7LVMFB5i9sLyFxx86FBC) | 1:51 |
 | 21 | [SHAKE THAT SHIT!](https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [SHAKE THAT SHIT!](https://open.spotify.com/album/1Cw0Mri4i2zYXtQEd7qqOs) | 2:35 |
 | 22 | [Sleepwalker](https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Ketamine Girl](https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2) | 3:32 |
-| 23 | [noir](https://open.spotify.com/track/37xKfBHDeIzMeeScHOp89Q) | [sho](https://open.spotify.com/artist/7J931Zo6xntPEBM04BANte) | [noir](https://open.spotify.com/album/6LPcdvBpYreJXcEYOwbwgs) | 1:37 |
+| 23 | [](https://open.spotify.com/track/37xKfBHDeIzMeeScHOp89Q) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6LPcdvBpYreJXcEYOwbwgs) | 0:00 |
 | 24 | [ON THE FLOOR](https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX) | [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF), [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [ON THE FLOOR!](https://open.spotify.com/album/4Xbo3AY9xw4yTi1OpFXQDI) | 1:59 |
 | 25 | [don't leave me](https://open.spotify.com/track/6UX98RWvsIqgwoJfU0u30S) | [Ryyd3r](https://open.spotify.com/artist/4VFUayFquvlUZEsTwMti7v), [WASTY](https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ) | [don't leave me](https://open.spotify.com/album/5VX8L86ecgtq0g0UOgcj8I) | 1:59 |
 | 26 | [higher](https://open.spotify.com/track/7diyCFL8chcY1REunXR18F) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Kill Eva](https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb), [apatheater](https://open.spotify.com/artist/31MBjhC4zjwYnrNKicwTTO) | [higher](https://open.spotify.com/album/7bU6287MqRe2gtSXbwMq0b) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 99 | [melancholy](https://open.spotify.com/track/4J7ctWPhgFErjdeWyKLkiA) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe), [Fidi](https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL) | [melancholy](https://open.spotify.com/album/57BCZOUocCzqyBStq7kAb3) | 2:02 |
 | 100 | [DREAMSCAPE](https://open.spotify.com/track/4KXtgsfFfjLWCiyqdwUwQh) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [cyberia](https://open.spotify.com/artist/0HZkYrBotoNqUyH6B9aDaE) | [DREAMSCAPE](https://open.spotify.com/album/6lIObPGguCyVTQf8f1RVag) | 2:00 |
 
-Snapshot ID: `MCxiZmY3Y2JjM2I0MDY5OWRjODBlZDcyY2MxN2JhMGJjMzIxOTM5ODMx`
+Snapshot ID: `MCxkZThkMjNjNTU0OGU3M2ZlZTI2NDAzMmU4Y2MwMmNmM2M0NmYwMWJh`

@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 457445,
+  "2024-04-04": 457429,
   "date_first_scraped": "2023-12-14",
   "description": "Break up songs, the best cure for a broken heart!",
   "name": "Breakup Songs \ud83d\udc94",
@@ -483,6 +483,24 @@
       "duration_ms": 174106,
       "name": "Balcony",
       "url": "https://open.spotify.com/track/5WOPkUg4SpTao68o8b5NTM"
+    },
+    {
+      "album": {
+        "name": "beat up car",
+        "url": "https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214555,
+      "name": "beat up car",
+      "url": "https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP"
     },
     {
       "album": {

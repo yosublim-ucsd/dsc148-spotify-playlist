@@ -1,7 +1,7 @@
 {
-  "2024-04-03": 213029,
+  "2024-04-04": 213080,
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: NE:ON(\ub2c8\uc628)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: TOIL(\ud1a0\uc77c)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -673,7 +673,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 184163,
       "name": "Anbu (Feat. VINXEN, NO:EL)",
       "url": "https://open.spotify.com/track/6x7c8C7ds3L4qTtXX7UEX8"
@@ -5658,6 +5658,28 @@
     },
     {
       "album": {
+        "name": "HOPE ON THE STREET VOL.1",
+        "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183149,
+      "name": "i don't know (with HUH YUNJIN of LE SSERAFIM)",
+      "url": "https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ"
+    },
+    {
+      "album": {
         "name": "I Don't Love You",
         "url": "https://open.spotify.com/album/1WHtJ18aMLsWdxak99t7Bh"
       },
@@ -5699,6 +5721,32 @@
       "duration_ms": 214111,
       "name": "I don\u2019t know a single thing (Feat. meenoi)",
       "url": "https://open.spotify.com/track/0Y9C5yhzY7Pa1AqjUFrizq"
+    },
+    {
+      "album": {
+        "name": "TOTO",
+        "url": "https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "I Don\u2032t Care (Feat. Skinny Brown, CHANGMO)",
+      "url": "https://open.spotify.com/track/0nqgT7ndih2023zjYTFe39"
     },
     {
       "album": {
@@ -5863,6 +5911,32 @@
       "duration_ms": 174613,
       "name": "I wish",
       "url": "https://open.spotify.com/track/3A27WAE8Uj0jeC7cmZKjD5"
+    },
+    {
+      "album": {
+        "name": "TOTO",
+        "url": "https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "I Wish (Feat. Leellamarz, B.I)",
+      "url": "https://open.spotify.com/track/3nh8M3jWQr1DHfZ5RhTlic"
     },
     {
       "album": {
@@ -7545,7 +7619,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 154173,
       "name": "Make Love (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG"
@@ -8337,6 +8411,32 @@
       "duration_ms": 162653,
       "name": "muse",
       "url": "https://open.spotify.com/track/2Pc2vLBzVmhHuTMpxYfwZq"
+    },
+    {
+      "album": {
+        "name": "TOTO",
+        "url": "https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173986,
+      "name": "My Bad (Feat. ASH ISLAND, BIG Naughty)",
+      "url": "https://open.spotify.com/track/0jnIjWe4JU19NT0tF4lTtx"
     },
     {
       "album": {
@@ -13475,7 +13575,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 222293,
       "name": "What Should I do",
       "url": "https://open.spotify.com/track/4BZuHDcmgmRaAwPd6IO7MY"
@@ -13571,7 +13671,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 257986,
       "name": "When I fall in love",
       "url": "https://open.spotify.com/track/24kQoMnicTBAYZzHUozStq"

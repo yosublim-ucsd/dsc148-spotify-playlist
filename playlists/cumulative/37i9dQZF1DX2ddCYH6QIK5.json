@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: K\u00c4SSY, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: fiora, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -980,7 +980,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 235282,
       "name": "Another Dirtbag",
       "url": "https://open.spotify.com/track/1byYnG0KoBJI5FvU7EHdVd"
@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 90887,
       "name": "Bass",
       "url": "https://open.spotify.com/track/0kYjqTPwPzAnKXNagghtk0"
@@ -2532,6 +2532,24 @@
       "duration_ms": 234666,
       "name": "BoyToy",
       "url": "https://open.spotify.com/track/0S3GbVZNxPn0eQYB5S1Sz3"
+    },
+    {
+      "album": {
+        "name": "Brave Souls",
+        "url": "https://open.spotify.com/album/49SKrUBL0p3KHQg2y47orJ"
+      },
+      "artists": [
+        {
+          "name": "allanwhy",
+          "url": "https://open.spotify.com/artist/3EpyYPTE1yimYPFHMBZ9VH"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221089,
+      "name": "Brave Souls",
+      "url": "https://open.spotify.com/track/2SqE2dZjKBsYRbLeTaHDsZ"
     },
     {
       "album": {
@@ -4159,6 +4177,24 @@
     },
     {
       "album": {
+        "name": "Deine Stra\u00dfe",
+        "url": "https://open.spotify.com/album/5bCo4mqyIkUvg7KyrIre0V"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155492,
+      "name": "Deine Stra\u00dfe",
+      "url": "https://open.spotify.com/track/585TXTK16mHP1qQv1vFOJE"
+    },
+    {
+      "album": {
         "name": "Deliverance",
         "url": "https://open.spotify.com/album/3p5U7nbz6jrXN1HCNyrahw"
       },
@@ -5766,7 +5802,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 198171,
       "name": "Extreme",
       "url": "https://open.spotify.com/track/7IiyVCnv2pLgKB0RJPM3k4"
@@ -6640,6 +6676,24 @@
       "duration_ms": 185052,
       "name": "Gazino Maksim",
       "url": "https://open.spotify.com/track/6tZmOnCR1c89lAucyGlJJf"
+    },
+    {
+      "album": {
+        "name": "Geisterdiskothek",
+        "url": "https://open.spotify.com/album/7akOyWfLEF0oY9QiIoPJV9"
+      },
+      "artists": [
+        {
+          "name": "PFOERTNER",
+          "url": "https://open.spotify.com/artist/3hMw3oWf2mhOG4qBCOJKrC"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167058,
+      "name": "Geisterdiskothek",
+      "url": "https://open.spotify.com/track/6OvIwDkS1bcjuNMUKnBvFf"
     },
     {
       "album": {
@@ -9480,7 +9534,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 220941,
       "name": "Kalter Rauch",
       "url": "https://open.spotify.com/track/3K12JwlIfDYrjtxbRSBdEG"
@@ -9988,7 +10042,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 246722,
       "name": "Laufen",
       "url": "https://open.spotify.com/track/5LXHSMvqTonMnHI8r8rys6"
@@ -12623,6 +12677,24 @@
     },
     {
       "album": {
+        "name": "KOSCHKA",
+        "url": "https://open.spotify.com/album/6lvO4S4lEWAdxBM8bGpgqW"
+      },
+      "artists": [
+        {
+          "name": "KOSCHKA",
+          "url": "https://open.spotify.com/artist/6qO5OAQzMf9tJ8n7WMBJZk"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239865,
+      "name": "Oh Brother",
+      "url": "https://open.spotify.com/track/47BJwTCFxnxTQNyJMfVxBN"
+    },
+    {
+      "album": {
         "name": "Oh Mother",
         "url": "https://open.spotify.com/album/3ohZw0qtwf9EfDzkDdQw0l"
       },
@@ -13018,7 +13090,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 237241,
       "name": "Panda Bianca",
       "url": "https://open.spotify.com/track/0SNjNyk1LesvSrbTmNdXV4"
@@ -14919,6 +14991,24 @@
     },
     {
       "album": {
+        "name": "Scrabble",
+        "url": "https://open.spotify.com/album/3mEbOcrLAP3sWiByFSpVCL"
+      },
+      "artists": [
+        {
+          "name": "Lumen, der Minister",
+          "url": "https://open.spotify.com/artist/5g0jJcxRHXkYg5MB0BgnCg"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163054,
+      "name": "Scrabble",
+      "url": "https://open.spotify.com/track/1f6ikN1EWq2I6mJa0C6Spp"
+    },
+    {
+      "album": {
         "name": "Search Bar",
         "url": "https://open.spotify.com/album/4rBi5KLTIImhBZeSr6lmmH"
       },
@@ -15558,6 +15648,24 @@
       "duration_ms": 202087,
       "name": "So Easy",
       "url": "https://open.spotify.com/track/58X3Z1oPvb4ajMDVz29aFb"
+    },
+    {
+      "album": {
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/53wAR03gKcevSI5srXCXIq"
+      },
+      "artists": [
+        {
+          "name": "Olympic Antigua",
+          "url": "https://open.spotify.com/artist/75cCUKahZebXN9r5ef977u"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223776,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/4wNJkIMcP7s2WcJZ6GYH76"
     },
     {
       "album": {
@@ -16402,7 +16510,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 255500,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/3xfJ8FQY9acwizkNCZjIYa"
@@ -16514,7 +16622,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 168888,
       "name": "Surreal",
       "url": "https://open.spotify.com/track/7nK4XY3bTTb3LI5wbaoMVu"
@@ -17052,6 +17160,24 @@
       "duration_ms": 234107,
       "name": "The Music that You Play",
       "url": "https://open.spotify.com/track/4WXonPwFzmd0liy8V5iCRG"
+    },
+    {
+      "album": {
+        "name": "THE PASSION",
+        "url": "https://open.spotify.com/album/3NH5Pa5Zkb675eYomZueeu"
+      },
+      "artists": [
+        {
+          "name": "PLAGIAT",
+          "url": "https://open.spotify.com/artist/18ciiDDoAldBiU7BJKdFVv"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "THE PASSION",
+      "url": "https://open.spotify.com/track/1Pu8ym1hrE5WGVkeM4wfp6"
     },
     {
       "album": {
@@ -18370,6 +18496,24 @@
       "duration_ms": 147840,
       "name": "vier uhr",
       "url": "https://open.spotify.com/track/7rINTgW0P3QfCtRVlAM6OO"
+    },
+    {
+      "album": {
+        "name": "viertel nach vier",
+        "url": "https://open.spotify.com/album/3GLllag9hnXGkx2RZeEJL7"
+      },
+      "artists": [
+        {
+          "name": "fiora",
+          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153440,
+      "name": "viertel nach vier",
+      "url": "https://open.spotify.com/track/5xQeAKWejvXRNW666BaoOh"
     },
     {
       "album": {

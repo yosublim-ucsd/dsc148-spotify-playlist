@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=VsaLe1ESSSuT53CtxGU\-4Q">Theresa Phondo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,130 likes - 50 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,444 likes - 50 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 46 | [Majina Yote Jehovah](https://open.spotify.com/track/7L5JyeVQzmhpbjpZcoIDWn) | [Dedo Dieumerci](https://open.spotify.com/artist/4t8dpDtvEUucCvmEMLYUuR), [Naomi Mugiraneza](https://open.spotify.com/artist/4awEqX0MSvBqpwBfSMCiMm) | [Hymnos 2](https://open.spotify.com/album/4lQaSOEJAMWQf7ecxmj3RE) | 9:42 |
 | 47 | [Ogo](https://open.spotify.com/track/2wKX6c2aXplDCJZT301jBM) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Ogo](https://open.spotify.com/album/6lCqBg5DySvDfvZXNXSURk) | 10:48 |
 | 48 | [We Raise A Sound](https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [We Raise A Sound](https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU) | 7:12 |
-| 49 | [Hewale Lala\(Song of Strength\)](https://open.spotify.com/track/5pIM4uYNroyQPTgQnnvZzs) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Hewale Lala\(Song of Strength\)](https://open.spotify.com/album/0eHwsy7wGdv6Ch4rqqdtTu) | 4:40 |
+| 49 | [Hewale Lala\(Song of Strength\)](https://open.spotify.com/track/4Fjt2bhzk7l5FvDKcGTGhE) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Breakthrough](https://open.spotify.com/album/5oY5TTJsroVfIVlM42dUM8) | 4:40 |
 | 50 | [Jabulani Sesingabantwana \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/6av4onqqefCvfPob7iiC8L) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jabulani Sesingabantwana \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/1pKQ3u99NvR1u1qj7b1Y5u) | 7:35 |
 
-Snapshot ID: `MCxkNDRhYWVmMjBlYzBkM2ZlYjg3M2U2Y2NlZDFlMTUyYWU4NjYzNjI3`
+Snapshot ID: `MCxkYWVlZTUxOWEwZmVkODQ0OTM3MzRiZWI4NjdkMGI1YzE3MDliMGFm`

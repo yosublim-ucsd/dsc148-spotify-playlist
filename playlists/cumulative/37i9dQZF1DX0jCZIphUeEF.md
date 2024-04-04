@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-177 songs - 17 hr 7 min
+178 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Mandem \(Let's CML\)](https://open.spotify.com/track/5HgCHjtnUS4MseZecy5CXH) | [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Mandem \(Let's CML\)](https://open.spotify.com/album/2WxFkrnGNarmVAwsigF2yY) | 4:38 | 2023-12-15 |  |
 | [Mental Powers](https://open.spotify.com/track/34Bo1NPm9TdCsSUMfCxCTD) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 5:06 | 2023-11-22 | 2023-12-16 |
 | [Messiah \- Edit](https://open.spotify.com/track/4BRPlCE7YYYlVzRzMwIesY) | [Brandon Markell Holmes](https://open.spotify.com/artist/49hxY3aryuNE1UJpuJ0YJf), [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH) | [Messiah](https://open.spotify.com/album/7yzm9oCXO5cVcbw2d6jwkc) | 4:38 | 2023-05-10 | 2024-03-23 |
+| [Mevora](https://open.spotify.com/track/10IbgR2qykblztbFQyXc6z) | [Ramyen](https://open.spotify.com/artist/6qro4zFLmWn0Vsu4XOX8I2) | [Mevora](https://open.spotify.com/album/1AltCm9lJJ0v13WqHWpX37) | 6:57 | 2024-04-03 |  |
 | [Mevora \- Amine K Remix](https://open.spotify.com/track/6yRT520noCWyFfuz6xeA5c) | [Ramyen](https://open.spotify.com/artist/6qro4zFLmWn0Vsu4XOX8I2), [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Mevora](https://open.spotify.com/album/1AltCm9lJJ0v13WqHWpX37) | 6:00 | 2024-04-02 |  |
 | [Mi Pena](https://open.spotify.com/track/29q0bUyU7TO83cY3oP7rMp) | [Birds of Mind](https://open.spotify.com/artist/6V4bkdqHvsJ2lqkIl4qnG7) | [Mi Pena](https://open.spotify.com/album/28yEiaLt8HAtzE3qTrQBlX) | 5:46 | 2022-08-01 | 2022-10-17 |
 | [Mi Pena](https://open.spotify.com/track/4H1WX8N0IRyPn2kG1TrJEI) | [Birds of Mind](https://open.spotify.com/artist/6V4bkdqHvsJ2lqkIl4qnG7) | [Mi Pena](https://open.spotify.com/album/0Jk1DzW10G0u6MYlBWuCyr) | 5:46 | 2022-09-08 | 2024-03-07 |

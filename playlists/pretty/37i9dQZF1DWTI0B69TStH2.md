@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:6bXkQoRLIyuiEdKa1PUyt6">fida</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,849 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,845 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [wifey](https://open.spotify.com/track/038q60852jO0KTWCXQrPH5) | [brokat](https://open.spotify.com/artist/66MtUhWL2ZZ5WvULivQZ1r) | [wifey](https://open.spotify.com/album/4GTHwrtBL1HohbdXwbnhVb) | 3:20 |
 | 100 | [pamiątki](https://open.spotify.com/track/5K5klSrJHvpGQuhPStISL4) | [Seweryn](https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ), [Aluzja](https://open.spotify.com/artist/01mXTQcIuSBwXoh6zoEgEe) | [pamiątki](https://open.spotify.com/album/780ion39LItri5a5OYOmqb) | 3:30 |
 
-Snapshot ID: `MCw0NDZlYTE0ZGUzY2ZlZjZjNjVmMjA2ODdjNDIxYWZmYzYzODEyY2E1`
+Snapshot ID: `MCw2ZWNhMGQ1ODc5NDI0M2JkNTQ1OTdjMDUwNzEyNDI1MGE1ZjZkZmEz`

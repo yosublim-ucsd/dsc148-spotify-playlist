@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "A Fresh Start",
+        "url": "https://open.spotify.com/album/0HfJtkvuSY9WjsWE6wm5c2"
+      },
+      "artists": [
+        {
+          "name": "Roger Swift",
+          "url": "https://open.spotify.com/artist/7LFWOpUVxbAkCBMVycZT5k"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158580,
+      "name": "A Fresh Start",
+      "url": "https://open.spotify.com/track/2jlX4uHv42kpI4RrkjF9LK"
+    },
+    {
+      "album": {
         "name": "A Gentle Sunlight",
         "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
@@ -3120,7 +3138,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 147980,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/5Lgp1kr0fG9sPe6ZlJKe04"
@@ -3758,7 +3776,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 147702,
       "name": "Esthetic",
       "url": "https://open.spotify.com/track/424kxlBHkHVxwwMkDlPp1s"
@@ -4756,7 +4774,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 152470,
       "name": "Fugazy",
       "url": "https://open.spotify.com/track/2d35QTcQM3EJroGevSvnEf"
@@ -4814,7 +4832,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 132402,
       "name": "Gentle",
       "url": "https://open.spotify.com/track/5XtP7nT6y4Yl8BhnPkDLjr"
@@ -5736,7 +5754,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 159446,
       "name": "Imagery Noir",
       "url": "https://open.spotify.com/track/0WlrMzNOlzqiMXvkTNaefs"
@@ -5815,6 +5833,24 @@
     },
     {
       "album": {
+        "name": "In Presence",
+        "url": "https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A"
+      },
+      "artists": [
+        {
+          "name": "Dean Demir",
+          "url": "https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173862,
+      "name": "In Presence",
+      "url": "https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz"
+    },
+    {
+      "album": {
         "name": "In Qualsiasi Momento",
         "url": "https://open.spotify.com/album/2eOVzvYDY3OHTeta59uCMQ"
       },
@@ -5826,7 +5862,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 164124,
       "name": "In Qualsiasi Momento",
       "url": "https://open.spotify.com/track/19UBwInMQqv987LmQdvu6I"
@@ -6982,7 +7018,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 188733,
       "name": "Letter Of Fervid",
       "url": "https://open.spotify.com/track/6Zn3YUW28L4M2Smxz7tyIB"
@@ -7972,7 +8008,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 126289,
       "name": "momente",
       "url": "https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd"
@@ -9142,7 +9178,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 134500,
       "name": "Passage sombre",
       "url": "https://open.spotify.com/track/5smttO5h6jZ8dQor21hMkE"
@@ -9268,7 +9304,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 139978,
       "name": "Peaceful Rebellion",
       "url": "https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA"
@@ -9286,7 +9322,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 134386,
       "name": "Pedal Chair",
       "url": "https://open.spotify.com/track/7BcH01qQ67ZUStmNC4qhk8"
@@ -9808,7 +9844,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 123750,
       "name": "P\u00e9cs",
       "url": "https://open.spotify.com/track/5V38Yb2mGq3AgKwh5WA49i"
@@ -9934,7 +9970,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 144698,
       "name": "Ravi",
       "url": "https://open.spotify.com/track/6Im3KsvOIR6E3ZhfAlDJvr"
@@ -10204,7 +10240,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 167500,
       "name": "Rest",
       "url": "https://open.spotify.com/track/6qetTUm5h5LvvHCsALacJt"
@@ -10420,7 +10456,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 136000,
       "name": "River Running Free",
       "url": "https://open.spotify.com/track/2qCzkyUdNWxGY0lQh0jp8F"
@@ -11018,7 +11054,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 198557,
       "name": "Seine",
       "url": "https://open.spotify.com/track/2y1o99gVURVZkmIyahWBb5"
@@ -11414,7 +11450,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 124000,
       "name": "Small River",
       "url": "https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln"
@@ -12344,7 +12380,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 130371,
       "name": "Te souviens-tu",
       "url": "https://open.spotify.com/track/3mVXmQV9nn0MiQynug2nbd"
@@ -13075,6 +13111,24 @@
     },
     {
       "album": {
+        "name": "The Still",
+        "url": "https://open.spotify.com/album/06eRSftUdtz4u5Zx9s7Ywc"
+      },
+      "artists": [
+        {
+          "name": "Erinthe",
+          "url": "https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129817,
+      "name": "The Still",
+      "url": "https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA"
+    },
+    {
+      "album": {
         "name": "The Taste of Snow",
         "url": "https://open.spotify.com/album/4kXTcqVDyWXQW8pbxJRN4j"
       },
@@ -13601,6 +13655,24 @@
     },
     {
       "album": {
+        "name": "Day",
+        "url": "https://open.spotify.com/album/5BmyU03YgggujG5J2gEfLM"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271352,
+      "name": "Tuesdays",
+      "url": "https://open.spotify.com/track/673xcQ8s3hrfe2hJDgmYSb"
+    },
+    {
+      "album": {
         "name": "Turn",
         "url": "https://open.spotify.com/album/5dzEdj4p2MdqoojNvOFEUS"
       },
@@ -13756,7 +13828,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 146632,
       "name": "Une Minute De Plus",
       "url": "https://open.spotify.com/track/4dC7pbM5hJxRvU7BJ4hVWC"
@@ -14188,7 +14260,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 182668,
       "name": "Verlorene Liebe",
       "url": "https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL"
@@ -14980,7 +15052,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 159414,
       "name": "Yesterdays Answer",
       "url": "https://open.spotify.com/track/4RcazdOk2fclED0uZ1S2K9"
@@ -15196,7 +15268,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 151000,
       "name": "\u00c7a en vaut la peine",
       "url": "https://open.spotify.com/track/3ggkhQAdAMUQe7Bz6kmYzr"

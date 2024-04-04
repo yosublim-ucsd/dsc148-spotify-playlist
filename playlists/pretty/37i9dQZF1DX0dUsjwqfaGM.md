@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Teddie J
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,489 likes - 55 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,557 likes - 55 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 54 | [Get Me](https://open.spotify.com/track/5lu7zyOOAmzhZNPsZun4DD) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g) | [Get Me](https://open.spotify.com/album/7r7IWC6DNLJzbYDMNRn86k) | 3:33 |
 | 55 | [Bịt Mắt Bắt Anh](https://open.spotify.com/track/2YYgjG6Vm9lV74IOM5nkdY) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf), [DREAMeR](https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I) | [Bịt Mắt Bắt Anh](https://open.spotify.com/album/6qt24jojUkZSSiVGgKAemp) | 2:59 |
 
-Snapshot ID: `MCw4YWVkM2RlYTcwNTJhMzU3YjNmN2FkZGFlMTJiOTk1ODU1Yzk4MmM2`
+Snapshot ID: `MCxiMTdmYTAxZjkwYWQ4ZGY0ZmIyNTA4NTk5ODI3NjI0ZGY2MGE3OGJi`

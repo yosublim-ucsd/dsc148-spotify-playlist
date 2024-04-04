@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 389012,
+  "num_followers": 389134,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDAzZTljYTIyMGFmNDJhN2M1NGQyNmE2NGRiMGI4Y2YwOGQ4ZWIz",
+  "snapshot_id": "MCxiODFlYjhmM2FiNTVlOWFjMGNlYTQ2ZTM1NjUzNGQxOTBmZDhiNzBj",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "You're Dreaming",
-        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 143939,
-      "name": "Powder Blue",
-      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Never Twice",
         "url": "https://open.spotify.com/album/1gzWphTk6PqMZ5qWbVaBk4"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 220240,
       "name": "Katchi",
       "url": "https://open.spotify.com/track/09uXepY9uC1cUlvZ6kbOy6"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "You're Dreaming",
+        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 143939,
+      "name": "Powder Blue",
+      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/6vH6hPl0Woh6Cp1EUbpYq7"
-      },
-      "artists": [
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "Empty Heart",
-      "url": "https://open.spotify.com/track/2eP517crFrL5ggUAEoug16"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "The Shelters",
         "url": "https://open.spotify.com/album/451kD1EliOug21dypPYnMn"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "CLAIM",
-        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/6vH6hPl0Woh6Cp1EUbpYq7"
       },
       "artists": [
         {
-          "name": "Jesper Munk",
-          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
         }
       ],
-      "duration_ms": 215853,
-      "name": "Morning Coffee",
-      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
+      "duration_ms": 195546,
+      "name": "Empty Heart",
+      "url": "https://open.spotify.com/track/2eP517crFrL5ggUAEoug16"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1031,6 +1015,22 @@
       "duration_ms": 201000,
       "name": "Summer Sun",
       "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "CLAIM",
+        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
+      },
+      "artists": [
+        {
+          "name": "Jesper Munk",
+          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Morning Coffee",
+      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Seventeen Acres",
-        "url": "https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf"
+        "name": "Max Jury",
+        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
       },
       "artists": [
         {
-          "name": "Joseph LeMay",
-          "url": "https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf"
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
         }
       ],
-      "duration_ms": 122750,
-      "name": "Crazy Woman",
-      "url": "https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0"
+      "duration_ms": 250414,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/70HTUTCkfEgNDvKCzTNnV4"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Seventeen Acres",
+        "url": "https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf"
+      },
+      "artists": [
+        {
+          "name": "Joseph LeMay",
+          "url": "https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf"
+        }
+      ],
+      "duration_ms": 122750,
+      "name": "Crazy Woman",
+      "url": "https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Alta Falls",
         "url": "https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 281893,
       "name": "Never Been a Captain",
       "url": "https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Max Jury",
-        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
-      },
-      "artists": [
-        {
-          "name": "Max Jury",
-          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
-        }
-      ],
-      "duration_ms": 250414,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/70HTUTCkfEgNDvKCzTNnV4"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 180013,
-      "name": "The Very Last Day",
-      "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 244108,
       "name": "Two Wolves",
       "url": "https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 180013,
+      "name": "The Very Last Day",
+      "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Year Of The Spider",
-        "url": "https://open.spotify.com/album/2t9TN9PcDnAcLZCP9odxLY"
+        "name": "Wait Til I Get Over",
+        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
       },
       "artists": [
         {
-          "name": "Shannon & The Clams",
-          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
         }
       ],
-      "duration_ms": 198293,
-      "name": "Midnight Wine",
-      "url": "https://open.spotify.com/track/29ya2cQa0u96dSTctywzHI"
+      "duration_ms": 204024,
+      "name": "See It Through",
+      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Wait Til I Get Over",
-        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
+        "name": "Year Of The Spider",
+        "url": "https://open.spotify.com/album/2t9TN9PcDnAcLZCP9odxLY"
       },
       "artists": [
         {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
         }
       ],
-      "duration_ms": 204024,
-      "name": "See It Through",
-      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
+      "duration_ms": 198293,
+      "name": "Midnight Wine",
+      "url": "https://open.spotify.com/track/29ya2cQa0u96dSTctywzHI"
     }
   ],
   "unique_name": "the new retro",

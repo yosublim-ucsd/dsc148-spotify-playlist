@@ -1,12 +1,12 @@
 {
   "description": "Only the tastiest Christmas jams. Cover: Paul Simon",
-  "num_followers": 7971,
+  "num_followers": 7972,
   "original_name": "Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTQzOGQ0YjEyN2M4ZDRlNGZjYTg3OWJhYTZhMDI3ODcyODJiYTJj",
+  "snapshot_id": "MCxhMThhY2U4N2MwMTQ0M2YzODJlOTFlZTZlY2RiYTIwNWM3M2Q4YjU4",
   "tracks": [
     {
       "added_at": "2022-11-28 18:17:33",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
-        "name": "Light of the Stable (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "The First Noel - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
         "name": "Elvis Sings the Wonderful World of Christmas",
         "url": "https://open.spotify.com/album/67WNQsweOZ94qxgAUDGXAk"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 120168,
       "name": "The Wonderful World of Christmas",
       "url": "https://open.spotify.com/track/0Fp3B6lKPXjy5QNKBMghgf"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
+        "name": "Light of the Stable (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "The First Noel - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l"
     },
     {
       "added_at": "2022-11-28 18:17:33",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
-        "name": "20th Century Masters - The Best of Smokey Robinson & The Miracles: The Christmas Collection",
-        "url": "https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Go Tell It On The Mountain",
-      "url": "https://open.spotify.com/track/2KcdIIkNsOWAP7XhLqfJqK"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
         "name": "Christmas Cafe",
         "url": "https://open.spotify.com/album/60o7io2Q1sgIv0psxcfsDQ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 123240,
       "name": "Go Tell It On the Mountain",
       "url": "https://open.spotify.com/track/6EXMLtiFCnJT4TmONRRBH3"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
+        "name": "20th Century Masters - The Best of Smokey Robinson & The Miracles: The Christmas Collection",
+        "url": "https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Go Tell It On The Mountain",
+      "url": "https://open.spotify.com/track/2KcdIIkNsOWAP7XhLqfJqK"
     },
     {
       "added_at": "2022-11-28 18:17:33",

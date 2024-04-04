@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bon Jovi
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,136 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,208 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 74 | [Quero Te Levar](https://open.spotify.com/track/5yBvVZR9fRKUQxfe6cg83b) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Quero Te Levar](https://open.spotify.com/album/6sFQsoONnVuvaf1ZKFl6kw) | 2:59 |
 | 75 | [Vida Real](https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il) | [Esteban Tavares](https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o) | [Vida Real](https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE) | 3:50 |
 
-Snapshot ID: `MCxkNWVkYzU4MjQzYTNhZGY1MGQ2OWExNzlmYTM5YjU5NmY2MTVhYWYz`
+Snapshot ID: `MCw3YWM3MzliMTY5MDYyNjAxZDZiZjMzZTExNjA0YzYwODU3MDIxZTli`

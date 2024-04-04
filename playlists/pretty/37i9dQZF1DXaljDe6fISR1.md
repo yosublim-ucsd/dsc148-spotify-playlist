@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Racionais MC's
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,738 likes - 76 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,809 likes - 76 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 30 | [L\. Gelada \- 3 da Madrugada](https://open.spotify.com/track/32mcFZ8uedc5Wd5xoZsNXe) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [Declaração de Guerra](https://open.spotify.com/album/0qMoXv72zaGupEdMRJmjNg) | 7:21 |
 | 31 | [Lágrimas do Palhaço](https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | ["...Entre..."](https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX) | 3:54 |
 | 32 | [Babylon By Gus](https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:16 |
-| 33 | [O Mundo é Nosso](https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 3:43 |
+| 33 | [O Mundo é Nosso](https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 3:43 |
 | 34 | [Levanta e Anda](https://open.spotify.com/track/0JSux25Te5HYMSr2D64d02) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 2:30 |
 | 35 | [Xeque\-Mate](https://open.spotify.com/track/71D0QjvTIfJJ23T7P5ZwJy) | [Rato Reverso](https://open.spotify.com/artist/7wdxkvHo6Ea4PT8su25YDH), [Maurício DTS](https://open.spotify.com/artist/5BVe6zMKspyP3EP5ceYJU2), [Samuel Deco](https://open.spotify.com/artist/6103lC0Z8C5qu7yAcsB0AX) | [Xeque\-Mate](https://open.spotify.com/album/7Een9DWznzqUHEZA7Zyq9W) | 3:00 |
 | 36 | [Paranoia](https://open.spotify.com/track/0Q4GWaN6cJGlpd2bJUkRj5) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [MC Sombra](https://open.spotify.com/artist/63IeYEM4TZh69DN3PfZ0d1) | [Origens Parte 2 \- Ontem, Hoje e Amanhã](https://open.spotify.com/album/11bMuxP509lwDJPprgjo2S) | 3:28 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 75 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 |
 | 76 | [Antes das 6:00, Pt\. 2 \- Bonus Track](https://open.spotify.com/track/3Dyhym3tetqLh2Axf0MrYl) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Quantas Vezes Não Me Achei \(Deluxe\)](https://open.spotify.com/album/4osx7Hsw9f45WPHTBzjmVu) | 4:01 |
 
-Snapshot ID: `MCwxOTI5OTM5ZTJhOWI0YmRkMTRlMjE1Zjk5MWRiNGZhMTRlYzQyNGNm`
+Snapshot ID: `MCw2MDBkYTg1YmM2OTQ2N2UwMzA3MWMwNjA0ZjNiNTM1NWRjZTlkMmNi`

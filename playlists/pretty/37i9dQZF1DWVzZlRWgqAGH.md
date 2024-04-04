@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Khruangbin
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,263 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,312 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 5 | [Factor](https://open.spotify.com/track/4P2wL0Bt5X2NyrpHywsuPM) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn) | [Factor](https://open.spotify.com/album/05VwnXwsWgDKvhoAi62vPq) | 2:57 |
 | 6 | [Make Friends \- Pocket Size Radio Edit](https://open.spotify.com/track/2TO33go9HrlIUiduVua6Ic) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Make Friends](https://open.spotify.com/album/3o6yPI5w4ywLt8menXJ6Jm) | 4:08 |
 | 7 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 |
-| 8 | [Angela](https://open.spotify.com/track/36TkDjlOyExWGWpeThOgsx) | [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m), [Stas THEE Boss](https://open.spotify.com/artist/569JHM0BuZlot1yXODxhUV), [Irene Barber](https://open.spotify.com/artist/4SMPHImE8ShQJ55mJ01LoW) | [Angela](https://open.spotify.com/album/1XyGvGvrTfxboCatcdf3tA) | 3:01 |
+| 8 | [Angela](https://open.spotify.com/track/1RlwflrljoxcNGoRPjeeUT) | [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m), [Stas THEE Boss](https://open.spotify.com/artist/569JHM0BuZlot1yXODxhUV), [Irene Barber](https://open.spotify.com/artist/4SMPHImE8ShQJ55mJ01LoW) | [Exotic Birds of Prey](https://open.spotify.com/album/3PqRZV34l1ePPXXAHYOQYi) | 3:01 |
 | 9 | [One Night Stand](https://open.spotify.com/track/2CDGP4sWDuaYkRB8C48dJA) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [One Night Stand](https://open.spotify.com/album/3S2wJtXUAyA87jlBVxJMN4) | 4:16 |
 | 10 | [Imaan](https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P) | 3:34 |
 | 11 | [Learning](https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Learning](https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL) | 4:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Looping](https://open.spotify.com/track/4HwuBZ2IqMpGpPyvmoB9b4) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:13 |
 | 100 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 
-Snapshot ID: `MCxjMWU1NzRkOGRhY2VlM2JiYzc5NzE4MGFhMWM3OWM4MjE1NzkzNWFj`
+Snapshot ID: `MCw4NDQxMDM1NTg3ZGQwMDA1Y2IxNWFkMWQwNGQ1MjI0YWIxOTg0MjU4`

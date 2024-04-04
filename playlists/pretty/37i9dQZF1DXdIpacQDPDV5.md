@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Seven Lions, ILLENIUM, ÁSDÍS
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,991 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,002 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 14 | [Cheerleader](https://open.spotify.com/track/779mhz1mAry946r91qzR1r) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Cheerleader](https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI) | 3:57 |
 | 15 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 |
 | 16 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
-| 17 | [Wu Tang](https://open.spotify.com/track/5JB0vGxI5YFs0UW6N08VTS) | [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Wu Tang](https://open.spotify.com/album/3FJOODvRzwdFIic4XGSFzN) | 2:31 |
-| 18 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 |
-| 19 | [I'll Be Here](https://open.spotify.com/track/5UTjWT7qr0ltzTTzifQETi) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Endless, Dawn](https://open.spotify.com/album/6MKZdIsK146WQexodIPOvs) | 4:52 |
-| 20 | [Faust](https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:37 |
+| 17 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 |
+| 18 | [I'll Be Here](https://open.spotify.com/track/5UTjWT7qr0ltzTTzifQETi) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Endless, Dawn](https://open.spotify.com/album/6MKZdIsK146WQexodIPOvs) | 4:52 |
+| 19 | [Faust](https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:37 |
+| 20 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 |
 | 21 | [Don't Waste My Time \(feat\. Sophie Powers\)](https://open.spotify.com/track/0a8zTjSM9Fqam9aGQIpTil) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Space Rangers](https://open.spotify.com/artist/25o5gyj3kk1DUaRkkcEkZy), [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Don't Waste My Time \(feat\. Sophie Powers\)](https://open.spotify.com/album/6MrYLGdIy6OGW7Pyu0TPE8) | 2:09 |
 | 22 | [All My Love \(feat\. Bryn Christopher\)](https://open.spotify.com/track/7uxekgrzhajFcoitfpk5Ap) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [All My Love \(feat\. Bryn Christopher\)](https://open.spotify.com/album/4y1KLCiNGKa7369l7CfEc9) | 2:47 |
 | 23 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 69 | [Off Your Feet](https://open.spotify.com/track/5Pc4EIFIV7SAWW7AFG4UoY) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Off Your Feet](https://open.spotify.com/album/1813xCcbDcuZKudopbav6g) | 3:25 |
 | 70 | [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 |
 
-Snapshot ID: `MCwyNzhiM2UwOTgwYTlhZTNlYmM1NTA0NjQ0YWZmZGM5ZjZhMzQxMDVm`
+Snapshot ID: `MCwxNjMwZmE1YzVlZTIzYTFmOTczMmUyMWM1NGVlNzA1MDI2ZDRkNGYx`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6SK0frMbyQXljpwhhXP4KD">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-75 songs - 4 hr 4 min
+76 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [JEANS](https://open.spotify.com/track/7iTIneMCuNakuuPpGAZOis) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/5GrgdDQILb0smRjvqxYH3y) | 3:20 | 2023-12-13 | 2024-02-02 |
 | [K Goodnight](https://open.spotify.com/track/0p9aEyXQmmvArpgXor7YDu) | [Tim Suby](https://open.spotify.com/artist/5kfcmYOF2W9C1U8lvwhXnP), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [K Goodnight \(feat\. Jessie Reyez\) \- Single](https://open.spotify.com/album/5nEjbgwBJYj7QGtWbKQlyk) | 3:02 | 2022-06-04 |  |
 | [LA MEMORIA](https://open.spotify.com/track/1AJ1ybVy9k4qmxl9tP4VQc) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:17 | 2022-06-04 |  |
-| [LO INTENTE TODO](https://open.spotify.com/track/2Ve6tuzNCTwM1At1er93yM) | [La 2001](https://open.spotify.com/artist/5YHSoZ4ejXTjnAwfW90vAU) | [22 años La 2001, Vol\. 1](https://open.spotify.com/album/1teHA8YfYHBL1IwPJhPWzJ) | 3:29 | 2023-12-13 |  |
+| [LO INTENTE TODO](https://open.spotify.com/track/2Ve6tuzNCTwM1At1er93yM) | [La 2001](https://open.spotify.com/artist/5YHSoZ4ejXTjnAwfW90vAU) | [22 años La 2001, Vol\. 1](https://open.spotify.com/album/1teHA8YfYHBL1IwPJhPWzJ) | 3:29 | 2023-12-13 | 2024-04-04 |
+| [Lo Intenté Todo](https://open.spotify.com/track/26waqvvTo7eyRIApBjY5jM) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Lo Intenté Todo](https://open.spotify.com/album/0r18uYl5JRCEPLsLqdDEB2) | 3:24 | 2024-04-03 |  |
 | [LOVE IN THE DARK](https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:59 | 2022-06-04 |  |
 | [Love Me Still \(feat\. Jessie Reyez\)](https://open.spotify.com/track/34nMJtD8juawjxLdjx6Za2) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Love Me Still \(feat\. Jessie Reyez\)](https://open.spotify.com/album/0CjINjIOHeveub3qAnp65L) | 3:39 | 2022-06-04 |  |
 | [Love Me, Leave Me](https://open.spotify.com/track/5vLW7Y2Q8dVAfE2ow0aXcs) | [Casey Bishop](https://open.spotify.com/artist/6LfA72Ad6LWcDYOwUMqpce) | [Love Me, Leave Me](https://open.spotify.com/album/6Dd2YfMdyXe678EGH20nfT) | 3:45 | 2022-06-04 | 2023-12-14 |

@@ -2,15 +2,15 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. <br/>Cover: mrld
+> Mga nangunguna sa mundo ng OPM\. <br/>Cover: BINI
 
-93 songs - 5 hr 44 min
+95 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [711](https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [711](https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL) | 3:42 | 2024-01-24 |  |
 | [Akin Ka](https://open.spotify.com/track/6h2qKhKTodKT289Gx65X7X) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Akin Ka](https://open.spotify.com/album/57wzrjEKkJPJJ9S7BArBva) | 5:21 | 2024-01-24 | 2024-02-08 |
-| [Alam Mo Ba Girl](https://open.spotify.com/track/57Z7lSnhwx82laEb6rdZPB) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:43 | 2024-01-24 |  |
+| [Alam Mo Ba Girl](https://open.spotify.com/track/57Z7lSnhwx82laEb6rdZPB) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:43 | 2024-01-24 | 2024-04-04 |
 | [Ano Ba Meron Tayong Dalawa](https://open.spotify.com/track/1mTSYTbKMn0tYqO17KlEfn) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [3rd Time’s A Charm](https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3) | 3:47 | 2024-01-24 | 2024-02-01 |
 | [Anything](https://open.spotify.com/track/03WBX5gPyl2QR6t5J1XM6y) | [Mayonnaise](https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq) | [Anything](https://open.spotify.com/album/0BEehN6MWcTHQBlY12dGPC) | 4:12 | 2024-02-21 | 2024-03-21 |
 | [Araw\-Araw w/ You](https://open.spotify.com/track/1o0OXfkYfNKhANdE0LPbHa) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Araw\-Araw w/ You](https://open.spotify.com/album/6Sy2dHcsbWhyNTciQ00VY4) | 2:55 | 2024-01-24 | 2024-03-28 |
@@ -73,7 +73,7 @@
 | [Palagi](https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Palagi](https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH) | 3:38 | 2024-01-24 | 2024-02-08 |
 | [Pantropiko](https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pantropiko](https://open.spotify.com/album/3NYOeU6Uwj2FP1Zz1rWVz8) | 3:45 | 2024-02-28 |  |
 | [Para Sa Akin](https://open.spotify.com/track/5v5dlsJYrw9xiB36GELIUV) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Para Sa Akin](https://open.spotify.com/album/1qtZrt2G6Yr3RP3ZfMGxwU) | 3:17 | 2024-01-24 |  |
-| [PAREHAS TAYO](https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [PAREHAS TAYO](https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk) | 4:16 | 2024-01-24 |  |
+| [PAREHAS TAYO](https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [PAREHAS TAYO](https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk) | 4:16 | 2024-01-24 | 2024-04-04 |
 | [Patintero](https://open.spotify.com/track/3nupCyAjgcopsWicJpGk6D) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Patintero](https://open.spotify.com/album/0Ig0ZylVO9YCmgrYeYOLbk) | 2:53 | 2024-02-14 | 2024-02-29 |
 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2024-01-24 | 2024-02-08 |
 | [PLANETA](https://open.spotify.com/track/1g3bRh2QMoIFsDqjxSrALk) | [Keiko Necesario](https://open.spotify.com/artist/0DouUeF604QbSdKYIL3xrq) | [PLANETA](https://open.spotify.com/album/4X8lD1CYW5tonDqQ9iUTSc) | 4:23 | 2024-03-06 |  |
@@ -87,6 +87,7 @@
 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 | 2024-01-24 | 2024-02-08 |
 | [Sabik](https://open.spotify.com/track/4TFRpNfvdaW1sNmoUtZ5fV) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Sabik](https://open.spotify.com/album/3XGnYXcVJE1nD0OymzwcAJ) | 2:41 | 2024-02-28 |  |
 | [Salamin, Salamin](https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Talaarawan](https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv) | 3:50 | 2024-03-13 |  |
+| [Segundo, Siguro](https://open.spotify.com/track/01r5Imd2Zq78PKzx4vgul7) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Segundo, Siguro](https://open.spotify.com/album/0AR0FWh4eW1J7A5iP54hf0) | 4:44 | 2024-04-03 |  |
 | [Set You Free](https://open.spotify.com/track/1z9SylDvpsFYhgTOzq4jnf) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Set You Free](https://open.spotify.com/album/733n9hTBhq4vA2E7k9vzfn) | 4:37 | 2024-01-24 | 2024-02-15 |
 | [Sikulo](https://open.spotify.com/track/4UIfLmvtfUdSnoC9O6uXvv) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH), [Nhiko](https://open.spotify.com/artist/1aW2DEplQwLEpQ68PMpHQa) | [Sikulo](https://open.spotify.com/album/2nR17tFk4I05vKtmOKdxfL) | 4:41 | 2024-03-27 |  |
 | [SITWASYONSHIP](https://open.spotify.com/track/0wNf0yIreg4A8C5ZUY6b6Q) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [SITWASYONSHIP](https://open.spotify.com/album/7pZrfpbQ6XUmcE7ilysG4v) | 3:48 | 2024-01-24 |  |
@@ -100,6 +101,7 @@
 | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/album/6SgJspX5hiL8lPcd6shyAs) | 3:38 | 2024-01-24 | 2024-02-01 |
 | [We Made It](https://open.spotify.com/track/00h9iBIZPHjHAVoNzKHIOz) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [We Made It](https://open.spotify.com/album/2vd0mHXPGNEfvYK9PY5U2H) | 3:58 | 2024-01-24 |  |
 | [YK](https://open.spotify.com/track/3kdDccXEVz0snh6mcL4eFj) | [Cean Jr.](https://open.spotify.com/artist/4LT250S0fAe4cYqPbRk56m) | [YK](https://open.spotify.com/album/0vJ2H4ZG19Enzadvy7xHIS) | 2:50 | 2024-01-24 | 2024-02-08 |
+| [Yoko Na](https://open.spotify.com/track/6SIaYQUPOJpO8XFWeTl5dC) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Yoko Na](https://open.spotify.com/album/3Gj12JsaJaFtbfBOroD8gN) | 3:32 | 2024-04-03 |  |
 | [You'll Be Safe Here](https://open.spotify.com/track/2MU7C3czJUhO7KJ2yumoB1) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [You'll Be Safe Here](https://open.spotify.com/album/0R09cayA4ShMtoaAVWgao4) | 5:03 | 2024-01-24 | 2024-02-15 |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

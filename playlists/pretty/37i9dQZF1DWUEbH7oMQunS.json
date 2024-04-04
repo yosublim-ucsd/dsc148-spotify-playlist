@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 60480,
+  "num_followers": 60506,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTljMzU2YjA4MGRhYWQ1NTAyZjc0NjFlNDkxN2ZjMjM1MGE4MDU0",
+  "snapshot_id": "MCw0OWExMjY0MzQ2ZWZjODRkYTRlYWRhMzAyM2ExMmIyZThlYTk4ZTY1",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Graves Into Gardens (Acoustic)",
+        "url": "https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 278035,
+      "name": "Graves Into Gardens - Acoustic",
+      "url": "https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Walk with You",
         "url": "https://open.spotify.com/album/0qFxivCbnRrBlXwhvQlrYV"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 374546,
       "name": "Good Things",
       "url": "https://open.spotify.com/track/1CSSjxVMn8S51x1kC2yJ4z"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Graves Into Gardens (Acoustic)",
-        "url": "https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 278035,
-      "name": "Graves Into Gardens - Acoustic",
-      "url": "https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "After All These Years (Instrumental)",
-        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "For The One - Instrumental",
-      "url": "https://open.spotify.com/track/7ph250c2s06TIsL18QceuA"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Instrumental Worship Music, Vol. 1",
         "url": "https://open.spotify.com/album/3MJUlOTqubrCSjFJGhmkNx"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 330000,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/4FtDp8L6RFyTJY61LWUJkW"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "After All These Years (Instrumental)",
+        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "For The One - Instrumental",
+      "url": "https://open.spotify.com/track/7ph250c2s06TIsL18QceuA"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "After All These Years (Instrumental)",
-        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 336853,
-      "name": "Greater Than All Other Names - Instrumental",
-      "url": "https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
         "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 223346,
       "name": "I Could Sing Of Your Love Forever - Instrumental",
       "url": "https://open.spotify.com/track/2Lb8tCvwV9CVSEjO9uTWWI"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "After All These Years (Instrumental)",
+        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 336853,
+      "name": "Greater Than All Other Names - Instrumental",
+      "url": "https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
-        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
-      },
-      "artists": [
-        {
-          "name": "Rivers & Robots",
-          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
-        }
-      ],
-      "duration_ms": 242120,
-      "name": "The Lion And The Lamb - Instrumental",
-      "url": "https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Safe Place",
         "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 208000,
       "name": "The Invitation",
       "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
+        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
+      },
+      "artists": [
+        {
+          "name": "Rivers & Robots",
+          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
+        }
+      ],
+      "duration_ms": 242120,
+      "name": "The Lion And The Lamb - Instrumental",
+      "url": "https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Hope Where There Was None",
-        "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
-      },
-      "artists": [
-        {
-          "name": "Loud Harp",
-          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Weeping Mary",
-      "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Contemporary Worship Hits",
         "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 179678,
       "name": "Lord I need You",
       "url": "https://open.spotify.com/track/2UYvWrbew5Bbb6PchbU4t4"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Hope Where There Was None",
+        "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
+      },
+      "artists": [
+        {
+          "name": "Loud Harp",
+          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Weeping Mary",
+      "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Contemporary Worship Hits",
-        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
-      },
-      "artists": [
-        {
-          "name": "Holy Communion Instrumental Duo",
-          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
-        }
-      ],
-      "duration_ms": 143453,
-      "name": "10,000 Reasons (Bless the Lord)",
-      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Mother's Love",
         "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 249608,
       "name": "What You Paid For",
       "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Contemporary Worship Hits",
+        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
+      },
+      "artists": [
+        {
+          "name": "Holy Communion Instrumental Duo",
+          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
+        }
+      ],
+      "duration_ms": 143453,
+      "name": "10,000 Reasons (Bless the Lord)",
+      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Nineveh (Live)",
-        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 268347,
-      "name": "Nineveh - Live",
-      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "features",
         "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 216366,
       "name": "hold on (alt. version)",
       "url": "https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Nineveh (Live)",
+        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 268347,
+      "name": "Nineveh - Live",
+      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "How Much You Mean To Me",
+        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 218129,
+      "name": "How Much You Mean To Me",
+      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Spirit Of God",
         "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 290813,
       "name": "Something About The Name - Live",
       "url": "https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "How Much You Mean To Me",
-        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 218129,
-      "name": "How Much You Mean To Me",
-      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "I Won't Let Go",
+        "url": "https://open.spotify.com/album/2VA6K5Fan0mXPpBuZs5ZBv"
+      },
+      "artists": [
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 232293,
+      "name": "I Won't Let Go",
+      "url": "https://open.spotify.com/track/706slEZ03AMqpvUAAI95zs"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Higher Ways",
         "url": "https://open.spotify.com/album/6FcRqLpn1eas7Mu76WCRgh"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 289213,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/5hcTf54Yvz9DKpshg3DGnL"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "I Won't Let Go",
-        "url": "https://open.spotify.com/album/2VA6K5Fan0mXPpBuZs5ZBv"
-      },
-      "artists": [
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "I Won't Let Go",
-      "url": "https://open.spotify.com/track/706slEZ03AMqpvUAAI95zs"
     },
     {
       "added_at": "2023-07-28 04:02:00",

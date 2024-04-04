@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-304 songs - 17 hr 17 min
+305 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Kya Bataya](https://open.spotify.com/track/0IRw2VTYgLk4HxyEpuyRcY) | [Vicky sandhu](https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT) | [Kya Bataya](https://open.spotify.com/album/3WAWqQ41mCyBGusm4Fhrzt) | 3:34 | 2023-07-07 | 2023-07-18 |
 | [Kya Pata](https://open.spotify.com/track/53yFr6IXLXpj9JwtC0Pb1G) | [Naheed](https://open.spotify.com/artist/43z0UwKntpjMtivlmq0BkI), [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw) | [Kya Pata](https://open.spotify.com/album/0BIKCUslpeLuu5GDho6UYc) | 2:30 | 2023-05-17 | 2023-06-23 |
 | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/track/2rjCLFdX8n9xLoMZgdMMxt) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/album/6jN4E5miEwdQBUqU0HP0Dg) | 3:32 | 2023-05-17 | 2023-06-03 |
-| [Kya Yeh Hua](https://open.spotify.com/track/5J5Ad1UWIGCZgFX1H0qbdl) | [Karigar](https://open.spotify.com/artist/6BSvdM5bDjeGF7dAaprE5k) | [Kya Yeh Hua](https://open.spotify.com/album/4zIAI6ZeWXhIYMPfQcOeHI) | 3:33 | 2024-02-02 |  |
+| [Kya Yeh Hua](https://open.spotify.com/track/5J5Ad1UWIGCZgFX1H0qbdl) | [Karigar](https://open.spotify.com/artist/6BSvdM5bDjeGF7dAaprE5k) | [Kya Yeh Hua](https://open.spotify.com/album/4zIAI6ZeWXhIYMPfQcOeHI) | 3:33 | 2024-02-02 | 2024-04-04 |
 | [Kyon Alag Huye](https://open.spotify.com/track/4sN3JE7LNUd5fM99QedzXY) | [Govinda Sarkar](https://open.spotify.com/artist/1hc9vww0TKHeWZOMkxC8kd) | [Kyon Alag Huye](https://open.spotify.com/album/7oPkwM4rULtTPoNIMHBAdT) | 1:21 | 2023-05-17 | 2023-05-27 |
 | [Kyun](https://open.spotify.com/track/6OGmgBJoeo6ZkhoOsL09l2) | [Aseem Sharma](https://open.spotify.com/artist/4qJ2gWYz4ObYS8uUe11RkW) | [Kyun](https://open.spotify.com/album/3a0iTDXtvhR4XIthE3FrNU) | 3:03 | 2024-03-04 |  |
 | [KYUN](https://open.spotify.com/track/14cov9USWeOHrxA6eBeLpz) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [KYUN](https://open.spotify.com/album/3P3ouKXe5GLU8oVmpHmOnZ) | 3:56 | 2023-06-02 | 2023-07-14 |
@@ -220,6 +220,7 @@
 | [Patang](https://open.spotify.com/track/6RD9dthWpHuwQj1CDENCZD) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:35 | 2023-05-17 | 2023-08-10 |
 | [Pehli Baarish \- Acoustic](https://open.spotify.com/track/3nH2qforxZ3ZWtCOne2m0F) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish \(Acoustic\)](https://open.spotify.com/album/5In5fUCXEXXNtaNfjsMscl) | 2:26 | 2023-06-30 | 2023-09-22 |
 | [Pehli Sharam](https://open.spotify.com/track/5VqWH46kP3CM1B6goFqOSU) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Big Girls Don’t Cry](https://open.spotify.com/album/2roFrzdSEJ1IKTM4UzlnwW) | 3:36 | 2024-03-11 |  |
+| [Piya \(Mehfil Unplugged\)](https://open.spotify.com/track/0kFfxbe1B56kGtNZgjHI3d) | [Udit Saxena](https://open.spotify.com/artist/69BwX40UDcRRhksPIX43q5) | [Piya \(Mehfil Unplugged\)](https://open.spotify.com/album/0MUdhXqh4Px7wQ5HXYi8c3) | 2:12 | 2024-04-03 |  |
 | [Piya Tose Naina Lage Re](https://open.spotify.com/track/6br9un9rA9AqqRTSgWq3jJ) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB) | [Kuhu Kuhu](https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg) | 4:18 | 2023-09-29 |  |
 | [Piya Tose Naina Lage Re](https://open.spotify.com/track/3DsIkyKjAe4yOvTsaS6dnn) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Kuhu Kuhu](https://open.spotify.com/album/4WXQQBBQsr1sKMp2I3IPGB) | 4:14 | 2023-09-28 | 2023-09-30 |
 | [Pyaar](https://open.spotify.com/track/1DvFc1hozo6IhBj8Ae4GfN) | [Nikul Sabalpara](https://open.spotify.com/artist/4g9yRDkHYocIsv298xj3Kh) | [Pyaar](https://open.spotify.com/album/1zJMlunXj3rYzXJ1KYBOWw) | 2:28 | 2024-03-11 |  |

@@ -2000,10 +2000,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 213213,
       "name": "O.K",
       "url": "https://open.spotify.com/track/3CDDZYgE0S8sHLXEZjKCOd"
+    },
+    {
+      "album": {
+        "name": "Let's Fly",
+        "url": "https://open.spotify.com/album/56X5i3sPExsgkOxAxKizuz"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213213,
+      "name": "O.K",
+      "url": "https://open.spotify.com/track/7q7RyjJSZjIHw1wU7bmJ0z"
     },
     {
       "album": {

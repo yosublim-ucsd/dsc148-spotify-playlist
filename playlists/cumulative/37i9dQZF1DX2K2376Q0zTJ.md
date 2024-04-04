@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。今月のアンバサダー: Furui RIho
 
-1,136 songs - 2 day 19 hr 15 min
+1,138 songs - 2 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [As you are](https://open.spotify.com/track/4h6WxofpPYdffSul9zgh5I) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [As you are](https://open.spotify.com/album/7lizwS91vA2vdPKGEZWTx1) | 3:07 | 2022-08-02 | 2024-04-03 |
 | [Asleep Among Endives](https://open.spotify.com/track/0RD3NWnHlyBCRwgNZy8QAn) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Asleep Among Endives](https://open.spotify.com/album/6pKCyXWoV7zhgDczCO0H6S) | 5:06 | 2023-11-29 | 2024-01-10 |
 | [Atlantic Ocean](https://open.spotify.com/track/5yBytSuO06LvrSmiEavHgU) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Calla](https://open.spotify.com/album/5JW6kKPUEf6vLLNoC6jg8z) | 2:39 | 2023-11-29 | 2024-01-10 |
+| [Awaini](https://open.spotify.com/track/2LvtiKmK2dOIH8NjSlix7d) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Awaini](https://open.spotify.com/album/2PKY0nUkj6ou7NS1TWyDBx) | 3:21 | 2024-04-02 |  |
 | [Baaka!](https://open.spotify.com/track/30hCaxH7w9nmm5OvJFBe4N) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Takaramono](https://open.spotify.com/album/19KMuhlGVX3PTQPM1iqKFe) | 1:11 | 2024-01-09 | 2024-02-07 |
 | [Baby Girl You And Me](https://open.spotify.com/track/273L5GmNksd2A5mzUrmvCr) | [Lokho](https://open.spotify.com/artist/5Jlszs6n4EMesnePkeO5Qx), [MEIRLIN](https://open.spotify.com/artist/2JC3qTHp8oLSTwyV4lkixt) | [Baby Girl You And Me](https://open.spotify.com/album/5tGZAaeU9hHGCeLcCASyv0) | 4:25 | 2022-05-31 | 2022-07-06 |
 | [baD bitch](https://open.spotify.com/track/4tE4BzZjssumWofVR5adO1) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [baD bitch](https://open.spotify.com/album/4IRCqIwvJInDnyJbqRaPa2) | 2:25 | 2021-11-30 | 2022-01-05 |
@@ -813,7 +814,8 @@
 | [you too](https://open.spotify.com/track/03A8fTxobKQfeD9Le30BmD) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [LOOK](https://open.spotify.com/album/1rEYuax28LHBK7HyKwYhOT) | 4:05 | 2022-07-05 | 2022-07-29 |
 | [you too](https://open.spotify.com/track/7qwE2JBSrHsebLXFHHUWWB) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [LOOK](https://open.spotify.com/album/1wUDIdbHuNLommHax61f0O) | 4:05 | 2022-07-05 | 2023-01-04 |
 | [YOU&愛Heaven](https://open.spotify.com/track/61y30C7o99Zi0uGCyB5vqy) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [YOU&愛Heaven](https://open.spotify.com/album/3rYPFG85zZbBFX77PcdFQ5) | 3:45 | 2024-02-06 | 2024-03-06 |
-| [Your Love](https://open.spotify.com/track/7Bek5MohEgCbfAs91H3Di1) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Love One Another](https://open.spotify.com/album/47MmxhLmTn7W91dxYCHvT9) | 3:45 | 2024-04-02 |  |
+| [Your Love](https://open.spotify.com/track/4V79L8tRqdgQLT1og54hN6) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Love One Another](https://open.spotify.com/album/2BKXSl0ktKpWNHzqdAAy1T) | 3:45 | 2024-04-02 |  |
+| [Your Love](https://open.spotify.com/track/7Bek5MohEgCbfAs91H3Di1) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Love One Another](https://open.spotify.com/album/47MmxhLmTn7W91dxYCHvT9) | 3:45 | 2024-04-02 | 2024-04-04 |
 | [Your Love](https://open.spotify.com/track/0ZlacvDIHlKE1d6qzLjltK) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 4:09 | 2022-05-31 | 2023-01-04 |
 | [Your Next](https://open.spotify.com/track/7aj8CY9wmj9RFDjQKeWvJL) | [EMMA WAHLIN](https://open.spotify.com/artist/5vLM0jSwj4TMVhnWuocoaD) | [Your Next](https://open.spotify.com/album/3O5ElEKrcZgpCqPrNZXUl2) | 3:38 | 2022-05-31 | 2022-07-06 |
 | [yours](https://open.spotify.com/track/5aUGn26DPGI2ZhpeYYcKJP) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [yours](https://open.spotify.com/album/3Bongu2IlWvd9QIOGLrPOM) | 4:11 | 2022-03-07 | 2022-04-06 |
@@ -842,7 +844,7 @@
 | [あなたと笑う](https://open.spotify.com/track/3cd8ZsJI8zWmFGNh18VIJB) | [Miwa Sasagawa](https://open.spotify.com/artist/4luR2xOhou26Hmooyo2cnd) | [あなたと笑う](https://open.spotify.com/album/0vAXR23WyVUcmZk92qf5hK) | 4:21 | 2023-01-03 | 2023-02-02 |
 | [あの頃から今](https://open.spotify.com/track/5NsxBpNnsFqYsXr5efHTCm) | [AYA A.K.A PANDA](https://open.spotify.com/artist/6H3niqx3EU1Cg14nMe0PhN) | [Anemone](https://open.spotify.com/album/6ShwuXacaFJ6wjPVQXJoum) | 3:06 | 2022-04-05 | 2022-05-05 |
 | [あらいざらい](https://open.spotify.com/track/0U51gf1Xl1SgbP2loe2E0C) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [あらいざらい](https://open.spotify.com/album/7GrJT4y3UHgNNoaBeqe7YU) | 2:50 | 2024-02-06 | 2024-03-06 |
-| [あわいに](https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [あわいに](https://open.spotify.com/album/5SCavhtaz95mQ9mdaMDSRi) | 3:21 | 2024-04-02 |  |
+| [あわいに](https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [あわいに](https://open.spotify.com/album/5SCavhtaz95mQ9mdaMDSRi) | 3:21 | 2024-04-02 | 2024-04-04 |
 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 | 2023-04-04 | 2023-05-03 |
 | [いのちの名前](https://open.spotify.com/track/0uUiDGILIZ6QYSjFhbNwSz) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スタジオジブリ トリビュートアルバム「ジブリをうたう」](https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0) | 4:29 | 2023-11-07 | 2023-11-19 |
 | [おなじ話](https://open.spotify.com/track/48nK8ZOd4mXSQ5fTbhTK80) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [FOLK](https://open.spotify.com/album/3Z3UnbHZHihhpVWARv5z1M) | 4:30 | 2023-01-03 | 2023-02-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Jovem Dionisio",
-  "num_followers": 434671,
+  "num_followers": 434697,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGM3ODRhY2I1ZDUyN2MyYzczYmVhZjAwNTBhYmIyNGNhN2NhNjAz",
+  "snapshot_id": "MCw4OGExMzY1MTU1ZTQ2ZGFjMmViYWNhMTcwZjM3ZTgxMmQwZDQ4MzUx",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Resposta",
+        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 211069,
+      "name": "Resposta",
+      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 150000,
       "name": "A Gente Tem Tudo a Ver",
       "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Resposta",
-        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 211069,
-      "name": "Resposta",
-      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "que mal que tem?",
         "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 157708,
       "name": "que mal que tem?",
       "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Pelo mundo",
-        "url": "https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 196642,
-      "name": "Sereia",
-      "url": "https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Breve",
         "url": "https://open.spotify.com/album/7vnC5W0UKcZsOEsBx6zU07"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 155553,
       "name": "Praia do Rosa",
       "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Pelo mundo",
+        "url": "https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 196642,
+      "name": "Sereia",
+      "url": "https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Coisas De Voc\u00ea",
+        "url": "https://open.spotify.com/album/2xBdXe7N6E8TkjXGxsvsO4"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 197802,
+      "name": "Coisas De Voc\u00ea",
+      "url": "https://open.spotify.com/track/7ngk2XR1c7NrDwVhjcdf0X"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Pecadinho",
         "url": "https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 126000,
       "name": "Pecadinho",
       "url": "https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Coisas De Voc\u00ea",
-        "url": "https://open.spotify.com/album/2xBdXe7N6E8TkjXGxsvsO4"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 197802,
-      "name": "Coisas De Voc\u00ea",
-      "url": "https://open.spotify.com/track/7ngk2XR1c7NrDwVhjcdf0X"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "N\u00d3S NUS",
-        "url": "https://open.spotify.com/album/5Q0BZT7rQ2pGzWaMXEVPgR"
-      },
-      "artists": [
-        {
-          "name": "Leo Cavalcanti",
-          "url": "https://open.spotify.com/artist/4kCmFwffgs5qxAX2kDeOru"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 304068,
-      "name": "N\u00d3S NUS",
-      "url": "https://open.spotify.com/track/3zRoNvRTovjZcycfZw7N7T"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "calma na alma",
         "url": "https://open.spotify.com/album/4XIGrKDCbYgBDSPxSo9voV"
       },
@@ -803,6 +783,26 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "N\u00d3S NUS",
+        "url": "https://open.spotify.com/album/5Q0BZT7rQ2pGzWaMXEVPgR"
+      },
+      "artists": [
+        {
+          "name": "Leo Cavalcanti",
+          "url": "https://open.spotify.com/artist/4kCmFwffgs5qxAX2kDeOru"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 304068,
+      "name": "N\u00d3S NUS",
+      "url": "https://open.spotify.com/track/3zRoNvRTovjZcycfZw7N7T"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Quando isso vai passar?",
         "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 156466,
       "name": "Quando isso vai passar?",
       "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Vou Fugir",
+        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Vou Fugir",
+      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -835,22 +851,6 @@
       "duration_ms": 108307,
       "name": "putz",
       "url": "https://open.spotify.com/track/3eDcQ4Hb1C662e1iCYzxCL"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Vou Fugir",
-        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Vou Fugir",
-      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Duas da Manh\u00e3",
+        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 198071,
+      "name": "Duas da Manh\u00e3",
+      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Dan\u00e7a",
         "url": "https://open.spotify.com/album/4KvxHv4e93jbIEUrjWzrh0"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 182780,
       "name": "Dan\u00e7a",
       "url": "https://open.spotify.com/track/4zOwbaaLKlivAFL8ueaLTo"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Duas da Manh\u00e3",
-        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 198071,
-      "name": "Duas da Manh\u00e3",
-      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Desejos",
-        "url": "https://open.spotify.com/album/28wJ7QldQ5pIVzaHxTWOu9"
+        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
       },
       "artists": [
         {
-          "name": "Bufal\u00f4",
-          "url": "https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0"
-        },
-        {
-          "name": "IVYO",
-          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Desejos",
-      "url": "https://open.spotify.com/track/6g3feIh4V5h3UMvuAifb4h"
+      "duration_ms": 144000,
+      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
+        "name": "Desejos",
+        "url": "https://open.spotify.com/album/28wJ7QldQ5pIVzaHxTWOu9"
       },
       "artists": [
         {
-          "name": "Maria Maud",
-          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+          "name": "Bufal\u00f4",
+          "url": "https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0"
+        },
+        {
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
         }
       ],
-      "duration_ms": 144000,
-      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+      "duration_ms": 177000,
+      "name": "Desejos",
+      "url": "https://open.spotify.com/track/6g3feIh4V5h3UMvuAifb4h"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Concreto (2024 Rework)",
-        "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 194196,
-      "name": "Recome\u00e7o - Bonus Track",
-      "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "J\u00e1 Te Falei",
         "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 205540,
       "name": "J\u00e1 Te Falei",
       "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Concreto (2024 Rework)",
+        "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 194196,
+      "name": "Recome\u00e7o - Bonus Track",
+      "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
     },
     {
       "added_at": "2024-03-29 03:00:00",

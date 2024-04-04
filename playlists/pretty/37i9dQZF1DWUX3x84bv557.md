@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: FLEUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,974 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,993 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Radar](https://open.spotify.com/track/7sPU3UDb9jjW3F9AYKlQD9) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Radar](https://open.spotify.com/album/1wNXE5nqPYkz3j0Fe8nmWB) | 2:22 |
 | 60 | [Meisjes lopen sneller](https://open.spotify.com/track/3xgs6tyUGo7Q4aNMuZExWS) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Meisjes lopen sneller](https://open.spotify.com/album/2kfLBi7ezCQRJfMHH11ZGx) | 3:36 |
 
-Snapshot ID: `MCxmZTI5MjFjZGJjOTE5YWJlOGE4MTIxNWU2MTU4NjZjYzM4MTQyNzAz`
+Snapshot ID: `MCw4MDdlOTk5OWIzMjMxZDgyMWI3N2VhYTA4YzUxMjI5MGJiMjU2MDIw`

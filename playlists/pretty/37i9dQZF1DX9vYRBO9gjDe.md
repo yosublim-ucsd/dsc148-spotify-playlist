@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。3月31日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,812 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,861 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [EVERGREEN](https://open.spotify.com/track/7g52m7qMFNe2FFCEB2rQuu) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [EVERGREEN](https://open.spotify.com/album/0tS8i5iuz4twsxquEFybh7) | 3:48 |
 | 50 | [Fate](https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:41 |
 
-Snapshot ID: `MCxjZmU3MzAyZjc1NWVlODA2NDY1NzJkYWUxMDZlNDcwMjRhNmVjMTVh`
+Snapshot ID: `MCxkNmZiZmQ0NjI4MmEzNmY0MjQwMzQyZTMyNTEwODI0YzZlYzBjMTM2`

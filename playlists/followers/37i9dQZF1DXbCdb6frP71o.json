@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 12924,
+  "2024-04-04": 12977,
   "date_first_scraped": "2024-03-12",
   "description": "Devotional tracks for an immersive Ramadan.",
   "name": "Hamd-o-Naat",
@@ -119,6 +119,28 @@
       "duration_ms": 242823,
       "name": "Allah Hoo",
       "url": "https://open.spotify.com/track/2oAsqDg6T3r1aCuA6RnXmQ"
+    },
+    {
+      "album": {
+        "name": "Allah Hoo",
+        "url": "https://open.spotify.com/album/3e0NZcwd5FmCc4FP0leyq8"
+      },
+      "artists": [
+        {
+          "name": "Yashal Shahid",
+          "url": "https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53"
+        },
+        {
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242891,
+      "name": "Allah Hoo",
+      "url": "https://open.spotify.com/track/6CyGDHyNNtd66s9BSXJk2h"
     },
     {
       "album": {
@@ -1280,6 +1302,24 @@
     },
     {
       "album": {
+        "name": "Sallu Alaihay Wa Aalehi",
+        "url": "https://open.spotify.com/album/7amn6SFZNp10fQ3p5On0fO"
+      },
+      "artists": [
+        {
+          "name": "Shiraz Uppal",
+          "url": "https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110122,
+      "name": "Sallu Alaihay Wa Aalehi",
+      "url": "https://open.spotify.com/track/7BiWdJylJfQRi4m71wJzHr"
+    },
+    {
+      "album": {
         "name": "Sarkar Ki Baat",
         "url": "https://open.spotify.com/album/1OuXWxCzMLHshpqp5AyCvV"
       },
@@ -1428,6 +1468,28 @@
     },
     {
       "album": {
+        "name": "Tere Naam Say",
+        "url": "https://open.spotify.com/album/5JYdFH2urWB8xKig1rR0KR"
+      },
+      "artists": [
+        {
+          "name": "Khawar Jawad",
+          "url": "https://open.spotify.com/artist/1Yn6sVYDKokQTn0wjZ90Xx"
+        },
+        {
+          "name": "Faiza Mujahid",
+          "url": "https://open.spotify.com/artist/00IltG2kzSaJXG8abyvuG3"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144657,
+      "name": "Tere Naam Say",
+      "url": "https://open.spotify.com/track/325faG4AdADENDnxeEPfTV"
+    },
+    {
+      "album": {
         "name": "Tere Sadqe Me Aaqa",
         "url": "https://open.spotify.com/album/0G4kBuIo9MnPLtud5pdhqj"
       },
@@ -1551,6 +1613,24 @@
       "duration_ms": 339200,
       "name": "Ya Nabi (s.a.w) Durood o Salaam",
       "url": "https://open.spotify.com/track/5rcxEwduXIVMMT8zJdKh10"
+    },
+    {
+      "album": {
+        "name": "Ya Nabi Salam Alaika (S.A.W.W)",
+        "url": "https://open.spotify.com/album/5CYRRzUFhgCRMl0QatmEZ6"
+      },
+      "artists": [
+        {
+          "name": "Boss Menn",
+          "url": "https://open.spotify.com/artist/6l3Cv46bf92QuX8VaIqdXz"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Ya Nabi Salam Alaika (S.A.W.W)",
+      "url": "https://open.spotify.com/track/3cca0FszjUAkg6mvISlqY6"
     },
     {
       "album": {

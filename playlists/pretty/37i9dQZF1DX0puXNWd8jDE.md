@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 
 > 偷練不是罪、抖音無所謂、最新曲目讓你全台包廂任意走跳！
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,255 likes - 60 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,283 likes - 60 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 59 | [十年](https://open.spotify.com/track/1b6IRkQ6owDaUYRwmHxr3W) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [你的陳奕迅 \(國語精選\)](https://open.spotify.com/album/3YpIH5mASoFetVQjgvazZa) | 3:25 |
 | 60 | [Without You](https://open.spotify.com/track/0KWnRv3wxjltYVB3MqjNd2) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [\#osnrap](https://open.spotify.com/album/4b65l6XzLp2Eg6lDTMmO1k) | 2:55 |
 
-Snapshot ID: `MCw1MWU1ZjBjZjQ1NDViYjgxNmQzZTFjNzA1MDhlOTFlZjA5ODc5Yzk3`
+Snapshot ID: `MCwxZGQ1YTJjZWU2YzQ3MzMzY2M0ZmM4ODM5ZjIxZjE5NjdiZjFmZGVh`

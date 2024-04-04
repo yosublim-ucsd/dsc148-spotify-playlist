@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m?si=JvlkENTPTVWQtemui\_MtFw">Beyoncé</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,765 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,814 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 32 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
 | 33 | [I Got Nothing \- Ferreck Dawn Mix](https://open.spotify.com/track/6ZR6tHglQJYQCLDrZNpFUV) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [I Got Nothing \(Ferreck Dawn Mix\)](https://open.spotify.com/album/2Rfodx3PPInqdZUplCNzjq) | 2:51 |
 | 34 | [Steppas](https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Steppas](https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX) | 3:21 |
-| 35 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
+| 35 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 |
 | 36 | [Zig Zag](https://open.spotify.com/track/2XOqxVmn5IyOiPL2orpT1D) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Zig Zag](https://open.spotify.com/album/2BnAIVgZNXMsQc3qFvFB0z) | 4:14 |
 | 37 | [Living In A Haze \- feat\. The Beaches](https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Living In A Haze \(feat\. The Beaches\)](https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E) | 2:53 |
 | 38 | [Boomslang](https://open.spotify.com/track/2gHaNxgv0GczgZ509a0Aut) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Boomslang](https://open.spotify.com/album/3r7y6eXD69On9To6IPAQWb) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 49 | [Malunde \(feat\. Thatohatsi & MDU a.k.a TRP\)](https://open.spotify.com/track/4v7VUHe9M7gErZEXY1JA18) | [Bongza](https://open.spotify.com/artist/1U0kluMlV9VEvmeRvjilSG), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L), [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR) | [NONJABULO](https://open.spotify.com/album/1uuOsKkwF9LAuJPSfFxHIR) | 7:57 |
 | 50 | [OLD SCHOOL JAM](https://open.spotify.com/track/64uHnONrDLvHBGUmmDvcA6) | [Veenus](https://open.spotify.com/artist/1g0NILOzQIwGEdt6phsx9b) | [Boombap Chrysalis \(Part One\)](https://open.spotify.com/album/6UEfFyjTwXMcesI8zjw2M2) | 3:08 |
 
-Snapshot ID: `MCw4ZjYwYWM2MTQyNmJlMDVmZTY3MzkyMWRjYjZkZjUwNzE2MmU5NGI1`
+Snapshot ID: `MCwxODFjMGQ0NmYyNjgxYTk3N2E0NTNlN2UxZDEwMTNiZjI0MzdiODky`

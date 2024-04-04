@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oWCUlN9CxD.md) - [plain]
 
 > Retrouvez toutes les chansons de Tchoupi et de ses copains Lalou et Doudou
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,121 likes - 37 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,131 likes - 37 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oWCUlN9CxD.md) - [plain]
 | 36 | [Tchoupi se ballade en montagne](https://open.spotify.com/track/2BHUMc8qD7PJCCwIGYSJha) | [Tchoupi](https://open.spotify.com/artist/4LdUoYaXM8HFG76eCWNEJa) | [T'choupi](https://open.spotify.com/album/0I8pIcZ9KJ21RKQBOvhmyk) | 0:49 |
 | 37 | [Tchoupi tout finit bien](https://open.spotify.com/track/6rwk3Vfmee3Mdgo9ZqLeOd) | [Tchoupi](https://open.spotify.com/artist/4LdUoYaXM8HFG76eCWNEJa) | [T'choupi](https://open.spotify.com/album/0I8pIcZ9KJ21RKQBOvhmyk) | 1:00 |
 
-Snapshot ID: `MCw4ZGI4NzE1ZDAzYTZkZjVmODdiZTM0NTAzNjcxYTIyZDE2OTg4NTdj`
+Snapshot ID: `MCxkY2JmNDU2ZmQzODZjZDhkYWVhODA2ZmNmMTdlMWUxODlmM2IxMTY1`

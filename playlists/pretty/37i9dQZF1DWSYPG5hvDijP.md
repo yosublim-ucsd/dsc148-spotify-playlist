@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,763 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,850 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KAALE KAARNAME](https://open.spotify.com/track/4mwGoFQMgc3rCX8rqwzDkQ) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [KAALE KAARNAME](https://open.spotify.com/album/1Gjp4DCrhmts3pv2imjoLW) | 2:41 |
 | 2 | [Joota Japani](https://open.spotify.com/track/7lzPCtx5j2JRFhbsGpbzQ7) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Shankar Jaikishan](https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc) | [Joota Japani](https://open.spotify.com/album/1GCClFFYn65g9WH1XXUWDK) | 2:35 |
-| 3 | [G\-Yaan](https://open.spotify.com/track/3wGz2eHyWekq06k6LdqYiG) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:22 |
-| 4 | [Thehra](https://open.spotify.com/track/5OwAx0hZV7rNGYRR7ILQvh) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [Thehra](https://open.spotify.com/album/511wcTtnR6shsUf6CFiwOd) | 2:22 |
-| 5 | [Like A Snake](https://open.spotify.com/track/1pCyNu4mgeZP0qqHNMTjWJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:01 |
-| 6 | [Mindset](https://open.spotify.com/track/6GR9mVx6iFX2OEWY6aTgJS) | [Shiv Nevergive Up](https://open.spotify.com/artist/0Y9w0CKjJm1FEg6og8p9O8), [Ricky on the Beat](https://open.spotify.com/artist/2bThg4vu5CITycJjAaAADK) | [Mindset](https://open.spotify.com/album/5FUF6X2WZ6KTTH7iDrItcM) | 3:05 |
-| 7 | [Haldi aur Doodh](https://open.spotify.com/track/4z1MvUa3Ky9sxTuqqpocvZ) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr), [Funkaar](https://open.spotify.com/artist/2V6FIScMLZiqWrNLmkDrfu) | [Haldi aur Doodh](https://open.spotify.com/album/4L4NYejLHPnfTosJAOhWh2) | 1:43 |
-| 8 | [OK Report](https://open.spotify.com/track/1zX6pzlaHvuxnBxGfJqUi1) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [OK Report](https://open.spotify.com/album/1HEcrEyGSgO0mh2OFgBtTI) | 2:21 |
+| 3 | [Like A Snake](https://open.spotify.com/track/1pCyNu4mgeZP0qqHNMTjWJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:01 |
+| 4 | [G\-Yaan](https://open.spotify.com/track/3wGz2eHyWekq06k6LdqYiG) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:22 |
+| 5 | [Thehra](https://open.spotify.com/track/5OwAx0hZV7rNGYRR7ILQvh) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [Thehra](https://open.spotify.com/album/511wcTtnR6shsUf6CFiwOd) | 2:22 |
+| 6 | [Spin On It](https://open.spotify.com/track/2sNfTf311CxI5gYFonxZ9Y) | [wolf.cryman](https://open.spotify.com/artist/43CbNTpTFxvw0F9UxMZVTO), [Faizan](https://open.spotify.com/artist/4SG1sBze1PccNVkHhX4H4x) | [Dil Fenk Ke Marunga 2](https://open.spotify.com/album/5lUERVYyFplh5vXcUyNjpf) | 4:11 |
+| 7 | [Mindset](https://open.spotify.com/track/6GR9mVx6iFX2OEWY6aTgJS) | [Shiv Nevergive Up](https://open.spotify.com/artist/0Y9w0CKjJm1FEg6og8p9O8), [Ricky on the Beat](https://open.spotify.com/artist/2bThg4vu5CITycJjAaAADK) | [Mindset](https://open.spotify.com/album/5FUF6X2WZ6KTTH7iDrItcM) | 3:05 |
+| 8 | [Haldi aur Doodh](https://open.spotify.com/track/4z1MvUa3Ky9sxTuqqpocvZ) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr), [Funkaar](https://open.spotify.com/artist/2V6FIScMLZiqWrNLmkDrfu) | [Haldi aur Doodh](https://open.spotify.com/album/4L4NYejLHPnfTosJAOhWh2) | 1:43 |
 | 9 | [Chai aur Meetha](https://open.spotify.com/track/4ndJIyM9HIu1OoMkciX0Gz) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [toorjo dey](https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL) | [Chai aur Meetha](https://open.spotify.com/album/4wOIhztS8Urn8LXqXMIX3X) | 3:31 |
 | 10 | [Image](https://open.spotify.com/track/5ezh8EaOW7Bfim0rtmpHKi) | [Teji Jassar](https://open.spotify.com/artist/3R3djRbqthCXs2LWCSSqmz), [TRIBE](https://open.spotify.com/artist/3GAJRXC59K8LIgPdTRxMjb), [Raaj The Rapper](https://open.spotify.com/artist/1o0aXVRVDpojoKrAUtp7Mo) | [Image](https://open.spotify.com/album/1tgfFrbFbbI7DuCfN1hWnY) | 3:19 |
 | 11 | [Poppin Pills](https://open.spotify.com/track/1ZTk7g48SM2bz6IYbhubKy) | [Jynn](https://open.spotify.com/artist/5nDYhcu9LVnrX1MqsnT2iu) | [Poppin Pills](https://open.spotify.com/album/64UqM5WlkZzn8I7qmhqzIw) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 74 | [Perfy](https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Perfy](https://open.spotify.com/album/2LbFWGS7q1oV7zTUOQ5ZOB) | 3:03 |
 | 75 | [NGL](https://open.spotify.com/track/58h9f4lWnyLPIwqucWydxj) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 4:00 |
 
-Snapshot ID: `MCw1NjUzZmVjYjE0ZmQxM2UyM2Y0NGI4NjUxNjBiNzdiOTBkNWU0MWFk`
+Snapshot ID: `MCwyYTAwZGY5NTMwYjdmZjVlNzliM2Y5NDliMTQ4Zjc3Yzc4NDI4Y2Ew`

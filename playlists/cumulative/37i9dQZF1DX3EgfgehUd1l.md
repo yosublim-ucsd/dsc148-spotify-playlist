@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-267 songs - 11 hr 44 min
+268 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Band of Gold \(with Ray Conniff & His Orchestra & Chorus\)](https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd) | [Don Cherry](https://open.spotify.com/artist/3uOUFs61rANc8dETV3OfID), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [The Best of Don Cherry](https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4) | 2:35 | 2020-07-08 | 2023-12-05 |
 | [Be Bop a Lula](https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx) | [Saga All Stars: Be Bop a Lula / 1956](https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs) | 2:36 | 2020-07-08 | 2022-07-29 |
 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 | 2020-07-08 | 2023-09-15 |
+| [Be\-Bop\-A\-Lula](https://open.spotify.com/track/287s80vbsW9ehK9M5fTwAo) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Capitol Collectors Series](https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6) | 2:36 | 2023-10-17 |  |
 | [Bell Bottom Blues](https://open.spotify.com/track/5pEEoyopjRqfQdhgEEqLbu) | [Alma Cogan](https://open.spotify.com/artist/0oGo1uX2IixGBLb3fsiVnK) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:35 | 2020-07-08 | 2022-07-28 |
 | [Big Man](https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK) | [The Four Preps](https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew) | [The Single Collection, Vol\. 1](https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr) | 2:23 | 2020-07-08 | 2023-04-02 |
 | [Blue Moon](https://open.spotify.com/track/1XriePxA916cla1W90JBLt) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis At Sun](https://open.spotify.com/album/2w9qV3ELWjmpGBDxBPmYif) | 2:42 | 2020-07-08 | 2022-07-29 |
@@ -164,7 +165,7 @@
 | [My September Love](https://open.spotify.com/track/3VIhcEJvk3BPuLDcml0AsH) | [David Whitfield](https://open.spotify.com/artist/4Hy8wleeYbPThe35iMWjMH) | [Presenting David Whitfield](https://open.spotify.com/album/0f1UFMh8xG1adHBonh7vuu) | 2:46 | 2020-07-08 | 2022-11-13 |
 | [My September Love](https://open.spotify.com/track/5KEzRoLSjGanLHT0Pu39S0) | [David Whitfield](https://open.spotify.com/artist/4Hy8wleeYbPThe35iMWjMH), [Roland Shaw And His Orchestra](https://open.spotify.com/artist/62iRboFRt3fBndcWdXMyL2) | [True 50's love](https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y) | 2:44 | 2020-07-08 | 2022-07-29 |
 | [My Special Angel](https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 2:45 | 2020-07-08 | 2022-07-29 |
-| [My Special Angel](https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:46 | 2020-07-08 |  |
+| [My Special Angel](https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:46 | 2020-07-08 | 2024-04-04 |
 | [No One But You](https://open.spotify.com/track/4MjPbzry4T4JjJsNaNIe58) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [The Best Of](https://open.spotify.com/album/5Iv3gyBXFrdiXzrV7zHmdq) | 3:07 | 2020-07-08 | 2022-07-28 |
 | [No One but You](https://open.spotify.com/track/1EryH4ZJhQxhq2OZFv1MwQ) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Billy Eckstine Sings](https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC) | 3:09 | 2020-07-08 | 2023-12-15 |
 | [No Other Love](https://open.spotify.com/track/57gWaXJvGcxNKKpHLSCxKv) | [Ronnie Hilton](https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 3:07 | 2020-07-08 | 2022-07-25 |

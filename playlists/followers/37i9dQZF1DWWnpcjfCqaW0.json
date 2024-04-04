@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 288176,
+  "2024-04-04": 288212,
   "date_first_scraped": "2021-12-28",
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
   "name": "50s Country",
@@ -765,7 +765,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 161440,
       "name": "Fraulein",
       "url": "https://open.spotify.com/track/763CAJyB9ZXHntB3QCpduv"
@@ -2743,6 +2743,24 @@
       "duration_ms": 173158,
       "name": "Whole Lotta Shakin' Going On",
       "url": "https://open.spotify.com/track/19J1kwHa3sgxLwaWDleGhd"
+    },
+    {
+      "album": {
+        "name": "The Killer Keys Of Jerry Lee Lewis (Sun Records 70th / Remastered 2022)",
+        "url": "https://open.spotify.com/album/6iM9BYIXaVE2ixLxVdDYIB"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173453,
+      "name": "Whole Lotta Shakin' Going On - Remastered 2022",
+      "url": "https://open.spotify.com/track/0cbFre6QguzhyLoBqhxr1z"
     },
     {
       "album": {

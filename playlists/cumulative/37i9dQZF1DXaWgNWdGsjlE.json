@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "I WANT BLOOD / i want love",
+        "url": "https://open.spotify.com/album/4z172SKyhMOorillZtbIIZ"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133888,
+      "name": "BURNING RUBBER",
+      "url": "https://open.spotify.com/track/2zhW4Hb4JuQugffpsuVwKz"
+    },
+    {
+      "album": {
         "name": "BURNING RUBBER",
         "url": "https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e"
       },
@@ -558,7 +576,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 133888,
       "name": "BURNING RUBBER",
       "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"

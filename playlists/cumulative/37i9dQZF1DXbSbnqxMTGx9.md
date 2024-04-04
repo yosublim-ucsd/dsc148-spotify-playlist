@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-619 songs - 1 day 10 hr 26 min
+620 songs - 1 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Sit Down and Cry](https://open.spotify.com/track/7kkwRI3uw6OkqHLJ1qvgEM) | [Errol Dunkley](https://open.spotify.com/artist/228y2DiGvQkteqDD2dUZDD) | [Reggae Chartbusters, Vol\. 6](https://open.spotify.com/album/6zWwin0ZKYp9z2fHBekjJ8) | 3:16 | 2022-09-22 | 2023-12-09 |
 | [Sit Down and Cry Over You](https://open.spotify.com/track/0AlW6XHtvPH5aG137WGMs1) | [Errol Dunkley](https://open.spotify.com/artist/228y2DiGvQkteqDD2dUZDD) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:15 | 2022-09-22 | 2023-11-11 |
 | [Skinhead Moon Stomp](https://open.spotify.com/track/0nTWBfNTzHAm4uoYujtXI4) | [Symarip Pyramid](https://open.spotify.com/artist/1ixEgKO1M9LGmBuHJATsw5) | [Skinhead Moon Stomp \- Single](https://open.spotify.com/album/4xus9LxdIL5aPpAidam51s) | 2:59 | 2022-09-22 | 2024-02-18 |
+| [Skinhead Moonstomp](https://open.spotify.com/track/1e8HuiUmU2ecHV5ro54yrR) | [Symarip](https://open.spotify.com/artist/62WqEN59Hl7Q1K8Vlt33Mo) | [The Best of Symarip, The Pyramids & Seven Letters](https://open.spotify.com/album/5Hb9VFRvZoktqFXwsO10E8) | 3:00 | 2024-01-29 |  |
 | [Skinhead Moonstomp](https://open.spotify.com/track/5xY9cBSbw8AqfjET2v2wmK) | [Symarip](https://open.spotify.com/artist/62WqEN59Hl7Q1K8Vlt33Mo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:00 | 2022-09-22 | 2023-11-11 |
 | [Sky Larking](https://open.spotify.com/track/5xMGVCPC8fptCrhBGqeFxa) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 3:01 | 2021-03-02 | 2023-04-07 |
 | [Skylarking](https://open.spotify.com/track/56a6UncDB39DimqludMUvn) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [This Is Trojan Roots](https://open.spotify.com/album/1DPqoGxMAKwBGgIhSqour7) | 3:00 | 2022-09-22 | 2024-01-30 |
@@ -574,7 +575,7 @@
 | [True To Myself](https://open.spotify.com/track/0sgx4UjoIrLB8rFURf3tIr) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:45 | 2022-09-22 |  |
 | [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 | 2021-03-02 | 2022-11-27 |
 | [Under Me Sleng Teng](https://open.spotify.com/track/1W5ZSRXk0gRgSxYHCNzD66) | [Wayne Smith](https://open.spotify.com/artist/7kwcin6f7eYIvo6hG3GEn4) | [Dread Meets Greensleeves \- A Westside Revolution](https://open.spotify.com/album/1pcux6viOp2e9Hu5GpmfYQ) | 4:07 | 2022-09-22 | 2022-11-13 |
-| [Under Me Sleng Teng](https://open.spotify.com/track/1YjBJlLZh4wwnfYZCr3jrE) | [Wayne Smith](https://open.spotify.com/artist/7kwcin6f7eYIvo6hG3GEn4) | [Under Me Sleng Teng](https://open.spotify.com/album/43bIT6PuC4DKlvC4iKTWHA) | 4:07 | 2022-09-22 |  |
+| [Under Me Sleng Teng](https://open.spotify.com/track/1YjBJlLZh4wwnfYZCr3jrE) | [Wayne Smith](https://open.spotify.com/artist/7kwcin6f7eYIvo6hG3GEn4) | [Under Me Sleng Teng](https://open.spotify.com/album/43bIT6PuC4DKlvC4iKTWHA) | 4:07 | 2022-09-22 | 2024-04-04 |
 | [Untold Stories](https://open.spotify.com/track/57m9RMS9WpcWZFkMiP3yPV) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | ['Til Shiloh \(25th Anniversary Edition\)](https://open.spotify.com/album/44TzM9HNKi898wWhkH8FNu) | 4:33 | 2022-09-22 | 2023-09-15 |
 | [Untold Stories](https://open.spotify.com/track/7uaShxEq2kNT4wawnr7D5e) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Reggae Just Relax](https://open.spotify.com/album/3OpnY5UmPk9jKagCdIvYF5) | 4:35 | 2022-09-22 | 2022-11-13 |
 | [Untold Strories](https://open.spotify.com/track/3HOBTvzauIkHi2TiVCGw0B) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [5 Decades of Jamaica's Musical Heritage](https://open.spotify.com/album/2xV5VH34Y2v2YPoinzCeyT) | 4:32 | 2022-09-22 |  |

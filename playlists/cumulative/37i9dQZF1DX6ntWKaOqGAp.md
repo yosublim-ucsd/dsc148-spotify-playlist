@@ -4,7 +4,7 @@
 
 > The biggest Japanese rock hits right now\.  Cover: THE BAWDIES　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-1,407 songs - 3 day 16 hr 9 min
+1,410 songs - 3 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 | 2023-05-09 | 2023-07-07 |
 | [Ikada no Uta](https://open.spotify.com/track/50IvU2o8mBruTfMeVpaVb7) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Taiyo Hoko](https://open.spotify.com/album/3kjFKAwm3qgsWIo7bHW0i5) | 4:34 | 2024-03-05 |  |
 | [Ikki](https://open.spotify.com/track/0qvJGTLxTcwKAODkm3k6k0) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Ikki](https://open.spotify.com/album/57QYSkgg5gqybUe1ZyKFlv) | 3:13 | 2024-01-04 | 2024-02-07 |
+| [Ikki Ichiyu](https://open.spotify.com/track/4mw4XmW0nkzSfvL0eCTwBT) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Ikki Ichiyu](https://open.spotify.com/album/3Ke7T02wAmzzs8p0gAA9qC) | 3:16 | 2024-04-02 |  |
 | [Ima Wo Ikirunoda.](https://open.spotify.com/track/2TfgEnBBdBvQl7fdMX1Nqy) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Ima Wo Ikirunoda.](https://open.spotify.com/album/27P7OClUEHrPiybgPxdA7y) | 4:34 | 2023-01-13 | 2023-02-01 |
 | [Image Word \- New Recording Ver.](https://open.spotify.com/track/6TmzSGN9QZjtGFD0lHgH1i) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Image Word \(New Recording Ver.\)](https://open.spotify.com/album/5iOMMgOubOCQVhOBoXUuWj) | 4:46 | 2023-12-12 | 2024-01-10 |
 | [In a Black Out](https://open.spotify.com/track/4Jb9qPgIOtVmUQJoRDvKwl) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Almost there](https://open.spotify.com/album/16jwz1QKP5h1HNpAI8X35S) | 3:47 | 2023-09-26 | 2023-10-18 |
@@ -347,6 +348,7 @@
 | [Kid](https://open.spotify.com/track/7zKieV1uXBhucwmYM4sCzW) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Kid](https://open.spotify.com/album/2yoIDnfb9b819VS5hsh9MZ) | 3:30 | 2023-02-07 | 2023-05-24 |
 | [kill without the k.](https://open.spotify.com/track/4VCmobNt8wZ29jqArqdlAn) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [kill without the k.](https://open.spotify.com/album/3MfiqHVyJkXWL6YCI7Alhd) | 3:41 | 2024-01-23 | 2024-02-07 |
 | [Killer Word](https://open.spotify.com/track/55YTEATvWRdjUXGkxfdlWB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Killer Word](https://open.spotify.com/album/5nkuYDrndcdN41UN8QKgkP) | 4:01 | 2023-11-30 | 2024-01-19 |
+| [Kimi Ni Koi Shita Anohikara](https://open.spotify.com/track/3RtQYLZrGxj5SKoNqQxAIB) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Kimi Ni Koi Shita Anohikara](https://open.spotify.com/album/3UzNyoW0AMREybXEpVlCgw) | 4:31 | 2024-04-02 |  |
 | [Kimi ni Sayonara](https://open.spotify.com/track/1XORfqcIaAjoEMLkR4GKou) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Kimi ni Sayonara](https://open.spotify.com/album/1Kur4QhXrFJo651o4sBTxq) | 4:19 | 2023-10-17 | 2023-11-29 |
 | [Kiminomachimade](https://open.spotify.com/track/2A9dAj285m7uUgdGPSRIAM) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Kiminomachimade](https://open.spotify.com/album/6tJejWaz1EZb6fuq10DGJ7) | 3:18 | 2023-07-25 | 2023-08-30 |
 | [kimnosoba](https://open.spotify.com/track/1xFrkoI1ZBZOT06r0AP37r) | [tokyo\-kimigainaimati](https://open.spotify.com/artist/682ehg4PP2p5cbdBqH3ADM) | [23\-Spring](https://open.spotify.com/album/7JNO5AFNE0ISRSDUDQqRCl) | 2:50 | 2024-04-02 |  |
@@ -643,7 +645,8 @@
 | [STRAIGHT SONG](https://open.spotify.com/track/6ZIVfpwf3NRtZonP0DtHGc) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [STRAIGHT SONG](https://open.spotify.com/album/0LUXK9j0YHc8gIzgPbmhq0) | 2:08 | 2024-02-06 | 2024-02-14 |
 | [Strawberry Night \- Prod\. by ESME MORI](https://open.spotify.com/track/1AzxWcwgz45ZSn7Iqd7gIc) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [RUNWAY](https://open.spotify.com/album/78Q2Qyf2Yyxp4cFSHluJxj) | 3:18 | 2023-09-05 | 2023-11-01 |
 | [Stray Hearts](https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Stray Hearts](https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su) | 4:33 | 2023-05-25 | 2023-07-07 |
-| [SUGAR PUFF](https://open.spotify.com/track/3lcAj13cDKhbRKyvS4mivz) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [SUGAR PUFF](https://open.spotify.com/album/2o9ZXr2n79AMHLConDOu5o) | 3:40 | 2024-04-02 |  |
+| [SUGAR PUFF](https://open.spotify.com/track/0hgMgabTUAFrVSmcpLFAyb) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [SUGAR PUFF](https://open.spotify.com/album/4L0eMH0yk0kCigoM7ChwJU) | 3:40 | 2024-04-02 |  |
+| [SUGAR PUFF](https://open.spotify.com/track/3lcAj13cDKhbRKyvS4mivz) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [SUGAR PUFF](https://open.spotify.com/album/2o9ZXr2n79AMHLConDOu5o) | 3:40 | 2024-04-02 | 2024-04-04 |
 | [Sugoi Ai no Kotoba](https://open.spotify.com/track/7outFZqATBx2c1Ly0XnjVt) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Sugoi Ai no Kotoba](https://open.spotify.com/album/2GMxtLjEQooXPkPauHoW4y) | 4:08 | 2024-01-09 | 2024-02-07 |
 | [Sukijanaiyo](https://open.spotify.com/track/23AdLPEUScszzqA51mU6wq) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Sukijanaiyo](https://open.spotify.com/album/6ZkWBopcFVcuB2K8Gxj8r7) | 4:48 | 2023-01-13 | 2023-02-08 |
 | [Summer Ghost](https://open.spotify.com/track/7GsURClW23nEe0UX4hKW3z) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [Summer Ghost](https://open.spotify.com/album/3Pv50hUUVfvuN1ajFxYjBF) | 3:42 | 2023-07-11 | 2023-09-06 |
@@ -1091,7 +1094,7 @@
 | [ワスレガタキ](https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ワスレガタキ](https://open.spotify.com/album/3soHYtUh1ITKtBAHPPBJwO) | 2:57 | 2023-04-20 | 2023-06-07 |
 | [ワールド](https://open.spotify.com/track/2l7xrbWYunR98alxyRjlZw) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [ワールド](https://open.spotify.com/album/6imGT2DvcwbGE6B6kIa11M) | 4:17 | 2023-09-12 | 2023-09-14 |
 | [ヴァイオレット](https://open.spotify.com/track/4zBGOhGzIBDENTh2tgRl9Z) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [ToMoYo covers\~原田知世オフィシャル・カバー・アルバム](https://open.spotify.com/album/2jXG91MPq9hN7ZEpdY1w9n) | 4:12 | 2023-01-13 | 2023-01-18 |
-| [一喜一憂](https://open.spotify.com/track/7aAqYiDzc8zl3GhU2WFJuG) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [一喜一憂](https://open.spotify.com/album/5MZL3TBwpJeqBta24LefUH) | 3:16 | 2024-04-02 |  |
+| [一喜一憂](https://open.spotify.com/track/7aAqYiDzc8zl3GhU2WFJuG) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [一喜一憂](https://open.spotify.com/album/5MZL3TBwpJeqBta24LefUH) | 3:16 | 2024-04-02 | 2024-04-04 |
 | [一揆](https://open.spotify.com/track/0dVNJHo0xIt3uaCQDUsfve) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [一揆](https://open.spotify.com/album/5ikYdBpLMYXadwfkJIPfje) | 3:13 | 2024-01-04 | 2024-01-06 |
 | [一生このまま](https://open.spotify.com/track/1q4zRDIKKchOp9fijZf7Px) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [一生このまま](https://open.spotify.com/album/59dpWHuyHaj4thgbTdD14U) | 4:43 | 2023-05-30 | 2023-06-01 |
 | [一途 \(ALBUM ver.\)](https://open.spotify.com/track/2MNBkwLzJuCzVQ8Z3G9qJo) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:40 | 2023-11-28 | 2023-12-06 |
@@ -1145,7 +1148,7 @@
 | [君が生きる理由](https://open.spotify.com/track/1hUsp6U54Ym6ld2I4Vf1Vi) | [少年キッズボウイ](https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5) | [君が生きる理由](https://open.spotify.com/album/4MGPUuaWREftVQyTOn14ww) | 3:14 | 2023-10-03 | 2023-10-25 |
 | [君とサマー](https://open.spotify.com/track/0oBklBMSGZq8DAMoPkA9j5) | [KEYTALK](https://open.spotify.com/artist/0nES8AwBZpeQ69oZZp47OL) | [君とサマー](https://open.spotify.com/album/3RNRS2n7ipauGA2iMeGv6V) | 3:44 | 2023-02-21 | 2023-03-01 |
 | [君にさよなら](https://open.spotify.com/track/5om7Qq6ot7zwUvv5Nxwi2p) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [君にさよなら](https://open.spotify.com/album/5tnV5FmdmPujh7fm44BbG9) | 4:19 | 2023-10-17 | 2023-10-19 |
-| [君に恋したあの日から](https://open.spotify.com/track/05VAHIyywowVMBmkjyFG7Q) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [君に恋したあの日から](https://open.spotify.com/album/1NtmBj7KcFqC8DKLq6MR66) | 4:31 | 2024-04-02 |  |
+| [君に恋したあの日から](https://open.spotify.com/track/05VAHIyywowVMBmkjyFG7Q) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [君に恋したあの日から](https://open.spotify.com/album/1NtmBj7KcFqC8DKLq6MR66) | 4:31 | 2024-04-02 | 2024-04-04 |
 | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/track/6Ovj4KMDE0X326qnynqQSO) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 3:36 | 2023-04-24 | 2023-06-28 |
 | [君の街まで](https://open.spotify.com/track/01qT7rpJqngrIjtN2h2BkG) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [君の街まで](https://open.spotify.com/album/5Whv3RStb4iQntuxWu2TCR) | 3:18 | 2023-07-25 | 2023-07-27 |
 | [君の隣](https://open.spotify.com/track/71DbWOpzCisKYVvOJiQNrm) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [君の隣](https://open.spotify.com/album/3XaeNTwBhtr0IeMzcP8lPk) | 5:16 | 2024-02-20 | 2024-04-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,548 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,584 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 12 | [Nada Más](https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Habla Sola / Nada Más](https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T) | 3:54 |
 | 13 | [Ver Tus Ojos Mirándome](https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY) | [Ver Tus Ojos Mirándome](https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1) | 3:30 |
 | 14 | [Las Palomas](https://open.spotify.com/track/4qI9iwfb7U9Q14HSylzy0l) | [Eté & Los Problems](https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk) | [Las Palomas](https://open.spotify.com/album/08k3nUDklrv3aQOnIsWCjp) | 3:41 |
-| 15 | [Medusa \(No Me Digas No\)](https://open.spotify.com/track/3VlTdL13dT0z7FZcOhsS63) | [Viniloversus](https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt) | [Medusa \(No Me Digas No\)](https://open.spotify.com/album/5hqowQLmIGexopraDcOif7) | 2:10 |
+| 15 | [Medusa \(No Me Digas No\)](https://open.spotify.com/track/3VlTdL13dT0z7FZcOhsS63) | [Viniloversus](https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt) | [Medusa \(No Me Digas No\)](https://open.spotify.com/album/5hqowQLmIGexopraDcOif7) | 2:11 |
 | 16 | [Dame Una Oportunidad](https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Dame Una Oportunidad](https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO) | 3:18 |
 | 17 | [intransigente](https://open.spotify.com/track/0GPz5w9Qq3mFwfHPrkVlNP) | [nopornada](https://open.spotify.com/artist/7wjJYcWynWV6vnWulTTQUU) | [intransigente](https://open.spotify.com/album/45on8aTqGjlX3ZcC8hq6mm) | 4:00 |
 | 18 | [Tenerlo Todo](https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 79 | [La Última Llamada](https://open.spotify.com/track/3xqO0HGtRgTkS9xzNEQxwb) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/5SFEcLOtKOTjlI1q72TbnL) | 3:14 |
 | 80 | [Airplane](https://open.spotify.com/track/6BVcHhEzkuVDU97bbNlJDF) | [TAPPAN](https://open.spotify.com/artist/23DnlRuTAuHrgdtWH8PU4x) | [Airplane](https://open.spotify.com/album/7CgZMHYBN6cuHilMgnaFur) | 7:24 |
 
-Snapshot ID: `MCw1NTg5YzhiZDRlYTIwM2QxYTdkMmY4MmFmMzRlNzVkYjc0ZDJjMmZl`
+Snapshot ID: `MCwyMWFlNDMzZDc0MTFmNGJhNzFjYTU1ZjYyMzcxMjE0MmU0Y2Q1MzNm`

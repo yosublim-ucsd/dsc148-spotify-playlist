@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Kito & Chrome Sparks
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,439 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,445 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Sunsleeper](https://open.spotify.com/track/35lxsi9U65JKT03Voj2Dl5) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 3:42 |
 | 100 | [JOY \(I Did You Wrong\)](https://open.spotify.com/track/31ZBEAVjrABh1eSSDYPnRc) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(I Did You Wrong\)](https://open.spotify.com/album/5a929ZHQr9ctGnhlnfWjra) | 3:08 |
 
-Snapshot ID: `MCxhMzRlYzZmODhlYTY0MTk1ZWIzZjEzOWQ0N2UzZDNjZGEwNjQ2YWYw`
+Snapshot ID: `MCxjMGZhMzJhZGMzYWU1NGM2YjVlMzA1ZGFiNGFlYTM2OTI4NGYxOTgz`

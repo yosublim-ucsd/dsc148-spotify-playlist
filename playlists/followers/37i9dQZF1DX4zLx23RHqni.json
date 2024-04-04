@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 55010,
+  "2024-04-04": 55046,
   "date_first_scraped": "2023-05-19",
   "description": "Explore the Romantic side of Tamil Indie! \n\nCover: Stephen Zechariah, Priya Jerson",
   "name": "Tamil Indie : Romance",
@@ -1547,6 +1547,32 @@
       "duration_ms": 246700,
       "name": "Vaadi Pulla Vaadi",
       "url": "https://open.spotify.com/track/5dQR15IPbFDhTVwjfZgqR0"
+    },
+    {
+      "album": {
+        "name": "Yaar Keatadhu Nenjamey",
+        "url": "https://open.spotify.com/album/5EvUrRofcHZYATdJ35ZNay"
+      },
+      "artists": [
+        {
+          "name": "Martin Kartenjer",
+          "url": "https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw"
+        },
+        {
+          "name": "L J Vijay",
+          "url": "https://open.spotify.com/artist/2ownGwkMOO4BCycYkRShYP"
+        },
+        {
+          "name": "Shibi Srinivasan",
+          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Yaar Keatadhu Nenjamey",
+      "url": "https://open.spotify.com/track/18o9NGHWZw5qMVGqzn5V4H"
     },
     {
       "album": {

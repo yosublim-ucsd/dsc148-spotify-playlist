@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Mozzy
 
-738 songs - 1 day 10 hr 10 min
+739 songs - 1 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Free My Dawgs](https://open.spotify.com/track/3evZ0KZGKFEVaYpYxw28Wa) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Free My Dawgs](https://open.spotify.com/album/6p1vAfv5WEsu2yNjn1lclB) | 2:42 | 2023-06-30 | 2023-08-26 |
 | [Free My Mind](https://open.spotify.com/track/4kYOrgTRLZzKi8DcuwXfqM) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Free My Mind](https://open.spotify.com/album/1j9mROY31VbmxKmls37QJX) | 3:25 | 2023-10-13 | 2023-11-25 |
 | [Fresh Cut Friday](https://open.spotify.com/track/2rVEASLlH39KNZYccDPuqX) | [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [Fresh Cut Friday](https://open.spotify.com/album/0A6sVCP1ybX7MXzY3dwhuo) | 1:41 | 2023-07-28 | 2023-08-26 |
+| [Friendly Fire](https://open.spotify.com/track/6P6dejZtZTkTjivoYAHSkf) | [ShooterGang Kony](https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK) | [Friendly Fire](https://open.spotify.com/album/70aAcOj02mHv8lsRC0LxqH) | 2:56 | 2024-03-29 |  |
 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 | 2022-06-24 | 2022-08-20 |
 | [From The Jump \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/4knQpcVbbWsFPIa6qBzTV0) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [From The Jump \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/58P9jc9vetnETNS7prGuv4) | 2:07 | 2023-08-11 | 2024-03-23 |
 | [Fuck It Up \(feat\. YG\)](https://open.spotify.com/track/0nXgBBZFVdumUIaxszDm1p) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [A Good Night in the Ghetto](https://open.spotify.com/album/5fjjHAxUCbr7Z1Pj2flqHs) | 2:21 | 2024-03-22 |  |

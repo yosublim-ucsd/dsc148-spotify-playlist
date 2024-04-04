@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 259236,
+  "num_followers": 259394,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWE3OWJiZjhmZmM0MTIyNWIwMThhNzY3ODU5OTZjNWQ0Y2RjODc5",
+  "snapshot_id": "MCw2OGE4MGI1M2ZhYjNlNWRhNWI3OWE0NzA4MGM0ZDNiOWU1OTA4NmUy",
   "tracks": [
     {
       "added_at": "2024-03-22 15:59:52",
@@ -183,18 +183,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Lola's Theme",
-        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
+        "name": "Hypnotica (Benny Benassi Presents The Biz)",
+        "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
       },
       "artists": [
         {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "The Biz",
+          "url": "https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G"
         }
       ],
-      "duration_ms": 207066,
-      "name": "Lola's Theme - Radio Edit",
-      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
+      "duration_ms": 285570,
+      "name": "Satisfaction - Isak Original Extended",
+      "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -251,22 +255,18 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Hypnotica (Benny Benassi Presents The Biz)",
-        "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
+        "name": "Lola's Theme",
+        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
       },
       "artists": [
         {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        },
-        {
-          "name": "The Biz",
-          "url": "https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G"
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
         }
       ],
-      "duration_ms": 285570,
-      "name": "Satisfaction - Isak Original Extended",
-      "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
+      "duration_ms": 207066,
+      "name": "Lola's Theme - Radio Edit",
+      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Domino Remixes",
-        "url": "https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI"
-      },
-      "artists": [
-        {
-          "name": "Oxia",
-          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
-        }
-      ],
-      "duration_ms": 435266,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "It's In the Lifestyle (Limited Edition)",
         "url": "https://open.spotify.com/album/3vAbdq0NCzDbPKlo3qejkt"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 315826,
       "name": "Finally",
       "url": "https://open.spotify.com/track/1BeZ3neH8aQioMKccVHdS9"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Domino Remixes",
+        "url": "https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI"
+      },
+      "artists": [
+        {
+          "name": "Oxia",
+          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
+        }
+      ],
+      "duration_ms": 435266,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI"
     },
     {
       "added_at": "2024-03-22 15:59:52",

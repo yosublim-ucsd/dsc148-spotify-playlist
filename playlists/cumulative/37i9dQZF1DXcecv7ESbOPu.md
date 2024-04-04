@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-12,692 songs - 27 day 9 hr 31 min
+12,693 songs - 27 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8367,7 +8367,8 @@
 | [Outside](https://open.spotify.com/track/2PDuJhsbXd88akE6VejIFK) | [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Flee Lord](https://open.spotify.com/artist/3I6neO2jiyMa8arh6JBe7e) | [Outside](https://open.spotify.com/album/3c8EDoT5199n5XXwfgp3v4) | 1:51 | 2023-03-24 | 2023-03-31 |
 | [Outside](https://open.spotify.com/track/5YZmic2LtwKY1S0RwtgGdx) | [Elijah Yo](https://open.spotify.com/artist/4QdSwI8nLBjrN7344lBCbL), [MRVZ](https://open.spotify.com/artist/2dsVQfTfxS9vGeKk1guzgK), [BIGGs 685](https://open.spotify.com/artist/1iIdYSoOB5dhc90R9ENrjM) | [Outside](https://open.spotify.com/album/3BfePvYx0jeKHcN5Iqhssq) | 3:38 | 2023-12-21 | 2023-12-30 |
 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 | 2023-12-08 | 2023-12-15 |
-| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 |  |
+| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 | 2024-04-04 |
+| [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-03-28 |  |
 | [Outside of Love](https://open.spotify.com/track/6ihKYH8RKl4CYniuX9bJC5) | [Kristin Amparo](https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR) | [Outside of Love](https://open.spotify.com/album/5yeXVETE5ffXlNkPZdgZDc) | 3:05 | 2022-09-01 | 2022-09-09 |
 | [Outworn](https://open.spotify.com/track/34fsXb0fRDngmDm1PofREb) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Into The Light](https://open.spotify.com/album/1IOtRV9XN5oq1DJr1YrQJo) | 3:02 | 2024-02-01 | 2024-02-09 |
 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 | 2023-05-18 | 2023-05-26 |

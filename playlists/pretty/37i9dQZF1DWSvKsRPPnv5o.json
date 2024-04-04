@@ -1,12 +1,12 @@
 {
   "description": "Holdin' it down for the westside. Cover: Mozzy",
-  "num_followers": 726121,
+  "num_followers": 726203,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTI5YzM3MzY0NWY0YjI4NDA2YTdiYjdjNTMwMDdjYTkwNzVlZjRi",
+  "snapshot_id": "MCw3NzgzOGRlZGM1NzIwZjRjYjdmZTg4NTBiNjVmZjdjNDhmODFlMGYy",
   "tracks": [
     {
       "added_at": "2024-03-29 04:23:35",
@@ -147,6 +147,22 @@
       "duration_ms": 225000,
       "name": "DO IT",
       "url": "https://open.spotify.com/track/2iGvsJuc2mC4mDVOVMNAP6"
+    },
+    {
+      "added_at": "2024-03-29 04:23:35",
+      "album": {
+        "name": "Friendly Fire",
+        "url": "https://open.spotify.com/album/70aAcOj02mHv8lsRC0LxqH"
+      },
+      "artists": [
+        {
+          "name": "ShooterGang Kony",
+          "url": "https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK"
+        }
+      ],
+      "duration_ms": 176469,
+      "name": "Friendly Fire",
+      "url": "https://open.spotify.com/track/6P6dejZtZTkTjivoYAHSkf"
     },
     {
       "added_at": "2024-03-29 04:23:35",

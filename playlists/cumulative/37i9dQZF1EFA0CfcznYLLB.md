@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-344 songs - 18 hr 5 min
+345 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [island](https://open.spotify.com/track/1pOqZgIAfN0kgiJKJKNeHJ) | [Lee](https://open.spotify.com/artist/0llIp92s72MGxqoJviNjGC) | [Lo\-fi of Lee](https://open.spotify.com/album/3YpkgY5WXsts05RJ154gcf) | 4:37 | 2023-12-13 |  |
 | [It's A Vibe](https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Pretty Girls Like Trap Music](https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS) | 3:30 | 2023-12-13 |  |
 | [Jealousy](https://open.spotify.com/track/46df2qqZrXxDfhaXuSTRAm) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Exis](https://open.spotify.com/album/6EfvX1lLPABeA3hMjcFuWr) | 3:44 | 2023-12-13 |  |
-| [JET](https://open.spotify.com/track/2MQiBrImIKat0FP2LQ7OOE) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [Yellow Pato](https://open.spotify.com/artist/1NdYIG2u5Dj0nFP8fPbGcr), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt) | [BAD HOP WORLD DELUXE](https://open.spotify.com/album/4Q3ceZcM2sYgIoijWDHlEf) | 3:48 | 2023-12-13 |  |
+| [JET](https://open.spotify.com/track/2MQiBrImIKat0FP2LQ7OOE) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [Yellow Pato](https://open.spotify.com/artist/1NdYIG2u5Dj0nFP8fPbGcr), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt) | [BAD HOP WORLD DELUXE](https://open.spotify.com/album/4Q3ceZcM2sYgIoijWDHlEf) | 3:48 | 2023-12-13 | 2024-04-04 |
+| [JET \(feat\. G\-k.i.d, Yellow Pato & Tiji Jojo\)](https://open.spotify.com/track/2AuzwnFFJcK1FG7yULZqvV) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [Yellow Pato](https://open.spotify.com/artist/1NdYIG2u5Dj0nFP8fPbGcr), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt) | [BAD HOP WORLD DELUXE](https://open.spotify.com/album/3wBs5WEBH00eWJuNCmVTnF) | 3:48 | 2024-04-03 |  |
 | [Just for Tonight \(feat\. Chris Brown\)](https://open.spotify.com/track/35zJMcU8InijNeQnNTnyw6) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Yung Rich Nation](https://open.spotify.com/album/34DPoSeDW5fw2QW9Hl5Y92) | 3:33 | 2023-12-13 |  |
 | [KANGA \(feat\. Kanye West\)](https://open.spotify.com/track/0FWuoZiZygtNkeJqF9tXZC) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [DUMMY BOY \(Revised\)](https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr) | 2:12 | 2023-12-13 |  |
 | [Keep Your Head Up](https://open.spotify.com/track/139C1eNXDfqJ3EFy6SgZAf) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [!](https://open.spotify.com/album/2trqp8gTJ1MMmY9HoKqO2y) | 3:23 | 2023-12-13 |  |

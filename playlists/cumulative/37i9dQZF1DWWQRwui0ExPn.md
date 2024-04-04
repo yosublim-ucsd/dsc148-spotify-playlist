@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,693 songs - 10 day 13 hr 44 min
+6,694 songs - 10 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Abeja](https://open.spotify.com/track/41N0WJ5NZQV2qHfWFjT7L8) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26), [Sofie](https://open.spotify.com/artist/7CTm6luOj0uwQzwdGkxb0S) | [Sofie's Sos Tape](https://open.spotify.com/album/34u9CH4rv1RBn42KPn9Gwr) | 3:39 | 2019-07-13 | 2020-01-04 |
 | [Abigail](https://open.spotify.com/track/7qWeJvxs5Ir8aYqRrDUllE) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [Abigail](https://open.spotify.com/album/20RTWWI9KZr76XpsP5mp94) | 2:46 | 2023-03-08 | 2023-05-04 |
 | [About The Distance](https://open.spotify.com/track/60ONwBU0GgM3kJhPEOhTx0) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Chillhop Daydreams](https://open.spotify.com/album/7qdepmAALqX7taS6nMz8v5) | 3:12 | 2020-06-12 | 2021-01-15 |
+| [about time](https://open.spotify.com/track/2DKde30hNrpBDmHMW8gFFe) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [about time](https://open.spotify.com/album/3l5GQ4fCeXateeGqKoLqyl) | 2:29 | 2024-03-29 |  |
 | [about time](https://open.spotify.com/track/2yfmyXmQ1PvmhNRoI431KO) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [about time](https://open.spotify.com/album/1ZDXae93rjYJj1lZDYUNkC) | 2:37 | 2023-06-14 | 2023-10-06 |
 | [about to make it](https://open.spotify.com/track/1sfmoZRqXfVj6lACZZXvUg) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [cute.a](https://open.spotify.com/artist/4M2GOXttGFdgK95pZtvy5b) | [about to make it](https://open.spotify.com/album/468069HuO4RDfdrz2qxHqY) | 2:16 | 2022-08-26 | 2022-11-20 |
 | [about to make it](https://open.spotify.com/track/3Y3FUravVAc5qfIuwgo0KG) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [cute.a](https://open.spotify.com/artist/4M2GOXttGFdgK95pZtvy5b) | [about to make it](https://open.spotify.com/album/65cqEcDwDuYjgz7R3eR2Nb) | 2:16 | 2022-11-18 | 2022-11-25 |
@@ -4246,7 +4247,7 @@
 | [One4Bill](https://open.spotify.com/track/1A4YthdhOMBLGBXvqXQag4) | [Flo Badabum](https://open.spotify.com/artist/4dMQdNx2YofJBiOfxRLcD0) | [Backyard](https://open.spotify.com/album/25UPRJuNvK0YpgwpYnQvYL) | 3:05 | 2023-09-15 | 2023-09-30 |
 | [One\_4\_u](https://open.spotify.com/track/2VB8x2R7S8UCb7LhTPLnfe) | [TV Culture](https://open.spotify.com/artist/4SMpfT0gDr82P6jyWArDve) | [One\_4\_u](https://open.spotify.com/album/0dSki2pZi23BDvkGgzMDmh) | 3:16 | 2020-06-16 | 2021-10-02 |
 | [Oneformybrother](https://open.spotify.com/track/1YRTzBGw9g5SeyfkwVsNxO) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Lost & Found](https://open.spotify.com/album/77gYS05vWSzvGY3CsF8sId) | 1:49 | 2023-05-09 | 2023-10-13 |
-| [OneFourDed](https://open.spotify.com/track/1fi0djtQcu7NDgwEvnRz0R) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [OneFourDed](https://open.spotify.com/album/1e9Sx5ljCfuRAq4jTvEOw2) | 2:43 | 2024-03-15 |  |
+| [OneFourDed](https://open.spotify.com/track/1fi0djtQcu7NDgwEvnRz0R) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [OneFourDed](https://open.spotify.com/album/1e9Sx5ljCfuRAq4jTvEOw2) | 2:43 | 2024-03-15 | 2024-04-04 |
 | [Onewayticket](https://open.spotify.com/track/5gD8byOsmaMo35zYvomKkZ) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Onewayticket](https://open.spotify.com/album/5tKhLqjZ4emdla6qdVVp0j) | 1:46 | 2022-08-12 | 2022-11-20 |
 | [Onewayticket](https://open.spotify.com/track/7He1jmd49gD6BO9JY8u1wa) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Escapism II](https://open.spotify.com/album/3SiCrEPIRNZ8zYJOJy2s0Z) | 1:46 | 2022-11-18 | 2022-11-25 |
 | [Oni](https://open.spotify.com/track/1xwyrUYxzfaKGbGzm1easA) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Oni](https://open.spotify.com/album/0NdAWNXglxRoetXN86Nt59) | 1:59 | 2023-07-13 | 2023-10-06 |

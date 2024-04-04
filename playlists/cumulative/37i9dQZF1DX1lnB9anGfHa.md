@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-249 songs - 16 hr 53 min
+250 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Dicen](https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 2:44 | 2022-08-31 |  |
 | [Dicen](https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Dicen](https://open.spotify.com/album/0fjbyuODYOqDFrAAQiSbVq) | 2:44 | 2022-08-31 | 2022-10-21 |
 | [Disappoint Me](https://open.spotify.com/track/1CBF3tKxaBh1bUPEdIneXS) | [Chris Imler](https://open.spotify.com/artist/46UqEw2cEH1SHxSBuSWfVw) | [Disappoint Me](https://open.spotify.com/album/0y1HxXpkJrceA55WLmTJsV) | 3:25 | 2022-02-18 | 2023-04-01 |
-| [Dois Litorais](https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34) | [Mariá Portugal](https://open.spotify.com/artist/76rKC4Y5Yi4H4iPKxztPlP) | [Dois Litorais](https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw) | 8:40 | 2021-10-01 |  |
+| [Dois Litorais](https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34) | [Mariá Portugal](https://open.spotify.com/artist/76rKC4Y5Yi4H4iPKxztPlP) | [Dois Litorais](https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw) | 8:40 | 2021-10-01 | 2024-04-04 |
 | [DREAD/TKOE \- Ellie Mason Remix](https://open.spotify.com/track/2MwDm5f1pxJyNSAMBUmLmr) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx), [BELLS](https://open.spotify.com/artist/5YdylHKZSONXW6PLIaP5Fx) | [DREAD/TKOE \(Ellie Mason Remix\)](https://open.spotify.com/album/385cJszk9JFhRnqh5K2YiF) | 4:10 | 2022-08-31 | 2022-10-20 |
 | [DREAD/TKOE \- Ellie Mason Remix](https://open.spotify.com/track/6iuyKY5upmdEUCINxdeyBQ) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx), [BELLS](https://open.spotify.com/artist/5YdylHKZSONXW6PLIaP5Fx), [Ellie Mason](https://open.spotify.com/artist/737EHgMsNKYUlVkYu6Z22g) | [DREAD/THE KING OF ENGLAND](https://open.spotify.com/album/3AkaQDS0i3590PG28E3fXp) | 4:10 | 2022-08-31 | 2023-04-01 |
 | [Dreamy Hamilton \- Twin Color Remix](https://open.spotify.com/track/0uVfcsjX9FX0VRU3sn2PyR) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [Twin Color](https://open.spotify.com/artist/42lWmiIKGZf7dPv14wkzG0) | [Dreamy Hamilton \(Remixes\)](https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6) | 5:37 | 2022-11-09 | 2024-02-03 |
@@ -177,6 +177,7 @@
 | [Recover](https://open.spotify.com/track/6YzfsSLXsMefRCno6FJTd7) | [Trophie](https://open.spotify.com/artist/267gjhlmcoscSuzUHiKqX8) | [Recover](https://open.spotify.com/album/1lQntsXzOIiW4lXNe4Wkj2) | 3:26 | 2020-10-20 | 2022-11-04 |
 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 | 2020-10-20 | 2023-04-15 |
 | [Ripagnola Alle 19 \(feat\. Orelle, Martina Primavera\)](https://open.spotify.com/track/0c8mwvjTYUZUMwiLn4vhbX) | [Maladé](https://open.spotify.com/artist/4pLZb6eSKa9V8EB0vF0VTl), [Orelle](https://open.spotify.com/artist/759n9HvatPa0PARbAtn6Cs), [Martina Primavera](https://open.spotify.com/artist/1f7xLN7zodIwUg2W2McjNn) | [Ripagnola Alle 19 \(feat\. Orelle, Martina Primavera\)](https://open.spotify.com/album/4FrLdV5HORBNYmyFTHgQhF) | 2:56 | 2023-10-06 | 2023-10-10 |
+| [Ros Elavy](https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no) | [CLARAGUILAR](https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R) | [Figura](https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa) | 5:39 | 2024-04-03 |  |
 | [Roseate](https://open.spotify.com/track/0p3fIhPglJvPJrzUtTkW7k) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Last Boy Picked](https://open.spotify.com/album/2O1M61Nk4QpY2CMMq5JyLC) | 5:14 | 2022-02-18 | 2023-03-25 |
 | [Salt & Copper](https://open.spotify.com/track/7cCYpFC7DQKlgqfq2UMsxd) | [Aphty Khéa](https://open.spotify.com/artist/4neppQOn3buorGDVBImnK4) | [Salt & Copper](https://open.spotify.com/album/6clsWn9OtsWQm8aOUOYShB) | 4:32 | 2022-09-27 | 2023-04-01 |
 | [Salv Goes To Hollywood](https://open.spotify.com/track/4cEhfMDQJenkOB12pvW051) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Salvador](https://open.spotify.com/album/7sutGPUG2T56ubUjlhSaE9) | 3:02 | 2020-10-20 | 2023-10-10 |

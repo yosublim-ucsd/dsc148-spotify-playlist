@@ -4,7 +4,7 @@
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m?si=JvlkENTPTVWQtemui\_MtFw">Beyoncé</a>
 
-2,521 songs - 7 day 4 hr 35 min
+2,522 songs - 7 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1699,7 +1699,8 @@
 | [Out The Way](https://open.spotify.com/track/59TMoGNNeT3DZYS21CBw9z) | [Eli Sostre](https://open.spotify.com/artist/1ZilzPhvZhYUCSGczNRlyt), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Out The Way](https://open.spotify.com/album/5XQI6uPB5JrzY68GvTqado) | 2:46 | 2024-02-23 | 2024-03-01 |
 | [Outcasts](https://open.spotify.com/track/38WBPi8N2uLBIA03sU0vea) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD), [Erick Gerber](https://open.spotify.com/artist/4EPvmo3SCToxenG4mQfhcc) | [Outcasts](https://open.spotify.com/album/1WJEMPcD7KGqkJrSzmgTdD) | 3:09 | 2023-08-04 | 2023-08-11 |
 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 | 2023-12-08 | 2023-12-16 |
-| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 |  |
+| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 | 2024-04-04 |
+| [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-03-28 |  |
 | [OUTTA MY HEAD](https://open.spotify.com/track/1Cqz8B8mNo2ZACTbMwnHTt) | [2am](https://open.spotify.com/artist/54avHNJAk1hlKRoqrbVx2d), [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [OUTTA MY HEAD](https://open.spotify.com/album/2KoRFKvQOePwjRIc9esZmT) | 3:12 | 2024-02-16 | 2024-02-24 |
 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 | 2023-05-18 | 2023-05-26 |
 | [Over Him, Under Him \- Distant Music Mix](https://open.spotify.com/track/2UBVIGGCT16iq3oNlYSLOp) | [DJ Vivona](https://open.spotify.com/artist/2MrGECnmnJ6NsokRk4QHkz), [Monique Bingham](https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa), [Jon Cutler](https://open.spotify.com/artist/6vmRl3VuXiU126ssJufx2Z) | [Over Him, Under Him \(Jon Cutler Remix\)](https://open.spotify.com/album/6v18Byuh0mXpQhd3SyqQRO) | 6:00 | 2023-10-20 | 2023-11-11 |

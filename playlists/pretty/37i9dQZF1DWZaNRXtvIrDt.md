@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Sam Alfred
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,801 likes - 89 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,833 likes - 89 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 88 | [ACID GUARACHA](https://open.spotify.com/track/0YxKcbJpkwxQB0KAaeGsNA) | [INVT](https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D) | [CALENTÓN](https://open.spotify.com/album/2EFtwUfSoDzPC35bJs4UIC) | 4:15 |
 | 89 | [3 x a charm](https://open.spotify.com/track/5uqYrDYLxtBRnqT08iTDMr) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [3 x a charm](https://open.spotify.com/album/1Mw8z8T0iLyNuONtc6Qqad) | 5:31 |
 
-Snapshot ID: `MCw0OWU2ZGVlNmE3ZTQ3Y2NhMTc5NTBiNWU0ZjBhODQ5NDBiZDQ3MWUz`
+Snapshot ID: `MCwzMzQ5ZDM0YTc5NWNiYzQxZWI5NTkwMDcyMjRmNDhiOGRjOWI0MTI3`

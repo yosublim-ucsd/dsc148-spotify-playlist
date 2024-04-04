@@ -1,12 +1,12 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 12234,
+  "num_followers": 12244,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWVmOWYzNWZlMzQ4MTY2ZjQzMjkyMzYzMDAwZDRjMjE5ZGIzMTRj",
+  "snapshot_id": "MCxiYTMyYjZhYzc5OTc1OTRiZDYzMjkyZjk2MzM3N2FkM2Y5MTdmZDFk",
   "tracks": [
     {
       "added_at": "2023-02-17 01:10:22",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
     },
     {
-      "added_at": "2023-02-17 01:29:01",
-      "album": {
-        "name": "Lost Horizons",
-        "url": "https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 422826,
-      "name": "Space Walk",
-      "url": "https://open.spotify.com/track/1bne4gsJshCv77LeKqQb1A"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Theory of Colours",
@@ -607,6 +591,22 @@
       "duration_ms": 327576,
       "name": "Theory of Colours",
       "url": "https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU"
+    },
+    {
+      "added_at": "2023-02-17 01:29:01",
+      "album": {
+        "name": "Lost Horizons",
+        "url": "https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 422826,
+      "name": "Space Walk",
+      "url": "https://open.spotify.com/track/1bne4gsJshCv77LeKqQb1A"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
+        "name": "Why She Is Hiding in the Other Man's Eyes",
+        "url": "https://open.spotify.com/album/3PGnyvLbxElUQ6wx30UBG0"
+      },
+      "artists": [
+        {
+          "name": "||||||||||||||||||||",
+          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
+        }
+      ],
+      "duration_ms": 304390,
+      "name": "Why She Is Hiding in the Other Man's Eyes",
+      "url": "https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
         "name": "A Certain Distance",
         "url": "https://open.spotify.com/album/46mWSylF7wmYKSACYkkjNf"
       },
@@ -719,26 +735,6 @@
       "duration_ms": 278413,
       "name": "Two Dots",
       "url": "https://open.spotify.com/track/3NcOlyaj8fEPbVfvNOKeaD"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "A View of U",
-        "url": "https://open.spotify.com/album/7GFmFwrDfsELfBtiuyW481"
-      },
-      "artists": [
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        },
-        {
-          "name": "Tigran Hamasyan",
-          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
-        }
-      ],
-      "duration_ms": 205784,
-      "name": "Sleepy Pietro",
-      "url": "https://open.spotify.com/track/0MoeShvEacFvWAROMIfqKz"
     },
     {
       "added_at": "2023-02-17 01:29:01",
@@ -773,22 +769,6 @@
       "url": "https://open.spotify.com/track/2P43WROXRRBFqSKd2aSc0o"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Why She Is Hiding in the Other Man's Eyes",
-        "url": "https://open.spotify.com/album/3PGnyvLbxElUQ6wx30UBG0"
-      },
-      "artists": [
-        {
-          "name": "||||||||||||||||||||",
-          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
-        }
-      ],
-      "duration_ms": 304390,
-      "name": "Why She Is Hiding in the Other Man's Eyes",
-      "url": "https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Existenzmaximum - EP",
@@ -803,6 +783,26 @@
       "duration_ms": 121856,
       "name": "Mechanical Advantage",
       "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "A View of U",
+        "url": "https://open.spotify.com/album/7GFmFwrDfsELfBtiuyW481"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        }
+      ],
+      "duration_ms": 205784,
+      "name": "Sleepy Pietro",
+      "url": "https://open.spotify.com/track/0MoeShvEacFvWAROMIfqKz"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -937,6 +937,22 @@
       "url": "https://open.spotify.com/track/6VVeCK61NH0eXUYjwYy0MP"
     },
     {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Ikiru",
+        "url": "https://open.spotify.com/album/5r5fXDkWHAZhdAzVLC2c1I"
+      },
+      "artists": [
+        {
+          "name": "Thoma",
+          "url": "https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb"
+        }
+      ],
+      "duration_ms": 223375,
+      "name": "Ikiru",
+      "url": "https://open.spotify.com/track/24Gn3xI5AkAQTriCekLrf1"
+    },
+    {
       "added_at": "2023-02-17 01:29:01",
       "album": {
         "name": "Moog Indigo",
@@ -955,22 +971,6 @@
       "duration_ms": 191000,
       "name": "E.V.A.",
       "url": "https://open.spotify.com/track/4nQNNwnIUUmFzVOcVVJCk1"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Ikiru",
-        "url": "https://open.spotify.com/album/5r5fXDkWHAZhdAzVLC2c1I"
-      },
-      "artists": [
-        {
-          "name": "Thoma",
-          "url": "https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb"
-        }
-      ],
-      "duration_ms": 223375,
-      "name": "Ikiru",
-      "url": "https://open.spotify.com/track/24Gn3xI5AkAQTriCekLrf1"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
+        "name": "Oasis Sky",
+        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
+      },
+      "artists": [
+        {
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+        }
+      ],
+      "duration_ms": 224570,
+      "name": "City 66",
+      "url": "https://open.spotify.com/track/0LoinP9A7yG0Irl0evvU2b"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
         "name": "Treat Em Right (Boards Of Canada Remix)",
         "url": "https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 269987,
       "name": "Treat Em Right - Boards of Canada Remix Instrumental",
       "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Oasis Sky",
-        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
-      },
-      "artists": [
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        }
-      ],
-      "duration_ms": 224570,
-      "name": "City 66",
-      "url": "https://open.spotify.com/track/0LoinP9A7yG0Irl0evvU2b"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Good Places",
-        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 266526,
-      "name": "Good Places",
-      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "BIPP (Autechre Mx)",
@@ -1307,6 +1291,22 @@
       "duration_ms": 213332,
       "name": "BIPP - Autechre Mx",
       "url": "https://open.spotify.com/track/4tBdLWvYYr5IjJpvwiZr85"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Good Places",
+        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 266526,
+      "name": "Good Places",
+      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Strawberry Moon",
-        "url": "https://open.spotify.com/album/3ivMwZxfEhwdgCnuruvoPg"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Strawberry Moon",
-      "url": "https://open.spotify.com/track/416BuAV8EaYxNZ08aaSH9s"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Building Blocks, Pt. 5",
         "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 280818,
       "name": "The Cheek of Daniel",
       "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Strawberry Moon",
+        "url": "https://open.spotify.com/album/3ivMwZxfEhwdgCnuruvoPg"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Strawberry Moon",
+      "url": "https://open.spotify.com/track/416BuAV8EaYxNZ08aaSH9s"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1901,22 +1901,6 @@
       "url": "https://open.spotify.com/track/3Du0PkY1azjluiVSb9U5Ru"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Sleep Through the Storm",
-        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
-      },
-      "artists": [
-        {
-          "name": "A Lily",
-          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
-        }
-      ],
-      "duration_ms": 293026,
-      "name": "Endless Jasmine",
-      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Naturally Gushing vol.2",
@@ -1931,6 +1915,22 @@
       "duration_ms": 361000,
       "name": "Fine Life",
       "url": "https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Sleep Through the Storm",
+        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+      },
+      "artists": [
+        {
+          "name": "A Lily",
+          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+        }
+      ],
+      "duration_ms": 293026,
+      "name": "Endless Jasmine",
+      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -2255,30 +2255,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "SEIM",
-        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
-      },
-      "artists": [
-        {
-          "name": "QUINQUIS",
-          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
-        },
-        {
-          "name": "Gareth Jones",
-          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
-        },
-        {
-          "name": "\u00d3lavur J\u00e1kupsson",
-          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
-        }
-      ],
-      "duration_ms": 311533,
-      "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
-      "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "\u307f\u305e\u3046\u3075\u304f",
         "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
       },
@@ -2307,6 +2283,30 @@
       "duration_ms": 402024,
       "name": "Body Control",
       "url": "https://open.spotify.com/track/2p7F1Vq0oW7B5RKk50RuHC"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "SEIM",
+        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
+      },
+      "artists": [
+        {
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        },
+        {
+          "name": "Gareth Jones",
+          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
+        },
+        {
+          "name": "\u00d3lavur J\u00e1kupsson",
+          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
+      "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
     },
     {
       "added_at": "2023-02-17 01:10:22",

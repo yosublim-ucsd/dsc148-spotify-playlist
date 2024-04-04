@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,429 likes - 108 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,423 likes - 108 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 12 | [LEVII'S JEANS](https://open.spotify.com/track/2UDARQiksl207HcSduDpov) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:17 |
 | 13 | [tsm <3 \(pantamera!!\)](https://open.spotify.com/track/2TfMaAeUJHRbkBlkWcXYzG) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [tsm <3 \(pantamera!!\)](https://open.spotify.com/album/5sWvww2pt3kTYU8d4HP6NV) | 2:21 |
 | 14 | [Monster](https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster](https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz) | 2:24 |
-| 15 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
+| 15 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 |
 | 16 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 |
 | 17 | [Amira](https://open.spotify.com/track/1HZymY4eaImW0sEBOyqsgM) | [Chyde](https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA) | [Amira](https://open.spotify.com/album/6qAhhmHltknXlgQGpXY958) | 1:56 |
 | 18 | [SPAGHETTII](https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Linda Martell](https://open.spotify.com/artist/78adFi9EyRkMh3CTIatrV9), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:38 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 107 | [Can U Dig That?](https://open.spotify.com/track/5poLcNswsi0NovepA5xZ7j) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Can U Dig That?](https://open.spotify.com/album/7weNFtwo3U0B0oHp6FPkhy) | 3:14 |
 | 108 | [Spela lite Elvis](https://open.spotify.com/track/54LJGEXba0yVZnwCNMUsd9) | [Donnez](https://open.spotify.com/artist/4rMk4gSVtsxoOb7NPwF6hA) | [Spela lite Elvis](https://open.spotify.com/album/6VOY7bzVY5KyM5i5MClr5g) | 3:10 |
 
-Snapshot ID: `MCw3OGFiODFiOTgwMDdlYzdiNTY5Yzk1M2M2MDVjZTNiNzc0YWM1ODk4`
+Snapshot ID: `MCw5YjEzNmFlYjQ2ZDkzZjhkNTBlZjc4MzdhN2JhYTRjYTM5ZGI0MDU1`

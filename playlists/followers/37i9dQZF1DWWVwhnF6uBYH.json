@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 456238,
+  "2024-04-04": 456537,
   "date_first_scraped": "2023-08-22",
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
   "name": "Ruteando",
@@ -1181,10 +1181,28 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 155967,
       "name": "El Doble R",
       "url": "https://open.spotify.com/track/0uQcVX5M3E5aGf2sBQwfHZ"
+    },
+    {
+      "album": {
+        "name": "Cruzando Fronteras",
+        "url": "https://open.spotify.com/album/2yc4QHxUNjqURyIrugQjCv"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155967,
+      "name": "El Doble R",
+      "url": "https://open.spotify.com/track/6yewQdtbXlYQNZUS5b43D9"
     },
     {
       "album": {

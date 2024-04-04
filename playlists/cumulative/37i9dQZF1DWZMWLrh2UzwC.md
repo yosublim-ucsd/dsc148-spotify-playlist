@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Beyoncé
 
-9,952 songs - 22 day 17 hr 11 min
+9,953 songs - 22 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6178,7 +6178,8 @@
 | [out!](https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [out!](https://open.spotify.com/album/6pJwhmtkfyJ4nVsENdViPp) | 2:40 | 2022-05-05 | 2022-05-13 |
 | [Outcast \(Live Session\)](https://open.spotify.com/track/3iu6xaMIQHEP9mZMv7Nyew) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 1:56 | 2023-09-07 | 2023-09-15 |
 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 | 2023-12-07 | 2023-12-15 |
-| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 |  |
+| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 | 2024-04-04 |
+| [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-03-28 |  |
 | [Outta My Head](https://open.spotify.com/track/6XWw1Sj6WxN7bqXgA8j3YH) | [Shazee](https://open.spotify.com/artist/3hjD2tgcUWOm6o8Kk7cudp), [Tilla Hanna](https://open.spotify.com/artist/3NJyNeADXHVxvIKdTxTqw4) | [Outta My Head](https://open.spotify.com/album/6aBZwWz8GXM7EUGtU4YgVv) | 2:37 | 2022-01-20 | 2022-01-28 |
 | [Outta My Mind](https://open.spotify.com/track/5m5ZqwkHyeByNHFhTczqkt) | [Aini Mazalan](https://open.spotify.com/artist/3mfDuM7MO7MWAfFID5ecai) | [Outta My Mind](https://open.spotify.com/album/0yDJYWBNXKqtwlah6357qT) | 3:21 | 2024-02-15 | 2024-02-23 |
 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 | 2023-02-23 | 2023-03-03 |

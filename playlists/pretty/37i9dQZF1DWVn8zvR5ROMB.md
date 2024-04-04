@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Dylan Scott, Beyoncé, Josh Ross and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,834 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,078 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 50 | [Good While It Lasted](https://open.spotify.com/track/3Rh3ZtELZPAJNA0rw5Qk7I) | [Trevor Martin](https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt) | [Good While It Lasted](https://open.spotify.com/album/20AGk78QMdkHwaDBaW8QRA) | 3:06 |
 | 51 | [Down Like That](https://open.spotify.com/track/42guoHqmHMGkArGFoiMU3v) | [Whelan Stone](https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW) | [Down Like That](https://open.spotify.com/album/7bqmIpXCCzm0YrsEwq93fj) | 3:18 |
 
-Snapshot ID: `MCwyZDIzYTI2ZTlkNmU0NmY3YmFjMjdmNDQyNTFhNzk5OTU0NDRmNWRj`
+Snapshot ID: `MCwxZGYyYTQ1MzAxNGVlMzkwM2FhZGJkMGQ4MmU3OWY1NjE1NGNlMjcy`

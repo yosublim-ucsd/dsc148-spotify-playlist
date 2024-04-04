@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-806 songs - 1 day 23 hr 4 min
+807 songs - 1 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,9 +669,9 @@
 | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/track/0MejzQMW0yfpwfZwIjNaAH) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/album/5xP13jAUjzH2TBjxaj5stu) | 3:39 | 2021-03-27\* | 2021-05-03 |
 | [ฟีลลิ่งแบบว่าอู้วว!](https://open.spotify.com/track/330spX93u5K5XINCCJzko3) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ฟีลลิ่งแบบว่าอู้วว!](https://open.spotify.com/album/3WGthfl2NKI9tuX4z4R7CP) | 4:22 | 2024-03-15 | 2024-03-17 |
 | [ฟีโรโมน](https://open.spotify.com/track/03Pc18Z9L1n2LcyBb6SKZ1) | [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [2TFLOW](https://open.spotify.com/artist/5gPpLgNHI1brQiqNmgN5bd) | [ฟีโรโมน](https://open.spotify.com/album/0dpdzEeWNDE626rNHpKiuH) | 3:40 | 2022-02-01 | 2022-07-03 |
-| [ฟ้ารักพ่อ \(DILF\)](https://open.spotify.com/track/45eQSbdATZGC5lowyWUbfH) | [BADMIXY](https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1), [ยุ้ย ญาติเยอะ](https://open.spotify.com/artist/4abxoWkXUq5R49gYTvAeLz) | [BAD STORY](https://open.spotify.com/album/2PQ53PXkBduUnWQWG26vYe) | 4:01 | 2023-12-03 |  |
+| [ฟ้ารักพ่อ \(DILF\)](https://open.spotify.com/track/45eQSbdATZGC5lowyWUbfH) | [BADMIXY](https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1), [ยุ้ย ญาติเยอะ](https://open.spotify.com/artist/4abxoWkXUq5R49gYTvAeLz) | [BAD STORY](https://open.spotify.com/album/2PQ53PXkBduUnWQWG26vYe) | 4:01 | 2023-12-03 | 2024-04-04 |
 | [มีปัญหาปรึกษาดาว](https://open.spotify.com/track/4YxaxRxi8lFZdAWS9nCmAn) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [มีปัญหาปรึกษาดาว](https://open.spotify.com/album/2Xt4DOcKSz4DZfB1cKsZAo) | 3:58 | 2021-04-30 | 2021-09-10 |
-| [ยอม \(White Flag\)](https://open.spotify.com/track/1VfxBuhaRC8rnE4VAPQ4Qk) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [All My Purple Feelings](https://open.spotify.com/album/697YQLmLHyLPeO73NGvVqs) | 3:31 | 2024-02-02 |  |
+| [ยอม \(White Flag\)](https://open.spotify.com/track/1VfxBuhaRC8rnE4VAPQ4Qk) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [All My Purple Feelings](https://open.spotify.com/album/697YQLmLHyLPeO73NGvVqs) | 3:31 | 2024-02-02 | 2024-04-04 |
 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 | 2023-07-16 |  |
 | [ยิ่งใกล้ยิ่งเก็บ](https://open.spotify.com/track/1GcLstNhtKD1c60tPGxYcH) | [I HATE MONDAY](https://open.spotify.com/artist/4bZFk69BTd1y2IsxIjO35M), [feat\. AUTTA](https://open.spotify.com/artist/4rVLBFI2QUVzXq4h4jzUFj) | [ยิ่งใกล้ยิ่งเก็บ \(feat\. AUTTA\)](https://open.spotify.com/album/3yeiECYxzfsMV77YsDVDnY) | 3:39 | 2021-05-03 | 2021-07-22 |
 | [ยิ้มทั้งน้ำตา](https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ้มทั้งน้ำตา](https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd) | 4:45 | 2023-03-10 | 2023-10-27 |
@@ -789,7 +789,8 @@
 | [โต๊ะริม](https://open.spotify.com/track/60ZuPJ8kseTn6isqhyxpCi) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Cigarette Candy & Vanilla Sky](https://open.spotify.com/album/0WgyERgiBxZTMyzpZbv0Mu) | 4:07 | 2022-08-02 | 2023-10-21 |
 | [โต๊ะริม \(Melt\)](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม \(Melt\)](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 | 2022-05-21 | 2022-08-03 |
 | [โลกคู่ขนาน](https://open.spotify.com/track/3A1tAv6J87HqjFhUZ3LHNi) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [โลกคู่ขนาน](https://open.spotify.com/album/1ax89fjEDQYz5ukVXpjCFk) | 4:40 | 2022-05-15 | 2022-10-04 |
-| [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 | 2024-03-13 | 2024-04-03 |
+| [โลกที่แบกไว้](https://open.spotify.com/track/1BAIaOr39e7FsxRYjbPiyz) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [โลกที่แบกไว้](https://open.spotify.com/album/7Kd7MwlHvyBxiwAFaqhTqJ) | 4:40 | 2024-04-03 |  |
+| [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 | 2024-03-13 |  |
 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 | 2022-12-15 | 2024-01-23 |
 | [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 | 2023-04-15 |  |
 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 | 2022-04-09 | 2022-07-26 |

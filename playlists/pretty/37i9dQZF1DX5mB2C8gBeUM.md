@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Chase Matthew
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,312 likes - 158 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,325 likes - 158 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 50 | [Lets Go!](https://open.spotify.com/track/4TlFm4IsztCzL26COpgOcw) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw), [Phillip Good](https://open.spotify.com/artist/7IgNmZLjmhgaH3L83GPVeN) | [Lets Go!](https://open.spotify.com/album/440CLUzPDP9fm53GgsKBHu) | 2:34 |
 | 51 | [We Did](https://open.spotify.com/track/1Ia1nVuJYsaQjArfY7pOd4) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/79iCUqx4rgAItI7BFPJkJC) | 3:03 |
 | 52 | [EASY TONIGHT](https://open.spotify.com/track/6v9ZG6Mqt0ORN4N9jN1Nh0) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [EASY TONIGHT](https://open.spotify.com/album/4VANWG21U2nsR2f2b1CLJr) | 2:55 |
-| 53 | [Summer's ours](https://open.spotify.com/track/0sAYagHcwzRJYRcpI63T15) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Summer's ours](https://open.spotify.com/album/2TwlpEvZCPiWzD68BTuSv7) | 2:55 |
+| 53 | [Summer's ours](https://open.spotify.com/track/4109FkjojNYdiMYoNealX8) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Summer's ours](https://open.spotify.com/album/2lenfSHET9LTAjmKgCbhWP) | 2:55 |
 | 54 | [FU\-150](https://open.spotify.com/track/0Nb7pW1koAiWGfCMVD23oT) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [FU\-150.](https://open.spotify.com/album/7D0ZMLCytmMnz3P1zQeZuU) | 2:53 |
 | 55 | [Country Club](https://open.spotify.com/track/7AEw4J42zlyufYBfi64YgP) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Country Club](https://open.spotify.com/album/1SPUlFiGVdkObmhRJ8sjkS) | 2:20 |
 | 56 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 |
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 115 | [Never Needed Much](https://open.spotify.com/track/2JNmPKPJw6tkWMugkVKkvn) | [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Never Needed Much](https://open.spotify.com/album/3uCAFMyONkTNG50OOzexne) | 2:14 |
 | 116 | [Next Town Over](https://open.spotify.com/track/2gpdZEqYzZmm4GRfY5GxQo) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt) | [Next Town Over](https://open.spotify.com/album/1MmsRlknDmG5seUMloCKJO) | 2:44 |
 | 117 | [How Do I Do This](https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:51 |
-| 118 | [Sundown](https://open.spotify.com/track/6cDqFQnXFHOHXE9hfYWtHg) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [Sundown](https://open.spotify.com/album/2RIcMvLCuuPfYQH2yTz7xT) | 2:09 |
+| 118 | [Sundown](https://open.spotify.com/track/26HQt3tNOagBa4Av5lftP2) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [Sundown](https://open.spotify.com/album/7GTqzcYBdaT6Ify2iHtcay) | 2:09 |
 | 119 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 |
 | 120 | [Haw Yee](https://open.spotify.com/track/6b9TY1cfPnJKGjedkYMRIQ) | [El Ray](https://open.spotify.com/artist/32pa3a2Tu9C4TmrAtN6cyO), [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Haw Yee](https://open.spotify.com/album/1hSBCYMhXhQwaZom8bpHBr) | 2:46 |
 | 121 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 |
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 126 | [Prettiest Thing](https://open.spotify.com/track/477nVelrdccS6Q7yQhV42s) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Prettiest Thing](https://open.spotify.com/album/5WKcFucb97IrXuoeGE0ePh) | 2:58 |
 | 127 | [Twenty One](https://open.spotify.com/track/37GplPmP2JCLifXt9YXVv2) | [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m), [Jeb Bundy](https://open.spotify.com/artist/6ZtihUIqX9h72FrkQW43U6) | [Twenty One](https://open.spotify.com/album/4D8JP6VGjKOpdKt7U8A7lm) | 2:30 |
 | 128 | [I’ll Be Damned](https://open.spotify.com/track/69Asb7QVKn11cRDpbwPpcY) | [Riley Thomas](https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB) | [I’ll Be Damned](https://open.spotify.com/album/4PjzPyI2uEAnKW603XKKSc) | 3:08 |
-| 129 | [8 to infinity](https://open.spotify.com/track/3NQu2RzBGMeTIWhgF2qEv8) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [8 to infinity](https://open.spotify.com/album/6liiN1A45ihA3KD3DVe3FT) | 2:38 |
+| 129 | [8 to infinity](https://open.spotify.com/track/4RqdIBIVMQk5konaaFJABh) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [8 to infinity](https://open.spotify.com/album/3w9Z3NRNVVfMM9KfjuplUj) | 2:38 |
 | 130 | [Mile a Minute](https://open.spotify.com/track/32TXXuxoLABBCPwIzhcQji) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Mile a Minute](https://open.spotify.com/album/5c7RiwpntE5FEcZbsj8kU4) | 3:15 |
 | 131 | [Out Yonder](https://open.spotify.com/track/6qD87YEMuF9pY4g3MtSeiG) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Out Yonder](https://open.spotify.com/album/6tUQwE1bKzyW54f7vkEg4P) | 3:22 |
 | 132 | [Mr\. Percocet](https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:13 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 157 | [The Only Problem Is](https://open.spotify.com/track/41Q02iK1KtjflVNuUBXPsq) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Sugar Spice](https://open.spotify.com/album/0Ugvwj0WVE8HUBFHTzihME) | 3:41 |
 | 158 | [Can't Stop Us Now](https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Can't Stop Us Now](https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf) | 3:22 |
 
-Snapshot ID: `MCw2ZDQ4OTU2NTQ4N2E0ZjIwYTAyNWUxMjY2MmZlYjk3MzNhOWNhMDAz`
+Snapshot ID: `MCxlODMzY2UzOWQwMjVjMjE5YmE2M2MyNjk4YWQwOTE5MWFkNTE1NDRm`

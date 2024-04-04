@@ -4,7 +4,7 @@
 
 > Classic hits from the 50s and 60s.
 
-383 songs - 17 hr 22 min
+384 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,12 +153,13 @@
 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 | 2022-10-11 |  |
 | [I Walk the Line](https://open.spotify.com/track/1Vr6JSWTpl5MIxUHOJ3nny) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [With His Hot and Blue Guitar](https://open.spotify.com/album/4449MfWtDgtRQBYZvbPqV6) | 2:43 | 2020-12-16 | 2022-07-29 |
 | [I Walk The Line \- Single Version](https://open.spotify.com/track/1TKPfF2fvn6gVLVfp3iG4j) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Sings the Songs that Made Him Famous](https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY) | 2:43 | 2022-03-07 | 2024-03-28 |
+| [I Walk The Line \- Single Version](https://open.spotify.com/track/6uya0AiJA1Avd4DY2XFlVm) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [With His Hot and Blue Guitar](https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E) | 2:43 | 2024-01-22 |  |
 | [I Want To Hold Your Hand \- Remastered 2009](https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:26 | 2020-12-16 |  |
 | [I Will Follow Him](https://open.spotify.com/track/3GQETOg4ZXyQ1jEFqfMoac) | [Peggy March](https://open.spotify.com/artist/5EVZqrbIyEYGGite2sMhDk) | [I Will Follow Him](https://open.spotify.com/album/5R0M6bpjLmFutJBcFhqNlg) | 2:28 | 2020-12-16 | 2022-11-13 |
 | [I'll Never Dance Again](https://open.spotify.com/track/5fxChRcnmyk2en0r5YMF6E) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [The Best Of Bobby Rydell](https://open.spotify.com/album/4zjFtmowRVcKgO5l0sFKi1) | 2:29 | 2020-12-16 | 2022-07-17 |
 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 | 2022-10-11 |  |
 | [I'm In Love Again](https://open.spotify.com/track/64tWwNVw8RPIY2N4IYGUBk) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them](https://open.spotify.com/album/1hs1BjRp9t8AjVY9J6vE1b) | 1:57 | 2020-12-16 | 2022-07-29 |
-| [I'm Into Something Good](https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Herman's Hermits Retrospective](https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW) | 2:33 | 2022-10-11 |  |
+| [I'm Into Something Good](https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Herman's Hermits Retrospective](https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW) | 2:33 | 2022-10-11 | 2024-04-04 |
 | [I'm Sorry](https://open.spotify.com/track/4LJcNiq2pBb8OeqrGdBJQw) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Brenda Lee](https://open.spotify.com/album/3DzEQCPg0Irz2vWUaBSEkm) | 2:41 | 2022-03-07 | 2022-10-11 |
 | [I'm Sorry \- Single Version](https://open.spotify.com/track/5VyBNCSb8VXoSxD281PRod) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [20th Century Masters: The Millennium Collection: Best of Brenda Lee](https://open.spotify.com/album/7G6znc9ko7BHfWh8olwYg4) | 2:40 | 2022-03-07 | 2022-04-20 |
 | [I'm Walking Behind You](https://open.spotify.com/track/2FqOLG4ViICqhx35v8xoBx) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [The Very Best Of Eddie Fisher](https://open.spotify.com/album/1N97ksukEGmwRDYk1BrOL7) | 3:05 | 2022-03-07 | 2022-04-21 |

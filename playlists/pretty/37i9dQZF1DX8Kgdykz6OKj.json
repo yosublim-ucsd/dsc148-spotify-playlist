@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1260099,
+  "num_followers": 1260428,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTMwMGY3ZGUwODEzZGI4MmJhNDZiYmNjYjI0NDAzNzI3MDY1MDgx",
+  "snapshot_id": "MCxmNjEwMWU3NmU4OTA3MzU3OWJkZWIwNGVkZjU1NmVkODBlNzExZTdk",
   "tracks": [
     {
       "added_at": "2024-03-29 04:01:00",
@@ -203,6 +203,30 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Konbini Wars",
+        "url": "https://open.spotify.com/album/1mCk7AHyKfC93rJ8tjhRZg"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 173414,
+      "name": "Konbini Wars",
+      "url": "https://open.spotify.com/track/4G6fhntNzO01jPr2jV8TAk"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "One Day It'll All Make Sense",
         "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
       },
@@ -251,30 +275,6 @@
       "duration_ms": 357200,
       "name": "What They Do",
       "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Konbini Wars",
-        "url": "https://open.spotify.com/album/1mCk7AHyKfC93rJ8tjhRZg"
-      },
-      "artists": [
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        },
-        {
-          "name": "Cookin Soul",
-          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
-        },
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 173414,
-      "name": "Konbini Wars",
-      "url": "https://open.spotify.com/track/4G6fhntNzO01jPr2jV8TAk"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -775,30 +775,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Baw Baw Black Sheep",
-        "url": "https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k"
-      },
-      "artists": [
-        {
-          "name": "Rejjie Snow",
-          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "Cam O'bi",
-          "url": "https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Cookie Chips",
-      "url": "https://open.spotify.com/track/75yIue8dwthQA0QKd9ktyI"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Jazzmatazz Volume II: The New Reality",
         "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 237733,
       "name": "Feel The Music",
       "url": "https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Baw Baw Black Sheep",
+        "url": "https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k"
+      },
+      "artists": [
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "Cam O'bi",
+          "url": "https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Cookie Chips",
+      "url": "https://open.spotify.com/track/75yIue8dwthQA0QKd9ktyI"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 190116,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Drive Slow",
         "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 221333,
       "name": "Drive Slow",
       "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 190116,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Helping Hands",
+        "url": "https://open.spotify.com/album/32OdlhjvXBKe94WaviR3Qs"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 209613,
+      "name": "The Circle",
+      "url": "https://open.spotify.com/track/6GNDjlJnaAvxM3Ffn0CAWl"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "YHWH is LOVE",
         "url": "https://open.spotify.com/album/0GCFzQmxBDBjUcVFHh3Mji"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 189418,
       "name": "Anointed Soul",
       "url": "https://open.spotify.com/track/6kPK6JPNSsWovpDcnfOIyQ"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Helping Hands",
-        "url": "https://open.spotify.com/album/32OdlhjvXBKe94WaviR3Qs"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 209613,
-      "name": "The Circle",
-      "url": "https://open.spotify.com/track/6GNDjlJnaAvxM3Ffn0CAWl"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1711,30 +1711,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Last Nite",
-        "url": "https://open.spotify.com/album/5LfD9m1peTRqw0JBdbthq5"
-      },
-      "artists": [
-        {
-          "name": "Potatohead People",
-          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Kapok",
-          "url": "https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/0tyzW2eT67ggLRTVvvXeAM"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Chicken Wings (Remix)",
         "url": "https://open.spotify.com/album/7MdK6WWMMy9V2w8prCgycb"
       },
@@ -1759,22 +1735,26 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Beloved! Paradise! Jazz!?",
-        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
+        "name": "Last Nite",
+        "url": "https://open.spotify.com/album/5LfD9m1peTRqw0JBdbthq5"
       },
       "artists": [
         {
-          "name": "McKinley Dixon",
-          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
+          "name": "Potatohead People",
+          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
         },
         {
-          "name": "Ms. Jaylin Brown",
-          "url": "https://open.spotify.com/artist/1ffnZupAfeFVxIBCtbiy0d"
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Kapok",
+          "url": "https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw"
         }
       ],
-      "duration_ms": 247698,
-      "name": "Beloved! Paradise! Jazz!?",
-      "url": "https://open.spotify.com/track/4DoFmJKTQsWqjVgoXC7zOs"
+      "duration_ms": 221333,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/0tyzW2eT67ggLRTVvvXeAM"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1799,6 +1779,26 @@
       "duration_ms": 177713,
       "name": "Factor",
       "url": "https://open.spotify.com/track/4P2wL0Bt5X2NyrpHywsuPM"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Beloved! Paradise! Jazz!?",
+        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
+      },
+      "artists": [
+        {
+          "name": "McKinley Dixon",
+          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
+        },
+        {
+          "name": "Ms. Jaylin Brown",
+          "url": "https://open.spotify.com/artist/1ffnZupAfeFVxIBCtbiy0d"
+        }
+      ],
+      "duration_ms": 247698,
+      "name": "Beloved! Paradise! Jazz!?",
+      "url": "https://open.spotify.com/track/4DoFmJKTQsWqjVgoXC7zOs"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Back At The House",
-        "url": "https://open.spotify.com/album/78q1wlDQCvJXhjqTq9ZTZV"
-      },
-      "artists": [
-        {
-          "name": "Hemlock Ernst",
-          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
-        },
-        {
-          "name": "Kenny Segal",
-          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
-        }
-      ],
-      "duration_ms": 258461,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/0XnhTgMuX3ncdnf5mZnce8"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Can't Let You Go (feat. Nick Grant)",
         "url": "https://open.spotify.com/album/1rTUaJkFNfc671grQVrpXp"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 193616,
       "name": "Can't Let You Go (feat. Nick Grant)",
       "url": "https://open.spotify.com/track/1po27sCiUflhrwE29Gc9PJ"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Back At The House",
+        "url": "https://open.spotify.com/album/78q1wlDQCvJXhjqTq9ZTZV"
+      },
+      "artists": [
+        {
+          "name": "Hemlock Ernst",
+          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+        }
+      ],
+      "duration_ms": 258461,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/0XnhTgMuX3ncdnf5mZnce8"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1979,30 +1979,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Fried",
-        "url": "https://open.spotify.com/album/1K6Ea6TrQfBYpKNFRnpyHD"
-      },
-      "artists": [
-        {
-          "name": "REMI",
-          "url": "https://open.spotify.com/artist/5t69dnux4K2vcJO4VjS39q"
-        },
-        {
-          "name": "Sensible J",
-          "url": "https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U"
-        },
-        {
-          "name": "Lori",
-          "url": "https://open.spotify.com/artist/6LdmIpHktzO8h5Z1nnfeIn"
-        }
-      ],
-      "duration_ms": 228032,
-      "name": "Brain",
-      "url": "https://open.spotify.com/track/4bbSk6i5hBlgcKB7bFZS20"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Lost in Translation",
         "url": "https://open.spotify.com/album/7h97NFfY3hDw2kLq0ztbf1"
       },
@@ -2023,6 +1999,30 @@
       "duration_ms": 297990,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/6ITSh7MTLHFFtqJKKZgUA4"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Fried",
+        "url": "https://open.spotify.com/album/1K6Ea6TrQfBYpKNFRnpyHD"
+      },
+      "artists": [
+        {
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/5t69dnux4K2vcJO4VjS39q"
+        },
+        {
+          "name": "Sensible J",
+          "url": "https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U"
+        },
+        {
+          "name": "Lori",
+          "url": "https://open.spotify.com/artist/6LdmIpHktzO8h5Z1nnfeIn"
+        }
+      ],
+      "duration_ms": 228032,
+      "name": "Brain",
+      "url": "https://open.spotify.com/track/4bbSk6i5hBlgcKB7bFZS20"
     }
   ],
   "unique_name": "Jazz Rap",

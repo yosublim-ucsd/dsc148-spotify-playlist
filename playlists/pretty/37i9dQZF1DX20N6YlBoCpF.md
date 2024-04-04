@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=\_2MLvxbWQuClr\-c3ohOP5g">Franja Du Plessis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,839 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,859 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 54 | [Kalahari Ferrari](https://open.spotify.com/track/5M4Vqy5cw969eZ0MF1J8Je) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Kalahari Ferrari](https://open.spotify.com/album/1LJsNPxIxUHF7ESMu6ttXP) | 3:22 |
 | 55 | [Ons Sal Jonk Bly](https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/4VT7eCzFTDo2iXaEDREPVP) | 4:25 |
 
-Snapshot ID: `MCwzODBjZmY3YzZhZjY4MTBjNDczZTFhYTcyOTg2YzE2MjBkOGQyZWFk`
+Snapshot ID: `MCw3NDNmNTExNzdhN2NmNjZlMDFjMDc5M2Q5ZTZkMzRhYjU4Nzc1NzBj`

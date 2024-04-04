@@ -4,7 +4,7 @@
 
 > Dance tracks for your power moves
 
-133 songs - 6 hr 1 min
+134 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,10 +104,11 @@
 | [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 | 2024-02-07 | 2024-03-14 |
 | [Run Free \(Countdown\)](https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Run Free \(Countdown\)](https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f) | 2:32 | 2024-02-07 |  |
 | [Same Man](https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Same Man](https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s) | 2:32 | 2024-02-07 | 2024-03-07 |
+| [Save Me](https://open.spotify.com/track/6azYMWnHlQwbkpDNxSIluY) | [LV](https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q) | [Save Me](https://open.spotify.com/album/6P2CZNhzDnpIdi3KOm7QkS) | 2:19 | 2024-04-03 |  |
 | [Say It To Me](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Say It To Me](https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW) | 4:02 | 2024-02-07 | 2024-03-08 |
 | [September \(Club Mix\) \- Radio Edit](https://open.spotify.com/track/1dQS6r99azgncYwRDVM82m) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ), [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [September \(Club Mix\)](https://open.spotify.com/album/5jNrQMFz5rQOGyLIXHBV1e) | 3:19 | 2024-02-07 |  |
 | [Sideways](https://open.spotify.com/track/3J5Wcm5gvOl15F79FUy6Zy) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Jean Juan](https://open.spotify.com/artist/0BdqSoiFVJSplPq3KSySFz) | [Sideways](https://open.spotify.com/album/4v2IWLFOinbG1BADnck31l) | 2:15 | 2024-02-07 | 2024-03-07 |
-| [Slowly Going Crazy \(feat\. EKE\)](https://open.spotify.com/track/5RCl6c5jPOklm5Nk2qVsqf) | [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD), [Tomhio](https://open.spotify.com/artist/1Oi8GuEGJRkBlST7gU6YL7), [TWINNS](https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Slowly Going Crazy \(feat\. EKE\)](https://open.spotify.com/album/7BOdqbbphItSzVMdYF8Lnc) | 2:27 | 2024-03-06 |  |
+| [Slowly Going Crazy \(feat\. EKE\)](https://open.spotify.com/track/5RCl6c5jPOklm5Nk2qVsqf) | [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD), [Tomhio](https://open.spotify.com/artist/1Oi8GuEGJRkBlST7gU6YL7), [TWINNS](https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Slowly Going Crazy \(feat\. EKE\)](https://open.spotify.com/album/7BOdqbbphItSzVMdYF8Lnc) | 2:27 | 2024-03-06 | 2024-04-04 |
 | [Solo](https://open.spotify.com/track/4WtWbsUpHCIvSUxFbCfM5m) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Gyan Chappory](https://open.spotify.com/artist/7IFRE8unQCJ6Q2Md2OXtM1) | [Solo](https://open.spotify.com/album/0YOEEfwnc5W2YdcAVXLQHQ) | 2:21 | 2024-02-07 | 2024-03-08 |
 | [Something Like This](https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Something Like This](https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1) | 2:28 | 2024-02-07 |  |
 | [Stand In Line](https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Stand In Line](https://open.spotify.com/album/6oOQUuzEJhcCzE8WYxVM13) | 3:05 | 2024-02-07 |  |

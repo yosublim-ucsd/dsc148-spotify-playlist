@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 103094,
+  "num_followers": 103126,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDZiNjFiNTg4ZmY2ZDRkNjY5YzUwMTI1MzNmMWY5MDJhMDk5OGZk",
+  "snapshot_id": "MCwyNWIzNGQzMzA0ODk2YWM3NmU2YmNjZDk1ZmNlYmRlNzE1MGQ1OTlk",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -639,6 +639,22 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/02FKQ2rc5f7XmB03EcFN4m"
+      },
+      "artists": [
+        {
+          "name": "Evi-Edna Ogholi",
+          "url": "https://open.spotify.com/artist/0anRNdIauPbIhAdygRLJVL"
+        }
+      ],
+      "duration_ms": 339386,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
         "name": "Nigeria 70 - Funky Lagos",
         "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 483986,
       "name": "Alo Mi Alo (Parts 1 & 2)",
       "url": "https://open.spotify.com/track/4ZAjQaFzbW5IbJJsjfCJJ4"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/02FKQ2rc5f7XmB03EcFN4m"
-      },
-      "artists": [
-        {
-          "name": "Evi-Edna Ogholi",
-          "url": "https://open.spotify.com/artist/0anRNdIauPbIhAdygRLJVL"
-        }
-      ],
-      "duration_ms": 339386,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN"
     }
   ],
   "unique_name": "Classic Afropop",

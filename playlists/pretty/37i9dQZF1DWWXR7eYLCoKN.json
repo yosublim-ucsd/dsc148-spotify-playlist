@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 144737,
+  "num_followers": 144789,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGM2YzZmY2Y1YmMxZmVkNTYwMTY4ZmY4MDczYzJmZjQ2ZTNjYThh",
+  "snapshot_id": "MCwwOTcwYzA3OTZmOWM3NWFmM2MxZTU5NTM0MGQ1MTU0YWM5NGExNmNk",
   "tracks": [
     {
       "added_at": "2024-01-19 03:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
-      },
-      "artists": [
-        {
-          "name": "Adoniran Barbosa",
-          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
-        }
-      ],
-      "duration_ms": 140706,
-      "name": "Saudosa Maloca",
-      "url": "https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Quanta (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5CKqspEMfjrXmtfkOgVJnH"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 246040,
       "name": "Com que roupa?",
       "url": "https://open.spotify.com/track/7FAJEzjsbMLnRiwTZiXcOg"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Mart'n\u00e1lia em Berlim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 256053,
+      "name": "P\u00e9 do Meu Samba - Ao Vivo",
+      "url": "https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -819,34 +819,18 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Mart'n\u00e1lia em Berlim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG"
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
       },
       "artists": [
         {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+          "name": "Adoniran Barbosa",
+          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
         }
       ],
-      "duration_ms": 256053,
-      "name": "P\u00e9 do Meu Samba - Ao Vivo",
-      "url": "https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Beth",
-        "url": "https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7"
+      "duration_ms": 140706,
+      "name": "Saudosa Maloca",
+      "url": "https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -863,6 +847,22 @@
       "duration_ms": 272750,
       "name": "Prova Dos Nove",
       "url": "https://open.spotify.com/track/5jsVbRJUzMTY8KCpPIVlg8"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Beth",
+        "url": "https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -895,6 +895,22 @@
       "duration_ms": 174493,
       "name": "As Rosas N\u00e3o Falam",
       "url": "https://open.spotify.com/track/0MMe6HyOCDo6GYBZZCwkyt"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Minha Cara",
+        "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 237306,
+      "name": "Entretanto",
+      "url": "https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -967,22 +983,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Minha Cara",
-        "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 237306,
-      "name": "Entretanto",
-      "url": "https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Papo Final",
         "url": "https://open.spotify.com/album/4RAvbjlgTKKlWTfX2XOGmQ"
       },
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Sarav\u00e1, Paz e Bem",
-        "url": "https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z"
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
       },
       "artists": [
         {
-          "name": "Elisa Fernandes",
-          "url": "https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 223799,
-      "name": "Aprendi a Ser Feliz",
-      "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
+      "duration_ms": 196808,
+      "name": "Samba de Amanda e T\u00e9",
+      "url": "https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1067,18 +1067,34 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+        "name": "\u00c1gua de Chuva no Mar (Do filme \"Um Casal Insepar\u00e1vel\")",
+        "url": "https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
         }
       ],
-      "duration_ms": 196808,
-      "name": "Samba de Amanda e T\u00e9",
-      "url": "https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc"
+      "duration_ms": 248746,
+      "name": "\u00c1gua de Chuva no Mar - Do filme \"Um Casal Insepar\u00e1vel\"",
+      "url": "https://open.spotify.com/track/1PmJKK9Jclc230tru8UOHb"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Sarav\u00e1, Paz e Bem",
+        "url": "https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z"
+      },
+      "artists": [
+        {
+          "name": "Elisa Fernandes",
+          "url": "https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ"
+        }
+      ],
+      "duration_ms": 223799,
+      "name": "Aprendi a Ser Feliz",
+      "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1099,22 +1115,6 @@
       "duration_ms": 205663,
       "name": "Atraco",
       "url": "https://open.spotify.com/track/6iSEEpOeVU0VdXdpq8O6CM"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "\u00c1gua de Chuva no Mar (Do filme \"Um Casal Insepar\u00e1vel\")",
-        "url": "https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "\u00c1gua de Chuva no Mar - Do filme \"Um Casal Insepar\u00e1vel\"",
-      "url": "https://open.spotify.com/track/1PmJKK9Jclc230tru8UOHb"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Samba Jazz, de Raiz Cl\u00e1udio Jorge 70",
-        "url": "https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00e1udio Jorge",
-          "url": "https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Samba Jazz, de Raiz",
-      "url": "https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Cantoras do Brasil",
         "url": "https://open.spotify.com/album/4Zg1k7ciP5ew90hzPCkhuI"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 192520,
       "name": "Na Linha do Mar",
       "url": "https://open.spotify.com/track/5aVHKHEeZ7XT6Upt6nl19H"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Samba Jazz, de Raiz Cl\u00e1udio Jorge 70",
+        "url": "https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e1udio Jorge",
+          "url": "https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Samba Jazz, de Raiz",
+      "url": "https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Conselheiro Calado",
-        "url": "https://open.spotify.com/album/1SWSMAbIToMxu0OIQLPyeN"
-      },
-      "artists": [
-        {
-          "name": "Maur\u00edcio Tagliari",
-          "url": "https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml"
-        },
-        {
-          "name": "Rodrigo Campos",
-          "url": "https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ"
-        }
-      ],
-      "duration_ms": 241254,
-      "name": "Conselheiro Calado",
-      "url": "https://open.spotify.com/track/7MHTISeIULk2TxbJKJDWSO"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Dia De Gl\u00f3ria",
         "url": "https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 242589,
       "name": "Dia De Gl\u00f3ria",
       "url": "https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Conselheiro Calado",
+        "url": "https://open.spotify.com/album/1SWSMAbIToMxu0OIQLPyeN"
+      },
+      "artists": [
+        {
+          "name": "Maur\u00edcio Tagliari",
+          "url": "https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml"
+        },
+        {
+          "name": "Rodrigo Campos",
+          "url": "https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ"
+        }
+      ],
+      "duration_ms": 241254,
+      "name": "Conselheiro Calado",
+      "url": "https://open.spotify.com/track/7MHTISeIULk2TxbJKJDWSO"
     },
     {
       "added_at": "2024-01-19 03:01:00",

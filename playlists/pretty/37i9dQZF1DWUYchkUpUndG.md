@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h?si=bQVOO23uRpSjmhTSUg1Svg>TESTIMONY JAGA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,704 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,724 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Onitooto \(The Truthful One\)](https://open.spotify.com/track/7uMVU2QvAU6eLHSnY1Ty8k) | [The Resurrection Movement](https://open.spotify.com/artist/4FHmaNql8g0yLUBJqVLKZ1) | [Truthful One](https://open.spotify.com/album/7MYta9Px7npJGFZx8p1QeW) | 4:37 |
 | 100 | [Solid Rock](https://open.spotify.com/track/7uVr9obMaWNOmUSoAj70eX) | [Nimi Stix](https://open.spotify.com/artist/39jgj6aYzq1eltNM1IcEwm), [Odianose](https://open.spotify.com/artist/7lTDouO7ug3ETSmO5QnAnG) | [Solid Rock](https://open.spotify.com/album/6OO6O3tWK2GtU2nPyVcdpt) | 2:44 |
 
-Snapshot ID: `MCw0YzExNWI2ZmQ5YzA0ZmJlMzExYzA4YjEyYzAwMTJjY2QzZjRjNmIy`
+Snapshot ID: `MCxiZjg5NmQyYzZhMGJjNTk5NTYxNTE4YzYzNjY5OTU3NDY3MTQ3MGRi`

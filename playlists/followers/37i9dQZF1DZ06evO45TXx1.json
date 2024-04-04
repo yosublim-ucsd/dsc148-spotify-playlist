@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 7237,
+  "2024-04-04": 7266,
   "date_first_scraped": "2023-12-31",
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
   "name": "This Is Mc Luanna",
@@ -337,7 +337,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 193564,
       "name": "De Cop\u00e3o Na M\u00e3o",
       "url": "https://open.spotify.com/track/5GMuN4AXlf2PdJyk8IUAoG"
@@ -1333,7 +1333,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 409756,
       "name": "Sem Compaix\u00e3o Bb",
       "url": "https://open.spotify.com/track/7wPDUhgv7YgKtGgkinvUYx"

@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 181668,
+  "2024-04-04": 181687,
   "date_first_scraped": "2022-04-19",
   "description": "Move it and groove it to these great tunes!",
   "name": "Family Dance Party",
@@ -525,24 +525,6 @@
     {
       "album": {
         "name": "The J Team (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/14pCN3JGNyD3oGC8jBucYP"
-      },
-      "artists": [
-        {
-          "name": "JoJo Siwa",
-          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
-        }
-      ],
-      "date_added": "2022-12-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 155657,
-      "name": "Dance Through the Day",
-      "url": "https://open.spotify.com/track/1VlO9GSWlPWe2WAsudpEV5"
-    },
-    {
-      "album": {
-        "name": "The J Team (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7API0ZipF82Jy6kKwLVGUB"
       },
       "artists": [
@@ -575,6 +557,24 @@
       "duration_ms": 155657,
       "name": "Dance Through the Day",
       "url": "https://open.spotify.com/track/4vMrdBYA0UxkXRii8Ayi6M"
+    },
+    {
+      "album": {
+        "name": "The J Team (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/14pCN3JGNyD3oGC8jBucYP"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa (Kids)",
+          "url": "https://open.spotify.com/artist/5lFcoVtVovqYXVHIU4b4Um"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155657,
+      "name": "Dance Through the Day",
+      "url": "https://open.spotify.com/track/1VlO9GSWlPWe2WAsudpEV5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Nathan Galante en portada. ",
-  "num_followers": 805897,
+  "num_followers": 805953,
   "original_name": "Sierre\u00f1o 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmY1NzYxOTAxMjVmNmJjN2U3ZmI1ZGFhMDY2MWQ3M2JiN2VlMDJl",
+  "snapshot_id": "MCw4ZDZlMmM0NzY0NmM5YTIwNmViOTZjMDk4ZmYzYTQ2NzlmNzYwMmJj",
   "tracks": [
     {
       "added_at": "2024-03-19 14:54:31",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
-        "name": "Como Pancho Villa",
-        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 143661,
-      "name": "Como Pancho Villa",
-      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
-    },
-    {
-      "added_at": "2024-03-19 14:54:31",
-      "album": {
         "name": "Aqu\u00ed Te Espero",
         "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 255373,
       "name": "Aqu\u00ed Te Espero",
       "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
+    },
+    {
+      "added_at": "2024-03-19 14:54:31",
+      "album": {
+        "name": "Como Pancho Villa",
+        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 143661,
+      "name": "Como Pancho Villa",
+      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
     },
     {
       "added_at": "2024-03-19 14:54:31",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
-        "name": "GPI",
-        "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        }
-      ],
-      "duration_ms": 154632,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
-    },
-    {
-      "added_at": "2024-03-19 14:54:31",
-      "album": {
         "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
         "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 140983,
       "name": "Me Acostumbre A Lo Bueno",
       "url": "https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC"
+    },
+    {
+      "added_at": "2024-03-19 14:54:31",
+      "album": {
+        "name": "GPI",
+        "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "duration_ms": 154632,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
     },
     {
       "added_at": "2024-03-19 14:54:31",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
+        "name": "Quiero Presumirte",
+        "url": "https://open.spotify.com/album/3X7xLaoYlXGMViA8dpa9DJ"
+      },
+      "artists": [
+        {
+          "name": "Picasso",
+          "url": "https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja"
+        }
+      ],
+      "duration_ms": 242227,
+      "name": "Quiero Presumirte",
+      "url": "https://open.spotify.com/track/6soqRrsiWygH5gSzTCHbDl"
+    },
+    {
+      "added_at": "2024-03-19 14:54:31",
+      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/1cbZXUpP2kswCktpR1hnTa"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 201916,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/5aUcRdeMllzipglMOSi5JX"
-    },
-    {
-      "added_at": "2024-03-19 14:54:31",
-      "album": {
-        "name": "Quiero Presumirte",
-        "url": "https://open.spotify.com/album/3X7xLaoYlXGMViA8dpa9DJ"
-      },
-      "artists": [
-        {
-          "name": "Picasso",
-          "url": "https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja"
-        }
-      ],
-      "duration_ms": 242227,
-      "name": "Quiero Presumirte",
-      "url": "https://open.spotify.com/track/6soqRrsiWygH5gSzTCHbDl"
     },
     {
       "added_at": "2024-03-19 14:54:31",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
-        "name": "Peda en la Banqueta",
-        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 185173,
-      "name": "Ya Te Supere - En Vivo",
-      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
-    },
-    {
-      "added_at": "2024-03-19 14:54:31",
-      "album": {
         "name": "El Baleado",
         "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
       },
@@ -1719,18 +1703,18 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
-        "name": "No Te Detengas (Banda Sonora Original de la serie \"Zorro\")",
-        "url": "https://open.spotify.com/album/0XQA4roB8OS3Z08gs0T1xi"
+        "name": "Peda en la Banqueta",
+        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
         }
       ],
-      "duration_ms": 133933,
-      "name": "No Te Detengas - Banda Sonora Original de la serie \"Zorro\"",
-      "url": "https://open.spotify.com/track/3qWtrDiFyTCwAJ3aSV4bG9"
+      "duration_ms": 185173,
+      "name": "Ya Te Supere - En Vivo",
+      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
     },
     {
       "added_at": "2024-03-19 14:54:31",
@@ -1747,6 +1731,22 @@
       "duration_ms": 211198,
       "name": "Perro Abandonado",
       "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
+    },
+    {
+      "added_at": "2024-03-19 14:54:31",
+      "album": {
+        "name": "No Te Detengas (Banda Sonora Original de la serie \"Zorro\")",
+        "url": "https://open.spotify.com/album/0XQA4roB8OS3Z08gs0T1xi"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "No Te Detengas - Banda Sonora Original de la serie \"Zorro\"",
+      "url": "https://open.spotify.com/track/3qWtrDiFyTCwAJ3aSV4bG9"
     },
     {
       "added_at": "2024-03-19 14:54:31",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
-        "name": "Modo Cherry",
-        "url": "https://open.spotify.com/album/1HtYRBV05f66fx89bQbSaO"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 171328,
-      "name": "Modo Cherry",
-      "url": "https://open.spotify.com/track/2NFeRpqiuM24sqMCSCvbDK"
-    },
-    {
-      "added_at": "2024-03-19 14:54:31",
-      "album": {
         "name": "Hoy la Vi Con \u00c9l (En Vivo)",
         "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 223200,
       "name": "Hoy la Vi Con \u00c9l - En Vivo",
       "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
+    },
+    {
+      "added_at": "2024-03-19 14:54:31",
+      "album": {
+        "name": "Modo Cherry",
+        "url": "https://open.spotify.com/album/1HtYRBV05f66fx89bQbSaO"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 171328,
+      "name": "Modo Cherry",
+      "url": "https://open.spotify.com/track/2NFeRpqiuM24sqMCSCvbDK"
     },
     {
       "added_at": "2024-03-19 14:54:31",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
-        "name": "Sanar\u00e9",
-        "url": "https://open.spotify.com/album/4oFd2PuZH8JemEU6PkVHri"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 141310,
-      "name": "Sanar\u00e9",
-      "url": "https://open.spotify.com/track/2PsTpCnM7WaPLLqV8kNdVf"
-    },
-    {
-      "added_at": "2024-03-19 14:54:31",
-      "album": {
         "name": "Requinteando Desde el Llano - Primera Funci\u00f3n",
         "url": "https://open.spotify.com/album/43JpLEtot2hiKlpXPbkdFX"
       },
@@ -1995,18 +1979,18 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
-        "name": "Casino",
-        "url": "https://open.spotify.com/album/7Jl1AjDBzC1aTXpqxeJpwD"
+        "name": "Sanar\u00e9",
+        "url": "https://open.spotify.com/album/4oFd2PuZH8JemEU6PkVHri"
       },
       "artists": [
         {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 181033,
-      "name": "Casino",
-      "url": "https://open.spotify.com/track/1BKS0lUJujEuCgaT8Gq74s"
+      "duration_ms": 141310,
+      "name": "Sanar\u00e9",
+      "url": "https://open.spotify.com/track/2PsTpCnM7WaPLLqV8kNdVf"
     },
     {
       "added_at": "2024-03-19 14:54:31",
@@ -2051,6 +2035,22 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
+        "name": "Casino",
+        "url": "https://open.spotify.com/album/7Jl1AjDBzC1aTXpqxeJpwD"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 181033,
+      "name": "Casino",
+      "url": "https://open.spotify.com/track/1BKS0lUJujEuCgaT8Gq74s"
+    },
+    {
+      "added_at": "2024-03-19 14:54:31",
+      "album": {
         "name": "Saludones a Mi Ap\u00e1",
         "url": "https://open.spotify.com/album/0RgOoUb2PLAmL2cnJhDR7o"
       },
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2024-03-19 14:54:31",
       "album": {
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
+    },
+    {
+      "added_at": "2024-03-19 14:54:31",
+      "album": {
         "name": "Corridos Alternativos",
         "url": "https://open.spotify.com/album/6XATE16MzC571kcQ66D6te"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 172164,
       "name": "Por la Ciudad",
       "url": "https://open.spotify.com/track/4Qs1ZU59JCbzEhW0UCb8Xg"
-    },
-    {
-      "added_at": "2024-03-19 14:54:31",
-      "album": {
-        "name": "Amor Perdido",
-        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
     },
     {
       "added_at": "2024-03-19 14:54:31",

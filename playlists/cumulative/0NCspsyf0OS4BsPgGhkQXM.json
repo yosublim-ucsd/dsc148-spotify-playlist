@@ -6297,6 +6297,28 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/2Y097lhpLhBndVN5HBM8yO"
+      },
+      "artists": [
+        {
+          "name": "UKRUX",
+          "url": "https://open.spotify.com/artist/6EnQd3kaY0RJaKsIdwVzs2"
+        },
+        {
+          "name": "Nyezo",
+          "url": "https://open.spotify.com/artist/3W4FfRNHlyucDO2XyMnbvp"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170771,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/0c7thiwrm5EGwc2p39MLQz"
+    },
+    {
+      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/1fbs2gSER5dXk5WvTYPtBn"
       },

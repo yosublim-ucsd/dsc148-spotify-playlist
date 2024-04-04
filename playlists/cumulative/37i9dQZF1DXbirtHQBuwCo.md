@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: Seori\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: BANG YEDAM, WINTER\)
 
-674 songs - 1 day 12 hr 9 min
+675 songs - 1 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,7 @@
 | [LEMONADE \(feat\. San E\)](https://open.spotify.com/track/2Og7E5ztp24WVv5ualvxKV) | [LIMZY](https://open.spotify.com/artist/5UBoOzYYNpwHfwXqr1JNXS), [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [LEMONADE \(feat\. San E\)](https://open.spotify.com/album/2LAPE4OzqN0J87tuLbWAlK) | 2:51 | 2022-08-19 | 2022-09-01 |
 | [Lens \(Feat\. jerd\)](https://open.spotify.com/track/1Av0TO3xaOCXeFLeZvkReq) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [jerd](https://open.spotify.com/artist/1Hj2c6llUPMtHG1JX8JMFA) | [Lens \(Feat\. jerd\)](https://open.spotify.com/album/3ZLCBrW3iLGpdjVOljim5z) | 3:09 | 2022-04-19 | 2022-04-21 |
 | [Let Me Go \(with TAEYEON\)](https://open.spotify.com/track/23y3tFEhkTzBT46gRU6tjv) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [with HER](https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv) | 3:31 | 2022-04-19 | 2022-07-20 |
-| [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 | 2023-06-13 |  |
+| [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 | 2023-06-13 | 2024-04-04 |
 | [Letter](https://open.spotify.com/track/3mim8OzDtQI1nNdhpvIHOk) | [DaNTe'](https://open.spotify.com/artist/3qopEpowoNJPXRiFeEi6Qm) | [Letter](https://open.spotify.com/album/31HW8lgaLvAbWAAyGENFG5) | 3:42 | 2023-01-10 | 2023-01-24 |
 | [lies](https://open.spotify.com/track/3lubWbCsbUxNDspenMfweM) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:19 | 2022-07-25 | 2022-08-03 |
 | [Like a Diamond \(With\. Stella Jang\)](https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Like a Diamond](https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH) | 3:16 | 2022-06-18 | 2022-07-05 |
@@ -446,6 +446,7 @@
 | [O \(Feat\. LEE HI\)](https://open.spotify.com/track/7iooxPmnLY6wZynSplHUah) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [PEOPLE](https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft) | 3:32 | 2022-04-22 | 2022-07-28 |
 | [Ocean](https://open.spotify.com/track/1EzWBwaHeeG2Ouvm8Ut6M3) | [Dine On](https://open.spotify.com/artist/2g01abs3qIjlIJ57gmYT5l) | [Ocean](https://open.spotify.com/album/6iLrhuIFo0MdcN1JOn25tw) | 3:45 | 2022-04-19 | 2022-04-21 |
 | [Off my mind](https://open.spotify.com/track/2Rv5Ax7psNC3BzrEhebdZl) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7) | [Off my mind](https://open.spotify.com/album/1oUuWwDuOTt26F102g6CIA) | 3:02 | 2022-07-07 | 2022-07-27 |
+| [Officially Cool](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Officially Cool](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) | 2:57 | 2024-04-03 |  |
 | [omg, so what?](https://open.spotify.com/track/7w7yjYakkCuf3gtznG9Cjf) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [proLOG?](https://open.spotify.com/album/1gIBXpQgHBtWBLmcQxEkZ9) | 2:40 | 2022-04-22 | 2022-07-26 |
 | [On It \(Feat\. Tory Lanez, SOLE, Sik\-K\)](https://open.spotify.com/track/4tc6jFemqDpwwuobpf9dMS) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [On It](https://open.spotify.com/album/2SPO2Os0TOOrpU6PprfJQ4) | 3:03 | 2022-06-16 | 2022-07-05 |
 | [On my mind](https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [EXchange3, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq) | 3:21 | 2024-03-08 | 2024-03-15 |

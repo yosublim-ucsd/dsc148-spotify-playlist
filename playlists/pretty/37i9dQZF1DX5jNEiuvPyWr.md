@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : USKY
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,351 likes - 40 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,353 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [semaine](https://open.spotify.com/track/3bpXZgji2jrTE32XpsZI6k) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX) | 1:54 |
 | 40 | [Tranchées](https://open.spotify.com/track/3GbI95bOGncWZrb7rw3hd9) | [Giacomo](https://open.spotify.com/artist/7359RgrSfWHHVJIE0CuqVv), [AAMO](https://open.spotify.com/artist/5PQWIvBPwezhXhqnr4gpdm) | [Van Cleef](https://open.spotify.com/album/43zoP8neUAjDQRqtqver6C) | 2:23 |
 
-Snapshot ID: `MCwyZDQ3MWRmOWVlZDZhZmViYWE2ZTMzNzNmMWM4YzEyNDk3NTA0NWUz`
+Snapshot ID: `MCxjNzA2YjYxOGVjODhmNDI1OGExOGM3ZjUwMWI4NTI1MzlkMTE2ZTU1`

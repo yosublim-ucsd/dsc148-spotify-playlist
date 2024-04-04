@@ -236,10 +236,28 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 187440,
       "name": "365",
       "url": "https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6"
+    },
+    {
+      "album": {
+        "name": "Tigers Blood",
+        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187440,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5ywWzoH8TFmthpebFjCyR3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Astrid
 
-119 songs - 8 hr 8 min
+121 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Berlari Tanpa Kaki](https://open.spotify.com/track/70iyP9x2e2vx2XYiCU7OQW) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [Cek Toko Sebelah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe) | 4:42 | 2024-01-05 |  |
 | [Bicara \(feat\. Monita Tahalea\)](https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Memory Lane](https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C) | 3:56 | 2024-01-05 |  |
 | [Bukti](https://open.spotify.com/track/0O2GtSCle8Eujbc1Voh2VY) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Bukti](https://open.spotify.com/album/49ITgnRs2AEdr1p0s6tXXg) | 4:44 | 2024-01-05 |  |
+| [Bulan & Ksatria](https://open.spotify.com/track/2Iw7F9BZgi0oGuu6kDumlU) | [Superman Is Dead](https://open.spotify.com/artist/3rfoqUCU1swxeUghdDj3lt) | [Sunset di Tanah Anarki](https://open.spotify.com/album/71s6wJeCnUerZjBbodaKVy) | 4:13 | 2024-04-03 |  |
 | [By My Side](https://open.spotify.com/track/0xiHNGGiSfrFfOJZGpxpJY) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [The Journey](https://open.spotify.com/album/1lp7Kx5dTeRZh3mAqT53wB) | 3:33 | 2024-01-05 |  |
 | [C.I.N.T.A](https://open.spotify.com/track/1kSXn6irZ8g4Dy5BkRjF5u) | [D'Bagindas](https://open.spotify.com/artist/6IVfG2b4I86tYdigTdpWUa) | [C.I.N.T.A](https://open.spotify.com/album/0YLrEcDTqw0AGUjvLeR9ck) | 4:01 | 2024-01-05 |  |
 | [Celengan Rindu](https://open.spotify.com/track/7CiPakkZPCHtYnHtsEHR8n) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Tempat Aku Pulang](https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx) | 3:42 | 2024-01-05 |  |
@@ -124,6 +125,7 @@
 | [Terlalu Lama Sendiri](https://open.spotify.com/track/0UmeNfgZMk7ZSDodkkcTwH) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Terlalu Lama Sendiri](https://open.spotify.com/album/0GB76JaYDPhZJK5hvXGicY) | 4:01 | 2024-03-14 | 2024-03-30 |
 | [Terlalu Lama Sendiri](https://open.spotify.com/track/2BYjHJxyEgy5Bu8wFgeSAg) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Generation Y](https://open.spotify.com/album/6AsfYvHD9yFB7UrZLeWsuZ) | 4:01 | 2024-01-05 |  |
 | [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 | 2024-01-05 |  |
+| [Utuh](https://open.spotify.com/track/34KmUVWvZ4Gm60d4bRZBEu) | [Tangga](https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J) | [Utuh](https://open.spotify.com/album/0lWHzXhEsdp7kwBSjXSdsB) | 3:22 | 2024-04-03 |  |
 | [Wajahmu Mengalihkan Duniaku](https://open.spotify.com/track/4z8CduM0gnyJxgLNrEvxEh) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [The One](https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg) | 3:09 | 2024-01-05 |  |
 | [Waktu Yang Salah](https://open.spotify.com/track/47caohVI6Qe7KY8EuaRtg0) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV), [Thantri Sundari](https://open.spotify.com/artist/5jVRSr4hRxxwEFeG3uWFGV) | [Tempat Aku Pulang](https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx) | 5:23 | 2024-01-05 |  |
 | [Wanita Masih Banyak](https://open.spotify.com/track/5H60BCrbWBocSIAoZwjxwD) | [Stand Here Alone](https://open.spotify.com/artist/3YwAgafEWJCd6Haotq7Qd2) | [Melodichildish](https://open.spotify.com/album/6Ww2FnpfXq6wYZHgzFl4pV) | 3:52 | 2024-01-05 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 66350,
+  "2024-04-04": 66379,
   "date_first_scraped": "2022-05-30",
   "description": "Tune into the finest of Tamil Indie music!\nCover : Sai Abhyankkar ",
   "name": "Tamil Indie",
@@ -11101,6 +11101,32 @@
       "duration_ms": 190171,
       "name": "Yaar Aval",
       "url": "https://open.spotify.com/track/3dMz1QpT8FmcIh8ERRmidI"
+    },
+    {
+      "album": {
+        "name": "Yaar Keatadhu Nenjamey",
+        "url": "https://open.spotify.com/album/5EvUrRofcHZYATdJ35ZNay"
+      },
+      "artists": [
+        {
+          "name": "Martin Kartenjer",
+          "url": "https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw"
+        },
+        {
+          "name": "L J Vijay",
+          "url": "https://open.spotify.com/artist/2ownGwkMOO4BCycYkRShYP"
+        },
+        {
+          "name": "Shibi Srinivasan",
+          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Yaar Keatadhu Nenjamey",
+      "url": "https://open.spotify.com/track/18o9NGHWZw5qMVGqzn5V4H"
     },
     {
       "album": {

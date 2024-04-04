@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-85 songs - 4 hr 37 min
+86 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Escarlata \- Remix](https://open.spotify.com/track/3A6idnsMX8VwWWzD7GTnBr) | [eleven1.1](https://open.spotify.com/artist/1yh29osKJYH6l9JlPFgpLY), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Escarlata \(Remix\)](https://open.spotify.com/album/47HEW3fj6xOEa3fuox0zS0) | 4:43 | 2024-03-29 |  |
 | [Ese Guille](https://open.spotify.com/track/1DFLbi4TVAwgYWcV76Rcwa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:34 | 2024-03-08 |  |
 | [Ese Guille](https://open.spotify.com/track/6EKqBV3VqOjQEGNnSS0hzt) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Ese Guille](https://open.spotify.com/album/6Il031Qrsr1CNq32gPxr0W) | 2:34 | 2024-01-26 | 2024-03-09 |
-| [Fashion Girl \- Remix](https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Fashion Girl \(Remix\)](https://open.spotify.com/album/21sLFYA7VmVpCadRw7Z1sq) | 3:11 | 2024-03-08 |  |
+| [Fashion Girl \- Remix](https://open.spotify.com/track/4VHKOThPROw1Qo1a43Am8S) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Fashion Girl \(Remix\)](https://open.spotify.com/album/59DS3dN2FAU5ZcxBi9AXiR) | 3:11 | 2024-03-29 |  |
+| [Fashion Girl \- Remix](https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Fashion Girl \(Remix\)](https://open.spotify.com/album/21sLFYA7VmVpCadRw7Z1sq) | 3:11 | 2024-03-08 | 2024-04-04 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-02-09 |  |
 | [Grabándote:\)](https://open.spotify.com/track/1ItgJjKs4DIG9wWh9vaKwP) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:37 | 2024-03-08 |  |
 | [Guaya Guaya...](https://open.spotify.com/track/5SIBKku7Xuw5hGu5VKHVw0) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:21 | 2024-03-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Corridos aesthetic y rolitas pa' las buchifresas \ud83c\udf53\ud83c\udf51",
-  "num_followers": 66058,
+  "num_followers": 66162,
   "original_name": "Corridos Aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjFlMjZmNjBiOGIyNjQzZjA4NzMxZjE1ZGQ4Mjk4YWJjOWY3MmUw",
+  "snapshot_id": "MCw0Y2UzMWEwNzBhYzc4NGFjYTYyNWJlNzNhZjQ3MWQ5ZTk0ODE3NGJh",
   "tracks": [
     {
       "added_at": "2024-02-20 19:26:32",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/4apTA2hXeKNAeDIzrHEU6s"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 224526,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/691TDibKzalozEkDXfKywX"
-    },
-    {
-      "added_at": "2024-02-20 19:26:32",
-      "album": {
         "name": "Don",
         "url": "https://open.spotify.com/album/3gu6Tsv9hzBeBv4ImX1ztS"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 195047,
       "name": "Don",
       "url": "https://open.spotify.com/track/4tNPx4XwAdmTmNQtnD3a5l"
+    },
+    {
+      "added_at": "2024-02-20 19:26:32",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/4apTA2hXeKNAeDIzrHEU6s"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 224526,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/691TDibKzalozEkDXfKywX"
     },
     {
       "added_at": "2024-02-20 19:26:32",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/2WPUpSHxzc6TUYM5oxDMPO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 226208,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/5EZN4BkMvZxFR5I9tBoE0O"
+    },
+    {
+      "added_at": "2024-02-20 19:26:32",
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/7kRqoAgwxx9miEyVIfoqBS"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 182696,
       "name": "Normal",
       "url": "https://open.spotify.com/track/7zW4YRpp2nzhdbaPNG3WcL"
-    },
-    {
-      "added_at": "2024-02-20 19:26:32",
-      "album": {
-        "name": "La Playa",
-        "url": "https://open.spotify.com/album/2WPUpSHxzc6TUYM5oxDMPO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 226208,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/5EZN4BkMvZxFR5I9tBoE0O"
     },
     {
       "added_at": "2024-02-20 19:26:32",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "Neverita",
-        "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
-      },
-      "artists": [
-        {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
-        }
-      ],
-      "duration_ms": 191296,
-      "name": "Neverita",
-      "url": "https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1"
-    },
-    {
-      "added_at": "2024-02-20 19:26:32",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 160293,
       "name": "Si Estuvi\u00e9semos Juntos",
       "url": "https://open.spotify.com/track/2JY8fqytS4pcn2pGti7v0f"
+    },
+    {
+      "added_at": "2024-02-20 19:26:32",
+      "album": {
+        "name": "Neverita",
+        "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
+      },
+      "artists": [
+        {
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+        }
+      ],
+      "duration_ms": 191296,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1"
     },
     {
       "added_at": "2024-02-20 19:26:32",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "Se Alinearon Los Planetas",
-        "url": "https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/4Y3fR2YZYo7YjJDz8dUCQJ"
-    },
-    {
-      "added_at": "2024-02-20 19:26:32",
-      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/4jvCAFWDZlrQx8RFNMamCU"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 207463,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/6ed7qZf6Z4HNSEU5vuF75W"
+    },
+    {
+      "added_at": "2024-02-20 19:26:32",
+      "album": {
+        "name": "Se Alinearon Los Planetas",
+        "url": "https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/4Y3fR2YZYo7YjJDz8dUCQJ"
     },
     {
       "added_at": "2024-02-20 19:26:32",

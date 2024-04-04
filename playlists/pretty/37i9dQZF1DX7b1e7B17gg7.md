@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7b1e7B17gg7.md) - [plain]
 
 > Soft instrumental Blues for any activity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,909 likes - 76 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,932 likes - 76 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7b1e7B17gg7.md) - [plain]
 | 32 | [Roads](https://open.spotify.com/track/7JZJ84ZmMhrUNw3eQNgUxN) | [Lior Holzman](https://open.spotify.com/artist/4FKgykI3l7fUUayQm9He3O) | [Roads](https://open.spotify.com/album/5EyvVzoYsNcZnFa2wPyFNz) | 3:15 |
 | 33 | [Aurora](https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw) | [Daniel Arena](https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA) | [Io](https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20) | 4:44 |
 | 34 | [Georgia On My Mind](https://open.spotify.com/track/4xw5x0bo3i3Ftq14LgzvP4) | [Maxeen](https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN) | [Georgia On My Mind](https://open.spotify.com/album/2lWVsmy4HxIJiDgiKYj6As) | 2:19 |
-| 35 | [Blues Wail](https://open.spotify.com/track/39W3NjHlj7MSFS9q5D46zN) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Blues Wail: Coleman Hawkins Plays The Blues](https://open.spotify.com/album/21NYOM1XZhCPaLDX8CkvOc) | 6:43 |
+| 35 | [Blues Wail \- Shared ISRC](https://open.spotify.com/track/39W3NjHlj7MSFS9q5D46zN) | [Tiny Grimes](https://open.spotify.com/artist/2SJ9t86XCfdJnyoMgAtPU1), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Blues Wail: Coleman Hawkins Plays The Blues](https://open.spotify.com/album/21NYOM1XZhCPaLDX8CkvOc) | 6:43 |
 | 36 | [Blue Steel](https://open.spotify.com/track/7mrRkKKrwiwYv3qn7OZJgK) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Memphis Charlie](https://open.spotify.com/album/3anXYfHvmF3ebgaHxbuROu) | 4:47 |
 | 37 | [Reluctant Soldier](https://open.spotify.com/track/1TkKKqz3YB9MdVyqJGhkny) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Tales of the Delta](https://open.spotify.com/album/19i2DMKG833LoDi7nYWNm3) | 3:11 |
 | 38 | [Blues for the nightowls](https://open.spotify.com/track/41Merz07bIvWzALurwkXXs) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 2:43 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7b1e7B17gg7.md) - [plain]
 | 75 | [Blues 'Fore Dawn \- Instrumental](https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ) | [Guitar](https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI) | 4:54 |
 | 76 | [The Prowler](https://open.spotify.com/track/0FNTkAob9g8XsdsrbWDiYc) | [Bruce Katz Band](https://open.spotify.com/artist/7cvmkkkAA2mTfwhhMSfrEi) | [Mississippi Moan](https://open.spotify.com/album/31HD5QjsENI878ZVrGFt12) | 6:23 |
 
-Snapshot ID: `MCw3Y2NjYjczYjMzMzUzNWIyZDc1MGQxZmVmODgxZTgwNzVkZDBkN2M3`
+Snapshot ID: `MCwwNzQyMjgyZGRjMTYxNzE2ODU5N2YzNDllNzFhZTVmYTQyNGJkYjQy`

@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Lukas Agustinho, Gabriela Rocha",
-  "num_followers": 1044450,
+  "num_followers": 1044871,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDAwNmQ5ZTQxZTliYWE4MzIwYTk3YTZjNGVjYzZmMjcxY2NiZTQ0",
+  "snapshot_id": "MCxiMDM4MjIyMmM1ZmY1YjI3YzliYmExMzdjYzkzOTlkMzczNzI1ZmMw",
   "tracks": [
     {
       "added_at": "2024-03-22 17:53:07",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "Quebro Meu Vaso",
-        "url": "https://open.spotify.com/album/13Wq5d9gRK2l5SScsiiXO2"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 313141,
-      "name": "Quebro Meu Vaso",
-      "url": "https://open.spotify.com/track/6g88LTq36Dhe7Dgl3mRph3"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
         "name": "O Nome de Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 528693,
       "name": "O Nome de Jesus - Ao Vivo",
       "url": "https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
+        "name": "Quebro Meu Vaso",
+        "url": "https://open.spotify.com/album/13Wq5d9gRK2l5SScsiiXO2"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 313141,
+      "name": "Quebro Meu Vaso",
+      "url": "https://open.spotify.com/track/6g88LTq36Dhe7Dgl3mRph3"
     },
     {
       "added_at": "2024-03-22 17:53:07",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
+        "name": "\u00c1guas Purificadoras/Oceanos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7aOm27XpVLbrF6c5oRRun5"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "John Dias",
+          "url": "https://open.spotify.com/artist/3einRPzp7ZMWn7M360r8zc"
+        }
+      ],
+      "duration_ms": 398188,
+      "name": "\u00c1guas Purificadoras/Oceanos - Ao Vivo",
+      "url": "https://open.spotify.com/track/7zqF7owVpOCqpCd51iYyUJ"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
         "name": "O Amor Tem Um Nome (Ao Vivo)",
         "url": "https://open.spotify.com/album/1pYPXvssuXozUQKxQu5xt2"
       },
@@ -1099,26 +1119,6 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "\u00c1guas Purificadoras/Oceanos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7aOm27XpVLbrF6c5oRRun5"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "John Dias",
-          "url": "https://open.spotify.com/artist/3einRPzp7ZMWn7M360r8zc"
-        }
-      ],
-      "duration_ms": 398188,
-      "name": "\u00c1guas Purificadoras/Oceanos - Ao Vivo",
-      "url": "https://open.spotify.com/track/7zqF7owVpOCqpCd51iYyUJ"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
         "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
       },
@@ -1139,6 +1139,30 @@
       "duration_ms": 329586,
       "name": "Ele Vem / A Cidade Santa - Ao Vivo",
       "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
+        "name": "Nada Al\u00e9m do Sangue (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4x1x5UjNbzoKb3yfDTevRv"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Paula Santos",
+          "url": "https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi"
+        }
+      ],
+      "duration_ms": 497320,
+      "name": "Nada Al\u00e9m do Sangue - Ao Vivo",
+      "url": "https://open.spotify.com/track/1wAAKfuuvSZQaXhHtPAzko"
     },
     {
       "added_at": "2024-03-22 17:53:07",
@@ -1235,30 +1259,6 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "Nada Al\u00e9m do Sangue (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4x1x5UjNbzoKb3yfDTevRv"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Paula Santos",
-          "url": "https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi"
-        }
-      ],
-      "duration_ms": 497320,
-      "name": "Nada Al\u00e9m do Sangue - Ao Vivo",
-      "url": "https://open.spotify.com/track/1wAAKfuuvSZQaXhHtPAzko"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
         "name": "Gabriel Guedes (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "Eu Vou Construir",
-        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 409459,
-      "name": "Eu Vou Construir",
-      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
         "name": "Dependente (Ao Vivo)",
         "url": "https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 354173,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
+        "name": "Eu Vou Construir",
+        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 409459,
+      "name": "Eu Vou Construir",
+      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
     },
     {
       "added_at": "2024-03-22 17:53:07",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "O Lamento de Israel",
-        "url": "https://open.spotify.com/album/613HHVVY7kYqtfAwIRyITd"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        },
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 254590,
-      "name": "O Lamento de Israel",
-      "url": "https://open.spotify.com/track/09yeqY7MiMdgxlPmITqqIg"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
         "name": "Pra Sempre YHWH",
         "url": "https://open.spotify.com/album/7FrnuDNVM4ME4NzotXKxlO"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 453667,
       "name": "Pra Sempre YHWH",
       "url": "https://open.spotify.com/track/3WT5NnA09K10tgY7O17RF4"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
+        "name": "O Lamento de Israel",
+        "url": "https://open.spotify.com/album/613HHVVY7kYqtfAwIRyITd"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        },
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 254590,
+      "name": "O Lamento de Israel",
+      "url": "https://open.spotify.com/track/09yeqY7MiMdgxlPmITqqIg"
     },
     {
       "added_at": "2024-03-22 17:53:07",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "Ton Canta, Vol. 2",
-        "url": "https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 280520,
-      "name": "Primeira Ess\u00eancia",
-      "url": "https://open.spotify.com/track/2E5vUmPIQLIuqV0gE67bWy"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
         "name": "Tudo por Causa de um Grande Amor",
         "url": "https://open.spotify.com/album/7Cf3DMZZ741h4SqMvQSoN4"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 171394,
       "name": "Isaias 53",
       "url": "https://open.spotify.com/track/1Ar5adUxUwxmwkW7LgNOd4"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
+        "name": "Ton Canta, Vol. 2",
+        "url": "https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 280520,
+      "name": "Primeira Ess\u00eancia",
+      "url": "https://open.spotify.com/track/2E5vUmPIQLIuqV0gE67bWy"
     },
     {
       "added_at": "2024-03-22 17:53:07",

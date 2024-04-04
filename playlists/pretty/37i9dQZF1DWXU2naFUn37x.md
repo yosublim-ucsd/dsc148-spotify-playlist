@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Tony Effe
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,602 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,741 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 32 | [Capra a tre Teste \(feat\. Tony boy & Artie 5ive\)](https://open.spotify.com/track/29XfSJE6jSzceVjUdH3i2c) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 3:16 |
 | 33 | [Storia Infinita \(feat\. Baby Gang\)](https://open.spotify.com/track/7kkTvEHri9CL5eXvHIAx7t) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Maltempo](https://open.spotify.com/album/5CbHK93vpzBUTSBddUm2VH) | 2:52 |
 | 34 | [Karma](https://open.spotify.com/track/1pFiInun4nqXH1mXm2rIWX) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Karma](https://open.spotify.com/album/0NcXP3d0JW89VHWoKxw74y) | 2:37 |
-| 35 | [Face to face 2](https://open.spotify.com/track/3Y9w1o3DIroJsJN3WG5RMy) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Face to face 2](https://open.spotify.com/album/4bQKXlrKLDgBuKFTGK3nO7) | 3:13 |
+| 35 | [E Io Gioco A Hockey](https://open.spotify.com/track/58sLGcshW6p5uzZSPVMLZb) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Così Ghiacciato Tony](https://open.spotify.com/album/3N93FlcPvFKrGhQx81K5Uh) | 3:05 |
 | 36 | [Kid](https://open.spotify.com/track/3cJ3KCdbNTSs5NGhETU9kt) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 2:19 |
-| 37 | [Paura E Delirio A Milano \(feat\. Tony Effe, Dylan, Side Baby\)](https://open.spotify.com/track/44hjRBoW648rQndFHKlgXQ) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 3:04 |
-| 38 | [E Io Gioco A Hockey](https://open.spotify.com/track/58sLGcshW6p5uzZSPVMLZb) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Così Ghiacciato Tony](https://open.spotify.com/album/3N93FlcPvFKrGhQx81K5Uh) | 3:05 |
+| 37 | [Face to face 2](https://open.spotify.com/track/3Y9w1o3DIroJsJN3WG5RMy) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Face to face 2](https://open.spotify.com/album/4bQKXlrKLDgBuKFTGK3nO7) | 3:13 |
+| 38 | [Paura E Delirio A Milano \(feat\. Tony Effe, Dylan, Side Baby\)](https://open.spotify.com/track/44hjRBoW648rQndFHKlgXQ) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 3:04 |
 | 39 | [Il Signore delle Mosche](https://open.spotify.com/track/2y4gPh9HoBSr88eD56PiPq) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 3:13 |
 | 40 | [CADILLAC \(feat\. MV Killa, Geolier, Tony Effe\)](https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [WE THE SQUAD Vol\. 1](https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK) | 2:53 |
 | 41 | [G63](https://open.spotify.com/track/0lqGKcPzUX4RO4PYysoLes) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Favela](https://open.spotify.com/track/3HdOI6RkAnkt9kyEsPkh28) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Favela](https://open.spotify.com/album/3sOX8un9UoYA2KCcxywEqa) | 2:41 |
 | 50 | [Messina Denaro \(feat\. Sapobully\)](https://open.spotify.com/track/1PBR22wA2xcXshjistfEyb) | [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN), [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE) | [Messina Denaro \(feat\. Sapobully\)](https://open.spotify.com/album/1ax9vzC4s5alEjiZCseYh8) | 2:57 |
 
-Snapshot ID: `MCw5NjlhNWNhODc1YWQyOGJmYjg3MWM4OTlhZjBkNzNlZmNlMTllYWFh`
+Snapshot ID: `MCxhZThiNTY3ODVmOGIwZTZiNTBlYmQ3Nzg3NmM3N2E0ODE1M2NlMjA5`

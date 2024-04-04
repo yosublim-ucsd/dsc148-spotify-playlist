@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 48344,
+  "2024-04-04": 48361,
   "date_first_scraped": "2022-09-17",
   "description": "You can dance or chill.",
   "name": "Dance Chill",
@@ -2045,7 +2045,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 208995,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
@@ -4173,6 +4173,24 @@
       "duration_ms": 119097,
       "name": "Waiting in The Dark",
       "url": "https://open.spotify.com/track/2XAJIpL4Mw4gXEPEjd0eDx"
+    },
+    {
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/72jI12qAnYJjWj7DWdDlIz"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165853,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5"
     },
     {
       "album": {

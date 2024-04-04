@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 
 > Toutes les nouveautés préférées de vos enfants\. Découvrez les nouvelles chansons favorites de la famille!
 
-[Spotify](https://open.spotify.com/user/spotify) - 599 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 599 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 47 | [Même pas vrai](https://open.spotify.com/track/7ELaCrdSeZaFeGTTKAoFCT) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:57 |
 | 48 | [J'ai trop la honte](https://open.spotify.com/track/2rWVBC9PyK87FScIXkVfWj) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:15 |
 | 49 | [Doudou](https://open.spotify.com/track/4eYQxnxsePWIkFgWRrUncV) | [Lilie PRINTEMPS](https://open.spotify.com/artist/6Xonv30F4iMglvc2ShBS5d), [Damien Joëts](https://open.spotify.com/artist/5wdkTEkiwIkJBc2GxCIQsm) | [Quand le chat n'est pas là..\. ça part en live !](https://open.spotify.com/album/1GACfNIsqn0yWWI7NWrmV3) | 2:44 |
-| 50 | [Les 5 pies](https://open.spotify.com/track/2o0FEGDMZvPvRMz30A4wZI) | [Nicolas Berton](https://open.spotify.com/artist/7I0x0YDBHmRV0BnND5S3Hr) | [Les comptines de Kikobert, Vol\. 3](https://open.spotify.com/album/0F9PNnmf8ZTNXzBZATF5z6) | 1:01 |
+| 50 | [Le temps des cadeaux](https://open.spotify.com/track/5uyvqfUGBXrKIvkgj8BYOK) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 3:18 |
 
-Snapshot ID: `MCw3MzY5MDY4YTA5ZGM1ZjU2NzZkOWZhNjI1OTdiMjU4ZmRjMGY1ODIy`
+Snapshot ID: `MCwyMGM3OWJkZDg2YzM0OTAzMjI2ZjE0YjEyYTNjY2U1NDQ4MzRjODVm`

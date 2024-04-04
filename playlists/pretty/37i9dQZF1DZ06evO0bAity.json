@@ -1,15 +1,15 @@
 {
   "description": "This is DZ Deathrays. The essential tracks, all in one playlist.",
-  "num_followers": 1184,
+  "num_followers": 1186,
   "original_name": "This Is DZ Deathrays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MzQzNTAsMDAwMDAwMDBlOWZmY2MyYTEzMDU2ZmJmYTlhZGFlZmYzZTJkNmZkOA==",
+  "snapshot_id": "MCxiYTlkM2IxYWQyMDEyN2ZhMGQ1YzE0NTM2MTkzMjM0ZThiOTc2YWE5",
   "tracks": [
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Black Rat",
         "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3kq7FM2Ot4S1y4Gh5IPpii"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Bloody Lovely",
         "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4Pa9lwNySYtucuHEsCyA1R"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Tuff Luck (Blood Red Shoes Remix)",
         "url": "https://open.spotify.com/album/6pCvuLcfU1BnAK8KduO9T9"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/7zi8IAXelULSGfbVSOv2i3"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "R.I.F.F",
         "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
@@ -77,39 +77,7 @@
       "url": "https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
-      "album": {
-        "name": "Positive Rising (Pt. 1)",
-        "url": "https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "IN-TO-IT",
-      "url": "https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX"
-    },
-    {
-      "added_at": "2024-04-02 12:30:43",
-      "album": {
-        "name": "Bloody Lovely",
-        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Total Meltdown",
-      "url": "https://open.spotify.com/track/4FggQNqaC7ZVzfIWRLv2N5"
-    },
-    {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Paranoid (NERVE Remix)",
         "url": "https://open.spotify.com/album/31WrHIA3RqdOrJMV7whBHA"
@@ -129,7 +97,23 @@
       "url": "https://open.spotify.com/track/2n9EcqhwgDO5cgGIMMCHHb"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
+      "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Total Meltdown",
+      "url": "https://open.spotify.com/track/4FggQNqaC7ZVzfIWRLv2N5"
+    },
+    {
+      "added_at": null,
       "album": {
         "name": "MURDER ME (DZ Deathrays Remix)",
         "url": "https://open.spotify.com/album/2pweLGsYYpzyy56gETkLPl"
@@ -149,7 +133,23 @@
       "url": "https://open.spotify.com/track/7eCn4VV1zyhpoirclsM5zs"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
+      "album": {
+        "name": "Positive Rising (Pt. 1)",
+        "url": "https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "IN-TO-IT",
+      "url": "https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX"
+    },
+    {
+      "added_at": null,
       "album": {
         "name": "R.I.F.F",
         "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/7eyh4ltUdCpwsgFcnyYFuc"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Bloody Lovely",
         "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/53cdjpWN1AM3WCU4DhEQx0"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Black Rat",
         "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/5q4MPKCtF5IlDQgxSvQwmX"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Pollyanna",
         "url": "https://open.spotify.com/album/4kQSRFsF773glePY10mDpr"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/78pnTwSXa6nZCjcdLE4Lbu"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "R.I.F.F",
         "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/3nQI4mYa0NPQ89dK8OKHyW"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Rock Star (triple j Like a Version)",
         "url": "https://open.spotify.com/album/0sxfvjciRWGiS1y9cNXbA6"
@@ -249,23 +249,7 @@
       "url": "https://open.spotify.com/track/06niWHnh1Rz6IyEoIahi8m"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
-      "album": {
-        "name": "Positive Rising: Part 1",
-        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 189053,
-      "name": "Snakes",
-      "url": "https://open.spotify.com/track/05vvAUSJ1MJxO1Z831dIlT"
-    },
-    {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Black Rat",
         "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
@@ -281,7 +265,23 @@
       "url": "https://open.spotify.com/track/65Xbss8BBrwYSpcIQXSCTa"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
+      "album": {
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 189053,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/05vvAUSJ1MJxO1Z831dIlT"
+    },
+    {
+      "added_at": null,
       "album": {
         "name": "R.I.F.F",
         "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/4IdkJYJlNwXydIMR7VeYF9"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/4KH2ofz92acvYpdAi0ylb4"
@@ -313,23 +313,7 @@
       "url": "https://open.spotify.com/track/2hDuoERoV2umWbV2RBKNaP"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
-      "album": {
-        "name": "Positive Rising: Part 2",
-        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 215613,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/13nIVQX1UgXlQkpQEjwaoC"
-    },
-    {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Black Rat",
         "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
@@ -345,7 +329,23 @@
       "url": "https://open.spotify.com/track/5Q5IpqEc3N5dWeetxVFAhq"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
+      "album": {
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 215613,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/13nIVQX1UgXlQkpQEjwaoC"
+    },
+    {
+      "added_at": null,
       "album": {
         "name": "R.I.F.F",
         "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/6M7nNhyPts6QFD7xaDu2On"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Positive Rising: Part 1",
         "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
@@ -377,7 +377,23 @@
       "url": "https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
+      "album": {
+        "name": "Black Rat",
+        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 252906,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/7rqT91xTSrCx2pzjBvBYZ7"
+    },
+    {
+      "added_at": null,
       "album": {
         "name": "Front Row Hustle",
         "url": "https://open.spotify.com/album/09TdDGWBeDqdEx4TjZkDPk"
@@ -405,23 +421,7 @@
       "url": "https://open.spotify.com/track/0JNmthvbaoZlUaHfhpBo4V"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
-      "album": {
-        "name": "Black Rat",
-        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 252906,
-      "name": "Northern Lights",
-      "url": "https://open.spotify.com/track/7rqT91xTSrCx2pzjBvBYZ7"
-    },
-    {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "R.I.F.F",
         "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/4Awbf323AEomDwRCfo9Yjv"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Blood On My Leather",
         "url": "https://open.spotify.com/album/0AdRZ0MgfYiWC1Xm8YKpAh"
@@ -453,23 +453,7 @@
       "url": "https://open.spotify.com/track/2yX5Hz2SvtGvfNnI879xrf"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
-      "album": {
-        "name": "Bloody Lovely",
-        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 210958,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/2wDPr4OAaQRskL3Qjx8d8P"
-    },
-    {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Black Rat",
         "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
@@ -485,10 +469,10 @@
       "url": "https://open.spotify.com/track/7KZbJBjcUE0x4rHbk0fQU0"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
-        "name": "Positive Rising: Part 2",
-        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
       },
       "artists": [
         {
@@ -496,12 +480,12 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 66960,
-      "name": "Riff City",
-      "url": "https://open.spotify.com/track/4mB3AR9AMyP2jV8nZjIRV4"
+      "duration_ms": 210958,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2wDPr4OAaQRskL3Qjx8d8P"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Run To Paradise",
         "url": "https://open.spotify.com/album/1gg1EagawFhWLP64wcbqJT"
@@ -517,10 +501,10 @@
       "url": "https://open.spotify.com/track/5Farmm0MaT8hCsOLOZyhHV"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
-        "name": "Bloody Lovely",
-        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
       },
       "artists": [
         {
@@ -528,12 +512,12 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 131101,
-      "name": "Guillotine",
-      "url": "https://open.spotify.com/track/6EOm9UHVPvCjPUz4UxA9Xk"
+      "duration_ms": 66960,
+      "name": "Riff City",
+      "url": "https://open.spotify.com/track/4mB3AR9AMyP2jV8nZjIRV4"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "ReWiggled",
         "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
@@ -549,7 +533,23 @@
       "url": "https://open.spotify.com/track/47BpBh1URWXLF26ckpGT4S"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
+      "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 131101,
+      "name": "Guillotine",
+      "url": "https://open.spotify.com/track/6EOm9UHVPvCjPUz4UxA9Xk"
+    },
+    {
+      "added_at": null,
       "album": {
         "name": "Positive Rising (Pt. 2/ Deluxe)",
         "url": "https://open.spotify.com/album/7u1AwMaq12tfVeXuL9LkfU"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/3XPitvPYDSmoqcehdRkfAr"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "King B (thatboykwame remix)",
         "url": "https://open.spotify.com/album/39c7fCmUmITrERdlJJEN2Q"
@@ -589,23 +589,7 @@
       "url": "https://open.spotify.com/track/3meUXrnX3mJLfO4zvSnM4b"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
-      "album": {
-        "name": "Bloody Lovely",
-        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 70529,
-      "name": "Bad Influence",
-      "url": "https://open.spotify.com/track/6VDywWJSLDBGJfKTx0cP7j"
-    },
-    {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Bloodstreams",
         "url": "https://open.spotify.com/album/1PtUEGMscPJp6ZkFFoMWUX"
@@ -621,10 +605,10 @@
       "url": "https://open.spotify.com/track/7K2EiQPCwiaWjXiWXl8dzu"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
-        "name": "Positive Rising: Part 2",
-        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
       },
       "artists": [
         {
@@ -632,12 +616,12 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 141826,
-      "name": "Golden Retriever",
-      "url": "https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT"
+      "duration_ms": 70529,
+      "name": "Bad Influence",
+      "url": "https://open.spotify.com/track/6VDywWJSLDBGJfKTx0cP7j"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Make Yourself Mad",
         "url": "https://open.spotify.com/album/7gRumG1rTgiTrHuH6S7Fxe"
@@ -653,10 +637,10 @@
       "url": "https://open.spotify.com/track/575WHTkmnohs1agEfIoRGS"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
-        "name": "Positive Rising: Part 1",
-        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
       },
       "artists": [
         {
@@ -664,12 +648,12 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 264600,
-      "name": "Hypercolour",
-      "url": "https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p"
+      "duration_ms": 141826,
+      "name": "Golden Retriever",
+      "url": "https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Bloodstreams",
         "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
@@ -685,7 +669,23 @@
       "url": "https://open.spotify.com/track/7KdEhcj5B69l9sVBgnff0o"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
+      "album": {
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 264600,
+      "name": "Hypercolour",
+      "url": "https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p"
+    },
+    {
+      "added_at": null,
       "album": {
         "name": "Bloodstreams",
         "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q"
     },
     {
-      "added_at": "2024-04-02 12:30:43",
+      "added_at": null,
       "album": {
         "name": "Bloodstreams",
         "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"

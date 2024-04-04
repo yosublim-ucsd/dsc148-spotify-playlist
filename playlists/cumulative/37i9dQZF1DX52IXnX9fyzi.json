@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 160835,
       "name": "A Recurring Theme",
       "url": "https://open.spotify.com/track/51K71t2Sk90AVbjVsBcorb"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 191613,
       "name": "Above Light",
       "url": "https://open.spotify.com/track/2CoBu5GndGDiqwHiBUp3ZT"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 189536,
       "name": "Am Arbersee",
       "url": "https://open.spotify.com/track/7LekCZ7Sx5an6lZnM5gnCw"
@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Ardaigh",
+        "url": "https://open.spotify.com/album/3bpUKExinYvlZmLhHUXrf2"
+      },
+      "artists": [
+        {
+          "name": "Chloe Doyle",
+          "url": "https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125596,
+      "name": "Ardaigh",
+      "url": "https://open.spotify.com/track/1YvVM2D9iBzfKypuDaZ2i3"
+    },
+    {
+      "album": {
         "name": "Arkata (Munich Session)",
         "url": "https://open.spotify.com/album/16s4ccY0RG8YM6rw1Sr6Hk"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 172000,
       "name": "Arturo",
       "url": "https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW"
@@ -682,7 +700,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 147599,
       "name": "Autumn Leaf",
       "url": "https://open.spotify.com/track/79q3lBKpjZLlfgfybAIRaO"
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 126000,
       "name": "D'\u00e9meraude",
       "url": "https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB"
@@ -1802,7 +1820,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 230369,
       "name": "Dique de Abrigo",
       "url": "https://open.spotify.com/track/4A7rr9XPYubs0MOUqXfTVl"
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 127663,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/68YkWKD2mxQuSplipO1VOO"
@@ -2288,7 +2306,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 129000,
       "name": "Folklore",
       "url": "https://open.spotify.com/track/0ZbDS3webX8T8c8FCV4T1l"
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 194761,
       "name": "Goodnight Moon",
       "url": "https://open.spotify.com/track/05YZGty7GN6MftfPu3vWiI"
@@ -2634,7 +2652,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 163764,
       "name": "Hansa",
       "url": "https://open.spotify.com/track/71WIo1goJLTt41X5CuxxOd"
@@ -2868,7 +2886,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 125624,
       "name": "How It Is",
       "url": "https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR"
@@ -3145,6 +3163,24 @@
     },
     {
       "album": {
+        "name": "In Presence",
+        "url": "https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A"
+      },
+      "artists": [
+        {
+          "name": "Dean Demir",
+          "url": "https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173862,
+      "name": "In Presence",
+      "url": "https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz"
+    },
+    {
+      "album": {
         "name": "In questo momento",
         "url": "https://open.spotify.com/album/5URiTefnul03fUwxzDS7Jo"
       },
@@ -3174,7 +3210,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 164093,
       "name": "In the Company of My Solitude",
       "url": "https://open.spotify.com/track/7tTdLHn6Y8nKjoZF8PlCpW"
@@ -3210,7 +3246,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 179250,
       "name": "In Time",
       "url": "https://open.spotify.com/track/4nnE3uemVYJK9oZ9ohvlBc"
@@ -3394,7 +3430,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 164364,
       "name": "Juanita",
       "url": "https://open.spotify.com/track/2SxQiQXujf3D29LxFeWm9Z"
@@ -3466,7 +3502,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 124139,
       "name": "Keep You Safe",
       "url": "https://open.spotify.com/track/6XwdGPFuIObAvlrgwTuFOC"
@@ -3700,7 +3736,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 170207,
       "name": "Lavandula",
       "url": "https://open.spotify.com/track/79TCHEeIxQmvo1Y40jgf7Z"
@@ -3808,7 +3844,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 204000,
       "name": "Les Combes-58",
       "url": "https://open.spotify.com/track/3luC1osD9bTIdiv77Z8ebS"
@@ -4096,7 +4132,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 135240,
       "name": "Luminous",
       "url": "https://open.spotify.com/track/7lPvVD6xk2KjEqyS0VkxM1"
@@ -4348,7 +4384,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 146874,
       "name": "Mol allena",
       "url": "https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0"
@@ -4366,7 +4402,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 126289,
       "name": "momente",
       "url": "https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd"
@@ -5126,7 +5162,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 154291,
       "name": "Places",
       "url": "https://open.spotify.com/track/4Wvikn2Ltcfa8yhBM7Wblk"
@@ -5270,7 +5306,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 120926,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/7mRoJ7GqlDNNRfhjoc3Jk9"
@@ -5378,7 +5414,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 141500,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/6BMcMtb9M5yqelouZZaOPd"
@@ -5880,7 +5916,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 141250,
       "name": "Semplice",
       "url": "https://open.spotify.com/track/7nvmbWRwKohWwRnp5vmbzU"
@@ -6060,7 +6096,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 159473,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/2tMIlCle6lIekbKOBtKxaT"
@@ -6590,7 +6626,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 129044,
       "name": "Textures",
       "url": "https://open.spotify.com/track/6nECGyZZTPXxi38Epefgpi"
@@ -6842,7 +6878,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 150250,
       "name": "The Persistence of Memory",
       "url": "https://open.spotify.com/track/3QSKmjKCMCc8halbvPmwkl"
@@ -6900,6 +6936,24 @@
       "duration_ms": 155680,
       "name": "The Sound of Snow",
       "url": "https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i"
+    },
+    {
+      "album": {
+        "name": "The Still",
+        "url": "https://open.spotify.com/album/06eRSftUdtz4u5Zx9s7Ywc"
+      },
+      "artists": [
+        {
+          "name": "Erinthe",
+          "url": "https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129817,
+      "name": "The Still",
+      "url": "https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA"
     },
     {
       "album": {
@@ -7022,7 +7076,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 122476,
       "name": "Tilsneet",
       "url": "https://open.spotify.com/track/42HsrccSAbxE4L3vns43yH"
@@ -7112,7 +7166,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 129539,
       "name": "Tournon",
       "url": "https://open.spotify.com/track/7eKZVHMsyq7BtPJA2O2xvE"
@@ -8178,6 +8232,24 @@
       "duration_ms": 121000,
       "name": "You are the Dawn",
       "url": "https://open.spotify.com/track/4m6BNOOeufJeAElDXDzTrC"
+    },
+    {
+      "album": {
+        "name": "Day",
+        "url": "https://open.spotify.com/album/5BmyU03YgggujG5J2gEfLM"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463822,
+      "name": "You Name It",
+      "url": "https://open.spotify.com/track/4eFAsz4mMrJiFRGqgghYPj"
     },
     {
       "album": {

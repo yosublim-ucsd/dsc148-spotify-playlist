@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 18,617 likes - 40 songs - 2 hr 6 min
+[margeaux](https://open.spotify.com/user/1220511975) - 18,645 likes - 42 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 38 | [Slow](https://open.spotify.com/track/2r8qfNBFEXlYrIpF0m31un) | [Florence Sinclair](https://open.spotify.com/artist/1zIrnPKywoksAoyOuTDL2W) | [It's a big man ting](https://open.spotify.com/album/2NIMo3HrBwvtkIHsTmluZa) | 1:55 |
 | 39 | [Top of Morning](https://open.spotify.com/track/0UfIarGCDsKojnn6p4LvTx) | [The Hang\-Ups](https://open.spotify.com/artist/16YEyKB4T5ayo9Ss0QvI9V) | [So We Go](https://open.spotify.com/album/70t2UqAkgVrD68eEPq4q7V) | 2:41 |
 | 40 | [Extended Stay](https://open.spotify.com/track/2McIIeblzOucJCdqKUCeZ7) | [African\-American Sound Recordings](https://open.spotify.com/artist/3tzzHTt8wbTTdfOcf8amgz) | [Tamika's Lodge](https://open.spotify.com/album/3hrGKo1YpKMkaTGHWkhLhj) | 1:46 |
+| 41 | [Hey, Hey Girl](https://open.spotify.com/track/0yKDswdkUhrD1FlI7OaXfe) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:15 |
+| 42 | [Choke Throat](https://open.spotify.com/track/77DKMP47yasQNFfz1dadNA) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Choke Throat](https://open.spotify.com/album/6RqQubyNGzX6lsNfeFaiVn) | 2:02 |
 
-Snapshot ID: `MjYxMCwxZGFlNmUxYmY1ZjcxNGU5OTE4NTljZGU5YTIwN2EzNWUzYmI1OTIz`
+Snapshot ID: `MjYxMiw3ZDE5NDk2MGU0NDRjNzJmMTZlZGIzNjQyZjA0NWRmZWM5MjcwNDYz`

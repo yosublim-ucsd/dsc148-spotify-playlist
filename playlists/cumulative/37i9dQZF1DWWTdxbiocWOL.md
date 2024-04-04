@@ -4,7 +4,7 @@
 
 > Thunder is coming.
 
-103 songs - 11 hr 49 min
+105 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Debutante](https://open.spotify.com/track/0jpggEnuQFHj3uJIthfCQS) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [We Were Exploding Anyway](https://open.spotify.com/album/1JorSz3YkTUuNMyLu18dUd) | 7:21 | 2022-01-17 | 2023-10-20 |
 | [Debutante](https://open.spotify.com/track/0CpaNwilKJGqn9WF6K6aRV) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [We Were Exploding Anyway](https://open.spotify.com/album/3W3aDgjrpZRIO2YKaWMuyJ) | 7:21 | 2021-06-09 | 2022-07-29 |
 | [Debutante](https://open.spotify.com/track/36qrbIHqtbfBYa3l7nUmnT) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [We Were Exploding Anyway](https://open.spotify.com/album/0QFxVcmghKylwoFT6xozzF) | 7:21 | 2022-09-30 | 2023-03-20 |
-| [El Odio\. Parte I](https://open.spotify.com/track/0NE9QEMV1ljhNC8WB6UqYC) | [Toundra](https://open.spotify.com/artist/3cgIU3hh7Y4pUsPgHB8aYT) | [Hex](https://open.spotify.com/album/13NnZjrIhPo1L9W4flldxv) | 8:05 | 2023-10-19 |  |
+| [El Odio\. Parte I](https://open.spotify.com/track/0NE9QEMV1ljhNC8WB6UqYC) | [Toundra](https://open.spotify.com/artist/3cgIU3hh7Y4pUsPgHB8aYT) | [Hex](https://open.spotify.com/album/13NnZjrIhPo1L9W4flldxv) | 8:05 | 2023-10-19 | 2024-04-04 |
 | [El Odio\. Parte I](https://open.spotify.com/track/60oLFjfjcmDk0qPewtt5Tm) | [Toundra](https://open.spotify.com/artist/3cgIU3hh7Y4pUsPgHB8aYT) | [El Odio\. Parte I](https://open.spotify.com/album/1H3Ps2PV4sNgbpTzZvuinS) | 8:05 | 2021-10-26 | 2023-11-12 |
 | [End Credits](https://open.spotify.com/track/421LXKD20JHZEUrJJqK7cg) | [Palms](https://open.spotify.com/artist/73UTl03wWJozyn2hoahK6l) | [Opening Titles / End Credits](https://open.spotify.com/album/0wd7MIcvlfmNLLxkSxGDaJ) | 4:51 | 2023-02-28 | 2023-10-20 |
 | [Ether](https://open.spotify.com/track/2mfwBdDf28c24qqKAABkUK) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Ether](https://open.spotify.com/album/7v40ZeGjhUByCeN8GSDbHn) | 5:10 | 2020-10-20\* | 2021-06-09 |
@@ -55,11 +55,12 @@
 | [I'm Jim Morrison, I'm Dead](https://open.spotify.com/track/1fV2Bp9JpE1CavonususVW) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [The Hawk Is Howling](https://open.spotify.com/album/6XfWE0VdiRbH9QWfyLibxW) | 6:44 | 2022-01-17 |  |
 | [I'm Jim Morrison, I'm Dead](https://open.spotify.com/track/3no4hoErHolKdKVzJWJTcg) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [The Hawk Is Howling](https://open.spotify.com/album/2uPCSiXbtnvNBlebZK7aVu) | 6:44 | 2020-10-20\* | 2022-07-29 |
 | [In Illusions Of Order](https://open.spotify.com/track/2wWQwx1ymkpCr4ItPUQ94g) | [Red Sparowes](https://open.spotify.com/artist/4MT9A89Dq8xRJ9hMvvPiJw) | [The Fear Is Excruciating, But Therein Lies The Answer](https://open.spotify.com/album/1mLisF7qgSwVDrQ4gklpcR) | 7:36 | 2020-10-20\* |  |
+| [It's Dark, It's Cold, It's Winter](https://open.spotify.com/track/0hZSni3035ItjVGyfYGiQX) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [sleepmakeswaves](https://open.spotify.com/album/4n51rWv1OwFWlYmrFNQFVp) | 4:50 | 2024-04-03 |  |
 | [Jelen](https://open.spotify.com/track/4SAEAnTnKSad9UoPFtq0v2) | [Svemir](https://open.spotify.com/artist/30WVs9HM71kMXHtanfTcZ9) | [Vagabond](https://open.spotify.com/album/2fgIcVbQUNVd3VvQErhGUQ) | 4:30 | 2021-10-26 | 2023-10-20 |
 | [Job's Lament](https://open.spotify.com/track/6SPWDOKDQXZ1Nkl0cbsFqg) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/1RDLG5wi0a2Lrgdxs32tKL) | 8:02 | 2021-06-09 | 2022-07-29 |
 | [Job's Lament](https://open.spotify.com/track/6rK7VyAi0XGdhz4LdzXVZj) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 8:02 | 2022-01-17 |  |
 | [Logic of a Dream](https://open.spotify.com/track/0URVKq4PQMcU2zzvzZFyLU) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Logic of a Dream](https://open.spotify.com/album/2JW1tOY8auzODdapMMbxUO) | 6:37 | 2022-09-30 | 2022-11-13 |
-| [Logic of a Dream](https://open.spotify.com/track/1WQ96gvJgsd3CwxMPEUZYC) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Wilderness](https://open.spotify.com/album/1MUhDxkdqg5IyNYylLu7P8) | 6:37 | 2022-01-17 | 2023-10-20 |
+| [Logic of a Dream](https://open.spotify.com/track/1WQ96gvJgsd3CwxMPEUZYC) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Wilderness](https://open.spotify.com/album/1MUhDxkdqg5IyNYylLu7P8) | 6:37 | 2022-01-17 |  |
 | [Logic Of A Dream](https://open.spotify.com/track/4pp3ilXwxKvWRsDSm3Ld8K) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Logic Of A Dream](https://open.spotify.com/album/5OaYHqiXnYW8tSAmHfOqBZ) | 6:37 | 2020-10-20\* | 2022-07-29 |
 | [Love in the Void](https://open.spotify.com/track/6pta8oSJZZ8ypEgAN3zeNY) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Love in the Void](https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX) | 5:03 | 2023-10-19 |  |
 | [Magik](https://open.spotify.com/track/0kuRZfnraTXD8p8Qr4FMKA) | [Glasgow Coma Scale](https://open.spotify.com/artist/3OilnTuGkR6gZKZa0sV8E8) | [Sirens](https://open.spotify.com/album/0rJ9KcNjZ8MjYBuviSzMmV) | 6:41 | 2023-10-19 |  |
@@ -86,6 +87,7 @@
 | [Tendresse](https://open.spotify.com/track/4M5fqxO2LsqKA4AJqpduxv) | [Man Is Not a Bird](https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw) | [Survived the Great Flood](https://open.spotify.com/album/5acWZQPiULxgupTkAIdWbw) | 4:12 | 2020-10-20\* | 2021-06-09 |
 | [The Dead Flag Blues](https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [F♯ A♯ ∞](https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5) | 16:27 | 2021-06-09 | 2021-10-27 |
 | [The First Fire](https://open.spotify.com/track/0glEvaWrhIP0boU56o5Q9U) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [Red Forest](https://open.spotify.com/album/0i1vP6JtYq4kE3oygILHzk) | 6:30 | 2020-10-20\* |  |
+| [The Here and Hereafter](https://open.spotify.com/track/7nAn6HOtgyPVeCkoifY0XZ) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [The Bones of a Dying World](https://open.spotify.com/album/1Lodl6h6XvqagHDC1bnsC8) | 2:33 | 2024-04-03 |  |
 | [The Landlord Is Dead](https://open.spotify.com/track/5FWLAjPd8HIoJxYfRkHqwT) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Goodbye Enemy Airship The Landlord Is Dead](https://open.spotify.com/album/1SH23Q59wEm5Dyxw2afsm4) | 5:39 | 2021-06-09 | 2022-07-29 |
 | [The Landlord Is Dead](https://open.spotify.com/track/6QXxmGsc0A2PG3alWT5bYi) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Goodbye Enemy Airship The Landlord Is Dead](https://open.spotify.com/album/47JFhOvr0AZIZLpy7BTYWa) | 5:39 | 2022-01-17 | 2022-10-01 |
 | [The Last March](https://open.spotify.com/track/0CpibaJlmN4ZU5MhovLQf7) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Origins](https://open.spotify.com/album/0JWFe9UkBvkDQdkooJdbOi) | 4:43 | 2020-10-20\* | 2023-03-01 |
@@ -97,7 +99,7 @@
 | [The World Is Our \_\_\_](https://open.spotify.com/track/1EKk6Xvei9N9scaQcrax2S) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Young Mountain](https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5) | 7:12 | 2020-10-20\* |  |
 | [They Move on Tracks of Never\-Ending Light](https://open.spotify.com/track/3cIG78oBauowzEbkBwWADN) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 6:56 | 2021-06-09 |  |
 | [Threads](https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 5:39 | 2020-10-20\* |  |
-| [Triad](https://open.spotify.com/track/2D9rd6TIpqmDkog5Mx8kxl) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 6:35 | 2023-10-19 |  |
+| [Triad](https://open.spotify.com/track/2D9rd6TIpqmDkog5Mx8kxl) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 6:35 | 2023-10-19 | 2024-04-04 |
 | [Troglodyte](https://open.spotify.com/track/08YHJKv8MRmdNapqgcBwoM) | [Man Is Not a Bird](https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw) | [Survived the Great Flood](https://open.spotify.com/album/5acWZQPiULxgupTkAIdWbw) | 4:57 | 2021-06-09 | 2022-08-15 |
 | [Troglodyte](https://open.spotify.com/track/2eUvRQF5eZtSkwuz0NwzMZ) | [Man Is Not a Bird](https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw) | [Survived the Great Flood](https://open.spotify.com/album/4mdYlF5OcDdolPcrEuG8T4) | 4:57 | 2022-01-17 | 2023-10-20 |
 | [Twentytwofourteen](https://open.spotify.com/track/6PSgBb1yQZe99yIjn0eUgp) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In A Safe Place](https://open.spotify.com/album/1sHRD82NYs8RKZtlXatlkC) | 5:40 | 2020-10-20\* | 2022-07-29 |
@@ -109,7 +111,7 @@
 | [We'll Find the Light in Darkness](https://open.spotify.com/track/1aWPIurjGonozOh46AzNcj) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [We'll Find the Light in Darkness](https://open.spotify.com/album/7JOwJdBWGN0GAKcEf1qanb) | 4:41 | 2023-10-19 |  |
 | [Worth Everything Ever Wished for](https://open.spotify.com/track/2j3qLgBCLoLhv4zbzNmc16) | [The End Of The Ocean](https://open.spotify.com/artist/4AXRViJcT2cJ0x1CxSSldW) | [Pacific•atlantic](https://open.spotify.com/album/0AcN6qKwf00huBIs83EcSO) | 5:54 | 2020-10-20\* |  |
 | [Your Hand In Mine](https://open.spotify.com/track/69QoB2je3pKldFoxXuBOAu) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Rough Trade Shops: 15 Years Of Bella Union Records](https://open.spotify.com/album/7JeBg7iHhs78r08mIjPBBi) | 8:15 | 2020-10-20\* | 2022-07-29 |
-| [Your Hand In Mine \- Remastered](https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place \(Anniversary Edition\)](https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU) | 8:17 | 2022-01-17 |  |
+| [Your Hand In Mine \- Remastered](https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place \(Anniversary Edition\)](https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU) | 8:17 | 2022-01-17 | 2024-04-04 |
 | [Zaris](https://open.spotify.com/track/3lG9eYlhnipGfvAR4ZkBk7) | [Mooncake](https://open.spotify.com/artist/6DKVucXliE7U2RV52HF1YL) | [Zaris / Cast the Route](https://open.spotify.com/album/7s5TjksKTu7Ox6KMgHTqBt) | 5:15 | 2020-10-20\* |  |
 
 \*This playlist was first scraped on 2020-10-20. Prior content cannot be recovered.

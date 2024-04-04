@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Beyonce
 
-3,523 songs - 7 day 22 hr 5 min
+3,524 songs - 7 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2290,7 +2290,8 @@
 | [Outside](https://open.spotify.com/track/5HUxZN7PuTML2SkJnBuP5a) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [King Zoo](https://open.spotify.com/album/1fboUYBvu86pCmFNrLb615) | 1:58 | 2023-11-24 | 2023-12-01 |
 | [outside](https://open.spotify.com/track/0c3cnN3CR2yQYawWScKezO) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [outside](https://open.spotify.com/album/4MB8Dxl3eGZ3ohTO86xEEV) | 2:05 | 2024-02-08 | 2024-02-16 |
 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 | 2023-12-07 | 2023-12-15 |
-| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 |  |
+| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 | 2024-04-04 |
+| [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-03-28 |  |
 | [OUTSIDE RUNNIN \(feat\. PHI11A\)](https://open.spotify.com/track/2SOjYArrCfM1CEfK3Vg0Sg) | [EAST AV3](https://open.spotify.com/artist/1orXvSX01zlrRfj1PlOd1e), [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS) | [OUTSIDE RUNNIN \(feat\. PHI11A\)](https://open.spotify.com/album/22O9ZjrV8p1TBLXBjACNE0) | 2:57 | 2023-10-19 | 2023-10-27 |
 | [Over You](https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [No Place Like Home](https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN) | 2:26 | 2024-01-11 | 2024-01-19 |
 | [Overcompensate \(edit\)](https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Overcompensate](https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz) | 3:10 | 2024-02-29 | 2024-03-08 |

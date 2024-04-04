@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYX0SFpLcPgx.md) - [plain]
 
 > Les 60 titres incontournables de ces dernières années\. Photo : Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,547 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,629 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYX0SFpLcPgx.md) - [plain]
 | 59 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
 | 60 | [Baby](https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Baby](https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA) | 2:42 |
 
-Snapshot ID: `MCwzYmMzNzM3YzEyYmU1YmFmZTc0MzAwYTk1MjBkN2ZkMDM3MGZlZjA3`
+Snapshot ID: `MCw2MmVjYjhlMTk2NGE1MGFkZjgzYmYxOWJiNmQyZGI3MDE4Mjg3YTVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Billkin
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,392 likes - 65 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,444 likes - 65 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [ผิดหน้าที่ \(Responsibility\)](https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF), [Aheye of 4EVE](https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u) | [ผิดหน้าที่ \(Responsibility\) \- Single](https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p) | 3:13 |
 | 65 | [เค้ามาก่อน \(Lovefool\)](https://open.spotify.com/track/2vmEX5b6qbFfLNvD8EvULb) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [เค้ามาก่อน \(Lovefool\)](https://open.spotify.com/album/5bqBFRHVmjld8KdFoK8bVw) | 3:20 |
 
-Snapshot ID: `MCw2NDc1OTYwYjQ1Y2NhNTc4NjAzNGMzODAxMWMxOWM0YTMyNDIzODRi`
+Snapshot ID: `MCw1Y2EzYTVhYjcxZDc2NDgxNjE0YWVlNmVjYTI4YTQ5YzBiZTk1ZGJj`

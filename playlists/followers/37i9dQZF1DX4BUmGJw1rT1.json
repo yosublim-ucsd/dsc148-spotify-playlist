@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 68781,
+  "2024-04-04": 68788,
   "date_first_scraped": "2022-05-26",
   "description": "Kick back and relax after a hard day.",
   "name": "Home at Last",
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 224221,
       "name": "Fault Line",
       "url": "https://open.spotify.com/track/0H6gY8B8XmpFsAvlDwijUQ"
@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 251384,
       "name": "Grease the Wheel",
       "url": "https://open.spotify.com/track/7zAaLt4VJczZoFBMEKLLDO"
@@ -2323,7 +2323,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 242786,
       "name": "Let It Shine",
       "url": "https://open.spotify.com/track/4bqK1zQ6908Tnvj4DkFHZG"
@@ -4157,7 +4157,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 245306,
       "name": "West Coast Eyes",
       "url": "https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN"

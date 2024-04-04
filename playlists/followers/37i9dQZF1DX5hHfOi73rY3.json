@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 281817,
+  "2024-04-04": 281873,
   "date_first_scraped": "2022-01-18",
   "description": "Dance anthems from the club to your ears!",
   "name": "Warehouse Party",
@@ -615,7 +615,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 158095,
       "name": "Dance To The Music",
       "url": "https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa"
@@ -3095,7 +3095,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 181992,
       "name": "This Is My Life",
       "url": "https://open.spotify.com/track/5oOUGZNKsx5LEE1FYyLcoB"

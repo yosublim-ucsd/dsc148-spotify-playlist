@@ -4,7 +4,7 @@
 
 > Women who rock our world\. Cover: The Last Dinner Party
 
-437 songs - 22 hr 40 min
+438 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Angels](https://open.spotify.com/track/5YcnOx0WQ5rZdu4iA79Ick) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Angels](https://open.spotify.com/album/3Y8XZKT1Vky7DPCaufbInp) | 3:39 | 2021-10-08 | 2022-12-24 |
 | [As Strange As It Seems](https://open.spotify.com/track/4j5tTZWNKeYcvmSc8rRiGA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/0uNIaCQrRPUMkdnev3zMRt) | 4:05 | 2021-09-24 | 2022-10-08 |
 | [ask nicely](https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9) | 2:39 | 2024-02-28 | 2024-03-31 |
+| [ask nicely](https://open.spotify.com/track/0z2SfGU6eMdIxmGRP86cLL) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/1lEfntFhy6muNSOVI9V2Bp) | 2:39 | 2024-02-28 |  |
 | [Baby Blackout](https://open.spotify.com/track/6hMjfF1z1DpkPVUWxbHp5Q) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Baby Blackout](https://open.spotify.com/album/5mEQH6RoSrubrXrRj4lKen) | 3:05 | 2022-04-01 | 2023-06-10 |
 | [Back From The Dead](https://open.spotify.com/track/3HmacKgc27YnAfSwxGVxW2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From The Dead](https://open.spotify.com/album/5djxJJQVLaUMKJlFMjoZg2) | 3:29 | 2021-08-20 | 2022-02-05 |
 | [Backbeat](https://open.spotify.com/track/7a52OKapzlThn5sh110hs3) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu) | [Backbeat](https://open.spotify.com/album/1oDUvxx1eHUkDb75kFJzPv) | 3:45 | 2021-07-30 | 2023-06-10 |
@@ -85,7 +86,7 @@
 | [Creep](https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Creep](https://open.spotify.com/album/4C9Io2lIQJdBo9RH1XK8Gj) | 3:42 | 2021-08-27 | 2022-02-05 |
 | [Cruise Control](https://open.spotify.com/track/7yJxtJ1Oi62vfmhFmtNqVh) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Cruise Control](https://open.spotify.com/album/2KWXc9Ja79kenCq55S9S7m) | 2:34 | 2022-06-24 | 2022-12-24 |
 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 | 2022-12-22 | 2023-06-10 |
-| [CULT CLASSIC](https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [Cult Classic](https://open.spotify.com/album/3vw9IZ3YV2T5bqYTYG0IXr) | 3:18 | 2024-02-28 |  |
+| [CULT CLASSIC](https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [Cult Classic](https://open.spotify.com/album/3vw9IZ3YV2T5bqYTYG0IXr) | 3:18 | 2024-02-28 | 2024-04-04 |
 | [Dead](https://open.spotify.com/track/3z4bbV92bY6K2A5EMXpLhI) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Dead](https://open.spotify.com/album/4c2aw2xQDzSHqesCIfeCMm) | 2:37 | 2022-04-01 | 2022-06-25 |
 | [Dead Roses](https://open.spotify.com/track/6q8ZLGMNtN6wXfB4UWSskU) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Dead Roses](https://open.spotify.com/album/3bpQEsZXu5RUUbBU8SPrgo) | 2:48 | 2022-08-19 | 2022-10-08 |
 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 | 2021-07-30 | 2023-06-10 |

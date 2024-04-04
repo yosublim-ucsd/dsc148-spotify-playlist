@@ -2,7 +2,7 @@
 
 ### [Hamd\-o\-Naat](https://open.spotify.com/playlist/37i9dQZF1DXbCdb6frP71o)
 
-> Devotional tracks for an immersive Ramadan.
+> Devotional tracks for an immersive Ramadan\. Cover: Atif Aslam
 
 90 songs - 8 hr 33 min
 

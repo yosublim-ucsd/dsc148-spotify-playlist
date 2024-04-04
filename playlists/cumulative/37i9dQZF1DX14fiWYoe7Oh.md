@@ -4,7 +4,7 @@
 
 > The K\-Pop idols who started it all from 90's \- 10's\. \(90년대부터 2010년대까지 케이팝 아이돌 필수곡들을 즐겨보세요!\)
 
-192 songs - 11 hr 47 min
+193 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Now](https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Now](https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO) | 3:31 | 2021-09-09 |  |
 | [NU ABO](https://open.spotify.com/track/1NcsCToPRUh9AI6ua83jAm) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [NU ABO](https://open.spotify.com/album/2jwIyBUS9C4yGgr1Guq8YO) | 3:44 | 2021-09-09 |  |
 | [O \- Rearranged Version, Live](https://open.spotify.com/track/3RYPF6Ejzo2BnymBkKmu45) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [THE 4th WORLD TOUR 'Catch Me' LIVE ALBUM](https://open.spotify.com/album/0EsY5ILLEfwUaQjON4RNMq) | 5:34 | 2021-09-09 |  |
-| [O.K](https://open.spotify.com/track/3CDDZYgE0S8sHLXEZjKCOd) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Let's Fly](https://open.spotify.com/album/25vqMVgefCdbeuVAmqMP02) | 3:33 | 2021-09-09 |  |
+| [O.K](https://open.spotify.com/track/3CDDZYgE0S8sHLXEZjKCOd) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Let's Fly](https://open.spotify.com/album/25vqMVgefCdbeuVAmqMP02) | 3:33 | 2021-09-09 | 2024-04-04 |
+| [O.K](https://open.spotify.com/track/7q7RyjJSZjIHw1wU7bmJ0z) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Let's Fly](https://open.spotify.com/album/56X5i3sPExsgkOxAxKizuz) | 3:33 | 2021-09-09 |  |
 | [O.K](https://open.spotify.com/track/564hx6a6SDGRARmyO94EzA) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Let's Fly](https://open.spotify.com/album/6zY9KWkTa3BRVPIqOUSGFa) | 3:33 | 2021-09-09 | 2022-07-29 |
 | [Oh Yeah](https://open.spotify.com/track/3wsrJ6OAO1Ut9AGfFqBXSj) | [GD&TOP](https://open.spotify.com/artist/3e3oLJehq4vQl2H0FAJnvn), [BOM](https://open.spotify.com/artist/5YufpyEN94qXvsWoOg54pV) | [GD & TOP](https://open.spotify.com/album/4wChYOEQc3of8ndXRljMKB) | 3:15 | 2021-09-09 | 2022-07-29 |
 | [Oh Yeah](https://open.spotify.com/track/6ZiUqGTo40Xl0DqePb3eZd) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [JUST BLAQ](https://open.spotify.com/album/77HVZwPYR9jaAByeqsv60T) | 3:29 | 2021-09-09 |  |

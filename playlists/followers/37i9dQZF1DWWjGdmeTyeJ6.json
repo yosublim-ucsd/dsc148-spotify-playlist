@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 1189984,
+  "2024-04-04": 1190552,
   "date_first_scraped": "2021-12-21",
   "description": "The best new music by independent artists and labels. Cover: SPRINTS. Artwork by Isu Kim.",
   "name": "Fresh Finds",
@@ -22347,10 +22347,28 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 213720,
       "name": "Cycle",
       "url": "https://open.spotify.com/track/0Ztt74lg0tja20ejpi3dMX"
+    },
+    {
+      "album": {
+        "name": "Acid Star",
+        "url": "https://open.spotify.com/album/42ybuZX5idfaZBp4yrigBe"
+      },
+      "artists": [
+        {
+          "name": "Peel",
+          "url": "https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213720,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/1FBEQqHKgV2EWquBd0Bcgn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:4c6lhwoOrmgNWvl0GxHlW1">Tedashii</a>
 
-994 songs - 2 day 0 hr 57 min
+995 songs - 2 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Die For You \- the warehouse sessions](https://open.spotify.com/track/3MBqpiYpy3UVAZfhYy8RLI) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Die For You \(the warehouse sessions\)](https://open.spotify.com/album/33LGn7uYy3JljgJ9N8C7Yq) | 2:58 | 2021-12-11 | 2022-02-02 |
 | [Die For You \- the warehouse sessions](https://open.spotify.com/track/69es8ELY1Dcqnjks1Omv0c) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Die For You \(the warehouse sessions\)](https://open.spotify.com/album/7M4edb39wDn8ZL3CfbGSXV) | 2:58 | 2021-12-11 | 2022-01-22 |
 | [Dime N a Nickel](https://open.spotify.com/track/2kcbZjGkiTr4PQMo6k8csp) | [Czar Josh](https://open.spotify.com/artist/0uMdSPqGMACq3BFqRSaEQ5) | [LongLiveUs](https://open.spotify.com/album/4Xt6YY4XSL8zMCAbsb4Y0c) | 2:17 | 2021-12-11 | 2022-02-01 |
-| [Dirty Floors \(feat\. 1K Phew\)](https://open.spotify.com/track/3EjvAB058d2NB9d1FBAiKF) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Dirty Floors \(feat\. 1K Phew\)](https://open.spotify.com/album/5VTcnQWUHhdgZ7l27WVUBX) | 3:03 | 2024-03-15 |  |
+| [Dirty Floors \(feat\. 1K Phew\)](https://open.spotify.com/track/3EjvAB058d2NB9d1FBAiKF) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Dirty Floors \(feat\. 1K Phew\)](https://open.spotify.com/album/5VTcnQWUHhdgZ7l27WVUBX) | 3:03 | 2024-03-15 | 2024-04-04 |
 | [Do It Too](https://open.spotify.com/track/2xkmPH3n7zDRiAASWP0ocj) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Do It Too](https://open.spotify.com/album/6YmKl45pUsx5MjKYuFtPf6) | 2:21 | 2024-02-09 | 2024-02-24 |
 | [Do What it Take](https://open.spotify.com/track/44Vn929fFOp40hOsFxGWeP) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv) | [Do What it Take](https://open.spotify.com/album/16Nw4UbfuZGKRhiq70NeqT) | 3:11 | 2022-05-28 | 2022-07-29 |
 | [DOGS](https://open.spotify.com/track/3US6Cp05G8kAQ63kOa25fm) | [jaylen.](https://open.spotify.com/artist/31pB8yW7wQnRzawADVIEKp), [ohsobrkn](https://open.spotify.com/artist/15wE1qOqrPevLWIdBcJCce) | [DOGS](https://open.spotify.com/album/4i5FZQ0Q9nbXpbFd4ttdhV) | 2:10 | 2022-06-25 | 2022-06-28 |
@@ -799,6 +799,7 @@
 | [Spread The Opps](https://open.spotify.com/track/66hLgDd6kk3GfzLej7t2eH) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Church Clothes 4](https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny) | 3:01 | 2024-02-09 |  |
 | [Spread The Opps](https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Spread The Opps](https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK) | 3:01 | 2022-08-06 | 2023-12-16 |
 | [Squabble](https://open.spotify.com/track/0jYGdeobsBl0LExCcDugp8) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Key'ijah](https://open.spotify.com/artist/5bLqm0pB0l0J5hRMXajA0S) | [Squabble](https://open.spotify.com/album/0AjZUQHbdaC7QtxbOZO0xQ) | 2:43 | 2024-02-23 |  |
+| [Stand By Me \(feat\. B\. Stokes\)](https://open.spotify.com/track/6vVpMPnFB1yOASRw1tLAyl) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Greg James](https://open.spotify.com/artist/35YmHthd8r0eLl3UzJ35xH), [B\. Stokes](https://open.spotify.com/artist/5TurTnk96PSPIVZ3cG6HB1) | [Stand By Me \(feat\. B\. Stokes\)](https://open.spotify.com/album/4R8OHGqeTWkbpQQobTfMyL) | 3:14 | 2024-03-29 |  |
 | [Standby](https://open.spotify.com/track/1LidB9TgQhzwiBVJQuKVwo) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Standby](https://open.spotify.com/album/3eoaxGOwv1rdebEJeFocqQ) | 3:40 | 2023-12-15 |  |
 | [Start Right Here \(HGA Version\)](https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Start Right Here \(HGA Version\)](https://open.spotify.com/album/0k32rDwHYgyV5Zk6GvaVHQ) | 2:53 | 2021-12-11 | 2022-02-04 |
 | [Stay Low](https://open.spotify.com/track/6ukXI3mLkRXwTbf3KxwqAR) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [Reece Lache](https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe), [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [Stay Low](https://open.spotify.com/album/1VJi0mAyEF2VG0V8Gp1d5I) | 3:17 | 2023-08-25 | 2024-02-10 |

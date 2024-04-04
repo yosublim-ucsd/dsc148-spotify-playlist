@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 19341,
+  "num_followers": 19350,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWNlYmU4YzAyMGJkZjI0ZThhZDY5ODA1ZDlkYWM4NmY2ZWEzNTJi",
+  "snapshot_id": "MCxhYjRiZTI5ZjBhMDgyOWQ2NzBkZDIwZDEwNTAyOTI4YjIyOTk5NTY5",
   "tracks": [
     {
       "added_at": "2023-11-30 21:58:24",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Aquino e a Orquestra Invis\u00edvel",
-        "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
-      },
-      "artists": [
-        {
-          "name": "Aquino e a Orquestra Invis\u00edvel",
-          "url": "https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA"
-        }
-      ],
-      "duration_ms": 173880,
-      "name": "MTV",
-      "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Ventilador",
         "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 179076,
       "name": "Ventilador",
       "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Aquino e a Orquestra Invis\u00edvel",
+        "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
+      },
+      "artists": [
+        {
+          "name": "Aquino e a Orquestra Invis\u00edvel",
+          "url": "https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA"
+        }
+      ],
+      "duration_ms": 173880,
+      "name": "MTV",
+      "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Beija e Arranha",
+        "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "duration_ms": 172874,
+      "name": "Beija e Arranha",
+      "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Sabotagem",
         "url": "https://open.spotify.com/album/0SbZxcv1ZTmPx3u5whGP3N"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 166927,
       "name": "Sabotagem",
       "url": "https://open.spotify.com/track/1oKeFnoD4jIQ9EiUyW4msF"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Beija e Arranha",
-        "url": "https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 172874,
-      "name": "Beija e Arranha",
-      "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Jardins",
+        "url": "https://open.spotify.com/album/06SSk5GYDJEMlIS77KOTZT"
+      },
+      "artists": [
+        {
+          "name": "Ceano",
+          "url": "https://open.spotify.com/artist/7uViNGetdqssmndt2tdRbi"
+        }
+      ],
+      "duration_ms": 167551,
+      "name": "Jardins",
+      "url": "https://open.spotify.com/track/7oOrG9wjvIDmbKgkhWgXN8"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 163809,
       "name": "Casal Desgra\u00e7a",
       "url": "https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Jardins",
-        "url": "https://open.spotify.com/album/06SSk5GYDJEMlIS77KOTZT"
-      },
-      "artists": [
-        {
-          "name": "Ceano",
-          "url": "https://open.spotify.com/artist/7uViNGetdqssmndt2tdRbi"
-        }
-      ],
-      "duration_ms": 167551,
-      "name": "Jardins",
-      "url": "https://open.spotify.com/track/7oOrG9wjvIDmbKgkhWgXN8"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "tudo que eu fa\u00e7o",
+        "url": "https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4",
+          "url": "https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ"
+        }
+      ],
+      "duration_ms": 143766,
+      "name": "tudo que eu fa\u00e7o",
+      "url": "https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Fora de S\u00e9rie",
         "url": "https://open.spotify.com/album/0VtGpgS7R3h1miGNzGap30"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 131123,
       "name": "Voraz",
       "url": "https://open.spotify.com/track/3VwZQVbPTpQjnmMk6naYXU"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "tudo que eu fa\u00e7o",
-        "url": "https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4",
-          "url": "https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ"
-        }
-      ],
-      "duration_ms": 143766,
-      "name": "tudo que eu fa\u00e7o",
-      "url": "https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "reluz",
+        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
+      },
+      "artists": [
+        {
+          "name": "As\u00fa",
+          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
+        }
+      ],
+      "duration_ms": 193053,
+      "name": "reluz",
+      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Devaneios",
         "url": "https://open.spotify.com/album/0phS3hYLWXplAnJ6iEqTJh"
       },
@@ -983,18 +999,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "vc \u00e9 uma bagun\u00e7a",
-        "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
+        "name": "Ma\u00e7\u00e3 do Amor",
+        "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
       },
       "artists": [
         {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+          "name": "G\u00f3bi",
+          "url": "https://open.spotify.com/artist/19nkGd7GShR772VW7nrhos"
+        },
+        {
+          "name": "Bianca Rhoden",
+          "url": "https://open.spotify.com/artist/4Oi3CXGzhIlrGInMf36RkI"
         }
       ],
-      "duration_ms": 171084,
-      "name": "vc \u00e9 uma bagun\u00e7a",
-      "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
+      "duration_ms": 275882,
+      "name": "Se Eu Te Ver de Novo",
+      "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1015,22 +1035,18 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Ma\u00e7\u00e3 do Amor",
-        "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
+        "name": "vc \u00e9 uma bagun\u00e7a",
+        "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
       },
       "artists": [
         {
-          "name": "G\u00f3bi",
-          "url": "https://open.spotify.com/artist/19nkGd7GShR772VW7nrhos"
-        },
-        {
-          "name": "Bianca Rhoden",
-          "url": "https://open.spotify.com/artist/4Oi3CXGzhIlrGInMf36RkI"
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
         }
       ],
-      "duration_ms": 275882,
-      "name": "Se Eu Te Ver de Novo",
-      "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
+      "duration_ms": 171084,
+      "name": "vc \u00e9 uma bagun\u00e7a",
+      "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "reluz",
-        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
-      },
-      "artists": [
-        {
-          "name": "As\u00fa",
-          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "reluz",
-      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Surrender!",
         "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "\u00d4 Lulu",
-        "url": "https://open.spotify.com/album/55xxEtIfagPjZR5LcCMJbP"
-      },
-      "artists": [
-        {
-          "name": "dad\u00e1 Jo\u00e3ozinho",
-          "url": "https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X"
-        }
-      ],
-      "duration_ms": 184646,
-      "name": "\u00d4 Lulu",
-      "url": "https://open.spotify.com/track/4zANO1rVIY1EeaDyyI3BN6"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Hortel\u00e3",
         "url": "https://open.spotify.com/album/7xfKJrEeIf1DMT6hCD444y"
       },
@@ -1127,6 +1111,42 @@
       "duration_ms": 185142,
       "name": "Hortel\u00e3",
       "url": "https://open.spotify.com/track/1thjFFcnXI3r8W89oVewce"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Queda livre",
+        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
+      },
+      "artists": [
+        {
+          "name": "Playmoboys",
+          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
+        },
+        {
+          "name": "Oh! I Kill",
+          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Queda livre",
+      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "\u00d4 Lulu",
+        "url": "https://open.spotify.com/album/55xxEtIfagPjZR5LcCMJbP"
+      },
+      "artists": [
+        {
+          "name": "dad\u00e1 Jo\u00e3ozinho",
+          "url": "https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X"
+        }
+      ],
+      "duration_ms": 184646,
+      "name": "\u00d4 Lulu",
+      "url": "https://open.spotify.com/track/4zANO1rVIY1EeaDyyI3BN6"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1175,26 +1195,6 @@
       "duration_ms": 189271,
       "name": "Por um Fio",
       "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Queda livre",
-        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
-      },
-      "artists": [
-        {
-          "name": "Playmoboys",
-          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
-        },
-        {
-          "name": "Oh! I Kill",
-          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Queda livre",
-      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
     },
     {
       "added_at": "2023-11-30 21:58:24",

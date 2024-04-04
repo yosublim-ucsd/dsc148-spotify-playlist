@@ -4,7 +4,7 @@
 
 > 
 
-1,228 songs - 2 day 20 hr 14 min
+1,232 songs - 2 day 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [EVERYTIME WE TOUCH](https://open.spotify.com/track/3kPIeojPbQf3306PqWjFd4) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [EVERYTIME WE TOUCH](https://open.spotify.com/album/6A1DoKHuey7rOlLJYJb9za) | 2:37 | 2022-11-29 |  |
 | [EVERYTIME WE TOUCH \- Sped Up](https://open.spotify.com/track/1avc1k92kHRJin3069ZQg4) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [EVERYTIME WE TOUCH \(Sped Up\)](https://open.spotify.com/album/2hVgK9OxrWCmxnZ6VqeU9y) | 2:13 | 2023-01-21 |  |
 | [Everywhere I Go](https://open.spotify.com/track/3UAoBLC9MysWO35SGlt7Ei) | [Promo](https://open.spotify.com/artist/6CG5i0dfyqWIOrqFY60ooq) | [Everywhere I Go](https://open.spotify.com/album/6Mec53pYcqgyTLJbew7XZt) | 3:09 | 2023-10-24 |  |
+| [Evil](https://open.spotify.com/track/0g6FNaWRStoYqhQiHC2Vs3) | [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr) | [Evil](https://open.spotify.com/album/4rM7MHiPqexmfPflHynF88) | 3:19 | 2024-04-03 |  |
 | [Execute](https://open.spotify.com/track/3ibmBtsJoIDbiNY0ibsS4O) | [Element](https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [Execute](https://open.spotify.com/album/2jioYBhDvVDq6m9uKwUDbI) | 2:26 | 2023-05-20 |  |
 | [Execute \- INVADE Remix](https://open.spotify.com/track/4L2fzotymdHZ2QadB8bge4) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [INVADE](https://open.spotify.com/artist/4e8kbnPF9d7axpC8u8QJbX) | [Execute \(INVADE Remix\)](https://open.spotify.com/album/6gwA2eaGVUBwguLb7i4m60) | 4:20 | 2023-06-02 |  |
 | [F THE SYSTEM](https://open.spotify.com/track/6sumgDtmDdwxwbN9ZBZ5hm) | [Project Core](https://open.spotify.com/artist/16cCEbmSAybTJMb5epEDoL), [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [F THE SYSTEM](https://open.spotify.com/album/4fdZUpz17Mz9OY4gVFdAbX) | 3:07 | 2023-03-02 |  |
@@ -463,6 +464,7 @@
 | [Good Feeling \- Radio Edit](https://open.spotify.com/track/7vSPkqSVZf1e2WKNuwUFYK) | [Joey Riot](https://open.spotify.com/artist/3xKGhixeP24bKwHQ7yPyXF), [Seduction](https://open.spotify.com/artist/7xqY7chCXSNnqB6YEm0bh9) | [Good Feeling](https://open.spotify.com/album/76tFkjUTA0Cnp8sz4MdCzj) | 3:33 | 2022-02-22 |  |
 | [Good For You \- VIP Mix](https://open.spotify.com/track/1FITdQo06BXzsfJxvbBmWX) | [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH) | [Good For You](https://open.spotify.com/album/7ezqJpr34Bmfz0CXXL0pEs) | 3:55 | 2022-10-27 |  |
 | [GOOD VIBES](https://open.spotify.com/track/0Nmr2OIe1GNjfsJSgF5UiV) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [GOOD VIBES](https://open.spotify.com/album/0Qr5I4wnkWcYU3z6eMhc1v) | 3:18 | 2023-07-10 |  |
+| [Got Me High](https://open.spotify.com/track/4QFxH1u3RlTApAz9ExaqwA) | [Naaisor](https://open.spotify.com/artist/7DJ3MAQvE1zaF5y4yPobkL), [Takanova](https://open.spotify.com/artist/1MGctDzsI20x1eW2GWiXiP) | [Got Me High](https://open.spotify.com/album/0TouHyvEkcsG0Xb9cyiwei) | 4:20 | 2024-04-03 |  |
 | [Got The Music](https://open.spotify.com/track/2jssAhP9SMK8S3SfCtqNrs) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [Got The Music](https://open.spotify.com/album/10xT8kJgZh1VBQ4k9Ukguq) | 3:56 | 2022-05-26 |  |
 | [Gremlins](https://open.spotify.com/track/1yYT2mfhVOT5ZlqM7ScAzi) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq) | [Gremlins](https://open.spotify.com/album/1asJFJ8TnBW94hCs9ArRkZ) | 3:37 | 2023-12-02 |  |
 | [GREY GOOSE](https://open.spotify.com/track/1aa2drNBQy9w2CV18jXgER) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [GREY GOOSE](https://open.spotify.com/album/6s0ndOV59YcgptCee103Sb) | 3:47 | 2023-11-20 |  |
@@ -591,6 +593,7 @@
 | [Kill The Noise](https://open.spotify.com/track/51XUsVWGjX2hwzmREDw2hN) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd) | [Kill The Noise](https://open.spotify.com/album/7G7riEKYVKEGfVb1eFPkFN) | 2:44 | 2024-03-18 |  |
 | [KILLA](https://open.spotify.com/track/4skfYDsDruOC9gFrEh21rT) | [N\-XD](https://open.spotify.com/artist/17DfrO4osPjPs1ElUIfO15) | [KILLA](https://open.spotify.com/album/6zlGrf0MUOkaByDyPtuU8n) | 3:18 | 2024-03-03 |  |
 | [Knight Rider \- Extended Mix](https://open.spotify.com/track/154JgLui3jz0R0kd05pImU) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [XTREME](https://open.spotify.com/album/0ng8yv4WB9DP5W6xRmMLaE) | 3:34 | 2022-08-10 |  |
+| [Knocked Out](https://open.spotify.com/track/3dAGQ2aSRpNeNWE904E9va) | [N3bula](https://open.spotify.com/artist/0bKtsZIFkV1M2sl1j0OeGq) | [Knocked Out](https://open.spotify.com/album/5I5n46FiJsUWAIvWdcDP53) | 3:23 | 2024-04-03 |  |
 | [KOKUSHIMUSOU](https://open.spotify.com/track/3o4ELAID5fuPEJIGC7vJCK) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [KOKUSHIMUSOU](https://open.spotify.com/album/2NsQgw0uNzapLd9rTeguZg) | 3:14 | 2023-05-01 |  |
 | [La Bomba \- 2023 Refix](https://open.spotify.com/track/1VDaYGhQvWnWq1RVUtoHJV) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7) | [We Roar Special](https://open.spotify.com/album/0K9Jpxbt3Er6NMwMkEFR0r) | 3:59 | 2023-10-20 |  |
 | [La Grande Embrouille](https://open.spotify.com/track/0ozyvtiQiApIfdqOyQ8IDC) | [Maissouille](https://open.spotify.com/artist/1aQbGaag8KEI8kKtY37UQU) | [La Grande Embrouille](https://open.spotify.com/album/4slEQQsFtUL7KFXKtspCXZ) | 3:38 | 2022-04-19 |  |
@@ -647,6 +650,7 @@
 | [Lost](https://open.spotify.com/track/6eATQXpy9fvMGaGIXbd1xm) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Nightcraft](https://open.spotify.com/artist/4IQIMZPSBfizEPPGdCmsXV) | [Lost](https://open.spotify.com/album/0IkllSjUWHzxiqR88Si3HS) | 2:42 | 2023-12-02 |  |
 | [LOST](https://open.spotify.com/track/5EiIe0G8978NoYLCikwDR7) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [ETERNITY](https://open.spotify.com/album/7jvsHlV2dNJ5d8U1IeMehT) | 3:46 | 2023-03-21 |  |
 | [Lost In A Fantasy](https://open.spotify.com/track/09us0m1Xw0x0XSsykw2XCM) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Disarray](https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke) | [Lost In A Fantasy](https://open.spotify.com/album/7lWKAml9qFwsEbhFNPgAKo) | 3:15 | 2024-03-29 |  |
+| [Lost In Illusion](https://open.spotify.com/track/68b8bW0LpnellyuuWEdo1q) | [Colin Hennerz](https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF) | [Lost In Illusion](https://open.spotify.com/album/7xCwwLqOHQDpjQQKbgHxR1) | 3:35 | 2024-04-03 |  |
 | [lost in the music](https://open.spotify.com/track/0slcxb5XFnUzsiElvNWLjN) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M) | [lost in the music](https://open.spotify.com/album/67Z7SVxao0NMJ7EK9IcEIb) | 2:52 | 2024-03-10 |  |
 | [LOST IN THE MUSIC](https://open.spotify.com/track/7mr2nG3DMAwDGDLO8qQNd8) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [ICONS](https://open.spotify.com/album/238RrEHfu6nESSaOgw46xc) | 2:30 | 2023-04-16 |  |
 | [Lost In The Music](https://open.spotify.com/track/0jN59wksahhmhRcxJY2f46) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym), [Suae](https://open.spotify.com/artist/0pTJdgzCj4Wo6RwdOcGinx) | [Lost In The Music](https://open.spotify.com/album/6XOcQjC94fgoypqcuXcjdE) | 3:16 | 2023-03-21 |  |

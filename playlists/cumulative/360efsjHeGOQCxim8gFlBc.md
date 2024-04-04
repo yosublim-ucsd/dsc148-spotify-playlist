@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-264 songs - 10 hr 31 min
+265 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [perspectives](https://open.spotify.com/track/6hbuWP4JWS0dCygah2smZF) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [perspectives](https://open.spotify.com/album/7GpNjtiELHZb7B0SGPyJRf) | 2:10 | 2023-10-29 |  |
 | [Piano Peace](https://open.spotify.com/track/2XF9NUpHwCYk7IDoeKOuQE) | [Fiona Joy Hawkins](https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d) | [Piano Peace](https://open.spotify.com/album/4z5HA8e4copgHDHSwBg70o) | 39:45 | 2023-10-29 |  |
 | [Pink Lightning](https://open.spotify.com/track/3uzRLP6BmoemR6P4j4WUrA) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Luuk Van Dijk](https://open.spotify.com/artist/3wBqFOsRiw0tvIgZzO6CxB), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Pink Lightning](https://open.spotify.com/album/4gLfnUHU8nujvU7h6pvxfl) | 1:45 | 2023-10-29 |  |
+| [Prelude](https://open.spotify.com/track/01a2EaCPIDrJx2VCp8kFqs) | [Arrowsmith](https://open.spotify.com/artist/3JhSV8X6sETpGxgkz9y5Gn) | [Prelude](https://open.spotify.com/album/1kKmTZbBL1rxiwKavLd5H6) | 2:11 | 2024-04-03 |  |
 | [Prelude to Fire \(Chopin, E Minor \#4\)](https://open.spotify.com/track/02MJNu93Tm9Y11FC7nver2) | [Fiona Joy Hawkins](https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d), [Eugene Friesen](https://open.spotify.com/artist/71pFOOzd9MF73Sl7WsBoFW) | [Prelude to Fire \(Chopin, E Minor \#4\)](https://open.spotify.com/album/5RhW05ZsifDMkO1wLAfLEz) | 2:57 | 2023-10-29 |  |
 | [Pure Sky \(Piano\)](https://open.spotify.com/track/2POwmNePWWgbeyEFAp38pt) | [Beside Bed](https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj), [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Genshin Impact Relaxing Beside Bed Collection](https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3) | 1:17 | 2023-10-29 |  |
 | [pæoner](https://open.spotify.com/track/4516jKqIrGNIShWH3WBqmd) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [pæoner](https://open.spotify.com/album/1S6MFC3YC69IHDOOktMFTk) | 1:52 | 2023-10-29 |  |

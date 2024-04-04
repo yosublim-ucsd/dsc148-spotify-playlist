@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Tiësto, MOGUAI
 
-1,173 songs - 2 day 6 hr 4 min
+1,174 songs - 2 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -762,7 +762,8 @@
 | [Out of Love](https://open.spotify.com/track/2a7tWwfJeOmiQB0AryaKB3) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [Out of Love](https://open.spotify.com/album/6iyHxcHCZ1LoNMhxz95a2s) | 2:18 | 2023-12-08 | 2023-12-15 |
 | [Out Of My Head](https://open.spotify.com/track/0zXG0VKmfDyi8M5oEu1dhU) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [y\_x](https://open.spotify.com/artist/1mntvQYpOHDTcAlSG8bmqM) | [Out Of My Head](https://open.spotify.com/album/7w8CQIN6ISThd9apQmVcSe) | 2:52 | 2023-11-09 | 2023-12-09 |
 | [Outbound \(feat\. grandpa julie\)](https://open.spotify.com/track/1hN9P4VZol7Hxfn7Z4ZHBu) | [Hitch](https://open.spotify.com/artist/0EqZqTzwUy9Sgm7yFIllLo), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Outbound \(feat\. grandpa julie\)](https://open.spotify.com/album/31Z21p10mUPCn4hQfGsVZv) | 3:39 | 2023-12-08 | 2023-12-15 |
-| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 |  |
+| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 | 2024-04-04 |
+| [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-03-28 |  |
 | [Outta Love](https://open.spotify.com/track/7ITGyh4KoaibKfZJjya5tS) | [Seizo](https://open.spotify.com/artist/5ECvdR4H6eAsFL3kmUUzdX), [ENDLING](https://open.spotify.com/artist/71QOEoJJn9TwQeYYBEFbqW) | [Outta Love](https://open.spotify.com/album/27w82Yi1rIagh8IBYr17UI) | 2:29 | 2023-08-31 | 2023-09-15 |
 | [Ouverture](https://open.spotify.com/track/1DQDnypjr8J1rfO3hQWo2k) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Saad Ayub](https://open.spotify.com/artist/2ulEOi17CGvnTNd9RpY9AR), [Elevation](https://open.spotify.com/artist/5H94wuXGxYZC5IQ5LC74U4) | [Ouverture](https://open.spotify.com/album/5ZAZBpm6eHGJnCL68bMap0) | 3:56 | 2024-01-18 | 2024-01-26 |
 | [Over Now](https://open.spotify.com/track/606Z051kpzw0rrcBCYCTtR) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Opposite the Other](https://open.spotify.com/artist/3YPzVOVeAXdzhmnffu1WjZ) | [Over Now](https://open.spotify.com/album/7udk1qiys7QiEPKN9lY8a4) | 2:55 | 2023-09-21 | 2023-10-06 |

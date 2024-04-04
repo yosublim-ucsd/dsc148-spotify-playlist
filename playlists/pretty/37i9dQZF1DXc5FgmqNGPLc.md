@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: John Coltrane & Eric Dolphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,601 likes - 100 songs - 15 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,615 likes - 100 songs - 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 99 | [The Drum Battle](https://open.spotify.com/track/6zZeaMoFeFBq6WU3l1lLex) | [Gene Krupa](https://open.spotify.com/artist/2YODXXiVE8ABc0TfihLOFj), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [The Drum Battle](https://open.spotify.com/album/50xJcwBsAXiQ7qTJNyAebk) | 3:36 |
 | 100 | [Giant Steps \- Live \(Remastered\)](https://open.spotify.com/track/6OMjeAy4dTJ02R2QQ38XdW) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Now's The Time \[Live \(Remastered\)\]](https://open.spotify.com/album/5t0yHmctZiaGUPWX8YYOEL) | 7:11 |
 
-Snapshot ID: `MCxiYzQ4NWQwMDkwNDJkMGM0NDE0YTEzN2UxZTE2Y2MyMzM0ZTdmMjE2`
+Snapshot ID: `MCwzZjMzMmRkNjE5ZmI1NTYxMDkyYTRkNjdjNzZlY2NiMTg5MjMzZTAw`

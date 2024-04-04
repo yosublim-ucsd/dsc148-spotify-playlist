@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Choke Throat",
+        "url": "https://open.spotify.com/album/6RqQubyNGzX6lsNfeFaiVn"
+      },
+      "artists": [
+        {
+          "name": "GOON",
+          "url": "https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122039,
+      "name": "Choke Throat",
+      "url": "https://open.spotify.com/track/77DKMP47yasQNFfz1dadNA"
+    },
+    {
+      "album": {
         "name": "Freedom of Choice",
         "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
       },
@@ -820,6 +838,24 @@
       "duration_ms": 305034,
       "name": "Hands Of Man",
       "url": "https://open.spotify.com/track/6FrW7htz75AtmZJZk59BEv"
+    },
+    {
+      "album": {
+        "name": "Hey, Hey Girl 7\"",
+        "url": "https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67"
+      },
+      "artists": [
+        {
+          "name": "Rocketship",
+          "url": "https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135173,
+      "name": "Hey, Hey Girl",
+      "url": "https://open.spotify.com/track/0yKDswdkUhrD1FlI7OaXfe"
     },
     {
       "album": {

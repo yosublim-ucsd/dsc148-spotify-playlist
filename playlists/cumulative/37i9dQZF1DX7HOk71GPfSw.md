@@ -4,7 +4,7 @@
 
 > she did her hyper\-homework
 
-2,013 songs - 3 day 19 hr 38 min
+2,014 songs - 3 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1061,7 +1061,8 @@
 | [Lights \- A\. G\. Cook Remix](https://open.spotify.com/track/5lZjuVUB34aCKhhdZLA9C2) | [Max Tundra](https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Lights \(A\. G\. Cook Remix\)](https://open.spotify.com/album/0EQRviEK9W0ctBjGw5Li3S) | 2:41 | 2022-07-01 | 2022-07-25 |
 | [Like A G6](https://open.spotify.com/track/5AyL2kgLtTWEu3qO3B9SqK) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [The Cataracs](https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Free Wired](https://open.spotify.com/album/4axgysRjIB7ToC0DA7uxXC) | 3:36 | 2020-12-11 | 2021-01-08 |
 | [like like](https://open.spotify.com/track/6WaNHdqejFbQ5WUDNDNlCD) | [cookii](https://open.spotify.com/artist/7hVZCBzCfynvqYZ5iNnEjx) | [blossom](https://open.spotify.com/album/0bvlExgEZbLOyvnXkRvrvC) | 2:23 | 2020-11-20 | 2021-01-08 |
-| [like that](https://open.spotify.com/track/0ssYuHAIV6Lmni0uCpPtda) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [like that](https://open.spotify.com/album/6cm1fZU1FgWcDP23EsdaYJ) | 2:37 | 2024-02-16 |  |
+| [like that](https://open.spotify.com/track/0ssYuHAIV6Lmni0uCpPtda) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [like that](https://open.spotify.com/album/6cm1fZU1FgWcDP23EsdaYJ) | 2:37 | 2024-02-16 | 2024-04-04 |
+| [like that](https://open.spotify.com/track/6m871Gxm8jQGShOYhKMkKR) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [SUPERNOVA](https://open.spotify.com/album/13iFjYadDQpqOgMeKo3R4d) | 2:37 | 2024-02-16 |  |
 | [likewise](https://open.spotify.com/track/1yNP1fbJNsYgRpmWP2maxE) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [COA](https://open.spotify.com/album/6OA2c3w8XjpOPeyfNcAUSq) | 2:29 | 2020-11-14 | 2021-01-08 |
 | [limelight](https://open.spotify.com/track/4GO2hWbvsC2XIVmh4AvpR0) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [limelight](https://open.spotify.com/album/5iSp0ts5cmEL7rjccqWiHy) | 3:15 | 2023-02-10 | 2023-04-15 |
 | [line sayer](https://open.spotify.com/track/4JPHUiX9RK8ZQvlhHMJW7o) | [twikipedia](https://open.spotify.com/artist/2V8aJ7qCArKAmHAX7u81Sj), [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [chronic](https://open.spotify.com/album/4YKm0gBgvrjq1tmKYzF961) | 2:12 | 2022-12-09 | 2023-02-11 |
@@ -1400,7 +1401,7 @@
 | [PRETTY GIRL](https://open.spotify.com/track/2OuCWKJOjKGbvzyJH9wpfd) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [PRETTY GIRL](https://open.spotify.com/album/5rgxsMyFO3NkfG36l2rouo) | 2:26 | 2023-11-10 | 2024-03-30 |
 | [pretty things](https://open.spotify.com/track/6zcRgqSdi9PwQjmYd9jnj8) | [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu) | [pretty things](https://open.spotify.com/album/4mVVnr5HcxmfoTnwYxG4Q9) | 3:30 | 2022-01-28 | 2022-04-29 |
 | [prick](https://open.spotify.com/track/6IUVdUkKw18jHqFAjl7y8k) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [prick](https://open.spotify.com/album/6enhvDQVtETLMQZjAzlUWp) | 2:14 | 2021-11-19 | 2022-03-17 |
-| [Princess](https://open.spotify.com/track/3MRBeskZBQ7j9W9CJgNN19) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco), [Petty Plastic](https://open.spotify.com/artist/6DfeTTtUs7u21DL8KruP2N) | [Princess](https://open.spotify.com/album/4zVPyvVpXQwZAIqPa1MPx3) | 2:14 | 2024-03-29 |  |
+| [Princess](https://open.spotify.com/track/3MRBeskZBQ7j9W9CJgNN19) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco), [Petey Plastic](https://open.spotify.com/artist/59R8GbaEIJH0vO9taJMmZQ) | [Princess](https://open.spotify.com/album/4zVPyvVpXQwZAIqPa1MPx3) | 2:14 | 2024-03-29 |  |
 | [prism](https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [prism](https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7) | 2:32 | 2022-02-04 | 2023-09-23 |
 | [Profane](https://open.spotify.com/track/3IHuUvemXT2QIiO5JW1rMW) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [Profane](https://open.spotify.com/album/1UooTYuAi4A1p9jObYWQTU) | 2:00 | 2021-08-07 | 2022-01-13 |
 | [Profane \- extended](https://open.spotify.com/track/0kBRBtaDHKsK6y2sm7cr6c) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [Profane](https://open.spotify.com/album/1UooTYuAi4A1p9jObYWQTU) | 2:29 | 2021-08-12 | 2021-09-14 |

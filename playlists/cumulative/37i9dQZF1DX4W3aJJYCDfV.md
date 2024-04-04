@@ -4,7 +4,7 @@
 
 > Brand new music from Beyoncé \(pictured\), Becky Hill, Sainté and more!
 
-9,497 songs - 21 day 8 hr 56 min
+9,498 songs - 21 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6205,7 +6205,8 @@
 | [Outside](https://open.spotify.com/track/1ozbAvJ5hZmycQbh4GQGjI) | [Jordan Nash](https://open.spotify.com/artist/3FdBkTRuQog4cyBE1FRR7A) | [Outside](https://open.spotify.com/album/0baK4pePflG8hjaOPxiyiJ) | 2:36 | 2024-02-16 | 2024-02-23 |
 | [Outside](https://open.spotify.com/track/0mmLfscPCZPUp0zAb2mhW1) | [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP), [Massappeals](https://open.spotify.com/artist/2rekHx1wB1Iy4v4ZKJjJ4j) | [Outside](https://open.spotify.com/album/3nnCQKMep5nm4sRlrK1gFh) | 2:30 | 2023-08-24 | 2023-09-01 |
 | [Outside](https://open.spotify.com/track/0I2xts4kga2ulOC3yM0roB) | [Syano](https://open.spotify.com/artist/58OyCAJb1NYuQMhCeuq8Rt), [SYGH](https://open.spotify.com/artist/5uVm4NbxKsMNTQF3KXGzPN) | [Outside](https://open.spotify.com/album/5DU1INumD6DSbYL4odHEkG) | 2:54 | 2024-01-05 | 2024-01-12 |
-| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-29 |  |
+| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-29 | 2024-04-04 |
+| [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-03-29 |  |
 | [OUTTA CONTROL](https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [OUTTA CONTROL](https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi) | 3:27 | 2023-08-03 | 2023-08-11 |
 | [Outta Sync](https://open.spotify.com/track/2wm9AJooKGLfR6QC8TTojp) | [Don Letts](https://open.spotify.com/artist/79UXgdUqtyrIIAzgGzGkAa) | [Outta Sync](https://open.spotify.com/album/51d12vDqs21akI7JzXTdH7) | 4:31 | 2022-11-11 | 2022-11-18 |
 | [Oval Stones](https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:33 | 2023-04-14 | 2023-04-21 |

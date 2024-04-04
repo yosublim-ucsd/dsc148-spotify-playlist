@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Wyatt Flores
 
-265 songs - 17 hr 4 min
+266 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,8 @@
 | [Somebody to Love](https://open.spotify.com/track/2tJesD4R8yf7G5JRzgE05y) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:42 | 2022-10-07 | 2024-01-19 |
 | [Somebody to Love](https://open.spotify.com/track/65PXViRNbmck0eXI0qhB2G) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1YDm5Ooe4VB1QaiynDvJpN) | 3:42 | 2021-08-20 | 2022-07-29 |
 | [Song for a Winter's Night](https://open.spotify.com/track/20Dz1YrI5LMrVs1cpGaNMb) | [Rumour Mill](https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6) | [Song for a Winter's Night](https://open.spotify.com/album/57cxci74OPUile2bjgfso2) | 3:35 | 2022-12-16 | 2022-12-26 |
-| [Song For A Winter's Night](https://open.spotify.com/track/5BA7aoZQbAFRyTnaHpepNJ) | [Rumour Mill](https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6), [Aline Deanna](https://open.spotify.com/artist/4Bs1gHun8gFz6HJAGtAdLV), [Anna Katarina](https://open.spotify.com/artist/3wUofml5k6dhBcD5OKPLup) | [Song For A Winter's Night](https://open.spotify.com/album/2xohh3ZJof8cVR565Ap4GI) | 3:35 | 2022-12-16 |  |
+| [Song for a Winter's Night](https://open.spotify.com/track/4d5HDjtWd010tzjSCUe4Fz) | [Rumour Mill](https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6) | [Acoustic Sessions](https://open.spotify.com/album/4yal67fAouSKoHgh6qYBjs) | 3:35 | 2024-03-22 |  |
+| [Song For A Winter's Night](https://open.spotify.com/track/5BA7aoZQbAFRyTnaHpepNJ) | [Rumour Mill](https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6), [Aline Deanna](https://open.spotify.com/artist/4Bs1gHun8gFz6HJAGtAdLV), [Anna Katarina](https://open.spotify.com/artist/3wUofml5k6dhBcD5OKPLup) | [Song For A Winter's Night](https://open.spotify.com/album/2xohh3ZJof8cVR565Ap4GI) | 3:35 | 2022-12-16 | 2024-04-04 |
 | [Southern Cross](https://open.spotify.com/track/0rWkEKB7L5oUroW0KFwOgX) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0), [Darrell Scott String Band](https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh), [John Cowan](https://open.spotify.com/artist/6aOabUkAto0WT1xZ5qLBZY) | [Old Cane Back Rocker](https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik) | 5:15 | 2023-08-11 |  |
 | [Speed of the Sound of Loneliness](https://open.spotify.com/track/7xDbOxIUd57NFyLG3lfmF7) | [Matt Carson](https://open.spotify.com/artist/48AugFFbt0pfxPoDV4l2k8), [Madilyn Carson](https://open.spotify.com/artist/4MzzNTvkKqpsJ8uowEEVK7) | [Jukebox](https://open.spotify.com/album/2yJmDsF4W09gny2QzDlftH) | 3:13 | 2023-08-18 |  |
 | [Stairway to Heaven](https://open.spotify.com/track/2Fw3Heu6kvivVv4S3JOLs0) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Rodrigo y Gabriela](https://open.spotify.com/album/5FvEdQEFFSPk1BUPaWU6Nr) | 4:44 | 2021-08-20 | 2022-07-29 |

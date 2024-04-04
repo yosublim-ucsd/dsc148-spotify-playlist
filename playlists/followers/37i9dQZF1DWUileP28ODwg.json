@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 345012,
+  "2024-04-04": 345223,
   "date_first_scraped": "2022-03-01",
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
   "name": "Top Christian Contemporary",
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 257720,
       "name": "Egypt",
       "url": "https://open.spotify.com/track/3uAulkGLXosyXmTEYsST8G"
@@ -5279,6 +5279,24 @@
       "duration_ms": 216610,
       "name": "Say Amen",
       "url": "https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz"
+    },
+    {
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/4npiT4Jjd9rBy8sxWy7PLF"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202879,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/2HpRHPEKz6o17RMBP0LBZT"
     },
     {
       "album": {

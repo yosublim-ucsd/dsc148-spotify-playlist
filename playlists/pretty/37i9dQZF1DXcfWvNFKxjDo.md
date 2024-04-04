@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Tiësto, MOGUAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,574 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,646 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 7 | [Tarantella](https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [Tarantella](https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq) | 2:25 |
 | 8 | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip) | 4:33 |
 | 9 | [Stay Another Night](https://open.spotify.com/track/5jhLOkFStVjktugFXBFjR0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Stay Another Night](https://open.spotify.com/album/5DewFUAZ2xrL50ruh5b7ae) | 2:29 |
-| 10 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
+| 10 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 |
 | 11 | [Future City \(A Dreamstate Anthem\)](https://open.spotify.com/track/4wVa4gskQu6IK1DoLQCQEE) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9) | [Future City \(A Dreamstate Anthem\)](https://open.spotify.com/album/0V97lyKvnkx4aYQupNbOly) | 3:33 |
 | 12 | [16](https://open.spotify.com/track/1DaiV2h1XWvqpyxJ25Q6Cs) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [16](https://open.spotify.com/album/6gmvmAQvthM3tyXqOaOyFX) | 3:41 |
 | 13 | [Loose Ends](https://open.spotify.com/track/1IAGVO9a3LDO5VttJ96DtA) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Loose Ends](https://open.spotify.com/album/0YoJT2pQtuoTmgzj6TUon6) | 2:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 79 | [Rich Kid](https://open.spotify.com/track/5TiztG5eAccPJaBbAZ18O3) | [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg) | [Rich Kid](https://open.spotify.com/album/1iHmTWtGMR3TKyXayS2dbz) | 2:12 |
 | 80 | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/track/7jZXymh2SwJUGD4juPNVVH) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Laureano](https://open.spotify.com/artist/4Hu88bgyAjHvZZpfBK9ncX), [Bambo Cissokho](https://open.spotify.com/artist/2qjWUEZjsTxLUYI6MNk3Yq) | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/album/39YxZgJhoL9YQfc4lmKwhN) | 2:42 |
 
-Snapshot ID: `MCxjNzhmYWJlZjdkYmU0ZjBkZWYzMWQ3ODg0MTliYmJlYTQ3N2FmYWQz`
+Snapshot ID: `MCw1ODAyMGNlYmQ2ZWYwZGU0NjE5NjZkMDJhZWNiOGI1YzhkODQzNWQw`

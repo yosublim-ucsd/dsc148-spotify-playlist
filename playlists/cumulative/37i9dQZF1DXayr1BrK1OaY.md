@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-292 songs - 18 hr 39 min
+293 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [OnlyL](https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [OnlyL](https://open.spotify.com/album/0gwnvpScXK9zDPBxGfNQsG) | 3:47 | 2021-06-14 | 2022-10-25 |
 | [OUT Of TiME](https://open.spotify.com/track/2SzOqvhFUxICiUZuLMYNl1) | [Forrest Taylor](https://open.spotify.com/artist/65B2wTz12IA9U4ydyGHXP2) | [OUT Of TiME](https://open.spotify.com/album/06MMGTEEmLPaeWGTthiT70) | 2:35 | 2024-03-29 |  |
 | [Out Of Touch \- CRi Remix](https://open.spotify.com/track/4D09wI2gi5vX9ajRztj1Qf) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Out Of Touch \(Remixes\)](https://open.spotify.com/album/4vr2ogtjMDoeVfoWeoi7ri) | 6:17 | 2021-04-10 | 2022-07-29 |
-| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-29 |  |
+| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-29 | 2024-04-04 |
+| [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-03-29 |  |
 | [Overtones](https://open.spotify.com/track/3fZo9f1RF24iMVBaC6fAiA) | [Frost](https://open.spotify.com/artist/4cr1vZsdjcY434Aqc3fDBt) | [Overtones](https://open.spotify.com/album/4tY6Z1lYShKuvQMt3tMV7k) | 4:29 | 2021-08-14 | 2022-07-29 |
 | [Pain Away \- Atura Remix](https://open.spotify.com/track/3hKpyQXNklbdtUq1mVJtkL) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu), [Lily Ward](https://open.spotify.com/artist/1kYMGmkw8ta4nvMiK0pcdF), [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei) | [Pain Away \(Atura Remix\)](https://open.spotify.com/album/3nUTtQG5mGLqf3dKugipHw) | 3:19 | 2023-12-08 | 2024-02-17 |
 | [Pattern](https://open.spotify.com/track/56pKxbJR1QFD8fmcqNI4R5) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Pattern](https://open.spotify.com/album/7FL4xjBXkmCJFDVDKP51dG) | 4:12 | 2022-05-06 | 2023-07-01 |

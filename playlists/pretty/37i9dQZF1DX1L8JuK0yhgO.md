@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,605 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,607 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 50 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 |
 | 51 | [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 |
 | 52 | [PUMP IT UP ε=┌\(^\_^\)┘\(feat\. TiaCorine\)](https://open.spotify.com/track/6PNHNt8v9UUmI7u0D06Fct) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [PUMP IT UP ε=┌\(^\_^\)┘\(feat\. TiaCorine\)](https://open.spotify.com/album/7aEEJ9vUyvFBoI0TcYft26) | 2:16 |
-| 53 | [WIPED](https://open.spotify.com/track/3mOUnFnggll5Svu4hZFUlH) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [WIPED](https://open.spotify.com/album/0X7sDKR0b0XA93UpkT9gXx) | 3:06 |
+| 53 | [WIPED](https://open.spotify.com/track/3mOUnFnggll5Svu4hZFUlH) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [WIPED](https://open.spotify.com/album/0X7sDKR0b0XA93UpkT9gXx) | 3:04 |
 | 54 | [730](https://open.spotify.com/track/07msCYwANJ2ae2mhmP0Jjk) | [Tim Pepperoni](https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo), [YTG](https://open.spotify.com/artist/3XYA9DdaDMDHEnB9XC4G4c), [Puckafall](https://open.spotify.com/artist/4sk5D1u9uIWDjupHAdxjwg) | [730](https://open.spotify.com/album/5Dq5ImYI51gZ38fzHIEvLd) | 2:33 |
 | 55 | [DIEBAKUHATSU Freestyle](https://open.spotify.com/track/5QFGDmA0lBP4cRuA1bADMG) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [DIEBAKUHATSU Freestyle](https://open.spotify.com/album/1hTZMzTTUF2GrynHpfM9MS) | 2:37 |
 | 56 | [SAKURA AVALANCHE](https://open.spotify.com/track/6VnEjnv4Z6OpBguDt1UDWI) | [Moment Joon](https://open.spotify.com/artist/2FmmcFD4xNpAZGiDPizWll) | [SAKURA AVALANCHE](https://open.spotify.com/album/7HWNO9Aclyx8Ax5hDkI7ig) | 2:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [ILIKEU](https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [ILIKEU](https://open.spotify.com/album/3Cm2wePohVXeqf3OLEZULA) | 2:41 |
 | 70 | [Slide By](https://open.spotify.com/track/6zGzTRlfl5kJabJls1fj1o) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Slide By](https://open.spotify.com/album/0cScyZvb9fmDvQ8t58aNJL) | 3:28 |
 
-Snapshot ID: `MCxkOTFlMmVlMzI2MWVmMDRlZDY1OWU5MWQ4ZTQ5MzUzZmU2NGE0ZDE4`
+Snapshot ID: `MCw0M2Q5MTc1MDg1NDBlNjQ4NzYwNjBlMjFjOTlkMGUxYWZmOTdmMjRh`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 448,173 likes - 70 songs - 4 hr 12 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 448,323 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Right Time](https://open.spotify.com/track/5OhEsXKOJC8qdvMtjj0ynM) | [Overload in Stereo](https://open.spotify.com/artist/617vYz3ml53NBDedKMadOp) | [The Right Time](https://open.spotify.com/album/2KUpPD483uginFAQbuTOWW) | 3:36 |
 | 2 | [This Is Not The Time \(The Time For Us\)](https://open.spotify.com/track/4txmeaKuOT3hrN3Vj0Rba7) | [Jason Scott Stolper](https://open.spotify.com/artist/2InsX179RMklZFMuWuTlmO) | [This Is Not The Time \(The Time For Us\)](https://open.spotify.com/album/1Ms9RAqsK0BRUMfXmuIII0) | 2:53 |
-| 3 | [when we were young](https://open.spotify.com/track/4OmONLlqNATABrFZHxVc6l) | [dylan rainbolt](https://open.spotify.com/artist/1QOg7IeIUaw2LyKPo5Kc28) | [when we were young](https://open.spotify.com/album/77OG6zfbhTTZBBQtTReYAG) | 3:45 |
+| 3 | [when we were young](https://open.spotify.com/track/4OmONLlqNATABrFZHxVc6l) | [rainbolt.band](https://open.spotify.com/artist/1BUfzttywuipGivRP79IGQ) | [when we were young](https://open.spotify.com/album/77OG6zfbhTTZBBQtTReYAG) | 3:45 |
 | 4 | [Emotional Piano](https://open.spotify.com/track/3s18xnI0oG1txCSEgQshJJ) | [Individual Projects](https://open.spotify.com/artist/6bvy2SdZv1Qff67maax86Q) | [Emotional Piano](https://open.spotify.com/album/6Y1Z4EaaCN808nyT4iqSCH) | 2:08 |
 | 5 | [Kalla mig Dödsankan](https://open.spotify.com/track/72ryLlRxdFQXKfN8fkUHQ6) | [Dödsankan](https://open.spotify.com/artist/0dribWcDOaXtgmDnJymoiC), [Olss Beats](https://open.spotify.com/artist/4uuBME28jEy7BzyDg7cXWf) | [Kalla mig Dödsankan](https://open.spotify.com/album/5KyeIQKq8vZaAhlm22gg9U) | 3:22 |
 | 6 | [The Real Thing](https://open.spotify.com/track/2cyoeQBJJqztuLyytos0n8) | [Alex Villa](https://open.spotify.com/artist/0TL5quT3xyCmg6BGPiCsiw), [Thomas Austin](https://open.spotify.com/artist/68isQhzDhDaERWs5O28Y8W) | [The Real Thing](https://open.spotify.com/album/1fLkCtWy7nq7pfs69aUkRZ) | 3:06 |

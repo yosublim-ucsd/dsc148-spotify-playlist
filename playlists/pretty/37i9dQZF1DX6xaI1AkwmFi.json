@@ -1,12 +1,12 @@
 {
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
-  "num_followers": 23773,
+  "num_followers": 23799,
   "original_name": "\u30b9\u30c8\u30ed\u30dc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWExZThlNWI3YWUwNDFhZmZlY2U0YmU4NWNhZmRmMDk1NTZlNTdk",
+  "snapshot_id": "MCwxYjg3ZWQzNDNiOWI0OGU2YzM4MGNkODhhNzMwYzVlZTE0YmZmYzAz",
   "tracks": [
     {
       "added_at": "2024-04-02 15:00:00",
@@ -92,7 +92,7 @@
       "added_at": "2024-04-02 15:00:00",
       "album": {
         "name": "Love One Another",
-        "url": "https://open.spotify.com/album/47MmxhLmTn7W91dxYCHvT9"
+        "url": "https://open.spotify.com/album/2BKXSl0ktKpWNHzqdAAy1T"
       },
       "artists": [
         {
@@ -102,7 +102,7 @@
       ],
       "duration_ms": 225149,
       "name": "Your Love",
-      "url": "https://open.spotify.com/track/7Bek5MohEgCbfAs91H3Di1"
+      "url": "https://open.spotify.com/track/4V79L8tRqdgQLT1og54hN6"
     },
     {
       "added_at": "2024-04-02 15:00:00",
@@ -195,8 +195,8 @@
     {
       "added_at": "2024-04-02 15:00:00",
       "album": {
-        "name": "\u3042\u308f\u3044\u306b",
-        "url": "https://open.spotify.com/album/5SCavhtaz95mQ9mdaMDSRi"
+        "name": "Awaini",
+        "url": "https://open.spotify.com/album/2PKY0nUkj6ou7NS1TWyDBx"
       },
       "artists": [
         {
@@ -205,8 +205,8 @@
         }
       ],
       "duration_ms": 201471,
-      "name": "\u3042\u308f\u3044\u306b",
-      "url": "https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95"
+      "name": "Awaini",
+      "url": "https://open.spotify.com/track/2LvtiKmK2dOIH8NjSlix7d"
     },
     {
       "added_at": "2024-04-02 15:00:00",
@@ -228,7 +228,7 @@
       "added_at": "2024-04-02 15:00:00",
       "album": {
         "name": "\u6211\u611b\u4f60",
-        "url": "https://open.spotify.com/album/5XYQBTfK9zxRR4HFsl2kvF"
+        "url": "https://open.spotify.com/album/4YPoqvQZQUdZPFNPhXnvrF"
       },
       "artists": [
         {
@@ -238,7 +238,7 @@
       ],
       "duration_ms": 193808,
       "name": "\u6211\u611b\u4f60",
-      "url": "https://open.spotify.com/track/4wmQg9Rf89PcAxKydEMp8f"
+      "url": "https://open.spotify.com/track/2xAeOLHRYvrXNxgwU3s3xb"
     },
     {
       "added_at": "2024-04-02 15:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-04-02 15:00:00",
       "album": {
-        "name": "NEW DANCE",
-        "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "NEW DANCE",
-      "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
-    },
-    {
-      "added_at": "2024-04-02 15:00:00",
-      "album": {
         "name": "\u71c8",
         "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 238720,
       "name": "\u71c8",
       "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
+    },
+    {
+      "added_at": "2024-04-02 15:00:00",
+      "album": {
+        "name": "NEW DANCE",
+        "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "NEW DANCE",
+      "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
     },
     {
       "added_at": "2024-04-02 15:00:00",

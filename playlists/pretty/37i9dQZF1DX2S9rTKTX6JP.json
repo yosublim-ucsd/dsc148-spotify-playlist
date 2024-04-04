@@ -1,12 +1,12 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 674433,
+  "num_followers": 674513,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjJiZDhjNjViYWYwMWYxYzQ1MzNmN2ZlMGFhYTRjZjg2MWVkYzk0",
+  "snapshot_id": "MCxiYmYwNzZiMGMyZWExZGFmOWRkZmVhZDdjNzEyNTIwZWEwOTBjMDQx",
   "tracks": [
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Karma Police (triple j Like A Version)",
         "url": "https://open.spotify.com/album/7q2xzrYWXiL14x4YNIMUiq"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 277388,
       "name": "Karma Police - triple j Like A Version",
       "url": "https://open.spotify.com/track/5GHgwDW4lz4dnqDpamq1bd"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "eMOTIVe",
+        "url": "https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/34tYgJ1vX0sRpjm4teNWVe"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "ReAniMate 2.0: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
       },
@@ -1511,6 +1527,22 @@
       "duration_ms": 188573,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Wild Card/A Word To The Wise",
+        "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1535,38 +1567,6 @@
       "duration_ms": 233362,
       "name": "(I Can\u2019t Get No) Satisfaction",
       "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "eMOTIVe",
-        "url": "https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4"
-      },
-      "artists": [
-        {
-          "name": "A Perfect Circle",
-          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/34tYgJ1vX0sRpjm4teNWVe"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "Wild Card/A Word To The Wise",
-        "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1827,22 +1827,18 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "I Think We're Alone Now",
-        "url": "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W"
+        "name": "Decade II: Rock & Acoustic",
+        "url": "https://open.spotify.com/album/2KTwK7D7uge6M1x6PzKHfi"
       },
       "artists": [
         {
-          "name": "Billie Joe Armstrong",
-          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
-        },
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
         }
       ],
-      "duration_ms": 134671,
-      "name": "I Think We're Alone Now",
-      "url": "https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr"
+      "duration_ms": 198545,
+      "name": "Numb (Acoustic)",
+      "url": "https://open.spotify.com/track/4D6amyd3ONcv28VBe07xsk"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1867,18 +1863,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Decade II: Rock & Acoustic",
-        "url": "https://open.spotify.com/album/2KTwK7D7uge6M1x6PzKHfi"
+        "name": "I Think We're Alone Now",
+        "url": "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W"
       },
       "artists": [
         {
-          "name": "The Veer Union",
-          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+          "name": "Billie Joe Armstrong",
+          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
+        },
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 198545,
-      "name": "Numb (Acoustic)",
-      "url": "https://open.spotify.com/track/4D6amyd3ONcv28VBe07xsk"
+      "duration_ms": 134671,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2235,18 +2235,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "One Step Closer \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym"
+        "name": "Origin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
       },
       "artists": [
         {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        },
+        {
+          "name": "Wow That's What I Call Metalcore",
+          "url": "https://open.spotify.com/artist/012VlifWzoPnN7UpJlDVfh"
         }
       ],
-      "duration_ms": 146526,
-      "name": "One Step Closer \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1"
+      "duration_ms": 293732,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2267,22 +2271,18 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Origin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
+        "name": "One Step Closer \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym"
       },
       "artists": [
         {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        },
-        {
-          "name": "Wow That's What I Call Metalcore",
-          "url": "https://open.spotify.com/artist/012VlifWzoPnN7UpJlDVfh"
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
         }
       ],
-      "duration_ms": 293732,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
+      "duration_ms": 146526,
+      "name": "One Step Closer \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "WILLOW: Live At Electric Lady",
-        "url": "https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 123733,
-      "name": "Bag Lady / Split - Live",
-      "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Enter Sandman",
         "url": "https://open.spotify.com/album/7sIrH5m7rD2dxhZVWehQjH"
       },
@@ -2347,18 +2331,18 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
+        "name": "WILLOW: Live At Electric Lady",
+        "url": "https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w"
       },
       "artists": [
         {
-          "name": "The Polyphonic Spree",
-          "url": "https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 323666,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
+      "duration_ms": 123733,
+      "name": "Bag Lady / Split - Live",
+      "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2375,6 +2359,22 @@
       "duration_ms": 269946,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
+      },
+      "artists": [
+        {
+          "name": "The Polyphonic Spree",
+          "url": "https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk"
+        }
+      ],
+      "duration_ms": 323666,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
     },
     {
       "added_at": "2024-02-12 05:08:07",

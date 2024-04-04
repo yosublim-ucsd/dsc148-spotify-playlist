@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha mujeres a todo volumen\. Foto: Las Migas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,287 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,302 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 19 | [papel de fumar](https://open.spotify.com/track/56JrLcd2kik1n4mScB1NcG) | [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h) | [papel de fumar](https://open.spotify.com/album/16MEYDdZd4HA04KPmf2SBo) | 3:39 |
 | 20 | [Las de siempre](https://open.spotify.com/track/3RQEUBRZrdLzcO2O3G9hOG) | [Marta Soto](https://open.spotify.com/artist/6rRY793jdSneQ9aSy0RtMN) | [Las de siempre](https://open.spotify.com/album/4yCuETrkAcIOwmddZ7T1fX) | 3:18 |
 | 21 | [Sin querer](https://open.spotify.com/track/6au6pIB2cW4BhiogtSxUNP) | [Moni Motes](https://open.spotify.com/artist/4XWTuDTFJpCJb34bUAB6ZD) | [Sin querer](https://open.spotify.com/album/6wJ4MycwTIefrJ0IzkkqT9) | 2:53 |
-| 22 | [Esku Burdin](https://open.spotify.com/track/2rjsK0psyIVOQWqzXselcQ) | [J Martina](https://open.spotify.com/artist/2n5oKnRt4i2SfKUPw3sX8R) | [Esku Burdin](https://open.spotify.com/album/5Wc3INw8Ou9FgS3dtftoO6) | 2:46 |
+| 22 | [Esku Burdin](https://open.spotify.com/track/2UPzdnrp23Nl0ZCD3OfBRU) | [J Martina](https://open.spotify.com/artist/2n5oKnRt4i2SfKUPw3sX8R) | [Esku Burdin](https://open.spotify.com/album/1PxCSh8I08RRPz3PB1Eltw) | 2:46 |
 | 23 | [Si me echas de menos](https://open.spotify.com/track/6ecxBljnc8CDI8PsCef5Tk) | [KYR4](https://open.spotify.com/artist/1nm61H1nuw0QZ86AuH0wv2), [Nerso & Verse](https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm) | [Si me echas de menos](https://open.spotify.com/album/3dbJgMisWT8q87XRj2gK32) | 3:14 |
 | 24 | [Barbietúricos](https://open.spotify.com/track/5O83Nfv1SG3587o5Xnm5om) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Barbietúricos](https://open.spotify.com/album/7JfJdgYA7tvR79u619boAJ) | 2:19 |
 | 25 | [Tridente Dorado](https://open.spotify.com/track/3mfkFNikm2SZfAqCxXOwKg) | [Las Ninyas del Corro](https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh), [Esse Delgado](https://open.spotify.com/artist/0EbyCaJGcegI7KdTTWKuW0) | [Tridente Dorado](https://open.spotify.com/album/4htg0QfHceWwkpUQtW1icZ) | 3:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 69 | [ROMPER EL HIELO](https://open.spotify.com/track/4I6NMcBVLosTv9etcsq3No) | [TRIA](https://open.spotify.com/artist/1GCZZAo2jKhMG78ladGxgZ) | [ROMPER EL HIELO](https://open.spotify.com/album/3fsx63RxMkXBZJQSQyoH1m) | 4:03 |
 | 70 | [Juguetes](https://open.spotify.com/track/2ka2eVkoQhPdpc5Rx9pNUw) | [Claudia Pumarega](https://open.spotify.com/artist/2VcPzDAVnJZjOQ7J5ioPg4) | [Juguetes](https://open.spotify.com/album/0YDCMKlVyNUdVBiqUAvy8P) | 3:56 |
 
-Snapshot ID: `MCwxNmEwYWRiZmMxNmEzZTE0YjBlOTU5YTRmMTdjMDYxZjg5OTA3Mjkz`
+Snapshot ID: `MCw4ZTJhMmQ4ZmFjMDE3Yzc3MTE1ODc5ZWJlNzlhYzVhMWIwMjU1MWQ2`

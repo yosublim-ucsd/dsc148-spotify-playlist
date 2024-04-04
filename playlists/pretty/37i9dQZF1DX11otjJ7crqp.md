@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Isabel LaRosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,533 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,575 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 18 | [Die For You](https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ) | 2:20 |
 | 19 | [Wtf u want.](https://open.spotify.com/track/0pURlXPaj5o9tXRim3kT1a) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Wtf u want.](https://open.spotify.com/album/10sX64KGtxKuFNNskErQkb) | 2:07 |
 | 20 | [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 |
-| 21 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
+| 21 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 |
 | 22 | [My Future](https://open.spotify.com/track/1r5ScrTm9vynVcUal1HDii) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [My Future](https://open.spotify.com/album/0XsZ7ulN5Qqeyn3buHrn23) | 2:22 |
 | 23 | [beauty](https://open.spotify.com/track/4kXOuF3EGVS3YGrpbfdT3n) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [genre : sadboy](https://open.spotify.com/album/1WkykSHhndyQJcYNwL7zxY) | 3:16 |
 | 24 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [Let's Talk](https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy) | [Hana Effron](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Let's Talk](https://open.spotify.com/album/2nv51HjRu41tXOxsJXk3NO) | 3:53 |
 | 99 | [Like You Boy](https://open.spotify.com/track/6cHV4imunCJXCd3iT40Tm5) | [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Like You Boy](https://open.spotify.com/album/4lbJpv9py0nbWfRQ09VRDe) | 2:49 |
 
-Snapshot ID: `MCwyYjE5ZmQ3M2M2ZjA4MWUzNTA2NjMyNjdkZTlhOTZkMjBmYzAwMjA1`
+Snapshot ID: `MCwzNjdjZjg5YzFjYjEyYmNmOWQ4MzA0ZWExNDI5MzdlODJkZTJkOTY2`

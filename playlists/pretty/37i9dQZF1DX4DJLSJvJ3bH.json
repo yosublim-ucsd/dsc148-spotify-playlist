@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 118917,
+  "num_followers": 118904,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjEwOTY4NjM3YjJmNjY3ODFjMTExZjNlM2U3M2RkM2Y2Yjc4Njdk",
+  "snapshot_id": "MCxmMzMxYjk4YWExYmE2M2Y5ZDY0YTQ0ZDg2OGFhNmE0MTk3YjZiYjcw",
   "tracks": [
     {
       "added_at": "2023-12-19 09:25:36",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Christmas Time",
-        "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
-      },
-      "artists": [
-        {
-          "name": "Dan Evans-Parker",
-          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
-        }
-      ],
-      "duration_ms": 122414,
-      "name": "Christmas Time",
-      "url": "https://open.spotify.com/track/3Cs5m2rS0UnYx4UWppPLP8"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 137880,
       "name": "Christmas Island",
       "url": "https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
+      },
+      "artists": [
+        {
+          "name": "Dan Evans-Parker",
+          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
+        }
+      ],
+      "duration_ms": 122414,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/3Cs5m2rS0UnYx4UWppPLP8"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Winter Serenade",
-        "url": "https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V"
-      },
-      "artists": [
-        {
-          "name": "Andy Goodman",
-          "url": "https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi"
-        }
-      ],
-      "duration_ms": 187587,
-      "name": "Winter Serenade",
-      "url": "https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "God Rest Ye Merry Gentlemen",
         "url": "https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 175217,
       "name": "Hard Candy Christmas",
       "url": "https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Winter Serenade",
+        "url": "https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V"
+      },
+      "artists": [
+        {
+          "name": "Andy Goodman",
+          "url": "https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi"
+        }
+      ],
+      "duration_ms": 187587,
+      "name": "Winter Serenade",
+      "url": "https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "The Singles Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "I'd Like You For Christmas",
-      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "A Child Is Born",
         "url": "https://open.spotify.com/album/1uTcIqbf4J8KDPYEl4AYXW"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 199384,
       "name": "A Child Is Born",
       "url": "https://open.spotify.com/track/3xp3vHkZmXXjuPN5TIZw9c"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "The Singles Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "I'd Like You For Christmas",
+      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Joe Pass - Six String Santa",
-        "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
-      },
-      "artists": [
-        {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
-        }
-      ],
-      "duration_ms": 275745,
-      "name": "Angels We Have Heard on High / Joy to the World",
-      "url": "https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Christmas With The Andrews Sisters",
         "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 180160,
       "name": "I'd Like To Hitch A Ride With Santa Claus",
       "url": "https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Joe Pass - Six String Santa",
+        "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
+      },
+      "artists": [
+        {
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+        }
+      ],
+      "duration_ms": 275745,
+      "name": "Angels We Have Heard on High / Joy to the World",
+      "url": "https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Deck the Halls",
-        "url": "https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop"
-      },
-      "artists": [
-        {
-          "name": "Michael Stylez & Co",
-          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
-        }
-      ],
-      "duration_ms": 99179,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Christmas Wish",
         "url": "https://open.spotify.com/album/41CTZeexSebAHGNeLiEdon"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 253607,
       "name": "Cradle in Bethlehem",
       "url": "https://open.spotify.com/track/5ggS2BD1ZVTF6gHPGnsG1s"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Deck the Halls",
+        "url": "https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop"
+      },
+      "artists": [
+        {
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+        }
+      ],
+      "duration_ms": 99179,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/4MC3Lul2Dm1ooAtGVARP0a"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 225596,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Greatest Christmas Songs",
         "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 163173,
       "name": "Christmas Bells",
       "url": "https://open.spotify.com/track/1es9yJEFoaY0ndi3AaesDx"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/4MC3Lul2Dm1ooAtGVARP0a"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 225596,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC"
     },
     {
       "added_at": "2023-12-19 09:25:36",

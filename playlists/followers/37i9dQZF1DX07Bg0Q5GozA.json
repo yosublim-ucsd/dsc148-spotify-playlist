@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 440676,
+  "2024-04-04": 440712,
   "date_first_scraped": "2022-12-29",
   "description": "New music off the beaten track. Cover: Purple Disco Machine, Roosevelt",
   "name": "OFF POP",
@@ -2477,6 +2477,28 @@
       "duration_ms": 179736,
       "name": "Diary",
       "url": "https://open.spotify.com/track/2nFtOWsGgAlmsDTh36iawp"
+    },
+    {
+      "album": {
+        "name": "Did I (Peaches Remix)",
+        "url": "https://open.spotify.com/album/3BqnPyBlh9nYZDwtJ0EMel"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214919,
+      "name": "Did I - Peaches Remix",
+      "url": "https://open.spotify.com/track/4AW85nhkcAkTVBPDkmGnMq"
     },
     {
       "album": {
@@ -12727,7 +12749,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 196133,
       "name": "Unfinished Business",
       "url": "https://open.spotify.com/track/15AMGNS7cN4zBtTafqZe7c"

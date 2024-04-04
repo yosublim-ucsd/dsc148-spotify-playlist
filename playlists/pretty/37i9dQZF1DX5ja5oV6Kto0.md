@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Tim Lyre & BOJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,216 likes - 85 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,262 likes - 85 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 7 | [Crown Bounce](https://open.spotify.com/track/25SZzbj6rLvbqm48QwEsAj) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Elias Slay6rr](https://open.spotify.com/artist/78rrSlHaVgfpWxgsnUtqwh) | [Crown Bounce](https://open.spotify.com/album/4C8493WEDy0Yc2tP9g2MzZ) | 2:33 |
 | 8 | [OFF](https://open.spotify.com/track/2Jkf8z4byKRKRxKmb93U0D) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [OFF](https://open.spotify.com/album/5bEUic0KdaCrouhSB7HFuY) | 3:08 |
 | 9 | [BAli](https://open.spotify.com/track/305Ipp0gFu8qANsEaQF5lD) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL) | [BAli](https://open.spotify.com/album/1p8ktNy1jJezjdOHuUhuyh) | 2:32 |
-| 10 | [Vitamin D](https://open.spotify.com/track/65aPujtCATKAH8IgGQPt4t) | [3rty](https://open.spotify.com/artist/1tf6tPWbSTGpFgNo9IAP8U) | [Vitamin D](https://open.spotify.com/album/0oiSNg8MdYofwQrLSdQDUf) | 3:07 |
+| 10 | [Vitamin D](https://open.spotify.com/track/38wwH8rLOM07KQ2iYscUiY) | [3rty](https://open.spotify.com/artist/1tf6tPWbSTGpFgNo9IAP8U), [WeTalkSound](https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w) | [Vitamin D / Dey Play](https://open.spotify.com/album/5ZR8Ae56tRPjiEB2fOGt4h) | 3:07 |
 | 11 | [Fire Wood](https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf) | [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [Breakfast in Lagos](https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u) | 2:21 |
 | 12 | [2MUCH](https://open.spotify.com/track/4CSv8hUpanXv7J3Ypwjpho) | [Moyoswrld](https://open.spotify.com/artist/5qydyw9umzN1IlybYsgPzR) | [2MUCH](https://open.spotify.com/album/3RjqQGaUCd7ajn90iqpyvW) | 2:07 |
 | 13 | [SHE WAAN](https://open.spotify.com/track/2r8fW6t21bMrrfQW20OKF8) | [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk), [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [SHE WAAN](https://open.spotify.com/album/3bA2DgGpky4EeSr6VnOPhh) | 3:50 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 84 | [Not Safe in the West](https://open.spotify.com/track/12QstbH2NNHur6XGtKrxWR) | [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk), [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [Not Safe in the West](https://open.spotify.com/album/3rMp7WLOdXSlUguA2gU7Ic) | 2:58 |
 | 85 | [It's A No From Me](https://open.spotify.com/track/6xRevLNVt6fBDEueLFQAM4) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [It's A No From Me](https://open.spotify.com/album/0H0ZGtrZT81cG5x0lMf9sw) | 2:07 |
 
-Snapshot ID: `MCwyNmI4NzE0NDMyOTdlZjBiMzYwZmNhNmI2NGM2NjY2MDIyNWJiODBm`
+Snapshot ID: `MCxiOGI0MDQ5OTc1ODkyNjIxYTRlYzBiOGNmNDMyMmI2ZDcyOWFhOTc2`

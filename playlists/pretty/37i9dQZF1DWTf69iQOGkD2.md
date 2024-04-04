@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Azzy, Luiz Lins, MC Cabelinho, Slipmami, Mc Poze do Rodo, Chefin, Oruam, MC Hariel, JayA Luuck
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,248 likes - 75 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,458 likes - 75 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 74 | [Fim de Semana](https://open.spotify.com/track/4bMFMvGNOGQ5GN91G4vw1K) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Brian Arimura](https://open.spotify.com/artist/3564y3B882wmolbLQVDVzZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Fim de Semana](https://open.spotify.com/album/3QrfrubXNF6xRzCAV6DvB7) | 3:14 |
 | 75 | [Contratei o Tempo](https://open.spotify.com/track/1NHafgaylnQjnnEhyJbqdz) | [Katari SC](https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm), [Doodex](https://open.spotify.com/artist/0mosiC3wRtekSkMSEuKcSz), [Pena](https://open.spotify.com/artist/2l5klhDlUOtuM0DuvYOgva) | [Contratei o Tempo](https://open.spotify.com/album/5KTiTNaCP6cZjwxlgMf4v0) | 3:36 |
 
-Snapshot ID: `MCxkZTAwNzU2MjFlYjc0YTRkMTM4OGVmZDVmZTNiMzMzMDk5YWQ1YmI4`
+Snapshot ID: `MCw3NzA5ODJkZTBmZWU4NWJlYjI2NGU0YjcyNGRhYTk2ZTdkNDg1MWQx`

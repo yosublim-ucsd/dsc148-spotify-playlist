@@ -1,12 +1,12 @@
 {
   "description": "Modern heavenly sounds. Cover: Caroline Polachek",
-  "num_followers": 1631607,
+  "num_followers": 1631743,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmY4YTEyYTQ5YjEyMTNiZGI2NWY0YTc0NzBiM2U2OTZmZDdlZTlh",
+  "snapshot_id": "MCw3NzJhNWZiOGQyZmU2NmZmZGNhNGI3YWJkZGFiN2U0NjI2YWQwOTA5",
   "tracks": [
     {
       "added_at": "2024-02-14 20:41:11",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Tidal",
+        "url": "https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 286960,
+      "name": "The First Taste",
+      "url": "https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Cool It Down",
         "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 257746,
       "name": "Spitting Off the Edge of the World",
       "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Tidal",
-        "url": "https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 286960,
-      "name": "The First Taste",
-      "url": "https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB"
     },
     {
       "added_at": "2023-04-28 04:00:00",

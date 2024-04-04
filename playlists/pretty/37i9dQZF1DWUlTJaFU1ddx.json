@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 25873,
+  "num_followers": 25889,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTRjOWIwNzUxZDY1NzZmY2ZjMGI2ZDhiMzQ1ZDhhZDdmZGRkNGNl",
+  "snapshot_id": "MCw1YWEzYjNjNjc4YjhmZGRiYTE2N2Y4YTRlMTViMjZlMGE1NDI2Mzhi",
   "tracks": [
     {
       "added_at": "2023-10-02 12:15:54",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-10-02 12:15:54",
       "album": {
-        "name": "\u0625\u0646\u0647\u0636",
-        "url": "https://open.spotify.com/album/2UYF5glGACebnFJcxzMHEO"
-      },
-      "artists": [
-        {
-          "name": "Emsallam",
-          "url": "https://open.spotify.com/artist/704S90MD8gMqUNd9LsXvd1"
-        }
-      ],
-      "duration_ms": 248888,
-      "name": "\u0625\u0646\u0647\u0636",
-      "url": "https://open.spotify.com/track/6gaEXyjkXtIfFcmNZSPQhL"
-    },
-    {
-      "added_at": "2023-10-02 12:15:54",
-      "album": {
         "name": "Waggif",
         "url": "https://open.spotify.com/album/0hLTpm3Xcac0uUsl1HfeQx"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 172316,
       "name": "Waggif",
       "url": "https://open.spotify.com/track/01g5Dl95lH5qQyjjXucOPf"
+    },
+    {
+      "added_at": "2023-10-02 12:15:54",
+      "album": {
+        "name": "\u0625\u0646\u0647\u0636",
+        "url": "https://open.spotify.com/album/2UYF5glGACebnFJcxzMHEO"
+      },
+      "artists": [
+        {
+          "name": "Emsallam",
+          "url": "https://open.spotify.com/artist/704S90MD8gMqUNd9LsXvd1"
+        }
+      ],
+      "duration_ms": 248888,
+      "name": "\u0625\u0646\u0647\u0636",
+      "url": "https://open.spotify.com/track/6gaEXyjkXtIfFcmNZSPQhL"
     },
     {
       "added_at": "2023-10-02 12:15:54",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-10-02 12:15:54",
       "album": {
-        "name": "Khalliha Ala Allah",
-        "url": "https://open.spotify.com/album/3yqmmWNUtIMWBlFImfPhb0"
-      },
-      "artists": [
-        {
-          "name": "Diana Karazon",
-          "url": "https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE"
-        }
-      ],
-      "duration_ms": 252295,
-      "name": "Khalliha Ala Allah",
-      "url": "https://open.spotify.com/track/4UiGACEtRM9N0PxuXzrVfQ"
-    },
-    {
-      "added_at": "2023-10-02 12:15:54",
-      "album": {
         "name": "Black Iris",
         "url": "https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 174315,
       "name": "OCB",
       "url": "https://open.spotify.com/track/65rWsK4Js9lGAhOQTpPTxM"
+    },
+    {
+      "added_at": "2023-10-02 12:15:54",
+      "album": {
+        "name": "Khalliha Ala Allah",
+        "url": "https://open.spotify.com/album/3yqmmWNUtIMWBlFImfPhb0"
+      },
+      "artists": [
+        {
+          "name": "Diana Karazon",
+          "url": "https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE"
+        }
+      ],
+      "duration_ms": 252295,
+      "name": "Khalliha Ala Allah",
+      "url": "https://open.spotify.com/track/4UiGACEtRM9N0PxuXzrVfQ"
     },
     {
       "added_at": "2023-10-02 12:15:54",

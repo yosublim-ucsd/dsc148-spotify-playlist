@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 4610,
+  "2024-04-04": 4611,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -1738,6 +1738,32 @@
     },
     {
       "album": {
+        "name": "BENIHANA",
+        "url": "https://open.spotify.com/album/6FdSt0d8iox3MJ8LZR875u"
+      },
+      "artists": [
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        },
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        },
+        {
+          "name": "GABRIELL",
+          "url": "https://open.spotify.com/artist/1R9DUv3WqRNJKHrNTs53eM"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171722,
+      "name": "AM4",
+      "url": "https://open.spotify.com/track/18ilJfI0M9nkz2O3EnT9cS"
+    },
+    {
+      "album": {
         "name": "Amb\u00edcie",
         "url": "https://open.spotify.com/album/7jvA6qkdjgWML0tr6YnUWp"
       },
@@ -2419,7 +2445,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 156416,
       "name": "Asi to tak malo by\u0165",
       "url": "https://open.spotify.com/track/4DgyEczHepsj3KhfuXrxaC"
@@ -2545,7 +2571,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -5093,7 +5119,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 170847,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i"
@@ -6760,6 +6786,24 @@
     },
     {
       "album": {
+        "name": "Come Through",
+        "url": "https://open.spotify.com/album/6K02VInMDwstOicdHh2Glv"
+      },
+      "artists": [
+        {
+          "name": "Miyuze",
+          "url": "https://open.spotify.com/artist/1IS7bD5eZp5n0rfTWEg6gQ"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135478,
+      "name": "Come Through",
+      "url": "https://open.spotify.com/track/4BSNIP9txYvoT9Qsz3pVgf"
+    },
+    {
+      "album": {
         "name": "S l\u00e1skou, Luk\u00e1\u0161.",
         "url": "https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t"
       },
@@ -7337,6 +7381,24 @@
       "duration_ms": 139764,
       "name": "CURSED",
       "url": "https://open.spotify.com/track/5kobhRGVKZeSvklVCr8zR6"
+    },
+    {
+      "album": {
+        "name": "CUTE DEPRESSED",
+        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96946,
+      "name": "CUTE DEPRESSED",
+      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
       "album": {
@@ -8771,7 +8833,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 220566,
       "name": "Dovidenia",
       "url": "https://open.spotify.com/track/0aBdBSOuzJKQzV011nZUqz"
@@ -9475,7 +9537,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 183093,
       "name": "Eli",
       "url": "https://open.spotify.com/track/3tT1RSLCBcsaPOXOiC3Tft"
@@ -11207,7 +11269,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 142571,
       "name": "Free Love",
       "url": "https://open.spotify.com/track/4nqwFrrswxiKDIKH3fR4Do"
@@ -11295,6 +11357,24 @@
       "duration_ms": 68687,
       "name": "FRESH",
       "url": "https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"
+    },
+    {
+      "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
     },
     {
       "album": {
@@ -14842,6 +14922,24 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
         "name": "I love freaks",
         "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
       },
@@ -15503,7 +15601,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
@@ -16075,7 +16173,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
@@ -17034,6 +17132,24 @@
     },
     {
       "album": {
+        "name": "KETAMINE",
+        "url": "https://open.spotify.com/album/0h1RYfr5begLpVzxa9sik4"
+      },
+      "artists": [
+        {
+          "name": "Runy",
+          "url": "https://open.spotify.com/artist/1sJQLi9xt4AKAekL91c3pN"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113755,
+      "name": "KETAMINE",
+      "url": "https://open.spotify.com/track/4dENKkJybdRo1lG74i3XFF"
+    },
+    {
+      "album": {
         "name": "U Can't Stop (96 Version)",
         "url": "https://open.spotify.com/album/7kWqwHNm4q0fOOPG9jqMa0"
       },
@@ -17719,6 +17835,28 @@
       "duration_ms": 165030,
       "name": "Ladada (Mes Derniers Mots)",
       "url": "https://open.spotify.com/track/0khptCzmJfroaZYnZfEIba"
+    },
+    {
+      "album": {
+        "name": "Lady Killers II (Christoph Andersson Remix)",
+        "url": "https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Christoph Andersson",
+          "url": "https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297794,
+      "name": "Lady Killers II (Christoph Andersson Remix)",
+      "url": "https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq"
     },
     {
       "album": {
@@ -18705,7 +18843,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -21403,7 +21541,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 114955,
       "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
       "url": "https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C"
@@ -24079,7 +24217,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 152073,
       "name": "NYC Mindset",
       "url": "https://open.spotify.com/track/7CN0OwCU02ubIN46aJscxI"
@@ -27610,6 +27748,28 @@
     },
     {
       "album": {
+        "name": "TRAPOHORY",
+        "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
+      },
+      "artists": [
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        },
+        {
+          "name": "SMART",
+          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145666,
+      "name": "RATATATA",
+      "url": "https://open.spotify.com/track/4yjG2UO3V2qpA5aGsusBIN"
+    },
+    {
+      "album": {
         "name": "RAVE",
         "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
       },
@@ -29407,7 +29567,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 131728,
       "name": "SEPHORA",
       "url": "https://open.spotify.com/track/4ueIavN9GBtOjigv07ghi0"
@@ -29757,6 +29917,28 @@
     {
       "album": {
         "name": "She Know What She Wanted (Jersey Club Remix Slowed)",
+        "url": "https://open.spotify.com/album/5q3J1gqVyTvChtFf8EJKQk"
+      },
+      "artists": [
+        {
+          "name": "Godard",
+          "url": "https://open.spotify.com/artist/4n1rqkv1XAMV9cnTSm07pY"
+        },
+        {
+          "name": "Ziahfyah",
+          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133722,
+      "name": "She Know What She Wanted - Jersey Club Remix Slowed",
+      "url": "https://open.spotify.com/track/17j94KZ4XMNM599wComGDG"
+    },
+    {
+      "album": {
+        "name": "She Know What She Wanted (Jersey Club Remix Slowed)",
         "url": "https://open.spotify.com/album/3ZdBBKZ7ExFWy1SsXTybEb"
       },
       "artists": [
@@ -29771,7 +29953,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 133722,
       "name": "She Know What She Wanted - Jersey Club Remix Slowed",
       "url": "https://open.spotify.com/track/4ZTYSM6nsWjVAqf9BOY7qU"
@@ -30224,6 +30406,28 @@
     },
     {
       "album": {
+        "name": "BENIHANA",
+        "url": "https://open.spotify.com/album/6FdSt0d8iox3MJ8LZR875u"
+      },
+      "artists": [
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        },
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211395,
+      "name": "SKLO",
+      "url": "https://open.spotify.com/track/2Y6GZQMenNx2pZMJhgl3QE"
+    },
+    {
+      "album": {
         "name": "Skl\u00ed\u010dka",
         "url": "https://open.spotify.com/album/0XBvwKqTSQaW6xsKMYJ5q7"
       },
@@ -30341,6 +30545,24 @@
       "duration_ms": 151135,
       "name": "SLAUGHTER HOUSE",
       "url": "https://open.spotify.com/track/512GmOfa7bOg5IJcrVHMdy"
+    },
+    {
+      "album": {
+        "name": "SLAY!",
+        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107076,
+      "name": "SLAY!",
+      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
       "album": {
@@ -34967,7 +35189,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -35207,6 +35429,28 @@
       "duration_ms": 176766,
       "name": "V Oblakoch",
       "url": "https://open.spotify.com/track/7qm6kPfCjzvPDMdLTVCisc"
+    },
+    {
+      "album": {
+        "name": "V riti",
+        "url": "https://open.spotify.com/album/7DIy99LChAdxlmTlosaNkQ"
+      },
+      "artists": [
+        {
+          "name": "guapanova",
+          "url": "https://open.spotify.com/artist/3cKe8c7z8w2nyYsaVKWJaC"
+        },
+        {
+          "name": "13K",
+          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145344,
+      "name": "V riti",
+      "url": "https://open.spotify.com/track/3XAaAM9nREydRwfr9aXMGd"
     },
     {
       "album": {
@@ -37450,6 +37694,24 @@
     },
     {
       "album": {
+        "name": "BENIHANA",
+        "url": "https://open.spotify.com/album/6FdSt0d8iox3MJ8LZR875u"
+      },
+      "artists": [
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156817,
+      "name": "X",
+      "url": "https://open.spotify.com/track/23HqUZEpIE2aOBONF1sriH"
+    },
+    {
+      "album": {
         "name": "Xanadu",
         "url": "https://open.spotify.com/album/1rAR24GD7AcmgSjyXRra87"
       },
@@ -38079,6 +38341,24 @@
       "duration_ms": 232571,
       "name": "Zendaya",
       "url": "https://open.spotify.com/track/6OVXMxjbFK5FHR6wpRzjXC"
+    },
+    {
+      "album": {
+        "name": "Zfetovanej Superman",
+        "url": "https://open.spotify.com/album/4fORL98XngTce19k4sCHBK"
+      },
+      "artists": [
+        {
+          "name": "Gragys Jungle",
+          "url": "https://open.spotify.com/artist/0g4uzvVP0P4vo00CXAmV2r"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173074,
+      "name": "Zfetovanej Superman",
+      "url": "https://open.spotify.com/track/7HO1xEjzg2b1bGZ4MfiuOh"
     },
     {
       "album": {

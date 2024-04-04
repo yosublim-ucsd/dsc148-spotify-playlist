@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Waxahatchee
 
-633 songs - 1 day 15 hr 10 min
+634 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [Holy Water Hangover](https://open.spotify.com/track/0eSwwBWKoxbAje61SkGhKn) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [Holy Water Hangover](https://open.spotify.com/album/5SWUKAmpFCPSlQcHq4nFI9) | 3:22 | 2022-08-05 | 2023-09-02 |
 | [Homesick \[Feat\. Jonathan Wilson\]](https://open.spotify.com/track/3hUgiY4yuQhiLbVytTCmS7) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Strays II](https://open.spotify.com/album/6O4somF5cgA58eOK1wWdmJ) | 4:28 | 2023-10-13 |  |
 | [Honey](https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Honey](https://open.spotify.com/album/37OWM40EuYKeBHWCBHJyq9) | 4:36 | 2022-12-02 |  |
-| [Honey Ain’t No Sweeter](https://open.spotify.com/track/5JS7aI8VQVsLd8nxrbn9Yx) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Honey Ain’t No Sweeter](https://open.spotify.com/album/4xnJf5yUfiE1SK736QTcQS) | 3:42 | 2024-01-12 |  |
+| [Honey Ain’t No Sweeter](https://open.spotify.com/track/0WUwEHFU368yyh9ShYJZUe) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF) | 3:42 | 2024-03-29 |  |
+| [Honey Ain’t No Sweeter](https://open.spotify.com/track/5JS7aI8VQVsLd8nxrbn9Yx) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Honey Ain’t No Sweeter](https://open.spotify.com/album/4xnJf5yUfiE1SK736QTcQS) | 3:42 | 2024-01-12 | 2024-04-04 |
 | [Hooray Hooray](https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 4:19 | 2022-05-13 | 2023-06-03 |
 | [Hooray Hooray](https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Hooray Hooray](https://open.spotify.com/album/49WXct9dVEokilWT2A7muj) | 4:19 | 2022-02-04 | 2022-05-28 |
 | [Hour on the Hour](https://open.spotify.com/track/2lEihHqyRM7lq1YuxObnb0) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [One to Grow On](https://open.spotify.com/album/01LOjOlYQ4O48xEMNcHHaY) | 4:29 | 2021-12-17 | 2022-05-14 |

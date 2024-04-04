@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Juan Caoile, Kyleswish, Jawz
 
-133 songs - 7 hr 31 min
+134 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,9 +57,10 @@
 | [Get Low](https://open.spotify.com/track/2kbNBhtgGiTxBuZTCXiQVY) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv) | [Get Low](https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn) | 2:33 | 2023-12-27 |  |
 | [Girls Need Love \- Remix](https://open.spotify.com/track/4rWXfXphKXHxrB56npwV4k) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Girls Need Love \(Remix\)](https://open.spotify.com/album/1i2bMF5dNq6rbXRHYeaHVL) | 2:43 | 2024-01-17 |  |
 | [GO GETTA](https://open.spotify.com/track/5fAIlWElS0Xj1T365oO3LJ) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp) | [O COAST](https://open.spotify.com/album/3E2ZsA4ZGIWPkzPr9Zc12R) | 4:12 | 2023-09-20 | 2023-11-18 |
-| [GO GETTA](https://open.spotify.com/track/36g22J7pBvXozaLUumgefE) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp) | [O COAST MIXTAPE](https://open.spotify.com/album/6XGUdytvMhuUe7XekfFpDM) | 4:12 | 2023-11-15 |  |
+| [GO GETTA](https://open.spotify.com/track/36g22J7pBvXozaLUumgefE) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp) | [O COAST MIXTAPE](https://open.spotify.com/album/6XGUdytvMhuUe7XekfFpDM) | 4:12 | 2023-11-15 | 2024-04-04 |
 | [Good Game](https://open.spotify.com/track/0LKwGEMlYx9BsrTHXflMvg) | [1096 Gang](https://open.spotify.com/artist/1HkpK55jsORzgtOURbOeQH), [Polo Pi](https://open.spotify.com/artist/54tGnrGjbD4MBrAnBlx2f3), [Ghetto Gecko](https://open.spotify.com/artist/4ZZiDxjlriIvH5WQtzFMVk), [Youngwise](https://open.spotify.com/artist/1TiPIraQUT2F6712xJzKa4), [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL), [Luci J](https://open.spotify.com/artist/0HrduboguaavTbDgpOflee) | [Good Game](https://open.spotify.com/album/62dfxmOIm5zXXIbgknU0Ak) | 3:49 | 2024-03-13 |  |
 | [Halik](https://open.spotify.com/track/2wSYyofdHrG5YgpyhEFU69) | [Jeff Grecia](https://open.spotify.com/artist/6Dg35SGkgpUJ2hGAYrx5Qa), [Yukizen](https://open.spotify.com/artist/15lKLeV6P3Motj4tnKVBsD) | [Halik](https://open.spotify.com/album/7F0nz1ZN2nem3UKmzG2qec) | 4:16 | 2023-12-27 | 2024-02-01 |
+| [Halik Sobrang Diin](https://open.spotify.com/track/6cXmKmwevj5utucE8XG7SK) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC) | [Halik Sobrang Diin](https://open.spotify.com/album/4OtUimDzomnLyZPdtswcbf) | 3:51 | 2024-04-03 |  |
 | [Hide n Seek](https://open.spotify.com/track/6UK7OmsoQ6Ee6EklS68GcQ) | [$ho](https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH), [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [Hide n Seek](https://open.spotify.com/album/6GA41ej75Yzw9GSDA9TnSd) | 2:57 | 2023-10-04 | 2023-11-11 |
 | [High Score](https://open.spotify.com/track/1CLBLpfBGZ7zk3J9X1SVQt) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [High Score](https://open.spotify.com/album/6oK1jN95CwhOcNiU6grIn1) | 3:29 | 2023-09-20 | 2024-02-15 |
 | [Hollywood](https://open.spotify.com/track/2jLLMjl9iIt9dgwIrHpJ64) | [Kris Delano](https://open.spotify.com/artist/4MX8TDXjG2zLcfaaYtDMJC), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Hollywood](https://open.spotify.com/album/0EpJoojhVdp2BrnxkutGH1) | 3:37 | 2024-03-06 |  |

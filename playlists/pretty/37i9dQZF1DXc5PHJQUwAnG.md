@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Kevis y Maykyy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,528 likes - 100 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,545 likes - 100 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 28 | [Afuera Que Tengan Miedo](https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Afuera Que Tengan Miedo](https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51) | 2:43 |
 | 29 | [Solo Mírate](https://open.spotify.com/track/6QAT6D16VmI84LUwPOI86K) | [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY) | [Solo Mírate](https://open.spotify.com/album/16HaReMEF1TAMRpy7mPsWO) | 2:00 |
 | 30 | [Flight 0012](https://open.spotify.com/track/1BSCXxXQNrneoZmlUwkcmb) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Dave Garsía](https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM) | [Flight 0012](https://open.spotify.com/album/6NxCjpdKyFvlx62W04vpEI) | 2:15 |
-| 31 | [Yo tmb me fui](https://open.spotify.com/track/0fuEBBx9zVGJKzCNNEcxU5) | [Mike Lamadrid](https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C) | [Yo tmb me fui](https://open.spotify.com/album/7GwBFqoSDDKQ0GsqU2MzEo) | 2:21 |
+| 31 | [Yo tmb me fui](https://open.spotify.com/track/2Pc0Rf5p5WjtonOXQtcgYi) | [Mike Lamadrid](https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C) | [Poesías de mi Odisea](https://open.spotify.com/album/4qhn37vq11r5zzqbuQNwR2) | 2:21 |
 | 32 | [Tirando Flow Sesh \#8](https://open.spotify.com/track/48LRWkjqh0MuiyQmGkqzgP) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Tirando Flow Sesh \#8](https://open.spotify.com/album/6KVKStSWXUvoZF2ibE643k) | 2:36 |
 | 33 | [777](https://open.spotify.com/track/3a72rKC1wpcoVx6HIpEzRO) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [777](https://open.spotify.com/album/13k2zzqSV0ZCV8tmYGhvSL) | 1:51 |
 | 34 | [Fairfax](https://open.spotify.com/track/64iPb2usmtnqDPN1pkupKL) | [NARCOWAVE](https://open.spotify.com/artist/5HsCByRcETSXKR68UIWXXn), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Cuatro días en Los Ángeles](https://open.spotify.com/album/7vz5S4gQcJybhgWHC6vMou) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 99 | [fuck tu pedo](https://open.spotify.com/track/53xjmweWDgA0BQFyQ1zM4C) | [Doble Tempo](https://open.spotify.com/artist/05GGSu0a1Qs7pmiETMQXf0) | [fuck tu pedo](https://open.spotify.com/album/75t4mg0uUtQtmiuzA6kHJs) | 1:39 |
 | 100 | [GaD \#24](https://open.spotify.com/track/3bYyFMBbSEKt1HdFmHtwA7) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [GaD \#24](https://open.spotify.com/album/4WGALPSbZSZm9S2K7CDgil) | 3:16 |
 
-Snapshot ID: `MCw4MTAwN2Y4Njg2ZTllNzc1YTkxMDllYzNjNGZhZWI4NzVhNWM0ZDBh`
+Snapshot ID: `MCw5ODRlN2Y3YTE3MjJiZDNjYjllYzEwZWQxY2U5YWJlN2EyNmMxZGZj`

@@ -4,7 +4,7 @@
 
 > Best of Jazz music from Bollywood\. Cover \- A R Rahman
 
-53 songs - 3 hr 38 min
+54 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,12 +14,13 @@
 | [Behka](https://open.spotify.com/track/0prCd0oIexRBiok6kBOeLp) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Ghajini](https://open.spotify.com/album/1bakFVqPdxrSCSZI2HUGhJ) | 5:11 | 2023-07-04 |  |
 | [Bhola Bhala Baby \- From "Murder Mubarak"](https://open.spotify.com/track/69GPJv1vz7Z6dWcyDuVQVt) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Bhola Bhala Baby \(From "Murder Mubarak"\)](https://open.spotify.com/album/4uucsIPMPcEtDqCIkFqijB) | 3:53 | 2024-03-13 |  |
 | [Bloody Hell](https://open.spotify.com/track/1SLcMjg9K3tEYBM0dMBlJM) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Rangoon](https://open.spotify.com/album/2fcB0MfveJSfjhDG4UjfxQ) | 4:12 | 2023-07-04 |  |
-| [Calcutta Kiss](https://open.spotify.com/track/0EW0vgSbNJJR5nZRJqpDHx) | [Imaad Shah](https://open.spotify.com/artist/4Vp8UAyIKR4I8DDlKSbsf6), [Saba Azad](https://open.spotify.com/artist/3e0EOxOZYDZX87m6oTOXOt) | [Detective Byomkesh Bakshy \(Original\)](https://open.spotify.com/album/4Qlx6Lci22yKq8sfQz7Bwr) | 3:10 | 2023-07-04 |  |
+| [Calcutta Kiss](https://open.spotify.com/track/0EW0vgSbNJJR5nZRJqpDHx) | [Madboy\-Mink](https://open.spotify.com/artist/4dcmqRGQpB24Vc7wR809Z3), [Imaad Shah](https://open.spotify.com/artist/4Vp8UAyIKR4I8DDlKSbsf6), [Saba Azad](https://open.spotify.com/artist/3e0EOxOZYDZX87m6oTOXOt) | [Detective Byomkesh Bakshy](https://open.spotify.com/album/4Qlx6Lci22yKq8sfQz7Bwr) | 3:10 | 2023-07-04 |  |
 | [Dancing In The Sun](https://open.spotify.com/track/0QqmbaEYVb99lPCxPRWkD4) | [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3) | [Thappad](https://open.spotify.com/album/1YTq9ITQJ3Mj4uMj3GECDM) | 3:49 | 2023-07-04 |  |
 | [Darling](https://open.spotify.com/track/6z3p3Gm5FOH1n22ummzEh7) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc), [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [7 Khoon Maaf \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5KeZZK7MItXn4A5SNwock7) | 3:28 | 2023-07-04 |  |
 | [Dil Jahan Pe Le Chala \(Amit Trivedi\)](https://open.spotify.com/track/78JKBkqF3siJDIrX0mnXTh) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 3:53 | 2023-07-04 |  |
 | [Dil Ki Toh Lag Gayi](https://open.spotify.com/track/744BhALa5sLOF31Je1dXom) | [Saba Azad](https://open.spotify.com/artist/3e0EOxOZYDZX87m6oTOXOt) | [Nautanki Saala !](https://open.spotify.com/album/1QpPhM0ZUV9OX1bfHYMJxV) | 4:11 | 2023-07-04 |  |
-| [Dil Ko Hazar Bar](https://open.spotify.com/track/3EvoHAdOBB6dsPpJrZI61W) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc) | [Murder \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3jF1i3eP1K4G9U2iAExVs2) | 5:34 | 2023-07-04 |  |
+| [Dil Ko Hazar Bar](https://open.spotify.com/track/3EvoHAdOBB6dsPpJrZI61W) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc) | [Murder \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3jF1i3eP1K4G9U2iAExVs2) | 5:34 | 2023-07-04 | 2024-04-04 |
+| [Dil Ko Hazar Bar \- From "Murder"](https://open.spotify.com/track/0vjHodY8Gqt7rAs8kPIfMd) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Murder \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5LgQDhI9gMBEiH2YJhByxz) | 5:34 | 2024-03-13 |  |
 | [Dil Kyun Yeh Mera](https://open.spotify.com/track/5nHwX7e5XHnie22nuTFgda) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Kites](https://open.spotify.com/album/79uqwO6n4ZFqHaDwLZhyL0) | 5:33 | 2023-07-04 |  |
 | [Dil Tera \(From "Indoo Ki Jawani"\)](https://open.spotify.com/track/6QbGGTRTq0Tsina3EYm1L6) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Dil Tera \(From "Indoo Ki Jawani"\)](https://open.spotify.com/album/7LKkRptZL2fgFw3kYAmume) | 3:42 | 2023-07-04 |  |
 | [Dooriyan Hain Zaroori](https://open.spotify.com/track/0VgggdMuIsDLjOlEFS6WQU) | [Monica Dogra](https://open.spotify.com/artist/39EjzNKNNzzSvtyHJHzFSV), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Break Ke Baad](https://open.spotify.com/album/3R2nfXGgY4PD6kf52GeEzc) | 4:09 | 2023-07-04 |  |

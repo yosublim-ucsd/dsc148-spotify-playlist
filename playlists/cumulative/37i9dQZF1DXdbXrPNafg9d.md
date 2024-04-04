@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Nourished by Time
 
-6,782 songs - 16 day 12 hr 2 min
+6,783 songs - 16 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [3000 Miles](https://open.spotify.com/track/1mgPpSsf0Hy8kXlCCVLY6o) | [The So So Glos](https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP), [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [3000 Miles](https://open.spotify.com/album/0cXvkaKVa6r0HQCrNH6qMV) | 3:35 | 2023-06-16 | 2023-07-29 |
 | [3000 Miles \(Baby Baby\)](https://open.spotify.com/track/3Xsmpypmc2DcxQBbmnnrB5) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [3000 Miles \(Baby Baby\)](https://open.spotify.com/album/6Z65cY2NlkT0q3wCILkHdx) | 2:22 | 2021-02-06 | 2021-03-26 |
 | [32 Floors](https://open.spotify.com/track/18tuLCxBzxaHYhYMgBfxNm) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [32 Floors](https://open.spotify.com/album/7pUjf3WLukKM9ccpIhUKnU) | 3:01 | 2022-07-08 | 2022-08-20 |
-| [365](https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [365](https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU) | 3:07 | 2024-03-15 |  |
+| [365](https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [365](https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU) | 3:07 | 2024-03-15 | 2024-04-04 |
+| [365](https://open.spotify.com/track/5ywWzoH8TFmthpebFjCyR3) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:07 | 2024-03-15 |  |
 | [37th](https://open.spotify.com/track/1Zw5s7JEokiF5OchgnRB0t) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:15 | 2022-11-18 | 2023-01-14 |
 | [3AM](https://open.spotify.com/track/632zn5BOErmSqGx3fjA1z0) | [Telemona](https://open.spotify.com/artist/5pAIqdG4ah8FXSwGOlILyW) | [3AM](https://open.spotify.com/album/5kamVfDwxXmncE03qYRERG) | 3:35 | 2021-11-19 | 2022-02-05 |
 | [3D Country](https://open.spotify.com/track/6zTT4nsHpiCxRyFFtSu7lr) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/3453dOJZDbTPog3TyLklI4) | 5:13 | 2023-03-24 | 2023-04-29 |

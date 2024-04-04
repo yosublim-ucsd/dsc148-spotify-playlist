@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos del 6 al 10 de Marzo! Cinco días de música en recintos icónicos de la CDMX\. Compra tus boletos <a href="https://lnk.bio/pitchforkcdmx"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,483 likes - 65 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,480 likes - 65 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 34 | [Anónima](https://open.spotify.com/track/08dAkGmUKmkmj4BJ3hCpfB) | [Titanic](https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i), [I la Católica](https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Vidrio](https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv) | 4:37 |
 | 35 | [La Vida De Alguien Más](https://open.spotify.com/track/1OUP1Sidd9QesUNr5x6s6O) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 4:02 |
 | 36 | [After Destruction](https://open.spotify.com/track/3b0murHEJnNk0NiNOuoORG) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [After Destruction](https://open.spotify.com/album/7jhSHFst3jCbRlxwvWa7AX) | 3:44 |
-| 37 | [Domino](https://open.spotify.com/track/5C9gmvBVdhEAHAqlpFGHqk) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Junior](https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N) | 4:37 |
+| 37 | [Le grand écart](https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Supermercado](https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK) | 4:02 |
 | 38 | [Tu Olor](https://open.spotify.com/track/4z6iPe5AssQ0rF83oZDt71) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Venus & Blue](https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1) | 3:06 |
 | 39 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
 | 40 | [Nadie Sabe](https://open.spotify.com/track/4xwWZDoe2rD5pVPnOE4rle) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Será Que Ahora Podremos Entendernos](https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4) | 4:50 |
 | 41 | [Shape](https://open.spotify.com/track/1Tkm7LMbaqk4xDIEZT3oZj) | [Glasser](https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0) | [Interiors](https://open.spotify.com/album/5XIkLswshaViwFERckpk0j) | 4:57 |
 | 42 | [FYT](https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [FYT](https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j) | 2:27 |
 | 43 | [Hello Tarantino](https://open.spotify.com/track/2mVvltB6qGGx51fyvywVkD) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [Paper Dolls](https://open.spotify.com/album/6x5YIfaNRKfwaVhHjAWE4D) | 2:00 |
-| 44 | [Le grand écart](https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Supermercado](https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK) | 4:02 |
+| 44 | [Domino](https://open.spotify.com/track/5C9gmvBVdhEAHAqlpFGHqk) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Junior](https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N) | 4:37 |
 | 45 | [1/2 Día](https://open.spotify.com/track/123Ol7WZAqaZqOTXS5eHBi) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [Obrigaggi](https://open.spotify.com/album/7g0kxl7mi7E5YLKiDd1f5t) | 5:32 |
 | 46 | [Runnin](https://open.spotify.com/track/37KlI45scNKbu1ZXnRwXPj) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [Runnin](https://open.spotify.com/album/7Jd9oUB6lEUrSXdnn2KCeo) | 2:57 |
 | 47 | [Todo Lo Que Querías Saber](https://open.spotify.com/track/15crIgsqt1x5jkMmZ9hUE9) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Pies sobre la tierra](https://open.spotify.com/album/6AwupPymKbGJBX6Tfat1UB) | 4:31 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 64 | [Pulpos \- Los Alan Anaya Remix](https://open.spotify.com/track/6tUVqheajV2blIRHvRX5Ob) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX), [Los Alan Anaya](https://open.spotify.com/artist/6AWqdfPztHbCcAk3JH2rQS) | [Pulpos](https://open.spotify.com/album/1nJyg4XvniLvxu2ibVfP1r) | 3:50 |
 | 65 | [Pantitlán](https://open.spotify.com/track/0d0HTxy6Exc4mzaDjdj8mh) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [GOLLY](https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3) | 5:25 |
 
-Snapshot ID: `MCw3MDZhMTU3NGEwZTkyNTRmZjZiYTM5NzBiODMwMTE5ZjlkZTVjNGJh`
+Snapshot ID: `MCwyNjI0OTAyOWU4OWI1MTg4MTA0MmE4MDkxZmZlNmUzNzk3NjQwZGFi`

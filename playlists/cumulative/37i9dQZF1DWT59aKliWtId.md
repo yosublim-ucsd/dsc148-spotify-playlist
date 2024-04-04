@@ -4,7 +4,7 @@
 
 > a high\-quality alternative blend ft\. Mt\. Joy
 
-1,012 songs - 2 day 13 hr 57 min
+1,013 songs - 2 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -816,7 +816,8 @@
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-08-05 | 2022-09-17 |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2022-10-14 | 2023-01-21 |
 | [Strange Encounters](https://open.spotify.com/track/47acPO08k0F2MZlQMaKabf) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Strange Encounters](https://open.spotify.com/album/3kVUhdMFFgYJin3Uk8WQeA) | 3:36 | 2022-09-23 | 2023-03-18 |
-| [Stranger](https://open.spotify.com/track/6zQjpTXDwTr0otUzBFqdPo) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4I3hBaNXrp7V0Fzx9KE8iA) | 3:54 | 2024-01-05 |  |
+| [Stranger](https://open.spotify.com/track/1xn1htwSeRr3HhOlYToFEx) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF) | 3:54 | 2024-03-18 |  |
+| [Stranger](https://open.spotify.com/track/6zQjpTXDwTr0otUzBFqdPo) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4I3hBaNXrp7V0Fzx9KE8iA) | 3:54 | 2024-01-05 | 2024-04-04 |
 | [Stranger Danger](https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Stranger Danger](https://open.spotify.com/album/2bpaU06D3UgJvJiCWBnWNS) | 4:41 | 2024-01-05 |  |
 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 | 2022-08-05 | 2022-11-19 |
 | [Strike Gold](https://open.spotify.com/track/3g3vayoe4Y10leAHdrvTnM) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Strike Gold](https://open.spotify.com/album/5M6sqKBlKeBTACwzWexteZ) | 3:20 | 2022-10-07 | 2022-10-29 |

@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX?si=lI0sVvQFRrCSmKVXKyfmjw"> Leo Waters </a>\. Updates every Wednesday.
 
-2,210 songs - 4 day 17 hr 20 min
+2,211 songs - 4 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -965,7 +965,8 @@
 | [Inside](https://open.spotify.com/track/2F5IXlnz0CcA5pbLPfkvNp) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [London Rhodes](https://open.spotify.com/artist/0xOc1dxgxm7uqzHoq0yS7l) | [Comma](https://open.spotify.com/album/2h2XSOe208XHaiaP4Ska3r) | 3:30 | 2022-10-28 | 2022-12-01 |
 | [Insomnia](https://open.spotify.com/track/1B1yI9b6rrv1v2jA0uMzjK) | [Lendryx](https://open.spotify.com/artist/0bJfSHjZh1XhddFfXr8zvQ) | [Insomnia](https://open.spotify.com/album/5mneR2SjhNjLpiyV80HzqY) | 3:56 | 2023-11-08 | 2023-11-30 |
 | [Intergalactic Janet](https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/3vS1oa8XAK2I4BLsMPEsK2) | 2:40 | 2024-03-08 | 2024-03-24 |
-| [Intergalactic Janet](https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj) | 2:40 | 2024-03-08 |  |
+| [Intergalactic Janet](https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj) | 2:40 | 2024-03-08 | 2024-04-04 |
+| [Intergalactic Janet](https://open.spotify.com/track/7zgEoBci3rKmEkLdsZ8ZKJ) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/7zu5604lPvQjVBERSdwrTe) | 2:40 | 2024-03-08 |  |
 | [INTERWEBS!](https://open.spotify.com/track/0IkS6pBPX2lEZMACNLpbtU) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [ICE CREAM CLONES 2](https://open.spotify.com/album/0F5obDWo7KyKgLWfDnJowH) | 1:10 | 2023-10-03 | 2023-11-30 |
 | [Into Nirvana](https://open.spotify.com/track/3c5vdnAI4NMrTDwBvEOmoh) | [SPIRITSAVER](https://open.spotify.com/artist/3DbCiwrbBPRRuCo4UvLl8c) | [Into Nirvana](https://open.spotify.com/album/23yroNvqRYGmbbl0YXPsS5) | 2:39 | 2023-03-10 | 2023-05-06 |
 | [Intoxicated Truth](https://open.spotify.com/track/52iaQGkgAtc4bwr1iAiVaq) | [Masati](https://open.spotify.com/artist/6Ca21SJ709vzZufDLMQakl) | [Intoxicated Truth](https://open.spotify.com/album/2XKDY407hdliXUT6i3Bcxm) | 2:56 | 2021-12-01 | 2022-01-13 |

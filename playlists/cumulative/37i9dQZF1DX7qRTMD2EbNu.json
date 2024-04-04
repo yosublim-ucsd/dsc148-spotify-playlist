@@ -5355,6 +5355,40 @@
     },
     {
       "album": {
+        "name": "Maadwoa",
+        "url": "https://open.spotify.com/album/0zIwBMyrlNlLr7wY8I0rnI"
+      },
+      "artists": [
+        {
+          "name": "Bra Kay",
+          "url": "https://open.spotify.com/artist/1R9t1sCJmaZfdy1CHNHBC4"
+        },
+        {
+          "name": "Trapp Alone",
+          "url": "https://open.spotify.com/artist/33KeQgtJzDMjuqM4GXOfBZ"
+        },
+        {
+          "name": "BiggieMan Walka",
+          "url": "https://open.spotify.com/artist/4AqTFgPuAqV7dq86tBohcq"
+        },
+        {
+          "name": "Kofi Gold",
+          "url": "https://open.spotify.com/artist/71p0KWs092VVuWYUIYLlPa"
+        },
+        {
+          "name": "Talent Kiwaat",
+          "url": "https://open.spotify.com/artist/59c3szjXn3nbThXlvQuQ36"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223451,
+      "name": "Maadwoa",
+      "url": "https://open.spotify.com/track/6bsjgT4PrP7ud9QGAZxEUX"
+    },
+    {
+      "album": {
         "name": "Obra",
         "url": "https://open.spotify.com/album/1c3hmyOdzQwWnszbibQ9B3"
       },
@@ -6670,7 +6704,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 137142,
       "name": "OGBUEFI",
       "url": "https://open.spotify.com/track/2Mu5P5BnXRrqsAC5GeWHHf"
@@ -7280,6 +7314,24 @@
       "duration_ms": 121558,
       "name": "Problem No Dey Finish - Remix",
       "url": "https://open.spotify.com/track/4ugk39VVWM6HHxvhTD1OSF"
+    },
+    {
+      "album": {
+        "name": "Kweku Jesus",
+        "url": "https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2"
+      },
+      "artists": [
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135617,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/340GE1ldSL9iRUm6QjHUiU"
     },
     {
       "album": {
@@ -8938,7 +8990,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 171602,
       "name": "The Don",
       "url": "https://open.spotify.com/track/0YhOztwDtfp66kMmYEooXE"
@@ -9000,7 +9052,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 208439,
       "name": "This Ain't Funny",
       "url": "https://open.spotify.com/track/00nMzwM34zJSGoOuIF1CxJ"

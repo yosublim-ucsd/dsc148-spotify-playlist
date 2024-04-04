@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Isabel LaRosa
 
-5,093 songs - 10 day 13 hr 28 min
+5,094 songs - 10 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3458,7 +3458,8 @@
 | [Out Of Time](https://open.spotify.com/track/7tlJGdzYF0qXmeyeqSA7dP) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Out Of Time](https://open.spotify.com/album/7fHa0ax9vb9EDVAuI3d8U5) | 3:10 | 2023-06-09 | 2023-06-24 |
 | [Outside](https://open.spotify.com/track/3fQ5mI7atQ5TdOJ9gxD0L0) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Outside](https://open.spotify.com/album/2dpaTGT2dKwtH38HcG5Q3i) | 2:42 | 2022-09-09 | 2022-09-17 |
 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 | 2023-12-08 | 2024-01-13 |
-| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-29 |  |
+| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-29 | 2024-04-04 |
+| [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-03-29 |  |
 | [Outta My Head](https://open.spotify.com/track/3lrbho4L4tkbi4G0md2mfy) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Outta My Head](https://open.spotify.com/album/5hn0DxMGsNYgBYjK6AkSaX) | 2:52 | 2023-11-17 | 2023-12-09 |
 | [Over & Done](https://open.spotify.com/track/2SrYguoTayQPWhMqlYiRPJ) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Over & Done](https://open.spotify.com/album/1202C1Z8kSjcCgfz33mCeu) | 2:01 | 2023-02-03 | 2023-02-18 |
 | [OVER EVERYTHING](https://open.spotify.com/track/3lOVMfy4wexOrOKEXW2mhV) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [OVER EVERYTHING](https://open.spotify.com/album/50jAXDzoQmhAKojgDXY8fM) | 3:11 | 2022-03-18 | 2022-04-09 |

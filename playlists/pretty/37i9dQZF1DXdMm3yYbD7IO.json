@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 328490,
+  "num_followers": 328831,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTRiNTU4MjllZWIwODdhYTUyOTE2OGI3ZTBmMzYwYTFhNmZlZjJh",
+  "snapshot_id": "MCxjZGU3OTc0Y2FmMDIxMjNlMWU0NDRiMjY0YjkxYTRkYzM4MzgwY2Jm",
   "tracks": [
     {
       "added_at": "2024-03-22 15:16:56",
@@ -371,6 +371,26 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 244093,
       "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
       "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
-        "name": "Europop",
-        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
         }
       ],
-      "duration_ms": 246426,
-      "name": "Waiting for Tonight",
-      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
+      "duration_ms": 240266,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ"
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
       "artists": [
         {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 240266,
-      "name": "Be My Lover",
-      "url": "https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p"
+      "duration_ms": 246426,
+      "name": "Waiting for Tonight",
+      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/15ejkGAzLKHl2S1jvXWb1u"
+      },
+      "artists": [
+        {
+          "name": "Blue Boy",
+          "url": "https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG"
+        }
+      ],
+      "duration_ms": 423028,
+      "name": "Remember Me - Original Mix",
+      "url": "https://open.spotify.com/track/7MwPTFInd4Y3q1ZtwgzG57"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
         "name": "Two Can Play That Game",
         "url": "https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 229226,
       "name": "Show Me Love - Radio Version",
       "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/15ejkGAzLKHl2S1jvXWb1u"
-      },
-      "artists": [
-        {
-          "name": "Blue Boy",
-          "url": "https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG"
-        }
-      ],
-      "duration_ms": 423028,
-      "name": "Remember Me - Original Mix",
-      "url": "https://open.spotify.com/track/7MwPTFInd4Y3q1ZtwgzG57"
     },
     {
       "added_at": "2024-03-22 15:16:56",

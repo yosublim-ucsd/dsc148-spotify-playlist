@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Brindo Con Agua",
+        "url": "https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281082,
+      "name": "Brindo Con Agua",
+      "url": "https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx"
+    },
+    {
+      "album": {
         "name": "God's Project",
         "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },

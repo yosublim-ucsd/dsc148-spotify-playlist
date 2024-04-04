@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Ovall
 
-1,462 songs - 3 day 18 hr 30 min
+1,464 songs - 3 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,6 +630,7 @@
 | [Pendulum](https://open.spotify.com/track/4qkA3TdeAxhSebHHxIHUO6) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [Pendulum](https://open.spotify.com/album/60lMnicqMNrjCRlJxL289C) | 4:21 | 2024-02-27 |  |
 | [Pentatonic 物語](https://open.spotify.com/track/7f1ZL67EshqrNwoqBvFlWl) | [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [高木大丈夫](https://open.spotify.com/artist/4tkM95cPiJfdqAfWfvxU60), [Marty Holoubek](https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF) | [Songbook6](https://open.spotify.com/album/3asyCHxLTPhQu11NlRCqWh) | 3:04 | 2023-03-07 | 2023-05-18 |
 | [Persona](https://open.spotify.com/track/4L00tvgurAGsSfW0fei2cZ) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Persona](https://open.spotify.com/album/5e8sX6JiIW3v1LhxBwSoRQ) | 3:00 | 2023-06-20 | 2023-09-16 |
+| [Petrichor](https://open.spotify.com/track/3xr3NiQnIEVgIlnrWhMuC0) | [Raine](https://open.spotify.com/artist/1hxElSEVvcFYd7lTQaTXYG) | [Petrichor](https://open.spotify.com/album/2ig1OYEpZNZTRaSADMik6b) | 2:42 | 2024-04-02 |  |
 | [Pickles](https://open.spotify.com/track/2m92VxBngsxzH7vdWfZD7x) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [Pickles](https://open.spotify.com/album/3g9tHeYcrVwCzwiwFgfawJ) | 2:59 | 2023-11-29 | 2023-12-06 |
 | [PIP](https://open.spotify.com/track/5do7C5GwLyh3ZnEHkhxdy2) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [PIP](https://open.spotify.com/album/43YJER5iJtpSQNrpDvJZBQ) | 3:05 | 2023-07-11 | 2023-07-19 |
 | [PIP](https://open.spotify.com/track/6J6XYfPFeeOXlJ9BPyuPza) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [PIP](https://open.spotify.com/album/2Y2xII268RQBE4B4iplbO7) | 3:05 | 2023-07-11 | 2023-07-13 |
@@ -729,6 +730,7 @@
 | [she left](https://open.spotify.com/track/3JxybPHJrgfuF2C7aYHsrb) | [elsie sue](https://open.spotify.com/artist/7t7QD0bzhYdW6POYrkeuRI) | [she left](https://open.spotify.com/album/6GzzKcYJRwROX6cWFVNMOB) | 4:41 | 2023-01-12 | 2023-02-08 |
 | [she so come!!!](https://open.spotify.com/track/0QH4z68TORGX2tBGuYPkr2) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ロンリーメイビー](https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E) | 2:59 | 2023-04-27 | 2023-08-31 |
 | [Shiawase no Mawarimichi](https://open.spotify.com/track/20riqOrK0iWFV2mpjbcbDr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Shiawase no Mawarimichi](https://open.spotify.com/album/0K0nIz0V6KZbfq3uM66yiW) | 3:45 | 2023-10-05 | 2024-01-26 |
+| [Shinsho Volcano](https://open.spotify.com/track/4YyYCuWBmgl5qOCZTURogx) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Shinsho Volcano](https://open.spotify.com/album/62idr27j9mujFTXG5ytLEj) | 3:57 | 2024-04-02 |  |
 | [Shinyaku \[Tsugunai\]](https://open.spotify.com/track/6hW5JA90T47nYMNavZw0u3) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [Shinyaku \[Tsugunai\]](https://open.spotify.com/album/0IhnZ25LAqNq3fJEjhkoBV) | 4:58 | 2023-10-17 | 2023-10-25 |
 | [SHIRAFU](https://open.spotify.com/track/69YVv4bBFOBJUT7vNDkyCL) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [into the wind](https://open.spotify.com/album/7imFignbAwW3BYnduyaEjQ) | 3:40 | 2023-06-21 | 2023-06-28 |
 | [Shoes](https://open.spotify.com/track/0qerrB7fpmT1O2GkyHmDDg) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [Shoes](https://open.spotify.com/album/0SjNCfSX1tskAsTPW2TZA7) | 2:51 | 2023-01-24 | 2023-02-22 |
@@ -1268,7 +1270,7 @@
 | [好きなように](https://open.spotify.com/track/3tLyaiz0o1oKcibp8NaZK3) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [好きなように](https://open.spotify.com/album/6vvPUBVIrAEPXB9nkrhmsX) | 3:15 | 2023-03-21 | 2023-04-11 |
 | [婚前旅行](https://open.spotify.com/track/7rQmhMKDbH38gPgxaoDa71) | [ヤスエでんじゃらすおじさん](https://open.spotify.com/artist/6lp8w0tjywJNjT6GUWf7m1) | [婚前旅行](https://open.spotify.com/album/1LmngKEowCfzbJYOD4pBIm) | 4:19 | 2023-12-19 | 2024-01-10 |
 | [季節すら追い抜いて](https://open.spotify.com/track/4P0Gq52E5FmBp4IAcJa2eh) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [季節すら追い抜いて](https://open.spotify.com/album/1gAHpVKkoX5GPmKHwOsx7f) | 3:13 | 2023-05-30 | 2023-09-05 |
-| [季節の音](https://open.spotify.com/track/6tYb3UcartboOJaq2PZhE5) | [Jane Jade](https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT), [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [季節の音](https://open.spotify.com/album/1zy47HoZLcCq9NmkKwyFrG) | 4:02 | 2024-01-16 |  |
+| [季節の音](https://open.spotify.com/track/6tYb3UcartboOJaq2PZhE5) | [Jane Jade](https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT), [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [季節の音](https://open.spotify.com/album/1zy47HoZLcCq9NmkKwyFrG) | 4:02 | 2024-01-16 | 2024-04-04 |
 | [宇宙\(苦痛\)](https://open.spotify.com/track/3kgOuTuuRMyt23wiejeBrH) | [GRASAM ANIMAL](https://open.spotify.com/artist/6emi8SzZeJ2JmKnaPnDkbA) | [宇宙\(苦痛\)](https://open.spotify.com/album/6lqvl7ZhUQ5tOuu4j90khR) | 3:55 | 2023-12-05 | 2023-12-13 |
 | [定刻が過ぎて](https://open.spotify.com/track/1aBfnGTsDlJepUBaKf9gh7) | [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7) | [定刻が過ぎて](https://open.spotify.com/album/3sRmij0HZYroryWMWujGZB) | 4:30 | 2023-08-15 | 2023-08-23 |
 | [家](https://open.spotify.com/track/5LxG82Z9tOsn0hcCmlB48y) | [Tocago](https://open.spotify.com/artist/5WYxT3w8PntFhAJC48Y7oc) | [家](https://open.spotify.com/album/6j75ZQcbAel9fYD11yWMb1) | 5:06 | 2024-01-30 | 2024-02-07 |
@@ -1290,7 +1292,7 @@
 | [座礁\(十月\)](https://open.spotify.com/track/0MqVo4lgV4yRSY6GM75NXN) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4) | [座礁\(十月\)](https://open.spotify.com/album/2jUaojtzTVgDwTLrwWWOJT) | 5:06 | 2023-10-24 | 2023-11-01 |
 | [微風](https://open.spotify.com/track/1Fu1Zhso5GXOqn7T2LN22x) | [影山朋子](https://open.spotify.com/artist/16RnOresj3KAOGUKXpyscp) | [微風](https://open.spotify.com/album/6aUCLekBUGPPdn71mfheiw) | 3:09 | 2023-02-21 | 2023-03-01 |
 | [心炉](https://open.spotify.com/track/0Dhw21dqYzexZQ8XiTRmpo) | [Houkago Hotal](https://open.spotify.com/artist/6CTXHqUj5LQSZXGIujgK0h) | [心炉](https://open.spotify.com/album/6Sin3DevPSzMdkW3zBWzYF) | 4:05 | 2023-07-11 | 2023-07-19 |
-| [心象volcano](https://open.spotify.com/track/2yxuOCSihcYAtO3SQo6dmp) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [心象volcano](https://open.spotify.com/album/0d5dVu3nFgs9JZ8QjsIIT2) | 3:57 | 2024-04-02 |  |
+| [心象volcano](https://open.spotify.com/track/2yxuOCSihcYAtO3SQo6dmp) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [心象volcano](https://open.spotify.com/album/0d5dVu3nFgs9JZ8QjsIIT2) | 3:57 | 2024-04-02 | 2024-04-04 |
 | [忘れさせて](https://open.spotify.com/track/5IXxkcxGm9Tk0DmeH8YtV8) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 4:07 | 2023-03-07 | 2023-03-25 |
 | [忘れた](https://open.spotify.com/track/6jANWu5jUoaXMbDPhqKpvh) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [忘れた](https://open.spotify.com/album/5qqZJdza9hi83rxhKlixE5) | 6:02 | 2023-10-24 | 2023-11-01 |
 | [忘れたい](https://open.spotify.com/track/6iPgeH5Zk0sV2Fdh4cxcWf) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [忘れたい](https://open.spotify.com/album/2z3WbukYp2wJGxKXzU1u2k) | 3:22 | 2023-04-11 | 2023-07-21 |

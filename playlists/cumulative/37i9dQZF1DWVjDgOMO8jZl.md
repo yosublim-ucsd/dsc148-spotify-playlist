@@ -4,7 +4,7 @@
 
 > Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:3HRSdDvPAE54ocmaq0JRrJ">Camilla Magli</a>
 
-133 songs - 6 hr 26 min
+134 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,5 +141,6 @@
 | [Vento](https://open.spotify.com/track/5t5qgKLqicCX7qrbYR3GHM) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Marquis](https://open.spotify.com/artist/085cKKfPPbCCfU5LBPXkuC) | [Vento](https://open.spotify.com/album/0tEm7FepTMZ4JgfloAAQrJ) | 2:33 | 2022-08-31 | 2023-04-12 |
 | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP) | 3:02 | 2023-07-06 |  |
 | [Vorrei che fosse odio](https://open.spotify.com/track/7F5OZLcNPOJHdQ3a9ld96C) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Assurditè](https://open.spotify.com/album/6tZ6zLONbRGUBZPoh0g9ha) | 3:03 | 2023-04-11 |  |
+| [ZAINI DI TEMU \(2€\)](https://open.spotify.com/track/3TyaUgaI2aDzeHR4yovRiq) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [MUNICIPIO V :\(](https://open.spotify.com/album/3gd1YoXOGmZ6cKPzB2ZRYm) | 2:35 | 2024-04-03 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 118,
+  "2024-04-04": 118,
   "date_first_scraped": "2024-02-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN\">Delacey</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Delacey",
@@ -1288,6 +1288,28 @@
     },
     {
       "album": {
+        "name": "Same Song Forever",
+        "url": "https://open.spotify.com/album/4zgRXBKyMH1QPGewjYr6ss"
+      },
+      "artists": [
+        {
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+        },
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207700,
+      "name": "Same Song Forever",
+      "url": "https://open.spotify.com/track/7HPOODAHzR3NU7u27MA5QO"
+    },
+    {
+      "album": {
         "name": "The Girl Has A Dream",
         "url": "https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7"
       },
@@ -1303,6 +1325,28 @@
       "duration_ms": 160733,
       "name": "Slot Machine",
       "url": "https://open.spotify.com/track/5P5LgRaqFGwT2lCV5C17XC"
+    },
+    {
+      "album": {
+        "name": "someone's gotta be the last",
+        "url": "https://open.spotify.com/album/2xdqCp16HspPEn9EYHbAE6"
+      },
+      "artists": [
+        {
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+        },
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180118,
+      "name": "someone's gotta be the last",
+      "url": "https://open.spotify.com/track/3wrfNRQxGD9tOr2I2aBPkd"
     },
     {
       "album": {

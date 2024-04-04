@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 374378,
+  "num_followers": 374459,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjU5NTNmODI4YzMxMDRmOWQzYjY3NmNiNmIzNTcyZjE0NWQyYTQ5",
+  "snapshot_id": "MCwwYmMwZTA2ZTllZTBjNmFkOWY4ZDZjZjg3MDUyMWQ0YzQ4ZTViMTgw",
   "tracks": [
     {
       "added_at": "2024-03-28 17:45:11",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
-        "name": "Sweet and Dandy",
-        "url": "https://open.spotify.com/album/1aDfrUrNxGmQkV8CYk8n6s"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 176693,
-      "name": "Pressure Drop",
-      "url": "https://open.spotify.com/track/2EISedV2npKMtvygkykV2r"
-    },
-    {
-      "added_at": "2024-03-28 17:45:11",
-      "album": {
         "name": "In The Wild (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 184760,
       "name": "In The Mirror",
       "url": "https://open.spotify.com/track/17EgS7BaS5b4TbSWTqynF5"
+    },
+    {
+      "added_at": "2024-03-28 17:45:11",
+      "album": {
+        "name": "Sweet and Dandy",
+        "url": "https://open.spotify.com/album/1aDfrUrNxGmQkV8CYk8n6s"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 176693,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/2EISedV2npKMtvygkykV2r"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -627,18 +627,18 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+        "name": "Big Daddy Multitude (2010 Re-Issue)",
+        "url": "https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b"
       },
       "artists": [
         {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
         }
       ],
-      "duration_ms": 275360,
-      "name": "Different People",
-      "url": "https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR"
+      "duration_ms": 166040,
+      "name": "Mr. Smiley",
+      "url": "https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -659,34 +659,18 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
       "artists": [
         {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 161680,
-      "name": "Title Holder",
-      "url": "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
-    },
-    {
-      "added_at": "2024-03-28 17:45:11",
-      "album": {
-        "name": "Big Daddy Multitude (2010 Re-Issue)",
-        "url": "https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b"
-      },
-      "artists": [
-        {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
-        }
-      ],
-      "duration_ms": 166040,
-      "name": "Mr. Smiley",
-      "url": "https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK"
+      "duration_ms": 275360,
+      "name": "Different People",
+      "url": "https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -719,6 +703,22 @@
       "duration_ms": 190333,
       "name": "Mirror In the Bathroom",
       "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
+    },
+    {
+      "added_at": "2024-03-28 17:45:11",
+      "album": {
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Title Holder",
+      "url": "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
+        "name": "A Poets Life",
+        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
+      },
+      "artists": [
+        {
+          "name": "Tim Armstrong",
+          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
+    },
+    {
+      "added_at": "2024-03-28 17:45:11",
+      "album": {
         "name": "Don't Speak",
         "url": "https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 280293,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R"
-    },
-    {
-      "added_at": "2024-03-28 17:45:11",
-      "album": {
-        "name": "A Poets Life",
-        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
-      },
-      "artists": [
-        {
-          "name": "Tim Armstrong",
-          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 130373,
-      "name": "180 Degrees",
-      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
-    },
-    {
-      "added_at": "2024-03-28 17:45:11",
-      "album": {
         "name": "Destruction By Definition",
         "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 188640,
       "name": "Break The Glass",
       "url": "https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09"
+    },
+    {
+      "added_at": "2024-03-28 17:45:11",
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 130373,
+      "name": "180 Degrees",
+      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc"
+        "name": "In Black And White",
+        "url": "https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn"
       },
       "artists": [
         {
-          "name": "Mad Caddies",
-          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
         }
       ],
-      "duration_ms": 173586,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5"
+      "duration_ms": 137960,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
-        "name": "In Black And White",
-        "url": "https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn"
-      },
-      "artists": [
-        {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
-        }
-      ],
-      "duration_ms": 137960,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb"
-    },
-    {
-      "added_at": "2024-03-28 17:45:11",
-      "album": {
         "name": "Everything Sucks",
         "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 220693,
       "name": "Beer",
       "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
+    },
+    {
+      "added_at": "2024-03-28 17:45:11",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc"
+      },
+      "artists": [
+        {
+          "name": "Mad Caddies",
+          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -1439,6 +1439,22 @@
       "duration_ms": 219133,
       "name": "Apparition",
       "url": "https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H"
+    },
+    {
+      "added_at": "2024-03-28 17:45:11",
+      "album": {
+        "name": "Life Sucks... Let's Dance!",
+        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 164552,
+      "name": "You Can't Have All of Me",
+      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
-        "name": "Life Sucks... Let's Dance!",
-        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 164552,
-      "name": "You Can't Have All of Me",
-      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
-    },
-    {
-      "added_at": "2024-03-28 17:45:11",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -1551,6 +1551,22 @@
       "duration_ms": 197040,
       "name": "2Tone Army",
       "url": "https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ"
+    },
+    {
+      "added_at": "2024-03-28 17:45:11",
+      "album": {
+        "name": "Evildoers Beware!",
+        "url": "https://open.spotify.com/album/0ZF8cAEXlbQNTF7fQM1gPe"
+      },
+      "artists": [
+        {
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1xvnm1ufz1gjM3vOu9T8V5"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
-        "name": "Evildoers Beware!",
-        "url": "https://open.spotify.com/album/0ZF8cAEXlbQNTF7fQM1gPe"
+        "name": "Beatdown Generation",
+        "url": "https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud"
       },
       "artists": [
         {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
         }
       ],
-      "duration_ms": 239466,
-      "name": "You",
-      "url": "https://open.spotify.com/track/1xvnm1ufz1gjM3vOu9T8V5"
+      "duration_ms": 194825,
+      "name": "Beatdown Generation",
+      "url": "https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc"
     },
     {
       "added_at": "2024-03-28 17:45:11",
@@ -1607,34 +1623,18 @@
     {
       "added_at": "2024-03-28 17:45:11",
       "album": {
-        "name": "Beatdown Generation",
-        "url": "https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud"
+        "name": "Class of Nations",
+        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
       },
       "artists": [
         {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+          "name": "The Offenders",
+          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
         }
       ],
-      "duration_ms": 194825,
-      "name": "Beatdown Generation",
-      "url": "https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc"
-    },
-    {
-      "added_at": "2024-03-28 17:45:11",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/00sCkojroe6htDeFrTMkKz"
-      },
-      "artists": [
-        {
-          "name": "Mad Caddies",
-          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/1XonzSDpxC7AIkxSKWsNFY"
+      "duration_ms": 191824,
+      "name": "Marchez",
+      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
     }
   ],
   "unique_name": "The Essential Ska",

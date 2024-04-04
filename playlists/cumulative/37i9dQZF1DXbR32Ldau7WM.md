@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now!  Cover: The Birthday
 
-1,008 songs - 2 day 18 hr 43 min
+1,009 songs - 2 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -583,7 +583,7 @@
 | [Voyage](https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Voyage](https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5) | 3:39 | 2023-02-14 | 2023-05-10 |
 | [wana \(Rearrange\)](https://open.spotify.com/track/3EEKmMjaOYQAv7dEIoTb5f) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [wana \(Rearrange\)](https://open.spotify.com/album/7wj4X7jRgxVCsgocGM7ITj) | 4:57 | 2023-05-23 | 2023-05-31 |
 | [Wander Wraith](https://open.spotify.com/track/7nOUXBAT9xF3PaPZQlprxG) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Wander Wraith](https://open.spotify.com/album/5sFfxKiqoQ45I8oCYHTWHL) | 2:44 | 2022-05-12 | 2022-07-28 |
-| [Wanna Wanna Do](https://open.spotify.com/track/15j2NH07boLC7GerPS3Lwq) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Wanna Wanna Do](https://open.spotify.com/album/3qJYXbayDKvI4ZN5SC3Rtz) | 2:50 | 2024-02-27 |  |
+| [Wanna Wanna Do](https://open.spotify.com/track/15j2NH07boLC7GerPS3Lwq) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Wanna Wanna Do](https://open.spotify.com/album/3qJYXbayDKvI4ZN5SC3Rtz) | 2:50 | 2024-02-27 | 2024-04-04 |
 | [Waratteokure](https://open.spotify.com/track/4Yn9nYaGEjHA9R7oEU0Xyi) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [LOVE&PEACE!MASTERPEACE!](https://open.spotify.com/album/4BMVhIUdTJ8tos2dDXm3nt) | 4:33 | 2023-12-05 | 2023-12-13 |
 | [Waratteokure](https://open.spotify.com/track/588GkOEGHQUW4DOB7z2znS) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Waratteokure](https://open.spotify.com/album/5x2Ba1mfp35h8sRajMNXQs) | 4:33 | 2023-10-10 | 2023-11-01 |
 | [we can't change the world without you here](https://open.spotify.com/track/0hdRkedEkFTGfgskmYOe57) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [driven by impulse](https://open.spotify.com/album/0CQuyz1VhstmZAfcvPcPf5) | 4:14 | 2023-10-03 | 2023-10-11 |
@@ -709,6 +709,7 @@
 | [ケモノミチ](https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [ケモノミチ](https://open.spotify.com/album/0klgJfPMllexvhss9c816Z) | 3:58 | 2023-09-19 |  |
 | [ゲット・アップ・ルーシー](https://open.spotify.com/track/2KuNvu2Jh1CYVOrhEHWN8S) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [Chicken Zombies](https://open.spotify.com/album/5brEuhJXQyScy3W5XPtrJN) | 4:36 | 2023-12-19 |  |
 | [ココカラ銀座](https://open.spotify.com/track/4nOYiE2HLDen03WXEN0iNw) | [Hoff Dylan](https://open.spotify.com/artist/47ircJ7HYosHqScopxYS4S) | [ココカラ銀座](https://open.spotify.com/album/7j4JuldCckd7krjlvHcVfC) | 4:34 | 2022-05-10 | 2022-05-21 |
+| [コバルトブルー](https://open.spotify.com/track/48kgW2worhXNFJJ2KN9yEr) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [ヘッドフォンチルドレン](https://open.spotify.com/album/1LypiBHtLzLa0c9IErlDt6) | 4:25 | 2024-04-03 |  |
 | [ゴミ](https://open.spotify.com/track/5tjwre016j6KDYphUjtbgU) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [再生する](https://open.spotify.com/album/1aR3uLz5jDk4GpgPlT5dKB) | 4:47 | 2022-05-12 | 2022-07-26 |
 | [ゴールド・ディガーズ](https://open.spotify.com/track/7tI6nkmbkKzFNFrsm2U7Ob) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [ゴールド・ディガーズ](https://open.spotify.com/album/16fqAl0jauDkLOqCKgPPtZ) | 3:20 | 2023-09-05 | 2023-09-13 |
 | [サイダー](https://open.spotify.com/track/1DXCe9HX5L4SjhhRQ8nmlZ) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [April](https://open.spotify.com/album/1nzN8sZwqOiMQPnxb2EAN3) | 5:03 | 2024-04-02 |  |
@@ -745,7 +746,7 @@
 | [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 | 2022-12-31 |  |
 | [ツイス島&シャウ島](https://open.spotify.com/track/2zj6zuZJG0t0nYmDIthbEm) | [UNICORN](https://open.spotify.com/artist/0z4FY376uhecutd5Adph8s) | [ツイス島&シャウ島](https://open.spotify.com/album/1kRmUc2mjUeROgPvI6Kvza) | 4:07 | 2022-05-17 | 2022-06-04 |
 | [ツーベーコーベー](https://open.spotify.com/track/6rFUgYqJVGtlUDsj55NZWF) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [ツーベーコーベー](https://open.spotify.com/album/1IwC7sKrMJium5uOs2iQRq) | 3:31 | 2022-10-18 | 2022-10-20 |
-| [ディスイズナゴヤ](https://open.spotify.com/track/3WkWUZQmb0AWagCbVMV0bb) | [Flower Companyz](https://open.spotify.com/artist/2VuMHYb1igsjfw1AXUFV7D) | [ディスイズナゴヤ](https://open.spotify.com/album/2ItZeT3BCIJtbmVXLyVTpm) | 3:32 | 2024-03-05 |  |
+| [ディスイズナゴヤ](https://open.spotify.com/track/3WkWUZQmb0AWagCbVMV0bb) | [Flower Companyz](https://open.spotify.com/artist/2VuMHYb1igsjfw1AXUFV7D) | [ディスイズナゴヤ](https://open.spotify.com/album/2ItZeT3BCIJtbmVXLyVTpm) | 3:32 | 2024-03-05 | 2024-04-04 |
 | [デイトリッパー](https://open.spotify.com/track/08KAPLzpglA5mMdYLD2oPN) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [デイトリッパー](https://open.spotify.com/album/0PvJW9b9BTrAan7HSEO2F4) | 3:59 | 2022-07-26 | 2022-08-03 |
 | [デジャデジャブーブー](https://open.spotify.com/track/0VxgQOeahno7cvgZrQeu8G) | [Hoff Dylan](https://open.spotify.com/artist/47ircJ7HYosHqScopxYS4S) | [デジャデジャブーブー](https://open.spotify.com/album/4rD8b6svsSV09woMYKQuaz) | 4:48 | 2022-09-13 | 2022-09-28 |
 | [デッドエンド](https://open.spotify.com/track/7yhdsc2KmPgEgo1PY3NP3Z) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [E.](https://open.spotify.com/album/6uzOFkqEtJRx9QY5p0gSVR) | 2:53 | 2024-01-23 |  |
@@ -894,7 +895,7 @@
 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-05-10 | 2022-05-17 |
 | [明日大好きなロックンロールバンドがこの街にやってくるんだ \- From THE FIRST TAKE](https://open.spotify.com/track/3yxHmjUP94fcDZu0VgESzj) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [明日大好きなロックンロールバンドがこの街にやってくるんだ \- From THE FIRST TAKE](https://open.spotify.com/album/3aNEW4FiY1e1nZYJ2IDsdB) | 5:39 | 2022-07-21 | 2022-07-29 |
 | [星路 \(みち\)](https://open.spotify.com/track/0TWwbu3qo6fglRBJerQ068) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [星路 \(みち\)](https://open.spotify.com/album/1MIlkgZssg2rgkqbGUY8sx) | 3:36 | 2022-05-17 | 2022-08-24 |
-| [春、白濁](https://open.spotify.com/track/5Ot80fdjtkmVtr4eqg8PBw) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [春、白濁](https://open.spotify.com/album/1H2pv1s8CAQ3dBtdCEGCFd) | 4:30 | 2024-02-13 | 2024-04-03 |
+| [春、白濁](https://open.spotify.com/track/5Ot80fdjtkmVtr4eqg8PBw) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [春、白濁](https://open.spotify.com/album/1H2pv1s8CAQ3dBtdCEGCFd) | 4:30 | 2024-02-13 |  |
 | [春荒らし](https://open.spotify.com/track/0P3S2XjVi8AzTGCcshYKhT) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [ビアトリス](https://open.spotify.com/album/15s87sPhqCsoeUXfPdnEA2) | 4:50 | 2024-02-13 | 2024-02-15 |
 | [時代遅れのRock'n'Roll Band](https://open.spotify.com/track/5x1mEZL7jAmnDvPoALyBdO) | [Keisuke Kuwata feat\. Motoharu Sano, Masanori Sera, Char, Goro Noguchi](https://open.spotify.com/artist/1Zwp8omq5fAcxwTfjZKLoJ), [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [時代遅れのRock'n'Roll Band](https://open.spotify.com/album/34880OhTzI2pjzQW05ooka) | 4:15 | 2022-05-22 | 2022-06-29 |
 | [時計台の鐘](https://open.spotify.com/track/4fJC5DUwH9xy8ofjFPXuUJ) | [Eastern Youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [時計台の鐘](https://open.spotify.com/album/3NjtYF9lvn0lR5JTP9CcfU) | 4:13 | 2023-01-17 | 2023-01-25 |

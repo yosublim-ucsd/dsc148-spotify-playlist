@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 149935,
+  "num_followers": 150004,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2UyOTc1OTAwNjQ3MjRlMzExNjkwZTA1ZjZmODYwZTk4MmVjMGRi",
+  "snapshot_id": "MCwwNmRlNDVhOWZjYjAwOGE5ODE5Njg2OGE4ZTYwNmM2MDVjZGNjYzA0",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Prayed For You (Wedding Version)",
-        "url": "https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO"
-      },
-      "artists": [
-        {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "Prayed For You - Wedding Version",
-      "url": "https://open.spotify.com/track/3nxrXt836ZmhwhOj3bwtNX"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Half Of Me (Acoustic)",
         "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Prayed For You (Wedding Version)",
+        "url": "https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "Prayed For You - Wedding Version",
+      "url": "https://open.spotify.com/track/3nxrXt836ZmhwhOj3bwtNX"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Small Town Hypocrite",
         "url": "https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ"
       },
@@ -743,18 +743,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Under My Skin (Stripped)",
-        "url": "https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD"
+        "name": "Love Like I Drink",
+        "url": "https://open.spotify.com/album/4HQicLU4xhAT21zfVgVEfl"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Carter Winter",
+          "url": "https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3"
+        },
+        {
+          "name": "Allie Colleen",
+          "url": "https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas"
         }
       ],
-      "duration_ms": 185110,
-      "name": "Under My Skin - Stripped",
-      "url": "https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg"
+      "duration_ms": 195309,
+      "name": "Love Like I Drink",
+      "url": "https://open.spotify.com/track/3w4Lrrr2Gz5TidpwCzhgCR"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -791,22 +795,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Love Like I Drink",
-        "url": "https://open.spotify.com/album/4HQicLU4xhAT21zfVgVEfl"
+        "name": "Under My Skin (Stripped)",
+        "url": "https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD"
       },
       "artists": [
         {
-          "name": "Carter Winter",
-          "url": "https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3"
-        },
-        {
-          "name": "Allie Colleen",
-          "url": "https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 195309,
-      "name": "Love Like I Drink",
-      "url": "https://open.spotify.com/track/3w4Lrrr2Gz5TidpwCzhgCR"
+      "duration_ms": 185110,
+      "name": "Under My Skin - Stripped",
+      "url": "https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Trouble (Piano Version)",
-        "url": "https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU"
+        "name": "Little More Be Alright",
+        "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
         }
       ],
-      "duration_ms": 214640,
-      "name": "Trouble - Piano Version",
-      "url": "https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8"
+      "duration_ms": 215721,
+      "name": "Little More Be Alright",
+      "url": "https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Little More Be Alright",
-        "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
+        "name": "Trouble (Piano Version)",
+        "url": "https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU"
       },
       "artists": [
         {
-          "name": "Drew Green",
-          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 215721,
-      "name": "Little More Be Alright",
-      "url": "https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf"
+      "duration_ms": 214640,
+      "name": "Trouble - Piano Version",
+      "url": "https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
-      },
-      "artists": [
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Neon Moon",
         "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 161052,
       "name": "Neon Moon",
       "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2024-03-15 04:00:00",

@@ -4,7 +4,7 @@
 
 > Escucha mujeres a todo volumen\. Foto: Las Migas.
 
-1,208 songs - 2 day 13 hr 19 min
+1,209 songs - 2 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,8 @@
 | [ESA NO ERES TÚ](https://open.spotify.com/track/3bzIamV5ZshdOHcSsrq5eN) | [Blanca Vergara](https://open.spotify.com/artist/1x96drG6MuIhTlof4vmpWU) | [ESA NO ERES TÚ](https://open.spotify.com/album/2drDvEpuRZYTh2Gjd9n9UU) | 2:34 | 2023-09-05 | 2023-10-04 |
 | [esa también fui yo \(quiero acordarme\)](https://open.spotify.com/track/1Bk4ysybrMJr9K2mTckbr9) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [esa también fui yo \(quiero acordarme\)](https://open.spotify.com/album/0QeEUOXDihRJEHYzlCRVvv) | 3:42 | 2022-05-31 | 2022-07-06 |
 | [ESFERA DE AMOR](https://open.spotify.com/track/60J5YB1IUld4jyiIRSdj2J) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [ESFERA DE AMOR](https://open.spotify.com/album/12aXGxGIIrJ9MupaBY5Ohs) | 3:10 | 2023-06-06 | 2023-07-05 |
-| [Esku Burdin](https://open.spotify.com/track/2rjsK0psyIVOQWqzXselcQ) | [J Martina](https://open.spotify.com/artist/2n5oKnRt4i2SfKUPw3sX8R) | [Esku Burdin](https://open.spotify.com/album/5Wc3INw8Ou9FgS3dtftoO6) | 2:46 | 2024-04-02 |  |
+| [Esku Burdin](https://open.spotify.com/track/2rjsK0psyIVOQWqzXselcQ) | [J Martina](https://open.spotify.com/artist/2n5oKnRt4i2SfKUPw3sX8R) | [Esku Burdin](https://open.spotify.com/album/5Wc3INw8Ou9FgS3dtftoO6) | 2:46 | 2024-04-02 | 2024-04-04 |
+| [Esku Burdin](https://open.spotify.com/track/2UPzdnrp23Nl0ZCD3OfBRU) | [J Martina](https://open.spotify.com/artist/2n5oKnRt4i2SfKUPw3sX8R) | [Esku Burdin](https://open.spotify.com/album/1PxCSh8I08RRPz3PB1Eltw) | 2:46 | 2024-04-03 |  |
 | [ESPACIO](https://open.spotify.com/track/2WtomhZTjzPBnx40YxjxO1) | [Julia Medina](https://open.spotify.com/artist/2W9Bqi3EV1GXFkCOvE3oSE) | [ESPACIO](https://open.spotify.com/album/4Kyudq8I7i95daxk7Bxdvt) | 3:40 | 2024-03-05 | 2024-04-03 |
 | [Esperanza verbena](https://open.spotify.com/track/5EkSCUTjc5JkOI6EtJ5gSt) | [Sofía Comas](https://open.spotify.com/artist/4W8QcZ9XWkdnFcMFVwL6Rb) | [Esperanza verbena](https://open.spotify.com/album/4SzOzuwAoK3fXfEiLGAGYs) | 4:15 | 2022-10-04 | 2022-11-09 |
 | [Esquiando](https://open.spotify.com/track/34j9ERYhFkmw76khX9yHDo) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [Esquiando](https://open.spotify.com/album/1os3O9AAm95njtVxeeweE3) | 2:55 | 2023-01-03 | 2023-02-02 |

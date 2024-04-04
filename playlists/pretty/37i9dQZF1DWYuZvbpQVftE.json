@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 24656,
+  "num_followers": 24673,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGYwOTU5Zjg4NTJkMjQ4MzJlZGUzZDZmZGI1NjFjMWUzNmE4MjAy",
+  "snapshot_id": "MCwwOWM3ODA1MWEwMzJmNzZkN2QzZDE3NDRkYjE5ZmFmNzNiZTE1OGJj",
   "tracks": [
     {
       "added_at": "2024-03-20 14:55:42",
@@ -782,10 +782,22 @@
         {
           "name": "Art Pepper",
           "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Jimmie Cobb",
+          "url": "https://open.spotify.com/artist/1ZDbHjC2VHltuYEBadypFt"
         }
       ],
       "duration_ms": 416866,
-      "name": "Gettin' Together [Original Take]",
+      "name": "Gettin' Together - Original Take",
       "url": "https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX"
     },
     {

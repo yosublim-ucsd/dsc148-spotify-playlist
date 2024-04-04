@@ -1,12 +1,12 @@
 {
   "description": "It's just one of those days...",
-  "num_followers": 1871403,
+  "num_followers": 1871831,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzA2ZmZiNjExYzk0NmU5YzE0NmY1MGZjYjA4OTVkNjE4MmE1M2Yw",
+  "snapshot_id": "MCwxNzliNGI4MmE3MGEzZWQ3YWI2NDJkZjUwZmViZjM3NDM0OWQzOTg3",
   "tracks": [
     {
       "added_at": "2024-03-26 10:10:23",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-03-26 10:10:23",
       "album": {
-        "name": "The Fundamental Elements of Southtown",
-        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 247253,
-      "name": "Southtown",
-      "url": "https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD"
-    },
-    {
-      "added_at": "2024-03-26 10:10:23",
-      "album": {
         "name": "Welcome",
         "url": "https://open.spotify.com/album/713d2aig86cskmj4zdL9nR"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 189200,
       "name": "Poem",
       "url": "https://open.spotify.com/track/7mQwxVogsnpR3h6AJLQLlR"
+    },
+    {
+      "added_at": "2024-03-26 10:10:23",
+      "album": {
+        "name": "The Fundamental Elements of Southtown",
+        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 247253,
+      "name": "Southtown",
+      "url": "https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD"
     },
     {
       "added_at": "2024-03-26 10:10:23",
@@ -1111,22 +1111,6 @@
       "duration_ms": 176600,
       "name": "Get Up Again",
       "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
-    },
-    {
-      "added_at": "2024-03-26 10:10:23",
-      "album": {
-        "name": "Greatest Hits (The Atlantic Years)",
-        "url": "https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 203693,
-      "name": "Alive - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3IRovqSVYx3CNtDWRebsET"
     },
     {
       "added_at": "2024-03-26 10:10:23",
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2024-03-26 10:10:23",
       "album": {
+        "name": "Greatest Hits (The Atlantic Years)",
+        "url": "https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 203693,
+      "name": "Alive - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3IRovqSVYx3CNtDWRebsET"
+    },
+    {
+      "added_at": "2024-03-26 10:10:23",
+      "album": {
         "name": "Confession [Special Edition]",
         "url": "https://open.spotify.com/album/24xOhyTbtUHw0NTWemb1md"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-03-26 10:10:23",
       "album": {
-        "name": "Animosity",
-        "url": "https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 218933,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
-    },
-    {
-      "added_at": "2024-03-26 10:10:23",
-      "album": {
         "name": "Coal Chamber",
         "url": "https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 215133,
       "name": "Sway",
       "url": "https://open.spotify.com/track/19bAcl8m0DEUzteLSBDnzH"
+    },
+    {
+      "added_at": "2024-03-26 10:10:23",
+      "album": {
+        "name": "The Height of Callousness",
+        "url": "https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL"
+      },
+      "artists": [
+        {
+          "name": "Spineshank",
+          "url": "https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "New Disease",
+      "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"
     }
   ],
   "unique_name": "Nu Metal Era",

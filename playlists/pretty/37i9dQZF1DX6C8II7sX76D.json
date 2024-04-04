@@ -1,12 +1,12 @@
 {
   "description": "pov: u hand the internet the aux",
-  "num_followers": 202022,
+  "num_followers": 202102,
   "original_name": "Viral Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGZiZTk4NTdkM2FkZjg5MDg1MWU5N2QwNjBmMWQzNjBhMDM5MGFm",
+  "snapshot_id": "MCw4NWZhZmJlOThhYWE2NWZiYTllNjRlNjg1ZTBjZjNlZWY1MjYyMGE3",
   "tracks": [
     {
       "added_at": "2024-04-02 18:03:54",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-04-02 18:03:54",
       "album": {
+        "name": "CUTE DEPRESSED",
+        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "duration_ms": 96946,
+      "name": "CUTE DEPRESSED",
+      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
+    },
+    {
+      "added_at": "2024-04-02 18:03:54",
+      "album": {
         "name": "Escapism.",
         "url": "https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q"
       },
@@ -919,30 +935,6 @@
       "duration_ms": 239888,
       "name": "Escapism. - Sped Up",
       "url": "https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz"
-    },
-    {
-      "added_at": "2024-04-02 18:03:54",
-      "album": {
-        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-        "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 204763,
-      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-      "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
     }
   ],
   "unique_name": "Viral Dance",

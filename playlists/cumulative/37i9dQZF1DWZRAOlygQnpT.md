@@ -4,7 +4,7 @@
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-258 songs - 11 hr 19 min
+259 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Cuando Era Jovencito](https://open.spotify.com/track/45gHhGTzWoBZucIVHkWDLj) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/5YIaqX4l18vFQ0fcYSq0kU) | 2:29 | 2020-04-17 | 2022-07-29 |
 | [Cuando Era Jovencito](https://open.spotify.com/track/5uvi6UhmUFn8jiSPxPOeIo) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5) | 2:29 | 2020-04-17 |  |
 | [Cuando Era un Jovencito](https://open.spotify.com/track/7B1VlOOC2K4UkWNJNXbG6w) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Amores Incomparables, Vol\. 3](https://open.spotify.com/album/0wl64awQOtkdtCQuZDcY4n) | 2:45 | 2020-04-17 |  |
+| [Cuando Me Enamoro \(Quando Mi Inamoro\)](https://open.spotify.com/track/27tgdvEdEXoGVBvRomPMiU) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2OA7EvjDkBZMkAZvElz8UU) | 3:00 | 2024-04-03 |  |
 | [Cuando yo era un jovencito](https://open.spotify.com/track/2rAHWCsi5TaVUf1f6lJ41d) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Los 60 México](https://open.spotify.com/album/3xbJUwewilXHc2HOGdPI9n) | 2:47 | 2020-04-17 | 2022-11-13 |
 | [Cuando yo era un jovencito \- Cotto Fields\-](https://open.spotify.com/track/5ouydE9d0hoTU6d1Vz1cWX) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Peerless 80 Aniversario \- 24 Exitos Vol\. 2](https://open.spotify.com/album/4r7lKZlexihhW6tGY89UoO) | 2:47 | 2020-04-17 | 2022-07-29 |
 | [Dale Dale](https://open.spotify.com/track/3Sa5qXg8JBBTR4SpasA7TS) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock Con Manolo Muñoz, Vol\. 2](https://open.spotify.com/album/6K7es5CWrCWxzZz9A84XfK) | 2:30 | 2020-04-17 | 2022-07-07 |
@@ -171,7 +172,7 @@
 | [Lucila](https://open.spotify.com/track/10qareqh5FNnyOQzNJM7s8) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock Con Manolo Muñoz, Vol\. 2](https://open.spotify.com/album/6K7es5CWrCWxzZz9A84XfK) | 2:04 | 2020-04-17 | 2022-07-19 |
 | [Magia Blanca](https://open.spotify.com/track/1ETo5cov4mQkdf99ACU6Hc) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Exitos del Rock & Roll](https://open.spotify.com/album/6UYBcb8bGJn02e8NbFTD3N) | 3:23 | 2020-04-17 | 2022-07-19 |
 | [Magia Blanca \(Devil Woman\)](https://open.spotify.com/track/4nYQcuY0FLpmQiwrfKxhjs) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 3:24 | 2020-04-17 |  |
-| [Matilda](https://open.spotify.com/track/3ALSAAcAgp6gmWPnvPPRqH) | [Los Jokers](https://open.spotify.com/artist/2LklOiSHWX50yM3NVYF26Q) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:46 | 2020-04-17 |  |
+| [Matilda](https://open.spotify.com/track/3ALSAAcAgp6gmWPnvPPRqH) | [Los Jokers](https://open.spotify.com/artist/2LklOiSHWX50yM3NVYF26Q) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:46 | 2020-04-17 | 2024-04-04 |
 | [Me Boto](https://open.spotify.com/track/29mwaHq2JUFo2sovIxvHCy) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Polvora](https://open.spotify.com/album/3KefX7SdLViRTuFffsmmxq) | 1:57 | 2020-04-17 | 2022-07-20 |
 | [Melodía de Amor](https://open.spotify.com/track/0PeWOm50vIoOCwp9MljmDk) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP) | 2:26 | 2020-04-17 |  |
 | [Melodía de Amor](https://open.spotify.com/track/4Xz9a5ykDzCQh02OZVjYg0) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/5IjKB1mEzXeHrlgsOT76Yy) | 2:28 | 2020-04-17 | 2022-07-29 |

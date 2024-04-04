@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: A Boogie Wit da Hoodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,539 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,536 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 23 | [PUMP IT UP ε=┌\(^\_^\)┘\(feat\. TiaCorine\)](https://open.spotify.com/track/6PNHNt8v9UUmI7u0D06Fct) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [PUMP IT UP ε=┌\(^\_^\)┘\(feat\. TiaCorine\)](https://open.spotify.com/album/7aEEJ9vUyvFBoI0TcYft26) | 2:16 |
 | 24 | [IT'S US \(feat\. Lil Yachty\)](https://open.spotify.com/track/7LwCqIMsKebFSsGX1eIqoS) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [DO NOT DISTURB \(DELUXE\)](https://open.spotify.com/album/2rIbOVBLitHcUD2g9UCz1P) | 2:03 |
 | 25 | [SLUT ME OUT \- Live From Spotify Green Screen](https://open.spotify.com/track/5Uu6DwDs2C7pIlSaLL90CA) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT ME OUT \(Live From Spotify Green Screen\)](https://open.spotify.com/album/04vFQKejywyFsm8Imdddv1) | 2:02 |
-| 26 | [The Secret Recipe](https://open.spotify.com/track/6x5E9i1oisbfYSTjuSuMqd) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Something Ether](https://open.spotify.com/album/47SrODHFtmaQitdsmonVie) | 4:08 |
+| 26 | [The Secret Recipe](https://open.spotify.com/track/51RaJOy09JMFHyPaDgXxBO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Secret Recipe](https://open.spotify.com/album/53Iy26weUBJoSBssWcfP3q) | 4:08 |
 | 27 | [This My Life \(with Lil Tecca, The Kid LAROI & Lil Skies\)](https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:49 |
 | 28 | [Understand](https://open.spotify.com/track/3bXhP62kGbcZIhArHtmUqx) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Understand](https://open.spotify.com/album/1BBJ9k38MYZvpWPrTH1Ex7) | 2:37 |
 | 29 | [Gangsta](https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Gangsta](https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b) | 3:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 79 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 |
 | 80 | [Theme of +81 Connect Mix](https://open.spotify.com/track/3fgywJ88l0n6O4ExCP12pk) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Theme of +81 Connect EP](https://open.spotify.com/album/7LKI9DciQsxaf41Aw6c3nf) | 7:31 |
 
-Snapshot ID: `MCwxN2U4OGY1YTczOGVkNmQ3ZGI3ZmNkMGMwZmUwMTkyY2FjZTk3Y2M0`
+Snapshot ID: `MCw4ZjM4YjgxZWEwMzEyNjhkNTg0NTA2M2E5NTNkOTA5OWFjZWE3ZGI2`

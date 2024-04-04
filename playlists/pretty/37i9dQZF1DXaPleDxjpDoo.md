@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,183 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,260 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 98 | [Deep Blue](https://open.spotify.com/track/66XGxK7oj3XzAkhVbqSYpb) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO), [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Deep Blue](https://open.spotify.com/album/0iqpQ0FHOu8oFzmRyFuVtZ) | 3:15 |
 | 99 | [Natuurlijk](https://open.spotify.com/track/2BqSwsKNtp7gTAmH479Jmj) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Natuurlijk](https://open.spotify.com/album/4NUMUE1zC63L8XIndUip2e) | 2:49 |
 
-Snapshot ID: `MCxjMzJhNGEyMDM4YmM1YTdlOTcyZTI4ZmQwOTgxY2U0NzFmZjQ4NWEz`
+Snapshot ID: `MCxiYjU5N2FmNDAzMzU3MjQ0ZTZkMjY4MzQ2NzRiMDVjMzMwMTZjODY5`

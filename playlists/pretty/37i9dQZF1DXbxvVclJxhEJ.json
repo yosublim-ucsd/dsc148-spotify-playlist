@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 47901,
+  "num_followers": 47945,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWFlZjUyZmE0ZWIyNDIwMzhmYWZlNmE3NTQwYzE5MTRkMjM5ZTM0",
+  "snapshot_id": "MCw2MjM1Zjk5NzkyNjNlZGE4YzkwNWZlN2JmN2Y3NTY4NzhkMGM4MzZi",
   "tracks": [
     {
       "added_at": "2023-08-23 10:15:28",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Ma Rainey",
-        "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 146226,
-      "name": "Runaway Blues",
-      "url": "https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Queen Of The Blues",
         "url": "https://open.spotify.com/album/6DgLR9u6il9EhtkKEx4AiY"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 188693,
       "name": "When The Levee Breaks",
       "url": "https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Ma Rainey",
+        "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 146226,
+      "name": "Runaway Blues",
+      "url": "https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -439,8 +439,8 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Early One Mornin\u2019 Blues (Live)",
-        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 254106,
-      "name": "Early One Mornin\u2019 Blues - Live",
-      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
+      "duration_ms": 180400,
+      "name": "I'm Feeling Alright",
+      "url": "https://open.spotify.com/track/2oBuD0bsCutoNh1gbVuBPn"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -519,8 +519,8 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Ball n' Chain",
-        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+        "name": "Early One Mornin\u2019 Blues (Live)",
+        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 180400,
-      "name": "I'm Feeling Alright",
-      "url": "https://open.spotify.com/track/2oBuD0bsCutoNh1gbVuBPn"
+      "duration_ms": 254106,
+      "name": "Early One Mornin\u2019 Blues - Live",
+      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
-        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
-      },
-      "artists": [
-        {
-          "name": "Lucille Bogan",
-          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "B.D. Woman's Blues",
-      "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Detroit Is My Home",
         "url": "https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 268066,
       "name": "Doctor Blues",
       "url": "https://open.spotify.com/track/2kPvNhSNpdw8wyMd3KM1qE"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
+        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
+      },
+      "artists": [
+        {
+          "name": "Lucille Bogan",
+          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "B.D. Woman's Blues",
+      "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Bertha \"Chippie\" Hill 1925-1929",
-        "url": "https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9"
-      },
-      "artists": [
-        {
-          "name": "Bertha \"Chippie\" Hill",
-          "url": "https://open.spotify.com/artist/1sPDyROEgOvKQlReOg874E"
-        }
-      ],
-      "duration_ms": 164624,
-      "name": "Trouble In Mind (9510)",
-      "url": "https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "High Flying Bird",
         "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 139773,
       "name": "Good Old Wagon",
       "url": "https://open.spotify.com/track/66UbGr4aj2FCys1UQnzCRR"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Bertha \"Chippie\" Hill 1925-1929",
+        "url": "https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9"
+      },
+      "artists": [
+        {
+          "name": "Bertha \"Chippie\" Hill",
+          "url": "https://open.spotify.com/artist/1sPDyROEgOvKQlReOg874E"
+        }
+      ],
+      "duration_ms": 164624,
+      "name": "Trouble In Mind (9510)",
+      "url": "https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "Love You!",
+        "url": "https://open.spotify.com/album/4FwaiqI20she40DLrEN4ni"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 132106,
+      "name": "Rock The Bop",
+      "url": "https://open.spotify.com/track/3o3zZU5Ib0zd0LpsK1Kfin"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
         "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "East and West Blues",
-        "url": "https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ"
-      },
-      "artists": [
-        {
-          "name": "Marie Grinter",
-          "url": "https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "East and West Blues",
-      "url": "https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Grievous Blues",
         "url": "https://open.spotify.com/album/3NEoLNpzJ1PXhjCGOop7ly"
       },
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "East and West Blues",
+        "url": "https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ"
+      },
+      "artists": [
+        {
+          "name": "Marie Grinter",
+          "url": "https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "East and West Blues",
+      "url": "https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "Presenting Trixie Smith",
         "url": "https://open.spotify.com/album/0PA8ZMSJS3KJuwaogi90lu"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 165573,
       "name": "Jack I'm Mellow (Alternate Take 2)",
       "url": "https://open.spotify.com/track/5d72jeEFlnQLM8crLgRPX3"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Love You!",
-        "url": "https://open.spotify.com/album/4FwaiqI20she40DLrEN4ni"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 132106,
-      "name": "Rock The Bop",
-      "url": "https://open.spotify.com/track/3o3zZU5Ib0zd0LpsK1Kfin"
     },
     {
       "added_at": "2023-08-23 10:15:28",

@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P?si=dZwcyL4NTwS3bnIqUWGHOA\">Delight Munachy</a>",
-  "num_followers": 8146,
+  "num_followers": 8180,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjViMjUyZmFjOWQ3ODczNDE5NzFiZGRlY2FiNmNjNjkyMjBmNzc0",
+  "snapshot_id": "MCw1YzE3OThkN2RlMDA5NGVlZTg4MWIzYmZkMGFjYmZlMTg2YjFkZDg0",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -313,6 +313,22 @@
       "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
     },
     {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
+    },
+    {
       "added_at": "2024-03-22 00:01:00",
       "album": {
         "name": "Faithful",
@@ -357,22 +373,6 @@
       "url": "https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU"
     },
     {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        }
-      ],
-      "duration_ms": 177255,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "The Doing of the Lord",
@@ -391,26 +391,6 @@
       "duration_ms": 286880,
       "name": "The Doing of the Lord",
       "url": "https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "We Prevail",
-        "url": "https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Neeja",
-          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "We Prevail",
-      "url": "https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -437,20 +417,24 @@
       "url": "https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU"
     },
     {
-      "added_at": "2024-03-15 00:01:00",
+      "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Unusual (Live At Cedarwoods of Sandton, 2023)",
-        "url": "https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D"
+        "name": "We Prevail",
+        "url": "https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g"
       },
       "artists": [
         {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
         }
       ],
-      "duration_ms": 383320,
-      "name": "Unusual - Live At Cedarwoods of Sandton, 2023",
-      "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
+      "duration_ms": 224000,
+      "name": "We Prevail",
+      "url": "https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -471,6 +455,22 @@
       "duration_ms": 642124,
       "name": "Amaram Onyewem - Live",
       "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Unusual (Live At Cedarwoods of Sandton, 2023)",
+        "url": "https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "duration_ms": 383320,
+      "name": "Unusual - Live At Cedarwoods of Sandton, 2023",
+      "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -505,26 +505,6 @@
       "url": "https://open.spotify.com/track/4DubS31RXrubsxE486uBPi"
     },
     {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "I Testify (Live)",
-        "url": "https://open.spotify.com/album/7haaOtocoEP2jJlX5Q0gqX"
-      },
-      "artists": [
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 867272,
-      "name": "I Testify - Live",
-      "url": "https://open.spotify.com/track/2hXrCdY4qSLeYLIgIhm5LI"
-    },
-    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "Deliverance",
@@ -549,20 +529,24 @@
       "url": "https://open.spotify.com/track/2J8OaxMbjG25WPenQNWv5s"
     },
     {
-      "added_at": "2024-02-09 00:01:00",
+      "added_at": "2024-03-08 00:01:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
+        "name": "I Testify (Live)",
+        "url": "https://open.spotify.com/album/7haaOtocoEP2jJlX5Q0gqX"
       },
       "artists": [
         {
-          "name": "Jvson",
-          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         }
       ],
-      "duration_ms": 172083,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
+      "duration_ms": 867272,
+      "name": "I Testify - Live",
+      "url": "https://open.spotify.com/track/2hXrCdY4qSLeYLIgIhm5LI"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -581,6 +565,22 @@
       "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
     },
     {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
+      },
+      "artists": [
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        }
+      ],
+      "duration_ms": 172083,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
+    },
+    {
       "added_at": "2024-03-08 00:01:00",
       "album": {
         "name": "Alagbara",
@@ -595,22 +595,6 @@
       "duration_ms": 194690,
       "name": "Alagbara",
       "url": "https://open.spotify.com/track/1GWjrdfcIbN4l1AJHwwTAR"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Ngiyamazi Umhlengi Wam (Live At Cedarwoods of Sandton, 2023)",
-        "url": "https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG"
-      },
-      "artists": [
-        {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
-        }
-      ],
-      "duration_ms": 239506,
-      "name": "Ngiyamazi Umhlengi Wami - Live At Cedarwoods of Sandton, 2023",
-      "url": "https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -635,6 +619,22 @@
       "duration_ms": 166072,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Ngiyamazi Umhlengi Wam (Live At Cedarwoods of Sandton, 2023)",
+        "url": "https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "duration_ms": 239506,
+      "name": "Ngiyamazi Umhlengi Wami - Live At Cedarwoods of Sandton, 2023",
+      "url": "https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -673,6 +673,22 @@
       "url": "https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB"
     },
     {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "heaven on earth",
+        "url": "https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "duration_ms": 203235,
+      "name": "heaven on earth",
+      "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
+    },
+    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "The Gift, Vol. 1",
@@ -691,6 +707,22 @@
       "duration_ms": 186239,
       "name": "Mercy (Hlabelela)",
       "url": "https://open.spotify.com/track/03ex4OAmmBM2ci5W0q2kHm"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Diamant",
+        "url": "https://open.spotify.com/album/5MjLBaWtjwapJ17WVNnWUX"
+      },
+      "artists": [
+        {
+          "name": "Isaac M",
+          "url": "https://open.spotify.com/artist/3vyQ5qr9ke8gRA2VqQtg26"
+        }
+      ],
+      "duration_ms": 178059,
+      "name": "Diamant",
+      "url": "https://open.spotify.com/track/38Eb7bpsTlG6MJ45XLXKAo"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -727,22 +759,6 @@
       "duration_ms": 184337,
       "name": "Blessed Year",
       "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Diamant",
-        "url": "https://open.spotify.com/album/5MjLBaWtjwapJ17WVNnWUX"
-      },
-      "artists": [
-        {
-          "name": "Isaac M",
-          "url": "https://open.spotify.com/artist/3vyQ5qr9ke8gRA2VqQtg26"
-        }
-      ],
-      "duration_ms": 178059,
-      "name": "Diamant",
-      "url": "https://open.spotify.com/track/38Eb7bpsTlG6MJ45XLXKAo"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -797,22 +813,6 @@
       "url": "https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "BBTNTL",
-        "url": "https://open.spotify.com/album/1zdAcSx1879EaMTUB6j317"
-      },
-      "artists": [
-        {
-          "name": "Xammie",
-          "url": "https://open.spotify.com/artist/6Zc3JsghzKESNYD9CfAvqG"
-        }
-      ],
-      "duration_ms": 169621,
-      "name": "BBTNTL",
-      "url": "https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx"
-    },
-    {
       "added_at": "2024-03-15 00:01:00",
       "album": {
         "name": "Eagles",
@@ -833,20 +833,36 @@
       "url": "https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA"
     },
     {
-      "added_at": "2024-03-22 00:01:00",
+      "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "heaven on earth",
-        "url": "https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA"
+        "name": "BBTNTL",
+        "url": "https://open.spotify.com/album/1zdAcSx1879EaMTUB6j317"
       },
       "artists": [
         {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+          "name": "Xammie",
+          "url": "https://open.spotify.com/artist/6Zc3JsghzKESNYD9CfAvqG"
         }
       ],
-      "duration_ms": 203235,
-      "name": "heaven on earth",
-      "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
+      "duration_ms": 169621,
+      "name": "BBTNTL",
+      "url": "https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Welenga",
+        "url": "https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ"
+      },
+      "artists": [
+        {
+          "name": "Beracah",
+          "url": "https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i"
+        }
+      ],
+      "duration_ms": 195970,
+      "name": "Welenga",
+      "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -865,6 +881,22 @@
       "url": "https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3"
     },
     {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Good God",
+        "url": "https://open.spotify.com/album/6JHh4CujygAfP8O0KaMPic"
+      },
+      "artists": [
+        {
+          "name": "Ogocity",
+          "url": "https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/4IQWAPHjNX1ovrpFvlT3YZ"
+    },
+    {
       "added_at": "2024-02-23 00:01:00",
       "album": {
         "name": "Mess into a Message",
@@ -879,6 +911,22 @@
       "duration_ms": 197101,
       "name": "Mess into a Message",
       "url": "https://open.spotify.com/track/76aJBXDHpUhWS3xOeqKlSw"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Centre(d)",
+        "url": "https://open.spotify.com/album/1n8WZO8hiBkVAOQnvIjuwo"
+      },
+      "artists": [
+        {
+          "name": "Eri Ife",
+          "url": "https://open.spotify.com/artist/73HQr5WapR3nN1hP2ZTDJg"
+        }
+      ],
+      "duration_ms": 238124,
+      "name": "The Great Romance",
+      "url": "https://open.spotify.com/track/5FWnDevRoFJVdXlfITYhX4"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -903,54 +951,6 @@
       "duration_ms": 319837,
       "name": "Amen",
       "url": "https://open.spotify.com/track/0oFuL4quMVGs9Hi3NN7nkM"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Good God",
-        "url": "https://open.spotify.com/album/6JHh4CujygAfP8O0KaMPic"
-      },
-      "artists": [
-        {
-          "name": "Ogocity",
-          "url": "https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Good God",
-      "url": "https://open.spotify.com/track/4IQWAPHjNX1ovrpFvlT3YZ"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Centre(d)",
-        "url": "https://open.spotify.com/album/1n8WZO8hiBkVAOQnvIjuwo"
-      },
-      "artists": [
-        {
-          "name": "Eri Ife",
-          "url": "https://open.spotify.com/artist/73HQr5WapR3nN1hP2ZTDJg"
-        }
-      ],
-      "duration_ms": 238124,
-      "name": "The Great Romance",
-      "url": "https://open.spotify.com/track/5FWnDevRoFJVdXlfITYhX4"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Welenga",
-        "url": "https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ"
-      },
-      "artists": [
-        {
-          "name": "Beracah",
-          "url": "https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i"
-        }
-      ],
-      "duration_ms": 195970,
-      "name": "Welenga",
-      "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
     }
   ],
   "unique_name": "Redeemed",

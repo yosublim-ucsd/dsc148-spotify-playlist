@@ -519,6 +519,24 @@
     },
     {
       "album": {
+        "name": "Bigger Than Hope",
+        "url": "https://open.spotify.com/album/3xaGigA4NYkrLRBl2MXOe4"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208660,
+      "name": "Bigger Than Hope",
+      "url": "https://open.spotify.com/track/4BwTyRXI3RBYoWTW9m592J"
+    },
+    {
+      "album": {
         "name": "Bloodlines",
         "url": "https://open.spotify.com/album/6wjDPPN67TFsvIKWafu7Zz"
       },
@@ -6288,7 +6306,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 241951,
       "name": "Time",
       "url": "https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj"

@@ -117,7 +117,7 @@
 | [Gracias](https://open.spotify.com/track/0rLTlPI6pHkqaWD4aMgQGz) | [CSHALOM](https://open.spotify.com/artist/5SnxvQmYVN1duOHPQpequL) | [Gracias](https://open.spotify.com/album/7DOwBvFWT2MXnbAM2ijPsf) | 3:25 | 2021-11-05 | 2022-04-18 |
 | [Gracias a Ti](https://open.spotify.com/track/5yzxEEjnhDaLdgV6BeMwns) | [Soly](https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ) | [Uno Más](https://open.spotify.com/album/0pjWvwnqnS7N2Zx8L0bAwp) | 3:09 | 2021-11-05 | 2022-04-18 |
 | [Gravy](https://open.spotify.com/track/6cpfEoMf8sWeid3EVTuWq3) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Gravy](https://open.spotify.com/album/1YJcCaqfuuHQTJtJYRjJcX) | 3:50 | 2021-11-05 | 2022-03-11 |
-| [Guíame](https://open.spotify.com/track/4c4LbMkJxQ7o9UBdJxVzqn) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Guiame](https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu) | 3:20 | 2022-08-27 | 2022-10-13 |
+| [Guíame](https://open.spotify.com/track/4c4LbMkJxQ7o9UBdJxVzqn) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Guiame](https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu) | 3:20 | 2022-08-27 |  |
 | [Guíame](https://open.spotify.com/track/11iSxK5GHFhq2mgKMJStGs) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Guíame](https://open.spotify.com/album/6OVSRwTmVqFaYZyqsNgklT) | 3:23 | 2022-08-27 |  |
 | [Hablan y Hablan](https://open.spotify.com/track/5p61XRUgkdMrKslLpOSuw5) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf) | [La Resistencia](https://open.spotify.com/album/1gmwW8Krx4WZQSHwu2XtL6) | 3:17 | 2021-11-05 | 2022-03-02 |
 | [Haremos](https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Jhoni](https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr) | 3:21 | 2021-11-05 | 2022-04-18 |
@@ -356,7 +356,7 @@
 | [YNVY](https://open.spotify.com/track/5E8qhyRxm1RIoAP8B1s7vU) | [JAVI](https://open.spotify.com/artist/50TBxDRKXkx8BffKq4NKlK) | [YNVY](https://open.spotify.com/album/3s9soAwQTMddbqPMbaLJL3) | 3:52 | 2021-11-05 | 2022-04-18 |
 | [Yo no fui](https://open.spotify.com/track/3jH4pLFB8M08UApy1uTof3) | [Ander Bock,Rubinsky RBK](https://open.spotify.com/artist/5z9jc0o8orHVEH6tQna96z) | [Yo no fui](https://open.spotify.com/album/0GVl7eMsSteYvoxVY5l58B) | 3:34 | 2021-11-05 | 2022-03-19 |
 | [Yo Te Mire](https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Yo Te Miré](https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu) | 4:06 | 2022-04-17 |  |
-| [Yoyo](https://open.spotify.com/track/0zYuk0Yu7i182Ze1OieTiV) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Yoyo](https://open.spotify.com/album/632UEcqogvS2b9jHt5uMT7) | 3:09 | 2022-08-27 |  |
+| [Yoyo](https://open.spotify.com/track/0zYuk0Yu7i182Ze1OieTiV) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Yoyo](https://open.spotify.com/album/632UEcqogvS2b9jHt5uMT7) | 3:09 | 2022-08-27 | 2024-04-04 |
 | [Ámame Otra Vez](https://open.spotify.com/track/5WwGcRIL1henlTbOXgvYY6) | [The Egox](https://open.spotify.com/artist/5khUngyY8XSnufvOCd4VSL) | [Ámame Otra Vez](https://open.spotify.com/album/5yn7nvKWt0PARJUKkGRsfE) | 4:04 | 2021-11-05 | 2022-04-18 |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

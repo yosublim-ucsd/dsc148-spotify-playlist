@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 44 min 38 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 53 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Somebody to Love](https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 2:54 |
-| 2 | [God Gave Me Everything](https://open.spotify.com/track/7bmQq7In6J04u3XX4QLUS8) | [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [God Gave Me Everything](https://open.spotify.com/album/2TTN1zgBtNHefPZWcthk69) | 3:33 |
-| 3 | [Hero's Come Back!!（第1話〜第30話）](https://open.spotify.com/track/0ekyKwGvJYXo03wAitRlwv) | [Junichi Sakamoto](https://open.spotify.com/artist/3N7zZb665mg5kdJhY2bwBL) | [熱烈！アニソン魂 THE BEST カバー楽曲集 TVアニメシリーズ「NARUTO」 vol.5 \[疾風伝 第1話～第281話 主題歌OP 編\]](https://open.spotify.com/album/6sRAepXAxzWYzex1uAKkVZ) | 4:32 |
-| 4 | [We Are The Others](https://open.spotify.com/track/6uKvnGeg6xgzPTH3QSPTB6) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [We Are The Others](https://open.spotify.com/album/4cGfPdyycjpZp07DbCJtbY) | 3:19 |
-| 5 | [Whiplash](https://open.spotify.com/track/0llXksyxjNlDB9vOcETZi0) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All](https://open.spotify.com/album/6FMPDVTm8l5IrEQla46VQl) | 4:10 |
-| 6 | [Because You Loved Me](https://open.spotify.com/track/2c4rr33mgGC4c9cWzqdYxN) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Pop Music: The Modern Era 1976\-1999](https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h) | 4:33 |
-| 7 | [Cambio De Piel](https://open.spotify.com/track/2zUvNMEE2tAGlxmVa52BAc) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Cambio De Piel](https://open.spotify.com/album/41DAM0HWW9vQNGj1sTfgCY) | 3:37 |
-| 8 | [Oh l'amour](https://open.spotify.com/track/2RsIjB4ZFnxnUCfnDD1NuW) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [Wonderland](https://open.spotify.com/album/4GoSEQIgXpnYLosQMGfvpa) | 3:04 |
-| 9 | [good dog karma](https://open.spotify.com/track/0V5xAM9ljDHgPLt9dvUFpk) | [phin](https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN) | [good dog karma](https://open.spotify.com/album/7i85GGkYE1XniYzld3Cxln) | 3:25 |
-| 10 | [Tchaikovsky: Swan Lake, Op\. 20, Act 2: No\. 10, Scene\. Moderato](https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Tchaikovsky: Swan Lake](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) | 2:46 |
-| 11 | [shaking head](https://open.spotify.com/track/0GCzgti2LYrdH93iJiC9hf) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [shaking head](https://open.spotify.com/album/5FiKwOdK0erlaCZ06n4U12) | 2:44 |
-| 12 | [Thriller \- Instrumental](https://open.spotify.com/track/3yYt5HIf99u6lsinB95Ku8) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 5:57 |
+| 1 | [Final Episode \(Let's Change The Channel\) \- Borgore Remix](https://open.spotify.com/track/1sU702jhyNr8bA4Gxhbcic) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Stepped Up And Scratched](https://open.spotify.com/album/4mPmNs5KRLdQpsnrYdwT1i) | 4:12 |
+| 2 | [Rust In Peace...Polaris \- 2004 Remix](https://open.spotify.com/track/0803SWqmIJGvZ15B8zsewn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:44 |
+| 3 | [Another Day in Paradise \- 2016 Remaster](https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 5:22 |
+| 4 | [Aria Math](https://open.spotify.com/track/4K0odcECsBvgzv9Lr9z4kd) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX) | 5:10 |
+| 5 | [Blue Monday](https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 7:29 |
+| 6 | [I Want You to Want Me](https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [In Color](https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR) | 3:11 |
+| 7 | [El Es Mi Idolo](https://open.spotify.com/track/1Hm7NfFyUUlcRRsozsSTkQ) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Antología: Su Historia y Sus Éxitos](https://open.spotify.com/album/7m8AqShFcldsxokXFksDZ4) | 4:19 |
+| 8 | [Venice Queen](https://open.spotify.com/track/3ZIw7nCYObqthuWCuDrCu0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 6:07 |
+| 9 | [Faster](https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
+| 10 | [Faint](https://open.spotify.com/track/2uxL6E8Yq0Psc1V9uBtC4F) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 2:42 |
+| 11 | [Venus](https://open.spotify.com/track/44YpdyMbfzZngsdQLOXWke) | [Sophie Castillo](https://open.spotify.com/artist/4LoRVyF2R00cUR8q3oatMb) | [Venus](https://open.spotify.com/album/5lpTnlG7QonLGrAkrae0d5) | 3:08 |
+| 12 | [i'll be fine'](https://open.spotify.com/track/3JdQ3LToili2ajempvrwCD) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Nyla](https://open.spotify.com/artist/5aRVHPggfK1ejfaVLYb9Xe) | [i'll be fine'](https://open.spotify.com/album/1Ztl27sDRwIq80pjAbwucu) | 2:00 |
 
-Snapshot ID: `NzQsY2MxYjQ0MDdiNjMyNjU4YTAyN2M4ZTIxNTBkYmFhYTY1MjgzODBhOQ==`
+Snapshot ID: `NzUsNDU1OGIzZWQ2Y2I4NWYxYTNkYTZlYWQwZDhiZDQyNjM4NmI0OGRmMQ==`

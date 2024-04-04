@@ -5697,6 +5697,24 @@
     },
     {
       "album": {
+        "name": "Ikki Ichiyu",
+        "url": "https://open.spotify.com/album/3Ke7T02wAmzzs8p0gAA9qC"
+      },
+      "artists": [
+        {
+          "name": "Kyuso Nekokami",
+          "url": "https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196017,
+      "name": "Ikki Ichiyu",
+      "url": "https://open.spotify.com/track/4mw4XmW0nkzSfvL0eCTwBT"
+    },
+    {
+      "album": {
         "name": "Ima Wo Ikirunoda.",
         "url": "https://open.spotify.com/album/27P7OClUEHrPiybgPxdA7y"
       },
@@ -6224,6 +6242,24 @@
       "duration_ms": 241203,
       "name": "Killer Word",
       "url": "https://open.spotify.com/track/55YTEATvWRdjUXGkxfdlWB"
+    },
+    {
+      "album": {
+        "name": "Kimi Ni Koi Shita Anohikara",
+        "url": "https://open.spotify.com/album/3UzNyoW0AMREybXEpVlCgw"
+      },
+      "artists": [
+        {
+          "name": "flumpool",
+          "url": "https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271475,
+      "name": "Kimi Ni Koi Shita Anohikara",
+      "url": "https://open.spotify.com/track/3RtQYLZrGxj5SKoNqQxAIB"
     },
     {
       "album": {
@@ -11648,7 +11684,7 @@
     {
       "album": {
         "name": "SUGAR PUFF",
-        "url": "https://open.spotify.com/album/2o9ZXr2n79AMHLConDOu5o"
+        "url": "https://open.spotify.com/album/4L0eMH0yk0kCigoM7ChwJU"
       },
       "artists": [
         {
@@ -11659,6 +11695,24 @@
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220333,
+      "name": "SUGAR PUFF",
+      "url": "https://open.spotify.com/track/0hgMgabTUAFrVSmcpLFAyb"
+    },
+    {
+      "album": {
+        "name": "SUGAR PUFF",
+        "url": "https://open.spotify.com/album/2o9ZXr2n79AMHLConDOu5o"
+      },
+      "artists": [
+        {
+          "name": "THE BAWDIES",
+          "url": "https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-04",
       "duration_ms": 220333,
       "name": "SUGAR PUFF",
       "url": "https://open.spotify.com/track/3lcAj13cDKhbRKyvS4mivz"
@@ -19810,7 +19864,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 196017,
       "name": "\u4e00\u559c\u4e00\u6182",
       "url": "https://open.spotify.com/track/7aAqYiDzc8zl3GhU2WFJuG"
@@ -20798,7 +20852,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 271475,
       "name": "\u541b\u306b\u604b\u3057\u305f\u3042\u306e\u65e5\u304b\u3089",
       "url": "https://open.spotify.com/track/05VAHIyywowVMBmkjyFG7Q"

@@ -4,12 +4,13 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-191 songs - 8 hr 36 min
+195 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11Pm\. Brilla](https://open.spotify.com/track/04040bSQ8gNzSmxuY8fU11) | [Milana Zilnik](https://open.spotify.com/artist/3xkWDJty3mvBD37vL278WG) | [11Pm\. Brilla \(Dreaming of Chopin\)](https://open.spotify.com/album/4WA7u4WEccPGhEIpg34KGq) | 4:10 | 2022-08-03 |  |
 | [A Faint Qualm for the Future](https://open.spotify.com/track/6Rp5W8wwFK4pKpmT06yNsq) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [All of Us](https://open.spotify.com/album/2xsfxKRrbaKRc4LNbpgcZK) | 2:41 | 2022-08-03 |  |
+| [A Glimpse Of Light](https://open.spotify.com/track/7GwZI1U1TqFlj9d6klLS8t) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [A Glimpse Of Light](https://open.spotify.com/album/2uVNjDbNCQKp2QADv3YN8b) | 2:45 | 2024-04-03 |  |
 | [Adagio](https://open.spotify.com/track/0WlUpjW0LMvVPQs0rOqz5d) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Adagio](https://open.spotify.com/album/1LRAhzP8t4glbwQWgljKpY) | 2:34 | 2023-09-26 |  |
 | [Adagio Cantabile](https://open.spotify.com/track/0XXUvKMV5pFX1bycy9PUX6) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Adagio Cantabile](https://open.spotify.com/album/35BgRashHcSF0sfy8HmodF) | 3:14 | 2022-12-06 |  |
 | [Adam Leaves \- Second Half / Piano Version](https://open.spotify.com/track/0mw9N3Jc5D2EKvgDSMBjJN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Kindt](https://open.spotify.com/artist/3UDsNhT6aApMOxQUrc95Bl) | [Piano Book](https://open.spotify.com/album/099nJibPYLG6UNgZtGFC6h) | 3:04 | 2022-09-12 |  |
@@ -53,6 +54,7 @@
 | [Efteraar](https://open.spotify.com/track/0E9fxTuKGsFLd9nirytamd) | [Mark Jubel](https://open.spotify.com/artist/6QhnbblQwendc1TdZMj6qd) | [Efteraar](https://open.spotify.com/album/5IJrl616LUYdsgjI6GT30K) | 2:24 | 2022-12-06 |  |
 | [El Misterio VII \(solo piano\)](https://open.spotify.com/track/6WwfOCmwiIkkZHjwlTcUu4) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Krabbé Zoekt Kahlo](https://open.spotify.com/album/0V5qBDi0tCD8DFKf8nhWEt) | 2:40 | 2022-09-23 |  |
 | [Empyrean](https://open.spotify.com/track/17RDaw9BH11GDHTDlBi4VW) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Empyrean](https://open.spotify.com/album/1OOs0fwWFSuP3RqIEwRCiq) | 3:00 | 2022-08-03 |  |
+| [Endlich](https://open.spotify.com/track/0QzBw7xBO5q6plc8hX5z7B) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Endlich](https://open.spotify.com/album/6EYlet7J4aCY3zTqqhl8eB) | 2:10 | 2024-04-03 |  |
 | [Entering](https://open.spotify.com/track/0PNGMJaRWetzMOir1QAKoC) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Entering](https://open.spotify.com/album/2EoKBXAOzplEACZ4PXmK4I) | 1:49 | 2022-12-21 |  |
 | [Equinoxe](https://open.spotify.com/track/58xUMSrmEvYUyHzGR9tYtL) | [Koëlíne](https://open.spotify.com/artist/1HytzswsY9X9XTD2Douni6) | [Equinoxe](https://open.spotify.com/album/4DWD8YqJ3S8NAVsTImbZ23) | 2:55 | 2022-08-03 |  |
 | [Essential Truth](https://open.spotify.com/track/4BwITU6em6YieY3bHak4JH) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Essential Truth](https://open.spotify.com/album/7z9Y1XoWUzB4HwBosSMlIy) | 2:49 | 2022-08-26 |  |
@@ -143,6 +145,7 @@
 | [Renaissance](https://open.spotify.com/track/5O0GM5NdPDLIhkxbQKlxFL) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Renaissance](https://open.spotify.com/album/5s31Hfu0bB2BiTuU9AbUKy) | 2:37 | 2022-08-26 |  |
 | [Resilience](https://open.spotify.com/track/3c6YU0kPmybqj9aajX86t8) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [Resilience](https://open.spotify.com/album/63B1nohymPQhWxL7FBBhq8) | 2:42 | 2022-08-03 |  |
 | [Respirator \(Double Pianos\)](https://open.spotify.com/track/7wZZFd0sLWp3eNG6EFmscu) | [Cascadeur](https://open.spotify.com/artist/5yUtzFVpUdN8UtyZzDD9o9) | [Revenant \(Piano Day Version\)](https://open.spotify.com/album/3iSHTWkT5mLqDz6Jm7yYcu) | 2:58 | 2022-08-03 | 2022-12-07 |
+| [Resta Con Me](https://open.spotify.com/track/11kyoJkQePM8zW2kEozhFu) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Resta Con Me](https://open.spotify.com/album/2BHogXZFHfpMP5qpGYwdqg) | 2:09 | 2024-04-03 |  |
 | [Retreat](https://open.spotify.com/track/2FXitAjMmxdA1bvdUiuq5y) | [Eric Wilhelm](https://open.spotify.com/artist/7pMZdUh8fBuVoUpARYPuoQ) | [Retreat](https://open.spotify.com/album/22yD4WvTz00AYshsHQU5vs) | 1:56 | 2022-08-03 |  |
 | [Route To Ukraine](https://open.spotify.com/track/42sVqeLhT6bb01PbkSh1gi) | [Enrico Giaretta](https://open.spotify.com/artist/4sUR1rcNQemMzHyAtW1lyS) | [Route To Ukraine](https://open.spotify.com/album/4hmnvOQGYQGDH4g7OM6UXN) | 4:15 | 2022-08-03 |  |
 | [Rós](https://open.spotify.com/track/1HVMOiJZzq3F8o8VEQsh77) | [Jonny Colgan](https://open.spotify.com/artist/6LfM1oqPkRMSylbEKjmOvA) | [Rós](https://open.spotify.com/album/6PIDeurwsuW0AEex2B59Rn) | 2:28 | 2022-08-03 | 2023-06-21 |
@@ -166,6 +169,7 @@
 | [Son Kolo Vikon](https://open.spotify.com/track/6HAismqcJ6zQplxVq0XEPO) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [When We Return to the Sun](https://open.spotify.com/album/1Zn4nlsuoEMfv07ydhkjUx) | 3:37 | 2022-12-06 | 2023-11-04 |
 | [Son Kolo Vikon](https://open.spotify.com/track/7vmQmkU4WoWcUGZuiQQfx3) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Son Kolo Vikon](https://open.spotify.com/album/11LxXHazpnLHyQi2vHFUNc) | 3:37 | 2022-12-06 | 2022-12-16 |
 | [Song For Grace](https://open.spotify.com/track/3izNSG6xnfb1QY2hJGxUA4) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Song For Grace](https://open.spotify.com/album/0ZjOOwIyZXHvrByUU0VNzJ) | 1:53 | 2022-08-03 | 2022-12-07 |
+| [Spring Roses](https://open.spotify.com/track/62T1anGMtce8jCIdXIQRvL) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Spring Roses](https://open.spotify.com/album/2egZ9KaWhJHiylvZxaUW6F) | 2:41 | 2024-04-03 |  |
 | [Staden](https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 2:01 | 2022-08-26 |  |
 | [Sunday Morning](https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Sunday Morning](https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG) | 2:42 | 2023-05-09 |  |
 | [Sway](https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sway](https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo) | 2:21 | 2022-08-03 |  |

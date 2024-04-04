@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 115467,
+  "num_followers": 115455,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzE0NzIwM2M1OGZlZmM3NTRkY2I4Y2I0OWViYzkxMzNjMWQ0YTEz",
+  "snapshot_id": "MCwxYzE1NmRkNzkwY2M0MWY1ZGZjYzRiZWMyMmMxODllZjYzYzJiMjNi",
   "tracks": [
     {
       "added_at": "2023-12-19 09:14:04",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
-      },
-      "artists": [
-        {
-          "name": "Ralph Marterie",
-          "url": "https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38"
-        },
-        {
-          "name": "Ralph Marterie and His Orchestra",
-          "url": "https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Dig That Crazy Santa Claus",
-      "url": "https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
         "name": "The Season's Back Again",
         "url": "https://open.spotify.com/album/2w32SlRvzHGycxGXbvCzS1"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 176379,
       "name": "The Very Best Day This Year",
       "url": "https://open.spotify.com/track/2SYfeTvbD7cjxDRCm6LSTe"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
+      },
+      "artists": [
+        {
+          "name": "Ralph Marterie",
+          "url": "https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38"
+        },
+        {
+          "name": "Ralph Marterie and His Orchestra",
+          "url": "https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Dig That Crazy Santa Claus",
+      "url": "https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k"
     },
     {
       "added_at": "2023-12-19 09:14:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Todos pro alto, cada um com o seu\. Foto: Sotam
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,669 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,674 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 45 | [Pela Manhã](https://open.spotify.com/track/59kwXEmcc52rvxweb6we9p) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC GH do 7](https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C) | [Menino Barulhento](https://open.spotify.com/album/0osJKRTACneLPJI3f5oQea) | 4:00 |
 | 46 | [Bandida](https://open.spotify.com/track/1GsOoDPsPpXhW1oJ2nPwNg) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:15 |
 | 47 | [Olé](https://open.spotify.com/track/3BKt9kix2ClrJgmHCASFrs) | [Ruas Mc](https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5), [MELI](https://open.spotify.com/artist/49oqWQXT56gZaO0wfpUhXl), [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54) | [Olé](https://open.spotify.com/album/1P8p7Z7VL2kd1AvuVAHo9h) | 2:40 |
-| 48 | [2Blunt 2Tchuca](https://open.spotify.com/track/01KIlTVu1rV8dVNEHIKIN3) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [2Blunt 2Tchuca](https://open.spotify.com/album/6ShXLheOq3naML6EusRplJ) | 1:53 |
-| 49 | [Aroma de Masala](https://open.spotify.com/track/2v3yIXzkcCEQjxRiAmH3Ly) | [Gabriel Fróes](https://open.spotify.com/artist/6yUPIetpn9tCDuGyNDh3Uh), [Sheik S](https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b) | [Aroma de Masala](https://open.spotify.com/album/6BhOYvnRoi11AL1hUBksdI) | 2:23 |
+| 48 | [Aroma de Masala](https://open.spotify.com/track/2v3yIXzkcCEQjxRiAmH3Ly) | [Gabriel Fróes](https://open.spotify.com/artist/6yUPIetpn9tCDuGyNDh3Uh), [Sheik S](https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b) | [Aroma de Masala](https://open.spotify.com/album/6BhOYvnRoi11AL1hUBksdI) | 2:23 |
+| 49 | [2Blunt 2Tchuca](https://open.spotify.com/track/01KIlTVu1rV8dVNEHIKIN3) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [2Blunt 2Tchuca](https://open.spotify.com/album/6ShXLheOq3naML6EusRplJ) | 1:53 |
 | 50 | [Big Size](https://open.spotify.com/track/1ofEBhOFouAs5nr8QqxU7V) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [SUSHIBOY011](https://open.spotify.com/artist/2zVeDfVtEfoveXYVb2sg4G) | [Big Size](https://open.spotify.com/album/2FLT5kECZf19OeC2AcGhxz) | 2:03 |
 
-Snapshot ID: `MCxiNzFlMzg0MWI1MGY5YjMwY2YyYmFlNDI3ZWVmODk0MjdiMDA0N2Yx`
+Snapshot ID: `MCwwZDU0ZDQ1NzdmMmNiNzNhOWViNjQ5YjQyNzBiNWIzZGZlYTc3MjQ5`

@@ -1,9 +1,27 @@
 {
-  "2024-04-03": 126897,
+  "2024-04-04": 127373,
   "date_first_scraped": "2023-09-22",
   "description": "for the baddies.",
   "name": "ALLURE",
   "tracks": [
+    {
+      "album": {
+        "name": "Skin to Skin",
+        "url": "https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157085,
+      "name": "A Dozen Roses",
+      "url": "https://open.spotify.com/track/7AMelgIvI1tSFC1QUQPl5Q"
+    },
     {
       "album": {
         "name": "Blood",
@@ -323,7 +341,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 218760,
       "name": "Cold",
       "url": "https://open.spotify.com/track/7r7NIoBZynrYIKZnIS5Z1Q"
@@ -341,7 +359,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 309293,
       "name": "Cold & Distant",
       "url": "https://open.spotify.com/track/039LjnW10JKYN3kfEo4wZ0"
@@ -1049,6 +1067,28 @@
       "duration_ms": 154800,
       "name": "Safe In Your Skin",
       "url": "https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU"
+    },
+    {
+      "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/1NjAWYIQvHY8uicYdQN3an"
+      },
+      "artists": [
+        {
+          "name": "Oversize",
+          "url": "https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T"
+        },
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210956,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/0opJEZyslw0pzdfZisGiaL"
     },
     {
       "album": {

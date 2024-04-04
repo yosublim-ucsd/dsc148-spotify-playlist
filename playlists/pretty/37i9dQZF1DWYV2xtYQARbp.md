@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 
 > That fuzzy, noisy punk\-blues hybrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,994 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,001 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 39 | [Just One More](https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G) | [Gallon Drunk](https://open.spotify.com/artist/1Stl5FcIQtQcRv30wlnH2b) | [You, The Night… and The Music](https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP) | 3:55 |
 | 40 | [\(Oh Mom\) Teach Me How to Uncle Willy](https://open.spotify.com/track/3vfJ46ozwgF37hLweVMDnj) | [Les Sexareenos](https://open.spotify.com/artist/0jTOyh4tUJWtIMDV73fcN4) | [14 Frenzied Shakers](https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz) | 2:34 |
 | 41 | [Summer Sun Blues](https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn) | [The Go](https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8) | [Whatcha Doin'](https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX) | 3:37 |
-| 42 | [Round Every Corner](https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna) | [Thee Headcoatees](https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif) | [The Kids Are All Square \- This Is Hip & Girlsville](https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ) | 2:25 |
+| 42 | [Ida Honey \(Tell Me You'll Be Mine\)](https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Nothing Can Stop These Men](https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7) | 2:15 |
 | 43 | [\(Sometimes You Got to Be\) Gentle](https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 3:27 |
-| 44 | [Ida Honey \(Tell Me You'll Be Mine\)](https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Nothing Can Stop These Men](https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7) | 2:15 |
+| 44 | [Round Every Corner](https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna) | [Thee Headcoatees](https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif) | [The Kids Are All Square \- This Is Hip & Girlsville](https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ) | 2:25 |
 | 45 | [Trying Just to Please You](https://open.spotify.com/track/44Q7Xmxm0oeASUEQsxHnn1) | [Lyres](https://open.spotify.com/artist/5b0wQCgdlG1Dk4N67lguml) | [On Fyre](https://open.spotify.com/album/7Ctxktj9vqhIoRvchmFB0f) | 4:25 |
 | 46 | [Oh Yeah](https://open.spotify.com/track/50iSEtsLN8e4HIb3uVBwJC) | [Thee Mighty Caesars](https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD) | [Thee Caesars Of Trash](https://open.spotify.com/album/6r3Wz5pboOCUUzSkfx0tRW) | 2:41 |
 | 47 | [Michigan Blues](https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP) | [The Hentchmen](https://open.spotify.com/artist/7jKdcTLxl5PvTJ27fxQRwh) | [Broad Appeal](https://open.spotify.com/album/1lXul79dEZzoQn6texAGTx) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 49 | [Hanky\-Joe Digger](https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4) | [Speedball Baby](https://open.spotify.com/artist/4oRzJXOEO1MDXDes16geFA) | [The Blackout](https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE) | 2:06 |
 | 50 | [Preaching the Blues](https://open.spotify.com/track/4qZrZqBRq0tAKJ3wE3Az3A) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love](https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW) | 3:59 |
 
-Snapshot ID: `MCxjZDJkYzMwN2JhNjcxOTRlOGRkMjlmZjEzMzdmNzFiNDZkNzJjZjI5`
+Snapshot ID: `MCxhYWUxMmU0OTNlMTdiMjNiNWNhZWUwMGViMTRhN2MyMWNmY2Q5MTk0`

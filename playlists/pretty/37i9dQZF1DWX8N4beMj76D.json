@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 10605,
+  "num_followers": 10607,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODE3NzVkNzMyNGQ0YzMyNTA5MzVhNmY1YTJiZWViMTg3NzNkMzY3",
+  "snapshot_id": "MCxmMTdlNWU5NGM3ODM1ZGIwZDRmODBmNDNiOTI1MTQ3YTU0NmM1NzY2",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -655,18 +655,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Sings Leonard Cohen",
-        "url": "https://open.spotify.com/album/1es9chKTaPwJHhMRnsJC4a"
+        "name": "Everybody Knows",
+        "url": "https://open.spotify.com/album/6pEDpmpeGLfIX8fGi4OzOo"
       },
       "artists": [
         {
-          "name": "Mia Dyson",
-          "url": "https://open.spotify.com/artist/5QSZl73T85ZpZGAHSDIED6"
+          "name": "Stephen Stills",
+          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
+        },
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
         }
       ],
-      "duration_ms": 263466,
-      "name": "In My Secret Life",
-      "url": "https://open.spotify.com/track/6qwLJ7MfY235DPBO9PbGQL"
+      "duration_ms": 326684,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/7arMFVCLQ4h0B3lIZITEdY"
     }
   ],
   "unique_name": "Leonard Cohen: Covered",

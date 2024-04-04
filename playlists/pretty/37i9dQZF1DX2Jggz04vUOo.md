@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,564 likes - 70 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,590 likes - 70 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 19 | [Yet Another Day Thinking About You](https://open.spotify.com/track/5S1kDC5lrjqBXGrz2FIpxv) | [YokoO](https://open.spotify.com/artist/45fzhLbHZdBIgOGQT6M5zr), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7), [Mauve \(AUS\)](https://open.spotify.com/artist/7rvE5oeBS2tH0JG9W8EfcJ) | [Nothing Can Compare](https://open.spotify.com/album/6yb6uyIe8lwg66w1caKhJt) | 5:49 |
 | 20 | [Psychedelic Woman \- Bonobo Remix](https://open.spotify.com/track/2rAZqJ3uiy2jczTafnKP7y) | [Honny & The Bees Band](https://open.spotify.com/artist/0YBnqkQh876CwPLtT9XX69), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Bottletop Presents Sound Affects: Africa](https://open.spotify.com/album/0xnN5NfLE5Gc3YgzEhgXbT) | 4:26 |
 | 21 | [Akihi \- Surv Remix](https://open.spotify.com/track/7L43S5tAvwiFfAM10FqKGJ) | [Takeshi's Cashew](https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA), [Surv](https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ) | [Akihi \( Surv Remix \)](https://open.spotify.com/album/5lRNzBB5ZwBYtsJcEK4r1a) | 5:09 |
-| 22 | [Spacehall](https://open.spotify.com/track/2qXWBjO9BNVURgc9tDJwmS) | [Lou](https://open.spotify.com/artist/7l9DjVOhlzTmBhCLW8Q2we) | [Moodfamily Compilation I](https://open.spotify.com/album/6RdWrH7iwLePIhmksv1CwA) | 7:18 |
+| 22 | [Spacehall](https://open.spotify.com/track/5OJ0wA7NmsFb69dlbPcfUh) | [Lou](https://open.spotify.com/artist/7l9DjVOhlzTmBhCLW8Q2we) | [Moodfamily Compilation I](https://open.spotify.com/album/0mBJ44IRxHyPPJgpPcM7R1) | 7:18 |
 | 23 | [Fantasy](https://open.spotify.com/track/22fM5ewOY0suVq5teDadG0) | [Herbert](https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn), [Verushka](https://open.spotify.com/artist/5StY3t09rFBGADeZbkVyOC) | [Musca](https://open.spotify.com/album/2yTDyn7SlB2yOP4CkDbHfn) | 6:27 |
 | 24 | [Invoke \- Foxall Remix](https://open.spotify.com/track/00Sr5lqLJTTCljeQDxlj1P) | [Charlie M](https://open.spotify.com/artist/3D3Sgu0PXIAjode80WTFSb), [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Harabe Reimagined Feelings I](https://open.spotify.com/album/0TCG4mBXErYlDn65LYQujb) | 5:51 |
 | 25 | [malo okoma](https://open.spotify.com/track/7jyerdQJniWpmwzUHK6jRN) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [stay just a little while longer](https://open.spotify.com/album/4FPI3gc0lcxgRLoHHKdsRf) | 5:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 69 | [Square Kids \- Anton Feine Remix](https://open.spotify.com/track/0efhQX2ijD72A4XHd43eRc) | [Kusht](https://open.spotify.com/artist/1GLyo3Rp9NTc8bJa65xLXg), [Anton Feine](https://open.spotify.com/artist/2IxXoB8qwqS9uwl3z1zt3o) | [Teapot](https://open.spotify.com/album/7vOUJ6FIStKWKhDwiJTbhV) | 6:31 |
 | 70 | [Easy Days](https://open.spotify.com/track/1qKOZtqBV8W0je2pPSpOzA) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74), [Kleintierschaukel](https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn) | [Easy Days](https://open.spotify.com/album/69vUFvbVj2b7oabEiP6h4d) | 5:39 |
 
-Snapshot ID: `MCw5NWE0ODBmMjk0OWQ4NzRmYzQ0Y2IxYTA3ZmJhZWUzZWMyNzFmOTdi`
+Snapshot ID: `MCw2NTMwODdmOTQ0MjUzYTdiYmVmNDc5YzI5Y2ZkNzQ5NTBlMjQwY2U5`

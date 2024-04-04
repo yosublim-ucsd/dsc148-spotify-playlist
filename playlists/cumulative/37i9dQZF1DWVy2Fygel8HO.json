@@ -1313,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "Resta Con Me",
+        "url": "https://open.spotify.com/album/2BHogXZFHfpMP5qpGYwdqg"
+      },
+      "artists": [
+        {
+          "name": "Valentina Romano",
+          "url": "https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129468,
+      "name": "Resta Con Me",
+      "url": "https://open.spotify.com/track/11kyoJkQePM8zW2kEozhFu"
+    },
+    {
+      "album": {
         "name": "for the peaceful moments",
         "url": "https://open.spotify.com/album/5ulVV8sUhnWnb1RoQPXyzv"
       },

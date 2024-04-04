@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 1486657,
+  "2024-04-04": 1486940,
   "date_first_scraped": "2021-12-21",
   "description": "Architects is on top of today's best Metal playlist.",
   "name": "Kickass Metal",
@@ -2129,6 +2129,24 @@
       "duration_ms": 280000,
       "name": "Cursed to Die",
       "url": "https://open.spotify.com/track/3zE05ciZtFILFRYuSIfG2L"
+    },
+    {
+      "album": {
+        "name": "Death Is Little More",
+        "url": "https://open.spotify.com/album/3tyx4wUPmjmHcJHS1jb4eQ"
+      },
+      "artists": [
+        {
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199127,
+      "name": "Cursed To Remember",
+      "url": "https://open.spotify.com/track/3WDS1O96myK2bjE9FQudID"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,647 likes - 97 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,653 likes - 97 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 13 | [such mit mir](https://open.spotify.com/track/54fISEDtMKFkuSA2hx0mlE) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [such mit mir](https://open.spotify.com/album/5ZexdlWkafVGjSwGunsUpo) | 2:14 |
 | 14 | [Explode](https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Explode](https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc) | 2:39 |
 | 15 | [MR.SWAG \(feat\. makko\)](https://open.spotify.com/track/0TsePcRp93zJXSrIufCFx9) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [MR.SWAG \(feat\. makko\)](https://open.spotify.com/album/2N9RaXmZvgLMLYGj1pQV0E) | 2:39 |
-| 16 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
+| 16 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 |
 | 17 | [favorite \- english](https://open.spotify.com/track/10PsEwmFKLK31Nqc1utxIK) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 |
 | 18 | [SIKI JIZZLE](https://open.spotify.com/track/4UO1JQUHj9QYCzanWeUE6U) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [SIKI JIZZLE](https://open.spotify.com/album/6vaw51tRwUgKW5s0aiFJCK) | 2:24 |
 | 19 | [Sale gosse](https://open.spotify.com/track/6w9ZHOr8xFvhvop4IeHJTo) | [Tibz](https://open.spotify.com/artist/2fAaFNSG0aQucjQigOtHZF) | [Sale gosse](https://open.spotify.com/album/2W4YSFNnUgQbH32boKBdzU) | 3:14 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 96 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 |
 | 97 | [On The Road](https://open.spotify.com/track/78sMoJKUbGrqp5dWVQ7Tcx) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [On The Road](https://open.spotify.com/album/4CMdjKF82H3jj52fNrjDKT) | 2:21 |
 
-Snapshot ID: `MCxjYTFlNWU2ZjFiZWI3M2Q0YjA4ZTQ2NDU1NTU3OWMyNjNhODM5NDAx`
+Snapshot ID: `MCwxZjdjODllZGFmYjE0MjYwMTUxOWE0MzAxMTdkOWExZjE5NjMxOThi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Rony Parulian, Andi Rianto
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,192 likes - 88 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,237 likes - 88 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 87 | [Take Me](https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 3:38 |
 | 88 | [Your Favorite Food](https://open.spotify.com/track/4yWaGVdcT6VhMyUY7kjV3d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Your Favorite Food](https://open.spotify.com/album/6XsHlUuJB9vrOVwflRFoOp) | 4:30 |
 
-Snapshot ID: `MCxjZTVlMmFhZjlhN2FhYmE3MjQ5MjEyOTVmZGNjMzNiNWZhM2QzZGZi`
+Snapshot ID: `MCw0MWY2MWJhYzNjYjg2OTQ4ZGViNjU5NmMwNzllNjJkNGJkZGI4N2E3`

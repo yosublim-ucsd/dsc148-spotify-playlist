@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3fXJqxGjuEP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3fXJqxGjuEP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3fXJqxGjuEP)
 
-### [Vibra Tropical](https://open.spotify.com/playlist/37i9dQZF1DX3fXJqxGjuEP)
+### [Tropical Vibe](https://open.spotify.com/playlist/37i9dQZF1DX3fXJqxGjuEP)
 
-> ¡Dale buena onda cálida y frutal a tu día!
+> Give your day a warm and fruity vibe with Latin music! 🌞🌴🍍🍉
 
 503 songs - 1 day 6 hr 8 min
 

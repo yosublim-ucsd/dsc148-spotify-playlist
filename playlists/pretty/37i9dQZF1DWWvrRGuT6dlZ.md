@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 58 | [Reverie](https://open.spotify.com/track/0EnUxHj1I1cBmRzSKzB4tK) | [Jilian Summers](https://open.spotify.com/artist/0NxMTmmuciwlzWWdFoSmYd) | [Reverie](https://open.spotify.com/album/7d8IYdG8eK9MQapqkh8chk) | 3:53 |
 | 59 | [Tired](https://open.spotify.com/track/2SzqIB76prOWeCztmlu9hi) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Tired](https://open.spotify.com/album/28j8ncaZLKane8IMKDRsFX) | 3:04 |
 | 60 | [Must Be Nice](https://open.spotify.com/track/7napoy64U99Dttc8YXQUv6) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt) | [Must Be Nice](https://open.spotify.com/album/0UFs6Suo1e8EVPDT6Uesbg) | 3:26 |
-| 61 | [Lessons](https://open.spotify.com/track/3lyab0gwv0HqPJhwXR9Zqj) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [Lessons](https://open.spotify.com/album/1rsrvfYnB80WSPTRV5iCSx) | 4:28 |
+| 61 | [LESSONS](https://open.spotify.com/track/3lyab0gwv0HqPJhwXR9Zqj) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [LESSONS](https://open.spotify.com/album/1rsrvfYnB80WSPTRV5iCSx) | 4:28 |
 | 62 | [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi Moru](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 |
 | 63 | [Can't Find Me](https://open.spotify.com/track/1q6WBM2eCetMnrz6LMMM16) | [Shahrizal](https://open.spotify.com/artist/1QG9pJRvxU3zU3DBWlxhXe) | [Can't Find Me](https://open.spotify.com/album/1bZO1PXSiQmIPwcaJWQAqJ) | 2:30 |
 | 64 | [Kaleidoscope](https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Kaleidoscope](https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj) | 3:27 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 104 | [New York](https://open.spotify.com/track/7xKt7i4Erx0UbSz8hsTaGY) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [New York](https://open.spotify.com/album/7gLt0wcQfPDPIJdQfcMFob) | 3:20 |
 | 105 | [crash](https://open.spotify.com/track/4gfWiAAXM73PQaORRWd3dZ) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [crash](https://open.spotify.com/album/2DQDpAr42xvWoio41HvGPB) | 3:58 |
 
-Snapshot ID: `MCw5ZTg1YzA1MTg3M2Y3MGYzOTMyNjNkODNkODE3YTY4N2RjNjIxNjVj`
+Snapshot ID: `MCwwYTBkYmMyODg2OGI3MTkwNjIzNzI0OWE2NjEzNjdjMjkxNzRlOTZj`

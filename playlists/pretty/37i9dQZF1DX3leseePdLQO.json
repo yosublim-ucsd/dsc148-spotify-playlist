@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Shakira & Cardi B.",
-  "num_followers": 10812,
+  "num_followers": 10822,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmM1OWE1MWFiZWVjYzAzMDk4MzVhMTA2MzIzZjJiODM3ZjhhZjY0",
+  "snapshot_id": "MCxmZjllYTUxZjU2MDE3OGM5OTcyNjg4YTNhMDAzMTRlYjk1MTUwZDhl",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -411,26 +411,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "LAS BURBUJAS DEL JACUZZI",
-        "url": "https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk"
+        "name": "FINAL (Vol.2)",
+        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
       },
       "artists": [
         {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         },
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Lele Pons",
-          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         }
       ],
-      "duration_ms": 156917,
-      "name": "LAS BURBUJAS DEL JACUZZI",
-      "url": "https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB"
+      "duration_ms": 186366,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -467,6 +463,30 @@
       "duration_ms": 179074,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/5YpDCc4c7XCcJ3Pj9kd7r8"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "LAS BURBUJAS DEL JACUZZI",
+        "url": "https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk"
+      },
+      "artists": [
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+        }
+      ],
+      "duration_ms": 156917,
+      "name": "LAS BURBUJAS DEL JACUZZI",
+      "url": "https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -531,26 +551,6 @@
       "duration_ms": 199384,
       "name": "plan",
       "url": "https://open.spotify.com/track/0H9UKVMv725ASb34l8OIVL"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "FINAL (Vol.2)",
-        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 186366,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "NUNCA PASAR\u00c1",
+      "url": "https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
         "url": "https://open.spotify.com/album/21lNO9EMMnQMQsXytV9ORY"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 162816,
       "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
       "url": "https://open.spotify.com/track/4FJHG1aW704Cq66OxuyOrq"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "NUNCA PASAR\u00c1",
-      "url": "https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1051,38 +1051,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "quise quererte",
-        "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "quise quererte",
-      "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "viernes 13 iv",
-        "url": "https://open.spotify.com/album/3BMckINSS666LAqscJxMdg"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "viernes 13 iv",
-      "url": "https://open.spotify.com/track/2qaI5v34tf7eLeboINCCon"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -1099,6 +1067,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "quise quererte",
+        "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "quise quererte",
+      "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Lluvia: Rain City Vol.2",
         "url": "https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 199497,
       "name": "Negar",
       "url": "https://open.spotify.com/track/0iCjrGqW2akkM2c8zimBaF"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "viernes 13 iv",
+        "url": "https://open.spotify.com/album/3BMckINSS666LAqscJxMdg"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "viernes 13 iv",
+      "url": "https://open.spotify.com/track/2qaI5v34tf7eLeboINCCon"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 173310,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Puntos Equidistantes",
         "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 227375,
       "name": "Puntos Equidistantes",
       "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 173310,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
     },
     {
       "added_at": "2024-03-29 04:00:00",

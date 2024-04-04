@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Maddix
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,154 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,429 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 46 | [Control](https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Control](https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA) | 2:55 |
 | 47 | [Beautiful Life \- Faustix RMX](https://open.spotify.com/track/27r1J3SrSwVoRHIcb5FdIh) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Beautiful Life \(Faustix RMX\)](https://open.spotify.com/album/621d4r3IhIOtDRJZLEtKWh) | 2:59 |
 | 48 | [Mary Go Wild \(Firebeatz Remix\)](https://open.spotify.com/track/51nYwjC41oOgVszBGL6mY8) | [Grooveyard](https://open.spotify.com/artist/3LThgBIEhmkTZCJ6q7Jkzf), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Mary Go Wild \(Firebeatz Remix\)](https://open.spotify.com/album/32hAkqc2mit3ilzkCgCEWX) | 2:15 |
-| 49 | [Lost In The Music](https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Lost In The Music](https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr) | 2:59 |
-| 50 | [Sandstorm](https://open.spotify.com/track/2IkFYu5yQsH0eIt8vIk5To) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K) | [Sandstorm](https://open.spotify.com/album/0Jwi5rqy7CKTxVj0NQMNUY) | 3:25 |
+| 49 | [Sandstorm](https://open.spotify.com/track/2IkFYu5yQsH0eIt8vIk5To) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K) | [Sandstorm](https://open.spotify.com/album/0Jwi5rqy7CKTxVj0NQMNUY) | 3:25 |
+| 50 | [Lost In The Music](https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Lost In The Music](https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr) | 2:59 |
 | 51 | [Blow Your Mind](https://open.spotify.com/track/2hUdC7KJF8hkBgfykpGz1z) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Blow Your Mind](https://open.spotify.com/album/3FNaV3PpvNblwUfe5sOhU2) | 4:45 |
 | 52 | [Motor](https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Motor](https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4) | 3:02 |
 | 53 | [Friends \- Bassjackers Remix](https://open.spotify.com/track/4s69BXFmdssMXfSllZ2zlf) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Friends \(Bassjackers Remix\)](https://open.spotify.com/album/4u6UBvjfarDMSzTeNZyBnm) | 2:42 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 76 | [Party Everyday](https://open.spotify.com/track/2PVnAqyfcnCfYJFxULjOPA) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Party Everyday](https://open.spotify.com/album/5dmTMnwiRqi6r4bsPwlus6) | 2:52 |
 | 77 | [Rave Train](https://open.spotify.com/track/5q5yF4cekhSFdsGFvKpIqA) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [Rave Train](https://open.spotify.com/album/5he5OdNDgHj1NY1ZUzqEXM) | 2:41 |
 | 78 | [Pull Me In](https://open.spotify.com/track/6YJFwZR6mxp8bU38WB3HeX) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Pull Me In](https://open.spotify.com/album/0HpxpO57kgacGm4dSkBdjP) | 2:27 |
-| 79 | [Demon](https://open.spotify.com/track/0z880OjDrjGjEGwA4kDEcL) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Demon](https://open.spotify.com/album/0qdTCEWeVDCoZendfdSyRy) | 2:39 |
-| 80 | [Sound Of The Underground](https://open.spotify.com/track/5ydM92jw4MF8qt5Hzwi4wX) | [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Sound Of The Underground](https://open.spotify.com/album/0aRGB6eumVphWXqpFE5LE9) | 2:44 |
+| 79 | [Sound Of The Underground](https://open.spotify.com/track/5ydM92jw4MF8qt5Hzwi4wX) | [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Sound Of The Underground](https://open.spotify.com/album/0aRGB6eumVphWXqpFE5LE9) | 2:44 |
+| 80 | [Demon](https://open.spotify.com/track/0z880OjDrjGjEGwA4kDEcL) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Demon](https://open.spotify.com/album/0qdTCEWeVDCoZendfdSyRy) | 2:39 |
 
-Snapshot ID: `MCwzNDU5ZTA4MWFiNzNjOWNlMzlhOTYzY2E2MDg4M2JhNWVhY2ZiMDEz`
+Snapshot ID: `MCxmNmViYzJjODA4YjQ5NTgxODBjYTU5OTkxZGQzNzE2OGI2OTM5Mjg0`

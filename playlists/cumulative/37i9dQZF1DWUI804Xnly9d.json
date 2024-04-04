@@ -3346,7 +3346,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 213818,
       "name": "Kya Yeh Hua",
       "url": "https://open.spotify.com/track/5J5Ad1UWIGCZgFX1H0qbdl"
@@ -4294,6 +4294,24 @@
       "duration_ms": 216062,
       "name": "Pehli Sharam",
       "url": "https://open.spotify.com/track/5VqWH46kP3CM1B6goFqOSU"
+    },
+    {
+      "album": {
+        "name": "Piya (Mehfil Unplugged)",
+        "url": "https://open.spotify.com/album/0MUdhXqh4Px7wQ5HXYi8c3"
+      },
+      "artists": [
+        {
+          "name": "Udit Saxena",
+          "url": "https://open.spotify.com/artist/69BwX40UDcRRhksPIX43q5"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132212,
+      "name": "Piya (Mehfil Unplugged)",
+      "url": "https://open.spotify.com/track/0kFfxbe1B56kGtNZgjHI3d"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: NCT 127\)
 
-202 songs - 11 hr 52 min
+203 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [I Need You](https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [I Need You](https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL) | 3:26 | 2021-12-21 |  |
 | [I Still Believe in Santa](https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 2:39 | 2023-11-15 |  |
 | [It's Christmas](https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz) | [FNC ARTIST](https://open.spotify.com/artist/1skD49OqyAqPbSUpVyxEP0) | [FNC LAB \#2 'It's Christmas'](https://open.spotify.com/album/5T3gFIMhsV2HuCRmZNgo2S) | 3:50 | 2021-12-21 | 2023-12-27 |
-| [It's Christmas time](https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [It's Christmas time](https://open.spotify.com/album/0QFzaemkqT2OTuveEFyQ2p) | 3:50 | 2021-12-21 |  |
+| [It's Christmas time](https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [It's Christmas time](https://open.spotify.com/album/0QFzaemkqT2OTuveEFyQ2p) | 3:50 | 2021-12-21 | 2024-04-04 |
 | [It's Christmas time](https://open.spotify.com/track/4Rsr5I1LQaBWk4tvjkVGcr) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [It's Christmas time](https://open.spotify.com/album/62wnKeijuMQ5rVbHzWsaEx) | 3:50 | 2021-12-21 | 2022-07-29 |
 | [It's Okay, You Can Cry \(Santa Claus is Coming to Town\)](https://open.spotify.com/track/25pl2jxhN9gbkE5y7dXomp) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Seasons](https://open.spotify.com/album/5Dpd69pvi5PJfn5RXVcgpn) | 3:02 | 2021-12-21 | 2022-07-28 |
 | [I’ve Been Naughty, Mr\. Claus](https://open.spotify.com/track/7qYUVzCY85b8UM2GaTXhkN) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 2:20 | 2023-11-15 | 2024-01-09 |
@@ -169,6 +169,7 @@
 | [This Christmas](https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv) | [Jyp Nation](https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO) | [This Christmas \- Single](https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ) | 3:47 | 2021-12-21 |  |
 | [This Christmas](https://open.spotify.com/track/6eAMa0e7WCbjM7ivbAhvkq) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 4:27 | 2021-12-21 |  |
 | [This Is Your Winter Song](https://open.spotify.com/track/5y7C6vS8d8IjAKZkeTrMRT) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [This Is Your Winter Song](https://open.spotify.com/album/5WWvltjF8gA414aWghDCsy) | 2:44 | 2022-11-23 | 2024-03-07 |
+| [Today and other days \(Feat\. Eily\)](https://open.spotify.com/track/1Uc7vmjgE27iyynA85WW4c) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Eily](https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005) | [cozy christmas](https://open.spotify.com/album/4aEBSXATsQgKGfnquzq4vo) | 2:03 | 2024-01-08 |  |
 | [Today and other days \(Feat\. Eily\)](https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Eily](https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005) | [cozy christmas](https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH) | 2:03 | 2021-12-21 | 2023-11-07 |
 | [Together Forever!](https://open.spotify.com/track/2n3AfIeXctZeS36akV2mau) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Together Forever!](https://open.spotify.com/album/3KgPkSxdx8Mj85lkS5l08u) | 4:20 | 2023-01-10 |  |
 | [Warm wishes on christmas](https://open.spotify.com/track/0w5rkWapNdWfyCbXT8j3cS) | [Beer](https://open.spotify.com/artist/4LAx3JeKnwmbA97OOf4MS2) | [home party](https://open.spotify.com/album/4e3LtVVogcBvfdiaKHIPv0) | 1:46 | 2022-12-09 | 2023-11-24 |

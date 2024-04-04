@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTEwYzlmMDNhNjU0NmUxMTA2MGQxYWY1NTgwNTgzOTdiNzlhNzUx",
+  "snapshot_id": "MCwxODYwY2I4NDBiNjI1M2U2ODQ0MTNkNmEwMDdkNzY2ZjFhMjViODA0",
   "tracks": [
     {
       "added_at": "2024-03-25 16:53:27",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Welcome to Hard Times",
-        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 185754,
-      "name": "Welcome to Hard Times",
-      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Girl Going Nowhere",
         "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 242440,
       "name": "American Scandal",
       "url": "https://open.spotify.com/track/5ktple5iUVzyQ6SJ8Z8xTK"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Welcome to Hard Times",
+        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 185754,
+      "name": "Welcome to Hard Times",
+      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Never Will",
+        "url": "https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 229266,
+      "name": "Hang In There Girl",
+      "url": "https://open.spotify.com/track/1z0HE4db7hwjjnyL4O0nbC"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Asunder",
         "url": "https://open.spotify.com/album/0ld0jOVy5wuXqUqCU7Xpf8"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 379855,
       "name": "Learning to Lose (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/7AA9ZppMBiNOGSW0nR6hxc"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Never Will",
-        "url": "https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 229266,
-      "name": "Hang In There Girl",
-      "url": "https://open.spotify.com/track/1z0HE4db7hwjjnyL4O0nbC"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Weight of the World",
+        "url": "https://open.spotify.com/album/2AEiFEuAhmxXnThxQDxBno"
+      },
+      "artists": [
+        {
+          "name": "Western Centuries",
+          "url": "https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp"
+        }
+      ],
+      "duration_ms": 347106,
+      "name": "Off the Shelf",
+      "url": "https://open.spotify.com/track/0VovTymtgbuwSL0s56ITWU"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Years",
         "url": "https://open.spotify.com/album/4Xpwhz87qGgbKIVdbBRNJP"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 251437,
       "name": "Hard Time With The Truth",
       "url": "https://open.spotify.com/track/33DgblZnDhuJf9u02q335Z"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Weight of the World",
-        "url": "https://open.spotify.com/album/2AEiFEuAhmxXnThxQDxBno"
-      },
-      "artists": [
-        {
-          "name": "Western Centuries",
-          "url": "https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp"
-        }
-      ],
-      "duration_ms": 347106,
-      "name": "Off the Shelf",
-      "url": "https://open.spotify.com/track/0VovTymtgbuwSL0s56ITWU"
     },
     {
       "added_at": "2024-03-25 16:53:27",

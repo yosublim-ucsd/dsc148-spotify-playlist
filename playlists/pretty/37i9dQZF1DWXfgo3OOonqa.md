@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,082 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,097 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [INGEN ANNAN](https://open.spotify.com/track/08MbwpTIhRmikedfJ4iyGI) | [Chyde](https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA) | [INGEN ANNAN](https://open.spotify.com/album/7A170JHkGo9IGaTydd1txD) | 1:58 |
 | 100 | [Mandy](https://open.spotify.com/track/47y2uDVf39r1RVkdsWSU3c) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Mandy](https://open.spotify.com/album/62h5f1yJ87KxfvV8g8s3tA) | 2:28 |
 
-Snapshot ID: `MCwxOWQ2ZGViMWNjN2E5ZTlmMGUzNDRiMmRhNzJmMTFlNTUzNTRhNGJl`
+Snapshot ID: `MCw1ZDM1Njg4NjQ2MDc0NzIyZjk4ZDQxYWFjYzM0NGM5NmMxOWVjMTVi`

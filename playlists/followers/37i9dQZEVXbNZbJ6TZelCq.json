@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 32802,
+  "2024-04-04": 32807,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Romania.",
   "name": "Top 50 - Romania",
@@ -8429,7 +8429,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 148238,
       "name": "Ebal - From \u201cRomina VTM\u201d The Movie",
       "url": "https://open.spotify.com/track/4vc40DbwS0XjindGtlZkwq"
@@ -10313,6 +10313,24 @@
       "duration_ms": 134000,
       "name": "Frutti Fresh",
       "url": "https://open.spotify.com/track/1v62GDfLJp7iLHVpRJdRLR"
+    },
+    {
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/52ea7jGA74xmH1bv9OmyID"
+      },
+      "artists": [
+        {
+          "name": "Jero",
+          "url": "https://open.spotify.com/artist/5aiQffzc1NaHY3gNCgrGpk"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221040,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/0Dns5nLcq0mWHRGpYpr6uR"
     },
     {
       "album": {
@@ -13377,7 +13395,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 152142,
       "name": "Inim\u0103 de aur - From \"Romina VTM\" The Movie",
       "url": "https://open.spotify.com/track/41Khl48VaHDozr5jQRd3xC"
@@ -22465,7 +22483,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -23949,7 +23967,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 173913,
       "name": "Seara De Seara",
       "url": "https://open.spotify.com/track/5QfTd25qZ0lCIUC4zMWWUq"
@@ -28339,7 +28357,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 144800,
       "name": "Totul meu",
       "url": "https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp"

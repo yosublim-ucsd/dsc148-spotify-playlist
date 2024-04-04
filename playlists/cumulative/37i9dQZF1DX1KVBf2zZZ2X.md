@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-150 songs - 6 hr 51 min
+151 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Ancient Canopy \(Forest\)](https://open.spotify.com/track/0UO8UzZOloodYVBliWxzA1) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Ancient Canopy \(Forest\)](https://open.spotify.com/album/7u6Zi2FR0K3xYJ1efkel9h) | 2:34 | 2024-03-20 |  |
 | [Angelic Birds](https://open.spotify.com/track/4RRSAw83nF2cnrIlmmVAq5) | [Inara Rex](https://open.spotify.com/artist/1z7Wz5Nf6ZcKVMbTbrfGmj) | [Angelic Birds](https://open.spotify.com/album/3IxoZadyhQnLHeDxKo06YX) | 2:07 | 2024-02-06 |  |
 | [April Showers](https://open.spotify.com/track/7qh6Nig18nVfgX8yFnEJAi) | [Milton Laines](https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu) | [The Perfect Morning](https://open.spotify.com/album/0FFTxou2PMl9sDPcxopeCB) | 2:48 | 2023-03-03 |  |
-| [Arbores](https://open.spotify.com/track/04rVrBygXJgRV10I4Me90r) | [Amber Bisa](https://open.spotify.com/artist/329rG1xMpCkB0hhBUv10CK) | [Arbores](https://open.spotify.com/album/6GaoYZE2DMnLAXXKwVbyKr) | 2:37 | 2024-02-06 |  |
+| [Arbores](https://open.spotify.com/track/04rVrBygXJgRV10I4Me90r) | [Amber Bisa](https://open.spotify.com/artist/329rG1xMpCkB0hhBUv10CK) | [Arbores](https://open.spotify.com/album/6GaoYZE2DMnLAXXKwVbyKr) | 2:37 | 2024-02-06 | 2024-04-04 |
 | [Arbores Unwind](https://open.spotify.com/track/1syN4lEn1qC83MPXxoZJSu) | [Porch Upright](https://open.spotify.com/artist/2fYaYUCzBbYnNDpzznDH8u) | [Arbores Unwind](https://open.spotify.com/album/6scPgV33F1GZbWZs5uqHga) | 2:15 | 2023-07-21 |  |
 | [At Dawn](https://open.spotify.com/track/3wIr8plV31HQyPXAdOu0Ri) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:14 | 2023-03-03 |  |
 | [Aventura](https://open.spotify.com/track/5nnjVFQmcrFvOqxbgv007t) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Aventura](https://open.spotify.com/album/1ZYPv6NmRLWL56ZdfOowfs) | 2:38 | 2023-09-01 |  |
@@ -29,6 +29,7 @@
 | [Bayou](https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:39 | 2023-03-03 |  |
 | [Beautiful Nature](https://open.spotify.com/track/5y25kyQQTAqyPoSchOAnxS) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Beautiful Nature](https://open.spotify.com/album/1xzSTEV4uuA8KvCXuiNpdY) | 2:57 | 2023-10-26 |  |
 | [Before I Wake Up](https://open.spotify.com/track/1xGlmw5v4POLlk4NbifkWC) | [Oline Kleist](https://open.spotify.com/artist/2HpjQO0r6XkIRCC6UE9AgS) | [Before I Wake Up](https://open.spotify.com/album/6Om4dd5U9FDfdaqPWbfpzU) | 2:51 | 2023-03-03 | 2024-03-21 |
+| [Berolige](https://open.spotify.com/track/15dsm3bIFI6HLkvMcRdJ5I) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Berolige](https://open.spotify.com/album/0XRbQIYB0Zis5Onjac79SF) | 2:36 | 2024-04-01 |  |
 | [Bogha Sound Bath](https://open.spotify.com/track/3WeUY3OjcntfpnRl1VuV9Q) | [Immensitas](https://open.spotify.com/artist/16d45BnN9e2xcS1gvar1wV) | [Bogha Sound Bath](https://open.spotify.com/album/3qZJU2nHCMDr45jVEZWfgl) | 3:26 | 2023-11-18 |  |
 | [Boreal Forest](https://open.spotify.com/track/3km5eq3PiyetKEGn9MQMS2) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Exploring Nature](https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV) | 2:06 | 2023-04-13 |  |
 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 | 2023-03-03 |  |

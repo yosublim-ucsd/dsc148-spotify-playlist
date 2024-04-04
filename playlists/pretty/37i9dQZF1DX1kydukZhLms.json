@@ -1,12 +1,12 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1346030,
+  "num_followers": 1346353,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTNlMDk4ZjM4MzZlZTczYWJkY2Q0NmVlNDA1NTNiMDAwZmY0NmEw",
+  "snapshot_id": "MCw5NDY3ZTczOTk4ODA5M2ZjNWQ2NDA3NjVlZDZhODJlYjIwNWJkYzI1",
   "tracks": [
     {
       "added_at": "2024-01-02 10:36:29",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E"
       },
       "artists": [
         {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
         }
       ],
-      "duration_ms": 272133,
-      "name": "Carrie",
-      "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
+      "duration_ms": 229960,
+      "name": "18 and Life",
+      "url": "https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E"
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
       "artists": [
         {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
         }
       ],
-      "duration_ms": 229960,
-      "name": "18 and Life",
-      "url": "https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc"
+      "duration_ms": 272133,
+      "name": "Carrie",
+      "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1391,22 +1391,18 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Ordinary Man (feat. Elton John)",
-        "url": "https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3"
+        "name": "Damnation",
+        "url": "https://open.spotify.com/album/4FmI0F5GvvR1M9RURWnJV9"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
         }
       ],
-      "duration_ms": 301730,
-      "name": "Ordinary Man (feat. Elton John)",
-      "url": "https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v"
+      "duration_ms": 464280,
+      "name": "Windowpane",
+      "url": "https://open.spotify.com/track/4uJSCrI7r0usNJ3aaHAuC6"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1427,18 +1423,22 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Damnation",
-        "url": "https://open.spotify.com/album/4FmI0F5GvvR1M9RURWnJV9"
+        "name": "Ordinary Man (feat. Elton John)",
+        "url": "https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3"
       },
       "artists": [
         {
-          "name": "Opeth",
-          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 464280,
-      "name": "Windowpane",
-      "url": "https://open.spotify.com/track/4uJSCrI7r0usNJ3aaHAuC6"
+      "duration_ms": 301730,
+      "name": "Ordinary Man (feat. Elton John)",
+      "url": "https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "The Great Radio Controversy",
-        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
-      },
-      "artists": [
-        {
-          "name": "Tesla",
-          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
-        }
-      ],
-      "duration_ms": 323360,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "In The Heart Of The Young",
         "url": "https://open.spotify.com/album/1ww9dziy6w0U2uS88aX6zN"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 255333,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/6Hp98J9Z9hRE100nivqg86"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "The Great Radio Controversy",
+        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
+      },
+      "artists": [
+        {
+          "name": "Tesla",
+          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
+        }
+      ],
+      "duration_ms": 323360,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Kings of Metal",
-        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
-      },
-      "artists": [
-        {
-          "name": "Manowar",
-          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
-        }
-      ],
-      "duration_ms": 310733,
-      "name": "Heart of Steel",
-      "url": "https://open.spotify.com/track/4YXhOackOMOlQTMAwsDHo6"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 230226,
       "name": "When The Smoke Is Going Down",
       "url": "https://open.spotify.com/track/1Cc1kD0xeMXZpdUinsH1mP"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Kings of Metal",
+        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
+      },
+      "artists": [
+        {
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+        }
+      ],
+      "duration_ms": 310733,
+      "name": "Heart of Steel",
+      "url": "https://open.spotify.com/track/4YXhOackOMOlQTMAwsDHo6"
     },
     {
       "added_at": "2024-01-02 10:36:29",

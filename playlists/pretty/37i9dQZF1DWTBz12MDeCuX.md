@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: 01099
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,510 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,723 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 91 | [du denkst an mich](https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2) | [3LNA](https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP) | [HERZ BRICHT](https://open.spotify.com/album/61VcdTb8nw5mlYGs8mpNYT) | 2:44 |
 | 92 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 |
 | 93 | [It's not fair](https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [It's not fair](https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP) | 2:42 |
-| 94 | [Nagel](https://open.spotify.com/track/2QIKyERwcoI9M5oEcRlVEA) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3), [Dauner](https://open.spotify.com/artist/1pg47K25az3qbfDNHDLFQL) | [Nagel](https://open.spotify.com/album/7N2lhEDlcMWaQ10SEZ0tMh) | 1:42 |
+| 94 | [Nagel](https://open.spotify.com/track/2QIKyERwcoI9M5oEcRlVEA) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [Nagel](https://open.spotify.com/album/7N2lhEDlcMWaQ10SEZ0tMh) | 1:42 |
 | 95 | [In Your Arms](https://open.spotify.com/track/38LQJiREi2QNoc6iL8nTXJ) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [In Your Arms](https://open.spotify.com/album/5u6OdIduUpROG052H662kO) | 3:31 |
 | 96 | [eBay](https://open.spotify.com/track/3k7g0xHFCX2ezCVCHaikIf) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [eBay](https://open.spotify.com/album/5cCcOdexGrZGWzmcsC3lkU) | 2:22 |
 | 97 | [FUSSBALLMÄNNER](https://open.spotify.com/track/6U5aqDss5uxfK2OONL7ZhS) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [mysli](https://open.spotify.com/artist/7fAAhnFkNkTqt6DV13Zo0U) | [FUSSBALLMÄNNER](https://open.spotify.com/album/5N7zbMgXQbRV8vNfIxmiZ9) | 2:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Rewind](https://open.spotify.com/track/3oY3C73DJuVVnJmIPpeRJC) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Rewind](https://open.spotify.com/album/2MrecpDg6Y0p88ItxIGBxf) | 3:08 |
 | 100 | [SEH NICHT KLAR](https://open.spotify.com/track/7HX8KHF5VtH9rfWF1UrfO5) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [DISTANZ / SEH NICHT KLAR](https://open.spotify.com/album/2OkuVZbkTxxSFQfyyMi1hP) | 2:15 |
 
-Snapshot ID: `MCwzZDE5NDcxYWNjYjZkNzg3OGRiMTVmM2RiMDFhNzk3MmQyYTBlMjVj`
+Snapshot ID: `MCxiYTljNjEyZmZjNWU5OTIzYTAxYjNkNDMyZDBiZjY2ZTVhY2M3NmRj`

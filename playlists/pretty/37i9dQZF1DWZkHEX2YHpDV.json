@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: The Story So Far",
-  "num_followers": 455630,
+  "num_followers": 455649,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjRmYzI2NjM5MTcyNGE2MzRhNmMyYTk5MGU1OTVjZGYyYTM0NTY0",
+  "snapshot_id": "MCwwOGQwYjEzNThlNThkMDljNGEzNjVlZDc0ZTc0NzhlNGQ5MjQ3NDY0",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Punching Bag",
-        "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
+        "name": "Something Blue",
+        "url": "https://open.spotify.com/album/46aNsiacKvNKDOQP535ORt"
       },
       "artists": [
         {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
         }
       ],
-      "duration_ms": 179482,
-      "name": "Punching Bag",
-      "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
+      "duration_ms": 186137,
+      "name": "Something Blue",
+      "url": "https://open.spotify.com/track/1XQecFY99zarSryU7dS1RN"
     },
     {
       "added_at": "2024-03-22 15:38:59",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Something Blue",
-        "url": "https://open.spotify.com/album/46aNsiacKvNKDOQP535ORt"
+        "name": "Punching Bag",
+        "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
       },
       "artists": [
         {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
         }
       ],
-      "duration_ms": 186137,
-      "name": "Something Blue",
-      "url": "https://open.spotify.com/track/1XQecFY99zarSryU7dS1RN"
+      "duration_ms": 179482,
+      "name": "Punching Bag",
+      "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Harder Than It Looks",
+        "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 216474,
+      "name": "Wake Me Up (When This Nightmare\u2019s Over)",
+      "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
         "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Harder Than It Looks",
-        "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
+        "name": "sleepwalking",
+        "url": "https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt"
       },
       "artists": [
         {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
         }
       ],
-      "duration_ms": 216474,
-      "name": "Wake Me Up (When This Nightmare\u2019s Over)",
-      "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
+      "duration_ms": 120855,
+      "name": "sleepwalking",
+      "url": "https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -819,22 +835,6 @@
       "duration_ms": 272668,
       "name": "PIN-EYE",
       "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "sleepwalking",
-        "url": "https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt"
-      },
-      "artists": [
-        {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
-        }
-      ],
-      "duration_ms": 120855,
-      "name": "sleepwalking",
-      "url": "https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "I Left You In Minnesota",
-        "url": "https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP"
-      },
-      "artists": [
-        {
-          "name": "Pardyalone",
-          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
-        }
-      ],
-      "duration_ms": 164327,
-      "name": "She Likes My Tattoos",
-      "url": "https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "RUCKUS!",
         "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 199196,
       "name": "I Hope You Choke!",
       "url": "https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "I Left You In Minnesota",
+        "url": "https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        }
+      ],
+      "duration_ms": 164327,
+      "name": "She Likes My Tattoos",
+      "url": "https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "GROWING UP ON THE INTERNET",
-        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 195686,
-      "name": "ALEXITHYMIA",
-      "url": "https://open.spotify.com/track/5JCMJlSM7i2C39lSxu1HFe"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Hotel Bleu",
         "url": "https://open.spotify.com/album/3blidU7QbdagNPs3Wqw9cI"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 182117,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/19bqVQCJzBLiAb0ljuAVMC"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "GROWING UP ON THE INTERNET",
+        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 195686,
+      "name": "ALEXITHYMIA",
+      "url": "https://open.spotify.com/track/5JCMJlSM7i2C39lSxu1HFe"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1375,6 +1375,46 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Last Day On Earth",
+        "url": "https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1"
+      },
+      "artists": [
+        {
+          "name": "SK8",
+          "url": "https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish"
+        },
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 138086,
+      "name": "Shooting Star (feat. Sum 41)",
+      "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Re-Entry (feat. Mark Hoppus)",
+        "url": "https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        },
+        {
+          "name": "Mark Hoppus",
+          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
+        }
+      ],
+      "duration_ms": 172928,
+      "name": "Re-Entry (feat. Mark Hoppus)",
+      "url": "https://open.spotify.com/track/2f2WCKwB1r2SH7AvJc0P8W"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "nosebleeder",
         "url": "https://open.spotify.com/album/6QTMfsAhVVDhxEZ5hA8nO3"
       },
@@ -1407,46 +1447,6 @@
       "duration_ms": 223626,
       "name": "The Devils",
       "url": "https://open.spotify.com/track/6CV5c4m6FrlrtU7eX9bvYQ"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Re-Entry (feat. Mark Hoppus)",
-        "url": "https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        },
-        {
-          "name": "Mark Hoppus",
-          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
-        }
-      ],
-      "duration_ms": 172928,
-      "name": "Re-Entry (feat. Mark Hoppus)",
-      "url": "https://open.spotify.com/track/2f2WCKwB1r2SH7AvJc0P8W"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Last Day On Earth",
-        "url": "https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1"
-      },
-      "artists": [
-        {
-          "name": "SK8",
-          "url": "https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish"
-        },
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 138086,
-      "name": "Shooting Star (feat. Sum 41)",
-      "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "I WENT TO HELL AND BACK",
+        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 222617,
+      "name": "I MISS 2003",
+      "url": "https://open.spotify.com/track/0KvlvootDUnrXPdZLq57tn"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "THE OUTSIDE (OUTSIDERS VERSION)",
         "url": "https://open.spotify.com/album/14kvTa7vi9xBLZqg6lc1Km"
       },
@@ -1603,34 +1619,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "I WENT TO HELL AND BACK",
-        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri"
       },
       "artists": [
         {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+          "name": "John Harvie",
+          "url": "https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h"
         }
       ],
-      "duration_ms": 222617,
-      "name": "I MISS 2003",
-      "url": "https://open.spotify.com/track/0KvlvootDUnrXPdZLq57tn"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Castaway",
-        "url": "https://open.spotify.com/album/6zchqtm5emQpxjbX0N5zzw"
-      },
-      "artists": [
-        {
-          "name": "Bayside",
-          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Castaway",
-      "url": "https://open.spotify.com/track/29tdoljWp0IVW0cwaNKJGG"
+      "duration_ms": 212727,
+      "name": "Figure 8",
+      "url": "https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri"
+        "name": "Castaway",
+        "url": "https://open.spotify.com/album/6zchqtm5emQpxjbX0N5zzw"
       },
       "artists": [
         {
-          "name": "John Harvie",
-          "url": "https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h"
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
         }
       ],
-      "duration_ms": 212727,
-      "name": "Figure 8",
-      "url": "https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84"
+      "duration_ms": 198266,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/29tdoljWp0IVW0cwaNKJGG"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Head in The Clouds",
-        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 175937,
-      "name": "Head in the Clouds",
-      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Swing and Sway",
         "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 178253,
       "name": "Swing and Sway",
       "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Head in The Clouds",
+        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        }
+      ],
+      "duration_ms": 175937,
+      "name": "Head in the Clouds",
+      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Brag",
+        "url": "https://open.spotify.com/album/45cMuraIAjgFrNYNqP3jnA"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 193250,
+      "name": "Brag",
+      "url": "https://open.spotify.com/track/1ncDsmvCGzO1U1aMWk0ijO"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Suicide and Sunshine",
         "url": "https://open.spotify.com/album/2UI2oA0YxNgDB2Zbm7HCaH"
       },
@@ -1875,18 +1891,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "The Storm",
-        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
+        "name": "Retrovision",
+        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
       },
       "artists": [
         {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
         }
       ],
-      "duration_ms": 173614,
-      "name": "The Storm",
-      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
+      "duration_ms": 187679,
+      "name": "Are You Impressed?",
+      "url": "https://open.spotify.com/track/46UDlYUFZgpRDzouOGBM1m"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1903,6 +1919,22 @@
       "duration_ms": 191976,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 173614,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1943,38 +1975,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Retrovision",
-        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 187679,
-      "name": "Are You Impressed?",
-      "url": "https://open.spotify.com/track/46UDlYUFZgpRDzouOGBM1m"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Got It Bad",
-        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 178804,
-      "name": "Got It Bad",
-      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "People That I Love Leave",
         "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
       },
@@ -1991,18 +1991,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Brag",
-        "url": "https://open.spotify.com/album/45cMuraIAjgFrNYNqP3jnA"
+        "name": "Got It Bad",
+        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
       },
       "artists": [
         {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
         }
       ],
-      "duration_ms": 193250,
-      "name": "Brag",
-      "url": "https://open.spotify.com/track/1ncDsmvCGzO1U1aMWk0ijO"
+      "duration_ms": 178804,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "SHE LOVES ME, SHE LOVES ME NOT",
-        "url": "https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
-        }
-      ],
-      "duration_ms": 182014,
-      "name": "SHE LOVES ME, SHE LOVES ME NOT",
-      "url": "https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "SSX Trickmont",
         "url": "https://open.spotify.com/album/1x3UEx1oKZ17ICrVAuC6Wn"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 218552,
       "name": "Foxglove",
       "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "SHE LOVES ME, SHE LOVES ME NOT",
+        "url": "https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "duration_ms": 182014,
+      "name": "SHE LOVES ME, SHE LOVES ME NOT",
+      "url": "https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Arm's Length",
-        "url": "https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA"
-      },
-      "artists": [
-        {
-          "name": "Arm's Length",
-          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Arm's Length",
-      "url": "https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Thanks but No Thanks",
         "url": "https://open.spotify.com/album/67uepYH5WaYipVDJnkWXyT"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 186440,
       "name": "i heard they found you face down inside your living room",
       "url": "https://open.spotify.com/track/10lsv64UUfs9OSZyRG4aeB"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Arm's Length",
+        "url": "https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA"
+      },
+      "artists": [
+        {
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2423,42 +2423,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/6tVYzz3VmqLcRSGGZu14pB"
-      },
-      "artists": [
-        {
-          "name": "Young Culture",
-          "url": "https://open.spotify.com/artist/2LbKmGXwOFCFl4KJRAfMSr"
-        },
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/4ELaNiaXfb6V8RtGnPEjOv"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Would You Even",
-        "url": "https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG"
-      },
-      "artists": [
-        {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
-        }
-      ],
-      "duration_ms": 172014,
-      "name": "Would You Even",
-      "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "GENRELESS",
         "url": "https://open.spotify.com/album/2mEPTLjLcbOvhj5NDWqeQc"
       },
@@ -2475,18 +2439,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Hand Signals",
-        "url": "https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX"
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/6tVYzz3VmqLcRSGGZu14pB"
       },
       "artists": [
         {
-          "name": "Ben Quad",
-          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
+          "name": "Young Culture",
+          "url": "https://open.spotify.com/artist/2LbKmGXwOFCFl4KJRAfMSr"
+        },
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
         }
       ],
-      "duration_ms": 161416,
-      "name": "Would You Tell Picasso To Sell His Guitars?",
-      "url": "https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT"
+      "duration_ms": 150857,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/4ELaNiaXfb6V8RtGnPEjOv"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2511,18 +2479,34 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Cardinals",
-        "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
+        "name": "Hand Signals",
+        "url": "https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX"
       },
       "artists": [
         {
-          "name": "Telltale",
-          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
         }
       ],
-      "duration_ms": 191080,
-      "name": "Cardinals",
-      "url": "https://open.spotify.com/track/723vVxxNycnmucEWfpvarT"
+      "duration_ms": 161416,
+      "name": "Would You Tell Picasso To Sell His Guitars?",
+      "url": "https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Would You Even",
+        "url": "https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        }
+      ],
+      "duration_ms": 172014,
+      "name": "Would You Even",
+      "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2543,22 +2527,34 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "A. Hole",
-        "url": "https://open.spotify.com/album/0oyN7KFYXUH32KK5jxxcDj"
+        "name": "Cardinals",
+        "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
       },
       "artists": [
         {
-          "name": "Phi11a",
-          "url": "https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS"
-        },
-        {
-          "name": "BESTIES",
-          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
+          "name": "Telltale",
+          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
         }
       ],
-      "duration_ms": 152060,
-      "name": "A. Hole",
-      "url": "https://open.spotify.com/track/6E3Eza0e2suQcGmVDLSa97"
+      "duration_ms": 191080,
+      "name": "Cardinals",
+      "url": "https://open.spotify.com/track/723vVxxNycnmucEWfpvarT"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "better than this",
+        "url": "https://open.spotify.com/album/2VaKXOJ6RcIHwsYyWF6nlK"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "duration_ms": 178165,
+      "name": "better than this",
+      "url": "https://open.spotify.com/track/53HsQKvda5AREIgqeCujU9"
     }
   ],
   "unique_name": "The Scene",

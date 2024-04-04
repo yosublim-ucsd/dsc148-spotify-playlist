@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 72101,
+  "num_followers": 72139,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjFmZTNkNjFhM2Y2ZThmMTMwYTEyNDRmMGYzNDZhZGI0OTBjYmU4",
+  "snapshot_id": "MCxmYTU4OTMwZDZjMTI3NzRiYjc1OWFjOGJiMDk3ZjAzZGM3NTU4MTQ4",
   "tracks": [
     {
       "added_at": "2024-03-09 05:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-03-09 05:00:00",
       "album": {
-        "name": "The Jaws Of Life",
-        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "Pass The Nirvana",
-      "url": "https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290"
-    },
-    {
-      "added_at": "2024-03-09 05:00:00",
-      "album": {
         "name": "Le Tigre",
         "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 184626,
       "name": "Deceptacon",
       "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
+    },
+    {
+      "added_at": "2024-03-09 05:00:00",
+      "album": {
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "Pass The Nirvana",
+      "url": "https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290"
     },
     {
       "added_at": "2024-03-09 05:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-03-09 05:00:00",
       "album": {
-        "name": "Never Hungover Again",
-        "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
-      },
-      "artists": [
-        {
-          "name": "Joyce Manor",
-          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
-        }
-      ],
-      "duration_ms": 65000,
-      "name": "Catalina Fight Song",
-      "url": "https://open.spotify.com/track/2TqfK2N1kFoX7OySPCB7pQ"
-    },
-    {
-      "added_at": "2024-03-09 05:00:00",
-      "album": {
         "name": "Cop Car",
         "url": "https://open.spotify.com/album/38W7WU8kz5SHqcNdx9ZtmC"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 188672,
       "name": "Cop Car",
       "url": "https://open.spotify.com/track/76uPM2ijcGSNinnRQmWMJF"
+    },
+    {
+      "added_at": "2024-03-09 05:00:00",
+      "album": {
+        "name": "Never Hungover Again",
+        "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
+      },
+      "artists": [
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "duration_ms": 65000,
+      "name": "Catalina Fight Song",
+      "url": "https://open.spotify.com/track/2TqfK2N1kFoX7OySPCB7pQ"
     },
     {
       "added_at": "2024-03-09 05:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-03-09 05:00:00",
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "Fast in My Car",
-      "url": "https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK"
-    },
-    {
-      "added_at": "2024-03-09 05:00:00",
-      "album": {
         "name": "The Dream Is Over",
         "url": "https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 148893,
       "name": "DVP",
       "url": "https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D"
+    },
+    {
+      "added_at": "2024-03-09 05:00:00",
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "Fast in My Car",
+      "url": "https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK"
     },
     {
       "added_at": "2024-03-09 05:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-03-09 05:00:00",
       "album": {
-        "name": "Cheer",
-        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 282121,
-      "name": "Weed Pin",
-      "url": "https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk"
-    },
-    {
-      "added_at": "2024-03-09 05:00:00",
-      "album": {
         "name": "Lucky For You",
         "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 160266,
       "name": "Days Move Slow",
       "url": "https://open.spotify.com/track/1J3yWZC6J1lEaCrWrRx8Ni"
+    },
+    {
+      "added_at": "2024-03-09 05:00:00",
+      "album": {
+        "name": "Cheer",
+        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 282121,
+      "name": "Weed Pin",
+      "url": "https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk"
     },
     {
       "added_at": "2024-03-09 05:00:00",

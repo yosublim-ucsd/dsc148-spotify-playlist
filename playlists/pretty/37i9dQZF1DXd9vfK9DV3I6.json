@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 310493,
+  "num_followers": 310633,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDExYjk2MmRlMjllNzMzMTE1ZTBmZGIxZDA5ZDgyN2UyYmRmNzQ2",
+  "snapshot_id": "MCwzODU2OWZjNTczZTZmN2E2YTA4NjE0OWE3YzM2NDY0ZWYwMzAyMjQw",
   "tracks": [
     {
       "added_at": "2024-03-13 08:19:05",
@@ -411,22 +411,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/3iYzjpqcXvx1cQZH5EfG9m"
+        "name": "Buddha Bar (by Sahal\u00e9 & Ravin)",
+        "url": "https://open.spotify.com/album/4mlRC23hzJ2jl4ajkidikX"
       },
       "artists": [
         {
-          "name": "Arman Cekin",
-          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
+          "name": "Sahal\u00e9",
+          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
         },
         {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/5r2g7GoX5wok89UnWyFdai"
+      "duration_ms": 284709,
+      "name": "Sapana",
+      "url": "https://open.spotify.com/track/6Lug1sWzQOhfySNlsmDNkI"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -451,22 +451,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Buddha Bar (by Sahal\u00e9 & Ravin)",
-        "url": "https://open.spotify.com/album/4mlRC23hzJ2jl4ajkidikX"
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/3iYzjpqcXvx1cQZH5EfG9m"
       },
       "artists": [
         {
-          "name": "Sahal\u00e9",
-          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
+          "name": "Arman Cekin",
+          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
         },
         {
-          "name": "Buddha-Bar",
-          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
         }
       ],
-      "duration_ms": 284709,
-      "name": "Sapana",
-      "url": "https://open.spotify.com/track/6Lug1sWzQOhfySNlsmDNkI"
+      "duration_ms": 183000,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/5r2g7GoX5wok89UnWyFdai"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Nu Vreau",
-        "url": "https://open.spotify.com/album/0nmhIBBZMBjID1LmtGEue6"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 193149,
-      "name": "Nu Vreau",
-      "url": "https://open.spotify.com/track/3myOh68CL0fMGEj3d6rs06"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Le Beirut",
         "url": "https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 431520,
       "name": "Le Beirut",
       "url": "https://open.spotify.com/track/7dpKMbwkvZUV9JKFpjaxp0"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Nu Vreau",
+        "url": "https://open.spotify.com/album/0nmhIBBZMBjID1LmtGEue6"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 193149,
+      "name": "Nu Vreau",
+      "url": "https://open.spotify.com/track/3myOh68CL0fMGEj3d6rs06"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/0QbS1GUJgoVoM21wlHDIs9"
-      },
-      "artists": [
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "K\u00e1llay Saunders",
-          "url": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
-        }
-      ],
-      "duration_ms": 201125,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Journey (Mahmut Orhan Remix)",
         "url": "https://open.spotify.com/album/3W4y2VylACtq2E0ZFxwHd6"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 262647,
       "name": "Journey - Mahmut Orhan Remix",
       "url": "https://open.spotify.com/track/3ePcCqdWyYvtyKY95qjCZ0"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/0QbS1GUJgoVoM21wlHDIs9"
+      },
+      "artists": [
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        },
+        {
+          "name": "K\u00e1llay Saunders",
+          "url": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
+        }
+      ],
+      "duration_ms": 201125,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/3XLeoHmYQrRxRqZJTsKvlU"
+      },
+      "artists": [
+        {
+          "name": "Sandra N.",
+          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
+        }
+      ],
+      "duration_ms": 186017,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Bayati Shiraz (feat. Kenan Bayramli)",
         "url": "https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 214214,
       "name": "Bayati Shiraz (feat. Kenan Bayramli)",
       "url": "https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/3XLeoHmYQrRxRqZJTsKvlU"
-      },
-      "artists": [
-        {
-          "name": "Sandra N.",
-          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
-        }
-      ],
-      "duration_ms": 186017,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Escuro",
-        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
-      },
-      "artists": [
-        {
-          "name": "Cut Off",
-          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
-        }
-      ],
-      "duration_ms": 285913,
-      "name": "Escuro",
-      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Moulat Lkhala",
         "url": "https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 192000,
       "name": "Moulat Lkhala",
       "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Escuro",
+        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
+      },
+      "artists": [
+        {
+          "name": "Cut Off",
+          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
+        }
+      ],
+      "duration_ms": 285913,
+      "name": "Escuro",
+      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "MIRAN",
-        "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
-      },
-      "artists": [
-        {
-          "name": "Sinan Yalcin",
-          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
-        },
-        {
-          "name": "Roni Violinist",
-          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
-        }
-      ],
-      "duration_ms": 129145,
-      "name": "MIRAN",
-      "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
         "url": "https://open.spotify.com/album/4nmUacLVvnSw4xO5e2bMgT"
       },
@@ -1159,18 +1139,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Kun",
-        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
+        "name": "MIRAN",
+        "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
       },
       "artists": [
         {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+          "name": "Sinan Yalcin",
+          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
+        },
+        {
+          "name": "Roni Violinist",
+          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
         }
       ],
-      "duration_ms": 314336,
-      "name": "Marrakech",
-      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
+      "duration_ms": 129145,
+      "name": "MIRAN",
+      "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Kun",
+        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 314336,
+      "name": "Marrakech",
+      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/0VCPlHKrNaXBmvDLuXdBVH"
+      },
+      "artists": [
+        {
+          "name": "Berat Oz",
+          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/6swUlpIZQ3ogPdfnn2Sh5Y"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/0VCPlHKrNaXBmvDLuXdBVH"
-      },
-      "artists": [
-        {
-          "name": "Berat Oz",
-          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/6swUlpIZQ3ogPdfnn2Sh5Y"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Arabic Nights",
         "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
       },
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Anlar",
+        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 430769,
+      "name": "Anlar",
+      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Y\u00e2r",
         "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
       },
@@ -1367,18 +1383,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Anlar",
-        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
       },
       "artists": [
         {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
         }
       ],
-      "duration_ms": 430769,
-      "name": "Anlar",
-      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1399,26 +1419,6 @@
       "duration_ms": 160575,
       "name": "Love of You (The Violin Song)",
       "url": "https://open.spotify.com/track/3Plxq17VtrPDcXMFvFqBI4"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "3ala bali",
-        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Pamela Antoun",
-          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
-        }
-      ],
-      "duration_ms": 210132,
-      "name": "3ala bali",
-      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Mektup",
+        "url": "https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij"
+      },
+      "artists": [
+        {
+          "name": "ilkan Muslu",
+          "url": "https://open.spotify.com/artist/3tU2vh0n0CMrNvVkvh4Lxv"
+        }
+      ],
+      "duration_ms": 212615,
+      "name": "Askim",
+      "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Talk About Us",
         "url": "https://open.spotify.com/album/1lHEakWggs4zrnNNrv6ti0"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 196909,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/0saYIsX2qEFViag84KF26X"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Mektup",
-        "url": "https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij"
-      },
-      "artists": [
-        {
-          "name": "ilkan Muslu",
-          "url": "https://open.spotify.com/artist/3tU2vh0n0CMrNvVkvh4Lxv"
-        }
-      ],
-      "duration_ms": 212615,
-      "name": "Askim",
-      "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye"
       },
@@ -1783,6 +1767,42 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Anatolieni",
+        "url": "https://open.spotify.com/album/5eStJjR5hOHlfsA4so6ddY"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        },
+        {
+          "name": "Ossova",
+          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
+        }
+      ],
+      "duration_ms": 126545,
+      "name": "Anatolieni",
+      "url": "https://open.spotify.com/track/0aiLsfS9b2L7puIX9FsuEv"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Anatolian Vibe",
         "url": "https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK"
       },
@@ -1799,22 +1819,6 @@
       "duration_ms": 187779,
       "name": "Anatolian Vibe",
       "url": "https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Viraha",
-        "url": "https://open.spotify.com/album/1FWAZzzfsj8Xpyt7NY5URT"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        }
-      ],
-      "duration_ms": 171534,
-      "name": "Viraha",
-      "url": "https://open.spotify.com/track/6ecbcjg67nbaXzPU4dvac7"
     },
     {
       "added_at": "2024-03-13 08:19:05",

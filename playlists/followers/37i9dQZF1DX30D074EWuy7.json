@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 28495,
+  "2024-04-04": 28523,
   "date_first_scraped": "2022-09-09",
   "description": "La playlist del jazz italiano, passato e presente. Cover: 72-HOUR POST-FIGHT",
   "name": "Jazz Italia",
@@ -1893,7 +1893,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 392266,
       "name": "Cornettology",
       "url": "https://open.spotify.com/track/1B33DpXeN6I9yo0txJSx6Z"
@@ -3329,7 +3329,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 400165,
       "name": "Groovy",
       "url": "https://open.spotify.com/track/23VZlYt2HpWP5VeAO6zFSb"
@@ -3787,7 +3787,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 197953,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/3M0o19A4Vq5Z0mKctW1j5L"
@@ -5602,6 +5602,24 @@
     },
     {
       "album": {
+        "name": "Fera",
+        "url": "https://open.spotify.com/album/2izTLnkmVrIV8DTWHJ1bMS"
+      },
+      "artists": [
+        {
+          "name": "Mariasole De Pascali",
+          "url": "https://open.spotify.com/artist/2Jv7B9pQ12UQaZgLLoAJRW"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145720,
+      "name": "Luce coatta",
+      "url": "https://open.spotify.com/track/5NtfeXVr7Svsfyh6UfQCME"
+    },
+    {
+      "album": {
         "name": "Lumina",
         "url": "https://open.spotify.com/album/0Ftg8OfwenKu2rUi1aJOqE"
       },
@@ -7133,6 +7151,40 @@
       "duration_ms": 175458,
       "name": "Porta Pia",
       "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
+    },
+    {
+      "album": {
+        "name": "Nascente",
+        "url": "https://open.spotify.com/album/3uGv7Ed4KoMMYzsN7JnKhP"
+      },
+      "artists": [
+        {
+          "name": "Flavio Spampinato",
+          "url": "https://open.spotify.com/artist/522jwKYDtXKa3FLJcUOU9F"
+        },
+        {
+          "name": "Alessandro Gwis",
+          "url": "https://open.spotify.com/artist/6j1PzlqIU1iRxOaE2lCarl"
+        },
+        {
+          "name": "Fil Caporali",
+          "url": "https://open.spotify.com/artist/5gzaSFuPnNwD6a7fzm2Pyo"
+        },
+        {
+          "name": "H\u00e9l\u00e8ne Duret",
+          "url": "https://open.spotify.com/artist/2Cf02PAFt9jRd4HalGBRgI"
+        },
+        {
+          "name": "Javier Girotto",
+          "url": "https://open.spotify.com/artist/2spXBSuWcNeXqaq1GxKz25"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347989,
+      "name": "Preghiera libera",
+      "url": "https://open.spotify.com/track/6lILT9lqOxLhE2VOC86hzN"
     },
     {
       "album": {
@@ -9469,7 +9521,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 254773,
       "name": "Vibrare",
       "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"

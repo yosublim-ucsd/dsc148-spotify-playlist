@@ -4,7 +4,7 @@
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Lucky Brown.
 
-334 songs - 18 hr 54 min
+335 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Ese Corte \- Remix](https://open.spotify.com/track/7vuo2dgIMzZWejlFk9avrl) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Alexio](https://open.spotify.com/artist/4Tw0VaV1ENei24iQnktjXj) | [Ese Corte \(Remix\)](https://open.spotify.com/album/1uMmDZYSh4YBI8nk1uw5ZR) | 6:51 | 2023-08-17 | 2024-03-22 |
 | [ESE CULITO](https://open.spotify.com/track/4ezUYRDJUiLuupER93nkiX) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [ESE CULITO](https://open.spotify.com/album/04s8SgqUuaEBdElV1XwZxh) | 3:42 | 2022-04-14 | 2022-04-29 |
 | [Ese Guille](https://open.spotify.com/track/6EKqBV3VqOjQEGNnSS0hzt) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Ese Guille](https://open.spotify.com/album/6Il031Qrsr1CNq32gPxr0W) | 2:34 | 2024-01-18 |  |
-| [Fashion Girl \- Remix](https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Fashion Girl \(Remix\)](https://open.spotify.com/album/21sLFYA7VmVpCadRw7Z1sq) | 3:11 | 2023-05-18 |  |
+| [Fashion Girl \- Remix](https://open.spotify.com/track/4VHKOThPROw1Qo1a43Am8S) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Fashion Girl \(Remix\)](https://open.spotify.com/album/59DS3dN2FAU5ZcxBi9AXiR) | 3:11 | 2024-03-28 |  |
+| [Fashion Girl \- Remix](https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Fashion Girl \(Remix\)](https://open.spotify.com/album/21sLFYA7VmVpCadRw7Z1sq) | 3:11 | 2023-05-18 | 2024-04-04 |
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu) | 2:36 | 2022-09-08 | 2023-05-12 |
 | [Fetty](https://open.spotify.com/track/4VUCD7MJpEsPG71MJDXBdD) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [Fetty](https://open.spotify.com/album/6iU0MQfHr7q8XCU2cGwX1q) | 2:53 | 2023-11-16 | 2023-12-09 |
 | [Fiera](https://open.spotify.com/track/5cDyidxA6n2xI4iFsqzt6D) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Fiera](https://open.spotify.com/album/5wElk4V6mpataJOwrjLsj1) | 2:55 | 2022-10-28 | 2023-03-25 |

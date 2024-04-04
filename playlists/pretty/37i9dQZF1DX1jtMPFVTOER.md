@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,869 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,899 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 22 | [Be Myself](https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [Be Myself](https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW) | 3:47 |
 | 23 | [Down With the King](https://open.spotify.com/track/5odKJTIElEOAjL2R4d1Gax) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Down With the King](https://open.spotify.com/album/5Ui7Y42rwbwgnCmmtDdB8X) | 4:26 |
 | 24 | [Into the Blue](https://open.spotify.com/track/7Mu7mPglHwMXWljvR0m8X1) | [Jim Swim](https://open.spotify.com/artist/63ptpREyqBJ4c61pJq5lR4), [ALYX RUSH](https://open.spotify.com/artist/24pp4R67XES61YlVopv9LS), [Dan Padley](https://open.spotify.com/artist/5wzjeKTAZ8BfvhVorTLvGx) | [Into the Blue](https://open.spotify.com/album/4gxd2OypBLF8OEadRXj9p8) | 3:12 |
-| 25 | [Angela](https://open.spotify.com/track/36TkDjlOyExWGWpeThOgsx) | [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m), [Stas THEE Boss](https://open.spotify.com/artist/569JHM0BuZlot1yXODxhUV), [Irene Barber](https://open.spotify.com/artist/4SMPHImE8ShQJ55mJ01LoW) | [Angela](https://open.spotify.com/album/1XyGvGvrTfxboCatcdf3tA) | 3:01 |
+| 25 | [Angela](https://open.spotify.com/track/1RlwflrljoxcNGoRPjeeUT) | [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m), [Stas THEE Boss](https://open.spotify.com/artist/569JHM0BuZlot1yXODxhUV), [Irene Barber](https://open.spotify.com/artist/4SMPHImE8ShQJ55mJ01LoW) | [Exotic Birds of Prey](https://open.spotify.com/album/3PqRZV34l1ePPXXAHYOQYi) | 3:01 |
 | 26 | [Let The Guitar Play \- Radio Version](https://open.spotify.com/track/6Ps899HotQYDpN2fK9P0Oe) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Darryl "DMC" McDaniels](https://open.spotify.com/artist/6a8v4haj3oDEJiDMVrAJAn) | [Let The Guitar Play](https://open.spotify.com/album/5TDXsLvPp5AqZKIZredNDi) | 4:55 |
 | 27 | [Foreverland \[Feat\. Laura Mvula & Chris Dave\] \- Single Edit](https://open.spotify.com/track/1iYqpkxXgdhE38P3cIF79v) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT), [Chris Dave](https://open.spotify.com/artist/0ty2lxzPnKWRfQd18OuAvM) | [Foreverland \[Feat\. Laura Mvula & Chris Dave\]](https://open.spotify.com/album/4I6MUwu9LVlOccDCRzRbJ6) | 5:03 |
 | 28 | [how u feel](https://open.spotify.com/track/4iMNys9dTJ1DTAamO8IV53) | [Charlie Curtis\-Beard](https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb), [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [how u feel](https://open.spotify.com/album/6EmduoDGQ6FhaYfPmm0TQl) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Kanazawa](https://open.spotify.com/track/6wbGYLokhtcUBJKLqoCwHs) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Shigeto](https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8), [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [Hotel San Claudio](https://open.spotify.com/album/0cuhODD4wYfCeeclaYsPYu) | 3:54 |
 | 100 | [you said...](https://open.spotify.com/track/2T8gjOM7DTgu7YtwLC0ddf) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [you said...](https://open.spotify.com/album/77L359klVW9v2ODUWvNPF5) | 2:14 |
 
-Snapshot ID: `MCxlOTRjODUzZjcwZDNjZGRjNmY4NDY5NWIwOTc2MTk1NmM3ZTUzYzM4`
+Snapshot ID: `MCwyMjFlZGVjZTEwZGFmMWJiMjEyMGU0ZGY2YzYzOTY3OTQwNmE2ZTY3`

@@ -1,12 +1,12 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 9575,
+  "num_followers": 9581,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MThiMzAzYTQxYzBiN2QwZjVhMDNlNDc1NzExM2U5NzBiZTVjMmFm",
+  "snapshot_id": "MCw2Y2ZmM2EzNjM1YjVkMGM5MDhlNWUwYTFiMmRjMDhjZDNiYWYxOWZj",
   "tracks": [
     {
       "added_at": "2024-03-20 03:55:56",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.3",
+        "url": "https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/69Bx1c9Hzv7IZGkLyFCeMw"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "Expectation - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 220309,
       "name": "Grain of Sand",
       "url": "https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
-        "name": "Queen of Tears (Original Television Soundtrack), Pt.3",
-        "url": "https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "Hold Me Back",
-      "url": "https://open.spotify.com/track/69Bx1c9Hzv7IZGkLyFCeMw"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "IM HERO",
-        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 274386,
-      "name": "If We Ever Meet Again",
-      "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "WINTER of aespa X MY DEMON",
         "url": "https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 316506,
       "name": "My sea",
       "url": "https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 274386,
+      "name": "If We Ever Meet Again",
+      "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "KING THE LAND (Original Television Soundtrack), Pt.3",
+        "url": "https://open.spotify.com/album/4Y0Xe9mVSKmn0k24oVkrtU"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 207373,
+      "name": "Get To You",
+      "url": "https://open.spotify.com/track/2S8mZn8qjT8udtuoCziMPf"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "Blooming just for you",
         "url": "https://open.spotify.com/album/7HBkXZSY6SQknB6MeS7KYd"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 207453,
       "name": "Blooming just for you",
       "url": "https://open.spotify.com/track/2HPWrzo08BqVptseRrk2GI"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
-        "name": "KING THE LAND (Original Television Soundtrack), Pt.3",
-        "url": "https://open.spotify.com/album/4Y0Xe9mVSKmn0k24oVkrtU"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 207373,
-      "name": "Get To You",
-      "url": "https://open.spotify.com/track/2S8mZn8qjT8udtuoCziMPf"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "The Moon (Feat. TAEIL of NCT)",
-        "url": "https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G"
-      },
-      "artists": [
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
-        },
-        {
-          "name": "TAEIL",
-          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
-        }
-      ],
-      "duration_ms": 162365,
-      "name": "The Moon (Feat. TAEIL of NCT)",
-      "url": "https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Why (Feat. Hoody)",
         "url": "https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 140866,
       "name": "Why (Feat. Hoody)",
       "url": "https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "The Moon (Feat. TAEIL of NCT)",
+        "url": "https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+        }
+      ],
+      "duration_ms": 162365,
+      "name": "The Moon (Feat. TAEIL of NCT)",
+      "url": "https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/7LbNOe1dTRHpP9hh48Merc"
+      },
+      "artists": [
+        {
+          "name": "HWANG MIN HYUN",
+          "url": "https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5btyWod77lGbqKjEGRBvGw"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "Hopeless Romantic",
         "url": "https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 235920,
       "name": "Hopeless Romantic (Feat. LEE SUHYUN)",
       "url": "https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/7LbNOe1dTRHpP9hh48Merc"
-      },
-      "artists": [
-        {
-          "name": "HWANG MIN HYUN",
-          "url": "https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/5btyWod77lGbqKjEGRBvGw"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
-      },
-      "artists": [
-        {
-          "name": "DK",
-          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "If you lovingly call my name (GyeongseoYeji x Jeon Gunho)",
         "url": "https://open.spotify.com/album/1QD2UJupusQ9zBsldpvS3d"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 231338,
       "name": "If you lovingly call my name",
       "url": "https://open.spotify.com/track/0tgxvf4rqBBeEB54h0nnRD"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "duration_ms": 222305,
+      "name": "Shining on Your Night",
+      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "Fxxxnds",
         "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 209400,
       "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
       "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
-        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
-      },
-      "artists": [
-        {
-          "name": "Jinyoung",
-          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
-        }
-      ],
-      "duration_ms": 222305,
-      "name": "Shining on Your Night",
-      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
     },
     {
       "added_at": "2024-03-20 03:55:56",

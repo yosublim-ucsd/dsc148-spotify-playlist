@@ -4,7 +4,7 @@
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-216 songs - 11 hr 44 min
+217 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Brainfreeze](https://open.spotify.com/track/4Eb3gMQ7N2dpPNJM3g0BQf) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/7eEbep8JcpiguccrgdNcms) | 4:16 | 2022-04-08 | 2022-07-29 |
 | [Brainfreeze](https://open.spotify.com/track/6kwaYcQCLqWRYlG7Vpffsg) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/3mh4YBAPUHSKZ2VjWGfB3H) | 4:16 | 2022-07-01 |  |
 | [Brainfreeze](https://open.spotify.com/track/7pDH3MNeFLhDYJMsqHPhCF) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [XVOTO](https://open.spotify.com/album/6muUIRODfshZYZLD52K5Va) | 4:16 | 2022-11-08 | 2022-11-14 |
-| [BURNING RUBBER](https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [BURNING RUBBER](https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e) | 2:13 | 2022-04-08 |  |
+| [BURNING RUBBER](https://open.spotify.com/track/2zhW4Hb4JuQugffpsuVwKz) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [I WANT BLOOD / i want love](https://open.spotify.com/album/4z172SKyhMOorillZtbIIZ) | 2:13 | 2024-02-12 |  |
+| [BURNING RUBBER](https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [BURNING RUBBER](https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e) | 2:13 | 2022-04-08 | 2024-04-04 |
 | [BYE BYE](https://open.spotify.com/track/4K2hu1I4tuRpgDLiNTTEi2) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [BYE BYE](https://open.spotify.com/album/5zve9HuTTyhYyDW5gnjpi7) | 4:14 | 2024-01-19 |  |
 | [CANNOT GET ANY BETTER](https://open.spotify.com/track/5M4r4rrjc3mXTRLIDH9qcG) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [CANNOT GET ANY BETTER](https://open.spotify.com/album/4C8JSXX0gamv4pllZ55XQV) | 2:24 | 2022-04-08 | 2022-10-01 |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-04-08 | 2023-11-06 |

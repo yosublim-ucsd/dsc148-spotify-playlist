@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 15050,
+  "2024-04-04": 15052,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
   "name": "Top 50 - Bulgaria",
@@ -3343,7 +3343,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 170847,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i"
@@ -7647,7 +7647,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 133608,
       "name": "favorite",
       "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
@@ -10061,6 +10061,28 @@
       "duration_ms": 208706,
       "name": "House of Memories",
       "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
+    },
+    {
+      "album": {
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212640,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
     },
     {
       "album": {
@@ -12747,7 +12769,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -13325,7 +13347,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -27293,7 +27315,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 189600,
       "name": "\u0416\u0438\u0432\u0435\u0439, \u043c\u0438\u043b\u043e \u043c\u043e\u0435",
       "url": "https://open.spotify.com/track/2LMdXVxVRKM5Ls7IVBjqb9"
@@ -27399,6 +27421,32 @@
       "duration_ms": 199133,
       "name": "\u0417\u0432\u044a\u043d\u043d\u0438 \u043c\u0438",
       "url": "https://open.spotify.com/track/0dwB1Vbr7CuhOiXPAuZFkZ"
+    },
+    {
+      "album": {
+        "name": "\u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 III: \u041d\u043e\u0432\u043e\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0435",
+        "url": "https://open.spotify.com/album/1jw6k4oMqDpP4JTrry8ZrX"
+      },
+      "artists": [
+        {
+          "name": "FYRE",
+          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
+        },
+        {
+          "name": "Gocata Kangal",
+          "url": "https://open.spotify.com/artist/79LfvzdMQhTIFoeMC7UBRG"
+        },
+        {
+          "name": "I.N.I.",
+          "url": "https://open.spotify.com/artist/564L14VyLz0lmnlpwX2MBw"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249350,
+      "name": "\u0417\u0434\u0440\u0430\u0432 \u0411\u043e\u0434\u044a\u0440 \u0414\u0443\u0445",
+      "url": "https://open.spotify.com/track/3iYds4ZaAY9ueYdNC0osjc"
     },
     {
       "album": {
@@ -29163,7 +29211,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 167210,
       "name": "\u041f\u0438\u0441\u0442\u043e\u043b\u0435\u0442",
       "url": "https://open.spotify.com/track/3bEbRxixvEVlEVIgvepXcg"

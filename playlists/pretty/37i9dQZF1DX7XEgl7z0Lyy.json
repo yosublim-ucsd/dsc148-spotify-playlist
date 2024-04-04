@@ -1,12 +1,12 @@
 {
   "description": "music from the underworld",
-  "num_followers": 397235,
+  "num_followers": 398729,
   "original_name": "hexxed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmY3Y2JjM2I0MDY5OWRjODBlZDcyY2MxN2JhMGJjMzIxOTM5ODMx",
+  "snapshot_id": "MCxkZThkMjNjNTU0OGU3M2ZlZTI2NDAzMmU4Y2MwMmNmM2M0NmYwMWJh",
   "tracks": [
     {
       "added_at": "2024-03-05 18:42:51",
@@ -403,17 +403,17 @@
     {
       "added_at": "2024-03-29 14:56:57",
       "album": {
-        "name": "noir",
+        "name": "",
         "url": "https://open.spotify.com/album/6LPcdvBpYreJXcEYOwbwgs"
       },
       "artists": [
         {
-          "name": "sho",
-          "url": "https://open.spotify.com/artist/7J931Zo6xntPEBM04BANte"
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 97001,
-      "name": "noir",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/37xKfBHDeIzMeeScHOp89Q"
     },
     {

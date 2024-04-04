@@ -1,13 +1,109 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Pem",
-  "num_followers": 65025,
+  "num_followers": 65276,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTI1ZDM5YmYyOTNlYTU1ZWQzMTYxYTFhY2YxODlmMWIwZWYxMGRh",
+  "snapshot_id": "MCwxZTRjNDhjYjNhZmU4ZmRlZWFlNTE5ZGFlYjIzZTM1ZDgyMTgyNTlm",
   "tracks": [
+    {
+      "added_at": "2024-04-03 04:00:00",
+      "album": {
+        "name": "Pocket",
+        "url": "https://open.spotify.com/album/2cy9UiKp4m5TuYTQD5rg3E"
+      },
+      "artists": [
+        {
+          "name": "Margot Liotta",
+          "url": "https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Pocket",
+      "url": "https://open.spotify.com/track/4tEbhflVi5PzSl2om3C3so"
+    },
+    {
+      "added_at": "2024-04-03 04:00:00",
+      "album": {
+        "name": "Milk Town / Mr. Carter",
+        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 77032,
+      "name": "Milk Town / Mr. Carter",
+      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
+    },
+    {
+      "added_at": "2024-04-03 04:00:00",
+      "album": {
+        "name": "Breaking My Heart",
+        "url": "https://open.spotify.com/album/5vfxuLkTB0yKnDlqw2G3jB"
+      },
+      "artists": [
+        {
+          "name": "Gregory Ackerman",
+          "url": "https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "Breaking My Heart",
+      "url": "https://open.spotify.com/track/0ZjlO0PIWdaXN4wOXAl8V1"
+    },
+    {
+      "added_at": "2024-04-03 15:18:37",
+      "album": {
+        "name": "bones",
+        "url": "https://open.spotify.com/album/2LHXuK5ERSCr6b78nsJxA0"
+      },
+      "artists": [
+        {
+          "name": "hemlock",
+          "url": "https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "bones",
+      "url": "https://open.spotify.com/track/0g8uX2HdXunlPssYwp6wVR"
+    },
+    {
+      "added_at": "2024-04-03 04:00:00",
+      "album": {
+        "name": "If There\u2019s No God\u2026",
+        "url": "https://open.spotify.com/album/08KweWkvPuTHka5aRXuSVz"
+      },
+      "artists": [
+        {
+          "name": "S. Raekwon",
+          "url": "https://open.spotify.com/artist/13O0dF37al4XD57GenV5wC"
+        }
+      ],
+      "duration_ms": 305067,
+      "name": "If There\u2019s No God\u2026",
+      "url": "https://open.spotify.com/track/1oOWG5YBwW5tegvDPE8WvK"
+    },
+    {
+      "added_at": "2024-04-03 04:00:00",
+      "album": {
+        "name": "Nurture",
+        "url": "https://open.spotify.com/album/2C1zMTCPVRj1nf3vVqD1sA"
+      },
+      "artists": [
+        {
+          "name": "youbet",
+          "url": "https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI"
+        }
+      ],
+      "duration_ms": 192298,
+      "name": "Nurture",
+      "url": "https://open.spotify.com/track/26Swptg946qdQg550xWHVS"
+    },
     {
       "added_at": "2024-03-20 16:00:00",
       "album": {
@@ -39,6 +135,86 @@
       "duration_ms": 174264,
       "name": "Made your bed",
       "url": "https://open.spotify.com/track/3caqqv8ODxoJXlkTHOttqu"
+    },
+    {
+      "added_at": "2024-04-03 04:00:00",
+      "album": {
+        "name": "Early Promise",
+        "url": "https://open.spotify.com/album/3sxMbcOc1l1c1Ua2f5moes"
+      },
+      "artists": [
+        {
+          "name": "Family Stereo",
+          "url": "https://open.spotify.com/artist/4HUyWDdAowsbbtJQQEn5RT"
+        }
+      ],
+      "duration_ms": 183761,
+      "name": "Early Promise",
+      "url": "https://open.spotify.com/track/0O39ah7SfbeDcAM5YeBQLl"
+    },
+    {
+      "added_at": "2024-04-03 04:00:00",
+      "album": {
+        "name": "Between the Good & What I Want",
+        "url": "https://open.spotify.com/album/0LTUzxNEzTDg4Ay0pyOBvR"
+      },
+      "artists": [
+        {
+          "name": "Thomas LaVine",
+          "url": "https://open.spotify.com/artist/2T7YLT9nMnXlnW0UjJBN70"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/5nTJlBetqJmbP5WHPaKI2e"
+    },
+    {
+      "added_at": "2024-03-27 04:00:00",
+      "album": {
+        "name": "Lost in a Dream",
+        "url": "https://open.spotify.com/album/4RtRUvZstzZeNfpwHjfPD4"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Lewis",
+          "url": "https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw"
+        }
+      ],
+      "duration_ms": 217805,
+      "name": "Lost in a Dream",
+      "url": "https://open.spotify.com/track/0ehGyu9uYhq7M2A9psuPEd"
+    },
+    {
+      "added_at": "2024-04-03 04:00:00",
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/7nqa05TWijHHgxPt7wKQd0"
+      },
+      "artists": [
+        {
+          "name": "Caoilfhionn Rose",
+          "url": "https://open.spotify.com/artist/6YRqlhH88xZ7h2WOhwNYOb"
+        }
+      ],
+      "duration_ms": 214956,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/6kNOw4Xfbpyr4ahbBqFP3b"
+    },
+    {
+      "added_at": "2024-04-03 04:00:00",
+      "album": {
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/28Rrj9eLCUnMxLI4ksvNSW"
+      },
+      "artists": [
+        {
+          "name": "Abby Walker",
+          "url": "https://open.spotify.com/artist/7jszfbhgcYuNuQt2QR8HCy"
+        }
+      ],
+      "duration_ms": 233177,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4lX29CBmV7ayKkPvSjHVUT"
     },
     {
       "added_at": "2024-03-27 04:00:00",
@@ -119,22 +295,6 @@
       "duration_ms": 219238,
       "name": "Easy Street",
       "url": "https://open.spotify.com/track/2gru7tFhiQQ2XHYBZlAus2"
-    },
-    {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
-        "name": "Lost in a Dream",
-        "url": "https://open.spotify.com/album/4RtRUvZstzZeNfpwHjfPD4"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Lewis",
-          "url": "https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw"
-        }
-      ],
-      "duration_ms": 217805,
-      "name": "Lost in a Dream",
-      "url": "https://open.spotify.com/track/0ehGyu9uYhq7M2A9psuPEd"
     },
     {
       "added_at": "2024-03-27 19:41:04",
@@ -1445,22 +1605,6 @@
       "url": "https://open.spotify.com/track/1G5Q59cV1UNU0AOiWtODGS"
     },
     {
-      "added_at": "2024-02-07 05:00:00",
-      "album": {
-        "name": "Starwave",
-        "url": "https://open.spotify.com/album/7sNMLlqNxqB1ypwVHOrtsj"
-      },
-      "artists": [
-        {
-          "name": "Warmshine Room",
-          "url": "https://open.spotify.com/artist/6lLcqGmrwbLNDKKKaIK5VW"
-        }
-      ],
-      "duration_ms": 108880,
-      "name": "Starwave",
-      "url": "https://open.spotify.com/track/6W4GHSjOU6POEQMFJaCpv3"
-    },
-    {
       "added_at": "2024-02-09 19:40:09",
       "album": {
         "name": "2 days into college",
@@ -1475,182 +1619,6 @@
       "duration_ms": 168113,
       "name": "2 days into college",
       "url": "https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU"
-    },
-    {
-      "added_at": "2024-02-07 05:00:00",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/50CAGqnQEALbokgCJpj5pq"
-      },
-      "artists": [
-        {
-          "name": "The Takes",
-          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
-        }
-      ],
-      "duration_ms": 266693,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/7ms1CL5zKlAgywMkK6d7ol"
-    },
-    {
-      "added_at": "2024-02-07 05:00:00",
-      "album": {
-        "name": "Hold My Hand",
-        "url": "https://open.spotify.com/album/7cFllNFxYu9aNErrov1T3Y"
-      },
-      "artists": [
-        {
-          "name": "Zoe Boekbinder",
-          "url": "https://open.spotify.com/artist/5WDhdWVcgfQkhgxka9j119"
-        }
-      ],
-      "duration_ms": 168560,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/1Nom7EvTgdkMeLZCszJ5Ft"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "Let Your Love Run Cold",
-        "url": "https://open.spotify.com/album/02qqL9B8uYPcrA7yCmMjdS"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reid",
-          "url": "https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV"
-        }
-      ],
-      "duration_ms": 223942,
-      "name": "Let Your Love Run Cold",
-      "url": "https://open.spotify.com/track/4lDviyx50ZMALSovCHFo61"
-    },
-    {
-      "added_at": "2024-02-07 05:00:00",
-      "album": {
-        "name": "to god, to us",
-        "url": "https://open.spotify.com/album/1O4GhqpaQaSWGxEwnsVr7c"
-      },
-      "artists": [
-        {
-          "name": "Izzie Burton",
-          "url": "https://open.spotify.com/artist/5USPz1G7jEwvH6TzlD0Grm"
-        }
-      ],
-      "duration_ms": 274528,
-      "name": "to god, to us",
-      "url": "https://open.spotify.com/track/4i0vEZuGiIRfP7ZQQRFNSQ"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "Stones & Waves",
-        "url": "https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ"
-      },
-      "artists": [
-        {
-          "name": "Elias Hix",
-          "url": "https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "Stones & Waves",
-      "url": "https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "what happens if I cross the line",
-        "url": "https://open.spotify.com/album/3RTKYrNMmAKYrAU7SdBB04"
-      },
-      "artists": [
-        {
-          "name": "Celine Hess",
-          "url": "https://open.spotify.com/artist/7ArYmzvy6W6KwBxnJ1IqEv"
-        }
-      ],
-      "duration_ms": 196271,
-      "name": "what happens if I cross the line",
-      "url": "https://open.spotify.com/track/71IrFbRpoTRQSCAoSOfjV9"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "Corduroy",
-        "url": "https://open.spotify.com/album/499Z1f8EJDdAsABRtIEigH"
-      },
-      "artists": [
-        {
-          "name": "Memorial",
-          "url": "https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc"
-        }
-      ],
-      "duration_ms": 195940,
-      "name": "Corduroy",
-      "url": "https://open.spotify.com/track/2qwMUXVtNkvvtyR0QVVuGg"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "The Pilgrim, Their God and The King of My Decrepit Mountain",
-        "url": "https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb"
-      },
-      "artists": [
-        {
-          "name": "Tapir!",
-          "url": "https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd"
-        }
-      ],
-      "duration_ms": 259959,
-      "name": "On A Grassy Knoll (We'll Bow Together)",
-      "url": "https://open.spotify.com/track/2w7ytZGD2i3xHXFpy5sJye"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "Possibly Alaska",
-        "url": "https://open.spotify.com/album/49wcI9B6Iarko0kcdyJC4B"
-      },
-      "artists": [
-        {
-          "name": "Maddison Krebs",
-          "url": "https://open.spotify.com/artist/1c2r71uOTJ3QDVdd5oZIKF"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Possibly Alaska",
-      "url": "https://open.spotify.com/track/19bsT8H336P233OI5XF4Do"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "The Ghost",
-        "url": "https://open.spotify.com/album/2SBH48KmA57UY44dBQXxAG"
-      },
-      "artists": [
-        {
-          "name": "Ella Tobin",
-          "url": "https://open.spotify.com/artist/1hdEBuPH4q1u687ZLNF1eb"
-        }
-      ],
-      "duration_ms": 217415,
-      "name": "The Ghost",
-      "url": "https://open.spotify.com/track/3xdtzvDUIhWYbkb15SbKsc"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "don't look down",
-        "url": "https://open.spotify.com/album/1q1TdlpfyojD5MuWrY8IX4"
-      },
-      "artists": [
-        {
-          "name": "tarnisher",
-          "url": "https://open.spotify.com/artist/3FocGF7xpQdjpjBTra4w1c"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "don't look down",
-      "url": "https://open.spotify.com/track/1P5da0FlIWDvtMhwBArzRR"
     },
     {
       "added_at": "2024-01-10 17:00:00",

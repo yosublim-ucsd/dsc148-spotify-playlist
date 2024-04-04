@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Be\u00e9le & Kany Garc\u00eda",
-  "num_followers": 284351,
+  "num_followers": 284378,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjkzMDY0MTk1NTUyOWI2YTk2OTdhMGU5NzIyNTcyZDU3ZWMzYzQ3",
+  "snapshot_id": "MCw4YWUxYmQ3NjQ3ODJhYWRjNDhkZjZhMjM1ZGQ5ZTUzMjMzZGIzOGIw",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Pasado Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 137693,
-      "name": "Pasado Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "mimos",
         "url": "https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 186373,
       "name": "mimos",
       "url": "https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Pasado Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 137693,
+      "name": "Pasado Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -723,22 +723,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Como Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0AzuXwKn5iVxzXbvoCIgRX"
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
       },
       "artists": [
         {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        },
-        {
-          "name": "Christian Pag\u00e1n",
-          "url": "https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z"
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 176220,
-      "name": "Como Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/2gK3ynM9On1zehgLJaUKhf"
+      "duration_ms": 186617,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -763,18 +759,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Verano En NY",
-        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
+        "name": "Como Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0AzuXwKn5iVxzXbvoCIgRX"
       },
       "artists": [
         {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        },
+        {
+          "name": "Christian Pag\u00e1n",
+          "url": "https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z"
         }
       ],
-      "duration_ms": 186617,
-      "name": "Verano En NY",
-      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
+      "duration_ms": 176220,
+      "name": "Como Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/2gK3ynM9On1zehgLJaUKhf"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Este Cuento",
-        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 174083,
-      "name": "Este Cuento",
-      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Chistes Malos",
         "url": "https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba"
       },
@@ -895,22 +879,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Extra\u00f1os de Nuevo",
-        "url": "https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Extra\u00f1os de Nuevo",
-      "url": "https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "quise quererte",
         "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
       },
@@ -923,6 +891,38 @@
       "duration_ms": 219786,
       "name": "quise quererte",
       "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Este Cuento",
+        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 174083,
+      "name": "Este Cuento",
+      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Extra\u00f1os de Nuevo",
+        "url": "https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 195720,
+      "name": "Extra\u00f1os de Nuevo",
+      "url": "https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Cositas Sucias",
-        "url": "https://open.spotify.com/album/4ByfJ3lfQLg8TTklHTewbj"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 141226,
-      "name": "Cositas Sucias",
-      "url": "https://open.spotify.com/track/5OkBhZHRMKGpoFTc5WXw50"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "La Mexicana",
         "url": "https://open.spotify.com/album/5JBNbex1k3qqo57JwIZUTA"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 149741,
       "name": "La Mexicana",
       "url": "https://open.spotify.com/track/09d92ol4KHLqTx0nu9vbxZ"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Cositas Sucias",
+        "url": "https://open.spotify.com/album/4ByfJ3lfQLg8TTklHTewbj"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 141226,
+      "name": "Cositas Sucias",
+      "url": "https://open.spotify.com/track/5OkBhZHRMKGpoFTc5WXw50"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "SOLA",
-        "url": "https://open.spotify.com/album/4jM7PAcZUqdVhRoke8bF1N"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        }
-      ],
-      "duration_ms": 191818,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/7y5ZyLfcBa5oYhP8jZwUcz"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "26 (ni tarde ni temprano)",
         "url": "https://open.spotify.com/album/7fhRpgRxxa7FUZWQXpRitl"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 203149,
       "name": "26 - ni tarde ni temprano",
       "url": "https://open.spotify.com/track/6ClF0j9hpvx0PcNBbiUZT9"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "SOLA",
+        "url": "https://open.spotify.com/album/4jM7PAcZUqdVhRoke8bF1N"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 191818,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/7y5ZyLfcBa5oYhP8jZwUcz"
     },
     {
       "added_at": "2024-03-29 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 729674,
+  "num_followers": 729755,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjIxOTY1YmVjYmViOTc2ZmM1N2NmNTlkMzNhN2EwMTIwNDliYTkz",
+  "snapshot_id": "MCxiOTAxMDliNzI2MThkMzU1OTc0MWNkYTA0Yzc4YWY4ODJhZGU1NmJi",
   "tracks": [
     {
       "added_at": "2024-03-28 08:38:33",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-03-28 08:38:33",
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "Good Riddance (Time of Your Life)",
-      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
-    },
-    {
-      "added_at": "2024-03-28 08:38:33",
-      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 182746,
       "name": "Santeria",
       "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
+    },
+    {
+      "added_at": "2024-03-28 08:38:33",
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "Good Riddance (Time of Your Life)",
+      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
       "added_at": "2024-03-28 08:38:33",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-03-28 08:38:33",
       "album": {
+        "name": "Split Screen",
+        "url": "https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 303005,
+      "name": "Split Screen",
+      "url": "https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD"
+    },
+    {
+      "added_at": "2024-03-28 08:38:33",
+      "album": {
         "name": "Break the Cycle",
         "url": "https://open.spotify.com/album/2JHjVEvYNVQ9FUUMB2LcMl"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 293133,
       "name": "Outside",
       "url": "https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm"
-    },
-    {
-      "added_at": "2024-03-28 08:38:33",
-      "album": {
-        "name": "WALLS",
-        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 329666,
-      "name": "WALLS",
-      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
     },
     {
       "added_at": "2024-03-28 08:38:33",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-03-28 08:38:33",
       "album": {
+        "name": "WALLS",
+        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 329666,
+      "name": "WALLS",
+      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
+    },
+    {
+      "added_at": "2024-03-28 08:38:33",
+      "album": {
         "name": "Showbiz",
         "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2024-03-28 08:38:33",
       "album": {
-        "name": "Split Screen",
-        "url": "https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 303005,
-      "name": "Split Screen",
-      "url": "https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD"
-    },
-    {
-      "added_at": "2024-03-28 08:38:33",
-      "album": {
         "name": "Hombre Lobo",
         "url": "https://open.spotify.com/album/5KVxlY0HM8gaTeE9nff9bp"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-28 08:38:33",
       "album": {
-        "name": "Moral Panic",
-        "url": "https://open.spotify.com/album/6afyaK8ihj33Chr7A7LqNI"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 248399,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/4ZEvO7TZQTbUGJzqjcPFDD"
-    },
-    {
-      "added_at": "2024-03-28 08:38:33",
-      "album": {
         "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 200066,
       "name": "Swing Life Away",
       "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
+    },
+    {
+      "added_at": "2024-03-28 08:38:33",
+      "album": {
+        "name": "Moral Panic",
+        "url": "https://open.spotify.com/album/6afyaK8ihj33Chr7A7LqNI"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 248399,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/4ZEvO7TZQTbUGJzqjcPFDD"
     },
     {
       "added_at": "2024-03-28 08:38:33",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-03-28 08:38:33",
       "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 269026,
-      "name": "Planet Caravan - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/2VDg6h3Qr3F8UuFVInQxE6"
-    },
-    {
-      "added_at": "2024-03-28 08:38:33",
-      "album": {
         "name": "As You Were (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 251631,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/5Ih40KFkj3cSzxgisQxBvX"
+    },
+    {
+      "added_at": "2024-03-28 08:38:33",
+      "album": {
+        "name": "Paranoid (Remaster)",
+        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 269026,
+      "name": "Planet Caravan - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/2VDg6h3Qr3F8UuFVInQxE6"
     },
     {
       "added_at": "2024-03-28 08:38:33",

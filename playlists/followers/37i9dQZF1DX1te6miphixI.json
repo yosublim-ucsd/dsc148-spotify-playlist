@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 808553,
+  "2024-04-04": 808597,
   "date_first_scraped": "2022-04-22",
   "description": "Grandes temas del rock de ayer y de hoy.",
   "name": "Radio Rock",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 263440,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 197800,
       "name": "Come Out and Play",
       "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"

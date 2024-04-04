@@ -1,12 +1,12 @@
 {
-  "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 1793319,
+  "description": "The country that made country cool. Cover: Alan Jackson\n",
+  "num_followers": 1794157,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzJkN2JhMWQwNDAwMTQ5YTQ3ODUxYzBiYWQwNTcyN2QyZDBmYmE3",
+  "snapshot_id": "MCwzODM2YmNiNzY4ODI3YjRkNzk3ODZmZDNlNTJkN2NjY2QzYWQxZjkx",
   "tracks": [
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "When Love Finds You",
-        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 315973,
-      "name": "Go Rest High On That Mountain",
-      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Used To Want To Be A Cowboy",
         "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 245173,
       "name": "This Cowboy's Hat",
       "url": "https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 315973,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
+        "name": "It Matters to Me",
+        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "It Matters to Me",
+      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
       },
@@ -1795,22 +1811,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "It Matters to Me",
-        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "It Matters to Me",
-      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "High Lonesome",
         "url": "https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02"
       },
@@ -1823,6 +1823,22 @@
       "duration_ms": 160360,
       "name": "Better Class of Losers",
       "url": "https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Dreamin' Out Loud",
+        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "I Left Something Turned On At Home",
+      "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1843,22 +1859,6 @@
       "duration_ms": 155000,
       "name": "Whatcha Gonna Do With A Cowboy",
       "url": "https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
-        "name": "Dreamin' Out Loud",
-        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
-      },
-      "artists": [
-        {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "I Left Something Turned On At Home",
-      "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
+        "name": "Dreamin' Out Loud",
+        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "(This Ain't) No Thinkin' Thing",
+      "url": "https://open.spotify.com/track/44YTMbU3aqvE7q09rjyUb3"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
         "name": "Be Good At It",
         "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
       },
@@ -1987,22 +2003,6 @@
       "duration_ms": 236466,
       "name": "Baby Likes To Rock It",
       "url": "https://open.spotify.com/track/2kQtKFkPMdL5Jf7xk4T9SI"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
-        "name": "Dreamin' Out Loud",
-        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
-      },
-      "artists": [
-        {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "(This Ain't) No Thinkin' Thing",
-      "url": "https://open.spotify.com/track/44YTMbU3aqvE7q09rjyUb3"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Homeward Looking Angel",
-        "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
-      },
-      "artists": [
-        {
-          "name": "Pam Tillis",
-          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Shake The Sugar Tree",
-      "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Michael Peterson",
         "url": "https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 182306,
       "name": "Drink, Swear, Steal & Lie",
       "url": "https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Homeward Looking Angel",
+        "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
+      },
+      "artists": [
+        {
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Shake The Sugar Tree",
+      "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX"
-      },
-      "artists": [
-        {
-          "name": "Diamond Rio",
-          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "How Your Love Makes Me Feel",
-      "url": "https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "No Place That Far",
         "url": "https://open.spotify.com/album/5lxFK2ZEsfmdS2Yevlj2mU"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 217400,
       "name": "No Place That Far",
       "url": "https://open.spotify.com/track/0Rg5tIACULED7Jv2sEzWSd"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX"
+      },
+      "artists": [
+        {
+          "name": "Diamond Rio",
+          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "How Your Love Makes Me Feel",
+      "url": "https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1"
     },
     {
       "added_at": "2024-03-05 21:47:39",

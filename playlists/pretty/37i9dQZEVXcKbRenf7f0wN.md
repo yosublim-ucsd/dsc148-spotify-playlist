@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Gothic Girl](https://open.spotify.com/track/1eeypTTbkGroy162wwcDVJ) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Blessed Be](https://open.spotify.com/album/4XXgAyEok3YeJuEw55qwsJ) | 4:22 |
 | 30 | [The Fire](https://open.spotify.com/track/4kx0JoMZ4qcDqd53Ez7fPH) | [The Sound](https://open.spotify.com/artist/4hzCcF4Leos2sKnz79nwhz) | [From The Lion's Mouth](https://open.spotify.com/album/2neFxutkHmjJ8jVAXcXynI) | 2:52 |
 
-Snapshot ID: `MCwwMDAwMDAwMGI2NjQxNDAxYjU3OGI3OGNiMzRjM2FlYWRjNGE5YjI1`
+Snapshot ID: `MCwwMDAwMDAwMGYzM2E1MzAxMDNlOWFlNmQzMjNiZjIxZTc4ZTZiNTk3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Mark Ambor
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,226 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,259 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Way Too Young](https://open.spotify.com/track/04GnO4JiMFACIZnJlC1Psh) | [Pelch](https://open.spotify.com/artist/1sJoi3cOOQf2J21k7K8FjV) | [That's How The Story Goes](https://open.spotify.com/album/0Wf3BGIP5Q5dEfuILQe1D3) | 2:18 |
 | 100 | [Different Kind Of Beautiful](https://open.spotify.com/track/6mxsd0LQt2qk2rpLEqlCJw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Different Kind Of Beautiful](https://open.spotify.com/album/6M7C0uHmNik7gss4M31k0t) | 3:21 |
 
-Snapshot ID: `MCw3NTJlNjRjMDZjNjU4YjJjOTgzYmVkZWY1MTUwYTg4Y2FmMjM2MDE2`
+Snapshot ID: `MCw2M2Y4MDIyZDY0NTYwNDkwZWIwOGFlMTFkNGMzZjYxNjdkM2Y0MTE2`

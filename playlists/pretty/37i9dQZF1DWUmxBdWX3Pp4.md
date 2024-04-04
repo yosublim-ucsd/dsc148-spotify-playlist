@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Bryant Myers, Jhayco & Luar La L.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,079 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,223 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 21 | [BOOKER T](https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:36 |
 | 22 | [Rockstar](https://open.spotify.com/track/3E4ZzO4ySupnYypDPXcc3D) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Rockstar](https://open.spotify.com/album/15Pp0263atXizZbrwTEWjb) | 1:52 |
 | 23 | [Mafia Chilena: GUCCI GREMLIN](https://open.spotify.com/track/00nkC3hghUJB2ILdTAn44T) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Mafia Chilena: GUCCI GREMLIN](https://open.spotify.com/album/4le82QUKPdaEI75sUfOrU8) | 2:56 |
-| 24 | [KILOS X UBER](https://open.spotify.com/track/0dx8TkOBF1CXjYXveEve77) | [DNA](https://open.spotify.com/artist/175jl4E6s8nBYSEaQyEhS0), [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Yanzee](https://open.spotify.com/artist/6CzsnF5NFkzdu4ZlAkgo6y) | [KILOS X UBER](https://open.spotify.com/album/4V7yeTOk6zFYJ7hRQs9kO6) | 4:36 |
+| 24 | [KILOS X UBER](https://open.spotify.com/track/4tfe2AWDf1Bv0ifmAMTpT4) | [DNA](https://open.spotify.com/artist/175jl4E6s8nBYSEaQyEhS0), [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Yanzee](https://open.spotify.com/artist/6CzsnF5NFkzdu4ZlAkgo6y) | [KILOS X UBER](https://open.spotify.com/album/2filrdFUbs26BaTbbdu7xl) | 4:36 |
 | 25 | [Madrid](https://open.spotify.com/track/49Br4XqYMOBlwM2YRGPQYy) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Madrid](https://open.spotify.com/album/6fp9VIOrvejpy2WKofJmL3) | 2:57 |
 | 26 | [MERCEDES CAROTA](https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:22 |
 | 27 | [THUNDER Y LIGHTNING](https://open.spotify.com/track/4pcafPzLDSqQktqSpxHL3E) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 99 | [La MVP](https://open.spotify.com/track/74WOZ17ERaFrHXYtSid13p) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Living Life](https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl) | 3:00 |
 | 100 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 |
 
-Snapshot ID: `MCwyYTZlZjIyZGM0NDE1ODg4ZTQ0ZWI2MmMwMGNkMjY1Mjc0ZjZjNzE3`
+Snapshot ID: `MCw0ZjViMmExMGM0YmQ2MWE5M2Q5NGZjZTNlMGUzZmM0MGMxNjI3Nzcw`

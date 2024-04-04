@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-119 songs - 12 hr 29 min
+120 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Save Me From The Night \- Foxall Remix](https://open.spotify.com/track/0T13z4GtvB89z7cmIIIRnu) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ), [Kleiber](https://open.spotify.com/artist/0pUIfTg8Yri3rNrQgIk3mp), [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [al'awal remixes](https://open.spotify.com/album/5dOXG5sIPoeuR1ZvrYUoEE) | 6:26 | 2022-10-14 |  |
 | [SEANKEN BIMA](https://open.spotify.com/track/7ystRkFTTgFWEoksxrnRpf) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Seanken Bima](https://open.spotify.com/artist/6GlbMl93njT52k7IRKlixF) | [NO WAKE](https://open.spotify.com/album/0NU6uwQT4zCB6P7blpa9xH) | 6:44 | 2022-07-23 | 2022-10-15 |
 | [Shimshai](https://open.spotify.com/track/1UDOAT7TcqHBdzUYJ0GR41) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f) | [Leveldva Chillrave 001](https://open.spotify.com/album/3GXsWafBNGymgP4C9vkwKn) | 6:16 | 2022-07-23 |  |
-| [Spacehall](https://open.spotify.com/track/2qXWBjO9BNVURgc9tDJwmS) | [Lou](https://open.spotify.com/artist/7l9DjVOhlzTmBhCLW8Q2we) | [Moodfamily Compilation I](https://open.spotify.com/album/6RdWrH7iwLePIhmksv1CwA) | 7:18 | 2022-07-23 |  |
+| [Spacehall](https://open.spotify.com/track/2qXWBjO9BNVURgc9tDJwmS) | [Lou](https://open.spotify.com/artist/7l9DjVOhlzTmBhCLW8Q2we) | [Moodfamily Compilation I](https://open.spotify.com/album/6RdWrH7iwLePIhmksv1CwA) | 7:18 | 2022-07-23 | 2024-04-04 |
+| [Spacehall](https://open.spotify.com/track/5OJ0wA7NmsFb69dlbPcfUh) | [Lou](https://open.spotify.com/artist/7l9DjVOhlzTmBhCLW8Q2we) | [Moodfamily Compilation I](https://open.spotify.com/album/0mBJ44IRxHyPPJgpPcM7R1) | 7:18 | 2022-10-14 |  |
 | [Sparkles From Venus \- Menachem 26 Remix](https://open.spotify.com/track/7iznuWs20ZV3D5EiBzNwUC) | [Sangeet](https://open.spotify.com/artist/2lvEKcQtOdHfHhWNjDTTvl), [Menachem 26](https://open.spotify.com/artist/24YsFyswWUJYWZOi5BQ6tJ) | [Heliostasio Remix Edition](https://open.spotify.com/album/026n4zlvKluvWoNhxAvjtL) | 7:33 | 2022-07-23 |  |
 | [Square Kids \- Anton Feine Remix](https://open.spotify.com/track/0efhQX2ijD72A4XHd43eRc) | [Kusht](https://open.spotify.com/artist/1GLyo3Rp9NTc8bJa65xLXg), [Anton Feine](https://open.spotify.com/artist/2IxXoB8qwqS9uwl3z1zt3o) | [Teapot](https://open.spotify.com/album/7vOUJ6FIStKWKhDwiJTbhV) | 6:31 | 2022-07-23 |  |
 | [Strandbad Streesow](https://open.spotify.com/track/3tAMzriZjYs9MXBfg1pkSD) | [flieder](https://open.spotify.com/artist/53ftG6iXiNlvsXeuFMBepp) | [Null Acht Fünfzehn EP](https://open.spotify.com/album/1Qvwbd1Y56VaKDROhdoW72) | 6:02 | 2022-07-23 | 2022-10-15 |

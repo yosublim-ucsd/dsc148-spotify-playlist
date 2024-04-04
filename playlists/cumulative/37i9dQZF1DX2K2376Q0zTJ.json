@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "Awaini",
+        "url": "https://open.spotify.com/album/2PKY0nUkj6ou7NS1TWyDBx"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201471,
+      "name": "Awaini",
+      "url": "https://open.spotify.com/track/2LvtiKmK2dOIH8NjSlix7d"
+    },
+    {
+      "album": {
         "name": "Takaramono",
         "url": "https://open.spotify.com/album/19KMuhlGVX3PTQPM1iqKFe"
       },
@@ -15544,7 +15562,7 @@
     {
       "album": {
         "name": "Love One Another",
-        "url": "https://open.spotify.com/album/47MmxhLmTn7W91dxYCHvT9"
+        "url": "https://open.spotify.com/album/2BKXSl0ktKpWNHzqdAAy1T"
       },
       "artists": [
         {
@@ -15555,6 +15573,24 @@
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 225149,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/4V79L8tRqdgQLT1og54hN6"
+    },
+    {
+      "album": {
+        "name": "Love One Another",
+        "url": "https://open.spotify.com/album/47MmxhLmTn7W91dxYCHvT9"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-04",
       "duration_ms": 225149,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/7Bek5MohEgCbfAs91H3Di1"
@@ -16096,7 +16132,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 201471,
       "name": "\u3042\u308f\u3044\u306b",
       "url": "https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95"

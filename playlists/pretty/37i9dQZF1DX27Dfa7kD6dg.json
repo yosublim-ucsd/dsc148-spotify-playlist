@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 34275,
+  "num_followers": 34310,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDU1MTE2YTcxZjllNTA4ODhiMmIyNTAwZDc2YjNjZGRiNmRlYzA5",
+  "snapshot_id": "MCxkNTI1ZDY4NmM5YTNhZTg0ZDc0MDg0NWQzNDlmMmU4YjZmOGUxNjY3",
   "tracks": [
     {
       "added_at": "2024-04-03 01:10:10",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-04-03 01:10:10",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 303800,
-      "name": "Quien Entiende Este Amor",
-      "url": "https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX"
-    },
-    {
-      "added_at": "2024-04-03 01:10:10",
-      "album": {
         "name": "La Rebelion",
         "url": "https://open.spotify.com/album/5ZoirXVZUdjIMzxlKfggVC"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 376451,
       "name": "La Rebelion",
       "url": "https://open.spotify.com/track/6GvKKrKjFPbS3t8h8asMx7"
+    },
+    {
+      "added_at": "2024-04-03 01:10:10",
+      "album": {
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt"
+      },
+      "artists": [
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        }
+      ],
+      "duration_ms": 303800,
+      "name": "Quien Entiende Este Amor",
+      "url": "https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX"
     },
     {
       "added_at": "2024-04-03 01:10:10",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-04-03 01:10:10",
       "album": {
-        "name": "El Salsero De Ahora",
-        "url": "https://open.spotify.com/album/3assxvTXExDZ6uxjvxojvQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Matos",
-          "url": "https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Amor Perfecto",
-      "url": "https://open.spotify.com/track/6aceQoxzSrHTvrmcAEOXaY"
-    },
-    {
-      "added_at": "2024-04-03 01:10:10",
-      "album": {
         "name": "Serie Millennium",
         "url": "https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 320466,
       "name": "Casi Te Envidio",
       "url": "https://open.spotify.com/track/14ZtWHRc05sX1qy4dL89ID"
+    },
+    {
+      "added_at": "2024-04-03 01:10:10",
+      "album": {
+        "name": "El Salsero De Ahora",
+        "url": "https://open.spotify.com/album/3assxvTXExDZ6uxjvxojvQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Matos",
+          "url": "https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Amor Perfecto",
+      "url": "https://open.spotify.com/track/6aceQoxzSrHTvrmcAEOXaY"
     },
     {
       "added_at": "2024-04-03 01:10:10",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-04-03 01:10:10",
       "album": {
+        "name": "Mambo Madness",
+        "url": "https://open.spotify.com/album/37adSaGjRerybXzNjcry13"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez & His Orchestra",
+          "url": "https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Mambo La Libertad",
+      "url": "https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz"
+    },
+    {
+      "added_at": "2024-04-03 01:10:10",
+      "album": {
         "name": "La Epoca de Oro, Vol. 1",
         "url": "https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 158400,
       "name": "Tutuneco",
       "url": "https://open.spotify.com/track/2rGtqPVV2JQPkuxH3HRiu2"
-    },
-    {
-      "added_at": "2024-04-03 01:10:10",
-      "album": {
-        "name": "Mambo Madness",
-        "url": "https://open.spotify.com/album/37adSaGjRerybXzNjcry13"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez & His Orchestra",
-          "url": "https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Mambo La Libertad",
-      "url": "https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz"
     },
     {
       "added_at": "2024-04-03 01:10:10",

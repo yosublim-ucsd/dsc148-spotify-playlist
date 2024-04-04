@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Logic1000
 
-258 songs - 17 hr 43 min
+259 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [Obsesión Romántica](https://open.spotify.com/track/3kBUPfyyjXV7SYFUQnwWzv) | [Maddy Maia](https://open.spotify.com/artist/61DvbqY9Ihl7jmhQEEpSgU), [Tottie](https://open.spotify.com/artist/70OXFT4fyMwvcOHgFsVj9B) | [SOS MUSIC VOL\. 1](https://open.spotify.com/album/5ffE081DdeFbqJFZ6F6MOY) | 7:11 | 2021-03-01 | 2022-07-29 |
 | [On The List](https://open.spotify.com/track/6S4JRqrrBl0yMGHjN3DFc6) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [On The List](https://open.spotify.com/album/6yvwMxx3HNzEua962yBxpU) | 3:00 | 2024-03-01 |  |
 | [Other Side](https://open.spotify.com/track/7cF2hKTFZ1JgoyEObsx2K4) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Other Side](https://open.spotify.com/album/2PqqKi9JNeXzT9zqFHwFEP) | 6:09 | 2021-03-01 | 2023-03-08 |
-| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-29 |  |
+| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-29 | 2024-04-04 |
+| [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-03-29 |  |
 | [Peacock Revisit \(feat\. Ice Beats Slide & Sbuda Maleather\)](https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [SOLACE](https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik) | 5:26 | 2024-03-01 |  |
 | [Phantasy](https://open.spotify.com/track/5uEW8Kp1dM8UbotWxieU9c) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Phantasy](https://open.spotify.com/album/2w9JaI4kPmMHweV6ComleZ) | 4:00 | 2023-03-07 | 2024-03-02 |
 | [Poodle Power](https://open.spotify.com/track/4eGE2I4OAH6aOvnirdg5jH) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [DJ\-Kicks EP](https://open.spotify.com/album/3irqFgGYXXDKIZryxbcmGQ) | 6:03 | 2021-03-01 | 2022-07-29 |

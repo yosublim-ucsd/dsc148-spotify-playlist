@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 191602,
+  "2024-04-04": 191650,
   "date_first_scraped": "2021-12-28",
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
   "name": "Creative Focus",
@@ -3447,7 +3447,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 267773,
       "name": "Les noces de Jeanette - op\u00e9ra-comique: Air du rossignol",
       "url": "https://open.spotify.com/track/6fqXx67EOQOLEQHFA5ZnBY"
@@ -3763,6 +3763,36 @@
       "duration_ms": 210026,
       "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
       "url": "https://open.spotify.com/track/6QAGeFtnxxXGN8sig88JEC"
+    },
+    {
+      "album": {
+        "name": "Barbella: Mandolin Concerto in D Major: II. Andantino",
+        "url": "https://open.spotify.com/album/3Hv6HfQgtLiNwpyuB7GuIv"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Barbella",
+          "url": "https://open.spotify.com/artist/0Mq2gLttd8uE9a12879DxR"
+        },
+        {
+          "name": "Avi Avital",
+          "url": "https://open.spotify.com/artist/3NbuyRJml6VdSfpDFC5a7b"
+        },
+        {
+          "name": "Il Giardino Armonico",
+          "url": "https://open.spotify.com/artist/3ffMbKIrSWo557U1wDxNDq"
+        },
+        {
+          "name": "Giovanni Antonini",
+          "url": "https://open.spotify.com/artist/6p4RwKsAymPrqeEEluZECW"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233306,
+      "name": "Mandolin Concerto in D Major: II. Andantino",
+      "url": "https://open.spotify.com/track/0q5F2Us19Bt12QGfexqkDM"
     },
     {
       "album": {

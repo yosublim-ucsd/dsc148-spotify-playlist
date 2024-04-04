@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Alpha Wolf and ICE\-T.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,843 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,969 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 9 | [Animal](https://open.spotify.com/track/1BO5Y7G9ukdTRVw1ER0HuC) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Animal](https://open.spotify.com/album/45tUpXXzTSNp1QZ6Z1ENvX) | 3:38 |
 | 10 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
 | 11 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 |
-| 12 | [Live It Up \- Live](https://open.spotify.com/track/7D1liRVqgIYfj9CXAV9Ygw) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Live It Up](https://open.spotify.com/album/3Lqp6tQk7nVxVqIkLM1SHi) | 3:37 |
+| 12 | [Live It Up](https://open.spotify.com/track/7D1liRVqgIYfj9CXAV9Ygw) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Live It Up](https://open.spotify.com/album/3Lqp6tQk7nVxVqIkLM1SHi) | 3:37 |
 | 13 | [UNBOUND](https://open.spotify.com/track/3LMY1W14udlJRI5cRHH1B9) | [Indigo Blaze](https://open.spotify.com/artist/0hCmNM3Zwz6gYb8fdaxIcf), [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [UNBOUND](https://open.spotify.com/album/6yV7TTaBOu1rwivcDLVUXJ) | 3:27 |
 | 14 | [Secrets](https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Skin to Skin](https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8) | 3:11 |
 | 15 | [Nightmare](https://open.spotify.com/track/5c3fIHmLHmL4iaqUuqBPHo) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [Zero](https://open.spotify.com/track/2jtRquHacdjMoGhnuUG0i4) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [A Digital Nowhere](https://open.spotify.com/album/36QgSEVbr6YcCNM8naxWev) | 3:29 |
 | 50 | [Kaneda](https://open.spotify.com/track/40CtKggBylHY7G3yUBYPyU) | [Smash Hit Combo](https://open.spotify.com/artist/7n9ZfBhbU4NJNSHNZWl76a) | [Kaneda](https://open.spotify.com/album/5td63N8Cvw2nCZ7HfV5OK3) | 3:08 |
 
-Snapshot ID: `MCwzMWE1ZDgxYmRlNWJkNzQ0YzI3YjU0NjU3NWM4NWY4N2ZiMzVkNDBj`
+Snapshot ID: `MCwxYmMwZWNjNWQ4ZTQwYzFlZDMwOWM1YTU5YWYyOTRlNmJiZTBhMjMz`

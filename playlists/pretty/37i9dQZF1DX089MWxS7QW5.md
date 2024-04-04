@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: dori\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,385 likes - 56 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,402 likes - 56 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 55 | [From Now](https://open.spotify.com/track/6q2yYNfgrcNfW3OZh8WQ5Z) | [EachOne](https://open.spotify.com/artist/421WUO9b5iopxq4c53zFNk) | [From Now](https://open.spotify.com/album/6Bmg7Tl2MoeqVZZQw7AIda) | 3:20 |
 | 56 | [Better](https://open.spotify.com/track/6a5DPLmFyHypY8VcsL8O7L) | [JK Kim Dong Uk](https://open.spotify.com/artist/3rbvvrsMmH8iT9qFf3IoNz) | [Better](https://open.spotify.com/album/5qNWv2c6vEkt1wLQ5hBYAX) | 3:36 |
 
-Snapshot ID: `MCw2MDM0ZGE0ODZhOTA2MjE5YTcwOThmZjI3MDY4NGFlNGEzZWY4M2U1`
+Snapshot ID: `MCxjODk4MTcwNzI2MDZhYTg3MDM2NDkxOTBhMzQzMTRjYjdkMzg5N2U3`

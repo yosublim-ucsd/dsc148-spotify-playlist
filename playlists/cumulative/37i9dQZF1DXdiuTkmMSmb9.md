@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Gold Fang
 
-424 songs - 21 hr 47 min
+425 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [Talk That Talk](https://open.spotify.com/track/4velCw4NS8gCmeni5PUg1P) | [Temgazi](https://open.spotify.com/artist/39YdCb2aOpgl34Ju2ge1lA) | [Talk That Talk](https://open.spotify.com/album/3ZjC2K1IHqrtD97yUxtxvf) | 2:56 | 2022-08-25 | 2022-09-09 |
 | [TELL DEM](https://open.spotify.com/track/7Kto0ljnZH0x8zBVejHkCW) | [JÉREI](https://open.spotify.com/artist/1lmf2OycyrMZ0WMDBplvl8), [JVT](https://open.spotify.com/artist/01SGeo59EV57L72Dpq6JeE) | [TELL DEM](https://open.spotify.com/album/7I4sHOWCgBKUumuDLNgCxI) | 3:10 | 2023-08-24 | 2023-12-14 |
 | [Temptation](https://open.spotify.com/track/6TrkF1hbn1qLMdR2Ly3ZGj) | [DANNY LANKE](https://open.spotify.com/artist/72jomA4QZXljUKTgZrnOSN) | [Temptation](https://open.spotify.com/album/2YAhJ2x6054FWqsVxxc2Wa) | 2:16 | 2023-09-21 |  |
+| [Tested, Approved & Trusted \- Major League DJz Mix](https://open.spotify.com/track/1d6telYM1rky7HEdY7lA3d) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Tested, Approved & Trusted](https://open.spotify.com/album/3i0VuN0GGdWw9PgEHtBWli) | 6:22 | 2024-04-02 |  |
 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 | 2024-02-29 |  |
 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 | 2022-08-25 | 2022-09-09 |
 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 | 2022-07-18 | 2022-11-18 |

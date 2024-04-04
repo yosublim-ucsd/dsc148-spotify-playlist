@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Buddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,315,655 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,316,023 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [P's & Q's](https://open.spotify.com/track/2fRCVz0YnXdYomxDNzWBNp) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Where There's Smoke...](https://open.spotify.com/album/0waujGlOQqsfvPpNzuVG3Y) | 2:25 |
 | 100 | [TULUM](https://open.spotify.com/track/7xSlkebKRYibm6plhrEQAX) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Lyrics to GO Vol\. 5](https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql) | 2:35 |
 
-Snapshot ID: `MCw4NmQ0MTdhMGRhNTUxNjkwZGQzNjVlMzQyMGFlYWZiMjE0ZjkzZjk5`
+Snapshot ID: `MCw4NjNhZDRjODE0NjQ2NWY4YzYwZTgxZjM0NWQwMDhhZWVlZDhhODA2`

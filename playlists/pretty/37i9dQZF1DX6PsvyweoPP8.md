@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,539 likes - 84 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,548 likes - 84 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 83 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 |
 | 84 | [Explícito](https://open.spotify.com/track/6NYqvbaeS7XgcUse43r20R) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Carol Andrade](https://open.spotify.com/artist/3fctTsft6lHY1Aqayr1Tj7) | [Explícito](https://open.spotify.com/album/110KVzMll2pkSCue4TKblu) | 3:20 |
 
-Snapshot ID: `MCwxNThhZDBkZTAzNzFhNWZjYzk0ZmQ2NTc0MWFkMGUxZGZhMGY3Yjgw`
+Snapshot ID: `MCw1YTVjZmQ0MTJmMmU3Mjk1YTU1MzMxZTljOGVlYzdlZmFjZGEyYWFj`

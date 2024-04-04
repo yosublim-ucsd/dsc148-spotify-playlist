@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: Ivan Cornejo",
-  "num_followers": 7039,
+  "num_followers": 7042,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDdmNmJiN2IxODJhYjEyZjU3NTkxOTYwZGZjMmFhNDFiMTg2ZDJh",
+  "snapshot_id": "MCwyZjk0NzRlYTE0YmMxMTFkZmNmN2ZhZjBiMmI4ZDdlZTE0N2M2NDVm",
   "tracks": [
     {
       "added_at": "2024-01-29 17:19:17",
@@ -79,18 +79,18 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
-        "name": "X'CLUSIVO",
-        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
+        "name": "Dame Amor",
+        "url": "https://open.spotify.com/album/5ahfnUbjVFr0dxwZYJLcHs"
       },
       "artists": [
         {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
         }
       ],
-      "duration_ms": 175586,
-      "name": "X'CLUSIVO",
-      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
+      "duration_ms": 209062,
+      "name": "Dame Amor",
+      "url": "https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3"
     },
     {
       "added_at": "2024-01-29 17:19:17",
@@ -135,18 +135,18 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
-        "name": "Dame Amor",
-        "url": "https://open.spotify.com/album/5ahfnUbjVFr0dxwZYJLcHs"
+        "name": "X'CLUSIVO",
+        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
       },
       "artists": [
         {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
         }
       ],
-      "duration_ms": 209062,
-      "name": "Dame Amor",
-      "url": "https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3"
+      "duration_ms": 175586,
+      "name": "X'CLUSIVO",
+      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
     },
     {
       "added_at": "2024-01-29 17:19:17",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
+        "name": "Donde Se Fue el Sol",
+        "url": "https://open.spotify.com/album/2v2kVJmiTZAej6IcQT19oQ"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 219636,
+      "name": "Donde Se Fue el Sol",
+      "url": "https://open.spotify.com/track/2V5SOpJyIyJudUPJzB5HI8"
+    },
+    {
+      "added_at": "2024-01-29 17:19:17",
+      "album": {
         "name": "\u00bfQu\u00e9 Nos Pas\u00f3?",
         "url": "https://open.spotify.com/album/1DWrE8Xky9itsV13fWyPEJ"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 239780,
       "name": "\u00bfQu\u00e9 Nos Pas\u00f3?",
       "url": "https://open.spotify.com/track/3HFoiMqUstpjKGuCnAYQ2U"
-    },
-    {
-      "added_at": "2024-01-29 17:19:17",
-      "album": {
-        "name": "Donde Se Fue el Sol",
-        "url": "https://open.spotify.com/album/2v2kVJmiTZAej6IcQT19oQ"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 219636,
-      "name": "Donde Se Fue el Sol",
-      "url": "https://open.spotify.com/track/2V5SOpJyIyJudUPJzB5HI8"
     },
     {
       "added_at": "2024-01-29 17:19:17",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
-        "name": "Siempre Tendr\u00e9 Mi Voz",
-        "url": "https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 165300,
-      "name": "Siempre Tendr\u00e9 Mi Voz",
-      "url": "https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu"
-    },
-    {
-      "added_at": "2024-01-29 17:19:17",
-      "album": {
         "name": "EN LA MA\u00d1ANA",
         "url": "https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 153391,
       "name": "EN LA MA\u00d1ANA",
       "url": "https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv"
+    },
+    {
+      "added_at": "2024-01-29 17:19:17",
+      "album": {
+        "name": "Siempre Tendr\u00e9 Mi Voz",
+        "url": "https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 165300,
+      "name": "Siempre Tendr\u00e9 Mi Voz",
+      "url": "https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu"
     },
     {
       "added_at": "2024-01-29 17:19:17",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
+        "name": "mundo dulce",
+        "url": "https://open.spotify.com/album/1Vbm9eKF88bWRkPNNz8uC1"
+      },
+      "artists": [
+        {
+          "name": "Cassie Marin",
+          "url": "https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH"
+        }
+      ],
+      "duration_ms": 152755,
+      "name": "freak",
+      "url": "https://open.spotify.com/track/1sPrKOJyjhFKGJdwaHvzZQ"
+    },
+    {
+      "added_at": "2024-01-29 17:19:17",
+      "album": {
         "name": "Forma de Ser",
         "url": "https://open.spotify.com/album/0O8iAjrqmWHWWb1PwPBpjW"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 169301,
       "name": "Forma de Ser",
       "url": "https://open.spotify.com/track/4q2OMrJoN5UGzk4HNZqd0n"
-    },
-    {
-      "added_at": "2024-01-29 17:19:17",
-      "album": {
-        "name": "mundo dulce",
-        "url": "https://open.spotify.com/album/1Vbm9eKF88bWRkPNNz8uC1"
-      },
-      "artists": [
-        {
-          "name": "Cassie Marin",
-          "url": "https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH"
-        }
-      ],
-      "duration_ms": 152755,
-      "name": "freak",
-      "url": "https://open.spotify.com/track/1sPrKOJyjhFKGJdwaHvzZQ"
     },
     {
       "added_at": "2024-01-29 17:19:17",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
-        "name": "Ra\u00edces (As\u00ed Se Hace)",
-        "url": "https://open.spotify.com/album/1zek5N9ai5ZoXdgFhTVu1d"
-      },
-      "artists": [
-        {
-          "name": "Frank Ray",
-          "url": "https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Luces De La Calle",
-      "url": "https://open.spotify.com/track/0FpLsbGzRlspvM1Hr0sxCj"
-    },
-    {
-      "added_at": "2024-01-29 17:19:17",
-      "album": {
         "name": "XO clubeteado",
         "url": "https://open.spotify.com/album/20PMJCFApDLBdML8TWDBdq"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 154630,
       "name": "XO clubeteado",
       "url": "https://open.spotify.com/track/2COPgOa1buFP656rkQ3Dgr"
+    },
+    {
+      "added_at": "2024-01-29 17:19:17",
+      "album": {
+        "name": "Ra\u00edces (As\u00ed Se Hace)",
+        "url": "https://open.spotify.com/album/1zek5N9ai5ZoXdgFhTVu1d"
+      },
+      "artists": [
+        {
+          "name": "Frank Ray",
+          "url": "https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Luces De La Calle",
+      "url": "https://open.spotify.com/track/0FpLsbGzRlspvM1Hr0sxCj"
     },
     {
       "added_at": "2024-01-29 17:19:17",

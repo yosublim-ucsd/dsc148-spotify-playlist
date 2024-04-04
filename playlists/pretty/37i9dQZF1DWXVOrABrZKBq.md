@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Le rap francophone est en forme\. Photo: Werenoi, Damso
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,647 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,653 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 49 | [Sosa](https://open.spotify.com/track/7rM7aSrcKeChtJA3Y6YFp4) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sosa](https://open.spotify.com/album/0zIgRy3ocqZBUl2C6b2625) | 2:37 |
 | 50 | [TRISTE & CÉLÈBRE](https://open.spotify.com/track/7n84GX5guMpcJTmSakw1zT) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [MAELSTRÖM](https://open.spotify.com/album/6EpLt7pH9qtQMxT3nmTEAl) | 1:48 |
 
-Snapshot ID: `MCxmNzE5NmY1NmFmZjhjM2NlN2NjN2RjYmNkOTNmM2ZlZWJjNDc0NDY2`
+Snapshot ID: `MCxlNGYwYTY4NzE0NGYxY2Q1MWU2MjM2ODkwMTFkZDIwMGY1YjUzOWZm`

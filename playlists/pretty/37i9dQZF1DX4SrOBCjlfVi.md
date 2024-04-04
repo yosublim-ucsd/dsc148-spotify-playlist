@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring A Boogie Wit da Hoodie, Kodak Black, Doechii and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,428 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,510 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 11 | [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB) | 2:57 |
 | 12 | [Yacht Master](https://open.spotify.com/track/4RJTYHKzXzbKh0qjlq7Lpf) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Yacht Master](https://open.spotify.com/album/6ZwOCnCmnpbuDuySDiXx81) | 2:11 |
 | 13 | [Anything You Want in Life Freestyle](https://open.spotify.com/track/5pwyWSKpMoHF5aujRbPClS) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Mega Star](https://open.spotify.com/album/3caOovUrxEQhKoAEE4PJfE) | 2:20 |
-| 14 | [WIPED](https://open.spotify.com/track/3mOUnFnggll5Svu4hZFUlH) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [WIPED](https://open.spotify.com/album/0X7sDKR0b0XA93UpkT9gXx) | 3:06 |
+| 14 | [WIPED](https://open.spotify.com/track/3mOUnFnggll5Svu4hZFUlH) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [WIPED](https://open.spotify.com/album/0X7sDKR0b0XA93UpkT9gXx) | 3:04 |
 | 15 | [CALL ME](https://open.spotify.com/track/2cTWEz74OBtAnVLuPcoldp) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Out Ur Body Music](https://open.spotify.com/album/3Y88uDQ11Oo6fiVe34IHMd) | 3:00 |
 | 16 | [Heavy Fraud](https://open.spotify.com/track/2nmzuZy2eg8c9xmcdCG6IB) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Forget Me Not](https://open.spotify.com/album/1IOxq6YB4Rb5kANFxa5Vbe) | 3:23 |
 | 17 | [PUMP IT UP ε=┌\(^\_^\)┘\(feat\. TiaCorine\)](https://open.spotify.com/track/6PNHNt8v9UUmI7u0D06Fct) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [PUMP IT UP ε=┌\(^\_^\)┘\(feat\. TiaCorine\)](https://open.spotify.com/album/7aEEJ9vUyvFBoI0TcYft26) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Maybach](https://open.spotify.com/track/48byRlCFI1FLO3kTKddOVv) | [RALAN STYLES](https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY) | [Maybach](https://open.spotify.com/album/2TH49Nas3CsPmawq2UYFRK) | 1:57 |
 | 50 | [Call Back](https://open.spotify.com/track/34n2d9U2uoQVqR0DnHqJTs) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Call Back](https://open.spotify.com/album/3PMbA9mnH0uJzOHJvnXiyb) | 2:39 |
 
-Snapshot ID: `MCw0NzYxYzBmZDc5NjAzOTcwMGU5Y2VjZTAxZWE5MGJjMzk5YWNlMjQy`
+Snapshot ID: `MCxhMTM2NjQyNmY3ZTc0Y2ZjYzYyYTAyOWQyMjJkNTY0M2I4MzRkMjUx`

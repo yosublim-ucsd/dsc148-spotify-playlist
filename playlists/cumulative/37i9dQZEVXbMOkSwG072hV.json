@@ -11191,6 +11191,24 @@
     },
     {
       "album": {
+        "name": "Depois Tu Abre a Boca pra Pode Toma Leitin",
+        "url": "https://open.spotify.com/album/1X7guMIi6nVyqhEXjiCNON"
+      },
+      "artists": [
+        {
+          "name": "Mc CJ Forte Abra\u00e7o",
+          "url": "https://open.spotify.com/artist/7CnRtDeixXa7XmGwvn2eh1"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77077,
+      "name": "Depois Tu Abre a Boca pra Pode Toma Leitin",
+      "url": "https://open.spotify.com/track/18lKNoKEGnzmqDhew5AFdr"
+    },
+    {
+      "album": {
         "name": "Desacato",
         "url": "https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8"
       },
@@ -12878,7 +12896,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 214960,
       "name": "Duvidosa",
       "url": "https://open.spotify.com/track/6LshoK7N0x5Um62W03yUul"
@@ -14684,7 +14702,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 114720,
       "name": "Eu Era Feio e Ningu\u00e9m Me Queria",
       "url": "https://open.spotify.com/track/3deWVCf3eFJl5FWYh4Nf3F"
@@ -18612,7 +18630,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 190272,
       "name": "Haver\u00e1 Sinais - Ao Vivo",
       "url": "https://open.spotify.com/track/6X6jKoyw1OjogRghMEQAZV"
@@ -29946,6 +29964,10 @@
         {
           "name": "MC TH DA SERRA",
           "url": "https://open.spotify.com/artist/4OKS4k4lBy2KOeftVHJDXu"
+        },
+        {
+          "name": "DAL\u00c3MA",
+          "url": "https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6"
         }
       ],
       "date_added": "2024-03-13",
@@ -41242,7 +41264,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 196200,
       "name": "Te Ver de Novo",
       "url": "https://open.spotify.com/track/2vJzeuKQ3tFKmSMkdbALKp"
@@ -44268,7 +44290,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"

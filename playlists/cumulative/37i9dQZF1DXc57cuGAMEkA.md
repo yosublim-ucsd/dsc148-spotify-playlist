@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Beyonce, Camila Cabello, j\-hope, 野田洋次郎 & kZm and more! cover: Beyonce
 
-4,646 songs - 10 day 22 hr 44 min
+4,647 songs - 10 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2775,7 +2775,8 @@
 | [Out On The Road \- Mondo Version](https://open.spotify.com/track/5z0daVvIb5wQPah406Qary) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Out On The Road \(Mondo Version\) / Killing Time](https://open.spotify.com/album/44nAEdUO461W9vyJjofPbU) | 3:22 | 2023-05-04 | 2023-05-12 |
 | [Outlook Feat\. さなり](https://open.spotify.com/track/1RRG80wMzC3B4NpsCD6EEk) | [RAKURA](https://open.spotify.com/artist/3voKaAQ6dZPw9gMA7KOTcP), [SANARI](https://open.spotify.com/artist/16E27V4q0TPZXIriwMYTWV) | [Outlook Feat\. さなり](https://open.spotify.com/album/0WEfpK8qp14S7nBZEiqNvo) | 2:54 | 2023-01-29 | 2023-02-03 |
 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 | 2023-12-08 | 2023-12-15 |
-| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 |  |
+| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 | 2024-04-04 |
+| [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-03-28 |  |
 | [outside of the house](https://open.spotify.com/track/2EIovS4PXDlQkhPzrQICE2) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [outside of the house](https://open.spotify.com/album/0H6FGzdwIRGc4F7UXEGNsX) | 5:22 | 2023-06-30 | 2023-07-07 |
 | [Oval Stones](https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:33 | 2023-04-13 | 2023-04-21 |
 | [Oval Stones](https://open.spotify.com/track/7JSsitRmA1k7vJv6kbdHRg) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/1EIxpqw8tWE001EuJn6cy1) | 3:33 | 2023-04-13 | 2023-04-15 |

@@ -1,7 +1,7 @@
 {
-  "2024-04-03": 68166,
+  "2024-04-04": 68170,
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: muque",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u30b0\u30bd\u30af\u30e0\u30ba",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -1309,6 +1309,24 @@
       "duration_ms": 233327,
       "name": "Ball",
       "url": "https://open.spotify.com/track/0AXda5pFbkZJGPEZk5VJud"
+    },
+    {
+      "album": {
+        "name": "balloon",
+        "url": "https://open.spotify.com/album/1pjbRLuDTlLOJZTZW93Acw"
+      },
+      "artists": [
+        {
+          "name": "EOW",
+          "url": "https://open.spotify.com/artist/3hufeT9qrBonKU5iZxAeHI"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264061,
+      "name": "balloon",
+      "url": "https://open.spotify.com/track/6IjyCBKJWENIbRon2naimY"
     },
     {
       "album": {
@@ -5853,7 +5871,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 196130,
       "name": "heel",
       "url": "https://open.spotify.com/track/42VK2BbGox46jlYapDpqTT"
@@ -6145,6 +6163,24 @@
       "duration_ms": 147282,
       "name": "Hitono Katachi",
       "url": "https://open.spotify.com/track/04HdAkdqkHsxE6g4pCtKvx"
+    },
+    {
+      "album": {
+        "name": "Hitsujigumo",
+        "url": "https://open.spotify.com/album/3OfcxKGFYgAbaUP5o8JpEg"
+      },
+      "artists": [
+        {
+          "name": "Wang Dang Doodle",
+          "url": "https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Hitsujigumo",
+      "url": "https://open.spotify.com/track/2YSybXboavdEVDBF4ysw2g"
     },
     {
       "album": {
@@ -8013,7 +8049,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 213435,
       "name": "Light(n)ing",
       "url": "https://open.spotify.com/track/4AolTQz0nbPeFKLrWP3OAR"
@@ -10047,7 +10083,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 156333,
       "name": "OK",
       "url": "https://open.spotify.com/track/26Yh1T75WaqQ3R9PLIYgwV"
@@ -16660,6 +16696,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30ed\u30fc\uff01\u30b0\u30c3\u30c9\u30e2\u30fc\u30cb\u30f3\u30b0\uff01",
+        "url": "https://open.spotify.com/album/46qMP08f2cjRcfkqRLd5UH"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245626,
+      "name": "\u3042\u308b\u30b5\u30f3\u30bb\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/6cBCrkEBMDigvkiUosyb66"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u305f\u304c\u305f\u3069\u3053\u3055",
         "url": "https://open.spotify.com/album/3ixAaAZKHUUdFy5ELtaaYo"
       },
@@ -18635,7 +18689,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 212480,
       "name": "\u30ac\u30fc\u30ea\u30fc\u30dc\u30fc\u30a4",
       "url": "https://open.spotify.com/track/0oRSPM7JaC60w4yuTjiMNX"

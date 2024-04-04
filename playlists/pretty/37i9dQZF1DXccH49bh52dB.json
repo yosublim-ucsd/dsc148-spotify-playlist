@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 559822,
+  "num_followers": 560055,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2FkYWJmMTcxOGNmM2RmOTIwYjY1MzZjODM5NzUzMDY3ZTc2ZTc1",
+  "snapshot_id": "MCw2MjNjZWM1OTk3YjA4YzRiMDc0OWZkZDJkN2QzZDRkNDNiYjExZjhi",
   "tracks": [
     {
       "added_at": "2024-03-19 13:37:55",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "Sexual Healing (Kygo Remix)",
-        "url": "https://open.spotify.com/album/6j62lF3YXsygj6xTjAyRG5"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        }
-      ],
-      "duration_ms": 368316,
-      "name": "Sexual Healing - Kygo Remix",
-      "url": "https://open.spotify.com/track/7s1upm7yr7ZjrzXMwHawtG"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/2vVfxcvBQAGnEKM3zM0zxw"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 218964,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2ewEh7LuvToYyGHq7yT8N1"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
+        "name": "Sexual Healing (Kygo Remix)",
+        "url": "https://open.spotify.com/album/6j62lF3YXsygj6xTjAyRG5"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "duration_ms": 368316,
+      "name": "Sexual Healing - Kygo Remix",
+      "url": "https://open.spotify.com/track/7s1upm7yr7ZjrzXMwHawtG"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 368773,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 368773,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "No Place",
+      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
         "name": "No Eyes",
         "url": "https://open.spotify.com/album/74FvKkpoMSA8IXT1AW70ZS"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 204992,
       "name": "No Eyes - Radio Edit",
       "url": "https://open.spotify.com/track/55bfXeq8wXtyKQtSZB3KYF"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "No Place",
-      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/6pc5xp2N8MAJxrNfwA3vrA"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Max Milner",
+          "url": "https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8"
+        }
+      ],
+      "duration_ms": 221762,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6zMU2vqQ30YjN20oOVeDDO"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
         "name": "if we never met (remix)",
         "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 234053,
       "name": "Strong",
       "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/6pc5xp2N8MAJxrNfwA3vrA"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Max Milner",
-          "url": "https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8"
-        }
-      ],
-      "duration_ms": 221762,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6zMU2vqQ30YjN20oOVeDDO"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 187126,
       "name": "Heatwave (feat. Akon)",
       "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -2211,6 +2211,30 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
+        "name": "Hyperbolic",
+        "url": "https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 170528,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/23d1vcbBNTb37kZi6cOXO9"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
         "name": "Silver & Gold - Chapter II",
         "url": "https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT"
       },
@@ -2243,30 +2267,6 @@
       "duration_ms": 181855,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/2UsnjLHBKPaaRjZiWYUCpj"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
-        "name": "Hyperbolic",
-        "url": "https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 170528,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/23d1vcbBNTb37kZi6cOXO9"
     },
     {
       "added_at": "2024-03-19 13:37:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Goldband
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,228 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,240 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Angel Face](https://open.spotify.com/track/005k50cKNdWjOitdP6Y6jz) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Angel Face](https://open.spotify.com/album/5hTm1YiaWDgGDJdGroOKqI) | 3:32 |
 | 40 | [Zij Wil Mij](https://open.spotify.com/track/0UBHy0chqmMoShrhc3F2f4) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Zij Wil Mij](https://open.spotify.com/album/6zOsCl08IfBgNa0ZA2ayEH) | 2:24 |
 
-Snapshot ID: `MCw2NDcwMmU5Njg5MTZjOWEyYTk1NmJhMmE2ZmFiMTQ2YTdkNjgwMzUz`
+Snapshot ID: `MCwyMDYzYzIwNGVhYjM0MzBmYzJjZTQyMDhmODRiZWU3ZDI1YjM5ZDFl`

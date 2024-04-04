@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Architects is on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,486,657 likes - 76 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,486,940 likes - 76 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 75 | [Many Doors to Hell](https://open.spotify.com/track/1HqRyjIsJw9Y3XeD4jTRbZ) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [The Mandrake Project](https://open.spotify.com/album/0tN7q7Xmt0qaoGElJ3Gvqy) | 4:48 |
 | 76 | [Continuum](https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Continuum](https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A) | 4:20 |
 
-Snapshot ID: `MCwzOTBmYmE5MDQxZmI0NGY1OTZiM2E1MzY1YTRlMTM2ZWFhOGFhNWFm`
+Snapshot ID: `MCxjMDYzMDUzMDc2MzAyNWY4MGQ3MjkzMmVjYWYyM2Y0ZGU4M2Q3MmU3`

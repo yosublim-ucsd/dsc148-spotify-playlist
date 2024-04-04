@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Gerson King Combo
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,748 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,761 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 2 | [Só Vem](https://open.spotify.com/track/6pRF997AHPwLzCRxu429th) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Só Vem](https://open.spotify.com/album/6c508kN5KWvy2R5F0jtQQv) | 3:00 |
 | 3 | [SOLAR](https://open.spotify.com/track/1SaZdSpmHnGd0ITlNxkabM) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [SOLAR](https://open.spotify.com/album/0CYvaMIOeGih9LMBwac4uf) | 3:49 |
 | 4 | [Apostas e Contratos](https://open.spotify.com/track/5I1ELiulyZSMFhQL7bgZul) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Apostas e Contratos](https://open.spotify.com/album/7oQEVgWZG6Ei7U0GSxPFWW) | 3:33 |
-| 5 | [O Que Te Faz Ir pra Outro Planeta? \- Ao Vivo](https://open.spotify.com/track/6DVjpAQ0htvqIOPgmvIFyV) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [O Amor, o Perdão e a Tecnologia Irão nos Levar para Outro Planeta \(Ao Vivo em Belém\)](https://open.spotify.com/album/12uGpxOjTXJDRluW1VHDgQ) | 3:54 |
+| 5 | [O Que Te Faz Ir pra Outro Planeta? \- Ao Vivo](https://open.spotify.com/track/6DVjpAQ0htvqIOPgmvIFyV) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [DJ Cost](https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL), [Fernanda Valadares](https://open.spotify.com/artist/0IDYkdjDp0TiqVBiresBOR), [Sarah Reis](https://open.spotify.com/artist/2hjKp0xfQREVGdf5rHvDe7), [Danillo Mendonça](https://open.spotify.com/artist/45fhlEjnZMc774cZLj9aa3), [Jackson Ganga](https://open.spotify.com/artist/5JRrrO7Azt9e7aoKvwnzch), [Hilton Lima](https://open.spotify.com/artist/1rk3j4xxHIYwe7yaltwVWt), [Daniel Souza](https://open.spotify.com/artist/0voCr84NMp6eUeUAF4oh3B), [Nathan Morais](https://open.spotify.com/artist/51m33yHQQ9UnqVXTJHT9qu), [Matheus Ramos](https://open.spotify.com/artist/1F25lt8dvV522Sr2dy9nFK) | [O Amor, o Perdão e a Tecnologia Irão nos Levar para Outro Planeta \(Ao Vivo em Belém\)](https://open.spotify.com/album/12uGpxOjTXJDRluW1VHDgQ) | 3:54 |
 | 6 | [Proposta](https://open.spotify.com/track/6K7RRfMOjRHEwa0JN1tvf1) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf), [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Leo Minas.](https://open.spotify.com/artist/5VoUhia4pII9rmZU3fByI3) | [Proposta](https://open.spotify.com/album/3xxzWBSGDSA6wNtT73Xiiv) | 3:44 |
 | 7 | [do avesso](https://open.spotify.com/track/1mPXDwkAClgl2XeI12ubB5) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [bem vindo, amanhecer](https://open.spotify.com/album/680EwE0QR2RqxQxjyVqXWQ) | 2:49 |
 | 8 | [Alibaba](https://open.spotify.com/track/72xneD3pAJmEPJ6Jhbnsoh) | [Melanina Carioca](https://open.spotify.com/artist/1RVHk1teWy5ftUa7J4RiMj) | [Alibaba](https://open.spotify.com/album/1eu7tu748UiYLHVcM9SQoe) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 74 | [tudo por você \(tipo pixote\)](https://open.spotify.com/track/4GBTlzpEEmeXa2BrK6ORFW) | [ieti](https://open.spotify.com/artist/12m12DbOfmeDQ3WHailSjx), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Nevs](https://open.spotify.com/artist/4x9tonVUuhOmOuDCpSQUjV), [EricBeatz](https://open.spotify.com/artist/6sPErN4KkLfCtU7vsybzG3), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [tudo por você \(tipo pixote\)](https://open.spotify.com/album/4zQihnvBaehZAK0svGGAcz) | 2:43 |
 | 75 | [Black Brasa](https://open.spotify.com/track/2y2hUS0ikiZYSpdPrHA2u1) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Caio Laser](https://open.spotify.com/artist/2jp7kEBemeKyT69klAawwk), [Leonardo Marques](https://open.spotify.com/artist/4h4gmOlHneRU0qqvhkmhN0) | [Black Brasa](https://open.spotify.com/album/3d7n6wxLjYzlsFqxObMbEZ) | 2:32 |
 
-Snapshot ID: `MCwzMTA1MjExMTc1M2Y4YzIyMTQ4ZTI3ODkzMjBjZmZhNGM4MTk0YTAw`
+Snapshot ID: `MCxmZDljNzM3NDUzNjVkMDQ3MjUwN2VhNGJlYjJjOTliYzdjYzFiYjcy`

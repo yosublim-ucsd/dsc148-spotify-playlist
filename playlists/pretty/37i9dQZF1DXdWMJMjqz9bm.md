@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Arden Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,564 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,584 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 60 | [2 face](https://open.spotify.com/track/6sxwD5Uul3BpDFTGIDdtV1) | [gianni & kyle](https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn) | [2 face](https://open.spotify.com/album/6PEPxwLeqrgYHPKUWzxDp6) | 2:09 |
 | 61 | [she's wild'](https://open.spotify.com/track/6qdwAVEI7Uo5xLj7XH3yd5) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [she's wild'](https://open.spotify.com/album/4C9KqRDbBuRxXApiIXBtNM) | 2:34 |
 | 62 | [Just Be You](https://open.spotify.com/track/0baJ0dpMNqtQMKYYFpvtAY) | [callmestevieray](https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML) | [Just Be You](https://open.spotify.com/album/5hiWu3iJHqGv1bNDaGwarc) | 3:06 |
-| 63 | [Over & Done](https://open.spotify.com/track/6hEvt7xqyMq5UC3cpInDPc) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Over & Done](https://open.spotify.com/album/1kzoSbgJa9DYLa9eJoazZi) | 2:01 |
+| 63 | [Over & Done](https://open.spotify.com/track/2SrYguoTayQPWhMqlYiRPJ) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Over & Done](https://open.spotify.com/album/1202C1Z8kSjcCgfz33mCeu) | 2:01 |
 | 64 | [SUMMER VIBES](https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [SUMMER VIBES](https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2) | 2:26 |
 | 65 | [Throwing Parties](https://open.spotify.com/track/6EDJUMi6j6GwcOgkK3bICo) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [Throwing Parties](https://open.spotify.com/album/5i7EkzpzKG2lfQn0gozp8d) | 3:02 |
 | 66 | [2D](https://open.spotify.com/track/2EifArXfbbtd81owNuz3f8) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [2D](https://open.spotify.com/album/3tHc4SsvGMU2W6DcAiGkXT) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 99 | [Nothing Last Forever](https://open.spotify.com/track/6qMt0E05ZeHbinh3SlJkTX) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Nothing Last Forever](https://open.spotify.com/album/1KBW5j3M9VEKbfgUCMvV0C) | 2:58 |
 | 100 | [You Say](https://open.spotify.com/track/1nYkPnHvRwA6n9LbJAMFlK) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [You Say](https://open.spotify.com/album/4WWh2CNXxoAweEEcsZqadG) | 3:44 |
 
-Snapshot ID: `MCwwZjdjOTBlMWNkM2FiYjg3NTFiYjhhZTkyZDMzYjc1ZjJhM2MzNjEx`
+Snapshot ID: `MCxlYzIyZDdhMTgxNmU2OWIyOWY3Mzk0ZmY5ZjI5OGE1NWIzY2Q4MDA0`

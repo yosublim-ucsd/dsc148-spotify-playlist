@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73LI7XFaKDi.md) - [plain]
 
 > Listen to your favorite songs from the Descendants soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,524 likes - 64 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,715 likes - 64 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73LI7XFaKDi.md) - [plain]
 | 63 | [Space Between \- Instrumental](https://open.spotify.com/track/3Kz6kb8LEXGCk82KKgMvhf) | [Descendants 2 Karaoke](https://open.spotify.com/artist/5zKp1et83bzzUCQSHfjvat) | [Disney Karaoke Series: Descendants 2](https://open.spotify.com/album/2bY8DXk3EALgjkNepELoSD) | 3:25 |
 | 64 | [What's My Name \- Instrumental](https://open.spotify.com/track/3vjefeCdg7wuckiSZcs2KJ) | [Descendants 2 Karaoke](https://open.spotify.com/artist/5zKp1et83bzzUCQSHfjvat) | [Disney Karaoke Series: Descendants 2](https://open.spotify.com/album/2bY8DXk3EALgjkNepELoSD) | 3:08 |
 
-Snapshot ID: `MCw4YmE5ZTYyZjQ5ZDU5NWQ1ZTA4NzRiMTNhMGYwMDRlYmE2YmU5MWZj`
+Snapshot ID: `MCw2NTVlOWI3NjRlZDc4ZThkNGNjZjU4MDYwMGM4MTY1NDVmMGE1NzQ3`

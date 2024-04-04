@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Waima
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,122 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,414 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Pół na pół](https://open.spotify.com/track/1RYLelysoMdpVd4So9Wiwd) | [Sarius](https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Kuba Hejz](https://open.spotify.com/artist/54FDfzo1I8n6TBqm9dkBWl), [Szatt](https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS) | [Pół na pół](https://open.spotify.com/album/1stHVQaEoGA91wGezjYv0n) | 3:37 |
 | 50 | [Ulubiony](https://open.spotify.com/track/233m2I0kzHIifD6NbdIYV0) | [730 Huncho](https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv) | [Ulubiony](https://open.spotify.com/album/04aPQH8v4QRzPYPjiqvM0W) | 3:07 |
 
-Snapshot ID: `MCwxMTA3OTY2YmUxYmE3MWMzYjhmMTcwY2U5NmIzNTg5ZDNmNGY2Zjc4`
+Snapshot ID: `MCw2N2M0OTFkMTM0YWE4MzM2NTQ0YjUwOGQwMTFhMWE0ZjBhZWY2ODNl`

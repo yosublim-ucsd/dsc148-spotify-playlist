@@ -4,7 +4,7 @@
 
 > Lorde has risen / Charli & Addison are screaming / Ryan x Beyoncé!!!!!
 
-2,692 songs - 6 day 0 hr 57 min
+2,695 songs - 6 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 | 2024-03-14 |  |
 | [Awkward Conversations](https://open.spotify.com/track/3IWMJdzSOZyGi9jMGIWmrU) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Awkward Conversations](https://open.spotify.com/album/0BB9ouB4kSMT5u52Lsocxf) | 3:19 | 2022-05-06 | 2022-06-18 |
 | [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 | 2019-07-30\* | 2023-04-19 |
+| [B2b](https://open.spotify.com/track/6tYGrpUyqB4yao5lAs3AR4) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:58 | 2024-04-03 |  |
 | [Baby Boy](https://open.spotify.com/track/5K7dEG6yDQ981HO7kFMVqm) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:31 | 2020-10-08 | 2020-12-04 |
 | [Baby from Atlanta](https://open.spotify.com/track/0L9eGPj0Meabb1SML6kD1A) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Sailor's Compilation, Pt\. 1](https://open.spotify.com/album/4o38yhz8rXxZvPHs20Vuyz) | 3:19 | 2023-07-28 | 2023-08-26 |
 | [Baby Please](https://open.spotify.com/track/7aDgRKt0w7iSVc3NIJLybG) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Baby Please](https://open.spotify.com/album/1t9Jdz9REC4rbeWX8guP63) | 2:58 | 2024-03-15 |  |
@@ -1133,6 +1134,7 @@
 | [I Guess](https://open.spotify.com/track/6h1pkexVwi0SHvF6ouvtIf) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [I Guess](https://open.spotify.com/album/22oY8Wbbdaby2fXeAlyxoa) | 2:54 | 2022-06-28 | 2022-08-06 |
 | [I Hate Myself](https://open.spotify.com/track/0c0S1M4ik3EnhHdqH43VTv) | [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Allison's Songs](https://open.spotify.com/album/3LGwrBU9oDIZRPICGaAMhH) | 4:02 | 2023-03-24 | 2023-04-15 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-03 | 2022-03-11 |
+| [I Hate You In The Morning](https://open.spotify.com/track/1wb6Q8C37X3rJHSrgYCdOv) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [I Hate You In The Morning](https://open.spotify.com/album/5uz2vIWV9OWEP72WPQOTPX) | 2:14 | 2024-04-03 |  |
 | [I Hate You So Much](https://open.spotify.com/track/1KizhCVnkyDoHx3SErDhDB) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I Hate You So Much](https://open.spotify.com/album/712HIhRNFIlZxdG1iVmDGJ) | 2:28 | 2020-02-12 | 2020-03-19 |
 | [i haunt ur dreams](https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [i haunt ur dreams](https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi) | 3:36 | 2022-10-14 | 2023-06-24 |
 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 | 2023-09-12 | 2023-12-14 |
@@ -1228,7 +1230,8 @@
 | [Insane](https://open.spotify.com/track/3mLFCocZgUvih60frphM6l) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Insane](https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy) | 2:46 | 2021-02-06 | 2021-04-16 |
 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 | 2022-11-08 | 2022-12-15 |
 | [Intergalactic Janet](https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/3vS1oa8XAK2I4BLsMPEsK2) | 2:40 | 2024-03-05 | 2024-03-24 |
-| [Intergalactic Janet](https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj) | 2:40 | 2024-03-05 |  |
+| [Intergalactic Janet](https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj) | 2:40 | 2024-03-05 | 2024-04-04 |
+| [Intergalactic Janet](https://open.spotify.com/track/7zgEoBci3rKmEkLdsZ8ZKJ) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/7zu5604lPvQjVBERSdwrTe) | 2:40 | 2024-03-05 |  |
 | [Internet Religion](https://open.spotify.com/track/4oicjE1qZcs6NpAAQ3QNhC) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Internet Religion](https://open.spotify.com/album/6WgiNXKdvu34Nvg3a0xTon) | 3:53 | 2020-05-29 | 2020-07-01 |
 | [Introspection](https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection](https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF) | 2:48 | 2020-05-08 | 2020-09-17 |
 | [Inventing The Wheel](https://open.spotify.com/track/5nVBunhfgeCpCl36r12Ac2) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Inventing The Wheel](https://open.spotify.com/album/3T2i1Ia16aqjbchxICe2tw) | 4:17 | 2023-04-07 | 2023-04-20 |

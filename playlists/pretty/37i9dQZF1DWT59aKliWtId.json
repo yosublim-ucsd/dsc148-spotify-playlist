@@ -1,12 +1,12 @@
 {
   "description": "a high-quality alternative blend ft. Mt. Joy",
-  "num_followers": 103670,
+  "num_followers": 103692,
   "original_name": "Grade A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTllYmY0OGNlYWVlNzMzOGZlNjc5MWViMzU5NTdlYzMyNWQyODlj",
+  "snapshot_id": "MCxiZTY1YmYyZjhlNWZlOGM5MGNkMWRjOGQyNzU3ZDUzNDU0NTk0NDYw",
   "tracks": [
     {
       "added_at": "2024-03-18 22:34:47",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Northern Attitude (with Hozier)",
         "url": "https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 267256,
       "name": "Northern Attitude (with Hozier)",
       "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "White Horse",
-        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Wild God",
-        "url": "https://open.spotify.com/album/0mDWCfytbtRYgiWzjUQrnp"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 319106,
-      "name": "Wild God",
-      "url": "https://open.spotify.com/track/6d2JJCLcg02uteyuvFVmCq"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "everything is alive",
         "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 237434,
       "name": "kisses",
       "url": "https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Wild God",
+        "url": "https://open.spotify.com/album/0mDWCfytbtRYgiWzjUQrnp"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 319106,
+      "name": "Wild God",
+      "url": "https://open.spotify.com/track/6d2JJCLcg02uteyuvFVmCq"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Digging In The Dirt",
-        "url": "https://open.spotify.com/album/07Qcp9zO5cCKShwTlxNaUL"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 324436,
-      "name": "Digging In The Dirt",
-      "url": "https://open.spotify.com/track/6pO1Jy5E3tqsjidJooNP9e"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Mood Ring",
         "url": "https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 234891,
       "name": "The Way",
       "url": "https://open.spotify.com/track/2wlZIwHXloe802coeEhJ3T"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Digging In The Dirt",
+        "url": "https://open.spotify.com/album/07Qcp9zO5cCKShwTlxNaUL"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 324436,
+      "name": "Digging In The Dirt",
+      "url": "https://open.spotify.com/track/6pO1Jy5E3tqsjidJooNP9e"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Rearview",
         "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 231724,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Pretty Vicious",
-        "url": "https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 310300,
-      "name": "Pretty Vicious",
-      "url": "https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Big Love",
         "url": "https://open.spotify.com/album/4fgwPlwnatn7LfaMiziOJh"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 177733,
       "name": "Big Love",
       "url": "https://open.spotify.com/track/5TlQaUReZtviIA3AWrAazB"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Pretty Vicious",
+        "url": "https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 310300,
+      "name": "Pretty Vicious",
+      "url": "https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "We Make Hits",
-        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 182606,
-      "name": "We Make Hits",
-      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Burn The Hard Drive (feat. Mura Masa)",
         "url": "https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 192832,
       "name": "Burn The Hard Drive (feat. Mura Masa)",
       "url": "https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "We Make Hits",
+        "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 182606,
+      "name": "We Make Hits",
+      "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Water Underground",
-        "url": "https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Water Underground",
-      "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Impossible House",
         "url": "https://open.spotify.com/album/09VXDO9xysL9cjYqrYfC7L"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 275614,
       "name": "Impossible House",
       "url": "https://open.spotify.com/track/2ADRkMvfIrX8ZJq49SaK8g"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Water Underground",
+        "url": "https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Water Underground",
+      "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Revelator",
+        "url": "https://open.spotify.com/album/1Vjsf4qWhQhRH3VBPEQs0d"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 293290,
+      "name": "Revelator",
+      "url": "https://open.spotify.com/track/4akOHAXlPBcIjImF1N7KDi"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "The Winding Way",
         "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 208160,
       "name": "Same Risk",
       "url": "https://open.spotify.com/track/6llgRqUx6z43bpqNUfjAJQ"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Revelator",
-        "url": "https://open.spotify.com/album/1Vjsf4qWhQhRH3VBPEQs0d"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 293290,
-      "name": "Revelator",
-      "url": "https://open.spotify.com/track/4akOHAXlPBcIjImF1N7KDi"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/4I3hBaNXrp7V0Fzx9KE8iA"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 234288,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/6zQjpTXDwTr0otUzBFqdPo"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Wasteland",
         "url": "https://open.spotify.com/album/4JcEWdNgAifwRcjqLpTY5o"
       },
@@ -1911,22 +1895,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Sweet Tooth",
-        "url": "https://open.spotify.com/album/7p5JzjQqCDR84m0HlHsk9F"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 239366,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/64hxSQpLelfhMPF7cjVIUS"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Playing Favorites",
         "url": "https://open.spotify.com/album/2R7crs7YbXoJrjzb7IOEEq"
       },
@@ -1943,34 +1911,18 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "White Lies, White Jesus And You",
-        "url": "https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al"
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/7p5JzjQqCDR84m0HlHsk9F"
       },
       "artists": [
         {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
         }
       ],
-      "duration_ms": 264926,
-      "name": "White Lies, White Jesus And You",
-      "url": "https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Love You Anyway",
-        "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 227493,
-      "name": "Love You Anyway",
-      "url": "https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr"
+      "duration_ms": 239366,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/64hxSQpLelfhMPF7cjVIUS"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1991,6 +1943,38 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Love You Anyway",
+        "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Love You Anyway",
+      "url": "https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 234288,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1xn1htwSeRr3HhOlYToFEx"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Someday, Someday",
         "url": "https://open.spotify.com/album/0cdiL4wlI4XSfYafHvvI0m"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 180046,
       "name": "Someday, Someday",
       "url": "https://open.spotify.com/track/7zbiEEPPkZjyLQpwJnes5h"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "White Lies, White Jesus And You",
+        "url": "https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 264926,
+      "name": "White Lies, White Jesus And You",
+      "url": "https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Cuero Dudes / Beauty Opens Doors",
-        "url": "https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr"
-      },
-      "artists": [
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 298921,
-      "name": "Cuero Dudes",
-      "url": "https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Cowboy Tumbleweed",
         "url": "https://open.spotify.com/album/3lJcMnimBy6eAJgdL4V55R"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 212081,
       "name": "Smoke & Ribbons",
       "url": "https://open.spotify.com/track/13vTVHPEGmoTT8RypblKpJ"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Cuero Dudes / Beauty Opens Doors",
+        "url": "https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 298921,
+      "name": "Cuero Dudes",
+      "url": "https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Water / Connecticut",
+        "url": "https://open.spotify.com/album/7F3RyQmyBUigiC2J5l1VYD"
+      },
+      "artists": [
+        {
+          "name": "Lo Moon",
+          "url": "https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg"
+        }
+      ],
+      "duration_ms": 182454,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4LsuLatQ1SJinsHn7292wH"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Wild Days",
         "url": "https://open.spotify.com/album/0p7Ovi78Z8SEfl7easPLF3"
       },
@@ -2171,18 +2187,34 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Water / Connecticut",
-        "url": "https://open.spotify.com/album/7F3RyQmyBUigiC2J5l1VYD"
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
       },
       "artists": [
         {
-          "name": "Lo Moon",
-          "url": "https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg"
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
         }
       ],
-      "duration_ms": 182454,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4LsuLatQ1SJinsHn7292wH"
+      "duration_ms": 211855,
+      "name": "Highlands",
+      "url": "https://open.spotify.com/track/3juc8eQreETBUlYYXy5jhd"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "At the Roadhouse",
+        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 329360,
+      "name": "June's Stolen Car",
+      "url": "https://open.spotify.com/track/0ThSEbDLmqQq6cAfRhzT49"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2207,34 +2239,18 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "At the Roadhouse",
-        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
+        "name": "BOOTCUT",
+        "url": "https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 329360,
-      "name": "June's Stolen Car",
-      "url": "https://open.spotify.com/track/0ThSEbDLmqQq6cAfRhzT49"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Faith Crisis Pt 1",
-        "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
-      },
-      "artists": [
-        {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
-        }
-      ],
-      "duration_ms": 211855,
-      "name": "Highlands",
-      "url": "https://open.spotify.com/track/3juc8eQreETBUlYYXy5jhd"
+      "duration_ms": 329437,
+      "name": "I'm Still",
+      "url": "https://open.spotify.com/track/33sIw5cjj9j64VaDE2hFQD"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2251,22 +2267,6 @@
       "duration_ms": 207506,
       "name": "Night In",
       "url": "https://open.spotify.com/track/3Qt9dcvy6bNpbl6nmiioDd"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "BOOTCUT",
-        "url": "https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 329437,
-      "name": "I'm Still",
-      "url": "https://open.spotify.com/track/33sIw5cjj9j64VaDE2hFQD"
     },
     {
       "added_at": "2024-03-18 22:34:47",

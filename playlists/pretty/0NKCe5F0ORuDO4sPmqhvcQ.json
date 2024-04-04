@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20797,
+  "num_followers": 20795,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA2NzgsMzNlNGJjYmRhZWY5NDJlNWU2MzVmNzVhYzcxNzkwYmQ1ZTFhNWZiOQ==",
+  "snapshot_id": "MTA2ODEsMTdhNWUzZDI4ZDk3MmFmM2VjNzljODUzZTJiYjA3NzJkODg2ZGU4Nw==",
   "tracks": [
     {
       "added_at": "2024-03-29 16:47:45",
@@ -2223,6 +2223,62 @@
       "duration_ms": 193218,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd"
+    },
+    {
+      "added_at": "2024-04-04 00:39:08",
+      "album": {
+        "name": "Bumper",
+        "url": "https://open.spotify.com/album/2pvwJhqGKp5bLsaWiVdgwc"
+      },
+      "artists": [
+        {
+          "name": "Arky Waters",
+          "url": "https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli"
+        }
+      ],
+      "duration_ms": 240157,
+      "name": "Bumper",
+      "url": "https://open.spotify.com/track/4b4FinrgohDybRlMlldcvu"
+    },
+    {
+      "added_at": "2024-04-04 01:20:35",
+      "album": {
+        "name": "Throw It Back",
+        "url": "https://open.spotify.com/album/3eKEOVPOf9zuTO66tszH9x"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 140142,
+      "name": "Throw It Back",
+      "url": "https://open.spotify.com/track/6mjAMJjMb5FUvRFOyBLeKv"
+    },
+    {
+      "added_at": "2024-04-04 01:22:04",
+      "album": {
+        "name": "The Song of You",
+        "url": "https://open.spotify.com/album/4NUKgm26zPv5N4VKz266gR"
+      },
+      "artists": [
+        {
+          "name": "Golden Vessel",
+          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
+        },
+        {
+          "name": "Headaches",
+          "url": "https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl"
+        }
+      ],
+      "duration_ms": 130759,
+      "name": "The Song of You",
+      "url": "https://open.spotify.com/track/7iWx1V2BqnNdRyO4ZsN0D1"
     }
   ],
   "unique_name": "Moving Castle Monthly",

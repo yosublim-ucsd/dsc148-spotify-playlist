@@ -4,7 +4,7 @@
 
 > 
 
-363 songs - 21 hr 52 min
+364 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Just Me \- Jarreau Vandal Remix](https://open.spotify.com/track/6bJBg0NFZp3KX6C0qpRRxJ) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Just Me \(Jarreau Vandal Remix\)](https://open.spotify.com/album/2ZX4fz7AAxQCcwNXqlV5a9) | 4:12 | 2022-04-11 | 2022-04-21 |
 | [Just When I Thought](https://open.spotify.com/track/3GqPiO86B7tUuDzzl7SePU) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Just When I Thought](https://open.spotify.com/album/0C2Dp8I1w4PKbICibbFYX1) | 4:42 | 2022-04-11 | 2022-04-15 |
 | [Kaiyō](https://open.spotify.com/track/60pUOw4srnFhhiu8zBHltK) | [TWOGOOD](https://open.spotify.com/artist/0734HdQDEd3Mc0olQ4DsCt) | [Kaiyō](https://open.spotify.com/album/7rQlu8cYOhvngqGacp0ViW) | 3:20 | 2022-06-20 | 2022-07-05 |
-| [Keep On](https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 3:38 | 2022-06-20 |  |
+| [Keep On](https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 3:38 | 2022-06-20 | 2024-04-04 |
 | [Keep U Round](https://open.spotify.com/track/6PuC4wspEPM24sawG1n6Er) | [Chimpo](https://open.spotify.com/artist/52daryZMe3vvpHyMyJK6SM), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Outside](https://open.spotify.com/album/6KLD4whGdHe3khIYxylGMW) | 4:30 | 2021-12-07 | 2022-07-28 |
 | [Lavender & Red Roses](https://open.spotify.com/track/6s6BJf9Y436qC21gJCKa5N) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lavender & Red Roses](https://open.spotify.com/album/3CPvKvcS9YkhrXCIm2Si9S) | 2:54 | 2022-04-11 | 2022-07-27 |
 | [Lay](https://open.spotify.com/track/35b1hAgRonvJ75MFqA2goi) | [Footshooter](https://open.spotify.com/artist/691jSL9gwZx8VX55QVTRGa), [Natty Wylah](https://open.spotify.com/artist/2BUKwf8XQN2KTzdp8hyqlK) | [Lay](https://open.spotify.com/album/01o2t8A3cxGc8B6axL84y0) | 3:20 | 2021-12-07 | 2022-06-30 |
@@ -273,6 +273,7 @@
 | [Off Kilter](https://open.spotify.com/track/2nC7BtBWQ0fxpdkuuLzrdv) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/6f5i8vNHXp944iy5UPvSI7) | 3:46 | 2021-12-07 | 2022-07-01 |
 | [Open Wound \(feat\. Jaz Karis\)](https://open.spotify.com/track/0LT0xPstNiyifLa3k72SNg) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Open Wound \(feat\. Jaz Karis\)](https://open.spotify.com/album/1ZG0gj6CjoX3TCDNSAAIQP) | 4:08 | 2022-01-28 | 2022-04-19 |
 | [Options](https://open.spotify.com/track/6Yzhq2R3VhLHKckf9uZScm) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [Options](https://open.spotify.com/album/5l9d6ouHBALjKHgrbWJJZ2) | 3:41 | 2022-04-11 | 2022-04-17 |
+| [OUR LOVE \(80'S\)](https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [OUR LOVE \(80'S\)](https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX) | 2:59 | 2024-03-22 |  |
 | [Pain & Pleasure \(feat\. VANYFOX & Fédération Internationale du Bruit\)](https://open.spotify.com/track/1NHZzHDim0aiS8fhJLPdqk) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Vanyfox](https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe), [Fédération Internationale du Bruit](https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV) | [Pain & Pleasure \(feat\. VANYFOX & Fédération Internationale du Bruit\)](https://open.spotify.com/album/4Jz3pVofJLIfyyslzejjqo) | 4:03 | 2023-11-17 | 2024-03-22 |
 | [Paranoid](https://open.spotify.com/track/1I5Q9T1G8eYPyWZ9X7EapU) | [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Paranoid](https://open.spotify.com/album/2PwkqAPwbOn01bPoWcAhTQ) | 3:17 | 2022-04-11 | 2022-04-20 |
 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 | 2022-01-14 |  |

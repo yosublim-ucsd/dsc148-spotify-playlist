@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Nebrugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,302 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,335 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [TODO DIA](https://open.spotify.com/track/5TV95jrxQilQxTLFok8kxK) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [TODO DIA \- \(Drill de Verão\)](https://open.spotify.com/album/6kmklNIw2GN520PAZsAj0m) | 1:43 |
 | 50 | [Ruas da Leste](https://open.spotify.com/track/5tpqkzcDvvIAHmkBJEhUyK) | [Teixeirw](https://open.spotify.com/artist/2pzOuwEHKoZ3ZRGz0ovblx), [Beats by GorJah](https://open.spotify.com/artist/2JgTsHY5NoDEChnpZTdJcU) | [Ruas da Leste](https://open.spotify.com/album/0eBzFsIYzN6yZUAhmkCSYY) | 2:49 |
 
-Snapshot ID: `MCw5OWFmMjRkZmVmZDBmYTAzZTVmZGY5ZDI3NzE1Mjc3YzU5ZjZiMmVj`
+Snapshot ID: `MCw1NmZjMTExNzY5NTVkOTljN2Q3Yjg0NTA0ZjVjY2FhYTJlZTJhM2Nj`

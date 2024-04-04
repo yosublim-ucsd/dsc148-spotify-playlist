@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,805 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,836 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 82 | [La Sirena](https://open.spotify.com/track/3KPNyfWQEF6EKAmbHfboZI) | [Nelson Y Sus Estrellas](https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi) | [Orquídea de Plata](https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn) | 2:45 |
 | 83 | [La Zenaida](https://open.spotify.com/track/35qh3wezE1lfdObTQpJV7C) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 4:28 |
 | 84 | [Tonto Amor](https://open.spotify.com/track/1XvVvQMmCq6U5whFUCx3dp) | [Hernan Hernandez](https://open.spotify.com/artist/49UMX5QVC2PaTG6CNjLQDH) | [18 Exitos](https://open.spotify.com/album/0sfbPBLonQ1r0neZUgyVsK) | 3:26 |
-| 85 | [Los Sabanales](https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Estrellas Corraleras \- Fundadores de la Cumbia Colombiana](https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99) | 2:42 |
-| 86 | [Buscandote](https://open.spotify.com/track/2FtjaDTZOsJCjFWuNXqJUl) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 4:40 |
+| 85 | [Buscandote](https://open.spotify.com/track/2FtjaDTZOsJCjFWuNXqJUl) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 4:40 |
+| 86 | [Los Sabanales](https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Estrellas Corraleras \- Fundadores de la Cumbia Colombiana](https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99) | 2:42 |
 | 87 | [Dulcemente Bella](https://open.spotify.com/track/3anFu90Cfdwgt31a2tYJix) | [Miguel Moly](https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8) | [Y Como Se Mata El Gusano?](https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK) | 3:52 |
 | 88 | [Guayacan Pasodobles: España Cañi / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero](https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Como en un Baile](https://open.spotify.com/album/03DBkQ5y8LzsLfXj8zbKvo) | 6:04 |
 | 89 | [Hay Que Ser Fuerte](https://open.spotify.com/track/5CcE4WFbASAobJapMAIQI7) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Más Romanticos](https://open.spotify.com/album/0mmIrqXHAeXwfOdgVoRxRY) | 4:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 99 | [No Quiero Perderte](https://open.spotify.com/track/6R9LJSxA6wo0f5qbug8Ely) | [Luis Mateus Y La Nueva Generacion](https://open.spotify.com/artist/47Bb4NcbxnlPH6LIYgAGFF), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [14 Vallenatos Románticos, Vol\. 2](https://open.spotify.com/album/5qalo3WHEnhtAXM9hlQBY3) | 4:52 |
 | 100 | [Golpe Con Golpe](https://open.spotify.com/track/7lG5rKK7defs3wLH3A1wtd) | [Pastor López](https://open.spotify.com/artist/5eHNeUjS4GogffJdQ1vVN5) | [Recordando a Pastor Lopez](https://open.spotify.com/album/5tmSVevQNFdbxFKTFOHWAk) | 3:30 |
 
-Snapshot ID: `MCw1ZDMwMmE1MjRiNGIwY2UzZDNmMTcxZjQwOTM4YTQ2NWM2MGU2ZDFm`
+Snapshot ID: `MCwxMjVjMDMzNDVhYTJhYWRhNmJjODg3MWIyOWVlYjVlYmFlYTFhMjgz`

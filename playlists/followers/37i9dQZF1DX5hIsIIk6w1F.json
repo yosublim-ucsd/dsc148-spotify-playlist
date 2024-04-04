@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 385595,
+  "2024-04-04": 385717,
   "date_first_scraped": "2022-05-26",
   "description": "Este Flow tiene otro Flow. Foto: El Jordan 23 & Fuego.",
   "name": "Reggaet\u00f3n Chileno",
@@ -7323,6 +7323,28 @@
     {
       "album": {
         "name": "Mal Mal Mal",
+        "url": "https://open.spotify.com/album/5exTuC9LPffoZA71sA8Xdv"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190397,
+      "name": "Mal Mal Mal",
+      "url": "https://open.spotify.com/track/28m92ViuiPxhmXBsLGgA9F"
+    },
+    {
+      "album": {
+        "name": "Mal Mal Mal",
         "url": "https://open.spotify.com/album/02XKfKw71CaZmNGOC0lDPz"
       },
       "artists": [
@@ -7337,7 +7359,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 190397,
       "name": "Mal Mal Mal",
       "url": "https://open.spotify.com/track/3BTYZkMCqYWLqrxfub1NmE"

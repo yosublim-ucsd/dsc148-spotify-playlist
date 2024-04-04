@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: No Windows\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,745 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,847 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [2 Much](https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [2 Much](https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR) | 3:20 |
 | 100 | [He Don't](https://open.spotify.com/track/4AFJ1Wr1pee9bpWT5PgKN0) | [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [He Don't](https://open.spotify.com/album/6L7wHBVw78HrnYxxZuZzlm) | 2:28 |
 
-Snapshot ID: `MCxhYTBmMmE3YWJkMGJiMjIxMGU1N2ZkMTQ4NmI4NTJhNWIxNGE1ZjAz`
+Snapshot ID: `MCxmZDlmODMzZWI1MGJiNjE3MmQ1ZmQ3OWUyOTU1NWRjYTZlY2Q4NDRm`

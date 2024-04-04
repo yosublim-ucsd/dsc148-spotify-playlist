@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Lendakaris Muertos.",
-  "num_followers": 103321,
+  "num_followers": 103348,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGU4Yjg2NDM5MjYzNjdhMjVjNmU1MjNiNGQyNWI1MTY4MzYyMDVm",
+  "snapshot_id": "MCwyNDMxM2Q4Mjg4M2Y4ZDE2YWVlNmFiZmQzMzg5MDY4NTMxYzBlNjk4",
   "tracks": [
     {
       "added_at": "2024-03-28 23:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Salgo a la Calle",
-        "url": "https://open.spotify.com/album/3wdwyHXHc5NKboxzLsE6pS"
-      },
-      "artists": [
-        {
-          "name": "Elektroduendes",
-          "url": "https://open.spotify.com/artist/7oboTHVarRYloS0WJxGSJW"
-        }
-      ],
-      "duration_ms": 247628,
-      "name": "Salgo a la Calle",
-      "url": "https://open.spotify.com/track/3KOep0HeA6PxeoLT4I4Ixx"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Nuevos H\u00e9roes del Rock",
         "url": "https://open.spotify.com/album/6pTO78gcvYctJTIBU2pvZ4"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 179942,
       "name": "Bad Religi\u00f3n",
       "url": "https://open.spotify.com/track/0jBZw8EyAsqnt5o4jHExRG"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Salgo a la Calle",
+        "url": "https://open.spotify.com/album/3wdwyHXHc5NKboxzLsE6pS"
+      },
+      "artists": [
+        {
+          "name": "Elektroduendes",
+          "url": "https://open.spotify.com/artist/7oboTHVarRYloS0WJxGSJW"
+        }
+      ],
+      "duration_ms": 247628,
+      "name": "Salgo a la Calle",
+      "url": "https://open.spotify.com/track/3KOep0HeA6PxeoLT4I4Ixx"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Mar Et\u00edlico",
-        "url": "https://open.spotify.com/album/7yK5Z8ZRUm2UBWotLfDlKB"
-      },
-      "artists": [
-        {
-          "name": "G\u00e9rmenes",
-          "url": "https://open.spotify.com/artist/50Ymm1nPtn2tvRtEUZg5Me"
-        }
-      ],
-      "duration_ms": 153320,
-      "name": "Otra Vez en Tus Manos",
-      "url": "https://open.spotify.com/track/2cLQLHwrwwE1eljpXdDyRQ"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Nostrat",
         "url": "https://open.spotify.com/album/0F9wDYDPBi8rlGrSiG0xK7"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 192880,
       "name": "Sols El Poble Salva Al Poble",
       "url": "https://open.spotify.com/track/6iYxFDOGE8jD5ifJXP6vcK"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Mar Et\u00edlico",
+        "url": "https://open.spotify.com/album/7yK5Z8ZRUm2UBWotLfDlKB"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9rmenes",
+          "url": "https://open.spotify.com/artist/50Ymm1nPtn2tvRtEUZg5Me"
+        }
+      ],
+      "duration_ms": 153320,
+      "name": "Otra Vez en Tus Manos",
+      "url": "https://open.spotify.com/track/2cLQLHwrwwE1eljpXdDyRQ"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Delicias de una Falsa Democracia",
-        "url": "https://open.spotify.com/album/6gSsvTqcLIOJ1gx6cy8jRg"
-      },
-      "artists": [
-        {
-          "name": "No Konforme",
-          "url": "https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub"
-        },
-        {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 152240,
-      "name": "Cenizas del Capitalismo",
-      "url": "https://open.spotify.com/track/1d6OkDRgwp0dTrBUutv6kq"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Cicatriz en la Matrix",
         "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 247309,
       "name": "Somos Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/0B9vyHN45CnhRShpNOx5Bq"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Delicias de una Falsa Democracia",
+        "url": "https://open.spotify.com/album/6gSsvTqcLIOJ1gx6cy8jRg"
+      },
+      "artists": [
+        {
+          "name": "No Konforme",
+          "url": "https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub"
+        },
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 152240,
+      "name": "Cenizas del Capitalismo",
+      "url": "https://open.spotify.com/track/1d6OkDRgwp0dTrBUutv6kq"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Ser Libre",
-        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Ser Libre",
-      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "J\u00f3dete",
         "url": "https://open.spotify.com/album/1Z9cvtUbSrXQUuJDO4AglG"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 227991,
       "name": "Gernika",
       "url": "https://open.spotify.com/track/5lYKFpHNu0myBwgbmilIfY"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Ser Libre",
+        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 216250,
+      "name": "Ser Libre",
+      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Antifascismo",
-        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 260127,
-      "name": "Antifascismo",
-      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Ka\u00f1a a los Que Nos Quieren Pisar",
         "url": "https://open.spotify.com/album/1K7K7dy09VWhi9nKlsIkGx"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 276057,
       "name": "Ka\u00f1a",
       "url": "https://open.spotify.com/track/71fXglmSTgkzXe3h8PHuFK"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Antifascismo",
+        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 260127,
+      "name": "Antifascismo",
+      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
     },
     {
       "added_at": "2024-03-28 23:00:00",

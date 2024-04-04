@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: i\-dep
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,065 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,095 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 4 | [Magic Hour](https://open.spotify.com/track/33KT19A1LhJjT0lz9RNAmJ) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Snazzy](https://open.spotify.com/album/6eh8jwiGzGKCivxYxQRy9Y) | 3:35 |
 | 5 | [Bite you](https://open.spotify.com/track/0HQY3oa2908qhJwIPtiYHE) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Bite you](https://open.spotify.com/album/7p1zPjZwJJA9sYTqw7lmpm) | 3:02 |
 | 6 | [Exit A8](https://open.spotify.com/track/3pq8X8itHc4JJBoNEEGnUT) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Exit A8](https://open.spotify.com/album/7KHcAhtporLHejH0s1JMIR) | 3:35 |
-| 7 | [Secret Umbrella Girl](https://open.spotify.com/track/3hFb8YPKeAvbAUML7uWFbG) | [Maegami Pattsun Shonen](https://open.spotify.com/artist/0LxE38Yd693B8vUs0BR023) | [Secret Umbrella Girl](https://open.spotify.com/album/0xl5oQshroHndf99BKZzmJ) | 3:19 |
+| 7 | [Secret Umbrella Girl](https://open.spotify.com/track/3hFb8YPKeAvbAUML7uWFbG) | [前髪ぱっつん少年](https://open.spotify.com/artist/7or6bDWz1u16nry2jUu7oe) | [Secret Umbrella Girl](https://open.spotify.com/album/0xl5oQshroHndf99BKZzmJ) | 3:19 |
 | 8 | [GAME](https://open.spotify.com/track/4yW4xDZJLJUUdDNC0gdsNU) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [GAME](https://open.spotify.com/album/4VJRULO2JnD5QtPsXGivEx) | 2:49 |
 | 9 | [AM2:00](https://open.spotify.com/track/2NWckpgKS4ntbnUgPmZmnm) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [映画](https://open.spotify.com/album/3nKQTGFwJHHACw7hBo0yNx) | 2:58 |
 | 10 | [Blue](https://open.spotify.com/track/5qNCUMcjTVk7zOKK8BmGVU) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i), [Maya](https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4) | [Blue feat\. Maya](https://open.spotify.com/album/7J0ircD3K6TCXVnSvMiLJ7) | 4:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Motorcycle](https://open.spotify.com/track/0WymIcEXS0ey2TPxt5ykpO) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [Rikka](https://open.spotify.com/album/5Z6IpQ3YYZLEGGhuveWqh2) | 3:43 |
 | 80 | [サブマリン](https://open.spotify.com/track/6JaegcqofoXXqzGLkyhzbn) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suplex](https://open.spotify.com/album/31Nbiax5bV9lVnYubVVRaB) | 5:18 |
 
-Snapshot ID: `MCxhNDQ3MDEzY2U4NDQ5ZDMxYjI4OTM0MjgwZTVlZGExM2EyNDgwNTg2`
+Snapshot ID: `MCw0NGU1NzQ1MmVjY2Y0ODM4NGEwMWQ4NWJmMzU1Mjk1NjQ2NTE2ZjQ2`

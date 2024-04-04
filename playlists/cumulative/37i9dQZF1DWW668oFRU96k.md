@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Zerb x The Chainsmokers x Ink
 
-954 songs - 1 day 23 hr 26 min
+955 songs - 1 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,7 +643,8 @@
 | [Out Of Options \(feat\. midwxst\)](https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Out Of Options \(feat\. midwxst\)](https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV) | 2:36 | 2023-05-11 | 2023-06-16 |
 | [Out Of The Dark](https://open.spotify.com/track/7hdSpU6G5jyA7lmBVqHMwr) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Out Of The Dark](https://open.spotify.com/album/5MkfidCcFwwTDaZ0qVqsf8) | 3:19 | 2023-09-28 | 2023-11-10 |
 | [Outlaws](https://open.spotify.com/track/2EfQsmVJ5YQtZonO9q0HQW) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ), [House Body](https://open.spotify.com/artist/3mJUXSSzYTwacmj0kYBJal), [Oskr](https://open.spotify.com/artist/13aLgWBHLtwZx4Qi2yiY2y) | [Outlaws](https://open.spotify.com/album/4bAzbmRZ5kjPFRgNaHj2YR) | 2:57 | 2023-03-23 | 2023-04-28 |
-| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 |  |
+| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 | 2024-04-04 |
+| [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-03-28 |  |
 | [Over Again](https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Over Again](https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br) | 2:39 | 2023-04-13 | 2023-05-19 |
 | [OVER YOU \- TC/TC](https://open.spotify.com/track/2o2DVGwdsT1yMUigt2oO6j) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [TC/TC Edition 002](https://open.spotify.com/album/6juCC1SNV4XiKJraqeuBym) | 3:21 | 2023-12-14 | 2024-01-19 |
 | [Overtaking](https://open.spotify.com/track/0vQGpYOiL6AH5yIlk6RIJl) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd) | [Overtaking](https://open.spotify.com/album/03k3DU7ds9Tqw2PStMKQzT) | 2:14 | 2023-06-15 | 2023-08-11 |

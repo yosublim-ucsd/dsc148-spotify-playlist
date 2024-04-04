@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-307 songs - 16 hr 40 min
+308 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Manasare](https://open.spotify.com/track/60aAnSSyv8rhIrWcKN8koO) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Harsha Abbigeri](https://open.spotify.com/artist/6VFxe1u8QcCAF5v7sQyQDr), [Amogh Malakannavar](https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8) | [Manasare](https://open.spotify.com/album/6sy8h66IUpgLndkwXZROK1) | 2:46 | 2023-09-13 |  |
 | [Manaseega Birukagidhe](https://open.spotify.com/track/7CAbO29cTqanGs20E0PTDn) | [Manasa Holla](https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO) | [Manaseega Birukagidhe](https://open.spotify.com/album/2PwFQISQAug99Eh7fizHMX) | 3:59 | 2023-10-07 |  |
 | [Manasindha](https://open.spotify.com/track/4Xx16ZaD0LW0svsyWx6c3x) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Manasindha](https://open.spotify.com/album/68DAgMKTgAVuz6ODAaS93p) | 4:37 | 2023-05-02 | 2023-07-04 |
+| [Manasu Jaaride](https://open.spotify.com/track/6bUKQYlsou3gViUUj6Xp2O) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Manasu Jaaride](https://open.spotify.com/album/6opIhmM4pIEcVqrM3ilhUO) | 2:39 | 2024-04-03 |  |
 | [MANIFEST](https://open.spotify.com/track/2aukHnHoljvfUz0q7KqNet) | [AGORAH](https://open.spotify.com/artist/0MS0PxbrMlTrqjSVLIdCaE) | [MANIFEST](https://open.spotify.com/album/5FTnu7pgquZYRIIhDdf5Gq) | 3:08 | 2023-09-28 | 2024-04-02 |
 | [Many Me](https://open.spotify.com/track/2zkjOcWVfozoWtgRj9QzvJ) | [NUMB\-URGH](https://open.spotify.com/artist/3zPtAKDN5Ldh5BAVPbzVlD), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [Many Me](https://open.spotify.com/album/6NJRgP6X0G2gOBFLGTtjyp) | 3:10 | 2023-08-31 | 2024-02-17 |
 | [Marethiruve](https://open.spotify.com/track/5fIu0KByVpki8ueCk0Nig5) | [Ahamm](https://open.spotify.com/artist/3FIOkx3f9C6UuJJunHucpC), [Bassmnt](https://open.spotify.com/artist/1ve81U9YJgA5fdxKKjo2o1) | [Marethiruve](https://open.spotify.com/album/1IhNHGpsPbzBwd6kYv2XwN) | 4:17 | 2023-12-22 | 2024-02-17 |
@@ -257,7 +258,7 @@
 | [Parashuram](https://open.spotify.com/track/65JEaKWJDwMNBbYMgftnTH) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk) | [Parashuram](https://open.spotify.com/album/4R8au1zsWEr8fr48s5ykmc) | 4:09 | 2023-11-14 | 2024-02-21 |
 | [Pataki Cypher](https://open.spotify.com/track/69SWabKnBArDWmPZrHbBcg) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr), [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx) | [Pataki Cypher](https://open.spotify.com/album/4jsMijzc4aWVi2Sjbbmct0) | 2:40 | 2023-11-20 | 2024-02-17 |
 | [Plz Worry](https://open.spotify.com/track/2AUqf4UqfXOfVH1LwpDOO5) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Plz Worry](https://open.spotify.com/album/1ioeFt8iKr7I7oWltSw67o) | 5:52 | 2024-02-01 |  |
-| [Preetiye](https://open.spotify.com/track/4aXgkyxFn7c0tMOHgUdhet) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Preetiye](https://open.spotify.com/album/3CvlEQEBS8oUKbAZUfWwEo) | 1:05 | 2023-08-23 |  |
+| [Preetiye](https://open.spotify.com/track/4aXgkyxFn7c0tMOHgUdhet) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Preetiye](https://open.spotify.com/album/3CvlEQEBS8oUKbAZUfWwEo) | 1:05 | 2023-08-23 | 2024-04-04 |
 | [Prema Sagara](https://open.spotify.com/track/1HQ1ODNrcw6t1I7iIUZQ0p) | [Manikanta Naik Puttur](https://open.spotify.com/artist/2dLmrYEdVGzU8QITguTmDf) | [Prema Sagara](https://open.spotify.com/album/4UU73MuvQoCzYc4CdIGmwO) | 4:19 | 2023-05-25 | 2023-06-08 |
 | [Psych Boy](https://open.spotify.com/track/4zVzWfJ7fELjRrWxWvjHIF) | [X Paapi Psycho](https://open.spotify.com/artist/2xVVYDPi4Kb3pMrV47nrww), [Nandan V R](https://open.spotify.com/artist/7L27ObjW3EkD2VXQcPWL7a) | [Psych Boy](https://open.spotify.com/album/1KjvaQIdZq8YfChkgCGDx7) | 2:10 | 2023-05-26 | 2024-01-23 |
 | [Queen](https://open.spotify.com/track/3ZwA5XT8yNMktFl41qfwfu) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [God Movess](https://open.spotify.com/album/16x5VIDSCWPmpSCjt06v5K) | 2:45 | 2023-07-13 | 2023-07-22 |

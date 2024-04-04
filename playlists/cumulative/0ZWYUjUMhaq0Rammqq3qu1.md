@@ -2,7 +2,7 @@
 
 ### [HOUSE PARTY BANGERS ](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
-> Break the speakers with these absolute House Party BANGERS!!! <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Project X \| House Party \| Frat Party \| Pre\-Drink Playlist
+> Soundtrack your life with our ever evolving 'Moments' playlist that updates for all major holidays and events! Listen now for all the essential House Party Bangers for this Spring Break  <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a>
 
 357 songs - 18 hr 21 min
 

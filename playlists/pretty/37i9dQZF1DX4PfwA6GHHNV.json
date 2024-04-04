@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 16501,
+  "num_followers": 16516,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTVmNTA4NDAzNTU5OWViMTIzMGFkZDBiM2FmMjI2YWM0Y2ZlOTQ0",
+  "snapshot_id": "MCxhYWJjYTdkMGI5MWQ2Y2E4ODdmOWM5Y2FlNWNmOWZhMGQ0MWFmOWQ3",
   "tracks": [
     {
       "added_at": "2024-03-29 03:01:00",
@@ -595,26 +595,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 194862,
-      "name": "Luar",
-      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Do Nada",
         "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
       },
@@ -639,6 +619,26 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 194862,
+      "name": "Luar",
+      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "VER\u00c3O",
         "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
       },
@@ -651,26 +651,6 @@
       "duration_ms": 214193,
       "name": "VER\u00c3O",
       "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Lembra?",
-        "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
-      },
-      "artists": [
-        {
-          "name": "D'Castelo",
-          "url": "https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR"
-        },
-        {
-          "name": "BRUNNOASH",
-          "url": "https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd"
-        }
-      ],
-      "duration_ms": 220389,
-      "name": "Lembra?",
-      "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -707,22 +687,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Quando c\u00ea vem",
-        "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
+        "name": "Lembra?",
+        "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
       },
       "artists": [
         {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+          "name": "D'Castelo",
+          "url": "https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR"
         },
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "BRUNNOASH",
+          "url": "https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd"
         }
       ],
-      "duration_ms": 216666,
-      "name": "Quando c\u00ea vem",
-      "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
+      "duration_ms": 220389,
+      "name": "Lembra?",
+      "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -751,6 +731,26 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Quando c\u00ea vem",
+        "url": "https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Quando c\u00ea vem",
+      "url": "https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
       },
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Anel da Pandora",
-        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
-      },
-      "artists": [
-        {
-          "name": "greg mc",
-          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
-        },
-        {
-          "name": "ESCOB4R",
-          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
-        }
-      ],
-      "duration_ms": 199012,
-      "name": "Anel da Pandora",
-      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Afasta",
         "url": "https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 175578,
       "name": "Afasta",
       "url": "https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+      },
+      "artists": [
+        {
+          "name": "greg mc",
+          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
+        },
+        {
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+        }
+      ],
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "\u00c1guas Passadas",
-        "url": "https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "\u00c1guas Passadas",
-      "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "MAIS VERDE",
         "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 131320,
       "name": "Enquanto o tempo passa",
       "url": "https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "\u00c1guas Passadas",
+        "url": "https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "\u00c1guas Passadas",
+      "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
     },
     {
       "added_at": "2024-03-29 03:01:00",

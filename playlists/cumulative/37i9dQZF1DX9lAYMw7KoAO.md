@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=VsaLe1ESSSuT53CtxGU\-4Q">Theresa Phondo</a>
 
-417 songs - 1 day 12 hr 6 min
+418 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [Hararat](https://open.spotify.com/track/6sNaQRTxAwmFzC0Pe3zyNF) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Hararat](https://open.spotify.com/album/3Le8OrIOMXZvK2JnNR21hS) | 3:45 | 2023-04-07 | 2023-04-21 |
 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 | 2023-05-19 | 2024-01-19 |
 | [Heaven](https://open.spotify.com/track/3slJWsbIm0vJQ4kNoQGvIw) | [ODG Beatz](https://open.spotify.com/artist/70CBsq6ZZno3oSswWP5kIa) | [Heaven](https://open.spotify.com/album/7dyspGNk4WWiEA1Zx21r0N) | 1:24 | 2023-06-23 | 2023-06-30 |
-| [Hewale Lala\(Song of Strength\)](https://open.spotify.com/track/5pIM4uYNroyQPTgQnnvZzs) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Hewale Lala\(Song of Strength\)](https://open.spotify.com/album/0eHwsy7wGdv6Ch4rqqdtTu) | 4:40 | 2023-06-23 |  |
+| [Hewale Lala\(Song of Strength\)](https://open.spotify.com/track/4Fjt2bhzk7l5FvDKcGTGhE) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Breakthrough](https://open.spotify.com/album/5oY5TTJsroVfIVlM42dUM8) | 4:40 | 2024-01-03 |  |
+| [Hewale Lala\(Song of Strength\)](https://open.spotify.com/track/5pIM4uYNroyQPTgQnnvZzs) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Hewale Lala\(Song of Strength\)](https://open.spotify.com/album/0eHwsy7wGdv6Ch4rqqdtTu) | 4:40 | 2023-06-23 | 2024-04-04 |
 | [Hold On](https://open.spotify.com/track/3oXxQsH8raBZutGY0hY7QQ) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Tobi Toun](https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22) | [Hold On](https://open.spotify.com/album/10TmjIWAF6dT82vIAJj7ui) | 2:27 | 2023-06-23 | 2023-06-30 |
 | [Hold On Me](https://open.spotify.com/track/0R3y5oYVFeQRbhbrWpWd9d) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [My Beautiful Reality](https://open.spotify.com/album/1wNaIjk7zTye6VNdn3E2F1) | 2:52 | 2023-12-31 | 2024-01-04 |
 | [Hosanna](https://open.spotify.com/track/5nqCrhp1eWeIL9w8Kz9H88) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV) | [Hosanna](https://open.spotify.com/album/5AM8gfxHAgNRAERvEn3gNV) | 8:27 | 2023-04-07 | 2023-04-21 |

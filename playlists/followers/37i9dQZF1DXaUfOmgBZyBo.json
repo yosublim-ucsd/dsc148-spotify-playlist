@@ -1,12 +1,12 @@
 {
-  "2024-04-03": 9558,
+  "2024-04-04": 9571,
   "date_first_scraped": "2023-06-08",
   "description": "Music from \"PSYCHO-PASS\" Series !\u300c PSYCHO-PASS \u30b5\u30a4\u30b3\u30d1\u30b9\u300d\u30b7\u30ea\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\u30b5\u30a4\u30b3\u30d1\u30b9\u88fd\u4f5c\u59d4\u54e1\u4f1a",
   "name": " PSYCHO-PASS \u30b5\u30a4\u30b3\u30d1\u30b9",
   "tracks": [
     {
       "album": {
-        "name": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30cf\u309a\u30b9 3 Original Soundtrack (\u914d\u4fe1\u30cf\u3099\u30fc\u30b7\u3099\u30e7\u30f3)",
+        "name": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30d1\u30b9 \uff13 Original Soundtrack (\u914d\u4fe1\u30d0\u30fc\u30b8\u30e7\u30f3)",
         "url": "https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t"
       },
       "artists": [
@@ -260,7 +260,7 @@
     },
     {
       "album": {
-        "name": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30cf\u309a\u30b9 3 Original Soundtrack (\u914d\u4fe1\u30cf\u3099\u30fc\u30b7\u3099\u30e7\u30f3)",
+        "name": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30d1\u30b9 \uff13 Original Soundtrack (\u914d\u4fe1\u30d0\u30fc\u30b8\u30e7\u30f3)",
         "url": "https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t"
       },
       "artists": [
@@ -275,24 +275,6 @@
       "duration_ms": 417693,
       "name": "PSYCHO-PASS (PSYCHO-PASS \u30b5\u30a4\u30b3\u30d1\u30b9 IN CONCERT \u30af\u30e9\u30d6\u30d1\u30fc\u30c8)",
       "url": "https://open.spotify.com/track/5kxBSklcyeI9gY7oFvQyZU"
-    },
-    {
-      "album": {
-        "name": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30cf\u309a\u30b9 3 Original Soundtrack (\u914d\u4fe1\u30cf\u3099\u30fc\u30b7\u3099\u30e7\u30f3)",
-        "url": "https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t"
-      },
-      "artists": [
-        {
-          "name": "Yugo Kanno",
-          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
-        }
-      ],
-      "date_added": "2023-06-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 369346,
-      "name": "PSYCHO-PASS 3",
-      "url": "https://open.spotify.com/track/0D5Hrz6dOJfJufnVYqFvth"
     },
     {
       "album": {
@@ -314,7 +296,7 @@
     },
     {
       "album": {
-        "name": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30cf\u309a\u30b9 3 Original Soundtrack (\u914d\u4fe1\u30cf\u3099\u30fc\u30b7\u3099\u30e7\u30f3)",
+        "name": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30d1\u30b9 \uff13 Original Soundtrack (\u914d\u4fe1\u30d0\u30fc\u30b8\u30e7\u30f3)",
         "url": "https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t"
       },
       "artists": [
@@ -365,6 +347,24 @@
       "duration_ms": 403426,
       "name": "PSYCHO-PASS Symphony",
       "url": "https://open.spotify.com/track/5luAUjGiF7Kvy4vUW97JHf"
+    },
+    {
+      "album": {
+        "name": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30d1\u30b9 \uff13 Original Soundtrack (\u914d\u4fe1\u30d0\u30fc\u30b8\u30e7\u30f3)",
+        "url": "https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369346,
+      "name": "PSYCHO-PASS \uff13",
+      "url": "https://open.spotify.com/track/0D5Hrz6dOJfJufnVYqFvth"
     },
     {
       "album": {
@@ -462,7 +462,7 @@
     },
     {
       "album": {
-        "name": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30cf\u309a\u30b9 3 Original Soundtrack (\u914d\u4fe1\u30cf\u3099\u30fc\u30b7\u3099\u30e7\u30f3)",
+        "name": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30d1\u30b9 \uff13 Original Soundtrack (\u914d\u4fe1\u30d0\u30fc\u30b8\u30e7\u30f3)",
         "url": "https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t"
       },
       "artists": [
@@ -498,7 +498,7 @@
     },
     {
       "album": {
-        "name": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30cf\u309a\u30b9 3 Original Soundtrack (\u914d\u4fe1\u30cf\u3099\u30fc\u30b7\u3099\u30e7\u30f3)",
+        "name": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30d1\u30b9 \uff13 Original Soundtrack (\u914d\u4fe1\u30d0\u30fc\u30b8\u30e7\u30f3)",
         "url": "https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t"
       },
       "artists": [
@@ -664,7 +664,7 @@
     },
     {
       "album": {
-        "name": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30cf\u309a\u30b9 3 Original Soundtrack (\u914d\u4fe1\u30cf\u3099\u30fc\u30b7\u3099\u30e7\u30f3)",
+        "name": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30d1\u30b9 \uff13 Original Soundtrack (\u914d\u4fe1\u30d0\u30fc\u30b8\u30e7\u30f3)",
         "url": "https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t"
       },
       "artists": [
@@ -844,7 +844,7 @@
     },
     {
       "album": {
-        "name": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30cf\u309a\u30b9 3 Original Soundtrack (\u914d\u4fe1\u30cf\u3099\u30fc\u30b7\u3099\u30e7\u30f3)",
+        "name": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30d1\u30b9 \uff13 Original Soundtrack (\u914d\u4fe1\u30d0\u30fc\u30b8\u30e7\u30f3)",
         "url": "https://open.spotify.com/album/21rcy1I9aInJjEEgcjSe1t"
       },
       "artists": [

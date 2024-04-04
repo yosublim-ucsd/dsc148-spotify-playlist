@@ -5173,6 +5173,24 @@
     },
     {
       "album": {
+        "name": "Into Motion",
+        "url": "https://open.spotify.com/album/1ZcPD4YUAnPcbVUgGOpTz4"
+      },
+      "artists": [
+        {
+          "name": "Oceane Bardot",
+          "url": "https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157659,
+      "name": "Into Motion",
+      "url": "https://open.spotify.com/track/0bu1XZGQadPRJLf8F7hv6p"
+    },
+    {
+      "album": {
         "name": "Into the Mist",
         "url": "https://open.spotify.com/album/2ZSJZQzqcgxBVIqqBM6cBb"
       },
@@ -9128,7 +9146,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 164062,
       "name": "Secret Soul",
       "url": "https://open.spotify.com/track/5ZgoZtLh1ofGyDavnEqqzp"

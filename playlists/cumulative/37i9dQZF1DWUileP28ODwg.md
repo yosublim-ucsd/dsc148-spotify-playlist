@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:61SFRZAmfyJhcffwR2Ijuq">Jason Crabb</a>
 
-377 songs - 23 hr 29 min
+378 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/track/09VSG1KLDlanpc5o0TNRJE) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/album/0SW2FDavoQoJG9kGftx2MW) | 5:38 | 2022-02-25 | 2022-04-23 |
 | [Big Tent Revival](https://open.spotify.com/track/6HwopkhVngqyPILoTSF7Cs) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Big Tent Revival](https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro) | 3:38 | 2022-08-26 | 2022-10-02 |
 | [Bigger Table](https://open.spotify.com/track/76LbmiM3FBV5mGMB7GXrPw) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Bigger Table](https://open.spotify.com/album/0NAx57507JN5OrI7NE5hSH) | 3:54 | 2022-08-26 | 2022-10-02 |
+| [Bigger Than Hope](https://open.spotify.com/track/4BwTyRXI3RBYoWTW9m592J) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Bigger Than Hope](https://open.spotify.com/album/3xaGigA4NYkrLRBl2MXOe4) | 3:28 | 2024-03-29 |  |
 | [Bloodlines](https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Bloodlines](https://open.spotify.com/album/6wjDPPN67TFsvIKWafu7Zz) | 3:53 | 2022-02-25 | 2022-05-29 |
 | [Bloom](https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Bloom](https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG) | 3:06 | 2022-08-26 | 2023-10-03 |
 | [Breath of God \(Speak Peace\)](https://open.spotify.com/track/1HfvEglRq78H8Dk8pYkbGf) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Breath of God \(Speak Peace\)](https://open.spotify.com/album/70w1qIARKCquK1VcSHCy8m) | 3:39 | 2022-02-25 | 2022-04-23 |
@@ -338,7 +339,7 @@
 | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP) | 3:42 | 2022-10-01 |  |
 | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/track/71gmThHplhegRGnswUTD2O) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/album/7cYdBWyaoE8UCUW3cHlZhU) | 3:42 | 2022-10-01 | 2023-02-25 |
 | [This Is Our God](https://open.spotify.com/track/6StHK5sgz9rjxVZv7CApW2) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [This Is Our God](https://open.spotify.com/album/1AOGcBpy6CxShBK8Pu3wB5) | 4:25 | 2023-10-06 |  |
-| [Time](https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Time](https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL) | 4:01 | 2023-10-06 |  |
+| [Time](https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Time](https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL) | 4:01 | 2023-10-06 | 2024-04-04 |
 | [To Not Worship You](https://open.spotify.com/track/0sqnqnvPogsfvALIv1OVMM) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [To Not Worship You](https://open.spotify.com/album/1CdbYMYRRGYB5rxO8syz4P) | 3:45 | 2022-10-01 | 2022-11-13 |
 | [To Not Worship You](https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Always Only Jesus](https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD) | 3:45 | 2022-10-01 |  |
 | [Today](https://open.spotify.com/track/36zPLlwvrQjDm2oDG7KbmJ) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Today](https://open.spotify.com/album/5OcFeJQu3euDRmtOd2P19D) | 4:05 | 2022-02-25 | 2022-05-14 |

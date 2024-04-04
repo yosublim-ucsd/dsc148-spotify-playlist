@@ -8131,6 +8131,24 @@
     },
     {
       "album": {
+        "name": "Up on a Tightrope",
+        "url": "https://open.spotify.com/album/2nRzyQ1sTsxiYFBxVLFWO3"
+      },
+      "artists": [
+        {
+          "name": "Marta Giulioni",
+          "url": "https://open.spotify.com/artist/5Lf2VzL2126jxiXobVqZIu"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362847,
+      "name": "So What If I Fall?",
+      "url": "https://open.spotify.com/track/1tdYWVavsDORS71hmA7Xux"
+    },
+    {
+      "album": {
         "name": "Stammi Veramente Molto Bene",
         "url": "https://open.spotify.com/album/2kt9cHDSQLEKPIjqegkKoS"
       },
@@ -9654,7 +9672,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 345880,
       "name": "What The Water Brings",
       "url": "https://open.spotify.com/track/4RAyGVtJSj2EGZqUA3qGOD"

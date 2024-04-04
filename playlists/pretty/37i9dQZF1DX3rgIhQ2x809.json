@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 70778,
+  "num_followers": 70783,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTY0N2FjYTMzZjgzMmU0NjA0YzFiMjg4YmM1MTg2MjM3NmNjYjIy",
+  "snapshot_id": "MCw1MGNiZjIyMjcyMmQzMzBmNGIzMmEzNzA0ZTNmZmQyZDE0MDkxNTRi",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -387,26 +387,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Porche Carrera",
-        "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
-      },
-      "artists": [
-        {
-          "name": "DimeWest",
-          "url": "https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Porche Carrera",
-      "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 197383,
       "name": "PANTIES Y BRASIERES",
       "url": "https://open.spotify.com/track/4uVEdikP5eLUy8Dq6gjiPV"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Porche Carrera",
+        "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
+      },
+      "artists": [
+        {
+          "name": "DimeWest",
+          "url": "https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Porche Carrera",
+      "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Miko",
-        "url": "https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 135013,
-      "name": "Miko",
-      "url": "https://open.spotify.com/track/0ITEio7vNOlNQrGv0eTaRH"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "La Sustancia X",
         "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
       },
@@ -1039,22 +1023,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Gimnasta",
-        "url": "https://open.spotify.com/album/5p31Mq9lQGLUEfWhMMBSUp"
+        "name": "Miko",
+        "url": "https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo"
       },
       "artists": [
         {
-          "name": "Xyron",
-          "url": "https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be"
-        },
-        {
-          "name": "Veterano Music",
-          "url": "https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT"
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
         }
       ],
-      "duration_ms": 175476,
-      "name": "Gimnasta",
-      "url": "https://open.spotify.com/track/5FBS73j8hq7VwdyQiOfweK"
+      "duration_ms": 135013,
+      "name": "Miko",
+      "url": "https://open.spotify.com/track/0ITEio7vNOlNQrGv0eTaRH"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1075,6 +1055,26 @@
       "duration_ms": 219361,
       "name": "Soluci\u00f3n",
       "url": "https://open.spotify.com/track/7L2iH3hbDuMpxIwABcyHV9"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Gimnasta",
+        "url": "https://open.spotify.com/album/5p31Mq9lQGLUEfWhMMBSUp"
+      },
+      "artists": [
+        {
+          "name": "Xyron",
+          "url": "https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be"
+        },
+        {
+          "name": "Veterano Music",
+          "url": "https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT"
+        }
+      ],
+      "duration_ms": 175476,
+      "name": "Gimnasta",
+      "url": "https://open.spotify.com/track/5FBS73j8hq7VwdyQiOfweK"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Reggaet\u00f3n Sex",
+        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "Despu\u00e9s Del Party",
+      "url": "https://open.spotify.com/track/4AanOfVKkQKYRe4nbcaVaG"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
       },
@@ -1139,38 +1155,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Reggaet\u00f3n Sex",
-        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "Despu\u00e9s Del Party",
-      "url": "https://open.spotify.com/track/4AanOfVKkQKYRe4nbcaVaG"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "BRUJULA",
-        "url": "https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "BRUJULA",
-      "url": "https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 216576,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "BRUJULA",
+        "url": "https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "BRUJULA",
+      "url": "https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Mi Vicio",
+        "url": "https://open.spotify.com/album/1amIwstC3mDDvcgCiew7zB"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 221428,
+      "name": "Mi Vicio",
+      "url": "https://open.spotify.com/track/67VUbFHrTusJgK0JOofLXU"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Tesoro M\u00edo",
         "url": "https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 242932,
       "name": "Tesoro M\u00edo",
       "url": "https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Mi Vicio",
-        "url": "https://open.spotify.com/album/1amIwstC3mDDvcgCiew7zB"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 221428,
-      "name": "Mi Vicio",
-      "url": "https://open.spotify.com/track/67VUbFHrTusJgK0JOofLXU"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Soy Lebron",
-        "url": "https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "Soy Lebron",
-      "url": "https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Problema",
         "url": "https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 225000,
       "name": "Problema",
       "url": "https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Soy Lebron",
+        "url": "https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "Soy Lebron",
+      "url": "https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Las Criaturas: El Regreso",
-        "url": "https://open.spotify.com/album/3dDKCvYJNViQvZTLMcNank"
+        "name": "Traficando",
+        "url": "https://open.spotify.com/album/4uTZikMbZ7sKhApOhIQGxQ"
       },
       "artists": [
         {
-          "name": "Sammy & Falsetto",
-          "url": "https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc"
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
         }
       ],
-      "duration_ms": 231827,
-      "name": "La Bebecita",
-      "url": "https://open.spotify.com/track/1ixrtbkdlkVQnYusBAsIBQ"
+      "duration_ms": 267633,
+      "name": "Traficando",
+      "url": "https://open.spotify.com/track/4SQ6Wf45YaLFBsXXPfvuNZ"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Traficando",
-        "url": "https://open.spotify.com/album/4uTZikMbZ7sKhApOhIQGxQ"
+        "name": "Las Criaturas: El Regreso",
+        "url": "https://open.spotify.com/album/3dDKCvYJNViQvZTLMcNank"
       },
       "artists": [
         {
-          "name": "Midnvght",
-          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+          "name": "Sammy & Falsetto",
+          "url": "https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc"
         }
       ],
-      "duration_ms": 267633,
-      "name": "Traficando",
-      "url": "https://open.spotify.com/track/4SQ6Wf45YaLFBsXXPfvuNZ"
+      "duration_ms": 231827,
+      "name": "La Bebecita",
+      "url": "https://open.spotify.com/track/1ixrtbkdlkVQnYusBAsIBQ"
     },
     {
       "added_at": "2023-06-09 02:27:24",

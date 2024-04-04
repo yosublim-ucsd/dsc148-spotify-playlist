@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 151140,
+  "num_followers": 151189,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzRkYTc3MGIwM2ZlNGJlNTY0MGVlYzg0ZmViNTY2Njk4Nzg0NzM0",
+  "snapshot_id": "MCwwNmE3NDFiMDI2ZTE0Y2Q3Y2YwYTM1YWI2ZjYxMmFkOWU4MGI4MTMz",
   "tracks": [
     {
       "added_at": "2024-03-11 10:01:59",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Un air de rien",
-        "url": "https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE"
-      },
-      "artists": [
-        {
-          "name": "Trois Caf\u00e9s Gourmands",
-          "url": "https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "\u00c0 nos souvenirs",
-      "url": "https://open.spotify.com/track/3LgrzjwX7RVTtAX9Ai12Qm"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "La vingtaine",
         "url": "https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 176786,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Un air de rien",
+        "url": "https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE"
+      },
+      "artists": [
+        {
+          "name": "Trois Caf\u00e9s Gourmands",
+          "url": "https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO"
+        }
+      ],
+      "duration_ms": 192989,
+      "name": "\u00c0 nos souvenirs",
+      "url": "https://open.spotify.com/track/3LgrzjwX7RVTtAX9Ai12Qm"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -363,26 +363,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Le chemin",
-        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        },
-        {
-          "name": "Sita",
-          "url": "https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF"
-        }
-      ],
-      "duration_ms": 210706,
-      "name": "Le chemin (feat. Sita)",
-      "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "\u00e0 2 \u00e0 3",
         "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 180745,
       "name": "Comment on fait",
       "url": "https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Le chemin",
+        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        },
+        {
+          "name": "Sita",
+          "url": "https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF"
+        }
+      ],
+      "duration_ms": 210706,
+      "name": "Le chemin (feat. Sita)",
+      "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "D\u00e9cembre en \u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/34FJDy2QrV2gMESfcL2Kxf"
+        "name": "Vari\u00e9ty",
+        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
       },
       "artists": [
         {
-          "name": "Da Silva",
-          "url": "https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X"
+          "name": "Les Rita Mitsouko",
+          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
         }
       ],
-      "duration_ms": 185065,
-      "name": "L'ind\u00e9cision",
-      "url": "https://open.spotify.com/track/41zrRHYHY72LCf2hzaK18z"
+      "duration_ms": 219933,
+      "name": "Ding Dang Dong (Ringing at Your Bell)",
+      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Vari\u00e9ty",
-        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
+        "name": "D\u00e9cembre en \u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/34FJDy2QrV2gMESfcL2Kxf"
       },
       "artists": [
         {
-          "name": "Les Rita Mitsouko",
-          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
+          "name": "Da Silva",
+          "url": "https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X"
         }
       ],
-      "duration_ms": 219933,
-      "name": "Ding Dang Dong (Ringing at Your Bell)",
-      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
+      "duration_ms": 185065,
+      "name": "L'ind\u00e9cision",
+      "url": "https://open.spotify.com/track/41zrRHYHY72LCf2hzaK18z"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Regagner Les Plaines",
-        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
-      },
-      "artists": [
-        {
-          "name": "Pow Wow",
-          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Le lion est mort ce soir",
-      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "L'instant d'apr\u00e8s",
         "url": "https://open.spotify.com/album/3teDBI5npi3hDWJ8zyFdv9"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 217186,
       "name": "Mourir demain",
       "url": "https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Regagner Les Plaines",
+        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
+      },
+      "artists": [
+        {
+          "name": "Pow Wow",
+          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Le lion est mort ce soir",
+      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "40 succ\u00e8s en or",
-        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        }
-      ],
-      "duration_ms": 448906,
-      "name": "Gigi l'amoroso",
-      "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "La femme id\u00e9ale",
         "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 222413,
       "name": "Nous deux contre le reste du monde",
       "url": "https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "40 succ\u00e8s en or",
+        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "duration_ms": 448906,
+      "name": "Gigi l'amoroso",
+      "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
     },
     {
       "added_at": "2024-03-11 10:01:59",

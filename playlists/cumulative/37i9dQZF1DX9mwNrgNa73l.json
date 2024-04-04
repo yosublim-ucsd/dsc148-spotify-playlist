@@ -1955,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "Main Sadqay Ya Rasool Allah",
+        "url": "https://open.spotify.com/album/7yp5ubUkdCjgXBOAqnI6hM"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Main Sadqay Ya Rasool Allah",
+      "url": "https://open.spotify.com/track/4Aw75bqRkCO3Y1IOdGB03h"
+    },
+    {
+      "album": {
         "name": "Coke Studio: Season 8",
         "url": "https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B"
       },

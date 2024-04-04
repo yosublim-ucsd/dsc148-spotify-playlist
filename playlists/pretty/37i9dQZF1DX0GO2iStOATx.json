@@ -1,15 +1,15 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 132502,
+  "num_followers": 132677,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTVlOTJhODFmNzE5YTI3MDI4OGQ5NjQzNDQ3NjQzYWQxYjU0MDkx",
+  "snapshot_id": "MCw4OGMwMzg0NTE4Nzc5YmE2YjdlODFmNzExZjE4OTJiZWY4MjBhOTVk",
   "tracks": [
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Love Ya",
         "url": "https://open.spotify.com/album/74AG3N4OJWlJR19gRIEJyB"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4Vaa9Mq34xA9cSX8B7PtCN"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
@@ -45,7 +45,47 @@
       "url": "https://open.spotify.com/track/23YGhMVq1wJYROCp2kr8yP"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
+      "album": {
+        "name": "Khutti",
+        "url": "https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 132771,
+      "name": "Khutti",
+      "url": "https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj"
+    },
+    {
+      "added_at": "2024-04-03 10:08:03",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "duration_ms": 151989,
+      "name": "Jatt Vailly",
+      "url": "https://open.spotify.com/track/18kRElgBSIAsd3DHPUajuI"
+    },
+    {
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Namaste England (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB"
@@ -69,27 +109,7 @@
       "url": "https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
-        }
-      ],
-      "duration_ms": 151989,
-      "name": "Jatt Vailly",
-      "url": "https://open.spotify.com/track/18kRElgBSIAsd3DHPUajuI"
-    },
-    {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Palpita",
         "url": "https://open.spotify.com/album/603fRSffKcKusaqnmhXos5"
@@ -109,7 +129,7 @@
       "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Jab Harry Met Sejal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E"
@@ -133,7 +153,7 @@
       "url": "https://open.spotify.com/track/5fuXyn3OBdYnGmgncTLUiE"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Collaborations 3",
         "url": "https://open.spotify.com/album/2HRpBMvcjiglPyFuiyVabR"
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/track/2MIlXiV4IGhkcjhfc52xme"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
@@ -173,7 +193,7 @@
       "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
@@ -197,23 +217,7 @@
       "url": "https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
-      "album": {
-        "name": "Drive Thru",
-        "url": "https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W"
-    },
-    {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
@@ -233,7 +237,23 @@
       "url": "https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
+      "album": {
+        "name": "Drive Thru",
+        "url": "https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W"
+    },
+    {
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
@@ -265,7 +285,7 @@
       "url": "https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
@@ -281,7 +301,7 @@
       "url": "https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Drive Thru",
         "url": "https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78"
@@ -297,7 +317,7 @@
       "url": "https://open.spotify.com/track/3mZLiEDAHIjZ8ms5Lxq33F"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Jind Mahi",
         "url": "https://open.spotify.com/album/3wvRXgcVOfuAktwk0i0peU"
@@ -313,7 +333,7 @@
       "url": "https://open.spotify.com/track/3SJVCbBFTxR6UvvTWRNbMp"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/7krGSbOnw13S7tIpgVEWAo"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Do You Know",
         "url": "https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/7fYE7BT9Na8XpALQwuhIwX"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
@@ -393,7 +413,7 @@
       "url": "https://open.spotify.com/track/5wiSbeDm2p5yniuus7eH4J"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/3O4pPBep2Rzn6KS2iqdrin"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Con.Fi.Den.Tial",
         "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
@@ -437,7 +457,7 @@
       "url": "https://open.spotify.com/track/5dUpL1UYXkjXqf55FrBLgr"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Chauffeur",
         "url": "https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/6yAwGkkTU4q4vkgufzOVXH"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/2Ny0SqN4HHB7nfdre6YlDb"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Muchh",
         "url": "https://open.spotify.com/album/6Tu3rISlgcL1tjBLb3jmuS"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/3m3uKnTWKAPlnfggqVsIOq"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
@@ -525,7 +545,7 @@
       "url": "https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Roar",
         "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
@@ -541,7 +561,7 @@
       "url": "https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/5Yl8tuE1kBsLK4PaSN8Vfm"
@@ -565,7 +585,7 @@
       "url": "https://open.spotify.com/track/7HWMIRSmUrhlbveXerIEWk"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/2fH3WsTNUlnGqcXwuu7aTx"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
@@ -601,7 +621,7 @@
       "url": "https://open.spotify.com/track/6jEpoHPMVryUcmLOJr5H2l"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
@@ -617,7 +637,7 @@
       "url": "https://open.spotify.com/track/6jJ75TzzADszxOwKyJbyAl"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
@@ -637,7 +657,7 @@
       "url": "https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
@@ -657,7 +677,7 @@
       "url": "https://open.spotify.com/track/2CHMiZynW2WhXSizjcs9R5"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
@@ -677,7 +697,7 @@
       "url": "https://open.spotify.com/track/7ABCuDLEY2GyAwnGcqkmt2"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Umbrella",
         "url": "https://open.spotify.com/album/3S3ekcemSjVZ6Pi3ojBEhq"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/7fBeejW1BoZFTd4hTP6JvV"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
@@ -717,7 +737,7 @@
       "url": "https://open.spotify.com/track/2EU4dEMDrPS1hwLSxk6PZ7"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Con.Fi.Den.Tial",
         "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
@@ -741,7 +761,7 @@
       "url": "https://open.spotify.com/track/0yYikBy6sQAI3n6QbQPYw5"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/39pjjDG9o44eDjkM4BPdiG"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "What Ve",
         "url": "https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi"
@@ -777,7 +797,7 @@
       "url": "https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
@@ -817,7 +837,7 @@
       "url": "https://open.spotify.com/track/45FFMb6wv36U1xduNY6TyO"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "El Sue\u00f1o (feat. Tru-Skool)",
         "url": "https://open.spotify.com/album/0O6WVv0kgaPZdKTMap1DhY"
@@ -837,7 +857,7 @@
       "url": "https://open.spotify.com/track/4xxLLbEcA3mMwpzvBWjVTR"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
@@ -857,7 +877,7 @@
       "url": "https://open.spotify.com/track/45IjJhFxThn3MhC4NQsLpz"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Welcome to My Hood",
         "url": "https://open.spotify.com/album/1eIdNQUDw6dlSpMBoRXzIK"
@@ -873,7 +893,7 @@
       "url": "https://open.spotify.com/track/1T5mAjBkpuczG5H6yUcSB4"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
@@ -889,7 +909,7 @@
       "url": "https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
@@ -909,7 +929,7 @@
       "url": "https://open.spotify.com/track/1fvzAz230Q0Uzl5k3plxYg"
     },
     {
-      "added_at": "2024-01-30 06:53:02",
+      "added_at": "2024-04-03 10:08:03",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
@@ -927,22 +947,6 @@
       "duration_ms": 148619,
       "name": "Icon",
       "url": "https://open.spotify.com/track/4OmhUrKAKTBxdvscSfx1gp"
-    },
-    {
-      "added_at": "2024-01-30 06:53:02",
-      "album": {
-        "name": "MoonChild Era",
-        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 158513,
-      "name": "Cali",
-      "url": "https://open.spotify.com/track/2OXUK0Lwgv5Y9M5m8bI9Af"
     }
   ],
   "unique_name": "This Is Diljit Dosanjh",

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,728 songs - 1 day 11 hr 53 min
+1,733 songs - 1 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Afterglow](https://open.spotify.com/track/2U2h2xxuq4yW2muU57miWC) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Afterglow](https://open.spotify.com/album/3wI9lnREm7istVGmbX00TC) | 1:45 | 2022-01-12 | 2024-01-30 |
 | [Afternoon Cello Improvisation](https://open.spotify.com/track/2fcjMbJhOhnq2acUprIn2n) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Valley Of Love](https://open.spotify.com/album/2e6cK3ZQOMStRcCe3GsMkL) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Afternoon Glory](https://open.spotify.com/track/601pR2fAkD9Oil1Uoe5H5j) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Deep Inspiration](https://open.spotify.com/album/7LzslyJIxxDQ0Nqg0rGOaG) | 1:02 | 2022-05-11 |  |
+| [Afternoon Glow](https://open.spotify.com/track/3ladifvlLT6GG5pWOYwo3x) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Afternoon Glow](https://open.spotify.com/album/60lNOgDDlL85ztliH94QlI) | 1:00 | 2024-04-03 |  |
 | [Afternoon Mist Arr\. For Cello And Piano](https://open.spotify.com/track/2p5Q9rgq3EYlqN7wlM60qC) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Two Cello Preludes](https://open.spotify.com/album/3H8S5mlfUZPgVzUoRbNhYw) | 1:00 | 2023-04-19 | 2024-02-13 |
 | [Afternoon Reflections \- Cello Version](https://open.spotify.com/track/3nqTUSmf1YXPy5KQ9QTpLR) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Echoes In Time \(Cello Version\)](https://open.spotify.com/album/2sELlm2BckpPszTqN2H4BY) | 1:03 | 2022-02-17 | 2024-02-13 |
 | [Afternoon Solace Arr\. For Cello](https://open.spotify.com/track/52AbiUdhORKfAEgyhp1ZO0) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Afternoon Solace](https://open.spotify.com/album/1LjSV89WsvTWwoaHg2Jfm9) | 1:01 | 2023-04-19 | 2024-02-13 |
@@ -292,6 +293,7 @@
 | [Candlelight Moment](https://open.spotify.com/track/3i7FowRAW6yxHbSaLbE0Er) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:01 | 2023-12-23 | 2024-01-30 |
 | [Candles](https://open.spotify.com/track/2YFNDBmx785ZpzBtmtWvmw) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Healing Times](https://open.spotify.com/album/6qdmuTYMx38tROfSOPMHL7) | 1:28 | 2022-01-20 |  |
 | [Candles In The Field Arr\. For Cello And Harp](https://open.spotify.com/track/5QaOEgtco40WNXmhXTXdVc) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Above](https://open.spotify.com/album/4RJtJ6A1hf8l2zVxDzNcRQ) | 1:02 | 2024-02-09 | 2024-02-13 |
+| [Canyon](https://open.spotify.com/track/1MJz3X5117Bt9Vpe1fW0zr) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Canyon](https://open.spotify.com/album/7AXpy6zqj7FwP6TgKQ2DB4) | 1:00 | 2024-04-03 |  |
 | [Cardinal](https://open.spotify.com/track/6XSTU9Mce5LzlNv1kcb6Md) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Daydreaming](https://open.spotify.com/album/72T026EJN1ZCBM10yJ6Nb8) | 1:18 | 2024-01-29 |  |
 | [Cardinal \- Revisited Strings Version](https://open.spotify.com/track/657UOQReYCHbcoYOgxvFoF) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Cardinal \(Revisited Strings Version\)](https://open.spotify.com/album/0NJSFooKCb92m3NdpJYjw3) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Cardinal \- Strings Version](https://open.spotify.com/track/7Au3AiCioeiS307vGswQ8U) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Morning Solitude \(Strings Version\)](https://open.spotify.com/album/4Ezegn2rN1CtOdJzqJT1lG) | 1:10 | 2024-02-09 | 2024-02-13 |
@@ -503,6 +505,7 @@
 | [Etiquette](https://open.spotify.com/track/0w5IxASdcsL3cm5hgdmZl0) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK), [Brique a Braq](https://open.spotify.com/artist/5SkCoDbdYJn9RkWHTa1CUF) | [Etiquette](https://open.spotify.com/album/6YotdvtodHrZbDsNxOJZgl) | 2:30 | 2022-01-12 | 2023-04-09 |
 | [Evanescent](https://open.spotify.com/track/46b5bZRYrsyWXxVjzHD4QB) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Evanescent](https://open.spotify.com/album/5C41RQX8jeD0usLx7kA1wD) | 1:49 | 2022-01-12 | 2024-01-30 |
 | [Evening](https://open.spotify.com/track/65Ave83Qf1luH6FKecLRbf) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Evening](https://open.spotify.com/album/6kHkyVV09Xh0k47wIxMEny) | 1:00 | 2024-04-02 |  |
+| [Evening \- Ambient Harp Version](https://open.spotify.com/track/0AfqS1K7rKMVuP95eH5Okn) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Evening \(Ambient Harp Version\)](https://open.spotify.com/album/6tmxePwuL6wsJxJZ9TYCW9) | 1:00 | 2024-04-03 |  |
 | [Evening Meditation](https://open.spotify.com/track/4bRGUQP2Vx68zL3XCBPEIL) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios](https://open.spotify.com/album/3W0i0ISKNweZGXfbsCwJRH) | 1:22 | 2022-01-20 |  |
 | [Evening Mist](https://open.spotify.com/track/5EHS7TNb51pUSDKuUbhKZy) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Memory](https://open.spotify.com/album/7kE0OegnxT0EQeo3gRCEeK) | 1:19 | 2022-01-12 |  |
 | [Evening Romance](https://open.spotify.com/track/55w7GFVHcXBLA1tGiG7CML) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Evening Romance](https://open.spotify.com/album/45pj45Tr07gJmcZEKervQ2) | 1:00 | 2024-02-09 | 2024-02-13 |
@@ -1312,6 +1315,8 @@
 | [Shadowdance Arr\. for Solo Piano](https://open.spotify.com/track/3ryyxf8Qt4MNxJi0TpW24R) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Shadowdance Arr\. for Solo Piano](https://open.spotify.com/album/3d213Py7F5y74Ij3ghPOoZ) | 1:23 | 2022-01-12 | 2024-01-30 |
 | [Shadows In Dreams \- Cello Version](https://open.spotify.com/track/7wwGOTjgsUO60tbsHiEqVn) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Shadows In Dreams](https://open.spotify.com/album/3t1My9kERJyRShZMqECMzy) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Shadows In Dreams Arr\. For Strings](https://open.spotify.com/track/58Ylc6oh0YNvQbG44sz7nJ) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Shadows In Dreams Arr\. For Strings](https://open.spotify.com/album/19LCcS3JEUQgpnQG4r4fG2) | 1:00 | 2024-02-09 | 2024-02-13 |
+| [Shine](https://open.spotify.com/track/6onruzvKY75iuYHfIWJZDB) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Shine](https://open.spotify.com/album/0WkK54PtjRNnzOPnC4dVM6) | 1:00 | 2024-04-03 |  |
+| [Shine \- Ambient Harp Version](https://open.spotify.com/track/0GqNZPIW9Cy7qRL0nn3OPw) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Shine \(Ambient Harp Version\)](https://open.spotify.com/album/4EOCmmEoXL5qVZQvt60a1B) | 1:00 | 2024-04-03 |  |
 | [Shoreline Light](https://open.spotify.com/track/1VEnY2NHbvyRafSKpTGpGc) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Love And Light](https://open.spotify.com/album/7JN0UxwNpKDr5von6mV6hm) | 1:04 | 2022-01-12 |  |
 | [Short Embrace \- Strings Version](https://open.spotify.com/track/6ME5EmG6rZ0El4YCLCI9Fh) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Silent Sunset, Vol\. 2 \(Strings Version\)](https://open.spotify.com/album/3LQhrHUYb4EsaVfYxK3fju) | 1:07 | 2024-02-09 | 2024-02-13 |
 | [Si Bheag Si Mhor Arr\. For Cello And Harp](https://open.spotify.com/track/5iBuy5uyPlhhDmYzQB8rDQ) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Si Bheag Si Mhor Arr\. For Cello And Harp](https://open.spotify.com/album/4JvZ6lYlFBrldf7jRzMJnN) | 1:07 | 2024-02-09 | 2024-02-13 |

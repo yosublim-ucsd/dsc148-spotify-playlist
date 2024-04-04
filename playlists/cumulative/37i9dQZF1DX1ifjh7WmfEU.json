@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 124175,
       "name": "A Quiet Triumph",
       "url": "https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 187250,
       "name": "Connemara",
       "url": "https://open.spotify.com/track/7JinB2F0516WbcPMtFepu6"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 188500,
       "name": "Days Gone By",
       "url": "https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 167124,
       "name": "Don't Ever Say Goodbye",
       "url": "https://open.spotify.com/track/0y35Vf7XEzB9wZUhDXrmR5"
@@ -959,6 +959,42 @@
     },
     {
       "album": {
+        "name": "En puntillas",
+        "url": "https://open.spotify.com/album/5yUhg7eNWeU0gIMqYo3hjf"
+      },
+      "artists": [
+        {
+          "name": "Lester Dann",
+          "url": "https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161570,
+      "name": "En puntillas",
+      "url": "https://open.spotify.com/track/2wH4Unaz3UvFC1rRDh0OQD"
+    },
+    {
+      "album": {
+        "name": "Endlich",
+        "url": "https://open.spotify.com/album/6EYlet7J4aCY3zTqqhl8eB"
+      },
+      "artists": [
+        {
+          "name": "Arata Rin",
+          "url": "https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130246,
+      "name": "Endlich",
+      "url": "https://open.spotify.com/track/0QzBw7xBO5q6plc8hX5z7B"
+    },
+    {
+      "album": {
         "name": "Ensamma n\u00e4tter",
         "url": "https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo"
       },
@@ -988,7 +1024,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 171125,
       "name": "Epenthesis",
       "url": "https://open.spotify.com/track/1n4aWKep4lJeeDMkmkfJav"
@@ -1442,7 +1478,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 143480,
       "name": "Glourious",
       "url": "https://open.spotify.com/track/3AjIuQRx278sErh7B9knpS"
@@ -1622,7 +1658,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 195648,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/2zPRHgX9cIOMaV7dX23miR"
@@ -1958,7 +1994,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 123115,
       "name": "Insouciance",
       "url": "https://open.spotify.com/track/5iXYIu04vkN1pT11qqKBM9"
@@ -1994,7 +2030,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 170124,
       "name": "Isle of Arran",
       "url": "https://open.spotify.com/track/2VKWrVYPGgJzBmRGc8LWkh"
@@ -2030,7 +2066,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 140000,
       "name": "Keepsake",
       "url": "https://open.spotify.com/track/3kInd0TVmBr2TaumXmTZbN"
@@ -2084,7 +2120,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 174000,
       "name": "Larks",
       "url": "https://open.spotify.com/track/0DCuRxadki9VQU5pskJrUG"
@@ -2433,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Morning Dance",
+        "url": "https://open.spotify.com/album/1ZzkGbQU5HNjb7CdNCjEOI"
+      },
+      "artists": [
+        {
+          "name": "Lisa Kriegler",
+          "url": "https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184035,
+      "name": "Morning Dance",
+      "url": "https://open.spotify.com/track/1VVuP4EiUrFa3C0qHHe0rX"
+    },
+    {
+      "album": {
         "name": "Morning Stroll",
         "url": "https://open.spotify.com/album/6iovmi4dOraYV7GiOP4Chl"
       },
@@ -2750,7 +2804,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 143750,
       "name": "Pauls Way",
       "url": "https://open.spotify.com/track/2CPb3HzkSrQFhOjGBEoV0t"
@@ -2775,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "Perfect Harmony",
+        "url": "https://open.spotify.com/album/23KeTMc8a6i9DWgoPGYEQN"
+      },
+      "artists": [
+        {
+          "name": "Figaro Castello",
+          "url": "https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148439,
+      "name": "Perfect Harmony",
+      "url": "https://open.spotify.com/track/7laFvA0QhxAeJhRRqzFWTg"
+    },
+    {
+      "album": {
         "name": "Placidity",
         "url": "https://open.spotify.com/album/4qGUtb48292vSAyProSG9H"
       },
@@ -2786,7 +2858,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 169385,
       "name": "Placidity",
       "url": "https://open.spotify.com/track/5wcgCvE1hRAhczfhjOHTXI"
@@ -2822,7 +2894,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 137645,
       "name": "Prime",
       "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
@@ -3038,7 +3110,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 127820,
       "name": "Sans Toi",
       "url": "https://open.spotify.com/track/04uVxAxx6QvPQzfuLv5A6P"
@@ -3344,7 +3416,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 136691,
       "name": "Softly Spoken",
       "url": "https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ"
@@ -3704,7 +3776,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 127582,
       "name": "Time Will Tell",
       "url": "https://open.spotify.com/track/6G0iS7Lf08bZgjrdV1aRZ2"
@@ -3744,7 +3816,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 150951,
       "name": "Tra Di Noi",
       "url": "https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL"
@@ -3816,7 +3888,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 154000,
       "name": "Undisturbed",
       "url": "https://open.spotify.com/track/2sDskIxP9gdYKo0L2WCBLR"
@@ -3852,7 +3924,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 152780,
       "name": "Une histoire d\u2019amour",
       "url": "https://open.spotify.com/track/1RfSykRvuEDqTUimaVE64E"

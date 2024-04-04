@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,898 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,952 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 4 | [A Pair of Brown Eyes](https://open.spotify.com/track/32soEc9h0wDy1BEjV5egeh) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 5:01 |
 | 5 | [Follow Me Up To Carlow](https://open.spotify.com/track/2b6ulXSZpOwY7kwm6qKzQw) | [Planxty](https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c) | [Planxty](https://open.spotify.com/album/43TF1LRa7kmO7XzJmWcehP) | 2:24 |
 | 6 | [I'll Tell Me Ma](https://open.spotify.com/track/4KXFnl9HQGZmY0khO5EuMh) | [The Dicey Rileys](https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD) | [The Craic Is Mighty](https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt) | 2:12 |
-| 7 | [Paddle Me Own Canoe](https://open.spotify.com/track/0AX7y4GEcZHOSaFp2vPdKM) | [Waxies Dargle](https://open.spotify.com/artist/6XyWSrfIUyLVu2htZ0w8VH) | [Irish Drinking Songs Vol 1](https://open.spotify.com/album/5dlpSuvg8hvJAgoeYnisp0) | 2:47 |
-| 8 | [Botany Bay \(arr\. N\. McLoughlin\)](https://open.spotify.com/track/2jn9b9n7pIPCctswaTrvDq) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Noel McLoughlin Group](https://open.spotify.com/artist/3X06t2DWR44EmCpR0AX8gx) | [20 Best Irish Pub Songs](https://open.spotify.com/album/1bse1I86JVJ2edZUa55xXl) | 2:41 |
+| 7 | [Botany Bay \(arr\. N\. McLoughlin\)](https://open.spotify.com/track/2jn9b9n7pIPCctswaTrvDq) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Noel McLoughlin Group](https://open.spotify.com/artist/3X06t2DWR44EmCpR0AX8gx) | [20 Best Irish Pub Songs](https://open.spotify.com/album/1bse1I86JVJ2edZUa55xXl) | 2:41 |
+| 8 | [Paddle Me Own Canoe](https://open.spotify.com/track/0AX7y4GEcZHOSaFp2vPdKM) | [Waxies Dargle](https://open.spotify.com/artist/6XyWSrfIUyLVu2htZ0w8VH) | [Irish Drinking Songs Vol 1](https://open.spotify.com/album/5dlpSuvg8hvJAgoeYnisp0) | 2:47 |
 | 9 | [Molly Malone](https://open.spotify.com/track/6K5kPhYPbLNkkdyvyjzP3t) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Best Of The Dubliners](https://open.spotify.com/album/14p25ZN9xDdhJP5Vkn1NG1) | 2:58 |
 | 10 | [As I Roved Out](https://open.spotify.com/track/15oMf5nmBRkBNfSzxLyQ3f) | [The High Kings](https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0) | [Memory Lane](https://open.spotify.com/album/1qaEHYE8Li6SKfLF6m1XDo) | 3:31 |
 | 11 | [The Bright Side of the Moon](https://open.spotify.com/track/4Mz9saLVP35oxyLpizLIq5) | [Cyril O Donoghue](https://open.spotify.com/artist/6WBavOkLualW4j6VU1orFR) | [Irish Folk At Its Best](https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz) | 3:47 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 44 | [Unicorns](https://open.spotify.com/track/3mXRtbjwXvsTn51lGMqOn9) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [Music & Ballads from Ireland](https://open.spotify.com/album/22UCiw5HAWZ8LTllg2hCvl) | 3:36 |
 | 45 | [Mickey Free / The Mountain Road](https://open.spotify.com/track/1RTQrYRpSrot2VlSzbdarw) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:55 |
 | 46 | [Road to Granard / Gallagher's Frolics / Out on the Ocean](https://open.spotify.com/track/7DyemM63ebf7A8Xr1XbDra) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Janet Sutton](https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:18 |
-| 47 | [Roseville Fair](https://open.spotify.com/track/6Tc4EflXu4AyHPkY9iMuHQ) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Denis Carey](https://open.spotify.com/artist/4dDlG6nuYNnruh0tdGvzkY) | [Home Is the Rover](https://open.spotify.com/album/0hFiauwFSsPWXQyzv29SRU) | 4:16 |
-| 48 | [Dublin in the Rare Old Times](https://open.spotify.com/track/6cUmT8gumNhb2Y9GOghnmh) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [20 Best Irish Songs](https://open.spotify.com/album/6wyX3vo0E5pKCKaRECy0SQ) | 4:24 |
+| 47 | [Dublin in the Rare Old Times](https://open.spotify.com/track/6cUmT8gumNhb2Y9GOghnmh) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [20 Best Irish Songs](https://open.spotify.com/album/6wyX3vo0E5pKCKaRECy0SQ) | 4:24 |
+| 48 | [Roseville Fair](https://open.spotify.com/track/6Tc4EflXu4AyHPkY9iMuHQ) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Denis Carey](https://open.spotify.com/artist/4dDlG6nuYNnruh0tdGvzkY) | [Home Is the Rover](https://open.spotify.com/album/0hFiauwFSsPWXQyzv29SRU) | 4:16 |
 | 49 | [The Man for Galway / The Rambling Pitchfork](https://open.spotify.com/track/07WFpOcyzgSCAJ6LUMK2Cv) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:57 |
 | 50 | [The Month of January](https://open.spotify.com/track/5NLhEltFqmzlXx6erUdGyj) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:42 |
 
-Snapshot ID: `MCxkMmVmYTg2MDA3YmVlNmU3ZTJiZmRiMTk3ZWE2OTM4ZWU4ZTQ3MDFm`
+Snapshot ID: `MCxjOTg0ZjdmYTNlMWQ5NTRhZGUyMjZlMDg1YzRjZjQ5MTkxM2FkZjdl`

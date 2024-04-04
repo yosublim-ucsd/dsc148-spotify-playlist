@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 30984,
+  "num_followers": 31010,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTExYzVmZTE0YTMxNTMxY2Q3MWM3MjE3YWMwOTFhNzZjYmViNTcz",
+  "snapshot_id": "MCw5MzllZDNkMjg0NjFkMjNhODRlZGIyMTc2ZjQ0MTRkNjBjNDYwMzhi",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -571,22 +571,18 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "It's Not Over",
-        "url": "https://open.spotify.com/album/6qPfheQDOnZDpViFsJIJ5t"
+        "name": "You Say (Acoustic)",
+        "url": "https://open.spotify.com/album/50JmQ36DRkjO60LXMOowYp"
       },
       "artists": [
         {
-          "name": "Gizzle",
-          "url": "https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq"
-        },
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
         }
       ],
-      "duration_ms": 211785,
-      "name": "It's Not Over",
-      "url": "https://open.spotify.com/track/36iivpdcpCQRjmcDHzJJep"
+      "duration_ms": 264324,
+      "name": "You Say (Acoustic)",
+      "url": "https://open.spotify.com/track/4edscO0eug8wJGZ5RkqqdW"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -607,18 +603,22 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "You Say (Acoustic)",
-        "url": "https://open.spotify.com/album/50JmQ36DRkjO60LXMOowYp"
+        "name": "It's Not Over",
+        "url": "https://open.spotify.com/album/6qPfheQDOnZDpViFsJIJ5t"
       },
       "artists": [
         {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+          "name": "Gizzle",
+          "url": "https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq"
+        },
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
         }
       ],
-      "duration_ms": 264324,
-      "name": "You Say (Acoustic)",
-      "url": "https://open.spotify.com/track/4edscO0eug8wJGZ5RkqqdW"
+      "duration_ms": 211785,
+      "name": "It's Not Over",
+      "url": "https://open.spotify.com/track/36iivpdcpCQRjmcDHzJJep"
     },
     {
       "added_at": "2023-02-18 06:22:02",

@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-821 songs - 2 day 3 hr 51 min
+824 songs - 2 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Detour Ahead](https://open.spotify.com/track/3RqG16FeaSRU1l3CRlRZxV) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Detour Ahead](https://open.spotify.com/album/3qH33VNF4bKmgjk9Y3BWk4) | 2:57 | 2023-08-17 |  |
 | [Dextereous](https://open.spotify.com/track/1Zait2JXHhKnnAhogy1pJJ) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Dextereous](https://open.spotify.com/album/0SH6CBD4cLzhVvElKEPMtE) | 3:08 | 2023-06-01 |  |
 | [Did you dream too](https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Did you dream too](https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg) | 3:40 | 2023-02-16 |  |
-| [Dietz Monnin](https://open.spotify.com/track/3qfCMfMSBnIv3jWvWR4J8D) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 2:21 | 2023-08-10 |  |
+| [Dietz Monnin](https://open.spotify.com/track/3qfCMfMSBnIv3jWvWR4J8D) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 2:21 | 2023-08-10 | 2024-04-04 |
 | [Dimness](https://open.spotify.com/track/5IVl86u3PwXeo73x3tFBEh) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Dimness](https://open.spotify.com/album/5gcieuuevVgn5pfCTix7lO) | 3:19 | 2024-02-23 |  |
 | [Dipping Birds](https://open.spotify.com/track/3JtvojpnCGBLdalXoPpw4l) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Dipping Birds](https://open.spotify.com/album/2HpAQ9RPhao2ErPp3LLlGx) | 3:14 | 2022-11-17 |  |
 | [Distractions](https://open.spotify.com/track/34LqEe9GAniMgCJgN7jQzW) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Distractions](https://open.spotify.com/album/1Wgg5pGImhtCo9FJ3qGtGA) | 3:56 | 2023-06-01 |  |
@@ -289,6 +289,7 @@
 | [Hope Street](https://open.spotify.com/track/5HGFH6PbfBWcetcRgUHHKK) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Hope Street](https://open.spotify.com/album/5mcyj4rb0b0v54jUK9EOcR) | 2:28 | 2023-11-17 |  |
 | [How About You](https://open.spotify.com/track/4tVteS21UzbqesfNG7uT8D) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [How About You](https://open.spotify.com/album/5DUxax2EBK8DvoRMmiEi7m) | 3:22 | 2023-10-13 |  |
 | [How Long Have I Waited?](https://open.spotify.com/track/1NcO5gArgmWrwUH0LfmKqW) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [Bittersweet](https://open.spotify.com/album/6gkJFEs7AFfAMVgOJ8eaR5) | 3:11 | 2023-10-27 |  |
+| [How She Walks](https://open.spotify.com/track/1OsZpyWuQeukRtfB9U8Tmk) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [How She Walks](https://open.spotify.com/album/3MJxreK1iSr3LH02oElQkp) | 4:39 | 2024-04-02 |  |
 | [I awake](https://open.spotify.com/track/6AianoPQwgFLarNY5s3ntc) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [I awake](https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q) | 4:05 | 2023-06-01 |  |
 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2022-11-24 |  |
 | [I Cover The Waterfront](https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Gettin' Together!](https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB) | 4:05 | 2022-01-26 |  |
@@ -376,7 +377,7 @@
 | [Journee](https://open.spotify.com/track/7xrFuH4mvXuM3JqVA3dRWi) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Journee](https://open.spotify.com/album/2NFTbliyRp1FhC7gmJRzLa) | 3:38 | 2023-08-10 |  |
 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 | 2023-05-04 |  |
 | [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-11-11 | 2023-01-20 |
-| [Just A Gigolo](https://open.spotify.com/track/1S653s5e7kQV7MxIKZcCIc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:04 | 2021-12-16 |  |
+| [Just A Gigolo](https://open.spotify.com/track/1S653s5e7kQV7MxIKZcCIc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:04 | 2021-12-16 | 2024-04-04 |
 | [Keeping Records](https://open.spotify.com/track/03gAqGt9brarmfmF0xJNBr) | [Gaige Myers](https://open.spotify.com/artist/5pMpBcYLGkbPYrVoe8SbbE) | [Keeping Records](https://open.spotify.com/album/3sVOt2neHbez0mTDaRrvX7) | 3:41 | 2024-01-05 |  |
 | [Kept running](https://open.spotify.com/track/6Ov3Bass8w3RrtUBX7T7xe) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Kept running](https://open.spotify.com/album/0SUlahoWIHJC4g0obxjHtt) | 2:44 | 2023-06-01 |  |
 | [Kingfisher](https://open.spotify.com/track/64w7l0VwTdnnoYvvIRoQ77) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Kingfisher](https://open.spotify.com/album/4qKUJXT0d7Sbn9Of1CwHGY) | 3:17 | 2023-06-01 |  |
@@ -558,6 +559,7 @@
 | [Quiet Now](https://open.spotify.com/track/1huvv8Z1AAnhA9yQhPs4Ac) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Quiet Now](https://open.spotify.com/album/2KxhaFZRnS27o7vFcMbJXG) | 2:47 | 2023-06-01 |  |
 | [Quiet Sunset](https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:27 | 2023-02-23 |  |
 | [Railroads](https://open.spotify.com/track/5psq4yZ6YgYMIWoBRbHyAJ) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Railroads](https://open.spotify.com/album/1jjA7Gk47CSNweHOZDK65v) | 3:30 | 2023-06-01 |  |
+| [Rain\-drenched](https://open.spotify.com/track/3pT9n3pNaP9371RS9cDl0V) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [Rain\-drenched](https://open.spotify.com/album/25DQxWoEwgcctdlW9wci4C) | 3:01 | 2024-04-02 |  |
 | [Red Roses](https://open.spotify.com/track/2bJ6vXeDbSvF2xngmc57UZ) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Red Roses](https://open.spotify.com/album/5Rz2VaBkjjV8gxfkBNycF8) | 2:48 | 2023-06-01 |  |
 | [Reflections in Blue](https://open.spotify.com/track/2vq1b2eqBWKZpxoVHECAGs) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Reflections in Blue](https://open.spotify.com/album/4y2Qcm0gdpw1ibhfj4QZD4) | 2:32 | 2023-09-22 |  |
 | [Remembering The Rain](https://open.spotify.com/track/3YMMHEfRPihLMV9L2BKrWT) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Remembering The Rain](https://open.spotify.com/album/1OIGPx7tRAreD3TfIVbMTT) | 3:22 | 2023-06-01 |  |
@@ -567,7 +569,7 @@
 | [Ribeira da Barca](https://open.spotify.com/track/3dyVfsrux5dQgrDxur7KFn) | [Mário Laginha](https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ) | [Jangada](https://open.spotify.com/album/2XD00ztTgSIRXGB0uxLgXG) | 5:13 | 2022-02-24 | 2022-11-11 |
 | [Right Or Wrong](https://open.spotify.com/track/0zs9711xhfumwBgJek5UHN) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Right Or Wrong](https://open.spotify.com/album/1OXyiyyrxclDaFNMiS4f3J) | 3:29 | 2022-11-17 |  |
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-11-11 |  |
-| [Road to Hana](https://open.spotify.com/track/0oGuIyOrGHKblKTlIm6IHz) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Road to Hana](https://open.spotify.com/album/2zCpyIiQxlJy8KerSpUS7H) | 2:50 | 2023-08-10 |  |
+| [Road to Hana](https://open.spotify.com/track/0oGuIyOrGHKblKTlIm6IHz) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Road to Hana](https://open.spotify.com/album/2zCpyIiQxlJy8KerSpUS7H) | 2:50 | 2023-08-10 | 2024-04-04 |
 | [Ruby My Dear](https://open.spotify.com/track/4UsWPDI7ztp83qi9QVLp0C) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Ruby My Dear](https://open.spotify.com/album/5oTmFu8GHDDeSIr1ui7opy) | 3:51 | 2023-03-16 |  |
 | [Rumours](https://open.spotify.com/track/4BGzJEHAeKKQTomYTveG9n) | [Zoe Rei](https://open.spotify.com/artist/6edzT8AseYcyi1yGJZXHdq) | [Rumours](https://open.spotify.com/album/3su5gCbreTh9gZXPGK0JLZ) | 3:20 | 2023-05-04 |  |
 | [Ruth's Theme](https://open.spotify.com/track/1bzYSxJAGfKdB3POuvBfrB) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Ruth's Theme](https://open.spotify.com/album/5JQoYZU0vfBT3N2IDdR6I8) | 2:51 | 2023-03-23 |  |
@@ -585,6 +587,7 @@
 | [Serenade In Blue](https://open.spotify.com/track/0CV4chKrc8YPkQZel7Oe88) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:53 | 2021-12-16 |  |
 | [Serendipity Swing](https://open.spotify.com/track/4nb9JJGOdtQ7CW5PsmkYUm) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Serendipity Swing](https://open.spotify.com/album/5A0C9HvLAYvLE4PY7PzHaY) | 4:12 | 2023-09-22 |  |
 | [Serenity](https://open.spotify.com/track/2tGKFU73szjdmXzUB1KSEJ) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [Serenity](https://open.spotify.com/album/4d0xgWR0gsa03s4t32TEqi) | 2:58 | 2024-02-23 |  |
+| [Serenity](https://open.spotify.com/track/3VoVHmxIT8vFcE8PNj0j12) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Serenity](https://open.spotify.com/album/7zqtkLCoo4YXpf0zTtkBQG) | 3:41 | 2024-04-02 |  |
 | [Seven Steps](https://open.spotify.com/track/2unapOMh63c9FDNQHskpGL) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [Seven Steps](https://open.spotify.com/album/2wL9qSFeIhYBfxfSFxJSqk) | 3:07 | 2023-09-29 |  |
 | [Shadow Play](https://open.spotify.com/track/1VLxIOjukOrzBwqL6mp9Q3) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Shadow Play](https://open.spotify.com/album/0FGaEv4Rl39dHICS8ioAIN) | 3:45 | 2024-01-05 |  |
 | [Shadows](https://open.spotify.com/track/08WnE2pJN9r7WirMgSFlJf) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Shadows](https://open.spotify.com/album/6F1iyLE5hOfOxYLBP0PUmZ) | 3:36 | 2023-01-19 |  |

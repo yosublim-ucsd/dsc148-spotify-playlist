@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Valiant",
-  "num_followers": 433720,
+  "num_followers": 433812,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGYzNTQ2NDMyOTcwYmRhZjE0OTRkM2ZkYjdmNmYzOTdjMTJmOWI3",
+  "snapshot_id": "MCwwNTdmYmQwMzEwYWY2NDI4MjhiOTNlMTBmNDVhZjY1OWNhMGJjZDI4",
   "tracks": [
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1227,18 +1227,22 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Dunce Cheque",
-        "url": "https://open.spotify.com/album/0hLZJMZkIlh0dSPO39HUWi"
+        "name": "Narcissistic",
+        "url": "https://open.spotify.com/album/6usBUly1OQm06qf4jY4FEz"
       },
       "artists": [
         {
           "name": "Valiant",
           "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Stalk Ashley",
+          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Dunce Cheque",
-      "url": "https://open.spotify.com/track/4ifFhV3uG87Gc00h5Gn3qp"
+      "duration_ms": 182857,
+      "name": "Narcissistic",
+      "url": "https://open.spotify.com/track/62gv0hzbDQGDD9fy8AHTtb"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1323,22 +1327,18 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
-        "name": "Narcissistic",
-        "url": "https://open.spotify.com/album/6usBUly1OQm06qf4jY4FEz"
+        "name": "Dunce Cheque",
+        "url": "https://open.spotify.com/album/0hLZJMZkIlh0dSPO39HUWi"
       },
       "artists": [
         {
           "name": "Valiant",
           "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "Stalk Ashley",
-          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Narcissistic",
-      "url": "https://open.spotify.com/track/62gv0hzbDQGDD9fy8AHTtb"
+      "duration_ms": 156000,
+      "name": "Dunce Cheque",
+      "url": "https://open.spotify.com/track/4ifFhV3uG87Gc00h5Gn3qp"
     },
     {
       "added_at": "2023-11-17 12:46:59",
@@ -1603,6 +1603,30 @@
     {
       "added_at": "2023-11-17 12:46:59",
       "album": {
+        "name": "One Day Riddim",
+        "url": "https://open.spotify.com/album/42WPGk6CaSkXm0iDBnRzGM"
+      },
+      "artists": [
+        {
+          "name": "Seanizzle",
+          "url": "https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Future Fambo",
+          "url": "https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI"
+        }
+      ],
+      "duration_ms": 135650,
+      "name": "Rum & RedBull",
+      "url": "https://open.spotify.com/track/2J49g2pq8WG0PP6m2GtzKU"
+    },
+    {
+      "added_at": "2023-11-17 12:46:59",
+      "album": {
         "name": "Oh No It's Red Rat",
         "url": "https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi"
       },
@@ -1635,30 +1659,6 @@
       "duration_ms": 287786,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5tLDX5Z50VZAvga5695enB"
-    },
-    {
-      "added_at": "2023-11-17 12:46:59",
-      "album": {
-        "name": "One Day Riddim",
-        "url": "https://open.spotify.com/album/42WPGk6CaSkXm0iDBnRzGM"
-      },
-      "artists": [
-        {
-          "name": "Seanizzle",
-          "url": "https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX"
-        },
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        },
-        {
-          "name": "Future Fambo",
-          "url": "https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI"
-        }
-      ],
-      "duration_ms": 135650,
-      "name": "Rum & RedBull",
-      "url": "https://open.spotify.com/track/2J49g2pq8WG0PP6m2GtzKU"
     },
     {
       "added_at": "2023-11-17 12:46:59",

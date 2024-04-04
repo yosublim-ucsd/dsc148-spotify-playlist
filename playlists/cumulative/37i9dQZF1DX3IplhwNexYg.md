@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Sløtface
 
-554 songs - 1 day 7 hr 14 min
+555 songs - 1 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 | 2022-10-06 |  |
 | [R Entertainment](https://open.spotify.com/track/2FL3nYZ8T0HmluyJx83FEL) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [R Entertainment](https://open.spotify.com/album/32RAzHZGl1TmEx6C24Cd5X) | 3:08 | 2022-04-01 | 2022-08-19 |
 | [R Entertainment](https://open.spotify.com/track/1kx7a4BiF5b0KH6pKLpwcJ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [R Entertainment](https://open.spotify.com/album/0AMdg90GRnvy0UFsvurqVI) | 3:09 | 2022-04-01 | 2022-07-29 |
+| [R&B](https://open.spotify.com/track/6yRsDLeo8qszcOS2u11ZDn) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [R&B](https://open.spotify.com/album/1fr1VcE4Jo3WoaUcOi7chU) | 2:48 | 2024-03-15 |  |
 | [Rabbit Hole](https://open.spotify.com/track/3KX5GDVzAly6OoH24OMKwU) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Rabbit Hole](https://open.spotify.com/album/3ZxC9jh02Nrvpo49frhUMR) | 4:28 | 2022-01-24 | 2022-03-11 |
 | [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 | 2023-08-11 | 2023-12-21 |
 | [Read Receipts](https://open.spotify.com/track/20AN26EiRdg6MUk5YeTaun) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [At Least I'm Free](https://open.spotify.com/album/3Clv75P0Uv9MDbHofO66VP) | 3:36 | 2022-08-18 | 2023-01-14 |
@@ -480,7 +481,7 @@
 | [Telephone](https://open.spotify.com/track/1TapKkIgVLZBijVOCD48nu) | [Annie Taylor](https://open.spotify.com/artist/3oR0fg4OcsTKOjVY17u1e0) | [Telephone](https://open.spotify.com/album/2NdLY5Txb89I9akMp1ktz4) | 2:48 | 2021-03-09 | 2022-01-17 |
 | [Texas](https://open.spotify.com/track/4HyH27bE1P1GU1zKQyaHlP) | [The Pink Slips](https://open.spotify.com/artist/6fkWlAAWpesLkdp4Cj88Ra) | [Trigger](https://open.spotify.com/album/7iXhqvDbb7s1gl6iknDZkn) | 3:15 | 2021-03-09 | 2022-01-17 |
 | [The Aftergone \(feat\. CLEWS\)](https://open.spotify.com/track/3VpeDsKDbBILjniX4y3rFA) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2), [CLEWS](https://open.spotify.com/artist/6cw5iGpmkR9dNaIZ85j8ya) | [The Aftergone \(feat\. CLEWS\)](https://open.spotify.com/album/2PI3lgEBf6tTcJlb0vMWlF) | 3:55 | 2021-07-16 | 2022-08-19 |
-| [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 | 2022-08-18 |  |
+| [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 | 2022-08-18 | 2024-04-04 |
 | [The Beach](https://open.spotify.com/track/1nPphsH386vi13IEenaQi0) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [The Beach](https://open.spotify.com/album/60fgp2GJAd5zdTelbURJSl) | 4:53 | 2023-07-13 | 2023-07-28 |
 | [The Cabin](https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [The Cabin](https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl) | 3:57 | 2023-08-10 | 2023-11-23 |
 | [The Dance You Sell](https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [The Dance You Sell](https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7) | 4:02 | 2022-10-13 | 2023-02-04 |

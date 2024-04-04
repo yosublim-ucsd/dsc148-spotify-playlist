@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: CYRIL
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,165 likes - 89 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,175 likes - 89 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 19 | [Monster](https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster](https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz) | 2:24 |
 | 20 | [Can't Let Go](https://open.spotify.com/track/2WpiqjVC1CP89KVQfxOfol) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Mother](https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I) | 3:59 |
 | 21 | [Incognito](https://open.spotify.com/track/4yjLAjbLSxD8JBuKB4bPlD) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Incognito](https://open.spotify.com/album/0NtHCfmvPFF1usQ8kpaSMF) | 4:01 |
-| 22 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
+| 22 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 |
 | 23 | [Anthem](https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Pony](https://open.spotify.com/artist/5YVzHQeLnRkEYK5T5XFQ0q) | [Anthem](https://open.spotify.com/album/6Syz5BAAt7sDWPKUSRVP7T) | 3:26 |
 | 24 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 |
 | 25 | [Riverside MF](https://open.spotify.com/track/3ptLW4fzupzNrzbO7Hneam) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [PAJANE](https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q) | [Riverside MF](https://open.spotify.com/album/7AD6baGevfjYSyirJ1inGZ) | 2:35 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 88 | [Touch \- Motez Remix](https://open.spotify.com/track/2K3Z6LLoOyjS9iCli8CcZN) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus Remixes Pt\. 1](https://open.spotify.com/album/44OfDdAkaGo5wLOAHFTO4a) | 5:13 |
 | 89 | [Drums \- Tita Lau & James Hype Remix](https://open.spotify.com/track/4eV5TQoPc0CrghBcj6AByW) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Remix Package\)](https://open.spotify.com/album/2df9ySxIlwdbyRlajvjCnP) | 2:38 |
 
-Snapshot ID: `MCxiMjExMjY2NGE4MjEzNTliNDcwZmU1YmY4MTNjNzcxYTkzZWExZmY3`
+Snapshot ID: `MCw1MjA5YzdmNDhjNTg2ZjMyMzNmZjg1MjA0ODIxM2QzOGVmYWQ5MzRj`

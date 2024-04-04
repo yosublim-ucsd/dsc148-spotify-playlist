@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1270061,
+  "num_followers": 1270038,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTExY2I3YjM2YTc1N2Q4ZTY4ZDg3OWJiMmFhMjI1NDc3OTNlZDk4",
+  "snapshot_id": "MCxiYWU3NDAyOWRhNWQ2NmY5MzYzZDBiOWNiMzMyYjJiMzAyMzU3NzZm",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "So Tonight That I Might See",
-        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
-      },
-      "artists": [
-        {
-          "name": "Mazzy Star",
-          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
-        }
-      ],
-      "duration_ms": 336760,
-      "name": "Into Dust",
-      "url": "https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Sleeping Operator",
         "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 230518,
       "name": "Even the Darkness Has Arms",
       "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "So Tonight That I Might See",
+        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
+      },
+      "artists": [
+        {
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        }
+      ],
+      "duration_ms": 336760,
+      "name": "Into Dust",
+      "url": "https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Something American",
-        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 283696,
-      "name": "What Am I Here For",
-      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Theatrics",
         "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 218332,
       "name": "By Night",
       "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 283696,
+      "name": "What Am I Here For",
+      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Bedouine (Deluxe)",
-        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Nice and Quiet",
-      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Every Kingdom (Deluxe Version)",
         "url": "https://open.spotify.com/album/1nJsbWm3Yy2DW1KIc1OKle"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 331173,
       "name": "I Will Be Blessed",
       "url": "https://open.spotify.com/track/4PFhGZLzpWQk7CumiCyNH7"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Bedouine (Deluxe)",
+        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Nice and Quiet",
+      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Still I Wait",
-        "url": "https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi"
-      },
-      "artists": [
-        {
-          "name": "Anna Leone",
-          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Still I Wait",
-      "url": "https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Dead & Born & Grown",
         "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 246413,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Still I Wait",
+        "url": "https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi"
+      },
+      "artists": [
+        {
+          "name": "Anna Leone",
+          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Still I Wait",
+      "url": "https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1375,38 +1375,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sang About It",
-        "url": "https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        }
-      ],
-      "duration_ms": 133786,
-      "name": "Sang About It",
-      "url": "https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 317266,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe"
       },
@@ -1439,18 +1407,34 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "God I Hope This Year Is Better Than the Last",
-        "url": "https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL"
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
         }
       ],
-      "duration_ms": 236849,
-      "name": "God I Hope This Year Is Better Than The Last",
-      "url": "https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY"
+      "duration_ms": 317266,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Sang About It",
+        "url": "https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "duration_ms": 133786,
+      "name": "Sang About It",
+      "url": "https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1467,6 +1451,22 @@
       "duration_ms": 201028,
       "name": "Catacombs",
       "url": "https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "God I Hope This Year Is Better Than the Last",
+        "url": "https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 236849,
+      "name": "God I Hope This Year Is Better Than The Last",
+      "url": "https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY"
     },
     {
       "added_at": "2023-10-20 04:00:00",

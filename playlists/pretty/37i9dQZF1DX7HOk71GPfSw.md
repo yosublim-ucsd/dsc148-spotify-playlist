@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > she did her hyper\-homework
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,262 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,938 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 |
 | 2 | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft) | 2:37 |
-| 3 | [Princess](https://open.spotify.com/track/3MRBeskZBQ7j9W9CJgNN19) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco), [Petty Plastic](https://open.spotify.com/artist/6DfeTTtUs7u21DL8KruP2N) | [Princess](https://open.spotify.com/album/4zVPyvVpXQwZAIqPa1MPx3) | 2:14 |
+| 3 | [Princess](https://open.spotify.com/track/3MRBeskZBQ7j9W9CJgNN19) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco), [Petey Plastic](https://open.spotify.com/artist/59R8GbaEIJH0vO9taJMmZQ) | [Princess](https://open.spotify.com/album/4zVPyvVpXQwZAIqPa1MPx3) | 2:14 |
 | 4 | [Britpop](https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/08ZUb3IpVYrHbkWFhMNXO9) | 3:22 |
 | 5 | [Elk Skin](https://open.spotify.com/track/34gdkFDYWeqyqr8u7KSrWD) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Elk Skin](https://open.spotify.com/album/5twIZTmDYO9d7awAUvVRkV) | 2:52 |
 | 6 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 45 | [C\*nt \- DJ\_Ge5und\#eit Edit](https://open.spotify.com/track/4crXKKdCDUYW3fW1UbPpIA) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [DJ LUVHUNTAH](https://open.spotify.com/artist/2GuGKV3bZJDQz0ILqbvBrB), [DJ\_Ge5Und\#Eit](https://open.spotify.com/artist/36M0kH4mvj6gsakQo7jMa6) | [C\*nt \(DJ\_Ge5und\#eit Edit\)](https://open.spotify.com/album/0DVoU4K3tMhheP0R31fwQa) | 3:30 |
 | 46 | [Te pedí que me olvidaras](https://open.spotify.com/track/3DlNm2aNZUynTwHGIPba17) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl), [Vau Boy](https://open.spotify.com/artist/2tx3YCpd2RHR1ZSU101zFB) | [Te pedí que me olvidaras](https://open.spotify.com/album/2Ou2enf5ZWyp5HzHHc0MPx) | 1:48 |
 | 47 | [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:52 |
-| 48 | [like that](https://open.spotify.com/track/0ssYuHAIV6Lmni0uCpPtda) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [like that](https://open.spotify.com/album/6cm1fZU1FgWcDP23EsdaYJ) | 2:37 |
+| 48 | [like that](https://open.spotify.com/track/6m871Gxm8jQGShOYhKMkKR) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [SUPERNOVA](https://open.spotify.com/album/13iFjYadDQpqOgMeKo3R4d) | 2:37 |
 | 49 | [KLK](https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 3:47 |
 | 50 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 |
 | 51 | [No Service](https://open.spotify.com/track/5kCdBZHfHuAsSrU8hF9wF2) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [No Service](https://open.spotify.com/album/0SijjdP4yC4j4SO9xIXbTM) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [f0rbiidden l0ve$tory](https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/34neOqBrIAoc7zw2qZN2JE) | 2:06 |
 | 100 | [FUN](https://open.spotify.com/track/5mlVnK8RkGob2oiFPXf0Ky) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde), [PiNKII](https://open.spotify.com/artist/3PG2tJxxB6fh7o7YIGRrnM) | [FUN](https://open.spotify.com/album/2ZIsPbcWIz2dhi5YCTvTkv) | 1:49 |
 
-Snapshot ID: `MCxmYTQ2NTZmYjVlZTBkNjI3ZTNkODA0YTkyODNmOGUzYTNkNmNkZTdk`
+Snapshot ID: `MCwzMjc1MDY5NmZlNmNiMDEzNmEwYWFlYjVlYTE2NThiMWFlNjM1OTJj`

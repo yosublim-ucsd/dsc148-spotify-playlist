@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 309952,
+  "2024-04-04": 309936,
   "date_first_scraped": "2022-09-28",
   "description": "Relax, unwind and chill to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl. Alexandra Streliski, Yo-Yo Ma, Esther Abrami and Alexis Ffrench. The perfect background music for sleep and study.",
   "name": "Relaxing Classical",
@@ -7250,6 +7250,32 @@
     },
     {
       "album": {
+        "name": "Bach: Violin Concertos",
+        "url": "https://open.spotify.com/album/5LQIrripNZ6iBXDpd4IaIo"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Leonidas Kavakos",
+          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
+        },
+        {
+          "name": "The Apollon Ensemble",
+          "url": "https://open.spotify.com/artist/67cIsIGXOAG57meLiyxRVL"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293233,
+      "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air",
+      "url": "https://open.spotify.com/track/6FBFddBdrlVZww23zcHraQ"
+    },
+    {
+      "album": {
         "name": "Relaxing Classical",
         "url": "https://open.spotify.com/album/17tI0LEAubONuqyNfoDD12"
       },
@@ -10102,6 +10128,32 @@
     },
     {
       "album": {
+        "name": "The Carnival of the Animals, R. 125: XIII. The Swan",
+        "url": "https://open.spotify.com/album/5iqsekVRWFW4LSSPdGiIjq"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Pablo Ferrandez",
+          "url": "https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt"
+        },
+        {
+          "name": "Julien Quentin",
+          "url": "https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182186,
+      "name": "The Carnival of the Animals, R. 125: XIII. The Swan",
+      "url": "https://open.spotify.com/track/3HLWmw7tsWIYBQH6Liv4qg"
+    },
+    {
+      "album": {
         "name": "Songs from the Arc of Life",
         "url": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
       },
@@ -11323,6 +11375,24 @@
       "duration_ms": 405973,
       "name": "Tre Sonetti del Petrarca, S270a: Sonetto 47: \"Pace non trovo\"",
       "url": "https://open.spotify.com/track/4s1tYD4me6BnGhZlenMpJd"
+    },
+    {
+      "album": {
+        "name": "Tristesse",
+        "url": "https://open.spotify.com/album/1RiCsE4TpGZXwemtMWfLg7"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186693,
+      "name": "Tristesse",
+      "url": "https://open.spotify.com/track/5LZBJNHFun1mKDsDUZSA8b"
     },
     {
       "album": {

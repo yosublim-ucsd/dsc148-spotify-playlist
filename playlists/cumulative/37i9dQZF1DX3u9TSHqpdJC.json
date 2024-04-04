@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: Hana Effron. Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: Micah McLaurin. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 233048,
       "name": "Asking",
       "url": "https://open.spotify.com/track/1fEo3ZZxtHh20Ow3z3wqvZ"
@@ -5778,7 +5778,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 160693,
       "name": "Bible Belt",
       "url": "https://open.spotify.com/track/5AON00DcAqzMBIxGl0IHm3"
@@ -11851,6 +11851,24 @@
     },
     {
       "album": {
+        "name": "crowd pleaser",
+        "url": "https://open.spotify.com/album/7s1MWuMTwRKcOLGwAQ9Ezl"
+      },
+      "artists": [
+        {
+          "name": "TEHYA",
+          "url": "https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154033,
+      "name": "crowd pleaser",
+      "url": "https://open.spotify.com/track/3g7L6qhsAhZfAAFHfYvnAo"
+    },
+    {
+      "album": {
         "name": "Crucify",
         "url": "https://open.spotify.com/album/0gsM7pGfqDB6VZtaO1G8JI"
       },
@@ -13831,6 +13849,24 @@
     },
     {
       "album": {
+        "name": "Directions",
+        "url": "https://open.spotify.com/album/49xouspXNkB6RuO5B7LV81"
+      },
+      "artists": [
+        {
+          "name": "Emma Rosen",
+          "url": "https://open.spotify.com/artist/540pn6wxgwVQHPuIgTdyzC"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207310,
+      "name": "Directions",
+      "url": "https://open.spotify.com/track/2Np85vuU5afD0yvi7cfl4r"
+    },
+    {
+      "album": {
         "name": "dirt",
         "url": "https://open.spotify.com/album/66MliMDybKTvjeRpgt9UxW"
       },
@@ -14348,6 +14384,24 @@
       "duration_ms": 192000,
       "name": "Don't Feel Like Dancing",
       "url": "https://open.spotify.com/track/3B63yfqgmfkCnNT0q6oahB"
+    },
+    {
+      "album": {
+        "name": "Don't Give Up On Love",
+        "url": "https://open.spotify.com/album/1GIfzALsAVoILlh1AkX6Pl"
+      },
+      "artists": [
+        {
+          "name": "Micah McLaurin",
+          "url": "https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209747,
+      "name": "Don't Give Up On Love",
+      "url": "https://open.spotify.com/track/6PKIbeiAWkXCW6zokx4WUR"
     },
     {
       "album": {
@@ -16408,6 +16462,24 @@
       "duration_ms": 188571,
       "name": "Enough Of You",
       "url": "https://open.spotify.com/track/5tDNWaxVJc4z30zZm9OKD9"
+    },
+    {
+      "album": {
+        "name": "Eulogy",
+        "url": "https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Madon",
+          "url": "https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212841,
+      "name": "Eulogy",
+      "url": "https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6"
     },
     {
       "album": {
@@ -28090,7 +28162,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 158798,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY"
@@ -28884,6 +28956,24 @@
       "duration_ms": 161773,
       "name": "Is Nothing Sacred",
       "url": "https://open.spotify.com/track/043cLZN7piVzfEILABbqcK"
+    },
+    {
+      "album": {
+        "name": "is this as good as it gets?",
+        "url": "https://open.spotify.com/album/1RbqmWFJRz8ZBZWVrS2hpr"
+      },
+      "artists": [
+        {
+          "name": "chasing luma",
+          "url": "https://open.spotify.com/artist/7gu7zV4EPRuD1gVQgFtsFH"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "is this as good as it gets?",
+      "url": "https://open.spotify.com/track/6T67uQrMBlD7uc8QcQroD2"
     },
     {
       "album": {
@@ -30312,7 +30402,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 146687,
       "name": "LALALA",
       "url": "https://open.spotify.com/track/6saJQVfcQ08Bowup4nZpb7"
@@ -37639,6 +37729,24 @@
     },
     {
       "album": {
+        "name": "Needed Love",
+        "url": "https://open.spotify.com/album/1qP913cFxOOxrD86hBDCeP"
+      },
+      "artists": [
+        {
+          "name": "Trinity Lake",
+          "url": "https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191470,
+      "name": "Needed Love",
+      "url": "https://open.spotify.com/track/0OuehVqol8rMwwjqM3QwIY"
+    },
+    {
+      "album": {
         "name": "NERVE",
         "url": "https://open.spotify.com/album/2beatj9EGiW7MRNWbMVARe"
       },
@@ -42040,6 +42148,24 @@
       "duration_ms": 178363,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG"
+    },
+    {
+      "album": {
+        "name": "PIECES",
+        "url": "https://open.spotify.com/album/4FAg2FITtsq4hf0lUHFxd5"
+      },
+      "artists": [
+        {
+          "name": "Galli J",
+          "url": "https://open.spotify.com/artist/6nIJkiCwmXxSvzrlJ0qLcW"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178048,
+      "name": "PIECES",
+      "url": "https://open.spotify.com/track/7qU6AyK1fDMYOXNHlUlJmJ"
     },
     {
       "album": {
@@ -46572,7 +46698,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 150361,
       "name": "say it",
       "url": "https://open.spotify.com/track/71BpEYwdsMWbu6VNErrCLd"
@@ -47482,7 +47608,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 129056,
       "name": "She Likes a Boy",
       "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
@@ -55950,7 +56076,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 199531,
       "name": "Tooth",
       "url": "https://open.spotify.com/track/6faBKnjIpmmxcP7ToB5D4P"

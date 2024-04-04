@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 280773,
       "name": "Amor M\u00edo / Sabr\u00e1 Dios / Sabor a Mi",
       "url": "https://open.spotify.com/track/1lS7wZgXsADesTLXgWfm3b"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 202573,
       "name": "Donde Encontraras",
       "url": "https://open.spotify.com/track/1dMK5yoypaN0cr3aW5xJqz"
@@ -1016,6 +1016,24 @@
       "duration_ms": 189506,
       "name": "Entre Tu Amor Y Mi Amor",
       "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
+    },
+    {
+      "album": {
+        "name": "A Mi Amor Con Mi Amor",
+        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158733,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/7K1wswXrFRcR0I7EcpDSsM"
     },
     {
       "album": {
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 203440,
       "name": "Maria Bonita",
       "url": "https://open.spotify.com/track/4997YRP3x3LNG7D81e0mrh"

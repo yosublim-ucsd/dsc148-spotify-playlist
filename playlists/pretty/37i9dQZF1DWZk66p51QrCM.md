@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 
 > The Official EA SPORTS F1 23 Soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,864 likes - 34 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,913 likes - 34 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 | 33 | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/track/67WEy4DJcqynYh0bhbKpTM) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/album/55fk0TQ4Boke9w33eJIKlF) | 6:45 |
 | 34 | [Go \(Otik Remix\)](https://open.spotify.com/track/467CtGat3TdQctzbPKVLAq) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Go \(Otik Remix\)](https://open.spotify.com/album/5wvAJhxQ7zCKJOFgUdsrp1) | 4:05 |
 
-Snapshot ID: `MCxhY2U0ODdjODMxNjY1ZDhhY2Y0MzZmYmI2ZmIxNGYwMzIyZmViZGQz`
+Snapshot ID: `MCw1ZjdiZDk4NmM1OGQzY2EzYmI5MDI3ZGI2MjM0Njg4MjcyNmQ0YmI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,309,390 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,309,609 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [losing a friend](https://open.spotify.com/track/0Ha1KORr60UQXXi4dZsLLj) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [losing a friend](https://open.spotify.com/album/4m9PFXLJbwl88AkZvGyZpL) | 3:34 |
 | 50 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 |
 
-Snapshot ID: `MCxhZGM0YjQyMGMyYTg2NWU3ZTUwNTQ1ZTliOGU2NjRhZjkwYTg2OThj`
+Snapshot ID: `MCwwNTA5ODg2Y2FmNWZmYmViM2YzNDg3M2FkNzgwM2MyMzI3OThkZThj`

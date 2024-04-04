@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-140 songs - 7 hr 11 min
+141 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Desi Hood](https://open.spotify.com/track/501r9pxOB0z1ksbhC4hNxs) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Cheetah](https://open.spotify.com/artist/0UssK1rMiTP251lIwkpHwr) | [Walk in Victory](https://open.spotify.com/album/0v9SQICVKLVgLkAS6n6yDS) | 2:26 | 2024-01-24 |  |
 | [Don't Test](https://open.spotify.com/track/5oBNyvRib931U1mp8YtbtU) | [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Don't Test](https://open.spotify.com/album/3yK7WWnv3ZP7ogzncDL97u) | 2:15 | 2023-03-18 | 2023-09-05 |
 | [Drippy](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Drippy](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 3:15 | 2024-02-02 |  |
-| [Droptop](https://open.spotify.com/track/7AW4g4I9fPfUIyqtbsuAkM) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Droptop](https://open.spotify.com/album/2rKEiYOlxGLQHbw1ZzFdXD) | 2:21 | 2023-03-18 |  |
+| [Droptop](https://open.spotify.com/track/7AW4g4I9fPfUIyqtbsuAkM) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Droptop](https://open.spotify.com/album/2rKEiYOlxGLQHbw1ZzFdXD) | 2:21 | 2023-03-18 | 2024-04-04 |
 | [Elevated](https://open.spotify.com/track/2AilvPt1AQ8PixlCKqkjfj) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Elevated](https://open.spotify.com/album/1XNS0VIWnEKteOv1fa0okk) | 3:20 | 2023-03-18 |  |
 | [Faraar](https://open.spotify.com/track/72H6G8v9xyuwdRBaTkoT5G) | [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Faraar](https://open.spotify.com/album/1HFaZl1hPmSnvdTQxshVQe) | 2:10 | 2023-03-18 | 2024-03-30 |
 | [Few Days](https://open.spotify.com/track/2ccThCjEt1t1SF72mP7as2) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Few Days](https://open.spotify.com/album/54QdEwuZTXWQQOYda6FMxa) | 2:57 | 2023-03-18 | 2023-09-05 |
@@ -103,6 +103,7 @@
 | [No Love](https://open.spotify.com/track/6A2ZwOsMeomTIVhLvfXngC) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [jesp](https://open.spotify.com/artist/4A6FNKLHprsYDzim1SQAOJ), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n) | [No Love](https://open.spotify.com/album/6qrdcQLLTx6zzvtNpGkPru) | 2:49 | 2024-01-05 | 2024-01-24 |
 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2023-03-18 | 2024-03-29 |
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-04-23 |  |
+| [No Regrets](https://open.spotify.com/track/2aAM91sTMQ81KdwYLXPiwM) | [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY) | [No Regrets](https://open.spotify.com/album/6KRRQoVmR0BMZn90t4i0m4) | 2:35 | 2024-04-03 |  |
 | [Not Allowed](https://open.spotify.com/track/6GHamf2yNnMghMPGZ1CDmW) | [Indyy Sanghera](https://open.spotify.com/artist/3NLsLe2pvDtx8sDNChqQCN), [rocky](https://open.spotify.com/artist/5SdlpwxcJbR4JjrkmPEl1G) | [Not Allowed](https://open.spotify.com/album/28YNr2IZpS6LcpBfOfvYWq) | 3:30 | 2024-04-02 |  |
 | [Nothing Lasts](https://open.spotify.com/track/7tYAKbutuUrdxAhdOvqF01) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 2:56 | 2024-02-15 |  |
 | [Notorious](https://open.spotify.com/track/0e9DDb2TnNwSv8lV1EpMuD) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Notorious](https://open.spotify.com/album/253mOxWcguZZ8DyhCl5rQ5) | 3:00 | 2023-03-18 | 2023-07-02 |

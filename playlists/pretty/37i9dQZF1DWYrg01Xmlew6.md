@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Vale Lambo e Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,756 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,850 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [MAGLIARO](https://open.spotify.com/track/2sDyiR7gYAlSVCbHx1kqrL) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [MAGLIARO](https://open.spotify.com/album/7mUBiz1c8E1IH18AM7jtpl) | 2:35 |
 | 50 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 |
 
-Snapshot ID: `MCwyN2VjZDFjZDk4MzU2OTk0YWI4NTJmMWRjN2UzY2QyNzMwZWZjZDc1`
+Snapshot ID: `MCxhNGZlODY5ZmZkMWI2MGI2YjFlYjRhZWU4M2MyN2RlOTFiZDQ0ODA0`

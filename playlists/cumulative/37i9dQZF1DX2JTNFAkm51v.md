@@ -4,7 +4,7 @@
 
 > 【セットリスト公開】5/20\(土\)・21\(日\)、神戸メリケンパークにて開催される都市型音楽フェス<a href="https://kobe\-mellow\-cruise.com/">「KOBE MELLOW CRUISE」</a>の出演アーティストをピックアップ。
 
-229 songs - 12 hr 59 min
+230 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [Storm \(feat\. KMC\)](https://open.spotify.com/track/4lVSmkZ8a9rx9NQQVIX607) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [KMC](https://open.spotify.com/artist/67YTomPMdKRZNeAMXIDzAY) | [Orbit](https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p) | 3:00 | 2023-05-25 |  |
 | [STRANGER](https://open.spotify.com/track/5T6U7udvNbgFDTkYwsI186) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt), [Yung sticky wom](https://open.spotify.com/artist/6KkO28vY94gSfjYCd0zhw3) | [COSMO WORLD](https://open.spotify.com/album/6qL6l1XFVsT1jORl3PrpL5) | 3:38 | 2023-05-25 |  |
 | [Su Su Su](https://open.spotify.com/track/3YWgLXLQJEzSHRWTL0aXyM) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Reason](https://open.spotify.com/album/4ipcf9ZJ8PazwRGKJ6bD7N) | 2:35 | 2023-05-25 |  |
-| [Suicide \- Remix](https://open.spotify.com/track/0sI4JTJj1Z2Za2Cu8kRQTJ) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [BAD HOP WORLD DELUXE](https://open.spotify.com/album/5iKrBBfSSmDja64JoH0kRS) | 4:03 | 2023-05-25 |  |
+| [Suicide \(feat\. Tiji Jojo, Hideyoshi & Jin Dogg\) \[Remix\]](https://open.spotify.com/track/32A80R9MrwUYjISO7yphrL) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [BAD HOP WORLD DELUXE](https://open.spotify.com/album/3wBs5WEBH00eWJuNCmVTnF) | 4:03 | 2023-05-25 |  |
+| [Suicide \- Remix](https://open.spotify.com/track/0sI4JTJj1Z2Za2Cu8kRQTJ) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [BAD HOP WORLD DELUXE](https://open.spotify.com/album/5iKrBBfSSmDja64JoH0kRS) | 4:03 | 2023-05-25 | 2024-04-04 |
 | [Summer Of Love](https://open.spotify.com/track/3BS5XsezkAmyRnF1FlLJLR) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [Pure 1000%](https://open.spotify.com/album/5ohKHPhyEYz3eUFIRXeySh) | 3:14 | 2023-05-25 |  |
 | [Summer Situation](https://open.spotify.com/track/7Da7crN49ehmABnxJuo52J) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [ALLSEASON EP.](https://open.spotify.com/album/7enrVhK4zZBVokYXmZXm4L) | 4:50 | 2023-05-25 |  |
 | [SUSUME](https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [MONIBUM](https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8) | 3:18 | 2023-05-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 151431,
+  "num_followers": 151495,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjZmYTZiNjFjZDYxNzllNGQ2MjgzZDhhNzdjNDg3ZWZiODY1MDUx",
+  "snapshot_id": "MCw2YmIyYjcyNDhmMjRlY2UyMTFkNDM4YmY5YmVjNDdlMDZmYjMyNzFm",
   "tracks": [
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Bittersweet Goodbye (Lens Remix)",
-        "url": "https://open.spotify.com/album/6tp5KT9JEffGYt5iXzqOnY"
-      },
-      "artists": [
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
-        },
-        {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Bittersweet Goodbye - Lens Remix",
-      "url": "https://open.spotify.com/track/3wkuynG4GwBd8LLNDeKTE5"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
         "name": "When It Rains, It Pours (Shapes Remix) (feat. Coco, Mr Traumatik & Songer)",
         "url": "https://open.spotify.com/album/3lxi18DxYCsn3fMv2F4Y9L"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 254946,
       "name": "When It Rains, It Pours (feat. Coco, Mr Traumatik & Songer) - Shapes Remix",
       "url": "https://open.spotify.com/track/5XDS88WPZRekqrBBfawjI5"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
+        "name": "Bittersweet Goodbye (Lens Remix)",
+        "url": "https://open.spotify.com/album/6tp5KT9JEffGYt5iXzqOnY"
+      },
+      "artists": [
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        },
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Bittersweet Goodbye - Lens Remix",
+      "url": "https://open.spotify.com/track/3wkuynG4GwBd8LLNDeKTE5"
     },
     {
       "added_at": "2024-03-01 11:54:01",

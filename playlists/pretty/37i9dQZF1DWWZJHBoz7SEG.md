@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Aprovecha hasta la última gota de vacación en compañía de Carin Leon y Leon Bridges
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,608 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,774 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 24 | [NO APAGUES LA LUZ](https://open.spotify.com/track/1w0gzlVggcvSf3BPd9q8CL) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [NO APAGUES LA LUZ](https://open.spotify.com/album/15LhVFnUqO0v3N4oPWiQ6B) | 4:08 |
 | 25 | [Smoothie](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM\( \)SCAPE](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) | 3:08 |
 | 26 | [Live Today](https://open.spotify.com/track/3wAUDos7BPWlHBetCruaD1) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Notebook Fantasy](https://open.spotify.com/album/11oAb5VEhTqhiAyfs5AOQX) | 2:52 |
-| 27 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
+| 27 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 |
 | 28 | [Donante de Sangre](https://open.spotify.com/track/1HtO3fFig35Hj12m6luK0u) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Donante de Sangre](https://open.spotify.com/album/2YWkq261ekVyIFsm9LpvB6) | 3:47 |
 | 29 | [Te Vas Así](https://open.spotify.com/track/1pmal0R4yXBQw7LxEKkGL9) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Te Vas Así](https://open.spotify.com/album/2Vxp9EEHqRgk5Hn5udBB6Z) | 3:11 |
 | 30 | [Amargura](https://open.spotify.com/track/2itGcO6chZVMunP7tmjszy) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Amargura](https://open.spotify.com/album/2UT7CbMqIgJ5JfKrEKHqtG) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Te conocí](https://open.spotify.com/track/2unxfFBxztipMMnZFFm02a) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Te conocí](https://open.spotify.com/album/2KkOssmITRyGi5FWAUTsx6) | 3:29 |
 | 50 | [Tiempo al Tiempo](https://open.spotify.com/track/3ktdoW2ABePbS3PQ4drxaD) | [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Tiempo al Tiempo](https://open.spotify.com/album/6aPh6HYOL8rpNQol6FETo9) | 4:47 |
 
-Snapshot ID: `MCxmMTlkYjJiNzZhODQwMjgyOTY5MDA4NGE3YjkxZjM4YmE3ZDBhYjJl`
+Snapshot ID: `MCwwZTdiN2NmMWY1OTYxNGFhYjU3NmU0Mzc4MGI4Y2FkOWJiOGRhNDNk`

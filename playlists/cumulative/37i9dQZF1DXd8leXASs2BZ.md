@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: MIKADO
 
-322 songs - 14 hr 58 min
+323 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Young Boy](https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [ICON](https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR) | 3:01 | 2023-12-07 |  |
 | [YOUNG STAR](https://open.spotify.com/track/3nEqGsw6zXb8v0SG2sdqMA) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [JETG](https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr) | [YOUNG STAR](https://open.spotify.com/album/78Xf36i1GMgGGw3sBgGNA4) | 2:31 | 2023-12-07 |  |
 | [Youth](https://open.spotify.com/track/5cacwNDm744DRT4ja7je6t) | [Ole](https://open.spotify.com/artist/7m9yK07LzbtyQCfhtNkUEd), [ggoyle](https://open.spotify.com/artist/1aZM18HplOP2ZfNIcRT9NM) | [PSP4000](https://open.spotify.com/album/10Z9oRfsym5hoPSOofIxw0) | 2:16 | 2024-02-13 | 2024-03-27 |
+| [Yutta](https://open.spotify.com/track/5dplmBHVIEn5qIhVujSd6I) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [Yutta](https://open.spotify.com/album/2RUujm92ULMhti3zc0mBVL) | 2:14 | 2024-04-02 |  |
 | [Zoomer](https://open.spotify.com/track/6kopnoNQZMlhuXEdPOyj31) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [Golden Virginia](https://open.spotify.com/album/7M5Gqvf6GFk7C8rMpIBqid) | 2:54 | 2023-12-07 | 2024-02-21 |
 | [±](https://open.spotify.com/track/72VqxxCtgZPGSnQbO1qzZx) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt), [Tim Pepperoni](https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo), [Puckafall](https://open.spotify.com/artist/4sk5D1u9uIWDjupHAdxjwg) | [TORiO](https://open.spotify.com/album/0Fb6tnrpnyeOjKYVlWSDKj) | 2:57 | 2023-12-07 |  |
 | [夢見る者の報い](https://open.spotify.com/track/3uBCLTq1gBL74dyCBLaKWu) | [NOX](https://open.spotify.com/artist/27QgdEsqcHRgVAhy7zWTzw), [KAKKY](https://open.spotify.com/artist/0Ryt5TJOtBvoRwozJDW3sC), [大空](https://open.spotify.com/artist/6Tg13Bi1F0RVsHBEglMrsW), [HIBIKI](https://open.spotify.com/artist/4hUkfseB97lM6qhbcfwERG) | [夢見る者の報い](https://open.spotify.com/album/2pdaDaaed0Pd6xTI2PW2JO) | 5:18 | 2024-03-26 | 2024-03-28 |
@@ -328,7 +329,7 @@
 | [牛久](https://open.spotify.com/track/5hvbfRmhcKVB2iwgktJx8y) | [OGGYWEST](https://open.spotify.com/artist/5e9rwyw6ZPV26OvEy34xTA) | [牛久](https://open.spotify.com/album/5HCH5FD6Yg1vFhPuwNAmOM) | 3:05 | 2024-01-30 | 2024-02-09 |
 | [第救条](https://open.spotify.com/track/5sluiMnosRaynnGPuuI4ON) | [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W), [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [第救条](https://open.spotify.com/album/7phcQamybNqbWXszHenikP) | 3:03 | 2024-02-27 | 2024-02-29 |
 | [花束](https://open.spotify.com/track/76w5LRGxbVIEbkpke35vR3) | [8](https://open.spotify.com/artist/2oHsgOCrUTQmTqqeOoxdVX) | [5/13](https://open.spotify.com/album/5MDVcLYeo1Ib9mE3AUxPJY) | 2:01 | 2024-02-13 | 2024-02-15 |
-| [言った!!](https://open.spotify.com/track/7uPHzNeZnRBSxVwuujHo2p) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [言った!!](https://open.spotify.com/album/6NNAnmIDNfskzLKUEBAZI3) | 2:14 | 2024-04-02 |  |
+| [言った!!](https://open.spotify.com/track/7uPHzNeZnRBSxVwuujHo2p) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [言った!!](https://open.spotify.com/album/6NNAnmIDNfskzLKUEBAZI3) | 2:14 | 2024-04-02 | 2024-04-04 |
 | [銭湯](https://open.spotify.com/track/3OLtdYmbURkkoLiIf9BLO1) | [suimu:](https://open.spotify.com/artist/3FLRHIlvau9mLVlOXs7FWb) | [銭湯](https://open.spotify.com/album/2fFt2OPmG9eFvEHAcypOka) | 2:39 | 2024-03-05 | 2024-03-07 |
 
 \*This playlist was first scraped on 2023-12-09. Prior content cannot be recovered.

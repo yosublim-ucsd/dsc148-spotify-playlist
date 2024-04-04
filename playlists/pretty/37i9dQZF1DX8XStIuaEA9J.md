@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: imase
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,991 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,049 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 50 | [めちゃくちゃ好きな人を愛すように世界を愛して！](https://open.spotify.com/track/7HjTKFuYlYHeteUGxUaVY3) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [めちゃくちゃ好きな人を愛すように世界を愛して！](https://open.spotify.com/album/3dW78okSq9qPIB3tX1JivC) | 3:41 |
 | 51 | [また旅に誘われて](https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 2:42 |
 | 52 | [感情御中 \- WANT U LUV IT](https://open.spotify.com/track/5f3Dg1YIy5yTlFa7H4MyCO) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [感情御中 \- WANT U LUV IT](https://open.spotify.com/album/68Xdvlu4LxXq1iNbxAnwh9) | 2:55 |
-| 53 | [ショウナンクレイジー](https://open.spotify.com/track/00yosP1WsXVXAuSxo2lhRT) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [DANCE](https://open.spotify.com/album/5vomvgQUBXwPt4YRHCizmr) | 2:30 |
+| 53 | [Shonan Crazy](https://open.spotify.com/track/4KLHuOm1Rx5pWEhxcM16ag) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [DANCE](https://open.spotify.com/album/1A1yMVgOJlvlO8pkia9ThB) | 2:30 |
 | 54 | [Perfect Chemical](https://open.spotify.com/track/3z3O9ihsi7KMRg9YDZvW8W) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [Perfect Chemical](https://open.spotify.com/album/0VxdMDrhxE60J5f4f8Gtgw) | 3:38 |
 | 55 | [GOAT](https://open.spotify.com/track/074s54XQPsBttINKj02W9T) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:38 |
 | 56 | [BINBO](https://open.spotify.com/track/3jLoBEYECqYA1kzlt5UTBL) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [BINBO](https://open.spotify.com/album/7iZN9psShtHZhWXr0rh4Ai) | 2:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 59 | [escaper](https://open.spotify.com/track/2Mm4RrOBvZe7tWEeWk4R6i) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [escaper](https://open.spotify.com/album/1N6dcviDSU9kWkqHOizc1Z) | 3:19 |
 | 60 | [僕だけが愛](https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけが愛](https://open.spotify.com/album/3bdleoxF74CDSzQXLwY8MI) | 5:23 |
 
-Snapshot ID: `MCw0YzBlNzZlYmMxNmJjNzRkODZkYzU2Zjc5Y2RhYzcyNzNmZmM0MWQ1`
+Snapshot ID: `MCwyMmRhMzkwZTUzMmU1MjNhZTZkYzNlMjY1NGE2NDQ5NzA2YmY0Y2Rl`

@@ -1,12 +1,12 @@
 {
   "description": "Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.",
-  "num_followers": 191899,
+  "num_followers": 191965,
   "original_name": "Deep Dive: 90s Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTFjMmIxZTFjY2NhZmFmMmQ4NmI2YWVlNmYxMmRiZGYwNDg4ZGNi",
+  "snapshot_id": "MCw3ZGMwNzk1OWQ1ZjdkZjFmODJjYzM3MTJkMmFhZjIxNDIwZTdkMjgx",
   "tracks": [
     {
       "added_at": "2023-01-18 21:17:22",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Evil Empire",
-        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 150066,
-      "name": "People of the Sun",
-      "url": "https://open.spotify.com/track/3QjQp2bfAvLTCSi8Zhzqis"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 143893,
       "name": "Dumpweed",
       "url": "https://open.spotify.com/track/5SlKhaPcdIfSjpoM2QtM4C"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Evil Empire",
+        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 150066,
+      "name": "People of the Sun",
+      "url": "https://open.spotify.com/track/3QjQp2bfAvLTCSi8Zhzqis"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 267293,
-      "name": "Head over Feet - 2015 Remaster",
-      "url": "https://open.spotify.com/track/735rjks7kQgWCjTQlIHMuH"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "To The Faithful Departed",
         "url": "https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 296200,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/3EXrtClWmgsM7dw75Mw2M1"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 267293,
+      "name": "Head over Feet - 2015 Remaster",
+      "url": "https://open.spotify.com/track/735rjks7kQgWCjTQlIHMuH"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Without You I'm Nothing",
-        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 254760,
-      "name": "Pure Morning",
-      "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+        "name": "Without You I'm Nothing",
+        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
         }
       ],
-      "duration_ms": 215040,
-      "name": "Just Like This",
-      "url": "https://open.spotify.com/track/7on45JTbuUgroAC4DXwBqQ"
+      "duration_ms": 254760,
+      "name": "Pure Morning",
+      "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -887,6 +871,22 @@
       "duration_ms": 223880,
       "name": "Drain You",
       "url": "https://open.spotify.com/track/5Ddlk6C2JVxb1SReZ6O1wk"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Just Like This",
+      "url": "https://open.spotify.com/track/7on45JTbuUgroAC4DXwBqQ"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 328626,
-      "name": "Give In to Me",
-      "url": "https://open.spotify.com/track/1euDTbMNRPNfKd8zZz4zTT"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Big Ones",
         "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 381400,
       "name": "Livin' On The Edge",
       "url": "https://open.spotify.com/track/6OZAcgTPxmjUTuiatU0Viq"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 328626,
+      "name": "Give In to Me",
+      "url": "https://open.spotify.com/track/1euDTbMNRPNfKd8zZz4zTT"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
+        "name": "One Hot Minute (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "My Friends",
+      "url": "https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
         "name": "Foo Fighters",
         "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
       },
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "One Hot Minute (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "My Friends",
-      "url": "https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Korn",
         "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 228066,
       "name": "Unskinny Bop",
       "url": "https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 244400,
+      "name": "I Could Have Lied",
+      "url": "https://open.spotify.com/track/0NSbiBKXoODbsPwjSivfBr"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 239640,
-      "name": "You Learn - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Days Of The New",
         "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 297146,
       "name": "Touch, Peel And Stand",
       "url": "https://open.spotify.com/track/2eG7o3BfbzohiETArwsX1K"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 239640,
+      "name": "You Learn - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+        "name": "Dirt (2022 Remaster)",
+        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         }
       ],
-      "duration_ms": 244400,
-      "name": "I Could Have Lied",
-      "url": "https://open.spotify.com/track/0NSbiBKXoODbsPwjSivfBr"
+      "duration_ms": 189360,
+      "name": "Dam That River (2022 Remaster)",
+      "url": "https://open.spotify.com/track/22Ntyke0ZDZy2Uuf8BEDkU"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1271,22 +1287,6 @@
       "duration_ms": 237026,
       "name": "Unintended",
       "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Dirt (2022 Remaster)",
-        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Dam That River (2022 Remaster)",
-      "url": "https://open.spotify.com/track/22Ntyke0ZDZy2Uuf8BEDkU"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Foo Fighters",
-        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "I'll Stick Around",
-      "url": "https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Recovering The Satellites",
         "url": "https://open.spotify.com/album/4YArB2Q848BDmmwUUumEFP"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 295066,
       "name": "A Long December",
       "url": "https://open.spotify.com/track/1tjKIXd7DYNklhVSgBxREi"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "I'll Stick Around",
+      "url": "https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
+        "name": "Mechanical Animals",
+        "url": "https://open.spotify.com/album/69ACUmut0hbGOSonmU4kNS"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Rock Is Dead",
+      "url": "https://open.spotify.com/track/4ukiv6Rp5N4tQZSBT9JRLo"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
         "name": "Hooray For Boobies",
         "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 274000,
       "name": "Can't Get You Off My Mind",
       "url": "https://open.spotify.com/track/7bk6iZ5dsrMySXB0aVFYXO"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Mechanical Animals",
-        "url": "https://open.spotify.com/album/69ACUmut0hbGOSonmU4kNS"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Rock Is Dead",
-      "url": "https://open.spotify.com/track/4ukiv6Rp5N4tQZSBT9JRLo"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Yield",
-        "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Wishlist",
-      "url": "https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Throwing Copper",
         "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 205693,
       "name": "Selling The Drama",
       "url": "https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Yield",
+        "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Reload",
-        "url": "https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 396440,
-      "name": "The Unforgiven II",
-      "url": "https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -1931,18 +1915,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD"
       },
       "artists": [
         {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 320106,
-      "name": "The Day I Tried To Live",
-      "url": "https://open.spotify.com/track/78YJJJH55MSyk7547100sW"
+      "duration_ms": 396440,
+      "name": "The Unforgiven II",
+      "url": "https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1959,6 +1943,22 @@
       "duration_ms": 342000,
       "name": "Dramamine",
       "url": "https://open.spotify.com/track/5vtRk4rYxiy4cj95cmJ5Ma"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 320106,
+      "name": "The Day I Tried To Live",
+      "url": "https://open.spotify.com/track/78YJJJH55MSyk7547100sW"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "So Much For The Afterglow",
-        "url": "https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM"
-      },
-      "artists": [
-        {
-          "name": "Everclear",
-          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "I Will Buy You A New Life",
-      "url": "https://open.spotify.com/track/2fhfoZqqTJ8jo4HvWseNfM"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Adrenalize (Deluxe)",
         "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
       },
@@ -2091,18 +2075,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Second Coming",
-        "url": "https://open.spotify.com/album/3DE7aixVSE6DZ6ALYIztT0"
+        "name": "So Much For The Afterglow",
+        "url": "https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM"
       },
       "artists": [
         {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
         }
       ],
-      "duration_ms": 347093,
-      "name": "Love Spreads",
-      "url": "https://open.spotify.com/track/6JvEXmRh3l2acBzvqavgT9"
+      "duration_ms": 238133,
+      "name": "I Will Buy You A New Life",
+      "url": "https://open.spotify.com/track/2fhfoZqqTJ8jo4HvWseNfM"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2119,6 +2103,22 @@
       "duration_ms": 143573,
       "name": "Don't Leave Me",
       "url": "https://open.spotify.com/track/1IAeSajljaXAkLZKXBZnE8"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Second Coming",
+        "url": "https://open.spotify.com/album/3DE7aixVSE6DZ6ALYIztT0"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 347093,
+      "name": "Love Spreads",
+      "url": "https://open.spotify.com/track/6JvEXmRh3l2acBzvqavgT9"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "The Distance To Here",
-        "url": "https://open.spotify.com/album/1PsHpu1IZBCuZ3bXD2CFSd"
-      },
-      "artists": [
-        {
-          "name": "Live",
-          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "The Dolphin's Cry",
-      "url": "https://open.spotify.com/track/6FPnecQDKOWSAKDKBAZ7ZG"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "fear",
         "url": "https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 196333,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/2GHYJ0dhVds3PODKnTdiGE"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "The Distance To Here",
+        "url": "https://open.spotify.com/album/1PsHpu1IZBCuZ3bXD2CFSd"
+      },
+      "artists": [
+        {
+          "name": "Live",
+          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "The Dolphin's Cry",
+      "url": "https://open.spotify.com/track/6FPnecQDKOWSAKDKBAZ7ZG"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "High/Low",
-        "url": "https://open.spotify.com/album/4o7LG3LUbq67bPNMitn00L"
-      },
-      "artists": [
-        {
-          "name": "Nada Surf",
-          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
-        }
-      ],
-      "duration_ms": 220586,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/48sJGpBLqQTs0sZ2ImHJof"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Antichrist Superstar",
         "url": "https://open.spotify.com/album/7APnZJwayR3lH9aUDPDYQB"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 269000,
       "name": "Tourniquet",
       "url": "https://open.spotify.com/track/2YGwSRjcY4Hjz6fktW9619"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "High/Low",
+        "url": "https://open.spotify.com/album/4o7LG3LUbq67bPNMitn00L"
+      },
+      "artists": [
+        {
+          "name": "Nada Surf",
+          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
+        }
+      ],
+      "duration_ms": 220586,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/48sJGpBLqQTs0sZ2ImHJof"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2651,6 +2651,22 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
+        "name": "Firehouse (2024 Remaster)",
+        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
+      },
+      "artists": [
+        {
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+        }
+      ],
+      "duration_ms": 235125,
+      "name": "Don't Treat Me Bad (2024 Remaster)",
+      "url": "https://open.spotify.com/track/4lbhQdbiTpNP7GowZG8KsM"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3Qf4H3NYSp3BMIRe6WOyOA"
       },
@@ -2679,22 +2695,6 @@
       "duration_ms": 220333,
       "name": "Velouria",
       "url": "https://open.spotify.com/track/0lBO2VOhlNNx879Fjd9XY3"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Firehouse (2024 Remaster)",
-        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
-      },
-      "artists": [
-        {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
-        }
-      ],
-      "duration_ms": 235125,
-      "name": "Don't Treat Me Bad (2024 Remaster)",
-      "url": "https://open.spotify.com/track/4lbhQdbiTpNP7GowZG8KsM"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -3019,22 +3019,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Heaven Help",
-      "url": "https://open.spotify.com/track/0uHbPoDjquncfYsLt00Aj2"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Get A Grip",
         "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
       },
@@ -3047,6 +3031,22 @@
       "duration_ms": 250600,
       "name": "Eat The Rich",
       "url": "https://open.spotify.com/track/3O7LU72UPGoCzrOFU6LqGd"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Heaven Help",
+      "url": "https://open.spotify.com/track/0uHbPoDjquncfYsLt00Aj2"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -3083,6 +3083,22 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
         "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
@@ -3099,18 +3115,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Pop",
-        "url": "https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3"
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 276800,
-      "name": "Staring At The Sun",
-      "url": "https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr"
+      "duration_ms": 260399,
+      "name": "Stand By My Woman",
+      "url": "https://open.spotify.com/track/2KT2tP853wbbERHxfSzmvd"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -3147,22 +3163,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Mama Said",
-        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 260399,
-      "name": "Stand By My Woman",
-      "url": "https://open.spotify.com/track/2KT2tP853wbbERHxfSzmvd"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Together Alone",
         "url": "https://open.spotify.com/album/7bzJtH0rm6rcgmWiKyIVxK"
       },
@@ -3195,18 +3195,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Laid",
-        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
       "artists": [
         {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 206933,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/7MMbYOpnyQU4CzPqK7Tu2x"
+      "duration_ms": 278480,
+      "name": "Until The End Of The World",
+      "url": "https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5"
     }
   ],
   "unique_name": "Deep Dive: 90s Rock",

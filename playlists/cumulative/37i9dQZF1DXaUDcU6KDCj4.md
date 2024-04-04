@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Secret Sisters
 
-1,964 songs - 4 day 23 hr 42 min
+1,965 songs - 4 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [2D](https://open.spotify.com/track/1HbTajbhhihioGg49ASGKi) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [2D](https://open.spotify.com/album/3ShOm5WyhWyolqP3nDIzjd) | 3:30 | 2024-02-23 |  |
 | [30 Degrees](https://open.spotify.com/track/2YtMeE0OtjgicwIgxdoiTU) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [30 Degrees](https://open.spotify.com/album/1bTdglags9MlgQqco739ZV) | 4:52 | 2021-11-26 | 2022-01-22 |
 | [33](https://open.spotify.com/track/0vELLfbzOzdDCjDg3GXYoJ) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [33](https://open.spotify.com/album/1HChLgiPkaSXebc8wQROKf) | 4:35 | 2023-04-21 | 2023-07-08 |
-| [365](https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [365](https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU) | 3:07 | 2024-03-15 |  |
+| [365](https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [365](https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU) | 3:07 | 2024-03-15 | 2024-04-04 |
+| [365](https://open.spotify.com/track/5ywWzoH8TFmthpebFjCyR3) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:07 | 2024-03-15 |  |
 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 | 2023-04-28 | 2023-07-15 |
 | [5am Paradise](https://open.spotify.com/track/1gSYnu6JvWI4flHj3YZPyJ) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [5am Paradise](https://open.spotify.com/album/68bhX8AcCObSmY57ogdl4J) | 3:50 | 2022-05-27 | 2022-07-09 |
 | [68](https://open.spotify.com/track/6LtSvOXW9K6oo4lmJZmMji) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/7B9cPzzx0ZuOcGveznlL53) | 3:27 | 2023-04-21 | 2023-07-08 |

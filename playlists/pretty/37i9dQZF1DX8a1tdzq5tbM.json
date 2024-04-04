@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1558373,
+  "num_followers": 1558721,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmIyNzAwMDUxNmU4MjJjODIyNmE5MTdiZTA1ZmZhN2U1N2JhNTcx",
+  "snapshot_id": "MCxkOTY3MGY4NDc4YmExMDc0ODExZmY2YWI3YzM4MmU0NGE4ZDk3YTZi",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -575,22 +575,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+        "name": "Orbital 2",
+        "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
         }
       ],
-      "duration_ms": 191000,
-      "name": "When Love Takes Over (feat. Kelly Rowland)",
-      "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
+      "duration_ms": 567106,
+      "name": "Halcyon and On and On",
+      "url": "https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -615,18 +611,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Orbital 2",
-        "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
       },
       "artists": [
         {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
         }
       ],
-      "duration_ms": 567106,
-      "name": "Halcyon and On and On",
-      "url": "https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A"
+      "duration_ms": 191000,
+      "name": "When Love Takes Over (feat. Kelly Rowland)",
+      "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Exploration of Space",
         "url": "https://open.spotify.com/album/7LJlzaFq8LRFGGq2kijcHX"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 216360,
       "name": "Exploration of Space",
       "url": "https://open.spotify.com/track/0P2sfcfRD0lWw4b8eXegmR"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -719,30 +719,6 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/0TBaFEx7WENZgqLXWErD0b"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Pop Life",
-        "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Cozi",
-          "url": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Baby When the Light (feat. Cozi)",
-      "url": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -819,6 +795,30 @@
       "duration_ms": 217240,
       "name": "Go",
       "url": "https://open.spotify.com/track/0e8C9dPERvvARURkNOFrrC"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Pop Life",
+        "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Cozi",
+          "url": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Baby When the Light (feat. Cozi)",
+      "url": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Kirsty Hawkshaw",
-          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
-        }
-      ],
-      "duration_ms": 524933,
-      "name": "Just Be",
-      "url": "https://open.spotify.com/track/6SDy0CHEvHB591MeizBrqY"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "It's Too Late",
         "url": "https://open.spotify.com/album/4eIaAaqb84HRhdBWonGK5Q"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 181230,
       "name": "It's Too Late - Dirty South Radio Edit",
       "url": "https://open.spotify.com/track/2WMur8xCATjMHLgpPHdosc"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Kirsty Hawkshaw",
+          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
+        }
+      ],
+      "duration_ms": 524933,
+      "name": "Just Be",
+      "url": "https://open.spotify.com/track/6SDy0CHEvHB591MeizBrqY"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1439,42 +1439,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 719133,
-      "name": "Forever Today",
-      "url": "https://open.spotify.com/track/3v2ZkuMfIB57fXEQLNynjA"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "One More Love",
-        "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "The Egg",
-          "url": "https://open.spotify.com/artist/73nwTQUc9kA9vqGzGPsMkA"
-        }
-      ],
-      "duration_ms": 191106,
-      "name": "Love Don't Let Me Go (Walking Away) (David Guetta vs. The Egg)",
-      "url": "https://open.spotify.com/track/7BuynvoA4xIt9LIwqhLwRu"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Vocal Trance Hits - The Anthems",
         "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
       },
@@ -1511,6 +1475,42 @@
       "duration_ms": 235866,
       "name": "Somewhere (feat. Sarah Lynn) - Radio Edit",
       "url": "https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 719133,
+      "name": "Forever Today",
+      "url": "https://open.spotify.com/track/3v2ZkuMfIB57fXEQLNynjA"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "The Egg",
+          "url": "https://open.spotify.com/artist/73nwTQUc9kA9vqGzGPsMkA"
+        }
+      ],
+      "duration_ms": 191106,
+      "name": "Love Don't Let Me Go (Walking Away) (David Guetta vs. The Egg)",
+      "url": "https://open.spotify.com/track/7BuynvoA4xIt9LIwqhLwRu"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "I Like Your Booty / The Big Fake",
-        "url": "https://open.spotify.com/album/0D0O1lbkzRcXJECh3owHN3"
-      },
-      "artists": [
-        {
-          "name": "Traffic Signs",
-          "url": "https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92"
-        }
-      ],
-      "duration_ms": 384733,
-      "name": "The Big Fake",
-      "url": "https://open.spotify.com/track/67nOnSiH1QRUiYihmLBmwI"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Don't Stop!",
         "url": "https://open.spotify.com/album/2lN1TfOytRsnosYBm70kZ6"
       },
@@ -1707,6 +1691,38 @@
       "duration_ms": 163004,
       "name": "Don't Stop! - X-Cabs Radio Edit",
       "url": "https://open.spotify.com/track/2U8kSj6bS0IUdMD8JSxOm3"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Ready to Dare",
+        "url": "https://open.spotify.com/album/5Qaao9KPcE0dL21razJGx9"
+      },
+      "artists": [
+        {
+          "name": "AnnaGrace",
+          "url": "https://open.spotify.com/artist/1gGy6vCfc2Q2rAe1uhCCIs"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "You Make Me Feel",
+      "url": "https://open.spotify.com/track/5yjKR9RIBWixx9Cjz6FUft"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "I Like Your Booty / The Big Fake",
+        "url": "https://open.spotify.com/album/0D0O1lbkzRcXJECh3owHN3"
+      },
+      "artists": [
+        {
+          "name": "Traffic Signs",
+          "url": "https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92"
+        }
+      ],
+      "duration_ms": 384733,
+      "name": "The Big Fake",
+      "url": "https://open.spotify.com/track/67nOnSiH1QRUiYihmLBmwI"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1731,22 +1747,6 @@
       "duration_ms": 228986,
       "name": "Everything (feat. Myah) - Radio Edit",
       "url": "https://open.spotify.com/track/0l9xKcujIQJ4mDUgWb7852"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Ready to Dare",
-        "url": "https://open.spotify.com/album/5Qaao9KPcE0dL21razJGx9"
-      },
-      "artists": [
-        {
-          "name": "AnnaGrace",
-          "url": "https://open.spotify.com/artist/1gGy6vCfc2Q2rAe1uhCCIs"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "You Make Me Feel",
-      "url": "https://open.spotify.com/track/5yjKR9RIBWixx9Cjz6FUft"
     },
     {
       "added_at": "2023-03-22 14:00:00",

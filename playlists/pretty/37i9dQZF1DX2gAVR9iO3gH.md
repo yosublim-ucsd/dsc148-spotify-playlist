@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 
 > Miami me lo confirmó, featuring Elana Rose, Danny Ocean & Jerry Di.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,250 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,259 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 37 | [Washypupa](https://open.spotify.com/track/68mWB3Ukqum8BWBzdMycHe) | [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf), [Dany Ome](https://open.spotify.com/artist/4uQjbkbjzXEE1SsnMHFK1v), [Kevincito El 13](https://open.spotify.com/artist/3ajdx40gqTuGi01ZemBDe9) | [Washypupa](https://open.spotify.com/album/2iPohcFIUGgVD4sHWP5PEu) | 3:21 |
 | 38 | [OKI DOKI](https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:23 |
 | 39 | [Mal Necesario](https://open.spotify.com/track/2y7AtihhJAgkfIYMuv6Y6z) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg) | [Mal Necesario](https://open.spotify.com/album/2lZdVUBBSw0aCf6SHDO3M3) | 3:03 |
-| 40 | [La Manzana](https://open.spotify.com/track/5zn3YmZvi0SYMgGPLc8R93) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Manzana](https://open.spotify.com/album/5JD5l71JvRRd1BB4ksdU5s) | 3:16 |
+| 40 | [Lit In The City](https://open.spotify.com/track/6lO43QMcwGkoGXaSbFIlt8) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Trackhouse](https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R) | 3:39 |
 | 41 | [FERXXO 151](https://open.spotify.com/track/2Cl4HCBmPddQNZEncdoXp0) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:15 |
-| 42 | [Lit In The City](https://open.spotify.com/track/6lO43QMcwGkoGXaSbFIlt8) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Trackhouse](https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R) | 3:39 |
+| 42 | [La Manzana](https://open.spotify.com/track/5zn3YmZvi0SYMgGPLc8R93) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Manzana](https://open.spotify.com/album/5JD5l71JvRRd1BB4ksdU5s) | 3:16 |
 | 43 | [Zizi](https://open.spotify.com/track/5lghzhaxxiNuaADIBFkby0) | [Mawell](https://open.spotify.com/artist/6UO7zshgw0fLVF6DVKg9PN) | [Zizi](https://open.spotify.com/album/13E3by1IIQK64HhlJ9ppMe) | 3:54 |
 | 44 | [Linda Natural](https://open.spotify.com/track/61C5r6fPRxNFoOUG7JQPfH) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Linda Natural](https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx) | 2:22 |
 | 45 | [Mi Vieja \- Prod\. by Ernesto Losa](https://open.spotify.com/track/4tWIAUKh3YmASoWmjugurS) | [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [Mi Vieja](https://open.spotify.com/album/2hUAkJ2M1bQLZQEM9edDAY) | 3:13 |
-| 46 | [Más Que Amigos](https://open.spotify.com/track/6Z8HCA8XERG5cZ0ei2Xyog) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Más Que Amigos](https://open.spotify.com/album/57fQOI2tMzFaOPyYwNvdPt) | 3:24 |
-| 47 | [En Ti](https://open.spotify.com/track/11lLYtZgjhKP4ZPEYXyAXk) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [En Ti](https://open.spotify.com/album/1COUsNTcKH8BSlplkOzSUk) | 3:01 |
-| 48 | [Suave](https://open.spotify.com/track/6EqOfeXVyKmLB8X0Nrw9QM) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suave](https://open.spotify.com/album/50NeQMTAGlQdr4phGNhFRJ) | 2:15 |
+| 46 | [Suave](https://open.spotify.com/track/6EqOfeXVyKmLB8X0Nrw9QM) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suave](https://open.spotify.com/album/50NeQMTAGlQdr4phGNhFRJ) | 2:15 |
+| 47 | [Más Que Amigos](https://open.spotify.com/track/6Z8HCA8XERG5cZ0ei2Xyog) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG) | [Más Que Amigos](https://open.spotify.com/album/57fQOI2tMzFaOPyYwNvdPt) | 3:24 |
+| 48 | [En Ti](https://open.spotify.com/track/11lLYtZgjhKP4ZPEYXyAXk) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [En Ti](https://open.spotify.com/album/1COUsNTcKH8BSlplkOzSUk) | 3:01 |
 | 49 | [ACHO PR](https://open.spotify.com/track/1C7lXfx4Y5maVl4AgUVlHA) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 5:59 |
 
-Snapshot ID: `MCxhN2Q2MzFmNzc0ZGQ0NjYxMGM1ODkxNjFjZGEyNGYwNjk5YmI0ODdl`
+Snapshot ID: `MCw4OGI0ZmE5ZmEzY2U1MGFlYmI1MTk3MzNjZjEwMzkxZGI3ZTU2MGQ2`

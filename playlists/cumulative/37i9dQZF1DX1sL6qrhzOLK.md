@@ -4,7 +4,7 @@
 
 > 가장 트렌디한 예술 경험 Sync Next 23의 참여 아티스트가 직접 선곡한 노래들을 즐겨보세요! \(Enjoy the songs selected by participating artists of Sync Next 23, the trendiest art experience!\)
 
-42 songs - 2 hr 44 min
+43 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Dying tree](https://open.spotify.com/track/6L8KXLIj6lH3KuEuk0SW6j) | [Kim Jae duk](https://open.spotify.com/artist/2g0UGTCVEn8R0xSLPlg6FS) | [Dying tree](https://open.spotify.com/album/7lRw7wayPP8VjYGcLdnEhL) | 5:00 | 2023-07-06 |  |
 | [Focus](https://open.spotify.com/track/7r9M2GybYSWqLaFI3TjS5i) | [Aad Aalberts](https://open.spotify.com/artist/1ARw44fBifEIjNpCfZ62RR) | [Moods](https://open.spotify.com/album/3Ibz2JPuDpcpl6qUkf2agv) | 7:09 | 2023-07-06 |  |
 | [Giant Lion](https://open.spotify.com/track/12dRR2NrTclT2KJeAwuFR3) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [ION](https://open.spotify.com/album/0MFykXNF16vdKA92yO4eiI) | 4:05 | 2023-07-06 |  |
-| [Good Night Good Dream](https://open.spotify.com/track/423WHvB4mKprM6hELzpH3F) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [Good Night Good Dream](https://open.spotify.com/album/4lFbDrujNnh4oFGBHIGYiv) | 4:25 | 2023-07-06 |  |
+| [Good Night Good Dream](https://open.spotify.com/track/423WHvB4mKprM6hELzpH3F) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [Good Night Good Dream](https://open.spotify.com/album/4lFbDrujNnh4oFGBHIGYiv) | 4:25 | 2023-07-06 | 2024-04-04 |
 | [Heart of Despair](https://open.spotify.com/track/7was9DGKU6THHCRIA5pEbZ) | [49 Morphines](https://open.spotify.com/artist/3GAp8PrsfvuY7QnAzHWcyW) | [Partial Eclipse](https://open.spotify.com/album/6cjvwi9UEz7sGfTjYSA9MN) | 8:47 | 2023-07-06 |  |
 | [Hexagon](https://open.spotify.com/track/5lLWytmmISFbNfd2PJ0Q4j) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [HANA](https://open.spotify.com/album/5cYLKcquLbRmq2373tQJ8B) | 3:46 | 2023-07-06 |  |
 | [I Robbed a Bank](https://open.spotify.com/track/3eBQCl5y6oGPnAJ1yTGeMW) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [I Robbed a Bank](https://open.spotify.com/album/0Ml07bUAnZZ4T3utkN0lpl) | 2:50 | 2023-07-06 |  |
@@ -48,6 +48,7 @@
 | [Tannhäuser: Overture](https://open.spotify.com/track/1U1i1HBJ5H8DY5J4fO8ySg) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Sir Georg Solti](https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH) | [Wagner: Orchestral Favourites](https://open.spotify.com/album/4clpzOVyYckfHXEuFZ8gXu) | 14:13 | 2023-07-06 |  |
 | [The Strong Heavy Vehicles \- Korean Version](https://open.spotify.com/track/0p8Qv06h32F2PT45OMGyKX) | [Tayo the Little Bus](https://open.spotify.com/artist/3gzyfNen0cMn6dybhnmwpd) | [Tayo's Sing Along Show 1 \(Korean Version\)](https://open.spotify.com/album/6HX2fE9yheC34o4JpYmn1B) | 2:30 | 2023-07-06 |  |
 | [There is A Wolf](https://open.spotify.com/track/2YNrv84MQ5SA4jZ8k3Us9d) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [There is A Wolf](https://open.spotify.com/album/1QrWbdIbZAigQwNOqBtIjC) | 3:37 | 2023-07-06 |  |
+| [‎Good Night Good Dream](https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [‎Good Night Good Dream](https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc) | 4:25 | 2023-07-06 |  |
 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 | 2023-07-06 | 2023-09-03 |
 | [대취타](https://open.spotify.com/track/3wmAhONcZ7OgIPmWWQjtDj) | [National Gugak Center](https://open.spotify.com/artist/7t6X0UODxGNkjBmT22w1El) | [The Living Korean Classical Music Collection 1](https://open.spotify.com/album/4KJXhgAUB8nAuSg6znrfU5) | 5:31 | 2023-07-06 |  |
 

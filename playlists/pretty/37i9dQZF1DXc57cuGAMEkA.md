@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Beyonce, Camila Cabello, j\-hope, 野田洋次郎 & kZm and more! cover: Beyonce
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,391 likes - 83 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,413 likes - 83 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 15 | [You're The One](https://open.spotify.com/track/4WLQxsTTcTE8eFhdv5Wl83) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Together](https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU) | 3:20 |
 | 16 | [RANDO \- Double Clapperz Remix](https://open.spotify.com/track/7dZH1y8Ymj3OS7MOZJoEoS) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Double Clapperz](https://open.spotify.com/artist/7tMpkHHGx888nBtdiDZ1Ql) | [Soul Quake \(Remixes, Vol\. 1\)](https://open.spotify.com/album/374C36Dszbio6pr7BwDINq) | 2:22 |
 | 17 | [Ready To Fight](https://open.spotify.com/track/0unSFECh7Y97Kt61ZGHSly) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [DRIVE MY DREAMS](https://open.spotify.com/album/1QOxEYdOCWw8OELJ7Lr3PV) | 2:52 |
-| 18 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
+| 18 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 |
 | 19 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 |
 | 20 | [Smoothie](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM\( \)SCAPE](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) | 3:08 |
 | 21 | [Get Goin'](https://open.spotify.com/track/5nv5aUcSKCogR7xMX3q0od) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Fraggle Rock: Back To The Rock \- Season 2 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/7ADS5WrhmIaFv9r1671yNh) | 2:00 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 82 | [Pasadena](https://open.spotify.com/track/5EcxDrQuoP14uKF2RFOy8A) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Pasadena](https://open.spotify.com/album/0zmWwqe1hamqWmBwdnaw3C) | 3:08 |
 | 83 | [The Song Of You](https://open.spotify.com/track/6qPPNp1IXn5StfE3SrCbw1) | [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [The Song Of You](https://open.spotify.com/album/6Ad7G1yO4M0ub2ijUkbszq) | 2:10 |
 
-Snapshot ID: `MCxhYTNiZGYwMWRmY2Y1NTI3YWU2NGI1Yzk1ZTI0MWU5MGFiZmQ0YWEx`
+Snapshot ID: `MCxmNTZhYTBjODQ2NDBiZDNmNDRlZGRiOGVmNzZhMzExY2VhNDJlZjVj`

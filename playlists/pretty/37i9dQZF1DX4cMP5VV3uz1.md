@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,431 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,495 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 67 | [Hot In Here](https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Hot In Here](https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W) | 3:11 |
 | 68 | [Downers \- Rework](https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers \(Rework\)](https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk) | 3:01 |
 | 69 | [Take You Higher \- VIP](https://open.spotify.com/track/23j0RW9sGbxoU6VOhERe0t) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Take You Higher \(VIP\)](https://open.spotify.com/album/1lrE7AKDDM0Co1GPObbp26) | 3:35 |
-| 70 | [Bittersweet Goodbye \- Lens Remix](https://open.spotify.com/track/3wkuynG4GwBd8LLNDeKTE5) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Bittersweet Goodbye \(Lens Remix\)](https://open.spotify.com/album/6tp5KT9JEffGYt5iXzqOnY) | 3:21 |
-| 71 | [When It Rains, It Pours \(feat\. Coco, Mr Traumatik & Songer\) \- Shapes Remix](https://open.spotify.com/track/5XDS88WPZRekqrBBfawjI5) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw) | [When It Rains, It Pours \(Shapes Remix\) \(feat\. Coco, Mr Traumatik & Songer\)](https://open.spotify.com/album/3lxi18DxYCsn3fMv2F4Y9L) | 4:14 |
+| 70 | [When It Rains, It Pours \(feat\. Coco, Mr Traumatik & Songer\) \- Shapes Remix](https://open.spotify.com/track/5XDS88WPZRekqrBBfawjI5) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw) | [When It Rains, It Pours \(Shapes Remix\) \(feat\. Coco, Mr Traumatik & Songer\)](https://open.spotify.com/album/3lxi18DxYCsn3fMv2F4Y9L) | 4:14 |
+| 71 | [Bittersweet Goodbye \- Lens Remix](https://open.spotify.com/track/3wkuynG4GwBd8LLNDeKTE5) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Bittersweet Goodbye \(Lens Remix\)](https://open.spotify.com/album/6tp5KT9JEffGYt5iXzqOnY) | 3:21 |
 | 72 | [Sirens](https://open.spotify.com/track/3HeOOjms1LHV4U91lKcbwd) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Sirens](https://open.spotify.com/album/3L4Meb0nRGrUulc4Xp9esu) | 2:50 |
 | 73 | [Party President](https://open.spotify.com/track/0rEUglmFNvBAtg0w3mo3CS) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Party President](https://open.spotify.com/album/0VLlG23D8mtxGHuctstrO8) | 3:07 |
 | 74 | [Let U Know \(feat\. Charlotte Plank\)](https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Let U Know \(feat\. Charlotte Plank\)](https://open.spotify.com/album/5kRPPrLyW4iXoAuz1GKfOQ) | 2:40 |
 | 75 | [Lively \(feat\. Jaykae & Blair Muir\)](https://open.spotify.com/track/4LNJEZ4PEOZH6jyJuKEaUP) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [Lively \(feat\. Jaykae & Blair Muir\)](https://open.spotify.com/album/0Z8jfqzvBnUHiSfVBXXniD) | 2:32 |
 
-Snapshot ID: `MCxiYjZmYTZiNjFjZDYxNzllNGQ2MjgzZDhhNzdjNDg3ZWZiODY1MDUx`
+Snapshot ID: `MCw2YmIyYjcyNDhmMjRlY2UyMTFkNDM4YmY5YmVjNDdlMDZmYjMyNzFm`

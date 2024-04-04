@@ -1,12 +1,12 @@
 {
   "description": "?! ft. Artemas",
-  "num_followers": 741029,
+  "num_followers": 741146,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWZjYjdhZjg5NmJmNzNkN2QzMmFlYzJhZWRkNjI5ZTk1YzYyOWZm",
+  "snapshot_id": "MCwzMjRiNWI2MjBkNDM0MmNjNjRiZDBlZDY5YjE1YzNlNzZmZDBkZDIz",
   "tracks": [
     {
       "added_at": "2024-03-19 20:25:15",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 214557,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "Gangsta",
         "url": "https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 194520,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 214557,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1053,22 +1053,6 @@
       "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
     },
     {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "The Sex EP",
-        "url": "https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Catching Chickens EP",
@@ -1087,6 +1071,38 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "The Sex EP",
+        "url": "https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Too Slow",
+        "url": "https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 124614,
+      "name": "Too Slow",
+      "url": "https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "lazy",
         "url": "https://open.spotify.com/album/6kymj5mHk1YZupsLrKuzF4"
       },
@@ -1099,6 +1115,22 @@
       "duration_ms": 125090,
       "name": "lazy (haste)",
       "url": "https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Me n My Girl",
+        "url": "https://open.spotify.com/album/5zod1g9FgDO4eNNpjLMDPT"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 130242,
+      "name": "Me n My Girl",
+      "url": "https://open.spotify.com/track/6tngVk9QDusW1nJmcY83uf"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1147,38 +1179,6 @@
       "duration_ms": 126233,
       "name": "Ant Pile",
       "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Me n My Girl",
-        "url": "https://open.spotify.com/album/5zod1g9FgDO4eNNpjLMDPT"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 130242,
-      "name": "Me n My Girl",
-      "url": "https://open.spotify.com/track/6tngVk9QDusW1nJmcY83uf"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Too Slow",
-        "url": "https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 124614,
-      "name": "Too Slow",
-      "url": "https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "HIGHWITCHA",
-        "url": "https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "HIGHWITCHA",
-      "url": "https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
       },
@@ -1319,22 +1303,18 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "I Might be Fake",
-        "url": "https://open.spotify.com/album/6lg88hmM7QAFDWvaW47TZ6"
+        "name": "HIGHWITCHA",
+        "url": "https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh"
       },
       "artists": [
         {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        },
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
         }
       ],
-      "duration_ms": 168805,
-      "name": "I Might be Fake",
-      "url": "https://open.spotify.com/track/7DTpqH64fSXDA3CuFxMAKE"
+      "duration_ms": 135529,
+      "name": "HIGHWITCHA",
+      "url": "https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1351,6 +1331,26 @@
       "duration_ms": 127058,
       "name": "JASMINE",
       "url": "https://open.spotify.com/track/6EYaL5ach3SUCQSebLMops"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "I Might be Fake",
+        "url": "https://open.spotify.com/album/6lg88hmM7QAFDWvaW47TZ6"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        },
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 168805,
+      "name": "I Might be Fake",
+      "url": "https://open.spotify.com/track/7DTpqH64fSXDA3CuFxMAKE"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "UGOMDN - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5WJlAVq7OMFFQSA5ZVRnyH"
-      },
-      "artists": [
-        {
-          "name": "chlothegod",
-          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
-        }
-      ],
-      "duration_ms": 176191,
-      "name": "UGOMDN - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3dDEKW90qTAjYPxhcA6Mtk"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "Driver",
         "url": "https://open.spotify.com/album/3PqeO4aB2VIw27kSffCZL4"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 165989,
       "name": "Driver",
       "url": "https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "UGOMDN - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5WJlAVq7OMFFQSA5ZVRnyH"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "duration_ms": 176191,
+      "name": "UGOMDN - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3dDEKW90qTAjYPxhcA6Mtk"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1645,22 +1645,6 @@
       "url": "https://open.spotify.com/track/6sEKSKRnCCsl20GRPNlAQj"
     },
     {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Princess Forever",
-        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Gimme A Chance",
-      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Calling My Name",
@@ -1675,6 +1659,22 @@
       "duration_ms": 134918,
       "name": "Calling My Name",
       "url": "https://open.spotify.com/track/0grihwUryitBRp0kkHFbcB"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Princess Forever",
+        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Gimme A Chance",
+      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
     },
     {
       "added_at": "2024-03-19 20:25:15",

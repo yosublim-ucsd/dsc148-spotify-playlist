@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 22802,
+  "num_followers": 22853,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmUxOTUzNWMxZDdmNmRlNmZiZjRlMTEwNTUyMDgzZDIwN2MzZjBk",
+  "snapshot_id": "MCw4NWU1NzExZWJkNzRmMjIwZDk0Njc2NmE3ODllNWQ3MDcwMTQ1NzQx",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Finally We Are No One",
-        "url": "https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k"
-      },
-      "artists": [
-        {
-          "name": "m\u00fam",
-          "url": "https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU"
-        }
-      ],
-      "duration_ms": 50133,
-      "name": "Sleep/Swim",
-      "url": "https://open.spotify.com/track/1GOcC3nJGnjTioFVUnLlmH"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 409066,
       "name": "Melancholia II",
       "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Finally We Are No One",
+        "url": "https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k"
+      },
+      "artists": [
+        {
+          "name": "m\u00fam",
+          "url": "https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU"
+        }
+      ],
+      "duration_ms": 50133,
+      "name": "Sleep/Swim",
+      "url": "https://open.spotify.com/track/1GOcC3nJGnjTioFVUnLlmH"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Grinning Cat",
-        "url": "https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "I Imagine",
-      "url": "https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Solaris (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 300680,
       "name": "Will She Come Back",
       "url": "https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Grinning Cat",
+        "url": "https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "I Imagine",
+      "url": "https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
-      },
-      "artists": [
-        {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
-        }
-      ],
-      "duration_ms": 344560,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Black Earth",
         "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 403573,
       "name": "Crimson Ways",
       "url": "https://open.spotify.com/track/6DCucKDvfe2Hqc3PWMB9rF"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+      },
+      "artists": [
+        {
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+        }
+      ],
+      "duration_ms": 344560,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Dead Texan",
-        "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
-      },
-      "artists": [
-        {
-          "name": "The Dead Texan",
-          "url": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT"
-        }
-      ],
-      "duration_ms": 347706,
-      "name": "A Chronicle of Early Failures - Part 2",
-      "url": "https://open.spotify.com/track/3lOKW6po9WXDidfTxRZROT"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "When the Detail Lost Its Freedom",
         "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 273186,
       "name": "Piano Abg",
       "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Dead Texan",
+        "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
+      },
+      "artists": [
+        {
+          "name": "The Dead Texan",
+          "url": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT"
+        }
+      ],
+      "duration_ms": 347706,
+      "name": "A Chronicle of Early Failures - Part 2",
+      "url": "https://open.spotify.com/track/3lOKW6po9WXDidfTxRZROT"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Songs for the Broken Hearted",
-        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
-      },
-      "artists": [
-        {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
-        }
-      ],
-      "duration_ms": 140840,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Utop\u00eda",
         "url": "https://open.spotify.com/album/0xl7DiPmp1326SSgIi6fEY"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Songs for the Broken Hearted",
+        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
+      },
+      "artists": [
+        {
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+        }
+      ],
+      "duration_ms": 140840,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "The Mist",
         "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Telegraphs in Negative / Mouths Trapped in Static",
-        "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
-      },
-      "artists": [
-        {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
-        }
-      ],
-      "duration_ms": 135293,
-      "name": "Your Guts Are Like Mine",
-      "url": "https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Streichelfisch (Remastered)",
         "url": "https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 74246,
       "name": "Anfangtastisch (Remastered)",
       "url": "https://open.spotify.com/track/4Nal4GnS7niDUpjRXOAH4w"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Telegraphs in Negative / Mouths Trapped in Static",
+        "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
+      },
+      "artists": [
+        {
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+        }
+      ],
+      "duration_ms": 135293,
+      "name": "Your Guts Are Like Mine",
+      "url": "https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "MP3 Collection",
+        "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
+      },
+      "artists": [
+        {
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+        }
+      ],
+      "duration_ms": 438066,
+      "name": "Raamat",
+      "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Chessa",
         "url": "https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 351980,
       "name": "Aparaquasynthe (Remastered)",
       "url": "https://open.spotify.com/track/6OlM4VG2u07UKSdjK0kRmB"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "MP3 Collection",
-        "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
-      },
-      "artists": [
-        {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
-        }
-      ],
-      "duration_ms": 438066,
-      "name": "Raamat",
-      "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1551,6 +1551,38 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Prism of Eternal Now",
+        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
+      },
+      "artists": [
+        {
+          "name": "White Rainbow",
+          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
+        }
+      ],
+      "duration_ms": 404200,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "L\u2019Autopsie Ph\u00e9nom\u00e9nale de Dieu",
+        "url": "https://open.spotify.com/album/14gJJ0h7DJiC0UqlSLSnqy"
+      },
+      "artists": [
+        {
+          "name": "Kreng",
+          "url": "https://open.spotify.com/artist/1D8wAaE3QG9CJQJvAKMJhZ"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "De Storm",
+      "url": "https://open.spotify.com/track/6mVclchrniUeZKwLxMAT9p"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Second Childhood",
         "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
       },
@@ -1575,22 +1607,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Prism of Eternal Now",
-        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
-      },
-      "artists": [
-        {
-          "name": "White Rainbow",
-          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
-        }
-      ],
-      "duration_ms": 404200,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 378840,
       "name": "Welk",
       "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "L\u2019Autopsie Ph\u00e9nom\u00e9nale de Dieu",
-        "url": "https://open.spotify.com/album/14gJJ0h7DJiC0UqlSLSnqy"
-      },
-      "artists": [
-        {
-          "name": "Kreng",
-          "url": "https://open.spotify.com/artist/1D8wAaE3QG9CJQJvAKMJhZ"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "De Storm",
-      "url": "https://open.spotify.com/track/6mVclchrniUeZKwLxMAT9p"
     },
     {
       "added_at": "2023-08-04 12:53:28",

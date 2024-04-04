@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Beyonce
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,573 likes - 78 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,612 likes - 78 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 47 | [favorite \- english](https://open.spotify.com/track/10PsEwmFKLK31Nqc1utxIK) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 |
 | 48 | [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB) | 2:57 |
 | 49 | [Sleep Walking](https://open.spotify.com/track/5DbImsEhzxDwFzjrZB7YKa) | [Phebe Starr](https://open.spotify.com/artist/5buTKeJ19EBEcckqTe0XqP) | [Sleep Walking](https://open.spotify.com/album/3Aa7jwc53mX9zCArr4yRwN) | 3:29 |
-| 50 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
+| 50 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 |
 | 51 | [Breakable](https://open.spotify.com/track/2yqWfu4Im6kKRtt6Obym7t) | [Lee Sugar](https://open.spotify.com/artist/1969BWxzmjFulSOaV6yBhJ) | [Breakable](https://open.spotify.com/album/4A4MwkRNP2VSJ3PKphRk7g) | 2:48 |
 | 52 | [All I Need](https://open.spotify.com/track/3fA1ftCkI0rwc2fz09ae29) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM), [IS U IS U](https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX) | [All I Need](https://open.spotify.com/album/2pXo4k3f6Za6rFrpF7B5sI) | 2:58 |
 | 53 | [Stealin' Love](https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Stealin' Love](https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S) | 2:20 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 77 | [YOU DON'T LIKE ME](https://open.spotify.com/track/5mQKjKTFhbujc7wdNvRzhQ) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [YOU DON'T LIKE ME](https://open.spotify.com/album/2T9iQj3qSR5lQPSEPjkul4) | 2:44 |
 | 78 | [Face of God](https://open.spotify.com/track/4A9M5nq0KsU8A58nfoFb0q) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Face of God](https://open.spotify.com/album/4kx3eYF1Sin4wwe15Kj0ih) | 5:18 |
 
-Snapshot ID: `MCxiZDY0MWI2MDZiOGM3MDIzNGNhYmEwZWYzMDExYTEyMjQ5YWJmZGFm`
+Snapshot ID: `MCw4MGNlZWQ5NjMwNDM4MjdmNjI4MGQ1NmUzYTYxZTFlYTE0YjAzN2I3`

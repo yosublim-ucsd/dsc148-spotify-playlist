@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,339 likes - 70 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,375 likes - 70 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 | 69 | [Thinking Of U](https://open.spotify.com/track/0ObFG6JadCEfirwmFRBPFY) | [Attic Beats](https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi) | [Thinking Of U](https://open.spotify.com/album/5RPeU8jJYrIrLqLl0zduvl) | 2:00 |
 | 70 | [You Want Me \(Never\)](https://open.spotify.com/track/5QfiuwqeI1Hshv9lltSMBL) | [Marcellus Pittman](https://open.spotify.com/artist/6Qlqa7riHCznxb8ppwxsOF) | [The Eastside Story EP](https://open.spotify.com/album/7fM0yUgxQ6NRA6nF7TNNSS) | 7:35 |
 
-Snapshot ID: `MCwwMDQzOTdhOTU0YjQxOWZhYWQ3NzhjYTMyZTIzNTU3ZWQwYzM4MjEw`
+Snapshot ID: `MCxkMWJhZmM4MmNlZTYxMGQxZjA2NjY5ZDk4ZTAzODFiYjIxMDE1NTU0`

@@ -1,12 +1,12 @@
 {
   "description": "Faith without work[out]s is dead!  Get your beast mode on!",
-  "num_followers": 222667,
+  "num_followers": 222895,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTE4OTU4ODk0NWM1OTE1OTJjZmE3MzI3Mzk0NDQ4ZjJiNTdjMjUy",
+  "snapshot_id": "MCw2MTQ1ODEwMDgxMmJiNzgwN2Q3OTk3NGNmZjM5NTk2MGJhZDQyNWNk",
   "tracks": [
     {
       "added_at": "2024-03-20 10:50:51",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "Saved You Too",
+        "url": "https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9"
+      },
+      "artists": [
+        {
+          "name": "Y Shadey",
+          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
+        }
+      ],
+      "duration_ms": 118413,
+      "name": "Saved You Too",
+      "url": "https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "MVP",
         "url": "https://open.spotify.com/album/0nDku2WGHlH96oLtvN3Z4n"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 159998,
       "name": "Tables Turned",
       "url": "https://open.spotify.com/track/29JdRQohqfWj35j4p6tzCZ"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "Saved You Too",
-        "url": "https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9"
-      },
-      "artists": [
-        {
-          "name": "Y Shadey",
-          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
-        }
-      ],
-      "duration_ms": 118413,
-      "name": "Saved You Too",
-      "url": "https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 162403,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "The Way You Act",
         "url": "https://open.spotify.com/album/3ablPjEIGCXEKAD9Y03GK9"
       },
@@ -847,26 +831,6 @@
       "duration_ms": 130627,
       "name": "The Way You Act",
       "url": "https://open.spotify.com/track/1WYAz2ZtyyAFL4NyFpIx2c"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "Giants",
-        "url": "https://open.spotify.com/album/0spOTYRQFWRbNwapBauYmg"
-      },
-      "artists": [
-        {
-          "name": "Roy Tosh",
-          "url": "https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye"
-        },
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Giants",
-      "url": "https://open.spotify.com/track/0N8R08onW7h8ghBhns9TqV"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -899,6 +863,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 162403,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "MAN DOWN",
         "url": "https://open.spotify.com/album/1Pqo50wK8molwXT0fEye3h"
       },
@@ -915,6 +895,26 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "Giants",
+        "url": "https://open.spotify.com/album/0spOTYRQFWRbNwapBauYmg"
+      },
+      "artists": [
+        {
+          "name": "Roy Tosh",
+          "url": "https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye"
+        },
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Giants",
+      "url": "https://open.spotify.com/track/0N8R08onW7h8ghBhns9TqV"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "Winners Side",
         "url": "https://open.spotify.com/album/4WBc9bRR0iA7o5e7dPnOqP"
       },
@@ -927,6 +927,26 @@
       "duration_ms": 194299,
       "name": "Winners Side",
       "url": "https://open.spotify.com/track/5G3owEcniITWFSLvNMxLOd"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "In The Light",
+        "url": "https://open.spotify.com/album/4pu1OrN2gFrpR2nkO24gZS"
+      },
+      "artists": [
+        {
+          "name": "DEON",
+          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
+        },
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "In The Light",
+      "url": "https://open.spotify.com/track/4NTtsz3d37EUTpqEJVKGus"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -959,26 +979,6 @@
       "duration_ms": 216000,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "In The Light",
-        "url": "https://open.spotify.com/album/4pu1OrN2gFrpR2nkO24gZS"
-      },
-      "artists": [
-        {
-          "name": "DEON",
-          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
-        },
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "In The Light",
-      "url": "https://open.spotify.com/track/4NTtsz3d37EUTpqEJVKGus"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "BOATS",
-        "url": "https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ"
+        "name": "We Already Won",
+        "url": "https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx"
       },
       "artists": [
         {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
         }
       ],
-      "duration_ms": 144294,
-      "name": "Nothing Into Something",
-      "url": "https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC"
+      "duration_ms": 115526,
+      "name": "I See Lights",
+      "url": "https://open.spotify.com/track/2tevNriyzWHKDEIKw5UtAe"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "We Already Won",
-        "url": "https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 115526,
-      "name": "I See Lights",
-      "url": "https://open.spotify.com/track/2tevNriyzWHKDEIKw5UtAe"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "NITE-N-DAY - EP",
         "url": "https://open.spotify.com/album/0elwGmWUMo8oDksWnvqyoC"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 149765,
       "name": "NITE-N-DAY",
       "url": "https://open.spotify.com/track/5ckB1ZYZLmuqGDu8faGi2d"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "BOATS",
+        "url": "https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        }
+      ],
+      "duration_ms": 144294,
+      "name": "Nothing Into Something",
+      "url": "https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Life and Death",
-        "url": "https://open.spotify.com/album/3Ptyj0m3OHHb74ErQGvjfj"
-      },
-      "artists": [
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        }
-      ],
-      "duration_ms": 178357,
-      "name": "Her Song",
-      "url": "https://open.spotify.com/track/6ffgPcFHGLuccB1yKcCmMV"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Play!",
         "url": "https://open.spotify.com/album/376W7E1CjMqgBrYZK5GTuM"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "Life and Death",
+        "url": "https://open.spotify.com/album/3Ptyj0m3OHHb74ErQGvjfj"
+      },
+      "artists": [
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        }
+      ],
+      "duration_ms": 178357,
+      "name": "Her Song",
+      "url": "https://open.spotify.com/track/6ffgPcFHGLuccB1yKcCmMV"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "What?",
         "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
       },
@@ -1315,22 +1315,6 @@
       "duration_ms": 132472,
       "name": "What?",
       "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "Get Out The Way",
-        "url": "https://open.spotify.com/album/5tu0jIj10M3NQ5aUVRBpeo"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 115535,
-      "name": "Get Out The Way",
-      "url": "https://open.spotify.com/track/1YVt8oina9APslIHQjIjOI"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1363,6 +1347,22 @@
       "duration_ms": 183201,
       "name": "HI-C",
       "url": "https://open.spotify.com/track/6DmLU5yyCcwCS5MgHbZq78"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Get Out The Way",
+        "url": "https://open.spotify.com/album/5tu0jIj10M3NQ5aUVRBpeo"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 115535,
+      "name": "Get Out The Way",
+      "url": "https://open.spotify.com/track/1YVt8oina9APslIHQjIjOI"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/2q4Mu2bkMECpfOBT8UP7Vx"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 219399,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/43F2kSXlvOfMFsvFg5LpPa"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "Full Metal",
         "url": "https://open.spotify.com/album/0sa6oqWexI0P9S2Y26R1wp"
       },
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/2q4Mu2bkMECpfOBT8UP7Vx"
-      },
-      "artists": [
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 219399,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/43F2kSXlvOfMFsvFg5LpPa"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "ALOT",
         "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
       },
@@ -1523,6 +1523,26 @@
       "duration_ms": 145011,
       "name": "ALOT",
       "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Potential",
+        "url": "https://open.spotify.com/album/1WnJo2qTW2AI9V4Dps4sS2"
+      },
+      "artists": [
+        {
+          "name": "Drika Will",
+          "url": "https://open.spotify.com/artist/5VdviwU19Vq41743Wk12FB"
+        },
+        {
+          "name": "Jekasole",
+          "url": "https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly"
+        }
+      ],
+      "duration_ms": 196578,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/1sVLkx9hkLcKNeg5GDrtuw"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1547,26 +1567,6 @@
       "duration_ms": 168000,
       "name": "PLAN PLAN",
       "url": "https://open.spotify.com/track/0EbDu1P2IOei9r3WlrECMp"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "Potential",
-        "url": "https://open.spotify.com/album/1WnJo2qTW2AI9V4Dps4sS2"
-      },
-      "artists": [
-        {
-          "name": "Drika Will",
-          "url": "https://open.spotify.com/artist/5VdviwU19Vq41743Wk12FB"
-        },
-        {
-          "name": "Jekasole",
-          "url": "https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly"
-        }
-      ],
-      "duration_ms": 196578,
-      "name": "Potential",
-      "url": "https://open.spotify.com/track/1sVLkx9hkLcKNeg5GDrtuw"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "Highs & Lows",
+        "url": "https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY"
+      },
+      "artists": [
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/5Hd5YudVgjRcIEcIrAaCPn"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "STRONGER",
         "url": "https://open.spotify.com/album/3h1Cw8Eitj3GNp1VMENmCj"
       },
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Highs & Lows",
-        "url": "https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY"
-      },
-      "artists": [
-        {
-          "name": "Jay-Way",
-          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Highs & Lows",
-      "url": "https://open.spotify.com/track/5Hd5YudVgjRcIEcIrAaCPn"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Blessing",
         "url": "https://open.spotify.com/album/0cw1NOPTQ8R6bNjl394M5Z"
       },
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Wavy",
-        "url": "https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg"
-      },
-      "artists": [
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/61hTCLVKXkvxQKRiTFOwd1"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Check Me Out",
         "url": "https://open.spotify.com/album/6Izr5b1DXvk9JDfQDjuAmQ"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 167727,
       "name": "Check Me Out",
       "url": "https://open.spotify.com/track/5nZ5pAW5UI3SGGnYSjKZCt"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/61hTCLVKXkvxQKRiTFOwd1"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "For A Reason",
+        "url": "https://open.spotify.com/album/7nAaP5Pj1OIdl8Zwl0oDVV"
+      },
+      "artists": [
+        {
+          "name": "Starringo",
+          "url": "https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj"
+        }
+      ],
+      "duration_ms": 161872,
+      "name": "For A Reason",
+      "url": "https://open.spotify.com/track/4F1jcSm2zz4hAXUsR1UgIX"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "KEEPER",
         "url": "https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 238285,
       "name": "KEEPER",
       "url": "https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "For A Reason",
-        "url": "https://open.spotify.com/album/7nAaP5Pj1OIdl8Zwl0oDVV"
-      },
-      "artists": [
-        {
-          "name": "Starringo",
-          "url": "https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj"
-        }
-      ],
-      "duration_ms": 161872,
-      "name": "For A Reason",
-      "url": "https://open.spotify.com/track/4F1jcSm2zz4hAXUsR1UgIX"
     }
   ],
   "unique_name": "Beast Mode Christian",

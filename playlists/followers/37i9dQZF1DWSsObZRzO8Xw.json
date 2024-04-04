@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 170140,
+  "2024-04-04": 170235,
   "date_first_scraped": "2022-05-11",
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: LITE",
   "name": "Math Rock",
@@ -839,6 +839,24 @@
       "duration_ms": 138400,
       "name": "El Hombre P\u00e1nico",
       "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
+    },
+    {
+      "album": {
+        "name": "Caballeros Del Albedr\u00edo",
+        "url": "https://open.spotify.com/album/65bgZZDpNzCqEy2809zw1U"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138400,
+      "name": "El Hombre P\u00e1nico",
+      "url": "https://open.spotify.com/track/2BDSeuEMhUIhnGXBFY0h6n"
     },
     {
       "album": {
@@ -2467,7 +2485,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 112616,
       "name": "x Maria Violenza",
       "url": "https://open.spotify.com/track/3I2SPI12BIfal418Rz2NtB"

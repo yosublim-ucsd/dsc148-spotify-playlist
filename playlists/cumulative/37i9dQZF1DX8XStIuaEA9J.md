@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: imase
 
-359 songs - 21 hr 15 min
+360 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [SHAKE](https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [SHAKE](https://open.spotify.com/album/4CMjpMJPI0WTx8D7v7TPFe) | 3:59 | 2024-01-09 | 2024-01-11 |
 | [Shampoo](https://open.spotify.com/track/5Ca6FW15TGmKI7HlXf8ZKz) | [Shuta Sueyoshi](https://open.spotify.com/artist/3NSKTb4t386KNoI3bP9XVV) | [Shampoo](https://open.spotify.com/album/4DhaRTEXbjAUiCGM2tIJZG) | 3:09 | 2024-03-19 | 2024-03-27 |
 | [Shine Out](https://open.spotify.com/track/2FgLVjctguMwUcYURQUOYA) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Shine Out](https://open.spotify.com/album/2rO5QkM3BmZw0NLbQe7LJB) | 3:30 | 2024-03-07 | 2024-04-03 |
+| [Shonan Crazy](https://open.spotify.com/track/4KLHuOm1Rx5pWEhxcM16ag) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [DANCE](https://open.spotify.com/album/1A1yMVgOJlvlO8pkia9ThB) | 2:30 | 2024-04-02 |  |
 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-11-23 | 2024-01-24 |
 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2023-12-07 | 2024-02-14 |
 | [snow love](https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [snow love](https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS) | 3:26 | 2023-11-23 | 2023-12-19 |
@@ -253,7 +254,7 @@
 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 | 2024-01-09 |  |
 | [サンポリズム](https://open.spotify.com/track/1v76huIm1TfABpvoJLxoV0) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [サンポリズム](https://open.spotify.com/album/7jgsyeOtzJoZoXAzsPoMHl) | 3:31 | 2024-03-12 | 2024-03-20 |
 | [シュガースポット](https://open.spotify.com/track/5KQnoIToRhc46PsWoiv5iq) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [シュガースポット](https://open.spotify.com/album/7CogGI6l5nM7bXFcQfg0Wg) | 3:50 | 2023-11-23 | 2023-12-13 |
-| [ショウナンクレイジー](https://open.spotify.com/track/00yosP1WsXVXAuSxo2lhRT) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [DANCE](https://open.spotify.com/album/5vomvgQUBXwPt4YRHCizmr) | 2:30 | 2024-04-02 |  |
+| [ショウナンクレイジー](https://open.spotify.com/track/00yosP1WsXVXAuSxo2lhRT) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [DANCE](https://open.spotify.com/album/5vomvgQUBXwPt4YRHCizmr) | 2:30 | 2024-04-02 | 2024-04-04 |
 | [ショコラカタブラ](https://open.spotify.com/track/6nhGcCOyjnHshIJjPROEBF) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:03 | 2024-02-08 | 2024-02-23 |
 | [ジャージ \- 2024 ver.](https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:34 | 2024-03-07 | 2024-03-09 |
 | [ジングル](https://open.spotify.com/track/6IQuANQN2e61EoNTZf3r5O) | [悠馬](https://open.spotify.com/artist/47kIb7z5wndfkWHdRN34kO) | [ジングル](https://open.spotify.com/album/5rEU14CuDKV5CASdI38Qpo) | 3:24 | 2023-11-29 | 2023-12-06 |

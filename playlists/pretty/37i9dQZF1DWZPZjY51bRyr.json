@@ -1,12 +1,12 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 30786,
+  "num_followers": 30852,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzE5ZWIyZTAxZDQ4YWZhMWY2OTI4YWEyNzVmMjU4MzhkNmVkOTU1",
+  "snapshot_id": "MCw5NjIyYTlkZjg1M2NjN2I1NzY1OTk2ZjE1NzJlMzNkYWMxMGYyMjI4",
   "tracks": [
     {
       "added_at": "2023-12-15 11:35:26",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Golden Meadow",
-        "url": "https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw"
-      },
-      "artists": [
-        {
-          "name": "Forest Gold",
-          "url": "https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU"
-        }
-      ],
-      "duration_ms": 160937,
-      "name": "Golden Meadow",
-      "url": "https://open.spotify.com/track/2RnLkBVNSErnfTgnRtT7lJ"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "The Forest Waking Up",
         "url": "https://open.spotify.com/album/0j9w6EhbopJaIyr5fFLde8"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "528 Hz Well Being",
-        "url": "https://open.spotify.com/album/2HejJv1SKHZGpglUpnYeyp"
+        "name": "Golden Meadow",
+        "url": "https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw"
       },
       "artists": [
         {
-          "name": "Rigby Jay",
-          "url": "https://open.spotify.com/artist/12s8RdGDrmojyfC16intDY"
+          "name": "Forest Gold",
+          "url": "https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU"
         }
       ],
-      "duration_ms": 181587,
-      "name": "528 Hz Well Being",
-      "url": "https://open.spotify.com/track/1rvSKysJCFSkCWlLkQkJxb"
+      "duration_ms": 160937,
+      "name": "Golden Meadow",
+      "url": "https://open.spotify.com/track/2RnLkBVNSErnfTgnRtT7lJ"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -455,6 +439,22 @@
       "duration_ms": 155774,
       "name": "Perfect State Of Mind",
       "url": "https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "528 Hz Well Being",
+        "url": "https://open.spotify.com/album/2HejJv1SKHZGpglUpnYeyp"
+      },
+      "artists": [
+        {
+          "name": "Rigby Jay",
+          "url": "https://open.spotify.com/artist/12s8RdGDrmojyfC16intDY"
+        }
+      ],
+      "duration_ms": 181587,
+      "name": "528 Hz Well Being",
+      "url": "https://open.spotify.com/track/1rvSKysJCFSkCWlLkQkJxb"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "En Paz 432Hz",
-        "url": "https://open.spotify.com/album/5iEHD2vXDdCPUG14clmldm"
-      },
-      "artists": [
-        {
-          "name": "On Dunes",
-          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
-        }
-      ],
-      "duration_ms": 173365,
-      "name": "En Paz 432Hz",
-      "url": "https://open.spotify.com/track/4pSt8Vci86ylpq2l2auNWJ"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Shimmering Forest",
         "url": "https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 187169,
       "name": "Shimmering Forest",
       "url": "https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "En Paz 432Hz",
+        "url": "https://open.spotify.com/album/5iEHD2vXDdCPUG14clmldm"
+      },
+      "artists": [
+        {
+          "name": "On Dunes",
+          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
+        }
+      ],
+      "duration_ms": 173365,
+      "name": "En Paz 432Hz",
+      "url": "https://open.spotify.com/track/4pSt8Vci86ylpq2l2auNWJ"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Dawn Of Day",
-        "url": "https://open.spotify.com/album/4oHYUmGNklzslLCviMZexe"
-      },
-      "artists": [
-        {
-          "name": "Bansuri Tribe",
-          "url": "https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Dawn Of Day",
-      "url": "https://open.spotify.com/track/7LQ2UvA5P0Jz11iyIox3S1"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Treetop Whisperer",
         "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 189380,
       "name": "Treetop Whisperer",
       "url": "https://open.spotify.com/track/3UiDIUA8MIxeAlHKQSVi6k"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Dawn Of Day",
+        "url": "https://open.spotify.com/album/4oHYUmGNklzslLCviMZexe"
+      },
+      "artists": [
+        {
+          "name": "Bansuri Tribe",
+          "url": "https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Dawn Of Day",
+      "url": "https://open.spotify.com/track/7LQ2UvA5P0Jz11iyIox3S1"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Soulful Serenity",
-        "url": "https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj"
-      },
-      "artists": [
-        {
-          "name": "Neoterikoi",
-          "url": "https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA"
-        }
-      ],
-      "duration_ms": 184251,
-      "name": "Soulful Serenity",
-      "url": "https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Clear Thoughts",
         "url": "https://open.spotify.com/album/0EObGlJoKBfBr14MLHKtGn"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 180107,
       "name": "Clear Thoughts",
       "url": "https://open.spotify.com/track/22q9XWXxyIDY1zdqgfsLkF"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Soulful Serenity",
+        "url": "https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj"
+      },
+      "artists": [
+        {
+          "name": "Neoterikoi",
+          "url": "https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA"
+        }
+      ],
+      "duration_ms": 184251,
+      "name": "Soulful Serenity",
+      "url": "https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "The Banks Of Juru",
-        "url": "https://open.spotify.com/album/4SYWzSSCnZZ4TgNVRuEgUK"
-      },
-      "artists": [
-        {
-          "name": "Yolof Palace",
-          "url": "https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj"
-        }
-      ],
-      "duration_ms": 164395,
-      "name": "Let Them Come",
-      "url": "https://open.spotify.com/track/5GiNk6xpSRuORQy3Onvmii"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Tranquility",
         "url": "https://open.spotify.com/album/0pP3iJlExImW0IusI2wy6Q"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Treetop Whisperer",
-        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
+        "name": "The Banks Of Juru",
+        "url": "https://open.spotify.com/album/4SYWzSSCnZZ4TgNVRuEgUK"
       },
       "artists": [
         {
-          "name": "Beyond Observable",
-          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
+          "name": "Yolof Palace",
+          "url": "https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj"
         }
       ],
-      "duration_ms": 190687,
-      "name": "Soil",
-      "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
+      "duration_ms": 164395,
+      "name": "Let Them Come",
+      "url": "https://open.spotify.com/track/5GiNk6xpSRuORQy3Onvmii"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1367,6 +1351,22 @@
       "duration_ms": 156000,
       "name": "Layers Of Trust",
       "url": "https://open.spotify.com/track/48ZNikpEFlxa1JfJLsLJjM"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Treetop Whisperer",
+        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
+      },
+      "artists": [
+        {
+          "name": "Beyond Observable",
+          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
+        }
+      ],
+      "duration_ms": 190687,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
+        "name": "Compassion",
+        "url": "https://open.spotify.com/album/5xCUhWSMtOoyFtqfhYGnWS"
+      },
+      "artists": [
+        {
+          "name": "Heart Chakra",
+          "url": "https://open.spotify.com/artist/3nBxiDHXKkLNSMM0mV0SvO"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Compassion",
+      "url": "https://open.spotify.com/track/4X1FGVMr950FLVWP1BL7jY"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
         "name": "Vinyasa",
         "url": "https://open.spotify.com/album/0LrU2qxwUpZ9KuKJVL0UA1"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 238602,
       "name": "Vinyasa",
       "url": "https://open.spotify.com/track/5ZUdgJ8uUo7LMoMNezC999"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Ancient Prayer",
-        "url": "https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA"
-      },
-      "artists": [
-        {
-          "name": "Aura Lynx",
-          "url": "https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK"
-        }
-      ],
-      "duration_ms": 176796,
-      "name": "Ancient Prayer",
-      "url": "https://open.spotify.com/track/23c2OduSVIcipPMd9q00Fi"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Compassion",
-        "url": "https://open.spotify.com/album/5xCUhWSMtOoyFtqfhYGnWS"
+        "name": "Ancient Prayer",
+        "url": "https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA"
       },
       "artists": [
         {
-          "name": "Heart Chakra",
-          "url": "https://open.spotify.com/artist/3nBxiDHXKkLNSMM0mV0SvO"
+          "name": "Aura Lynx",
+          "url": "https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Compassion",
-      "url": "https://open.spotify.com/track/4X1FGVMr950FLVWP1BL7jY"
+      "duration_ms": 176796,
+      "name": "Ancient Prayer",
+      "url": "https://open.spotify.com/track/23c2OduSVIcipPMd9q00Fi"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Opulence",
-        "url": "https://open.spotify.com/album/1T8mFwmRgnGXLCS6IZBst9"
-      },
-      "artists": [
-        {
-          "name": "Spherical Harmonics",
-          "url": "https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Opulence",
-      "url": "https://open.spotify.com/track/4auTt6uBgN6DjyS3xIi7zZ"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Circle of Life",
         "url": "https://open.spotify.com/album/1nFutOjJZwK70snfXyPUhT"
       },
@@ -1835,6 +1819,22 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
+        "name": "Opulence",
+        "url": "https://open.spotify.com/album/1T8mFwmRgnGXLCS6IZBst9"
+      },
+      "artists": [
+        {
+          "name": "Spherical Harmonics",
+          "url": "https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Opulence",
+      "url": "https://open.spotify.com/track/4auTt6uBgN6DjyS3xIi7zZ"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
         "name": "Flute Meditation",
         "url": "https://open.spotify.com/album/6aUDq4zL1OTaaSS2m2oWOb"
       },
@@ -1847,6 +1847,22 @@
       "duration_ms": 224407,
       "name": "Flute Meditation",
       "url": "https://open.spotify.com/track/6Maz4hkQivpTkktc4hriCI"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Landscapes",
+        "url": "https://open.spotify.com/album/0IEo9mRSBnvqSzoY8cOSPp"
+      },
+      "artists": [
+        {
+          "name": "Rex Imaleo",
+          "url": "https://open.spotify.com/artist/0tDrVzr4ZyzLf2618Cxp5w"
+        }
+      ],
+      "duration_ms": 177101,
+      "name": "Lemon Balm",
+      "url": "https://open.spotify.com/track/2j7Ahvb0XYHv31vLRrlwTi"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1883,22 +1899,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Landscapes",
-        "url": "https://open.spotify.com/album/0IEo9mRSBnvqSzoY8cOSPp"
-      },
-      "artists": [
-        {
-          "name": "Rex Imaleo",
-          "url": "https://open.spotify.com/artist/0tDrVzr4ZyzLf2618Cxp5w"
-        }
-      ],
-      "duration_ms": 177101,
-      "name": "Lemon Balm",
-      "url": "https://open.spotify.com/track/2j7Ahvb0XYHv31vLRrlwTi"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Dream Spheres",
         "url": "https://open.spotify.com/album/5EH66ijsydfe1ZU9hy8OVD"
       },
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Healing Clarity EMDR",
-        "url": "https://open.spotify.com/album/1EBY9nOYFoSKFbYpdyyhzo"
-      },
-      "artists": [
-        {
-          "name": "Astron",
-          "url": "https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Breakthrough (EMDR)",
-      "url": "https://open.spotify.com/track/2vG8CbryztUUT7jRLlcdQ2"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 134349,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Healing Clarity EMDR",
+        "url": "https://open.spotify.com/album/1EBY9nOYFoSKFbYpdyyhzo"
+      },
+      "artists": [
+        {
+          "name": "Astron",
+          "url": "https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Breakthrough (EMDR)",
+      "url": "https://open.spotify.com/track/2vG8CbryztUUT7jRLlcdQ2"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Asana",
-        "url": "https://open.spotify.com/album/5jKt8AOgsOYMaEdIykJ3bo"
-      },
-      "artists": [
-        {
-          "name": "Makalu",
-          "url": "https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Asana",
-      "url": "https://open.spotify.com/track/5JrPeUYpXnIXFAA1YLM8kc"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Testanaadee",
         "url": "https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 184512,
       "name": "Testanaadee",
       "url": "https://open.spotify.com/track/0dKEL8IL3Wgz6vEIAL3P4J"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Asana",
+        "url": "https://open.spotify.com/album/5jKt8AOgsOYMaEdIykJ3bo"
+      },
+      "artists": [
+        {
+          "name": "Makalu",
+          "url": "https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Asana",
+      "url": "https://open.spotify.com/track/5JrPeUYpXnIXFAA1YLM8kc"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
+        "name": "Forgiving the Night",
+        "url": "https://open.spotify.com/album/6aS6f7Tib2fgnu9WcHHpOD"
+      },
+      "artists": [
+        {
+          "name": "Shorenights",
+          "url": "https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Forgiving the Night",
+      "url": "https://open.spotify.com/track/52pCSrRxEVGLhFo1aCX3Yv"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
         "name": "Sounds Of The Earth",
         "url": "https://open.spotify.com/album/6pqqZL1majgeW7H17H9Wlw"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 154000,
       "name": "Healing Solfeggio 528 Hz",
       "url": "https://open.spotify.com/track/1rttTie5nGvG5aSlrXegQI"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Forgiving the Night",
-        "url": "https://open.spotify.com/album/6aS6f7Tib2fgnu9WcHHpOD"
-      },
-      "artists": [
-        {
-          "name": "Shorenights",
-          "url": "https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Forgiving the Night",
-      "url": "https://open.spotify.com/track/52pCSrRxEVGLhFo1aCX3Yv"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2267,18 +2267,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/22qO0N4uQ1LifMZkBJsUSy"
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2"
       },
       "artists": [
         {
-          "name": "Tonalie",
-          "url": "https://open.spotify.com/artist/0YnZJRRAXYitAp9ksU9O7X"
+          "name": "Zoe Connelly",
+          "url": "https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO"
         }
       ],
-      "duration_ms": 143755,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/3ezescL9H4NALmkrXYMTr0"
+      "duration_ms": 136820,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2299,18 +2299,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2"
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/22qO0N4uQ1LifMZkBJsUSy"
       },
       "artists": [
         {
-          "name": "Zoe Connelly",
-          "url": "https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO"
+          "name": "Tonalie",
+          "url": "https://open.spotify.com/artist/0YnZJRRAXYitAp9ksU9O7X"
         }
       ],
-      "duration_ms": 136820,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN"
+      "duration_ms": 143755,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/3ezescL9H4NALmkrXYMTr0"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Lake Reflections",
-        "url": "https://open.spotify.com/album/1F2pa78FOtgQdl1ni4I77p"
-      },
-      "artists": [
-        {
-          "name": "Glacial Patience",
-          "url": "https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav"
-        }
-      ],
-      "duration_ms": 229411,
-      "name": "Lake Reflections",
-      "url": "https://open.spotify.com/track/58yN8JbGTeUc8QA72ZfZvT"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Flores Del Cielo",
         "url": "https://open.spotify.com/album/69U05BZIOhOZR9DUXSPLf0"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 168000,
       "name": "Flores Del Cielo",
       "url": "https://open.spotify.com/track/5jD1fD1f9uIV9KkgNQaHy6"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Lake Reflections",
+        "url": "https://open.spotify.com/album/1F2pa78FOtgQdl1ni4I77p"
+      },
+      "artists": [
+        {
+          "name": "Glacial Patience",
+          "url": "https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav"
+        }
+      ],
+      "duration_ms": 229411,
+      "name": "Lake Reflections",
+      "url": "https://open.spotify.com/track/58yN8JbGTeUc8QA72ZfZvT"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Let It Heal",
-        "url": "https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "432hz Let It Heal - Studio Edit",
-      "url": "https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "The Shimmer",
         "url": "https://open.spotify.com/album/6zRUgOuLPUhfBBRtj6eqrt"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 169722,
       "name": "The Shimmer",
       "url": "https://open.spotify.com/track/2FGtHQ3GZHvqZI0xVAvwzI"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Let It Heal",
+        "url": "https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "432hz Let It Heal - Studio Edit",
+      "url": "https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2564,9 +2564,9 @@
           "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
         }
       ],
-      "duration_ms": 158000,
-      "name": "U\u0219\u0101 Dhy\u0101na / Dawn Meditation",
-      "url": "https://open.spotify.com/track/2bj4ffMQkjXAvXJbcbDsBH"
+      "duration_ms": 147272,
+      "name": "\u0100tmik S\u0101m\u0101njasya / Harmony of the Soul",
+      "url": "https://open.spotify.com/track/5Iepwl8RXDqAmw1EKdenCe"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Majestica",
-        "url": "https://open.spotify.com/album/4QlLsa23L21oa7V84sjj0K"
-      },
-      "artists": [
-        {
-          "name": "Phanari",
-          "url": "https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg"
-        }
-      ],
-      "duration_ms": 193635,
-      "name": "Majestica",
-      "url": "https://open.spotify.com/track/33fpGhpBEiIqY8rGSKNA9y"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "One Giant Leap",
         "url": "https://open.spotify.com/album/6fleY1qghIw98enZVZw7u9"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 157000,
       "name": "One Giant Leap",
       "url": "https://open.spotify.com/track/782QwZQiP9OIZcZhEF0lQ9"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Majestica",
+        "url": "https://open.spotify.com/album/4QlLsa23L21oa7V84sjj0K"
+      },
+      "artists": [
+        {
+          "name": "Phanari",
+          "url": "https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg"
+        }
+      ],
+      "duration_ms": 193635,
+      "name": "Majestica",
+      "url": "https://open.spotify.com/track/33fpGhpBEiIqY8rGSKNA9y"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Blissful Pulses",
-        "url": "https://open.spotify.com/album/6ix5Or8Zc4ins5o7AYcAkY"
-      },
-      "artists": [
-        {
-          "name": "astral rhythms",
-          "url": "https://open.spotify.com/artist/41e1gVX7wXCRGUGmFcajEu"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Blissful Pulses",
-      "url": "https://open.spotify.com/track/05lZVhGjLi84vuGB4pa4QF"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Comfortable Ease",
         "url": "https://open.spotify.com/album/2C6fwWe4cy1meGy8m8nof0"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 116363,
       "name": "Comfortable Ease",
       "url": "https://open.spotify.com/track/4bjaDDWTwOAEL7kFAnpy4R"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Blissful Pulses",
+        "url": "https://open.spotify.com/album/6ix5Or8Zc4ins5o7AYcAkY"
+      },
+      "artists": [
+        {
+          "name": "astral rhythms",
+          "url": "https://open.spotify.com/artist/41e1gVX7wXCRGUGmFcajEu"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Blissful Pulses",
+      "url": "https://open.spotify.com/track/05lZVhGjLi84vuGB4pa4QF"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2724,9 +2724,9 @@
           "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
         }
       ],
-      "duration_ms": 147272,
-      "name": "\u0100tmik S\u0101m\u0101njasya / Harmony of the Soul",
-      "url": "https://open.spotify.com/track/5Iepwl8RXDqAmw1EKdenCe"
+      "duration_ms": 158000,
+      "name": "U\u0219\u0101 Dhy\u0101na / Dawn Meditation",
+      "url": "https://open.spotify.com/track/2bj4ffMQkjXAvXJbcbDsBH"
     }
   ],
   "unique_name": "Wellness (2)",

@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 733344,
+  "num_followers": 733380,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjllMGI4YWRiYWVjYjI1NWIyNjlkM2UxMmExN2RlYjdlZGY0M2Vi",
+  "snapshot_id": "MCw5YzU2MWM0YzgyOGJmYTkyOTAyYzUxOTczMWJhZmY3MDgwNWE3OGM2",
   "tracks": [
     {
       "added_at": "2024-03-15 13:37:53",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "Pink Moon",
         "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 124000,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "Beast Epic",
         "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 231754,
       "name": "Call It Dreaming",
       "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "Veneer",
         "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 141200,
       "name": "Between the Bars",
       "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 170216,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
         "name": "Bon Iver (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 159600,
       "name": "Making All Things New",
       "url": "https://open.spotify.com/track/6VwAh8Z1d5YKoSWoEaV4db"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 170216,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -947,38 +947,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Into The Wild (Music For The Motion Picture)",
-        "url": "https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 322080,
-      "name": "Hard Sun",
-      "url": "https://open.spotify.com/track/0fzCtVM9D5UEwiLqcY8Ouq"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "Young Blood (Acoustic)",
         "url": "https://open.spotify.com/album/6S5IUKVISP7NycmxpuPr9v"
       },
@@ -995,6 +963,22 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
+        "name": "Into The Wild (Music For The Motion Picture)",
+        "url": "https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 322080,
+      "name": "Hard Sun",
+      "url": "https://open.spotify.com/track/0fzCtVM9D5UEwiLqcY8Ouq"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 401413,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
+        "name": "1000 Years",
+        "url": "https://open.spotify.com/album/4uDA2LKlvyDvYdr3xp40ny"
+      },
+      "artists": [
+        {
+          "name": "Allman Brown",
+          "url": "https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN"
+        }
+      ],
+      "duration_ms": 218502,
+      "name": "Sweetest Thing",
+      "url": "https://open.spotify.com/track/3SiRNvjdZGx9TGqabi2ywu"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
         "name": "A Few More Hours at YYZ",
         "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 210506,
       "name": "If You Need To, Keep Time on Me",
       "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
-        "name": "1000 Years",
-        "url": "https://open.spotify.com/album/4uDA2LKlvyDvYdr3xp40ny"
-      },
-      "artists": [
-        {
-          "name": "Allman Brown",
-          "url": "https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN"
-        }
-      ],
-      "duration_ms": 218502,
-      "name": "Sweetest Thing",
-      "url": "https://open.spotify.com/track/3SiRNvjdZGx9TGqabi2ywu"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "3 Rounds and a Sound",
-        "url": "https://open.spotify.com/album/2VPbzka8iaNvwJ4KI588w1"
-      },
-      "artists": [
-        {
-          "name": "Blind Pilot",
-          "url": "https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi"
-        }
-      ],
-      "duration_ms": 266960,
-      "name": "3 Rounds and a Sound",
-      "url": "https://open.spotify.com/track/6AYFKOPbmd12rUP5DalRwB"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "Sense of Home",
         "url": "https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U"
       },
@@ -1735,18 +1719,18 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Home Again",
-        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
+        "name": "3 Rounds and a Sound",
+        "url": "https://open.spotify.com/album/2VPbzka8iaNvwJ4KI588w1"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Blind Pilot",
+          "url": "https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi"
         }
       ],
-      "duration_ms": 212373,
-      "name": "Home Again",
-      "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
+      "duration_ms": 266960,
+      "name": "3 Rounds and a Sound",
+      "url": "https://open.spotify.com/track/6AYFKOPbmd12rUP5DalRwB"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -1771,22 +1755,18 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 289964,
-      "name": "Change (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
+      "duration_ms": 212373,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -1803,6 +1783,26 @@
       "duration_ms": 204360,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 289964,
+      "name": "Change (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/1PxeMLy9b6zmzefxPOXACH"
-      },
-      "artists": [
-        {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
-        }
-      ],
-      "duration_ms": 204857,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/7yJnPO4ZU4kGx82TbaQvlU"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "Without/Within",
         "url": "https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 247493,
       "name": "Sinking Ship",
       "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/1PxeMLy9b6zmzefxPOXACH"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "duration_ms": 204857,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/7yJnPO4ZU4kGx82TbaQvlU"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/36PVznPVQEUp6kgnAfLKhO"
+      },
+      "artists": [
+        {
+          "name": "Woodlock",
+          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Forever Ago",
+      "url": "https://open.spotify.com/track/0NguBFv2WhLthidaTnMoV7"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
         "name": "Darling Arithmetic",
         "url": "https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG"
       },
@@ -2275,22 +2291,6 @@
       "duration_ms": 182857,
       "name": "Drunk On A Flight",
       "url": "https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/36PVznPVQEUp6kgnAfLKhO"
-      },
-      "artists": [
-        {
-          "name": "Woodlock",
-          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Forever Ago",
-      "url": "https://open.spotify.com/track/0NguBFv2WhLthidaTnMoV7"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Living Water",
-        "url": "https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 242076,
-      "name": "Recording 15",
-      "url": "https://open.spotify.com/track/6YKyA96vWcOmcW62bd4M5F"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "It Aint me (Acoustic)",
         "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 192545,
       "name": "It Aint me - Acoustic",
       "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "Living Water",
+        "url": "https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 242076,
+      "name": "Recording 15",
+      "url": "https://open.spotify.com/track/6YKyA96vWcOmcW62bd4M5F"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Cragie Dhu",
-        "url": "https://open.spotify.com/album/5526cc5QEwnSkNzcG7R5RA"
-      },
-      "artists": [
-        {
-          "name": "Dougie MacLean",
-          "url": "https://open.spotify.com/artist/63gizE0cqalXVpwZdZHY47"
-        }
-      ],
-      "duration_ms": 299746,
-      "name": "Caledonia",
-      "url": "https://open.spotify.com/track/7jEVW8o2CIfdgziEJXnii8"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "Not Your Muse (Deluxe)",
         "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 256200,
       "name": "Love Is Back",
       "url": "https://open.spotify.com/track/4kzcJJUonbCSlNXrHXt6n8"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "Cragie Dhu",
+        "url": "https://open.spotify.com/album/5526cc5QEwnSkNzcG7R5RA"
+      },
+      "artists": [
+        {
+          "name": "Dougie MacLean",
+          "url": "https://open.spotify.com/artist/63gizE0cqalXVpwZdZHY47"
+        }
+      ],
+      "duration_ms": 299746,
+      "name": "Caledonia",
+      "url": "https://open.spotify.com/track/7jEVW8o2CIfdgziEJXnii8"
     },
     {
       "added_at": "2024-03-15 13:37:53",

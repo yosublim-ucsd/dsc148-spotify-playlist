@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: Static Dress
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,173 likes - 55 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,228 likes - 55 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 8 | [Tearing Your Life Away](https://open.spotify.com/track/41d34pNUJPcMFRW6K1PcJi) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Tearing Your Life Away](https://open.spotify.com/album/3xW6YyiZY9AQcveSehm0jT) | 3:16 |
 | 9 | [Tsunami \(11:11\)](https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Tsunami \(11:11\)](https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE) | 3:08 |
 | 10 | [Feed The Dream](https://open.spotify.com/track/42gWJ8jAPVFG7FwxHOIQoX) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [Feed The Dream](https://open.spotify.com/album/3h0iF9lbfKCalG5KclDWPA) | 4:31 |
-| 11 | [Survive](https://open.spotify.com/track/7u4uWBuV6LXLU90rm24vhS) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Fake](https://open.spotify.com/album/6iNYooKRl6R3rtZUiKcLkV) | 2:51 |
+| 11 | [Survive](https://open.spotify.com/track/1cKk7nrg2SvXF9Vc32TxLk) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [The Ledge](https://open.spotify.com/album/3uesiuxoUGuj5eR8EivGEq) | 2:51 |
 | 12 | [Opening Night](https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy) | 2:07 |
 | 13 | [Boys in the Band](https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [You're Welcome](https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9) | 2:35 |
 | 14 | [Weaponize This](https://open.spotify.com/track/5DLeSJtjxhoNQRUm2zCWyk) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Weaponize This](https://open.spotify.com/album/6Ju8h0MO81dfkW43SO76Og) | 2:40 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 54 | [Brick](https://open.spotify.com/track/0CLHbBycBGgFUQuRfISbg1) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [Brick](https://open.spotify.com/album/0ycvVIQlpnp5tmi2SI4QrK) | 2:45 |
 | 55 | [you'll never be alone again](https://open.spotify.com/track/5cMB5jGfNCm6b65YXhSIEJ) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ) | [alone again](https://open.spotify.com/album/1xEDDtwENUcM84zAbIwOdu) | 2:47 |
 
-Snapshot ID: `MCxkMjhiMDMxOTc3OTM0ZWVkNjlmNzY4M2FjNjVmNTg0MDc2MGRjZjI0`
+Snapshot ID: `MCw5ZGYyNDQ3ODFmMWE0OGJjMGEzYTNlYTA2MzQ2YjlkMmVmZmEyOGJj`

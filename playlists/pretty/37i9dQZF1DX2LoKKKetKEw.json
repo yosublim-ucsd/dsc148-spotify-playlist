@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:7EHtFdWeBK26GJ5lKt02SV\">Reblah</a>",
-  "num_followers": 82093,
+  "num_followers": 82142,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjkzNzkxOThjZDk2MzRhM2JmNDc4ODU5MTc0MjNlNmNiNmY1MDI0",
+  "snapshot_id": "MCxkOTcxZWFkMTQ5YzkxMDhkODY0YWM5NjBiYmY0YWZlYmU4YTQ4MzIz",
   "tracks": [
     {
       "added_at": "2024-02-23 09:40:22",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/5O1tpz2vdJXhGnFIwSzU9Z"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 172027,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/33ztFxjys2xXQZBn0upbeE"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "Daily",
         "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 176571,
       "name": "Daily",
       "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/5O1tpz2vdJXhGnFIwSzU9Z"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 172027,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/33ztFxjys2xXQZBn0upbeE"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Overwhelmed",
-        "url": "https://open.spotify.com/album/1yZSwXMSUGePIKwJLt7HHh"
-      },
-      "artists": [
-        {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Overwhelmed",
-      "url": "https://open.spotify.com/track/5lI39HnRnc9quha7PwzFlz"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "Loved",
         "url": "https://open.spotify.com/album/7HYm3t0UoKBFI2n0xRIrUE"
       },
@@ -1151,30 +1131,22 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Spirit Move",
-        "url": "https://open.spotify.com/album/5lmU2DbwD1b3XgCw2NdVfS"
+        "name": "Overwhelmed",
+        "url": "https://open.spotify.com/album/1yZSwXMSUGePIKwJLt7HHh"
       },
       "artists": [
         {
-          "name": "Protek Illasheva",
-          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
         },
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        },
-        {
-          "name": "Se Ok",
-          "url": "https://open.spotify.com/artist/3IqJXZCA5miX8xpz4YekS8"
-        },
-        {
-          "name": "Dave Cobs",
-          "url": "https://open.spotify.com/artist/3STr2mUS8xTE5Fgb5WW4rW"
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
         }
       ],
-      "duration_ms": 227180,
-      "name": "Spirit Move",
-      "url": "https://open.spotify.com/track/5OOrmtWISmgUF9m5iCSurG"
+      "duration_ms": 176000,
+      "name": "Overwhelmed",
+      "url": "https://open.spotify.com/track/5lI39HnRnc9quha7PwzFlz"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1199,6 +1171,34 @@
       "duration_ms": 197456,
       "name": "PRAISE YOUR NAME",
       "url": "https://open.spotify.com/track/6ps4Zeolnh6O30i6wMh9t8"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "Spirit Move",
+        "url": "https://open.spotify.com/album/5lmU2DbwD1b3XgCw2NdVfS"
+      },
+      "artists": [
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "Se Ok",
+          "url": "https://open.spotify.com/artist/3IqJXZCA5miX8xpz4YekS8"
+        },
+        {
+          "name": "Dave Cobs",
+          "url": "https://open.spotify.com/artist/3STr2mUS8xTE5Fgb5WW4rW"
+        }
+      ],
+      "duration_ms": 227180,
+      "name": "Spirit Move",
+      "url": "https://open.spotify.com/track/5OOrmtWISmgUF9m5iCSurG"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "Trip of the Faith",
+        "url": "https://open.spotify.com/album/6RO1J4ULw7wSCXVfvEAbTF"
+      },
+      "artists": [
+        {
+          "name": "Grace Lokwa",
+          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Promesse",
+      "url": "https://open.spotify.com/track/3KtzWPaxaJEinXDnGCK30B"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Amplify",
         "url": "https://open.spotify.com/album/0Yl6Q9gjUT7EMvuU8oK5GG"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 191808,
       "name": "Amplify",
       "url": "https://open.spotify.com/track/3Yst8fBmKcLK7OEPeXB7tm"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "Trip of the Faith",
-        "url": "https://open.spotify.com/album/6RO1J4ULw7wSCXVfvEAbTF"
-      },
-      "artists": [
-        {
-          "name": "Grace Lokwa",
-          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Promesse",
-      "url": "https://open.spotify.com/track/3KtzWPaxaJEinXDnGCK30B"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "By Design (Special Version)",
-        "url": "https://open.spotify.com/album/1UnPCa8col9OvdoAK0X2UX"
-      },
-      "artists": [
-        {
-          "name": "Echow Clay",
-          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "By Design - Special Version",
-      "url": "https://open.spotify.com/track/6TM4mOFIb7aWShC3teaDlr"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "CONFIDENCE (Part 1)",
         "url": "https://open.spotify.com/album/5xRpwUmnqamMVJErrTYZuj"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 183868,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/4sLFPCfuwUNk5sBpDCkfdo"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "By Design (Special Version)",
+        "url": "https://open.spotify.com/album/1UnPCa8col9OvdoAK0X2UX"
+      },
+      "artists": [
+        {
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "By Design - Special Version",
+      "url": "https://open.spotify.com/track/6TM4mOFIb7aWShC3teaDlr"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Beside Me",
-        "url": "https://open.spotify.com/album/5FPFTd2KVC70Ysowxwhwhd"
-      },
-      "artists": [
-        {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
-        },
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "Beside Me",
-      "url": "https://open.spotify.com/track/4kqNM2dyPSuQqcChPPgIXe"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "Blow My Mind",
         "url": "https://open.spotify.com/album/54Kx9glG1kj3iH8mmqgDFl"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 152520,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/10RuroVXArDIANiXftdakT"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "Beside Me",
+        "url": "https://open.spotify.com/album/5FPFTd2KVC70Ysowxwhwhd"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 153962,
+      "name": "Beside Me",
+      "url": "https://open.spotify.com/track/4kqNM2dyPSuQqcChPPgIXe"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "ATTENTION",
-        "url": "https://open.spotify.com/album/6IWyzrY0BPHRyBryHiibgG"
-      },
-      "artists": [
-        {
-          "name": "Benji Kasule",
-          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/6eW4bViVkUEJtFiLykrOrE"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "Slow Down Remix",
         "url": "https://open.spotify.com/album/2sWtkHE1yS9c6Q6gPNtzxp"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 170840,
       "name": "Slow Down Remix",
       "url": "https://open.spotify.com/track/7tAeNc5N7S1VuIFuS0EdMy"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "ATTENTION",
+        "url": "https://open.spotify.com/album/6IWyzrY0BPHRyBryHiibgG"
+      },
+      "artists": [
+        {
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/6eW4bViVkUEJtFiLykrOrE"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "Good 2 Me",
+        "url": "https://open.spotify.com/album/3Ir3eESTZEQDEGKiqFDF6m"
+      },
+      "artists": [
+        {
+          "name": "Romeyo Wilson",
+          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Good 2 Me",
+      "url": "https://open.spotify.com/track/3mczLeyhLCkkbn5jb5IMaX"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Fire on the Mountain",
         "url": "https://open.spotify.com/album/0iW7DU3HZzEnHa4l2zEzmp"
       },
@@ -1891,22 +1907,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Good 2 Me",
-        "url": "https://open.spotify.com/album/3Ir3eESTZEQDEGKiqFDF6m"
-      },
-      "artists": [
-        {
-          "name": "Romeyo Wilson",
-          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Good 2 Me",
-      "url": "https://open.spotify.com/track/3mczLeyhLCkkbn5jb5IMaX"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "You Alone Art Worthy",
         "url": "https://open.spotify.com/album/1st59u3QKaAuenP5mIbqpf"
       },
@@ -1919,22 +1919,6 @@
       "duration_ms": 445424,
       "name": "You Alone Art Worthy",
       "url": "https://open.spotify.com/track/0Lm1DyxP4CCBUp6YLw1vOW"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "This Year Affirmation",
-        "url": "https://open.spotify.com/album/0DhoCi1Q2t4aQ2qtC8FIFh"
-      },
-      "artists": [
-        {
-          "name": "Enakeno",
-          "url": "https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "This Year Affirmation",
-      "url": "https://open.spotify.com/track/7IFlKuUZch3MkSUknrCkBa"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1959,6 +1943,22 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "This Year Affirmation",
+        "url": "https://open.spotify.com/album/0DhoCi1Q2t4aQ2qtC8FIFh"
+      },
+      "artists": [
+        {
+          "name": "Enakeno",
+          "url": "https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "This Year Affirmation",
+      "url": "https://open.spotify.com/track/7IFlKuUZch3MkSUknrCkBa"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/5ThPlUZMWm5XlDzAqfR4dt"
       },
@@ -1975,6 +1975,26 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "Be Like",
+        "url": "https://open.spotify.com/album/4ZCWEaEuUr17UM1j7zlzdU"
+      },
+      "artists": [
+        {
+          "name": "Eriko NWA",
+          "url": "https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1"
+        },
+        {
+          "name": "GIDYON",
+          "url": "https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2"
+        }
+      ],
+      "duration_ms": 161020,
+      "name": "Be Like",
+      "url": "https://open.spotify.com/track/0UhB8mb32yNSrlO4c3tohX"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "For Sure",
         "url": "https://open.spotify.com/album/3HRHoRu4p6fZ6pms3uC8oC"
       },
@@ -1987,26 +2007,6 @@
       "duration_ms": 388675,
       "name": "For Sure",
       "url": "https://open.spotify.com/track/2UyiKKnsU8R3ESFeFlBm78"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "Shemoneh",
-        "url": "https://open.spotify.com/album/0JEaUz6MRrYtki9Quyv2m0"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Eziashi",
-          "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
-        },
-        {
-          "name": "Henrisoul",
-          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
-        }
-      ],
-      "duration_ms": 549421,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/6A8RrYAg9aG0BLTcrBt3k5"
     },
     {
       "added_at": "2024-02-23 09:40:22",

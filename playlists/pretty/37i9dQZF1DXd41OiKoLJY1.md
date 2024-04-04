@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: POP MONEY WORLDWIDE\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,531 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,530 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 79 | [Vans Girl](https://open.spotify.com/track/0G0VODSXicgNPBHPzZAn57) | [Jkey](https://open.spotify.com/artist/0iKx6KCKPA022Gu59vlNg2) | [Vans Girl](https://open.spotify.com/album/2Znu9Fbdxld7hqLn1g3TaP) | 3:08 |
 | 80 | [I'm Wrong](https://open.spotify.com/track/7pebHWXKUwybJKWD8LcavU) | [KRNA](https://open.spotify.com/artist/2MftvYgqbFb61tLmtRnybv) | [I'm Wrong](https://open.spotify.com/album/3tskRYWqYopzTKOES7QlR4) | 3:41 |
 | 81 | [BIGLA](https://open.spotify.com/track/5rNBHTQk2vts9joacuJo4g) | [Migz Haleco](https://open.spotify.com/artist/7wiOdGEiSTAOKZ3lxAvIsc) | [BIGLA](https://open.spotify.com/album/0cqorulK18WZlIwyRdfNew) | 3:35 |
-| 82 | [Himalaya](https://open.spotify.com/track/1gNQJugTFx3So3OwgYXvci) | [Kane Dy](https://open.spotify.com/artist/4zQa2yDDqEjT6uEBDPpLef) | [Himalaya](https://open.spotify.com/album/0iElHblXaunOTCSHZZyH9X) | 2:56 |
+| 82 | [Himalaya](https://open.spotify.com/track/1jhphHo4u5Y4GkdfCgzQ2b) | [Kane Dy](https://open.spotify.com/artist/4zQa2yDDqEjT6uEBDPpLef) | [Himalaya](https://open.spotify.com/album/54tP9WKqdUHOWvSPcvfG3p) | 2:56 |
 | 83 | [Seasons \(feat\. Sophia Mariz\)](https://open.spotify.com/track/4q738eitkP2cSO7ol8M8h7) | [Anj](https://open.spotify.com/artist/2FCofcDkDipKOWOKfKV95s) | [Seasons \(feat\. Sophia Mariz\)](https://open.spotify.com/album/7LDtE7jbYFmA6YlIyP1Dqw) | 4:40 |
 | 84 | [Pagusapan](https://open.spotify.com/track/3GjRmohKITQOCrPDa7Uh02) | [R.C](https://open.spotify.com/artist/2e3IrtOG2RAIxIe5Ng7utO) | [Pagusapan](https://open.spotify.com/album/7H8vFukPhrhfqQf8gJL0iN) | 3:47 |
 | 85 | [COLD HEARTED](https://open.spotify.com/track/7eCzq4NzYuE0fmjJTFUfYY) | [DEE FROM MANILA](https://open.spotify.com/artist/03dA13NMEDJi7QXwrxaUcq), [LilD](https://open.spotify.com/artist/0aP46vxM4W4zAKRhGeeaIq) | [COLD HEARTED](https://open.spotify.com/album/7jnK2Stk08xhlbAWqN3VH4) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [HOW2RAGE](https://open.spotify.com/track/5HTagkZZOZRUCF9JJ4CHXH) | [Jnuzh](https://open.spotify.com/artist/7HyJFrpVIEYmf2tRMVU8hk), [VVNILLA](https://open.spotify.com/artist/77GOFfG6ibHi4EHpJkvUU7) | [HOW2RAGE](https://open.spotify.com/album/356wzEeKWt19nAZnp8GWGg) | 1:52 |
 | 100 | [Nawala Nalang Ang Dati](https://open.spotify.com/track/5BD3WK9ZcW2C4wpqj9z1h8) | [Marq Aljo](https://open.spotify.com/artist/1Hp9XIpVkadYVZQ67rUbZj) | [Nawala Nalang Ang Dati](https://open.spotify.com/album/3axHGA7OHVnRAFVMzddnh7) | 3:14 |
 
-Snapshot ID: `MCwyNWIzMzNjNWU2YzFmYjQ2ODY4ZjQ5MjRiNDlkMWZmOWYyODgyMjUy`
+Snapshot ID: `MCwwZjUzMWNlMzk1ZDgwYjYwOTI1MWM2ODZiYTExN2FmY2JmNGQwYTM0`

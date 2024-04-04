@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Bryant Barnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,837 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,871 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 2 | [All In](https://open.spotify.com/track/0BrDLkPp6BpWJinhCxqyDK) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 2](https://open.spotify.com/album/1kKLTqxjORqsUzFeSQGO2J) | 2:30 |
 | 3 | [Yesterday](https://open.spotify.com/track/2KU6NNHXLbXPDgzwzuc4d9) | [Kenya Vaun](https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk) | [The Honeymoon Phase](https://open.spotify.com/album/4WfYXkR5ufqGEyZteQHzkT) | 3:27 |
 | 4 | [Beggin'](https://open.spotify.com/track/0yJIF1o3HggZCMgTSGWlEj) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Beggin'](https://open.spotify.com/album/3dcCGh01JOXtrefNVmOpsk) | 3:57 |
-| 5 | [Intergalactic Janet](https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj) | 2:40 |
+| 5 | [Intergalactic Janet](https://open.spotify.com/track/7zgEoBci3rKmEkLdsZ8ZKJ) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/7zu5604lPvQjVBERSdwrTe) | 2:40 |
 | 6 | [Nothings Into Signs](https://open.spotify.com/track/31kpgadjTib4K74PRKec0s) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Nothings Into Signs](https://open.spotify.com/album/6Zg7AFB23zW3YJl6wIERjB) | 2:37 |
 | 7 | [Move](https://open.spotify.com/track/5g6Oon5f65EzBXHpIM3quE) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Move](https://open.spotify.com/album/00f6VPIgwapHjGZWxkAeKq) | 3:39 |
 | 8 | [Send Your Loving \(feat\. Tayc\) \[Remix\]](https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Send Your Loving \(feat\. Tayc\) \[Remix\]](https://open.spotify.com/album/3vkhzUiGeh7QxV7i1SUnI4) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 99 | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/track/4lUEgk2Da44ikFhF5TS863) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/album/0t0KTaeuABJBI0XiNM9vyr) | 2:19 |
 | 100 | [Caught Between 2 Worlds](https://open.spotify.com/track/2Aef1eaUQAOu4tDEHL0E0u) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Caught Between 2 Worlds](https://open.spotify.com/album/0fr2yHigw1YG1oAJ2V8whE) | 3:02 |
 
-Snapshot ID: `MCw2YmRiMTdiZDAzZjZkZTdmYWYwNjdhZjMwZTlmZDFlN2QzZGY1NmQz`
+Snapshot ID: `MCw0ZTZmODFkMzQ3NGMwMDE2MTcwOWJjODUwZTcwNGY3YzQyMmEzM2M3`

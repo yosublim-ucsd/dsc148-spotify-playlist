@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto: Bryant Myers, Jhayco & Luar La L.
 
-431 songs - 1 day 0 hr 33 min
+432 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [JS4E](https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [JS4E](https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U) | 3:57 | 2022-11-25 |  |
 | [Jóvenes Millonarios](https://open.spotify.com/track/0MJ9rq9zMOe0G7eL3j5w8G) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Jóvenes Millonarios](https://open.spotify.com/album/3ilfq7b1QorqjU5qSCLD3y) | 3:02 | 2021-12-06 |  |
 | [Kevin, Hugo & Jorge](https://open.spotify.com/track/5lSPB2m4NobXOZBXDzWvVR) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi) | [Kevin, Hugo & Jorge](https://open.spotify.com/album/6vYsEJMHyhDGWLsCFB66w3) | 2:26 | 2022-04-01 | 2022-06-04 |
-| [KILOS X UBER](https://open.spotify.com/track/0dx8TkOBF1CXjYXveEve77) | [DNA](https://open.spotify.com/artist/175jl4E6s8nBYSEaQyEhS0), [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Yanzee](https://open.spotify.com/artist/6CzsnF5NFkzdu4ZlAkgo6y) | [KILOS X UBER](https://open.spotify.com/album/4V7yeTOk6zFYJ7hRQs9kO6) | 4:36 | 2024-03-01 |  |
+| [KILOS X UBER](https://open.spotify.com/track/0dx8TkOBF1CXjYXveEve77) | [DNA](https://open.spotify.com/artist/175jl4E6s8nBYSEaQyEhS0), [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Yanzee](https://open.spotify.com/artist/6CzsnF5NFkzdu4ZlAkgo6y) | [KILOS X UBER](https://open.spotify.com/album/4V7yeTOk6zFYJ7hRQs9kO6) | 4:36 | 2024-03-01 | 2024-04-04 |
+| [KILOS X UBER](https://open.spotify.com/track/4tfe2AWDf1Bv0ifmAMTpT4) | [DNA](https://open.spotify.com/artist/175jl4E6s8nBYSEaQyEhS0), [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Yanzee](https://open.spotify.com/artist/6CzsnF5NFkzdu4ZlAkgo6y) | [KILOS X UBER](https://open.spotify.com/album/2filrdFUbs26BaTbbdu7xl) | 4:36 | 2024-03-29 |  |
 | [Kobe En LA](https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/31op15nAweoWywt7aBkY4z) | 3:45 | 2021-12-06 | 2022-12-09 |
 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 | 2022-12-02 |  |
 | [Konteiner](https://open.spotify.com/track/347KmRWwYXcZSUgelz7Cit) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:30 | 2022-06-17 | 2022-08-06 |

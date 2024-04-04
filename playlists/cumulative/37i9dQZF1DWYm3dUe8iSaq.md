@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-248 songs - 14 hr 15 min
+249 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [33](https://open.spotify.com/track/1s0OBTsDMtBR8sH1XqKaZh) | [Colin Macleod](https://open.spotify.com/artist/6sijvTWaedetuV2MJF3YwU), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hold Fast](https://open.spotify.com/album/6fNjdkSgemGYrH8v1M6NjA) | 3:15 | 2022-07-01 | 2022-10-22 |
 | [33](https://open.spotify.com/track/2v8Y3pbX3XgoZ8L0vNZO54) | [Colin Macleod](https://open.spotify.com/artist/6sijvTWaedetuV2MJF3YwU), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hold Fast](https://open.spotify.com/album/4RvI6nZRap3cIqLbTZHbjy) | 3:15 | 2022-04-08 | 2022-11-09 |
 | [33](https://open.spotify.com/track/7yRoSZ5Pu6NS6QcWbgyZwu) | [Colin Macleod](https://open.spotify.com/artist/6sijvTWaedetuV2MJF3YwU), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hold Fast](https://open.spotify.com/album/4s0iIcY1K22uuodSqd8l3b) | 3:15 | 2022-10-07 | 2023-08-12 |
-| [365](https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [365](https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU) | 3:07 | 2024-03-17 |  |
+| [365](https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [365](https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU) | 3:07 | 2024-03-17 | 2024-04-04 |
+| [365](https://open.spotify.com/track/5ywWzoH8TFmthpebFjCyR3) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:07 | 2024-03-17 |  |
 | [A Love Like That](https://open.spotify.com/track/3S7ZyZIxHglvugzw3vKpuT) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Some Things Break](https://open.spotify.com/album/1QGVFDfyPCVEfKli1J0OSz) | 2:55 | 2024-02-09 |  |
 | [A Prayer Of My Own](https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [A Prayer Of My Own](https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO) | 4:33 | 2022-04-08 | 2023-02-25 |
 | [A Rock](https://open.spotify.com/track/7bTfKo4Uz6ZDdDAu8s5hUm) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [A Rock](https://open.spotify.com/album/6Jrv2HApm3RAjDjlMnOqD9) | 3:18 | 2022-04-08 |  |

@@ -4,7 +4,7 @@
 
 > All the stuff that will blow your speakers!
 
-284 songs - 14 hr 0 min
+285 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,8 @@
 | [Take Me Up](https://open.spotify.com/track/0AJD30r5ExP6Dy0frAruiT) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Take Me Up](https://open.spotify.com/album/0ZMTslSR9ktXlBVOIXXoI8) | 3:25 | 2023-09-07 | 2023-11-01 |
 | [Talk About](https://open.spotify.com/track/6FfcSF3QQiT09VNuCSdT82) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Michelle Collin](https://open.spotify.com/artist/0JCIIVMatHevg7wqdpuNxg), [Medon](https://open.spotify.com/artist/1qgI7Ho1Ky0EbmK9JhWg5J) | [Talk About](https://open.spotify.com/album/4IAUbnhJ44wqkxyYysr2LE) | 2:01 | 2023-12-21 | 2024-01-05 |
 | [Tattoo](https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt) | [Tattoo](https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8) | 3:12 | 2023-09-21 |  |
-| [TECHNO CARNIVAL](https://open.spotify.com/track/6ZXvkOSCEqoEVuEhZRBRco) | [Netgate](https://open.spotify.com/artist/5lw2CndmZ8QU8NIFpzAGs1) | [TECHNO CARNIVAL](https://open.spotify.com/album/3gABozvLrCVT0XwnOJw1Nh) | 3:03 | 2024-03-01 |  |
+| [TECHNO CARNIVAL](https://open.spotify.com/track/363NUm9k7Lh3VnchDtVhou) | [Netgate](https://open.spotify.com/artist/5lw2CndmZ8QU8NIFpzAGs1) | [TECHNO CARNIVAL](https://open.spotify.com/album/5TW1O1C8jS2O33sUSXYWj8) | 3:03 | 2024-03-21 |  |
+| [TECHNO CARNIVAL](https://open.spotify.com/track/6ZXvkOSCEqoEVuEhZRBRco) | [Netgate](https://open.spotify.com/artist/5lw2CndmZ8QU8NIFpzAGs1) | [TECHNO CARNIVAL](https://open.spotify.com/album/3gABozvLrCVT0XwnOJw1Nh) | 3:03 | 2024-03-01 | 2024-04-04 |
 | [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 | 2023-08-31 |  |
 | [Tell Me](https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [Tell Me](https://open.spotify.com/album/6CFfmrqFNdXzSE4HPPbsRL) | 2:04 | 2024-02-22 |  |
 | [Tell Me Secrets](https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW), [Joker Bra](https://open.spotify.com/artist/325L7kby6bkG5qSXXAFEWM) | [Tell Me Secrets](https://open.spotify.com/album/3HWre2IiyyqUclVbnd6PlW) | 2:16 | 2023-08-31 | 2024-02-04 |

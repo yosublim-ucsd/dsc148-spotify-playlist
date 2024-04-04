@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 48147,
+  "num_followers": 48161,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWI5MTIzZjNlMDFkYmFiZWEzZTBiNGU5ZjJmMDQ1YzcyNjdkNjY5",
+  "snapshot_id": "MCw0M2I2YmYwYmNlMDc2YmZlYzA1MDY1ODk1Mzc2MDMyOGIzN2MzNTcw",
   "tracks": [
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Depois das Seis",
-        "url": "https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 180488,
-      "name": "Depois Das Seis",
-      "url": "https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "EMO NAS BAHAMAS",
         "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 148880,
       "name": "VOU ALI DORMIR",
       "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "Depois das Seis",
+        "url": "https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 180488,
+      "name": "Depois Das Seis",
+      "url": "https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1247,38 +1247,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "ANTISSOCIAL",
-        "url": "https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW"
-      },
-      "artists": [
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        }
-      ],
-      "duration_ms": 146643,
-      "name": "ANTISSOCIAL",
-      "url": "https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "MINHA RELIGI\u00c3O",
-        "url": "https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "MINHA RELIGI\u00c3O",
-      "url": "https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "melhor ou pior",
         "url": "https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9"
       },
@@ -1299,22 +1267,34 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Papel de Carta (Deluxe)",
-        "url": "https://open.spotify.com/album/5JD9z50Qpmv591ytAzuwO1"
+        "name": "MINHA RELIGI\u00c3O",
+        "url": "https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9"
       },
       "artists": [
         {
-          "name": "Karen Jonz",
-          "url": "https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C"
-        },
-        {
-          "name": "CSS",
-          "url": "https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 126303,
-      "name": "Coocoocrazy",
-      "url": "https://open.spotify.com/track/1koc0xNNXvdZvxUVKG9Pew"
+      "duration_ms": 153000,
+      "name": "MINHA RELIGI\u00c3O",
+      "url": "https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "ANTISSOCIAL",
+        "url": "https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW"
+      },
+      "artists": [
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        }
+      ],
+      "duration_ms": 146643,
+      "name": "ANTISSOCIAL",
+      "url": "https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1331,6 +1311,26 @@
       "duration_ms": 131986,
       "name": "Tonto, Mole, Trouxa (e meio devagar)",
       "url": "https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "Papel de Carta (Deluxe)",
+        "url": "https://open.spotify.com/album/5JD9z50Qpmv591ytAzuwO1"
+      },
+      "artists": [
+        {
+          "name": "Karen Jonz",
+          "url": "https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C"
+        },
+        {
+          "name": "CSS",
+          "url": "https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA"
+        }
+      ],
+      "duration_ms": 126303,
+      "name": "Coocoocrazy",
+      "url": "https://open.spotify.com/track/1koc0xNNXvdZvxUVKG9Pew"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Foi Tudo Aqui",
-        "url": "https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd"
-      },
-      "artists": [
-        {
-          "name": "Fuze",
-          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
-        }
-      ],
-      "duration_ms": 189901,
-      "name": "Deixa Estar",
-      "url": "https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "N\u00e3o Valemos + Nada",
         "url": "https://open.spotify.com/album/2PtDpSKpVXzAc5xK7F9kKE"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 158823,
       "name": "N\u00e3o Valemos + Nada",
       "url": "https://open.spotify.com/track/4QuNbNry81en6UZ24wiX0i"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "Foi Tudo Aqui",
+        "url": "https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd"
+      },
+      "artists": [
+        {
+          "name": "Fuze",
+          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
+        }
+      ],
+      "duration_ms": 189901,
+      "name": "Deixa Estar",
+      "url": "https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ"
     },
     {
       "added_at": "2024-02-22 17:25:15",

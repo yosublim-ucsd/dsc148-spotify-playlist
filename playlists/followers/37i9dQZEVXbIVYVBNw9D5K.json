@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 822773,
+  "2024-04-04": 822795,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Turkey.",
   "name": "Top 50 - Turkey",
@@ -3813,7 +3813,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 179617,
       "name": "Can\u0131n Sa\u011f Olsun",
       "url": "https://open.spotify.com/track/0mYqW8vhiw9rgwSwB21JQz"
@@ -7473,6 +7473,28 @@
     {
       "album": {
         "name": "Hay\u0131rl\u0131 G\u00fcnler 2.0",
+        "url": "https://open.spotify.com/album/4pyKHdwUVkqaWAjLo7JDTy"
+      },
+      "artists": [
+        {
+          "name": "lusttqwe",
+          "url": "https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR"
+        },
+        {
+          "name": "Batusyex",
+          "url": "https://open.spotify.com/artist/35yu1Gbfpc5yhLd7nqpZ4S"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116680,
+      "name": "Hay\u0131rl\u0131 G\u00fcnler",
+      "url": "https://open.spotify.com/track/0uP8cj0yYFJPKRna0CPL7Y"
+    },
+    {
+      "album": {
+        "name": "Hay\u0131rl\u0131 G\u00fcnler 2.0",
         "url": "https://open.spotify.com/album/4vDivik2CBYYo4i2AQFNa6"
       },
       "artists": [
@@ -10517,7 +10539,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 201611,
       "name": "Margiela",
       "url": "https://open.spotify.com/track/1KGvrw4RWClq7yt42sGG1v"
@@ -14019,7 +14041,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 122000,
       "name": "SENIN UGRUNA",
       "url": "https://open.spotify.com/track/5flH7FY4ledAQboO5a0XQ5"

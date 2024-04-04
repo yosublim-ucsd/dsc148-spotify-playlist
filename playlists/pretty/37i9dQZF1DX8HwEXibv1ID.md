@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,121 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,145 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 19 | [Let's Do It \(Let's Fall in Love\)](https://open.spotify.com/track/0fsUmybL8WDSl5fU23bpF7) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [In the Land of Hi\-Fi](https://open.spotify.com/album/6NIPfaaCsVriz2WvfcQZMX) | 2:37 |
 | 20 | [All Through The Night](https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:16 |
 | 21 | [Don't Look At Me That Way](https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:59 |
-| 22 | [Its Delovely](https://open.spotify.com/track/7iPqb64Shlib9ta9ouKyTC) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Andrew De Jong Cleyndert](https://open.spotify.com/artist/5G1ofevTZdgiPERUk64PLM), [Colin Oxley](https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs), [David Newton](https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Steve Brown](https://open.spotify.com/artist/7DLSRkdZGUdCN98UT44PAd) | [Close Your Eyes](https://open.spotify.com/album/502uTcoHcwKPVIGREXz9pi) | 3:25 |
-| 23 | [You Do Something to Me \- Remastered](https://open.spotify.com/track/0HQWwFTh58MJ7DHKaD4DZO) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 6:51 |
+| 22 | [You Do Something to Me \- Remastered](https://open.spotify.com/track/0HQWwFTh58MJ7DHKaD4DZO) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 6:51 |
+| 23 | [Its Delovely](https://open.spotify.com/track/7iPqb64Shlib9ta9ouKyTC) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Andrew De Jong Cleyndert](https://open.spotify.com/artist/5G1ofevTZdgiPERUk64PLM), [Colin Oxley](https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs), [David Newton](https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Steve Brown](https://open.spotify.com/artist/7DLSRkdZGUdCN98UT44PAd) | [Close Your Eyes](https://open.spotify.com/album/502uTcoHcwKPVIGREXz9pi) | 3:25 |
 | 24 | [You'd Be So Nice To Come Home To](https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY) | [The Al Cohn \- Zoot Sims Quintet](https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM) | [You 'N Me](https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G) | 4:51 |
 | 25 | [Ace In The Hole](https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 1:59 |
 | 26 | [At Long Last Love](https://open.spotify.com/track/4xavtlLxd9kswqwpOCjkAC) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m), [Bud Shank Quintet](https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS) | [All Through The Night: Julie London Sings The Choicest Of Cole Porter \(Bonus Tracks\)](https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 74 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
 | 75 | [Ours](https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:49 |
 
-Snapshot ID: `MCxkNzlhOWFmNzU1MDQ3NDhlOTU5NzBhMTUxOGIwZGUwMmJhNjRkZDNm`
+Snapshot ID: `MCw4ZWE0OWY3Yjg4YTg3MGYzOTcyNmI3NTlmNjMxNjE5ZjRlYTY1YTRk`

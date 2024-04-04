@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Beyoncé
 
-11,419 songs - 23 day 19 hr 40 min
+11,420 songs - 23 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7588,7 +7588,8 @@
 | [outside](https://open.spotify.com/track/2J0UiTTXaEJAjAPKURNlvL) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2) | [partys, pain & pistolen](https://open.spotify.com/album/2d4SGxPRbBxHp3qhWgbtlg) | 1:53 | 2023-12-08 | 2023-12-15 |
 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 | 2023-12-08 | 2023-12-15 |
 | [Outside In](https://open.spotify.com/track/0DTy6hvkVfKBpGtMzBd4Fw) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Outside In](https://open.spotify.com/album/4fjRR9lgDZ7Xo3V84S25i3) | 2:41 | 2024-03-21 | 2024-03-29 |
-| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 |  |
+| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 | 2024-04-04 |
+| [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-03-28 |  |
 | [Outside of Town](https://open.spotify.com/track/1Tavucpw0XO90ODhWzcYST) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Outside of Town](https://open.spotify.com/album/4fESdemqdOvImBKPwC5XGp) | 4:46 | 2023-02-23 | 2023-03-03 |
 | [Outsider](https://open.spotify.com/track/3YOH7OkAopKXmS4oMJXWEP) | [Sharaktah](https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU) | [Outsider](https://open.spotify.com/album/7r1U56wpXlGBdWSqMW3YHv) | 2:44 | 2022-06-02 | 2022-06-10 |
 | [Outsider](https://open.spotify.com/track/4yzTAy42BpRZCkaUFT0mUt) | [Tuffy](https://open.spotify.com/artist/4UDkNikL9D2vhFwqmMoJ2h) | [Outsider](https://open.spotify.com/album/25rvaRRZbA941ABtbHcQtf) | 2:30 | 2023-04-13 | 2023-04-21 |

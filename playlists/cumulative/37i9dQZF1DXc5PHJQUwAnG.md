@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Kevis y Maykyy en portada.
 
-246 songs - 11 hr 34 min
+247 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [Yeezys](https://open.spotify.com/track/0c4yuYnT4WF3s6p070qBwT) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH) | [Yeezys](https://open.spotify.com/album/5SxZc6xzugd2A0oSqozMWb) | 2:23 | 2023-06-09 |  |
 | [Yeyo](https://open.spotify.com/track/1rWzqNBSJyOp4xlTatI3he) | [Asis](https://open.spotify.com/artist/16YhiWjmyoCqhoZGbuQNsE), [Coko Yamasaki](https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm), [Yerack Rocha](https://open.spotify.com/artist/3UpSLwP3Q4NGxRj0buWEXx) | [Yeyo](https://open.spotify.com/album/1ErQCuIj96KgIL99O3tMrt) | 4:31 | 2023-06-09 | 2023-07-01 |
 | [YiYi](https://open.spotify.com/track/62xbqfC5XtS5zzabQQ3vEW) | [Pinky06](https://open.spotify.com/artist/3IaOQV2tg0ZxEbN6UyYF1E) | [YiYi](https://open.spotify.com/album/5n6w3xnVx3fWSttlQMr6Jw) | 1:31 | 2024-02-09 |  |
-| [Yo tmb me fui](https://open.spotify.com/track/0fuEBBx9zVGJKzCNNEcxU5) | [Mike Lamadrid](https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C) | [Yo tmb me fui](https://open.spotify.com/album/7GwBFqoSDDKQ0GsqU2MzEo) | 2:21 | 2023-06-09 |  |
+| [Yo tmb me fui](https://open.spotify.com/track/0fuEBBx9zVGJKzCNNEcxU5) | [Mike Lamadrid](https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C) | [Yo tmb me fui](https://open.spotify.com/album/7GwBFqoSDDKQ0GsqU2MzEo) | 2:21 | 2023-06-09 | 2024-04-04 |
+| [Yo tmb me fui](https://open.spotify.com/track/2Pc0Rf5p5WjtonOXQtcgYi) | [Mike Lamadrid](https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C) | [Poesías de mi Odisea](https://open.spotify.com/album/4qhn37vq11r5zzqbuQNwR2) | 2:21 | 2024-03-29 |  |
 | [Yoliwood](https://open.spotify.com/track/1N4HIReAfoNmx5MjWoow6L) | [La Malilla](https://open.spotify.com/artist/3voqS9NIqDdoJ87bSs9bwL), [Adrian Be](https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF), [Andrxw](https://open.spotify.com/artist/0hPYXDQXlvYcLH2jjRHNKC), [Beam](https://open.spotify.com/artist/1sV6nbDH5xOMlCaufg6q6s), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Pinky06](https://open.spotify.com/artist/3IaOQV2tg0ZxEbN6UyYF1E), [Neqer](https://open.spotify.com/artist/3Esms7kp5iE7wWc4iyPh7A), [Jay Lee](https://open.spotify.com/artist/1EASZJsqr25342e8iX3CPT), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP), [Zerosuave](https://open.spotify.com/artist/03S29rMxQEGg3TyUZWoSOH), [Doce](https://open.spotify.com/artist/6UyUVW2wU4bfMxJwdkSPcA) | [Yoliwood](https://open.spotify.com/album/5spYYFVFtElX6XFuWGdOPs) | 6:07 | 2023-06-09 | 2023-07-01 |
 | [Zona Pistola](https://open.spotify.com/track/49B9zwKFTKtLf1FcbNVShf) | [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Zona Pistola](https://open.spotify.com/album/6S9WkhYhjNzBYhkDDqH1Qf) | 2:56 | 2023-06-09 | 2023-10-01 |
 

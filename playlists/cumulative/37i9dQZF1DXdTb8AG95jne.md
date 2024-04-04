@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Choi Jungyoon\(최정윤\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-634 songs - 1 day 14 hr 48 min
+635 songs - 1 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,11 +291,12 @@
 | [Keep you there](https://open.spotify.com/track/0OU5FvDjS9tavAUK63xwcz) | [Penda](https://open.spotify.com/artist/0HTTljEZfygRWNhK4r8pzC) | [In the box](https://open.spotify.com/album/1RslYBo6MjYMu5LPcrOZLb) | 2:27 | 2022-03-31 | 2022-04-20 |
 | [Koh](https://open.spotify.com/track/11nTAYWC46C6LGdJH1JlGG) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/1BYZllRHEx6mKOi2aKiEjM) | 4:59 | 2021-12-12 | 2022-07-27 |
 | [Koh](https://open.spotify.com/track/17U7z9PG0iOa7YfR5pzZ6m) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/6W50Ympy4qBEahumF57RyF) | 4:59 | 2022-07-27 | 2023-09-03 |
-| [Koh](https://open.spotify.com/track/19Cju67oOjjRqe8KXv0bYZ) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/7N391rPsSbIRYDqrI8xP2H) | 4:59 | 2023-09-18 |  |
+| [Koh](https://open.spotify.com/track/19Cju67oOjjRqe8KXv0bYZ) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/7N391rPsSbIRYDqrI8xP2H) | 4:59 | 2023-09-18 | 2024-04-04 |
 | [Koriga](https://open.spotify.com/track/0So5dXB9M3InMMGmxslL4L) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [Koriga](https://open.spotify.com/album/6PiN8MeW9hifmkNxVuQUGY) | 3:41 | 2022-04-12 | 2022-04-15 |
 | [lazygirl](https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK) | [Chuther](https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ) | [lazygirl](https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ) | 2:46 | 2021-12-21 | 2022-05-18 |
 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/4F9qxQqmkFnBjIvrpiQ7jV) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/album/4wMb27rPOFS7vQSNsnjQC7) | 3:07 | 2022-03-31 | 2022-04-14 |
 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:08 | 2022-07-27 |  |
+| [Let Me Love My Youth](https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ) | 4:08 | 2024-03-28 |  |
 | [Let Me Love My Youth](https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57) | 4:08 | 2022-03-21 | 2022-07-24 |
 | [Let's Meet In Spring](https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Again, Spring Days](https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL) | 3:46 | 2021-12-12 |  |
 | [Let's stay together](https://open.spotify.com/track/52ZZz4FthV6FAjbUiPF7th) | [O.zic](https://open.spotify.com/artist/3CAnNFqNZE11RKX3743MfR), [Martian](https://open.spotify.com/artist/2NBnwR3hvn7iOIfxWBzCYK) | [Let's stay together](https://open.spotify.com/album/6pZaDtwrcHUTPW1XOok1kA) | 3:59 | 2021-12-12 | 2022-07-24 |
@@ -386,7 +387,7 @@
 | [O\`Chunnki](https://open.spotify.com/track/4zvIT9fIJxLXZc5RDMuYZR) | [Mono\. J](https://open.spotify.com/artist/2sCSfdtkRpjNWt2O2GabKA) | [Ready For Run](https://open.spotify.com/album/62te8mLl9wITyzuyOAalut) | 3:55 | 2022-03-31 | 2022-04-09 |
 | [Ok to cry 모두 울어도 되는 날](https://open.spotify.com/track/1HtXCINU55a9Hh19jX7QC3) | [Joa Band](https://open.spotify.com/artist/3rCJ0bFbcUt9f9CuWhm6hp) | [Ok to cry 모두 울어도 되는 날](https://open.spotify.com/album/6Y5X82rboaUN4RBvCg8IBz) | 4:04 | 2022-03-31 | 2022-04-04 |
 | [Okinawa](https://open.spotify.com/track/1CfcKv1RLdJBWhRHAZgVdf) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Okinawa](https://open.spotify.com/album/3SfmjXBkaB9ASer8mFHNg6) | 5:48 | 2022-07-27 | 2023-09-03 |
-| [Okinawa](https://open.spotify.com/track/4IDuBhS4HLQh2vg83pk6Rj) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Okinawa](https://open.spotify.com/album/2cVPFgXXfRtJlk5bSwpjEj) | 5:48 | 2023-09-01 |  |
+| [Okinawa](https://open.spotify.com/track/4IDuBhS4HLQh2vg83pk6Rj) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Okinawa](https://open.spotify.com/album/2cVPFgXXfRtJlk5bSwpjEj) | 5:48 | 2023-09-01 | 2024-04-04 |
 | [okokok](https://open.spotify.com/track/7kTsmaju0m5kJSoA7z5BKf) | [Witches](https://open.spotify.com/artist/4vTtoGhW5MgqrpfPL0RGxi) | [okokok](https://open.spotify.com/album/4KEhy0zdjzgj4paaFfPmlp) | 2:21 | 2022-06-08 | 2022-06-14 |
 | [Old Notes](https://open.spotify.com/track/0m8MHpjuKKNvT19rvjHWAX) | [JOGON](https://open.spotify.com/artist/2lrODr1QCehowaCjKFxOZG) | [Old Notes](https://open.spotify.com/album/6T7cyfKQunGFzVKy3nhiGl) | 3:26 | 2021-12-12 | 2022-12-06 |
 | [One and Only \(Feat\. KURO\)](https://open.spotify.com/track/0GpK80YpKjNLA37FQ1JvDt) | [Soseo](https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [One and Only \(Feat\. KURO\)](https://open.spotify.com/album/16LKnqi5TwNEidWTXxbHLA) | 2:31 | 2023-06-13 | 2023-06-23 |
@@ -553,7 +554,7 @@
 | [Under the night we were facing our breakup](https://open.spotify.com/track/0H1aG96BRR4VfDayFuEZ4C) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo](https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW) | 3:46 | 2022-06-13 | 2022-06-19 |
 | [Under the Sea](https://open.spotify.com/track/67fKXyqK3xnvMYlw4FQymk) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Under the Sea](https://open.spotify.com/album/4InYjC8pfuvMnE0Qih3Fs6) | 4:53 | 2023-03-06 | 2023-03-28 |
 | [Underwater](https://open.spotify.com/track/6MrjuOlP7stTrxno2dJGs9) | [coldnight](https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj) | [Underwater](https://open.spotify.com/album/3JEfQIglXMJz3D5imP88m0) | 3:26 | 2023-01-10 | 2023-01-26 |
-| [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 | 2022-05-11 | 2024-03-22 |
+| [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 | 2022-05-11 |  |
 | [Unhappiness](https://open.spotify.com/track/3o1Myd7WTxfeK49bRjRmPh) | [Kwon so jeong](https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i) | [Unhappiness](https://open.spotify.com/album/3eC4GHAWS2In8EyyNphHus) | 4:12 | 2023-01-25 | 2023-02-15 |
 | [Universe](https://open.spotify.com/track/1PADgC899dnHdG6fXHBLS9) | [Blue Lamb](https://open.spotify.com/artist/1Cr1LdGDo0RY3ihHkXQt7m) | [Universe](https://open.spotify.com/album/4C3NODVeITNjrOpiyCFUIa) | 3:55 | 2022-03-31 | 2022-04-21 |
 | [Untitled](https://open.spotify.com/track/5DiAPGjSA37OUVDtv3t5MN) | [Cho Hee Won](https://open.spotify.com/artist/5EQY8swADecXlA94pjEyzX) | [Untitled](https://open.spotify.com/album/4AI3v5hgmh3ZETMgw2rJVw) | 3:35 | 2021-12-12 | 2022-05-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,577 likes - 73 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,493 likes - 73 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 72 | [London \(Love to Hate\)](https://open.spotify.com/track/5EO7Imd5V2EZFUIOh9rtT6) | [Indoor Pets](https://open.spotify.com/artist/5abBw7CgjR22S31JWg0g84) | [London \(Love to Hate\)](https://open.spotify.com/album/7dVKNEaY2ScakAlYj9Ff9q) | 4:04 |
 | 73 | [Beautiful Girl](https://open.spotify.com/track/1Inle1Zm97MzQXParrb0aP) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Beautiful Girl](https://open.spotify.com/album/3F8u0bz8k1cxPpOttU3yDH) | 2:32 |
 
-Snapshot ID: `MCxlZWM2NzNmYjgyMWQwMDYyODAzZThmNGI4YWJmYTIyYmVmYTAxMjgy`
+Snapshot ID: `MCxlNjkxYzg3MmQzNTBmN2I4ZGZjZjUxODBjYzg1MTc2NmMzOGU3NTdh`

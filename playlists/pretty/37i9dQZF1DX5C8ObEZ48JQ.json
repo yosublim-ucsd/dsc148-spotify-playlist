@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent African artists and labels. Cover:  <a href=\"https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA?si=AQ0HJi-XQFi92sXnksyuZQ\">Taves</a>. Artwork: Isu Kim. ",
-  "num_followers": 8077,
+  "num_followers": 8100,
   "original_name": "Fresh Finds Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzllOGNmYzE0NWU3N2ZkZjRkYzM4NDk3MDExYTQ2ODczNjRiZjkx",
+  "snapshot_id": "MCxhOTBlOGU0NWYxMDBjYzk0OWI1ZTJhY2ZiMzU4YzE4NjMxNGU0MzAw",
   "tracks": [
     {
       "added_at": "2024-04-03 00:01:00",
@@ -675,18 +675,22 @@
     {
       "added_at": "2024-04-03 00:01:00",
       "album": {
-        "name": "Vitamin D",
-        "url": "https://open.spotify.com/album/0oiSNg8MdYofwQrLSdQDUf"
+        "name": "Vitamin D / Dey Play",
+        "url": "https://open.spotify.com/album/5ZR8Ae56tRPjiEB2fOGt4h"
       },
       "artists": [
         {
           "name": "3rty",
           "url": "https://open.spotify.com/artist/1tf6tPWbSTGpFgNo9IAP8U"
+        },
+        {
+          "name": "WeTalkSound",
+          "url": "https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w"
         }
       ],
       "duration_ms": 187242,
       "name": "Vitamin D",
-      "url": "https://open.spotify.com/track/65aPujtCATKAH8IgGQPt4t"
+      "url": "https://open.spotify.com/track/38wwH8rLOM07KQ2iYscUiY"
     },
     {
       "added_at": "2024-04-03 00:01:00",
@@ -911,34 +915,6 @@
       "duration_ms": 140307,
       "name": "MORE",
       "url": "https://open.spotify.com/track/56Oe9EY7yofIzej5nin0qa"
-    },
-    {
-      "added_at": "2024-04-03 00:01:00",
-      "album": {
-        "name": "Tshwala Bam (feat. S.N.E, EeQue)",
-        "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
-      },
-      "artists": [
-        {
-          "name": "TitoM",
-          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
-        },
-        {
-          "name": "Yuppe",
-          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
-        },
-        {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        },
-        {
-          "name": "S.N.E",
-          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Tshwala Bam (feat. S.N.E, EeQue)",
-      "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
     },
     {
       "added_at": "2024-04-03 00:01:00",

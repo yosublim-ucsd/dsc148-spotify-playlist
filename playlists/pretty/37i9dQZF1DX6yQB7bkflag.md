@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Camila Cabello
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,189 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,196 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 20 | [second guessing](https://open.spotify.com/track/7wuCZVsFR7V3OO8AbaXgLe) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [silver lining](https://open.spotify.com/album/7KMs4mopInKccB2HO6q2zK) | 3:29 |
 | 21 | [SEX TAPE](https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [SEX TAPE](https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R) | 4:15 |
 | 22 | [Wanita Biasa](https://open.spotify.com/track/5Gk5wniF0YSpkKMPmQqaxZ) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Wanita Biasa](https://open.spotify.com/album/3wWZ03MvMHn8mVE7cFztFi) | 4:05 |
-| 23 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
+| 23 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 |
 | 24 | [lil' freak](https://open.spotify.com/track/6guIMfoWJvsCXQxNsAtWPN) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [lil' freak](https://open.spotify.com/album/3sEThxFC8DglKnXEokpmww) | 2:48 |
 | 25 | [To Lose Someone](https://open.spotify.com/track/1pGoLLnUz6S4dOrw0bYKBW) | [VIONA](https://open.spotify.com/artist/6Ng5PoEhU9eoRDsu6f3pUa), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [To Lose Someone](https://open.spotify.com/album/0VOlrQEeNJGP5Qg1AyZWGL) | 3:58 |
 | 26 | [Dari Awal Pertama](https://open.spotify.com/track/6FuZQ1wnpjvMIgmot3t5TP) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf) | [Dari Awal Pertama](https://open.spotify.com/album/4tEh1PHEFm9ipXF8u7z9Io) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 99 | [Menentukan Pilihan \(feat\. Oslo Ibrahim\)](https://open.spotify.com/track/3swsQmpaXe8Px6VymVmMFF) | [OKAAY](https://open.spotify.com/artist/0qeOMneLDwmcxGM2CuFnfq), [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Menentukan Pilihan \(feat\. Oslo Ibrahim\)](https://open.spotify.com/album/7ChSqRVhx7YvFSrbemx5DV) | 4:54 |
 | 100 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 |
 
-Snapshot ID: `MCw5OWJhN2RhZjU3N2YyOTQ1Y2RjMjUyYTNjODFlNDQ3ZDRjOGFhMTI5`
+Snapshot ID: `MCw5OGQzNWI3ZWFmOWEwYzRhMDU3NThmMzMzZTA4NGQxYWUwOWFkNDJm`

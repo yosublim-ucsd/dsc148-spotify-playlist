@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kehMXAAgpt.md) - [plain]
 
 > Workout music for hamsters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,010 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,012 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kehMXAAgpt.md) - [plain]
 | 39 | [Started](https://open.spotify.com/track/5t0VcwyjDPOWIdylULdfxk) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Started](https://open.spotify.com/album/04MknhNSl3DH9qDbBr61bS) | 3:06 |
 | 40 | [Death Rail](https://open.spotify.com/track/6ZI5UgjEGb82o1XaAZKLJ2) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Death Rail](https://open.spotify.com/album/4C0vIxaCTSloENgeyOFgZ8) | 2:31 |
 
-Snapshot ID: `MCw2YTFkMDBkYWJiZjNmZTg5NTEyMDE5NjQ1ZDFiMWQ4MzI5YWNmMmY3`
+Snapshot ID: `MCxjN2UzN2I3MDcwN2IzNGVhZmVkNzZkYTJkNzQ0ZWE3NzE0N2ZjMTFh`

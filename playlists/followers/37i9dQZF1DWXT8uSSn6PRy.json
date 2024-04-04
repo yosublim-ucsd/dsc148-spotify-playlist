@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 891464,
+  "2024-04-04": 891629,
   "date_first_scraped": "2022-01-01",
   "description": "The hottest tracks in the North. Cover: Benson Boone",
   "name": "Hot Hits Canada",
@@ -5186,6 +5186,24 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/02SRvzvwKNQJpqjdehWAif"
       },
@@ -5529,7 +5547,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
@@ -6628,7 +6646,7 @@
     },
     {
       "album": {
-        "name": "Living in a Haze (feat. The Beaches)",
+        "name": "Living In A Haze (feat. The Beaches)",
         "url": "https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E"
       },
       "artists": [
@@ -6645,7 +6663,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 173371,
-      "name": "Living in a Haze - feat. The Beaches",
+      "name": "Living In A Haze - feat. The Beaches",
       "url": "https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB"
     },
     {

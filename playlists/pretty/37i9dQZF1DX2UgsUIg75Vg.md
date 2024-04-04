@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Hailey Knox
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,356,603 likes - 155 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,356,739 likes - 155 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 154 | [Pull Up](https://open.spotify.com/track/4NhTEjDsRmEkvcWY1MRF9X) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 3:01 |
 | 155 | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/album/1KUP4jLGY0Jil7j43w3dx8) | 4:18 |
 
-Snapshot ID: `MCw3YjVlNGE3NWFkNjNmMzE5OTU4YTQ3ZGY0YzFkMDFjNWY3NDg0MTIw`
+Snapshot ID: `MCw2YjAxZmE1YTgwMjg5YThmODFlZWVjOWM0Y2NhNzJlODRjOTA4YjA1`

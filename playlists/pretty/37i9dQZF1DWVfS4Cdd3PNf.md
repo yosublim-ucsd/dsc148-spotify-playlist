@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfS4Cdd3PNf.md) - [plain]
 
 > Masterpieces from the world of opera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,874 likes - 63 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,086 likes - 63 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfS4Cdd3PNf.md) - [plain]
 | 62 | [Idomeneo, K\. 366, Atto II Scena 2: No\. 11, Aria "Se il padre perdei" \(Ilia\)](https://open.spotify.com/track/2Z088O7SZC87DBKZvChCFi) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Sunhae Im](https://open.spotify.com/artist/4LbXwXeeGL3rsFjmDGbgma), [René Jacobs](https://open.spotify.com/artist/3hwPQDlJr99FzncxqZD2SU), [Freiburger Barockorchester](https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai) | [Mozart: Idomeneo](https://open.spotify.com/album/59Hf5d60yBOOCW1wAYdUYf) | 4:53 |
 | 63 | [Betrothal in a Monastery, Op\. 86, Act I Tableau 1 Scene 8: "Druzya, ukhodite"](https://open.spotify.com/track/1GhIGedE1Jf8IkmmBHoYH7) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [Anatoly Mishchevsky](https://open.spotify.com/artist/4JBFuBl7EpzvXZrcF70QFd), [Kemal Abdullayev](https://open.spotify.com/artist/0N0tTsKVeftHfUtfB8G5Ep), [Stanislavsky and Nemirovich\-Danchenko Moscow Music Theatre Orchestra](https://open.spotify.com/artist/07T4KuhCZwUsHrtHjKIsAS) | [Prokofiev: Betrothal in a Monastery, Op\. 86](https://open.spotify.com/album/68u2i5065IWlAQSDB68tYt) | 3:19 |
 
-Snapshot ID: `MCw3MzJiZDFlODNjOWVkMmVjNDk3ODk2NGYwMjg4ZjY5YzY2NGE5OWJj`
+Snapshot ID: `MCw4NTc1MzA2ZDJmMDFhYTE3NWFiMWYwMGZjYWJlOGZiMTMzOTJhMzFl`

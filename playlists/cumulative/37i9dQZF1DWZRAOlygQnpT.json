@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2OA7EvjDkBZMkAZvElz8UU"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "Cuando Me Enamoro (Quando Mi Inamoro)",
+      "url": "https://open.spotify.com/track/27tgdvEdEXoGVBvRomPMiU"
+    },
+    {
+      "album": {
         "name": "Los 60 M\u00e9xico",
         "url": "https://open.spotify.com/album/3xbJUwewilXHc2HOGdPI9n"
       },
@@ -2962,7 +2980,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 166386,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/3ALSAAcAgp6gmWPnvPPRqH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Purple Disco Machine, Roosevelt
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,676 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,712 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Don't Let Go](https://open.spotify.com/track/2K5q1ig3dVkAvQSkDTs1Ol) | [Dena](https://open.spotify.com/artist/3qQ6mF4KyHTuOLcZjunAD4), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Don't Let Go](https://open.spotify.com/album/0xlUjsmWRchxJFmhqRN7nZ) | 3:18 |
 | 75 | [Energy](https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 3:14 |
 
-Snapshot ID: `MCxjOWNmNmU3YTQ3ZWQ4Yzc1ODEwMGFjODEyZTU2NDUzM2NmYmI4ZGM2`
+Snapshot ID: `MCw0MjI3ZWE1OWYyYjllNmM2YzJjYWRlYzJkYWEzY2Y5ZjRhODcwMDJl`

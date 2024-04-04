@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,498 likes - 110 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,524 likes - 110 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 13 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 |
 | 14 | [second guessing](https://open.spotify.com/track/7wuCZVsFR7V3OO8AbaXgLe) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [silver lining](https://open.spotify.com/album/7KMs4mopInKccB2HO6q2zK) | 3:29 |
 | 15 | [SEX TAPE](https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [SEX TAPE](https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R) | 4:15 |
-| 16 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
+| 16 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 |
 | 17 | [lil' freak](https://open.spotify.com/track/6guIMfoWJvsCXQxNsAtWPN) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [lil' freak](https://open.spotify.com/album/3sEThxFC8DglKnXEokpmww) | 2:48 |
 | 18 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 |
 | 19 | [Foto kita blur](https://open.spotify.com/track/0qbRvZ1alpPGmV52wKb2gJ) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Foto kita blur](https://open.spotify.com/album/5ub2KSCpnGbmYyKLruGUPF) | 4:31 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 109 | [Second Gear](https://open.spotify.com/track/4rt9bnHdMk636bZk80yX4M) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Second Gear](https://open.spotify.com/album/21vErs9lrBQ3JRhwvXq5fI) | 3:06 |
 | 110 | [Wannabesadsong](https://open.spotify.com/track/4yqxny2mF54hWTaYaixHt3) | [Door Plant](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [Wannabesad Song](https://open.spotify.com/album/7GPhrj2rvTB4wwqLX8UnzQ) | 3:05 |
 
-Snapshot ID: `MCwwNTc1MDJjZDBmYzcxMzM3MTAwZTJiMDk0ZmMyYmIzMTQ1ODVmY2Fh`
+Snapshot ID: `MCxiY2ZjMzYxN2IxMWY1NzE0OGNmYmFlZGZiYjc5NDQxYjE2M2RhYTk2`

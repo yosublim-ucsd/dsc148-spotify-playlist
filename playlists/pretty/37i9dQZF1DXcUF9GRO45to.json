@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 37891,
+  "num_followers": 37886,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTlmYjUzMmE5Y2ZiYTMwMjRkYmE2ZjUxODBjYzcyZjVhODk1NzU0",
+  "snapshot_id": "MCxhMTliZTNlOWJkMDFiNzZhZTQ3NWM3NTA3OTdiYTZlZDQ4ODc0ODE0",
   "tracks": [
     {
       "added_at": "2024-02-28 20:47:31",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Daddy Issues",
-        "url": "https://open.spotify.com/album/31gjmH07EByb5lpua6I4G8"
-      },
-      "artists": [
-        {
-          "name": "Grandma's Ashes",
-          "url": "https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY"
-        }
-      ],
-      "duration_ms": 289476,
-      "name": "Daddy Issues",
-      "url": "https://open.spotify.com/track/2IQq6WSFeAeQIdarYvlGxP"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "DEUXI\u00c8ME \u00c9TOILE",
         "url": "https://open.spotify.com/album/249WNcUE4agsZX6OnzVNwl"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 164026,
       "name": "REQUIN MAKO",
       "url": "https://open.spotify.com/track/5DSNrLlcBs3QNvyEPTJrkG"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Daddy Issues",
+        "url": "https://open.spotify.com/album/31gjmH07EByb5lpua6I4G8"
+      },
+      "artists": [
+        {
+          "name": "Grandma's Ashes",
+          "url": "https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY"
+        }
+      ],
+      "duration_ms": 289476,
+      "name": "Daddy Issues",
+      "url": "https://open.spotify.com/track/2IQq6WSFeAeQIdarYvlGxP"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1043,38 +1043,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Nothing Belongs to Anything",
-        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
-      },
-      "artists": [
-        {
-          "name": "Cosse",
-          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
-        }
-      ],
-      "duration_ms": 308125,
-      "name": "Welcome Newcomers",
-      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
-        "name": "Teenage Ends",
-        "url": "https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Carwash",
-          "url": "https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0"
-        }
-      ],
-      "duration_ms": 135270,
-      "name": "I Don't Give A Shit",
-      "url": "https://open.spotify.com/track/6ZZ8iAhLsaHncTdniCOcex"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "Freakenstein",
         "url": "https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4"
       },
@@ -1107,6 +1075,22 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
+        "name": "Nothing Belongs to Anything",
+        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
+      },
+      "artists": [
+        {
+          "name": "Cosse",
+          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
+        }
+      ],
+      "duration_ms": 308125,
+      "name": "Welcome Newcomers",
+      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
         "name": "Dead Doll",
         "url": "https://open.spotify.com/album/1GKNYKScArEpMVox9BJSXQ"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 246445,
       "name": "Dead Doll",
       "url": "https://open.spotify.com/track/6whpHTLlx4Kl4YYgC10jLa"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Teenage Ends",
+        "url": "https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Carwash",
+          "url": "https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0"
+        }
+      ],
+      "duration_ms": 135270,
+      "name": "I Don't Give A Shit",
+      "url": "https://open.spotify.com/track/6ZZ8iAhLsaHncTdniCOcex"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1139,38 +1139,6 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Sometimes I Wanna Fight",
-        "url": "https://open.spotify.com/album/45H1fFqhaQXwkz8ZNKU22I"
-      },
-      "artists": [
-        {
-          "name": "Caesaria",
-          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
-        }
-      ],
-      "duration_ms": 202719,
-      "name": "Sometimes I Wanna Fight",
-      "url": "https://open.spotify.com/track/1u0bagIS8x7BuGXnKm6aLr"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
-        "name": "Vacuum Sealed",
-        "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
-      },
-      "artists": [
-        {
-          "name": "Bryan's Magic Tears",
-          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
         "name": "AqME",
         "url": "https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF"
       },
@@ -1187,18 +1155,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Healing Is Not Linear",
-        "url": "https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0"
+        "name": "Sometimes I Wanna Fight",
+        "url": "https://open.spotify.com/album/45H1fFqhaQXwkz8ZNKU22I"
       },
       "artists": [
         {
-          "name": "COLISION",
-          "url": "https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ"
+          "name": "Caesaria",
+          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
         }
       ],
-      "duration_ms": 188440,
-      "name": "Knees",
-      "url": "https://open.spotify.com/track/49WaJosNna7DBveejaBjra"
+      "duration_ms": 202719,
+      "name": "Sometimes I Wanna Fight",
+      "url": "https://open.spotify.com/track/1u0bagIS8x7BuGXnKm6aLr"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1219,18 +1187,34 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "SORORITY / CONTROL",
-        "url": "https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK"
+        "name": "Vacuum Sealed",
+        "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
       },
       "artists": [
         {
-          "name": "We Hate You Please Die",
-          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+          "name": "Bryan's Magic Tears",
+          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
         }
       ],
-      "duration_ms": 163732,
-      "name": "Sorority",
-      "url": "https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7"
+      "duration_ms": 240333,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "Healing Is Not Linear",
+        "url": "https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0"
+      },
+      "artists": [
+        {
+          "name": "COLISION",
+          "url": "https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ"
+        }
+      ],
+      "duration_ms": 188440,
+      "name": "Knees",
+      "url": "https://open.spotify.com/track/49WaJosNna7DBveejaBjra"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "The Lair of Gods",
-        "url": "https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf"
+        "name": "SORORITY / CONTROL",
+        "url": "https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK"
       },
       "artists": [
         {
-          "name": "Servo",
-          "url": "https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN"
+          "name": "We Hate You Please Die",
+          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
         }
       ],
-      "duration_ms": 241812,
-      "name": "Tree",
-      "url": "https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x"
+      "duration_ms": 163732,
+      "name": "Sorority",
+      "url": "https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
+        "name": "The Lair of Gods",
+        "url": "https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf"
+      },
+      "artists": [
+        {
+          "name": "Servo",
+          "url": "https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN"
+        }
+      ],
+      "duration_ms": 241812,
+      "name": "Tree",
+      "url": "https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
         "name": "Liquor Liquor",
         "url": "https://open.spotify.com/album/36yINXB0OBwSntX5Ae7WXd"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 222288,
       "name": "Liquor Liquor",
       "url": "https://open.spotify.com/track/4xHZ6hH2dbPP1lKn5ZLHYQ"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
-        "name": "The West Is the Best",
-        "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
-      },
-      "artists": [
-        {
-          "name": "Dead Horse One",
-          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
-        }
-      ],
-      "duration_ms": 221322,
-      "name": "Echo Street",
-      "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Ineffable",
-        "url": "https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz"
+        "name": "The West Is the Best",
+        "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
       },
       "artists": [
         {
-          "name": "Merge",
-          "url": "https://open.spotify.com/artist/017WuxWgOk7J8gVQCIaZ9m"
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
         }
       ],
-      "duration_ms": 254687,
-      "name": "The Password",
-      "url": "https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx"
+      "duration_ms": 221322,
+      "name": "Echo Street",
+      "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
+        "name": "Ineffable",
+        "url": "https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz"
+      },
+      "artists": [
+        {
+          "name": "Merge",
+          "url": "https://open.spotify.com/artist/017WuxWgOk7J8gVQCIaZ9m"
+        }
+      ],
+      "duration_ms": 254687,
+      "name": "The Password",
+      "url": "https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
         "name": "Salvation Prayer",
         "url": "https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo"
       },
@@ -1375,6 +1375,22 @@
       "duration_ms": 294594,
       "name": "Cold Crusader",
       "url": "https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB"
+    },
+    {
+      "added_at": "2024-02-28 20:47:31",
+      "album": {
+        "name": "SNAKES",
+        "url": "https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk"
+      },
+      "artists": [
+        {
+          "name": "YAOUND\u00c9BOXINGCLUB",
+          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "SNAKES",
+      "url": "https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "SNAKES",
-        "url": "https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk"
+        "name": "The Cage & The Crown : Chapter I",
+        "url": "https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK"
       },
       "artists": [
         {
-          "name": "YAOUND\u00c9BOXINGCLUB",
-          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
+          "name": "HEADKEYZ",
+          "url": "https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea"
         }
       ],
-      "duration_ms": 191250,
-      "name": "SNAKES",
-      "url": "https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY"
+      "duration_ms": 215453,
+      "name": "Killing God",
+      "url": "https://open.spotify.com/track/5EqCrES13fNKmdyR3OBm7r"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "The Cage & The Crown : Chapter I",
-        "url": "https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK"
+        "name": "Ain't No Princess",
+        "url": "https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh"
       },
       "artists": [
         {
-          "name": "HEADKEYZ",
-          "url": "https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea"
+          "name": "Can't Bear This Party!",
+          "url": "https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f"
         }
       ],
-      "duration_ms": 215453,
-      "name": "Killing God",
-      "url": "https://open.spotify.com/track/5EqCrES13fNKmdyR3OBm7r"
+      "duration_ms": 197333,
+      "name": "So Quarrelsome",
+      "url": "https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2024-02-28 20:47:31",
       "album": {
-        "name": "Ain't No Princess",
-        "url": "https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh"
+        "name": "Songs/Motion Return",
+        "url": "https://open.spotify.com/album/0HNoauBRe7vw3WlqH9APbM"
       },
       "artists": [
         {
-          "name": "Can't Bear This Party!",
-          "url": "https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f"
+          "name": "Stuffed Foxes",
+          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
         }
       ],
-      "duration_ms": 197333,
-      "name": "So Quarrelsome",
-      "url": "https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP"
+      "duration_ms": 227426,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/367PCAccIOOMRfnaSKtFDG"
     },
     {
       "added_at": "2024-02-28 20:47:31",
@@ -1519,22 +1535,6 @@
       "duration_ms": 170393,
       "name": "Vulgar",
       "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
-    },
-    {
-      "added_at": "2024-02-28 20:47:31",
-      "album": {
-        "name": "Songs/Motion Return",
-        "url": "https://open.spotify.com/album/0HNoauBRe7vw3WlqH9APbM"
-      },
-      "artists": [
-        {
-          "name": "Stuffed Foxes",
-          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
-        }
-      ],
-      "duration_ms": 227426,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/367PCAccIOOMRfnaSKtFDG"
     },
     {
       "added_at": "2024-02-28 20:47:31",

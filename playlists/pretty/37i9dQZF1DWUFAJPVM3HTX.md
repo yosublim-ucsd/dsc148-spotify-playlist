@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX?si=lI0sVvQFRrCSmKVXKyfmjw"> Leo Waters </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,231 likes - 212 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,455 likes - 212 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 84 | [Therapist](https://open.spotify.com/track/5uXOqaBXKDrYXjnA9tPMZp) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Therapist](https://open.spotify.com/album/0gAaCRhfT7ALD6OR4ddmcz) | 3:05 |
 | 85 | [Security](https://open.spotify.com/track/2FioyTDEXF7s30TLf9UXHg) | [Myke Grizzly](https://open.spotify.com/artist/3l4XY26vL0FKhljOFmnMny) | [Direction](https://open.spotify.com/album/5ATAP8EwWp7qonbbYefSzP) | 3:17 |
 | 86 | [Glass](https://open.spotify.com/track/0dr3jcy2n0tN73QYHqH2W6) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Glass](https://open.spotify.com/album/7w6g5LNPLsrxi4C3Foc3C4) | 3:50 |
-| 87 | [Intergalactic Janet](https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj) | 2:40 |
+| 87 | [Intergalactic Janet](https://open.spotify.com/track/7zgEoBci3rKmEkLdsZ8ZKJ) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/7zu5604lPvQjVBERSdwrTe) | 2:40 |
 | 88 | [FUL](https://open.spotify.com/track/60Rfi324rJBiPfoRZKNKtF) | [Lee Lewis](https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D) | [FUL](https://open.spotify.com/album/19NSr68RCY69TRGpMYJQYG) | 4:27 |
 | 89 | [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 |
 | 90 | [Little Nothings](https://open.spotify.com/track/5JseEHJMBE2kRk2vXAaAMv) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Little Nothings](https://open.spotify.com/album/0FID2WHAhfMQ2vxcTU1C3B) | 3:42 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 211 | [palisades](https://open.spotify.com/track/0PLzy8TCh6YQ48WsPbtecP) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [palisades](https://open.spotify.com/album/7K9SJdOpY6C4QuvxmJ5jh6) | 3:57 |
 | 212 | [This Is What You're Gonna Get \(Intro\)](https://open.spotify.com/track/3zeIPaQMP64eIM0rI9KyEq) | [Blue Nightmare](https://open.spotify.com/artist/7KjinB2wGyb4N3zvfdOJqX) | [I Don't Think You Know Me That Well](https://open.spotify.com/album/3I2rg6r3sOA7qYEsLdH2NK) | 1:10 |
 
-Snapshot ID: `MCxiNDFlMDEyNWE4ZmQwNWEzZjJjYzIyYzc3ODU2YWY4MmFhNjU1ODdm`
+Snapshot ID: `MCwxYjFkOWI2NmQ2ZDc3YjYzODgzMGE3MzI0ZjdjOWFlNGNhMTJjOWI2`

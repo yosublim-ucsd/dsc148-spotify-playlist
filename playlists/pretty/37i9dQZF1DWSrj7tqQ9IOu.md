@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Papooz
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,843 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,846 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Run](https://open.spotify.com/track/6mcP1kDZE3Iqn9ps7wtYbf) | [Gurth](https://open.spotify.com/artist/3Jp2CVbWo0yJs60rPyIlTb), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Pangol](https://open.spotify.com/artist/24GK68qM53IIPkK3NEYHd4) | [Run](https://open.spotify.com/album/55nrtrhYbidS1MWC7bchos) | 3:29 |
 | 50 | [Blinds](https://open.spotify.com/track/5heIFh4Abh0PfvoFviNuc5) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Blinds](https://open.spotify.com/album/5n40ewDmIxFxsBFTSHyQh8) | 2:45 |
 
-Snapshot ID: `MCxmNmQ0MDllOTYzNjk1MWI1YTAwODEzODIwZTcxODJhYTBhZjRjYjRk`
+Snapshot ID: `MCw3ZDZmZmQ4YjExOTRhYWVhZGMxN2RkYjFmYTU5MDBkZGU2Y2QxNzMw`

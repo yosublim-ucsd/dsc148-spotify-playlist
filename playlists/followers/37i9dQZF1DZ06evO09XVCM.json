@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 32212,
+  "2024-04-04": 32223,
   "date_first_scraped": "2024-02-02",
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
   "name": "This Is Ziggy Marley",
@@ -101,7 +101,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 161693,
       "name": "Black Cat",
       "url": "https://open.spotify.com/track/5Ysvj4iTmZpcwtTdFHzuBq"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 299827,
       "name": "High Tide or Low Tide (feat. Ziggy Marley)",
       "url": "https://open.spotify.com/track/56iGwUFIn9SuKZIYl8RiAO"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 228506,
       "name": "Love Is My Religion",
       "url": "https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 210720,
       "name": "MMMM MMMM",
       "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"

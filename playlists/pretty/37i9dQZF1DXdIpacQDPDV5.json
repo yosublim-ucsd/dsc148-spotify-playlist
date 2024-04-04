@@ -1,12 +1,12 @@
 {
   "description": "The best of today's dance hits. Cover: Seven Lions, ILLENIUM, \u00c1SD\u00cdS",
-  "num_followers": 306991,
+  "num_followers": 307002,
   "original_name": "mint Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzhiM2UwOTgwYTlhZTNlYmM1NTA0NjQ0YWZmZGM5ZjZhMzQxMDVm",
+  "snapshot_id": "MCwxNjMwZmE1YzVlZTIzYTFmOTczMmUyMWM1NGVlNzA1MDI2ZDRkNGYx",
   "tracks": [
     {
       "added_at": "2024-03-29 19:13:03",
@@ -351,26 +351,6 @@
     {
       "added_at": "2024-03-29 19:13:03",
       "album": {
-        "name": "Wu Tang",
-        "url": "https://open.spotify.com/album/3FJOODvRzwdFIic4XGSFzN"
-      },
-      "artists": [
-        {
-          "name": "Dzeko",
-          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 151376,
-      "name": "Wu Tang",
-      "url": "https://open.spotify.com/track/5JB0vGxI5YFs0UW6N08VTS"
-    },
-    {
-      "added_at": "2024-03-29 19:13:03",
-      "album": {
         "name": "TAKA",
         "url": "https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40"
       },
@@ -435,6 +415,22 @@
       "duration_ms": 217983,
       "name": "Faust",
       "url": "https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX"
+    },
+    {
+      "added_at": "2024-04-03 15:26:16",
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        }
+      ],
+      "duration_ms": 169302,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
     },
     {
       "added_at": "2024-03-29 19:13:03",

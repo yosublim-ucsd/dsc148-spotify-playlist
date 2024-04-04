@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 1033737,
+  "2024-04-04": 1034916,
   "date_first_scraped": "2022-06-10",
   "description": "The perfect mixtape for an anime fight scene. Also check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>",
   "name": "sh\u014dnen",
@@ -79,6 +79,24 @@
       "duration_ms": 158222,
       "name": "3 Stars",
       "url": "https://open.spotify.com/track/3z2TthJcrKYXF9EwVgGTmo"
+    },
+    {
+      "album": {
+        "name": "5 by 5",
+        "url": "https://open.spotify.com/album/61o4baUvcSo98fr0noiyRe"
+      },
+      "artists": [
+        {
+          "name": "lykia",
+          "url": "https://open.spotify.com/artist/4ZIERQTvWH2EbE5kyQmQTy"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71611,
+      "name": "5 by 5",
+      "url": "https://open.spotify.com/track/0n3xqX2q2ioobUvPHcMpcH"
     },
     {
       "album": {
@@ -2041,7 +2059,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 139666,
       "name": "Good Morning Vietnam",
       "url": "https://open.spotify.com/track/61XDPnhHACR7xypgbp8bG8"

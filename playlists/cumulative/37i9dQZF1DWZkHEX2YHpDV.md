@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: The Story So Far
 
-1,172 songs - 2 day 13 hr 56 min
+1,173 songs - 2 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [A Real Thing](https://open.spotify.com/track/5cHFMi5m8FTcYOjzgzmXt1) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [A Real Thing](https://open.spotify.com/album/53IuAG6Mqh2iMjI3b1ithn) | 3:35 | 2022-02-11 | 2022-04-12 |
 | [A Song For Dan](https://open.spotify.com/track/7yNGXJgbrWuDBuaw0epS6W) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Twenty](https://open.spotify.com/album/675XmEdhjSVOK5HT4gDQBe) | 4:59 | 2022-03-25 | 2022-04-12 |
 | [A Summer Song](https://open.spotify.com/track/7nCcB00RZZFD3BEAQMa4O3) | [Dusty Miller](https://open.spotify.com/artist/43iKuF1Cf7G4jp0N9mOnTP) | [A Summer Song](https://open.spotify.com/album/3AAnAmJWM9t1YkW9zS9U7d) | 3:22 | 2022-03-25 | 2022-04-11 |
-| [A\. Hole](https://open.spotify.com/track/6E3Eza0e2suQcGmVDLSa97) | [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS), [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj) | [A\. Hole](https://open.spotify.com/album/0oyN7KFYXUH32KK5jxxcDj) | 2:32 | 2023-12-08 |  |
+| [A\. Hole](https://open.spotify.com/track/6E3Eza0e2suQcGmVDLSa97) | [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS), [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj) | [A\. Hole](https://open.spotify.com/album/0oyN7KFYXUH32KK5jxxcDj) | 2:32 | 2023-12-08 | 2024-04-04 |
 | [About Me](https://open.spotify.com/track/6DPYOdc3XuaZNFVm3QVghN) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [About Me](https://open.spotify.com/album/4rMJURfRMq7kPbYbt02Wkq) | 3:32 | 2023-11-10 | 2024-03-23 |
 | [Act Like That](https://open.spotify.com/track/2qcYGGuNPYilXVwFx0KEFz) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Kings of the New Age](https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9) | 3:03 | 2022-05-13 | 2023-12-09 |
 | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/6PxNpy8jOjyZ8aGCD58LpW) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/3RjX0PnYherdDTp2MWq0G1) | 3:11 | 2021-12-10 | 2022-11-05 |
@@ -123,6 +123,7 @@
 | [Better Off](https://open.spotify.com/track/090fsR0klPUyKSrnNCnojO) | [Secret Eyes](https://open.spotify.com/artist/6pcymMubKlBFQ1H7gXzYmL) | [Holding On](https://open.spotify.com/album/7KhTFB6x7NHQ4t9P78ZxSY) | 3:50 | 2021-12-10 | 2022-05-26 |
 | [BETTER OFF DEAD](https://open.spotify.com/track/4ih3Y0t86lfK8m8pTgEx4I) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [BETTER OFF DEAD](https://open.spotify.com/album/3E1tSM6TIdeVmjDXZ0Xtsq) | 2:35 | 2021-12-10 | 2022-07-25 |
 | [BETTER OFF DEAD](https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:35 | 2022-07-08 | 2022-08-06 |
+| [better than this](https://open.spotify.com/track/53HsQKvda5AREIgqeCujU9) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [better than this](https://open.spotify.com/album/2VaKXOJ6RcIHwsYyWF6nlK) | 2:58 | 2024-03-22 |  |
 | [Biddy](https://open.spotify.com/track/5AbNazhwuq3Iu73BX5nbct) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [Biddy](https://open.spotify.com/album/5M0VzkHfipN9Gh2AKIQyE0) | 3:03 | 2022-02-04 | 2022-04-20 |
 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-09-15 | 2024-03-23 |
 | [Big Cat Judgement Day](https://open.spotify.com/track/48EL0gIc4MkhTLCgE3w8x3) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Big Cat Judgement Day](https://open.spotify.com/album/3tGvWqFRuhJKJfgqMA2atx) | 2:31 | 2021-12-10 | 2022-05-20 |

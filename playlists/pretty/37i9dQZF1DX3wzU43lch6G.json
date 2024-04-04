@@ -1,12 +1,12 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 103003,
+  "num_followers": 103006,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmFlZmY1ZjkxMzkwYmIwMTUxZTZhNzA5MTk1ZTkwYWVlN2QzOWE4",
+  "snapshot_id": "MCwxZWJiZWZlNjI4NjMyZDVhNjQ5MzJhZTEzYmIyMTZmZTc2Mzk3ZDg5",
   "tracks": [
     {
       "added_at": "2024-02-22 21:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
+        "name": "Her Dem Yeni (Yirmi Se\u00e7ilmi\u015f \u015eark\u0131)",
+        "url": "https://open.spotify.com/album/3lReGFhnQrP7bqnVTRjEfX"
+      },
+      "artists": [
+        {
+          "name": "Yeni T\u00fcrk\u00fc",
+          "url": "https://open.spotify.com/artist/5Oo6D3FLRpWjgBn0mqfiA3"
+        }
+      ],
+      "duration_ms": 169093,
+      "name": "A\u015fk Yeniden",
+      "url": "https://open.spotify.com/track/7lQpqtDVqsl6go3XrmfQBR"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
         "name": "Ta\u015f Kalbinin \u00c7\u00f6llerinde",
         "url": "https://open.spotify.com/album/0bjbNfADYuqDTJ3tgIfvDV"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 164202,
       "name": "Ta\u015f Kalbinin \u00c7\u00f6llerinde",
       "url": "https://open.spotify.com/track/2fJG9sEeJJc5gxwxJMNbQu"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
-        "name": "Yan Yana Foto\u011fraf \u00c7ektirelim",
-        "url": "https://open.spotify.com/album/3L6OlTkIhVflGPFy2Tzl6A"
-      },
-      "artists": [
-        {
-          "name": "Nazan \u00d6ncel",
-          "url": "https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP"
-        }
-      ],
-      "duration_ms": 277800,
-      "name": "Nereye B\u00f6yle",
-      "url": "https://open.spotify.com/track/55TrAm9okj6Kwj9KOvRHAL"
     }
   ],
   "unique_name": "K\u0131y\u0131 Boyu",

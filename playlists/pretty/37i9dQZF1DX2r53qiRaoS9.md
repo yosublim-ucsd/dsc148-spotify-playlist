@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 
 > Warm Up! Burn! Cooldown! Ready, Steady, move to Bhangra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,436 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,442 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kala Chashma](https://open.spotify.com/track/6mdLX10dvBb7rGYbMXpKzz) | [Prem](https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l), [Hardeep](https://open.spotify.com/artist/6a9AtaXEnfNdyDju1FrXfT), [Amar Arshi](https://open.spotify.com/artist/3f7Qfkua3IcRpUFzUaUnrX), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Indeep Bakshi](https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ), [Amrik Singh](https://open.spotify.com/artist/1Sqacm1VMROsVrDOUwxS5G) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq) | 3:07 |
+| 1 | [Kala Chashma](https://open.spotify.com/track/6mdLX10dvBb7rGYbMXpKzz) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Amar Arshi](https://open.spotify.com/artist/3f7Qfkua3IcRpUFzUaUnrX), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Indeep Bakshi](https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ), [Amrik Singh](https://open.spotify.com/artist/1Sqacm1VMROsVrDOUwxS5G) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq) | 3:07 |
 | 2 | [Cheques](https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:03 |
 | 3 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Rooh Sandhu](https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 |
 | 4 | [Way Bigger](https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 | 49 | [Daru Band](https://open.spotify.com/track/5ykIUH7FqS7J9rMIGx07sj) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Do Gabru \- Mankirt Aulakh & Parmish Verma](https://open.spotify.com/album/0VCDWiGktLuwEvDZyOqYmn) | 3:17 |
 | 50 | [PRADA](https://open.spotify.com/track/4CxTBbdPUiwk2dSUrcg9CD) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5) | [PRADA](https://open.spotify.com/album/2dhSH8zRnAcGhCk0P4GGWC) | 3:05 |
 
-Snapshot ID: `MCxiZjQ0YmUwZjk1NTcxY2RkMDBkZGY3OWFiZTc5MzdiMWU3ODA2NTM2`
+Snapshot ID: `MCw3MTQ4NjFkYzUxMTMwYTk0Y2QxMGE2MzVkMDYwMDY3OGMxYzE4OTNm`

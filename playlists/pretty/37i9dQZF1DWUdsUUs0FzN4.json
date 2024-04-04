@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Bellakath en portada ",
-  "num_followers": 18404,
+  "num_followers": 18436,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzczYzdhMjUyMDg5Mjk2NWFiNGY1NTA5YzI4ZTZhZTQ2NmJkMDNk",
+  "snapshot_id": "MCxjZDRmNmQxZmZhZmExNjlhNGM1MjIwM2RjMjk3YmVkNGU4MmE1NGYy",
   "tracks": [
     {
       "added_at": "2024-04-01 16:24:40",
@@ -343,6 +343,26 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
+        "name": "PLEBADA",
+        "url": "https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 221739,
+      "name": "PLEBADA",
+      "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
         "name": "Chup\u00f3n",
         "url": "https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 201084,
       "name": "Chup\u00f3n",
       "url": "https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
-        "name": "PLEBADA",
-        "url": "https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 221739,
-      "name": "PLEBADA",
-      "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
+        "name": "Helicoptero",
+        "url": "https://open.spotify.com/album/3XmNrq8rYZX54P2WGd1pQ7"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 137014,
+      "name": "Helicoptero",
+      "url": "https://open.spotify.com/track/2Gt9PTqiQdE4ZGbsBwssqJ"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
         "name": "\u00d1ero Session 5",
         "url": "https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 147633,
       "name": "\u00d1ero Session 5",
       "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
-        "name": "Helicoptero",
-        "url": "https://open.spotify.com/album/3XmNrq8rYZX54P2WGd1pQ7"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 137014,
-      "name": "Helicoptero",
-      "url": "https://open.spotify.com/track/2Gt9PTqiQdE4ZGbsBwssqJ"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
-        "name": "Podemos Repetirlo",
-        "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 211707,
-      "name": "Podemos Repetirlo",
-      "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
         "name": "La B Es de Bellaka",
         "url": "https://open.spotify.com/album/0cd0WR5vvoleRlvjdygUrs"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 146328,
       "name": "La B Es de Bellaka",
       "url": "https://open.spotify.com/track/0ArhUN6zFdmFn5l7q6CO23"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
+        "name": "Podemos Repetirlo",
+        "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 211707,
+      "name": "Podemos Repetirlo",
+      "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
     },
     {
       "added_at": "2024-04-01 16:24:40",

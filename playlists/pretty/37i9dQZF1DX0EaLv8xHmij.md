@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Big Bllakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,464 likes - 76 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,486 likes - 76 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 75 | [Sem Indícios](https://open.spotify.com/track/7gTXqvvcKYz4Gqmn358AjF) | [Redd AllFavela](https://open.spotify.com/artist/7dBIQV6aOgRUGFzvC3gTkt), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [RiverST](https://open.spotify.com/artist/5Qa5X4DyStWx7TS3wWkun8), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy), [AllFavela](https://open.spotify.com/artist/4DqW9Yj3JdScO6gSUlVyqS) | [Sem Indícios](https://open.spotify.com/album/2qdVlvKiOxwsMKwBxxokoT) | 2:28 |
 | 76 | [Dia de Baile](https://open.spotify.com/track/0bGMCEoexnziCVqev7r2au) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Xizoh](https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI) | [ANTI\-HERÓI](https://open.spotify.com/album/7lMFatQPwalyHw51AOYWPp) | 1:58 |
 
-Snapshot ID: `MCwzZjU0MDI4MjkzYjk5MGZkZWIyMTc2MGQ0MzY5M2Y4NTk5NGFkOTQx`
+Snapshot ID: `MCxlMGQ1NjM3Y2M4MjA3OTczODAwMzEyYzUyYjBmNmMyMDlhNTZjMTQw`

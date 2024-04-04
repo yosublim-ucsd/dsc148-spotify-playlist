@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 1341079,
+  "2024-04-04": 1341395,
   "date_first_scraped": "2023-01-11",
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: AKDO x Lvbel C5 ",
   "name": "NKVT",
@@ -1899,12 +1899,12 @@
       },
       "artists": [
         {
-          "name": "ElMusto",
-          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
-        },
-        {
           "name": "Decrat",
           "url": "https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5"
+        },
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
         }
       ],
       "date_added": "2024-03-28",

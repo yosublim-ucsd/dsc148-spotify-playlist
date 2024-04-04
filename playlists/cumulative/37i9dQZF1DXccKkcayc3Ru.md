@@ -4,7 +4,7 @@
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-22 songs - 1 hr 28 min
+23 songs - 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,5 +30,6 @@
 | [ひとりの夜を抜け](https://open.spotify.com/track/0jKFkKHQWNCvjoBUG751Oq) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [HUG](https://open.spotify.com/album/76DxOsTwHzuGyD27vEYWKJ) | 3:01 | 2024-04-01 |  |
 | [クロノスタシス](https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:47 | 2024-04-01 |  |
 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 | 2024-04-01 |  |
+| [水星 \(feat\. オノマトペ大臣\)](https://open.spotify.com/track/6XA6rD06U0Y7L8q9EISVGX) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [オノマトペ大臣](https://open.spotify.com/artist/575g2KDApbVOueuZbqtJPU) | [水星](https://open.spotify.com/album/0HN0p05E303NlGcdmwEVld) | 4:33 | 2024-04-03 |  |
 
 \*This playlist was first scraped on 2024-04-02. Prior content cannot be recovered.

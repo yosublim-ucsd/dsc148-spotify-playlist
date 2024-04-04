@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 223594,
+  "num_followers": 223753,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWE1MjBlZjQ1NjkzMWNkMWU4MzhjZGZkYTJmZGUzMzc3MmQ2MjEz",
+  "snapshot_id": "MCxlMDU4MmNjNzlhZWQ0N2I2MjcyOWJjNTcxM2FlNzM0MjUxNjE4Yzg5",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -887,6 +887,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Canciones Inolvidables",
+        "url": "https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u"
+      },
+      "artists": [
+        {
+          "name": "Cuerdas y Metales",
+          "url": "https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Soleado",
+      "url": "https://open.spotify.com/track/33D7r5tvQ5bDlzjIdrqUhP"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "The New Limelight",
         "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 166293,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Canciones Inolvidables",
-        "url": "https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u"
-      },
-      "artists": [
-        {
-          "name": "Cuerdas y Metales",
-          "url": "https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Soleado",
-      "url": "https://open.spotify.com/track/33D7r5tvQ5bDlzjIdrqUhP"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Boleros Bonitos",
-        "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Rom\u00e1ntica de La Habana",
-          "url": "https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Born Losers (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 121333,
       "name": "Billy Jack's Theme",
       "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Boleros Bonitos",
+        "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Rom\u00e1ntica de La Habana",
+          "url": "https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Instrumental History, The Best",
-        "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Marchetti",
-          "url": "https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "L'Incontro - 1M1",
-      "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Sue\u00f1o azul",
         "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 142040,
       "name": "Concierto para una sola voz",
       "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Instrumental History, The Best",
+        "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Marchetti",
+          "url": "https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "L'Incontro - 1M1",
+      "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Canciones Inolvidables",
+        "url": "https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u"
+      },
+      "artists": [
+        {
+          "name": "Cuerdas y Metales",
+          "url": "https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "Im\u00e1genes",
+      "url": "https://open.spotify.com/track/6aRvWvjzsdp5GlNbRr6rRn"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Caravelli & His Orchestra",
         "url": "https://open.spotify.com/album/6fg2yCwbKZ4aCSGAlovkyZ"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 160866,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/2R5uw1Sa7XjU5AcriEeQER"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Canciones Inolvidables",
-        "url": "https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u"
-      },
-      "artists": [
-        {
-          "name": "Cuerdas y Metales",
-          "url": "https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "Im\u00e1genes",
-      "url": "https://open.spotify.com/track/6aRvWvjzsdp5GlNbRr6rRn"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "16 Joyas Del New Age",
+        "url": "https://open.spotify.com/album/49Zu2qynr0zOPKHrM3qqto"
+      },
+      "artists": [
+        {
+          "name": "DCO",
+          "url": "https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ"
+        }
+      ],
+      "duration_ms": 228213,
+      "name": "Aria on Air",
+      "url": "https://open.spotify.com/track/1UCSEeOXBxzcssGvMfusiz"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Honeymoon in South America",
         "url": "https://open.spotify.com/album/0ws2zLdFiEZNztPGi1Jwem"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 293853,
       "name": "The Approaching Storm",
       "url": "https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "16 Joyas Del New Age",
-        "url": "https://open.spotify.com/album/49Zu2qynr0zOPKHrM3qqto"
-      },
-      "artists": [
-        {
-          "name": "DCO",
-          "url": "https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ"
-        }
-      ],
-      "duration_ms": 228213,
-      "name": "Aria on Air",
-      "url": "https://open.spotify.com/track/1UCSEeOXBxzcssGvMfusiz"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Incredible Helmut Zacharias",
-        "url": "https://open.spotify.com/album/5ZfXPyyeUz8zS9YXTJLZ9A"
-      },
-      "artists": [
-        {
-          "name": "Helmut Zacharias",
-          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Ave Maria No Morro",
-      "url": "https://open.spotify.com/track/1tZZ3VD2jbHBEr0KM2rHlG"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Presentando a Ricardo Juarez",
         "url": "https://open.spotify.com/album/5iC3GicPaENZWdTv2B1yON"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 175960,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/2l6OsDqjoFFAKHMHcZ7nYi"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Incredible Helmut Zacharias",
+        "url": "https://open.spotify.com/album/5ZfXPyyeUz8zS9YXTJLZ9A"
+      },
+      "artists": [
+        {
+          "name": "Helmut Zacharias",
+          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Ave Maria No Morro",
+      "url": "https://open.spotify.com/track/1tZZ3VD2jbHBEr0KM2rHlG"
     }
   ],
   "unique_name": "Golden Instrumentals",

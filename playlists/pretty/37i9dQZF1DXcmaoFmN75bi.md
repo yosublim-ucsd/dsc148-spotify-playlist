@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmaoFmN75bi.md) - [plain]
 
 > Os hits do rock internacional e nacional estão reunidos nesta playlist\. Foto: Eddie Van Halen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,706 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,157,808 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmaoFmN75bi.md) - [plain]
 | 99 | [Moonlight Drive](https://open.spotify.com/track/3T5xmnooZpmp5Nqz7rWzrL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Against The Odds: 1974 \- 1982](https://open.spotify.com/album/0xgjNfcoYavtty8592ehW9) | 3:00 |
 | 100 | [BLACK MOONLIGHT](https://open.spotify.com/track/4NaR2d7KJd0q9l73nf33yS) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [DANSE MACABRE](https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif) | 3:06 |
 
-Snapshot ID: `MCw3MTkwNmQ0ZGNkMzAxNzIwOTliNDI4NGNhYTNhNWE0MmJjODVjZmEz`
+Snapshot ID: `MCxiYjMwOTU3NmQ5YzBkZGY3ODk4MWFlMzRmZjc3MDljZDRlYjQzZDlk`

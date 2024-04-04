@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,044 songs - 2 day 6 hr 32 min
+1,045 songs - 2 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Falling Down](https://open.spotify.com/track/5soL5lwN1YMPkPKls97zFf) | [Coffeeshop](https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC), [Lost Heroes](https://open.spotify.com/artist/5J9yuE6EPQt3nwUVssAcDH), [D4RRYL](https://open.spotify.com/artist/7x3qvRA3StSkQIQlZidQma) | [Falling Down](https://open.spotify.com/album/4Ld4an3hPwPxiKGgH5vslE) | 3:01 | 2022-07-22 | 2022-11-24 |
 | [falling down](https://open.spotify.com/track/57eYzzXOjMO18x3otqd9MX) | [théos](https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru) | [falling down](https://open.spotify.com/album/28Bn7Rb61877L23Dtn0AkQ) | 2:01 | 2023-04-28 |  |
 | [Falling To Pieces](https://open.spotify.com/track/08fYifCMEDkqz09HcRLYGb) | [FREAKY](https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT), [VLCN](https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Falling To Pieces](https://open.spotify.com/album/3xxDbqWxFEWwt3vK7xRdlV) | 3:45 | 2022-09-21 | 2022-11-24 |
+| [Fantasy](https://open.spotify.com/track/0c7thiwrm5EGwc2p39MLQz) | [UKRUX](https://open.spotify.com/artist/6EnQd3kaY0RJaKsIdwVzs2), [Nyezo](https://open.spotify.com/artist/3W4FfRNHlyucDO2XyMnbvp) | [Fantasy](https://open.spotify.com/album/2Y097lhpLhBndVN5HBM8yO) | 2:50 | 2024-04-03 |  |
 | [Feel Alive](https://open.spotify.com/track/6yP4eS9HGqISbgPYDH2Uox) | [Vince Blais](https://open.spotify.com/artist/10gKXDvHvRN9O9VjYbR1zu), [Brittney Bouchard](https://open.spotify.com/artist/4iyRlrtLkoUNq48bOWdyqm) | [Feel Alive](https://open.spotify.com/album/1fbs2gSER5dXk5WvTYPtBn) | 3:15 | 2024-02-07 |  |
 | [Feel Good \(feat\. Daya\)](https://open.spotify.com/track/0Ev562zA4pmUsBqjxsxxdx) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Feel Good \(feat\. Daya\)](https://open.spotify.com/album/1fP5UnRB0WNWNHSZRHsRCR) | 4:08 | 2023-02-21 | 2023-09-07 |
 | [Feel High](https://open.spotify.com/track/1EQIDG6xyZif31tTKzm2DY) | [DaWave](https://open.spotify.com/artist/08jQkfZ4SwCcuK32awx5Fu) | [Feel High](https://open.spotify.com/album/6QSqkGrNsIlvMfshJbL3FW) | 2:59 | 2022-02-18 | 2022-03-19 |

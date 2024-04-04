@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: Ton Carfi
 
-139 songs - 10 hr 19 min
+140 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [A Mesa](https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [A Mesa](https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV) | 5:06 | 2022-09-02 |  |
 | [A Morte Vai Morrer](https://open.spotify.com/track/7FG1e1Zl4SWSsk4oJl58Eu) | [Jeferson Pillar](https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ) | [Vida](https://open.spotify.com/album/1vXbROI1H0bcVL4TIzV0Yf) | 4:55 | 2023-11-24 |  |
 | [A Reforma](https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [A Reforma](https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ) | 5:20 | 2022-09-02 |  |
-| [Aba \- Acústico](https://open.spotify.com/track/2tKatbCNaw5fmdCUcX0ehw) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Filhos Acústico](https://open.spotify.com/album/2rmRfedhDgarSjsUvod3QA) | 4:08 | 2022-09-02 |  |
+| [Aba \- Acústico](https://open.spotify.com/track/0rlCiHbjc4rbkljGdj1QAc) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Melhores Kemuel](https://open.spotify.com/album/1QxbWwl9OA1CnSZCHnL1O3) | 4:08 | 2023-12-22 |  |
+| [Aba \- Acústico](https://open.spotify.com/track/2tKatbCNaw5fmdCUcX0ehw) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Filhos Acústico](https://open.spotify.com/album/2rmRfedhDgarSjsUvod3QA) | 4:08 | 2022-09-02 | 2024-04-04 |
 | [Acredite \(Essência Sessions\)](https://open.spotify.com/track/0pEFUVX4V4EfFAo0lKr9cl) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos no Essência Sessions](https://open.spotify.com/album/2fG0DCQ5XJuD3f3vDZt14p) | 4:58 | 2022-09-02 | 2023-02-04 |
 | [Algo Novo](https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta](https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm) | 5:16 | 2022-09-02 |  |
 | [Algo Novo \- Acústico](https://open.spotify.com/track/7xIoYG2DgfZ92SkIzHZzXm) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Algo Novo \(Acústico\)](https://open.spotify.com/album/5mT4Ohgb4ZJe2AN22B62mG) | 3:37 | 2022-09-02 |  |

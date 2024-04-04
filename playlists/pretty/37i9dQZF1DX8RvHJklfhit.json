@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 176857,
+  "num_followers": 176880,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzY1NzVkMzdhYjQzZmMxYTQ0ZTY0MDc4ZDBkNGNiYzZiMGVkMzFi",
+  "snapshot_id": "MCxiYmM2YmQwODgwZGM5ZTIyNDNjNmU0NTIyZmU4Y2QxYjZkMGY0MmMy",
   "tracks": [
     {
       "added_at": "2023-10-12 20:02:07",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/5Y8n0zLN7AaqK1hxxlgT1u"
-      },
-      "artists": [
-        {
-          "name": "Inner Wave",
-          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "American Spirits",
-      "url": "https://open.spotify.com/track/3gBUiBPKh4ept9hoG0G93N"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Black Lipstick",
         "url": "https://open.spotify.com/album/7hedlsiDZmoOdynJeOqGbs"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 229381,
       "name": "Black Lipstick",
       "url": "https://open.spotify.com/track/2wsW7FXHByxfP6Qzwf4iaj"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/5Y8n0zLN7AaqK1hxxlgT1u"
+      },
+      "artists": [
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "American Spirits",
+      "url": "https://open.spotify.com/track/3gBUiBPKh4ept9hoG0G93N"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -975,6 +975,26 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Nada Personal",
+        "url": "https://open.spotify.com/album/0lVo9qjRXWVuyapgRsUXOO"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Catalina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Nada Personal",
+      "url": "https://open.spotify.com/track/0lPPaQ8ePs7ZawVcEfwXE1"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "nadie me cae bien",
         "url": "https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea"
       },
@@ -991,22 +1011,6 @@
       "duration_ms": 228400,
       "name": "nadie me cae bien",
       "url": "https://open.spotify.com/track/35bu49h6EEYptKobXmBQma"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "I'm Your Empress Of",
-        "url": "https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Love Is A Drug",
-      "url": "https://open.spotify.com/track/1plMJh3KzL9iza1xBtGfG9"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1047,6 +1051,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "I'm Your Empress Of",
+        "url": "https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Love Is A Drug",
+      "url": "https://open.spotify.com/track/1plMJh3KzL9iza1xBtGfG9"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Baile de Magos",
         "url": "https://open.spotify.com/album/07GEY91tPdA08EVlRmqQ1f"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 265433,
       "name": "Mi F\u00e1brica de Baile",
       "url": "https://open.spotify.com/track/2n5CQoGVbKyiVyA0AabeZH"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Nada Personal",
-        "url": "https://open.spotify.com/album/0lVo9qjRXWVuyapgRsUXOO"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Catalina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Nada Personal",
-      "url": "https://open.spotify.com/track/0lPPaQ8ePs7ZawVcEfwXE1"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Far In",
-        "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
+        "name": "Night Moves",
+        "url": "https://open.spotify.com/album/2bvow9uJrep57G06zuoLjc"
       },
       "artists": [
         {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+          "name": "Michi",
+          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
         }
       ],
-      "duration_ms": 290106,
-      "name": "There Must Be a Song Like You",
-      "url": "https://open.spotify.com/track/0686tzFJ79mRZPApYYLiMA"
+      "duration_ms": 199613,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/1D6Slhg7MMnraZpIEE8pbb"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Night Moves",
-        "url": "https://open.spotify.com/album/2bvow9uJrep57G06zuoLjc"
+        "name": "Far In",
+        "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
       },
       "artists": [
         {
-          "name": "Michi",
-          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
         }
       ],
-      "duration_ms": 199613,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/1D6Slhg7MMnraZpIEE8pbb"
+      "duration_ms": 290106,
+      "name": "There Must Be a Song Like You",
+      "url": "https://open.spotify.com/track/0686tzFJ79mRZPApYYLiMA"
     },
     {
       "added_at": "2023-10-12 20:02:07",

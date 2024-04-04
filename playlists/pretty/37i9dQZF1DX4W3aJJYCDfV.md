@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Beyoncé \(pictured\), Becky Hill, Sainté and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,643 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,671 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 |
-| 2 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
+| 2 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 |
 | 3 | [Y2K](https://open.spotify.com/track/0ibvFpKEOycfFjL9C6bIZo) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Still Local](https://open.spotify.com/album/3lRZZG1t2DH2BgXEBpzqzc) | 3:11 |
 | 4 | [Stealin' Love](https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Stealin' Love](https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S) | 2:20 |
 | 5 | [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 124 | [Two Minds](https://open.spotify.com/track/2UN6XV2SoVeNCnfPPwM9VN) | [NNAOMI](https://open.spotify.com/artist/090EWlBj3AVmlXIcHaNPpW) | [Two Minds](https://open.spotify.com/album/2f6ZN6pK2cKYhw5QIUY5a8) | 1:58 |
 | 125 | [Bite The Bridle](https://open.spotify.com/track/0JXpD5lU9n90gDarg4cmfO) | [Niamh Bury](https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme) | [Yellow Roses](https://open.spotify.com/album/1lfS72EEXZ2Pz1OIMXdRi0) | 4:16 |
 
-Snapshot ID: `MCxmZDA0ZTg3NjY3MjdmOTU0YWU4Y2FiNmU4ZmFiYjkzMGExNDg1YzIy`
+Snapshot ID: `MCw1NjI4MTQxNTM5YzczZTQ0M2MwNDQ2MWUxMDE3MWJhYWIwMmU2Yzk5`

@@ -1,9 +1,27 @@
 {
-  "2024-04-03": 467,
+  "2024-04-04": 467,
   "date_first_scraped": "2022-11-12",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX\">Chiiild</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Chiiild",
   "tracks": [
+    {
+      "album": {
+        "name": "Better Luck In The Next Life",
+        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236646,
+      "name": "(Running Out Of) Hallelujahs",
+      "url": "https://open.spotify.com/track/7EDn14Sl7tkdmo28qf0hS4"
+    },
     {
       "album": {
         "name": "Hope For Sale",
@@ -87,6 +105,24 @@
       "duration_ms": 185883,
       "name": "All That (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/5rzndDb4DgVkOsIsfbRv0q"
+    },
+    {
+      "album": {
+        "name": "Better Luck In The Next Life",
+        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/7sUg1ro2GwaN2uvo0Pp1qm"
     },
     {
       "album": {
@@ -218,6 +254,64 @@
     },
     {
       "album": {
+        "name": "STILL EMO",
+        "url": "https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141780,
+      "name": "Be Somebody (feat. Tkay Maidza)",
+      "url": "https://open.spotify.com/track/3gYy3nywL9QXjYWaMpeHFC"
+    },
+    {
+      "album": {
+        "name": "STILL EMO",
+        "url": "https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190839,
+      "name": "Better Apart",
+      "url": "https://open.spotify.com/track/1MaXSKqoQ2UxothMqc77Xq"
+    },
+    {
+      "album": {
+        "name": "Better Luck In The Next Life",
+        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265577,
+      "name": "Better Luck In The Next Life",
+      "url": "https://open.spotify.com/track/60ScaF03NeLk3E2V5PnAtW"
+    },
+    {
+      "album": {
         "name": "The Juicebox",
         "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
       },
@@ -273,6 +367,46 @@
       "duration_ms": 207893,
       "name": "bodytalk",
       "url": "https://open.spotify.com/track/4rrqU96CxRTeKGt342pRsN"
+    },
+    {
+      "album": {
+        "name": "Better Luck In The Next Life",
+        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167979,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0"
+    },
+    {
+      "album": {
+        "name": "The Juicebox",
+        "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177409,
+      "name": "Bonafide (feat. Chiiild)",
+      "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
     },
     {
       "album": {
@@ -724,6 +858,28 @@
     },
     {
       "album": {
+        "name": "Better Luck In The Next Life",
+        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241821,
+      "name": "Good For Now (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/37DpYxKAtHhvgYkMxruiPx"
+    },
+    {
+      "album": {
         "name": "Like the Ocean",
         "url": "https://open.spotify.com/album/2VWhW9hgxBZFzNcZPGBHYz"
       },
@@ -836,6 +992,50 @@
     },
     {
       "album": {
+        "name": "Better Luck In The Next Life",
+        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        },
+        {
+          "name": "Caitlyn Scarlett",
+          "url": "https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215624,
+      "name": "Hell And High Water (feat. Alina Baraz and Caitlyn Scarlett)",
+      "url": "https://open.spotify.com/track/4fn8IDIJqhGNbrJIH0k3rf"
+    },
+    {
+      "album": {
+        "name": "Better Luck In The Next Life",
+        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276462,
+      "name": "Hiding In Plain Sight",
+      "url": "https://open.spotify.com/track/4ZsNR3LROWDpxWuF913fkQ"
+    },
+    {
+      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -872,6 +1072,46 @@
     },
     {
       "album": {
+        "name": "Better Luck In The Next Life",
+        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217172,
+      "name": "I Hope I Packed A Parachute (feat. Charlotte Cardin)",
+      "url": "https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif"
+    },
+    {
+      "album": {
+        "name": "Better Luck In The Next Life",
+        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248946,
+      "name": "Into The Deep End",
+      "url": "https://open.spotify.com/track/1rnO2nA6AFFjZgzQK5Sym6"
+    },
+    {
+      "album": {
         "name": "Tayla Made",
         "url": "https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH"
       },
@@ -905,6 +1145,24 @@
       "duration_ms": 202520,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3oLlAxTV7jqyAJXkJQY0BH"
+    },
+    {
+      "album": {
+        "name": "STILL EMO",
+        "url": "https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202342,
+      "name": "Lies You Tell",
+      "url": "https://open.spotify.com/track/0GMnklO2k6jGFsNxnBs49p"
     },
     {
       "album": {
@@ -998,6 +1256,24 @@
     },
     {
       "album": {
+        "name": "Better Luck In The Next Life",
+        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140956,
+      "name": "Mile-End",
+      "url": "https://open.spotify.com/track/4PzANCicZ2TVclRseexs94"
+    },
+    {
+      "album": {
         "name": "Skrillex and Diplo present Jack \u00dc",
         "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
       },
@@ -1025,6 +1301,28 @@
       "duration_ms": 242068,
       "name": "Mind (feat. Kai)",
       "url": "https://open.spotify.com/track/6ZpR2XFuQJSHAQwg9495KZ"
+    },
+    {
+      "album": {
+        "name": "ADOLESCENCE",
+        "url": "https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        },
+        {
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240924,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/3LU1LzDmm5siz3WExknlil"
     },
     {
       "album": {
@@ -1190,6 +1488,28 @@
     },
     {
       "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240867,
+      "name": "Party Girls (feat. Buju Banton)",
+      "url": "https://open.spotify.com/track/5v7BIzhKuy8WzT7LyFYiiO"
+    },
+    {
+      "album": {
         "name": "Synthetic Soul",
         "url": "https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U"
       },
@@ -1223,6 +1543,32 @@
       "duration_ms": 177226,
       "name": "Pirouette",
       "url": "https://open.spotify.com/track/5BfvUt5ztFuAyhWjgWzjr1"
+    },
+    {
+      "album": {
+        "name": "I Thought It'd Be Different",
+        "url": "https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX"
+      },
+      "artists": [
+        {
+          "name": "Rory",
+          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
+        },
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "A\u00e1yanna",
+          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227165,
+      "name": "Refill",
+      "url": "https://open.spotify.com/track/2WJS688sN8yuzC4CDMeZRZ"
     },
     {
       "album": {
@@ -1356,6 +1702,24 @@
     },
     {
       "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171673,
+      "name": "Stop (Askin' Me 4Shyt)",
+      "url": "https://open.spotify.com/track/3ZrfIcsDKTBZzCwlE59yiS"
+    },
+    {
+      "album": {
         "name": "Raymond v Raymond (Expanded Edition)",
         "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
       },
@@ -1443,6 +1807,24 @@
       "duration_ms": 189093,
       "name": "Sundays",
       "url": "https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER"
+    },
+    {
+      "album": {
+        "name": "Better Luck In The Next Life",
+        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189523,
+      "name": "Surfing The Silver Linings",
+      "url": "https://open.spotify.com/track/5RELX9YYBSsghPXagQuBd1"
     },
     {
       "album": {
@@ -1721,6 +2103,24 @@
       "duration_ms": 200400,
       "name": "Yalla Habibi",
       "url": "https://open.spotify.com/track/5bh1nrFgPrF37UTFUqNF2K"
+    },
+    {
+      "album": {
+        "name": "Better Luck In The Next Life",
+        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213215,
+      "name": "You Get Me (A Final Word)",
+      "url": "https://open.spotify.com/track/4NGx7fAjbmXWebrHTRZBIa"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFKOsvYazsHUw"

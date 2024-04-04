@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,723 likes - 93 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,739 likes - 93 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 25 | [Summer Mirage](https://open.spotify.com/track/7ATDaIKPRWkUwSBFf8IYIL) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [Summer Mirage](https://open.spotify.com/album/0FHeY7l2eYoJzOxowfthWH) | 2:58 |
 | 26 | [Through the Tunnel](https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3) | [Yangbans](https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu) | [Through the Tunnel](https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI) | 4:48 |
 | 27 | [Free\-Fall](https://open.spotify.com/track/1n3R1qXmNgiam6aPmBy73N) | [Sept.](https://open.spotify.com/artist/5vRnwNYjntZajB1Qx4DCXw) | [Wander Wander](https://open.spotify.com/album/1aFFBDlKtZGKw5SROlidMb) | 3:10 |
-| 28 | [Algorithm](https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu) | 3:08 |
+| 28 | [Algorithm](https://open.spotify.com/track/2tGjh54bikVc5x3dl1pUKx) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/04UMoeGtpAK6TyqRLllHqs) | 3:08 |
 | 29 | [Taman Anak\-Anak](https://open.spotify.com/track/1uKJr3V995pBJ9oJuXCuCn) | [Alahad](https://open.spotify.com/artist/7AaHhQPFtgAiytNjj81Wmt) | [Taman Anak\-Anak](https://open.spotify.com/album/50xHVSEMYhkZ7evx6WfyDP) | 3:56 |
 | 30 | [ประกาศให้โลกรู้](https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ประกาศให้โลกรู้](https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS) | 4:05 |
 | 31 | [MASA MUDA](https://open.spotify.com/track/0eSwUxNz2EFlGC7Wn5Lsra) | [Laura Pradipta](https://open.spotify.com/artist/3DjOjSvtE3thRSMBeBR4kH) | [MASA MUDA](https://open.spotify.com/album/53E46YfYxg4Wbogp1ihzSV) | 4:38 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 92 | [LAVLA](https://open.spotify.com/track/5RiDkhVXWyMlh51wSGV8tU) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [LAYERS](https://open.spotify.com/album/1DS9Xblo2wodlneXD9nXYw) | 3:58 |
 | 93 | [The One](https://open.spotify.com/track/3ToRoy9OQHoiz662kJvTTu) | [Purples n' Oranges](https://open.spotify.com/artist/2TmqQRA5s51zD2C4zbiqPq) | [The One](https://open.spotify.com/album/1mHIev96eFTEdby7dAoT67) | 5:18 |
 
-Snapshot ID: `MCw3OWVmMzE4M2NhMWRkMWM4ZTAyNDNiZTU2OThlMDc2Y2JiZGQ0Mjk5`
+Snapshot ID: `MCxjMDYxZDZjOWMzMzFhNGU1MmU2MzE4NmNkNDExYWFiZWJiY2JhM2Jj`

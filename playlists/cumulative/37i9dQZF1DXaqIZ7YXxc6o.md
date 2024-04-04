@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: Shygirl
 
-2,132 songs - 4 day 22 hr 31 min
+2,133 songs - 4 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1381,7 +1381,8 @@
 | [Out There](https://open.spotify.com/track/3wt5z0WSTJfKhbUlAx2TlG) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Out There](https://open.spotify.com/album/3eae86ngTES2NdFjffBlTM) | 3:05 | 2023-12-01 | 2024-01-05 |
 | [outside](https://open.spotify.com/track/0c3cnN3CR2yQYawWScKezO) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [outside](https://open.spotify.com/album/4MB8Dxl3eGZ3ohTO86xEEV) | 2:05 | 2024-02-09 | 2024-03-08 |
 | [outside \(vandalized edit\)](https://open.spotify.com/track/3v4gjo4M9K7hKgXnBNWrVi) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [outside pack](https://open.spotify.com/album/4pw5F08sD1v2wS2pmQqpDR) | 3:40 | 2024-03-07 |  |
-| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 |  |
+| [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-28 | 2024-04-04 |
+| [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 | 2024-03-28 |  |
 | [Over Again](https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Over Again](https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br) | 2:39 | 2023-04-13 | 2023-05-12 |
 | [Over It](https://open.spotify.com/track/0lOoZQn8j9PKFEDzArFNvs) | [Thommy Simmons](https://open.spotify.com/artist/7MGqsC03atzl0S4D4iDxSk) | [Over It](https://open.spotify.com/album/7hWqW2gOMqImvpwvuni1kO) | 2:49 | 2023-11-02 | 2023-11-25 |
 | [Over the Hill](https://open.spotify.com/track/5fctnw5MEVyXYAlGxsjz3E) | [Self Tape](https://open.spotify.com/artist/2OqNVgWhbgGiCO4an8N5eI) | [Over the Hill](https://open.spotify.com/album/6j0STyOcbk6jNRZcWAHBNz) | 2:48 | 2023-06-16 | 2023-07-07 |

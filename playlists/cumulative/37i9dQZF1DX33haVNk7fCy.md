@@ -4,11 +4,12 @@
 
 > When everything around you is falling apart.
 
-106 songs - 7 hr 7 min
+107 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Aadat](https://open.spotify.com/track/6KUlOsfQ6N72BIu1Yl1q9y) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Kalyug \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3z8LjM95Ft3bWoT9BfEo6G) | 5:33 | 2024-03-22 |  |
+| [Aadat](https://open.spotify.com/track/6KUlOsfQ6N72BIu1Yl1q9y) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Kalyug \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3z8LjM95Ft3bWoT9BfEo6G) | 5:33 | 2024-03-22 | 2024-04-04 |
+| [Aadat \- From "Kalyug"](https://open.spotify.com/track/5VrLz2NUTLbPzgjuVOjxUx) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Jal](https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU), [Mithun Sharma](https://open.spotify.com/artist/0enXKnGlBCHSoWgC92umTP) | [Kalyug \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5NHOGuFSC9lqfkp54IMWVn) | 5:33 | 2024-03-22 |  |
 | [Aadhe Waade](https://open.spotify.com/track/5pCRRKwA796gdrNkCmJ9vt) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Aadhe Waade](https://open.spotify.com/album/3rzWT5DEabAiiD3Dq221cl) | 2:34 | 2023-09-29 |  |
 | [Aahatein](https://open.spotify.com/track/3dQjCswDedsHNxdaOhcfiz) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ek Main Aur Ekk Tu](https://open.spotify.com/album/3EAMYk4XshI4q0OMxrAXRq) | 4:27 | 2023-05-15 |  |
 | [Aana Nahi](https://open.spotify.com/track/3nvJWarZv8kNyusyXfdu44) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Aana Nahi](https://open.spotify.com/album/6KUEDNzv39oXcvuxklZoxn) | 3:01 | 2023-05-15 |  |

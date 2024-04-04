@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 196160,
+  "num_followers": 196282,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWY2MmUxMWUwOTdlYjIxOGE0ZTcwZGQxMDhlY2Q0MzBjNDlmYjg2",
+  "snapshot_id": "MCxlNjNhM2E3ZDlhNjFiOGYzY2U0ZGE2NWU4MGU2NjE5OGE4NWQwNzgz",
   "tracks": [
     {
       "added_at": "2023-09-14 10:27:59",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "Why - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 207777,
       "name": "Why",
       "url": "https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
+        "name": "Blooming Blue",
+        "url": "https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 190920,
+      "name": "Love U",
+      "url": "https://open.spotify.com/track/0Hk7Aoxk7qdfj7bO83iL69"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
       },
@@ -1311,34 +1327,18 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "What You Waiting For",
-        "url": "https://open.spotify.com/album/59iiiARciChm70cn85wxuH"
+        "name": "WIND AND WISH",
+        "url": "https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs"
       },
       "artists": [
         {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
         }
       ],
-      "duration_ms": 175327,
-      "name": "What You Waiting For",
-      "url": "https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
-        "name": "Blooming Blue",
-        "url": "https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 190920,
-      "name": "Love U",
-      "url": "https://open.spotify.com/track/0Hk7Aoxk7qdfj7bO83iL69"
+      "duration_ms": 221466,
+      "name": "Wind And Wish",
+      "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "WIND AND WISH",
-        "url": "https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs"
+        "name": "What You Waiting For",
+        "url": "https://open.spotify.com/album/59iiiARciChm70cn85wxuH"
       },
       "artists": [
         {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
         }
       ],
-      "duration_ms": 221466,
-      "name": "Wind And Wish",
-      "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"
+      "duration_ms": 175327,
+      "name": "What You Waiting For",
+      "url": "https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1659,22 +1659,18 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "1st Single 'S.i.R'",
-        "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
+        "name": "The Blowing",
+        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
       },
       "artists": [
         {
-          "name": "BOBBY",
-          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Drowning (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
+      "duration_ms": 218253,
+      "name": "NOT THE END",
+      "url": "https://open.spotify.com/track/3VSA53dOtVkhwyJ0nsAnRt"
     }
   ],
   "unique_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",

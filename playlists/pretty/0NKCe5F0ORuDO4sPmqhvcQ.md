@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,797 likes - 118 songs - 6 hr 40 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,795 likes - 121 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,5 +126,8 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 116 | [Promise](https://open.spotify.com/track/7lmKzGSg0mGYUdsfmshKmH) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Yola Recoba](https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Promise](https://open.spotify.com/album/6WuW14efnZAX1Zb8pmPzML) | 2:41 |
 | 117 | [With Or Without](https://open.spotify.com/track/00gAMKnttfhle0s8FYz7IM) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [With Or Without](https://open.spotify.com/album/4wGeavaJF8hxmfSIzdNywd) | 3:44 |
 | 118 | [Gasoline](https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Gasoline](https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY) | 3:13 |
+| 119 | [Bumper](https://open.spotify.com/track/4b4FinrgohDybRlMlldcvu) | [Arky Waters](https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli) | [Bumper](https://open.spotify.com/album/2pvwJhqGKp5bLsaWiVdgwc) | 4:00 |
+| 120 | [Throw It Back](https://open.spotify.com/track/6mjAMJjMb5FUvRFOyBLeKv) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Throw It Back](https://open.spotify.com/album/3eKEOVPOf9zuTO66tszH9x) | 2:20 |
+| 121 | [The Song of You](https://open.spotify.com/track/7iWx1V2BqnNdRyO4ZsN0D1) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl) | [The Song of You](https://open.spotify.com/album/4NUKgm26zPv5N4VKz266gR) | 2:10 |
 
-Snapshot ID: `MTA2NzgsMzNlNGJjYmRhZWY5NDJlNWU2MzVmNzVhYzcxNzkwYmQ1ZTFhNWZiOQ==`
+Snapshot ID: `MTA2ODEsMTdhNWUzZDI4ZDk3MmFmM2VjNzljODUzZTJiYjA3NzJkODg2ZGU4Nw==`

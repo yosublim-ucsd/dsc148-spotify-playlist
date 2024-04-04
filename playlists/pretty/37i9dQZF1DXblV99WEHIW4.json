@@ -1,12 +1,12 @@
 {
   "description": "Heavy music for heavy feelings.",
-  "num_followers": 243699,
+  "num_followers": 243883,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDc3NGVkNDY0ODhjM2NkMWU3ZDM0ODYzOGNkN2NmYTY1Mjc2MmQw",
+  "snapshot_id": "MCwzMjJmYWVlN2Y0N2YwNDI5N2MzMzhiMWIyMWU5ZmQwZTE1YTdkNmM1",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Roses for the Dead",
-      "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "SO WHAT?",
         "url": "https://open.spotify.com/album/50CAhOJNUPC6zAThnQNzmG"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 254500,
       "name": "ANTI-SOCIAL",
       "url": "https://open.spotify.com/track/7f6X7zERAXAbIYVLizIZ3O"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Roses for the Dead",
+      "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
     },
     {
       "added_at": "2023-02-16 19:56:13",

@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 22535,
+  "num_followers": 22548,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmMzZDc0NDM1MmM0ZjQ1YjMwMzg3ZTdkZjE5ODk4ZjAzNGFkYjU1",
+  "snapshot_id": "MCw3M2Y2ODkwODkwZGU3NjhiMGZmNDA0Nzc5OTcxNDNiNjhjY2U3NGEx",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -455,22 +455,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Gotta Go",
-        "url": "https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "1-1=0 (NOTHING WITHOUT YOU)",
         "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 189355,
       "name": "Energetic",
       "url": "https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Gotta Go",
+        "url": "https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 221813,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 229627,
-      "name": "COME BACK HOME",
-      "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Give It To Me (2)",
         "url": "https://open.spotify.com/album/1nErNFyYvHnuCYvfwrMyoz"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 201325,
       "name": "Give it to me",
       "url": "https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 229627,
+      "name": "COME BACK HOME",
+      "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "HER",
-        "url": "https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3"
-      },
-      "artists": [
-        {
-          "name": "Block B",
-          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
-        }
-      ],
-      "duration_ms": 179053,
-      "name": "HER",
-      "url": "https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Bye Bye My Blue",
         "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 203409,
       "name": "Bye Bye My Blue",
       "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "HER",
+        "url": "https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3"
+      },
+      "artists": [
+        {
+          "name": "Block B",
+          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
+        }
+      ],
+      "duration_ms": 179053,
+      "name": "HER",
+      "url": "https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Rain - SM STATION",
-        "url": "https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L"
+        "name": "Yanghwa BRDG",
+        "url": "https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
         }
       ],
-      "duration_ms": 222047,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU"
+      "duration_ms": 229349,
+      "name": "Yanghwa BRDG",
+      "url": "https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU"
     },
     {
       "added_at": "2021-03-01 03:07:22",

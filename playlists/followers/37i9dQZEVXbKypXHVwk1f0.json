@@ -1,5 +1,5 @@
 {
-  "2024-04-03": 96892,
+  "2024-04-04": 96896,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Panama.",
   "name": "Top 50 - Panama",
@@ -9765,7 +9765,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
@@ -11501,7 +11501,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 199946,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ"
@@ -11557,6 +11557,28 @@
       "duration_ms": 232843,
       "name": "LOS APARATOS",
       "url": "https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP"
+    },
+    {
+      "album": {
+        "name": "Los Captures (Live)",
+        "url": "https://open.spotify.com/album/13SZJuYQWs3Bzx6kxM6jTt"
+      },
+      "artists": [
+        {
+          "name": "WILL FIORILLO",
+          "url": "https://open.spotify.com/artist/2NnMHgk2WANcfL9LeMcGKd"
+        },
+        {
+          "name": "guillo el del gatillo",
+          "url": "https://open.spotify.com/artist/1uvFitL4s4tPw7AaSsy5vr"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220682,
+      "name": "Los Captures - Live",
+      "url": "https://open.spotify.com/track/0hObGhndO61qvsS7EiKAk4"
     },
     {
       "album": {
@@ -13685,7 +13707,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-03",
       "duration_ms": 356044,
       "name": "Nadie Te Ama Como Yo",
       "url": "https://open.spotify.com/track/4KYz9MrUZ7poQtVOroS2UG"

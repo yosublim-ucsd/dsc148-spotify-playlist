@@ -4,7 +4,7 @@
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-89 songs - 4 hr 15 min
+90 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Como Paloma Errante](https://open.spotify.com/track/1Guvk9I7WHKRklvoiftfpk) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Nuestra Historia, Vol\. 2](https://open.spotify.com/album/4HhIF0ghIRPnva2NjzTqR4) | 2:43 | 2022-06-01 |  |
 | [Con el Sabor Amargo \- Estilo Tierra Caliente](https://open.spotify.com/track/4HpWofvK0r3meE1KwDSjaS) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 3:06 | 2022-06-01 |  |
 | [Corrido de Chihuhua Sonora Querida](https://open.spotify.com/track/4nxrWWGSI4V03zjUT7ds8Q) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:58 | 2022-09-25 | 2022-11-21 |
-| [Cruel Recuerdo](https://open.spotify.com/track/2ZIfpHYFB1ibCB9bN5li2X) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Ando Que Me Lleva "Recordando los Exitos," Vol\. 4](https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj) | 2:49 | 2024-03-31 |  |
+| [Cruel Recuerdo](https://open.spotify.com/track/2ZIfpHYFB1ibCB9bN5li2X) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Ando Que Me Lleva "Recordando los Exitos," Vol\. 4](https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj) | 2:49 | 2024-03-31 | 2024-04-04 |
 | [Cuahutemoc](https://open.spotify.com/track/5kKzWn7o5HdszEL5s3VvDk) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:19 | 2022-06-04 | 2022-08-31 |
 | [Cuatro Caminos \- Estilo Tierra Caliente](https://open.spotify.com/track/4jYAKZXRsEZ2PtK1uG8d3z) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 2:48 | 2022-06-01 | 2023-12-25 |
 | [Cumbia Opera](https://open.spotify.com/track/76K2mVFJFLpKajgYLAdnmp) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:52 | 2022-06-01 | 2022-11-15 |
@@ -84,6 +84,7 @@
 | [Pirulin Pim Pom](https://open.spotify.com/track/6D7DebsQ7Wmq7f4y50NEXv) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:39 | 2022-06-20 | 2022-06-22 |
 | [Polvo y Olvido \- Estilo Tierra Caliente](https://open.spotify.com/track/1elNKL1K8OrcXYNBpgTweQ) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 2:27 | 2022-06-01 |  |
 | [Por Fin un Caminito](https://open.spotify.com/track/12KjCCPOKS3jmmLioALM1e) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:08 | 2022-06-01 |  |
+| [Puno de Tierra \- Con Mariachi](https://open.spotify.com/track/5UOOGYM7Ujlyg5I8Ufmg20) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mis Primeras Canciones](https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs) | 2:51 | 2024-04-04 |  |
 | [Que Se Largue Pa la Porra](https://open.spotify.com/track/3q0veWQKp1DZkvNrqSW043) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:25 | 2022-06-18 | 2022-10-13 |
 | [Rios de Babilonia](https://open.spotify.com/track/23yFtKPA217x9g6iyPHDeK) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 3:06 | 2023-12-18 |  |
 | [Rios de Babilonia \- Estilo Tierra Caliente](https://open.spotify.com/track/4A0VKEol3raESTNxVT6CyU) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 3:01 | 2022-06-01 | 2023-12-19 |

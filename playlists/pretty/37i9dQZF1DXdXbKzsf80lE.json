@@ -1,12 +1,12 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 240793,
+  "num_followers": 240865,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDNhYjNkMzUwODM0ZTgwMWVlNDJjMGIwNzgzNGQwYzAzNDg1NTU5",
+  "snapshot_id": "MCwyYTY1ODczZDM1MjgzYjA5YmYzNDUzNzgzNzU0NGU2Y2JlNzZiNmJk",
   "tracks": [
     {
       "added_at": "2024-03-28 22:14:39",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
-        "name": "Cidade Inteira",
-        "url": "https://open.spotify.com/album/0UOtVF6jKwdEC9oaMReSE8"
-      },
-      "artists": [
-        {
-          "name": "Eric Land",
-          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Cidade Inteira",
-      "url": "https://open.spotify.com/track/5ux7TnBawa7NMWbteYHKH2"
-    },
-    {
-      "added_at": "2024-03-28 22:14:39",
-      "album": {
         "name": "Comunica\u00e7\u00e3o Falhou (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Dlff39auFLb9esJgg5Fgm"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 180410,
       "name": "Comunica\u00e7\u00e3o Falhou - Ao Vivo",
       "url": "https://open.spotify.com/track/55L3RVujZtkR96JIEgTbQg"
+    },
+    {
+      "added_at": "2024-03-28 22:14:39",
+      "album": {
+        "name": "Cidade Inteira",
+        "url": "https://open.spotify.com/album/0UOtVF6jKwdEC9oaMReSE8"
+      },
+      "artists": [
+        {
+          "name": "Eric Land",
+          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Cidade Inteira",
+      "url": "https://open.spotify.com/track/5ux7TnBawa7NMWbteYHKH2"
     },
     {
       "added_at": "2024-03-28 22:14:39",
@@ -911,6 +911,26 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
+        "name": "Os Boys Amam O Ex Chora",
+        "url": "https://open.spotify.com/album/1yvxWiONM8RYM6sqxPGBrr"
+      },
+      "artists": [
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        },
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "duration_ms": 153840,
+      "name": "Os Boys Amam O Ex Chora",
+      "url": "https://open.spotify.com/track/2o8MYdtYZYidgpe9oIGIcy"
+    },
+    {
+      "added_at": "2024-03-28 22:14:39",
+      "album": {
         "name": "Ele N\u00e3o Tem",
         "url": "https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 145307,
       "name": "Mantenha Dist\u00e2ncia",
       "url": "https://open.spotify.com/track/4fs0ImTtUd9lfD7WA7edUX"
-    },
-    {
-      "added_at": "2024-03-28 22:14:39",
-      "album": {
-        "name": "Os Boys Amam O Ex Chora",
-        "url": "https://open.spotify.com/album/1yvxWiONM8RYM6sqxPGBrr"
-      },
-      "artists": [
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        },
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 153840,
-      "name": "Os Boys Amam O Ex Chora",
-      "url": "https://open.spotify.com/track/2o8MYdtYZYidgpe9oIGIcy"
     },
     {
       "added_at": "2024-03-28 22:14:39",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
-        "name": "In Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ZBklsn92ZRvr870yiKddF"
-      },
-      "artists": [
-        {
-          "name": "Anderson & Vei da Pisadinha",
-          "url": "https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl"
-        }
-      ],
-      "duration_ms": 173468,
-      "name": "Elas Gostam de Gasolina",
-      "url": "https://open.spotify.com/track/4fW46bnb4nD5JcMqK3kV5M"
-    },
-    {
-      "added_at": "2024-03-28 22:14:39",
-      "album": {
         "name": "Atualiza A\u00ea BB",
         "url": "https://open.spotify.com/album/4WiGDTDjR9B5P6Cy0Bk27R"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 167808,
       "name": "Disco Arranhado",
       "url": "https://open.spotify.com/track/4QTy8WBsWugusgc32mtj2j"
+    },
+    {
+      "added_at": "2024-03-28 22:14:39",
+      "album": {
+        "name": "In Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ZBklsn92ZRvr870yiKddF"
+      },
+      "artists": [
+        {
+          "name": "Anderson & Vei da Pisadinha",
+          "url": "https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl"
+        }
+      ],
+      "duration_ms": 173468,
+      "name": "Elas Gostam de Gasolina",
+      "url": "https://open.spotify.com/track/4fW46bnb4nD5JcMqK3kV5M"
     },
     {
       "added_at": "2024-03-28 22:14:39",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
-        "name": "Saudade de Mim",
-        "url": "https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr"
-      },
-      "artists": [
-        {
-          "name": "Japinha Conde",
-          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
-        }
-      ],
-      "duration_ms": 181674,
-      "name": "Saudade de Mim",
-      "url": "https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr"
-    },
-    {
-      "added_at": "2024-03-28 22:14:39",
-      "album": {
         "name": "Xerecard",
         "url": "https://open.spotify.com/album/6XWN6xA1dSeApOJUWC5iz2"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 236112,
       "name": "Xerecard",
       "url": "https://open.spotify.com/track/6XeN8h3xB9gVKMKrjc2JfD"
+    },
+    {
+      "added_at": "2024-03-28 22:14:39",
+      "album": {
+        "name": "Saudade de Mim",
+        "url": "https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr"
+      },
+      "artists": [
+        {
+          "name": "Japinha Conde",
+          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
+        }
+      ],
+      "duration_ms": 181674,
+      "name": "Saudade de Mim",
+      "url": "https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr"
     },
     {
       "added_at": "2024-03-28 22:14:39",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
-        "name": "Monta Logo Vai",
-        "url": "https://open.spotify.com/album/1FkqeFDUcGPhjKKkC9CWnT"
+        "name": "T\u00e1 Faltando Eu",
+        "url": "https://open.spotify.com/album/20jNvanEVYWQOAisswocMx"
       },
       "artists": [
         {
-          "name": "Mano Walter",
-          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
+          "name": "Luan Estilizado",
+          "url": "https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc"
         }
       ],
-      "duration_ms": 141048,
-      "name": "Monta Logo Vai",
-      "url": "https://open.spotify.com/track/6Fy2jcYzVfej3EfElB3XVK"
+      "duration_ms": 148284,
+      "name": "T\u00e1 Faltando Eu",
+      "url": "https://open.spotify.com/track/3jr84zsemJUVRODvbteOoX"
     },
     {
       "added_at": "2024-03-28 22:14:39",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
-        "name": "T\u00e1 Faltando Eu",
-        "url": "https://open.spotify.com/album/20jNvanEVYWQOAisswocMx"
+        "name": "Monta Logo Vai",
+        "url": "https://open.spotify.com/album/1FkqeFDUcGPhjKKkC9CWnT"
       },
       "artists": [
         {
-          "name": "Luan Estilizado",
-          "url": "https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc"
+          "name": "Mano Walter",
+          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
         }
       ],
-      "duration_ms": 148284,
-      "name": "T\u00e1 Faltando Eu",
-      "url": "https://open.spotify.com/track/3jr84zsemJUVRODvbteOoX"
+      "duration_ms": 141048,
+      "name": "Monta Logo Vai",
+      "url": "https://open.spotify.com/track/6Fy2jcYzVfej3EfElB3XVK"
     },
     {
       "added_at": "2024-03-28 22:14:39",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
-        "name": "Solinho Agressivo",
-        "url": "https://open.spotify.com/album/5Rtw1qMF1Y3mdXmBWz4fVh"
-      },
-      "artists": [
-        {
-          "name": "Anderson & Vei da Pisadinha",
-          "url": "https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl"
-        }
-      ],
-      "duration_ms": 151925,
-      "name": "Solinho Agressivo",
-      "url": "https://open.spotify.com/track/5DVplKEWRFgG3t29UTHkWA"
-    },
-    {
-      "added_at": "2024-03-28 22:14:39",
-      "album": {
         "name": "\u00c9 S\u00f3 Oi e Tchau",
         "url": "https://open.spotify.com/album/1cRntUVNelLM02NrKFjYhV"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 207319,
       "name": "\u00c9 S\u00f3 Oi e Tchau",
       "url": "https://open.spotify.com/track/6V6Vgs8NDlYappnYAq0Syy"
+    },
+    {
+      "added_at": "2024-03-28 22:14:39",
+      "album": {
+        "name": "Solinho Agressivo",
+        "url": "https://open.spotify.com/album/5Rtw1qMF1Y3mdXmBWz4fVh"
+      },
+      "artists": [
+        {
+          "name": "Anderson & Vei da Pisadinha",
+          "url": "https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl"
+        }
+      ],
+      "duration_ms": 151925,
+      "name": "Solinho Agressivo",
+      "url": "https://open.spotify.com/track/5DVplKEWRFgG3t29UTHkWA"
     },
     {
       "added_at": "2024-03-28 22:14:39",

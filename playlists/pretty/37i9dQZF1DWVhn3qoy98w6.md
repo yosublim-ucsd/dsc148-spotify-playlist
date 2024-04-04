@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Bautista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,099 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,118 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 8 | [HERO](https://open.spotify.com/track/7pGayOJIhfa2l89npnDoK7) | [tarchi](https://open.spotify.com/artist/3hQ7aT3GTzf9jNYh80UBo3) | [HERO](https://open.spotify.com/album/4AIg9zcGRdERmAOag9zBqr) | 2:19 |
 | 9 | [Siempre yo](https://open.spotify.com/track/389Hc4H4Y22mckYWn7jaY4) | [Ciervoss](https://open.spotify.com/artist/1CAML4WFHPiDUjW2uByMu3) | [Siempre yo](https://open.spotify.com/album/0TJFAPr9cJi9mH1CeYtqr6) | 1:21 |
 | 10 | [ASI DE FACIL](https://open.spotify.com/track/77jiydrkbehbCmKOSuApEU) | [ROTO AMOR](https://open.spotify.com/artist/0nrQroiL0jNHCamuNQGnGh) | [ASI DE FACIL](https://open.spotify.com/album/5L3AfAfrJoCJh78MFbhOOL) | 2:55 |
-| 11 | [El Pedio](https://open.spotify.com/track/5IPRn1fOtJwzefn2hsqqAr) | [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK), [Nidia](https://open.spotify.com/artist/0Gs1LtbegTrdOLwrhHV7XY) | [El Pedio](https://open.spotify.com/album/59QYHEqqN5pR5CiPFoKZL7) | 3:40 |
+| 11 | [El Pedio](https://open.spotify.com/track/5IPRn1fOtJwzefn2hsqqAr) | [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK), [NIDIA](https://open.spotify.com/artist/4l6LyGdstZUzB2kKR9Jetv) | [El Pedio](https://open.spotify.com/album/59QYHEqqN5pR5CiPFoKZL7) | 3:40 |
 | 12 | [SON SON SON](https://open.spotify.com/track/2ZKzssKtF5DokNWvYn8QCU) | [Maritune](https://open.spotify.com/artist/5pZKCvKqPprJ96bKy7jjUY), [Israel Amador](https://open.spotify.com/artist/0sbp0tHJtkRRZOXScKEPmL) | [SON SON SON](https://open.spotify.com/album/76AWVhExjseOq7j6UFOBB7) | 3:12 |
 | 13 | [NENA](https://open.spotify.com/track/3tR80PI41PA5d80DFBQET2) | [Yenesi](https://open.spotify.com/artist/2G49dkprxnvfogsgYd3yOb) | [NENA](https://open.spotify.com/album/6JDTK96SN3Xfu5ECP668DJ) | 2:48 |
 | 14 | [Pilla Pilla](https://open.spotify.com/track/4qDYcaw0KTAwfhQ5llNnLb) | [Caro Raro](https://open.spotify.com/artist/4d9bVps5YG8iSVVfQVMSsP) | [Pilla Pilla](https://open.spotify.com/album/32SM2luiDdlTXG1dVqPUTk) | 3:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 59 | [Moleskines](https://open.spotify.com/track/1zlQUYSyD47ZVKWIqjbtjO) | [Mastrolilli](https://open.spotify.com/artist/73TfmuRhZsMwVSwn2II6SW) | [Moleskines](https://open.spotify.com/album/7xNWaa3naYNHTG3sQpiqj3) | 2:02 |
 | 60 | [Promesa Bordada en el Sol](https://open.spotify.com/track/3nSE42PE4gMEFvywib3zhN) | [Sacoga](https://open.spotify.com/artist/2apBghN8YxnOPWkp1pFetI) | [Promesa Bordada en el Sol](https://open.spotify.com/album/0zc3Wkygay2ZocApvVVWBh) | 8:30 |
 
-Snapshot ID: `MCxjNmJlMGIyNWNhM2VlZGFiMDE0NzFiZWM5MTZiN2RjYWE4ZDZmMWY0`
+Snapshot ID: `MCw1ODE3MzUwYThlNTRjYzIxYWI0NTNkYjg4YTZhM2FmMjE3NGYwOWIx`

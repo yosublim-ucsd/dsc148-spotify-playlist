@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 
 > A lo cubano 🔥 Con El Chacal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,461 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,479 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 38 | [NO ES LO QUE PARECE](https://open.spotify.com/track/1WrTj4KU7QNgm6qS3lSocA) | [DJ Cronox](https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [DJ Cuba](https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE), [Alexis Exequiel](https://open.spotify.com/artist/71jc5HAeS4ge2rhqwWdjtY) | [NO ES LO QUE PARECE](https://open.spotify.com/album/1pMv2WnLf6GSiSL3pVki7O) | 2:04 |
 | 39 | [Después que Bailamos](https://open.spotify.com/track/63cK3MeUeFDBoEe2IRdJbZ) | [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Después que Bailamos](https://open.spotify.com/album/3zaUSGvWCskrMhSYPwZTEU) | 3:45 |
 | 40 | [Toxica](https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf) | [Toxica](https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO) | 3:51 |
-| 41 | [Un Beso](https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w) | [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Un Beso](https://open.spotify.com/album/68d6YuPRSd9DkddCRQBl2R) | 3:13 |
-| 42 | [Habla Matador](https://open.spotify.com/track/2Irk3JNIVcCxOEdw3jod7v) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [El Happy](https://open.spotify.com/artist/2cEDvM2O93CC2TxsgJczos) | [Habla Matador](https://open.spotify.com/album/55fG4qzp3qcKL8MWlHxWPa) | 2:43 |
+| 41 | [Habla Matador](https://open.spotify.com/track/2Irk3JNIVcCxOEdw3jod7v) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [El Happy](https://open.spotify.com/artist/2cEDvM2O93CC2TxsgJczos) | [Habla Matador](https://open.spotify.com/album/55fG4qzp3qcKL8MWlHxWPa) | 2:43 |
+| 42 | [Un Beso](https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w) | [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Un Beso](https://open.spotify.com/album/68d6YuPRSd9DkddCRQBl2R) | 3:13 |
 | 43 | [Pobre Corazón \- with Lenier](https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 2:58 |
 | 44 | [Calentando la Habana](https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Fiesta](https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH) | 4:13 |
 | 45 | [Eso Es Bola](https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm) | [Eso Es Bola \(Deluxe Edition\) \[El Principe y Damian The Lion\]](https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 49 | [Te Quiero Pa' Mi](https://open.spotify.com/track/6f1iOMpbJFItdBug6CepDl) | [El Kimiko y Yordy](https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn) | [Te Quiero Pa' Mi](https://open.spotify.com/album/7HWJg3Yznnix51OBoq4BRP) | 3:21 |
 | 50 | [No Volveré](https://open.spotify.com/track/5lNc3k4ZLV7PE1Wg9RSBjb) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Mauro](https://open.spotify.com/artist/0fUFGy1Oy8f3ecf59YoB8O) | [No Volveré](https://open.spotify.com/album/13z1vYRl8WTVTHthgeHSV3) | 3:36 |
 
-Snapshot ID: `MCxkZmQxYWY4MGJmM2I3MmU2NzIwN2U1YWU2NTdhYmRjMjlkZGIyZjJh`
+Snapshot ID: `MCw1Yzk1ZDkyODJmYmZmN2I2Zjk4NjZlNTk3NGI3ODZiOGVhMTQ2MmVh`

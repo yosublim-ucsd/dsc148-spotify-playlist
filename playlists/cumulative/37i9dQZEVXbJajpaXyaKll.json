@@ -2127,7 +2127,7 @@
     },
     {
       "album": {
-        "name": "La Gallina turuleca PHONK brazilian",
+        "name": "La Gallina turuleca PHONK brazilian Original",
         "url": "https://open.spotify.com/album/2TNz0K4KZtN1pnBZLd9wXN"
       },
       "artists": [
@@ -2140,7 +2140,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 116322,
-      "name": "La Gallina turuleca PHONK brazilian",
+      "name": "La Gallina turuleca PHONK brazilian Original",
       "url": "https://open.spotify.com/track/4hbpUGKJviMMnbA785Pge5"
     },
     {
@@ -2386,7 +2386,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 148640,
       "name": "Love Songs - Bonus",
       "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
@@ -2584,6 +2584,24 @@
       "duration_ms": 211969,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/5eCXvznEquEklXtTrR2BNV"
+    },
+    {
+      "album": {
+        "name": "Al Gran Pueblo Argentino Salud",
+        "url": "https://open.spotify.com/album/5fgPIiakOWH45TfTARPIY5"
+      },
+      "artists": [
+        {
+          "name": "Banda Original Columbia",
+          "url": "https://open.spotify.com/artist/5b0UnnfFNudJBMFuvit4fT"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "Marcha de las Malvinas",
+      "url": "https://open.spotify.com/track/7H851ulmXQFlBOrLjbyHgj"
     },
     {
       "album": {
@@ -3913,6 +3931,24 @@
     },
     {
       "album": {
+        "name": "Tengo Un Plan",
+        "url": "https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6"
+      },
+      "artists": [
+        {
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189282,
+      "name": "Tengo Un Plan",
+      "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
+    },
+    {
+      "album": {
         "name": "Terer\u00e9",
         "url": "https://open.spotify.com/album/0rym8NaYG0cPQiiZUSa6kY"
       },
@@ -3968,7 +4004,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 173639,
       "name": "the boy is mine",
       "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"

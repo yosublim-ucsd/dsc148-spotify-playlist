@@ -1,12 +1,12 @@
 {
   "description": "Crank it up. Cover: Brantley Gilbert",
-  "num_followers": 146976,
+  "num_followers": 146974,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWQxMTEzZDQ3YjIxZmQ3NThkNzE3M2YwYWI5ODk4MmMwMDliMmFl",
+  "snapshot_id": "MCw3OGIwOWY2ZDA5ZDU4NWNkYzA1Y2Y2MzhhNDhiZWUwMTcwZWQxMTM0",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "STOMP YOUR BOOTS",
-        "url": "https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ"
-      },
-      "artists": [
-        {
-          "name": "YA'BOYZ",
-          "url": "https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I"
-        }
-      ],
-      "duration_ms": 151651,
-      "name": "STOMP YOUR BOOTS",
-      "url": "https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Mud Digger 4",
         "url": "https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Redneck Rich",
-        "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
+        "name": "STOMP YOUR BOOTS",
+        "url": "https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ"
       },
       "artists": [
         {
-          "name": "Cody Parks and The Dirty South",
-          "url": "https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk"
+          "name": "YA'BOYZ",
+          "url": "https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I"
         }
       ],
-      "duration_ms": 282462,
-      "name": "Redneck Rich",
-      "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
+      "duration_ms": 151651,
+      "name": "STOMP YOUR BOOTS",
+      "url": "https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1375,6 +1359,30 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Roll With Me (feat. Chris Hurt)",
+        "url": "https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE"
+      },
+      "artists": [
+        {
+          "name": "I4NI",
+          "url": "https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io"
+        },
+        {
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        },
+        {
+          "name": "Chris Hurt",
+          "url": "https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2"
+        }
+      ],
+      "duration_ms": 235416,
+      "name": "Roll With Me (feat. Chris Hurt)",
+      "url": "https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Mud Digger 5",
         "url": "https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl"
       },
@@ -1407,26 +1415,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Roll With Me (feat. Chris Hurt)",
-        "url": "https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE"
+        "name": "Stomp Them Boots",
+        "url": "https://open.spotify.com/album/2k5eUp67yseXCF3pe4FjMJ"
       },
       "artists": [
         {
-          "name": "I4NI",
-          "url": "https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io"
+          "name": "Young Gunner",
+          "url": "https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1"
         },
         {
-          "name": "Bubba Sparxxx",
-          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
-        },
-        {
-          "name": "Chris Hurt",
-          "url": "https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2"
+          "name": "Twang and Round",
+          "url": "https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM"
         }
       ],
-      "duration_ms": 235416,
-      "name": "Roll With Me (feat. Chris Hurt)",
-      "url": "https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG"
+      "duration_ms": 235161,
+      "name": "Stomp Them Boots",
+      "url": "https://open.spotify.com/track/1x3kToYa48N2Zb0MOc7iiG"
     }
   ],
   "unique_name": "Field Party",

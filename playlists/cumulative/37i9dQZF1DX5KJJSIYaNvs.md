@@ -2,7 +2,7 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to women at full volume\. Cover \- Sunidhi Chauhan
+> Listen to women at full volume\. Cover \- Alka Yagnik
 
 288 songs - 16 hr 58 min
 

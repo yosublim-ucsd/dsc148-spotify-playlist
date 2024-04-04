@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 128420,
+  "num_followers": 128440,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWM4ODM2ZTU5ZDFkYzc0ZjFkZWNlOTAxNDE3ODM4ZGQxYmQ1OGU5",
+  "snapshot_id": "MCwwMTRkZjEwNGRhMzUxZTllNGMyZTFiYmZlNjk0ZDJhOGFlY2IyYTMz",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -449,24 +449,20 @@
       "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
+      "added_at": "2022-03-30 01:46:18",
       "album": {
-        "name": "The Golden Voice of Hawai'i, Vol. 1",
-        "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
+        "name": "Inmortales de To\u00f1a la Negra",
+        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
       },
       "artists": [
         {
-          "name": "Dennis Pavao",
-          "url": "https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX"
-        },
-        {
-          "name": "Amy H\u0101naiali\u02bbi Gilliom",
-          "url": "https://open.spotify.com/artist/0uSSrlQWbnBFSJT3dzS1N7"
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
         }
       ],
-      "duration_ms": 275066,
-      "name": "Hanalei Moon",
-      "url": "https://open.spotify.com/track/0hODO60iv3UHWIbyewk0kG"
+      "duration_ms": 140721,
+      "name": "Palmeras",
+      "url": "https://open.spotify.com/track/5GkJzTHcr1vvfhtbPVgXRg"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -485,20 +481,24 @@
       "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
     },
     {
-      "added_at": "2022-03-30 01:46:18",
+      "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Inmortales de To\u00f1a la Negra",
-        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
+        "name": "The Golden Voice of Hawai'i, Vol. 1",
+        "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
       },
       "artists": [
         {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+          "name": "Dennis Pavao",
+          "url": "https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX"
+        },
+        {
+          "name": "Amy H\u0101naiali\u02bbi Gilliom",
+          "url": "https://open.spotify.com/artist/0uSSrlQWbnBFSJT3dzS1N7"
         }
       ],
-      "duration_ms": 140721,
-      "name": "Palmeras",
-      "url": "https://open.spotify.com/track/5GkJzTHcr1vvfhtbPVgXRg"
+      "duration_ms": 275066,
+      "name": "Hanalei Moon",
+      "url": "https://open.spotify.com/track/0hODO60iv3UHWIbyewk0kG"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Ultra-Lounge: Bongoland",
-        "url": "https://open.spotify.com/album/40UF9C7spOXFRsCKddfrnO"
-      },
-      "artists": [
-        {
-          "name": "Terry Snyder & The All-Stars",
-          "url": "https://open.spotify.com/artist/37Bie7mBZSCP1OlJxk1zl6"
-        }
-      ],
-      "duration_ms": 341760,
-      "name": "Deep Night/Softly As In A Morning Sunrise - Medley",
-      "url": "https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Kiss Me Love",
         "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 138666,
       "name": "Blue Hawaii",
       "url": "https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Ultra-Lounge: Bongoland",
+        "url": "https://open.spotify.com/album/40UF9C7spOXFRsCKddfrnO"
+      },
+      "artists": [
+        {
+          "name": "Terry Snyder & The All-Stars",
+          "url": "https://open.spotify.com/artist/37Bie7mBZSCP1OlJxk1zl6"
+        }
+      ],
+      "duration_ms": 341760,
+      "name": "Deep Night/Softly As In A Morning Sunrise - Medley",
+      "url": "https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaii's Favorite Music Vol. II - Instrumentals",
-        "url": "https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx"
-      },
-      "artists": [
-        {
-          "name": "Hawaii Calls Orchestra",
-          "url": "https://open.spotify.com/artist/3YGJZFuhB4CAX3QAWDvQ79"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Ke Kali Nei Au - The Hawaiian Wedding Song",
-      "url": "https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Fly Me to the Moon and the Bossa Nova Pops",
         "url": "https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 110666,
       "name": "Ipo Hula",
       "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaii's Favorite Music Vol. II - Instrumentals",
+        "url": "https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx"
+      },
+      "artists": [
+        {
+          "name": "Hawaii Calls Orchestra",
+          "url": "https://open.spotify.com/artist/3YGJZFuhB4CAX3QAWDvQ79"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Ke Kali Nei Au - The Hawaiian Wedding Song",
+      "url": "https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb"
     },
     {
       "added_at": "2022-01-11 02:53:42",

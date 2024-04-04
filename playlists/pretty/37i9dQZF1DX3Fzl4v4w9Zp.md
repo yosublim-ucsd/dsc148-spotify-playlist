@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Waxahatchee
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,960 likes - 150 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,990 likes - 150 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 40 | [Portland Avenue](https://open.spotify.com/track/1x3dRgPewBVLmPzklKXJHh) | [Charlie Parr](https://open.spotify.com/artist/2OOAWkt15smEKXtNNLtaNG) | [Portland Avenue](https://open.spotify.com/album/6rpPPSzI23Pz0OQtBDzqNT) | 4:29 |
 | 41 | [Hard As Stone](https://open.spotify.com/track/6vcobS50d43h2edX7a3j38) | [Jake Kohn](https://open.spotify.com/artist/5tfKTqbUneP4J3dHeRiLSw) | [Hard As Stone](https://open.spotify.com/album/1BuisVIzD0wWQH86VDA0eS) | 3:39 |
 | 42 | [Roulette On The Heart](https://open.spotify.com/track/5g4ARvINyjjLoiDX4roM8m) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk), [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Smoky Mountains](https://open.spotify.com/album/2giuHTYPbL8hSugmqDcvAz) | 3:15 |
-| 43 | [Honey Ain’t No Sweeter](https://open.spotify.com/track/5JS7aI8VQVsLd8nxrbn9Yx) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Honey Ain’t No Sweeter](https://open.spotify.com/album/4xnJf5yUfiE1SK736QTcQS) | 3:42 |
+| 43 | [Honey Ain’t No Sweeter](https://open.spotify.com/track/0WUwEHFU368yyh9ShYJZUe) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF) | 3:42 |
 | 44 | [The Illinois River Song](https://open.spotify.com/track/4S0WTLDl3ECJnfhEVIZqtQ) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [The Illinois River Song](https://open.spotify.com/album/7qTQjO4Kh1wmIesybwQF41) | 4:14 |
 | 45 | [$10 Cowboy](https://open.spotify.com/track/0wkAesjWf52ubUT4ZK8VN0) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/0wuHhJqV63y0KGQ2nNod2S) | 3:35 |
 | 46 | [I Know It’ll Never End](https://open.spotify.com/track/7mJF8GrNWZl5TRrGzqf6je) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [I Know It’ll Never End](https://open.spotify.com/album/6FZBJXoiTOMGScOWc0uepS) | 2:35 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [Burlesque Desert Window](https://open.spotify.com/track/2VRlBQCorJfk9QNWVyCMpy) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [A Lifetime to Find](https://open.spotify.com/album/3lxavXQElVKfCmqZSIrRV1) | 2:59 |
 | 150 | [Long Journey Home](https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Long Journey Home / Life To Go](https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C) | 2:57 |
 
-Snapshot ID: `MCw0YTU4ZjJlZmQyM2UxMmEzZjcxZDgzZjk4Y2JhYTQ3NjQyMmI3MzU4`
+Snapshot ID: `MCwwODAxYTJjMjVkMjEyOWQ4ODQ2ZjA0NzBjNGJjZjUzYTI2OGRlODRj`
