@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,390 likes - 113 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,391 likes - 113 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 50 | [五色のShooting☆Star!!!!!](https://open.spotify.com/track/6xJkGb622GVmf1chfPak7P) | [流星隊/守沢千秋\(CV.帆世雄一\)、深海奏汰\(CV.西山宏太朗\)、南雲鉄虎\(CV.中島ヨシキ\)、高峯翠\(CV.渡辺拓海\)、仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl) | [あんさんぶるスターズ! アルバムシリーズ 流星隊](https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe) | 3:54 |
 | 51 | [MAKOTO\-Live for Justice\-](https://open.spotify.com/track/6NLhGajefGqMoNSfNouy1x) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [$HUFFLE](https://open.spotify.com/album/3yE9VJKvfnDCKs0xzNRHlq) | 4:32 |
 | 52 | [ササゲロ \-You Are Mine\-](https://open.spotify.com/track/0L9VEMrJvVWTVooP3TG1j8) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 4:26 |
-| 53 | [バッタマン](https://open.spotify.com/track/3YJ0vNl9V7ab7n7oaEvqP1) | [Bullet Train](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [スターダスト LOVE TRAIN/バッタマン](https://open.spotify.com/album/4kKUWnQN00MhiSKwa7SUp3) | 3:55 |
+| 53 | [バッタマン](https://open.spotify.com/track/3YJ0vNl9V7ab7n7oaEvqP1) | [chotokkyu](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [スターダスト LOVE TRAIN/バッタマン](https://open.spotify.com/album/4kKUWnQN00MhiSKwa7SUp3) | 3:55 |
 | 54 | [てんけてんけてん](https://open.spotify.com/track/39ZW7L4VT4axbDVREO4CcF) | [DJ Ichiro Yatsui](https://open.spotify.com/artist/1HbQFEIRSmSyGpt30bmX74) | [YATSUI MATOME　～SELECTION～](https://open.spotify.com/album/5iQP3f2uDFFPGcSsq1GRte) | 5:13 |
 | 55 | [ぼくらのfrai awei](https://open.spotify.com/track/3tRsqyKXjvdJxFNLOB0D3t) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [ぼくらのfrai awei](https://open.spotify.com/album/3XPDxuGbwfNmkznwPpmSSg) | 4:23 |
 | 56 | [うどん](https://open.spotify.com/track/2seSonACEUj57oga5FcAjc) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [one](https://open.spotify.com/album/3Zd44R2vL12azsHVnLyrEP) | 3:45 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 112 | [おやつ いいやつ すごいやつ](https://open.spotify.com/track/5JhwM9KWxA3Q1yP8XrQAMZ) | [グミベアとガチャピン・ムック](https://open.spotify.com/artist/16R1lT06rzVT5GyUTLpG4m) | [おやつ いいやつ すごいやつ](https://open.spotify.com/album/4qa1WJzAfElFg5Uhnsx1xg) | 3:34 |
 | 113 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 |
 
-Snapshot ID: `MCw1MzVjZTA3ZDgwZGMyMTc3YjA4ZjkxMGZkYWI3MDljOWZjN2Q1MGIz`
+Snapshot ID: `MCw1ZjhmZGI2OTY2NDMxMzIwNmUxNGJiM2RkOTMyZDA0NDUwNTQ5Mzg1`

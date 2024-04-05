@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 141498,
+  "num_followers": 141573,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzRiN2U0NjM4Nzg2ZDNmYzk4ZjBhZTY3YzNmNDM5MzViY2UwOGUw",
+  "snapshot_id": "MCw5ZjNkNDY0MGQ3YTQ1N2QzZWI4YWI4NjM4NjRiMDk3NGIzNDEzZGQ3",
   "tracks": [
     {
       "added_at": null,
@@ -203,18 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Este Cuento",
-        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
+        "name": "Elementales",
+        "url": "https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo"
       },
       "artists": [
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 174083,
-      "name": "Este Cuento",
-      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
+      "duration_ms": 227875,
+      "name": "C\u00f3mo Haces",
+      "url": "https://open.spotify.com/track/0nIUbQVpDSv8wQTY2qwW4u"
     },
     {
       "added_at": null,
@@ -235,22 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elementales",
-        "url": "https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo"
+        "name": "Este Cuento",
+        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
       },
       "artists": [
-        {
-          "name": "Santiago Cruz",
-          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
-        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 227875,
-      "name": "C\u00f3mo Haces",
-      "url": "https://open.spotify.com/track/0nIUbQVpDSv8wQTY2qwW4u"
+      "duration_ms": 174083,
+      "name": "Este Cuento",
+      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 241382,
-      "name": "\u00bfC\u00f3mo Hacer Para Olvidarte?",
-      "url": "https://open.spotify.com/track/7p8JhjfckxcuOF0Weixvfa"
+      "duration_ms": 183926,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV"
     },
     {
       "added_at": null,

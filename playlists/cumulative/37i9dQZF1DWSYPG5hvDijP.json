@@ -1673,6 +1673,28 @@
     },
     {
       "album": {
+        "name": "For Real",
+        "url": "https://open.spotify.com/album/1eFFJ93JNkCSx1jOMX8aMm"
+      },
+      "artists": [
+        {
+          "name": "Yunan",
+          "url": "https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ"
+        },
+        {
+          "name": "Ysoblue",
+          "url": "https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/2GvtAi39hRhjIw0GB4hOp7"
+    },
+    {
+      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/7cR3BLC3bVzXHYGUtXFhJn"
       },
@@ -3664,7 +3686,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 240000,
       "name": "NGL",
       "url": "https://open.spotify.com/track/58h9f4lWnyLPIwqucWydxj"

@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 265976,
+  "num_followers": 266043,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Mzc2NmVhZTY1NDZmMjg0MDY3MTE1MWI1ZDhkZjc0NjMzZmI1ZDIx",
+  "snapshot_id": "MCxmMjZkYzIyMmQyYTgzYzhhZjVhOTQzZDBiMTczY2Q3ZTI4YzYxZGYx",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         },
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 145074,
-      "name": "DOLLA SIGN SLIME (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio"
+      "duration_ms": 165366,
+      "name": "I DID IT (feat. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby)",
+      "url": "https://open.spotify.com/track/20GrahbI4AzAOWxpYfDKkf"
     },
     {
       "added_at": null,
@@ -635,34 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "KHALED KHALED",
-        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         },
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 165366,
-      "name": "I DID IT (feat. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby)",
-      "url": "https://open.spotify.com/track/20GrahbI4AzAOWxpYfDKkf"
+      "duration_ms": 145074,
+      "name": "DOLLA SIGN SLIME (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio"
     },
     {
       "added_at": null,

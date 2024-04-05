@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 171272,
       "name": "42",
       "url": "https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA"
@@ -2023,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "December",
+      "url": "https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT"
+    },
+    {
+      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -2378,6 +2396,28 @@
       "duration_ms": 177300,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
+    },
+    {
+      "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114419,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
     },
     {
       "album": {
@@ -3847,6 +3887,28 @@
     },
     {
       "album": {
+        "name": "TAKE 4",
+        "url": "https://open.spotify.com/album/5pDRmm0QDobtTWk5F1eiwA"
+      },
+      "artists": [
+        {
+          "name": "Y4ZI",
+          "url": "https://open.spotify.com/artist/52PFt8fBrkL3NwOQMxwfkV"
+        },
+        {
+          "name": "Aj\u00e9 (The Realest)",
+          "url": "https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170379,
+      "name": "Last Time (feat. Aj\u00e9 (The Realest))",
+      "url": "https://open.spotify.com/track/6UFpJ7EbqoIXS44f9oK11A"
+    },
+    {
+      "album": {
         "name": "Lately",
         "url": "https://open.spotify.com/album/5TDwRF1rZqw9lqfdXKFQXS"
       },
@@ -4452,6 +4514,28 @@
       "duration_ms": 237346,
       "name": "MEDITATE",
       "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
+    },
+    {
+      "album": {
+        "name": "Men Are Crazy",
+        "url": "https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Men Are Crazy",
+      "url": "https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb"
     },
     {
       "album": {
@@ -6796,7 +6880,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 161226,
       "name": "SUPARO - Remix",
       "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
@@ -7656,7 +7740,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 148000,
       "name": "Waka Jeje (feat. Bnxn)",
       "url": "https://open.spotify.com/track/04ISGhuusXAMz3dnXkAdxa"
@@ -8274,7 +8358,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 102863,
       "name": "You Trap Me",
       "url": "https://open.spotify.com/track/2AYjnv47XVccCzv2ehzFNb"

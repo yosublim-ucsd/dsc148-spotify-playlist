@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 366553,
+  "2024-04-05": 366557,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - USA.",
   "name": "Viral 50 - USA",
@@ -9109,7 +9109,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 135478,
       "name": "Come Through",
       "url": "https://open.spotify.com/track/4BSNIP9txYvoT9Qsz3pVgf"
@@ -16254,6 +16254,24 @@
     },
     {
       "album": {
+        "name": "Get Wid Lemonade",
+        "url": "https://open.spotify.com/album/3qc0kwSgoyl7ZT0wjxdzkY"
+      },
+      "artists": [
+        {
+          "name": "Aurbley",
+          "url": "https://open.spotify.com/artist/3CfTeHuZzeWePQMnsdEI7f"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136829,
+      "name": "Get Wid Lemonade",
+      "url": "https://open.spotify.com/track/5pJK4zHDOdUxAZDEXx8dDO"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1xSiWCWXuSPnysSYeGzUlo"
       },
@@ -22337,7 +22355,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 123870,
       "name": "IT'S US (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/7LwCqIMsKebFSsGX1eIqoS"
@@ -40900,6 +40918,24 @@
     },
     {
       "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "album": {
         "name": "LOVE IN STEREO",
         "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
       },
@@ -47201,7 +47237,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 555071,
       "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) - Remix",
       "url": "https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0"
@@ -50803,6 +50839,24 @@
       "duration_ms": 173373,
       "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
       "url": "https://open.spotify.com/track/3IhHrBYZaxySuRu1zI7Vuk"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH"
     },
     {
       "album": {

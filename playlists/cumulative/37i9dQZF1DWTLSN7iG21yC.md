@@ -4,7 +4,7 @@
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-679 songs - 1 day 12 hr 19 min
+680 songs - 1 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,8 @@
 | [Love Under Pressure](https://open.spotify.com/track/6AE2DNuS40qbbVqgUAisMA) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Love Under Pressure](https://open.spotify.com/album/0JFioX82C82OcSgqYsInPB) | 2:45 | 2021-09-10 | 2022-04-20 |
 | [Love You Right](https://open.spotify.com/track/2X4zeCbENnOF6cQYKLbfyq) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love You Right](https://open.spotify.com/album/6KTqHLSSHvbv6E0KgfYlnm) | 3:01 | 2021-07-09 | 2022-07-29 |
 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2021-06-07 | 2023-01-28 |
-| [Lucky](https://open.spotify.com/track/1izC6AsOwb84CYQ7OA3ko7) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Lucky](https://open.spotify.com/album/3omkrvNwtwGdbSYiAwlsxL) | 5:38 | 2024-02-16 |  |
+| [Lucky](https://open.spotify.com/track/1izC6AsOwb84CYQ7OA3ko7) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Lucky](https://open.spotify.com/album/3omkrvNwtwGdbSYiAwlsxL) | 5:38 | 2024-02-16 | 2024-04-05 |
+| [Lucky](https://open.spotify.com/track/4FCv48nw6gPPa5SkQ9gbga) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 5:38 | 2024-02-16 |  |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-21 | 2023-01-28 |
 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 | 2021-06-07 | 2022-04-18 |
 | [MANIAC \(feat\. Windser\)](https://open.spotify.com/track/4Dmav01B2Fra0U4VYPPq4d) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [MANIAC \(feat\. Windser\)](https://open.spotify.com/album/7KjUZhvlYVBcSxUR8bqR91) | 3:00 | 2022-08-19 |  |

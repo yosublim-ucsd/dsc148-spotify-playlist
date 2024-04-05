@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Crank it up\. Cover: Brantley Gilbert
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,974 likes - 74 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,981 likes - 74 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 22 | [Duramax \(feat\. Young Gunner\)](https://open.spotify.com/track/5nWcMMEUUY7QeNHCrQoiKe) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1) | [The Grind](https://open.spotify.com/album/4r9uwGEGbssusA5DTt3SwE) | 3:06 |
 | 23 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 |
 | 24 | [Diesel Gang](https://open.spotify.com/track/4PAOoxMolPJnNqkUDmGI4r) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Diesel Gang](https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb) | 2:18 |
-| 25 | [Put in Work](https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [The Bubba Mathis EP](https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G) | 3:31 |
-| 26 | [Dirt Road](https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Dirt Road](https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo) | 2:45 |
+| 25 | [Dirt Road](https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Dirt Road](https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo) | 2:45 |
+| 26 | [Put in Work](https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [The Bubba Mathis EP](https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G) | 3:31 |
 | 27 | [Read Me My Rights](https://open.spotify.com/track/0CrhIYKizM7cLxJVh2AocH) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:54 |
 | 28 | [John Wayne](https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe) | [J\. Hartley](https://open.spotify.com/artist/6NQutZjdXEEvb4B4JuBRNT) | [John Wayne](https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY) | 2:38 |
 | 29 | [Down the Road \(feat\. Colt Ford\) \- Remix](https://open.spotify.com/track/4CmYl83JZSKuMMjssiALgs) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Down the Road \(feat\. Colt Ford\) \[Remix\]](https://open.spotify.com/album/5yc1gjIdUXeSY6U6Qa1jwb) | 2:45 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 68 | [Southern](https://open.spotify.com/track/60TduAd1s7rhsqmzXQxk9m) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Southern](https://open.spotify.com/album/0MyKGDeK3cGq2J2fkSMfhd) | 3:03 |
 | 69 | [Shawty In The Truck](https://open.spotify.com/track/0XWiP7iQC1uOOW0gVCKDwY) | [DJ CANNON BANYON](https://open.spotify.com/artist/2LRrFl4GOEkg86nmlQiGCG), [Samroc](https://open.spotify.com/artist/1m4hS0iTIVDX3LuYAXkvSb), [TJ Freeq](https://open.spotify.com/artist/1ssjQGY5kS54ngBPDXo9TS), [Big Jimmy](https://open.spotify.com/artist/09CKHoyg9Icjir1uOOYKSl), [Mo Beatz](https://open.spotify.com/artist/3PMIDJZdpCViOzn3XZ5Wjt) | [Shawty In The Truck](https://open.spotify.com/album/09UnavWkODv3pS1HoYCNpp) | 4:33 |
 | 70 | [Dam](https://open.spotify.com/track/0YJRsd068DzbWWMMUiY5EJ) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Southern Son](https://open.spotify.com/album/0HKbTKNK8B3Am937gbxRv0) | 3:06 |
-| 71 | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG) | [I4NI](https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Chris Hurt](https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2) | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE) | 3:55 |
-| 72 | [Standard American](https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh) | [Gunnar & The Grizzly Boys](https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot) | [Mud Digger 5](https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl) | 3:29 |
+| 71 | [Standard American](https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh) | [Gunnar & The Grizzly Boys](https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot) | [Mud Digger 5](https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl) | 3:29 |
+| 72 | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG) | [I4NI](https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Chris Hurt](https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2) | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE) | 3:55 |
 | 73 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 |
 | 74 | [Stomp Them Boots](https://open.spotify.com/track/1x3kToYa48N2Zb0MOc7iiG) | [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Stomp Them Boots](https://open.spotify.com/album/2k5eUp67yseXCF3pe4FjMJ) | 3:55 |
 
-Snapshot ID: `MCw3OGIwOWY2ZDA5ZDU4NWNkYzA1Y2Y2MzhhNDhiZWUwMTcwZWQxMTM0`
+Snapshot ID: `MCxkYWQxMTEzZDQ3YjIxZmQ3NThkNzE3M2YwYWI5ODk4MmMwMDliMmFl`

@@ -4,7 +4,7 @@
 
 > Devotional tracks for an immersive Ramadan\. Cover: Atif Aslam
 
-90 songs - 8 hr 33 min
+91 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Mustafa Jan\-E\-Rehmat Pe Lakhon Salam](https://open.spotify.com/track/0FHYFkdMV1xqzMaF7N4MGc) | [Aala Hazrat Ahmad Raza Khan Berailvi](https://open.spotify.com/artist/2Cdo6DrhGs8irR1F0fkWge), [Fasihuddin Soharwardi](https://open.spotify.com/artist/25U46Cnfd5sKZ5QpVGsXiX) | [Naat\-E\-Rasool \- Naat Khawan: Fasih Uddin Soharwardi](https://open.spotify.com/album/0JZbt1Jiq9PJptJitBan5h) | 8:46 | 2024-02-21 |  |
 | [Nabi Un Nabi Un Nabi Un Nabi](https://open.spotify.com/track/23BmsL69Y9TpM1KtiMnkTt) | [Umme Habiba](https://open.spotify.com/artist/4OwPVzkgPmwR3RgjqHfcfx) | [Jab Zaban Pe Muhammad Ka Naam, Vol\. 1](https://open.spotify.com/album/1r5QJvMFAqxktum946iYxl) | 6:59 | 2024-02-21 | 2024-03-15 |
 | [Noor Allah](https://open.spotify.com/track/3NYPDItB0WRcRpxz1x9D6y) | [SALMAN HASSAN](https://open.spotify.com/artist/38Ch1aEzwaE2VQeu5GlYEJ), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Bilal Wajid](https://open.spotify.com/artist/3scPAajlu1EriZNl2lENL8) | [Noor Allah](https://open.spotify.com/album/6hcyC3XEya6ydk6nURrkuO) | 5:08 | 2024-03-14 |  |
+| [Qaseeda Burda Shareef](https://open.spotify.com/track/64RWnOGArhYhDktVQlmAoE) | [Rakae Jamil](https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa), [Farhan Ali](https://open.spotify.com/artist/1sYPIiSyj5kE6TjQcvEvb1), [Kumail Jaffery](https://open.spotify.com/artist/5Wo2MMvWR5cQCwnYcSkrO3) | [Qaseeda Burda Shareef](https://open.spotify.com/album/3f8QBRJQTeLfkNrn7nJ5PP) | 1:34 | 2024-04-04 |  |
 | [Qasida Burda Sharif](https://open.spotify.com/track/2zsQKhZhWNUxY5YCKSxjoS) | [Qari Waheed Zafar Qasmi](https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY) | [Gulzar e Madina, Vol\. 2](https://open.spotify.com/album/7kQP5I9bMRI24rA3NPm3aX) | 6:08 | 2024-02-21 |  |
 | [Rahmatun Lil'Alameen](https://open.spotify.com/track/4Ifu8HPmQGUnJwwaXcG2Mj) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Rahmatun Lil'Alameen](https://open.spotify.com/album/2SqCf5y1QVixgel87vaM2K) | 3:50 | 2024-03-18 |  |
 | [Rehmatul\-lil\-Alameen](https://open.spotify.com/track/3x3fja2hzDJNqjLxzGAuAd) | [Arslan Athar](https://open.spotify.com/artist/0aZGWj6ndC9eYk6HWVlKsT) | [Rehmatul\-lil\-Alameen](https://open.spotify.com/album/4pVCqrQfJTZrJXTfQwmj3P) | 5:21 | 2024-02-21 | 2024-03-15 |

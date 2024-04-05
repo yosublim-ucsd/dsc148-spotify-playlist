@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 294 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 49 | [El Zapatero](https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 1:43 |
 | 50 | [Sana Sana](https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu Vol\. 2](https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U) | 2:32 |
 
-Snapshot ID: `MCxjNDU3MjYzNzlhYmM3N2Q3NTk2MWU4ZGI5MjlmMTJiYzc3Y2NlNDgw`
+Snapshot ID: `MCw5ZWZmNjcxMjg0MmY0MjJjMjY4YTdhODM0YjQwMDMzODZlMDVjNjcy`

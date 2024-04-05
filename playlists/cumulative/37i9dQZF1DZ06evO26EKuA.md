@@ -2,7 +2,7 @@
 
 ### [This Is Valentín Elizalde](https://open.spotify.com/playlist/37i9dQZF1DZ06evO26EKuA)
 
-> This Is Valentín Elizalde\. Los temas esenciales, todos en una lista.
+> This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
 68 songs - 3 hr 38 min
 

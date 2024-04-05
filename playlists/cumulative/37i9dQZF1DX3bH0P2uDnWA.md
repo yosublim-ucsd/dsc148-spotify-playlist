@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-361 songs - 20 hr 38 min
+362 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Lone Digger](https://open.spotify.com/track/1Oaq4rq7EBVUiXGh7yxuYL) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<I°\_°I>](https://open.spotify.com/album/5DtzT44o6tGZbVA0xmsz4V) | 3:49 | 2020-10-30 | 2022-07-29 |
 | [Lone Digger](https://open.spotify.com/track/6Ntz1uQoMF8L2E4w518BFp) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<I°\_°I>](https://open.spotify.com/album/5a9UEwUEN7LsTsRXWPOQtC) | 3:49 | 2023-11-06 |  |
 | [Long Train Runnin' \- Electro Swing Mix](https://open.spotify.com/track/17DPEy1HfgZuhDA2iW1H96) | [Lil Mishka Band](https://open.spotify.com/artist/5nSNecGsD1jB5a7lETGzGd), [The Soulmate Project](https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a), [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Long Train Runnin' \(Electro Swing Mix\)](https://open.spotify.com/album/1QHnsqed9WOZs151kHV2Ed) | 2:52 | 2023-06-30 |  |
-| [Love Buzz](https://open.spotify.com/track/6wOKNE9JL9ueQzUAaXpa5l) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Love Buzz](https://open.spotify.com/album/5earRFgiX8lRLZalXgWaxE) | 2:48 | 2024-03-29 |  |
+| [Love Buzz](https://open.spotify.com/track/6wOKNE9JL9ueQzUAaXpa5l) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Love Buzz](https://open.spotify.com/album/5earRFgiX8lRLZalXgWaxE) | 2:48 | 2024-03-29 | 2024-04-05 |
+| [Love Buzz](https://open.spotify.com/track/6zAhQwaJcFUppYAqq9sm9D) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Love Buzz](https://open.spotify.com/album/7MDXK4seiK1RA7gtQXAXCV) | 2:48 | 2024-03-29 |  |
 | [Love Music \(Intended Immigration Electro Swing Remix\)](https://open.spotify.com/track/662kImMrejn6sAfNvVMk3U) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf), [Intended Immigration](https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg) | [Love Music \(Intended Immigration Electro Swing Remix\)](https://open.spotify.com/album/2GztloBIUhp28xvTf3hlXY) | 2:50 | 2023-06-09 |  |
 | [Love Us a Ruckus](https://open.spotify.com/track/2u40x64LDY2RSyW1ewdhgR) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Love Us a Ruckus](https://open.spotify.com/album/2QvwbMHN0TvpgH91oWgqB7) | 4:04 | 2022-11-25 | 2023-02-04 |
 | [Love Us a Ruckus](https://open.spotify.com/track/6AUwEemrg6TQjYkGTr3det) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Bad Manners](https://open.spotify.com/album/2ChFqWOdeu5Wyppaaxfy51) | 4:04 | 2022-12-09 | 2024-02-24 |

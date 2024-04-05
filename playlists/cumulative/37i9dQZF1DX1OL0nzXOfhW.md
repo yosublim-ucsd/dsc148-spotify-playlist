@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲！Cover: GooChan
+> 2024 RADAR登場！持續發掘世一超新聲！Cover:   Jasmine Kelly
 
-194 songs - 11 hr 11 min
+195 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [On My Way Home](https://open.spotify.com/track/4H7JPVjWKHP12vHq6cOJef) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [DIZIWASTRIPPY](https://open.spotify.com/artist/2N23SDzDpduiMR58p4hQPe) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 3:48 | 2022-09-15 | 2023-04-14 |
 | [Orange Form](https://open.spotify.com/track/0bQB2nzHzeaHRHwcDOYFU2) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [HIJACK](https://open.spotify.com/artist/0oKLpxMpjlPi53LWu3HQko), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Orange Form](https://open.spotify.com/album/2SPikt4OfYU79pcvHwvaBG) | 2:31 | 2023-03-09 | 2023-04-14 |
 | [overthinking](https://open.spotify.com/track/4WSID4u69gGKFwCeOP1lLk) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [overthinking](https://open.spotify.com/album/28ZQdT8zN4AvVF5qGcDlzp) | 2:38 | 2022-08-18 | 2023-04-14 |
-| [physicaltouch](https://open.spotify.com/track/0gyABf30UplLQPRFCiPj6j) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/1I8xMmaGJ6f17RDdN0ZhGN) | 0:32 | 2024-03-28 |  |
+| [physicaltouch](https://open.spotify.com/track/0gyABf30UplLQPRFCiPj6j) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/1I8xMmaGJ6f17RDdN0ZhGN) | 0:32 | 2024-03-28 | 2024-04-05 |
 | [saturday night](https://open.spotify.com/track/6jl35iYUR4IMQ96o8aWSy2) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [saturday night](https://open.spotify.com/album/3skcQqVKnlKiG4TGqrQVin) | 2:55 | 2022-08-18 | 2023-04-14 |
 | [Sick](https://open.spotify.com/track/4nctLtLZhJA3hoQPvHAqcq) | [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0), [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Sick](https://open.spotify.com/album/4BwPOa14byzLRhi2YAC9w9) | 2:30 | 2023-04-13 | 2024-03-29 |
 | [Someday My Prince Will Come](https://open.spotify.com/track/1OWUZvmvabogBms3h8ryXF) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Someday My Prince Will Come](https://open.spotify.com/album/3vj37vVVTW7Fn3V982rq4T) | 4:12 | 2022-05-26 | 2022-10-05 |
@@ -107,6 +107,7 @@
 | [To be continued](https://open.spotify.com/track/3PFwHgVhnT3TxGnjCr8mYv) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [premiere](https://open.spotify.com/album/5gOWqjfQsYNXSSkxooHfwu) | 3:23 | 2024-02-01 |  |
 | [TRIPPIN](https://open.spotify.com/track/3w45N7JMqsnYqko8VmQ9DS) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [TRIPPIN](https://open.spotify.com/album/0r9CWKeNllgadGS079yej4) | 3:17 | 2023-09-29 |  |
 | [twentyone](https://open.spotify.com/track/3CuSZNQMOfutttNqxeUunT) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [twentyone](https://open.spotify.com/album/4aSaLC8d1BhE18tLtfLs5c) | 3:31 | 2022-08-18 | 2023-04-14 |
+| [waiting for you](https://open.spotify.com/track/6SQlsmneR2rMN11QyfwnQh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [waiting for you](https://open.spotify.com/album/3zCjzqYdYy9gjZRZ6JiLQQ) | 2:48 | 2024-04-04 |  |
 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 | 2023-02-23 | 2023-04-14 |
 | [where we go is home](https://open.spotify.com/track/5JedCIfnYpIgAilKiTcwaY) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [where we go is home](https://open.spotify.com/album/5Jah63TSuIbHS52XXQVSKj) | 4:12 | 2023-02-16 | 2023-04-14 |
 | [WHO A U ?](https://open.spotify.com/track/1niM8dlyurDRTsrQCMKMiB) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [WHO A U ?](https://open.spotify.com/album/0Lc6Tipv0n7tiBbI880STO) | 3:22 | 2023-03-23 | 2023-04-14 |

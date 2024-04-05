@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,132 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,166 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 27 | [Ela Tá Querendo \- Remix](https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez) | [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [2L Motta](https://open.spotify.com/artist/6vlGnGiNA4XMXY6aPhBowm), [DJ MK De Niterói](https://open.spotify.com/artist/4QBJyByBb8tDUFD9XRi5Rs), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Ela Tá Querendo \(Remix\)](https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O) | 1:15 |
 | 28 | [Agora que eu estou sozinho nesse mal caminho speed up](https://open.spotify.com/track/1kdn6uBhMG1vnJB68HqoOj) | [Koke](https://open.spotify.com/artist/59qKvQjxbwovrGHZjO5hgN) | [Agora que eu estou sozinho nesse mal caminho speed up](https://open.spotify.com/album/5GCBeMjrGOegor93rvS7q3) | 1:36 |
 | 29 | [TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ](https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH) | [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n), [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb), [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ](https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7) | 2:16 |
-| 30 | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/track/6fpUsqLmeozvHBzWPJslmZ) | [Eusoares085](https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg) | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/album/797TrPg1DNXRxrEkuaZJJi) | 1:43 |
-| 31 | [Semblante de Criminoso Speed](https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [MC Myres](https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz) | [Semblante de Criminoso Speed](https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt) | 1:38 |
+| 30 | [Semblante de Criminoso Speed](https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [MC Myres](https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz) | [Semblante de Criminoso Speed](https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt) | 1:38 |
+| 31 | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/track/6fpUsqLmeozvHBzWPJslmZ) | [Eusoares085](https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg) | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/album/797TrPg1DNXRxrEkuaZJJi) | 1:43 |
 | 32 | [SUV \- Remix](https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [DJ Gui](https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK) | [Levante](https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS) | 1:55 |
 | 33 | [Ele Te Bota Soca Soca \- Speed Up](https://open.spotify.com/track/548LVIsbvfP70STa240ZeI) | [MC Mazzie](https://open.spotify.com/artist/05bZ3QOlK7vfflzspO0Jk5), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d), [DJ Wizard](https://open.spotify.com/artist/2S1GntfP92SLbiPaiQsy8P), [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b) | [Ele Te Bota Soca Soca \(Speed Up\)](https://open.spotify.com/album/3rFJruJgtv2Y83i5dUydCg) | 2:08 |
 | 34 | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd) | [St.Borges](https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ) | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp) | 2:10 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 65 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
 | 66 | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW) | [PL JUNIOR](https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0), [ANNY SUCESSADA](https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj) | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04) | 1:46 |
 
-Snapshot ID: `MCwzMzRhNTRhMjg1MjljNGY5MGU1NmZmN2IzMmYzYWFlOGQ1MmI4MjJi`
+Snapshot ID: `MCw2N2M4NDE0ZDQzN2M5ODJiMmE2N2JmMWJiOTk5ZWRkYTI1YmEyMmJi`

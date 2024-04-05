@@ -1079,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "C'est toi",
+        "url": "https://open.spotify.com/album/5L2DAuV8yVME0RfgVsUveZ"
+      },
+      "artists": [
+        {
+          "name": "BOLEMVN",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        },
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171236,
+      "name": "C'est toi",
+      "url": "https://open.spotify.com/track/34BTDwDIAxbdKfynLeH0ce"
+    },
+    {
+      "album": {
         "name": "Call (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/36dJIS4m6wElWShKw7chwJ"
       },
@@ -1646,7 +1668,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 184519,
       "name": "Echo",
       "url": "https://open.spotify.com/track/0OYjR9VR2c7ZTRdW58nTtl"
@@ -4109,6 +4131,28 @@
     },
     {
       "album": {
+        "name": "Men Are Crazy",
+        "url": "https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Men Are Crazy",
+      "url": "https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb"
+    },
+    {
+      "album": {
         "name": "Press Play : Sol Fest Edition",
         "url": "https://open.spotify.com/album/4Uf5FWzQuq0qLT75cNRnq5"
       },
@@ -4124,7 +4168,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 194851,
       "name": "Mention",
       "url": "https://open.spotify.com/track/3YpPn5Q1DeYvsmf7Dq79nr"
@@ -5038,7 +5082,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 208163,
       "name": "project - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9"
@@ -5588,6 +5632,28 @@
       "duration_ms": 171765,
       "name": "Secret Lover",
       "url": "https://open.spotify.com/track/5wTCpN911fjwZYhnCYzX7k"
+    },
+    {
+      "album": {
+        "name": "See Me Now (Remix)",
+        "url": "https://open.spotify.com/album/2a3ZEZ8KHbTafO49Hvf585"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160408,
+      "name": "See Me Now (Remix) feat. Maeta",
+      "url": "https://open.spotify.com/track/4PHeAS4b8VmdWtlnODtP8z"
     },
     {
       "album": {
@@ -6441,6 +6507,32 @@
     },
     {
       "album": {
+        "name": "Umusa",
+        "url": "https://open.spotify.com/album/3ZLmsaExafleH4UoXP4FNB"
+      },
+      "artists": [
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227380,
+      "name": "Umusa",
+      "url": "https://open.spotify.com/track/1rS6j6K3cxY4PEXLleEUia"
+    },
+    {
+      "album": {
         "name": "Undercover Lover",
         "url": "https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP"
       },
@@ -6818,7 +6910,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 181903,
       "name": "Wildin'",
       "url": "https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa"

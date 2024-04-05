@@ -1,12 +1,12 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 12244,
+  "num_followers": 12251,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTMyYjZhYzc5OTc1OTRiZDYzMjkyZjk2MzM3N2FkM2Y5MTdmZDFk",
+  "snapshot_id": "MCwzOWVmOWYzNWZlMzQ4MTY2ZjQzMjkyMzYzMDAwZDRjMjE5ZGIzMTRj",
   "tracks": [
     {
       "added_at": "2023-02-17 01:10:22",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Time to Recover",
-        "url": "https://open.spotify.com/album/7wzFqOBxEWo6gmvFntCtSP"
+        "name": "Theory of Colours",
+        "url": "https://open.spotify.com/album/6oIrL0YBYT6T6tXVF3LBVY"
       },
       "artists": [
         {
-          "name": "Feiertag",
-          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
+          "name": "Dauwd",
+          "url": "https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp"
         }
       ],
-      "duration_ms": 136383,
-      "name": "Stranger to One",
-      "url": "https://open.spotify.com/track/0NaOI7rSBynlCl5ss2R2Hj"
+      "duration_ms": 327576,
+      "name": "Theory of Colours",
+      "url": "https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU"
     },
     {
       "added_at": "2024-02-02 05:56:54",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Theory of Colours",
-        "url": "https://open.spotify.com/album/6oIrL0YBYT6T6tXVF3LBVY"
+        "name": "Time to Recover",
+        "url": "https://open.spotify.com/album/7wzFqOBxEWo6gmvFntCtSP"
       },
       "artists": [
         {
-          "name": "Dauwd",
-          "url": "https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp"
+          "name": "Feiertag",
+          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
         }
       ],
-      "duration_ms": 327576,
-      "name": "Theory of Colours",
-      "url": "https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU"
+      "duration_ms": 136383,
+      "name": "Stranger to One",
+      "url": "https://open.spotify.com/track/0NaOI7rSBynlCl5ss2R2Hj"
     },
     {
       "added_at": "2023-02-17 01:29:01",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 319666,
-      "name": "SHEEP",
-      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Why She Is Hiding in the Other Man's Eyes",
         "url": "https://open.spotify.com/album/3PGnyvLbxElUQ6wx30UBG0"
       },
@@ -723,18 +707,34 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "A Certain Distance",
-        "url": "https://open.spotify.com/album/46mWSylF7wmYKSACYkkjNf"
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
       "artists": [
         {
-          "name": "Lusine",
-          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 278413,
-      "name": "Two Dots",
-      "url": "https://open.spotify.com/track/3NcOlyaj8fEPbVfvNOKeaD"
+      "duration_ms": 319666,
+      "name": "SHEEP",
+      "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Existenzmaximum - EP",
+        "url": "https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl"
+      },
+      "artists": [
+        {
+          "name": "Datassette",
+          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
+        }
+      ],
+      "duration_ms": 121856,
+      "name": "Mechanical Advantage",
+      "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
     },
     {
       "added_at": "2023-02-17 01:29:01",
@@ -769,20 +769,20 @@
       "url": "https://open.spotify.com/track/2P43WROXRRBFqSKd2aSc0o"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
+      "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Existenzmaximum - EP",
-        "url": "https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl"
+        "name": "A Certain Distance",
+        "url": "https://open.spotify.com/album/46mWSylF7wmYKSACYkkjNf"
       },
       "artists": [
         {
-          "name": "Datassette",
-          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
+          "name": "Lusine",
+          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
         }
       ],
-      "duration_ms": 121856,
-      "name": "Mechanical Advantage",
-      "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
+      "duration_ms": 278413,
+      "name": "Two Dots",
+      "url": "https://open.spotify.com/track/3NcOlyaj8fEPbVfvNOKeaD"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
-      },
-      "artists": [
-        {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "21 Again Collaborations, Pt. 1",
         "url": "https://open.spotify.com/album/3bPdgAKQZRbPa9ESQGUsqr"
       },
@@ -921,20 +905,20 @@
       "url": "https://open.spotify.com/track/25INV7gnl2B502qCvxrluh"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Windowlicker",
-        "url": "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh"
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
         }
       ],
-      "duration_ms": 255773,
-      "name": "Nannou",
-      "url": "https://open.spotify.com/track/6VVeCK61NH0eXUYjwYy0MP"
+      "duration_ms": 266640,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -951,6 +935,22 @@
       "duration_ms": 223375,
       "name": "Ikiru",
       "url": "https://open.spotify.com/track/24Gn3xI5AkAQTriCekLrf1"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Windowlicker",
+        "url": "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "Nannou",
+      "url": "https://open.spotify.com/track/6VVeCK61NH0eXUYjwYy0MP"
     },
     {
       "added_at": "2023-02-17 01:29:01",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/41rdl3Oiyz5o5todvKyOWA"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Manhattan Research, Inc.",
-        "url": "https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D"
-      },
-      "artists": [
-        {
-          "name": "Raymond Scott",
-          "url": "https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt"
-        }
-      ],
-      "duration_ms": 105026,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Truffles Sprinkles",
@@ -1135,6 +1119,22 @@
       "duration_ms": 251333,
       "name": "Truffles Sprinkles",
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Manhattan Research, Inc.",
+        "url": "https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D"
+      },
+      "artists": [
+        {
+          "name": "Raymond Scott",
+          "url": "https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt"
+        }
+      ],
+      "duration_ms": 105026,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1197,6 +1197,22 @@
       "url": "https://open.spotify.com/track/0w1P0lcWUKniBbJfcz8Hvy"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Lunatic Harness",
+        "url": "https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Mushroom Compost",
+      "url": "https://open.spotify.com/track/6oxaAXEPGRGYlakonZ0ZtV"
+    },
+    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Mahi Mahi",
@@ -1219,22 +1235,6 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Lunatic Harness",
-        "url": "https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX"
-      },
-      "artists": [
-        {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Mushroom Compost",
-      "url": "https://open.spotify.com/track/6oxaAXEPGRGYlakonZ0ZtV"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1537,38 +1537,6 @@
       "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/6WJxRoJgFPTxi9odNrGKKp"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 190213,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/7oYOdF7lpYvwYNLk3BWNpD"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "For Beginner Piano",
-        "url": "https://open.spotify.com/album/2mdkf39z60lelr7zulBMky"
-      },
-      "artists": [
-        {
-          "name": "Plone",
-          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Plock",
-      "url": "https://open.spotify.com/track/1Oq3hZjG2WWIR2MEqASnNd"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Haku (RUMTUM Remix)",
@@ -1587,6 +1555,38 @@
       "duration_ms": 341346,
       "name": "Haku - RUMTUM Remix",
       "url": "https://open.spotify.com/track/4bbC2PWt5QDvICHQBUXyj4"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "For Beginner Piano",
+        "url": "https://open.spotify.com/album/2mdkf39z60lelr7zulBMky"
+      },
+      "artists": [
+        {
+          "name": "Plone",
+          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Plock",
+      "url": "https://open.spotify.com/track/1Oq3hZjG2WWIR2MEqASnNd"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/6WJxRoJgFPTxi9odNrGKKp"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/7oYOdF7lpYvwYNLk3BWNpD"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1805,22 +1805,6 @@
       "url": "https://open.spotify.com/track/1ilAKNVQwIZXaFna2q2dne"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Put Your Head Above The Parakeets",
-        "url": "https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 436052,
-      "name": "Head Above The Parakeets",
-      "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
@@ -1835,6 +1819,22 @@
       "duration_ms": 300930,
       "name": "\u274d\u2281\u274d\u2281\u274d\u2281\u274d\u2281\u274d\u2281\u274d\u2281\u274d\u2281\u274d\u2281\u274d\u2281",
       "url": "https://open.spotify.com/track/2HvrDBDvUg3GD6f1z6OTAG"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Put Your Head Above The Parakeets",
+        "url": "https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 436052,
+      "name": "Head Above The Parakeets",
+      "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Feorm Falorx",
-        "url": "https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 261700,
-      "name": "Wondergan",
-      "url": "https://open.spotify.com/track/0z5sKnDYAGBm5DyZlr4wc1"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Lucky Cat",
         "url": "https://open.spotify.com/album/3ctNSs8cZLgDfDVmQvdgM8"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 312946,
       "name": "Cathart",
       "url": "https://open.spotify.com/track/27F81Z0W6wfUdKH0u7f3iX"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Feorm Falorx",
+        "url": "https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 261700,
+      "name": "Wondergan",
+      "url": "https://open.spotify.com/track/0z5sKnDYAGBm5DyZlr4wc1"
     },
     {
       "added_at": "2023-07-28 21:27:55",
@@ -2287,6 +2287,26 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "lux_",
+        "url": "https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs"
+      },
+      "artists": [
+        {
+          "name": "DARK",
+          "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
+        },
+        {
+          "name": "The Surrealist",
+          "url": "https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "lux_",
+      "url": "https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "SEIM",
         "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
       },
@@ -2307,26 +2327,6 @@
       "duration_ms": 311533,
       "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
       "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "lux_",
-        "url": "https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs"
-      },
-      "artists": [
-        {
-          "name": "DARK",
-          "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
-        },
-        {
-          "name": "The Surrealist",
-          "url": "https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "lux_",
-      "url": "https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z"
     },
     {
       "added_at": "2023-02-17 01:10:22",

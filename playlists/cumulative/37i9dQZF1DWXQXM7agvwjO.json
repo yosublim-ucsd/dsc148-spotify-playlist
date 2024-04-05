@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: BANK (Indonesia)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: Shye (Singapore)",
   "name": ".ORG",
   "tracks": [
     {
@@ -927,6 +927,28 @@
     },
     {
       "album": {
+        "name": "All Things Left Behind",
+        "url": "https://open.spotify.com/album/0V5G0XvyE0EtqCr2IzhyhZ"
+      },
+      "artists": [
+        {
+          "name": "Secret Meadow",
+          "url": "https://open.spotify.com/artist/3h6gI8bCXKNAcA9AkQnHuE"
+        },
+        {
+          "name": "Putriani Mulyadi",
+          "url": "https://open.spotify.com/artist/6TjcNFT3kpw0Nc7uc3sX7k"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243178,
+      "name": "All Things Left Behind",
+      "url": "https://open.spotify.com/track/09rSimmLjPYg5vKOYSQDMW"
+    },
+    {
+      "album": {
         "name": "all to know",
         "url": "https://open.spotify.com/album/252BnswhJjBqVwjcTBy4n0"
       },
@@ -1274,7 +1296,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 246133,
       "name": "anything you ask",
       "url": "https://open.spotify.com/track/4cOWfl6IYophMuVhI6JfxY"
@@ -1494,7 +1516,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 258181,
       "name": "as it should be",
       "url": "https://open.spotify.com/track/5yL2yJczalyRCDSeasbUrS"
@@ -1986,6 +2008,24 @@
       "duration_ms": 147966,
       "name": "Beachtown Boys",
       "url": "https://open.spotify.com/track/3jPBFCltUQcJt65nLCqDFF"
+    },
+    {
+      "album": {
+        "name": "Bears",
+        "url": "https://open.spotify.com/album/7D2Cb9HaBTgqdV2O4PhnP2"
+      },
+      "artists": [
+        {
+          "name": "Sn\u00fcbear",
+          "url": "https://open.spotify.com/artist/67uzIxDmQ8yCb1kVaGgvrJ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306101,
+      "name": "Bears",
+      "url": "https://open.spotify.com/track/704sFv86nOuLHagy5m4Ove"
     },
     {
       "album": {
@@ -3081,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "can't you see",
+        "url": "https://open.spotify.com/album/2EuJGx0ZIlEvVtVoHqhjdf"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203902,
+      "name": "can't you see",
+      "url": "https://open.spotify.com/track/12fDGZPMJXkcFuqVytBT1t"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df"
       },
@@ -3168,7 +3226,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 251814,
       "name": "Catwalk",
       "url": "https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry"
@@ -3294,7 +3352,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 236965,
       "name": "Chaos Calls",
       "url": "https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX"
@@ -7064,7 +7122,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 261605,
       "name": "Gi\u1ea5c M\u01a1 C\u1ee7a Lo\u00e0i Ng\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/5YIUwtuaP3UXrYP8igpgKI"
@@ -7626,7 +7684,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 165129,
       "name": "Heartache Generation",
       "url": "https://open.spotify.com/track/77ycwhz6pwYgAjRDPpS3ae"
@@ -8484,6 +8542,24 @@
       "duration_ms": 189533,
       "name": "I Hope You Die",
       "url": "https://open.spotify.com/track/3APupcckOdS9qT1AKvghU3"
+    },
+    {
+      "album": {
+        "name": "I Lied to You",
+        "url": "https://open.spotify.com/album/3bfGyprzzKISA9pN5n4CtF"
+      },
+      "artists": [
+        {
+          "name": "The Peachskins",
+          "url": "https://open.spotify.com/artist/6slLx3tKNbSTpbAkkikwzd"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193636,
+      "name": "I Lied to You",
+      "url": "https://open.spotify.com/track/1gG3meJ45Zb5YLG3w30tNZ"
     },
     {
       "album": {
@@ -10902,7 +10978,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 168546,
       "name": "loose ends",
       "url": "https://open.spotify.com/track/41ebdHkSEAtXHiDEv4FION"
@@ -12190,7 +12266,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 193043,
       "name": "MNSF",
       "url": "https://open.spotify.com/track/6JouPb4bv2ki48IDhq9D9F"
@@ -13482,7 +13558,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 170578,
       "name": "Oh My God!",
       "url": "https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL"
@@ -15166,7 +15242,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 167710,
       "name": "room",
       "url": "https://open.spotify.com/track/7LKtjtm4QW4wKmbOac3kY0"
@@ -18169,6 +18245,28 @@
     },
     {
       "album": {
+        "name": "Too Shy, Too Blind",
+        "url": "https://open.spotify.com/album/6MVkNSm87gfSg4rG8728ii"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Celebration",
+          "url": "https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK"
+        },
+        {
+          "name": "Ade Paloh",
+          "url": "https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "The Art of Chasing You",
+      "url": "https://open.spotify.com/track/7HwHo4TOJzqcX9scDN7YCB"
+    },
+    {
+      "album": {
         "name": "The Bended Man",
         "url": "https://open.spotify.com/album/6nHeVcX21JmpTJB48qhVzb"
       },
@@ -18791,6 +18889,24 @@
     },
     {
       "album": {
+        "name": "too",
+        "url": "https://open.spotify.com/album/3x0EHZBaDF3dFpGQVtDGEZ"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140363,
+      "name": "too",
+      "url": "https://open.spotify.com/track/6iPlmyUFvWUXQaNVebuW3k"
+    },
+    {
+      "album": {
         "name": "Too Far",
         "url": "https://open.spotify.com/album/5uekioXuMtE3YiBbMscBQu"
       },
@@ -19306,6 +19422,28 @@
       "duration_ms": 190322,
       "name": "UNO",
       "url": "https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8"
+    },
+    {
+      "album": {
+        "name": "Unwavering",
+        "url": "https://open.spotify.com/album/60Ems1fT6kFthRWEaL3Nkj"
+      },
+      "artists": [
+        {
+          "name": "Sandrayati",
+          "url": "https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF"
+        },
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217693,
+      "name": "Unwavering",
+      "url": "https://open.spotify.com/track/5om9MS3yRKxRrt9FSMBq4w"
     },
     {
       "album": {
@@ -20453,6 +20591,24 @@
     },
     {
       "album": {
+        "name": "Coming Up Roses",
+        "url": "https://open.spotify.com/album/2r3PtUTGT3h6QmnrDSJo6X"
+      },
+      "artists": [
+        {
+          "name": "Coming Up Roses",
+          "url": "https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351010,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/2nKWmGyL3h8xu6dlsD7CB7"
+    },
+    {
+      "album": {
         "name": "Making Me Sick!",
         "url": "https://open.spotify.com/album/63pRwAidDd1EtsJimLsWlz"
       },
@@ -21234,6 +21390,24 @@
       "duration_ms": 170505,
       "name": "\u0110\u1eafm Say V\u00ec Em",
       "url": "https://open.spotify.com/track/0RvPBOC0hAyU3zCHwMGOsK"
+    },
+    {
+      "album": {
+        "name": "\u0110\u1ec3 N\u00f3 \u0110\u1ebfn",
+        "url": "https://open.spotify.com/album/4i8YeSRnK4jfQ1WCFPzTDV"
+      },
+      "artists": [
+        {
+          "name": "Th\u1eafng",
+          "url": "https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268148,
+      "name": "\u0110\u1ec3 N\u00f3 \u0110\u1ebfn",
+      "url": "https://open.spotify.com/track/6mg6biMH1unKldegMb84SB"
     },
     {
       "album": {
@@ -22370,7 +22544,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 241317,
       "name": "\u4f60\u7684\u6a23\u5b50",
       "url": "https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz"

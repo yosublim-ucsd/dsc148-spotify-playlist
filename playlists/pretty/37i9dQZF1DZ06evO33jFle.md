@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 
 ### [This Is Jenni Rivera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33jFle)
 
-> This Is Jenni Rivera\. Los temas esenciales, todos en una lista.
+> This is Jenni Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,280 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,414 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 16 | [Ahora Que Estuviste Lejos](https://open.spotify.com/track/0mVNDYnQh9Dcdl3M2fRts1) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:38 |
 | 17 | [Besos y Copas \- En Vivo](https://open.spotify.com/track/0fqFKDW0OUuuZSNaQjt8fp) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Besos y Copas Desde Hollywood \(En Vivo\)](https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE) | 3:37 |
 | 18 | [Amiga Si Lo Ves](https://open.spotify.com/track/5FSZ1u0m46BQPGNXZEO5AS) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 4:23 |
-| 19 | [Déjame Volver Contigo](https://open.spotify.com/track/01AVaTct7bSuVvG5HdsGbc) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:59 |
-| 20 | [Cuando Muere una Dama](https://open.spotify.com/track/2WDYkaIeWZOxdnp14Oa71G) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 4:04 |
+| 19 | [Cuando Muere una Dama](https://open.spotify.com/track/2WDYkaIeWZOxdnp14Oa71G) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 4:04 |
+| 20 | [Déjame Volver Contigo](https://open.spotify.com/track/01AVaTct7bSuVvG5HdsGbc) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:59 |
 | 21 | [A Que No Le Cuentas \- Banda](https://open.spotify.com/track/6JcN0pwRcegqH1hyZcID15) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:02 |
 | 22 | [Cuanto Te Debo](https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:40 |
-| 23 | [Paloma Negra \- Live](https://open.spotify.com/track/4slj1zrClwJSLdUNLezp4f) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Diva en Vivo](https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce) | 3:46 |
-| 24 | [No Me Pregunten por Él](https://open.spotify.com/track/5Nj0RXNoIlEarYJPo6VWJR) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 3:40 |
+| 23 | [No Me Pregunten por Él](https://open.spotify.com/track/5Nj0RXNoIlEarYJPo6VWJR) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 3:40 |
+| 24 | [Paloma Negra \- Live](https://open.spotify.com/track/4slj1zrClwJSLdUNLezp4f) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Diva en Vivo](https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce) | 3:46 |
 | 25 | [Chuper Amigos](https://open.spotify.com/track/6h8oQHda1vXeex187OLud3) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 4:05 |
 | 26 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
 | 27 | [Se Las Voy a Dar a Otro](https://open.spotify.com/track/43BemmCZRTcjYDnT7HqJWW) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Se las Voy a Dar a Otro](https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum) | 3:35 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 43 | [Cuando Me Acuerdo de Ti](https://open.spotify.com/track/1jiTEN8iyh2GerskBrVm2M) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 3:21 |
 | 44 | [Así Fue \- Pop](https://open.spotify.com/track/7G9UBSP0u8EEDWNaadXnZU) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 4:37 |
 | 45 | [Sufriendo a Solas \- En Vivo](https://open.spotify.com/track/2MhTfp7RJMUi7eGgltSyLW) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Paloma Negra Desde Monterrey \(En Vivo\)](https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN) | 3:20 |
-| 46 | [Juro Que Nunca Volvere](https://open.spotify.com/track/7zf9VnCyarordJgf4lbDk4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 2:40 |
-| 47 | [Pedacito de Mí](https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [Misión Cumplida](https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg) | 3:30 |
+| 46 | [Pedacito de Mí](https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [Misión Cumplida](https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg) | 3:30 |
+| 47 | [Juro Que Nunca Volvere](https://open.spotify.com/track/7zf9VnCyarordJgf4lbDk4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 2:40 |
 | 48 | [Porque Me Gusta a Morir \- Pop](https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 5:09 |
 | 49 | [Que Me Entierren Cantando](https://open.spotify.com/track/2Ua5F25WKWQlBvn5TJ16zH) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Que Me Entierren Cantando](https://open.spotify.com/album/4hjDQbHAwRClqICJ95ynKC) | 3:44 |
 | 50 | [Por un Amor Cucurrucucu Paloma](https://open.spotify.com/track/0SoWXX2bEslbR4lmoTFwk7) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 3:42 |
 
-Snapshot ID: `MCxlZGM3YjRlMzJkNDgyY2U2ZmViZjc0MjEwMWM2MWY0OGUzOWE4YTI4`
+Snapshot ID: `MCxmZDRmYjU2NjA2YjQxNDIyMjI0NDg1ZDAyODc1ODNiZWZmY2NhZDcy`

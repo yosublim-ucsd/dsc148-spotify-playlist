@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Find Our Way](https://open.spotify.com/track/2OLab4G373tu39KBrJ50sg) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Find Our Way](https://open.spotify.com/album/28MsBuhgOd6FMJvf8N3glq) | 3:31 |
+| 1 | [Find Our Way](https://open.spotify.com/track/6AnfMLy1PUABObY0PTzLIe) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Find Our Way](https://open.spotify.com/album/3McxYRPPlSHCHOgUAYntyf) | 3:31 |
 | 2 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 |
 | 3 | [Be Slow](https://open.spotify.com/track/3j2SaDGyzZhiifh5g5tmNw) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/2dUqjfW3uN8obZ6i1XnHCZ) | 3:25 |
 | 4 | [Resin](https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Resin](https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX) | 3:23 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 37 | [It's Easier When You're Standing There](https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:47 |
 | 38 | [CAMPFIRE](https://open.spotify.com/track/5LzJ0hTz5LBYjSKT7YUQLU) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/08AjlivRrk28r7U8j5eI8p) | 3:00 |
 | 39 | [Every Side Of You](https://open.spotify.com/track/1tLQcfwXi8Hbu4hamp7tQ5) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:24 |
-| 40 | [Smile At The Party](https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8) | [The Happiest Kind of Sad](https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q) | [Smile At The Party](https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7) | 4:26 |
-| 41 | [Milk & Honey](https://open.spotify.com/track/0g9PpERyTEuKV4mgKhrudQ) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Nothing to Lose](https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp) | 3:51 |
+| 40 | [Milk & Honey](https://open.spotify.com/track/0g9PpERyTEuKV4mgKhrudQ) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Nothing to Lose](https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp) | 3:51 |
+| 41 | [Smile At The Party](https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8) | [The Happiest Kind of Sad](https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q) | [Smile At The Party](https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7) | 4:26 |
 | 42 | [Book Full Of Answers](https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Bloodline](https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd) | 5:00 |
 | 43 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 |
 | 44 | [The Coffee Song](https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Summer Nights](https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j) | 3:08 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 59 | [Kick](https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Kick](https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma) | 3:27 |
 | 60 | [Hold You](https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Hold You Tapes](https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ) | 3:46 |
 
-Snapshot ID: `MCw2YmQzNTIwNzNlODExMzBjZTc2NjhlNmM0NDg3YTgwNjhmNDNlOGNk`
+Snapshot ID: `MCxjNWVjOGJkZTgwYTlkNjQzOGZhNzdjMjBiMzQwOTQ1YmQzYzA1NzQ1`

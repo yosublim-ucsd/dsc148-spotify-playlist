@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,807 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,180 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 15 | [Just A Lil Bit](https://open.spotify.com/track/6Wwi5V7VAR9KOo8c9gksh1) | [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn), [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv), [Flyn Stoned](https://open.spotify.com/artist/0O7upj4KBKaTdQJ6WM0m9k) | [Just A Lil Bit](https://open.spotify.com/album/4XjtQUIBZEkOiGLXbUwEoe) | 2:08 |
 | 16 | [Get Low](https://open.spotify.com/track/6o2FQGObDH7kCpYlvJH2ai) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o) | [Get Low](https://open.spotify.com/album/7vjky38QfkVvkXF1ueWyZT) | 3:41 |
 | 17 | [Back Bus](https://open.spotify.com/track/68bVj4NZy2dwUE5tLsQ2uw) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Back Bus](https://open.spotify.com/album/39TgObxwNtrXq1GAK2oo2L) | 2:57 |
-| 18 | [The Motto](https://open.spotify.com/track/5r6axyEqpdxog8T8u6gm5D) | [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd), [Newroad](https://open.spotify.com/artist/7fMVmvW8MFpSAeJBHAbyf9), [DVNAIR](https://open.spotify.com/artist/61A7lqEfBx8ghvKGtzWqWU), [Snoblack](https://open.spotify.com/artist/03ED5pKDk5KVVlCEtxH2bX) | [The Motto](https://open.spotify.com/album/4HoTfH5ggbjjTSH8rP7eHQ) | 2:54 |
-| 19 | [S.O.M.F](https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [S.O.M.F](https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb) | 2:30 |
+| 18 | [S.O.M.F](https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [S.O.M.F](https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb) | 2:30 |
+| 19 | [The Motto](https://open.spotify.com/track/5r6axyEqpdxog8T8u6gm5D) | [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd), [Newroad](https://open.spotify.com/artist/7fMVmvW8MFpSAeJBHAbyf9), [DVNAIR](https://open.spotify.com/artist/61A7lqEfBx8ghvKGtzWqWU), [Snoblack](https://open.spotify.com/artist/03ED5pKDk5KVVlCEtxH2bX) | [The Motto](https://open.spotify.com/album/4HoTfH5ggbjjTSH8rP7eHQ) | 2:54 |
 | 20 | [Warning \(feat\. Gappy Ranks\) \[Bou Remix\] \- Mixed](https://open.spotify.com/track/3UI3j5kpGGsp7TFdEuglMF) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Gappy Ranks](https://open.spotify.com/artist/4rkmaLySgI7sl9cKfJ3tT8), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Honey, I Shrunk The Rave, Vol\. 1 \(DJ Mix\)](https://open.spotify.com/album/0Jn2rXkgAYZYcdqAi42FL7) | 1:05 |
 | 21 | [Magic Violin](https://open.spotify.com/track/1VlHp8KvN31LdtDC9orfyV) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7) | [Magic Violin](https://open.spotify.com/album/6oRdtpTdhRpyAZQlQGNCMB) | 2:16 |
 | 22 | [JEEP](https://open.spotify.com/track/2gUGnkgQaNTpfo2d5hZNPT) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [JEEP](https://open.spotify.com/album/0bKFhX2Ybcf4PMtArNZa5c) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 49 | [Sweet Dreams](https://open.spotify.com/track/55LIJtZUzyhtSgR4Kp6hHC) | [ROWKA](https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Sweet Dreams](https://open.spotify.com/album/2iDZUi1B2nw1T3SHY8RGjJ) | 2:32 |
 | 50 | [Candy Shop](https://open.spotify.com/track/1fNw8Z9NynJC5VABh2u36Z) | [BeeBars](https://open.spotify.com/artist/7b3md5axPpNqk3S71GuV62), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [Candy Shop](https://open.spotify.com/album/58cznlUcyL1SOMM3yC9Q0K) | 2:20 |
 
-Snapshot ID: `MCw1OGVhMzZhODQ4NTFlMDEyMzM4OTJjNTQ1NDQ4ZGJhOTc2MGZjNTVi`
+Snapshot ID: `MCwzMzhlYzQ3OGI5NzhmMjBiY2I3YmE5NDgzZDA5MTNkOGRiM2E2NTVk`

@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 602250,
+  "num_followers": 602302,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWZhNDE5MDVkOTI3NmFkOWUxNjdlOTIxZDdiOTAzYzU3ZjYzMmU4",
+  "snapshot_id": "MCxkMmM2MWEyZGIxMDdlNTgwOWNhYmRhNTJjYWVmMzcwMTNmOGNhZDkz",
   "tracks": [
     {
       "added_at": null,
@@ -43,26 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -75,6 +55,22 @@
       "duration_ms": 238466,
       "name": "Saving All My Love for You",
       "url": "https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "My Love Is Your Love",
+      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
     },
     {
       "added_at": null,
@@ -111,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "My Love Is Your Love",
-      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 275533,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 272893,
+      "name": "When You Believe - from The Prince of Egypt",
+      "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
     },
     {
       "added_at": null,
@@ -175,26 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 272893,
-      "name": "When You Believe - from The Prince of Egypt",
-      "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -227,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enrique",
         "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
       },
@@ -243,22 +239,6 @@
       "duration_ms": 235293,
       "name": "Could I Have This Kiss Forever",
       "url": "https://open.spotify.com/track/01qCxvpyyIm0a0RG3uYxEm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
     },
     {
       "added_at": null,
@@ -675,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Whitney",
-        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 221866,
-      "name": "You Light Up My Life",
-      "url": "https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Look To You",
         "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
       },
@@ -707,6 +671,22 @@
       "duration_ms": 229733,
       "name": "Like I Never Left (feat. Akon)",
       "url": "https://open.spotify.com/track/5qIB8RslPO78tG7S9SN3FX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Whitney",
+        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 221866,
+      "name": "You Light Up My Life",
+      "url": "https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT"
     },
     {
       "added_at": null,
@@ -747,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Whitney",
-        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 255733,
-      "name": "One Of Those Days",
-      "url": "https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Look To You",
         "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
       },
@@ -775,6 +739,22 @@
       "duration_ms": 248266,
       "name": "Call You Tonight",
       "url": "https://open.spotify.com/track/16U3RJaytxelZKAVWMAsH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Whitney",
+        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 255733,
+      "name": "One Of Those Days",
+      "url": "https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg"
     },
     {
       "added_at": null,
@@ -863,6 +843,26 @@
       "duration_ms": 299800,
       "name": "Something In Common",
       "url": "https://open.spotify.com/track/3D6xxbFiyPRduSUowHbjSP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6HDAmq44l2v1QUObhZQjJE"
+      },
+      "artists": [
+        {
+          "name": "Bobby Brown",
+          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 52866,
+      "name": "Intro Nobody Does It Better",
+      "url": "https://open.spotify.com/track/3HEDa6j8864iw4yMcrC6Fz"
     }
   ],
   "unique_name": "This Is Whitney Houston",

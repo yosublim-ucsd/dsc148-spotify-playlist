@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 2558,
+  "num_followers": 2559,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2MxMTBhY2RlODI4MGU3NjI1MjJhNmM5YjkyNzNiNThiNmY4Zjgz",
+  "snapshot_id": "MCw1MzI3MjNhOGU3MTdmNmZlNjZmMjEyYmNiMDFhMTNjNDI5ODdiZGMw",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sabotage 50",
+        "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
+      },
+      "artists": [
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 234090,
+      "name": "Respeito \u00c9 Pra Quem Tem - Sabotage 50",
+      "url": "https://open.spotify.com/track/13aWuppoBBo1SiRkJl6E6d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tanto Faz",
         "url": "https://open.spotify.com/album/3C0DYA08H30vEvi78i7A2B"
       },
@@ -351,22 +375,6 @@
       "duration_ms": 301182,
       "name": "Met\u00e1fora",
       "url": "https://open.spotify.com/track/4TnLiCiAgtobVussVvGmW5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stephen King",
-        "url": "https://open.spotify.com/album/2SixEfADecvtERCCUXwQej"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Stephen King",
-      "url": "https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92"
     },
     {
       "added_at": null,
@@ -419,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stephen King",
+        "url": "https://open.spotify.com/album/2SixEfADecvtERCCUXwQej"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Stephen King",
+      "url": "https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baby Chefe",
         "url": "https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ"
       },
@@ -435,26 +459,6 @@
       "duration_ms": 140220,
       "name": "Mo Parada",
       "url": "https://open.spotify.com/track/2slnZo9tCJUEnIi5Db8f63"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "POSTURADA",
-        "url": "https://open.spotify.com/album/3F6LShFIMQmNiD1qTc6zf8"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "POSTURADA",
-      "url": "https://open.spotify.com/track/0euWggV5fDuqETOiM7q9Fy"
     },
     {
       "added_at": null,
@@ -507,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "POSTURADA",
+        "url": "https://open.spotify.com/album/3F6LShFIMQmNiD1qTc6zf8"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "POSTURADA",
+      "url": "https://open.spotify.com/track/0euWggV5fDuqETOiM7q9Fy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
@@ -531,30 +555,6 @@
       "duration_ms": 190758,
       "name": "Irreal",
       "url": "https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "24 Horas",
-        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
-      },
-      "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 206197,
-      "name": "24 Horas",
-      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
     },
     {
       "added_at": null,
@@ -603,26 +603,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Respeito \u00c9 Pra Quem Tem",
-        "url": "https://open.spotify.com/album/67HLqaZEz4uQoOb4Pf9uoE"
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
       },
       "artists": [
         {
-          "name": "Sabotage",
-          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         }
       ],
-      "duration_ms": 234090,
-      "name": "Respeito \u00c9 Pra Quem Tem",
-      "url": "https://open.spotify.com/track/7yR749AmdqgnIrl393nYIo"
+      "duration_ms": 206197,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
     },
     {
       "added_at": null,
@@ -699,6 +699,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trono de Vidro",
+        "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Thamiris",
+          "url": "https://open.spotify.com/artist/4mIvneZNoJwl8pLlfPBMOn"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 161896,
+      "name": "Paz Terr\u00edvel",
+      "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Copy",
         "url": "https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX"
       },
@@ -731,34 +759,6 @@
       "duration_ms": 181778,
       "name": "Copy",
       "url": "https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trono de Vidro",
-        "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Thamiris",
-          "url": "https://open.spotify.com/artist/4mIvneZNoJwl8pLlfPBMOn"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 161896,
-      "name": "Paz Terr\u00edvel",
-      "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
     },
     {
       "added_at": null,

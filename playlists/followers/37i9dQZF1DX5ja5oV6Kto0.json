@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 92262,
+  "2024-04-05": 92306,
   "date_first_scraped": "2021-12-29",
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Tim Lyre & BOJ",
   "name": "Alt\u00e9 Cruise",
@@ -12625,10 +12625,32 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 187242,
       "name": "Vitamin D",
       "url": "https://open.spotify.com/track/65aPujtCATKAH8IgGQPt4t"
+    },
+    {
+      "album": {
+        "name": "Vitamin D / Dey Play",
+        "url": "https://open.spotify.com/album/5ZR8Ae56tRPjiEB2fOGt4h"
+      },
+      "artists": [
+        {
+          "name": "3rty",
+          "url": "https://open.spotify.com/artist/1tf6tPWbSTGpFgNo9IAP8U"
+        },
+        {
+          "name": "WeTalkSound",
+          "url": "https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187242,
+      "name": "Vitamin D",
+      "url": "https://open.spotify.com/track/38wwH8rLOM07KQ2iYscUiY"
     },
     {
       "album": {

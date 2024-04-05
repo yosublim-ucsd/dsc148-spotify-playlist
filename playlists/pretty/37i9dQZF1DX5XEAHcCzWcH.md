@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,974 likes - 66 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,018 likes - 66 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 20 | [If I Hadn't Been High](https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 4:06 |
 | 21 | [Hastings Street](https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Presenting Blind Blake](https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd) | 3:10 |
 | 22 | [Ain't Times Hard](https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu) | [Nick Moss & The Flip Tops](https://open.spotify.com/artist/41z6z2F1HddUUSPOtOhhuk), [Barrelhouse Chuck](https://open.spotify.com/artist/5xdyzBf4bTgRC13sG3dShO), [Kate Moss](https://open.spotify.com/artist/3IP1UVkxCwvyb5wdQVn269) | [Count Your Blessings](https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl) | 4:01 |
-| 23 | [Ooh La La](https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [La cave saravah, vol.1](https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa) | 6:09 |
-| 24 | [Feel So Blue](https://open.spotify.com/track/6e17J4IMLiJ58JWxkisxPi) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 5:21 |
+| 23 | [Feel So Blue](https://open.spotify.com/track/6e17J4IMLiJ58JWxkisxPi) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 5:21 |
+| 24 | [Ooh La La](https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [La cave saravah, vol.1](https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa) | 6:09 |
 | 25 | [Boogie Woogie Country Girl](https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:57 |
 | 26 | [Lovesick Soul](https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Sonet Blues Story](https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0) | 3:56 |
 | 27 | [Booker's Boogie](https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues On The Prowl](https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N) | 3:37 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 38 | [Somebody To Shack](https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 5:22 |
 | 39 | [New York City Blues](https://open.spotify.com/track/5dI7AFyk5idEj94ra4F5Y8) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Afterglow](https://open.spotify.com/album/6AWwvurjj21QEBbOucDWUQ) | 4:00 |
 | 40 | [Key to the Highway](https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB) | [Johnnie Johnson](https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY) | [Johnnie B\. Bad](https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD) | 3:22 |
-| 41 | [Long Way Home](https://open.spotify.com/track/2psY6edqjF6QMnC8v1Aitj) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [New Shade of Blue](https://open.spotify.com/album/7LCPGWetHUe8llQPpRacoh) | 4:22 |
-| 42 | [Everytime I Get to Drinking](https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [I Didn't Give a Damn If Whites Bought It, Vol\. 4](https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8) | 4:15 |
+| 41 | [Everytime I Get to Drinking](https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [I Didn't Give a Damn If Whites Bought It, Vol\. 4](https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8) | 4:15 |
+| 42 | [Long Way Home](https://open.spotify.com/track/2psY6edqjF6QMnC8v1Aitj) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [New Shade of Blue](https://open.spotify.com/album/7LCPGWetHUe8llQPpRacoh) | 4:22 |
 | 43 | [Tipitina](https://open.spotify.com/track/764IqpFAE6Xe7WVXavGchU) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD), [Tipitina’s Record Club](https://open.spotify.com/artist/2obtJE8R0kU7EiJoyEXKAQ) | [Fess at Home](https://open.spotify.com/album/5mRGdyNwVwCvVG8g3FiMCO) | 3:51 |
 | 44 | [The Blues Ain't Nothing](https://open.spotify.com/track/0kxvYuAulT8gtAJQMnM52H) | [Julian Fauth](https://open.spotify.com/artist/1q89DTds6UuLXJ9SINH3wr), [Curley Bridges](https://open.spotify.com/artist/734B42JrhaNf5z7J5MvIus) | [Blues Piano\-Rama](https://open.spotify.com/album/1kVLClgeJAWwohZHPbqLGx) | 5:46 |
 | 45 | [Pink Champagne](https://open.spotify.com/track/4NIC2PekIelrjo4DBbGhXG) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/artist/61zdmia3oH5vUieNIqI7iI) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 3:00 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 65 | [My Baby's Gone](https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29) | [Lazy Bill Lucas](https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq) | [Best of Blues Vol\. 6: Postwar Chicago Blues III \(Collection Gerard Herzhaft \- Remastered\)](https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ) | 2:46 |
 | 66 | [Train](https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C) | [Victor Wainwright](https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9) | [Victor Wainwright and the Train](https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p) | 3:35 |
 
-Snapshot ID: `MCwxZGU2YTkyMzkwNzEyZjMyZGI2MTBmYjI0YzYwN2E2ODRjZDQ5NTA0`
+Snapshot ID: `MCw5OWZkNWY4MzIyYTdjYzQyMTNhYzE1OWQzM2Q4ODQxOTc3OThlMTk1`

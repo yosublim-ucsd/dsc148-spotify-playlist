@@ -1211,6 +1211,32 @@
     },
     {
       "album": {
+        "name": "Qaseeda Burda Shareef",
+        "url": "https://open.spotify.com/album/3f8QBRJQTeLfkNrn7nJ5PP"
+      },
+      "artists": [
+        {
+          "name": "Rakae Jamil",
+          "url": "https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa"
+        },
+        {
+          "name": "Farhan Ali",
+          "url": "https://open.spotify.com/artist/1sYPIiSyj5kE6TjQcvEvb1"
+        },
+        {
+          "name": "Kumail Jaffery",
+          "url": "https://open.spotify.com/artist/5Wo2MMvWR5cQCwnYcSkrO3"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94545,
+      "name": "Qaseeda Burda Shareef",
+      "url": "https://open.spotify.com/track/64RWnOGArhYhDktVQlmAoE"
+    },
+    {
+      "album": {
         "name": "Gulzar e Madina, Vol. 2",
         "url": "https://open.spotify.com/album/7kQP5I9bMRI24rA3NPm3aX"
       },

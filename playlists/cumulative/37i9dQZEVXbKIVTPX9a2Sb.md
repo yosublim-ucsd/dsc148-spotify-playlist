@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-1,695 songs - 3 day 16 hr 13 min
+1,696 songs - 3 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-08-31 | 2021-09-03 |
 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 | 2022-06-08 | 2023-09-04 |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-06-19 | 2023-03-27 |
+| [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-04-04 |  |
 | [Bengoro je spátky](https://open.spotify.com/track/1IeN7M0Y3Bqx8ghf2bch2d) | [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI), [Maxo](https://open.spotify.com/artist/2bMK1E4UuQDy2rMXNP5s6t) | [Bengoro II](https://open.spotify.com/album/77ay6hjwXyrxwnmuvM0RKJ) | 4:41 | 2023-12-16 | 2024-01-08 |
 | [Bengoro je spátky](https://open.spotify.com/track/6vaxL5p0Ig8dQdFHM9Qut3) | [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI), [Maxo](https://open.spotify.com/artist/2bMK1E4UuQDy2rMXNP5s6t) | [Bengoro je spátky](https://open.spotify.com/album/22xQkCjPMIhuFJ6fjP76JF) | 4:41 | 2023-11-21 | 2023-12-17 |
 | [Benz](https://open.spotify.com/track/1iOXr3xZSuF62boF7ygB6L) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:04 | 2023-02-04 | 2023-06-23 |
@@ -958,7 +959,7 @@
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-07-21 | 2021-11-05 |
 | [Nejlepší Droga Je Čistá Hlava](https://open.spotify.com/track/6SExA4zbrxF9m8ds37Udq9) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [NobodyListen](https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [J\. EDEN E\-G3N \(\#freekarlo edition\)](https://open.spotify.com/album/6r6i9hynvJcgXARvWHU6UC) | 2:08 | 2022-09-03 | 2022-09-05 |
 | [Nemam](https://open.spotify.com/track/6IkiOTo4WMOTX7JZKlVW8v) | [DJ Prod](https://open.spotify.com/artist/0EjpwNJJ7w0TfwmO6iux9h) | [FRÍ DOM](https://open.spotify.com/album/1UROFg5eknb2TB0PBz2y6E) | 2:47 | 2023-02-14 | 2023-02-16 |
-| [Nemam mood](https://open.spotify.com/track/1BnuGuGGEv1mIpJEmDZ5nq) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [Peter Pann](https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X) | [FLOWDEMORT](https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK) | 3:13 | 2023-04-01 |  |
+| [Nemam mood](https://open.spotify.com/track/1BnuGuGGEv1mIpJEmDZ5nq) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [Peter Pann](https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X) | [FLOWDEMORT](https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK) | 3:13 | 2023-04-01 | 2024-04-05 |
 | [Nemusim nic](https://open.spotify.com/track/5an6AXqBokCZHSnOiXejPt) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [ZVÍŘE](https://open.spotify.com/album/2mUri8z6lHZ85UATqK8nBf) | 3:17 | 2023-11-12 | 2023-11-14 |
 | [Nemusim nic](https://open.spotify.com/track/31cCZp9vkWAeyCQimckXIl) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [NELITUJU / Nemusim nic](https://open.spotify.com/album/7B5Vx6Nw9ojdx6xSRWICck) | 3:18 | 2023-08-07 | 2023-09-16 |
 | [Nemusíme](https://open.spotify.com/track/7zMcZHrLESbzAsUzKeSILI) | [Kontrafakt](https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT) | [Nemusíme](https://open.spotify.com/album/57LrTND0cNK6RzWwwDU2Hp) | 2:32 | 2022-09-10 | 2022-09-26 |

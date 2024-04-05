@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,669 likes - 104 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,690 likes - 104 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 33 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 |
 | 34 | [Playground](https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Playground](https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP) | 3:52 |
 | 35 | [Run em Down](https://open.spotify.com/track/6p2qoyg0qauFKy84UMjbmu) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Run em Down](https://open.spotify.com/album/5Ow8sD6GpoqXtfNglsxtwY) | 2:36 |
-| 36 | [Made of Gold](https://open.spotify.com/track/2dOlQsivPlIDjgISeoTJQw) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:48 |
-| 37 | [Ounana](https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Ounana](https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH) | 2:31 |
+| 36 | [Ounana](https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Ounana](https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH) | 2:31 |
+| 37 | [Made of Gold](https://open.spotify.com/track/2dOlQsivPlIDjgISeoTJQw) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:48 |
 | 38 | [Otomo](https://open.spotify.com/track/59QNyVtGhYoDnpO6T1e4yR) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 6:11 |
 | 39 | [First Flight To Mars](https://open.spotify.com/track/6UKz34hAzN9swLxG4Fz9i4) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e) | [First Flight To Mars](https://open.spotify.com/album/450XgNiRqk6pdeKSIY504s) | 3:07 |
 | 40 | [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 56 | [All I Want](https://open.spotify.com/track/47cmM6ptQ3dH7iQlcWg9ac) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 4:00 |
 | 57 | [DISCO CLOSURE](https://open.spotify.com/track/2tWHLAOwWIalkFEUIYP2fU) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [DISCO CLOSURE](https://open.spotify.com/album/1SHQB1Xh5XJmUWkqpoM2Z3) | 3:23 |
 | 58 | [Daydreaming](https://open.spotify.com/track/2wPc15A83OnyE9QarVRpqA) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Daydreaming](https://open.spotify.com/album/4RBAFTTsu4cWZYkc3HXvvJ) | 3:27 |
-| 59 | [Feel It](https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:51 |
-| 60 | [Can't Sleep](https://open.spotify.com/track/2Uwllv1d2yJHNUrQG7RVLV) | [VENICE](https://open.spotify.com/artist/61CQzFXZaNgVL2fgXOY5kn) | [Can't Sleep](https://open.spotify.com/album/6uUDr2fhcwB5kPacZ4HP5h) | 3:45 |
+| 59 | [Can't Sleep](https://open.spotify.com/track/2Uwllv1d2yJHNUrQG7RVLV) | [VENICE](https://open.spotify.com/artist/61CQzFXZaNgVL2fgXOY5kn) | [Can't Sleep](https://open.spotify.com/album/6uUDr2fhcwB5kPacZ4HP5h) | 3:45 |
+| 60 | [Feel It](https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:51 |
 | 61 | [Look](https://open.spotify.com/track/2UnYp6QyIXKJiDF0tB8Smy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/47QcF8U1SLWFGCqU2pmRxJ) | 2:48 |
 | 62 | [Tenía Razón](https://open.spotify.com/track/13byK69wHdWtPt0QdgDPfw) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Tenía Razón](https://open.spotify.com/album/3PJCE4qTFbyW9XXFyR0wO9) | 2:53 |
 | 63 | [Prettier Than You](https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Prettier Than You](https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg) | 3:22 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 72 | [Disturb Them](https://open.spotify.com/track/4fLhRxHy8uJMInhMv4y3zA) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl), [Selecta J\-Man](https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP) | [A State of Hysteria](https://open.spotify.com/album/7yWlq0qOZgYG0uRpCuvfP6) | 3:23 |
 | 73 | [Choose A Life](https://open.spotify.com/track/0H5SDb0KCXx3c4CNjSwktn) | [Wings of Desire](https://open.spotify.com/artist/1M684BN2C8BO9WwB0xeXJo) | [Life Is Infinite](https://open.spotify.com/album/3bu72kr0HlzSAAEIXX8kmq) | 3:26 |
 | 74 | [Hurt Me](https://open.spotify.com/track/4o4iusqhnZGGBruQ8cp8ZA) | [Cryalot](https://open.spotify.com/artist/5MAbo7Vj1N532cmkSN4YIY) | [Icarus](https://open.spotify.com/album/2VNYTjbqZ3rc3AZ4TrKFJw) | 3:23 |
-| 75 | [Jagna](https://open.spotify.com/track/0cnRaqtU77LP6pj0y0Y5tp) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Jagna](https://open.spotify.com/album/5lhcZCY7jbAgjeIjaxnkBg) | 3:41 |
-| 76 | [Skelele](https://open.spotify.com/track/1k6OPAYYh1DawiHZ08djuM) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Skelele](https://open.spotify.com/album/3wQaO7CmLDh4eY6dHNMUNI) | 3:23 |
+| 75 | [Skelele](https://open.spotify.com/track/1k6OPAYYh1DawiHZ08djuM) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Skelele](https://open.spotify.com/album/3wQaO7CmLDh4eY6dHNMUNI) | 3:23 |
+| 76 | [Jagna](https://open.spotify.com/track/0cnRaqtU77LP6pj0y0Y5tp) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Jagna](https://open.spotify.com/album/5lhcZCY7jbAgjeIjaxnkBg) | 3:41 |
 | 77 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 |
 | 78 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 |
 | 79 | [i'm not okay](https://open.spotify.com/track/3GEPiS4iuMdtbtJdO5jBka) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0), [Lil Xtra](https://open.spotify.com/artist/7j8XINhxkD7WS4efrPxbhm), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [monarch](https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y) | 2:35 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 103 | [Leader Of The Pack](https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op), [Ruckspin](https://open.spotify.com/artist/4xVxQGaT49dkkLwlcayoXg) | [Leader Of The Pack](https://open.spotify.com/album/6U2V6suDmD5MxMnUYgSxP4) | 3:39 |
 | 104 | [Green Light \(feat\. Kate Wild\) \- Moksi Remix](https://open.spotify.com/track/0CCbpCeGnyoYxzczLw19wQ) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Green Light \(feat\. Kate Wild\) \[Moksi Remix\]](https://open.spotify.com/album/4Mxc0za7jRSrvLRVV5ZsLD) | 3:10 |
 
-Snapshot ID: `MCxkZTY5NmI3MzFkNjJiODMzYzljMGFmY2RjZTAyNGMyYmRjM2E3NWFl`
+Snapshot ID: `MCw3ODU1YzE2OTRmMTYzNzk0Mjk1MjZiNGIwMzU4ZWJlNjVjMzZmYTcw`

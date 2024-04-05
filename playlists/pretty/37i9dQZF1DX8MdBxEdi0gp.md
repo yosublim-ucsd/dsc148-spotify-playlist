@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,153 likes - 125 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,208 likes - 125 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 21 | [Muchachita](https://open.spotify.com/track/3PyTaC8BN0de4KfYaQDtBs) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [Coleccion Original](https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh) | 3:29 |
 | 22 | [O Quizás Simplemente Le Regale una Rosa](https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:19 |
 | 23 | [Veinticinco Rosas](https://open.spotify.com/track/5ZsKEtkOiiPe5h87OEusdM) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:00 |
-| 24 | [Te Juro Que Te Amo](https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 4:01 |
-| 25 | [Melina](https://open.spotify.com/track/3utK0tH0YhlB5fIjdy3em7) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Amor Libre](https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8) | 2:50 |
+| 24 | [Melina](https://open.spotify.com/track/3utK0tH0YhlB5fIjdy3em7) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Amor Libre](https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8) | 2:50 |
+| 25 | [Te Juro Que Te Amo](https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 4:01 |
 | 26 | [Lamento De Amor](https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 |
 | 27 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 |
 | 28 | [Un Velero Llamado Libertad](https://open.spotify.com/track/2eKBLX1uF9PgvJ6qqGwmRZ) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Tiempo de otoño](https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua) | 3:42 |
@@ -84,13 +84,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 74 | [Ahora y siempre](https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:53 |
 | 75 | [La Barca](https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 3:17 |
 | 76 | [Hipocresía](https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 4:19 |
-| 77 | [Esa Triste Guitarra](https://open.spotify.com/track/0OA9C6PLBsWYA3LDljB0E3) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 3:59 |
-| 78 | [Volveré](https://open.spotify.com/track/0AthnRlNudLf39MtPC4pW0) | [Sergio Facheli](https://open.spotify.com/artist/01m1wCfDdju4f7neFjjmqk) | [Hay Amores..\. Y Amores](https://open.spotify.com/album/0wWLi7i2f8XuZYmOvKLvKc) | 3:31 |
+| 77 | [Volveré](https://open.spotify.com/track/0AthnRlNudLf39MtPC4pW0) | [Sergio Facheli](https://open.spotify.com/artist/01m1wCfDdju4f7neFjjmqk) | [Hay Amores..\. Y Amores](https://open.spotify.com/album/0wWLi7i2f8XuZYmOvKLvKc) | 3:31 |
+| 78 | [Esa Triste Guitarra](https://open.spotify.com/track/0OA9C6PLBsWYA3LDljB0E3) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 3:59 |
 | 79 | [El Andariego](https://open.spotify.com/track/7DJt78nE0IFZLMcpumIfiA) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [La Coleccion Del Siglo](https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT) | 2:29 |
 | 80 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 |
-| 81 | [El Corazon Es Un Gitano](https://open.spotify.com/track/7nxkNNVzWpuoBHSBoeKoYJ) | [Nicola Di Bari](https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk) | [15 Exitos En Espanol](https://open.spotify.com/album/7M4jG2ZAe19dGO8K2b8A9Q) | 3:17 |
-| 82 | [Esa Pared](https://open.spotify.com/track/2XMFsuzOo9jWX4LZfs7iwg) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Tesoros de Colección](https://open.spotify.com/album/4OXDMYOuLNW4kcRzbviEfn) | 3:02 |
-| 83 | [Llamarada](https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C) | 3:19 |
+| 81 | [Llamarada](https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C) | 3:19 |
+| 82 | [El Corazon Es Un Gitano](https://open.spotify.com/track/7nxkNNVzWpuoBHSBoeKoYJ) | [Nicola Di Bari](https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk) | [15 Exitos En Espanol](https://open.spotify.com/album/7M4jG2ZAe19dGO8K2b8A9Q) | 3:17 |
+| 83 | [Esa Pared](https://open.spotify.com/track/2XMFsuzOo9jWX4LZfs7iwg) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Tesoros de Colección](https://open.spotify.com/album/4OXDMYOuLNW4kcRzbviEfn) | 3:02 |
 | 84 | [Si Supieras](https://open.spotify.com/track/2c2m8IPUiQaMCjEABKJ1kx) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [La Gran Colección del 60 Aniversario CBS \- Manoella Torres](https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi) | 3:17 |
 | 85 | [Triángulo](https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:10 |
 | 86 | [Corazón Contento](https://open.spotify.com/track/0qdx92wIToNrAAlILjEq0r) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [El Ángel de Palito Ortega](https://open.spotify.com/album/1wg9o2F6AaWONKFekoee0T) | 2:37 |
@@ -127,11 +127,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 117 | [No Llores](https://open.spotify.com/track/5hBkk52TBXZc4buUa7zYIt) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 2:42 |
 | 118 | [Me Muero por Estar Contigo](https://open.spotify.com/track/2rmlXDjM5bV6yL2mhljg7K) | [Silvana Di Lorenzo](https://open.spotify.com/artist/0jmWbTDAKk9k593xUr6Exe) | [Souvenirs](https://open.spotify.com/album/29PMfhdMAXdqGOXok1jQ3k) | 3:52 |
 | 119 | [Quinto patio](https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl) | [Emilio Tuero](https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD) | [Antología..\. Emilio Tuero](https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g) | 2:55 |
-| 120 | [Dónde Estás Corazón?](https://open.spotify.com/track/6mIqd7D0OQZn1Fn3UoBdRW) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Personalidad](https://open.spotify.com/album/2Z3yiPCELhCreq4tgPqK9O) | 3:57 |
-| 121 | [Prisionero Del Mar](https://open.spotify.com/track/3KSqeds9xE8rBDt4QEjrLk) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 3:03 |
-| 122 | [Veracruz](https://open.spotify.com/track/5lI6MgAE8NQSw0QfBBAyrH) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:11 |
+| 120 | [Prisionero Del Mar](https://open.spotify.com/track/3KSqeds9xE8rBDt4QEjrLk) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 3:03 |
+| 121 | [Veracruz](https://open.spotify.com/track/5lI6MgAE8NQSw0QfBBAyrH) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:11 |
+| 122 | [Dónde Estás Corazón?](https://open.spotify.com/track/6mIqd7D0OQZn1Fn3UoBdRW) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Personalidad](https://open.spotify.com/album/2Z3yiPCELhCreq4tgPqK9O) | 3:57 |
 | 123 | [Alguien Como Tú](https://open.spotify.com/track/3MSANqjlRzOAqLT02CPWBM) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 3:54 |
 | 124 | [Estoy Perdido](https://open.spotify.com/track/1vE6UQdo5yrROUgxlhAul2) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Los Tres Ases 50 Años](https://open.spotify.com/album/29B1JAAWH0tcqjqKHJTaXe) | 3:17 |
 | 125 | [Regálame Esta Noche](https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Frente a Frente de Tríos](https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9) | 3:18 |
 
-Snapshot ID: `MCw4YjU1MjJhZTllN2Q3NTliMDlkMTIzZDY4YTUzZDdkZjcyMjgyZTBi`
+Snapshot ID: `MCw4NDQ0YjgyZGFkYTk0NmQ1MGI5MDIzYzI1Yzc5YTAzNWU2ODkzYmZl`

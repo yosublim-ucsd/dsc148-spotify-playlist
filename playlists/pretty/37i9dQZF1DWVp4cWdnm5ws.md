@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon this 2024\. Cover: Hev Abi
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,859 likes - 30 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,400 likes - 30 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 29 | [HBD](https://open.spotify.com/track/5sH9HLm2WfjOHLIMFRZWGm) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [HBD](https://open.spotify.com/album/3XVq8uwst8BgCMnhP8T4bX) | 4:17 |
 | 30 | [Sunday Morning](https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Sunday Morning](https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG) | 3:44 |
 
-Snapshot ID: `MCxlNWQ2NWY2OGI2NTczZTkzY2JkNzg4NDBiNWUxY2ZhYzhjOTA0OWJm`
+Snapshot ID: `MCw3MGRjNzdjOGY3ZmQyZDYzZWFjMTRjYjdiNDFkNTQ5OWQ3YmMwZDhm`

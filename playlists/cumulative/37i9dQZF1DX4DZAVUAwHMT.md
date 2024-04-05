@@ -2,9 +2,9 @@
 
 ### [The Rock List](https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT)
 
-> The UK's biggest rock playlist\. Cover: YUNGBLUD
+> The UK's biggest rock playlist\. Cover: Bob Vylan
 
-531 songs - 1 day 5 hr 2 min
+537 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Birthday Party](https://open.spotify.com/track/6AOkDgCpsnruITzR45dxry) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Birthday Party](https://open.spotify.com/album/7vauaZbyhkFCFizAC9LNY7) | 3:17 | 2023-09-14 | 2023-11-17 |
 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 | 2023-03-08 | 2023-03-09 |
 | [Bite Through My Tongue](https://open.spotify.com/track/1cPGuicrSNjZhIocQaRNOV) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Bite Through My Tongue](https://open.spotify.com/album/5JkNcCBmKSAkTR4fDllwhm) | 3:28 | 2023-12-01 | 2024-01-12 |
+| [BLACK DOG / WHITE HORSE \- bd/wh](https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE \(bd/wh\)](https://open.spotify.com/album/1ocPyuuqpJiFvNJ4j8E66d) | 3:08 | 2024-04-05 |  |
 | [BLACK HEARSE](https://open.spotify.com/track/2TcdALHDcTIeaKhqJDaej1) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Family Drama](https://open.spotify.com/album/2FlBZwnnKhHR2fYleJY3de) | 2:28 | 2023-10-06 | 2023-11-10 |
 | [Black Heaven](https://open.spotify.com/track/5sBIKzKB3cAfE6z2QdBAV7) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Black Heaven](https://open.spotify.com/album/2i6MDCGEj3nliKtuwsfbYQ) | 4:15 | 2023-09-21 | 2023-10-27 |
 | [Black Tank Top](https://open.spotify.com/track/6OTzR46oNM6tZbO0VBBRWr) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [Black Tank Top](https://open.spotify.com/album/6uV6qHsSUlF9BLri72I0qJ) | 3:21 | 2023-01-13 | 2023-03-03 |
@@ -202,6 +203,7 @@
 | [Golden](https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Golden](https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B) | 2:50 | 2023-05-18 | 2023-07-28 |
 | [Gone](https://open.spotify.com/track/22ojMFNGAc4oBfA6272edB) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Gone](https://open.spotify.com/album/0ETC5QumiirwSYNqwXFvey) | 3:06 | 2024-01-26 | 2024-03-22 |
 | [GOOD ENEMY](https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GOOD ENEMY](https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg) | 2:10 | 2023-03-30 | 2023-07-28 |
+| [Good Time](https://open.spotify.com/track/5HuLnaRoHZTcgu2GMAbLGJ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Good Time](https://open.spotify.com/album/0OnblvmyOmNIlMGL6rxLWx) | 3:06 | 2024-04-05 |  |
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 | 2023-01-13 | 2023-04-28 |
 | [Groundhog Day](https://open.spotify.com/track/2ko8dvhLWtjJLpVRP0MsSy) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Groundhog Day](https://open.spotify.com/album/2ex4Ft73QrAjK7oFwwejjH) | 1:50 | 2023-02-24 | 2023-04-14 |
 | [hair out](https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:40 | 2023-03-08 | 2023-03-09 |
@@ -315,6 +317,7 @@
 | [Meet You There 2.0](https://open.spotify.com/track/2VXnCZzPB9lOm19D1TDX0S) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Meet You There 2.0](https://open.spotify.com/album/0jKCIVawS2LS6yUl24YNdb) | 3:22 | 2023-05-04 | 2023-06-30 |
 | [Memento](https://open.spotify.com/track/2hXILrNult7kzQpMVduV5Y) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Memento](https://open.spotify.com/album/1pHMFUWSlIq6FVFhi1Yn2Q) | 4:11 | 2023-09-07 | 2023-10-13 |
 | [MERCY KILL](https://open.spotify.com/track/2vX1GxoaaomoYsbRy5VjK6) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [MERCY KILL](https://open.spotify.com/album/0XzfAfWHhZlL7WSL6acUnx) | 3:06 | 2023-11-17 |  |
+| [Merry Old England](https://open.spotify.com/track/3BxzLyZAlj0fKDGo9iuw5F) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Merry Old England](https://open.spotify.com/album/1RpgtAy5HNiaRZD1pwCmAb) | 4:49 | 2024-04-05 |  |
 | [Mess It Up](https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:03 | 2023-10-19 | 2024-01-12 |
 | [Messiah](https://open.spotify.com/track/7g4KHyPt8FZigEgVD3AYvT) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Messiah](https://open.spotify.com/album/4yOAahwdVrCD5Rap8bzQQ3) | 3:43 | 2023-06-08 | 2023-08-11 |
 | [Might Love Myself](https://open.spotify.com/track/16Wp9vdeUWQSESvgYFhksa) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Might Love Myself](https://open.spotify.com/album/0ljuBtTppOSas8ZE46yLwa) | 3:39 | 2023-07-20 | 2023-09-22 |
@@ -350,6 +353,7 @@
 | [OK](https://open.spotify.com/track/6biJO3d73OlVb6wf77D3Bp) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [A Fistful of Peaches](https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea) | 3:44 | 2024-03-08 | 2024-03-09 |
 | [Okay That's Me](https://open.spotify.com/track/4GwpXgHffb9W4tW7Ee8uAn) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Okay That's Me](https://open.spotify.com/album/1AlRwqxW1pi4JxP3jthq58) | 3:11 | 2023-01-13 | 2023-02-03 |
 | [On Drugs](https://open.spotify.com/track/5m1ncM2CKxfxsJwlVpgZPf) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [That's Life](https://open.spotify.com/album/0dXzD6JFPdhBEX7q2Zq4NR) | 2:33 | 2023-03-17 | 2023-04-14 |
+| [On The Game](https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 4:02 | 2024-04-05 |  |
 | [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 | 2024-01-08 | 2024-01-19 |
 | [One Man Band](https://open.spotify.com/track/3FrSQvExlKG7OOTjE7Noxq) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [One Man Band](https://open.spotify.com/album/3kHrYmHBC2fi59cNjBbwZn) | 3:38 | 2023-08-09 | 2023-10-13 |
 | [ONE MORE TIME](https://open.spotify.com/track/1ja4311zfLHqUL96poSXfP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:28 | 2023-10-26 | 2024-02-16 |
@@ -393,6 +397,7 @@
 | [REAL SUPER DARK](https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:29 | 2023-04-13 | 2023-05-19 |
 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-01-27 | 2023-04-17 |
 | [REAL SUPER DARK](https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT) | 2:29 | 2023-01-27 | 2023-01-30 |
+| [Reign](https://open.spotify.com/track/10BzlgNU798eToM93q0aWJ) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Humble As The Sun](https://open.spotify.com/album/2ban1kuF669VADhI7VIuXh) | 4:46 | 2024-04-05 |  |
 | [Rejection Anthem](https://open.spotify.com/track/561O5Hj5GjQClcLqWYjvPb) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [GOD SAVE THE KING](https://open.spotify.com/album/2GHfz7mLE2T9KcZvMAhOE6) | 4:13 | 2023-10-06 | 2023-11-10 |
 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 | 2023-04-20 | 2023-05-19 |
 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 | 2023-08-03 | 2023-10-27 |
@@ -430,6 +435,7 @@
 | [silent stranger](https://open.spotify.com/track/7tBbT0mu8TOhDciTPRsOMq) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [silent stranger](https://open.spotify.com/album/3yksUh3OSJ0ZiZiZ4pIfuI) | 3:29 | 2023-09-21 | 2023-11-24 |
 | [Sirens](https://open.spotify.com/track/4eGua701gIqWxYrETSpHGK) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [Sirens](https://open.spotify.com/album/2qqtSS2ug1CM1UncwBi66w) | 3:22 | 2023-02-03 | 2023-03-03 |
 | [Six\-Pack](https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Six\-Pack](https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI) | 3:51 | 2023-01-13 | 2023-02-10 |
+| [Sliding Doors](https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Sliding Doors](https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr) | 3:26 | 2024-04-05 |  |
 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 | 2024-03-08 | 2024-03-09 |
 | [So So Soon](https://open.spotify.com/track/0pbRMdTybJA51v0tUjQv9G) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [So So Soon](https://open.spotify.com/album/5b47ZAEieOQUTSNk2M1ZkP) | 3:48 | 2023-02-03 | 2023-04-21 |
 | [So Sweet I Could Die](https://open.spotify.com/track/7kTBQJiVorqjhoJ3Efed9d) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [So Sweet I Could Die](https://open.spotify.com/album/31m9L9q0WAUAjl7Ulj0vt1) | 2:22 | 2023-05-04 | 2024-03-09 |

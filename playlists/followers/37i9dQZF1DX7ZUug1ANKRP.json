@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 1816389,
+  "2024-04-05": 1816839,
   "date_first_scraped": "2021-12-21",
   "description": "The biggest Dance hits and the ones to come. Cover: CYRIL",
   "name": "Main Stage",
@@ -193,6 +193,32 @@
       "duration_ms": 162352,
       "name": "About You Now (How I Feel)",
       "url": "https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx"
+    },
+    {
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152250,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
     },
     {
       "album": {
@@ -589,7 +615,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 126605,
       "name": "Alles ist relativ",
       "url": "https://open.spotify.com/track/4BtqQnlREUGnCYVASgwOkB"
@@ -1493,7 +1519,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 151589,
       "name": "Boyz In Paris (with VINAI)",
       "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
@@ -2051,7 +2077,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 155885,
       "name": "Crazy (Robin Schulz Presents KOPPY)",
       "url": "https://open.spotify.com/track/3xKMFwysDGJSgXB8Fjj3sX"
@@ -3287,6 +3313,28 @@
       "duration_ms": 135428,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
+    },
+    {
+      "album": {
+        "name": "Explode",
+        "url": "https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Explode",
+      "url": "https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu"
     },
     {
       "album": {
@@ -5793,7 +5841,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 149000,
       "name": "Let You Down (with Gabry Ponte)",
       "url": "https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8"
@@ -6981,6 +7029,28 @@
       "duration_ms": 163598,
       "name": "Monsoon (feat. Tokio Hotel)",
       "url": "https://open.spotify.com/track/5KtDo0LvaAVjRXrIFrYgUF"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
     },
     {
       "album": {
@@ -10243,6 +10313,28 @@
       "duration_ms": 147000,
       "name": "Talk To My Body",
       "url": "https://open.spotify.com/track/1PwN9ebjpov7iwTLHSov7V"
+    },
+    {
+      "album": {
+        "name": "Tarantella",
+        "url": "https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145553,
+      "name": "Tarantella",
+      "url": "https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N"
     },
     {
       "album": {

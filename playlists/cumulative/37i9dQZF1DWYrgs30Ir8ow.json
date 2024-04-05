@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd fris in Fresh Hits. Cover: Goldband",
+  "description": "Altijd fris in Fresh Hits. Cover: Roxy Dekker",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -1286,6 +1286,46 @@
       "duration_ms": 145765,
       "name": "Been Like This",
       "url": "https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV"
+    },
+    {
+      "album": {
+        "name": "Beetje Fout (feat. Yssi SB)",
+        "url": "https://open.spotify.com/album/7JDX9KJ4Z28MDVK8FXUSmT"
+      },
+      "artists": [
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132272,
+      "name": "Beetje Fout (feat. Yssi SB)",
+      "url": "https://open.spotify.com/track/5l4UcCjgarB4LvLuXQ2RlN"
+    },
+    {
+      "album": {
+        "name": "Beetje Verliefd",
+        "url": "https://open.spotify.com/album/0OQRHgSyI54chxRlwZHyW1"
+      },
+      "artists": [
+        {
+          "name": "Alessio",
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136804,
+      "name": "Beetje Verliefd",
+      "url": "https://open.spotify.com/track/1LOimwvdlTnvOqkFJOaD0g"
     },
     {
       "album": {
@@ -1694,7 +1734,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 130241,
       "name": "Bonus",
       "url": "https://open.spotify.com/track/3KXeTMIdec8G6rclrOFKTL"
@@ -3172,7 +3212,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 161058,
       "name": "Emilie",
       "url": "https://open.spotify.com/track/6ipBOO3Iq9J8y9ZnYFW2m9"
@@ -5183,6 +5223,24 @@
     },
     {
       "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189638,
+      "name": "JOLENE",
+      "url": "https://open.spotify.com/track/2PmMh2t7jAtN6cqFooA0Xy"
+    },
+    {
+      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/41i23J7Vzeb4QPWzKJfa8F"
       },
@@ -7027,6 +7085,24 @@
     },
     {
       "album": {
+        "name": "Outside Of Love",
+        "url": "https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175628,
+      "name": "Outside Of Love",
+      "url": "https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5"
+    },
+    {
+      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V"
       },
@@ -8502,7 +8578,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
@@ -8890,6 +8966,24 @@
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "album": {
+        "name": "Sugardaddy",
+        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131796,
+      "name": "Sugardaddy",
+      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
     },
     {
       "album": {
@@ -10854,7 +10948,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 180778,
       "name": "Zoet, Zout, Zuur",
       "url": "https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao"

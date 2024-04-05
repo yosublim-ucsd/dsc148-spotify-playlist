@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Nourished by Time
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274,580 likes - 175 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,274,688 likes - 175 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,7 +167,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 157 | [kill me](https://open.spotify.com/track/3X5L8TzO9nJtHDyxrmsKOl) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [kill me](https://open.spotify.com/album/25VHec5jVAFrZawcFxQKUi) | 2:48 |
 | 158 | [Nostalgia](https://open.spotify.com/track/3mYrfAIQK0DgyYutDVEFGS) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Nostalgia](https://open.spotify.com/album/5SuaQiCSKcNR2qcbDZyJem) | 2:38 |
 | 159 | [Big Brown Eyes \(feat\. Orion Sun\)](https://open.spotify.com/track/0Bo4PwDaG1wBfV4Syj14Xe) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Big Brown Eyes \(feat\. Orion Sun\)](https://open.spotify.com/album/0gsgJuKn4UyUWmResKGKWu) | 3:04 |
-| 160 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 4:03 |
+| 160 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 3:59 |
 | 161 | [Coffee](https://open.spotify.com/track/29GLlaeW4vqFR1JXymZX7d) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Coffee](https://open.spotify.com/album/7yfpuKRPyz3BRm9fAPjGqp) | 2:29 |
 | 162 | [Keep Going](https://open.spotify.com/track/4ho40yA2hY1lnMPMrUSlhg) | [Guster](https://open.spotify.com/artist/34XlPCFfB4vT7P1ekWq9Jc) | [Keep Going](https://open.spotify.com/album/4ViHnXxYrzgR3peo6bWc3C) | 4:08 |
 | 163 | [Years Roll By](https://open.spotify.com/track/0pVG9Vj40uY2Z7D4afDEPT) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO), [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Years Roll By](https://open.spotify.com/album/6mJGloUq4jFTEoEaThnh6i) | 3:09 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Alone At Last](https://open.spotify.com/track/3WcoEtoORwkNP1h6V1CGCE) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [47](https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t) | 2:57 |
 | 175 | [OMG](https://open.spotify.com/track/1Ja2SMhpo6XOjnY0ZWF0Mj) | [Peel](https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ) | [Acid Star](https://open.spotify.com/album/42ybuZX5idfaZBp4yrigBe) | 4:10 |
 
-Snapshot ID: `MCwwYzMwM2I3Mjk4MjliOWNiOTczNmVmYTk1YjE2ZTI0ZDE5MjM1MDc4`
+Snapshot ID: `MCwyNjJkMTI0N2U1NDcwYTIwNTRjYzEyNGU0ZmMwNWE0NzllZjgwMTEz`

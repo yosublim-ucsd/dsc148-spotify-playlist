@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Paris Paloma
 
-1,117 songs - 2 day 15 hr 34 min
+1,118 songs - 2 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1076,7 +1076,8 @@
 | [What You Want](https://open.spotify.com/track/6GY5yMRXIN3tkXgnjbXOWH) | [Zuzu](https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm) | [What You Want](https://open.spotify.com/album/3p5IopEM2vh7z8nZNED2lz) | 3:21 | 2022-08-03 | 2023-01-06 |
 | [What's The Use?](https://open.spotify.com/track/1AnBN4CL7joUFL1nGvEcuj) | [Peaness](https://open.spotify.com/artist/0bHVjNgsMH7b4XxmWhR7Tl) | [What's The Use?](https://open.spotify.com/album/1v2uz5KfPYFfnnVVanCZlw) | 3:20 | 2021-12-08 | 2022-03-09 |
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-04-06 | 2022-05-05 |
-| [Whatever You Want](https://open.spotify.com/track/5vfbSgUkODCDdaZlKBF5Ji) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Over When It's Over](https://open.spotify.com/album/6jDVKFjMqctoXlhxDl0FyW) | 3:40 | 2024-04-03 |  |
+| [Whatever You Want](https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Whatever You Want](https://open.spotify.com/album/3LcMJUKvD40lP4a3AjQVzc) | 3:40 | 2024-04-03 |  |
+| [Whatever You Want](https://open.spotify.com/track/5vfbSgUkODCDdaZlKBF5Ji) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Over When It's Over](https://open.spotify.com/album/6jDVKFjMqctoXlhxDl0FyW) | 3:40 | 2024-04-03 | 2024-04-05 |
 | [When I Say So](https://open.spotify.com/track/28XJPXfzBRT1PxHxHkuB8b) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [When I Say So](https://open.spotify.com/album/63j2ptfGmKCBdR0gx4llJj) | 2:52 | 2023-06-06 | 2023-07-05 |
 | [When Someone Loves You](https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [When Someone Loves You](https://open.spotify.com/album/24WbV4OTp6wQ0BLA9BD8DP) | 4:15 | 2022-09-06 | 2022-10-06 |
 | [When We Remain](https://open.spotify.com/track/5Vj4m4jdnNbfqW5c1AmpTd) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [A Small Death](https://open.spotify.com/album/7veNlo53uwJjMtxwQUTNOx) | 2:50 | 2024-04-03 |  |

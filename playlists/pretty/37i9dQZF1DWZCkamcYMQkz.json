@@ -1,12 +1,12 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 188937,
+  "num_followers": 189137,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTY5Zjc1Yjg5ODhjMmQwMzhiYjBjYjI2MGIzMWQ2OTViZmI0YzM2",
+  "snapshot_id": "MCw0OTViNTlkNTdlM2FhNmRkOWQwNWYwNDQwZjdjM2NjYTQxNTg4ZjQ1",
   "tracks": [
     {
       "added_at": "2024-03-19 14:57:26",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "Little Lulu",
+      "url": "https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
         "name": "It Might as Well Be Spring",
         "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 292706,
       "name": "It Might as Well Be Spring",
       "url": "https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 231133,
-      "name": "Little Lulu",
-      "url": "https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "My Kinda Swing",
-        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "See See Rider",
-      "url": "https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
         "name": "Exclusively for My Friends: Girl Talk, Vol. II",
         "url": "https://open.spotify.com/album/3UL145zQyFoPH9WCRDUD3f"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 261609,
       "name": "On a Clear Day (You Can See Forever) - Live",
       "url": "https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
+        "name": "My Kinda Swing",
+        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "See See Rider",
+      "url": "https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
         "name": "Things Are Swingin'",
         "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 130199,
       "name": "Ridin' High",
       "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
+        "name": "It's Time For Ernestine",
+        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 134973,
+      "name": "Love for Sale",
+      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
         "name": "Sarah Vaughan",
         "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 306133,
       "name": "It's Crazy",
       "url": "https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
-        "name": "It's Time For Ernestine",
-        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 134973,
-      "name": "Love for Sale",
-      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Jazz Masters 35: Johnny Hodges",
-        "url": "https://open.spotify.com/album/4fPxmVU9pLV7SVfIKFkDLr"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        },
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 447200,
-      "name": "Back Beat",
-      "url": "https://open.spotify.com/track/1EDPO11fsLlQvGBhzxprqS"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
         "name": "Getz Meets Mulligan In Hi-Fi",
         "url": "https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 219266,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/1VGjnaotsGHOoYBgPkfskN"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
+        "name": "Jazz Masters 35: Johnny Hodges",
+        "url": "https://open.spotify.com/album/4fPxmVU9pLV7SVfIKFkDLr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 447200,
+      "name": "Back Beat",
+      "url": "https://open.spotify.com/track/1EDPO11fsLlQvGBhzxprqS"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Far Away Lands",
-        "url": "https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "A Dab Of This And That",
-      "url": "https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI"
-    },
-    {
-      "added_at": "2024-03-19 14:57:26",
-      "album": {
         "name": "Not So Dukish",
         "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 205373,
       "name": "Central Park Swing",
       "url": "https://open.spotify.com/track/0LsYGVyyGCAvCX8bf2I2vO"
+    },
+    {
+      "added_at": "2024-03-19 14:57:26",
+      "album": {
+        "name": "Far Away Lands",
+        "url": "https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "A Dab Of This And That",
+      "url": "https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI"
     },
     {
       "added_at": "2024-03-19 14:57:26",
@@ -1683,18 +1683,26 @@
     {
       "added_at": "2024-03-19 14:57:26",
       "album": {
-        "name": "Autumn In New York",
-        "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
+        "name": "Yesterdays",
+        "url": "https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX"
       },
       "artists": [
         {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Gary Peacock",
+          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
         }
       ],
-      "duration_ms": 144840,
-      "name": "The Best Things In Life Are Free",
-      "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
+      "duration_ms": 497973,
+      "name": "Sleepin' Bee - Live",
+      "url": "https://open.spotify.com/track/2JHZAzNRrbZb2XV7UoJy8t"
     },
     {
       "added_at": "2024-03-19 14:57:26",

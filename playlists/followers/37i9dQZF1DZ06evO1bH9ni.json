@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 318670,
+  "2024-04-05": 318716,
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
   "name": "This Is Los Dos Carnales",
@@ -759,10 +759,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 168542,
       "name": "Home Run",
       "url": "https://open.spotify.com/track/4RpMlYxvcb2jIWhQzZOOsZ"
+    },
+    {
+      "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168542,
+      "name": "Home Run",
+      "url": "https://open.spotify.com/track/4wsxPS9JoTlBfsUmdgYFiC"
     },
     {
       "album": {

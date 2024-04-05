@@ -4044,7 +4044,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 101102,
       "name": "Gustico",
       "url": "https://open.spotify.com/track/6v1VUTkjfJqIcZRMXizPGa"
@@ -4070,6 +4070,24 @@
       "duration_ms": 120215,
       "name": "Hablo",
       "url": "https://open.spotify.com/track/0yoWG7P5ViDLDcT5RjfEFR"
+    },
+    {
+      "album": {
+        "name": "HAY LUPITA",
+        "url": "https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105836,
+      "name": "HAY LUPITA",
+      "url": "https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed"
     },
     {
       "album": {
@@ -7240,7 +7258,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 150991,
       "name": "Oao",
       "url": "https://open.spotify.com/track/16tsUHnekjoAdvZ06yHDbI"
@@ -9690,6 +9708,24 @@
       "duration_ms": 305500,
       "name": "Suave (Remix) [feat. Bryant Myers, Jon Z, Miky Woodz, Noriel & Plan B]",
       "url": "https://open.spotify.com/track/4joSWXgF9JfbeVtsEA3Bb4"
+    },
+    {
+      "album": {
+        "name": "SUBA",
+        "url": "https://open.spotify.com/album/7LwQYMT4Ha5MbYvruOlwmG"
+      },
+      "artists": [
+        {
+          "name": "Spazo Domingo",
+          "url": "https://open.spotify.com/artist/5EFJjchOppveVwlUeto4mr"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122561,
+      "name": "SUBA",
+      "url": "https://open.spotify.com/track/2RwIdubGWW8OIwDPgfEDuh"
     },
     {
       "album": {

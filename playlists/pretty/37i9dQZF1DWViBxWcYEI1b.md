@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Mark Ambor
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,259 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,279 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 53 | [Nothing But Love](https://open.spotify.com/track/5ezGe9uG9J1fSS8X1yIVx5) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Nothing But Love](https://open.spotify.com/album/1OkRU1aahzo9tTyKDrXaAn) | 3:25 |
 | 54 | [Cowboy Gangster Politician](https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL) | 3:52 |
 | 55 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 |
-| 56 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 |
+| 56 | [Two Hearts](https://open.spotify.com/track/6NwseBBU7N5ng39DvnSAdA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 4:06 |
 | 57 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 |
 | 58 | [Back to Me](https://open.spotify.com/track/6efhAWCL5nLpIHvOwojuMr) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Back to Me](https://open.spotify.com/album/5oVyW0Lsox64SixboTYYYE) | 3:15 |
 | 59 | [Bigger Than The Night](https://open.spotify.com/track/162cSMlaWCzzgWbUBWdkcS) | [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U) | [Bigger Than The Night](https://open.spotify.com/album/3NIWfnyLZJ3ObnZT7hgFCc) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Way Too Young](https://open.spotify.com/track/04GnO4JiMFACIZnJlC1Psh) | [Pelch](https://open.spotify.com/artist/1sJoi3cOOQf2J21k7K8FjV) | [That's How The Story Goes](https://open.spotify.com/album/0Wf3BGIP5Q5dEfuILQe1D3) | 2:18 |
 | 100 | [Different Kind Of Beautiful](https://open.spotify.com/track/6mxsd0LQt2qk2rpLEqlCJw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Different Kind Of Beautiful](https://open.spotify.com/album/6M7C0uHmNik7gss4M31k0t) | 3:21 |
 
-Snapshot ID: `MCw2M2Y4MDIyZDY0NTYwNDkwZWIwOGFlMTFkNGMzZjYxNjdkM2Y0MTE2`
+Snapshot ID: `MCw3NTJlNjRjMDZjNjU4YjJjOTgzYmVkZWY1MTUwYTg4Y2FmMjM2MDE2`

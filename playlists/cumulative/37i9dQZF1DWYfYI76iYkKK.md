@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-397 songs - 1 day 2 hr 12 min
+398 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [告訴自己 \- 《滾石摘星號》選手創作單曲](https://open.spotify.com/track/2tNWBKcFnck6pouSTu2cHt) | [鄺澤東](https://open.spotify.com/artist/6j3P7Wl2ApIvTqYk6plJmD) | [告訴自己](https://open.spotify.com/album/7aaC8XxZ1jpT402jgZGxpQ) | 4:21 | 2024-02-01 | 2024-02-03 |
 | [和淚做朋友](https://open.spotify.com/track/24XKowTHmxYfZ5QEJDUfyV) | [Lai](https://open.spotify.com/artist/7tbfeiO8CyfySSll1zFmqB) | [I ,](https://open.spotify.com/album/075wWBWMjyyeCUcWpzfXa6) | 4:38 | 2023-07-10 | 2023-07-21 |
 | [唯一 \(三立/台視戲劇《戀愛是科學》插曲\)](https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 4:30 | 2022-06-02 |  |
+| [善良的我們 \(影集《不夠善良的我們》片尾曲\)](https://open.spotify.com/track/1OxW5HUdYBZVCuiPGUPXhb) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [善良的我們 \(影集《不夠善良的我們》片尾曲\)](https://open.spotify.com/album/1RRhiFuUxwxYhOHKbOzHIi) | 3:55 | 2024-04-04 |  |
 | [喜寶 \- 電影《喜寶》同名推廣曲](https://open.spotify.com/track/5UCJLm1qwdh66cmHfkW3Ge) | [Amber Kuo](https://open.spotify.com/artist/4x5ldH1RO3ezKX4ZVd3CUo) | [喜寶\-電影《喜寶》同名推廣曲](https://open.spotify.com/album/3IEjtX05ROjlMgARuBQpP4) | 3:32 | 2022-06-16 | 2022-07-28 |
 | [四月是適合說謊的日子](https://open.spotify.com/track/3IAct7dgBXQmRNcnYvnWFo) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y), [Jude Chiu](https://open.spotify.com/artist/0RFpGSVvrZOh43m5WdZn8T) | [四月是適合說謊的日子](https://open.spotify.com/album/3JZL4Qn4Ho4FrRjk2CmyXA) | 5:16 | 2022-06-10 | 2022-07-28 |
 | [回家吧\(大愛劇場《早點回家》主題曲\)](https://open.spotify.com/track/661aKfbocldenu4arqaIfo) | [方宥心](https://open.spotify.com/artist/50P8rIDVl6tfTLPEyxNoT7) | [回家吧\(大愛劇場《早點回家》主題曲\)](https://open.spotify.com/album/6jOAgsqvIfYOnr1Az0DNh4) | 3:59 | 2023-06-01 | 2023-06-16 |
@@ -325,7 +326,7 @@
 | [細水長流 \(電影《流浪地球2》陪伴主題曲\)](https://open.spotify.com/track/2ymrqq4PYyQPHpX7qULm6V) | [Andy Lau](https://open.spotify.com/artist/2n3uDrupL8UtFSeZhY38MS), [吳京](https://open.spotify.com/artist/6jq5mIyUPPLQ5kYeXOs4d6) | [細水長流 \(電影《流浪地球2》陪伴主題曲\)](https://open.spotify.com/album/7DS7s6jzklLBuUWIAfBQbq) | 4:26 | 2023-01-19 | 2023-02-16 |
 | [給你](https://open.spotify.com/track/2gwGgOlK7dL6hqdiuLSmlN) | [鳳小岳](https://open.spotify.com/artist/3pr7TMfQrob0tDAfN3UeUh) | [給你](https://open.spotify.com/album/0yyB18wWXl38r15hfxcJfG) | 4:04 | 2023-06-22 | 2023-07-11 |
 | [給妳們](https://open.spotify.com/track/5Yy7ly2otpGZmEDNKgMFpK) | [Wanfang](https://open.spotify.com/artist/468BFRg8N0wGREo2L4TXZp) | [給妳們](https://open.spotify.com/album/1oPz4gbvtkJDVLU8gnY5n9) | 3:55 | 2022-06-30 | 2022-07-08 |
-| [緣分](https://open.spotify.com/track/3ARRyMQ4T4vcyL0TJV4rvM) | [伍芝儀](https://open.spotify.com/artist/1ZV7P5KZmCoG98IXa5pNk9), [詹欣萱](https://open.spotify.com/artist/5z8FTEiZni8bGrPjRqDf72) | [味盡緣 \(原創影集原聲帶\)](https://open.spotify.com/album/6SSpKuuNKz3qw3u3CvCwZB) | 3:08 | 2024-03-28 |  |
+| [緣分](https://open.spotify.com/track/3ARRyMQ4T4vcyL0TJV4rvM) | [伍芝儀](https://open.spotify.com/artist/1ZV7P5KZmCoG98IXa5pNk9), [詹欣萱](https://open.spotify.com/artist/5z8FTEiZni8bGrPjRqDf72) | [味盡緣 \(原創影集原聲帶\)](https://open.spotify.com/album/6SSpKuuNKz3qw3u3CvCwZB) | 3:08 | 2024-03-28 | 2024-04-05 |
 | [練習](https://open.spotify.com/track/7peO6Ugu9dXyIpkDzLwhoW) | [DEW](https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk) | [DAYLIGHT](https://open.spotify.com/album/2dfm2lvDIMN7SQCqkLyqP6) | 3:30 | 2023-06-01 | 2023-06-16 |
 | [總有那麼一天我始終相信](https://open.spotify.com/track/1ezKCFxKbN2aoIJj6vLEJL) | [imClare](https://open.spotify.com/artist/58YXiEdWsp40kdYGppwlr5) | [Showering](https://open.spotify.com/album/1QGLBco4zaV7zQYNNZiQdi) | 3:52 | 2023-07-27 | 2023-08-11 |
 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 | 2022-06-02 |  |

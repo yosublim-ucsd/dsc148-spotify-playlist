@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. \u00c1ngela Aguilar en portada.",
-  "num_followers": 134289,
+  "num_followers": 134365,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDgyNWI5Y2YxYTNjYTA0MmEzNjRiMzdlZTM0MTEyOWY0YzU1ZWRm",
+  "snapshot_id": "MCw5YWFiNzFjNmFjZjY5MzQ0ZGVhYWE3YmEyZGYwOTgzZWNkYjgwODI0",
   "tracks": [
     {
       "added_at": "2024-02-09 06:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg"
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
+        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
       },
       "artists": [
         {
-          "name": "Flor Silvestre",
-          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
         }
       ],
-      "duration_ms": 210279,
-      "name": "Mi Destino Fue Quererte",
-      "url": "https://open.spotify.com/track/2kBbwQgrKtdMLxcU5smeki"
+      "duration_ms": 231418,
+      "name": "Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg"
+      },
+      "artists": [
+        {
+          "name": "Flor Silvestre",
+          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
+        }
+      ],
+      "duration_ms": 210279,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/2kBbwQgrKtdMLxcU5smeki"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
         "name": "Alborada Ranchera",
         "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 202160,
       "name": "Cuatro Milpas",
       "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
-        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 231418,
-      "name": "Cucurrucucu Paloma",
-      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Todo Todo",
-        "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "Todo Todo",
-      "url": "https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "No Voy A Llorar",
         "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 197253,
       "name": "No Voy A Llorar",
       "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Todo Todo",
+        "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 194066,
+      "name": "Todo Todo",
+      "url": "https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Antes De Que Te Vayas",
-        "url": "https://open.spotify.com/album/1EKiL2kPdSJ511TaHy7IDD"
-      },
-      "artists": [
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 271967,
-      "name": "Antes De Que Te Vayas",
-      "url": "https://open.spotify.com/track/498fdwkzeRwPdel1x4MIxS"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 169750,
       "name": "Decide Qu\u00e9 Somos",
       "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Antes De Que Te Vayas",
+        "url": "https://open.spotify.com/album/1EKiL2kPdSJ511TaHy7IDD"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 271967,
+      "name": "Antes De Que Te Vayas",
+      "url": "https://open.spotify.com/track/498fdwkzeRwPdel1x4MIxS"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1096,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 249426,
-      "name": "Inocente Pobre Amiga",
-      "url": "https://open.spotify.com/track/1CwbpsXpzVmVrIxOEraUTs"
+      "duration_ms": 204866,
+      "name": "No Me Vuelvo a Enamorar",
+      "url": "https://open.spotify.com/track/1djvcwusUBPg7c8lGR9htm"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Se Solicita",
-        "url": "https://open.spotify.com/album/24Y0xsPo84ooFzYeZKLoWR"
+        "name": "Los Exitos De Amalia Mendoza",
+        "url": "https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Amalia Mendoza",
+          "url": "https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC"
         }
       ],
-      "duration_ms": 184346,
-      "name": "Se Solicita",
-      "url": "https://open.spotify.com/track/2uVlMbVtRgeHBaCCn1LhXb"
+      "duration_ms": 191173,
+      "name": "\u00c9chame a M\u00ed la Culpa",
+      "url": "https://open.spotify.com/track/4QJsxMItrRbvn05gGuf0CZ"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Los Exitos De Amalia Mendoza",
-        "url": "https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl"
+        "name": "Se Solicita",
+        "url": "https://open.spotify.com/album/24Y0xsPo84ooFzYeZKLoWR"
       },
       "artists": [
         {
-          "name": "Amalia Mendoza",
-          "url": "https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 191173,
-      "name": "\u00c9chame a M\u00ed la Culpa",
-      "url": "https://open.spotify.com/track/4QJsxMItrRbvn05gGuf0CZ"
+      "duration_ms": 184346,
+      "name": "Se Solicita",
+      "url": "https://open.spotify.com/track/2uVlMbVtRgeHBaCCn1LhXb"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "...Y Lleg\u00f3 Para Quedarse",
-        "url": "https://open.spotify.com/album/1CYA2MjGmAUvoNG5rUMYxf"
-      },
-      "artists": [
-        {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4Tq20RgZQXRAqekScOU4I7"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "La Tari\u00e1curi",
         "url": "https://open.spotify.com/album/5p8WmAnz98OGqYig1OB9iU"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 176013,
       "name": "Paloma Sin Nido",
       "url": "https://open.spotify.com/track/6u3NpKIbHU7MgFPTIeKGIZ"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "...Y Lleg\u00f3 Para Quedarse",
+        "url": "https://open.spotify.com/album/1CYA2MjGmAUvoNG5rUMYxf"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4Tq20RgZQXRAqekScOU4I7"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Mi Culpa",
-        "url": "https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9"
+        "name": "Plegaria a La Virgen del Roc\u00edo",
+        "url": "https://open.spotify.com/album/3VhbmgnQtTVjOmc13Z224K"
       },
       "artists": [
         {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
         }
       ],
-      "duration_ms": 268733,
-      "name": "Mi Culpa",
-      "url": "https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW"
+      "duration_ms": 176000,
+      "name": "Plegaria a La Virgen del Roc\u00edo",
+      "url": "https://open.spotify.com/track/1RzGNk9ZETyVNlXo7eeXZN"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Plegaria a La Virgen del Roc\u00edo",
-        "url": "https://open.spotify.com/album/3VhbmgnQtTVjOmc13Z224K"
+        "name": "Mi Culpa",
+        "url": "https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9"
       },
       "artists": [
         {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Plegaria a La Virgen del Roc\u00edo",
-      "url": "https://open.spotify.com/track/1RzGNk9ZETyVNlXo7eeXZN"
+      "duration_ms": 268733,
+      "name": "Mi Culpa",
+      "url": "https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1636,9 +1636,9 @@
           "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 204866,
-      "name": "No Me Vuelvo a Enamorar",
-      "url": "https://open.spotify.com/track/1djvcwusUBPg7c8lGR9htm"
+      "duration_ms": 249426,
+      "name": "Inocente Pobre Amiga",
+      "url": "https://open.spotify.com/track/1CwbpsXpzVmVrIxOEraUTs"
     },
     {
       "added_at": "2024-02-09 06:00:00",

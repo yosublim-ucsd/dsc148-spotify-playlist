@@ -4,7 +4,7 @@
 
 > A Spotify program to promote exciting artists! RADAR BNLX: <a href="spotify:artist:1M6DAgCuvRE1Ct0Tsq74Lb">The Indien</a> \(cover\), Roxy Dekker, Kids With Buns en Siggy & D1ns.
 
-168 songs - 8 hr 52 min
+169 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [chameleons](https://open.spotify.com/track/344QBfyJrOAKfDgZ8JkRvs) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [chameleons](https://open.spotify.com/album/0qVtwRqe3IYlKAVKf9TO6T) | 2:45 | 2022-05-20 | 2022-08-26 |
 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 | 2021-12-10 | 2022-10-18 |
 | [ChouChou](https://open.spotify.com/track/4CPWhSxDp6N4p8YWj43mpy) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [ChouChou](https://open.spotify.com/album/1RGI0NzcvbOEAvkuHqVXv6) | 2:03 | 2023-11-23 |  |
-| [clutter](https://open.spotify.com/track/7aqLykWVESt4fuwX05tzmE) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [clutter](https://open.spotify.com/album/4YCV5lQcuCZGVaJUqm6Uk6) | 2:47 | 2023-08-14 |  |
+| [clutter](https://open.spotify.com/track/7aqLykWVESt4fuwX05tzmE) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [clutter](https://open.spotify.com/album/4YCV5lQcuCZGVaJUqm6Uk6) | 2:47 | 2023-08-14 | 2024-04-05 |
 | [Coco Loco](https://open.spotify.com/track/2n4Ul3ywASFI46NKxWrGtL) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [KUENTA](https://open.spotify.com/artist/3pr6mWxBNnh2OHul3o0A0p), [Cheryl Lispier](https://open.spotify.com/artist/57DvbdvXfkpcMOgSlo8rnt) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:52 | 2023-09-14 | 2024-01-19 |
 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 | 2021-12-10 | 2022-06-17 |
 | [Da Beat](https://open.spotify.com/track/3e14Ja9tXO89jkWZMA6kaB) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Mavdio](https://open.spotify.com/artist/5J0cC0p052pYiMDiMASsk4) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:15 | 2022-10-17 | 2023-05-10 |
@@ -149,6 +149,7 @@
 | [Stranger](https://open.spotify.com/track/6HsP8AwuSVliAtYXr93br0) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Jhn McFly](https://open.spotify.com/artist/7zznl279cpu0bbWfEjBq5c), [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Stranger](https://open.spotify.com/album/1SYD9U5ySpahn116MFUxby) | 2:08 | 2022-08-25 | 2023-09-15 |
 | [stubborn mind](https://open.spotify.com/track/7CCG7aIeTh3HRHfjz3SxQR) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [out of place](https://open.spotify.com/album/3v5oBoElWXugqDj7gCd1eO) | 3:00 | 2023-10-20 |  |
 | [Stuck in the Sky](https://open.spotify.com/track/0PZdvrkdzVpIyVCL7KLR2r) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:14 | 2021-12-10 | 2022-08-26 |
+| [Sugardaddy](https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Sugardaddy](https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf) | 2:11 | 2024-04-04 |  |
 | [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 | 2023-05-09 | 2023-09-15 |
 | [Sweet Love](https://open.spotify.com/track/0oGi9ZMVLf00i8K9qJIVkY) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/1ktETQfJTMuoyH0oq4xXrz) | 4:05 | 2022-07-12 |  |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 | 2023-05-09 | 2023-09-15 |

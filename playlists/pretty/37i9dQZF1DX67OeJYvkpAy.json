@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90256,
+  "num_followers": 90254,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTQzN2RmMWQ4YWY0NmMwNzkxMDdkMzg1YzBkMzFlMDdkZjVjOTc3",
+  "snapshot_id": "MCw0YWVlZjdhZTJhYjBkYzhhY2YwZTVhMzA2ZGE1MWYwZGJjYjc1ZTI1",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -759,30 +759,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Drunk and Confused 2.0",
-        "url": "https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO"
+        "name": "Broken Hearted Crook",
+        "url": "https://open.spotify.com/album/7b21OHTHyZynzt1ehAyhSF"
       },
       "artists": [
         {
-          "name": "JS x YD",
-          "url": "https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7"
-        },
-        {
-          "name": "A92",
-          "url": "https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc"
-        },
-        {
-          "name": "A9Dbo Fundz",
-          "url": "https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z"
-        },
-        {
-          "name": "A9Ksav",
-          "url": "https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR"
+          "name": "Lovens",
+          "url": "https://open.spotify.com/artist/5cTm9LWB8FJXxdPfnfxc6g"
         }
       ],
-      "duration_ms": 227727,
-      "name": "Drunk and Confused 2.0",
-      "url": "https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89"
+      "duration_ms": 168158,
+      "name": "Broken Hearted Crook",
+      "url": "https://open.spotify.com/track/1ctqXOZ0hbWiLcxRlT1DTx"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -855,18 +843,30 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Broken Hearted Crook",
-        "url": "https://open.spotify.com/album/7b21OHTHyZynzt1ehAyhSF"
+        "name": "Drunk and Confused 2.0",
+        "url": "https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO"
       },
       "artists": [
         {
-          "name": "Lovens",
-          "url": "https://open.spotify.com/artist/5cTm9LWB8FJXxdPfnfxc6g"
+          "name": "JS x YD",
+          "url": "https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7"
+        },
+        {
+          "name": "A92",
+          "url": "https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc"
+        },
+        {
+          "name": "A9Dbo Fundz",
+          "url": "https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z"
+        },
+        {
+          "name": "A9Ksav",
+          "url": "https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR"
         }
       ],
-      "duration_ms": 168158,
-      "name": "Broken Hearted Crook",
-      "url": "https://open.spotify.com/track/1ctqXOZ0hbWiLcxRlT1DTx"
+      "duration_ms": 227727,
+      "name": "Drunk and Confused 2.0",
+      "url": "https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89"
     },
     {
       "added_at": "2023-08-01 17:14:44",

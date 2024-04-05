@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-75 songs - 6 hr 17 min
+76 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 | 2022-07-19 |  |
 | [No Nos Pararan](https://open.spotify.com/track/47uSDINq6LvvNdMPvs82WV) | [Charanga 76](https://open.spotify.com/artist/6bB0iS1H2zn09k8kExHknf) | [No Nos Pararan](https://open.spotify.com/album/5cI6VjFpoHnMSnWtOMO7uW) | 9:34 | 2022-07-19 |  |
 | [Now That We Found Love \- 12" Version](https://open.spotify.com/track/3DakouX0AK62dbYE4FhEt2) | [Third World](https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ) | [Reggae Ambassadors: 20th Anniversary Collection](https://open.spotify.com/album/3vlkQm8RweDiMawQPfFnkA) | 8:15 | 2022-07-19 |  |
-| [Omoge](https://open.spotify.com/track/3hr1gRMGcKVeRYLqDZLTh1) | [Dizzy K.](https://open.spotify.com/artist/5Awdyry1KZQWfkYfTGVSNE) | [Sweet Music, Vol\. 1](https://open.spotify.com/album/49fliOpS2w0zeSJxccI4lV) | 4:06 | 2022-07-19 |  |
+| [Omoge](https://open.spotify.com/track/3hr1gRMGcKVeRYLqDZLTh1) | [Dizzy K.](https://open.spotify.com/artist/5Awdyry1KZQWfkYfTGVSNE) | [Sweet Music, Vol\. 1](https://open.spotify.com/album/49fliOpS2w0zeSJxccI4lV) | 4:06 | 2022-07-19 | 2024-04-05 |
+| [Omoge](https://open.spotify.com/track/4ZYomCRQEsIduQE2O1DcEU) | [Dizzy K.](https://open.spotify.com/artist/5Awdyry1KZQWfkYfTGVSNE) | [Sweet Music, Vol\. 1](https://open.spotify.com/album/4wNqEelZBFNRvucvAZoU4E) | 4:06 | 2023-05-24 |  |
 | [Rebelde Silueta](https://open.spotify.com/track/5apFmj9frwrTV1BvclAfZM) | [Nsue](https://open.spotify.com/artist/3mP60wj7zbSsAnI26egtol) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/6hF1xbglHjBHYkv2FMtyiq) | 4:30 | 2022-07-19 |  |
 | [Rebelde Silueta](https://open.spotify.com/track/6ggGycALmehX01E49j4dDG) | [Nsue](https://open.spotify.com/artist/3mP60wj7zbSsAnI26egtol) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/4athIGponDiJRR4djOgwbJ) | 4:30 | 2022-07-19 | 2023-04-30 |
 | [Rebels](https://open.spotify.com/track/7KePwNA8puA4BX8unrPygx) | [Wild Fire](https://open.spotify.com/artist/3gzfJi6zhuDoEiDbzuEXEv) | [Dance Hits](https://open.spotify.com/album/4i37zBzxDyFam3nhhFeoPj) | 3:56 | 2022-07-19 |  |

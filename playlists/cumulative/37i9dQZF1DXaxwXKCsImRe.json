@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 167426,
       "name": "clutter",
       "url": "https://open.spotify.com/track/7aqLykWVESt4fuwX05tzmE"
@@ -2696,6 +2696,24 @@
       "duration_ms": 134557,
       "name": "Stuck in the Sky",
       "url": "https://open.spotify.com/track/0PZdvrkdzVpIyVCL7KLR2r"
+    },
+    {
+      "album": {
+        "name": "Sugardaddy",
+        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131796,
+      "name": "Sugardaddy",
+      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
     },
     {
       "album": {

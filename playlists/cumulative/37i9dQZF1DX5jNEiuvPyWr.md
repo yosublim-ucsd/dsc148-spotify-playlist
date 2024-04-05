@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : USKY
+> Le meilleur du rap français version cloud\. Photo : DTF
 
-364 songs - 17 hr 56 min
+365 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Fascinant](https://open.spotify.com/track/0dth6miXmg495OA7IAhQSZ) | [Omar Syco](https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz) | [Fascinant](https://open.spotify.com/album/5PNZdbRpC6mzLSHy2rgjBC) | 2:42 | 2022-11-17 | 2023-01-20 |
 | [Fauves](https://open.spotify.com/track/5lyKwmMB1nuU3jUrrIFI3Q) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL) | [Couleur de ma peine](https://open.spotify.com/album/2N9IozZraUsmwNPd4k69YB) | 3:30 | 2022-07-14 | 2022-11-18 |
 | [FENÊTRE](https://open.spotify.com/track/68bIdxaAgmJDdFBfhj9LiX) | [Gatchete](https://open.spotify.com/artist/5a2rrj294lEVKNCLQqTlOk) | [FENÊTRE](https://open.spotify.com/album/0t29DQagdu2t3o8e7sjZu2) | 2:24 | 2023-02-23 | 2023-04-07 |
-| [FIHA KHEIR](https://open.spotify.com/track/0DXm4GoWvFM7xz8G6fUGRB) | [CAPU$H](https://open.spotify.com/artist/45OjNQ1shjnnjtjteryVxq) | [THE RAIN NEVER LIES](https://open.spotify.com/album/2qodXMzOJbhSsDRzh9SkEG) | 2:58 | 2024-03-28 |  |
+| [FIHA KHEIR](https://open.spotify.com/track/0DXm4GoWvFM7xz8G6fUGRB) | [CAPU$H](https://open.spotify.com/artist/45OjNQ1shjnnjtjteryVxq) | [THE RAIN NEVER LIES](https://open.spotify.com/album/2qodXMzOJbhSsDRzh9SkEG) | 3:00 | 2024-03-28 |  |
 | [Fin heureuse](https://open.spotify.com/track/2xIaxSN4uWp84jqXmk9DYn) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Fin heureuse](https://open.spotify.com/album/5KcQvszp8wKRp1k9fHXR12) | 2:43 | 2022-07-14 | 2022-12-02 |
 | [FLOKI \- Dysphoria](https://open.spotify.com/track/3vnQXpeuOqmRmYGqX7coFy) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [FLOKI \(Dysphoria\)](https://open.spotify.com/album/0vy4bHNPlmpab87j9X5v2C) | 3:16 | 2022-12-15 | 2023-05-19 |
 | [FLOWERS](https://open.spotify.com/track/6tTDh7lYRhLKR7ICg0uzuf) | [Moji x Sboy](https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i) | [FLOWERS](https://open.spotify.com/album/0nCjlr4JE2J1joj6D1S37w) | 2:20 | 2022-10-06 | 2022-12-24 |
@@ -214,6 +214,7 @@
 | [M'attends pas.](https://open.spotify.com/track/3w2b7sp3Y4Kcn23dv1ZoiU) | [Allebou](https://open.spotify.com/artist/6Npr7HPBAbALoXm4Mf1frM), [Susanoô](https://open.spotify.com/artist/3IPF34odrFxmKBZUciuUyE) | [M'attends pas.](https://open.spotify.com/album/1o2dl5PB7ddRxg25p4N4uU) | 3:17 | 2023-04-13 | 2023-05-12 |
 | [M3 \(feat\. Tiakola\)](https://open.spotify.com/track/0MkTS97rxyZjvzcWtoaFYe) | [Théodore](https://open.spotify.com/artist/1LVM8ye1ivMW71OmS264u2), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [ASWAD](https://open.spotify.com/album/0SZlUHqgkPZV8dwhD7EDZ6) | 2:41 | 2022-07-14 | 2022-10-28 |
 | [Ma Nana](https://open.spotify.com/track/5gbxLiDOBUTIEKpIxKMeNe) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo) | [Ma Nana](https://open.spotify.com/album/5incGx0xEG2Hh6SlBZjAZP) | 3:05 | 2022-07-14 | 2022-10-14 |
+| [Maintenant](https://open.spotify.com/track/6GWn6SRhsIURDEGlHkocs1) | [Nixon](https://open.spotify.com/artist/4WlaVjaeMW3N0HpUuhwBq9), [La Miellerie](https://open.spotify.com/artist/0nC7vC1zxC0uRXwEeGKIs9), [G.A THE PLUG](https://open.spotify.com/artist/2k7ABfzD1GWajBZGNGVCPV) | [Maintenant](https://open.spotify.com/album/6uKnkUVqbDtgT8HQMu83R0) | 3:10 | 2024-04-04 |  |
 | [Maintenant](https://open.spotify.com/track/7dqUEX8cUv22oiK6UHFZMn) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 3:01 | 2022-07-14 | 2022-11-18 |
 | [Makeup](https://open.spotify.com/track/35MhSTXjGaO1dOMKd7WdKV) | [Max DLG](https://open.spotify.com/artist/7sI6IzovX4PHV7Lqw9SsCw) | [Makeup](https://open.spotify.com/album/11ibFDueN32scqYIGwAX51) | 3:10 | 2023-12-08 | 2024-01-12 |
 | [MAL](https://open.spotify.com/track/1kaCrC3OD8nZF1MLKik7Td) | [Chat noir](https://open.spotify.com/artist/7ikmRMoCZRg3DNAzG0tAN8) | [MAL](https://open.spotify.com/album/37z6z2yjoIDEDBezztDN3G) | 3:54 | 2023-10-26 | 2023-12-15 |
@@ -315,7 +316,7 @@
 | [Sans ça](https://open.spotify.com/track/1VZr0fGotyAn61HlsUpk4R) | [Willyod](https://open.spotify.com/artist/58JTHHzGDeGIXUjUtbRvyO) | [Sans ça](https://open.spotify.com/album/7GpYNcQFtVQQfQ7wGyO3SF) | 2:35 | 2022-12-01 | 2023-02-17 |
 | [Saudade](https://open.spotify.com/track/1euiSBqrrv34yTtHIJwTT7) | [Django](https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3) | [Saudade](https://open.spotify.com/album/0K5d2mb8sn9RszeoWxJ0N6) | 2:35 | 2023-06-29 | 2024-03-08 |
 | [Schémas Monotones](https://open.spotify.com/track/6cQrLizVUnTNQz5hNdnmIV) | [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Schémas Monotones](https://open.spotify.com/album/6YZxi7O8YpLl1VIPZRS3zJ) | 2:26 | 2022-07-14 | 2022-10-14 |
-| [semaine](https://open.spotify.com/track/3bpXZgji2jrTE32XpsZI6k) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX) | 1:54 | 2023-12-08 |  |
+| [semaine](https://open.spotify.com/track/3bpXZgji2jrTE32XpsZI6k) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX) | 1:54 | 2023-12-08 | 2024-04-05 |
 | [semaine](https://open.spotify.com/track/7goMhYijPlWUKJDJLOv1BQ) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [semaine](https://open.spotify.com/album/1ryox3WvXWyAMAr0Ax4lNP) | 1:54 | 2023-11-09 | 2023-12-13 |
 | [Semblant](https://open.spotify.com/track/48cHrfBxVCy0x1hgNBACe4) | [Djiggy](https://open.spotify.com/artist/6dsigAAr7UblMinqOSzbCa) | [Semblant](https://open.spotify.com/album/2lRudXz3qRULXLQz961e65) | 2:20 | 2023-09-21 | 2023-10-27 |
 | [Seul au monde](https://open.spotify.com/track/4luvWLKyAZbCMqltYuD9Dc) | [A$tro Boi](https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ) | [Seul au monde](https://open.spotify.com/album/1xyOjLlsdrQkcRg3dDpDig) | 2:53 | 2023-01-26 | 2023-02-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : The Family Star
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,150 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,193 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Kalaya Nijama](https://open.spotify.com/track/449KstCGC8xXHe8M0MFheQ) | [Mohith Rahmanic](https://open.spotify.com/artist/2yDSpzLmRIgYdUDSmMK1X9), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Lakshmi Priyanka](https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A) | [Calling Sahasra](https://open.spotify.com/album/7z8mz9k3KufJtJ7Iep32je) | 3:40 |
 | 50 | [Neelaa Nannilaa](https://open.spotify.com/track/4Tp8Sl7Bul4D40vAlDvx0C) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [7:11 PM](https://open.spotify.com/album/3XgIwL4L4wOU7vSeOJqU5q) | 3:48 |
 
-Snapshot ID: `MCxjNWUzYTllY2ViMDg1MDA3ZDQ4MjM0YWQzMzE0Yjg5ZTJmZGQ2YjI2`
+Snapshot ID: `MCw4MzY4ZjRlMGE1YmIyMGVlYTdhOWQ1ZjYxZThlMDYyNWM0NzVjMmZi`

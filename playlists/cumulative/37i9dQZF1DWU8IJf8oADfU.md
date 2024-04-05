@@ -4,14 +4,15 @@
 
 > Il n'y a pas d'âge pour aimer le rap et les musiques urbaines!
 
-52 songs - 3 hr 7 min
+53 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#Askip](https://open.spotify.com/track/4T7fVWFjYNwkuCKRpKXVeB) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw) | [Éternel insatisfait](https://open.spotify.com/album/0fBcGOxa5aFx5MAOYaQ4XU) | 3:53 | 2021-08-23 |  |
 | [40%](https://open.spotify.com/track/47LFcy7prvEY5D08d26zOo) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA \(Deluxe Edition\)](https://open.spotify.com/album/0qGjuUdOjuQfy8zgMHNi66) | 2:54 | 2021-08-23 |  |
 | [Amour toxic](https://open.spotify.com/track/70APCdHsWV5BEsacwjzXmd) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 3:38 | 2021-08-23 |  |
-| [Angela](https://open.spotify.com/track/6ab3CQvDlAVttThZucwGQ1) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Chaise pliante](https://open.spotify.com/album/07bBgskS3ghKJIWvwsgnqF) | 3:56 | 2021-08-23 |  |
+| [Angela](https://open.spotify.com/track/6ab3CQvDlAVttThZucwGQ1) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Chaise pliante](https://open.spotify.com/album/07bBgskS3ghKJIWvwsgnqF) | 3:56 | 2021-08-23 | 2024-04-05 |
+| [Angela](https://open.spotify.com/track/6xNXmllCLIV9cH1luBzqvO) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Fiesta Ete](https://open.spotify.com/album/7y5wAxXmiTc3Y7ZMxdXn8G) | 3:56 | 2021-08-23 |  |
 | [Bob Marley](https://open.spotify.com/track/2qXmVc811574AdIdDgayRP) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Gentleman 2.0](https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv) | 3:34 | 2021-08-23 |  |
 | [Bobo au cœur](https://open.spotify.com/track/2XlLHcTNLBkxqCdKasBrRM) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 3:41 | 2021-08-23 |  |
 | [Bobo au cœur](https://open.spotify.com/track/4ZJURpomulGIURxYSvO1Xd) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Poison Ou Antidote](https://open.spotify.com/album/7HQqRTeLUgnqxhIacnisWy) | 3:41 | 2021-08-23 | 2024-01-29 |

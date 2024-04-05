@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 705309,
+  "num_followers": 705334,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTlmZmIzZGE1OThkMDdlNWY5ZjM3YTM4MGM3ODBjMmYwN2Y0ZDVk",
+  "snapshot_id": "MCw3ODVhYjA2MTZiNjZkZmJmZjZlZTU5ZTBhNWE4MjIxNzdmODA0YTYz",
   "tracks": [
     {
       "added_at": "2024-03-28 16:00:37",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-03-28 16:00:37",
       "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
+    },
+    {
+      "added_at": "2024-03-28 16:00:37",
+      "album": {
         "name": "Waterslides",
         "url": "https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 158174,
       "name": "Waterslides",
       "url": "https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP"
-    },
-    {
-      "added_at": "2024-03-28 16:00:37",
-      "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2024-03-28 16:00:37",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2024-03-28 16:00:37",
       "album": {
+        "name": "messy in heaven",
+        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 170437,
+      "name": "messy in heaven",
+      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
+    },
+    {
+      "added_at": "2024-03-28 16:00:37",
+      "album": {
         "name": "Life Lesson",
         "url": "https://open.spotify.com/album/0zrcEy45YCYxctOZ0YAjNQ"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 216466,
       "name": "Life Lesson",
       "url": "https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr"
-    },
-    {
-      "added_at": "2024-03-28 16:00:37",
-      "album": {
-        "name": "messy in heaven",
-        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
-      },
-      "artists": [
-        {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        }
-      ],
-      "duration_ms": 170437,
-      "name": "messy in heaven",
-      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
     },
     {
       "added_at": "2024-03-28 16:00:37",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-03-28 16:00:37",
       "album": {
+        "name": "Boyz N Da Club (Radio Edit)",
+        "url": "https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 141395,
+      "name": "Boyz N Da Club - Radio Edit",
+      "url": "https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV"
+    },
+    {
+      "added_at": "2024-03-28 16:00:37",
+      "album": {
         "name": "Serotonin Moonbeams",
         "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
       },
@@ -1319,18 +1335,22 @@
     {
       "added_at": "2024-03-28 16:00:37",
       "album": {
-        "name": "Boyz N Da Club (Radio Edit)",
-        "url": "https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM"
+        "name": "Make Me Feel Good",
+        "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 141395,
-      "name": "Boyz N Da Club - Radio Edit",
-      "url": "https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV"
+      "duration_ms": 197472,
+      "name": "Make Me Feel Good",
+      "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
     },
     {
       "added_at": "2024-03-28 16:00:37",
@@ -1379,46 +1399,6 @@
     {
       "added_at": "2024-03-28 16:00:37",
       "album": {
-        "name": "Make Me Feel Good",
-        "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 197472,
-      "name": "Make Me Feel Good",
-      "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
-    },
-    {
-      "added_at": "2024-03-28 16:00:37",
-      "album": {
-        "name": "Human (feat. Echoes)",
-        "url": "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Echoes",
-          "url": "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Human (feat. Echoes)",
-      "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
-    },
-    {
-      "added_at": "2024-03-28 16:00:37",
-      "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+    },
+    {
+      "added_at": "2024-03-28 16:00:37",
+      "album": {
+        "name": "Human (feat. Echoes)",
+        "url": "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Echoes",
+          "url": "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Human (feat. Echoes)",
+      "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
     },
     {
       "added_at": "2024-03-28 16:00:37",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-03-28 16:00:37",
       "album": {
+        "name": "Hey DJ",
+        "url": "https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 157001,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq"
+    },
+    {
+      "added_at": "2024-03-28 16:00:37",
+      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 161040,
       "name": "Talk About",
       "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
-    },
-    {
-      "added_at": "2024-03-28 16:00:37",
-      "album": {
-        "name": "Hey DJ",
-        "url": "https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 157001,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq"
     },
     {
       "added_at": "2024-03-28 16:00:37",

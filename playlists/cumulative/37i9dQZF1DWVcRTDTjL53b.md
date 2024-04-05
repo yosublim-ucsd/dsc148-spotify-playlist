@@ -4,13 +4,14 @@
 
 > La bande son des premiers amours
 
-44 songs - 2 hr 42 min
+45 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A fleur de toi](https://open.spotify.com/track/0L4FolHq3FdVNX1N9LRPIF) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [VersuS](https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e) | 4:02 | 2021-05-17 |  |
 | [Always Remember Us This Way](https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:30 | 2021-05-17 |  |
-| [Angela](https://open.spotify.com/track/6ab3CQvDlAVttThZucwGQ1) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Chaise pliante](https://open.spotify.com/album/07bBgskS3ghKJIWvwsgnqF) | 3:56 | 2021-05-17 |  |
+| [Angela](https://open.spotify.com/track/6ab3CQvDlAVttThZucwGQ1) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Chaise pliante](https://open.spotify.com/album/07bBgskS3ghKJIWvwsgnqF) | 3:56 | 2021-05-17 | 2024-04-05 |
+| [Angela](https://open.spotify.com/track/6xNXmllCLIV9cH1luBzqvO) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Fiesta Ete](https://open.spotify.com/album/7y5wAxXmiTc3Y7ZMxdXn8G) | 3:56 | 2021-05-17 |  |
 | [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 | 2021-05-17 |  |
 | [Avant toi](https://open.spotify.com/track/4iNPp0BZ4lBu7bipdWLcWk) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [VersuS](https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e) | 3:43 | 2021-05-17 |  |
 | [Belle](https://open.spotify.com/track/1k0waX7GMMFlHA5T78sQdo) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Belle](https://open.spotify.com/album/3iDgBV8H2Pp1miS402a3Sg) | 4:26 | 2021-05-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 9462,
+  "num_followers": 9480,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzM1MWQ4OTY2ZmQ5YTk0NTQ1NjMwNmYxYWM2YzZiM2ZjOGNlYThm",
+  "snapshot_id": "MCw0NmEzZWJhMzlhZTBmZmYzZDdkYWUwNDRhMDYwMTQ2NWQzMjljMTBi",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Void VIII",
-        "url": "https://open.spotify.com/album/5EFR1d59FzW9KkZO4lCJES"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/7juphslZcWQqXJYeKXGUHS"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Passive Aggressive",
         "url": "https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Void VIII",
+        "url": "https://open.spotify.com/album/5EFR1d59FzW9KkZO4lCJES"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/7juphslZcWQqXJYeKXGUHS"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Gave in Rest",
         "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
       },
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Tomorrow Was the Golden Age",
-        "url": "https://open.spotify.com/album/37FqMp9hRz4bgkvp3x0Tz3"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 355523,
-      "name": "TWTGA",
-      "url": "https://open.spotify.com/track/1iVAwCYuzG82TcremyxhCf"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Water Memory",
         "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 448133,
       "name": "Water Memory 1",
       "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Tomorrow Was the Golden Age",
+        "url": "https://open.spotify.com/album/37FqMp9hRz4bgkvp3x0Tz3"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "duration_ms": 355523,
+      "name": "TWTGA",
+      "url": "https://open.spotify.com/track/1iVAwCYuzG82TcremyxhCf"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
-      },
-      "artists": [
-        {
-          "name": "Warmth",
-          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
-        }
-      ],
-      "duration_ms": 426786,
-      "name": "Spherule",
-      "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Book of Life",
         "url": "https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 264683,
       "name": "Fog",
       "url": "https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
+      },
+      "artists": [
+        {
+          "name": "Warmth",
+          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+        }
+      ],
+      "duration_ms": 426786,
+      "name": "Spherule",
+      "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "The Magic Place",
-        "url": "https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Cloak",
-      "url": "https://open.spotify.com/track/0ba6auWc3836ta3iuS06H7"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Narkopop",
         "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Spells (Special Edition)",
-        "url": "https://open.spotify.com/album/7Dc1cks2uIn5JQhMr0uTmR"
+        "name": "The Magic Place",
+        "url": "https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7"
       },
       "artists": [
         {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
         }
       ],
-      "duration_ms": 200160,
-      "name": "Selene",
-      "url": "https://open.spotify.com/track/5YDRS9iVUyN6RJjlbXNygt"
+      "duration_ms": 245400,
+      "name": "Cloak",
+      "url": "https://open.spotify.com/track/0ba6auWc3836ta3iuS06H7"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -991,6 +975,22 @@
       "duration_ms": 298697,
       "name": "Chonchos",
       "url": "https://open.spotify.com/track/58B9gtBLbeQG55l8whZz2R"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Spells (Special Edition)",
+        "url": "https://open.spotify.com/album/7Dc1cks2uIn5JQhMr0uTmR"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Selene",
+      "url": "https://open.spotify.com/track/5YDRS9iVUyN6RJjlbXNygt"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Balsams",
-        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
-      },
-      "artists": [
-        {
-          "name": "Chuck Johnson",
-          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
-        }
-      ],
-      "duration_ms": 544810,
-      "name": "Moonstone",
-      "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 214668,
       "name": "Opening",
       "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Balsams",
+        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
+      },
+      "artists": [
+        {
+          "name": "Chuck Johnson",
+          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
+        }
+      ],
+      "duration_ms": 544810,
+      "name": "Moonstone",
+      "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Bring Me The Head of Kyle Bobby Dunn",
-        "url": "https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph"
-      },
-      "artists": [
-        {
-          "name": "Kyle Bobby Dunn",
-          "url": "https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl"
-        }
-      ],
-      "duration_ms": 489535,
-      "name": "An Evening With Dusty",
-      "url": "https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Living With Yourself",
         "url": "https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 202000,
       "name": "Two Different People",
       "url": "https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Bring Me The Head of Kyle Bobby Dunn",
+        "url": "https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph"
+      },
+      "artists": [
+        {
+          "name": "Kyle Bobby Dunn",
+          "url": "https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl"
+        }
+      ],
+      "duration_ms": 489535,
+      "name": "An Evening With Dusty",
+      "url": "https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1599,38 +1599,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Similes",
-        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "Nightmare 5",
-      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Collected Dust",
-        "url": "https://open.spotify.com/album/5f2LBm23k0MEjO1eZV9Pno"
-      },
-      "artists": [
-        {
-          "name": "Marcus Fischer",
-          "url": "https://open.spotify.com/artist/65XXatfLe9qJ44dCxKH4u9"
-        }
-      ],
-      "duration_ms": 293453,
-      "name": "Constant",
-      "url": "https://open.spotify.com/track/7oBD0eIxMO2eCrmdvKnMxN"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Vantaa",
         "url": "https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP"
       },
@@ -1659,6 +1627,38 @@
       "duration_ms": 205186,
       "name": "Second Lens",
       "url": "https://open.spotify.com/track/6jbq7JCBAnTyYQqFzeneXC"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Similes",
+        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "Nightmare 5",
+      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Collected Dust",
+        "url": "https://open.spotify.com/album/5f2LBm23k0MEjO1eZV9Pno"
+      },
+      "artists": [
+        {
+          "name": "Marcus Fischer",
+          "url": "https://open.spotify.com/artist/65XXatfLe9qJ44dCxKH4u9"
+        }
+      ],
+      "duration_ms": 293453,
+      "name": "Constant",
+      "url": "https://open.spotify.com/track/7oBD0eIxMO2eCrmdvKnMxN"
     },
     {
       "added_at": "2023-06-07 15:21:34",

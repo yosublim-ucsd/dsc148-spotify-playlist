@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 50519,
+  "2024-04-05": 50580,
   "date_first_scraped": "2022-12-01",
   "description": "The hottest tracks in Ghana. Cover: OlivetheBoy",
   "name": "Hot Hits Ghana",
@@ -291,7 +291,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 165000,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC"
@@ -375,6 +375,24 @@
       "duration_ms": 274000,
       "name": "Apotheke",
       "url": "https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71"
+    },
+    {
+      "album": {
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180486,
+      "name": "Aseda",
+      "url": "https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG"
     },
     {
       "album": {
@@ -2228,6 +2246,24 @@
     },
     {
       "album": {
+        "name": "Kweku Jesus",
+        "url": "https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2"
+      },
+      "artists": [
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184385,
+      "name": "Jah Guide",
+      "url": "https://open.spotify.com/track/68z8LK5OWx69lhL2Jj2V8R"
+    },
+    {
+      "album": {
         "name": "January 9th",
         "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
       },
@@ -2373,7 +2409,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 194040,
       "name": "KANTE (feat. Fave)",
       "url": "https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG"
@@ -2483,7 +2519,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 206051,
       "name": "Kwaku Ananse",
       "url": "https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X"
@@ -3833,6 +3869,24 @@
       "duration_ms": 158746,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4R6CUDujx3BU6bzKksg191"
+    },
+    {
+      "album": {
+        "name": "Puul",
+        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172486,
+      "name": "Puul",
+      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
     },
     {
       "album": {

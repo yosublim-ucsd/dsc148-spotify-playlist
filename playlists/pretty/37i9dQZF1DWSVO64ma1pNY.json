@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296526,
+  "num_followers": 296552,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGFlMDY4NTc4ZmM1MDFiMWExYmY0YzgxNGY4MThhYTNlMTVlYzI2",
+  "snapshot_id": "MCwxYzQwNDc1MGU3ZTRkMzc0NTQ0MGFkOTZiMGEzYzk1OTFiY2Y2MDIy",
   "tracks": [
     {
       "added_at": "2024-03-06 16:30:36",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Do Your Worst",
-      "url": "https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "The Lonely Position Of Neutral",
-        "url": "https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh"
-      },
-      "artists": [
-        {
-          "name": "TRUSTcompany",
-          "url": "https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/1oFe7QvpwY3xZVyABI2TXP"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "Billy Talent III",
         "url": "https://open.spotify.com/album/3E86heHd3LiI6h4tSN608g"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 254613,
       "name": "Rusted From the Rain",
       "url": "https://open.spotify.com/track/0tzWCL2uhb2xQDWgG259nU"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "The Lonely Position Of Neutral",
+        "url": "https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh"
+      },
+      "artists": [
+        {
+          "name": "TRUSTcompany",
+          "url": "https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/1oFe7QvpwY3xZVyABI2TXP"
     },
     {
       "added_at": "2024-03-06 16:30:36",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-03-06 16:30:36",
       "album": {
-        "name": "Sick Ride",
-        "url": "https://open.spotify.com/album/5BypS8hiBqXS9pPmzu7LVx"
-      },
-      "artists": [
-        {
-          "name": "Karen Di\u00f3",
-          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
-        }
-      ],
-      "duration_ms": 97906,
-      "name": "Sick Ride",
-      "url": "https://open.spotify.com/track/1nfkZ7p5iG7WsGD3ZWnKny"
-    },
-    {
-      "added_at": "2024-03-06 16:30:36",
-      "album": {
         "name": "The American Dream",
         "url": "https://open.spotify.com/album/3tAukYNlSSBALc9RiMCwmI"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 191626,
       "name": "You Can Count On Me",
       "url": "https://open.spotify.com/track/6AO1BottKVTrfm0SDRvwsY"
+    },
+    {
+      "added_at": "2024-03-06 16:30:36",
+      "album": {
+        "name": "Sick Ride",
+        "url": "https://open.spotify.com/album/5BypS8hiBqXS9pPmzu7LVx"
+      },
+      "artists": [
+        {
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+        }
+      ],
+      "duration_ms": 97906,
+      "name": "Sick Ride",
+      "url": "https://open.spotify.com/track/1nfkZ7p5iG7WsGD3ZWnKny"
     },
     {
       "added_at": "2024-03-06 16:30:36",

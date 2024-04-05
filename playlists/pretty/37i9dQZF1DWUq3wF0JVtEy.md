@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,536 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,628 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 81 | [Eye To Eye](https://open.spotify.com/track/6wJJSeYggU23fFSiZoWj4U) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [Eye To Eye](https://open.spotify.com/album/4MhknnFfLUIa16XZiicOvz) | 2:35 |
 | 82 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 |
 | 83 | [Outer Space](https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Outer Space](https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY) | 3:12 |
-| 84 | [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/track/0WW8txqecanm76y5Je34nf) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta) | 2:30 |
-| 85 | [Power Stone](https://open.spotify.com/track/5FufznQatRZsjumawlLbbo) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Power Stone](https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0) | 2:47 |
+| 84 | [Power Stone](https://open.spotify.com/track/5FufznQatRZsjumawlLbbo) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Power Stone](https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0) | 2:47 |
+| 85 | [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/track/0WW8txqecanm76y5Je34nf) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta) | 2:30 |
 | 86 | [2 Much 2 Handle](https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Alok Club Series 2023](https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT) | 3:08 |
 | 87 | [Vibe](https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Vibe](https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz) | 2:42 |
-| 88 | [Quick Highs](https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Quick Highs](https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf) | 3:14 |
-| 89 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 |
+| 88 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 |
+| 89 | [Quick Highs](https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Quick Highs](https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf) | 3:14 |
 | 90 | [Fool Me](https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Fool Me](https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh) | 2:13 |
 | 91 | [Welcome To The Future](https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Welcome To The Future](https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb) | 2:52 |
 | 92 | [Chain Gang](https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Chain Gang](https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0) | 1:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [Ravers](https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Ravers](https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h) | 2:33 |
 | 100 | [Free My Mind](https://open.spotify.com/track/3FEDVRLhSQbtXKXrUhsEJa) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Free My Mind](https://open.spotify.com/album/1W09O51MifKfx4XAl851q9) | 2:51 |
 
-Snapshot ID: `MCxkYmMxNzMzNjlhOWQwOTE2NDFlMzg5ZTkwNTI0NWNjOWI5ZDk3Yzcz`
+Snapshot ID: `MCwyMDc5MGMwYjQ5ZTk1NjNiNjE5NWQwMTg0NzNhMTdjNDU2MGZiNGFj`

@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 190208,
+  "num_followers": 190264,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjEyYzk0OWMzODUzMzhjODU5ODUxNmU2MjgyNDA5NzhiOWM3ZGU3",
+  "snapshot_id": "MCw3MTkzYjk3Mjk2ODliNmRmYmI1NzJlN2Q4MzZjMzc3ZWEzMDI0ZDhl",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Bombea",
+        "url": "https://open.spotify.com/album/6ca14tXhlFLOuNf03Ryxa4"
+      },
+      "artists": [
+        {
+          "name": "Doctor Kr\u00e1pula",
+          "url": "https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r"
+        }
+      ],
+      "duration_ms": 216688,
+      "name": "La Fuerza del Amor",
+      "url": "https://open.spotify.com/track/2Hej26B36YlkZ97Xw4xW3M"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Plata Ta T\u00e1",
         "url": "https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 255506,
       "name": "Plata Ta T\u00e1",
       "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Bombea",
-        "url": "https://open.spotify.com/album/6ca14tXhlFLOuNf03Ryxa4"
-      },
-      "artists": [
-        {
-          "name": "Doctor Kr\u00e1pula",
-          "url": "https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r"
-        }
-      ],
-      "duration_ms": 216688,
-      "name": "La Fuerza del Amor",
-      "url": "https://open.spotify.com/track/2Hej26B36YlkZ97Xw4xW3M"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Autogestion y Resistencia",
-        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
-      },
-      "artists": [
-        {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Sororidad",
-      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Sin Fronteras",
         "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 456933,
       "name": "Los desaparecidos",
       "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Autogestion y Resistencia",
+        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
+      },
+      "artists": [
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Sororidad",
+      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "que lo que",
-        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 124448,
-      "name": "que lo que",
-      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "La Nueva Cancion Chilena, Vol. 1",
         "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 279333,
       "name": "La Muralla",
       "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "que lo que",
+        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 124448,
+      "name": "que lo que",
+      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1537,6 +1537,22 @@
       "url": "https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U"
     },
     {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Si Me Matan",
+      "url": "https://open.spotify.com/track/5L9OruCuqnA9PGGh1VkXcm"
+    },
+    {
       "added_at": "2023-10-13 15:22:13",
       "album": {
         "name": "Bolero Apocal\u00edptico (Deluxe Version)",
@@ -1555,22 +1571,6 @@
       "duration_ms": 241023,
       "name": "Cumbia Valiente",
       "url": "https://open.spotify.com/track/1zVN5qe5Jnqwy4Mb7Nu1Vm"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Si Me Matan",
-      "url": "https://open.spotify.com/track/5L9OruCuqnA9PGGh1VkXcm"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Pateando Craneos",
-        "url": "https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF"
+        "name": "Viva el Planeta",
+        "url": "https://open.spotify.com/album/7tC1a8XEUsIoO7YetqtmRU"
       },
       "artists": [
         {
-          "name": "2X",
-          "url": "https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d"
+          "name": "Doctor Kr\u00e1pula",
+          "url": "https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r"
         }
       ],
-      "duration_ms": 161666,
-      "name": "La Fuerza Policial",
-      "url": "https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP"
+      "duration_ms": 199105,
+      "name": "Exigimos",
+      "url": "https://open.spotify.com/track/5b2XzjVplTXsJLBLaxx0Np"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Viva el Planeta",
-        "url": "https://open.spotify.com/album/7tC1a8XEUsIoO7YetqtmRU"
+        "name": "Pateando Craneos",
+        "url": "https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF"
       },
       "artists": [
         {
-          "name": "Doctor Kr\u00e1pula",
-          "url": "https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r"
+          "name": "2X",
+          "url": "https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d"
         }
       ],
-      "duration_ms": 199105,
-      "name": "Exigimos",
-      "url": "https://open.spotify.com/track/5b2XzjVplTXsJLBLaxx0Np"
+      "duration_ms": 161666,
+      "name": "La Fuerza Policial",
+      "url": "https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 195810,
-      "name": "Odio",
-      "url": "https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Antolog\u00eda 1968-1992",
         "url": "https://open.spotify.com/album/1rJ7VkFSDPEB9m27A8NAO4"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 194160,
       "name": "Plegaria A Un Labrador",
       "url": "https://open.spotify.com/track/1AD8C9GGDDvzm6i0r0v4c2"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 195810,
+      "name": "Odio",
+      "url": "https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh"
     },
     {
       "added_at": "2023-10-13 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,823 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,842 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 26 | [Nie Płacz Ewka](https://open.spotify.com/track/73YaDW2z8ZXgDvJUoQg9Bm) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 5:42 |
 | 27 | [Wszystko mi mówi, że mnie ktoś pokochał](https://open.spotify.com/track/5S115BRg8EghKqq1D0Wx9J) | [Skaldowie](https://open.spotify.com/artist/7rPv4DjafGL4EBCatx4t8U) | [Z kopyta kulig rwie \(The best\)](https://open.spotify.com/album/3nIP8bSSU0HtA1ZJhzvTz4) | 2:25 |
 | 28 | [Na zawsze i na wieczność](https://open.spotify.com/track/4Dw3fQrWGRteHRDeCAIrIY) | [Wilki](https://open.spotify.com/artist/1hxJUOxvX3SXaVYz4qaFyM) | [Obrazki](https://open.spotify.com/album/78C1YjhR3Crdoi7WwuIQuC) | 3:13 |
-| 29 | [O nich, o Tobie](https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [O nich, o Tobie](https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r) | 2:27 |
+| 29 | [O Pani!](https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm) | [Momenty](https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr) | 2:58 |
 | 30 | [Wszystko](https://open.spotify.com/track/2ANM8tbPDekzhNOhJ55bV6) | [Kamil Holden Kryszak](https://open.spotify.com/artist/7pQ9JOUN2x6CCUhAEtCpdj), [Justyna Święs](https://open.spotify.com/artist/3jWejUYPufnWdb1eMRxIUQ) | [Piosenki o miłości \(Muzyka z filmu\)](https://open.spotify.com/album/7qZdfKzSm1AnFHVUJxoJOJ) | 4:32 |
-| 31 | [O Pani!](https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm) | [Momenty](https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr) | 2:58 |
+| 31 | [O nich, o Tobie](https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [O nich, o Tobie](https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r) | 2:27 |
 | 32 | [Melodia](https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Królowa dram](https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya) | 3:03 |
 | 33 | [Ostatni \(Rojst '97 \| Netflix\)](https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq) | [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh), [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Urbanski](https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE) | [Ostatni \(Rojst '97 \| Netflix\)](https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ) | 3:39 |
 | 34 | [Kamień z Napisem Love](https://open.spotify.com/track/23KqpM3GPAqiNvfZoyMvsU) | [Enej](https://open.spotify.com/artist/5Dhx2Dt5jkQDTORznqwjo0) | [Paparanoja](https://open.spotify.com/album/6qtt0FdpkEMbKO2ZpPs4Be) | 3:07 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 60 | [My](https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 3:26 |
 | 61 | [Miłość miłość](https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Złoto](https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW) | 3:45 |
 | 62 | [W Glowie](https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Dla Naiwnych Marzycieli](https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR) | 3:25 |
-| 63 | [Chodź, pomaluj mój świat](https://open.spotify.com/track/4ugeq72uzChJZAgvqwD9ub) | [2 + 1](https://open.spotify.com/artist/0QEpcs3nm7UnAMcqL2zrcW) | [Polska nostalgia 60+ Cz\. 4](https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4) | 2:24 |
-| 64 | [List](https://open.spotify.com/track/43npy0Y0oKKfkTvafdGcQC) | [Kamil Bednarek](https://open.spotify.com/artist/5UUsQ38YTugFjdLX82IDAE) | [Oddycham](https://open.spotify.com/album/5WZh3xSvUB8c16EAm4a5NT) | 4:50 |
+| 63 | [List](https://open.spotify.com/track/43npy0Y0oKKfkTvafdGcQC) | [Kamil Bednarek](https://open.spotify.com/artist/5UUsQ38YTugFjdLX82IDAE) | [Oddycham](https://open.spotify.com/album/5WZh3xSvUB8c16EAm4a5NT) | 4:50 |
+| 64 | [Chodź, pomaluj mój świat](https://open.spotify.com/track/4ugeq72uzChJZAgvqwD9ub) | [2 + 1](https://open.spotify.com/artist/0QEpcs3nm7UnAMcqL2zrcW) | [Polska nostalgia 60+ Cz\. 4](https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4) | 2:24 |
 | 65 | [Jedwab](https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn) | [Róze Europy](https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l) | [Poganie! Kochaj i Obrażaj](https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L) | 6:09 |
 | 66 | [Każdego Dnia](https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [Kontrast](https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry) | 3:05 |
 | 67 | [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 74 | [Śpij Kochanie Śpij](https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Kayah & Bregovic](https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX) | 4:31 |
 | 75 | [Dmuchawce, Latawce, Wiatr](https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3) | [Urszula](https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX) | [Wielki Odlot 2 \- Najlepsze 80\-te](https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI) | 5:26 |
 
-Snapshot ID: `MCw3OGJmZWU2YjFjNTQ5ZDEyZWI1YjE3MWU0N2MyNzMwYmQyNjA0MGE2`
+Snapshot ID: `MCwxZGExOTM0YzlkYmZhMGMwNDhkZjM2ZWNhMTEwMzhhNzEzZWNhYzkz`

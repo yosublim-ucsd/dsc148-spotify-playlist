@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152850,
+  "num_followers": 152861,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjQ5NjcxZDczOTNiY2QxMzU5MTU1ZjE5OGM1YTBmNmI0YzZiMWFl",
+  "snapshot_id": "MCwzNjBjODM1MjIyYzBjNzhmNzk0ODJlNGNlNWY0MmI0NGExYTIwMzRi",
   "tracks": [
     {
       "added_at": "2024-01-12 09:52:44",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 376169,
-      "name": "I Drink Wine",
-      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Jealous - EP",
         "url": "https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 287693,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 376169,
+      "name": "I Drink Wine",
+      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 290900,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "~how i'm feeling~",
         "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 189906,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 223043,
+      "name": "Too Much To Ask",
+      "url": "https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 223043,
-      "name": "Too Much To Ask",
-      "url": "https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5"
+      "duration_ms": 290900,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Please Keep Loving Me",
+        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Please Keep Loving Me",
+      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "There's No Way (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/0fZ8R5krm1zAkzUFjqwtpU"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 174860,
       "name": "There's No Way (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/3F7bhRhNpY4YKrwa4kGeUz"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "Please Keep Loving Me",
-        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Please Keep Loving Me",
-      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "The Few Things (With Charlotte Lawrence)",
         "url": "https://open.spotify.com/album/1UTQg1Y9DUJQGZQOICLCv1"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 182666,
       "name": "Love You Anymore",
       "url": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Place We Were Made",
-        "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 185274,
-      "name": "Place We Were Made",
-      "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "love + everything else",
         "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 217161,
       "name": "6 months",
       "url": "https://open.spotify.com/track/2LjeUVxf9m9ugARNcTlbHT"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Place We Were Made",
+        "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 185274,
+      "name": "Place We Were Made",
+      "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 218946,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Voicenotes",
         "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 217560,
       "name": "Change (feat. James Taylor)",
       "url": "https://open.spotify.com/track/17RMnDmv5CEo3s0tmipRyb"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 218946,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 229783,
-      "name": "Flux",
-      "url": "https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno"
       },
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 229783,
+      "name": "Flux",
+      "url": "https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "hungover sunday",
         "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
       },
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Somebody Loved",
-        "url": "https://open.spotify.com/album/5EtmydsGgsDtdLDEsbOFZL"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 153105,
-      "name": "Somebody Loved",
-      "url": "https://open.spotify.com/track/3s8AL0lXdxJYcyqELOrh2l"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Scars To Your Beautiful",
         "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 237857,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Somebody Loved",
+        "url": "https://open.spotify.com/album/5EtmydsGgsDtdLDEsbOFZL"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 153105,
+      "name": "Somebody Loved",
+      "url": "https://open.spotify.com/track/3s8AL0lXdxJYcyqELOrh2l"
     },
     {
       "added_at": "2024-01-12 09:52:44",

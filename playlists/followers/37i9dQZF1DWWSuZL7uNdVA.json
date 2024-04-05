@@ -1,7 +1,7 @@
 {
-  "2024-04-04": 392271,
+  "2024-04-05": 392359,
   "date_first_scraped": "2023-09-29",
-  "description": "Green Day au top des meilleurs morceaux rock du moment.",
+  "description": "Sum 41 au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -39,6 +39,24 @@
       "duration_ms": 195278,
       "name": "A Little Bit Happy",
       "url": "https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt"
+    },
+    {
+      "album": {
+        "name": "Abyss (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123293,
+      "name": "Abyss - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
     },
     {
       "album": {
@@ -475,7 +493,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 197026,
       "name": "Cold World",
       "url": "https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW"
@@ -663,6 +681,24 @@
       "duration_ms": 271515,
       "name": "Don't Tell Me (feat. Ann Wilson)",
       "url": "https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc"
+    },
+    {
+      "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186831,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
     },
     {
       "album": {
@@ -1056,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/0ef4O5dEVqdhZ2q4nHMnnp"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216849,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/5A9K5Zh7GpSYDleqWr2OGl"
+    },
+    {
+      "album": {
         "name": "HONEY (ARE U COMING?)",
         "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
       },
@@ -1197,6 +1251,24 @@
       "duration_ms": 198521,
       "name": "I Was Alive",
       "url": "https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX"
+    },
+    {
+      "album": {
+        "name": "I'm Picky (Unplugged)",
+        "url": "https://open.spotify.com/album/4qB8iUqNumEkKAa1LFst5f"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205506,
+      "name": "I'm Picky - Unplugged",
+      "url": "https://open.spotify.com/track/6TTvowVIZ8YyMd8DZcdmw8"
     },
     {
       "album": {
@@ -1485,7 +1557,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 209799,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
@@ -1575,7 +1647,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 207670,
       "name": "My Condition",
       "url": "https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ"
@@ -1597,6 +1669,24 @@
       "duration_ms": 194000,
       "name": "My House",
       "url": "https://open.spotify.com/track/7i1FxvxQeTkPzdFeXukZ0j"
+    },
+    {
+      "album": {
+        "name": "Next Semester",
+        "url": "https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "Next Semester",
+      "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
     },
     {
       "album": {
@@ -2353,7 +2443,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 190130,
       "name": "Supermodel Avalanches",
       "url": "https://open.spotify.com/track/3daLDEbCt1fvkS7POmwu2U"
@@ -2645,7 +2735,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 183849,
       "name": "Time :: Fate :: Karma :: God",
       "url": "https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt"

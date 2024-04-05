@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,584 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,608 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 79 | [La Última Llamada](https://open.spotify.com/track/3xqO0HGtRgTkS9xzNEQxwb) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/5SFEcLOtKOTjlI1q72TbnL) | 3:14 |
 | 80 | [Airplane](https://open.spotify.com/track/6BVcHhEzkuVDU97bbNlJDF) | [TAPPAN](https://open.spotify.com/artist/23DnlRuTAuHrgdtWH8PU4x) | [Airplane](https://open.spotify.com/album/7CgZMHYBN6cuHilMgnaFur) | 7:24 |
 
-Snapshot ID: `MCwyMWFlNDMzZDc0MTFmNGJhNzFjYTU1ZjYyMzcxMjE0MmU0Y2Q1MzNm`
+Snapshot ID: `MCw1NTg5YzhiZDRlYTIwM2QxYTdkMmY4MmFmMzRlNzVkYjc0ZDJjMmZl`

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Astrid
 
-121 songs - 8 hr 15 min
+126 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Akulah Dia](https://open.spotify.com/track/1REjtRSFuT2iWod0vABJSP) | [Drive](https://open.spotify.com/artist/1DgveZI0VAdnZxNiEsZPuF) | [Bintang Yang B3rsinar](https://open.spotify.com/album/7ATum5JLe0NNIegMJ0ItOI) | 3:16 | 2024-01-05 |  |
 | [Angin Pujaan Hujan](https://open.spotify.com/track/43LZAANFvlIKMgcU4QiYBx) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 3:32 | 2024-01-05 |  |
 | [Apa Kabar Sayang](https://open.spotify.com/track/4o6EhGQmzoQZgwYqI6WD5s) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Satu Hati Sejuta Cinta](https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo) | 4:23 | 2024-01-05 |  |
+| [April](https://open.spotify.com/track/5vzRjB22yfvxZua0mknCo6) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Tempat Aku Pulang](https://open.spotify.com/album/2Vu9vlqebIXTxVSZiuxpyj) | 4:21 | 2024-04-04 |  |
 | [Asal Kau Bahagia](https://open.spotify.com/track/79AlxPlv70kuRlsi2eZsnV) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Maju Terus Pantang Mundur \(Deluxe Version\)](https://open.spotify.com/album/1wCop93d6T0oG496Qman6b) | 4:05 | 2024-01-05 |  |
 | [Bahagia](https://open.spotify.com/track/31swUEisRXt0oEz3iM6MOy) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [Bahagia](https://open.spotify.com/album/6DDxznSldww5bW8Zbi9EGg) | 3:42 | 2024-01-05 |  |
 | [Bawalah Cintaku](https://open.spotify.com/track/3xpMytpniCnjXCgy7TcFDw) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [The One](https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg) | 3:53 | 2024-01-05 |  |
@@ -50,6 +51,7 @@
 | [Hari Bersamanya](https://open.spotify.com/track/1nfOP7xNHeFSPOlziXswJc) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Berlayar](https://open.spotify.com/album/2yDNCNEbfaE2GnCSkY7yba) | 3:52 | 2024-01-05 |  |
 | [Harusnya Aku](https://open.spotify.com/track/4NO6tr1qkrDQWgz0IEyxwE) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Pagi Pulang Pagi](https://open.spotify.com/album/3WOli1F3NswIesoWcJ6jpa) | 4:42 | 2024-01-05 |  |
 | [Hidup Segan Mati Tak Mau](https://open.spotify.com/track/3G4XW2t5ohqHpZ8l79zKtQ) | [Gamma1](https://open.spotify.com/artist/4c4TlVWGSvRk1mBfZdYsnX) | [Hidup Segan Mati Tak Mau](https://open.spotify.com/album/1JlYOw6NNSDBYpcr5GNNPv) | 4:19 | 2024-01-05 |  |
+| [Hinaan Membuat Tegar](https://open.spotify.com/track/5hvAg2884QAlC5E9P30KMN) | [Stand Here Alone](https://open.spotify.com/artist/3YwAgafEWJCd6Haotq7Qd2) | [Melodichildish](https://open.spotify.com/album/6Ww2FnpfXq6wYZHgzFl4pV) | 2:43 | 2024-04-04 |  |
 | [Hingga Nanti](https://open.spotify.com/track/6dWuSh2WDrllXoG1lvlyZX) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Persona](https://open.spotify.com/album/0umqxnA4rVmsdw2qKtcVDA) | 4:29 | 2024-01-05 |  |
 | [I Don't Care](https://open.spotify.com/track/5ilDbZZfx3PAIuPiyRHRuY) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [I Don't Care](https://open.spotify.com/album/3eg2siLGCzvQuT2iBIHmUE) | 4:08 | 2024-01-05 |  |
 | [I Heart You](https://open.spotify.com/track/78rsxJsbBtWtTcCwgJqoA3) | [SMASH](https://open.spotify.com/artist/1x5dGP91xs8B6VCi80SlQF) | [Senyum Semangat](https://open.spotify.com/album/7nnmhFkm8eqY4d8wAhhjom) | 3:20 | 2024-01-05 |  |
@@ -87,6 +89,8 @@
 | [Oh Baby](https://open.spotify.com/track/2Sol76xmqWjMa8MKhgMYJF) | [Cinta Laura Kiehl](https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn) | [Cinta Laura](https://open.spotify.com/album/5mm6E2mqMUFzPMR6z8kOkA) | 4:27 | 2024-01-05 |  |
 | [Pelangi](https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:37 | 2024-01-05 |  |
 | [Perahu Kertas](https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Moments](https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI) | 3:54 | 2024-01-05 |  |
+| [Resah](https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 4:00 | 2024-04-04 |  |
+| [Rindu](https://open.spotify.com/track/5gfV3clsxxJpYkpPEGgXg4) | [Agnes Monica](https://open.spotify.com/artist/5auFhdM0ZgtH6cXwncgZ4m) | [Rindu](https://open.spotify.com/album/6BNnA4UVpYCV2afvTuI61H) | 4:20 | 2024-04-04 |  |
 | [Saat Bahagia](https://open.spotify.com/track/11HoyxwXVwWq6lj2Rv37CH) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [1000 Kisah Satu Hati](https://open.spotify.com/album/7b0PfthjmXQJ0rRX3mYQrA) | 4:09 | 2024-01-05 |  |
 | [Sakit Jiwa](https://open.spotify.com/track/4WQjm8mZBt6kREAt6GkdK2) | [NTRL](https://open.spotify.com/artist/710Oh5ushpaeLgSIcbW8hI) | [11/12](https://open.spotify.com/album/7KScqTiLDVO1l4xwHV53Yy) | 2:10 | 2024-01-05 |  |
 | [Sampai Mati](https://open.spotify.com/track/0VMb5OupyZA27f2u6Sck01) | [Putih](https://open.spotify.com/artist/3Yn6aM7XCgMbWGmOrI7zTO) | [Apa Kabar Cinta](https://open.spotify.com/album/0uAfzhtdFkD5AfShuX8610) | 4:31 | 2024-01-05 |  |
@@ -109,6 +113,7 @@
 | [Tak Pernah Padam](https://open.spotify.com/track/0heY4hxgRs6s1wrMtrS3YJ) | [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [Find The Way](https://open.spotify.com/album/3kOVbZ8Ccl83UB9cGTvvi5) | 4:01 | 2024-01-05 |  |
 | [Tak Pernah Setengah Hati](https://open.spotify.com/track/1fQXGG0sFipvXLpfZNBnCw) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Tak Pernah Setengah Hati](https://open.spotify.com/album/1mD1MYI8G78f0kfFhno2nA) | 4:01 | 2024-01-05 |  |
 | [Tak Sanggup Lagi](https://open.spotify.com/track/759ZvLrnZ3Q7mEEivQPgrG) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [The Best Of Rossa](https://open.spotify.com/album/2w3xXab78mN8xhPEvAu91z) | 4:09 | 2024-01-05 |  |
+| [Tak Seindah Malam Kemarin](https://open.spotify.com/track/1DJZNhMAM2F57d7lpge9dQ) | [D'Bagindas](https://open.spotify.com/artist/6IVfG2b4I86tYdigTdpWUa) | [C.I.N.T.A](https://open.spotify.com/album/0YLrEcDTqw0AGUjvLeR9ck) | 4:43 | 2024-04-04 |  |
 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 | 2024-01-05 |  |
 | [Tanpa Cinta](https://open.spotify.com/track/0qjuyXWrksQxIRntqz9ZJV) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Still The One](https://open.spotify.com/album/2KZ89EkUZMZMuHuDdi3VNN) | 4:16 | 2024-03-14 |  |
 | [Tanpa Cinta](https://open.spotify.com/track/2e4xYHvEtqSfl70ntZJMp2) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Semua Tentang Cinta](https://open.spotify.com/album/7niZZvWmVMpCOx7eABTnch) | 4:16 | 2024-01-05 |  |

@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Am Fuschlsee",
+        "url": "https://open.spotify.com/album/1hrGVeNjcMuU0vne38brsd"
+      },
+      "artists": [
+        {
+          "name": "Duo MR",
+          "url": "https://open.spotify.com/artist/7hfYp0jhsWfGQImrzTEa3i"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230812,
+      "name": "Am Fuschlsee",
+      "url": "https://open.spotify.com/track/3IQxXk7kjHO2YTaf0kDD7K"
+    },
+    {
+      "album": {
         "name": "Morgenstund",
         "url": "https://open.spotify.com/album/2ni9DbZXvKnvHyr5UbYAo5"
       },
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 169818,
       "name": "Cut Flower Garden",
       "url": "https://open.spotify.com/track/4mODR07RUAtPBH4ACE0r1r"
@@ -8483,6 +8501,24 @@
     },
     {
       "album": {
+        "name": "Resolve",
+        "url": "https://open.spotify.com/album/7CFTnTVuiu6Bz3iupotMsN"
+      },
+      "artists": [
+        {
+          "name": "Amalia Booth",
+          "url": "https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160095,
+      "name": "Resolve",
+      "url": "https://open.spotify.com/track/6YKeEQOMBRxrv9kY5A4pON"
+    },
+    {
+      "album": {
         "name": "Rest Sea",
         "url": "https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq"
       },
@@ -8548,7 +8584,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 160820,
       "name": "Ricorda",
       "url": "https://open.spotify.com/track/3N53aMV2eJB32wb2G2Pns0"

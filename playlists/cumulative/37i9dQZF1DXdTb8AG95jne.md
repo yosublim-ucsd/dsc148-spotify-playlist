@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Choi Jungyoon\(최정윤\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: dosii\(도시\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-635 songs - 1 day 14 hr 52 min
+636 songs - 1 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Childish](https://open.spotify.com/track/4QGPJZqJYuTpATRAS4Iuhl) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Childish](https://open.spotify.com/album/1h20JRQVqlyNfbcLiqk5sv) | 3:41 | 2022-03-31 | 2022-04-14 |
 | [Cho Shim](https://open.spotify.com/track/3aBUjaRyaYy4SeGgtWNQrb) | [Kiha & The Faces](https://open.spotify.com/artist/0oN8IZB1C3lY1ABKwJOu1I) | [Cho Shim](https://open.spotify.com/album/7my2kBdURtWlo6XGzFVYW8) | 3:16 | 2022-03-31 | 2022-04-07 |
 | [chocolate trip](https://open.spotify.com/track/0ol6tWu3kZ00ayldBNA0fp) | [Shin Onyu & Kim Kang](https://open.spotify.com/artist/7sxSiet6ZE19Q9N2C0dMzT) | [chocolate trip](https://open.spotify.com/album/5tGEMXwyGb0jkvbTCEnkX0) | 4:07 | 2022-03-31 | 2022-04-25 |
+| [Chum](https://open.spotify.com/track/1hJ2GU2nVI8Rwl5ID2HkST) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Chum](https://open.spotify.com/album/6m36ppwpEQmoLRmvdgBBDh) | 3:45 | 2024-04-04 |  |
 | [City Lights](https://open.spotify.com/track/36xcAYhiCUnzBoydVmxkO3) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [City Lights](https://open.spotify.com/album/2TJmQDLlBkXQiMLI9H6gG6) | 4:01 | 2021-12-21 | 2022-05-28 |
 | [city snail](https://open.spotify.com/track/6IXYWgfzEP2Raa7E4JK2rB) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [city snail](https://open.spotify.com/album/5Ii8pas6FicEhbLa2sifLj) | 3:36 | 2022-10-31 | 2022-11-11 |
 | [Cliché](https://open.spotify.com/track/2i4r6SnXUtGAqjHZ7nJHrB) | [Couch Peach](https://open.spotify.com/artist/1Bjp4QYmnT2wUDrgJxYF9b) | [Cliché](https://open.spotify.com/album/3pPuexxtl6nMRlbdJCZYlb) | 2:38 | 2022-02-16 | 2022-07-28 |
@@ -209,7 +210,7 @@
 | [Hangkio](https://open.spotify.com/track/0hUYYFoOPCuSsb6stdqR0h) | [Shin Onyu](https://open.spotify.com/artist/3dSchlsDeFd5mEw4RoAMOx) | [Happy Orange](https://open.spotify.com/album/76TnC7yj8OkyDIsTBpCak5) | 3:57 | 2021-12-21 | 2022-07-01 |
 | [Happy Ending](https://open.spotify.com/track/3BgEBMpkiYoWQtWT9AAdft) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Happy Ending](https://open.spotify.com/album/0SgKOEUQhYZXOkiRDRnmCZ) | 3:36 | 2024-01-22 | 2024-02-08 |
 | [HAPPY IPARK](https://open.spotify.com/track/6JPOfa2RLi0AQAgIr9VNfV) | [a pretty day 예쁜하루](https://open.spotify.com/artist/3qflgxvWuvqXL0EtDzBWOq) | [HAPPY IPARK](https://open.spotify.com/album/1JgZjUurQfkgMrdh21zQNd) | 1:48 | 2022-03-31 | 2022-04-21 |
-| [Hard to say goodbye](https://open.spotify.com/track/2U7OKfz4JsIQNJo3LuJBiV) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [Secret](https://open.spotify.com/album/6hJ9uTCJk20Y8FLmV5CgBa) | 3:19 | 2024-03-28 |  |
+| [Hard to say goodbye](https://open.spotify.com/track/2U7OKfz4JsIQNJo3LuJBiV) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [Secret](https://open.spotify.com/album/6hJ9uTCJk20Y8FLmV5CgBa) | 3:19 | 2024-03-28 | 2024-04-05 |
 | [Hate Everything \- Korean Version](https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R) | 3:25 | 2022-07-27 |  |
 | [Hate Everything \- Korean Version](https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/73Qi78BaJKF8PNd7WuG97d) | 3:25 | 2021-12-12 | 2022-07-25 |
 | [Haute](https://open.spotify.com/track/14jEON4mqnJOclBOORrEMy) | [sueun](https://open.spotify.com/artist/0rStncdtq6ZiVoeCwjGPZ2) | [9 ways to say "I Love You"](https://open.spotify.com/album/5ncCGQypYgjQSyftbcGs29) | 3:52 | 2022-03-31 | 2022-04-07 |

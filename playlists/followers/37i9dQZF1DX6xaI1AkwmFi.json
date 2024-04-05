@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 23799,
+  "2024-04-05": 23826,
   "date_first_scraped": "2023-11-24",
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
   "name": "\u30b9\u30c8\u30ed\u30dc",
@@ -169,6 +169,24 @@
       "duration_ms": 241688,
       "name": "appetite",
       "url": "https://open.spotify.com/track/2rPx3FXcRrEAjeyMfcpX47"
+    },
+    {
+      "album": {
+        "name": "Awaini",
+        "url": "https://open.spotify.com/album/2PKY0nUkj6ou7NS1TWyDBx"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201471,
+      "name": "Awaini",
+      "url": "https://open.spotify.com/track/2LvtiKmK2dOIH8NjSlix7d"
     },
     {
       "album": {
@@ -2113,7 +2131,7 @@
     {
       "album": {
         "name": "Love One Another",
-        "url": "https://open.spotify.com/album/47MmxhLmTn7W91dxYCHvT9"
+        "url": "https://open.spotify.com/album/2BKXSl0ktKpWNHzqdAAy1T"
       },
       "artists": [
         {
@@ -2124,6 +2142,24 @@
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 225149,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/4V79L8tRqdgQLT1og54hN6"
+    },
+    {
+      "album": {
+        "name": "Love One Another",
+        "url": "https://open.spotify.com/album/47MmxhLmTn7W91dxYCHvT9"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-04",
       "duration_ms": 225149,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/7Bek5MohEgCbfAs91H3Di1"
@@ -2177,7 +2213,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 201471,
       "name": "\u3042\u308f\u3044\u306b",
       "url": "https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95"
@@ -3131,7 +3167,7 @@
     {
       "album": {
         "name": "\u6211\u611b\u4f60",
-        "url": "https://open.spotify.com/album/5XYQBTfK9zxRR4HFsl2kvF"
+        "url": "https://open.spotify.com/album/4YPoqvQZQUdZPFNPhXnvrF"
       },
       "artists": [
         {
@@ -3142,6 +3178,24 @@
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 193808,
+      "name": "\u6211\u611b\u4f60",
+      "url": "https://open.spotify.com/track/2xAeOLHRYvrXNxgwU3s3xb"
+    },
+    {
+      "album": {
+        "name": "\u6211\u611b\u4f60",
+        "url": "https://open.spotify.com/album/5XYQBTfK9zxRR4HFsl2kvF"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-04",
       "duration_ms": 193808,
       "name": "\u6211\u611b\u4f60",
       "url": "https://open.spotify.com/track/4wmQg9Rf89PcAxKydEMp8f"

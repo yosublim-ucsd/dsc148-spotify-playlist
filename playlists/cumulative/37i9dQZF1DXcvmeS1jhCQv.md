@@ -4,7 +4,7 @@
 
 > New tunes from Ireland for your discovery\. Cover: TraviS, Elzzz
 
-117 songs - 6 hr 32 min
+120 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [BLOW!](https://open.spotify.com/track/5ELT4PdWP7CaveDVvKKqLf) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud) | [BLOW!](https://open.spotify.com/album/2Pk7R5TkupH1Xtl3MIZoUm) | 3:02 | 2024-03-08 |  |
 | [Blue Blood](https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Blue Blood](https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4) | 2:34 | 2024-02-02 |  |
 | [board games](https://open.spotify.com/track/4443fSuLl236FMsPXf9Zvt) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [board games](https://open.spotify.com/album/3oaGwQVhXpIqZiZJUFtCtv) | 2:55 | 2024-02-02 | 2024-03-02 |
+| [Boyfriend](https://open.spotify.com/track/7HQ1uP9ljzPXe6qgaOlFgc) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [Boyfriend](https://open.spotify.com/album/5AwxyJ0KmVm17VWaH1Hybu) | 2:54 | 2024-04-05 |  |
 | [Chelsea Bakery](https://open.spotify.com/track/4nFnrQgocP9fvcF5lOO87t) | [Fizzy Orange](https://open.spotify.com/artist/1hSt79a7e2OZzSD3pJgtCZ) | [Chelsea Bakery](https://open.spotify.com/album/02DHWSoYSF7Q0oyuBO18Pc) | 2:57 | 2024-02-16 |  |
 | [Cherry Delight](https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Cherry Delight](https://open.spotify.com/album/5J3jmFBDseDbLmrtto1bcy) | 2:57 | 2024-02-02 | 2024-03-02 |
 | [Chess](https://open.spotify.com/track/3KMoXqNDbTFMXcZUs6MWUp) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Chess](https://open.spotify.com/album/3dALI1Y4N2D5D0oV09aWrO) | 3:11 | 2024-02-02 |  |
@@ -55,7 +56,7 @@
 | [In The End](https://open.spotify.com/track/0EzrpH6IwHdPbZKHqtIS4Q) | [Fiona O' Connell](https://open.spotify.com/artist/0EycwYy6PGKtlZntaQThjr) | [In The End](https://open.spotify.com/album/2YhJJxFJUEh7yuRqOKHbAU) | 4:40 | 2024-02-02 |  |
 | [INFINITY](https://open.spotify.com/track/2cBpwQbzk3MdkoaPNKpUN9) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [INFINITY](https://open.spotify.com/album/078rjfb2B2LNh1FwQdngoT) | 3:05 | 2024-02-02 | 2024-03-29 |
 | [intertwined](https://open.spotify.com/track/4M4DHOpufNAUyZEQItTM5A) | [Layen\_](https://open.spotify.com/artist/2G4ZOA56VInkCSJ4q3D9ZY) | [intertwined](https://open.spotify.com/album/15gKDc6hSPIZ9Yx0AyzdeY) | 3:11 | 2024-02-02 |  |
-| [Kerosene](https://open.spotify.com/track/3TFPiUHCrjOFflFVtC4qJs) | [SAL](https://open.spotify.com/artist/7Bvp3oED3xilWSLnFBW369) | [Kerosene](https://open.spotify.com/album/4kwLx8Nn42e8XsrFN2Hdi3) | 4:29 | 2024-02-02 |  |
+| [Kerosene](https://open.spotify.com/track/3TFPiUHCrjOFflFVtC4qJs) | [SAL](https://open.spotify.com/artist/7Bvp3oED3xilWSLnFBW369) | [Kerosene](https://open.spotify.com/album/4kwLx8Nn42e8XsrFN2Hdi3) | 4:29 | 2024-02-02 | 2024-04-05 |
 | [Like A Lesson](https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Like A Lesson](https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx) | 3:19 | 2024-03-15 |  |
 | [Like I Know You](https://open.spotify.com/track/5Ivojtwe4uoTnMOqJAW6KH) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Like I Know You](https://open.spotify.com/album/5GlI2oHXf8ptPpi6ZWrrP9) | 3:25 | 2024-03-15 |  |
 | [Locked Up Never Fade](https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Locked Up Never Fade](https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8) | 5:24 | 2024-02-02 |  |
@@ -83,6 +84,7 @@
 | [Open Ended](https://open.spotify.com/track/5SlEyBuGTGWvCCY7igLmny) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Open Ended](https://open.spotify.com/album/0ofMe7xxj2EZiFR9YVmBrw) | 3:24 | 2024-02-02 | 2024-02-23 |
 | [Our Time](https://open.spotify.com/track/0m3rJzSC3u0DAgRp8V5y0b) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [Our Time](https://open.spotify.com/album/7uNkcvXJxHH3roLYAjBixB) | 2:30 | 2024-02-23 |  |
 | [Outside](https://open.spotify.com/track/0I2xts4kga2ulOC3yM0roB) | [Syano](https://open.spotify.com/artist/58OyCAJb1NYuQMhCeuq8Rt), [SYGH](https://open.spotify.com/artist/5uVm4NbxKsMNTQF3KXGzPN) | [Outside](https://open.spotify.com/album/5DU1INumD6DSbYL4odHEkG) | 2:54 | 2024-02-02 |  |
+| [Paris](https://open.spotify.com/track/4KxQWXimKCGVTatrSwmrYw) | [Evie](https://open.spotify.com/artist/1kOS484jvPsfcdWNpKEGG9) | [Paris](https://open.spotify.com/album/6IxEWhtC68ce07yxKnwydM) | 3:46 | 2024-04-05 |  |
 | [People](https://open.spotify.com/track/0xi7qZJw7b1colPIEGG8bB) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [People](https://open.spotify.com/album/3FFC8lDz8RhvpHtO89NLix) | 3:44 | 2024-02-02 | 2024-03-08 |
 | [Plans](https://open.spotify.com/track/73wrWfbOAms1ZouKuBuh0D) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Plans](https://open.spotify.com/album/3fGvMYRJ29zRyoHfsPU9z6) | 2:55 | 2024-02-02 | 2024-03-29 |
 | [Pretty Happy Alone](https://open.spotify.com/track/1qwG5MyG0BnBDzAWOfLusM) | [The Love Buzz](https://open.spotify.com/artist/103TWTu6vxVZ9g6eqA1ntP) | [Pretty Happy Alone](https://open.spotify.com/album/4CflMNEveOX5PvgU1MHUXq) | 3:02 | 2024-03-22 |  |
@@ -91,9 +93,10 @@
 | [rain](https://open.spotify.com/track/2mFHuOSkUuTjknIcm9z1v5) | [wxlfcut](https://open.spotify.com/artist/4KsTSYMKkgKaRpPAbjbLnJ) | [rain](https://open.spotify.com/album/704xBAoF4PQXfM188RR020) | 3:08 | 2024-02-16 |  |
 | [Reject Loser Daydream](https://open.spotify.com/track/7oo31yFxiG3IEu90guW8Aq) | [whoisdays](https://open.spotify.com/artist/1JvxXVFAnvaTUBDgX82vHS) | [Reject Loser Daydream](https://open.spotify.com/album/5Zrj7PUYLLZozST3datBG0) | 2:58 | 2024-02-02 | 2024-02-23 |
 | [Rivers](https://open.spotify.com/track/6Ly5TRE6GVx2K6vVnHa0ru) | [Conchúr White](https://open.spotify.com/artist/3CKoNNHadnfwIuDzOmX7vF) | [Rivers](https://open.spotify.com/album/5ZAcHFKb7UkBq49KSK3mG3) | 3:01 | 2024-02-02 | 2024-03-08 |
+| [RoseGold](https://open.spotify.com/track/3HwPz3OzoXWOEA1yiAIMZo) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [RoseGold](https://open.spotify.com/album/6Ane8pLlHEehPVZWe26z4N) | 4:56 | 2024-04-05 |  |
 | [See You In a Year and a Half](https://open.spotify.com/track/53JxyMqGibF07pBJ7aA2HJ) | [CABL](https://open.spotify.com/artist/1YCTaB9cH7i6IDBbS3Rp98) | [See You In a Year and a Half](https://open.spotify.com/album/3wOvqeu8ZppPF9LWD2bcYz) | 5:09 | 2024-02-02 |  |
 | [Self Sabotage](https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Self Sabotage](https://open.spotify.com/album/1xL7LvJtJlAjWPrtA7Aj0v) | 2:25 | 2024-03-29 |  |
-| [Sentences](https://open.spotify.com/track/2MI97Z7aN6BsMUpKjGs6MJ) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Sentences](https://open.spotify.com/album/4vduPHyboJB0uaGjft8I8b) | 2:13 | 2024-02-23 |  |
+| [Sentences](https://open.spotify.com/track/2MI97Z7aN6BsMUpKjGs6MJ) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Sentences](https://open.spotify.com/album/4vduPHyboJB0uaGjft8I8b) | 2:13 | 2024-02-23 | 2024-04-05 |
 | [Shadow](https://open.spotify.com/track/3hgmSLTBSBVBlxOF0xV01r) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Shadow EP](https://open.spotify.com/album/1UTIEbg5uN419e3TVEAfOV) | 2:47 | 2024-03-08 |  |
 | [Shot In The Dark](https://open.spotify.com/track/0pK7Np2Rx6dYaNioN1i6np) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Shot In The Dark](https://open.spotify.com/album/67tb6jF9KTKzLlhc0HDk32) | 2:59 | 2024-02-02 | 2024-03-29 |
 | [situation blues](https://open.spotify.com/track/0M8fNSuSDNC9m0opdAs1xW) | [Jehnova](https://open.spotify.com/artist/1R8b9K6QEpHdV5c88fuH1n) | [IOU 5](https://open.spotify.com/album/3Y9QcveOO76ttyWBogog8D) | 3:07 | 2024-02-02 |  |
@@ -109,7 +112,7 @@
 | [Teeth](https://open.spotify.com/track/368TV7O9qxwJcDilBt68iz) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Teeth](https://open.spotify.com/album/0rOsqiiI0Ek08YYv3jEm3U) | 3:52 | 2024-02-02 | 2024-03-02 |
 | [The First Time](https://open.spotify.com/track/6QHVGZoT5oZqIbn2TkpNW6) | [Stella and the Dreaming](https://open.spotify.com/artist/3GOfdAHQH8AfUfA2lisXp6) | [The First Time](https://open.spotify.com/album/2lMsA1YGTTt93coLMkAlFP) | 4:27 | 2024-02-16 |  |
 | [The Moment](https://open.spotify.com/track/0Cm3GLhnwLN7C5p3gvoF0F) | [Elaine Mai](https://open.spotify.com/artist/0wRHsCARScopB5WmbQzMcy), [soft centre](https://open.spotify.com/artist/3Aq9mGuowzDwPP8Go1FHZy) | [The Moment](https://open.spotify.com/album/4H1qLDeGdpoQFdpZjiX5MR) | 2:46 | 2024-02-02 | 2024-02-23 |
-| [The Pressures of the Heart](https://open.spotify.com/track/0dBhs5Aw3NO9gAVIWrnmLZ) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [The Pressures of the Heart](https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe) | 2:54 | 2024-03-01 |  |
+| [The Pressures of the Heart](https://open.spotify.com/track/0dBhs5Aw3NO9gAVIWrnmLZ) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [The Pressures of the Heart](https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe) | 2:54 | 2024-03-01 | 2024-04-05 |
 | [The State](https://open.spotify.com/track/2z8W8Wyfy2XMU7kSnDTPNF) | [Fynch](https://open.spotify.com/artist/0IKMnBuBLJuHcrTejKmrtx) | [Youngfella](https://open.spotify.com/album/1RRioAfHKB6wujcoO1Zi3p) | 3:07 | 2024-03-01 |  |
 | [They Called Her Something](https://open.spotify.com/track/0MuNwv9HUPJVqy1vLUSMKt) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9) | [Burning Flower](https://open.spotify.com/album/4meRsebzAu9jYAVhD5mWsQ) | 3:04 | 2024-03-01 |  |
 | [Travel Size](https://open.spotify.com/track/3Z3wrUVY4ct2PozNaPB5hv) | [Rachael Lavelle](https://open.spotify.com/artist/6fB2D85hn56JzRBTlCG0nw) | [Travel Size](https://open.spotify.com/album/2GU2ufSlyZx18xc6Ri3X5Y) | 3:30 | 2024-02-02 | 2024-02-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Asal
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,337 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,371 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 79 | [Jeje](https://open.spotify.com/track/3J6yVWwtgHvYazpP0E8evl) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [Jeje](https://open.spotify.com/album/3kOBu4Rnj58f6W3LvwvFYD) | 2:49 |
 | 80 | [In My Mind](https://open.spotify.com/track/5vV2z9EwVzZ4EPeV8e2YXd) | [DJ Rosegold](https://open.spotify.com/artist/25AzYlOR12VRVYdFWcNYfH), [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [In My Mind](https://open.spotify.com/album/2TiAVPNgib6tF38a5uNz0H) | 2:53 |
 
-Snapshot ID: `MCwyMjQxNmZkNTIyNDQ3N2JkMWU4OWM3NWE1NzA4NjNhYjMzMWMxNzRm`
+Snapshot ID: `MCxmYTYwNjgzZTg1Y2ViMjcwNTNmNWExNWUwNjcxODk5MmM2MWM2YWE3`

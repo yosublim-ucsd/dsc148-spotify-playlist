@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Christone "Kingfish" Ingram
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,620 likes - 100 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,649 likes - 100 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 40 | [Chills & Thrills \- Live](https://open.spotify.com/track/1oP2JLLzJNqoIMH5nh1iKi) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Live at the Jazzhaus](https://open.spotify.com/album/5ecLOcNNAIyy2ItMEIMwK4) | 6:50 |
 | 41 | [Frosty \- Live](https://open.spotify.com/track/69Vo5KVrgmyq3pqqjBpF6c) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Frosty \(Live\)](https://open.spotify.com/album/4X8u9qDAj8Gk8E58ExF7KY) | 5:54 |
 | 42 | [Watchagonnado \- Live](https://open.spotify.com/track/3dbmtHrcXvJu6i1TcLzP81) | [Supersonic Blues Machine](https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD) | [Road Chronicles: Live!](https://open.spotify.com/album/2A4kEXoGNdaZiAlWb4njWq) | 5:29 |
-| 43 | [Night Train \- Live](https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Songs from the Road](https://open.spotify.com/album/59Z7Qnuk07Q0zWgV8RrvAo) | 4:58 |
+| 43 | [Night Train \- Live](https://open.spotify.com/track/1QhvGOZakzxuKqUZar1igP) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Songs from the Road](https://open.spotify.com/album/1vkQQinEKYwF7QV0T9vURF) | 4:58 |
 | 44 | [Mad As A Hatter \- Live in Concert](https://open.spotify.com/track/3msGgsgqMQXd7nO1S2e59f) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live in Concert\)](https://open.spotify.com/album/5u6igDbmfkKA1PW3DBItKH) | 5:12 |
 | 45 | [The Loyal Kind \(Live\)](https://open.spotify.com/track/3VlxQrEaQAehaxvPUpN9Gi) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Loyal Kind \(Live\)](https://open.spotify.com/album/0ApJp0w406tV4tWNFwMWBk) | 6:34 |
 | 46 | [Can't Walk Away From It Now \- Live](https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD) | [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Liquid Quartet Live](https://open.spotify.com/album/2nFenn9ap5FXUoMZWd2P4X) | 5:20 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 51 | [I Didn't Know \- Live](https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I Didn't Know \(Live\)](https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi) | 3:18 |
 | 52 | [Ride On Josephine \- Live In Boston, Massachusetts / 1982](https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Ride On Josephine \(Live In Boston / 1982\)](https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP) | 8:21 |
 | 53 | [Nobody Knows You When You're Down And Out \- Live at LOCKN' / 2019](https://open.spotify.com/track/5kV1sqmhNp1ScB6akb8SMJ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Layla Revisited \(Live at LOCKN'\)](https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2) | 4:59 |
-| 54 | [Let Me Know](https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch) | [Walter Trout and The Free Radicals](https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht) | [Live Trout Vol\. 1](https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1) | 5:04 |
+| 54 | [Let Me Know](https://open.spotify.com/track/6VfK8MlwXtfKZEGCpE1OLk) | [Walter Trout and The Free Radicals](https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht) | [Live Trout Vol\. 1](https://open.spotify.com/album/5r4Lb5EDyEin9UOGemXbYr) | 5:04 |
 | 55 | [Judgment Day](https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Songs from the Road](https://open.spotify.com/album/7HriuGrlYdLiubO6XQGbkt) | 7:17 |
 | 56 | [Camp Washington Chile/If You Have To Know](https://open.spotify.com/track/2Z9bN4v0RG8TRkcgw3htap) | [Lonnie Mack](https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns) | [Live \- Attack Of The Killer V](https://open.spotify.com/album/6XeZLDhgXBlqPAEVTV86UQ) | 7:34 |
 | 57 | [Touch My Blues Away \- Live](https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Touch My Blues Away](https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR) | 9:04 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 67 | [Weatherman](https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY) | [Tasha Taylor](https://open.spotify.com/artist/5FvwlIaI3vlml6cqXW4Lcq) | [Ina Forsman, Layla Zoe, Tasha Taylor](https://open.spotify.com/album/4SnOh8hWz3RH4CEb31wXh3) | 3:38 |
 | 68 | [Stop Breakin' Down \- Live](https://open.spotify.com/track/6dB8978aNpxv00JwIY3gui) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Live At Montreux 1999](https://open.spotify.com/album/1dP8l4ixSJsI0T4au2j6ln) | 6:50 |
 | 69 | [Rattlesnake Shake \(with Steven Tyler, Billy Gibbons\) \(Live from The London Palladium\)](https://open.spotify.com/track/2cw1cZG9T3goqZOOqjkrqI) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac](https://open.spotify.com/album/4mRWbr6PnIIo3ealvjT60y) | 4:49 |
-| 70 | [Do You Wanna \- Live](https://open.spotify.com/track/4dHpgdH4HNPTDxOrTFKnhy) | [Vanja Sky](https://open.spotify.com/artist/11qCism35wezz8ve5s5hBq) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 3:35 |
+| 70 | [Do You Wanna \- Blues Caravan Live 2018](https://open.spotify.com/track/6mdt8N28fHjt9OABzHpfrh) | [Vanja Sky](https://open.spotify.com/artist/11qCism35wezz8ve5s5hBq) | [Blues Caravan Live 2018](https://open.spotify.com/album/6EAdTKkcfgNNm7EtokY6cv) | 3:35 |
 | 71 | [Freedom](https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Live In Europe](https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf) | 3:50 |
 | 72 | [Crying For My Baby](https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb) | 4:41 |
 | 73 | [Wait on Time \- Live](https://open.spotify.com/track/7Dpg9MtXvP4SmT5JCHJOMk) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [Live](https://open.spotify.com/album/1JWPmLxchThxITEJDKXK8B) | 6:26 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 95 | [Roll With Me \- Live in California \- September 1975](https://open.spotify.com/track/5NmsAu22qNYcF2BI9jRY9R) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Setlist: The Very Best of Johnny Winter LIVE](https://open.spotify.com/album/21mmu8nrIjyeyPMwP2Is6f) | 4:47 |
 | 96 | [Red Light \- Live](https://open.spotify.com/track/7Idw3DTH9sFyPC6bXVhE3c) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Live at the Ryman](https://open.spotify.com/album/5TX3W2zbb6Vgyl4RZaYGD1) | 10:15 |
 | 97 | [Soul Salvation \- Live](https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Recorded Live in Lafayette](https://open.spotify.com/album/5MPnKRKqtWBELg7MAPW7W9) | 4:32 |
-| 98 | [Rocket 88 \- Live](https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 7:26 |
+| 98 | [Rocket 88 \- Blues Caravan Live 2018](https://open.spotify.com/track/1nA1EuxqWLjMhEcYrQ8Scn) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Blues Caravan Live 2018](https://open.spotify.com/album/6EAdTKkcfgNNm7EtokY6cv) | 7:26 |
 | 99 | [Keep On Growing \- Live](https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 10:50 |
 | 100 | [Can't Let Go \- Live \(Remastered\)](https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [I’m A Woman \[Live \(Remastered\)\]](https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0) | 5:52 |
 
-Snapshot ID: `MCwxZjE1MjdmZTMyNjFhNjU4ZDMyMjNkNjFhYWQ3YTkyNGUzYjAyMmU4`
+Snapshot ID: `MCwyMTIxNWUwYTIxNGM1YzljMzkyMGU3NDZlMjc2MzcyYTdkZmVjMTY0`

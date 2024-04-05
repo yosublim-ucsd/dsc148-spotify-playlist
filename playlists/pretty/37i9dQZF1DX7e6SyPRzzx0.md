@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > The home of rage rap\. Cover: Homixide Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,821 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,845 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 11 | [Miss The Rage](https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Trip At Knight](https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX) | 3:56 |
 | 12 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 |
 | 13 | [DXE DXE DXE \(w/ Homixide Gang\)](https://open.spotify.com/track/1zsPL3JaH13XCndHrglC0B) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [DOOR TO DUSK](https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ) | 1:36 |
-| 14 | [kingtut](https://open.spotify.com/track/5o3hsfebCXZUBb5OzsFqyK) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [kingtut](https://open.spotify.com/album/77nZkr98snqK9S5KN7gxiA) | 2:52 |
+| 14 | [KING TUT](https://open.spotify.com/track/5o3hsfebCXZUBb5OzsFqyK) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [KING TUT](https://open.spotify.com/album/77nZkr98snqK9S5KN7gxiA) | 2:52 |
 | 15 | [Pop](https://open.spotify.com/track/26Fx8UbsC0BV4J1CdtuLAy) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Flex Musix](https://open.spotify.com/album/075lV4wdtLwFvIvCUdSYhL) | 1:49 |
 | 16 | [The Grinch](https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/5nDqjtvRwDYElIflvoNDdE) | 1:31 |
 | 17 | [Gimme Da Lite](https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gimme Da Lite](https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx) | 1:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 49 | [how u feel?](https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:53 |
 | 50 | [Vamp Anthem](https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:04 |
 
-Snapshot ID: `MCw0YjA2Y2JhOGE4MzhlYjQxMWZiMDYzMzc5MjdlZTUwZTljOWNmMDBh`
+Snapshot ID: `MCxlODFkZTMyMGFlMWQ4NzI4ZTA4ZTliMmNmZjE2YzZjNTljOTE4NTFh`

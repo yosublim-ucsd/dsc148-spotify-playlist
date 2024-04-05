@@ -2,9 +2,9 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Adrian Khalif, Juicy Luicy
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Ariana Grande
 
-461 songs - 1 day 3 hr 47 min
+465 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Agak Laen](https://open.spotify.com/track/6hkNy8IivjgLEKe5xL5jWu) | [Agak Laen](https://open.spotify.com/artist/5r3LyqBZijXs4ErVibuAej) | [Agak Laen](https://open.spotify.com/album/3Hh9OtgGRDhkj17Be1G4sN) | 3:20 | 2024-02-20 | 2024-03-15 |
 | [Ai](https://open.spotify.com/track/0rRgmGxfrSJMuSHE4oZLwr) | [Doel Sumbang](https://open.spotify.com/artist/7uK1hDwCzfG6qyOlxxb8AD) | [15 Seleksi Terlaris](https://open.spotify.com/album/6KYRCqMwHMVfosvo0Ctonu) | 3:49 | 2024-03-21 | 2024-03-27 |
 | [Aku Sayang Kamu](https://open.spotify.com/track/1lu1JZPI7s2cWIeIFYgjL3) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Aku Sayang Kamu](https://open.spotify.com/album/0eq61IIDrq945HH7oThPQW) | 4:15 | 2023-10-19 | 2023-12-15 |
+| [Alamak Raya Lagi!](https://open.spotify.com/track/2VTLUKd4CbW14uKI973vl4) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Alamak Raya Lagi!](https://open.spotify.com/album/2Rggi2m4YvzePLbKMJg74o) | 2:47 | 2024-04-04 |  |
 | [Alone Again \(Naturally\)](https://open.spotify.com/track/54pvEYFocTlvIAQOfXSjqV) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front \(Deluxe Edition\)](https://open.spotify.com/album/6LoUAyxzjVgwIIYBZOM6xQ) | 3:41 | 2023-11-21 | 2023-12-22 |
 | [Alonica](https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 3:58 | 2023-09-29 | 2023-11-10 |
 | [Alonica](https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr) | 3:58 | 2023-09-07 | 2023-10-02 |
@@ -127,6 +128,7 @@
 | [Fearless \(Taylor’s Version\)](https://open.spotify.com/track/77sMIMlNaSURUAXq5coCxE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:01 | 2023-07-14 | 2023-12-15 |
 | [Fictional](https://open.spotify.com/track/56xb5xXdUopdjiknbFmC4W) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The In Between](https://open.spotify.com/album/21aE1LtpqO4s48QPnomkIk) | 3:43 | 2023-08-18 | 2023-09-16 |
 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 | 2023-05-18 | 2023-08-23 |
+| [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 | 2024-04-04 |  |
 | [Flip It Up](https://open.spotify.com/track/6ls04sZoLvBNXwvi7XsZK5) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Flip It Up](https://open.spotify.com/album/6Em77lD3FmCc1CkNVu3iYj) | 3:06 | 2023-09-21 | 2023-10-06 |
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-04-27 | 2023-07-26 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-03-23 | 2023-05-12 |
@@ -141,6 +143,7 @@
 | [Good Side](https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Good Side](https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii) | 2:44 | 2024-02-19 |  |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-05 | 2024-03-22 |
 | [HAHAHA](https://open.spotify.com/track/0coPXOjcMS7mhizONlReis) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [HAHAHA](https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI) | 3:13 | 2024-02-20 | 2024-03-27 |
+| [HAPPY](https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:09 | 2024-04-04 |  |
 | [Hapus Aku](https://open.spotify.com/track/6MPo0FYKvO0AewUJoL9GUu) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Breakthru](https://open.spotify.com/album/3l2Co6Zu0DIsZgCNvnxuVS) | 4:12 | 2023-11-09 | 2024-03-22 |
 | [Hate You](https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:34 | 2023-11-25 | 2023-12-22 |
 | [Haunting](https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Haunting](https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA) | 3:09 | 2023-08-03 | 2023-09-08 |
@@ -189,6 +192,7 @@
 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 | 2024-02-22 |  |
 | [Katakan Saja](https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Katakan Saja](https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH) | 3:56 | 2024-03-13 |  |
 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 | 2023-03-23 | 2023-12-02 |
+| [Kawanen Saur](https://open.spotify.com/track/1Rofr286SKNgf4Ns7RDiRp) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu) | [Kawanen Saur](https://open.spotify.com/album/3h19n32YsqZJb4XjWCDH7U) | 3:17 | 2024-04-04 |  |
 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 | 2023-03-23 | 2023-08-04 |
 | [Kembalikanku](https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:21 | 2024-03-11 |  |
 | [Kenanglah Aku](https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ) | [NaFF](https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5) | [Senandung Hati dan Jiwa](https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52) | 4:00 | 2023-09-29 | 2023-12-22 |
@@ -234,7 +238,7 @@
 | [Mantra](https://open.spotify.com/track/3VUawVi32BzI6yuT4HWJiQ) | [Dimansyah Laitupa](https://open.spotify.com/artist/6WrP3SWOhy8mjiONxXFEuB) | [Mantra](https://open.spotify.com/album/5SI50eqoELTixtbTemk3Lt) | 3:26 | 2023-10-19 | 2023-12-15 |
 | [Manusia Putus Asa](https://open.spotify.com/track/68PkrpsVyyVlnNYb7hY97l) | [Ayuenstar](https://open.spotify.com/artist/7ydN6ucPSuyIQVM06TT81X) | [Manusia Putus Asa](https://open.spotify.com/album/3A5u8eywrTDJTMol5cUPCe) | 4:16 | 2023-03-23 | 2023-04-07 |
 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 | 2024-01-22 | 2024-03-22 |
-| [Marikit Sa Dilim](https://open.spotify.com/track/2n0OFvWzkojBD1kVIOeGqe) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Kyleswish](https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa), [Jawz](https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg) | [Marikit Sa Dilim](https://open.spotify.com/album/5lvADzxNwgth5Y5EZdHx7l) | 3:52 | 2024-03-05 |  |
+| [Marikit Sa Dilim](https://open.spotify.com/track/2n0OFvWzkojBD1kVIOeGqe) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Kyleswish](https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa), [Jawz](https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg) | [Marikit Sa Dilim](https://open.spotify.com/album/5lvADzxNwgth5Y5EZdHx7l) | 3:52 | 2024-03-05 | 2024-04-05 |
 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-03-13 |  |
 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2023-03-23 | 2023-05-05 |
 | [Memories](https://open.spotify.com/track/7gSu65s8qMNHGHp0mUUdFb) | [Jabing](https://open.spotify.com/artist/2Geo9s1xDu15xCQDYvTjQM) | [Memories](https://open.spotify.com/album/15PmUKgjnaaXapP09lZvBO) | 3:20 | 2024-04-02 |  |
@@ -294,7 +298,7 @@
 | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 3:33 | 2023-05-04 | 2023-05-12 |
 | [perayaan mati rasa](https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f) | [Umay Shahab](https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [when it all ends HERE](https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL) | 4:45 | 2023-09-01 | 2023-12-15 |
 | [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 | 2023-05-11 | 2023-06-16 |
-| [Pergi Tanpa Pesan](https://open.spotify.com/track/524W6iOfPJX0g9uzjF4jQ1) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Sorealist](https://open.spotify.com/album/2Mp0Jvz37IpwQf4bNSiqwU) | 3:25 | 2024-03-21 |  |
+| [Pergi Tanpa Pesan](https://open.spotify.com/track/524W6iOfPJX0g9uzjF4jQ1) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Sorealist](https://open.spotify.com/album/2Mp0Jvz37IpwQf4bNSiqwU) | 3:25 | 2024-03-21 | 2024-04-05 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-03-23 | 2023-04-14 |
 | [Please, Please, Please Let Me Get What I Want](https://open.spotify.com/track/0smzrlYiBiecxfG8p5QDcQ) | [The Dream Academy](https://open.spotify.com/artist/1JVoO5bwfU8GNuAZLpBoHe) | [The Morning Lasted All Day \- A Retrospective](https://open.spotify.com/album/4aNF2rihZMeO0loEFNxBxz) | 3:08 | 2023-12-28 | 2024-03-22 |
 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 | 2024-02-08 | 2024-03-22 |

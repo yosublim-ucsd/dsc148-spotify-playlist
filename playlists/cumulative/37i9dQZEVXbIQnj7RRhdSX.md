@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,735 songs - 3 day 16 hr 46 min
+1,736 songs - 3 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [0 passi](https://open.spotify.com/track/1feGbMzfkaybNk96cXcqnO) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [Il cielo contromano](https://open.spotify.com/album/3yPQgxO1KYgLhjsViwdqzt) | 2:43 | 2021-05-16 | 2021-07-13 |
 | [0 passi](https://open.spotify.com/track/7EIftRREeCUGitqmCy1H8J) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [0 passi](https://open.spotify.com/album/2pLbC2iaHJxz77dX13wEVB) | 2:43 | 2021-05-09 | 2021-05-16 |
 | [0 passi](https://open.spotify.com/track/7kbWJ8cCpn2IlsQTEagWi7) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [0 passi](https://open.spotify.com/album/1xFNmv94uKLwOYf22fo8aX) | 2:43 | 2021-04-06 | 2021-05-09 |
+| [00](https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [00](https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy) | 2:14 | 2024-04-04 |  |
 | [1 MESSAGGIO](https://open.spotify.com/track/3GsSmGgMELKhaYSj3QTShu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [1 MESSAGGIO](https://open.spotify.com/album/4ckePFG01HSFnIDOtG9ZjS) | 2:34 | 2023-09-30 | 2023-10-02 |
 | [10 \(feat\. Sfera Ebbasta & Lazza\)](https://open.spotify.com/track/28wHZ9EhKU70CoR1wNZNF3) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 3:30 | 2023-07-01 | 2023-07-13 |
 | [10 RAGAZZE \(con ERNIA\)](https://open.spotify.com/track/4rstEjIOddR5CuzzLv2bhS) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [TAXI DRIVER](https://open.spotify.com/album/0u0sBgOAOo8TBlIp1HcrHp) | 2:54 | 2021-05-03 | 2021-10-01 |
@@ -662,7 +663,7 @@
 | [Hikikomori](https://open.spotify.com/track/1ByXH43YVIsKgKn9i47dFH) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/0gi61wtNNe973Tx5SN7ElT) | 3:27 | 2022-12-03 | 2023-01-01 |
 | [HO SPENTO IL CIELO \(con TOMMASO PARADISO\)](https://open.spotify.com/track/0O4g4sRSY8SmVu95k5z9mq) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [TAXI DRIVER](https://open.spotify.com/album/0u0sBgOAOo8TBlIp1HcrHp) | 3:52 | 2021-05-03 | 2021-05-25 |
 | [HO SPENTO IL CIELO \(con Tommaso Paradiso\)](https://open.spotify.com/track/12EGkByo0sY9oAhKve5EOj) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [HO SPENTO IL CIELO \(con Tommaso Paradiso\)](https://open.spotify.com/album/0Vhv7DGRSyTCNgQGswpd3U) | 3:52 | 2021-04-16 | 2021-05-03 |
-| [Hoe \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:17 | 2023-06-03 |  |
+| [Hoe \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:17 | 2023-06-03 | 2024-04-05 |
 | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd) | 2:33 | 2023-03-04 | 2023-04-09 |
 | [Hold On](https://open.spotify.com/track/1gDIOwzsiVpTkMF7DR4DMs) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/0gi61wtNNe973Tx5SN7ElT) | 3:24 | 2022-12-03 | 2022-12-19 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 | 2021-12-10 | 2023-12-30 |

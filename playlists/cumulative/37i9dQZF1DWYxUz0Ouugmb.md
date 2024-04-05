@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Salma Salsabil
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Masdddho
 
 213 songs - 13 hr 43 min
 

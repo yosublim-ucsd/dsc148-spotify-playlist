@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-367 songs - 17 hr 29 min
+368 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Chame O Juiz \- Ao Vivo](https://open.spotify.com/track/3nKF1j3PqbOYChqwhFkLvF) | [Fernanda Costa](https://open.spotify.com/artist/7F1wmhduwv6fIEJBJb9SSm) | [Tempo Contado \(Ao Vivo\)](https://open.spotify.com/album/6SqZNGdhuGOaJzw6rZAMwD) | 2:45 | 2024-01-29 |  |
 | [Chave e Cadeado](https://open.spotify.com/track/4LCz8Vt9T8HJGOJYvgSwD8) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Chave e Cadeado](https://open.spotify.com/album/6h4dXjJBQ58cvzEUVf8MWA) | 3:03 | 2024-01-29 |  |
 | [Ciúme de Ficante \- Ao Vivo](https://open.spotify.com/track/0PQReJcKSm475ZHOzWSMCD) | [Bell Marques](https://open.spotify.com/artist/63LUqR0xvuZ6Es3AF6BcZh) | [Bell Marques Ao Vivo No Fortal 2022](https://open.spotify.com/album/0wokEPt1tgc1tUECXEgCgM) | 4:26 | 2024-01-29 | 2024-03-27 |
-| [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 | 2024-01-29 |  |
+| [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 | 2024-01-29 | 2024-04-05 |
 | [Ciúmes de Ficante](https://open.spotify.com/track/7bWTyzWNst2XuGtYv3e3FY) | [Francildo Silva](https://open.spotify.com/artist/0o610ZIdyAxlQ8qWweA0mw) | [Verão 2023](https://open.spotify.com/album/0AHnqhnRVbpVRQ6pdIBCrS) | 2:56 | 2024-03-26 |  |
 | [Colinho do Roceiro \- Ao Vivo](https://open.spotify.com/track/5tebpjHtHtnrEkAHDtP0Xi) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Léo & Raphael](https://open.spotify.com/artist/68cvVh3HBHdwWfccCTaq0T) | [Colinho do Roceiro \(Ao Vivo\)](https://open.spotify.com/album/0zGgwVeTZmOricqZdgJLA6) | 2:52 | 2024-01-29 |  |
 | [Conta Gotas \- Ao Vivo](https://open.spotify.com/track/78G1d22he1AXuUN2GHtULh) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \(Ao Vivo\)](https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG) | 2:28 | 2024-01-29 |  |
@@ -145,7 +145,8 @@
 | [Exageradamente Complicado \- Ao Vivo](https://open.spotify.com/track/6cChQo3TMJdUFYMnmRlrH8) | [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE) | [Esqueminha \(Ao Vivo\)](https://open.spotify.com/album/1jkahP9oeYoALozWby2xzc) | 2:31 | 2024-01-29 |  |
 | [Exemplo](https://open.spotify.com/track/3arTCOZ3JP84zaB4v5gMSM) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61) | [Confissões de um Apaixonado](https://open.spotify.com/album/4dJWLnArL6r95Li2hBHtu1) | 3:32 | 2024-01-29 |  |
 | [FALA MAL DE MIM](https://open.spotify.com/track/5glMxRMRHGBRj6bydBjoPM) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [FALA MAL DE MIM](https://open.spotify.com/album/3x3CccLoOFQN8jnFJxF91n) | 2:34 | 2024-01-29 |  |
-| [Falta de Mim](https://open.spotify.com/track/4xDhnfecbgfX78cLqRXJUl) | [Larissa Costa](https://open.spotify.com/artist/0tFDWvgm73Y1mz4n75LPwP) | [Brega pra Paredão 3.0](https://open.spotify.com/album/4W4e4xBPMQvad82k8Yc8MX) | 2:32 | 2024-04-01 |  |
+| [Falta de Mim](https://open.spotify.com/track/4xDhnfecbgfX78cLqRXJUl) | [Larissa Costa](https://open.spotify.com/artist/0tFDWvgm73Y1mz4n75LPwP) | [Brega pra Paredão 3.0](https://open.spotify.com/album/4W4e4xBPMQvad82k8Yc8MX) | 2:32 | 2024-04-01 | 2024-04-05 |
+| [Falta de Mim](https://open.spotify.com/track/32RkZ76qUOGYhMirewUqnC) | [Liene Show](https://open.spotify.com/artist/7uz4wLTv3GdRTHrMhlYQRD) | [Na Pegada da Rainha 2.0](https://open.spotify.com/album/4ni3SlUHlXtNx5H50dd49o) | 2:36 | 2024-04-04 |  |
 | [Famosinha](https://open.spotify.com/track/45N6BbYW3XVyW7XDkVzVta) | [Enzo Rabelo](https://open.spotify.com/artist/7m4l75rnuQbI88PGYVYLkm) | [Famosinha](https://open.spotify.com/album/4nwzmC3bG3zRkovu9xfG0X) | 2:49 | 2024-01-29 |  |
 | [Famoso Tanto Faz](https://open.spotify.com/track/3uT01sLNU9Ta8B8qbyWZQj) | [WALBER](https://open.spotify.com/artist/2vKLXoZL4XxHrbJhj9C5P5), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Famoso Tanto Faz](https://open.spotify.com/album/4aFcVzMtTg5XGwLdpiYplJ) | 2:37 | 2024-01-29 |  |
 | [Fica Com Ela \- Ao Vivo](https://open.spotify.com/track/5XSIruKcw2nMmv5AcSmlFq) | [Maria Cecília & Rodolfo](https://open.spotify.com/artist/1oOTUMbydEi6ogss5Klsom), [Thaeme & Thiago](https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh) | [De Portas Abertas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6fojLfpTCrcK7gLsgd7k63) | 3:23 | 2024-01-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 
 > Aquí viven los hits más grandes en La Isla del Encanto\. Young Miko en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,739 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,848 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 | 18 | [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 |
 | 19 | [Manhattan](https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Manhattan](https://open.spotify.com/album/1Hg5PSA16edGh2KZXxMpjN) | 2:10 |
 | 20 | [BBY BOO](https://open.spotify.com/track/1yDJAXPuXbyhU5tNGGXlPh) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [BBY BOO](https://open.spotify.com/album/4CQs7H0Wo14xzJ2FMPbNxi) | 2:28 |
-| 21 | [Bellakita](https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ) | [C Dobleta](https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE) | [Bellakita](https://open.spotify.com/album/0xnUNAewtVl83rVHz9b8RS) | 3:02 |
+| 21 | [Bellakita](https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ) | [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [Bellakita](https://open.spotify.com/album/0xnUNAewtVl83rVHz9b8RS) | 3:02 |
 | 22 | [SI SABE FERXXO](https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 2:32 |
 | 23 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 |
 | 24 | [QUIENES SON](https://open.spotify.com/track/528T2xvgLJ1T8TWYX7blBy) | [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [QUIENES SON](https://open.spotify.com/album/29oehbbF6k3rgM5BD9D3jW) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 | 49 | [UNA NOTi](https://open.spotify.com/track/3siASmLFyTye8QbGkZQOlz) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [UNA NOTi](https://open.spotify.com/album/3lxVIFq3Bv8oMoLwyFKbwG) | 3:20 |
 | 50 | [PASIEMPRE](https://open.spotify.com/track/3KEtYxU8b1gZMbsY9Jlpqd) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 5:55 |
 
-Snapshot ID: `MCwxN2E0NjhmNTJlMDQ2NjE0NWQwYTA4MWZkZGE5ZDc0NjVlYTY2ZTM4`
+Snapshot ID: `MCxjNThjNGQxNDRkODAyNDEyMTE5M2YxODdlOTAzYWRkZGIzMmQ3OTA5`

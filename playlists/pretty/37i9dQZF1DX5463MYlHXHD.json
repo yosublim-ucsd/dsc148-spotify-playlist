@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Los Pibes Chorros.",
-  "num_followers": 569666,
+  "num_followers": 569694,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjM5NjRmNDdiZjcxZWY5MjNkMmMwZDliZjQ1NzMzYzk3ZWVlODAx",
+  "snapshot_id": "MCwwYTdmOTBiZDhkZmVjMjFjNGU2MmNkNmI1NTNiYWRlZDQwOTNmZmI4",
   "tracks": [
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "La Jarra",
-        "url": "https://open.spotify.com/album/0B8TLAqcDkiV1LsIXpmJhT"
-      },
-      "artists": [
-        {
-          "name": "Lolo OG",
-          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
-        },
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        }
-      ],
-      "duration_ms": 137150,
-      "name": "La Jarra",
-      "url": "https://open.spotify.com/track/5NvbkwL6r96Auhaa621dXW"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "\u00danico en Su Especie",
         "url": "https://open.spotify.com/album/1wU7LHfFlihSDZUJ6EU1Tf"
       },
@@ -1475,6 +1455,22 @@
       "duration_ms": 225280,
       "name": "A Chillar a Otra Parte",
       "url": "https://open.spotify.com/track/6rbRGG6KLfSCLW5EN4VlsI"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "No Es Tan F\u00e1cil",
+        "url": "https://open.spotify.com/album/1BtjQQmVRRs5m7AoBh81Xv"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Soltero Hasta la Tumba",
+      "url": "https://open.spotify.com/track/6JtV50W4szsOD04QREQgXk"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1495,18 +1491,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "No Es Tan F\u00e1cil",
-        "url": "https://open.spotify.com/album/1BtjQQmVRRs5m7AoBh81Xv"
+        "name": "La Jarra",
+        "url": "https://open.spotify.com/album/0B8TLAqcDkiV1LsIXpmJhT"
       },
       "artists": [
         {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         }
       ],
-      "duration_ms": 193813,
-      "name": "Soltero Hasta la Tumba",
-      "url": "https://open.spotify.com/track/6JtV50W4szsOD04QREQgXk"
+      "duration_ms": 137150,
+      "name": "La Jarra",
+      "url": "https://open.spotify.com/track/5NvbkwL6r96Auhaa621dXW"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "La Repandilla",
-        "url": "https://open.spotify.com/album/7wUrqsk3ts4yUYsKNWnWpi"
-      },
-      "artists": [
-        {
-          "name": "La Repandilla",
-          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
-        }
-      ],
-      "duration_ms": 208631,
-      "name": "La Mejor de Todas",
-      "url": "https://open.spotify.com/track/3JfGUpclRKRkhp4QdqHckz"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "TEKA | E6",
         "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 137500,
       "name": "TEKA | E6",
       "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
+        "name": "La Repandilla",
+        "url": "https://open.spotify.com/album/7wUrqsk3ts4yUYsKNWnWpi"
+      },
+      "artists": [
+        {
+          "name": "La Repandilla",
+          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
+        }
+      ],
+      "duration_ms": 208631,
+      "name": "La Mejor de Todas",
+      "url": "https://open.spotify.com/track/3JfGUpclRKRkhp4QdqHckz"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 263955,
+      "name": "Entre Vos Yo y el Cielo",
+      "url": "https://open.spotify.com/track/4YchG5vZOhKYTnZh5Lj5WB"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "Corriendo La Coneja",
         "url": "https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m"
       },
@@ -1935,22 +1951,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Cumbia Callejera",
-        "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
-      },
-      "artists": [
-        {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
-        }
-      ],
-      "duration_ms": 233247,
-      "name": "Coraz\u00f3n de Madre (Destapate Una Cerveza)",
-      "url": "https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Mi \u00danico Amor",
         "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
       },
@@ -1967,18 +1967,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
+        "name": "Cumbia Callejera",
+        "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
       },
       "artists": [
         {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
         }
       ],
-      "duration_ms": 263955,
-      "name": "Entre Vos Yo y el Cielo",
-      "url": "https://open.spotify.com/track/4YchG5vZOhKYTnZh5Lj5WB"
+      "duration_ms": 233247,
+      "name": "Coraz\u00f3n de Madre (Destapate Una Cerveza)",
+      "url": "https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 179644,
+      "name": "Me Volvi a Enamorar",
+      "url": "https://open.spotify.com/track/1le09gYoWpB2ZUQ28K9VaC"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/6ilkDJx9M7ppTKzFvs5tQx"
       },
@@ -2139,22 +2155,6 @@
       "duration_ms": 207121,
       "name": "D\u00e9jala",
       "url": "https://open.spotify.com/track/3LVOGJxNkd5b6nJoqLFpeT"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 179644,
-      "name": "Me Volvi a Enamorar",
-      "url": "https://open.spotify.com/track/1le09gYoWpB2ZUQ28K9VaC"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -2227,6 +2227,22 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
+        "name": "La Humildad Es Sin\u00f3nimo de Grandeza",
+        "url": "https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 208744,
+      "name": "Siguiendo la Luna",
+      "url": "https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD"
+    },
+    {
+      "added_at": "2024-03-29 15:00:00",
+      "album": {
         "name": "\u00a1Anotate!",
         "url": "https://open.spotify.com/album/7uyyHMMuriePK9dFV9aOLb"
       },
@@ -2259,22 +2275,6 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 256463,
-      "name": "Quiero una chica",
-      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
-    },
-    {
-      "added_at": "2024-03-29 15:00:00",
-      "album": {
         "name": "Saveiro",
         "url": "https://open.spotify.com/album/2OdD4Bw78UeyjUKejq2UZR"
       },
@@ -2299,18 +2299,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG"
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
       "artists": [
         {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
         }
       ],
-      "duration_ms": 197040,
-      "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x"
+      "duration_ms": 256463,
+      "name": "Quiero una chica",
+      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
     },
     {
       "added_at": "2024-03-29 15:00:00",
@@ -2331,18 +2331,18 @@
     {
       "added_at": "2024-03-29 15:00:00",
       "album": {
-        "name": "La Humildad Es Sin\u00f3nimo de Grandeza",
-        "url": "https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk"
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG"
       },
       "artists": [
         {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
         }
       ],
-      "duration_ms": 208744,
-      "name": "Siguiendo la Luna",
-      "url": "https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD"
+      "duration_ms": 197040,
+      "name": "Es un Secreto",
+      "url": "https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x"
     }
   ],
   "unique_name": "Cumbia de Barrio",

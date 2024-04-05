@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 
 > Revisit the best Kwaito songs ever released\. Cover: Bongo Maffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,910 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,966 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 49 | [Skangkgata](https://open.spotify.com/track/1IySzC0vuHqXITiwa5reMf) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Tempy Life](https://open.spotify.com/album/4TcdlZ58Tfqi1vWfIFqe1w) | 4:24 |
 | 50 | [Jakarumba Kwa! Kwa! Kwa!](https://open.spotify.com/track/6ykFit7VtAKyNDXUNi8spe) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Sigiya Ngengoma](https://open.spotify.com/album/754Vcm77VFVwsiEndZomCs) | 6:22 |
 
-Snapshot ID: `MCwzOTdmYzkwMTQyNDJmZGRjY2UxNmM1MjA5NmQyNGY5MjlkMmU5ZmIx`
+Snapshot ID: `MCxmNTI2Zjg0ZmQ3ODZiNDVmMDMyNzkxYTQyZTZhYWJlMGEyYmRlNGY0`

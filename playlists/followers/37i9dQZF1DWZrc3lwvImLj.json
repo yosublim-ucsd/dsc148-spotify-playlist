@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 294982,
+  "2024-04-05": 295076,
   "date_first_scraped": "2021-12-30",
   "description": "lowkey crying. ",
   "name": "sad instrumentals",
@@ -2573,7 +2573,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 151989,
       "name": "Hvile",
       "url": "https://open.spotify.com/track/1kahBtroEDGLOvzu1PeM64"
@@ -2721,6 +2721,24 @@
       "duration_ms": 133176,
       "name": "In Motion",
       "url": "https://open.spotify.com/track/2mUnKFrk4ar3L5Ad8t5T1u"
+    },
+    {
+      "album": {
+        "name": "In Presence",
+        "url": "https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A"
+      },
+      "artists": [
+        {
+          "name": "Dean Demir",
+          "url": "https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173862,
+      "name": "In Presence",
+      "url": "https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz"
     },
     {
       "album": {
@@ -3780,6 +3798,24 @@
     },
     {
       "album": {
+        "name": "Moon In The Waves",
+        "url": "https://open.spotify.com/album/422YCsaTGsdQyMWuEZwaio"
+      },
+      "artists": [
+        {
+          "name": "Aisen Voight",
+          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165961,
+      "name": "Moon In The Waves",
+      "url": "https://open.spotify.com/track/5gDI2Vqf4Yb2aUyhRpdzg9"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/1bRqYfdj4ipHdK3JXuhxQz"
       },
@@ -4595,6 +4631,24 @@
       "duration_ms": 385243,
       "name": "Parisienne",
       "url": "https://open.spotify.com/track/1epvt6Gm4OjEu1SjuSf1sr"
+    },
+    {
+      "album": {
+        "name": "Pax",
+        "url": "https://open.spotify.com/album/3mvjKn2ciwtyMWl8pTklzW"
+      },
+      "artists": [
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328512,
+      "name": "Pax",
+      "url": "https://open.spotify.com/track/6ma8HDfAK7yjLJxBc5LkE2"
     },
     {
       "album": {
@@ -6091,6 +6145,24 @@
       "duration_ms": 140487,
       "name": "The Room Upstairs",
       "url": "https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ"
+    },
+    {
+      "album": {
+        "name": "The Still",
+        "url": "https://open.spotify.com/album/06eRSftUdtz4u5Zx9s7Ywc"
+      },
+      "artists": [
+        {
+          "name": "Erinthe",
+          "url": "https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129817,
+      "name": "The Still",
+      "url": "https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA"
     },
     {
       "album": {

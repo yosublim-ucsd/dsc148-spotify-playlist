@@ -4,7 +4,7 @@
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-58 songs - 2 hr 26 min
+59 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Angels we have heard on high](https://open.spotify.com/track/5f7tR4cA7Zs9XdiO04B8NY) | [Chanticleer](https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0) | [A Chanticleer Christmas](https://open.spotify.com/album/5uUkH1mxB6ao9asc7LmmcK) | 2:26 | 2021-12-21 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/6ZJkb880rS8K7vV7fF6G8K) | [The Barbershop Singers](https://open.spotify.com/artist/2ihbqMC5FLIURCSTBvsQed) | [A Barbershop Christmas](https://open.spotify.com/album/0sra8b07OvY3gfezNtToSf) | 1:27 | 2021-12-21 | 2023-09-09 |
 | [Auld Lang Syne](https://open.spotify.com/track/53yOxDMXJzt78YH6WE8Tp9) | [Voices of Joy](https://open.spotify.com/artist/1qjsaKVUHUL768TUvVgs8l) | [Auld Lang Syne](https://open.spotify.com/album/3FN9LRHRBLlLM2uE2LpRJy) | 1:22 | 2021-12-21 |  |
-| [Away in a Manger](https://open.spotify.com/track/4MzxDz2ZfG0cDgVvpQoCo8) | [Vocal Spectrum](https://open.spotify.com/artist/20nWuvMfCct9xv73hRYO7O) | [Vocal Spectrum IV](https://open.spotify.com/album/0E21cs5wAEjqUINJtaJPKn) | 3:08 | 2021-12-21 |  |
+| [Away in a Manger](https://open.spotify.com/track/22xGbEM5zid8cmvBOH7G1X) | [Vocal Spectrum](https://open.spotify.com/artist/20nWuvMfCct9xv73hRYO7O) | [Vocal Spectrum IV](https://open.spotify.com/album/5ys5bqIjUjd8x4r9I2Wr8B) | 3:08 | 2023-12-19 |  |
+| [Away in a Manger](https://open.spotify.com/track/4MzxDz2ZfG0cDgVvpQoCo8) | [Vocal Spectrum](https://open.spotify.com/artist/20nWuvMfCct9xv73hRYO7O) | [Vocal Spectrum IV](https://open.spotify.com/album/0E21cs5wAEjqUINJtaJPKn) | 3:08 | 2021-12-21 | 2024-04-05 |
 | [Carol of the Bells](https://open.spotify.com/track/0oEBvSzYp0aS7Obdus1RGm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Christmas Hits](https://open.spotify.com/album/2ojsnLAKwDMT0k3sU0ur0x) | 1:25 | 2021-12-21 |  |
 | [Caroling, Caroling](https://open.spotify.com/track/4nw3U7GXcJrkK090vniuTp) | [The Singers Unlimited](https://open.spotify.com/artist/3RsROIs1zuuC3lwIdhJ0if) | [Christmas](https://open.spotify.com/album/6oRVPUG1H8dm915S12d5PP) | 1:14 | 2021-12-21 |  |
 | [Coventry Carol](https://open.spotify.com/track/0IZIgJMMduneum2Ny0M9b9) | [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [Angels Sing: Most Beloved Holiday Classics for Christmas](https://open.spotify.com/album/4x1Qw2GhUcRQ0vRhYKRK7M) | 2:40 | 2022-10-27 | 2022-11-13 |

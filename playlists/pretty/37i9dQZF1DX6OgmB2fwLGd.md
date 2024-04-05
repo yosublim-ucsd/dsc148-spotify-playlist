@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > Shotgun Willy, born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,399,024 likes - 100 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,399,101 likes - 100 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [Rover!](https://open.spotify.com/track/0s9eWn090LdFQxKqkPLiH3) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [SUPERSTAR!](https://open.spotify.com/album/7rRQ0fz5cgm4y6BmahyXCs) | 2:31 |
 | 100 | [GREEN GOBLIN \- Spotify Singles](https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Spotify Singles](https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp) | 2:09 |
 
-Snapshot ID: `MCw0ZmJiMWE1MTQwZjllZGYxNjMwNWMzZjhlZDI2ZDI4YTVhZDY5YmYy`
+Snapshot ID: `MCwyOTIwZWVmYmM2OGUyNzI3YmEwY2RlMzQ3YWYwN2E2ZTIzYzEyYTRm`

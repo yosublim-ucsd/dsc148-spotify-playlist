@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,147 likes - 155 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,211 likes - 155 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 | 154 | [Berhenti Masa](https://open.spotify.com/track/32SDpflyGXlMiWbtrMbUgC) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Berhenti Masa](https://open.spotify.com/album/2rjf7QvlfHGsHL6nTTLwfC) | 2:29 |
 | 155 | [Rituals](https://open.spotify.com/track/6ijjVhsdUDrHWTkciKq0nD) | [Lorelle Paredes](https://open.spotify.com/artist/6ivO0lqiz77mOwRgh9UNev) | [Rituals](https://open.spotify.com/album/54PzqjmnzQhv0ylYYUSA6A) | 2:24 |
 
-Snapshot ID: `MCwyOWUxZTBhNWEyMTFkYWEwNTQ1MjM2ZjcwNzgwN2Y1ODRjOWQ1ODg0`
+Snapshot ID: `MCxmYWViM2ZjN2QzMTY3OWQzYTE2NWVjZGUxODY3ZDIyNTM3ODRhNGFi`

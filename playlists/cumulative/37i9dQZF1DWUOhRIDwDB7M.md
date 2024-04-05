@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-276 songs - 13 hr 39 min
+282 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Halcyon](https://open.spotify.com/track/6BULuqgf0MSp4fMoFGlWs8) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Halcyon](https://open.spotify.com/album/3SjNvxM2Ph52893sSLzR2i) | 2:46 | 2021-09-06 |  |
 | [Halcyon](https://open.spotify.com/track/4DkgaBjJfrfavy1bWQb6vf) | [William Duhamel](https://open.spotify.com/artist/2MJK51yXcbWpaiL0MWCAtp) | [Halcyon](https://open.spotify.com/album/0qRTjn6f3uNJTGfcaQfJ0c) | 2:23 | 2021-09-06 |  |
 | [Heavy Head](https://open.spotify.com/track/3AmRJH8hJvtEJ57x6xq0Gq) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Deep Dreams](https://open.spotify.com/album/7fvUEchZHf7pNEBzsPim4f) | 3:33 | 2021-09-06 |  |
+| [Higher Purpose](https://open.spotify.com/track/2Dgx9VOdgzeVjD4aNmkH0l) | [Aya Morata](https://open.spotify.com/artist/6ryTZyH1Vnxas1vzYPzE0L) | [Higher Purpose](https://open.spotify.com/album/1qYHvNQU8VhFFaDMcVYgAx) | 3:10 | 2024-04-04 |  |
 | [Home Tales](https://open.spotify.com/track/6ciLznTYOK6bq6iMcSlyrn) | [Handley Page](https://open.spotify.com/artist/0vzZmlsPGLKCCG8qW7WrvV) | [Home Tales](https://open.spotify.com/album/6w6dhpG5hetNvPpe2lBIzh) | 3:29 | 2021-09-06 |  |
 | [Hope For Tomorrow](https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Hope For Tomorrow](https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR) | 2:36 | 2022-09-02 |  |
 | [Horizons](https://open.spotify.com/track/1aLPs0NGa6zBRnM1AlDxrx) | [Cosmic Clarity](https://open.spotify.com/artist/0mS4iUHnCGTarpY6K87QJm) | [Horizons](https://open.spotify.com/album/3Mf4Wu0xYRskBNDcxUifbE) | 2:52 | 2024-03-14 |  |
@@ -185,6 +186,7 @@
 | [North Captiva](https://open.spotify.com/track/32dZxkZtsF5Vt3PrJQuV2i) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [North Captiva](https://open.spotify.com/album/3Sz9V9nnQZD0jMIVYI9f9Q) | 3:14 | 2021-09-06 |  |
 | [Northern Lights](https://open.spotify.com/track/6DbV2SXHJjBjOr0MtV6KdU) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Northern Lights](https://open.spotify.com/album/7ezMrsEa1XSE9HhBGufI1U) | 3:24 | 2021-09-06 |  |
 | [Nowhere](https://open.spotify.com/track/6Edd9DPNANSVnzfnZ1S2Sw) | [Efrim](https://open.spotify.com/artist/2oqzUZdcvknx7EVSJTJJhJ) | [Nowhere](https://open.spotify.com/album/0FEAGjp6rqwSzhluDvDaoN) | 3:42 | 2021-09-06 | 2022-09-15 |
+| [nydelig](https://open.spotify.com/track/6YfJVtcMC4T0qYXp2mD9Ck) | [Map Of My Mind](https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT) | [nydelig](https://open.spotify.com/album/066Naapq4MiEoXEpajLSyK) | 2:51 | 2024-04-04 |  |
 | [Ocean Cave](https://open.spotify.com/track/1kqUvir1JRGNaOtewXYkoW) | [Keypling](https://open.spotify.com/artist/2V5UxuaY21iAxgMEqBBvFz) | [Water Island](https://open.spotify.com/album/0G5QJUB8uyYEbMABwBc1db) | 3:17 | 2021-09-06 |  |
 | [Ocean of Melody](https://open.spotify.com/track/4A7hb0ABIwJ4hyV6KsytT5) | [Ice and Water](https://open.spotify.com/artist/6erX232kJIl0xB2Rglp76K) | [Whale Song](https://open.spotify.com/album/5ByVQlAhXwOsojsJvT6Olf) | 2:38 | 2021-09-06 |  |
 | [Odyssey](https://open.spotify.com/track/447RHVZ7mrUWxUgcqBZBu2) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Sunyata](https://open.spotify.com/album/0KnrJqNM9asaFx2484ghNf) | 3:25 | 2022-10-21 |  |
@@ -200,6 +202,7 @@
 | [Pre](https://open.spotify.com/track/6BtLpTJ34fTAJMsYlGP4KG) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [The Philosophers](https://open.spotify.com/album/719Uu5vBFVSLv8KnMNte0A) | 1:47 | 2021-09-06 | 2022-07-29 |
 | [Pre](https://open.spotify.com/track/18C9lmTgz4iysYbfqXOCJh) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [The Philosophers](https://open.spotify.com/album/6CXGJJW4997QYQzKRSAbGC) | 1:47 | 2022-07-11 | 2023-07-29 |
 | [Pre](https://open.spotify.com/track/6CQoENYuGo2GAoj2Gh6XmA) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 1:47 | 2022-10-21 | 2022-11-13 |
+| [Progression](https://open.spotify.com/track/2ZIpv6AyW6oxltFukHNcUq) | [Loe Vida](https://open.spotify.com/artist/4VP55atE7tT1o1C8xSPStS) | [Progression](https://open.spotify.com/album/0CiBtxaubHulNurkBdaiXb) | 2:47 | 2024-04-04 |  |
 | [Projections](https://open.spotify.com/track/0pgh65p0D9uDSdOrmsaTgu) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Projections](https://open.spotify.com/album/518vvUBj26HuDFKyjYejAp) | 2:40 | 2021-09-06 |  |
 | [Purple Sky](https://open.spotify.com/track/5Oieu8wCXlEtEvXu6fFjBD) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Purple Sky](https://open.spotify.com/album/1A55cYEukwiRbFZtBaFz49) | 2:36 | 2021-09-06 |  |
 | [Purpose](https://open.spotify.com/track/0WXhEn3IN5xTCSm6qWixEz) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Empathy](https://open.spotify.com/album/3cJ5MRVonIt3dJ2KjYabwp) | 3:29 | 2022-12-02 |  |
@@ -225,6 +228,8 @@
 | [Sintra](https://open.spotify.com/track/0b6iQfSLnYGz5VCzwndLz9) | [Made Of Gold](https://open.spotify.com/artist/1ilmmDuqRKxhOkqBZTtqNH) | [Reflections](https://open.spotify.com/album/3AehN6vnl5y9j9ihOloltl) | 3:21 | 2021-09-06 | 2023-10-05 |
 | [Sleep Constellations](https://open.spotify.com/track/0gGaNcUmLccy8vduRK6IGU) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Drifting Away \(Music for Sleeping\)](https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s) | 2:28 | 2021-09-06 |  |
 | [Sleep Spirits](https://open.spotify.com/track/2LW5RfktXIpGmLcnQq8HLM) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Drifting Away \(Music for Sleeping\)](https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s) | 2:40 | 2021-09-06 |  |
+| [Sofna](https://open.spotify.com/track/5gvjqeIINNvUaEI4lWh4ee) | [Toninn](https://open.spotify.com/artist/5K7zhN8cue1f54j0vVFsZR) | [Sofna](https://open.spotify.com/album/0f6cW81qyPOIjFqp5634kp) | 3:12 | 2024-04-04 |  |
+| [Soft Feather](https://open.spotify.com/track/6AwNPeCte9bFMEmIC0ZbNT) | [Siljann](https://open.spotify.com/artist/0AvPkMDg6bdQlUQ3Nn07cF) | [Soft Feather](https://open.spotify.com/album/0xC25BRAXPZWyqm5DI1p5H) | 3:25 | 2024-04-04 |  |
 | [Solitude](https://open.spotify.com/track/2QerGrNeDLsJgMqpIRhjih) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Solitude](https://open.spotify.com/album/7srh64CFgzsCOIToYhCusB) | 2:44 | 2021-09-06 |  |
 | [Southern Depths](https://open.spotify.com/track/6Z0bom0mHxn5C2ChVyz1zl) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Dreams Within Dreams](https://open.spotify.com/album/4z7X3l4pXbdV4PdVwuyIIW) | 3:23 | 2021-09-06 |  |
 | [Sphera](https://open.spotify.com/track/5uUoengCI6EGB5dSGJuhWG) | [Dhanura](https://open.spotify.com/artist/6mAaAXGrtsOjqcgbzsCAaW) | [Sphera](https://open.spotify.com/album/6mGJWXzSM9eEQOPitK2a9D) | 3:05 | 2022-11-22 |  |
@@ -273,6 +278,7 @@
 | [We Are Forever](https://open.spotify.com/track/0u7ghYOO8OSamsX8yakIVw) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd) | 2:13 | 2021-09-06 | 2022-07-29 |
 | [We Are Forever](https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:14 | 2022-07-11 | 2023-10-05 |
 | [We Are Forever](https://open.spotify.com/track/2ralu13lkIdpY1ynZTpVJO) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 2:14 | 2022-10-21 | 2022-11-13 |
+| [Weightless Moments](https://open.spotify.com/track/430S5jXFtVzLvDY14M8UiM) | [Matt van Stern](https://open.spotify.com/artist/6R18bmvwvBLIz0r9XsIOza) | [Weightless Moments](https://open.spotify.com/album/0hlW6PxO25DJR95MLLWxFd) | 2:41 | 2024-04-04 |  |
 | [Where We Meet](https://open.spotify.com/track/4sFQxujUhJEOFCgFgxF8Yp) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Calming Piano for Yoga and Meditation Vol 1](https://open.spotify.com/album/2IzcSEAadl9qSUOaLMGcEk) | 2:14 | 2022-02-17 |  |
 | [White Waves](https://open.spotify.com/track/76hDUyI5Avauy1nCOEaruh) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Eon](https://open.spotify.com/album/4NTj46M6CQfk5YcrtKrZW6) | 2:44 | 2021-09-06 |  |
 | [Wild Trails](https://open.spotify.com/track/2urxHALnoeVxG82o57q0ny) | [Epi\-Soothe](https://open.spotify.com/artist/3nbFHhWXhyhU1QACy18PlF) | [Wild Trails](https://open.spotify.com/album/3tMJzCDzTcRS8o6pImIE2c) | 3:38 | 2021-09-06 | 2022-08-24 |

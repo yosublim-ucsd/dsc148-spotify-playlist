@@ -1,12 +1,12 @@
 {
   "description": "For full-volume lovers, new and recent favorites. Cover: P.O.D.",
-  "num_followers": 355596,
+  "num_followers": 355699,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmIxZWI1MjBmMzFlZGZiZDcyNTllZWYxZjAwYzNiOWJjOGVhMmM1",
+  "snapshot_id": "MCwyZTVlOTgwNTVmNTUxM2IyM2MxMzNkNWE5YTU3NmZmMDI4NDFlOGU2",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 186831,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Vengeance",
         "url": "https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 186831,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Novocaine",
         "url": "https://open.spotify.com/album/7dMhiwQNwLVNmqUdRCQ8My"
       },
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Fake Ass Friends",
-        "url": "https://open.spotify.com/album/7H7jMWjWlDy75T59WbWYsv"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 138142,
-      "name": "Fake Ass Friends",
-      "url": "https://open.spotify.com/track/5t3X72EbaFti38zPMlqeTC"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "IF IT DOESN'T HURT",
         "url": "https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 179225,
       "name": "IF IT DOESN'T HURT",
       "url": "https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Fake Ass Friends",
+        "url": "https://open.spotify.com/album/7H7jMWjWlDy75T59WbWYsv"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 138142,
+      "name": "Fake Ass Friends",
+      "url": "https://open.spotify.com/track/5t3X72EbaFti38zPMlqeTC"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Trigger",
-        "url": "https://open.spotify.com/album/2HHt7F17eJjPHFppWdSb8C"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 175157,
-      "name": "Trigger",
-      "url": "https://open.spotify.com/track/4sOgK1FXdaCf2hsCtduj3C"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "The Black",
         "url": "https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 370464,
       "name": "The Black",
       "url": "https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/2HHt7F17eJjPHFppWdSb8C"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 175157,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/4sOgK1FXdaCf2hsCtduj3C"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -659,18 +659,38 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Obsession",
-        "url": "https://open.spotify.com/album/41L4CSoalacuVSYkfEK2RY"
+        "name": "GOOD THINGS",
+        "url": "https://open.spotify.com/album/7GkXgBvyDbg6la9fXPvD5R"
       },
       "artists": [
         {
-          "name": "Thornhill",
-          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+          "name": "Ekoh",
+          "url": "https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO"
+        },
+        {
+          "name": "L\u00f8 Spirit",
+          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
         }
       ],
-      "duration_ms": 197674,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/4OCcKzbevqDQlNdOmXSjAK"
+      "duration_ms": 185937,
+      "name": "GOOD THINGS",
+      "url": "https://open.spotify.com/track/1lnongQG3fZXFBXmWHm1dU"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/7xJmAVR7LCKfvQXt6uSMYM"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 244233,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/4T5tvbFPk4pqxQYT78cADG"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -691,18 +711,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/7xJmAVR7LCKfvQXt6uSMYM"
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/41L4CSoalacuVSYkfEK2RY"
       },
       "artists": [
         {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
         }
       ],
-      "duration_ms": 244233,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/4T5tvbFPk4pqxQYT78cADG"
+      "duration_ms": 197674,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/4OCcKzbevqDQlNdOmXSjAK"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -735,22 +755,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Meat & Greet",
-        "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 210559,
-      "name": "Meat & Greet",
-      "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS"
       },
@@ -767,22 +771,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "GOOD THINGS",
-        "url": "https://open.spotify.com/album/7GkXgBvyDbg6la9fXPvD5R"
+        "name": "Meat & Greet",
+        "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
       },
       "artists": [
         {
-          "name": "Ekoh",
-          "url": "https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO"
-        },
-        {
-          "name": "L\u00f8 Spirit",
-          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
         }
       ],
-      "duration_ms": 185937,
-      "name": "GOOD THINGS",
-      "url": "https://open.spotify.com/track/1lnongQG3fZXFBXmWHm1dU"
+      "duration_ms": 210559,
+      "name": "Meat & Greet",
+      "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -799,6 +799,30 @@
       "duration_ms": 214710,
       "name": "Wash It Away",
       "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "GIRL$",
+        "url": "https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 132999,
+      "name": "GIRL$",
+      "url": "https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -867,26 +891,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "GIRL$",
-        "url": "https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn"
+        "name": "Nightmare (The Devil)",
+        "url": "https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
         }
       ],
-      "duration_ms": 132999,
-      "name": "GIRL$",
-      "url": "https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN"
+      "duration_ms": 201110,
+      "name": "Nightmare (The Devil)",
+      "url": "https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -911,18 +927,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Nightmare (The Devil)",
-        "url": "https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA"
+        "name": "UNDERNEATH",
+        "url": "https://open.spotify.com/album/6fPPeemgYpLxaxYEllXEZO"
       },
       "artists": [
         {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+          "name": "Phix",
+          "url": "https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT"
+        },
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
         }
       ],
-      "duration_ms": 201110,
-      "name": "Nightmare (The Devil)",
-      "url": "https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC"
+      "duration_ms": 192967,
+      "name": "UNDERNEATH",
+      "url": "https://open.spotify.com/track/4BeoN5v8iRmM1JW1Aln0H3"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -943,26 +963,6 @@
       "duration_ms": 258653,
       "name": "Killing Floor feat. Brian Johnson",
       "url": "https://open.spotify.com/track/7anM2SqhfeXgFAAnjYVK3e"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "UNDERNEATH",
-        "url": "https://open.spotify.com/album/6fPPeemgYpLxaxYEllXEZO"
-      },
-      "artists": [
-        {
-          "name": "Phix",
-          "url": "https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT"
-        },
-        {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
-        }
-      ],
-      "duration_ms": 192967,
-      "name": "UNDERNEATH",
-      "url": "https://open.spotify.com/track/4BeoN5v8iRmM1JW1Aln0H3"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Finger",
-        "url": "https://open.spotify.com/album/6wXWZXiqdnCgEI7NzjG9hC"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Finger",
-      "url": "https://open.spotify.com/track/7DdB9aa1MDBtP5JgYMzVRl"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "John",
         "url": "https://open.spotify.com/album/4wNEoTLKONCgk8Ahdieo6I"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 236649,
       "name": "John",
       "url": "https://open.spotify.com/track/1ygGepA71OGb6xNaEEZY1C"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Finger",
+        "url": "https://open.spotify.com/album/6wXWZXiqdnCgEI7NzjG9hC"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Finger",
+      "url": "https://open.spotify.com/track/7DdB9aa1MDBtP5JgYMzVRl"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1075,6 +1075,22 @@
       "duration_ms": 167704,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Skin to Skin",
+        "url": "https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 191439,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1155,22 +1171,6 @@
       "duration_ms": 189736,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/7mJycBkeGO6rBA2zIQsP5t"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Skin to Skin",
-        "url": "https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8"
-      },
-      "artists": [
-        {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
-        }
-      ],
-      "duration_ms": 191439,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Yours Until the War is Over",
-        "url": "https://open.spotify.com/album/3Uf2ioZXjv71usXs8NZZ7M"
-      },
-      "artists": [
-        {
-          "name": "Amigo the Devil",
-          "url": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
-        }
-      ],
-      "duration_ms": 297407,
-      "name": "I\u2019m Going to Heaven",
-      "url": "https://open.spotify.com/track/54Z967GatX3l0VVTSc3Uo7"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Mourning The Dawn",
         "url": "https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 301371,
       "name": "Mourning The Dawn",
       "url": "https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Yours Until the War is Over",
+        "url": "https://open.spotify.com/album/3Uf2ioZXjv71usXs8NZZ7M"
+      },
+      "artists": [
+        {
+          "name": "Amigo the Devil",
+          "url": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
+        }
+      ],
+      "duration_ms": 297407,
+      "name": "I\u2019m Going to Heaven",
+      "url": "https://open.spotify.com/track/54Z967GatX3l0VVTSc3Uo7"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Vendetta (feat. Johnny 3 Tears)",
+        "url": "https://open.spotify.com/album/2dOrRCGNxuNYKm7XM5vkuX"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        },
+        {
+          "name": "Johnny 3 Tears",
+          "url": "https://open.spotify.com/artist/74iE6rXyjSPl853bFQhlNF"
+        }
+      ],
+      "duration_ms": 140894,
+      "name": "Vendetta (feat. Johnny 3 Tears)",
+      "url": "https://open.spotify.com/track/73GVn4g2B1ggfnz0tm5taf"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Lighting Up The Sky",
         "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
       },
@@ -1547,42 +1567,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Vendetta (feat. Johnny 3 Tears)",
-        "url": "https://open.spotify.com/album/2dOrRCGNxuNYKm7XM5vkuX"
-      },
-      "artists": [
-        {
-          "name": "TX2",
-          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
-        },
-        {
-          "name": "Johnny 3 Tears",
-          "url": "https://open.spotify.com/artist/74iE6rXyjSPl853bFQhlNF"
-        }
-      ],
-      "duration_ms": 140894,
-      "name": "Vendetta (feat. Johnny 3 Tears)",
-      "url": "https://open.spotify.com/track/73GVn4g2B1ggfnz0tm5taf"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Blood In The Water",
-        "url": "https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI"
-      },
-      "artists": [
-        {
-          "name": "Ayron Jones",
-          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
-        }
-      ],
-      "duration_ms": 217582,
-      "name": "Blood In The Water",
-      "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "To The Dance Floor For Shelter (feat. Courtney LaPlante)",
         "url": "https://open.spotify.com/album/5S9zh1BaFjgNq1TdDNH1Se"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Burn It All Down",
-        "url": "https://open.spotify.com/album/4W16L76pEGpgoWYJlcYSuw"
+        "name": "Blood In The Water",
+        "url": "https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI"
       },
       "artists": [
         {
-          "name": "Silent Theory",
-          "url": "https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR"
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Burn It All Down",
-      "url": "https://open.spotify.com/track/68Dggd4Ff5HsoChZRxb4FT"
+      "duration_ms": 217582,
+      "name": "Blood In The Water",
+      "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1631,6 +1615,22 @@
       "duration_ms": 148629,
       "name": "Crackhead Ted",
       "url": "https://open.spotify.com/track/7KcZec7zSgQlYdrGWgiWMM"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Burn It All Down",
+        "url": "https://open.spotify.com/album/4W16L76pEGpgoWYJlcYSuw"
+      },
+      "artists": [
+        {
+          "name": "Silent Theory",
+          "url": "https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Burn It All Down",
+      "url": "https://open.spotify.com/track/68Dggd4Ff5HsoChZRxb4FT"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 286941,
+      "name": "welcome2paradise",
+      "url": "https://open.spotify.com/track/6i4p6ySFg8PRJvgwvMgcqZ"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "MURDER (feat. Code:Pandorum)",
         "url": "https://open.spotify.com/album/0XznCZpaBbtD0ZYeEjJ8wP"
       },
@@ -1687,18 +1703,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
+        "name": "The Only Way Is Up",
+        "url": "https://open.spotify.com/album/7rlrFfwLO92uER7b8bPPIv"
       },
       "artists": [
         {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+          "name": "APOC",
+          "url": "https://open.spotify.com/artist/1E68fQlo7IbZBUIoi2OxIN"
         }
       ],
-      "duration_ms": 286941,
-      "name": "welcome2paradise",
-      "url": "https://open.spotify.com/track/6i4p6ySFg8PRJvgwvMgcqZ"
+      "duration_ms": 217142,
+      "name": "The Only Way Is Up",
+      "url": "https://open.spotify.com/track/3QKH9oDuT3k5S5JRsv13KN"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1735,22 +1751,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "I Felt It All",
-        "url": "https://open.spotify.com/album/11McPmOi54GIS6J8XbZqnZ"
-      },
-      "artists": [
-        {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "I Felt It All",
-      "url": "https://open.spotify.com/track/1ZAzqG4uS98aYfFGEIqY6T"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Fade",
         "url": "https://open.spotify.com/album/5QMNXc1HxyWCB2GZG9qjzO"
       },
@@ -1763,6 +1763,22 @@
       "duration_ms": 165563,
       "name": "Fade",
       "url": "https://open.spotify.com/track/7cCP9dxTaASXFQD3FoFZWR"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "I Felt It All",
+        "url": "https://open.spotify.com/album/11McPmOi54GIS6J8XbZqnZ"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "I Felt It All",
+      "url": "https://open.spotify.com/track/1ZAzqG4uS98aYfFGEIqY6T"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1803,18 +1819,34 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "The Only Way Is Up",
-        "url": "https://open.spotify.com/album/7rlrFfwLO92uER7b8bPPIv"
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/0ef4O5dEVqdhZ2q4nHMnnp"
       },
       "artists": [
         {
-          "name": "APOC",
-          "url": "https://open.spotify.com/artist/1E68fQlo7IbZBUIoi2OxIN"
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
         }
       ],
-      "duration_ms": 217142,
-      "name": "The Only Way Is Up",
-      "url": "https://open.spotify.com/track/3QKH9oDuT3k5S5JRsv13KN"
+      "duration_ms": 216849,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/5A9K5Zh7GpSYDleqWr2OGl"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Hands Of The Zodiac",
+        "url": "https://open.spotify.com/album/6MYMxoe61kBRMbbn3bVwwM"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "Hands Of The Zodiac",
+      "url": "https://open.spotify.com/track/07VuZl01CKiz3nuyRGPkmN"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1871,34 +1903,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Hey You",
-        "url": "https://open.spotify.com/album/0ef4O5dEVqdhZ2q4nHMnnp"
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/23VCaSYUWBTn0mUgvuwBtJ"
       },
       "artists": [
         {
-          "name": "Feeder",
-          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
         }
       ],
-      "duration_ms": 216849,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/5A9K5Zh7GpSYDleqWr2OGl"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Hands Of The Zodiac",
-        "url": "https://open.spotify.com/album/6MYMxoe61kBRMbbn3bVwwM"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "Hands Of The Zodiac",
-      "url": "https://open.spotify.com/track/07VuZl01CKiz3nuyRGPkmN"
+      "duration_ms": 224903,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/0rh6ie1S24XTyKXDCUd8aR"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1915,22 +1931,6 @@
       "duration_ms": 241608,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/7cEYiQ8uOjIN9I6Za7U1qT"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/23VCaSYUWBTn0mUgvuwBtJ"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 224903,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/0rh6ie1S24XTyKXDCUd8aR"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "waste",
+        "url": "https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy"
+      },
+      "artists": [
+        {
+          "name": "unpeople",
+          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+        }
+      ],
+      "duration_ms": 231911,
+      "name": "waste",
+      "url": "https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "UNBOUND",
         "url": "https://open.spotify.com/album/6yV7TTaBOu1rwivcDLVUXJ"
       },
@@ -1987,22 +2003,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "I Still Believe",
-        "url": "https://open.spotify.com/album/5yK0LHapGQcaUFeyKkjfZG"
-      },
-      "artists": [
-        {
-          "name": "New Years Day",
-          "url": "https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "I Still Believe",
-      "url": "https://open.spotify.com/track/1atc0z1xkg02bSjkfkpOUv"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Never too Late",
         "url": "https://open.spotify.com/album/1w1MFnM61713qCzXge8TE6"
       },
@@ -2019,6 +2019,22 @@
       "duration_ms": 208714,
       "name": "Never Too Late",
       "url": "https://open.spotify.com/track/5SJ5ne8gpme3742MeSMqQ8"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "I Still Believe",
+        "url": "https://open.spotify.com/album/5yK0LHapGQcaUFeyKkjfZG"
+      },
+      "artists": [
+        {
+          "name": "New Years Day",
+          "url": "https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "I Still Believe",
+      "url": "https://open.spotify.com/track/1atc0z1xkg02bSjkfkpOUv"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2055,18 +2071,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "waste",
-        "url": "https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy"
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/5TlVBksP2wUnDy0Js59tBE"
       },
       "artists": [
         {
-          "name": "unpeople",
-          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+          "name": "LYELL",
+          "url": "https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y"
+        },
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        },
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
         }
       ],
-      "duration_ms": 231911,
-      "name": "waste",
-      "url": "https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP"
+      "duration_ms": 141333,
+      "name": "LIGHTHOUSE",
+      "url": "https://open.spotify.com/track/5VuzFzdNs6Rqybv6f2OmXZ"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2131,30 +2155,6 @@
       "duration_ms": 291034,
       "name": "Terminal",
       "url": "https://open.spotify.com/track/0tOvdClBu7Wf34Y9UqYPUn"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "LIGHTHOUSE",
-        "url": "https://open.spotify.com/album/5TlVBksP2wUnDy0Js59tBE"
-      },
-      "artists": [
-        {
-          "name": "LYELL",
-          "url": "https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y"
-        },
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        },
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "LIGHTHOUSE",
-      "url": "https://open.spotify.com/track/5VuzFzdNs6Rqybv6f2OmXZ"
     }
   ],
   "unique_name": "Hard Rock",

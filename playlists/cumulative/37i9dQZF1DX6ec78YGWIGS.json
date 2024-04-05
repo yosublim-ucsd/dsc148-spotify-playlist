@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Shakira",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: TINI",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -446,6 +446,28 @@
       "duration_ms": 222461,
       "name": "BABY HELLO",
       "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
+    },
+    {
+      "album": {
+        "name": "Insomnio",
+        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185546,
+      "name": "Bailarina",
+      "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
     },
     {
       "album": {
@@ -964,7 +986,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 224725,
       "name": "COSAS QUE NO TE DIJE",
       "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
@@ -1036,7 +1058,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 174369,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
@@ -1116,7 +1138,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 112572,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
@@ -1324,6 +1346,24 @@
       "duration_ms": 198433,
       "name": "Despu\u00e9s De Ti",
       "url": "https://open.spotify.com/track/7Gyw1SoLPJE5x1yF1ogD5o"
+    },
+    {
+      "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "DILUVIO",
+      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
     },
     {
       "album": {
@@ -1586,7 +1626,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 169451,
       "name": "En Un Loop",
       "url": "https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS"
@@ -1698,10 +1738,28 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 152339,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/67PVHYTRLs1ysVBigqSOau"
+    },
+    {
+      "album": {
+        "name": "Faltas T\u00fa",
+        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201836,
+      "name": "Faltas T\u00fa",
+      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
     },
     {
       "album": {
@@ -1956,6 +2014,28 @@
       "duration_ms": 142840,
       "name": "Hipnotizados",
       "url": "https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j"
+    },
+    {
+      "album": {
+        "name": "Hombres y Mujeres",
+        "url": "https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148644,
+      "name": "Hombres y Mujeres",
+      "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
     },
     {
       "album": {
@@ -2833,6 +2913,40 @@
     },
     {
       "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "TATOOL",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219201,
+      "name": "Mamichula - con Nicki Nicole",
+      "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
+    },
+    {
+      "album": {
         "name": "Maquillada en la Cama",
         "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
       },
@@ -2888,7 +3002,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 182075,
       "name": "Me Enter\u00e9",
       "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
@@ -3667,6 +3781,24 @@
     },
     {
       "album": {
+        "name": "pa",
+        "url": "https://open.spotify.com/album/4bjgFGmRrC04tRlwz5i6op"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190649,
+      "name": "pa",
+      "url": "https://open.spotify.com/track/28ZVFl4CQhyRmBFpJXOpUY"
+    },
+    {
+      "album": {
         "name": "Pa La Playita",
         "url": "https://open.spotify.com/album/1bDDpIDQCKSB9J46d5fpcP"
       },
@@ -3918,6 +4050,24 @@
       "duration_ms": 222800,
       "name": "PLIS",
       "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
+    },
+    {
+      "album": {
+        "name": "posta",
+        "url": "https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121290,
+      "name": "posta",
+      "url": "https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj"
     },
     {
       "album": {
@@ -4654,7 +4804,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 169911,
       "name": "TQMQA",
       "url": "https://open.spotify.com/track/0Xm7WesKiHAAbLYluGqBZ7"
@@ -4694,7 +4844,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
@@ -5157,6 +5307,24 @@
     },
     {
       "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "album": {
         "name": "Ya No Quiero Verte",
         "url": "https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS"
       },
@@ -5274,6 +5442,24 @@
       "duration_ms": 207632,
       "name": "Yo Te Dir\u00e9",
       "url": "https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00f3mo Pas\u00f3?",
+        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "\u00bfC\u00f3mo Pas\u00f3?",
+      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6ec78YGWIGS"

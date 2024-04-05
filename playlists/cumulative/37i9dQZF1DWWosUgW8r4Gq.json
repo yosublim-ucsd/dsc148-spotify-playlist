@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "So Precious",
+        "url": "https://open.spotify.com/album/6LexuWYpwKbdy00OH8l9Xk"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "So Precious",
+      "url": "https://open.spotify.com/track/1xq5OxDUGhqBFXgjC9TGPK"
+    },
+    {
+      "album": {
         "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
       },
@@ -1154,6 +1172,24 @@
       "duration_ms": 259200,
       "name": "\u30df\u30e2\u30b6",
       "url": "https://open.spotify.com/track/7oSvz1fNg3dcm5JVN4irN8"
+    },
+    {
+      "album": {
+        "name": "\u30ec\u30a4\u30c9\u30d0\u30c3\u30af\u30b8\u30e3\u30fc\u30cb\u30fc",
+        "url": "https://open.spotify.com/album/3zoy7kb2Rko2brzwK2PbSW"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30df\u306e\u306d",
+          "url": "https://open.spotify.com/artist/28La3YWZze3hrTAStA8g1k"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206066,
+      "name": "\u30ec\u30a4\u30c9\u30d0\u30c3\u30af\u30b8\u30e3\u30fc\u30cb\u30fc",
+      "url": "https://open.spotify.com/track/7gAXePaogDXebFVcmN8DEU"
     },
     {
       "album": {

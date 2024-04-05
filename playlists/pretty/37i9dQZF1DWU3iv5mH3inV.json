@@ -1,12 +1,12 @@
 {
   "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Yaisel LM",
-  "num_followers": 102797,
+  "num_followers": 102898,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODgxNTdjOWQ4OGFiMmNhNzQ1MTdjMzJhNDlkOTBjNzFkYzc5NTc3",
+  "snapshot_id": "MCw0NjBjNGMwZDNkMzc0YWU1YzFlNjkzZjM5ZGVmOWQwZmVhNTIxMzMw",
   "tracks": [
     {
       "added_at": "2024-03-28 14:23:32",
@@ -321,6 +321,22 @@
       "url": "https://open.spotify.com/track/0ZM8t0KJ30VcLv8KIs0v0m"
     },
     {
+      "added_at": "2024-04-04 22:49:14",
+      "album": {
+        "name": "HAY LUPITA",
+        "url": "https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "duration_ms": 105836,
+      "name": "HAY LUPITA",
+      "url": "https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed"
+    },
+    {
       "added_at": "2024-04-03 20:10:24",
       "album": {
         "name": "Batelo",
@@ -383,6 +399,22 @@
       "duration_ms": 184987,
       "name": "Don Dimadon",
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
+    },
+    {
+      "added_at": "2024-04-04 21:52:59",
+      "album": {
+        "name": "SUBA",
+        "url": "https://open.spotify.com/album/7LwQYMT4Ha5MbYvruOlwmG"
+      },
+      "artists": [
+        {
+          "name": "Spazo Domingo",
+          "url": "https://open.spotify.com/artist/5EFJjchOppveVwlUeto4mr"
+        }
+      ],
+      "duration_ms": 122561,
+      "name": "SUBA",
+      "url": "https://open.spotify.com/track/2RwIdubGWW8OIwDPgfEDuh"
     },
     {
       "added_at": "2024-02-01 23:53:43",
@@ -869,22 +901,6 @@
       "url": "https://open.spotify.com/track/3ftPhjnEAGFZlBoIJjyelE"
     },
     {
-      "added_at": "2024-03-21 19:13:50",
-      "album": {
-        "name": "Gustico",
-        "url": "https://open.spotify.com/album/368bsWdJokKC9ZQoKsfU8F"
-      },
-      "artists": [
-        {
-          "name": "Braulio Fogon",
-          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
-        }
-      ],
-      "duration_ms": 101102,
-      "name": "Gustico",
-      "url": "https://open.spotify.com/track/6v1VUTkjfJqIcZRMXizPGa"
-    },
-    {
       "added_at": "2023-12-22 05:09:41",
       "album": {
         "name": "GLOCK CREMA",
@@ -1039,26 +1055,6 @@
       "duration_ms": 202216,
       "name": "Los Pasos Disponible",
       "url": "https://open.spotify.com/track/2eY4TmcggU8T0LBm9FVGHK"
-    },
-    {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Oao",
-        "url": "https://open.spotify.com/album/6MDmalA7IwQunst4DzzvKn"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        },
-        {
-          "name": "Papaa Tyga",
-          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
-        }
-      ],
-      "duration_ms": 150991,
-      "name": "Oao",
-      "url": "https://open.spotify.com/track/16tsUHnekjoAdvZ06yHDbI"
     },
     {
       "added_at": "2023-12-22 05:09:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,854 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,868 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 49 | [Hai Sac Hoa Tigon](https://open.spotify.com/track/7su2RDJv3bxCxcHdml8Nds) | [Nhật Trường](https://open.spotify.com/artist/4jWP1rOO1J3sXq7dQAaEkA) | [Hai Sac Hoa Tigon](https://open.spotify.com/album/0Oxk0Dp5elEE2tHw44B9Vu) | 5:19 |
 | 50 | [Sao Anh No Danh Quen](https://open.spotify.com/track/7IAxC99GSbBHdJapGzed5x) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Toi Khong Co Don](https://open.spotify.com/album/72pultksR1KazoXutdMGk1) | 4:19 |
 
-Snapshot ID: `MCxlYjYxYTg2N2EzODdiMzgwZTdmYTdlZmZjZjdlMGQxYzBhYWY0NjFl`
+Snapshot ID: `MCw3NWM4NTQwZWExMzA4YTJiY2ZmMjY1NjNhMGNiOGRjMzE2NGQ0ODdm`

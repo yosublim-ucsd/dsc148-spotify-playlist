@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,748 likes - 313 songs - 19 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,750 likes - 313 songs - 19 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 124 | [Knock You Out](https://open.spotify.com/track/1iNPlFDLDGjnJZbt11SU1e) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK) | [Knock You Out](https://open.spotify.com/album/3yD752ODQgnGdaVNcMSrwo) | 2:50 |
 | 125 | [Midnight Decisions](https://open.spotify.com/track/5rVElqSBdfsDALQfc7z2ZQ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:42 |
 | 126 | [Lying Down](https://open.spotify.com/track/3RcmQ6DdLqwp38tFsWx0mj) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:58 |
-| 127 | [Cannonball](https://open.spotify.com/track/2ohZwvgW7AsvpzZZDuA6PR) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 3:35 |
-| 128 | [Dance Alone](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Dance Alone](https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw) | 2:52 |
+| 127 | [Dance Alone](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Dance Alone](https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw) | 2:52 |
+| 128 | [Cannonball](https://open.spotify.com/track/2ohZwvgW7AsvpzZZDuA6PR) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 3:35 |
 | 129 | [about u](https://open.spotify.com/track/7fYqZ0lXT0gJOaQidAfDXM) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [about u](https://open.spotify.com/album/1hvviILsmIrfuD9z3E3Oxg) | 3:14 |
 | 130 | [Kill And Run](https://open.spotify.com/track/3o1plg7nwWCgZK5b9sNIDr) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music From Baz Luhrmann's Film The Great Gatsby](https://open.spotify.com/album/6JCgdZOAX8K6SgBw3Oanwd) | 3:35 |
 | 131 | [Welcome to the Wonderful World of \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/2mMQFumTaHcwMZsiNE57Um) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 1:56 |
@@ -322,4 +322,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 312 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 313 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `Mjg1MzY2MTAsMDAwMDAwMDA1NzVkZTYyNDJlMDMyZTE0MDlmYWMyZDE3MjM2MzhkZQ==`
+Snapshot ID: `Mjg1MzgwNTAsMDAwMDAwMDBhMTllMzBjNmExM2RmNGQ4MTZkMjZjNWQzMDFmMWU0Yw==`

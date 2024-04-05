@@ -1,12 +1,12 @@
 {
   "description": "Pinches cumbiones bien locos para bailar.",
-  "num_followers": 149320,
+  "num_followers": 149373,
   "original_name": "50 Cumbiones Bien Locos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjA0OWU4ZGY4MzJhMDg4MGY3ODUwZDU3NTk5NzkzMmRjNGVhNWJi",
+  "snapshot_id": "MCxjMDY1ZWRjNmI4YTk4MWM2ZGU1MGFhMTMwMzk3NWY4NDI2MDM0M2Zk",
   "tracks": [
     {
       "added_at": "2024-03-26 15:40:14",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
         "name": "Pobre Coraz\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/7kNdveFXAKstJ8iNMrwq4Z"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 198930,
       "name": "Pobre Coraz\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. 3",
+        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 238236,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
         "name": "Costumbres (Vivo)",
         "url": "https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 133077,
       "name": "Costumbres - Vivo",
       "url": "https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. 3",
-        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 238236,
-      "name": "Tiene Espinas El Rosal",
-      "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -763,6 +763,34 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
+        "name": "EL AFERRAFTER",
+        "url": "https://open.spotify.com/album/5kCcwHW51rJXQbhBIBsXqU"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        },
+        {
+          "name": "Los Parna",
+          "url": "https://open.spotify.com/artist/25zjlPvogNayIBsBulQ2nM"
+        },
+        {
+          "name": "Mc Window",
+          "url": "https://open.spotify.com/artist/1lhqy1J0L0MoELGM3XckyU"
+        },
+        {
+          "name": "El Ca$h",
+          "url": "https://open.spotify.com/artist/4bkBSXHN1g64Zf09uxIPl5"
+        }
+      ],
+      "duration_ms": 207807,
+      "name": "EL AFERRAFTER",
+      "url": "https://open.spotify.com/track/5goJAJjtJ0gR9MW5vSg3hy"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
         "name": "15 Grandes",
         "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
       },
@@ -807,34 +835,6 @@
       "duration_ms": 216346,
       "name": "El Gigante De Hierro",
       "url": "https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
-        "name": "EL AFERRAFTER",
-        "url": "https://open.spotify.com/album/5kCcwHW51rJXQbhBIBsXqU"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        },
-        {
-          "name": "Los Parna",
-          "url": "https://open.spotify.com/artist/25zjlPvogNayIBsBulQ2nM"
-        },
-        {
-          "name": "Mc Window",
-          "url": "https://open.spotify.com/artist/1lhqy1J0L0MoELGM3XckyU"
-        },
-        {
-          "name": "El Ca$h",
-          "url": "https://open.spotify.com/artist/4bkBSXHN1g64Zf09uxIPl5"
-        }
-      ],
-      "duration_ms": 207807,
-      "name": "EL AFERRAFTER",
-      "url": "https://open.spotify.com/track/5goJAJjtJ0gR9MW5vSg3hy"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
         "name": "Lo Nuevo Y\u2026Lo Mejor",
         "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 169640,
       "name": "La Cumbia De La Cerveza",
       "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "Que Locura Fue Enamorarme de Ti (Remix)",
-        "url": "https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe"
-      },
-      "artists": [
-        {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
-        },
-        {
-          "name": "Kevo DJ",
-          "url": "https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z"
-        }
-      ],
-      "duration_ms": 141453,
-      "name": "Que Locura Fue Enamorarme de Ti (Remix)",
-      "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
         "name": "Coraz\u00f3n Enamorado",
         "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
       },
@@ -1411,6 +1391,26 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
+        "name": "Que Locura Fue Enamorarme de Ti (Remix)",
+        "url": "https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe"
+      },
+      "artists": [
+        {
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+        },
+        {
+          "name": "Kevo DJ",
+          "url": "https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z"
+        }
+      ],
+      "duration_ms": 141453,
+      "name": "Que Locura Fue Enamorarme de Ti (Remix)",
+      "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
         "name": "Como un Dulce Poema, Vol. 3",
         "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
       },
@@ -1423,6 +1423,22 @@
       "duration_ms": 249773,
       "name": "Nunca Pense Llorar",
       "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
+        "name": "Rompiendo las Reglas de la Cumbia",
+        "url": "https://open.spotify.com/album/57D5brwOIybIORt38FflIh"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        }
+      ],
+      "duration_ms": 266396,
+      "name": "Te Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/1cFTuzXLHT6XS4PlT9wvZR"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -1455,22 +1471,6 @@
       "duration_ms": 211875,
       "name": "Yendo No, Llegando",
       "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
-        "name": "Rompiendo las Reglas de la Cumbia",
-        "url": "https://open.spotify.com/album/57D5brwOIybIORt38FflIh"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        }
-      ],
-      "duration_ms": 266396,
-      "name": "Te Tengo Que Olvidar",
-      "url": "https://open.spotify.com/track/1cFTuzXLHT6XS4PlT9wvZR"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
-        "name": "M\u00e1s Negro Que la Noche",
-        "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
-      },
-      "artists": [
-        {
-          "name": "De La Calle",
-          "url": "https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3"
-        }
-      ],
-      "duration_ms": 155387,
-      "name": "Una Wacha Piola",
-      "url": "https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
         "name": "Nuestra Historia Termino",
         "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
       },
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2024-03-26 15:40:14",
       "album": {
+        "name": "M\u00e1s Negro Que la Noche",
+        "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
+      },
+      "artists": [
+        {
+          "name": "De La Calle",
+          "url": "https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3"
+        }
+      ],
+      "duration_ms": 155387,
+      "name": "Una Wacha Piola",
+      "url": "https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
         "name": "Locura De Amor",
         "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
       },
@@ -1655,26 +1655,6 @@
       "duration_ms": 237080,
       "name": "Amor Carnal",
       "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
-    },
-    {
-      "added_at": "2024-03-26 15:40:14",
-      "album": {
-        "name": "Huguito Flores: Sin Miedo Session #31",
-        "url": "https://open.spotify.com/album/6EE5LTAYDLHsG40zEGyDNz"
-      },
-      "artists": [
-        {
-          "name": "Sin Miedo",
-          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
-        },
-        {
-          "name": "Huguito Flores el Super",
-          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
-        }
-      ],
-      "duration_ms": 124133,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/4HeQYAeIq5lyHcR5JIh6I7"
     },
     {
       "added_at": "2024-03-26 15:40:14",
@@ -1695,6 +1675,26 @@
       "duration_ms": 210960,
       "name": "La Cumbia Triste",
       "url": "https://open.spotify.com/track/5tsZWdsk2emPhUXNYs5Jnr"
+    },
+    {
+      "added_at": "2024-03-26 15:40:14",
+      "album": {
+        "name": "Huguito Flores: Sin Miedo Session #31",
+        "url": "https://open.spotify.com/album/6EE5LTAYDLHsG40zEGyDNz"
+      },
+      "artists": [
+        {
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+        },
+        {
+          "name": "Huguito Flores el Super",
+          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
+        }
+      ],
+      "duration_ms": 124133,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/4HeQYAeIq5lyHcR5JIh6I7"
     },
     {
       "added_at": "2024-03-26 15:40:14",

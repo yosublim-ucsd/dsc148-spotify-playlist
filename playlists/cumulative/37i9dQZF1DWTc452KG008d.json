@@ -568,7 +568,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
@@ -666,6 +666,24 @@
       "duration_ms": 173640,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
+    },
+    {
+      "album": {
+        "name": "Friend or Foe",
+        "url": "https://open.spotify.com/album/2yBWhovYNLKS7VnHdK8cEN"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250971,
+      "name": "Friend or Foe",
+      "url": "https://open.spotify.com/track/5PM4EyvM68K8XA0UCmWpLF"
     },
     {
       "album": {
@@ -807,6 +825,24 @@
     },
     {
       "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229437,
+      "name": "Hold Me Up (Thank You)",
+      "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
+    },
+    {
+      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -822,6 +858,24 @@
       "duration_ms": 205686,
       "name": "Hold Me While You Wait",
       "url": "https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM"
+    },
+    {
+      "album": {
+        "name": "House",
+        "url": "https://open.spotify.com/album/6D6kw82gz48fycksFloqS5"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190859,
+      "name": "House",
+      "url": "https://open.spotify.com/track/4DM1J2NHPGlIfdepXMFbK9"
     },
     {
       "album": {
@@ -1117,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215331,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
+    },
+    {
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -1150,7 +1222,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 209751,
       "name": "Louise (feat. Teitur)",
       "url": "https://open.spotify.com/track/1ZeVc8ZvZsCzVZ532nr14a"
@@ -1208,7 +1280,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 189000,
       "name": "Luminary",
       "url": "https://open.spotify.com/track/66pWxtaxTV8CxcGOvivZeT"
@@ -1370,7 +1442,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 188635,
       "name": "Rather Be Lonely",
       "url": "https://open.spotify.com/track/1R10uSrxB4bPPlimJ5ZYl0"
@@ -1821,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "The Second Act",
+        "url": "https://open.spotify.com/album/4hVQwE4HbQWok3dOz2CZVs"
+      },
+      "artists": [
+        {
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219316,
+      "name": "The Second Act",
+      "url": "https://open.spotify.com/track/5RcWnnP5TMszVvarhYaoqa"
+    },
+    {
+      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -2052,7 +2142,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 200560,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"

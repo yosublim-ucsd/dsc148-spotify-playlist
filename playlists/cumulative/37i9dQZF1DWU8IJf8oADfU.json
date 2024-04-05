@@ -70,10 +70,28 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 236000,
       "name": "Angela",
       "url": "https://open.spotify.com/track/6ab3CQvDlAVttThZucwGQ1"
+    },
+    {
+      "album": {
+        "name": "Fiesta Ete",
+        "url": "https://open.spotify.com/album/7y5wAxXmiTc3Y7ZMxdXn8G"
+      },
+      "artists": [
+        {
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/6xNXmllCLIV9cH1luBzqvO"
     },
     {
       "album": {

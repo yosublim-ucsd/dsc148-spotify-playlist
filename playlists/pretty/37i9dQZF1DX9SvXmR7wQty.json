@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Laurence Nerbonne",
-  "num_followers": 40132,
+  "num_followers": 40139,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWU3NzY3MGMxNGFkMTAxMjE5MzE4Y2UxZjQyMjEzMDk2MWI2ZGIx",
+  "snapshot_id": "MCxiOTI0YjE3MGY3NzZlMjBmMjExNmJlOWY5ZjA5ZmY1MWNkMDcxNTkx",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "C24",
-        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "C24",
-      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Bushi Tape 3",
         "url": "https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf"
       },
@@ -691,6 +675,38 @@
       "duration_ms": 184360,
       "name": "Oc\u00e9ane",
       "url": "https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "C24",
+        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "C24",
+      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Goumin",
+        "url": "https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 154773,
+      "name": "Abim\u00e9",
+      "url": "https://open.spotify.com/track/4UA7p7ndurcpEBQxGyTAnQ"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -775,18 +791,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Goumin",
-        "url": "https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF"
+        "name": "Recommence-moi",
+        "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
       },
       "artists": [
         {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
         }
       ],
-      "duration_ms": 154773,
-      "name": "Abim\u00e9",
-      "url": "https://open.spotify.com/track/4UA7p7ndurcpEBQxGyTAnQ"
+      "duration_ms": 196334,
+      "name": "Recommence-moi",
+      "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -807,18 +823,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Recommence-moi",
-        "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
+        "name": "EMC",
+        "url": "https://open.spotify.com/album/6BF3lSyJtGjnKeUqqYMjdG"
       },
       "artists": [
         {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+          "name": "WarEnd",
+          "url": "https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
         }
       ],
-      "duration_ms": 196334,
-      "name": "Recommence-moi",
-      "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
+      "duration_ms": 180000,
+      "name": "PLAGE ENNEIGEE",
+      "url": "https://open.spotify.com/track/5eaS2PEdjSDGK1MfvRDUe4"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -839,26 +859,6 @@
       "duration_ms": 171000,
       "name": "LE FOND (feat. Zokush)",
       "url": "https://open.spotify.com/track/3gktsOcb7tDf4th88k8kZd"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "EMC",
-        "url": "https://open.spotify.com/album/6BF3lSyJtGjnKeUqqYMjdG"
-      },
-      "artists": [
-        {
-          "name": "WarEnd",
-          "url": "https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR"
-        },
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "PLAGE ENNEIGEE",
-      "url": "https://open.spotify.com/track/5eaS2PEdjSDGK1MfvRDUe4"
     },
     {
       "added_at": "2024-03-29 04:00:00",

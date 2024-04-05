@@ -1,12 +1,12 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 3563,
+  "num_followers": 3565,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTY1YWY3ZDRmMWI3MTA5NDk1NTIyNDNjZDM4YTVmMmI2YmU2OGY5",
+  "snapshot_id": "MCw4ZDA5YWIzMWQwODQwMTk2ZWM2YWM0MzA4YTJjNGMxM2EzYzk5MDRj",
   "tracks": [
     {
       "added_at": "2023-08-10 14:02:26",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Stardom In Future Flow",
-        "url": "https://open.spotify.com/album/099IAQyHxzJvo1ioGSuRmd"
-      },
-      "artists": [
-        {
-          "name": "ZoPD",
-          "url": "https://open.spotify.com/artist/1JIlqu7XZniSF86iMlgKHR"
-        }
-      ],
-      "duration_ms": 242706,
-      "name": "My Style",
-      "url": "https://open.spotify.com/track/40UsCnzkWu5B958U7BCNJR"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "The Real Me",
         "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
       },
@@ -779,22 +763,38 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Superior Vol. 2 - Seoul City's Finest",
-        "url": "https://open.spotify.com/album/1mGSvFoUY424YVLrMWBGW6"
+        "name": "Stardom In Future Flow",
+        "url": "https://open.spotify.com/album/099IAQyHxzJvo1ioGSuRmd"
       },
       "artists": [
         {
-          "name": "Joosuc",
-          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
-        },
-        {
-          "name": "Lim Jeong Hee",
-          "url": "https://open.spotify.com/artist/6VDMtQjKKIrMJ3bog4MdaJ"
+          "name": "ZoPD",
+          "url": "https://open.spotify.com/artist/1JIlqu7XZniSF86iMlgKHR"
         }
       ],
-      "duration_ms": 227013,
-      "name": "Hiphop Music (feat. Lim Jeong Hee)",
-      "url": "https://open.spotify.com/track/15x7ZH3FVq146zBXEiS13P"
+      "duration_ms": 242706,
+      "name": "My Style",
+      "url": "https://open.spotify.com/track/40UsCnzkWu5B958U7BCNJR"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/7nzH9dvMJT3qMTrB0mZOTo"
+      },
+      "artists": [
+        {
+          "name": "BAECHIGI",
+          "url": "https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP"
+        },
+        {
+          "name": "MC Sniper",
+          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "\uc80a\uc740\uc774\uc758 \uc591\uc9c0 (feat. MC Sniper)",
+      "url": "https://open.spotify.com/track/1Gg9JEerKSgFy9p5tV642n"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
+        "name": "Garion [Special Edition]",
+        "url": "https://open.spotify.com/album/5ym8UvuOOIEGRqPPYkNRFw"
+      },
+      "artists": [
+        {
+          "name": "Garion",
+          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
+        }
+      ],
+      "duration_ms": 331426,
+      "name": "\ubfcc\ub9ac\uae4a\uc740 \ub098\ubb34",
+      "url": "https://open.spotify.com/track/2s65pwHpdE4qURvCTAKNj1"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
         "name": "Positive Mind",
         "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
       },
@@ -859,6 +875,42 @@
       "duration_ms": 276800,
       "name": "\ub108\uac00 \ub0a0 \ub5a0\ub098\uba74 \uc548\ub418\ub294 \uc774\uc720",
       "url": "https://open.spotify.com/track/4qeHcnmSFGSsj3zYfHeaS1"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Superior Vol. 2 - Seoul City's Finest",
+        "url": "https://open.spotify.com/album/1mGSvFoUY424YVLrMWBGW6"
+      },
+      "artists": [
+        {
+          "name": "Joosuc",
+          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
+        },
+        {
+          "name": "Lim Jeong Hee",
+          "url": "https://open.spotify.com/artist/6VDMtQjKKIrMJ3bog4MdaJ"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "Hiphop Music (feat. Lim Jeong Hee)",
+      "url": "https://open.spotify.com/track/15x7ZH3FVq146zBXEiS13P"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "but I \ub4dc\ub824",
+        "url": "https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 218671,
+      "name": "\ub098\ub294\ub098\ubed0",
+      "url": "https://open.spotify.com/track/42S1lt5LXC4HJKXgDyxcuB"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -883,58 +935,6 @@
       "duration_ms": 237400,
       "name": "\ub0b4\ub9ac\ub9c9 (feat. Tablo, Mithra Jin)",
       "url": "https://open.spotify.com/track/5TdSTn8VjEHE611v4Uhw3o"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Garion [Special Edition]",
-        "url": "https://open.spotify.com/album/5ym8UvuOOIEGRqPPYkNRFw"
-      },
-      "artists": [
-        {
-          "name": "Garion",
-          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
-        }
-      ],
-      "duration_ms": 331426,
-      "name": "\ubfcc\ub9ac\uae4a\uc740 \ub098\ubb34",
-      "url": "https://open.spotify.com/track/2s65pwHpdE4qURvCTAKNj1"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/7nzH9dvMJT3qMTrB0mZOTo"
-      },
-      "artists": [
-        {
-          "name": "BAECHIGI",
-          "url": "https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP"
-        },
-        {
-          "name": "MC Sniper",
-          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "\uc80a\uc740\uc774\uc758 \uc591\uc9c0 (feat. MC Sniper)",
-      "url": "https://open.spotify.com/track/1Gg9JEerKSgFy9p5tV642n"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "but I \ub4dc\ub824",
-        "url": "https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 218671,
-      "name": "\ub098\ub294\ub098\ubed0",
-      "url": "https://open.spotify.com/track/42S1lt5LXC4HJKXgDyxcuB"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -975,26 +975,6 @@
       "duration_ms": 255866,
       "name": "It\u2019s Me (feat. Epik High & MYK)",
       "url": "https://open.spotify.com/track/3zM41c5Tkxh0vVJnJDEPts"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Superior Vol. 1 - This Iz My Life",
-        "url": "https://open.spotify.com/album/6qMDEfSa6SB7YLaA6AaEQu"
-      },
-      "artists": [
-        {
-          "name": "Joosuc",
-          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
-        },
-        {
-          "name": "KIM BUMSOO",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 227960,
-      "name": "Solo To The Top 2 (feat. Kim Bum Soo)",
-      "url": "https://open.spotify.com/track/571Mbe40o9w04hbGRRVZdz"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1075,6 +1055,26 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
+        "name": "Superior Vol. 1 - This Iz My Life",
+        "url": "https://open.spotify.com/album/6qMDEfSa6SB7YLaA6AaEQu"
+      },
+      "artists": [
+        {
+          "name": "Joosuc",
+          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
+        },
+        {
+          "name": "KIM BUMSOO",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 227960,
+      "name": "Solo To The Top 2 (feat. Kim Bum Soo)",
+      "url": "https://open.spotify.com/track/571Mbe40o9w04hbGRRVZdz"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
         "name": "Garion [Special Edition]",
         "url": "https://open.spotify.com/album/5ym8UvuOOIEGRqPPYkNRFw"
       },
@@ -1147,46 +1147,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Q Train (Remaster)",
-        "url": "https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX"
-      },
-      "artists": [
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Mad Clown",
-          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
-        }
-      ],
-      "duration_ms": 84925,
-      "name": "Interlude (feat. Mad Clown)",
-      "url": "https://open.spotify.com/track/7pLOLSicKZhYp0OFXX1aiN"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Beatz 4 Da Streetz",
-        "url": "https://open.spotify.com/album/5fW9o5IqCJxz7jt3tJk7oh"
-      },
-      "artists": [
-        {
-          "name": "Joosuc",
-          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
-        },
-        {
-          "name": "YURI",
-          "url": "https://open.spotify.com/artist/3YXQOd2FjcAdsulPQNwRIX"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "4 Life (feat. YURI)",
-      "url": "https://open.spotify.com/track/5BfZj4ajLxQstbAtBCmGW2"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "Positive Mind",
         "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
       },
@@ -1203,6 +1163,26 @@
       "duration_ms": 254640,
       "name": "\ub208\uc744 \ub728\uba74",
       "url": "https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Q Train (Remaster)",
+        "url": "https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+        }
+      ],
+      "duration_ms": 84925,
+      "name": "Interlude (feat. Mad Clown)",
+      "url": "https://open.spotify.com/track/7pLOLSicKZhYp0OFXX1aiN"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1231,6 +1211,42 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
+        "name": "Garion [Special Edition]",
+        "url": "https://open.spotify.com/album/5ym8UvuOOIEGRqPPYkNRFw"
+      },
+      "artists": [
+        {
+          "name": "Garion",
+          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
+        }
+      ],
+      "duration_ms": 277306,
+      "name": "\ud68c\uc0c1",
+      "url": "https://open.spotify.com/track/13NieYoXXcIUaQgXdkldej"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Beatz 4 Da Streetz",
+        "url": "https://open.spotify.com/album/5fW9o5IqCJxz7jt3tJk7oh"
+      },
+      "artists": [
+        {
+          "name": "Joosuc",
+          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
+        },
+        {
+          "name": "YURI",
+          "url": "https://open.spotify.com/artist/3YXQOd2FjcAdsulPQNwRIX"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "4 Life (feat. YURI)",
+      "url": "https://open.spotify.com/track/5BfZj4ajLxQstbAtBCmGW2"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
         "name": "Poetree Syndrome",
         "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 208066,
       "name": "Feeling You",
       "url": "https://open.spotify.com/track/6RCgCE0UuHV3FaLwE3DSwa"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Garion [Special Edition]",
-        "url": "https://open.spotify.com/album/5ym8UvuOOIEGRqPPYkNRFw"
-      },
-      "artists": [
-        {
-          "name": "Garion",
-          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
-        }
-      ],
-      "duration_ms": 277306,
-      "name": "\ud68c\uc0c1",
-      "url": "https://open.spotify.com/track/13NieYoXXcIUaQgXdkldej"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1427,26 +1427,18 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Handalas",
-        "url": "https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8"
+        "name": "MP Hip Hop 2000 CHO (Remastered)",
+        "url": "https://open.spotify.com/album/3wjbQMnYUtj5Dh8Wh7qF4n"
       },
       "artists": [
         {
-          "name": "Leo Kekoa",
-          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
-        },
-        {
-          "name": "MC Meta",
-          "url": "https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu"
-        },
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+          "name": "Onesun",
+          "url": "https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU"
         }
       ],
-      "duration_ms": 216821,
-      "name": "Handalas",
-      "url": "https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme"
+      "duration_ms": 240840,
+      "name": "Little Thug Kid",
+      "url": "https://open.spotify.com/track/1AnuoG3yUsCJWRTmsHz9Fh"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1491,18 +1483,26 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "MP Hip Hop 2000 CHO (Remastered)",
-        "url": "https://open.spotify.com/album/3wjbQMnYUtj5Dh8Wh7qF4n"
+        "name": "Handalas",
+        "url": "https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8"
       },
       "artists": [
         {
-          "name": "Onesun",
-          "url": "https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU"
+          "name": "Leo Kekoa",
+          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
+        },
+        {
+          "name": "MC Meta",
+          "url": "https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
         }
       ],
-      "duration_ms": 240840,
-      "name": "Little Thug Kid",
-      "url": "https://open.spotify.com/track/1AnuoG3yUsCJWRTmsHz9Fh"
+      "duration_ms": 216821,
+      "name": "Handalas",
+      "url": "https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1539,22 +1539,22 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Full Time",
-        "url": "https://open.spotify.com/album/53ebTxlNJUj9g3i8gZexWN"
+        "name": "Heavy Bass",
+        "url": "https://open.spotify.com/album/3fSQ0q58tU7ENEzGC3MsuK"
       },
       "artists": [
         {
-          "name": "MC Sniper",
-          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
+          "name": "P-Type",
+          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
         },
         {
           "name": "MC META",
           "url": "https://open.spotify.com/artist/07rwmkNYYA2KFxHQ12Slo7"
         }
       ],
-      "duration_ms": 233853,
-      "name": "\uc8fd\uc74c\uc758 \uc608\uc220 (feat. MC META)",
-      "url": "https://open.spotify.com/track/30JGnjLogyEBhcn3AlgQZV"
+      "duration_ms": 189933,
+      "name": "So U Wanna Be Hardcore (feat. MC META)",
+      "url": "https://open.spotify.com/track/4zwuU19U6bRPpsIEEn5USo"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Heavy Bass",
-        "url": "https://open.spotify.com/album/3fSQ0q58tU7ENEzGC3MsuK"
-      },
-      "artists": [
-        {
-          "name": "P-Type",
-          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
-        },
-        {
-          "name": "MC META",
-          "url": "https://open.spotify.com/artist/07rwmkNYYA2KFxHQ12Slo7"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "So U Wanna Be Hardcore (feat. MC META)",
-      "url": "https://open.spotify.com/track/4zwuU19U6bRPpsIEEn5USo"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "Giant",
         "url": "https://open.spotify.com/album/7nzH9dvMJT3qMTrB0mZOTo"
       },
@@ -1643,6 +1623,26 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
+        "name": "Full Time",
+        "url": "https://open.spotify.com/album/53ebTxlNJUj9g3i8gZexWN"
+      },
+      "artists": [
+        {
+          "name": "MC Sniper",
+          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
+        },
+        {
+          "name": "MC META",
+          "url": "https://open.spotify.com/artist/07rwmkNYYA2KFxHQ12Slo7"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "\uc8fd\uc74c\uc758 \uc608\uc220 (feat. MC META)",
+      "url": "https://open.spotify.com/track/30JGnjLogyEBhcn3AlgQZV"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
         "name": "MP Hip Hop 2000 CHO (Remastered)",
         "url": "https://open.spotify.com/album/3wjbQMnYUtj5Dh8Wh7qF4n"
       },
@@ -1655,22 +1655,6 @@
       "duration_ms": 250866,
       "name": "CHO",
       "url": "https://open.spotify.com/track/5CmKZpxzC8xaFLzXFZUDUY"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "The Blue Album",
-        "url": "https://open.spotify.com/album/7mBRI8TtXIHOT66CL27CHx"
-      },
-      "artists": [
-        {
-          "name": "Jiggy Fellaz",
-          "url": "https://open.spotify.com/artist/6fGVi4kzWPmzoz7FKGwnIl"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "New-$-Cool - Jiggy Fellaz",
-      "url": "https://open.spotify.com/track/5xwdzYgQFK9ALpeqb95Cnc"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1695,46 +1679,6 @@
       "duration_ms": 282586,
       "name": "Again",
       "url": "https://open.spotify.com/track/1ZQK8wTvRhyL1vEe19j4Dp"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Poetree Syndrome",
-        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
-      },
-      "artists": [
-        {
-          "name": "Kebee",
-          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 224973,
-      "name": "\ub9c8\ubd80",
-      "url": "https://open.spotify.com/track/7fQmpoHQ4aVyx5wtWyOmSo"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Positive Mind",
-        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
-      },
-      "artists": [
-        {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        },
-        {
-          "name": "Juvie Train",
-          "url": "https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "But I Go",
-      "url": "https://open.spotify.com/track/3aLFsHsklwOV1yatI8Z9ZQ"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1787,6 +1731,62 @@
       "duration_ms": 506070,
       "name": "\ud55c\uae38\uc744 \uac78\uc5b4\uac00\ub77c (with \ud53c\ud0c0\uc785, \ub77c\uc784\uc5b4\ud0dd, \ub9c8\uc774\ub178\uc2a4, \ub300\ud314, \ub098\ucc30, \ub10b\uc5c5\uc0e8, MC \uba54\ud0c0, Wimpy & Sean2slow) - Remix Version",
       "url": "https://open.spotify.com/track/4orjqC4JPPjNFy1oVnArEP"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Poetree Syndrome",
+        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
+      },
+      "artists": [
+        {
+          "name": "Kebee",
+          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 224973,
+      "name": "\ub9c8\ubd80",
+      "url": "https://open.spotify.com/track/7fQmpoHQ4aVyx5wtWyOmSo"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Positive Mind",
+        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
+      },
+      "artists": [
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "Juvie Train",
+          "url": "https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "But I Go",
+      "url": "https://open.spotify.com/track/3aLFsHsklwOV1yatI8Z9ZQ"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "The Blue Album",
+        "url": "https://open.spotify.com/album/7mBRI8TtXIHOT66CL27CHx"
+      },
+      "artists": [
+        {
+          "name": "Jiggy Fellaz",
+          "url": "https://open.spotify.com/artist/6fGVi4kzWPmzoz7FKGwnIl"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "New-$-Cool - Jiggy Fellaz",
+      "url": "https://open.spotify.com/track/5xwdzYgQFK9ALpeqb95Cnc"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Eobusa (Fisherman's Song)",
-        "url": "https://open.spotify.com/album/0cer0POGRKPHomb2pfwU00"
-      },
-      "artists": [
-        {
-          "name": "Onesun",
-          "url": "https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Little Thug Kid 2",
-      "url": "https://open.spotify.com/track/6KGHEB4hbz50HdfjdS60Bw"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "The Vintage",
         "url": "https://open.spotify.com/album/7orYFPZrVEjtcsJjzWF7CN"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 238133,
       "name": "A Long Time Ago (feat. Heritage)",
       "url": "https://open.spotify.com/track/0ECcBoAhm3VML4sTbfSXgn"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Eobusa (Fisherman's Song)",
+        "url": "https://open.spotify.com/album/0cer0POGRKPHomb2pfwU00"
+      },
+      "artists": [
+        {
+          "name": "Onesun",
+          "url": "https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "Little Thug Kid 2",
+      "url": "https://open.spotify.com/track/6KGHEB4hbz50HdfjdS60Bw"
     },
     {
       "added_at": "2023-08-10 14:02:26",

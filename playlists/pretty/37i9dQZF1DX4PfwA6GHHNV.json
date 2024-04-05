@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 16516,
+  "num_followers": 16547,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWJjYTdkMGI5MWQ2Y2E4ODdmOWM5Y2FlNWNmOWZhMGQ0MWFmOWQ3",
+  "snapshot_id": "MCxlNTVmNTA4NDAzNTU5OWViMTIzMGFkZDBiM2FmMjI2YWM0Y2ZlOTQ0",
   "tracks": [
     {
       "added_at": "2024-03-29 03:01:00",
@@ -551,6 +551,26 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "S\u00f3 Minha",
+        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00e1",
+          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "S\u00f3 Minha",
+      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "A\u00ed \u00e9 Bom Demais",
         "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
       },
@@ -575,22 +595,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "S\u00f3 Minha",
-        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
       },
       "artists": [
         {
-          "name": "Gabr\u00e1",
-          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         },
         {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
         }
       ],
-      "duration_ms": 149433,
-      "name": "S\u00f3 Minha",
-      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
+      "duration_ms": 194862,
+      "name": "Luar",
+      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -619,22 +639,26 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
+        "name": "O Que Ela Tem?",
+        "url": "https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7"
       },
       "artists": [
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "Volpato",
+          "url": "https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl"
         },
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "BETINHO",
+          "url": "https://open.spotify.com/artist/51CZxgpuuYyBfyM99WEnWa"
+        },
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
         }
       ],
-      "duration_ms": 194862,
-      "name": "Luar",
-      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
+      "duration_ms": 133333,
+      "name": "O Que Ela Tem?",
+      "url": "https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -703,30 +727,6 @@
       "duration_ms": 220389,
       "name": "Lembra?",
       "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "O Que Ela Tem?",
-        "url": "https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7"
-      },
-      "artists": [
-        {
-          "name": "Volpato",
-          "url": "https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl"
-        },
-        {
-          "name": "BETINHO",
-          "url": "https://open.spotify.com/artist/51CZxgpuuYyBfyM99WEnWa"
-        },
-        {
-          "name": "Dalua",
-          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "O Que Ela Tem?",
-      "url": "https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -835,6 +835,26 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "T\u00f4 Aqui de Novo",
+        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
+      },
+      "artists": [
+        {
+          "name": "Vinijoe",
+          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
+        },
+        {
+          "name": "Pedrin 31",
+          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
+        }
+      ],
+      "duration_ms": 215572,
+      "name": "T\u00f4 Aqui de Novo",
+      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Me Diz",
         "url": "https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 162338,
       "name": "Me Diz",
       "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "T\u00f4 Aqui de Novo",
-        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
-      },
-      "artists": [
-        {
-          "name": "Vinijoe",
-          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
-        },
-        {
-          "name": "Pedrin 31",
-          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
-        }
-      ],
-      "duration_ms": 215572,
-      "name": "T\u00f4 Aqui de Novo",
-      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
     },
     {
       "added_at": "2024-03-29 03:01:00",

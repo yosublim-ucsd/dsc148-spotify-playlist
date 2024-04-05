@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,443 likes - 71 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,476 likes - 71 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 41 | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Lucy Woodward](https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE), [Dashawn Hickman](https://open.spotify.com/artist/73bkH6RCIOB2BAD1RWVTBY) | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/album/7AJbYy5GiP9z3mGX9085tO) | 2:56 |
 | 42 | [Same Ole Feeling](https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 4:04 |
 | 43 | [Carry Yourself](https://open.spotify.com/track/3mAiFmSq6tsZGBAZlpps4H) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 5:23 |
-| 44 | [Night Train](https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 3:48 |
+| 44 | [Night Train](https://open.spotify.com/track/5fdbVNMOamFwCPJRqO49S2) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/5c0pSc8G1C8RciCf7xHvwY) | 3:48 |
 | 45 | [The Moon Is Full](https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Cover To Cover](https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5) | 4:06 |
 | 46 | [Black Cat Bone](https://open.spotify.com/track/1ici7lPp7HXKhkzQoDUNY0) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [Johnny Copeland](https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL) | [Showdown!](https://open.spotify.com/album/0fb0KsRXugaItlrVFVRnUi) | 4:58 |
 | 47 | [You're Losin' Me](https://open.spotify.com/track/0DID8Ir6yeko5KoXCXwOnL) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 4:52 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 70 | [Family Curse](https://open.spotify.com/track/2Bwj1i96TGj2Z2QQhOHy95) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Satisfaction Guaranteed](https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O) | 4:37 |
 | 71 | [Phone Booth](https://open.spotify.com/track/3uOs9LzMSrkvqKj0fWyiiP) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [Heavy Picks\-The Robert Cray Band Collection](https://open.spotify.com/album/4vxRqmFB4Tp4zXYV2HITXI) | 3:29 |
 
-Snapshot ID: `MCw2MTI1ZTEwMjJkMTgzOTllMjdjMDRlZjhjODRjNWVjMzBkZWViMGZh`
+Snapshot ID: `MCxjNDhmMzkwZWMzM2M5MWU5YTdjODViZjBjMzgxNWU1Mjg1YzU0ZmQ1`

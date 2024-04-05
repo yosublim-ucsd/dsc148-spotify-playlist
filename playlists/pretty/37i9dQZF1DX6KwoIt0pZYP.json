@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 226139,
+  "num_followers": 226241,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2UzZDRiYTljNWYyZjE3M2NhZWI3MzBjOWNhM2ZmYjkxOWQxNjY4",
+  "snapshot_id": "MCwxMDg0ZTVhNjQxZmQ3NDgyZjJjYWVjY2E3ZjEyMWJiZDU3NzcwYjEy",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Crazier",
+        "url": "https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "duration_ms": 233339,
+      "name": "Crazier",
+      "url": "https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "everything sucks (feat. Eric Nam)",
         "url": "https://open.spotify.com/album/3mx2H1xWJmafdZAH06TEHI"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 119744,
       "name": "everything sucks (feat. Eric Nam)",
       "url": "https://open.spotify.com/track/5AUMjaFnLEWzriTPTOEI56"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Crazier",
-        "url": "https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf"
-      },
-      "artists": [
-        {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        }
-      ],
-      "duration_ms": 233339,
-      "name": "Crazier",
-      "url": "https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1239,22 +1239,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "everything, everywhere (feat. eaJ)",
-        "url": "https://open.spotify.com/album/61xocU79Y5kZiJSPg2KcuG"
+        "name": "keepyousafe",
+        "url": "https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9"
       },
       "artists": [
         {
-          "name": "vaultboy",
-          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
-        },
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+          "name": "Yahya",
+          "url": "https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R"
         }
       ],
-      "duration_ms": 190108,
-      "name": "everything, everywhere (feat. eaJ)",
-      "url": "https://open.spotify.com/track/6ru2VMkOMkSBUKWqrTZYwe"
+      "duration_ms": 261673,
+      "name": "keepyousafe",
+      "url": "https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1279,22 +1275,6 @@
       "duration_ms": 194550,
       "name": "Good Care",
       "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "keepyousafe",
-        "url": "https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9"
-      },
-      "artists": [
-        {
-          "name": "Yahya",
-          "url": "https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R"
-        }
-      ],
-      "duration_ms": 261673,
-      "name": "keepyousafe",
-      "url": "https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1327,6 +1307,26 @@
       "duration_ms": 193242,
       "name": "hold me, never let go",
       "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "everything, everywhere (feat. eaJ)",
+        "url": "https://open.spotify.com/album/61xocU79Y5kZiJSPg2KcuG"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        },
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 190108,
+      "name": "everything, everywhere (feat. eaJ)",
+      "url": "https://open.spotify.com/track/6ru2VMkOMkSBUKWqrTZYwe"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "No Hard Feelings",
         "url": "https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa"
       },
@@ -1503,26 +1523,6 @@
       "duration_ms": 192500,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Space Shuttle No.8",
-        "url": "https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 204555,
-      "name": "Almost over you",
-      "url": "https://open.spotify.com/track/2F6OiWpyqFAqRLmVoqGlkB"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Xeno",
         "url": "https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 190946,
       "name": "Thinking Bout You",
       "url": "https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Space Shuttle No.8",
+        "url": "https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 204555,
+      "name": "Almost over you",
+      "url": "https://open.spotify.com/track/2F6OiWpyqFAqRLmVoqGlkB"
     },
     {
       "added_at": "2024-03-08 05:01:00",

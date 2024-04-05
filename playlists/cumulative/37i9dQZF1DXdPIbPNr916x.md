@@ -4,7 +4,7 @@
 
 > Your ultimate easy\-listening soundtrack for the winter months.
 
-305 songs - 18 hr 55 min
+306 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,8 @@
 | [True Colors](https://open.spotify.com/track/2Njmt8D9yOBjeR6RgYcfaI) | [Jules Larson](https://open.spotify.com/artist/66fOsZEHm1oSOEGov5KxxW) | [Let's Stay Young](https://open.spotify.com/album/7khzx0fwqW3he3pyjRJ2II) | 3:46 | 2022-09-16 | 2022-11-26 |
 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 | 2022-11-25 | 2023-03-01 |
 | [Turn Me On](https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 2:34 | 2022-11-25 |  |
-| [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-28 |  |
+| [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-28 | 2024-04-05 |
+| [Two Hearts](https://open.spotify.com/track/6NwseBBU7N5ng39DvnSAdA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 4:06 | 2023-11-28 |  |
 | [Us](https://open.spotify.com/track/5BZhksMl6vZnTSvfJAhn9e) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Us](https://open.spotify.com/album/5H62A6LN8NeKBt4rB2K8Bq) | 3:03 | 2023-06-06 | 2023-09-09 |
 | [Us](https://open.spotify.com/track/5mnh4K9uqRYNpuqd3s1NG0) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Us](https://open.spotify.com/album/7huDejiFEZn3EFHuIvI3Qh) | 3:03 | 2023-06-02 | 2023-09-02 |
 | [Us Against the World](https://open.spotify.com/track/5zyfzNnBzN7f7PVkJFnW2g) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 3:59 | 2022-11-25 | 2023-03-01 |

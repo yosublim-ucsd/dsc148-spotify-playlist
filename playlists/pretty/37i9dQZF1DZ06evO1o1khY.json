@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 13325,
+  "num_followers": 13357,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2I5M2U1NzM2ZGYzNGRmZGI2ZDIzOTI3YjRmYTc4MDk4Njg2MzY0",
+  "snapshot_id": "MCw5YTgyMTY4ZTdlY2U1YzhjZjVkOWRjODA4ZTIzOTlmZjU1NTJmZTBj",
   "tracks": [
     {
       "added_at": null,
@@ -103,6 +103,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Finesse (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 192567,
+      "name": "Finesse (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "REDRUM Wizard (Gangsta Grillz)",
         "url": "https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 202285,
       "name": "BOP (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Finesse (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 192567,
-      "name": "Finesse (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE"
     },
     {
       "added_at": null,

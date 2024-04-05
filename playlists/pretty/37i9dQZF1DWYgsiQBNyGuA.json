@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 78468,
+  "num_followers": 78520,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDI5MzE2YWI0NzY1YjIzZGZiM2FjM2Q1MjYwMDkzM2E3MTY0ZGU2",
+  "snapshot_id": "MCw3ODc5MmJmMmQ3MjE0NzU4ODY5NzVmNWUzN2UwNGEzNjhkYWIxZjhm",
   "tracks": [
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "My Home (Love Brings Us Here) - Single",
-        "url": "https://open.spotify.com/album/1qsxuAF1ujU6tjtAIYRpqB"
-      },
-      "artists": [
-        {
-          "name": "Jon Mero",
-          "url": "https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf"
-        }
-      ],
-      "duration_ms": 213983,
-      "name": "My Home (Love Brings Us Here)",
-      "url": "https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Feels So Good (Don\u2019t It)",
         "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
       },
@@ -1275,22 +1259,18 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Bless My Soul",
-        "url": "https://open.spotify.com/album/1rI2tm2skLmDF8Gmj4vjoN"
+        "name": "My Home (Love Brings Us Here) - Single",
+        "url": "https://open.spotify.com/album/1qsxuAF1ujU6tjtAIYRpqB"
       },
       "artists": [
         {
-          "name": "Shawn Lee",
-          "url": "https://open.spotify.com/artist/47tCcKYrErv1FGvFCgGX8E"
-        },
-        {
-          "name": "Angels Of Libra",
-          "url": "https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL"
+          "name": "Jon Mero",
+          "url": "https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf"
         }
       ],
-      "duration_ms": 226290,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/0DIcHQUp4f9j4Gym2Kn8nm"
+      "duration_ms": 213983,
+      "name": "My Home (Love Brings Us Here)",
+      "url": "https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1311,6 +1291,26 @@
       "duration_ms": 269706,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Bless My Soul",
+        "url": "https://open.spotify.com/album/1rI2tm2skLmDF8Gmj4vjoN"
+      },
+      "artists": [
+        {
+          "name": "Shawn Lee",
+          "url": "https://open.spotify.com/artist/47tCcKYrErv1FGvFCgGX8E"
+        },
+        {
+          "name": "Angels Of Libra",
+          "url": "https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL"
+        }
+      ],
+      "duration_ms": 226290,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/0DIcHQUp4f9j4Gym2Kn8nm"
     },
     {
       "added_at": "2024-03-08 13:51:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,455 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,499 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 38 | [Sweet Home Chicago](https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [At The Crossroads: The Blues Of Robert Johnson](https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc) | 4:28 |
 | 39 | [Walkin' Blues](https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd) | [Roy Rogers](https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe) | [Prime Chops](https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy) | 4:35 |
 | 40 | [Sahib Teri Bandi \- Maki Madni](https://open.spotify.com/track/3J7ftHdeBesSHblVt5629o) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Songlines](https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH) | 9:53 |
-| 41 | [Death Row](https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Gone to Texas](https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ) | 4:07 |
+| 41 | [Walkin' Blues](https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Fight](https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK) | 4:22 |
 | 42 | [Taylor's Rock](https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Best \- Southern Blues](https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW) | 3:57 |
-| 43 | [Walkin' Blues](https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Fight](https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK) | 4:22 |
-| 44 | [My Heart Beat Like a Hammer](https://open.spotify.com/track/2vu5jhcPIraCfiRDLAvQuW) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Best of Peter Green's Fleetwood Mac](https://open.spotify.com/album/3SgBIPBgm2Vmhv2kdym6pI) | 2:57 |
-| 45 | [Mississippi \(feat\. Tyler Bryant\)](https://open.spotify.com/track/7I6sXnSLWoc3LEQisxG86Y) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 3:39 |
+| 43 | [My Heart Beat Like a Hammer](https://open.spotify.com/track/2vu5jhcPIraCfiRDLAvQuW) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Best of Peter Green's Fleetwood Mac](https://open.spotify.com/album/3SgBIPBgm2Vmhv2kdym6pI) | 2:57 |
+| 44 | [Mississippi \(feat\. Tyler Bryant\)](https://open.spotify.com/track/7I6sXnSLWoc3LEQisxG86Y) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 3:39 |
+| 45 | [Gypsy In Me](https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:09 |
 | 46 | [Ghost Blues](https://open.spotify.com/track/6axmyZv2KR3IUTjuIHSN8E) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Fresh Evidence \(Remastered 2017\)](https://open.spotify.com/album/3nKprInHCjgZsU6GQPeEst) | 8:00 |
-| 47 | [Gypsy In Me](https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:09 |
-| 48 | [Roll Your Moneymaker](https://open.spotify.com/track/4LvVULuRGJytccOzfvlT4z) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Deluxe Edition](https://open.spotify.com/album/6W1p3MVr1rpPTWqHwBTZco) | 4:01 |
-| 49 | [Highway 61 Revisited \- Live in California \- September 1975](https://open.spotify.com/track/0MLny1eMrEO76xLNlw2yTs) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [White Hot Blues](https://open.spotify.com/album/7MDS6yp7pHvXcuLIcjO8xY) | 5:03 |
-| 50 | [Statesboro Blues](https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC) | 4:06 |
+| 47 | [Roll Your Moneymaker](https://open.spotify.com/track/4LvVULuRGJytccOzfvlT4z) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Deluxe Edition](https://open.spotify.com/album/6W1p3MVr1rpPTWqHwBTZco) | 4:01 |
+| 48 | [Highway 61 Revisited \- Live in California \- September 1975](https://open.spotify.com/track/0MLny1eMrEO76xLNlw2yTs) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [White Hot Blues](https://open.spotify.com/album/7MDS6yp7pHvXcuLIcjO8xY) | 5:03 |
+| 49 | [Statesboro Blues](https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC) | 4:06 |
+| 50 | [You Got to Move](https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Steakbone Slide Guitar](https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn) | 2:59 |
 
-Snapshot ID: `MCw3YmYyN2IwM2RhNmU1ZWU4NjYxM2NlNzg4ZjkyZTgxZWVjOTg4MjA0`
+Snapshot ID: `MCwyMWIyMTM3N2IyZmRjYzk0ZjEwYjQ2ZTZjMDMxNzMyZWI3ZmNhMTA1`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 42696,
+  "num_followers": 42721,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjhmYjM3MTM4MmNmNjcwNjE2NzNlNDkwNWQ3ZWI3NThmMDg5YmMz",
+  "snapshot_id": "MCwzNTBlMDIwNThjMWZiN2YzZjUyYjc3NDM2OWIzNWYxMmNjMmNjMWEy",
   "tracks": [
     {
       "added_at": "2024-03-28 01:34:50",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "Como Siempre Con El Mayor Cari\u00f1o",
-        "url": "https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn"
-      },
-      "artists": [
-        {
-          "name": "Trio Ayacucho",
-          "url": "https://open.spotify.com/artist/3RRRYXxdsZ7IoFGDALJIA8"
-        }
-      ],
-      "duration_ms": 224773,
-      "name": "Adi\u00f3s Pueblo De Ayacucho",
-      "url": "https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe"
-    },
-    {
-      "added_at": "2024-03-28 01:34:50",
-      "album": {
         "name": "Pastorita Huaracina",
         "url": "https://open.spotify.com/album/5zU5497KK5qMwEnZGlsf4b"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 188786,
       "name": "A los Filos de un Cuchillo",
       "url": "https://open.spotify.com/track/2zBNL2irMpvqj3DNJiUgUe"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "Como Siempre Con El Mayor Cari\u00f1o",
+        "url": "https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn"
+      },
+      "artists": [
+        {
+          "name": "Trio Ayacucho",
+          "url": "https://open.spotify.com/artist/3RRRYXxdsZ7IoFGDALJIA8"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "Adi\u00f3s Pueblo De Ayacucho",
+      "url": "https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe"
     },
     {
       "added_at": "2024-03-28 01:34:50",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "El Imperio de los Apus",
-        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
-      },
-      "artists": [
-        {
-          "name": "Los Apus",
-          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
-        }
-      ],
-      "duration_ms": 254506,
-      "name": "Challwaschallay",
-      "url": "https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB"
-    },
-    {
-      "added_at": "2024-03-28 01:34:50",
-      "album": {
         "name": "Lejos de Ti",
         "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 316586,
       "name": "Juntito a Ti",
       "url": "https://open.spotify.com/track/7nPN1YXRgC737Z5W0FM0G9"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "El Imperio de los Apus",
+        "url": "https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH"
+      },
+      "artists": [
+        {
+          "name": "Los Apus",
+          "url": "https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf"
+        }
+      ],
+      "duration_ms": 254506,
+      "name": "Challwaschallay",
+      "url": "https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB"
     },
     {
       "added_at": "2024-03-28 01:34:50",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
-        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
-      },
-      "artists": [
-        {
-          "name": "Estudiantina Per\u00fa",
-          "url": "https://open.spotify.com/artist/5etoNGyzurcPYsyeLgVnDC"
-        }
-      ],
-      "duration_ms": 177653,
-      "name": "Convoycito de Huancayo",
-      "url": "https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX"
-    },
-    {
-      "added_at": "2024-03-28 01:34:50",
-      "album": {
         "name": "Lo Mejor del Incomparable...Mario Mendoza",
         "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 340584,
       "name": "La Cornuda",
       "url": "https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
+        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
+      },
+      "artists": [
+        {
+          "name": "Estudiantina Per\u00fa",
+          "url": "https://open.spotify.com/artist/5etoNGyzurcPYsyeLgVnDC"
+        }
+      ],
+      "duration_ms": 177653,
+      "name": "Convoycito de Huancayo",
+      "url": "https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX"
     },
     {
       "added_at": "2024-03-28 01:34:50",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "El Jilguero de Huascar\u00e1n",
-        "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Sanchez Fajardo",
-          "url": "https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC"
-        }
-      ],
-      "duration_ms": 161973,
-      "name": "Carrito del Regreso",
-      "url": "https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL"
-    },
-    {
-      "added_at": "2024-03-28 01:34:50",
-      "album": {
         "name": "Enlazando Cantos II",
         "url": "https://open.spotify.com/album/7pwM0y78SKw4b1kSHjWL81"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 249155,
       "name": "Clavel de mi pecho",
       "url": "https://open.spotify.com/track/7f9iGF8ycjnYEXc9c8Gb4U"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "El Jilguero de Huascar\u00e1n",
+        "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Sanchez Fajardo",
+          "url": "https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC"
+        }
+      ],
+      "duration_ms": 161973,
+      "name": "Carrito del Regreso",
+      "url": "https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

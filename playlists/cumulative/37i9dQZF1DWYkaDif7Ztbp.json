@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover:  <a href=\"https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=8NXOrW4mTNaFp7RU2FE6SA\">Tyla</a>  ",
+  "description": "The tracks heating up the continent right now!  Cover:  <a href=\"https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0?si=RwdPtw5wQ-Chp4dkZviL4A\">Simi </a>  and  <a href=\"https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc?si=W-X7xcnoQkOCdHMflKtX8A\">Tiwa Savage</a>",
   "name": "African Heat",
   "tracks": [
     {
@@ -3561,6 +3561,32 @@
     },
     {
       "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147071,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
+    },
+    {
+      "album": {
         "name": "Just Do It",
         "url": "https://open.spotify.com/album/3HYKcrEjmZ8TQzDBQL93mB"
       },
@@ -4302,6 +4328,28 @@
       "duration_ms": 169848,
       "name": "Melody (feat. Jaywillz)",
       "url": "https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI"
+    },
+    {
+      "album": {
+        "name": "Men Are Crazy",
+        "url": "https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Men Are Crazy",
+      "url": "https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb"
     },
     {
       "album": {
@@ -7172,7 +7220,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
@@ -7610,7 +7658,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"

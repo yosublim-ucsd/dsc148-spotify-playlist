@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-243 songs - 12 hr 44 min
+244 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Fat Kid](https://open.spotify.com/track/2rYrke10PM98XvXoqJxIj8) | [Archiesman Kundu](https://open.spotify.com/artist/17L6rZzYeBhlhbM2QrP1dp), [Rawhit](https://open.spotify.com/artist/7kgwOK3eQom7HQwkpbRwO9) | [Fat Kid](https://open.spotify.com/album/0B9Kp31d5ACQZLfy5mYVqV) | 2:45 | 2023-03-29 | 2023-06-02 |
 | [First Time](https://open.spotify.com/track/3t12V5tOhYpII5lnsOPSWp) | [Qaab](https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Darcy](https://open.spotify.com/artist/3xvADMpYPWtCgilD8EljCp) | [First Time](https://open.spotify.com/album/7nst6x6pfFRYSYtBrw9BYp) | 2:55 | 2023-04-04 | 2023-07-21 |
 | [Flex Kar](https://open.spotify.com/track/6Xt4fng2W4XDW2CWzGa0Nn) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:41 | 2023-03-29 | 2023-04-17 |
+| [For Real](https://open.spotify.com/track/2GvtAi39hRhjIw0GB4hOp7) | [Yunan](https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [For Real](https://open.spotify.com/album/1eFFJ93JNkCSx1jOMX8aMm) | 2:46 | 2024-04-04 |  |
 | [Freestyle](https://open.spotify.com/track/2lgj77f4BMnqYVTKvfvbPm) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV) | [Freestyle](https://open.spotify.com/album/7cR3BLC3bVzXHYGUtXFhJn) | 2:07 | 2023-06-19 |  |
 | [FUKA SARI RAAT](https://open.spotify.com/track/1zGYGFRRFQdgTPE6aCzIqQ) | [Thoratt](https://open.spotify.com/artist/7tzOyhYENH5JN2loiiUhvW), [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V), [MEMAX](https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu) | [FUKA SARI RAAT](https://open.spotify.com/album/4obb7ExNOKh59K8JQ3pOy8) | 4:21 | 2023-03-29 |  |
 | [G\-Yaan](https://open.spotify.com/track/3wGz2eHyWekq06k6LdqYiG) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:22 | 2024-03-22 |  |
@@ -174,7 +175,7 @@
 | [NAACH](https://open.spotify.com/track/26NYGk5ZLw1MkICybMV6mC) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr) | [NAACH](https://open.spotify.com/album/6Utv4sG6z1BMAAjKMF5B9R) | 3:14 | 2023-11-17 | 2023-12-07 |
 | [Naina](https://open.spotify.com/track/0kdErH3y2RpZJXxsLmBWgf) | [Shez](https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe) | [Naina](https://open.spotify.com/album/4psLiGQKUug3krI0RcKlZI) | 2:45 | 2023-03-29 | 2023-06-02 |
 | [NAZAR](https://open.spotify.com/track/2suAYGhBT7vR26s5dNy9OL) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Bhaari Beatz](https://open.spotify.com/artist/6v9M80x40ECfeJwd7RH8Vk) | [NAZAR](https://open.spotify.com/album/1JDJOJc1gOg4oo5ljm9siA) | 2:38 | 2023-04-04 | 2024-04-02 |
-| [NGL](https://open.spotify.com/track/58h9f4lWnyLPIwqucWydxj) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 4:00 | 2023-03-29 |  |
+| [NGL](https://open.spotify.com/track/58h9f4lWnyLPIwqucWydxj) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 4:00 | 2023-03-29 | 2024-04-05 |
 | [No Breaks](https://open.spotify.com/track/5HlSPZrglzpcbrrB09lQYd) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy) | [Graveyard Shift](https://open.spotify.com/album/4JANSUDMyIlEcMuM1QeFAe) | 3:00 | 2023-11-17 | 2024-01-03 |
 | [No Bro](https://open.spotify.com/track/2jOZLz9hP4XMQM0nROnP71) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [No Bro](https://open.spotify.com/album/1KnXWqS6TEpknwfmum0g9h) | 2:55 | 2023-03-29 | 2023-04-25 |
 | [No Cocaine](https://open.spotify.com/track/77JL2t93dydTm9WS2iPU7P) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Eyes On The Prize](https://open.spotify.com/album/1b46lR5SZxbKQrwNikXDQe) | 2:56 | 2023-10-12 |  |

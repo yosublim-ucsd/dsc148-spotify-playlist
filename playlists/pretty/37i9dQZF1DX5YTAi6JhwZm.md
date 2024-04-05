@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,870 likes - 97 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,901 likes - 97 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 23 | [Just You, Just Me](https://open.spotify.com/track/5beii4gDylW7eFnWJ1uZaH) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 7:37 |
 | 24 | [Tariff \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/3WJpTTRFQr46ZF2Td29bTj) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [Detroit\-New York Junction](https://open.spotify.com/album/6lNbe1duzyK37MFoUeKqoy) | 5:30 |
 | 25 | [Have A Talk With God](https://open.spotify.com/track/0OATJVDdjUIkGnYnccnBEb) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Nicolas Kock](https://open.spotify.com/artist/5hbQEMdQLyp3ncCcI62uPW), [Karsten Bagge](https://open.spotify.com/artist/1eLFONDpKa9ArYaoVjDrKE) | [Have A Talk With God](https://open.spotify.com/album/5YWlUw8scbmkvdDQtfYXF3) | 4:29 |
-| 26 | [Move](https://open.spotify.com/track/1m6xA6Yvt2miUOJtLLlviD) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:25 |
+| 26 | [Move \- Remastered 2002](https://open.spotify.com/track/1m6xA6Yvt2miUOJtLLlviD) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:25 |
 | 27 | [Camptown Races](https://open.spotify.com/track/43zWhMhLFqE02gAtiDN3ua) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Dave Brubeck's Greatest Hits](https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE) | 1:56 |
 | 28 | [The Cape Verdean Blues \- Rudy Van Gelder Edition / 2003 Remastered](https://open.spotify.com/track/2Z7Z8BDwjZQeYuzwe3LdOp) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y), [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [The Cape Verdean Blues](https://open.spotify.com/album/2jTvEM76ioutKODSdPllkr) | 4:59 |
 | 29 | [Star Eyes](https://open.spotify.com/track/03wsijXCWgrIjGaPHy3sTe) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Minor Move \(Expanded Edition\)](https://open.spotify.com/album/5g0JJixBHg3QsqxW9tVJjH) | 8:15 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 96 | [Jakob’s Happy Song](https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW) | [Simon Westman Trio](https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw) | [Stay a While](https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE) | 5:32 |
 | 97 | [Feeling](https://open.spotify.com/track/6mLWHZHMceU8qX8uQx8k8M) | [Hegge](https://open.spotify.com/artist/5EWX8RNmEZQNPmKQY4XU1G) | [Feeling](https://open.spotify.com/album/1I5B2Z0aFETAorqMcAO33u) | 6:46 |
 
-Snapshot ID: `MCw0YmY1ODU2MzY5ZGJkZTQ1OWEwMDM0MWExZWI0YjE2NzlhMzI3MTk1`
+Snapshot ID: `MCwwODI0YTdlNzI3YTk0ZDAxM2VlOGY0ZGJkOTFlMDk2NmY0MDY5ZGUw`

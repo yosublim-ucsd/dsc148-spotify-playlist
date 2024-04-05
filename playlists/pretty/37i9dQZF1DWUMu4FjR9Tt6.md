@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,557 likes - 86 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,602 likes - 86 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 80 | [All Die Young](https://open.spotify.com/track/4XjXXK9GhDdMVR8xMKZLih) | [Smith Westerns](https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl) | [Dye It Blonde](https://open.spotify.com/album/5pez3ZFdESESBL9M5KElgt) | 3:46 |
 | 81 | [Mary](https://open.spotify.com/track/2l6aKj7mOu8MyYX4yFtlZ8) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 5:28 |
 | 82 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
-| 83 | [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 |
+| 83 | [This Year's Love](https://open.spotify.com/track/1wK6fC3r5fGJ7N4U8R0nOY) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder \(2020 Remaster\)](https://open.spotify.com/album/65dV0TVZ9BEfudSPEt1hb6) | 4:05 |
 | 84 | [Exit Music \(For A Film\)](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:27 |
 | 85 | [Sinnerman](https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 10:22 |
 | 86 | [Hello](https://open.spotify.com/track/2ij8uf754WwccftaYn3kay) | [My Kullsvik](https://open.spotify.com/artist/5URiHHxjOuaGuNZPmccofu) | [Hello \(Swedish Cover\)](https://open.spotify.com/album/4HyNWn0hioQ8zyLbJVLa3i) | 4:22 |
 
-Snapshot ID: `MCxmMGIwNTBjYWQ4MmMxODQzNTJlMzM0MDU0YjVkZDJhYzFiMGFjOTUw`
+Snapshot ID: `MCwzODcwODAxN2NiNzY5ODQxNzhhOGI5NzcxZTA4ZTkzMjMxMzYwM2Jl`

@@ -4,7 +4,7 @@
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-222 songs - 16 hr 4 min
+223 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Esperar o Sol](https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Stereodubs](https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO) | [Flora Matos Vs\. Stereodubs](https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7) | 3:21 | 2022-03-25 |  |
 | [Essa é prus amigos](https://open.spotify.com/track/3AdpcfOx3rZP6wuwIsY2j7) | [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV), [De Leve](https://open.spotify.com/artist/36BZD4FCNMALjIkKSpJABE) | [Rotação 33](https://open.spotify.com/album/0ona6F4Fs9537SYapOU6Qp) | 1:40 | 2022-03-25 | 2022-07-21 |
 | [Estilo Coyote](https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Estilo Coyote](https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq) | 2:54 | 2022-03-25 |  |
-| [Estilo Vagabundo](https://open.spotify.com/track/4gOg1djXQH0rZ78ObIQJWX) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kamila CDD](https://open.spotify.com/artist/6agIzaw50omhzuG1kSI0QX) | [Falcão o Bagulho É Doido](https://open.spotify.com/album/0k0ux6tpv66BnpjcdhqPig) | 5:00 | 2023-12-29 |  |
+| [Estilo Vagabundo](https://open.spotify.com/track/4gOg1djXQH0rZ78ObIQJWX) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kamila CDD](https://open.spotify.com/artist/6agIzaw50omhzuG1kSI0QX) | [Falcão o Bagulho É Doido](https://open.spotify.com/album/0k0ux6tpv66BnpjcdhqPig) | 5:00 | 2023-12-29 | 2024-04-05 |
 | [Estilo Vagabundo](https://open.spotify.com/track/3hn7hzXAbrOjUXN8XNwy5M) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila](https://open.spotify.com/artist/4YrCOVYOuq5HqJ5LoKFEXj) | [Falcão \- O Bagulho É Doido](https://open.spotify.com/album/4YP56WByoqlCMW2AhxDMjc) | 5:00 | 2022-03-16 | 2022-07-29 |
 | [Estilo Vagabundo 1](https://open.spotify.com/track/5Yxn11dDQeByH8mdA1Tgoa) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv) | [Estilo Vagabundo](https://open.spotify.com/album/7AInqEgwdemP41grZlHsLQ) | 5:00 | 2022-08-01 | 2023-03-30 |
 | [Estopim](https://open.spotify.com/track/6D5fnKQOOqBzGkLpMvP98o) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Nocivo Shomon](https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof), [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle), [Eloy Polemico](https://open.spotify.com/artist/4YbBYNU6hsYbEMtApK0WPc), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Estopim](https://open.spotify.com/album/2ZRiQV3PoXjUU5ZMkA6A4V) | 4:44 | 2022-03-25 | 2022-07-28 |
@@ -104,6 +104,7 @@
 | [Lapa Até a Augusta](https://open.spotify.com/track/2aTRT5vapfHWXx2lkHPo2f) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Cortesia da Casa, Vol\. 2](https://open.spotify.com/album/0wvEVRk1lODvio1dmUqfTS) | 4:00 | 2022-03-25 | 2022-07-20 |
 | [Legião Estrangeira](https://open.spotify.com/track/3EpcxDRR3ZJUn94Kf9GmfG) | [Sp Funk](https://open.spotify.com/artist/6gOXHHfszKFFvIaKUe2aTN) | [O Lado B do Hip Hop](https://open.spotify.com/album/1Dt0zURMcpStSTSsDFIOVP) | 4:27 | 2022-03-25 | 2022-07-23 |
 | [Lembranças](https://open.spotify.com/track/11z7XjeEvCV4b2xWdnQbon) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [Lembranças](https://open.spotify.com/album/08EOCPDpXbzBWd6MA60n3l) | 1:56 | 2022-03-25 | 2022-07-29 |
+| [Lembranças](https://open.spotify.com/track/7cAOhHm4k2mUYcQBPaLeZa) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Lembranças](https://open.spotify.com/album/3CFp1zw3UdCYvkryNuV9z8) | 1:56 | 2024-02-23 |  |
 | [Liberdade](https://open.spotify.com/track/42oIavoode7nqMQ99OMWYL) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [R.A.E](https://open.spotify.com/artist/1z3xC9ml81L5vugg78Eegq) | [Liberdade](https://open.spotify.com/album/3XFIx0AgKyy4XVCmxIcxHJ) | 3:33 | 2022-03-25 | 2022-07-22 |
 | [Libertários Não Morrem](https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt) | [Vivaz](https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF) | 4:10 | 2024-02-23 | 2024-03-24 |
 | [Libertários Não Morrem](https://open.spotify.com/track/6dV20GCkZXZA8ytRh3U8UB) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt) | [Vivaz](https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g) | 4:10 | 2024-02-23 |  |

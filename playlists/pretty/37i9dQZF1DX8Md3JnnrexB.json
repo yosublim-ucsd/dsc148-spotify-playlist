@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 209580,
+  "num_followers": 209593,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmQ0MWVkZDE0OGI2ZmM0YzNjODBmZDQwMGZmOGJiYmI4MzZkYjlj",
+  "snapshot_id": "MCwwNzc5YjZjMTNmNWY3OGNlZGNmMDA3OTM5ZTZiZjVlNDhhZTgyMWJk",
   "tracks": [
     {
       "added_at": "2024-03-12 14:47:09",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-03-12 14:47:09",
       "album": {
-        "name": "The Soul Album",
-        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Cigarettes and Coffee",
-      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
-    },
-    {
-      "added_at": "2024-03-12 14:47:09",
-      "album": {
         "name": "I Feel for You",
         "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 288653,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe"
+    },
+    {
+      "added_at": "2024-03-12 14:47:09",
+      "album": {
+        "name": "The Soul Album",
+        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Cigarettes and Coffee",
+      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
     },
     {
       "added_at": "2024-03-12 14:47:09",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-03-12 14:47:09",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 428222,
-      "name": "As",
-      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
-    },
-    {
-      "added_at": "2024-03-12 14:47:09",
-      "album": {
         "name": "Rockin' Roll Baby",
         "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 288440,
       "name": "You Make Me Feel Brand New",
       "url": "https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD"
+    },
+    {
+      "added_at": "2024-03-12 14:47:09",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 428222,
+      "name": "As",
+      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
     },
     {
       "added_at": "2024-03-12 14:47:09",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-03-12 14:47:09",
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 327706,
+      "name": "Inner City Blues (Make Me Wanna Holler)",
+      "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
+    },
+    {
+      "added_at": "2024-03-12 14:47:09",
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
-    },
-    {
-      "added_at": "2024-03-12 14:47:09",
-      "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 327706,
-      "name": "Inner City Blues (Make Me Wanna Holler)",
-      "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
     },
     {
       "added_at": "2024-03-12 14:47:09",
@@ -451,22 +451,18 @@
     {
       "added_at": "2024-03-12 14:47:09",
       "album": {
-        "name": "Blue Lights in the Basement",
-        "url": "https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN"
+        "name": "Now We May Begin",
+        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
       },
       "artists": [
         {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
         }
       ],
-      "duration_ms": 280800,
-      "name": "The Closer I Get to You",
-      "url": "https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP"
+      "duration_ms": 302653,
+      "name": "One Day I'll Fly Away",
+      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
     },
     {
       "added_at": "2024-03-12 14:47:09",
@@ -487,18 +483,22 @@
     {
       "added_at": "2024-03-12 14:47:09",
       "album": {
-        "name": "Now We May Begin",
-        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
+        "name": "Blue Lights in the Basement",
+        "url": "https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN"
       },
       "artists": [
         {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 302653,
-      "name": "One Day I'll Fly Away",
-      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
+      "duration_ms": 280800,
+      "name": "The Closer I Get to You",
+      "url": "https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP"
     },
     {
       "added_at": "2024-03-12 14:47:09",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-03-12 14:47:09",
       "album": {
-        "name": "Collected",
-        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 226493,
-      "name": "Too Hot - Single Version",
-      "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
-    },
-    {
-      "added_at": "2024-03-12 14:47:09",
-      "album": {
         "name": "The Stylistics - The Original Debut Album",
         "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 175506,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
+    },
+    {
+      "added_at": "2024-03-12 14:47:09",
+      "album": {
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "Too Hot - Single Version",
+      "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
     },
     {
       "added_at": "2024-03-12 14:47:09",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-03-12 14:47:09",
       "album": {
-        "name": "All Rise (Deluxe)",
-        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 363240,
-      "name": "Everything You Touch Is Gold",
-      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
-    },
-    {
-      "added_at": "2024-03-12 14:47:09",
-      "album": {
         "name": "A Woman Needs Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/38993ejU6at3J4b0fxIien"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 249053,
       "name": "A Woman Needs Love (Just Like You Do)",
       "url": "https://open.spotify.com/track/0DEwNI2DgasX1eprqCivJk"
+    },
+    {
+      "added_at": "2024-03-12 14:47:09",
+      "album": {
+        "name": "All Rise (Deluxe)",
+        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 363240,
+      "name": "Everything You Touch Is Gold",
+      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
     },
     {
       "added_at": "2024-03-12 14:47:09",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-03-12 14:47:09",
       "album": {
-        "name": "The Very Best of Otis Redding",
-        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "I've Got Dreams to Remember",
-      "url": "https://open.spotify.com/track/4Ym0HjYfgEaUgjI3WuDqMK"
-    },
-    {
-      "added_at": "2024-03-12 14:47:09",
-      "album": {
         "name": "Some Of Us Are Brave",
         "url": "https://open.spotify.com/album/3U9lnLFMvyzJfBq6Twv06y"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 233846,
       "name": "Some Of Us Are Brave",
       "url": "https://open.spotify.com/track/4Tr04LzFeZEYgcF7vKN1NN"
+    },
+    {
+      "added_at": "2024-03-12 14:47:09",
+      "album": {
+        "name": "The Very Best of Otis Redding",
+        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "I've Got Dreams to Remember",
+      "url": "https://open.spotify.com/track/4Ym0HjYfgEaUgjI3WuDqMK"
     },
     {
       "added_at": "2024-03-12 14:47:09",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-03-12 14:47:09",
       "album": {
+        "name": "Listen To Me",
+        "url": "https://open.spotify.com/album/5NZSlAHmuK1l2W0yinDDHN"
+      },
+      "artists": [
+        {
+          "name": "Al Wilson",
+          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
+        }
+      ],
+      "duration_ms": 209506,
+      "name": "Show & Tell",
+      "url": "https://open.spotify.com/track/7eRT4SS9oJH6L9FyOzndRW"
+    },
+    {
+      "added_at": "2024-03-12 14:47:09",
+      "album": {
         "name": "Sweeter (feat. Terrace Martin)",
         "url": "https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 201600,
       "name": "Bring it on Home to Me (feat. Charlie Bereal)",
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
-    },
-    {
-      "added_at": "2024-03-12 14:47:09",
-      "album": {
-        "name": "Listen To Me",
-        "url": "https://open.spotify.com/album/5NZSlAHmuK1l2W0yinDDHN"
-      },
-      "artists": [
-        {
-          "name": "Al Wilson",
-          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
-        }
-      ],
-      "duration_ms": 209506,
-      "name": "Show & Tell",
-      "url": "https://open.spotify.com/track/7eRT4SS9oJH6L9FyOzndRW"
     },
     {
       "added_at": "2024-03-12 14:47:09",
@@ -1667,26 +1667,18 @@
     {
       "added_at": "2024-03-12 14:47:09",
       "album": {
-        "name": "The Best Of Fourplay",
-        "url": "https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG"
+        "name": "Unpredictable",
+        "url": "https://open.spotify.com/album/4I4exZUNod9Mj4MOzxDtiS"
       },
       "artists": [
         {
-          "name": "Fourplay",
-          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        },
-        {
-          "name": "Nathan East",
-          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
         }
       ],
-      "duration_ms": 235733,
-      "name": "Between the Sheets [Edit] (feat. Chaka Khan and Nathan East)",
-      "url": "https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP"
+      "duration_ms": 260000,
+      "name": "I've Got Love On My Mind",
+      "url": "https://open.spotify.com/track/5Zclj5e4Jv0Zo9FU9pDmPY"
     }
   ],
   "unique_name": "Soulful Blend",

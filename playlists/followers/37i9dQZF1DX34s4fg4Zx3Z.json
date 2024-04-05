@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 22332,
+  "2024-04-05": 22346,
   "date_first_scraped": "2022-01-09",
   "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: Tu\u1ea5n V\u00f5",
   "name": "Fresh Finds Vietnam",
@@ -2631,7 +2631,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 180010,
       "name": "biet iu 1 nguoi",
       "url": "https://open.spotify.com/track/1g81KcA7tjoHug3WE9GhC5"
@@ -8621,7 +8621,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 266067,
       "name": "D\u00f2ng Tr\u1ea1ng Th\u00e1i",
       "url": "https://open.spotify.com/track/2Rkvl9xG0kOTzl02dgqXUl"
@@ -9526,6 +9526,24 @@
     },
     {
       "album": {
+        "name": "Em \u0110a Nghi",
+        "url": "https://open.spotify.com/album/5EJejurcckpajuvyTIYN68"
+      },
+      "artists": [
+        {
+          "name": "T\u00f9a",
+          "url": "https://open.spotify.com/artist/6OX2h0HXN8oN2tb2pmYOby"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195923,
+      "name": "Em \u0110a Nghi",
+      "url": "https://open.spotify.com/track/5apbs8mAhF7p80LNQDAbQ5"
+    },
+    {
+      "album": {
         "name": "Em \u0110i Theo T\u00f4i V\u1ec1 Nh\u00e0",
         "url": "https://open.spotify.com/album/31GQQ7Rxw5dQg3LRXJxoiN"
       },
@@ -9617,6 +9635,24 @@
       "duration_ms": 270079,
       "name": "Em \u0110\u1eebng Lo",
       "url": "https://open.spotify.com/track/4Qno0kizx5ZUj8mwOKAy7n"
+    },
+    {
+      "album": {
+        "name": "Em \u01a0i Sau N\u00e0y",
+        "url": "https://open.spotify.com/album/5DEZdNLxkZI57s1SLUA5th"
+      },
+      "artists": [
+        {
+          "name": "\u0110\u1eb7ng Tr\u00ed",
+          "url": "https://open.spotify.com/artist/4Z3zxfK7nX8ee3GXUREfs0"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303203,
+      "name": "Em \u01a0i Sau N\u00e0y",
+      "url": "https://open.spotify.com/track/2xBnMoZDDxFTxUeP6zFWV2"
     },
     {
       "album": {
@@ -13555,7 +13591,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 244218,
       "name": "Kh\u00f4ng Y\u00eau Xin \u0110\u1eebng N\u00f3i - Piano Version",
       "url": "https://open.spotify.com/track/0vkExWiBJSrfWnlMC7x48b"
@@ -15749,7 +15785,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 300000,
       "name": "Mai V\u1ec1",
       "url": "https://open.spotify.com/track/4K9pEXPOH7GwBkfBfn7bBW"
@@ -18665,7 +18701,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 221678,
       "name": "ng\u1eafm sao m\u00e0 ch\u1eb3ng c\u00f3 nhau",
       "url": "https://open.spotify.com/track/1Z9IxjUiWlQnBECEKAfgni"
@@ -20669,7 +20705,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 152818,
       "name": "PANADOL",
       "url": "https://open.spotify.com/track/2G9B5GJOWI8vREC93h52uV"
@@ -22858,6 +22894,32 @@
     },
     {
       "album": {
+        "name": "SONG AM",
+        "url": "https://open.spotify.com/album/4sICDAWxwxmKvjpsVwN4yC"
+      },
+      "artists": [
+        {
+          "name": "Tylr Without E",
+          "url": "https://open.spotify.com/artist/0AchXzEWwA0gdl4NgDilRa"
+        },
+        {
+          "name": "betterdayz",
+          "url": "https://open.spotify.com/artist/4gkBRHgeNyk0JqILeLzCVP"
+        },
+        {
+          "name": "Wee",
+          "url": "https://open.spotify.com/artist/6A2e3Sd5N2GczFJyzm0gFi"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293941,
+      "name": "SONG AM",
+      "url": "https://open.spotify.com/track/2gfpVTt2LoaLvw3SCUgesq"
+    },
+    {
+      "album": {
         "name": "Sorry Em Y\u00eau L\u1ea7n \u0110\u1ea7u",
         "url": "https://open.spotify.com/album/19npQ1ixpdwVhvQeQvTkpi"
       },
@@ -22971,6 +23033,28 @@
       "duration_ms": 274615,
       "name": "Still Loving You",
       "url": "https://open.spotify.com/track/3K0YVjY3v4LyGaLr54A5Qd"
+    },
+    {
+      "album": {
+        "name": "Story Of The Heart",
+        "url": "https://open.spotify.com/album/5CUMPhGxHTmE79uaQEdYTX"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e1i Ho\u00e0ng Thi\u1ec7n",
+          "url": "https://open.spotify.com/artist/02RqzrtQtK9W9fOxDdNwvo"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171177,
+      "name": "Story Of The Heart",
+      "url": "https://open.spotify.com/track/27zcEmTdgUGjsDe6gqSWIn"
     },
     {
       "album": {
@@ -24186,6 +24270,32 @@
     },
     {
       "album": {
+        "name": "Thi\u00ean Ki\u1ebfp V\u1ea1n Ki\u1ebfp",
+        "url": "https://open.spotify.com/album/34baDcKiXuUwywXXScnGfo"
+      },
+      "artists": [
+        {
+          "name": "Vin",
+          "url": "https://open.spotify.com/artist/6pkv32e1uILXStmRBC94MM"
+        },
+        {
+          "name": "Ph\u00e1t Ph\u00e1t",
+          "url": "https://open.spotify.com/artist/1k2Fi7lsR4v1c6HmcNs2oi"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256683,
+      "name": "Thi\u00ean Ki\u1ebfp V\u1ea1n Ki\u1ebfp",
+      "url": "https://open.spotify.com/track/3t2hu9tN5tZdTwmHnWwVmA"
+    },
+    {
+      "album": {
         "name": "Tho\u1ea3 Hi\u1ec7p",
         "url": "https://open.spotify.com/album/6wYscdTgJeCA3dUdcDn2kq"
       },
@@ -24775,6 +24885,24 @@
       "duration_ms": 240256,
       "name": "Th\u1eadt Xin L\u1ed7i V\u00ec N\u00f3i Th\u01b0\u01a1ng Anh",
       "url": "https://open.spotify.com/track/5bVHDQzLaHSmPolTFHiJgx"
+    },
+    {
+      "album": {
+        "name": "Th\u1eadt \u0110\u1ea5y",
+        "url": "https://open.spotify.com/album/7klIqli6IOByjEfFxhIlbc"
+      },
+      "artists": [
+        {
+          "name": "My Carol",
+          "url": "https://open.spotify.com/artist/7nSeOCxkwsHBXvRyNKdtFQ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228058,
+      "name": "Th\u1eadt \u0110\u1ea5y",
+      "url": "https://open.spotify.com/track/6PfvR7AZqAsf0nokOd0RrO"
     },
     {
       "album": {
@@ -25661,6 +25789,28 @@
       "duration_ms": 180000,
       "name": "Tr\u00f2 Ch\u01a1i Tr\u1eddi Cho",
       "url": "https://open.spotify.com/track/654WdDbJiP0lZ7S2CuSlVT"
+    },
+    {
+      "album": {
+        "name": "Tr\u00f2 Ch\u01a1i \u0110\u1ea1o \u0110\u1ee9c",
+        "url": "https://open.spotify.com/album/1pFdi0Uk9WBnj8k0lToznU"
+      },
+      "artists": [
+        {
+          "name": "Harose",
+          "url": "https://open.spotify.com/artist/442FFGSBMRRNcJ0rFkNpKI"
+        },
+        {
+          "name": "NH\u00c0O",
+          "url": "https://open.spotify.com/artist/5gvuRwK5NeM7oMcdINGBnB"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169180,
+      "name": "Tr\u00f2 Ch\u01a1i \u0110\u1ea1o \u0110\u1ee9c",
+      "url": "https://open.spotify.com/track/74eftPzFBomfGJhkL2XK54"
     },
     {
       "album": {
@@ -26725,6 +26875,24 @@
       "duration_ms": 166956,
       "name": "T\u1ea1i Sao L\u00f2ng V\u00f2ng",
       "url": "https://open.spotify.com/track/6yTAqa3VKX9kYKjFjXOrWA"
+    },
+    {
+      "album": {
+        "name": "T\u1ea1i Sao Ta Kh\u00f4ng Gi\u1eef L\u1ea5y",
+        "url": "https://open.spotify.com/album/4LC2eBM5SxgvlOVtcpCcl2"
+      },
+      "artists": [
+        {
+          "name": "Na Ng\u1ecdc Anh",
+          "url": "https://open.spotify.com/artist/5Es1OAhewJhFhbfejSQA7O"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282860,
+      "name": "T\u1ea1i Sao Ta Kh\u00f4ng Gi\u1eef L\u1ea5y",
+      "url": "https://open.spotify.com/track/4GeNbxdsWEq9ECRC2WouSl"
     },
     {
       "album": {
@@ -27836,6 +28004,32 @@
     },
     {
       "album": {
+        "name": "V\u00ec em m\u00e0\u2026?",
+        "url": "https://open.spotify.com/album/5TJ7st3wcimXtwlZlo988d"
+      },
+      "artists": [
+        {
+          "name": "Khang Tr\u01b0\u1eddng",
+          "url": "https://open.spotify.com/artist/6F1ke9aZ782shXLjuGldaO"
+        },
+        {
+          "name": "thainguyen",
+          "url": "https://open.spotify.com/artist/66xsY6CmYYV2zHkZSNrPQd"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267754,
+      "name": "V\u00ec em m\u00e0\u2026?",
+      "url": "https://open.spotify.com/track/136b5YGXODlCzIhX0Dgn5F"
+    },
+    {
+      "album": {
         "name": "V\u00ec N\u1ebfu Y\u00eau Em Anh S\u1ebd",
         "url": "https://open.spotify.com/album/6MMrCcPaMOik4lS6wC8pat"
       },
@@ -28069,8 +28263,8 @@
       },
       "artists": [
         {
-          "name": "Sin",
-          "url": "https://open.spotify.com/artist/2kgXWIQTFCLAnyuhBVH72e"
+          "name": "Sin.",
+          "url": "https://open.spotify.com/artist/7JQMHVNob4fW2JYcGFE1ia"
         },
         {
           "name": "BMZ",
@@ -29325,7 +29519,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 147692,
       "name": "YOU (feat. AK49)",
       "url": "https://open.spotify.com/track/2fjqdDz6jJn6VPgrSDDMvp"

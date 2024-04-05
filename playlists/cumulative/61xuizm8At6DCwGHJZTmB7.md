@@ -2,7 +2,7 @@
 
 ### [Worship 2024](https://open.spotify.com/playlist/61xuizm8At6DCwGHJZTmB7)
 
-> Worship 2024 \| Celebrate Easter season with your favorite worship songs of 2024\. Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
+> Worship 2024 \| Your favorite praise and worship songs of 2024\. Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
 421 songs - 1 day 16 hr 50 min
 

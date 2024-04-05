@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,856 likes - 38 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,864 likes - 38 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 37 | [Whenever I Want](https://open.spotify.com/track/1dZueGaQkZ5P8ehYvsPxWA) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:29 |
 | 38 | [Jungle \- Rico Nasty Remix](https://open.spotify.com/track/1c4R7VEZSRIqO2eGR9LKXX) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Jungle \(Rico Nasty Remix\)](https://open.spotify.com/album/6dEwlsUtkc8WRN8oYejxH2) | 3:33 |
 
-Snapshot ID: `MCw4NjJjNmFlZGMwMTc2ZjE0NTI3YzNlZWU0ZDQ2NjZhYjZlNTdjODBh`
+Snapshot ID: `MCw2MDkzMTQzNjZkYTE2MmE0YmI3MDc1ZDMyYTVmYmEyZjc1MTljZjkz`

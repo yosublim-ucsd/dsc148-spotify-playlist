@@ -846,7 +846,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 439994,
       "name": "Final Credits",
       "url": "https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 206368,
       "name": "Finder - Radio-Edit",
       "url": "https://open.spotify.com/track/7az0Hd7YKK5UT10M1nG56c"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 291018,
       "name": "Gosh",
       "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
@@ -1346,6 +1346,28 @@
       "duration_ms": 288919,
       "name": "I <3 U SO - Skream's Made Zdar Feel Like He Was 20 Again Remix",
       "url": "https://open.spotify.com/track/4vSsMRGjCez8mriReBzGD1"
+    },
+    {
+      "album": {
+        "name": "I Am The One",
+        "url": "https://open.spotify.com/album/6EigqdKdQ2B8bxnJrIGLN9"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200624,
+      "name": "I Am The One",
+      "url": "https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd"
     },
     {
       "album": {
@@ -1698,6 +1720,28 @@
       "duration_ms": 219120,
       "name": "Katy on a Mission",
       "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
+    },
+    {
+      "album": {
+        "name": "Keep It Real",
+        "url": "https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "ARIA",
+          "url": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142322,
+      "name": "Keep It Real",
+      "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
     },
     {
       "album": {
@@ -2220,7 +2264,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 250666,
       "name": "No Problem",
       "url": "https://open.spotify.com/track/5k3jdIh7BpJaV1DntDQoSD"
@@ -2428,7 +2472,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 200826,
       "name": "Pleasure Peak",
       "url": "https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d"
@@ -2858,7 +2902,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 233978,
       "name": "Starry Night - Edit",
       "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
@@ -2946,7 +2990,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 417099,
       "name": "Talk to Me You'll Understand",
       "url": "https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL"
@@ -3025,6 +3069,32 @@
     },
     {
       "album": {
+        "name": "That Sound (feat. Dope Earth Alien)",
+        "url": "https://open.spotify.com/album/0DcVggpeCNz0CpQnK4vJgj"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        },
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Dope Earth Alien",
+          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166472,
+      "name": "That Sound (feat. Dope Earth Alien)",
+      "url": "https://open.spotify.com/track/2B3NVNUU84aAIq9lAlGIZn"
+    },
+    {
+      "album": {
         "name": "The Groovy Cat",
         "url": "https://open.spotify.com/album/2zL3pun7npuBMHeBPr7mtz"
       },
@@ -3094,7 +3164,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 181992,
       "name": "This Is My Life",
       "url": "https://open.spotify.com/track/5oOUGZNKsx5LEE1FYyLcoB"
@@ -3138,7 +3208,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 260426,
       "name": "Time",
       "url": "https://open.spotify.com/track/2HOMVMnOukowkziBJZyf7o"
@@ -3182,7 +3252,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 210546,
       "name": "Turn off the Lights",
       "url": "https://open.spotify.com/track/7dsImih2L25fa6qjNphBI7"
@@ -3316,7 +3386,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 194840,
       "name": "What I Might Do",
       "url": "https://open.spotify.com/track/4Rnfx020sYy3YoxvA3oMS2"

@@ -101,6 +101,24 @@
     },
     {
       "album": {
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190644,
+      "name": "1+1=11 - Edit",
+      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
+    },
+    {
+      "album": {
         "name": "10:35 (feat. Tate McRae) [Joel Corry Remix]",
         "url": "https://open.spotify.com/album/2dYGTMqlV5r52u5Os7w8Im"
       },
@@ -368,6 +386,32 @@
       "duration_ms": 234525,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
+    },
+    {
+      "album": {
+        "name": "Another Dimension",
+        "url": "https://open.spotify.com/album/5F8ZSBIcPgssjylamnByil"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Brittles",
+          "url": "https://open.spotify.com/artist/4AatAhtKlfnbdMwlxdTwwr"
+        },
+        {
+          "name": "Ghost MC",
+          "url": "https://open.spotify.com/artist/7j76GJFqlZOeVe7Sgdlmab"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175620,
+      "name": "Another Dimension",
+      "url": "https://open.spotify.com/track/6bu9yE3D2FUamqfXpd8VPD"
     },
     {
       "album": {
@@ -2068,6 +2112,32 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "album": {
+        "name": "Heaven or Not",
+        "url": "https://open.spotify.com/album/57vgi9GXqxBvyLmlTQeeUk"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151259,
+      "name": "Heaven or Not",
+      "url": "https://open.spotify.com/track/6B8ZQyILzGTzJZ2BE8ydcF"
     },
     {
       "album": {
@@ -3847,6 +3917,28 @@
     },
     {
       "album": {
+        "name": "Say Goodbye (feat. Billy Raffoul)",
+        "url": "https://open.spotify.com/album/1oXAFYj4N52dFrMcOAKfQk"
+      },
+      "artists": [
+        {
+          "name": "LOSTBOYJAY",
+          "url": "https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL"
+        },
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126023,
+      "name": "Say Goodbye (feat. Billy Raffoul)",
+      "url": "https://open.spotify.com/track/3IkdjPFThBcKciyAV94dYp"
+    },
+    {
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI"
       },
@@ -4074,6 +4166,24 @@
       "duration_ms": 222720,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6VKpDRWz9HAUOEpElNvjSi"
+    },
+    {
+      "album": {
+        "name": "Special (We Could've Been)",
+        "url": "https://open.spotify.com/album/1MKhnybpcKMdb5ScdReQDH"
+      },
+      "artists": [
+        {
+          "name": "Marlus",
+          "url": "https://open.spotify.com/artist/6KZ0uwdg2CfmlADa1rkUmJ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "Special (We Could've Been)",
+      "url": "https://open.spotify.com/track/7gTZ4MT1pKdy36X2ynoKev"
     },
     {
       "album": {

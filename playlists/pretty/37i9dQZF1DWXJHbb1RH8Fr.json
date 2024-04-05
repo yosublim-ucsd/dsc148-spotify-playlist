@@ -1,12 +1,12 @@
 {
   "description": "Ruhunu dinlendirece\u011fin bu kutsal ayda yolculu\u011funa e\u015flik edecek ney ezgileri. G\u00f6rsel: Sultanahmet Camii",
-  "num_followers": 11750,
+  "num_followers": 11772,
   "original_name": "Ramazan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmJlMzQxMTZkZTRlMjhmNGY1YjE3MGExYzBjMzAyOTRmZTM0ZjYw",
+  "snapshot_id": "MCxjMzEwMzEyYjA0MmYzMmE1YTg1MTJmZWVmZGQ0OTVmY2JmMTIzOWJl",
   "tracks": [
     {
       "added_at": "2024-03-05 11:27:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
+        "name": "Neyzen",
+        "url": "https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L"
+      },
+      "artists": [
+        {
+          "name": "Volkan Ka\u00e7ak",
+          "url": "https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Segah Taksim",
+      "url": "https://open.spotify.com/track/3wZBsMEqukQMMGgJOZ9kMe"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
         "name": "Tende C\u00e2n\u0131m",
         "url": "https://open.spotify.com/album/6wvxsYb7Z8sX4lgg5i7sHa"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 445133,
       "name": "\u015eevkefza Saz Semai",
       "url": "https://open.spotify.com/track/4NpVLnHTQXL3vOb7LdE1Ah"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Neyzen",
-        "url": "https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L"
-      },
-      "artists": [
-        {
-          "name": "Volkan Ka\u00e7ak",
-          "url": "https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Segah Taksim",
-      "url": "https://open.spotify.com/track/3wZBsMEqukQMMGgJOZ9kMe"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
+        "name": "Neyzen",
+        "url": "https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L"
+      },
+      "artists": [
+        {
+          "name": "Volkan Ka\u00e7ak",
+          "url": "https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip"
+        }
+      ],
+      "duration_ms": 154853,
+      "name": "Bestenigar Taksim",
+      "url": "https://open.spotify.com/track/28RLD9ttPkH6IqxwDoUNJa"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
         "name": "Tende C\u00e2n\u0131m",
         "url": "https://open.spotify.com/album/6wvxsYb7Z8sX4lgg5i7sHa"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 435066,
       "name": "Hicaz Pe\u015frev",
       "url": "https://open.spotify.com/track/5rTN15F28hHxPxUxtUspLH"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Neyzen",
-        "url": "https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L"
-      },
-      "artists": [
-        {
-          "name": "Volkan Ka\u00e7ak",
-          "url": "https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip"
-        }
-      ],
-      "duration_ms": 154853,
-      "name": "Bestenigar Taksim",
-      "url": "https://open.spotify.com/track/28RLD9ttPkH6IqxwDoUNJa"
     }
   ],
   "unique_name": "Ramazan",

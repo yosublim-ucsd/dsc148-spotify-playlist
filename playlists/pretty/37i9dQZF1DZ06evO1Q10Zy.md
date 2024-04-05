@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,247 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,256 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 23 | [Exceptional](https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 5:40 |
 | 24 | [Soon as I Get Home](https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:09 |
 | 25 | [I Said I Love You](https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:05 |
-| 26 | [Shoulda \(feat\. Babyface\)](https://open.spotify.com/track/7tAq0hZtDzyE7KWGcRYkhS) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Painted \(Deluxe Edition\)](https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua) | 3:37 |
-| 27 | [Sweat](https://open.spotify.com/track/1eRp0Gyiv7UY7an1VWYGi6) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:27 |
+| 26 | [Sweat](https://open.spotify.com/track/1eRp0Gyiv7UY7an1VWYGi6) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:27 |
+| 27 | [Shoulda \(feat\. Babyface\)](https://open.spotify.com/track/7tAq0hZtDzyE7KWGcRYkhS) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Painted \(Deluxe Edition\)](https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua) | 3:37 |
 | 28 | [The Recipe \(with Muni Long\)](https://open.spotify.com/track/4xDoRWwnUASi910ArPewng) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:08 |
 | 29 | [Where Will You Go](https://open.spotify.com/track/1kjNj5vBOG5v0VHYGErbO9) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:09 |
 | 30 | [Stressed Out](https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 3:35 |
-| 31 | [Sorry For The Stupid Things \- Main](https://open.spotify.com/track/4T26YGUHTE5LLbb8xnTHPL) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:13 |
+| 31 | [Fire](https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [HAV PLENTY Music From The Motion Picture](https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc) | 4:45 |
 | 32 | [Simple \(with Coco Jones\)](https://open.spotify.com/track/7uCtRKlnqNET1ohX7xzU7j) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 2:31 |
-| 33 | [Fire](https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [HAV PLENTY Music From The Motion Picture](https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc) | 4:45 |
+| 33 | [Sorry For The Stupid Things \- Main](https://open.spotify.com/track/4T26YGUHTE5LLbb8xnTHPL) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:13 |
 | 34 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
 | 35 | [Reason for Breathing \- Album Edit](https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Reason For Breathing](https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q) | 5:42 |
 | 36 | [Girls Night Out \(with Doechii\)](https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 49 | [Evergreen \(with Babyface\)](https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Partners \(Deluxe\)](https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG) | 3:14 |
 | 50 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 |
 
-Snapshot ID: `MCwzZDcxZWU5NGUyYzQzZWFlOWE0NjFhN2Y4MTAwMmE2NDg4MzhjZDFi`
+Snapshot ID: `MCw2ODRkMDNlNjExNDQ2OGRiMjhkYjliOWI0MWU1MmMxYWZmNGI4OGQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 
 > Enjoy these songs while you eat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,017 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,036 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 31 | [Tanbur Taksimi](https://open.spotify.com/track/65hJb6nxK7LOa6FxzxVLT0) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 2:56 |
 | 32 | [Unutulmuş Ne Varsa](https://open.spotify.com/track/3LLs8Cisml6Oe26f2Jhi3C) | [Turgut Özüfler](https://open.spotify.com/artist/05g84ITA7SKNtR7HUtb4Bs), [Yıldıran Güz](https://open.spotify.com/artist/1BIiyYKngGrDIESG6g8UrK), [Çorlulu Savaş](https://open.spotify.com/artist/2tQaTSCwyoMTEQofuEqmwH), [İsmail Nar](https://open.spotify.com/artist/5k9pDFmgrENJOW2LWWHq4K), [Şener Yolal](https://open.spotify.com/artist/1KPKarMXdRPGbDLEKkFDG3) | [Alaturka İstanbul, Vol\. 2](https://open.spotify.com/album/5AUAj74jUxryODLsNyWaiN) | 2:40 |
 | 33 | [Rast Methal](https://open.spotify.com/track/6GaNkUOxQtTPuvuNrSc1Zm) | [Refik Fersan](https://open.spotify.com/artist/7Go3wwVD6FZ6erRNm9CvWT) | [The Golden Horn Production](https://open.spotify.com/album/7FeShPklJxlvqxidL96GDa) | 5:31 |
-| 34 | [Şedd\-i Araban Saz Semaisi](https://open.spotify.com/track/4M0mHZnpprWgjOQcda7Szv) | [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Derya Türkan](https://open.spotify.com/artist/04e8hX9MAJUSVQNEyBdth0) | [Ahenk 2](https://open.spotify.com/album/1MtMYy7Z3tVPwTxNuQMWgY) | 5:24 |
-| 35 | [Uşşak Saz Semaisi](https://open.spotify.com/track/7ElMdLmlsr5AKm4LyGJPZP) | [Murat Salim Tokac](https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV) | [Vahdet Sırrının Sadası Tanbur](https://open.spotify.com/album/2CUmXFVg3WeHbCM0QKBEM3) | 4:09 |
+| 34 | [Uşşak Saz Semaisi](https://open.spotify.com/track/7ElMdLmlsr5AKm4LyGJPZP) | [Murat Salim Tokac](https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV) | [Vahdet Sırrının Sadası Tanbur](https://open.spotify.com/album/2CUmXFVg3WeHbCM0QKBEM3) | 4:09 |
+| 35 | [Şedd\-i Araban Saz Semaisi](https://open.spotify.com/track/4M0mHZnpprWgjOQcda7Szv) | [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Derya Türkan](https://open.spotify.com/artist/04e8hX9MAJUSVQNEyBdth0) | [Ahenk 2](https://open.spotify.com/album/1MtMYy7Z3tVPwTxNuQMWgY) | 5:24 |
 | 36 | [Sazkar Peşrev](https://open.spotify.com/track/2fWkFDijycAeSC1iQmZLJn) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 5:34 |
 | 37 | [Segâh Karabatak Peşrevi](https://open.spotify.com/track/7lQkiLymvb4mWiQSn0yp7X) | [Özer Özel](https://open.spotify.com/artist/1NwCjyvGISRxIaCG8vKTg3), [Aslıhan Özel](https://open.spotify.com/artist/7rlrBlb1nwVhNv7NyuLfqb) | [Simurg](https://open.spotify.com/album/0xZ6aTKVTZdxfxCXPrIwVh) | 5:41 |
 | 38 | [Tanbur & Duduk Taksimi](https://open.spotify.com/track/6G7zn10Pu1kNK6tMLnYeGw) | [Ertan Tekin](https://open.spotify.com/artist/5nTswH6KXoL7iQjZXjQEj4), [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Çağ Erçağ](https://open.spotify.com/artist/4yNFDeDkcHTH1H1mRQ475t) | [Itri & Bach](https://open.spotify.com/album/6r17TPLNFTrPtKOUCDpo9w) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 49 | [Saba Taksim](https://open.spotify.com/track/5Zp63IoUOx2VyZ5xuTa2Ey) | [Volkan Kaçak](https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip) | [Neyzen](https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L) | 2:11 |
 | 50 | [Suzidilara Saz Semaisi](https://open.spotify.com/track/01GOqOsRD21di19O0uvTd3) | [Ihsan Özgen](https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM) | [Tanburi Cemil Bey \- Peşrev ve Saz Semaileri](https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP) | 4:09 |
 
-Snapshot ID: `MCw5NWMyY2Q0NzVjMTdmZDZhY2U1ZmNjNmI2MWM1ZDllYmU3MDQ0NmU4`
+Snapshot ID: `MCw4YmRlMTRkNzQwYWEwMGYyYjc3YTVhYjIzMzk5MDgwOTk3ZGJhOTIw`

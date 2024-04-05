@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 53 min 51 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 55 min 2 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Final Episode \(Let's Change The Channel\) \- Borgore Remix](https://open.spotify.com/track/1sU702jhyNr8bA4Gxhbcic) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Stepped Up And Scratched](https://open.spotify.com/album/4mPmNs5KRLdQpsnrYdwT1i) | 4:12 |
-| 2 | [Rust In Peace...Polaris \- 2004 Remix](https://open.spotify.com/track/0803SWqmIJGvZ15B8zsewn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:44 |
-| 3 | [Another Day in Paradise \- 2016 Remaster](https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 5:22 |
-| 4 | [Aria Math](https://open.spotify.com/track/4K0odcECsBvgzv9Lr9z4kd) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX) | 5:10 |
-| 5 | [Blue Monday](https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 7:29 |
-| 6 | [I Want You to Want Me](https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [In Color](https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR) | 3:11 |
-| 7 | [El Es Mi Idolo](https://open.spotify.com/track/1Hm7NfFyUUlcRRsozsSTkQ) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Antología: Su Historia y Sus Éxitos](https://open.spotify.com/album/7m8AqShFcldsxokXFksDZ4) | 4:19 |
-| 8 | [Venice Queen](https://open.spotify.com/track/3ZIw7nCYObqthuWCuDrCu0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 6:07 |
-| 9 | [Faster](https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
-| 10 | [Faint](https://open.spotify.com/track/2uxL6E8Yq0Psc1V9uBtC4F) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 2:42 |
-| 11 | [Venus](https://open.spotify.com/track/44YpdyMbfzZngsdQLOXWke) | [Sophie Castillo](https://open.spotify.com/artist/4LoRVyF2R00cUR8q3oatMb) | [Venus](https://open.spotify.com/album/5lpTnlG7QonLGrAkrae0d5) | 3:08 |
-| 12 | [i'll be fine'](https://open.spotify.com/track/3JdQ3LToili2ajempvrwCD) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Nyla](https://open.spotify.com/artist/5aRVHPggfK1ejfaVLYb9Xe) | [i'll be fine'](https://open.spotify.com/album/1Ztl27sDRwIq80pjAbwucu) | 2:00 |
+| 1 | [Millonaria](https://open.spotify.com/track/3OhyaxZpxzo6umGhq36G5t) | [La Fixapilar](https://open.spotify.com/artist/7xoejOm41TzsFey5bcHFCm) | [Millonaria](https://open.spotify.com/album/3TPXNVvJ0qyqUki0TqDGbM) | 2:12 |
+| 2 | [Can't Get Enough \- 2015 Remaster](https://open.spotify.com/track/6n5lHdpuBDdA7pYDpiKzEI) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Bad Company \(Deluxe\)](https://open.spotify.com/album/4fuDpBLCt9ChDlqw48bj7p) | 4:16 |
+| 3 | [Wild Dub \- 2002 Remaster](https://open.spotify.com/track/4DFlGnx94vp5YkOnF0WL2j) | [Generation X](https://open.spotify.com/artist/1inWec2E2UgfzMAhwjgTXe) | [Generation X \(2002 Remaster\)](https://open.spotify.com/album/4O4sXIYGAxA7hrC6tAnyl0) | 3:48 |
+| 4 | [Earth Song \- Hani's Extended Radio Experience](https://open.spotify.com/track/4Uw7RAKTS31MDUJ9KSxmCz) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [BLOOD ON THE DANCE FLOOR/ HIStory In The Mix](https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ) | 7:55 |
+| 5 | [Helpless](https://open.spotify.com/track/3bhs9FdO43IOmoaegJ7bvB) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage, Inc.](https://open.spotify.com/album/4qDiQwJ7UEuJsGLWL078nQ) | 6:38 |
+| 6 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
+| 7 | [Partita in D Major: Ritournelle \- lentement](https://open.spotify.com/track/1YeItJ7MoHsNpsLRNt8EZe) | [Tyler Hawkins](https://open.spotify.com/artist/6UVaQ6rZvJoKnDMlEXyonx), [Christopher Irvine](https://open.spotify.com/artist/4h0HfIayKkogqCic5PUKrx) | [Georg Philipp Telemann Lute Duets for Classical Guitar](https://open.spotify.com/album/233eqIMGit9gAegpmLg7r6) | 6:57 |
+| 8 | [Gingervitus](https://open.spotify.com/track/2jXhXqOgVTNtxHyv0BgPEd) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Between The Lies](https://open.spotify.com/album/5u4wOGpnlaGSz9b9rHMETR) | 4:09 |
+| 9 | [King Nothing](https://open.spotify.com/track/4Ovpv1Z98LERzogBUa8MzH) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/2MD9zkmkFbrVyWy23nnAZQ) | 5:28 |
+| 10 | [Angels \- Acoustic](https://open.spotify.com/track/1XXAEzRFi0cs0Zh2R42jG1) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Angels](https://open.spotify.com/album/15lwLTwByJddohg3GvxICy) | 4:28 |
+| 11 | [Like You Boy](https://open.spotify.com/track/6cHV4imunCJXCd3iT40Tm5) | [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Like You Boy](https://open.spotify.com/album/4lbJpv9py0nbWfRQ09VRDe) | 2:49 |
+| 12 | [Pocket](https://open.spotify.com/track/4tEbhflVi5PzSl2om3C3so) | [Margot Liotta](https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM) | [Pocket](https://open.spotify.com/album/2cy9UiKp4m5TuYTQD5rg3E) | 2:42 |
 
-Snapshot ID: `NzUsNDU1OGIzZWQ2Y2I4NWYxYTNkYTZlYWQwZDhiZDQyNjM4NmI0OGRmMQ==`
+Snapshot ID: `NzYsMDBjMTUzNTNkZjkxMmIyNjkwNjllNGI0MTU0ZjA1NzE1MjNlYjVmMA==`

@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-263 songs - 15 hr 31 min
+264 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Christmas Vacation](https://open.spotify.com/track/2UuwMH7KBuWlYYTk7JeK5F) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/6lFHaBON0xRq8uPIjCUxa5) | 1:48 | 2022-12-11 | 2023-09-14 |
 | [Christmas Valentine](https://open.spotify.com/track/3IGnC58kVTeQQGxEybWtaE) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [This Christmas](https://open.spotify.com/album/2qvU0V1K9WGP13QBztAKVF) | 3:02 | 2022-12-11 | 2024-04-01 |
 | [Christmas Wish](https://open.spotify.com/track/1sKh3XHyI5sqa6qP2h6qMy) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Menna Christmas](https://open.spotify.com/album/11cc5FO58DTxFpjPQLBmVQ) | 2:27 | 2023-12-02 |  |
+| [come thou long expected Jesus.](https://open.spotify.com/track/4coEuADusrlUFhCuRlZcfb) | [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx), [Lofi Hymns.](https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW), [Gloria Black](https://open.spotify.com/artist/5M8WBGXMI3XFjpeA62aV5L) | [come thou long expected Jesus.](https://open.spotify.com/album/4y0k7nuYMek4bWVgxeRKH7) | 2:58 | 2023-12-15 |  |
 | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/track/0xjCdmZQQQAY3lrvPEaZRS) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/album/16IA6igILbx316CPY6CwjP) | 5:12 | 2022-12-11 |  |
 | [December We'll Remember](https://open.spotify.com/track/4QFnLIjqUNsxQFd82z3xx8) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [This Christmas](https://open.spotify.com/album/2qvU0V1K9WGP13QBztAKVF) | 2:39 | 2022-12-11 | 2024-01-02 |
 | [Deck The Halls](https://open.spotify.com/track/63ZvE7HuKmw3Wb6Q7dM96u) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [A Merry Lofi Christmas](https://open.spotify.com/album/6POlo0xOimnxIz7gfQg0rX) | 2:08 | 2023-12-02 | 2024-02-14 |
@@ -160,7 +161,7 @@
 | [Mitch The Grinch](https://open.spotify.com/track/2Azw4Pcjkeyffy6xDxF8Kp) | [Mitch Darrell](https://open.spotify.com/artist/4CBgmRY3dI7ToptTHIxvj3), [Wayne Klassik](https://open.spotify.com/artist/3rmqwsgWN75pX6EzDK5xTv), [TLS](https://open.spotify.com/artist/36uFnffOXCpA1m4SM5sWNJ) | [Mitch The Grinch](https://open.spotify.com/album/236ef6ST6kNPShIWKPzoLh) | 1:19 | 2023-12-15 |  |
 | [Mother To A Savior And King](https://open.spotify.com/track/6A0LBpiCzgQFZ1MkmtIzaF) | [The Cast Of Journey To Bethlehem](https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Journey To Bethlehem \(Deluxe/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/75bzcIm8eYPp4u0tyDI22H) | 3:22 | 2023-12-15 |  |
 | [Mothers and Shepherds](https://open.spotify.com/track/6RDsKTlM7jafTzTz2RGELX) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Mothers and Shepherds](https://open.spotify.com/album/77JWRi1kkyaevA2CNdeNV4) | 5:02 | 2021-12-24 |  |
-| [Mothers And Shepherds](https://open.spotify.com/track/4dNp6tEx0fcbiFGwF40h3k) | [Sheléa](https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG), [The Aeolians of Oakwood University](https://open.spotify.com/artist/3k0f1Oq9w18Pd7VFpVbxik) | [Mothers And Shepherds](https://open.spotify.com/album/2n28BJpolDoB8VZQ9Wr3Dj) | 3:54 | 2022-11-26 |  |
+| [Mothers And Shepherds](https://open.spotify.com/track/4dNp6tEx0fcbiFGwF40h3k) | [Sheléa](https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG), [The Aeolians of Oakwood University](https://open.spotify.com/artist/3k0f1Oq9w18Pd7VFpVbxik) | [Mothers And Shepherds](https://open.spotify.com/album/2n28BJpolDoB8VZQ9Wr3Dj) | 3:54 | 2022-11-26 | 2024-04-05 |
 | [My Favorite Things](https://open.spotify.com/track/49H7RzdbKiIob64vinzhGz) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 2:54 | 2021-12-24 |  |
 | [Noel \(He Is Born\)](https://open.spotify.com/track/0pBqDA7NC9zZZ9JbDRUQTA) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [The Birth Of A King](https://open.spotify.com/album/6omoliEPeOeAjrNOe0Dfdz) | 4:21 | 2021-12-24 |  |
 | [Noel \(He Is Born\) \- Acoustic](https://open.spotify.com/track/17Lfjg1DnlDBc7BsVz1uOG) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [Noel \(He Is Born\)](https://open.spotify.com/album/0qBNdc9efGihbsXN2x8Wkg) | 4:21 | 2022-12-11 | 2023-11-02 |

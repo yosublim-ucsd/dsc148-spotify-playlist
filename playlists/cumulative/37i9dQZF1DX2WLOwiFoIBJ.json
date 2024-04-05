@@ -222,7 +222,7 @@
     {
       "album": {
         "name": "Race",
-        "url": "https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m"
+        "url": "https://open.spotify.com/album/42bSpkr89bdrwMMNuEZlDJ"
       },
       "artists": [
         {
@@ -233,6 +233,24 @@
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201788,
+      "name": "Gnaw",
+      "url": "https://open.spotify.com/track/4F7SWwVXyvGlCs9TtXJbUd"
+    },
+    {
+      "album": {
+        "name": "Race",
+        "url": "https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-05",
       "duration_ms": 201788,
       "name": "Gnaw",
       "url": "https://open.spotify.com/track/4KwttC1ZokLqillyhJgSe8"

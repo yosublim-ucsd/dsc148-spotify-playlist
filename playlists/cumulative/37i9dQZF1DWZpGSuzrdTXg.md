@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-153 songs - 8 hr 45 min
+154 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,8 @@
 | [Autumn Love](https://open.spotify.com/track/6iBI0LmXBzcexTweRPjkPP) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Autumn Love](https://open.spotify.com/album/2NTUSfIlrjzhVvEoYb9BLK) | 3:18 | 2024-02-15 |  |
 | [Back](https://open.spotify.com/track/2tJ0GB8yDrGSHahyBHjDrB) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Blackbird \(Deluxe\)](https://open.spotify.com/album/6UzCkpGRJ4ojKeYUGKfyEc) | 3:38 | 2022-12-22 |  |
 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 | 2022-12-22 | 2023-05-05 |
-| [Before You Let Me Go](https://open.spotify.com/track/2yu5RQzExtQOGV875tfPIX) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Declan J Donovan](https://open.spotify.com/album/2Cs94ATEIzIciZdTaL5igc) | 3:42 | 2023-07-13 |  |
-| [Before You Let Me Go](https://open.spotify.com/track/7qNrSxc8OtSVxQlCKpmIgY) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Before You Let Me Go](https://open.spotify.com/album/1W9yQ05UVOZDwT6u5DrnEs) | 3:42 | 2022-12-22 | 2023-09-15 |
+| [Before You Let Me Go](https://open.spotify.com/track/2yu5RQzExtQOGV875tfPIX) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Declan J Donovan](https://open.spotify.com/album/2Cs94ATEIzIciZdTaL5igc) | 3:42 | 2023-07-13 | 2024-04-05 |
+| [Before You Let Me Go](https://open.spotify.com/track/7qNrSxc8OtSVxQlCKpmIgY) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Before You Let Me Go](https://open.spotify.com/album/1W9yQ05UVOZDwT6u5DrnEs) | 3:42 | 2022-12-22 |  |
 | [Best Friend](https://open.spotify.com/track/3Tgw8MO3QaOKrSovX93OoT) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Best Friend](https://open.spotify.com/album/7DJoUssMTS1AkOfi2BUiiW) | 3:04 | 2022-12-22 | 2024-02-29 |
 | [Best Friend](https://open.spotify.com/track/4F2OilypcmGv2TJIfto9sr) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Caesar](https://open.spotify.com/album/3jOouxyeaYRD9deTRXzqSE) | 3:04 | 2024-02-15 |  |
 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 | 2022-12-22 |  |
@@ -81,6 +81,7 @@
 | [Lights Off](https://open.spotify.com/track/5xpNweaHBCbEAykFGcyYF6) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Lights Off](https://open.spotify.com/album/1UJUCrh65VLj1NGKWtXGwC) | 3:30 | 2022-12-22 | 2023-02-03 |
 | [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 | 2022-12-22 |  |
 | [Little Things](https://open.spotify.com/track/5hePt3wJ1b8qQOC7memXx2) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Little Things](https://open.spotify.com/album/6NjrDiHojlQsmU2EXlqLGp) | 3:06 | 2022-12-22 |  |
+| [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 | 2024-04-04 |  |
 | [Lose Control \- Acoustic Version](https://open.spotify.com/track/3uGJfbP8pV3zTIH6Vi8G8x) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [When The Lights Go Down](https://open.spotify.com/album/58QMygeIUrtywKMkasnDUk) | 2:37 | 2022-12-22 |  |
 | [Lost at Last](https://open.spotify.com/track/0eTFVx9jWhazZHeg4ehfvb) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Saddies](https://open.spotify.com/album/5NCEMX3HctmQsLOyskl3SK) | 2:39 | 2022-12-22 |  |
 | [Lost Boy](https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Lost Boy](https://open.spotify.com/album/7drYNu2imHk188vP81icR3) | 4:35 | 2022-12-22 | 2023-11-10 |
@@ -158,7 +159,7 @@
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-05-04 |  |
 | [Worth It](https://open.spotify.com/track/1j6fqlqbmYyEOWj839SEHg) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Worth It](https://open.spotify.com/album/6L9Q8C3EGLKZPJAabDC4fr) | 2:40 | 2022-12-22 |  |
 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2022-12-22 | 2023-04-14 |
-| [You Are Not Alone](https://open.spotify.com/track/0LLc1wJdpQMpgMKCF8y2TF) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [You Are Not Alone](https://open.spotify.com/album/6dRPKSUv4bXPTthz9aB47E) | 3:28 | 2022-12-22 |  |
+| [You Are Not Alone](https://open.spotify.com/track/0LLc1wJdpQMpgMKCF8y2TF) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [You Are Not Alone](https://open.spotify.com/album/6dRPKSUv4bXPTthz9aB47E) | 3:28 | 2022-12-22 | 2024-04-05 |
 | [You Don't Even Know Me](https://open.spotify.com/track/25ySqlmqGYbg7EH687XaVR) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [You Don't Even Know Me](https://open.spotify.com/album/0KyjORfPI4rvjc4vnFq5O5) | 3:27 | 2022-12-22 |  |
 | [You Make It Real](https://open.spotify.com/track/4Xvcx48q8khat7M1YUYaYW) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me](https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN) | 3:31 | 2022-12-22 | 2023-02-17 |
 

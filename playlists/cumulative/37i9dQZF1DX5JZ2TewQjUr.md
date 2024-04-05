@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  erdocia
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  東涌事發
 
-963 songs - 2 day 6 hr 32 min
+967 songs - 2 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Edge of Desire](https://open.spotify.com/track/0cQtd5F6UurOj5WBojTuD1) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Edge of Desire](https://open.spotify.com/album/1jLC0DKxSoAxyVTSxT53Ft) | 5:31 | 2022-07-28 | 2022-11-04 |
 | [Edge Of Love](https://open.spotify.com/track/0PYEwggCSglDBIY42WOkcq) | [J1M3](https://open.spotify.com/artist/4MKAuJc5O5O9en6ZZO5R5v), [黃浩琳](https://open.spotify.com/artist/4gEBX9EZfO1axr12JUzJwH) | [Edge Of Love](https://open.spotify.com/album/0rMZvIIkOYpvMtpVtCBtGZ) | 3:47 | 2022-05-26 | 2022-07-29 |
 | [End it now](https://open.spotify.com/track/1XfTCENmXbktwmgN2fQTKt) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [End it now](https://open.spotify.com/album/6zdqxPTNrRrArO6oQ24n6c) | 3:20 | 2023-08-24 | 2023-11-03 |
+| [End Of The World](https://open.spotify.com/track/7nkzGVZGaGFNUZ2zWzoNfn) | [Daniel Toh](https://open.spotify.com/artist/2j04ll9T2gPPbI5mxl867U) | [End Of The World](https://open.spotify.com/album/5RGNYkWk40vwsczytNOU5a) | 3:56 | 2024-04-04 |  |
 | [Escaping Light](https://open.spotify.com/track/7hjFPdPikQVL4rGzGLUo9c) | [Maddie Lexandra](https://open.spotify.com/artist/0vRCLoTs0fuVFeyu7Rgun7) | [Escaping Light](https://open.spotify.com/album/7aoZYf0B0tnlmLpWvy2oqM) | 3:58 | 2024-02-08 | 2024-02-12 |
 | [Escaping Light](https://open.spotify.com/track/4N1mbP0JJxkqK1iFc3eyQj) | [Maddie Lexandra](https://open.spotify.com/artist/0vRCLoTs0fuVFeyu7Rgun7) | [Escaping Light](https://open.spotify.com/album/5QFxrLYt1HKfeCc1nl0pps) | 3:59 | 2024-02-08 |  |
 | [ETISÜ](https://open.spotify.com/track/1N4jZQZgvZMNMmZgYyUHJK) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ETISÜ](https://open.spotify.com/album/67hOhiiOu0snIYLmU8GjW4) | 2:44 | 2022-07-21 | 2022-11-04 |
@@ -157,6 +158,7 @@
 | [Every Summertime](https://open.spotify.com/track/5GChRzepsXBuSX1iB6vb6t) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [Be](https://open.spotify.com/album/6bos201IEKrZfXlRfXgOW1) | 4:04 | 2023-09-14 | 2023-12-01 |
 | [EVERYTHING WILL BE ALRIGHT](https://open.spotify.com/track/6yJ9UDcQdWEBYdPV73Tk1F) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t), [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [EVERYTHING WILL BE ALRIGHT](https://open.spotify.com/album/6n2QjAWoPUz6AJAej5rbi0) | 3:00 | 2023-03-24 | 2023-07-14 |
 | [Everything's Fine](https://open.spotify.com/track/4SKUShc0eAvOZoqqbgRAxn) | [The Royal Leisure](https://open.spotify.com/artist/6EbOsbRkFbQFWw3m0NteRv) | [Everything's Fine](https://open.spotify.com/album/5v8ezg9v6iEB2QLD0PqIpA) | 2:13 | 2022-05-26 | 2022-07-29 |
+| [EXCELSIOR \- Dirty](https://open.spotify.com/track/19r0w52BDirZTpUNLPo4Ki) | [Lai Kei](https://open.spotify.com/artist/35T5iqhntCprz61MWcrgiB), [Potlim](https://open.spotify.com/artist/5uYT7MuoKJtXYjrjOfHTCm), [JohnGA](https://open.spotify.com/artist/5X3VLbRAEIHOWkitFaQnSY) | [EXCELSIOR](https://open.spotify.com/album/2owbj3SJIxqgEEfzsNteUG) | 3:25 | 2024-04-04 |  |
 | [Expat Living](https://open.spotify.com/track/2nRUk1Qbef1wGeX8tdCYCR) | [just Min](https://open.spotify.com/artist/30WOLSr0UBs8AKHEIbQB1B) | [Expat Living](https://open.spotify.com/album/6kGFNA77LeZa67JCMvJVfE) | 3:04 | 2023-09-21 | 2023-12-01 |
 | [Eyes Of Blue](https://open.spotify.com/track/44fhrMUAgaVXfkNNpePQ3u) | [Tsukki Soo](https://open.spotify.com/artist/32SqdbPx6eSzmgkpd6rgYI) | [Eyes Of Blue](https://open.spotify.com/album/4c2LIBqyFxTQMPfiTSrEbu) | 4:08 | 2022-10-13 | 2023-02-03 |
 | [FACTS](https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [FACTS](https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO) | 2:27 | 2022-05-26 | 2022-07-29 |
@@ -585,6 +587,7 @@
 | [Until I'm Alright](https://open.spotify.com/track/5v9QgQcfjOnjzg8rtN72AT) | [The Wavelength](https://open.spotify.com/artist/3yvaG8Q6oLAp95rMecgACr) | [Until I'm Alright](https://open.spotify.com/album/0TMejVAhdRNoiA4r8f9Odt) | 3:16 | 2023-11-23 | 2024-02-02 |
 | [UP IN MY MIND](https://open.spotify.com/track/1qKq8cxDgJzDWibAn7cEK1) | [Kei Valentine](https://open.spotify.com/artist/62N80uNLvKhiVGKX9V7G87) | [UP IN MY MIND](https://open.spotify.com/album/6PDtE4OofONGU9x7rKWCuW) | 2:30 | 2024-02-22 |  |
 | [USE](https://open.spotify.com/track/7qLc278qge2t34PrvsqhZr) | [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR) | [130k across the highway](https://open.spotify.com/album/1Ce0uQijUbWZ130GVqGWif) | 2:34 | 2023-10-05 | 2024-01-05 |
+| [waiting for you](https://open.spotify.com/track/6SQlsmneR2rMN11QyfwnQh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [waiting for you](https://open.spotify.com/album/3zCjzqYdYy9gjZRZ6JiLQQ) | 2:48 | 2024-04-04 |  |
 | [Walking Song](https://open.spotify.com/track/2KQzlPNWY1yPAwWHXYIBGS) | [Cat Lau](https://open.spotify.com/artist/5b6vF9dlzYkPXX89LidEH9) | [Walking Song](https://open.spotify.com/album/3z8jbCF2yjyd2TDBD4BaBj) | 5:13 | 2023-05-18 | 2023-09-01 |
 | [WANBAAU](https://open.spotify.com/track/2IzTDUiubt4vqGHRGH14NT) | [achi](https://open.spotify.com/artist/5afah66mDtf06T5lCyM2jd), [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee) | [A BRIEF MOMENT OF YOU \(BONUS\)](https://open.spotify.com/album/5ZlR1DCKdMAVKH64qVkltt) | 3:08 | 2024-03-07 |  |
 | [Wanna Freek 想曳](https://open.spotify.com/track/2uYY4NzLkqBtFiGDiF5HRj) | [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [Wanna Freek 想曳](https://open.spotify.com/album/3cZQkL0zaWk7wmLv4KbkZO) | 3:01 | 2022-07-07 | 2022-09-09 |
@@ -886,6 +889,7 @@
 | [睡行症](https://open.spotify.com/track/1nloWUX0UaVbk9lsTgwHq2) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [睡行症](https://open.spotify.com/album/6QQTjaGL3KBBqLQcBRb6mV) | 4:02 | 2022-05-26 | 2022-06-10 |
 | [砒霜](https://open.spotify.com/track/1hqXzua3YwAcMWh94hE1We) | [P.R.O.J.E.C.T\. 9](https://open.spotify.com/artist/5vXHFDWT0spUFXucafkyV7) | [Dark Romance](https://open.spotify.com/album/2txrKCqElGdRChTuYnPqHN) | 2:32 | 2024-03-14 |  |
 | [社交障礙賽](https://open.spotify.com/track/0GDzj9jEbtnpzqURgfiIgd) | [YUTA](https://open.spotify.com/artist/0tUTYTg2i8uEAIaUoLFdYG) | [社交障礙賽](https://open.spotify.com/album/2APs96wcagUJPKbHnYSY0k) | 3:16 | 2022-09-08 | 2023-01-06 |
+| [社交電池](https://open.spotify.com/track/1xW4nH39JrHAFEZHjoJjkn) | [東涌事發](https://open.spotify.com/artist/6ClTWrZnl5uWikZC82fhAT) | [社交電池](https://open.spotify.com/album/1TzsCookR9VQqc1z914VKe) | 3:16 | 2024-04-04 |  |
 | [神話](https://open.spotify.com/track/2LghoR88w97O8Szz4AKJWk) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:33 | 2022-12-29 | 2023-05-26 |
 | [秘密都市](https://open.spotify.com/track/4OqPGzcwULn95cEN93OGQq) | [Alexmalism](https://open.spotify.com/artist/2UwJTbVVDgt5KKRK5i94zD) | [秘密都市/真假你我](https://open.spotify.com/album/0uCrHf6drkSjw9VlUe2P6U) | 2:45 | 2022-07-21 | 2022-11-04 |
 | [穿梭](https://open.spotify.com/track/1kNOQ3199cr2d8Y268IIBP) | [風正](https://open.spotify.com/artist/4bJ89gRIHM14T4ZIzaBoEp) | [穿梭](https://open.spotify.com/album/6jT2iDwVI7lfuobzWAjfdb) | 2:58 | 2023-04-20 | 2023-07-14 |

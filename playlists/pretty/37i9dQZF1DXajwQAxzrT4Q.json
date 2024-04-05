@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 81701,
+  "num_followers": 81740,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWFjYmQ1Y2U2OWM3MjgyODNkMjljMjI4M2Y0ZjFhMjE0ZmQyNDNl",
+  "snapshot_id": "MCwwMzBiMjQ5ZWM0N2E2YTBhN2MzOTQ0Mjc4YmZlYmIzY2ZhYWVjNGNi",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Hood Mona Lisa",
+        "url": "https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar"
+      },
+      "artists": [
+        {
+          "name": "BreezyLYN",
+          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
+        }
+      ],
+      "duration_ms": 108530,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Honesty (Jersey Club Remix)",
         "url": "https://open.spotify.com/album/1sOF5dtyOTo9s6fx4AtmBe"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 130612,
       "name": "Honesty - Jersey Club Remix",
       "url": "https://open.spotify.com/track/1vBluRXN20JZBMA4G7oe7w"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Hood Mona Lisa",
-        "url": "https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar"
-      },
-      "artists": [
-        {
-          "name": "BreezyLYN",
-          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
-        }
-      ],
-      "duration_ms": 108530,
-      "name": "Freaky",
-      "url": "https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1291,30 +1291,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Bongos (feat. Megan Thee Stallion) [DJ SpinKing & DJ Taj Jersey Club Mix]",
-        "url": "https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc"
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/6AeZAE9S0GDtkKpxSxsHae"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "The Szns",
+          "url": "https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU"
         },
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "DJ SpinKing",
-          "url": "https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM"
-        },
-        {
-          "name": "DJ Taj",
-          "url": "https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk"
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
         }
       ],
-      "duration_ms": 97714,
-      "name": "Bongos (feat. Megan Thee Stallion) - DJ SpinKing & DJ Taj Jersey Club Mix",
-      "url": "https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8"
+      "duration_ms": 174623,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/7jRVGR6xzoiBkY51gEla0L"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1343,6 +1335,34 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Bongos (feat. Megan Thee Stallion) [DJ SpinKing & DJ Taj Jersey Club Mix]",
+        "url": "https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "DJ SpinKing",
+          "url": "https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM"
+        },
+        {
+          "name": "DJ Taj",
+          "url": "https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk"
+        }
+      ],
+      "duration_ms": 97714,
+      "name": "Bongos (feat. Megan Thee Stallion) - DJ SpinKing & DJ Taj Jersey Club Mix",
+      "url": "https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 121532,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Leave",
-        "url": "https://open.spotify.com/album/6AeZAE9S0GDtkKpxSxsHae"
-      },
-      "artists": [
-        {
-          "name": "The Szns",
-          "url": "https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU"
-        },
-        {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
-        }
-      ],
-      "duration_ms": 174623,
-      "name": "Leave",
-      "url": "https://open.spotify.com/track/7jRVGR6xzoiBkY51gEla0L"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1395,26 +1395,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Self Esteem (feat. NLE Choppa) [DJ Smallz 732 Jersey Club Remix]",
-        "url": "https://open.spotify.com/album/465P41bUBc9FVsLIGWkToC"
+        "name": "Orange Soda (Jersey Club Remix)",
+        "url": "https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O"
       },
       "artists": [
         {
-          "name": "Lambo4oe",
-          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "Sjayy",
+          "url": "https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc"
         }
       ],
-      "duration_ms": 89072,
-      "name": "Self Esteem (feat. NLE Choppa) - DJ Smallz 732 Jersey Club Remix",
-      "url": "https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu"
+      "duration_ms": 111304,
+      "name": "Orange Soda - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ"
     }
   ],
   "unique_name": "Jersey Club Heat",

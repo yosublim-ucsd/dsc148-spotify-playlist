@@ -4,7 +4,7 @@
 
 > you give me shiverssss
 
-61 songs - 3 hr 6 min
+62 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [chokehold](https://open.spotify.com/track/1sTHELUvMf848Hr5b2ekav) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci), [NGE\-THE\-PRODUCER](https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS) | [Nightshot](https://open.spotify.com/album/0L9LtAbap45bpiJsqX05fG) | 4:02 | 2024-02-09 |  |
 | [Cigarette](https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Cigarette](https://open.spotify.com/album/7lVfpqQNDnvujR82cyXFOd) | 4:13 | 2024-02-09 |  |
 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:24 | 2024-02-09 |  |
-| [Divine Intervention](https://open.spotify.com/track/3wFzFIZFNn0gxYkfdOybqY) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/2qXvUtcDzC8UycI1ccMWFw) | 2:58 | 2024-02-09 |  |
+| [Divine Intervention](https://open.spotify.com/track/3wFzFIZFNn0gxYkfdOybqY) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/2qXvUtcDzC8UycI1ccMWFw) | 2:58 | 2024-02-09 | 2024-04-05 |
 | [Divine Intervention](https://open.spotify.com/track/71FvDWdttOeuEdCb63a73s) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/6wlhvzUV68XeLk6fMirGqQ) | 2:58 | 2024-02-09 | 2024-02-22 |
 | [Doing U Better](https://open.spotify.com/track/7trZEJ00tghFf93kvkyb7S) | [Tangaza](https://open.spotify.com/artist/2ud6k0Vv2jiXXg78RuPmaS), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Doing U Better](https://open.spotify.com/album/3OM6ultAF9mWPZZ5QC5Wdh) | 2:51 | 2024-02-09 |  |
 | [Down](https://open.spotify.com/track/2nYGKBTVBTyEU319Oo7lJr) | [Pariah](https://open.spotify.com/artist/23nc1fZrp58KsnzSL9rae4) | [The Tower](https://open.spotify.com/album/1k1wO0MdpT7QdfwP4brWck) | 3:42 | 2024-02-09 |  |
@@ -40,6 +40,7 @@
 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 | 2024-02-09 |  |
 | [Judas](https://open.spotify.com/track/6nEBCXcL5Bh4g2fhZclX5c) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Testament](https://open.spotify.com/album/06klV2isRMZbEofIvOunPM) | 2:08 | 2024-02-09 |  |
 | [KEEPS](https://open.spotify.com/track/6YtJ7qXFloHoIKS0GpFzIh) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [GEMINI](https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul) | 2:56 | 2024-02-09 |  |
+| [Love](https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Medea](https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM) | 2:36 | 2024-04-05 |  |
 | [Love Essential](https://open.spotify.com/track/3QH5Rlesc32hP28jRmdMap) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Providence](https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF) | 4:00 | 2024-02-09 |  |
 | [Love Lust](https://open.spotify.com/track/6AnyjdZUzKczUqOpWCvt30) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX) | [Love Lust](https://open.spotify.com/album/4mJPHa9BSpMEROuL2oZvnP) | 3:14 | 2024-03-29 |  |
 | [Loyalty](https://open.spotify.com/track/1q2jsuLItn7MCCvaPoLOdu) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Angel On The Run](https://open.spotify.com/album/2T574vuC96N9WW0bpIQzcR) | 2:40 | 2024-02-09 |  |

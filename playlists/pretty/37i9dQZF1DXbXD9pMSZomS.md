@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,050 likes - 60 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,126 likes - 60 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 50 | [Tokyo Cruise](https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Tokyo Cruise](https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI) | 3:02 |
 | 51 | [I Knew It](https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B) | [Yambow](https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS), [Latas](https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb) | [I Knew It](https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei) | 3:44 |
 | 52 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
-| 53 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
-| 54 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
+| 53 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
+| 54 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
 | 55 | [Me at the Zoo \- Cody Currie Remix](https://open.spotify.com/track/3uPNfRRceOwIq9lqddFt0z) | [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Àbáse](https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba), [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Fidelity Radio Club \(Toy Tonics Remixes\)](https://open.spotify.com/album/3hxPWuy4C9In99QtySB0tT) | 4:17 |
 | 56 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |
-| 57 | [Restless](https://open.spotify.com/track/5mQjywJBjvmuqWfWwYR0q0) | [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Restless](https://open.spotify.com/album/0k7JEia5VMjsgAMTSsvH61) | 3:34 |
-| 58 | [Everytime \- Girls of the Internet Remix](https://open.spotify.com/track/01VnZjisHsm8XCYmsUYtgZ) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Everytime \(Girls of the Internet Remix\)](https://open.spotify.com/album/00tUn0L1LYxlimWjRsk97P) | 3:41 |
+| 57 | [Everytime \- Girls of the Internet Remix](https://open.spotify.com/track/01VnZjisHsm8XCYmsUYtgZ) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Everytime \(Girls of the Internet Remix\)](https://open.spotify.com/album/00tUn0L1LYxlimWjRsk97P) | 3:41 |
+| 58 | [Restless](https://open.spotify.com/track/5mQjywJBjvmuqWfWwYR0q0) | [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Restless](https://open.spotify.com/album/0k7JEia5VMjsgAMTSsvH61) | 3:34 |
 | 59 | [A Piece of Mind](https://open.spotify.com/track/5Dj11QzfbzBmzlhTXB4zIL) | [Koisu](https://open.spotify.com/artist/4wD2y2dpOWAkrhqFQ2iDY7), [Omaure](https://open.spotify.com/artist/7jzNtnTGzuVQ8yVDTfHa4G) | [Storm in a Teacup](https://open.spotify.com/album/7I0uNZXs5RK3FGDUefK2S0) | 4:53 |
 | 60 | [Kokiri Forest](https://open.spotify.com/track/6vhVeoN1qJNJfdiIJAK4A9) | [Hugo Mari](https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU) | [Mind's Eye](https://open.spotify.com/album/0V7YCgKiVWctiHpxc4Hmv1) | 6:21 |
 
-Snapshot ID: `MCw3NmQxMGZlZGI4NjRmOTgxNWY1MDQ4YjVkMmY5NDQxZDAwMzU1NDJi`
+Snapshot ID: `MCxiZDYwZWQwZDQ2MWQ4ODQwMDA1MjJmYmYyZGRlN2IzMTFmMWRlZDNl`

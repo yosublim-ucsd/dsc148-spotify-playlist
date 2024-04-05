@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: The Story So Far",
-  "num_followers": 455649,
+  "num_followers": 455694,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGQwYjEzNThlNThkMDljNGEzNjVlZDc0ZTc0NzhlNGQ5MjQ3NDY0",
+  "snapshot_id": "MCw4ZjRmYzI2NjM5MTcyNGE2MzRhNmMyYTk5MGU1OTVjZGYyYTM0NTY0",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Dark Magic",
-        "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
+        "name": "sleepwalking",
+        "url": "https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt"
       },
       "artists": [
         {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Pity Party",
-      "url": "https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx"
+      "duration_ms": 120855,
+      "name": "sleepwalking",
+      "url": "https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -767,6 +767,22 @@
       "duration_ms": 196301,
       "name": "GODDAMNITALL",
       "url": "https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Dark Magic",
+        "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -803,22 +819,6 @@
       "duration_ms": 178432,
       "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
       "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "sleepwalking",
-        "url": "https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt"
-      },
-      "artists": [
-        {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
-        }
-      ],
-      "duration_ms": 120855,
-      "name": "sleepwalking",
-      "url": "https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Year Of The Vulture",
-        "url": "https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 148882,
-      "name": "Year Of The Vulture",
-      "url": "https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Hate Myself",
         "url": "https://open.spotify.com/album/5C4FCVws4TsoYL68aCXsIF"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 177804,
       "name": "Hate Myself",
       "url": "https://open.spotify.com/track/20M1LMLuHaqBU1J2dwbEcV"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Year Of The Vulture",
+        "url": "https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 148882,
+      "name": "Year Of The Vulture",
+      "url": "https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "BLINK AND YOU'LL MISS IT//",
-        "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 168975,
-      "name": "MARRY KILL F*CK//",
-      "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Kings of the New Age",
         "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
       },
@@ -991,18 +971,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Friends With Benefits",
-        "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
+        "name": "BLINK AND YOU'LL MISS IT//",
+        "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
       },
       "artists": [
         {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 187322,
-      "name": "Friends With Benefits",
-      "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
+      "duration_ms": 168975,
+      "name": "MARRY KILL F*CK//",
+      "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 182117,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/19bqVQCJzBLiAb0ljuAVMC"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Friends With Benefits",
+        "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 187322,
+      "name": "Friends With Benefits",
+      "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "More Like A Crash",
-        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "More Like A Crash",
-      "url": "https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Lessons That We Swear to Keep",
         "url": "https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Happiness is an Inside Job",
-        "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
+        "name": "More Like A Crash",
+        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
       },
       "artists": [
         {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
         }
       ],
-      "duration_ms": 187460,
-      "name": "Love Abuser (Save Me)",
-      "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
+      "duration_ms": 167880,
+      "name": "More Like A Crash",
+      "url": "https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1131,6 +1115,22 @@
       "duration_ms": 160000,
       "name": "how could you do this to me?",
       "url": "https://open.spotify.com/track/0ujL6lRfnCHyj59l3WQSdj"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Happiness is an Inside Job",
+        "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 187460,
+      "name": "Love Abuser (Save Me)",
+      "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Giant's Despair",
-        "url": "https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz"
-      },
-      "artists": [
-        {
-          "name": "One Step Closer",
-          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Giant's Despair",
-      "url": "https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Dark Paradise",
         "url": "https://open.spotify.com/album/7gEgvr73TN2aBKB3jJ2rdk"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 146360,
       "name": "Dark Paradise",
       "url": "https://open.spotify.com/track/55T0Z7PSxKnPnsSJBaj4Zm"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Giant's Despair",
+        "url": "https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Giant's Despair",
+      "url": "https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Sixteen",
-        "url": "https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 224899,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "BRAIN DEAD",
         "url": "https://open.spotify.com/album/6ucZ6HFBtixqCOcZyQE57t"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 121071,
       "name": "BRAIN DEAD",
       "url": "https://open.spotify.com/track/2X7V0ZwyT6NDn3yBxNz54H"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "duration_ms": 224899,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Liminal",
-        "url": "https://open.spotify.com/album/7Czb25p0hcxTFM50c52fju"
-      },
-      "artists": [
-        {
-          "name": "Belmont",
-          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
-        }
-      ],
-      "duration_ms": 215629,
-      "name": "Liminal",
-      "url": "https://open.spotify.com/track/107Lc84OvADSeNRGsTBCQW"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "You Are Who You Hang Out With",
         "url": "https://open.spotify.com/album/5ti35p8028PSksErKRW415"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 198226,
       "name": "Not Joking",
       "url": "https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/7Czb25p0hcxTFM50c52fju"
+      },
+      "artists": [
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        }
+      ],
+      "duration_ms": 215629,
+      "name": "Liminal",
+      "url": "https://open.spotify.com/track/107Lc84OvADSeNRGsTBCQW"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri"
+      },
+      "artists": [
+        {
+          "name": "John Harvie",
+          "url": "https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h"
+        }
+      ],
+      "duration_ms": 212727,
+      "name": "Figure 8",
+      "url": "https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Misery Made Me",
         "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
       },
@@ -1583,6 +1599,22 @@
       "duration_ms": 222617,
       "name": "I MISS 2003",
       "url": "https://open.spotify.com/track/0KvlvootDUnrXPdZLq57tn"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "I'M IN THE MARKET TO PLEASE NO ONE",
+        "url": "https://open.spotify.com/album/2vxhkK1zHVNKyf9VRdy6xP"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "duration_ms": 160683,
+      "name": "I'M IN THE MARKET TO PLEASE NO ONE",
+      "url": "https://open.spotify.com/track/1kWQO5R5UylzN2myHqyi3r"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1619,38 +1651,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri"
-      },
-      "artists": [
-        {
-          "name": "John Harvie",
-          "url": "https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h"
-        }
-      ],
-      "duration_ms": 212727,
-      "name": "Figure 8",
-      "url": "https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "I'M IN THE MARKET TO PLEASE NO ONE",
-        "url": "https://open.spotify.com/album/2vxhkK1zHVNKyf9VRdy6xP"
-      },
-      "artists": [
-        {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
-        }
-      ],
-      "duration_ms": 160683,
-      "name": "I'M IN THE MARKET TO PLEASE NO ONE",
-      "url": "https://open.spotify.com/track/1kWQO5R5UylzN2myHqyi3r"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Castaway",
         "url": "https://open.spotify.com/album/6zchqtm5emQpxjbX0N5zzw"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 198266,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/29tdoljWp0IVW0cwaNKJGG"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Brag",
+        "url": "https://open.spotify.com/album/45cMuraIAjgFrNYNqP3jnA"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 193250,
+      "name": "Brag",
+      "url": "https://open.spotify.com/track/1ncDsmvCGzO1U1aMWk0ijO"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Hey Ben",
         "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
       },
@@ -1719,6 +1719,22 @@
       "duration_ms": 200165,
       "name": "Hey Ben",
       "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1827,22 +1843,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Brag",
-        "url": "https://open.spotify.com/album/45cMuraIAjgFrNYNqP3jnA"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 193250,
-      "name": "Brag",
-      "url": "https://open.spotify.com/track/1ncDsmvCGzO1U1aMWk0ijO"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Suicide and Sunshine",
         "url": "https://open.spotify.com/album/2UI2oA0YxNgDB2Zbm7HCaH"
       },
@@ -1855,6 +1855,22 @@
       "duration_ms": 205250,
       "name": "What Hurts the Most",
       "url": "https://open.spotify.com/track/1EzFc3EvqEMRSClh4FPmhH"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Retrovision",
+        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 187679,
+      "name": "Are You Impressed?",
+      "url": "https://open.spotify.com/track/46UDlYUFZgpRDzouOGBM1m"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1887,22 +1903,6 @@
       "duration_ms": 180918,
       "name": "Eye Contact",
       "url": "https://open.spotify.com/track/6uMKirWXFJYZIYDjXwLwbn"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Retrovision",
-        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 187679,
-      "name": "Are You Impressed?",
-      "url": "https://open.spotify.com/track/46UDlYUFZgpRDzouOGBM1m"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "SSX Trickmont",
-        "url": "https://open.spotify.com/album/1x3UEx1oKZ17ICrVAuC6Wn"
-      },
-      "artists": [
-        {
-          "name": "Belmont",
-          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
-        }
-      ],
-      "duration_ms": 198566,
-      "name": "SSX Trickmont",
-      "url": "https://open.spotify.com/track/7w13KZUxGmrPACC4s7NFRf"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Foxglove",
         "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
       },
@@ -2091,18 +2075,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "SHE LOVES ME, SHE LOVES ME NOT",
-        "url": "https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr"
+        "name": "SSX Trickmont",
+        "url": "https://open.spotify.com/album/1x3UEx1oKZ17ICrVAuC6Wn"
       },
       "artists": [
         {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
         }
       ],
-      "duration_ms": 182014,
-      "name": "SHE LOVES ME, SHE LOVES ME NOT",
-      "url": "https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI"
+      "duration_ms": 198566,
+      "name": "SSX Trickmont",
+      "url": "https://open.spotify.com/track/7w13KZUxGmrPACC4s7NFRf"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2123,6 +2107,22 @@
       "duration_ms": 191493,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "SHE LOVES ME, SHE LOVES ME NOT",
+        "url": "https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "duration_ms": 182014,
+      "name": "SHE LOVES ME, SHE LOVES ME NOT",
+      "url": "https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "What We Earn",
-        "url": "https://open.spotify.com/album/0LZujz7eGxoqvga2NfSTJT"
-      },
-      "artists": [
-        {
-          "name": "The Early November",
-          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
-        }
-      ],
-      "duration_ms": 209327,
-      "name": "What We Earn",
-      "url": "https://open.spotify.com/track/1coEpnh4Sibjy1dUHNwDOc"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Joan of Hill",
         "url": "https://open.spotify.com/album/4KAgUeKNIsSzOsh0ZOf7Lr"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 253200,
       "name": "Joan of Hill",
       "url": "https://open.spotify.com/track/0SgfCKFbTlNj1bjQglw00K"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "What We Earn",
+        "url": "https://open.spotify.com/album/0LZujz7eGxoqvga2NfSTJT"
+      },
+      "artists": [
+        {
+          "name": "The Early November",
+          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
+        }
+      ],
+      "duration_ms": 209327,
+      "name": "What We Earn",
+      "url": "https://open.spotify.com/track/1coEpnh4Sibjy1dUHNwDOc"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Versions Of You",
-        "url": "https://open.spotify.com/album/3PgfExqEE8aHKGRilrmrAS"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 193986,
-      "name": "Versions Of You",
-      "url": "https://open.spotify.com/track/5552mB1SfLoZPP999vzyF4"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "How To Disappear",
         "url": "https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 236181,
       "name": "For Katie",
       "url": "https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Versions Of You",
+        "url": "https://open.spotify.com/album/3PgfExqEE8aHKGRilrmrAS"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 193986,
+      "name": "Versions Of You",
+      "url": "https://open.spotify.com/track/5552mB1SfLoZPP999vzyF4"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2387,18 +2387,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "In Loving Memory",
-        "url": "https://open.spotify.com/album/1GgdhdPOZRfHJkuPxC6xNb"
+        "name": "better than this",
+        "url": "https://open.spotify.com/album/2VaKXOJ6RcIHwsYyWF6nlK"
       },
       "artists": [
         {
-          "name": "Ben Quad",
-          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
         }
       ],
-      "duration_ms": 218979,
-      "name": "In Loving Memory",
-      "url": "https://open.spotify.com/track/45jdfAmN8eVIvcGJJQTQql"
+      "duration_ms": 178165,
+      "name": "better than this",
+      "url": "https://open.spotify.com/track/53HsQKvda5AREIgqeCujU9"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2435,6 +2435,22 @@
       "duration_ms": 101650,
       "name": "COLD BEER",
       "url": "https://open.spotify.com/track/5OmxeyU1mffYWsf9kjEaic"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "In Loving Memory",
+        "url": "https://open.spotify.com/album/1GgdhdPOZRfHJkuPxC6xNb"
+      },
+      "artists": [
+        {
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
+        }
+      ],
+      "duration_ms": 218979,
+      "name": "In Loving Memory",
+      "url": "https://open.spotify.com/track/45jdfAmN8eVIvcGJJQTQql"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2479,18 +2495,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Hand Signals",
-        "url": "https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX"
+        "name": "Back To Hell",
+        "url": "https://open.spotify.com/album/2jglSCN3LVwnx99Ph8vByU"
       },
       "artists": [
         {
-          "name": "Ben Quad",
-          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
+          "name": "glimmers",
+          "url": "https://open.spotify.com/artist/40vUY0Z0SDZ2RNEcLK5yGy"
         }
       ],
-      "duration_ms": 161416,
-      "name": "Would You Tell Picasso To Sell His Guitars?",
-      "url": "https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT"
+      "duration_ms": 218727,
+      "name": "Back To Hell",
+      "url": "https://open.spotify.com/track/1iC1Mt1az29yQZPAirFgxi"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2539,22 +2555,6 @@
       "duration_ms": 191080,
       "name": "Cardinals",
       "url": "https://open.spotify.com/track/723vVxxNycnmucEWfpvarT"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "better than this",
-        "url": "https://open.spotify.com/album/2VaKXOJ6RcIHwsYyWF6nlK"
-      },
-      "artists": [
-        {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
-        }
-      ],
-      "duration_ms": 178165,
-      "name": "better than this",
-      "url": "https://open.spotify.com/track/53HsQKvda5AREIgqeCujU9"
     }
   ],
   "unique_name": "The Scene",

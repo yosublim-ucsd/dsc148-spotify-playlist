@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 805312,
+  "2024-04-05": 805419,
   "date_first_scraped": "2019-09-29",
   "description": "Smooth joints. Cover: Khruangbin",
   "name": "BUTTER",
@@ -1234,6 +1234,32 @@
     },
     {
       "album": {
+        "name": "Exotic Birds of Prey",
+        "url": "https://open.spotify.com/album/3PqRZV34l1ePPXXAHYOQYi"
+      },
+      "artists": [
+        {
+          "name": "Shabazz Palaces",
+          "url": "https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m"
+        },
+        {
+          "name": "Stas THEE Boss",
+          "url": "https://open.spotify.com/artist/569JHM0BuZlot1yXODxhUV"
+        },
+        {
+          "name": "Irene Barber",
+          "url": "https://open.spotify.com/artist/4SMPHImE8ShQJ55mJ01LoW"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181604,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/1RlwflrljoxcNGoRPjeeUT"
+    },
+    {
+      "album": {
         "name": "Angela",
         "url": "https://open.spotify.com/album/1XyGvGvrTfxboCatcdf3tA"
       },
@@ -1253,7 +1279,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 181604,
       "name": "Angela",
       "url": "https://open.spotify.com/track/36TkDjlOyExWGWpeThOgsx"

@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-505 songs - 1 day 9 hr 52 min
+506 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Apricity \(feat\. jules\)](https://open.spotify.com/track/0WgPeBuFxnyiFiPt5gdsEL) | [Morgan Hislop](https://open.spotify.com/artist/1M1AEVIsxhvm4lAkuC2LyC), [jules](https://open.spotify.com/artist/38lbchSS1uIomHvHUNtJp9) | [Apricity \(feat\. jules\)](https://open.spotify.com/album/3wjEG5ukwncxnrMLtrBjRU) | 3:36 | 2022-05-30 | 2023-04-12 |
 | [Ascension](https://open.spotify.com/track/5zXkATrsSKmEWgutgNaJe8) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Ascension](https://open.spotify.com/album/3hleDhTxP5TllrUOUAFlzD) | 3:21 | 2022-01-14 | 2022-04-21 |
 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 | 2022-07-20 | 2023-10-06 |
-| [Aura](https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Dusk](https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5) | 3:49 | 2022-04-06 |  |
+| [Aura](https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Dusk](https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5) | 3:49 | 2022-04-06 | 2024-04-05 |
 | [Aye Aye Mi Mi \- 12" Mix](https://open.spotify.com/track/0Ajw8UO0iXYFylSrXzthbw) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [Aye Aye Mi Mi](https://open.spotify.com/album/6lmF5Tmgyr9pyJFDGXK6v3) | 5:34 | 2022-04-15 | 2022-04-20 |
 | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/6WQ4c9jQ6MWXav30bqlGir) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\) / Move To The](https://open.spotify.com/album/3XMyH5bRALw62b6z6ufASR) | 5:57 | 2022-08-15 | 2022-08-25 |
 | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 5:58 | 2022-08-15 | 2023-10-06 |
@@ -176,6 +176,7 @@
 | [Gabriel \- Live Garage Mix](https://open.spotify.com/track/3cdy1jK0wLr6R2nAo0oIXy) | [Roy Davis Jr.](https://open.spotify.com/artist/3O81ptrvwO8etw6HwABJs8), [Preven Everett](https://open.spotify.com/artist/1qldAtE2h2zXO0k2Oc0TaL) | [Late Night Tales: Django Django](https://open.spotify.com/album/6bkHnwgH22RQlsMke4UMqD) | 7:26 | 2022-04-06 | 2022-04-08 |
 | [Gbo](https://open.spotify.com/track/6qZKwJyUyzOTQj7R92yWMB) | [Lord B](https://open.spotify.com/artist/7ulAkR52MSPFE2LZOJWhMV) | [State of Mind](https://open.spotify.com/album/0m9PQyjYCYdj6vVWvVc6CO) | 2:30 | 2022-04-06 | 2022-04-13 |
 | [Get Close](https://open.spotify.com/track/1OmTOm3sl7YAe8fJSVCtrK) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Get Close](https://open.spotify.com/album/16dFWwANoVShEiO04HyZRG) | 3:37 | 2022-08-01 | 2023-01-17 |
+| [Ghost](https://open.spotify.com/track/2x11PsxYwanGMVjfXtmoQa) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Ghost](https://open.spotify.com/album/20B86iJjjECtzJ77XlfHsn) | 3:15 | 2024-04-04 |  |
 | [Giodisco](https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Giodisco](https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD) | 2:43 | 2023-09-01 | 2023-11-22 |
 | [Girl Like You](https://open.spotify.com/track/5ZsuhbdQSRS4wqggUrCz9e) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Boo Boo](https://open.spotify.com/album/5AvXDmY5RxKlCgdWFNaS72) | 3:43 | 2022-04-06 | 2022-04-18 |
 | [Give Me Night](https://open.spotify.com/track/4fF5HxauEt54IYSKW1rEMt) | [BCBC](https://open.spotify.com/artist/0zz7GJ7SZyi4XV3TJsg3YN), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve) | [Give Me Night](https://open.spotify.com/album/4OM6g573k9ww2iJlRN7Thn) | 3:12 | 2022-04-06 | 2022-04-16 |

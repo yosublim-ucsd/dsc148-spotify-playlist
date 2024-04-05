@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-293 songs - 18 hr 42 min
+294 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,8 @@
 | [People, I've been sad](https://open.spotify.com/track/5stdNNY7SUv12p5sLkaBlL) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/3uF0lelesKigBc6H9NGzDq) | 4:20 | 2021-04-02 | 2022-04-20 |
 | [Phoenix \- CID Remix](https://open.spotify.com/track/2tUzMsZD3IGZjY60NkzGU5) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Phoenix \(CID Remix\)](https://open.spotify.com/album/4YrVLDGxygQuWlTtBIxbG5) | 3:09 | 2021-08-27 | 2022-07-29 |
 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 | 2021-04-02 | 2024-03-23 |
-| [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 | 2024-02-16 |  |
+| [Pictures Of You](https://open.spotify.com/track/0QQBgAXdLm0hfk9aBJe97f) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 2:55 | 2024-03-29 |  |
+| [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 | 2024-02-16 | 2024-04-05 |
 | [Pure](https://open.spotify.com/track/6OXnL79ZUpY7zsp01yU0q4) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Anjunadeep Explorations 13](https://open.spotify.com/album/6aqRlhEmzmujvXb7EF4pd4) | 3:22 | 2021-09-24 | 2022-07-25 |
 | [Radical \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/0ykM9VPnzrTwo6DkFpcll9) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Oddyssey](https://open.spotify.com/album/3e3Y0xzqF6CGHFeGolUVsE) | 7:12 | 2021-04-02 | 2022-07-29 |
 | [Rain On Me \- Purple Disco Machine Remix \- Edit](https://open.spotify.com/track/0dj5O3Nc6ONKWNd8mErvND) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Rain On Me \(Purple Disco Machine Remix\)](https://open.spotify.com/album/42hbqXgvZ1dI3gQ1ZDnHA5) | 3:58 | 2021-04-02 | 2023-08-19 |

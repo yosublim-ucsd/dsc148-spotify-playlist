@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Ana Macho
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,346 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,355 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 25 | [\(Escapándome\) de mí](https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Nacarile](https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i) | 2:54 |
 | 26 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 |
 | 27 | [Café](https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8) | [Duo Deleite](https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO), [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [Enyel C](https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G), [Balbi](https://open.spotify.com/artist/2Dm9fZxXl9qFdnLWpyRSPA) | [Duo Deleite](https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY) | 3:07 |
-| 28 | [Hasta el final](https://open.spotify.com/track/53sjsn7vEChKgNiDXOXoQF) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Hasta el final](https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd) | 3:28 |
-| 29 | [La Estrella del Show](https://open.spotify.com/track/6BdwWjSICtNMrNx9npEDuX) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [La Estrella del Show](https://open.spotify.com/album/7DDXnFfS9GhbzewYgRAkKf) | 2:57 |
+| 28 | [La Estrella del Show](https://open.spotify.com/track/6BdwWjSICtNMrNx9npEDuX) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [La Estrella del Show](https://open.spotify.com/album/7DDXnFfS9GhbzewYgRAkKf) | 2:57 |
+| 29 | [Hasta el final](https://open.spotify.com/track/53sjsn7vEChKgNiDXOXoQF) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Hasta el final](https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd) | 3:28 |
 | 30 | [Tu Mundo](https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Tu Mundo](https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6) | 3:54 |
 | 31 | [Agua](https://open.spotify.com/track/2hzyzFA7VZrtvFaWIYxynR) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [De Vuelta a Casa](https://open.spotify.com/album/5cWQZRUiVsVMK35FPJnNN0) | 3:58 |
 | 32 | [Días Negros](https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ) | [Chango Menas](https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9) | [Días Negros](https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 49 | [Los Perros Van Al Cielo](https://open.spotify.com/track/4UlNyXwdUC2r5YSdOYB0Bt) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Los Perros Van Al Cielo](https://open.spotify.com/album/78zM7Jt21cfSI2s95Me58N) | 3:15 |
 | 50 | [Rockstar](https://open.spotify.com/track/6ieljkNQsuSVof3XWD8box) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Rockstar](https://open.spotify.com/album/0u1cF6vEOT9XMoJGZJJDWw) | 3:20 |
 
-Snapshot ID: `MCw5NmU2ODY2YjdjNDMwYjM3MTU4MTgyYzdmZjJiZmFjZDY3MzEyMTQ4`
+Snapshot ID: `MCxmMDA0MTEzZmE1MWM5MTY2MDY2NmY5N2QwZDZiZjg0NTU0MDM0MjUx`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Gerardo Coronel en portada.",
-  "num_followers": 1223381,
+  "num_followers": 1223505,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTY0YTFlZjdmOTk5N2YxNzJjN2Y3YzFjMTNjMWNkMTJkNzI4ZWQ3",
+  "snapshot_id": "MCxkZTZmM2Y0NjM0YjAwY2Y2ZDVjZTI1OGE1MTgxZTQ5NzhiMzUzNzM1",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -331,22 +331,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
-        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
+        "name": "Tu Perfume",
+        "url": "https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 240456,
-      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+      "duration_ms": 174000,
+      "name": "Tu Perfume",
+      "url": "https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -403,18 +399,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Tu Perfume",
-        "url": "https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM"
+        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
+        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Tu Perfume",
-      "url": "https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q"
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 144640,
       "name": "Me Toc\u00f3 Morir",
       "url": "https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122096,
-      "name": "Como Quieras Quiero",
-      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Partido En Dos",
         "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 226003,
       "name": "Partido En Dos",
       "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Sigan Hablando",
-        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 267500,
-      "name": "Se Logr\u00f3",
-      "url": "https://open.spotify.com/track/2Uw0BLEO96u70KQSWOc0XZ"
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Solitario (En Vivo)",
         "url": "https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 208966,
       "name": "Solitario - En Vivo",
       "url": "https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Se Logr\u00f3",
+      "url": "https://open.spotify.com/track/2Uw0BLEO96u70KQSWOc0XZ"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Chingas A Tu Madre",
-        "url": "https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 205125,
-      "name": "Chingas A Tu Madre",
-      "url": "https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "La Pelinegra",
         "url": "https://open.spotify.com/album/2YwIrnPUIEDYtFgp99HNNO"
       },
@@ -787,6 +771,38 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 161900,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/35HWGdRlsTQdRQbdfpVcWm"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Chingas A Tu Madre",
+        "url": "https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 205125,
+      "name": "Chingas A Tu Madre",
+      "url": "https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "El Patrocinador",
         "url": "https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 206960,
       "name": "El Patrocinador",
       "url": "https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Hablando Claro",
-        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 161900,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/35HWGdRlsTQdRQbdfpVcWm"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Aqu\u00ed Casual",
-        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Bonito y Bello",
-      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "141",
         "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 175102,
       "name": "141",
       "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Aqu\u00ed Casual",
+        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Bonito y Bello",
+      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1011,6 +1011,26 @@
       "duration_ms": 167786,
       "name": "Soy un Desmadre",
       "url": "https://open.spotify.com/track/2TD8LyMFCqStcDdGbEt0kP"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Solo Que Lo Dudes",
+        "url": "https://open.spotify.com/album/0sPBKXvkwTzVTqLotS22OP"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 159397,
+      "name": "Solo Que Lo Dudes",
+      "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1103,22 +1123,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Solo Que Lo Dudes",
-        "url": "https://open.spotify.com/album/0sPBKXvkwTzVTqLotS22OP"
+        "name": "Para Ti Exclusivo (En Vivo Desde Arandas Jalisco)",
+        "url": "https://open.spotify.com/album/4xZFqokyvpfFKHkHlSeePO"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 159397,
-      "name": "Solo Que Lo Dudes",
-      "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
+      "duration_ms": 196360,
+      "name": "De Ti Exclusivo",
+      "url": "https://open.spotify.com/track/404MXA5pRTh93BrxPeGrQp"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Para Ti Exclusivo (En Vivo Desde Arandas Jalisco)",
-        "url": "https://open.spotify.com/album/4xZFqokyvpfFKHkHlSeePO"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "De Ti Exclusivo",
-      "url": "https://open.spotify.com/track/404MXA5pRTh93BrxPeGrQp"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Ya No Estoy Solo",
         "url": "https://open.spotify.com/album/2tPJAEl2nKqaJEd8Kgzhji"
       },
@@ -1171,30 +1171,6 @@
       "duration_ms": 178280,
       "name": "Ya No Estoy Solo",
       "url": "https://open.spotify.com/track/4B4G7qd9HLGGbXc4odeuE6"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Hola Coraz\u00f3n (En Vivo)",
-        "url": "https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "Wil Caro",
-          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
-        }
-      ],
-      "duration_ms": 185514,
-      "name": "Hola Coraz\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1231,6 +1207,30 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Hola Coraz\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Wil Caro",
+          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
+        }
+      ],
+      "duration_ms": 185514,
+      "name": "Hola Coraz\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Ajeno",
         "url": "https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 180106,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "12 Rifles",
-        "url": "https://open.spotify.com/album/1KqUq2OTqTIlxAdXhz0Ypn"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "12 Rifles",
-      "url": "https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "\u00bfQu\u00e9 Se Siente?",
-        "url": "https://open.spotify.com/album/3x4NKPyTMpjYDZqHAJEuY9"
+        "name": "12 Rifles",
+        "url": "https://open.spotify.com/album/1KqUq2OTqTIlxAdXhz0Ypn"
       },
       "artists": [
         {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 176306,
-      "name": "\u00bfQu\u00e9 Se Siente?",
-      "url": "https://open.spotify.com/track/4160uHuO33PVowET0ZZfON"
+      "duration_ms": 173500,
+      "name": "12 Rifles",
+      "url": "https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "\u00bfQu\u00e9 Se Siente?",
+        "url": "https://open.spotify.com/album/3x4NKPyTMpjYDZqHAJEuY9"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 176306,
+      "name": "\u00bfQu\u00e9 Se Siente?",
+      "url": "https://open.spotify.com/track/4160uHuO33PVowET0ZZfON"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Me Rindo",
         "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
       },
@@ -1327,22 +1327,6 @@
       "duration_ms": 220653,
       "name": "Me Rindo",
       "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Vamos A Vernos",
-        "url": "https://open.spotify.com/album/015jWFyaGM4BLxtLlI4hjZ"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 217186,
-      "name": "Vamos A Vernos",
-      "url": "https://open.spotify.com/track/397f40lelcxJlZkrwNNV3w"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1363,22 +1347,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Tiempo Fuera",
-        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Tiempo Fuera",
-      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
         "url": "https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW"
       },
@@ -1391,6 +1359,38 @@
       "duration_ms": 165613,
       "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
       "url": "https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Vamos A Vernos",
+        "url": "https://open.spotify.com/album/015jWFyaGM4BLxtLlI4hjZ"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 217186,
+      "name": "Vamos A Vernos",
+      "url": "https://open.spotify.com/track/397f40lelcxJlZkrwNNV3w"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Tiempo Fuera",
+        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Tiempo Fuera",
+      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Te Esfumar\u00e1s",
-        "url": "https://open.spotify.com/album/3mmcWVrOrsAKfcgzJ95K8v"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Te Esfumar\u00e1s",
-      "url": "https://open.spotify.com/track/1hLQwcyUVVUlIvsGuCoTmI"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Brindo (Remix)",
         "url": "https://open.spotify.com/album/0O3qFMWiXTVzZcSsoaerhJ"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 182080,
       "name": "Brindo - Remix",
       "url": "https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Te Esfumar\u00e1s",
+        "url": "https://open.spotify.com/album/3mmcWVrOrsAKfcgzJ95K8v"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Te Esfumar\u00e1s",
+      "url": "https://open.spotify.com/track/1hLQwcyUVVUlIvsGuCoTmI"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2159,8 +2159,8 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Estuve",
-        "url": "https://open.spotify.com/album/3QFuxWR9lWZ4H7NlT2yQny"
+        "name": "El Viejo Joven",
+        "url": "https://open.spotify.com/album/25a7zGKPGfRoq2qxFpTGaq"
       },
       "artists": [
         {
@@ -2168,9 +2168,9 @@
           "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 212427,
-      "name": "Estuve",
-      "url": "https://open.spotify.com/track/3AzYL6aGCfkbtoGvP9Vwbs"
+      "duration_ms": 157618,
+      "name": "El Viejo Joven",
+      "url": "https://open.spotify.com/track/1sf4ZX186z4T7NsBXXkD7e"
     },
     {
       "added_at": "2024-03-22 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 147876,
+  "num_followers": 147900,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjZhM2ExZGI0MjQxMGEzYzdmMGVmNDljM2M3NGI5OTIyZTFkYTE1",
+  "snapshot_id": "MCw1MjBiOTUwODNjYjVjZGViODZhNDQyYWQ2ZGU2ZGY3MGY1OTJmZDU2",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 244642,
+      "name": "Ah\u00ed Donde Me Ven",
+      "url": "https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 177087,
       "name": "Vete Yendo",
       "url": "https://open.spotify.com/track/0l2mXLYFLJiz329rxNlOUn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 244642,
-      "name": "Ah\u00ed Donde Me Ven",
-      "url": "https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL"
     },
     {
       "added_at": null,
@@ -251,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inv\u00edtame A Un Caf\u00e9",
-        "url": "https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 187390,
-      "name": "Inv\u00edtame A Un Caf\u00e9",
-      "url": "https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Agon\u00eda (Remix)",
         "url": "https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 188206,
       "name": "Qu\u00e9 Agon\u00eda - Remix",
       "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inv\u00edtame A Un Caf\u00e9",
+        "url": "https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 187390,
+      "name": "Inv\u00edtame A Un Caf\u00e9",
+      "url": "https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d"
     },
     {
       "added_at": null,
@@ -530,15 +530,11 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Trio Los Panchos",
-          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 162480,
-      "name": "Toda Una Vida",
-      "url": "https://open.spotify.com/track/1zHkID56I9lGu9Sj6izj9Q"
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
     },
     {
       "added_at": null,
@@ -598,11 +594,15 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+      "duration_ms": 162480,
+      "name": "Toda Una Vida",
+      "url": "https://open.spotify.com/track/1zHkID56I9lGu9Sj6izj9Q"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los D\u00fao 3",
-        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Nada M\u00e1s Dec\u00eddete",
-      "url": "https://open.spotify.com/track/5kO0DN979g7zybB5jqEOiI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde la Azotea - Fase II",
         "url": "https://open.spotify.com/album/5xX00Vp96LYOxBlBnzt4bz"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 242429,
       "name": "Tu Sangre en Mi Cuerpo",
       "url": "https://open.spotify.com/track/20IsHVN45KlqVrXbm9Z3oO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los D\u00fao 3",
+        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Nada M\u00e1s Dec\u00eddete",
+      "url": "https://open.spotify.com/track/5kO0DN979g7zybB5jqEOiI"
     },
     {
       "added_at": null,

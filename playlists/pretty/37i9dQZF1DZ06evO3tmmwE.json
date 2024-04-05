@@ -1,12 +1,12 @@
 {
   "description": "This is Bo Bundy. The essential tracks, all in one playlist.",
-  "num_followers": 1080,
+  "num_followers": 1084,
   "original_name": "This Is Bo Bundy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGY5ZDMzZDdkNzgwY2E1ZTZhZGNkYWJmZTIxMzQ4YjFmMmQxOTE3",
+  "snapshot_id": "MCxiZWE2OGVlNTk2NjI4YzlmM2YyZTY3ZmMwZWYxNmNiMTdlOTk0NDNi",
   "tracks": [
     {
       "added_at": null,
@@ -290,11 +290,19 @@
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Grupo Zaaz",
+          "url": "https://open.spotify.com/artist/3reo0BlmIcT0KnUfkolHuw"
+        },
+        {
+          "name": "Tropical Panam\u00e1",
+          "url": "https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb"
         }
       ],
-      "duration_ms": 151524,
-      "name": "Vida Lujosa",
-      "url": "https://open.spotify.com/track/4i6R1XRaZeoq3TwT6zqTdB"
+      "duration_ms": 264435,
+      "name": "Que Caramba",
+      "url": "https://open.spotify.com/track/7iPskbMmivTkYKGTkM4Y3m"
     },
     {
       "added_at": null,
@@ -362,19 +370,11 @@
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Grupo Zaaz",
-          "url": "https://open.spotify.com/artist/3reo0BlmIcT0KnUfkolHuw"
-        },
-        {
-          "name": "Tropical Panam\u00e1",
-          "url": "https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb"
         }
       ],
-      "duration_ms": 264435,
-      "name": "Que Caramba",
-      "url": "https://open.spotify.com/track/7iPskbMmivTkYKGTkM4Y3m"
+      "duration_ms": 151524,
+      "name": "Vida Lujosa",
+      "url": "https://open.spotify.com/track/4i6R1XRaZeoq3TwT6zqTdB"
     },
     {
       "added_at": null,
@@ -459,18 +459,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nino de Oro",
-        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
+        "name": "Alto Calibre",
+        "url": "https://open.spotify.com/album/1dvxCTaYYJme526U0WEAek"
       },
       "artists": [
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Young Tapz",
+          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
+        },
+        {
+          "name": "Tapz Money",
+          "url": "https://open.spotify.com/artist/4cdMZM15Wtqv9u9Ih4DXTt"
         }
       ],
-      "duration_ms": 109844,
-      "name": "RVD",
-      "url": "https://open.spotify.com/track/011I1gMWFeHO1dMaWamVdr"
+      "duration_ms": 160052,
+      "name": "Alto Calibre",
+      "url": "https://open.spotify.com/track/0kKsJ0Pws7KiHQbFMRxGvS"
     },
     {
       "added_at": null,
@@ -495,26 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alto Calibre",
-        "url": "https://open.spotify.com/album/1dvxCTaYYJme526U0WEAek"
+        "name": "Nino de Oro",
+        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
       },
       "artists": [
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Young Tapz",
-          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
-        },
-        {
-          "name": "Tapz Money",
-          "url": "https://open.spotify.com/artist/4cdMZM15Wtqv9u9Ih4DXTt"
         }
       ],
-      "duration_ms": 160052,
-      "name": "Alto Calibre",
-      "url": "https://open.spotify.com/track/0kKsJ0Pws7KiHQbFMRxGvS"
+      "duration_ms": 109844,
+      "name": "RVD",
+      "url": "https://open.spotify.com/track/011I1gMWFeHO1dMaWamVdr"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godspeed",
-        "url": "https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 155928,
-      "name": "Cassius Clay",
-      "url": "https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cocaine Cowboy",
         "url": "https://open.spotify.com/album/6zOUWwPcy8nWbleaxaBvfe"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 144662,
       "name": "Cocaine Cowboy",
       "url": "https://open.spotify.com/track/2XU1fq06U9s0PdJ7UXbMX4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Godspeed",
+        "url": "https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 155928,
+      "name": "Cassius Clay",
+      "url": "https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alpaca Hearts",
-        "url": "https://open.spotify.com/album/4RPQVDsfQ3Cvafe8WmuoJt"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 198164,
-      "name": "Alpaca Hearts",
-      "url": "https://open.spotify.com/track/384v4uRNZBhcbW5WLSrzJq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 261407,
       "name": "Pa Mi Gente",
       "url": "https://open.spotify.com/track/1hYpFYjueQ9Drcg5VTyEQD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alpaca Hearts",
+        "url": "https://open.spotify.com/album/4RPQVDsfQ3Cvafe8WmuoJt"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 198164,
+      "name": "Alpaca Hearts",
+      "url": "https://open.spotify.com/track/384v4uRNZBhcbW5WLSrzJq"
     },
     {
       "added_at": null,

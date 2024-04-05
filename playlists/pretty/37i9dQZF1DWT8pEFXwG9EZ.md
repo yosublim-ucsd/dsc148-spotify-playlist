@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,469 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,568 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 47 | [The Lady is a Tramp](https://open.spotify.com/track/3ktv2iqF2G7r2RNUyJK7jj) | [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [Cafe Society \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A) | 3:49 |
 | 48 | [My Funny Valentine \- Vocal](https://open.spotify.com/track/3cUGcOZAPn4JdEkK8p8txk) | [Matt Damon](https://open.spotify.com/artist/6V4svndaHpUa5Go8Z8AOUd) | [The Talented Mr\. Ripley \- Music from The Motion Picture](https://open.spotify.com/album/5rUvlKJqMKAUCeCFeZzRuU) | 2:33 |
 | 49 | [Walk To Work](https://open.spotify.com/track/1dYcAIkICjPy2iboLdVNWM) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 3:28 |
-| 50 | [I Love Penny Sue](https://open.spotify.com/track/4SBHuF59wYA32i3O1Yfv1L) | [Daniel May](https://open.spotify.com/artist/1v1sbhRjpHfjqdBpSiwCvc) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 3:17 |
-| 51 | [Last Tango in Paris \- Ultimo Tango a Parigi \(Titles\)](https://open.spotify.com/track/2dRjEirtMproK2r4gzda1j) | [Gato Barbieri](https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm) | [Last Tango in Paris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0WzAqVNNP4LNU5540k6kCR) | 3:24 |
+| 50 | [Last Tango in Paris \- Ultimo Tango a Parigi \(Titles\)](https://open.spotify.com/track/2dRjEirtMproK2r4gzda1j) | [Gato Barbieri](https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm) | [Last Tango in Paris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0WzAqVNNP4LNU5540k6kCR) | 3:24 |
+| 51 | [I Love Penny Sue](https://open.spotify.com/track/4SBHuF59wYA32i3O1Yfv1L) | [Daniel May](https://open.spotify.com/artist/1v1sbhRjpHfjqdBpSiwCvc) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 3:17 |
 | 52 | [Thank God for the Rain](https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [Taxi Driver](https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP) | 1:41 |
 | 53 | [The Thrombey Family Theme](https://open.spotify.com/track/0Enx3TsvhCkP3Ip1XU6PoO) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 1:47 |
 | 54 | [Charade](https://open.spotify.com/track/5Jl8bMn0bt7rG1ugDZUvqA) | [Si Zentner](https://open.spotify.com/artist/4ktfAENbpoxfR7STEtKBM6) | [The Big Kahuna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0a9i86wh0eV8cj0IlfW4hf) | 2:38 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 68 | [That's Amore](https://open.spotify.com/track/4oAUu2DDEAgDIWdoelMx5I) | [Harry Warren](https://open.spotify.com/artist/6vOhSMuCQ8BXVkLJOamR8Z), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Moonstruck \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN) | 3:06 |
 | 69 | [Damascus Thump](https://open.spotify.com/track/5twNVE0ofszyWolOWwjRSN) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [Babylon \(Music from the Motion Picture\)](https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe) | 2:10 |
 | 70 | [Room "26"](https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3) | [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1) | [Bullitt \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO) | 2:23 |
-| 71 | [Linus And Lucy](https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Peanuts Greatest Hits \(Music From The TV Specials\)](https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U) | 3:06 |
-| 72 | [Flirtibird](https://open.spotify.com/track/3AGAKhMTukNdbPz9ADELxT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Anatomy of a Murder](https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK) | 2:10 |
+| 71 | [Flirtibird](https://open.spotify.com/track/3AGAKhMTukNdbPz9ADELxT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Anatomy of a Murder](https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK) | 2:10 |
+| 72 | [Linus And Lucy](https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Peanuts Greatest Hits \(Music From The TV Specials\)](https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U) | 3:06 |
 | 73 | [Alfie's Theme \- From "Alfie" Score](https://open.spotify.com/track/0LITSYvjbQzgcumESz6Z7l) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Alfie](https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5) | 9:44 |
 | 74 | [The Bed](https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Blow\-Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs) | 2:36 |
 | 75 | [Blue Skies](https://open.spotify.com/track/67cLEzjOg4zkiCzDrT5IIW) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR), [Bruce Fowler](https://open.spotify.com/artist/5UIYVmIt5ktD8hfTGgvwQp) | [The Good Shepherd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zUhkvbroh4veWDGqWA34C) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 99 | [The Feeling of Love, Pt\. 1](https://open.spotify.com/track/41ODRLJntkgtZj4HfRyevz) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Les Liaisons Dangereuses](https://open.spotify.com/album/5rzEgTKWMEBrVdkgFGfJMb) | 7:15 |
 | 100 | [We Have all The Time in the World](https://open.spotify.com/track/4aVz0wlJLCsU92yN5vytyV) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/5bg0svB3kklUxFziXta8it) | 3:12 |
 
-Snapshot ID: `MCw5NjAwZDg2NTUyM2RiOWJhYTc5ZGIzZmQ5ZDcwZGU2ODYzODhiMzY1`
+Snapshot ID: `MCxiM2ZlYzA5OTBlMGQxZDM1M2JiMjYwYzNhNmZkOGQxNjQyMGRhNzdi`

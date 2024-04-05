@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover:  erdocia ",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover:  \u6771\u6d8c\u4e8b\u767c",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -2665,6 +2665,24 @@
     },
     {
       "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/5RGNYkWk40vwsczytNOU5a"
+      },
+      "artists": [
+        {
+          "name": "Daniel Toh",
+          "url": "https://open.spotify.com/artist/2j04ll9T2gPPbI5mxl867U"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236076,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/7nkzGVZGaGFNUZ2zWzoNfn"
+    },
+    {
+      "album": {
         "name": "Escaping Light",
         "url": "https://open.spotify.com/album/7aoZYf0B0tnlmLpWvy2oqM"
       },
@@ -2828,6 +2846,32 @@
       "duration_ms": 133953,
       "name": "Everything's Fine",
       "url": "https://open.spotify.com/track/4SKUShc0eAvOZoqqbgRAxn"
+    },
+    {
+      "album": {
+        "name": "EXCELSIOR",
+        "url": "https://open.spotify.com/album/2owbj3SJIxqgEEfzsNteUG"
+      },
+      "artists": [
+        {
+          "name": "Lai Kei",
+          "url": "https://open.spotify.com/artist/35T5iqhntCprz61MWcrgiB"
+        },
+        {
+          "name": "Potlim",
+          "url": "https://open.spotify.com/artist/5uYT7MuoKJtXYjrjOfHTCm"
+        },
+        {
+          "name": "JohnGA",
+          "url": "https://open.spotify.com/artist/5X3VLbRAEIHOWkitFaQnSY"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "EXCELSIOR - Dirty",
+      "url": "https://open.spotify.com/track/19r0w52BDirZTpUNLPo4Ki"
     },
     {
       "album": {
@@ -10999,6 +11043,32 @@
     },
     {
       "album": {
+        "name": "waiting for you",
+        "url": "https://open.spotify.com/album/3zCjzqYdYy9gjZRZ6JiLQQ"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Kelly",
+          "url": "https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr"
+        },
+        {
+          "name": "Lushroom",
+          "url": "https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu"
+        },
+        {
+          "name": "sanjay.",
+          "url": "https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168181,
+      "name": "waiting for you",
+      "url": "https://open.spotify.com/track/6SQlsmneR2rMN11QyfwnQh"
+    },
+    {
+      "album": {
         "name": "Walking Song",
         "url": "https://open.spotify.com/album/3z8jbCF2yjyd2TDBD4BaBj"
       },
@@ -16762,6 +16832,24 @@
       "duration_ms": 196635,
       "name": "\u793e\u4ea4\u969c\u7919\u8cfd",
       "url": "https://open.spotify.com/track/0GDzj9jEbtnpzqURgfiIgd"
+    },
+    {
+      "album": {
+        "name": "\u793e\u4ea4\u96fb\u6c60",
+        "url": "https://open.spotify.com/album/1TzsCookR9VQqc1z914VKe"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u6d8c\u4e8b\u767c",
+          "url": "https://open.spotify.com/artist/6ClTWrZnl5uWikZC82fhAT"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196944,
+      "name": "\u793e\u4ea4\u96fb\u6c60",
+      "url": "https://open.spotify.com/track/1xW4nH39JrHAFEZHjoJjkn"
     },
     {
       "album": {

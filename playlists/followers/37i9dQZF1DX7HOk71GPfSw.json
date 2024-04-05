@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 447938,
+  "2024-04-05": 448514,
   "date_first_scraped": "2020-10-13",
   "description": "she did her hyper-homework",
   "name": "hyperpop",
@@ -21043,10 +21043,28 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 157814,
       "name": "like that",
       "url": "https://open.spotify.com/track/0ssYuHAIV6Lmni0uCpPtda"
+    },
+    {
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/13iFjYadDQpqOgMeKo3R4d"
+      },
+      "artists": [
+        {
+          "name": "Sophie Cates",
+          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157814,
+      "name": "like that",
+      "url": "https://open.spotify.com/track/6m871Gxm8jQGShOYhKMkKR"
     },
     {
       "album": {
@@ -27883,8 +27901,8 @@
           "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
         },
         {
-          "name": "Petty Plastic",
-          "url": "https://open.spotify.com/artist/6DfeTTtUs7u21DL8KruP2N"
+          "name": "Petey Plastic",
+          "url": "https://open.spotify.com/artist/59R8GbaEIJH0vO9taJMmZQ"
         }
       ],
       "date_added": "2024-03-29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,661 likes - 509 songs - 1 day 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,663 likes - 509 songs - 1 day 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,14 +210,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 200 | [Nothing Can Keep Me From You](https://open.spotify.com/track/2NiSYwryWPbvpzP23GlVtV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Box Set](https://open.spotify.com/album/1aQUAWtVCilkjTK9fnoJ3e) | 4:04 |
 | 201 | [Don't Lose Any Sleep](https://open.spotify.com/track/3LBp8KAovHdlBbseS5bvIF) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Greatest Hits \(Ten Years And Change 1979\-1991\)](https://open.spotify.com/album/0qRvb8w1YuZhBrhELRFPBK) | 4:20 |
 | 202 | [Come On Down](https://open.spotify.com/track/4HetWr51uag7ayWoZAX9d4) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/04LFXnEBkVE6mZfxGeCLbM) | 4:17 |
-| 203 | [And the Night Stood Still](https://open.spotify.com/track/1wiWoQ3YML4sOih65a4OLA) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/1QS3ONEVnbVMYmQovpOUC8) | 3:46 |
-| 204 | [I Would Find a Way](https://open.spotify.com/track/6fYrcILR5hdVlAAdcg4G4N) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 5:05 |
+| 203 | [I Would Find a Way](https://open.spotify.com/track/6fYrcILR5hdVlAAdcg4G4N) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 5:05 |
+| 204 | [And the Night Stood Still](https://open.spotify.com/track/1wiWoQ3YML4sOih65a4OLA) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/1QS3ONEVnbVMYmQovpOUC8) | 3:46 |
 | 205 | [Forever Isn't Long Enough](https://open.spotify.com/track/4UhUX2Ipv3RDkFaHQTRBTs) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:31 |
 | 206 | [Breaking Apart](https://open.spotify.com/track/2ULBctUchzxFohl7MIcpiT) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Mr\. Lucky](https://open.spotify.com/album/1TNJ50y0CNOrsMTzEsYzyc) | 3:39 |
 | 207 | [Domino](https://open.spotify.com/track/1k9DmOy2H10taUtUwLeddI) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:24 |
 | 208 | [All My Tomorrows](https://open.spotify.com/track/5XZtY0wYBt5Hi5fY9I00Dy) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [From The Soul Of Man](https://open.spotify.com/album/01KHEEunv9YbTODeMUUT83) | 4:46 |
-| 209 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 |
-| 210 | [Real Emotion](https://open.spotify.com/track/5bFt9A14TrFu1FQqQskzSl) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:25 |
+| 209 | [Real Emotion](https://open.spotify.com/track/5bFt9A14TrFu1FQqQskzSl) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:25 |
+| 210 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 |
 | 211 | [Too Gone, Too Long](https://open.spotify.com/track/2IOjsucrORGHHlqIlF3OAF) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:42 |
 | 212 | [Exceptional](https://open.spotify.com/track/7nqKm8Nj4GXmvknMjjc9vf) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa) | 3:43 |
 | 213 | [Still Here](https://open.spotify.com/track/5OzYchiIV8Jd1AXcvncIHy) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/10nkWocfwen0Q76rRn5nHC) | 3:41 |
@@ -518,4 +518,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 508 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 509 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `Mjg1MzY2MTAsMDAwMDAwMDAzYWRiYjBlZDYyNGUxYjFlZWE5YjFhOWQxMTIyYzlhNg==`
+Snapshot ID: `Mjg1MzgwNTAsMDAwMDAwMDA3MjE3OTNkZGYwNGQ4MTExMjk4YjYzMWIxMWQ2MzFjZQ==`

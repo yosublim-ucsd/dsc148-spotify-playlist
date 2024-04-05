@@ -4,7 +4,7 @@
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV?si=mMyzJUpIQgGQip215\_7lfg"> Ethic Entertainment </a>
 
-346 songs - 18 hr 41 min
+347 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Blue Ticks](https://open.spotify.com/track/7FPdxcLYkwlHLgCSYNlLsT) | [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318), [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY) | [Blue Ticks](https://open.spotify.com/album/7yUN9QojYlTRScLSQdSHfA) | 2:48 | 2024-02-08 |  |
 | [Blueticks](https://open.spotify.com/track/3n9GFwWJZbOHr0bFz62dMm) | [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318), [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY) | [Blueticks](https://open.spotify.com/album/4PZ32ERekuiOH4K0QyPyG5) | 2:48 | 2023-03-16 | 2023-12-15 |
 | [Body Count](https://open.spotify.com/track/5YdCQ6QNUaZWwJ9DwoTXvv) | [Heavy Cane](https://open.spotify.com/artist/4QU2tUvCM07X05YlZpwJiY), [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA) | [Body Count](https://open.spotify.com/album/2tiWnPlBkpaV8WBU42uZd6) | 3:04 | 2023-11-24 | 2024-03-10 |
-| [Body Count](https://open.spotify.com/track/1pBVsYNb3NiijlRyy1JxD3) | [Noti Flow](https://open.spotify.com/artist/1iEI7tRZgaXjPrpPj6cAM6), [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA) | [Body Count](https://open.spotify.com/album/0Vr9Kp5Rb2kHwD3Eji29r7) | 3:05 | 2023-11-17 |  |
+| [Body Count](https://open.spotify.com/track/6SNFzvJzeA0FFBm94l1CfR) | [Heavy Cane](https://open.spotify.com/artist/4QU2tUvCM07X05YlZpwJiY), [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA) | [Body Count](https://open.spotify.com/album/798i7QTJdmFMqhMOHkpuep) | 3:04 | 2024-03-29 |  |
+| [Body Count](https://open.spotify.com/track/1pBVsYNb3NiijlRyy1JxD3) | [Noti Flow](https://open.spotify.com/artist/1iEI7tRZgaXjPrpPj6cAM6), [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA) | [Body Count](https://open.spotify.com/album/0Vr9Kp5Rb2kHwD3Eji29r7) | 3:05 | 2023-11-17 | 2024-04-05 |
 | [Bonga Bonga](https://open.spotify.com/track/4JFZcYDRa4u42MXZCyf0Fp) | [Ignas Jay](https://open.spotify.com/artist/1XiC3gzkRZsnawlz5325UD), [Rekles](https://open.spotify.com/artist/63G3aE26j1YpNXX8HUBps7), [BOUNCE ON THE BEAT](https://open.spotify.com/artist/3GwIb0fY44zA7CoUfe3oc5) | [Bonga Bonga](https://open.spotify.com/album/1KpP5H0yDNiBywnjPMGi5Y) | 2:49 | 2021-11-04 | 2022-01-07 |
 | [Booty](https://open.spotify.com/track/65UIlTRzrG5i3RgzA0ZowY) | [Brian Nadra](https://open.spotify.com/artist/0zHAJkmhKxXz0W6N9LvE9f), [Zzero Sufuri](https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7), [Konkodi](https://open.spotify.com/artist/6Cvf87ZxHl6cjDdjpMXuyO), [Bon' Eye](https://open.spotify.com/artist/7wWAW9h9L8Ud97lHnBoDp7) | [Booty](https://open.spotify.com/album/3kIf9xGTmRKdRzi4VGpLKY) | 3:54 | 2021-11-18 | 2022-04-01 |
 | [Boy Fire](https://open.spotify.com/track/5LZjRcsQchkrv6PmCn0Uee) | [selecta jef](https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv), [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Boy Fire](https://open.spotify.com/album/3kWRIFkHfECb8Cs9rWvoTK) | 2:53 | 2022-01-20 | 2022-01-28 |

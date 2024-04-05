@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Biscits & TOBEHONEST. 50% techno, 50% house",
-  "num_followers": 614439,
+  "num_followers": 614633,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2Y0YmY1NGMyYTgwYTc2Y2M1MTlmNTExYWNlMTI5M2FhNmNhZWQz",
+  "snapshot_id": "MCxmNjBiMzFjNzY2ZmQ0ZDQ5ZDM3ZGNkYWE5OTA5YjU2ODE5OTQ1OGIx",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1237,6 +1237,42 @@
       "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Hella Good",
+        "url": "https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn"
+      },
+      "artists": [
+        {
+          "name": "Niko The Kid",
+          "url": "https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X"
+        },
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
+        }
+      ],
+      "duration_ms": 175757,
+      "name": "Hella Good",
+      "url": "https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Ratata",
+        "url": "https://open.spotify.com/album/1PGUc5o85RbeXfvvgfhYIU"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "duration_ms": 148446,
+      "name": "Ratata",
+      "url": "https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP"
+    },
+    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Anthem",
@@ -1259,26 +1295,6 @@
       "duration_ms": 206964,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Hella Good",
-        "url": "https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn"
-      },
-      "artists": [
-        {
-          "name": "Niko The Kid",
-          "url": "https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X"
-        },
-        {
-          "name": "Benson",
-          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
-        }
-      ],
-      "duration_ms": 175757,
-      "name": "Hella Good",
-      "url": "https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1331,22 +1347,6 @@
       "duration_ms": 148730,
       "name": "Make U Sweat",
       "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Ratata",
-        "url": "https://open.spotify.com/album/1PGUc5o85RbeXfvvgfhYIU"
-      },
-      "artists": [
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
-        }
-      ],
-      "duration_ms": 148446,
-      "name": "Ratata",
-      "url": "https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1409,6 +1409,26 @@
       "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Lady (Hear Me Tonight)",
+        "url": "https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "duration_ms": 134880,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
+    },
+    {
       "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "CARNET (Cloonee Remix)",
@@ -1431,26 +1451,6 @@
       "duration_ms": 225587,
       "name": "CARNET - Cloonee Remix",
       "url": "https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Lady (Hear Me Tonight)",
-        "url": "https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB"
-      },
-      "artists": [
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "James Hurr",
-          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
-        }
-      ],
-      "duration_ms": 134880,
-      "name": "Lady (Hear Me Tonight)",
-      "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1585,22 +1585,6 @@
       "url": "https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "One Pill",
-        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "One Pill",
-      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
-    },
-    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Moonlight",
@@ -1619,6 +1603,22 @@
       "duration_ms": 337000,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1885,26 +1885,6 @@
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "I Don't Remember",
-        "url": "https://open.spotify.com/album/0J7RfuS72drryFxcc3SvD8"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 195100,
-      "name": "I Don't Remember",
-      "url": "https://open.spotify.com/track/0hi0udQ5ZXTKRcZ9t0e4TF"
-    },
-    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "Where My Girls At?",
@@ -1925,6 +1905,26 @@
       "url": "https://open.spotify.com/track/4cWja9OGm0MPB5B6sd2SHz"
     },
     {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "I Don't Remember",
+        "url": "https://open.spotify.com/album/0J7RfuS72drryFxcc3SvD8"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 195100,
+      "name": "I Don't Remember",
+      "url": "https://open.spotify.com/track/0hi0udQ5ZXTKRcZ9t0e4TF"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Life Goes On",
@@ -1941,28 +1941,20 @@
       "url": "https://open.spotify.com/track/5BC4a9zX4qOAuIM7HUgVrG"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
+      "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Nikes On",
-        "url": "https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH"
+        "name": "Stolen Dub",
+        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Ron Carroll",
-          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
         }
       ],
-      "duration_ms": 155905,
-      "name": "Nikes On",
-      "url": "https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m"
+      "duration_ms": 136615,
+      "name": "Stolen Dub",
+      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2001,20 +1993,28 @@
       "url": "https://open.spotify.com/track/2iBuBZcnnuDBV9qVcLCRh4"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Stolen Dub",
-        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
+        "name": "Nikes On",
+        "url": "https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH"
       },
       "artists": [
         {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
         }
       ],
-      "duration_ms": 136615,
-      "name": "Stolen Dub",
-      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
+      "duration_ms": 155905,
+      "name": "Nikes On",
+      "url": "https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m"
     },
     {
       "added_at": "2024-02-21 02:09:25",

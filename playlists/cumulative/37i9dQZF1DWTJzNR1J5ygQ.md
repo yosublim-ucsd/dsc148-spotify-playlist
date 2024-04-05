@@ -2,7 +2,7 @@
 
 ### [I Love My Midwest Classics](https://open.spotify.com/playlist/37i9dQZF1DWTJzNR1J5ygQ)
 
-> It's a Midwest thing\. Cover: Lupe Fiasco
+> It's a Midwest thing\. Cover: Nelly
 
 90 songs - 6 hr 19 min
 

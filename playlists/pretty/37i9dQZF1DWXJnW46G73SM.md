@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: رامي صبري
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,846 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,878 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 2 | [Malnash Gher Ba3dna](https://open.spotify.com/track/1rxBgFaKG1X27in26OEC2c) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Malnash Gher Ba3dna](https://open.spotify.com/album/7wpvaS3EV2phb8CEfHEnly) | 3:13 |
 | 3 | [Hat7areb Meen \(From Selat Rahem Series\)](https://open.spotify.com/track/7fP0vL4oUUlysez0UEna9k) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Hat7areb Meen \(From Selat Rahem Series\)](https://open.spotify.com/album/5GI8UYo7NuzgaIv6sYmxVQ) | 3:05 |
 | 4 | [Asmrani Eyounoh Samrah](https://open.spotify.com/track/6M8EcLbklscFeUPav8fIGu) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Asmrani Eyounoh Samrah](https://open.spotify.com/album/7lB8Cor4rlvXJ9o8d0HshY) | 3:12 |
-| 5 | [Nerga3 Le Awl Yoom](https://open.spotify.com/track/10StqOKDsfg3fR9RtisE1J) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Nerga3 Le Awl Yoom](https://open.spotify.com/album/1Ieu8XhYIerhLVPXdNo2Yt) | 3:00 |
+| 5 | [Nerga3 Le Awel Yoom](https://open.spotify.com/track/10StqOKDsfg3fR9RtisE1J) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Nerga3 Le Awel Yoom](https://open.spotify.com/album/1Ieu8XhYIerhLVPXdNo2Yt) | 3:00 |
 | 6 | [Ya Mawlana](https://open.spotify.com/track/1puamrYWE2cSMKqM2x02j0) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Ya Mawlana](https://open.spotify.com/album/1azCb4UB8DYaqMT2zUnnwS) | 3:53 |
 | 7 | [سر إلهي](https://open.spotify.com/track/0JH8L02a3ckNui2dz82yfl) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [سر إلهي](https://open.spotify.com/album/3CQ2kVBQ1i1fensGdPqTuI) | 3:54 |
 | 8 | [مخبيالنا ايه يا دنيا \(موال هاني\)](https://open.spotify.com/track/6ersHoHXrLTFR4YftQxk2q) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [مخبيالنا ايه يا دنيا \(موال هاني\)](https://open.spotify.com/album/5XEKia4efQ6xpPFvj1wMjN) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [ولا يهمك](https://open.spotify.com/track/1dwGantu2uucmi2Ht4HzB5) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [ولا يهمك](https://open.spotify.com/album/55pWLIo9oq0nw2V8pRdxnB) | 3:51 |
 | 75 | [موقف ضعف](https://open.spotify.com/track/683g45sVP0yUW6AeGIOw7U) | [Zeyad Wael](https://open.spotify.com/artist/36dyNqgtGxVcwcWlCRYLOl), [Omar Shaaban](https://open.spotify.com/artist/2mqfT4zskEW4k2u5m3xnyh) | [موقف ضعف](https://open.spotify.com/album/7cv0uPatxnZpT0VbUPdzVi) | 4:02 |
 
-Snapshot ID: `MCwxYTEzOTk5NmQzYTgzNGRkZjQwYzFkOTg1NTI5ODkyZGRjMDc5MDJl`
+Snapshot ID: `MCxkYTZhMzZkNDIyYjU4YzMwY2U5NzlmN2NlM2JmOTQzY2I0NzY4MjU4`

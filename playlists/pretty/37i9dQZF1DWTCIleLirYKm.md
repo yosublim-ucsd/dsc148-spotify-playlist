@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > a state of mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,363 likes - 101 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,539 likes - 101 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 36 | [White River](https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [White River](https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG) | 3:33 |
 | 37 | [Life Ain't Fair and the World Is Mean](https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [High Top Mountain](https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf) | 2:06 |
 | 38 | [Born to Run](https://open.spotify.com/track/4HbtLU2CeVrHKeGtRVttuV) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Cimarron](https://open.spotify.com/album/0wtXDQCcBFvLcOVgNzFtIO) | 3:46 |
-| 39 | [Another Bad Apple](https://open.spotify.com/track/3r9qooc5NP0klrtZbFfBhC) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Another Bad Apple](https://open.spotify.com/album/6auwDOqgyAHQVYpfBcOmR9) | 3:03 |
+| 39 | [Another Bad Apple](https://open.spotify.com/track/5DXkH66yHd6nTMlby8AwHD) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Another Bad Apple](https://open.spotify.com/album/5O8QT0vzGanGGu8DZAiitB) | 3:03 |
 | 40 | [Stone](https://open.spotify.com/track/4rJesaufMl2xD0f2G8Xgnd) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Mud](https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy) | 5:35 |
 | 41 | [The Conversation](https://open.spotify.com/track/7GIBwtwVahJvvpot8g4Z4V) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Whiskey Bent And Hell Bound](https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb) | 3:52 |
 | 42 | [Slow Movin' Outlaw \(with Lacy J\. Dalton\) \(with Lacy J\. Dalton\)](https://open.spotify.com/track/08ec3DeBtsxHgfo4JpIgvo) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lacy J\. Dalton](https://open.spotify.com/artist/3JTFILRsbbqmkb740jjT0l) | [Half Nelson](https://open.spotify.com/album/5aiJhTHf9AaDptNpOrAwyE) | 3:32 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 100 | [John Beyers \(Camaro Song\)](https://open.spotify.com/track/66Ca5hnT9mxshajDCzLcfQ) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Songs of the Plains](https://open.spotify.com/album/6DzYh2Z00xNWG8wtfB6kIY) | 2:01 |
 | 101 | [God's Gonna Cut You Down](https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American V: A Hundred Highways](https://open.spotify.com/album/16VJRQuM2mXHkuppi3SNAh) | 2:38 |
 
-Snapshot ID: `MCw2YzIyNmFlYjg0NWJhMTA3ZWUwODA5NTQ5NjdhZDY2NzgxODlkOGY2`
+Snapshot ID: `MCxjMzdjMDVmMzYxNzY3NWE5YjUwNDlmZThiMWI1MGI3NTNlMzIzZmYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,269 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,286 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,20 +23,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 13 | [shun\-ran](https://open.spotify.com/track/3fwHnVrs8X3I7jaxoBeifn) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ROSE](https://open.spotify.com/album/3sWobIbTGugakWItFl0lex) | 2:41 |
 | 14 | [ラビットホール](https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ラビットホール](https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS) | 2:39 |
 | 15 | [Kyoufuu All Back](https://open.spotify.com/track/3rO7YwtuTzCGssxvDS4xK2) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [ALBUM No,1](https://open.spotify.com/album/5J64EHN7hMo5sGTlRfC6bo) | 2:17 |
-| 16 | [ガッチュー！ \(feat\. 初音ミク&鏡音リン&鏡音レン\)](https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [ガッチュー！](https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW) | 3:15 |
+| 16 | [ロキ](https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 3:50 |
 | 17 | [QUEEN](https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc) | 2:21 |
 | 18 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 |
 | 19 | [Samsa](https://open.spotify.com/track/3Su7tjUw5QbSBD5S3QFrWP) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [Samsa](https://open.spotify.com/album/6JvDXCgjEVlPNA34NlT3oH) | 3:32 |
 | 20 | [lower one's eyes](https://open.spotify.com/track/3P8sZzCeWXnBieW9XxE02Y) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [lower one's eyes](https://open.spotify.com/album/0NEXeWlwwR6b4zfHF4bvgk) | 3:50 |
 | 21 | [Thanks for being Lifeless](https://open.spotify.com/track/051mZnDf307e5y9oflIUiC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [ZERO\-GO](https://open.spotify.com/album/0oaOHz6VowcZp1FUAwqDiD) | 4:24 |
 | 22 | [KING](https://open.spotify.com/track/5vCNAauCaecW0tT2mZDLG9) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [KING](https://open.spotify.com/album/5caSwBLTwvq0mk7cQwtf2O) | 2:15 |
-| 23 | [ロキ](https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 3:50 |
+| 23 | [ガッチュー！ \(feat\. 初音ミク&鏡音リン&鏡音レン\)](https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [ガッチュー！](https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW) | 3:15 |
 | 24 | [ラグトレイン](https://open.spotify.com/track/4bdwEiJuBhWIkPKSVjyjiA) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ウェザーステーション](https://open.spotify.com/album/6jg2tl87TSzWMU6SXYUwsd) | 4:12 |
 | 25 | [Achikochi Date\-San](https://open.spotify.com/track/08M1MGRfhfGj9XRdZKswYl) | [駄菓子O型](https://open.spotify.com/artist/3v0sEP3ZPLu44oJ0Bkyi6p) | [合成音声のゆくえ](https://open.spotify.com/album/56MxEyfwqVtc4UNU8CXnGc) | 4:30 |
 | 26 | [Bring me](https://open.spotify.com/track/6TcZGGwg86VdKWOB8WzVzO) | [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [Bring me](https://open.spotify.com/album/6BTi2oETfQWmpRHc4uDdVN) | 3:20 |
-| 27 | [Beyond the way](https://open.spotify.com/track/26I5UfjfxqsUAB2Ryr4utP) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [Beyond the way](https://open.spotify.com/album/72mmKlShf9SvsGGQuOLi6u) | 3:00 |
+| 27 | [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 |
 | 28 | [Zunda Takoya\-ki](https://open.spotify.com/track/6EweBKjbAYyefCTzKFobZ2) | [namigroove](https://open.spotify.com/artist/2t7wKLcqZ08LwQXmBS2OOL), [Zundamon](https://open.spotify.com/artist/4h7vIVbBIGc5hHeKdha5tc), [Kotonoha Akane&Aoi](https://open.spotify.com/artist/189nnOOUOklQ7FlgB52Gad) | [Zunda Takoya\-ki](https://open.spotify.com/album/3B0OvRWGC1mkEiowGQpYWd) | 3:27 |
-| 29 | [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 |
+| 29 | [Beyond the way](https://open.spotify.com/track/26I5UfjfxqsUAB2Ryr4utP) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [Beyond the way](https://open.spotify.com/album/72mmKlShf9SvsGGQuOLi6u) | 3:00 |
 | 30 | [少女レイ](https://open.spotify.com/track/6bxGVlcX900tLZiZl5mFOR) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 4:54 |
 | 31 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 |
 | 32 | [ボルテッカー](https://open.spotify.com/track/4gxNIT5mQRjZ1jzePsF3Ud) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ボルテッカー](https://open.spotify.com/album/4TURBwPQTJsJA4LVQiiHT7) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [Love Trial](https://open.spotify.com/track/7oa18QwhLsV3JfITGDxslD) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/48CT8I4ImScM4TySzxyBUP) | 3:39 |
 | 50 | [DOKUZU](https://open.spotify.com/track/7G19YO3m77NNF8wlDkRmi0) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [DOKUZU](https://open.spotify.com/album/4BBVbKO8I1m5rXIMd0QUb7) | 2:00 |
 
-Snapshot ID: `MCxkMDBmMTc4YmY0NWE5NjZkOWE5ZDNmYTljNzI5N2Q1N2QzN2NhMjVl`
+Snapshot ID: `MCwxNWM1YTVhYjAxODRiYTJlMWM4YTU0MjhiOGM2NDllOWE0YjkyYzgz`

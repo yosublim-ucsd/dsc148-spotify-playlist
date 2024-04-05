@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,236 likes - 150 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,246 likes - 150 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tom's Diner \- Electro Swing Radio Edit](https://open.spotify.com/track/2D4VwRmOXXdg1XrbtR7CVn) | [Musique Boutique](https://open.spotify.com/artist/1D9QYipRiTgOfVMGbBiyeC) | [Tom's Diner](https://open.spotify.com/album/5sGOwscsYt5ifyX9Xm0bBa) | 2:57 |
 | 2 | [Come Again](https://open.spotify.com/track/3o8K7ys9a7YfUIlh1R6Ljr) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Miss Emmma](https://open.spotify.com/artist/7rnokEFlig5Crhc4GEViUR) | [Come Again](https://open.spotify.com/album/2S5LFqfWZQxxIREtXwpkdi) | 3:24 |
-| 3 | [Love Buzz](https://open.spotify.com/track/6wOKNE9JL9ueQzUAaXpa5l) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Love Buzz](https://open.spotify.com/album/5earRFgiX8lRLZalXgWaxE) | 2:48 |
+| 3 | [Love Buzz](https://open.spotify.com/track/6zAhQwaJcFUppYAqq9sm9D) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Love Buzz](https://open.spotify.com/album/7MDXK4seiK1RA7gtQXAXCV) | 2:48 |
 | 4 | [Follow Me](https://open.spotify.com/track/2la1dM3OB8gTKzq9P2vAwx) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU), [J Fitz](https://open.spotify.com/artist/5fO3cjaQXn3DpDsxlJbmQJ) | [Collaborations](https://open.spotify.com/album/2VHageZLLryxOu8r28cXHi) | 3:13 |
 | 5 | [Shake! \- DJ Mibor Remix](https://open.spotify.com/track/6zCXh2uXCoAES1o7drp1HX) | [Alice Francis](https://open.spotify.com/artist/6RcdUNNARXB9coQqgHyqFA), [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Shake! \(DJ Mibor Remix\)](https://open.spotify.com/album/5WHOmICoQsNDlyNePq9uzc) | 3:04 |
 | 6 | [Dance \(To Save Your Soul\) \- Electro Swing Radio Mix](https://open.spotify.com/track/3pXQOgmtcy2AVysJuXKsxP) | [Swing Sonix](https://open.spotify.com/artist/73nuKeY2fd6Vd3j5jooqMk) | [Dance \(To Save Your Soul\) \[Electro Swing Radio Mix\]](https://open.spotify.com/album/1bhoYgDywsI5Nq8i7SCE3v) | 2:28 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 149 | [Topsy at the Top](https://open.spotify.com/track/4nJ2EMvjNqxBDrT0s6AK47) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Topsy at the Top](https://open.spotify.com/album/1n9Z8PcktdiG2ccx7CRnCm) | 4:20 |
 | 150 | [Light](https://open.spotify.com/track/6XMLzR52m0SAZfM8WxzQ0w) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Light](https://open.spotify.com/album/1QDrLXAZrhuye2dHxB2fzn) | 3:08 |
 
-Snapshot ID: `MCw0NzY2NGIyNmExYzljYTQ2OWM0OTRiOGI5NGRlMjI4OTEyYjBmYTlk`
+Snapshot ID: `MCw0NjAzMGE4YWVkNTU0ZGUyZmQ5MjBmZWIyMjJmOWRhMjI1YmM0NzY0`

@@ -4,7 +4,7 @@
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-647 songs - 1 day 7 hr 55 min
+649 songs - 1 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Acid Eyes](https://open.spotify.com/track/6LTQO44rCg2mNQckEJdrSF) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:33 | 2022-07-08 | 2022-11-25 |
 | [Act Up \(feat\. Lil Double 0\)](https://open.spotify.com/track/4PCeBgRGLqTVeuB6nsJ2bp) | [Mac Critter](https://open.spotify.com/artist/7JmGgf8Bb6u8Di8AO1sCne), [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd) | [Act Up \(feat\. Lil Double 0\)](https://open.spotify.com/album/22dOOZq0WgOqscl7omzizV) | 2:50 | 2022-11-18 | 2023-03-11 |
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-14 | 2024-03-06 |
+| [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 | 2024-04-04 |  |
 | [Afterneath](https://open.spotify.com/track/7j9kqWrBc4XFy7r5rRhLDQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:05 | 2022-07-08 | 2022-11-25 |
 | [Ain’t No Fun](https://open.spotify.com/track/6IUHcXxOZpPKPzt8IVg7bv) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Full Court Press](https://open.spotify.com/album/4MLxuO3jk1GYUfJIMYMZCS) | 2:27 | 2022-04-08 | 2022-11-23 |
 | [All Day I Dream About](https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [All Day I Dream About](https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn) | 3:21 | 2022-08-05 | 2022-11-25 |
@@ -403,6 +404,7 @@
 | [Mrs\. Davis](https://open.spotify.com/track/3LKd2tQ7VdOf1cENAKZCz0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Mrs\. Davis](https://open.spotify.com/album/6FVfrVKa2otpLyn5bVvHhR) | 3:57 | 2022-06-03 | 2022-11-23 |
 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 | 2023-06-07 | 2024-03-06 |
 | [My Go To \(feat\. Kehlani\)](https://open.spotify.com/track/17GwUSpTy04lYWHHmwMvTD) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 3:23 | 2022-08-05 | 2022-11-25 |
+| [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 | 2024-04-04 |  |
 | [My Time](https://open.spotify.com/track/6EHrcQZt9a73mLeRggVRht) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:38 | 2022-08-05 | 2022-11-25 |
 | [Naughty With You \(This Christmas\)](https://open.spotify.com/track/2iefNdjhqC50RdhjyyNAy3) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [Naughty With You \(This Christmas\)](https://open.spotify.com/album/0qcrSaxBWO8A5zjgn5WFXx) | 2:56 | 2022-12-09 | 2023-03-11 |
 | [Needed That](https://open.spotify.com/track/3W5Q7ydl53jYgqWHpEkoIT) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Needed That](https://open.spotify.com/album/2iEGXMOjePFN7lzf91cfZ0) | 3:26 | 2022-12-16 | 2023-03-11 |

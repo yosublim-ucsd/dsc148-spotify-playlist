@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Annie\-Dog
 
-2,324 songs - 5 day 7 hr 33 min
+2,326 songs - 5 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [California Blues](https://open.spotify.com/track/5HfhZ3Kx6EXo65bCVo4hwI) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE), [Holladay](https://open.spotify.com/artist/7EgVKRTV4O1d8EKduQzq2Q) | [California Blues](https://open.spotify.com/album/4DZfnMz5WfEgm1U2UALWz5) | 4:24 | 2024-01-10 | 2024-02-08 |
 | [Call It In](https://open.spotify.com/track/4e1iFJbSIQAa4mYOeQsqaX) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln) | [Call It In](https://open.spotify.com/album/1rTWzJ9pdg0rFunQ6W6fiQ) | 3:13 | 2022-03-02 | 2022-07-07 |
 | [Call Me Fungus](https://open.spotify.com/track/29SwfR3CWFRPNuf0KbqGnp) | [DFI](https://open.spotify.com/artist/1Y7Wv5L3nj2OVtLpMNLNKK) | [Call Me Fungus](https://open.spotify.com/album/6XPgE3e6RkDjnMMiFJZ91y) | 2:45 | 2022-06-15 | 2022-06-30 |
+| [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 | 2024-04-04 |  |
 | [Call Me Your Hope](https://open.spotify.com/track/12MinAwnBD9uFK2amDeXty) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Call Me Your Hope](https://open.spotify.com/album/123sa4JxBBfMjnHqnrm1Kp) | 1:56 | 2022-01-12 | 2023-01-12 |
 | [Calzone](https://open.spotify.com/track/0DUA7raHclGvKdohiEZQVV) | [Aaron Joseph Russo](https://open.spotify.com/artist/5TYkSC09ELxgz8OEgLRzOU) | [Calzone](https://open.spotify.com/album/0KBu1ISnQH9GHP5U6EyZBe) | 3:46 | 2023-04-05 | 2023-04-27 |
 | [Can You Keep Being Around](https://open.spotify.com/track/4SXkaKTMlHDMCPTglsQpvV) | [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Can You Keep Being Around](https://open.spotify.com/album/5wHb7WjAP4MR9CWtg0uH1V) | 3:10 | 2023-04-26 | 2023-05-31 |
@@ -1388,7 +1389,8 @@
 | [Never Been so Fine](https://open.spotify.com/track/6DHOd5WttU8RvcHfqoUZhl) | [King Ibis](https://open.spotify.com/artist/3ciAz4U6O3iW2wpUZqeVZb) | [Never Been so Fine](https://open.spotify.com/album/2VLOseHIDCAT6X77ElkODy) | 4:03 | 2022-08-10 | 2022-09-29 |
 | [Never Enuff](https://open.spotify.com/track/7voMEISUGoR2ktiOBFUYWs) | [Ben Robertson](https://open.spotify.com/artist/1V2Ng0UkJhQjcriZXYhTBN) | [Sharpie](https://open.spotify.com/album/7lMdnF7sxeYhJDiEavd7wV) | 2:44 | 2022-04-06 | 2022-04-27 |
 | [Never Find Me Here Again](https://open.spotify.com/track/3F8wDFIkiUqXbuFbC2UZHi) | [Little Jet](https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa) | [Never Find Me Here Again](https://open.spotify.com/album/7HKlwKYaD4Y5VWhSxO7a78) | 2:55 | 2022-04-27 | 2022-05-12 |
-| [Never Get It Right](https://open.spotify.com/track/5sfcsarWqncOJ5vi34aAXz) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Never Get It Right](https://open.spotify.com/album/1LVnxRugTrMRHEQxKqRrMT) | 3:21 | 2024-03-13 |  |
+| [Never Get It Right](https://open.spotify.com/track/0OuDodKllEo0z7COb8Pnph) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Never Get It Right](https://open.spotify.com/album/0Qyv3Qh4YBUpEep2Lil3ZS) | 3:21 | 2024-03-13 |  |
+| [Never Get It Right](https://open.spotify.com/track/5sfcsarWqncOJ5vi34aAXz) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Never Get It Right](https://open.spotify.com/album/1LVnxRugTrMRHEQxKqRrMT) | 3:21 | 2024-03-13 | 2024-04-05 |
 | [Never Hurt You Like You Hurt Me](https://open.spotify.com/track/4G86TjzDfRG2Z4JhmqyaTj) | [speakeazie](https://open.spotify.com/artist/5fyPKWPAOvkpvod3cb7wGt) | [Never Hurt You Like You Hurt Me](https://open.spotify.com/album/2U8jg3WS2fAHHZCAUGyzA6) | 4:02 | 2022-06-29 | 2022-08-04 |
 | [never let you fall](https://open.spotify.com/track/7iMjGbFX8nQGQ496wVWZqt) | [incndscnt](https://open.spotify.com/artist/4371nTNSwkq5eho5b8QOFw), [Chemtrails](https://open.spotify.com/artist/4PJZd2eiajrwKMAnyM4c6A) | [never let you fall](https://open.spotify.com/album/2wyCAkvggcWRXkW5AMvw13) | 3:35 | 2023-07-19 | 2023-08-24 |
 | [Never Mind](https://open.spotify.com/track/6ADGQGUtC7AVCBSS0HpaOv) | [Ry Ecko](https://open.spotify.com/artist/7D8N8A9SLE64hLNWmwJ6sY) | [Never Mind](https://open.spotify.com/album/5J1yXw01Mfmr30yMYPXiXU) | 3:51 | 2022-04-27 | 2022-05-12 |

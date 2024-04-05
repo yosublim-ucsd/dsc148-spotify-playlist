@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 176880,
+  "num_followers": 176920,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmM2YmQwODgwZGM5ZTIyNDNjNmU0NTIyZmU4Y2QxYjZkMGY0MmMy",
+  "snapshot_id": "MCwwMzY1NzVkMzdhYjQzZmMxYTQ0ZTY0MDc4ZDBkNGNiYzZiMGVkMzFi",
   "tracks": [
     {
       "added_at": "2023-10-12 20:02:07",
@@ -943,6 +943,26 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Nada Personal",
+        "url": "https://open.spotify.com/album/0lVo9qjRXWVuyapgRsUXOO"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Catalina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Nada Personal",
+      "url": "https://open.spotify.com/track/0lPPaQ8ePs7ZawVcEfwXE1"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Garden of Lucid",
         "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 174053,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/4bKKVfhH3pmMEWCMTViBVf"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Nada Personal",
-        "url": "https://open.spotify.com/album/0lVo9qjRXWVuyapgRsUXOO"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Catalina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Nada Personal",
-      "url": "https://open.spotify.com/track/0lPPaQ8ePs7ZawVcEfwXE1"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "I'm Your Empress Of",
-        "url": "https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Love Is A Drug",
-      "url": "https://open.spotify.com/track/1plMJh3KzL9iza1xBtGfG9"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Baile de Magos",
         "url": "https://open.spotify.com/album/07GEY91tPdA08EVlRmqQ1f"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 265433,
       "name": "Mi F\u00e1brica de Baile",
       "url": "https://open.spotify.com/track/2n5CQoGVbKyiVyA0AabeZH"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "I'm Your Empress Of",
+        "url": "https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Love Is A Drug",
+      "url": "https://open.spotify.com/track/1plMJh3KzL9iza1xBtGfG9"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "HU HU HU",
-        "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 267840,
-      "name": "Cursis Melod\u00edas",
-      "url": "https://open.spotify.com/track/76CdSwtagY9xOJ86tF8z7q"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Night Moves",
         "url": "https://open.spotify.com/album/2bvow9uJrep57G06zuoLjc"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 199613,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/1D6Slhg7MMnraZpIEE8pbb"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "HU HU HU",
+        "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 267840,
+      "name": "Cursis Melod\u00edas",
+      "url": "https://open.spotify.com/track/76CdSwtagY9xOJ86tF8z7q"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Ambar Bossa Nova - Spotify Singles",
-      "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Musica Para Despues De Almuerzo",
-        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
       },
       "artists": [
         {
-          "name": "Bitman & Roban",
-          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Despues De Almuerzo Parte 3",
-      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
+      "duration_ms": 181894,
+      "name": "Ambar Bossa Nova - Spotify Singles",
+      "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1539,6 +1523,22 @@
       "duration_ms": 129281,
       "name": "Pastel",
       "url": "https://open.spotify.com/track/6Xur7MWcS7np7zm3ijJO0w"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Musica Para Despues De Almuerzo",
+        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
+      },
+      "artists": [
+        {
+          "name": "Bitman & Roban",
+          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Despues De Almuerzo Parte 3",
+      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Ag\u00fcita",
-        "url": "https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Garz\u00f3n-Montano",
-          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
-        }
-      ],
-      "duration_ms": 221877,
-      "name": "Someone",
-      "url": "https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Garden of Lucid",
         "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 190462,
       "name": "Cuando",
       "url": "https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Ag\u00fcita",
+        "url": "https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Garz\u00f3n-Montano",
+          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        }
+      ],
+      "duration_ms": 221877,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb"
     },
     {
       "added_at": "2023-10-12 20:02:07",

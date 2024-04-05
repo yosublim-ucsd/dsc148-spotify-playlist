@@ -2,7 +2,7 @@
 
 ### [This Is Christina Aguilera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0JxyUw)
 
-> This Is Christina Aguilera\. Sus mejores éxitos, todos en una playlist.
+> This is Christina Aguilera\. The essential tracks, all in one playlist.
 
 58 songs - 3 hr 31 min
 

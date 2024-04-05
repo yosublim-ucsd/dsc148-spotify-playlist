@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-147 songs - 9 hr 42 min
+148 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Tea Party](https://open.spotify.com/track/2SvzXDKrK392TGjVVv9xBs) | [The Vixen](https://open.spotify.com/artist/6odEXN8MJyixw6Ec2w7MKc) | [Commercial Break](https://open.spotify.com/album/7ipcntHPY56Ij63WT92jqN) | 4:11 | 2021-11-19 |  |
 | [That's Just Who I Iz](https://open.spotify.com/track/3tpK56w6wfdAMup9pSlJ45) | [Widow Von'du](https://open.spotify.com/artist/7cnJoej4MmqrDoTzSyMKYK) | [THE](https://open.spotify.com/album/0BiBgxTpRZdHJGZYg6Wm5R) | 3:25 | 2021-11-19 |  |
 | [The Coupé\-Décalé Ha \(Original Mix\)](https://open.spotify.com/track/0SQS6pk8HcIMQUu6LmgsXK) | [Lazy Flow](https://open.spotify.com/artist/4jA2A3Y2maLt3gFjuEaAhy) | [Tropical Vogue Vol\. 1](https://open.spotify.com/album/6fj8oRonkc2rdBL8jl7zYw) | 2:19 | 2021-11-19 | 2022-07-29 |
-| [The Coupé\-Décalé Ha \- Original Mix](https://open.spotify.com/track/1FYdYnY4ZBCLA6o71HqZjF) | [Lazy Flow](https://open.spotify.com/artist/4jA2A3Y2maLt3gFjuEaAhy) | [Tropical Vogue Vol.1](https://open.spotify.com/album/5w3Vnwny0NrMNr2PKJofr0) | 2:19 | 2022-07-01 |  |
+| [The Coupé\-Décalé Ha \- Original Mix](https://open.spotify.com/track/1FYdYnY4ZBCLA6o71HqZjF) | [Lazy Flow](https://open.spotify.com/artist/4jA2A3Y2maLt3gFjuEaAhy) | [Tropical Vogue Vol.1](https://open.spotify.com/album/5w3Vnwny0NrMNr2PKJofr0) | 2:19 | 2022-07-01 | 2024-04-05 |
+| [The Coupé\-Décalé Ha \- Original Mix](https://open.spotify.com/track/75r6rGe4AXGRmMTk1VSK4C) | [Lazy Flow](https://open.spotify.com/artist/4jA2A3Y2maLt3gFjuEaAhy) | [Tropical Vogue Vol.1](https://open.spotify.com/album/3TmOrLtchWTMavUCfP0zeo) | 2:19 | 2024-02-09 |  |
 | [The En\-Na\-Er\-Gi Bounce \(Rebounce\)](https://open.spotify.com/track/6QCz2NtIQPLseWXcOKWDb3) | [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ) | [Jeffree's, Vol\. 8](https://open.spotify.com/album/5qE2aOPfLshaK0qvZrkZ6B) | 4:41 | 2022-07-01 | 2024-02-10 |
 | [The En\-Na\-Er\-Gi Bounce \(Rebounce\)](https://open.spotify.com/track/6fsIBbRhkF23KnZb7r65ws) | [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ) | [Jeffree's Vol\. 8](https://open.spotify.com/album/2qZaSpwX761FiBqYkgLSKo) | 4:41 | 2021-11-19 | 2022-07-29 |
 | [The Ha Dance](https://open.spotify.com/track/4x1E99Fe36e06M5YbLBgMC) | [Masters At Work](https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1) | [The House Of Cutting](https://open.spotify.com/album/6E4mUW9BXuEywxJN23D1vD) | 3:22 | 2021-11-19 |  |

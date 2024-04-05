@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 5401,
+  "2024-04-05": 5401,
   "date_first_scraped": "2023-04-07",
   "description": "All the music from Narcos: Mexico, now on Netflix.\n",
   "name": "Narcos: Mexico Official Playlist",
@@ -2231,7 +2231,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 168866,
       "name": "Oro Falso",
       "url": "https://open.spotify.com/track/4u0aRgrsSnYEKEko0AtsBm"
@@ -2249,7 +2249,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 168866,
       "name": "Oro Falso",
       "url": "https://open.spotify.com/track/6WO2tX3R2aF6bomEowLqfQ"

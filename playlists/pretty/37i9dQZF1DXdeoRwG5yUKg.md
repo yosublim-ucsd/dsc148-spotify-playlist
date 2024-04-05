@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,926 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,968 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 62 | [Tricky Thing](https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 4:31 |
 | 63 | [Old Flame](https://open.spotify.com/track/5KJ1xOE9SaFsYFJKqxf5RX) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chances](https://open.spotify.com/album/0HQalCiuviEhDvPhcBODoS) | 2:41 |
 | 64 | [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 |
-| 65 | [Just As I Am](https://open.spotify.com/track/265GyouACrBchvNoHHkkuu) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Try Me](https://open.spotify.com/album/7fEch4BxgISBtcklzK1Xex) | 6:23 |
+| 65 | [Just as I Am](https://open.spotify.com/track/1ySF874duyvjE9qQ6AOlzg) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Try Me](https://open.spotify.com/album/20m1ng48JtN2TiODHLyH65) | 6:23 |
 | 66 | [All on My Mind \- Acoustic](https://open.spotify.com/track/4piJ8pnoRvC5sqMEpbH0FA) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [All on My Mind \(Acoustic\)](https://open.spotify.com/album/7tz2tP0MyzjpNg13tgRyx9) | 3:49 |
 | 67 | [Falling](https://open.spotify.com/track/30h268bCKmGWxFleXGYATy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Juice Me Up](https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha) | 5:03 |
 | 68 | [Get It While You Can \(feat\. Zkye Blue\)](https://open.spotify.com/track/33NwpQXKSjh8RDHWMvA4r2) | [The Lachy Doley Group](https://open.spotify.com/artist/1UFmab3kufN4YYyyFv7ajR), [Zkye Blue](https://open.spotify.com/artist/5g2FSHwgQFwNpbxPxWSKgT) | [Lovelight](https://open.spotify.com/album/2sldY4bgYk12oQO3PnAyrs) | 4:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 99 | [All Gone](https://open.spotify.com/track/55NkVwvITV119DkY4zhKEx) | [Micatone](https://open.spotify.com/artist/7yQjOE5dpqtfPCBXaHtrEj) | [The Crack](https://open.spotify.com/album/3VafpZNlfkUkYflCaCukUw) | 4:17 |
 | 100 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 |
 
-Snapshot ID: `MCw0Y2RlNDE3MzYzYTY3Mzk1OGJkMTJhZTA0M2ZiNzYxYWZkZTk1Y2Mz`
+Snapshot ID: `MCw4MTRmZWYzZTRhZjEzZTgzNTNkNTFhOTAyODRkMzg3Mjg4NTQ3YWRm`

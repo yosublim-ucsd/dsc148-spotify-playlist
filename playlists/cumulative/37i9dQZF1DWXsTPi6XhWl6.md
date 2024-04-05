@@ -4,7 +4,7 @@
 
 > Brighten your morning with these indie, folk and acoustic sounds.
 
-149 songs - 10 hr 5 min
+150 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [40 Day Dream \- 2019 \- Remaster](https://open.spotify.com/track/4ek3pPdfvIbPxynmlisI0k) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 3:52 | 2022-06-17 | 2023-11-04 |
 | [A Beginning Song](https://open.spotify.com/track/02Bd8WXqxchkQFBRwo9XKG) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [What A Terrible World, What A Beautiful World](https://open.spotify.com/album/0K0WhguFHBracRbeSzZgvR) | 5:22 | 2020-01-14 |  |
 | [Absolute Loser](https://open.spotify.com/track/45wGhAr9756RWGrSs35r56) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:51 | 2024-03-28 |  |
-| [Beggar in the Morning](https://open.spotify.com/track/4JrnZmOfgmVStNzxqDnznZ) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [The Barr Brothers](https://open.spotify.com/album/6sKE3JOEoAj6WEFCTkb1m4) | 5:55 | 2024-03-28 |  |
+| [Beggar in the Morning](https://open.spotify.com/track/4JrnZmOfgmVStNzxqDnznZ) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [The Barr Brothers](https://open.spotify.com/album/6sKE3JOEoAj6WEFCTkb1m4) | 5:55 | 2024-03-28 | 2024-04-05 |
+| [Beggar in the Morning](https://open.spotify.com/track/7pCF5qq2HYbPTXXglBdqaO) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [The Barr Brothers](https://open.spotify.com/album/7lBNpLMWtOz24d6IM2tzOP) | 5:55 | 2024-03-28 |  |
 | [Burning](https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 5:48 | 2022-06-17 |  |
 | [Burning](https://open.spotify.com/track/6pc6BNY6rFvdmf9O3PQizQ) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 5:48 | 2020-01-14 | 2022-07-28 |
 | [California Stars](https://open.spotify.com/track/38paDDziQ57k1f4VfKTeGk) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue](https://open.spotify.com/album/0yTmT1i6yHb5EVyJOmIwGw) | 4:58 | 2022-03-08 | 2023-04-27 |

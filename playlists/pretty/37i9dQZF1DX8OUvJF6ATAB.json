@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 192432,
+  "num_followers": 192479,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmQ1YTY3Y2VkODBjMzEzMzQwNjU1YTg1Yzk1NWY1ZmYxYzViYjQ0",
+  "snapshot_id": "MCxhZTlkNTc4YmQ2ZjFkZmU2ZWZkNjRjOWRiMGJhYjJkZTAzN2M2NjFk",
   "tracks": [
     {
       "added_at": "2023-04-21 14:41:23",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "A Midsummer Nice Dream",
-        "url": "https://open.spotify.com/album/4WZ0dPZH8wktMC0RiFhwL6"
-      },
-      "artists": [
-        {
-          "name": "Ochre",
-          "url": "https://open.spotify.com/artist/0OmHDBh5styCXDWKwz58Ts"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "A Midsummer Nice Dream",
-      "url": "https://open.spotify.com/track/0hAM2VDYMWzAgtCVZXA6Qr"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 267893,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/2okdRYCtBKj28PXuaheRNS"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "A Midsummer Nice Dream",
+        "url": "https://open.spotify.com/album/4WZ0dPZH8wktMC0RiFhwL6"
+      },
+      "artists": [
+        {
+          "name": "Ochre",
+          "url": "https://open.spotify.com/artist/0OmHDBh5styCXDWKwz58Ts"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "A Midsummer Nice Dream",
+      "url": "https://open.spotify.com/track/0hAM2VDYMWzAgtCVZXA6Qr"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "The Sudden Rush",
-      "url": "https://open.spotify.com/track/7ic8N154Eqo5Gd5fU38Zku"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Ambient 23",
         "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 481906,
       "name": "amb23 - 1",
       "url": "https://open.spotify.com/track/1QRY2siHgU2LkwQWIGHcXz"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "The Sudden Rush",
+      "url": "https://open.spotify.com/track/7ic8N154Eqo5Gd5fU38Zku"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/37pu0bzxfd75BoBq6jKa7U"
+      },
+      "artists": [
+        {
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+        }
+      ],
+      "duration_ms": 389681,
+      "name": "Water Music",
+      "url": "https://open.spotify.com/track/0khyOpw2EeYetwTCoJAzs8"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Natura Sophia",
         "url": "https://open.spotify.com/album/1m9tfsXeu1A6GOh7lzVphq"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 243414,
       "name": "Natura Sophia",
       "url": "https://open.spotify.com/track/4fvdvPzBIy9FGGqrNCM0lT"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/37pu0bzxfd75BoBq6jKa7U"
-      },
-      "artists": [
-        {
-          "name": "Kelly Moran",
-          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
-        }
-      ],
-      "duration_ms": 389681,
-      "name": "Water Music",
-      "url": "https://open.spotify.com/track/0khyOpw2EeYetwTCoJAzs8"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "The Deep End",
+        "url": "https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm"
+      },
+      "artists": [
+        {
+          "name": "Saloli",
+          "url": "https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj"
+        }
+      ],
+      "duration_ms": 282680,
+      "name": "Barcarolle",
+      "url": "https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Nonlin",
         "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "The Deep End",
-        "url": "https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm"
-      },
-      "artists": [
-        {
-          "name": "Saloli",
-          "url": "https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj"
-        }
-      ],
-      "duration_ms": 282680,
-      "name": "Barcarolle",
-      "url": "https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "New Tab",
         "url": "https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Anthology of Interplanetary Folk Music Vol. 2: The Canon",
-        "url": "https://open.spotify.com/album/2LosHQBwtkWbW7mlOJm0Qq"
-      },
-      "artists": [
-        {
-          "name": "Craig Leon",
-          "url": "https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs"
-        }
-      ],
-      "duration_ms": 369626,
-      "name": "Standing Crosswise in the Square",
-      "url": "https://open.spotify.com/track/0wFg6CWLFKLiZUDGHd2KV2"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Fading In And Out",
         "url": "https://open.spotify.com/album/6j1FkmIUkgTADDADZUNnHh"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 181666,
       "name": "Fading In",
       "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Anthology of Interplanetary Folk Music Vol. 2: The Canon",
+        "url": "https://open.spotify.com/album/2LosHQBwtkWbW7mlOJm0Qq"
+      },
+      "artists": [
+        {
+          "name": "Craig Leon",
+          "url": "https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs"
+        }
+      ],
+      "duration_ms": 369626,
+      "name": "Standing Crosswise in the Square",
+      "url": "https://open.spotify.com/track/0wFg6CWLFKLiZUDGHd2KV2"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Whities 029",
-        "url": "https://open.spotify.com/album/6IYhvItVOh2C31auIJpsxA"
+        "name": "Succour (Redux)",
+        "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
       },
       "artists": [
         {
-          "name": "Lord Of The Isles",
-          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
         }
       ],
-      "duration_ms": 403694,
-      "name": "Waiting in Arisaig",
-      "url": "https://open.spotify.com/track/6bkgvx2YMCC2tjZA61YTKG"
+      "duration_ms": 393195,
+      "name": "Monastic",
+      "url": "https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Succour (Redux)",
-        "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
+        "name": "Whities 029",
+        "url": "https://open.spotify.com/album/6IYhvItVOh2C31auIJpsxA"
       },
       "artists": [
         {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+          "name": "Lord Of The Isles",
+          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
         }
       ],
-      "duration_ms": 393195,
-      "name": "Monastic",
-      "url": "https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL"
+      "duration_ms": 403694,
+      "name": "Waiting in Arisaig",
+      "url": "https://open.spotify.com/track/6bkgvx2YMCC2tjZA61YTKG"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "J\u00e4rnn\u00e4tter",
-        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
-      },
-      "artists": [
-        {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
-        }
-      ],
-      "duration_ms": 74304,
-      "name": "B3",
-      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Inter-Dimensional Music",
         "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 252146,
       "name": "Lueena Coast",
       "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
+      },
+      "artists": [
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "duration_ms": 74304,
+      "name": "B3",
+      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Kwaidan",
-        "url": "https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO"
-      },
-      "artists": [
-        {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Sankai",
-      "url": "https://open.spotify.com/track/6IQoOFscOOZqWTy6Hn6QnC"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Gymnosphere: Song of the Rose",
         "url": "https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 1495160,
       "name": "Temple of Aesthetic Action",
       "url": "https://open.spotify.com/track/4pFLly7AXNRU3bQ9piWJdv"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Kwaidan",
+        "url": "https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO"
+      },
+      "artists": [
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Sankai",
+      "url": "https://open.spotify.com/track/6IQoOFscOOZqWTy6Hn6QnC"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Form//Less",
-        "url": "https://open.spotify.com/album/3WTtizcF0bxAoaGUygxJ0B"
-      },
-      "artists": [
-        {
-          "name": "Superposition",
-          "url": "https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL"
-        }
-      ],
-      "duration_ms": 234691,
-      "name": "Echo//Radiate",
-      "url": "https://open.spotify.com/track/5879mtm6fGtiYJVU7PUiD6"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Plays Bee Mask",
         "url": "https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 217951,
       "name": "Salt Flats",
       "url": "https://open.spotify.com/track/4hvTPjmtLGUcgKr3NzIdqo"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Form//Less",
+        "url": "https://open.spotify.com/album/3WTtizcF0bxAoaGUygxJ0B"
+      },
+      "artists": [
+        {
+          "name": "Superposition",
+          "url": "https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL"
+        }
+      ],
+      "duration_ms": 234691,
+      "name": "Echo//Radiate",
+      "url": "https://open.spotify.com/track/5879mtm6fGtiYJVU7PUiD6"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Limits",
-        "url": "https://open.spotify.com/album/773mDOeXXWvisdgrirVPTu"
-      },
-      "artists": [
-        {
-          "name": "Andrew Tasselmyer",
-          "url": "https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Possibilities",
-      "url": "https://open.spotify.com/track/11HL6JG9JFu0WLZEZhpv5V"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Anoyo",
         "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 288802,
       "name": "Into the void",
       "url": "https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Limits",
+        "url": "https://open.spotify.com/album/773mDOeXXWvisdgrirVPTu"
+      },
+      "artists": [
+        {
+          "name": "Andrew Tasselmyer",
+          "url": "https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Possibilities",
+      "url": "https://open.spotify.com/track/11HL6JG9JFu0WLZEZhpv5V"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Tilting On Windmills",
-        "url": "https://open.spotify.com/album/0EUkYGPFu3duNURukbpleg"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 498065,
-      "name": "Tilting On Windmills",
-      "url": "https://open.spotify.com/track/7mvnU6KO4nC2C37BrbF4YL"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Yes! Come Parade With Us",
         "url": "https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 294600,
       "name": "Yes! Come Parade With Us",
       "url": "https://open.spotify.com/track/1r6ydnQKC9Ukvh87ANT0Hh"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Tilting On Windmills",
+        "url": "https://open.spotify.com/album/0EUkYGPFu3duNURukbpleg"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 498065,
+      "name": "Tilting On Windmills",
+      "url": "https://open.spotify.com/track/7mvnU6KO4nC2C37BrbF4YL"
     },
     {
       "added_at": "2023-04-21 14:41:23",

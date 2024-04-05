@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Omah Lay",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Ayra Starr",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 202600,
       "name": "2.4.3 inarr\u00eatable",
       "url": "https://open.spotify.com/track/45R9hDcY2jndn5ojgGvw1W"
@@ -1902,6 +1902,28 @@
       "duration_ms": 165120,
       "name": "C'est qui ?",
       "url": "https://open.spotify.com/track/6vFW5IUYRUAKcrvkRuWoQP"
+    },
+    {
+      "album": {
+        "name": "C'est toi",
+        "url": "https://open.spotify.com/album/5L2DAuV8yVME0RfgVsUveZ"
+      },
+      "artists": [
+        {
+          "name": "BOLEMVN",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        },
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171236,
+      "name": "C'est toi",
+      "url": "https://open.spotify.com/track/34BTDwDIAxbdKfynLeH0ce"
     },
     {
       "album": {
@@ -3806,7 +3828,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 172631,
       "name": "Ebelebe",
       "url": "https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3"
@@ -4111,6 +4133,28 @@
     },
     {
       "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114419,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
+    },
+    {
+      "album": {
         "name": "Nostradamus",
         "url": "https://open.spotify.com/album/5QJOov3tKt3OXhrDRRVygF"
       },
@@ -4330,6 +4374,40 @@
       "duration_ms": 146285,
       "name": "Fefe Ne Fefe",
       "url": "https://open.spotify.com/track/4RxqGYYDnx1R6JfQAfd7B9"
+    },
+    {
+      "album": {
+        "name": "Fimbu",
+        "url": "https://open.spotify.com/album/2jyl8R6S0zxmO240mNhG4R"
+      },
+      "artists": [
+        {
+          "name": "Team Paiya",
+          "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Ste Milano",
+          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
+        },
+        {
+          "name": "Tam Sir",
+          "url": "https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X"
+        },
+        {
+          "name": "3xdavs",
+          "url": "https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177632,
+      "name": "Fimbu",
+      "url": "https://open.spotify.com/track/12rxH5rW5Do2hFcxSDpgyV"
     },
     {
       "album": {
@@ -7032,7 +7110,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 200283,
       "name": "Mister Romantic",
       "url": "https://open.spotify.com/track/7axEJkECTvAt6D12Lvt718"
@@ -10746,7 +10824,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 144447,
       "name": "The Life I Chose",
       "url": "https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs"
@@ -11392,6 +11470,36 @@
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "album": {
+        "name": "Tshwala Bam (feat. S.N.E, EeQue)",
+        "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
+      },
+      "artists": [
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        },
+        {
+          "name": "Yuppe",
+          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390000,
+      "name": "Tshwala Bam (feat. S.N.E, EeQue)",
+      "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
     },
     {
       "album": {

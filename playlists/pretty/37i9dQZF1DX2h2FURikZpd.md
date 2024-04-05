@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,035 likes - 30 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,040 likes - 30 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 19 | [lady madrizZz](https://open.spotify.com/track/1f3oAGS76ZIzOrsxcD2P36) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [lady madrizZz](https://open.spotify.com/album/6GCckrVHubDC4DRoCWIONI) | 2:11 |
 | 20 | [LUCES DE COLORES](https://open.spotify.com/track/5BTnoMRlpAnyzYY9S9HbIn) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [LUCES DE COLORES](https://open.spotify.com/album/5BxPeT9YRhCc6jJzk3YHd7) | 3:36 |
 | 21 | [Cero condiciones](https://open.spotify.com/track/7IUYqO7R6U71VIcaFdTs5m) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Cero condiciones](https://open.spotify.com/album/5ibayOsl6yLK6WNIGNP7e1) | 3:30 |
-| 22 | [Señorita \- Remix](https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH) | [Jean Pi](https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Señorita \(Remix\)](https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT) | 3:01 |
-| 23 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 |
+| 22 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 |
+| 23 | [Señorita \- Remix](https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH) | [Jean Pi](https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Señorita \(Remix\)](https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT) | 3:01 |
 | 24 | [Pasado Mañana](https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Pasado Mañana](https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM) | 2:17 |
 | 25 | [KATY PERRY](https://open.spotify.com/track/7F9wULTYG7mrp7bykMoU2K) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO) | [KATY PERRY](https://open.spotify.com/album/0ZwHrjXLSKASw5RRvJK01t) | 2:35 |
 | 26 | [Blanco Y Negro](https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Blanco Y Negro](https://open.spotify.com/album/7csomMVHTbSZuqLPofYE8Y) | 3:31 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 29 | [Ron En El Piso](https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Ron En El Piso](https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z) | 5:35 |
 | 30 | [CIUDAD DEL SOL](https://open.spotify.com/track/6n8Cw2zuSUtfa9RsaQB8Wt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [CIUDAD DEL SOL](https://open.spotify.com/album/7JVqErrplUbFAA5xSvavG5) | 3:44 |
 
-Snapshot ID: `MCxmMDY0MDQ3ZWUyZDBhN2I4YzdkZDRhOGM3M2VmOWU4MzhiODg4ZTEx`
+Snapshot ID: `MCwxYzg5MTMwYTNiNjU2MjAzYTgxNzY3NWI3ZDNiY2YyMWQ5ZGVkZmE3`

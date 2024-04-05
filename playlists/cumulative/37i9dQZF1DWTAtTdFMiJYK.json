@@ -2469,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Kahani",
+        "url": "https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245711,
+      "name": "Kahani",
+      "url": "https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH"
+    },
+    {
+      "album": {
         "name": "Kaho na",
         "url": "https://open.spotify.com/album/3z1UN7JGoHwRv8E1gwoG6E"
       },
@@ -2790,7 +2808,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 178163,
       "name": "Khoya",
       "url": "https://open.spotify.com/track/042J1bbhYbWcal95ZPOuJe"

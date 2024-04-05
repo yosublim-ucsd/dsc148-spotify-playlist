@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-103 songs - 5 hr 28 min
+104 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,8 +33,8 @@
 | [Dispárame](https://open.spotify.com/track/3ttofroygpDF5hKxwfeeM6) | [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc), [BOXINBOX](https://open.spotify.com/artist/6kn7LhH5siatL0X1kefy0r) | [Dispárame](https://open.spotify.com/album/0wdBkfYTEmMQjqND8f1MUD) | 2:32 | 2023-12-08 |  |
 | [Don Vito y la Revuelta en el Frenopático](https://open.spotify.com/track/4EBFU2ujZgudwRUsi588jo) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 1:52 | 2023-12-08 |  |
 | [El Espiritu del Oi!](https://open.spotify.com/track/1tef2YV1xTcWBqr6K376ab) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [N.S.A\. La Santa Familia](https://open.spotify.com/album/2z3V6ipEnmD9CbaOcWAjKF) | 5:13 | 2023-12-08 |  |
-| [El Infierno Es Demasiado Dulce](https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS), [Yugular](https://open.spotify.com/artist/2oBhhi0QflSGHexns2KTsM), [Odio a Muerte](https://open.spotify.com/artist/5JXhckF5PfoPReuIwDuGnS) | [El Infierno Es Demasiado Dulce](https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu) | 2:50 | 2023-12-08 | 2024-03-13 |
-| [El infierno es un after](https://open.spotify.com/track/6OF4GtqvLkOb3E3lQpWbOS) | [aitana gato muerto](https://open.spotify.com/artist/0u1PT5i2diugyPeT1P9OLa) | [El infierno es un after](https://open.spotify.com/album/75cMlsVv7rtadfvZ0uxUtc) | 3:37 | 2024-03-12 |  |
+| [El Infierno Es Demasiado Dulce](https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS), [Yugular](https://open.spotify.com/artist/2oBhhi0QflSGHexns2KTsM), [Odio a Muerte](https://open.spotify.com/artist/5JXhckF5PfoPReuIwDuGnS) | [El Infierno Es Demasiado Dulce](https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu) | 2:50 | 2023-12-08 |  |
+| [El infierno es un after](https://open.spotify.com/track/6OF4GtqvLkOb3E3lQpWbOS) | [aitana gato muerto](https://open.spotify.com/artist/0u1PT5i2diugyPeT1P9OLa) | [El infierno es un after](https://open.spotify.com/album/75cMlsVv7rtadfvZ0uxUtc) | 3:37 | 2024-03-12 | 2024-04-05 |
 | [El Mesías](https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ladrón de Almas](https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A) | 3:14 | 2023-12-08 |  |
 | [El Pais de Alicia](https://open.spotify.com/track/2Kbr1l42WvrWR0O9BaOIGe) | [Envidia Kotxina](https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU) | [Difícil Ser Humano](https://open.spotify.com/album/0cxzvpX9lZV37ISgBjrQ4e) | 3:03 | 2023-12-08 |  |
 | [Ellos Dicen Mierda](https://open.spotify.com/track/6bsiPYRqISKkHN9FpgffKP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ellos Dicen Mierda](https://open.spotify.com/album/0QjDaIXJLrgirtJMFWIu8R) | 4:39 | 2023-12-08 |  |
@@ -97,7 +97,7 @@
 | [Qué ha sido de ti](https://open.spotify.com/track/14MU1VPIIrciowTRCdZJ4u) | [Fundación Francisco Frankenstein](https://open.spotify.com/artist/3H42o6gQ9x0SioRXqtbGcf) | [Gente de Bien](https://open.spotify.com/album/6fxxDhr98JYsoI1Zp86wcT) | 1:50 | 2023-12-08 | 2024-01-19 |
 | [Reino Sin Futuro](https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Reino Sin Futuro](https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ) | 3:12 | 2023-12-08 |  |
 | [Resistiré \- En Directo](https://open.spotify.com/track/60qqPA0MLA1KgMCyinwjIW) | [Los Muertos de Cristo](https://open.spotify.com/artist/3kB55UDQKH1NV9TLKWgE8p) | [Bienvenidos al Infierno \(En Directo\)](https://open.spotify.com/album/4YFrai6oEA49jgPxPbpnt7) | 3:47 | 2023-12-08 |  |
-| [Salgo a la Calle](https://open.spotify.com/track/3KOep0HeA6PxeoLT4I4Ixx) | [Elektroduendes](https://open.spotify.com/artist/7oboTHVarRYloS0WJxGSJW) | [Salgo a la Calle](https://open.spotify.com/album/3wdwyHXHc5NKboxzLsE6pS) | 4:07 | 2023-12-08 |  |
+| [Salgo a la Calle](https://open.spotify.com/track/3KOep0HeA6PxeoLT4I4Ixx) | [Elektroduendes](https://open.spotify.com/artist/7oboTHVarRYloS0WJxGSJW) | [Salgo a la Calle](https://open.spotify.com/album/3wdwyHXHc5NKboxzLsE6pS) | 4:07 | 2023-12-08 | 2024-04-05 |
 | [Salve](https://open.spotify.com/track/6KQLnQDDqaqGqog4jsiYb7) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Salve](https://open.spotify.com/album/57AwljF0RpTwtEd5A1SzUP) | 3:06 | 2023-12-08 |  |
 | [Sarri, Sarri](https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 4:05 | 2023-12-08 |  |
 | [Ser Libre](https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Ser Libre](https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH) | 3:36 | 2024-03-12 |  |
@@ -107,6 +107,7 @@
 | [Su Falso Mundo \- original](https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [No Hay Agua](https://open.spotify.com/album/1apZlul36uZlJunetvaxoq) | 3:18 | 2023-12-08 |  |
 | [Tenemos a la Pasma](https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Cicatriz en la Matrix](https://open.spotify.com/album/51o67b23wyqqkYGN738zMG) | 1:58 | 2023-12-08 |  |
 | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL) | 0:57 | 2023-12-28 |  |
+| [Torero](https://open.spotify.com/track/6ucEJS53tFLP3zKbixZJUt) | [Toke a Degüello](https://open.spotify.com/artist/2rvdyWbtUPGIgP0dooeLBa) | [Torero](https://open.spotify.com/album/2HMwYgoqp39JJCDnbN7G5z) | 1:27 | 2024-04-04 |  |
 | [Tus Bragas](https://open.spotify.com/track/1Hh6pSlEbOSNZJYbHJBIXi) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [Ay De Mi!](https://open.spotify.com/album/1d2EOTftTxtZakbykswm5E) | 3:18 | 2023-12-08 |  |
 | [Txus](https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8) | [Kojon Prieto y los Huajolotes](https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h) | [Síganle compadres](https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG) | 2:35 | 2023-12-08 |  |
 | [Txus](https://open.spotify.com/track/19cTnpZXsoNpah6J4q13iP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Salve](https://open.spotify.com/album/57AwljF0RpTwtEd5A1SzUP) | 1:43 | 2023-12-08 |  |

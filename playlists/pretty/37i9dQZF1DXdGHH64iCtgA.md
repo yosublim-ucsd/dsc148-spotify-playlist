@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,482 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,500 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 66 | [Thank God I'm A Lizard](https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Family Portrait](https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf) | 5:06 |
 | 67 | [Naked City](https://open.spotify.com/track/6e4KfKMfBQKXOHO2fgweVT) | [Glass Candy](https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD) | [Naked City](https://open.spotify.com/album/0JN9Za7vTgRgRjS5Zv08hy) | 2:36 |
 | 68 | [they told us it was hard, but they were wrong.](https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 6:00 |
-| 69 | [Pick Up \- Even Shorter Version](https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Pick Up \(Even Shorter Version\)](https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO) | 3:48 |
-| 70 | [Iron 2021](https://open.spotify.com/track/6gO9T45Ljz1rQ4GR8KZDA4) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Iron 2021](https://open.spotify.com/album/30PoY1KGLDKYIZzShg2zCt) | 8:43 |
+| 69 | [Iron 2021](https://open.spotify.com/track/6gO9T45Ljz1rQ4GR8KZDA4) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Iron 2021](https://open.spotify.com/album/30PoY1KGLDKYIZzShg2zCt) | 8:43 |
+| 70 | [Pick Up \- Even Shorter Version](https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Pick Up \(Even Shorter Version\)](https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO) | 3:48 |
 | 71 | [Musique](https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 6:53 |
 | 72 | [Lune est l'autre](https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:53 |
 | 73 | [Incapable \(Edit\)](https://open.spotify.com/track/6rOEkBFDI1NL7lZHBTnpGk) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Incapable](https://open.spotify.com/album/0OZEb4C5dYqk6ZceFEgi5S) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [U\. \- Junior Sanchez Remix](https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [U\. \(Junior Sanchez Remix\)](https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8) | 2:44 |
 | 100 | [Let It Go](https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i) | [KITTENS](https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM) | [Let It Go](https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ) | 3:07 |
 
-Snapshot ID: `MCxiNzMwZmQ4YzhlYjk5YTViYmEwNGYzNTkxYmI2M2IzNmZkN2ZlNjk4`
+Snapshot ID: `MCw3MmRkOWMxYTY3ZjRiYmU4NjhkZmU2YTI1MDUwZWU0OWMyNjFlNjA3`

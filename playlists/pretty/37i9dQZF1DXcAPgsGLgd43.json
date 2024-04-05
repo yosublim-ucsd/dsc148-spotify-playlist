@@ -1,12 +1,12 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 6030,
+  "num_followers": 6055,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzlkOWQ3NWFkNmJiM2Q4ZThmODJmN2ZkMjQzYjBhNzgwZjE1MjU1",
+  "snapshot_id": "MCxkODA4NGM0OWYwZWQ4NDI3MjY1Y2MyNWIxZjFjODA3Mjk1YjFiYWZi",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Tranquilao",
         "url": "https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 180923,
       "name": "Tranquilao",
       "url": "https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Toma Que Toma",
+        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 227076,
+      "name": "Toma Que Toma",
+      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Senta Relaxa",
         "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
       },
@@ -1367,26 +1383,6 @@
       "duration_ms": 180014,
       "name": "Senta Relaxa",
       "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Toma Dale",
-        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
-      },
-      "artists": [
-        {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        }
-      ],
-      "duration_ms": 323763,
-      "name": "Toma Dale",
-      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1411,18 +1407,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Toma Que Toma",
-        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+        "name": "Toma Dale",
+        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
         }
       ],
-      "duration_ms": 227076,
-      "name": "Toma Que Toma",
-      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
+      "duration_ms": 323763,
+      "name": "Toma Dale",
+      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1463,26 +1463,6 @@
       "duration_ms": 152523,
       "name": "CKULO",
       "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Catuca",
-        "url": "https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP"
-      },
-      "artists": [
-        {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        }
-      ],
-      "duration_ms": 398986,
-      "name": "Catuca",
-      "url": "https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1619,6 +1599,26 @@
       "duration_ms": 168750,
       "name": "Que Pasa",
       "url": "https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Catuca",
+        "url": "https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP"
+      },
+      "artists": [
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        }
+      ],
+      "duration_ms": 398986,
+      "name": "Catuca",
+      "url": "https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Dimini",
+        "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "Twolate",
+          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
+        }
+      ],
+      "duration_ms": 142447,
+      "name": "Dimini",
+      "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Tuku Tu",
         "url": "https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1"
       },
@@ -1887,26 +1907,6 @@
       "duration_ms": 236129,
       "name": "Cuarto Oscuro (feat. Pacho Carnaval)",
       "url": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Dimini",
-        "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "Twolate",
-          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
-        }
-      ],
-      "duration_ms": 142447,
-      "name": "Dimini",
-      "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
     },
     {
       "added_at": "2024-03-29 04:00:00",

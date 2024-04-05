@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 33174,
+  "num_followers": 33175,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODM4MjAwNDBmNmRhM2RjODIyYmJhM2Y3ZGI3MmJkNzY3NWZhYjFm",
+  "snapshot_id": "MCxhYTg0ZDk0Y2NiNDYzZjQxYzMwZTUxYjcxN2ZhMzc1YjAyNTBjMTUz",
   "tracks": [
     {
       "added_at": null,
@@ -31,26 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Let The Future Begin",
-        "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 339493,
-      "name": "In Christ Alone - Live",
-      "url": "https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call on Heaven (Live)",
         "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
       },
@@ -67,6 +47,26 @@
       "duration_ms": 390020,
       "name": "He Who Is To Come - Live From Passion 2024",
       "url": "https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Let The Future Begin",
+        "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 339493,
+      "name": "In Christ Alone - Live",
+      "url": "https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp"
     },
     {
       "added_at": null,
@@ -111,26 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Witnessed It (Live)",
-        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Melodie Malone",
-          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "I've Witnessed It - Single Version",
-      "url": "https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Even So Come (Radio Version/Live)",
         "url": "https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 254373,
       "name": "Even So Come - Radio Version/Live",
       "url": "https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "I've Witnessed It - Single Version",
+      "url": "https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx"
     },
     {
       "added_at": null,
@@ -608,17 +608,17 @@
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         },
         {
-          "name": "Rachel Halbach",
-          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         }
       ],
-      "duration_ms": 351817,
-      "name": "How Great Is Your Name - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/2FUcVo7f064SqyjXWqkT6Q"
+      "duration_ms": 378836,
+      "name": "Firm Foundation (He Won't) - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/2QjYIE6n7aZOU2AohDuEFh"
     },
     {
       "added_at": null,
@@ -692,17 +692,17 @@
       },
       "artists": [
         {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        },
-        {
           "name": "Passion",
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Rachel Halbach",
+          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
         }
       ],
-      "duration_ms": 378836,
-      "name": "Firm Foundation (He Won't) - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/2QjYIE6n7aZOU2AohDuEFh"
+      "duration_ms": 351817,
+      "name": "How Great Is Your Name - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/2FUcVo7f064SqyjXWqkT6Q"
     },
     {
       "added_at": null,

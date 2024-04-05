@@ -1,12 +1,12 @@
 {
   "description": "An eclectic mix of past & current indie favourites. Cover: Caroline Polachek",
-  "num_followers": 37433,
+  "num_followers": 37436,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODJmYTQ1MDc0YWEyMGVmYTg5YWNkMGRkOGJmYjhjMTU5YzhhYmZj",
+  "snapshot_id": "MCxjNzFkNDM4Y2Y0NTMxMTMzNWZiNjMwMmVlYjQyZTIzYWUyMjIyZjdk",
   "tracks": [
     {
       "added_at": "2024-03-04 05:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-03-04 05:00:00",
       "album": {
-        "name": "Chiaroscuro",
-        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 253076,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
-    },
-    {
-      "added_at": "2024-03-04 05:00:00",
-      "album": {
         "name": "Chit Chat",
         "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+    },
+    {
+      "added_at": "2024-03-04 05:00:00",
+      "album": {
+        "name": "Chiaroscuro",
+        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 253076,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
     },
     {
       "added_at": "2024-03-04 05:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-03-04 05:00:00",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/6SbuufeFjg252z6GFG1lXV"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
+      "duration_ms": 198331,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm"
     },
     {
       "added_at": "2024-03-04 05:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-03-04 05:00:00",
       "album": {
-        "name": "Teardrops",
-        "url": "https://open.spotify.com/album/6SbuufeFjg252z6GFG1lXV"
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 198331,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm"
+      "duration_ms": 188000,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
     },
     {
       "added_at": "2024-03-04 05:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-03-04 05:00:00",
       "album": {
+        "name": "Being So Normal",
+        "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Alrighty Aphrodite",
+      "url": "https://open.spotify.com/track/6OiRh4kttAs1YWglvTcYkB"
+    },
+    {
+      "added_at": "2024-03-04 05:00:00",
+      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me (feat. De La Soul)",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
-    },
-    {
-      "added_at": "2024-03-04 05:00:00",
-      "album": {
-        "name": "Being So Normal",
-        "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Alrighty Aphrodite",
-      "url": "https://open.spotify.com/track/6OiRh4kttAs1YWglvTcYkB"
     },
     {
       "added_at": "2024-03-04 05:00:00",

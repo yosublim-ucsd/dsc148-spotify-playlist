@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-164 songs - 10 hr 57 min
+165 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [See See Rider](https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [My Kinda Swing](https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa) | 3:02 | 2021-12-16 |  |
 | [September In The Rain](https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [September in the Rain](https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX) | 4:08 | 2023-09-06 |  |
 | [Singin' a Melody](https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq) | [Paul Callander](https://open.spotify.com/artist/7DxH2g9FfTI6C7CXBTZNtq) | [Singin' a Melody](https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG) | 3:44 | 2022-06-28 |  |
+| [Sleepin' Bee \- Live](https://open.spotify.com/track/2JHZAzNRrbZb2XV7UoJy8t) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Yesterdays](https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX) | 8:17 | 2024-03-19 |  |
 | [Soul Bossa Nova](https://open.spotify.com/track/0Jw3cPBXlGnA6DEJrZSTI0) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Big Band Bossa Nova](https://open.spotify.com/album/1KSOL1jvue2lfcdsNZ7YN8) | 2:46 | 2021-12-16 | 2022-04-21 |
 | [Soul Dancing](https://open.spotify.com/track/4StXVZBqMAaJokejo0698n) | [Joey DeFrancesco](https://open.spotify.com/artist/2hpwTpq2QENZv7EAvniKDR) | [More Music](https://open.spotify.com/album/291DRYQKtqeZGHfSPabB01) | 6:36 | 2022-02-24 | 2022-10-05 |
 | [Stompin' At The Savoy \- 1956 Version](https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [I Got Rhythm](https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9) | 4:09 | 2021-12-16 |  |
@@ -144,7 +145,7 @@
 | [Taking a Chance on Love](https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF) | [V\. Duke](https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:18 | 2022-06-28 |  |
 | [Tea For Two](https://open.spotify.com/track/63DeUSSaejT2QBXkDYwXWt) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Paris In The Rain](https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp) | 4:06 | 2021-12-16 |  |
 | [The Best Things In Life Are Free](https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 2:23 | 2021-12-16 | 2022-07-29 |
-| [The Best Things In Life Are Free](https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 2:24 | 2022-06-28 |  |
+| [The Best Things In Life Are Free](https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 2:24 | 2022-06-28 | 2024-04-05 |
 | [The Critic's Choice](https://open.spotify.com/track/67cJY01l5qsL6ckW0OgyHK) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN), [Daniel Moore](https://open.spotify.com/artist/7ePbCvgnCDpz0SfaQHV8Bq) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 2:19 | 2021-12-16 | 2022-01-14 |
 | [The Feeling is Mutual](https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [The Feeling is Mutual](https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk) | 4:14 | 2022-05-19 |  |
 | [The Lady Is A Tramp](https://open.spotify.com/track/3nAemrbXMrnBEHElLvwcIX) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Love, Ella](https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA) | 3:21 | 2021-12-16 | 2022-10-20 |

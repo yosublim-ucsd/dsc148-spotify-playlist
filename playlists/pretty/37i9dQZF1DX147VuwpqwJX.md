@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,601 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,630 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 67 | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/track/4RMtFI3hGFBnyDg9YIvLLs) | [BABYNYMPH](https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [clown shit](https://open.spotify.com/album/25XfRZJiNYItar9V08ZOWn) | 6:27 |
 | 68 | [Akasha's Tears](https://open.spotify.com/track/5psRxqv67nXfxyAFpKeUTd) | [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO) | [Akasha's Tears X Bean Qween](https://open.spotify.com/album/7B6mrchgMbZwsELgqVD4i9) | 4:13 |
 | 69 | [Love the Girls](https://open.spotify.com/track/6xFco2Xpb1t1D8d3WeCGWD) | [B\. Ames](https://open.spotify.com/artist/4vTr4hPE8WSlvgo9dkSZNW), [Icon Sinia Alaia](https://open.spotify.com/artist/4lcAwldRw3SfyyEmL80Hpo) | [Love the Girls](https://open.spotify.com/album/5mJBMQB6A5wbIHQwXAFjLx) | 3:54 |
-| 70 | [The Coupé\-Décalé Ha \- Original Mix](https://open.spotify.com/track/1FYdYnY4ZBCLA6o71HqZjF) | [Lazy Flow](https://open.spotify.com/artist/4jA2A3Y2maLt3gFjuEaAhy) | [Tropical Vogue Vol.1](https://open.spotify.com/album/5w3Vnwny0NrMNr2PKJofr0) | 2:19 |
+| 70 | [The Coupé\-Décalé Ha \- Original Mix](https://open.spotify.com/track/75r6rGe4AXGRmMTk1VSK4C) | [Lazy Flow](https://open.spotify.com/artist/4jA2A3Y2maLt3gFjuEaAhy) | [Tropical Vogue Vol.1](https://open.spotify.com/album/3TmOrLtchWTMavUCfP0zeo) | 2:19 |
 | 71 | [What It Means](https://open.spotify.com/track/7ltfQaN1JsKjAOHeAn60SA) | [DJ Wawa](https://open.spotify.com/artist/1UYB9Z1Te7aDqP3XMSV9El) | [What It Means](https://open.spotify.com/album/3wrl64KHZDDYq9nTGDLT7I) | 7:39 |
 | 72 | [Tea Party](https://open.spotify.com/track/2SvzXDKrK392TGjVVv9xBs) | [The Vixen](https://open.spotify.com/artist/6odEXN8MJyixw6Ec2w7MKc) | [Commercial Break](https://open.spotify.com/album/7ipcntHPY56Ij63WT92jqN) | 4:11 |
 | 73 | [Work Me Goddamit '96](https://open.spotify.com/track/5Nku82Esm5dmUVMSOBEU3p) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Old Skool Junkies](https://open.spotify.com/artist/3eKGOpNDud6NlcxJgHKn4w) | [Old Skool Junkies](https://open.spotify.com/album/5EKuhX3T8zd0XsGkOsv378) | 5:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 99 | [Show Me What You Got!](https://open.spotify.com/track/1Xzys6dX0jsREnWEc2ib9z) | [Sugur Shane](https://open.spotify.com/artist/6W5grmdNl1vuIaB4B0yPND) | [Show Me What You Got!](https://open.spotify.com/album/03qAvr8nGizSRugl3xpGR8) | 3:00 |
 | 100 | [Fierce and Shady Tens \(Gurl\) \[feat\. Miss Jay\]](https://open.spotify.com/track/2nNEOEmQoSCJ2DMGlDDtUl) | [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ), [Miss Jay](https://open.spotify.com/artist/1IU4hPWrwgn5oJlSNDmL7Y) | [Jeffree's, Vol\. 8](https://open.spotify.com/album/5qE2aOPfLshaK0qvZrkZ6B) | 6:28 |
 
-Snapshot ID: `MCw3YjY4NDQyNDQxNjI4NTc3MmI3MzdkYzU2YWIxYWUzNTM1MmU3MmRl`
+Snapshot ID: `MCwyMzk2NDJlYmFlM2E0NTQyODVmNTk0Nzk0N2QzMzJmOGZiM2NiNmE2`

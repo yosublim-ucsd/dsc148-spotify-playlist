@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,185 likes - 55 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,225 likes - 55 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 43 | [Highlife](https://open.spotify.com/track/7jAOs2vHIb2b1Qiwy7q3am) | [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Ambolley](https://open.spotify.com/album/0FNazA8xq1EuyCUTYAdCu3) | 4:59 |
 | 44 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 |
 | 45 | [2° Coro Delle Lavandaie \- 1998 Digital Remaster](https://open.spotify.com/track/3BRGNcwIVVcRhhkCQDJkEv) | [Nuova Compagnia Di Canto Popolare](https://open.spotify.com/artist/0v2oiqsRMaLyGtj8NY4V6f) | [La Gatta Cenerentola \(Favola In Musica In Tre Atti\)](https://open.spotify.com/album/5z1Le5iz69vmXZHve0f1Ho) | 6:27 |
-| 46 | [Omoge](https://open.spotify.com/track/3hr1gRMGcKVeRYLqDZLTh1) | [Dizzy K.](https://open.spotify.com/artist/5Awdyry1KZQWfkYfTGVSNE) | [Sweet Music, Vol\. 1](https://open.spotify.com/album/49fliOpS2w0zeSJxccI4lV) | 4:06 |
+| 46 | [Omoge](https://open.spotify.com/track/4ZYomCRQEsIduQE2O1DcEU) | [Dizzy K.](https://open.spotify.com/artist/5Awdyry1KZQWfkYfTGVSNE) | [Sweet Music, Vol\. 1](https://open.spotify.com/album/4wNqEelZBFNRvucvAZoU4E) | 4:06 |
 | 47 | [Check It Out](https://open.spotify.com/track/72vOYD0M0B04i89fNLvHNI) | [Wildfire](https://open.spotify.com/artist/3WaJm667phBF0SenmoWhXZ) | [Jeff Recordings](https://open.spotify.com/album/3GgKjT7hTvSI8QyvHyaBJw) | 3:27 |
 | 48 | [Sage comme une image](https://open.spotify.com/track/7oGjw4xAObRO7Px0mmbTFu) | [Lio](https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI) | [Sage comme une image](https://open.spotify.com/album/51vYwR3DFOurYyO7kOcTCT) | 3:42 |
 | 49 | [I Like It \(Don't Stop\)](https://open.spotify.com/track/38j5lYjaKyySHumRy428ew) | [Maxwell Udoh](https://open.spotify.com/artist/7sBObaY7xVN3bDVU9AW8O9) | [The Hits, Vol\. 1](https://open.spotify.com/album/1C00Xn6aXVgNRwUkXmMUvi) | 6:35 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 54 | [Il vecchiaccio](https://open.spotify.com/track/1u0uPBJx7pHVlx9L2Wcydu) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [le più belle canzoni](https://open.spotify.com/album/02322HwE6b1hf200vS8dVR) | 3:45 |
 | 55 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 |
 
-Snapshot ID: `MCw4MWI0NzkyNjkzM2NjMWFmMTkyOTJlYmU1ODExNTU0M2FiZmVmN2Qy`
+Snapshot ID: `MCxjYjExYzhhM2Q3OTEzNDAzYjJkOGUwY2NhOTQ1MzQwMTBlM2VhZDBm`

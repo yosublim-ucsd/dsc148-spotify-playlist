@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Bigga Tingz",
+        "url": "https://open.spotify.com/album/2fsgxwOEVEQJw4FMEe5FNZ"
+      },
+      "artists": [
+        {
+          "name": "Rubi Du",
+          "url": "https://open.spotify.com/artist/3omcGuSFdQRpFptKW9iG1H"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146613,
+      "name": "Bigga Tingz",
+      "url": "https://open.spotify.com/track/5ErzteijeVjwkTAgZ5CB18"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -458,7 +476,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 194042,
       "name": "Chance On You (feat. KU\u010cKA)",
       "url": "https://open.spotify.com/track/0Byefko3vpr0FV8BIQmOsH"
@@ -804,6 +822,24 @@
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
+    },
+    {
+      "album": {
+        "name": "Eat Pray Love",
+        "url": "https://open.spotify.com/album/7xGpSyTEDKjhC6VDTsrn3a"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135445,
+      "name": "Eat Pray Love",
+      "url": "https://open.spotify.com/track/4N3IOS0sHBSy51BREPj4yi"
     },
     {
       "album": {
@@ -1492,7 +1528,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 153904,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6a9aHCocZ8ehn89uW0FqUJ"
@@ -1532,7 +1568,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 255866,
       "name": "Latch",
       "url": "https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c"
@@ -1576,6 +1612,28 @@
       "duration_ms": 180877,
       "name": "Let's Go MIA",
       "url": "https://open.spotify.com/track/5QSoe7DgjaIjDH8ov6B43V"
+    },
+    {
+      "album": {
+        "name": "Lifetime (KASSIN Remix)",
+        "url": "https://open.spotify.com/album/40VYumgeItn0xMNP5pp1eM"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        },
+        {
+          "name": "Kassin",
+          "url": "https://open.spotify.com/artist/3KNQV3MQsTnUfJaVpZUfCk"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321815,
+      "name": "Lifetime - KASSIN Remix",
+      "url": "https://open.spotify.com/track/1x8T63Txd5UnTvHUKlN4x0"
     },
     {
       "album": {
@@ -1810,6 +1868,28 @@
       "duration_ms": 170437,
       "name": "messy in heaven",
       "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
+    },
+    {
+      "album": {
+        "name": "Mind Still (feat. blythe)",
+        "url": "https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "blythe",
+          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156498,
+      "name": "Mind Still (feat. blythe)",
+      "url": "https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v"
     },
     {
       "album": {
@@ -2856,7 +2936,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"

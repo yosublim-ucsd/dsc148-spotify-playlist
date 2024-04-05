@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- India.
 
-884 songs - 2 day 5 hr 5 min
+885 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -728,7 +728,7 @@
 | [Show Me The Thumka \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/track/1t39FBb0zsKv5krZaqZKCB) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh) | [Show Me The Thumka \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/3l9BJEi2OZmt0S16AuLe2r) | 3:56 | 2023-03-08 | 2023-03-26 |
 | [Showstopper](https://open.spotify.com/track/0xWQo7g0JJMRqmlvTE17Ry) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Showstopper](https://open.spotify.com/album/1rn714iFoXPRCBvLSDNPwn) | 2:26 | 2023-05-06 | 2023-05-09 |
 | [Shree Ganeshay Dheemahi](https://open.spotify.com/track/7sRyejjZ7Ebkgo1sy6Gmfj) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM) | [Ganesha Symphonic Chants Experience](https://open.spotify.com/album/7pBI5ObmHmMbFi537wORHH) | 6:47 | 2021-09-12 | 2023-09-22 |
-| [Shree Hanuman Chalisa](https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Shree Hanuman Chalisa \(Hanuman Ashtak\)](https://open.spotify.com/album/1JfMAw56ShwV21lxRrwGbu) | 9:46 | 2021-04-29 |  |
+| [Shree Hanuman Chalisa](https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Shree Hanuman Chalisa \(Hanuman Ashtak\)](https://open.spotify.com/album/1JfMAw56ShwV21lxRrwGbu) | 9:46 | 2021-04-29 | 2024-04-05 |
 | [Shri Krishna Govind Hare Murari](https://open.spotify.com/track/58SIEtTjWErr0yEXVBKxvd) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Shri Krishna Govind Hare Murari](https://open.spotify.com/album/5xP2BlyCzAs93O5onwuw3S) | 2:33 | 2021-09-01 | 2024-01-25 |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-17 | 2022-10-08 |
 | [Sidhu moose wala levels](https://open.spotify.com/track/014ZWKecxYPnaLf6ipYgag) | [theluckyadhana](https://open.spotify.com/artist/6ScrgDOoRcVcyhB2Jw59pz) | [Sidhu moose wala levels](https://open.spotify.com/album/6MG5ZLemzzGYXbWuzvIAVl) | 3:51 | 2022-06-04 | 2022-06-06 |
@@ -880,6 +880,7 @@
 | [Yadav Brand 2](https://open.spotify.com/track/1AMD2AkfGrKoKhwkvYLbza) | [Sunny Yaduvanshi](https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU), [AK Rok](https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY), [Nitesh Ujoli](https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ) | [Yadav Brand 2](https://open.spotify.com/album/7ee5PlfgmGyU70CdxftTV2) | 2:54 | 2023-10-13 | 2023-10-18 |
 | [Yadav Brand 2](https://open.spotify.com/track/4JvziZ2kQsbzfvRQtpYfmJ) | [Sunny Yaduvanshi](https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU), [AK Rok](https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY), [Nitesh Ujoli](https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ) | [Yadav Brand 2](https://open.spotify.com/album/3pRiXGIvpgNrMQmK6AgJ3c) | 2:54 | 2023-06-24 | 2023-10-14 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-11 | 2022-07-04 |
+| [Yimmy Yimmy](https://open.spotify.com/track/4dvfxZKehPxpz3UZ7A5Fni) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Jacqueline Fernandez](https://open.spotify.com/artist/3HrBxG64scPxP1mrTmZxM6) | [Yimmy Yimmy](https://open.spotify.com/album/4c7DjheRUBNo8aiN6Z6iWC) | 3:31 | 2024-04-04 |  |
 | [Ykwim](https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Ykwim](https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V) | 3:14 | 2022-01-19 | 2022-02-16 |
 | [You and Me](https://open.spotify.com/track/4thOONDx78zsY8sHGfU1M2) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:52 | 2024-01-09 | 2024-03-31 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2021-07-01 | 2021-07-08 |

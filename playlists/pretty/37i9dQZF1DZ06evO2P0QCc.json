@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 107515,
+  "num_followers": 107552,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjMzMzQ5MmVjYTViMjI5MzA5ZTFmNjNiNDlhZmIyY2RjMGE5NmNi",
+  "snapshot_id": "MCw2ZjRkNDg1NGI5ZTAzZjk3YzkwYTc0YmQ1OTQ3MTI2NDk4NThiNGI5",
   "tracks": [
     {
       "added_at": null,
@@ -139,18 +139,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+        "name": "Pero Qu\u00e9 Necesidad",
+        "url": "https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC"
       },
       "artists": [
         {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 232253,
-      "name": "Sin Rencor",
-      "url": "https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c"
+      "duration_ms": 188394,
+      "name": "Pero Qu\u00e9 Necesidad",
+      "url": "https://open.spotify.com/track/2DfpEIi9o9a8IixpU0JDou"
     },
     {
       "added_at": null,
@@ -175,26 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pero Qu\u00e9 Necesidad",
-        "url": "https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC"
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
       "artists": [
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 188394,
-      "name": "Pero Qu\u00e9 Necesidad",
-      "url": "https://open.spotify.com/track/2DfpEIi9o9a8IixpU0JDou"
+      "duration_ms": 232253,
+      "name": "Sin Rencor",
+      "url": "https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c"
     },
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 223146,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY"
+      "duration_ms": 245146,
+      "name": "Las Tijeras",
+      "url": "https://open.spotify.com/track/3Rn0rPrhtQmEJlljjanuc9"
     },
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 223146,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 182000,
       "name": "Lo Que T\u00fa Me Das - Gracias",
       "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 245146,
-      "name": "Las Tijeras",
-      "url": "https://open.spotify.com/track/3Rn0rPrhtQmEJlljjanuc9"
     },
     {
       "added_at": null,

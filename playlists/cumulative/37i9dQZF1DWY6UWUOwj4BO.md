@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment en version acoustique.
 
-110 songs - 5 hr 51 min
+111 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Living In A Haze \- Acoustic Version](https://open.spotify.com/track/7xJWAuyry7xJnmySKUnMiu) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze \(Acoustic Version\)](https://open.spotify.com/album/4Csna5Mo6vzOZlwCGCc2we) | 2:55 | 2023-06-02 |  |
 | [Lonely \(with benny blanco\) \- Acoustic](https://open.spotify.com/track/4fKiuIavbsoTRZ6R7xuAyT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\) \[Main + Acoustic\]](https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH) | 2:35 | 2022-12-21 |  |
 | [Lose Control \- Piano Version](https://open.spotify.com/track/2tOx1437MGd5HrHINnydWB) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control \(Piano Version\)](https://open.spotify.com/album/7t3cSCBzxSoYxwhNzEKtZT) | 3:26 | 2024-03-14 |  |
-| [Love Me Now \(feat\. FAST BOY\) \- Acoustic](https://open.spotify.com/track/7Eu1ryblKF85zn7xpnst3P) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Love Me Now \(feat\. FAST BOY\) \[Acoustic\]](https://open.spotify.com/album/6PQlOCoekOPHXh7fLuMs8f) | 2:18 | 2023-01-12 |  |
+| [Love Me Now \(feat\. FAST BOY\) \- Acoustic](https://open.spotify.com/track/7Eu1ryblKF85zn7xpnst3P) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Love Me Now \(feat\. FAST BOY\) \[Acoustic\]](https://open.spotify.com/album/6PQlOCoekOPHXh7fLuMs8f) | 2:18 | 2023-01-12 | 2024-04-05 |
 | [Love Not War \(The Tampa Beat\) \(Acoustic\)](https://open.spotify.com/track/0dRYCtYfllnlfDiEufuwOU) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Nuka](https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z) | [Love Not War \(The Tampa Beat\) \(Acoustic\)](https://open.spotify.com/album/0suzpiXwzpyvN85xQyf699) | 3:11 | 2022-12-21 | 2023-06-03 |
 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6) | 3:04 | 2022-12-21 |  |
 | [Love Should Be Easy \- Acoustic](https://open.spotify.com/track/1Uf2Jb951trOKmxJZS7HOl) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy \(Acoustic Versions\)](https://open.spotify.com/album/2nrnsrqfLugfpWe1trssSu) | 3:20 | 2023-12-08 | 2024-01-12 |
@@ -86,6 +86,7 @@
 | [Mood \- Acoustic](https://open.spotify.com/track/1NKiIuSbv88ecRlB6noXzz) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Mood \(Acoustic\)](https://open.spotify.com/album/4fkiu8nnl0W9wbgspwYL8M) | 2:41 | 2022-12-21 | 2023-03-10 |
 | [My Universe \- Acoustic Version](https://open.spotify.com/track/6nhc3daOpKaZBRj2ZFWfc7) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/6iVS1t7wQUHItUnCxH7epG) | 3:43 | 2022-12-21 | 2023-09-13 |
 | [Never Seen the Rain \- Alternate Version](https://open.spotify.com/track/6MYNfMiLwCmA3bRdfzvfcs) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Never Seen The Rain \(Alternate Version\)](https://open.spotify.com/album/7oVHtPdIA5kcxLLiCu2t7N) | 5:00 | 2022-12-21 | 2023-06-17 |
+| [Nothing Matters \- Acoustic](https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters \(Acoustic\)](https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW) | 3:03 | 2024-04-04 |  |
 | [On My Love \- Live Acoustic](https://open.spotify.com/track/0CZ0NcS4jXLR4I2zM3FKGq) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love \(Live Acoustic\)](https://open.spotify.com/album/4dBBsaKdTO58KorP8Z9qc3) | 3:44 | 2023-10-05 | 2024-02-09 |
 | [Onde Anda \- French Version \- Acoustic](https://open.spotify.com/track/3uy0p6o4ZEb5Oyom4zg337) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Onde Anda \(French Version \- Acoustic\)](https://open.spotify.com/album/4JvVLOqRPa2C1lpX7RxAFi) | 3:00 | 2023-06-02 | 2023-12-02 |
 | [Overdrive \(feat\. Norma Jean Martine\) \- Acoustic Version](https://open.spotify.com/track/2C48i664TyRtr77PBzW6cS) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\) \[Acoustic Version\]](https://open.spotify.com/album/2NDVKadwJzVmaA0TMXzP3G) | 2:07 | 2024-02-08 |  |

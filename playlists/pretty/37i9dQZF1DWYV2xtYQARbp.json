@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 15001,
+  "num_followers": 15008,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWUxMmU0OTNlMTdiMjNiNWNhZWUwMGViMTRhN2MyMWNmY2Q5MTk0",
+  "snapshot_id": "MCxjZDJkYzMwN2JhNjcxOTRlOGRkMjlmZjEzMzdmNzFiNDZkNzJjZjI5",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "I Know You Be Houserockin'",
-        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 232626,
-      "name": "Nitroglycerine",
-      "url": "https://open.spotify.com/track/36f45es7EH7JyT4sFl1irf"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Dual Mono",
         "url": "https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 247306,
       "name": "Too Much Sorrow",
       "url": "https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "I Know You Be Houserockin'",
+        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
+      },
+      "artists": [
+        {
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+        }
+      ],
+      "duration_ms": 232626,
+      "name": "Nitroglycerine",
+      "url": "https://open.spotify.com/track/36f45es7EH7JyT4sFl1irf"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Fire of Love (Remastered 2020)",
-        "url": "https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu"
+        "name": "Talking 'bout",
+        "url": "https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe"
       },
       "artists": [
         {
-          "name": "The Gun Club",
-          "url": "https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn"
+          "name": "The Milkshakes",
+          "url": "https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG"
         }
       ],
-      "duration_ms": 157995,
-      "name": "Promise Me - Remastered 2020",
-      "url": "https://open.spotify.com/track/620oK7tMifgGBddA6gsGli"
+      "duration_ms": 134040,
+      "name": "Pretty Baby",
+      "url": "https://open.spotify.com/track/15IZhtzC8mKdKGXoa9VF7V"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Talking 'bout",
-        "url": "https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe"
+        "name": "Fire of Love (Remastered 2020)",
+        "url": "https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu"
       },
       "artists": [
         {
-          "name": "The Milkshakes",
-          "url": "https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG"
+          "name": "The Gun Club",
+          "url": "https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn"
         }
       ],
-      "duration_ms": 134040,
-      "name": "Pretty Baby",
-      "url": "https://open.spotify.com/track/15IZhtzC8mKdKGXoa9VF7V"
+      "duration_ms": 157995,
+      "name": "Promise Me - Remastered 2020",
+      "url": "https://open.spotify.com/track/620oK7tMifgGBddA6gsGli"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+        "name": "Beware the Ides of March",
+        "url": "https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV"
       },
       "artists": [
         {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+          "name": "Thee Mighty Caesars",
+          "url": "https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD"
         }
       ],
-      "duration_ms": 204320,
-      "name": "Isolation",
-      "url": "https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL"
+      "duration_ms": 131039,
+      "name": "You'll Be Sorry Now",
+      "url": "https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Beware the Ides of March",
-        "url": "https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV"
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
       },
       "artists": [
         {
-          "name": "Thee Mighty Caesars",
-          "url": "https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD"
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
         }
       ],
-      "duration_ms": 131039,
-      "name": "You'll Be Sorry Now",
-      "url": "https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU"
+      "duration_ms": 204320,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
-      },
-      "artists": [
-        {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "(Sometimes You Got to Be) Gentle",
-      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "The Kids Are All Square - This Is Hip & Girlsville",
         "url": "https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 145400,
       "name": "Round Every Corner",
       "url": "https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+      },
+      "artists": [
+        {
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "(Sometimes You Got to Be) Gentle",
+      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
     },
     {
       "added_at": "2022-03-28 20:14:58",

@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 220468,
+  "num_followers": 220541,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjQ5OGZmODcwZmEzZjQ4OGFhOGJiYWM0YmE1NjMyODRjYzQyOWFl",
+  "snapshot_id": "MCxmZDkzZDc3ODIyYzgwMmNhNmU0MWYyMGJjOWMzYTMwMmEwZjFjZDE1",
   "tracks": [
     {
       "added_at": null,
@@ -443,30 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa Te Vas",
-        "url": "https://open.spotify.com/album/7cWtDxlsNhuIg4JLYJDVjV"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 209292,
-      "name": "Si T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/2l6emeZ5kkLNTKwWVwmvnz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Antes del Alba",
         "url": "https://open.spotify.com/album/04jcunBbCe9hXGTfZGo9Bj"
       },
@@ -487,6 +463,30 @@
       "duration_ms": 181418,
       "name": "T\u00fa Tienes el Son",
       "url": "https://open.spotify.com/track/3Tf4cwGqkUJp9hKhakqTqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si T\u00fa Te Vas",
+        "url": "https://open.spotify.com/album/7cWtDxlsNhuIg4JLYJDVjV"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "duration_ms": 209292,
+      "name": "Si T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/2l6emeZ5kkLNTKwWVwmvnz"
     },
     {
       "added_at": null,
@@ -627,30 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Inmensidades",
-        "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
-      },
-      "artists": [
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Gordo del Funk",
-          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 231416,
-      "name": "Lumbre",
-      "url": "https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde Que Te Bese",
         "url": "https://open.spotify.com/album/6BI9UyPeQL7GYoxvXvLc5H"
       },
@@ -671,6 +647,30 @@
       "duration_ms": 182127,
       "name": "Desde Que Te Bese",
       "url": "https://open.spotify.com/track/3LUp0DjkJlxhVVhSWgNETZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Inmensidades",
+        "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
+      },
+      "artists": [
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 231416,
+      "name": "Lumbre",
+      "url": "https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfD\u00f3nde Estar\u00e1s?",
-        "url": "https://open.spotify.com/album/1HUdC5JjGda1CqfRoXzKcL"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 204631,
-      "name": "\u00bfD\u00f3nde Estar\u00e1s?",
-      "url": "https://open.spotify.com/track/2osyhnv7vdVGs4VyeBANZ1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vegetales Con Pescado",
         "url": "https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 182200,
       "name": "Vegetales Con Pescado",
       "url": "https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfD\u00f3nde Estar\u00e1s?",
+        "url": "https://open.spotify.com/album/1HUdC5JjGda1CqfRoXzKcL"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 204631,
+      "name": "\u00bfD\u00f3nde Estar\u00e1s?",
+      "url": "https://open.spotify.com/track/2osyhnv7vdVGs4VyeBANZ1"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcRTDTjL53b.md) - [plain]
 
 > La bande son des premiers amours
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,283 likes - 44 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,302 likes - 44 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcRTDTjL53b.md) - [plain]
 | 18 | [Je t'aimais, je t'aime, je t'aimerai \- Remastered](https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 4:38 |
 | 19 | [Pour que tu m'aimes encore](https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:14 |
 | 20 | [A fleur de toi](https://open.spotify.com/track/0L4FolHq3FdVNX1N9LRPIF) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [VersuS](https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e) | 4:02 |
-| 21 | [Angela](https://open.spotify.com/track/6ab3CQvDlAVttThZucwGQ1) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Chaise pliante](https://open.spotify.com/album/07bBgskS3ghKJIWvwsgnqF) | 3:56 |
+| 21 | [Angela](https://open.spotify.com/track/6xNXmllCLIV9cH1luBzqvO) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Fiesta Ete](https://open.spotify.com/album/7y5wAxXmiTc3Y7ZMxdXn8G) | 3:56 |
 | 22 | [Moi aimer toi](https://open.spotify.com/track/1qqceUwmiSLrjkPxg9OLm8) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Vianney](https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O) | 3:18 |
 | 23 | [Notre idylle](https://open.spotify.com/track/55KNTR50fdXuORG5GcZQCy) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [Nouvelles pages](https://open.spotify.com/album/5bWrSSbPDyS10V1YvddVNQ) | 3:09 |
 | 24 | [Que je t'aime](https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Ilo Veyou](https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP) | 3:43 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcRTDTjL53b.md) - [plain]
 | 43 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
 | 44 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:40 |
 
-Snapshot ID: `MCw0YTg4YmU4Yzg0MWY1NTc1ODk5ODVhYjNmNDVlMDI0MzY0ZmYxNTdj`
+Snapshot ID: `MCw2NmI2MDViYmE4YWQwZTk5YmEzODljNTc1MzVhOTJjOTdlNGQwZWU4`

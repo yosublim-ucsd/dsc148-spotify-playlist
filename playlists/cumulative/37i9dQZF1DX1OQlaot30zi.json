@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sempre aggiornata. Con nuovi brani di Rondodasosa, Rhove, Mostro e tanti altri!",
+  "description": "Sempre aggiornata. Con nuovi brani di Artie 5ive, Rondodasosa, MACE, Silent Bob e tanti altri!",
   "name": "Novit\u00e0 Rap Italiano",
   "tracks": [
     {
@@ -3050,7 +3050,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 189120,
       "name": "Acqua Passata",
       "url": "https://open.spotify.com/track/52eHiUKvh9btZMY8M3JD03"
@@ -9403,6 +9403,32 @@
     },
     {
       "album": {
+        "name": "Boh\u00e9mien",
+        "url": "https://open.spotify.com/album/6oGK0GMnyrCdQbcF4Zezap"
+      },
+      "artists": [
+        {
+          "name": "TOLKA",
+          "url": "https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W"
+        },
+        {
+          "name": "Caesar",
+          "url": "https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP"
+        },
+        {
+          "name": "PhilG",
+          "url": "https://open.spotify.com/artist/2asDlsjpu5fEraiS3nWGPE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205206,
+      "name": "Boh\u00e9mien",
+      "url": "https://open.spotify.com/track/3oePW10TsT9QHTheyWULLS"
+    },
+    {
+      "album": {
         "name": "REWIND EP",
         "url": "https://open.spotify.com/album/6tudu1HtN2VinixmMMOXYZ"
       },
@@ -15178,6 +15204,24 @@
       "duration_ms": 161771,
       "name": "COME ME",
       "url": "https://open.spotify.com/track/3JCTbCFttaFBNSUKep3Dph"
+    },
+    {
+      "album": {
+        "name": "Come me",
+        "url": "https://open.spotify.com/album/4FoPSoX8WojCij8lwLSJrv"
+      },
+      "artists": [
+        {
+          "name": "Navy",
+          "url": "https://open.spotify.com/artist/6QupubU6p6mZBrF2Wz8OhK"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126572,
+      "name": "Come me",
+      "url": "https://open.spotify.com/track/6IHZ2RUHrwFPfiqunmCFX8"
     },
     {
       "album": {
@@ -28130,7 +28174,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 166574,
       "name": "HATTORI HANZO (feat. Madame)",
       "url": "https://open.spotify.com/track/5e6Qu6LyjBJ3xROHLhwcTT"
@@ -29013,6 +29057,24 @@
     },
     {
       "album": {
+        "name": "BLUE TAPE",
+        "url": "https://open.spotify.com/album/1qkwowXA6TPNPl1kbSIPmn"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "HUSTLER",
+      "url": "https://open.spotify.com/track/5tKdkGsfBLp44jO3uCguUx"
+    },
+    {
+      "album": {
         "name": "Hype",
         "url": "https://open.spotify.com/album/46JPxg4BUlS3xmQ8wIYqRv"
       },
@@ -29680,6 +29742,28 @@
       "duration_ms": 167339,
       "name": "IL MALE CHE MI FAI (feat. Marracash)",
       "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
+    },
+    {
+      "album": {
+        "name": "Edo - Ultimo Atto",
+        "url": "https://open.spotify.com/album/04pYMVGJMSk58Ew6QqZCay"
+      },
+      "artists": [
+        {
+          "name": "Matteo Paolillo",
+          "url": "https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Il Malessere (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2QY4kWgGeTMVkHPQXevNaS"
     },
     {
       "album": {
@@ -30960,6 +31044,24 @@
       "duration_ms": 109565,
       "name": "Intro Sfogo Personale",
       "url": "https://open.spotify.com/track/31mSSGC3KgaTke5BScRhmd"
+    },
+    {
+      "album": {
+        "name": "LIFECORE",
+        "url": "https://open.spotify.com/album/4gnDwYdrhtbf2NR6b6ajwr"
+      },
+      "artists": [
+        {
+          "name": "Zevari",
+          "url": "https://open.spotify.com/artist/6wNIXdciZPyADpF4U9I1fW"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "INVIDIA",
+      "url": "https://open.spotify.com/track/294amWs6oIqe7Ut7T7f4BH"
     },
     {
       "album": {
@@ -32368,7 +32470,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 152571,
       "name": "KISS KISS (feat. Ghali, Tony Boy)",
       "url": "https://open.spotify.com/track/6cMM2WlzIRklPTWgyzMlQx"
@@ -33436,6 +33538,28 @@
       "duration_ms": 122718,
       "name": "La lingua dei Soldi",
       "url": "https://open.spotify.com/track/1Y2xeQV3x5tZY8vcMdAJ2T"
+    },
+    {
+      "album": {
+        "name": "La mia citt\u00e0 (feat. Vale Pain)",
+        "url": "https://open.spotify.com/album/5dR2KTWOy28XvjNz3NZGRx"
+      },
+      "artists": [
+        {
+          "name": "Rame",
+          "url": "https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7"
+        },
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190408,
+      "name": "La mia citt\u00e0 (feat. Vale Pain)",
+      "url": "https://open.spotify.com/track/6RTF8VRxvvodW2PSs5pHww"
     },
     {
       "album": {
@@ -36855,6 +36979,40 @@
     },
     {
       "album": {
+        "name": "M\u0100Y\u0100",
+        "url": "https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        },
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Digital Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194999,
+      "name": "LUMIERE \u1be4 (con Izi, Ernia, Tony Boy, Digital Astro)",
+      "url": "https://open.spotify.com/track/4hGOZFnihN22IsswyRpueW"
+    },
+    {
+      "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/3I8NDcfLMkxTrBHzXqDmi5"
       },
@@ -38016,7 +38174,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 209261,
       "name": "MAMMA",
       "url": "https://open.spotify.com/track/28tVShuhCShyChDFHXEzFL"
@@ -39920,6 +40078,24 @@
       "duration_ms": 202668,
       "name": "Mentre La Citt\u00e0 Dormiva",
       "url": "https://open.spotify.com/track/4u8R80Wr49AjbqgBWT8oNP"
+    },
+    {
+      "album": {
+        "name": "MERCOLED\u00cc",
+        "url": "https://open.spotify.com/album/3Az1k3g9oasddvMM5umLe2"
+      },
+      "artists": [
+        {
+          "name": "ALDA",
+          "url": "https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225128,
+      "name": "MERCOLED\u00cc",
+      "url": "https://open.spotify.com/track/3us3mAJQ3FHF7f5VvqMVCi"
     },
     {
       "album": {
@@ -42041,6 +42217,24 @@
     },
     {
       "album": {
+        "name": "Mood Blu",
+        "url": "https://open.spotify.com/album/4L7VB7EeJUl3JP5kqduP1M"
+      },
+      "artists": [
+        {
+          "name": "Beba",
+          "url": "https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135277,
+      "name": "Mood Blu",
+      "url": "https://open.spotify.com/track/0ayXlzf3J7QqeHw8bsSSdd"
+    },
+    {
+      "album": {
         "name": "MOON (feat. Capo Plaza & Tony Boy)",
         "url": "https://open.spotify.com/album/257g998F1JZB1zxKp0CPNd"
       },
@@ -42808,6 +43002,24 @@
       "duration_ms": 164333,
       "name": "Nah!",
       "url": "https://open.spotify.com/track/7I5he2dsZIVy6WuRBRWN3x"
+    },
+    {
+      "album": {
+        "name": "Questo non \u00e8 un cane / Domo",
+        "url": "https://open.spotify.com/album/0oVlowAcydHpJvAaR3jVUK"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179213,
+      "name": "Nak Su Kao - Parte 2 - Domo Version",
+      "url": "https://open.spotify.com/track/6Pm7BmNjPZUKq2CCee34Ub"
     },
     {
       "album": {
@@ -43596,6 +43808,24 @@
       "duration_ms": 131830,
       "name": "NFT rmx (feat. SPOOKYPBL)",
       "url": "https://open.spotify.com/track/7qaLq0r4JWX1JWS3wnxfCH"
+    },
+    {
+      "album": {
+        "name": "Niente Apposto 2",
+        "url": "https://open.spotify.com/album/24htCZvMp9GMxU25X3Ais0"
+      },
+      "artists": [
+        {
+          "name": "Blake el Diablo",
+          "url": "https://open.spotify.com/artist/3f0oZnKV2b5N8TDBnSGEOL"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Niente Apposto 2",
+      "url": "https://open.spotify.com/track/18GkT5GqDCqMdGW2v6rHii"
     },
     {
       "album": {
@@ -45258,6 +45488,24 @@
       "duration_ms": 116593,
       "name": "Non \u00e8 facile",
       "url": "https://open.spotify.com/track/1g6fEmPXTtxN15rUH0sw7c"
+    },
+    {
+      "album": {
+        "name": "NON \u00c8 FACILE",
+        "url": "https://open.spotify.com/album/2VIBOlpbBVZ5bn1vKJRJsf"
+      },
+      "artists": [
+        {
+          "name": "Red Roses",
+          "url": "https://open.spotify.com/artist/3dA6K34y5FCgngffHJTjpY"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "NON \u00c8 FACILE",
+      "url": "https://open.spotify.com/track/37NB4kJlOnf8BGjDUIMJF0"
     },
     {
       "album": {
@@ -51551,6 +51799,36 @@
     },
     {
       "album": {
+        "name": "M\u0100Y\u0100",
+        "url": "https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "PRAISE THE LORD \u2625 (con Gu\u00e8, Noyz Narcos, Tony Boy)",
+      "url": "https://open.spotify.com/track/53AWZCqbx6kIPsVgSNYn92"
+    },
+    {
+      "album": {
         "name": "Pre-season 2",
         "url": "https://open.spotify.com/album/4UlHqkIDsIP56FuRKzdl4I"
       },
@@ -51776,6 +52054,28 @@
       "duration_ms": 145247,
       "name": "Pretty Girls Love Sardinia (feat. Razer.Rah, Sgribaz, Low-Red, Rico Pmf, Enomoney & ilovethisbeat)",
       "url": "https://open.spotify.com/track/3W22nVl8gT3JD9IPVw3uOP"
+    },
+    {
+      "album": {
+        "name": "Welcome To CS Nord",
+        "url": "https://open.spotify.com/album/6xjyRhsVX5LYAf92xE7YGP"
+      },
+      "artists": [
+        {
+          "name": "Glasond",
+          "url": "https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq"
+        },
+        {
+          "name": "Hammon",
+          "url": "https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147735,
+      "name": "Prima Ci Prendiamo Roma",
+      "url": "https://open.spotify.com/track/5CP4uqaXaVVNdwS6DphiJN"
     },
     {
       "album": {
@@ -53399,6 +53699,32 @@
     },
     {
       "album": {
+        "name": "Ragazzi fuori",
+        "url": "https://open.spotify.com/album/2RgScSlYyVlMPB2KiYnS88"
+      },
+      "artists": [
+        {
+          "name": "Funk Shui Project",
+          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
+        },
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        },
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189145,
+      "name": "Ragazzi fuori",
+      "url": "https://open.spotify.com/track/2QQ3rN78weEKTKBK3Op4dw"
+    },
+    {
+      "album": {
         "name": "Ragazzi tristi",
         "url": "https://open.spotify.com/album/77VRWDD2qWWhXDHFHUzVcm"
       },
@@ -54859,6 +55185,24 @@
     },
     {
       "album": {
+        "name": "RINCELL",
+        "url": "https://open.spotify.com/album/4OWZxHL6TAVfYmJXMZXZwr"
+      },
+      "artists": [
+        {
+          "name": "Hosawa",
+          "url": "https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "RINCELL",
+      "url": "https://open.spotify.com/track/0MpD4CbRRc7dd0UBAHxypb"
+    },
+    {
+      "album": {
         "name": "Rip Takeoff",
         "url": "https://open.spotify.com/album/2G1nnWKYQs5Xhf8AsCJ78H"
       },
@@ -56019,6 +56363,28 @@
     },
     {
       "album": {
+        "name": "SAB",
+        "url": "https://open.spotify.com/album/53OXeIn2SNDGOYmrYAchK7"
+      },
+      "artists": [
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "SAB",
+      "url": "https://open.spotify.com/track/2feRGIQMsbAiaREBKD5Jpl"
+    },
+    {
+      "album": {
         "name": "Sang\u00f2",
         "url": "https://open.spotify.com/album/4BfD7Clcx5oBmDfB0K5t2T"
       },
@@ -56508,6 +56874,32 @@
       "duration_ms": 157439,
       "name": "Santo",
       "url": "https://open.spotify.com/track/3BI5F5hI1jP1CNbJJydc7b"
+    },
+    {
+      "album": {
+        "name": "Real Talk - 5/6 feat. Tony Boy",
+        "url": "https://open.spotify.com/album/70xzri4dvGeP1pU5i9awfo"
+      },
+      "artists": [
+        {
+          "name": "Real Talk",
+          "url": "https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/6c3y5GxfMe6dWgUtTLnnCE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82343,
+      "name": "SANTO (feat. Tony Boy & Swan)",
+      "url": "https://open.spotify.com/track/6dToetZB2vW270C9QvdAdO"
     },
     {
       "album": {
@@ -58234,6 +58626,28 @@
       "duration_ms": 153096,
       "name": "SEX",
       "url": "https://open.spotify.com/track/55t8VgnxOJw77rKjOcdVG5"
+    },
+    {
+      "album": {
+        "name": "4ever Young (Deluxe)",
+        "url": "https://open.spotify.com/album/0gm6fM3b5HrfV306e20I5l"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148023,
+      "name": "Sex Drugs Money",
+      "url": "https://open.spotify.com/track/7wIPI84dqSrD7bgPPgHygA"
     },
     {
       "album": {
@@ -60769,6 +61183,32 @@
     },
     {
       "album": {
+        "name": "SOTTOTERRA",
+        "url": "https://open.spotify.com/album/6xGnZTWlhmBDHoUqBujeeH"
+      },
+      "artists": [
+        {
+          "name": "LXX Blood",
+          "url": "https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5"
+        },
+        {
+          "name": "Naima Blood",
+          "url": "https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9"
+        },
+        {
+          "name": "143 Kore",
+          "url": "https://open.spotify.com/artist/42gIvhdClOPZVVW5iYrX8c"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92800,
+      "name": "SOTTOTERRA",
+      "url": "https://open.spotify.com/track/4SilopdFZ8jPPC30hAN5CJ"
+    },
+    {
+      "album": {
         "name": "Sottotitoli",
         "url": "https://open.spotify.com/album/0lTLD3swVyFy58S1WQutMk"
       },
@@ -61584,6 +62024,24 @@
       "duration_ms": 134329,
       "name": "Statt ferm",
       "url": "https://open.spotify.com/track/6yPNbFCaMfEhoCYGgOrg5x"
+    },
+    {
+      "album": {
+        "name": "stavo per perdermi",
+        "url": "https://open.spotify.com/album/7aVrplK8KFqjse9iZqhdKw"
+      },
+      "artists": [
+        {
+          "name": "Luca Re",
+          "url": "https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229422,
+      "name": "stavo per perdermi",
+      "url": "https://open.spotify.com/track/5OkNpAGC1pTGWxbwqWxrwM"
     },
     {
       "album": {
@@ -68799,6 +69257,24 @@
     },
     {
       "album": {
+        "name": "Vitamina life",
+        "url": "https://open.spotify.com/album/3kUuHtApN9MrBWeytwRtCe"
+      },
+      "artists": [
+        {
+          "name": "Tripolare",
+          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Vitamina life",
+      "url": "https://open.spotify.com/track/2UFwuTDQMk3virqzYttqV2"
+    },
+    {
+      "album": {
         "name": "VITTORIO NEVES",
         "url": "https://open.spotify.com/album/3EdGPemfq5PxXUzPyg3Skh"
       },
@@ -70099,6 +70575,24 @@
     },
     {
       "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/2IjDjYCEjdPMVc7sXLwVzq"
+      },
+      "artists": [
+        {
+          "name": "FreshMula",
+          "url": "https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/2RJQsNBXE0zrAcq1AS3Bd2"
+    },
+    {
+      "album": {
         "name": "WRAITH",
         "url": "https://open.spotify.com/album/2jq78rXdQZhyw7QpuS9TQl"
       },
@@ -71316,6 +71810,24 @@
       "duration_ms": 146107,
       "name": "\u00catre Seul",
       "url": "https://open.spotify.com/track/3MbEo7NZ16RjUl3JUVl3pw"
+    },
+    {
+      "album": {
+        "name": "\u20ac$\u00a5",
+        "url": "https://open.spotify.com/album/6BSzbvsZtXZbrev3jaMjNg"
+      },
+      "artists": [
+        {
+          "name": "Xhovana",
+          "url": "https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136874,
+      "name": "\u20ac$\u00a5",
+      "url": "https://open.spotify.com/track/2MxBRTAKJbq4VLxvgO4Owg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi"

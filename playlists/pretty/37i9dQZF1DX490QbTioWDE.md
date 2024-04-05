@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,225 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,541 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 96 | [Te Felicito](https://open.spotify.com/track/2fFCL1cbivwt9v9jerCgmf) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Te Felicito](https://open.spotify.com/album/4l0209Du1kilXZ4RojUfIJ) | 2:32 |
 | 97 | [La Vagancia Cuartetera](https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [La Vagancia Cuartetera](https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB) | 3:31 |
 | 98 | [Sofia](https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Un Nuevo Tiempo](https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ) | 2:16 |
-| 99 | [Tututu Tatata](https://open.spotify.com/track/6j6d74YdMpWY2jRGeMzyCs) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Tututu Tatata](https://open.spotify.com/album/18mVwG8HDttyl7uw1YKcRw) | 2:27 |
-| 100 | [De Nada](https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [De Nada](https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3) | 3:17 |
+| 99 | [De Nada](https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [De Nada](https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3) | 3:17 |
+| 100 | [Tututu Tatata](https://open.spotify.com/track/6j6d74YdMpWY2jRGeMzyCs) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Tututu Tatata](https://open.spotify.com/album/18mVwG8HDttyl7uw1YKcRw) | 2:27 |
 
-Snapshot ID: `MCxjMmNjY2E2MDUxMTY3YWNiZTA5NjVhMzA3NDRmOWI2NTg0M2NjNTBi`
+Snapshot ID: `MCxhZmQ5N2FkNDRmYTU1MGVmZjI1M2JjMTBmODExOTMwZjExODU3NGJj`

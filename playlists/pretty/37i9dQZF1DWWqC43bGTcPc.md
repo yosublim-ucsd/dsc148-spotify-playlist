@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 邱鋒澤x 艾薇 \(Feng Ze x Ivy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,705 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,846 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [最後一班車](https://open.spotify.com/track/2Xe9BalAo8ryezvsp2yPAs) | [PPlin](https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw) | [最後一班車](https://open.spotify.com/album/4lcbQskGqnjH39FFs05huV) | 3:33 |
 | 50 | [11](https://open.spotify.com/track/1SddmZXeZONbnkBeRT95hx) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [T.I.M.E.](https://open.spotify.com/album/425fsE4f3cdMheqvOFM9g4) | 3:48 |
 
-Snapshot ID: `MCxlMjQ4MTEyZjFiNGUxYjUxYTEyYTYyNjVkZGE2OWU3ZjI2MzM1MDFh`
+Snapshot ID: `MCxmMWZhMDEzY2ZlMTVjZTI2NGYwNDIyMzNiY2NjYWRjYTg3MmJlM2E0`

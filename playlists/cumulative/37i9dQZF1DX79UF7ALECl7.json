@@ -325,6 +325,24 @@
     },
     {
       "album": {
+        "name": "Back In Time",
+        "url": "https://open.spotify.com/album/5XaWwPKMwZmfzgmpHD82IZ"
+      },
+      "artists": [
+        {
+          "name": "Safe Wave",
+          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Back In Time",
+      "url": "https://open.spotify.com/track/6sLrbxhXg0kOnqPocIbVPZ"
+    },
+    {
+      "album": {
         "name": "Proto/Emotions",
         "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
       },
@@ -906,7 +924,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 247933,
       "name": "Float",
       "url": "https://open.spotify.com/track/1LDUJjR8IZtd48eCTA3J2Q"
@@ -1120,7 +1138,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 392347,
       "name": "Harmonic Dreams",
       "url": "https://open.spotify.com/track/13yelaqEIzn1hOz2ZRx2xz"
@@ -2976,7 +2994,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 301909,
       "name": "What We Witness",
       "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"

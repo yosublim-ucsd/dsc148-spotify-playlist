@@ -4,7 +4,7 @@
 
 > Music from "That Time I Got Reincarnated as a Slime"! /アニメ「転生したらスライムだった件」の世界を彩る楽曲をプレイリストで。©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-64 songs - 3 hr 4 min
+65 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Make Me Feel Better](https://open.spotify.com/track/48Hxgmy2rW0jT6YZUo18R8) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Make Me Feel Better](https://open.spotify.com/album/0VymrjRtKPZUvHkcJLaqby) | 4:29 | 2022-11-25 |  |
 | [MONOGRAM](https://open.spotify.com/track/135nKXuCgD9wcByXRWjB4o) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [MONOGRAM](https://open.spotify.com/album/1D7FJhAmoqrVERB7IRXZ0h) | 3:39 | 2023-11-22 |  |
 | [Nameless Story](https://open.spotify.com/track/0DR2YxEHLwmb3ZLcqHbjN2) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [Nameless Story \(アーティスト盤\)](https://open.spotify.com/album/5ALYVB2B7UAkaeYrukIXGt) | 4:02 | 2022-11-25 |  |
+| [PEACEKEEPER](https://open.spotify.com/track/6eWvLMxektDc1Yh0namRGc) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [PEACEKEEPER](https://open.spotify.com/album/5an5M8Vi6zKCqwCoxba0X7) | 3:28 | 2024-04-04 |  |
 | [Reincarnate](https://open.spotify.com/track/0xjYJAWptZsu023I70OhKj) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [LAYERING](https://open.spotify.com/album/0zkDqUmXN5wclz5CtXr3ey) | 4:03 | 2022-11-25 |  |
 | [SPARKLES](https://open.spotify.com/track/14X3tWKHmGj6pTtafPo0uA) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [SPARKLES](https://open.spotify.com/album/5TKKesEMMoSijwDGpcAXI1) | 4:36 | 2023-11-22 |  |
 | [SPARKLES](https://open.spotify.com/track/3heytsqAvwcOmpvJvKop80) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [SPARKLES](https://open.spotify.com/album/7DLjM7lmuv7rlhVShdIBXN) | 4:36 | 2022-11-25 | 2024-03-09 |

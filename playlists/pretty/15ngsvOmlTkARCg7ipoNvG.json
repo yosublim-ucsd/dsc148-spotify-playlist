@@ -1,12 +1,12 @@
 {
   "description": "Beautiful instrumental music to keep you in the flow as you code or study. An ideal playlist for programming during stressful times --- | program | programmer | software | software engineer | computer science | concentrate | concentration | focusing |",
-  "num_followers": 18939,
+  "num_followers": 18938,
   "original_name": "CODING FOCUS",
   "owner": {
     "name": "IW Music",
     "url": "https://open.spotify.com/user/ikwong1979"
   },
-  "snapshot_id": "OTM3NSw5MzAwZGU4NTY4NGYwMTUyZTg3MjZmZTEyZTVhYzAwZDNmZTI1NWRi",
+  "snapshot_id": "OTM3NiwwOTI1YTg0NDBjOWM2NGRkYjk1MGM2NWQzMzYxZTZkZjJiZWJjM2Fh",
   "tracks": [
     {
       "added_at": "2024-02-12 06:27:00",
@@ -1015,6 +1015,86 @@
       "duration_ms": 60254,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/48EvGZAEDgy6wiZ45NUHuo"
+    },
+    {
+      "added_at": "2024-04-04 13:52:52",
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/5AJv4aKXe8OJjHtGvEVTFI"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/4I6ts0ghZ7I5dKdLZxHklw"
+    },
+    {
+      "added_at": "2024-04-04 13:52:52",
+      "album": {
+        "name": "Peaceful Moments",
+        "url": "https://open.spotify.com/album/68UoGqyFrVntLGBozUGBlf"
+      },
+      "artists": [
+        {
+          "name": "Open Blue Sky",
+          "url": "https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "Peaceful Moments",
+      "url": "https://open.spotify.com/track/2wSVdxETIakJGpMx8co7PP"
+    },
+    {
+      "added_at": "2024-04-04 13:52:52",
+      "album": {
+        "name": "Skies",
+        "url": "https://open.spotify.com/album/6oZZHp9yVNOOJHzQIXk2Bo"
+      },
+      "artists": [
+        {
+          "name": "Ivory Light",
+          "url": "https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi"
+        }
+      ],
+      "duration_ms": 60254,
+      "name": "Skies",
+      "url": "https://open.spotify.com/track/2J3aTb3fexm0hf9M30th7b"
+    },
+    {
+      "added_at": "2024-04-04 13:52:52",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/7pmk2JpjM61wubYBWMPDvL"
+      },
+      "artists": [
+        {
+          "name": "July Sunrise",
+          "url": "https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE"
+        }
+      ],
+      "duration_ms": 60476,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1FBUSCNdgbSju72fwxHpuQ"
+    },
+    {
+      "added_at": "2024-04-04 13:52:52",
+      "album": {
+        "name": "Afternoon Glow (Ambient Cello Version)",
+        "url": "https://open.spotify.com/album/5jfSN4XYMyaX8fEqs7XRD2"
+      },
+      "artists": [
+        {
+          "name": "Harmony Night",
+          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "Afternoon Glow - Ambient Cello Version",
+      "url": "https://open.spotify.com/track/6UKxFw75BbK2lYOiXphunp"
     },
     {
       "added_at": "2024-02-12 06:27:00",

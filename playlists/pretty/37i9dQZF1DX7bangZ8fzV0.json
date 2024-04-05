@@ -1,28 +1,28 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=FS3SHbnpQrypAIYdOToH5g\">Riaan Benad\u00e9</a>  ",
-  "num_followers": 99017,
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=45a30asnSZC1qXPlyoy12w\">Brendan Peyper</a>  ",
+  "num_followers": 99075,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjZkOTg1ZjBiNTQwN2Q3NjBlOGI3MzM1NTE2YmUyOWU3NzEwZGY4",
+  "snapshot_id": "MCw2NzA5ODhmMDllNDhmZmUxMzk4YzhlOWU0OTY5NmRiYmJhOGQyZjYx",
   "tracks": [
     {
-      "added_at": "2024-03-28 22:00:00",
+      "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Stoom",
-        "url": "https://open.spotify.com/album/1CSsLrp52azvnNC5mMiuFe"
+        "name": "Omdat Jy Mag",
+        "url": "https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt"
       },
       "artists": [
         {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
         }
       ],
-      "duration_ms": 178669,
-      "name": "Stoom",
-      "url": "https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2"
+      "duration_ms": 213000,
+      "name": "Madelein",
+      "url": "https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
     },
     {
+      "added_at": "2024-03-28 22:00:00",
+      "album": {
+        "name": "Stoom",
+        "url": "https://open.spotify.com/album/1CSsLrp52azvnNC5mMiuFe"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 178669,
+      "name": "Stoom",
+      "url": "https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2"
+    },
+    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Helemal",
@@ -107,22 +123,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Boksemdais",
-        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 188553,
-      "name": "Boksemdais",
-      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Almal Gly",
         "url": "https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX"
       },
@@ -151,6 +151,22 @@
       "duration_ms": 201777,
       "name": "Moegdans",
       "url": "https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Boksemdais",
+        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 188553,
+      "name": "Boksemdais",
+      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 196223,
       "name": "Dina",
       "url": "https://open.spotify.com/track/5qA6bUnDzyLDbyAlH4U7vV"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Spontaan",
-        "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 180040,
-      "name": "Gooi Nog 'n Whiskey",
-      "url": "https://open.spotify.com/track/7Bn6wlpyw2ucBHxdDYEAUT"
     },
     {
       "added_at": "2024-02-15 22:00:00",

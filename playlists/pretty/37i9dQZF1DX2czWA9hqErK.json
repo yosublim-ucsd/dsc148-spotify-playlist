@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 1039880,
+  "num_followers": 1039895,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzBlZWNmMDg2ODYyYTBjNDAyNTFlMGRhNDljNGY2MDBhNDI0YTVj",
+  "snapshot_id": "MCxkMzgyNTc5ZTRmMjExYzk4NTU4NjVkNmU4ZTUxZjExNGQ4ZGRiNGI1",
   "tracks": [
     {
       "added_at": "2024-03-29 00:01:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 245964,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "- (Deluxe)",
         "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Snooze (Acoustic) (feat. Justin Bieber)",
         "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "What I Am",
-        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 211280,
-      "name": "What I Am",
-      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 232796,
       "name": "Casual",
       "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "What I Am",
+        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "What I Am",
+      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "My House Is Not A Home",
+        "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 239181,
+      "name": "My House Is Not A Home",
+      "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "I Remember Everything (feat. Kacey Musgraves)",
         "url": "https://open.spotify.com/album/6iiQFr91jK794wZRDMSXkp"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/58pTPJPBjw1xL9OcLcQczU"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "My House Is Not A Home",
-        "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 239181,
-      "name": "My House Is Not A Home",
-      "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -839,6 +839,22 @@
       "duration_ms": 170830,
       "name": "A Year Ago",
       "url": "https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Save You a Seat",
+        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Save You a Seat",
+      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -943,34 +959,18 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Save You a Seat",
-        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
+        "name": "clouds",
+        "url": "https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 197573,
-      "name": "Save You a Seat",
-      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 201303,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
+      "duration_ms": 162615,
+      "name": "clouds",
+      "url": "https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "clouds",
-        "url": "https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 162615,
-      "name": "clouds",
-      "url": "https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en"
+      "duration_ms": 201303,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "The Last Bit Of Us",
+        "url": "https://open.spotify.com/album/0VSEo3ZMGfadTa9K90KMI3"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "The Last Bit Of Us",
+      "url": "https://open.spotify.com/track/3cgHwqbHcu1DKFADvkgPJ7"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "Shakes",
         "url": "https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 173400,
       "name": "Free Falling",
       "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "The Last Bit Of Us",
-        "url": "https://open.spotify.com/album/0VSEo3ZMGfadTa9K90KMI3"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "The Last Bit Of Us",
-      "url": "https://open.spotify.com/track/3cgHwqbHcu1DKFADvkgPJ7"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/3omkrvNwtwGdbSYiAwlsxL"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 338195,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/1izC6AsOwb84CYQ7OA3ko7"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 179757,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "live more & love more",
+        "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 158259,
+      "name": "live more & love more",
+      "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "live more & love more",
-        "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 158259,
-      "name": "live more & love more",
-      "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Last Time I Saw You",
         "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 216347,
       "name": "Last Time I Saw You",
       "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "You Promised A Lifetime",
+        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 149605,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1439,34 +1439,18 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "You Promised A Lifetime",
-        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
+        "name": "alone",
+        "url": "https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 149605,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Two Hearts",
-        "url": "https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 246796,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m"
+      "duration_ms": 172966,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1503,22 +1487,6 @@
       "duration_ms": 152293,
       "name": "Highlights",
       "url": "https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "alone",
-        "url": "https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 172966,
-      "name": "alone",
-      "url": "https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1603,6 +1571,38 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/4FZIE2wFhtrE4bwvp1H1nu"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 175969,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/4m9DA6crSHtnrhaIVGPzwm"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "Me Again",
         "url": "https://open.spotify.com/album/7FxtSVqKixyRA2jNje12ZP"
       },
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+      "duration_ms": 166941,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w"
     }
   ],
   "unique_name": "Easy",

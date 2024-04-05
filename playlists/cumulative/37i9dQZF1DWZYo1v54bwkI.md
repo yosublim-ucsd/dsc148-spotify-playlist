@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-256 songs - 12 hr 56 min
+261 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Crystal Waterbed](https://open.spotify.com/track/5pXm5P4OUFUTk9oz5kd9ur) | [El Shavindar](https://open.spotify.com/artist/18XCxniHvAlJnqAcYfNW1Q) | [Crystal Waterbed](https://open.spotify.com/album/1NIbtSRPGYub3JnL9lO47z) | 3:42 | 2022-07-15 |  |
 | [Cuimhne](https://open.spotify.com/track/3cuSTJIpzPdmI1a46b4xth) | [Cadhla Byrne](https://open.spotify.com/artist/73717wA5LNgbEDtJ2lqSW1) | [Cuimhne](https://open.spotify.com/album/11HhPEoFFN56mWcKAcelI8) | 2:50 | 2022-12-20 |  |
 | [Cíes](https://open.spotify.com/track/1JuU4qEEZgSZbXotwMRpQF) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Cíes](https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC) | 2:35 | 2022-07-15 |  |
+| [Decrease](https://open.spotify.com/track/3SSVWjIChzBgblu62DP6Dy) | [M\. Suremei](https://open.spotify.com/artist/5BlPckrd8L7D9g7I3Xc66X) | [Decrease](https://open.spotify.com/album/7Mx85vPdcZg1Vri3yxsTsG) | 2:57 | 2024-04-04 |  |
 | [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 3:11 | 2022-07-15 | 2023-02-18 |
 | [Deep And Hollow](https://open.spotify.com/track/6z1QfP61cL5IkPCVm3BKiw) | [Thoas Galla](https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF) | [Deep And Hollow](https://open.spotify.com/album/7pYFDBdBF4Anj3eRP753pw) | 2:52 | 2023-09-01 |  |
 | [Deeper Feelings](https://open.spotify.com/track/5SJZAqICbOr44zfdXfFFuO) | [Andrei Mizi](https://open.spotify.com/artist/6KnknNIJOqJZzBiooVpN3R) | [Deeper Feelings](https://open.spotify.com/album/1EGnUicl4eQNyq4BzbMY7T) | 3:04 | 2024-03-14 |  |
@@ -153,6 +154,7 @@
 | [Mantra](https://open.spotify.com/track/0mhg4wkvEjgVUu3P0vBlyA) | [Sunwell](https://open.spotify.com/artist/1FZkHf5jmlpSdySTd8BUu2) | [Mantra](https://open.spotify.com/album/3yj63MjABGbwMgVP8Az0oK) | 3:45 | 2022-07-15 | 2022-10-15 |
 | [Memento Vivere](https://open.spotify.com/track/2Vs8AIlAGaEyhh5y7vR7x7) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:37 | 2022-09-30 |  |
 | [Memorising Breaths](https://open.spotify.com/track/5VO4Whju6O7GuB28o8yaFN) | [Charles Sardo](https://open.spotify.com/artist/7t9MmdQBNxgFACHuBih61V) | [Memorising Breaths](https://open.spotify.com/album/05JPbUArv7MlJNtfuUEasr) | 3:01 | 2022-07-15 |  |
+| [Midnight Bloom](https://open.spotify.com/track/1qmSnLbQX7kifJXOi1rN3u) | [Soothing Leaf](https://open.spotify.com/artist/1JlIsTlK1wj6QgGbjJZYOc) | [Midnight Bloom](https://open.spotify.com/album/1lUlOKwqb1uhyT8rIk74rx) | 3:11 | 2024-04-04 |  |
 | [Mistletoe](https://open.spotify.com/track/3sdesEyISVCRUqj0c12Jxp) | [Blossom Inn](https://open.spotify.com/artist/1oOLgA7Gl8VzwsIadutGo8) | [Mistletoe](https://open.spotify.com/album/6iC1rAAQha2cLCEWE3TBRm) | 2:32 | 2024-03-07 |  |
 | [More Than Words](https://open.spotify.com/track/4E22XbJSOj8T2Ua6ye19Cx) | [Emeli Saga](https://open.spotify.com/artist/3J5btrvXNSchP5VZiE3vcj) | [More Than Words](https://open.spotify.com/album/7r1WSkRvU9PFPbV7iyK7HT) | 2:42 | 2023-03-16 |  |
 | [Morning Breeze](https://open.spotify.com/track/3n0oenkKLS8SyJtd4fUkak) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [Best Relaxing SPA Music](https://open.spotify.com/album/00edVDn3XgBLSkCxx6aJN9) | 1:59 | 2022-07-15 | 2022-12-21 |
@@ -166,6 +168,7 @@
 | [Nomeh](https://open.spotify.com/track/3xQbeORys8d2PyWuiGqHYI) | [Alisieu](https://open.spotify.com/artist/2cUKHomZHG6dG3PhDltRSJ) | [Nomeh](https://open.spotify.com/album/6UdQ5667BhDB47V7E95wm6) | 3:54 | 2022-07-15 |  |
 | [Numfashi](https://open.spotify.com/track/5IaczaQu93vHKEnrS1WVyo) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Numfashi](https://open.spotify.com/album/6MN3rLXKNFMSbXhLRdoyLF) | 3:15 | 2022-07-15 |  |
 | [Nära](https://open.spotify.com/track/0FTc7d89oQ0HpTYLjpPd3p) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Nära](https://open.spotify.com/album/4fsPZO84anFbq1ZxXLI6FQ) | 3:17 | 2022-07-15 |  |
+| [Obscured](https://open.spotify.com/track/0FjVeYnx2VRZDjmZDvutqe) | [Enormousness](https://open.spotify.com/artist/7H1K6r71caJTKrd0oFLYN2) | [Obscured](https://open.spotify.com/album/3G2JewL00t9OdZZowPwFxv) | 2:20 | 2024-04-04 |  |
 | [Oceanwide](https://open.spotify.com/track/7Mr3SK5zRJ0mrdNraurM5Z) | [Harlow Moss](https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE) | [Oceanwide](https://open.spotify.com/album/0zrCCtHKET7BZkwwuo7Mhu) | 2:32 | 2022-07-15 |  |
 | [Omsluten](https://open.spotify.com/track/7mmhIxGPMPFCBzfN6M9QXp) | [Mossfrid](https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy) | [Omsluten](https://open.spotify.com/album/5ATPZF3T6j6YMrC7sMl8Wv) | 3:21 | 2022-07-15 |  |
 | [Open Air](https://open.spotify.com/track/7KTPLShpRc7m6091ywTrjU) | [Ion Dia](https://open.spotify.com/artist/6tuTemxMmES4GFfBd54bHX) | [Open Air](https://open.spotify.com/album/5YXErTPlxXqszRJHa5JCGs) | 2:43 | 2022-12-02 |  |
@@ -181,6 +184,7 @@
 | [Peaks](https://open.spotify.com/track/08ZVl6IBiPemNOsVfkoIyv) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Peaks](https://open.spotify.com/album/2xv2cURnTpq0NdL39xJsCw) | 2:48 | 2022-11-11 |  |
 | [Perfect Rose](https://open.spotify.com/track/0Yuw1szR25KD6tmO1KSs9x) | [Jade Palace](https://open.spotify.com/artist/52FzcYdR52cgukrg4A3Tyv) | [Perfect Rose](https://open.spotify.com/album/2E8dJJLDCiKqWMVXuWetCq) | 3:06 | 2022-07-15 | 2023-02-10 |
 | [Perfecta paz](https://open.spotify.com/track/61ZSs7yxiY93XMJ33h4mWK) | [Che Milk](https://open.spotify.com/artist/27eOiRby6feQRgULqf0V8Q) | [Perfecta paz](https://open.spotify.com/album/0ASgTzf5KZiF6A8MawqScN) | 2:59 | 2022-07-15 |  |
+| [Personal Discovery](https://open.spotify.com/track/53rQSoI3blh9Cq9BoU6FmX) | [Galactic Soundscape](https://open.spotify.com/artist/1jELPrTZ9LnLVLLlgr8u2D) | [Personal Discovery](https://open.spotify.com/album/0Xcl6pm41yDQMPZTaDByov) | 2:58 | 2024-04-04 |  |
 | [Placidus](https://open.spotify.com/track/0k5fYqZwhHGPxMxmLYg6gu) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [Placidus](https://open.spotify.com/album/6PoCmbDRnMT0gR02kQk2ra) | 3:15 | 2023-09-22 |  |
 | [Pneuma](https://open.spotify.com/track/5Lc1wnS6xGMw2xajdDvKAp) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Pneuma](https://open.spotify.com/album/3kmpm5eHmRqaAMEO3Ixgn6) | 3:47 | 2022-07-15 |  |
 | [Prashansaneey](https://open.spotify.com/track/3Setdymx44HIU2wb7sW5s6) | [Ashia Kashyap](https://open.spotify.com/artist/0ZsjZX7yAwB3UhNT9cWonV) | [Prashansaneey](https://open.spotify.com/album/6dMnLGBlZrlHj2CrGuZPMn) | 3:41 | 2022-07-15 |  |
@@ -254,6 +258,7 @@
 | [Weightless](https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Weightless](https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA) | 2:29 | 2022-07-15 |  |
 | [Wellen](https://open.spotify.com/track/7aeHCE4TOCRWzX8kKahmkJ) | [Celine Brandt](https://open.spotify.com/artist/7JshNZgXnBP253y6KE0aQR) | [Wellen](https://open.spotify.com/album/1HBCQ7Q6MnhJ5oHlFOT7EF) | 3:36 | 2023-04-07 |  |
 | [Wildflowers](https://open.spotify.com/track/5p1QvJTBgkDQMuGUt1oKOi) | [Zahra Tate](https://open.spotify.com/artist/1tHpWX1vFJiLSbSYrNzkhN) | [Wildflowers](https://open.spotify.com/album/2QZcSPvaU5XKirgrkTj8xz) | 3:27 | 2023-04-07 |  |
+| [Willow Spring](https://open.spotify.com/track/7DvXX1p1TWC8Nq3mv2NApL) | [Adventurine](https://open.spotify.com/artist/2Zx9zEFTBFwvULdr9oRKVW) | [Willow Spring](https://open.spotify.com/album/1Nf1ax2gr3gPIZs0BJGUu2) | 2:56 | 2024-04-04 |  |
 | [Wu Wei](https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Wu Wei](https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW) | 2:49 | 2022-09-13 |  |
 | [Yael](https://open.spotify.com/track/0IUMxL5vvNXnOONt4XOQZE) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Occo](https://open.spotify.com/album/04kUJ5taRxFums5i4QWO8h) | 3:03 | 2023-03-10 |  |
 | [Yoga Nidra](https://open.spotify.com/track/0srGfXXqmeISaT3uSoaoXM) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [Yoga Nidra](https://open.spotify.com/album/5EazHq0TDPzE5zqFuW8QwJ) | 2:34 | 2022-07-15 | 2023-08-12 |

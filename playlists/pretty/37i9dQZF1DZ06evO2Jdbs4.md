@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,293 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,301 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 49 | [Llórame](https://open.spotify.com/track/2uBdikf4ImGwMP4UZCpt0W) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llórame](https://open.spotify.com/album/0XT8nEBbAPG8TTRc5ZwLqf) | 3:06 |
 | 50 | [Quisiera Decirte \- En Vivo](https://open.spotify.com/track/5GwDyHTGJvmU0joWiH7wqs) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby Pulido en Vivo..\. Desde Monterrey, México \(En Vivo\)](https://open.spotify.com/album/3sSWnpZn8WwUh33sngU6vn) | 3:09 |
 
-Snapshot ID: `MCw0OGRiMjI4NGFiZGIwYTgzM2RhOWQzYmM5MTA1OTE0MWFiMzFhMjYz`
+Snapshot ID: `MCxjZTA2ZjAxMTkwYmViMDBmMGIxZTE1OTc3YjA2ZWMyZGM4NTE0YmM1`

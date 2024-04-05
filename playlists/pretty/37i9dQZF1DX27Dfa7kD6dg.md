@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,310 likes - 114 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,364 likes - 114 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 66 | [Mi Mundo](https://open.spotify.com/track/6dvRYk3hch6cxh81jhKwFD) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Lo Que Pasó..\. La Historia Del Príncipe De La Salsa](https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW) | 4:43 |
 | 67 | [Esta Pegao](https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204) | [El Timba](https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi), [Fabio Gianni](https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu) | [Guaguamambo](https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9) | 4:38 |
 | 68 | [Vaciló Con Tumbao](https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr) | [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Dos Imagenes](https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo) | 2:54 |
-| 69 | [La Lotería](https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW) | [Andy Harlow](https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG) | [Sorpresa La Flauta](https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ) | 3:16 |
-| 70 | [Deja de Criticar](https://open.spotify.com/track/1TNBaVWcOnNIiPCJaNV0rz) | [La Excelencia](https://open.spotify.com/artist/3eEA1TOVapqDPg1EEu1TsI) | [Mi Tumbao Social](https://open.spotify.com/album/3UL8WmEzBRWnGLgBA0tDkj) | 4:10 |
+| 69 | [Deja de Criticar](https://open.spotify.com/track/1TNBaVWcOnNIiPCJaNV0rz) | [La Excelencia](https://open.spotify.com/artist/3eEA1TOVapqDPg1EEu1TsI) | [Mi Tumbao Social](https://open.spotify.com/album/3UL8WmEzBRWnGLgBA0tDkj) | 4:10 |
+| 70 | [La Lotería](https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW) | [Andy Harlow](https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG) | [Sorpresa La Flauta](https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ) | 3:16 |
 | 71 | [Presidente Dante](https://open.spotify.com/track/2ttM5D84FTOVxiIESWL0zY) | [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Frankie Dante & Orquesta Flamboyan](https://open.spotify.com/artist/27G5wNXY4nO0Ji2weHv9PR) | [Con Larry Harlow](https://open.spotify.com/album/2uiwRibXO2rTrXC7vvoBSn) | 4:07 |
 | 72 | [Pregones De San Cristóbal](https://open.spotify.com/track/64agTveoc8y1cXjfLHJG9c) | [La Critica](https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [La Crítica: Salseros De Corazón, Vol\. 3](https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel) | 3:59 |
 | 73 | [La Pelota](https://open.spotify.com/track/4DkK1PenbmoVjSEFMurUFp) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Que Viva La Música](https://open.spotify.com/album/567VtThAiuol6fSWSPPTNV) | 4:18 |
@@ -115,12 +115,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 105 | [New York State of Mind](https://open.spotify.com/track/3HP07vhvfEXajpBL0pgdsW) | [Bobby Rodriguez y La Compania](https://open.spotify.com/artist/4AlehYieSy692kucODs8Na) | [Juntos Otra Vez](https://open.spotify.com/album/1aDMTl12KZoP0RqOdiEXow) | 5:17 |
 | 106 | [Free For All](https://open.spotify.com/track/2vCQYL28VsRJJo70fva5bB) | [Al Castellanos](https://open.spotify.com/artist/3SaQoDi8xQt9x6nJQjY0Pe) | [Vintage Cuba No\. 90 \- EP: Salta Perico](https://open.spotify.com/album/0PP7vABwnCQJAwR6g2nGnl) | 2:01 |
 | 107 | [Fiesta A La King](https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Instant Party](https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr) | 5:46 |
-| 108 | [Nuestro Sueño](https://open.spotify.com/track/0hrzWL0y3GVHEeWVDrWw5g) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Salsa Nama](https://open.spotify.com/album/0wKo8Gv5tffGXI18AxsfbG) | 5:32 |
-| 109 | [Pachito Eche](https://open.spotify.com/track/1lezqUzhsYpLyDMf2BHjL4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Hoy Y Ayer](https://open.spotify.com/album/1RDCs8PZwX9UnI2u6Jdquy) | 3:40 |
+| 108 | [Pachito Eche](https://open.spotify.com/track/1lezqUzhsYpLyDMf2BHjL4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Hoy Y Ayer](https://open.spotify.com/album/1RDCs8PZwX9UnI2u6Jdquy) | 3:40 |
+| 109 | [Nuestro Sueño](https://open.spotify.com/track/0hrzWL0y3GVHEeWVDrWw5g) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Salsa Nama](https://open.spotify.com/album/0wKo8Gv5tffGXI18AxsfbG) | 5:32 |
 | 110 | [Matrimonio Feliz](https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [West Side Beat](https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2) | 2:47 |
 | 111 | [Contra La Corriente](https://open.spotify.com/track/22GxtWFeORJZaptz26pxet) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 5:04 |
 | 112 | [De Profesión...Tu Amante](https://open.spotify.com/track/5u6tdzhDa8rlOOI5Lm84KL) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 4:29 |
 | 113 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
 | 114 | [Insaciable](https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Millennium: Eddie Santiago](https://open.spotify.com/album/6trSesFexVgSw7P7eeSN6L) | 4:29 |
 
-Snapshot ID: `MCxkNTI1ZDY4NmM5YTNhZTg0ZDc0MDg0NWQzNDlmMmU4YjZmOGUxNjY3`
+Snapshot ID: `MCwwZDU1MTE2YTcxZjllNTA4ODhiMmIyNTAwZDc2YjNjZGRiNmRlYzA5`

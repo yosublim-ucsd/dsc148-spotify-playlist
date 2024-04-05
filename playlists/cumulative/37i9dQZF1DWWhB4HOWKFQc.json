@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Adrian Khalif, Juicy Luicy",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Ariana Grande",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -332,6 +332,24 @@
       "duration_ms": 255837,
       "name": "Aku Sayang Kamu",
       "url": "https://open.spotify.com/track/1lu1JZPI7s2cWIeIFYgjL3"
+    },
+    {
+      "album": {
+        "name": "Alamak Raya Lagi!",
+        "url": "https://open.spotify.com/album/2Rggi2m4YvzePLbKMJg74o"
+      },
+      "artists": [
+        {
+          "name": "De Fam",
+          "url": "https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Alamak Raya Lagi!",
+      "url": "https://open.spotify.com/track/2VTLUKd4CbW14uKI973vl4"
     },
     {
       "album": {
@@ -2247,6 +2265,24 @@
     },
     {
       "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
+      },
+      "artists": [
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228346,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
+    },
+    {
+      "album": {
         "name": "Flip It Up",
         "url": "https://open.spotify.com/album/6Em77lD3FmCc1CkNVu3iYj"
       },
@@ -2500,6 +2536,24 @@
       "duration_ms": 193959,
       "name": "HAHAHA",
       "url": "https://open.spotify.com/track/0coPXOjcMS7mhizONlReis"
+    },
+    {
+      "album": {
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189934,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N"
     },
     {
       "album": {
@@ -3391,6 +3445,24 @@
     },
     {
       "album": {
+        "name": "Kawanen Saur",
+        "url": "https://open.spotify.com/album/3h19n32YsqZJb4XjWCDH7U"
+      },
+      "artists": [
+        {
+          "name": "Sela Good",
+          "url": "https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Kawanen Saur",
+      "url": "https://open.spotify.com/track/1Rofr286SKNgf4Ns7RDiRp"
+    },
+    {
+      "album": {
         "name": "Kembali Pulang",
         "url": "https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih"
       },
@@ -4244,7 +4316,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 232320,
       "name": "Marikit Sa Dilim",
       "url": "https://open.spotify.com/track/2n0OFvWzkojBD1kVIOeGqe"
@@ -5396,7 +5468,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 205253,
       "name": "Pergi Tanpa Pesan",
       "url": "https://open.spotify.com/track/524W6iOfPJX0g9uzjF4jQ1"

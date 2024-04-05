@@ -4,11 +4,12 @@
 
 > Détendez vous avec ces chansons tranquilles pour toute la famille
 
-64 songs - 3 hr 45 min
+65 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Angela](https://open.spotify.com/track/6ab3CQvDlAVttThZucwGQ1) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Chaise pliante](https://open.spotify.com/album/07bBgskS3ghKJIWvwsgnqF) | 3:56 | 2021-05-17 |  |
+| [Angela](https://open.spotify.com/track/6ab3CQvDlAVttThZucwGQ1) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Chaise pliante](https://open.spotify.com/album/07bBgskS3ghKJIWvwsgnqF) | 3:56 | 2021-05-17 | 2024-04-05 |
+| [Angela](https://open.spotify.com/track/6xNXmllCLIV9cH1luBzqvO) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Fiesta Ete](https://open.spotify.com/album/7y5wAxXmiTc3Y7ZMxdXn8G) | 3:56 | 2021-05-17 |  |
 | [Avant toi](https://open.spotify.com/track/4iNPp0BZ4lBu7bipdWLcWk) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [VersuS](https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e) | 3:43 | 2021-05-17 |  |
 | [Beauty and the Beast](https://open.spotify.com/track/7wMPhUSe6CZga1vOMpLTJP) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc) | 3:47 | 2021-05-17 |  |
 | [Before You Go](https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go](https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY) | 3:35 | 2021-05-17 |  |

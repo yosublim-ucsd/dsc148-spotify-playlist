@@ -19243,6 +19243,24 @@
     },
     {
       "album": {
+        "name": "So Do I",
+        "url": "https://open.spotify.com/album/6GP6lddOxHm72zcNfVVKqo"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "So Do I",
+      "url": "https://open.spotify.com/track/4rnGatjVZ7P37HaYLLgCW1"
+    },
+    {
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP"
       },

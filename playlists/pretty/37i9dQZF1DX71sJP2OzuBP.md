@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,687 likes - 110 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,697 likes - 110 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 109 | [如懿传](https://open.spotify.com/track/1m0tmy6xlDD44nknjWjOD5) | [程响](https://open.spotify.com/artist/0EZ1dmFa27KXSwDwcZKT1O) | [如懿传](https://open.spotify.com/album/7sVoIQMzn8WxmIxtPMqhUa) | 3:42 |
 | 110 | [Who Doesn’t Wanna](https://open.spotify.com/track/3IkFdpysX1QSvdc46gbq7g) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [Love, Lord](https://open.spotify.com/album/2Z2Lv8Cl0QcTirhjo9IvDq) | 4:05 |
 
-Snapshot ID: `MCwwZTk4Njc0YmJiYTM2YWM1ZGNkNzFjNjQ2M2M0ZWNlY2I4Yzk4MWI1`
+Snapshot ID: `MCwwOTM4ODRhNmIxOGJmYjQxMzg2ZGQ5MTI4YzYzYjE1MTM0MGYxMjI1`

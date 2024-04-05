@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: HARDY's HIXTAPE",
-  "num_followers": 108728,
+  "num_followers": 108799,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWFiZTBmMjY0ZDdjOTk3MDcyNzZmNDVmNzFhMzFkOWU2YzMyODRh",
+  "snapshot_id": "MCw5MzhjYWIwZTgyMTQyYmU1MmM3M2Y1ZWEwODlmOTY0ZmU2OThkODY1",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -867,18 +867,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "American Girl",
-        "url": "https://open.spotify.com/album/5LUbA5E8vsyAbFgmS2CZin"
+        "name": "Reba Duets",
+        "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 183820,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/3PRTKWFigJCi47YAEsBpiP"
+      "duration_ms": 223746,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -899,22 +903,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Reba Duets",
-        "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
+        "name": "American Girl",
+        "url": "https://open.spotify.com/album/5LUbA5E8vsyAbFgmS2CZin"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
+      "duration_ms": 183820,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/3PRTKWFigJCi47YAEsBpiP"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1371,30 +1371,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 233362,
-      "name": "(I Can\u2019t Get No) Satisfaction",
-      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/1eY89cApAgmtGED00mXrhQ"
       },
@@ -1443,6 +1419,30 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 233362,
+      "name": "(I Can\u2019t Get No) Satisfaction",
+      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Cowboy Take Me Away",
         "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "It's A Great Day To Be Alive (Live From The Ryman)",
-        "url": "https://open.spotify.com/album/2LLIkF8XJg15bZyGuHhjH0"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "It's A Great Day To Be Alive (Live From The Ryman)",
-      "url": "https://open.spotify.com/track/7gwvx0fFiEQLSUhrZ4TQ3l"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Islands In The Stream",
         "url": "https://open.spotify.com/album/1jGvHea1wNSqYDu2iHiTFq"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg"
+        "name": "It's A Great Day To Be Alive (Live From The Ryman)",
+        "url": "https://open.spotify.com/album/2LLIkF8XJg15bZyGuHhjH0"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
         }
       ],
-      "duration_ms": 494800,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh"
+      "duration_ms": 238000,
+      "name": "It's A Great Day To Be Alive (Live From The Ryman)",
+      "url": "https://open.spotify.com/track/7gwvx0fFiEQLSUhrZ4TQ3l"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1543,22 +1527,6 @@
       "duration_ms": 272786,
       "name": "3 Am",
       "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "You're Still The One",
-        "url": "https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD"
-      },
-      "artists": [
-        {
-          "name": "Ryan Waters Band",
-          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
-        }
-      ],
-      "duration_ms": 195455,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1591,6 +1559,38 @@
       "duration_ms": 256217,
       "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
       "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 494800,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "You're Still The One",
+        "url": "https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Waters Band",
+          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
+        }
+      ],
+      "duration_ms": 195455,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe"
     },
     {
       "added_at": "2024-03-29 04:00:00",

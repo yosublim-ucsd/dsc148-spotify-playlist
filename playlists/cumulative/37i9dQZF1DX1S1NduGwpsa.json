@@ -7092,10 +7092,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 215336,
       "name": "Over When It's Over",
       "url": "https://open.spotify.com/track/4ReyhFTpfBriTPxdUmkmuv"
+    },
+    {
+      "album": {
+        "name": "Over When It's Over",
+        "url": "https://open.spotify.com/album/7BSAkD0VoUXqfEU38Ta7L0"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215336,
+      "name": "Over When It's Over",
+      "url": "https://open.spotify.com/track/5r4qu6EI4ptv8NudzUzycx"
     },
     {
       "album": {
@@ -7550,7 +7568,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 220418,
       "name": "Reach Out I'll Be There",
       "url": "https://open.spotify.com/track/3Aob4GmG6EFusxwI2dbGh4"
@@ -10480,6 +10498,24 @@
       "duration_ms": 228199,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/2AnH6U2MyLV3T1bdPFPJ1t"
+    },
+    {
+      "album": {
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/08zbz4HJRqYYHH3iZ3wD4h"
+      },
+      "artists": [
+        {
+          "name": "Bryony Jarman-Pinto",
+          "url": "https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345060,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/6tqZ4GhZeGGe43z52w8A0Z"
     },
     {
       "album": {

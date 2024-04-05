@@ -1,12 +1,12 @@
 {
   "description": "The south got something to say. Cover: Lil Scrappy & Lil Jon",
-  "num_followers": 520939,
+  "num_followers": 521046,
   "original_name": "I Love My Down South Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Mzk1YTkyNzUzMTU5MGNjMmY3Y2YxNzZmZDAzMGM5OTVkZjQwNjBl",
+  "snapshot_id": "MCw1ZTQxNDE2YjE3YTgxOTI1OGJjYWRiZjQyZDJiYTI1NTU0MTYyMjJk",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -451,26 +451,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "New Joc City",
-        "url": "https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn"
-      },
-      "artists": [
-        {
-          "name": "Yung Joc",
-          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
-        },
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/14J79DfdiKcztA7WrrpqIP"
-        }
-      ],
-      "duration_ms": 241840,
-      "name": "It's Goin' Down (feat. Nitti)",
-      "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Thug Matrimony: Married to the Streets",
         "url": "https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT"
       },
@@ -495,34 +475,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
+        "name": "New Joc City",
+        "url": "https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn"
       },
       "artists": [
         {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 274333,
-      "name": "What You Know",
-      "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
+          "name": "Yung Joc",
+          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
+        },
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/14J79DfdiKcztA7WrrpqIP"
         }
       ],
-      "duration_ms": 240026,
-      "name": "So Fresh, So Clean",
-      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
+      "duration_ms": 241840,
+      "name": "It's Goin' Down (feat. Nitti)",
+      "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -543,6 +511,38 @@
       "duration_ms": 248200,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "So Fresh, So Clean",
+      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 274333,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Urban Legend",
-        "url": "https://open.spotify.com/album/1oFucub5OjyG4XPsDUzhil"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Bring Em Out",
-      "url": "https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "The Real Testament",
         "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
       },
@@ -711,6 +695,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Most Known Unknown",
+        "url": "https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB"
+      },
+      "artists": [
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 176880,
+      "name": "Poppin' My Collar (feat. Project Pat)",
+      "url": "https://open.spotify.com/track/5zd9TgduWbfFXwgnm3K3Rz"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -727,6 +731,22 @@
       "duration_ms": 234000,
       "name": "The Way You Move (feat. Sleepy Brown)",
       "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Urban Legend",
+        "url": "https://open.spotify.com/album/1oFucub5OjyG4XPsDUzhil"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Bring Em Out",
+      "url": "https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -755,26 +775,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Most Known Unknown",
-        "url": "https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB"
-      },
-      "artists": [
-        {
-          "name": "Three 6 Mafia",
-          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
-        }
-      ],
-      "duration_ms": 176880,
-      "name": "Poppin' My Collar (feat. Project Pat)",
-      "url": "https://open.spotify.com/track/5zd9TgduWbfFXwgnm3K3Rz"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "On Top Of Our Game",
         "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
       },
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Definition of Real",
+        "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
+      },
+      "artists": [
+        {
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
+      "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Crime Mob",
         "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
       },
@@ -819,22 +839,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "We The Best",
-        "url": "https://open.spotify.com/album/3fuoUsluBXjdFjpt7sBKwf"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 263280,
-      "name": "We Takin' Over",
-      "url": "https://open.spotify.com/track/4cZHdXh4bvtDripgwzwO81"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "ATLiens",
         "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
       },
@@ -847,6 +851,22 @@
       "duration_ms": 230693,
       "name": "ATLiens",
       "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Most Known Unknown (Explicit)",
+        "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
+      },
+      "artists": [
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Half On a Sack",
+      "url": "https://open.spotify.com/track/0KXO9R8yUd1BJjkEWXtor4"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -871,38 +891,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Definition of Real",
-        "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
+        "name": "We The Best",
+        "url": "https://open.spotify.com/album/3fuoUsluBXjdFjpt7sBKwf"
       },
       "artists": [
         {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         }
       ],
-      "duration_ms": 240760,
-      "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
-      "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Most Known Unknown (Explicit)",
-        "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
-      },
-      "artists": [
-        {
-          "name": "Three 6 Mafia",
-          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Half On a Sack",
-      "url": "https://open.spotify.com/track/0KXO9R8yUd1BJjkEWXtor4"
+      "duration_ms": 263280,
+      "name": "We Takin' Over",
+      "url": "https://open.spotify.com/track/4cZHdXh4bvtDripgwzwO81"
     },
     {
       "added_at": "2024-02-09 05:00:00",

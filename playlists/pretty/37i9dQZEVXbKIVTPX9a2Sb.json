@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Slovakia.",
-  "num_followers": 21090,
+  "num_followers": 21087,
   "original_name": "Top 50 - Slovakia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzY1NTA4ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzY1NTk1MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "DOVIDENIA",
         "url": "https://open.spotify.com/album/0sK3pRfVuBewYVuOqKwiYP"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3BQqSkF8Raj9lEzJdscmmu"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "Tvoje ru\u017ee",
         "url": "https://open.spotify.com/album/6HVBYrSbqoxqqdKa6mJ3HD"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/5H11d1uZ08z5gEb7xMPnUq"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "TRAPOHORY",
         "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/1hgJSjONYG7dRb4yDrTBZe"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
@@ -165,39 +165,7 @@
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "TRAPOHORY",
         "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
@@ -217,7 +185,23 @@
       "url": "https://open.spotify.com/track/3CeJNoEsQZHkDHQe2ZiIct"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "FLOWDEMORT",
         "url": "https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK"
@@ -241,31 +225,23 @@
       "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 267706,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "TRAPOHORY",
         "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
@@ -285,231 +261,7 @@
       "url": "https://open.spotify.com/track/4yjG2UO3V2qpA5aGsusBIN"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "DOVIDENIA",
-        "url": "https://open.spotify.com/album/0sK3pRfVuBewYVuOqKwiYP"
-      },
-      "artists": [
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        },
-        {
-          "name": "Peter Pann",
-          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
-        }
-      ],
-      "duration_ms": 220566,
-      "name": "Dovidenia",
-      "url": "https://open.spotify.com/track/0aBdBSOuzJKQzV011nZUqz"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "Sm\u011bj se te\u010f",
-        "url": "https://open.spotify.com/album/6bdzA456CycgXZowM9rIhC"
-      },
-      "artists": [
-        {
-          "name": "Sergei Barracuda",
-          "url": "https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Sm\u011bj se te\u010f",
-      "url": "https://open.spotify.com/track/6jRFRjOhfwoZTfnEo6gr6g"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "TRAPOHORY",
-        "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
-      },
-      "artists": [
-        {
-          "name": "Dame",
-          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
-        },
-        {
-          "name": "SMART",
-          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "KE\u010e SPOMENIEM SI NA TEBA",
-      "url": "https://open.spotify.com/track/0j7MN6e9ZTrnsOWX04juc7"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "TRAPOHORY",
-        "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
-      },
-      "artists": [
-        {
-          "name": "Dame",
-          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
-        },
-        {
-          "name": "SMART",
-          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "KE\u010e TI TO VAD\u00cd TAK SA NEPOZERAJ",
-      "url": "https://open.spotify.com/track/1fhXVxh4Qnp0I9XBy3SzR6"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "Bej\u0161\u00ed\u00ed",
-        "url": "https://open.spotify.com/album/2Mknc3jb9ayNH367sgP6CR"
-      },
-      "artists": [
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        },
-        {
-          "name": "Peter Pann",
-          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Bej\u0161\u00ed\u00ed",
-      "url": "https://open.spotify.com/track/5BOCqcH0TPqMLOo17dFscB"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "M\u00e1m \u0165a r\u00e1d",
-        "url": "https://open.spotify.com/album/1gmtE1ZKZ8cTj8Uewl8HMv"
-      },
-      "artists": [
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC"
-        },
-        {
-          "name": "Alan Murin",
-          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
-        },
-        {
-          "name": "Peter Pann",
-          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
-        },
-        {
-          "name": "\u0160orty",
-          "url": "https://open.spotify.com/artist/6uh7cpdCXlT2GVYVfFa3sp"
-        }
-      ],
-      "duration_ms": 216825,
-      "name": "M\u00e1m \u0165a r\u00e1d",
-      "url": "https://open.spotify.com/track/4MjqKyPzValK8cxETj6mJe"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "Prada",
-        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
-      },
-      "artists": [
-        {
-          "name": "cass\u00f6",
-          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
-        }
-      ],
-      "duration_ms": 132359,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "TRAPOHORY",
-        "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
-      },
-      "artists": [
-        {
-          "name": "Dame",
-          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
-        },
-        {
-          "name": "SMART",
-          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "SEREME DO KOLY A \u0160T\u00cdME DO FANTY",
-      "url": "https://open.spotify.com/track/0jkKpYZKAq0C1vNUzF9f68"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
@@ -537,23 +289,215 @@
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
-        "name": "Dokola",
-        "url": "https://open.spotify.com/album/4eEm7Kmh5UvYBydvZrlXUW"
+        "name": "Sm\u011bj se te\u010f",
+        "url": "https://open.spotify.com/album/6bdzA456CycgXZowM9rIhC"
       },
       "artists": [
         {
-          "name": "Alan Murin",
-          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
+          "name": "Sergei Barracuda",
+          "url": "https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Dokola",
-      "url": "https://open.spotify.com/track/5Up5SvpQRma9AbVBYiW2PI"
+      "duration_ms": 190173,
+      "name": "Sm\u011bj se te\u010f",
+      "url": "https://open.spotify.com/track/6jRFRjOhfwoZTfnEo6gr6g"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "TRAPOHORY",
+        "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
+      },
+      "artists": [
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        },
+        {
+          "name": "SMART",
+          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "KE\u010e TI TO VAD\u00cd TAK SA NEPOZERAJ",
+      "url": "https://open.spotify.com/track/1fhXVxh4Qnp0I9XBy3SzR6"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 267706,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "M\u00e1m \u0165a r\u00e1d",
+        "url": "https://open.spotify.com/album/1gmtE1ZKZ8cTj8Uewl8HMv"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC"
+        },
+        {
+          "name": "Alan Murin",
+          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
+        },
+        {
+          "name": "Peter Pann",
+          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+        },
+        {
+          "name": "\u0160orty",
+          "url": "https://open.spotify.com/artist/6uh7cpdCXlT2GVYVfFa3sp"
+        }
+      ],
+      "duration_ms": 216825,
+      "name": "M\u00e1m \u0165a r\u00e1d",
+      "url": "https://open.spotify.com/track/4MjqKyPzValK8cxETj6mJe"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "TRAPOHORY",
+        "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
+      },
+      "artists": [
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        },
+        {
+          "name": "SMART",
+          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "KE\u010e SPOMENIEM SI NA TEBA",
+      "url": "https://open.spotify.com/track/0j7MN6e9ZTrnsOWX04juc7"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "DOVIDENIA",
+        "url": "https://open.spotify.com/album/0sK3pRfVuBewYVuOqKwiYP"
+      },
+      "artists": [
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "Peter Pann",
+          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+        }
+      ],
+      "duration_ms": 220566,
+      "name": "Dovidenia",
+      "url": "https://open.spotify.com/track/0aBdBSOuzJKQzV011nZUqz"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "duration_ms": 132359,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "TRAPOHORY",
+        "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
+      },
+      "artists": [
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        },
+        {
+          "name": "SMART",
+          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "SEREME DO KOLY A \u0160T\u00cdME DO FANTY",
+      "url": "https://open.spotify.com/track/0jkKpYZKAq0C1vNUzF9f68"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "TRAPOHORY",
         "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
@@ -573,7 +517,63 @@
       "url": "https://open.spotify.com/track/5uGya5V4S05WLChNYmvGvf"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "Dokola",
+        "url": "https://open.spotify.com/album/4eEm7Kmh5UvYBydvZrlXUW"
+      },
+      "artists": [
+        {
+          "name": "Alan Murin",
+          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Dokola",
+      "url": "https://open.spotify.com/track/5Up5SvpQRma9AbVBYiW2PI"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "Bej\u0161\u00ed\u00ed",
+        "url": "https://open.spotify.com/album/2Mknc3jb9ayNH367sgP6CR"
+      },
+      "artists": [
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "Peter Pann",
+          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Bej\u0161\u00ed\u00ed",
+      "url": "https://open.spotify.com/track/5BOCqcH0TPqMLOo17dFscB"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "TRAPOHORY",
         "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
@@ -593,39 +593,7 @@
       "url": "https://open.spotify.com/track/5dyrbJ4KEdnU1NnbIO6wtT"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "pretty",
-        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 128205,
-      "name": "if u think i'm pretty",
-      "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "TRAPOHORY",
         "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
@@ -645,7 +613,39 @@
       "url": "https://open.spotify.com/track/7G1zTbNyHNTbCkbROZYmti"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "pretty",
+        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 128205,
+      "name": "if u think i'm pretty",
+      "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "DVOJBODKAHVIEZDI\u010cKA",
         "url": "https://open.spotify.com/album/5ZO9skyaJfbTUwr6M0Fwt4"
@@ -665,71 +665,7 @@
       "url": "https://open.spotify.com/track/7vdva8hlSprUQjNNuw0PJC"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "Vois sur ton chemin (Techno Mix)",
-        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Vois sur ton chemin - Techno Mix",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "Chlapec z panela",
-        "url": "https://open.spotify.com/album/3PlWn97jOS9nklwO4xHsGn"
-      },
-      "artists": [
-        {
-          "name": "Luca Brassi10x",
-          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
-        }
-      ],
-      "duration_ms": 160776,
-      "name": "Chlapec z panela",
-      "url": "https://open.spotify.com/track/2vJnDjDiJ5aNBuCK7wdnTY"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "Ghetto Fabulous",
-        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
-      },
-      "artists": [
-        {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
-        }
-      ],
-      "duration_ms": 121399,
-      "name": "ONE CALL",
-      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "TRAPOHORY",
         "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
@@ -749,7 +685,39 @@
       "url": "https://open.spotify.com/track/72NQeI5nN5W2ZkYa3O9kZO"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "TRAPOHORY",
         "url": "https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE"
@@ -769,7 +737,23 @@
       "url": "https://open.spotify.com/track/5Jy4gtKvvCSalU1s0NNbna"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "Ghetto Fabulous",
+        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "DOVIDENIA",
         "url": "https://open.spotify.com/album/0sK3pRfVuBewYVuOqKwiYP"
@@ -789,111 +773,63 @@
       "url": "https://open.spotify.com/track/7IzZqWoAzrHBj0AKUlYIbw"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
-        "name": "\u0160ed\u00e1 Hus",
-        "url": "https://open.spotify.com/album/0fyEaBDJ3NaYkTvWHVeroO"
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
       "artists": [
         {
-          "name": "Gleb",
-          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "\u0160ed\u00e1 Hus",
-      "url": "https://open.spotify.com/track/6WQ5JDm2NMlixD2C82Hk4g"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "ROADTRIP",
-        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 149589,
-      "name": "Saf\u00edr",
-      "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "FLOWDEMORT",
-        "url": "https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK"
-      },
-      "artists": [
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         },
         {
-          "name": "Peter Pann",
-          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 193636,
-      "name": "Nemam mood",
-      "url": "https://open.spotify.com/track/1BnuGuGGEv1mIpJEmDZ5nq"
+      "duration_ms": 169840,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "Chlapec z panela",
+        "url": "https://open.spotify.com/album/3PlWn97jOS9nklwO4xHsGn"
+      },
+      "artists": [
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        }
+      ],
+      "duration_ms": 160776,
+      "name": "Chlapec z panela",
+      "url": "https://open.spotify.com/track/2vJnDjDiJ5aNBuCK7wdnTY"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "Long Way Down (Deluxe)",
+        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "The Sound of Silence (CYRIL Remix)",
         "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
@@ -913,7 +849,91 @@
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "ROADTRIP",
+        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 149589,
+      "name": "Saf\u00edr",
+      "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "\u0160ed\u00e1 Hus",
+        "url": "https://open.spotify.com/album/0fyEaBDJ3NaYkTvWHVeroO"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "\u0160ed\u00e1 Hus",
+      "url": "https://open.spotify.com/track/6WQ5JDm2NMlixD2C82Hk4g"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
+    },
+    {
+      "added_at": "2024-04-04 10:00:46",
       "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
@@ -941,44 +961,20 @@
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
     },
     {
-      "added_at": "2024-04-03 12:04:54",
+      "added_at": "2024-04-04 10:00:46",
       "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
         }
       ],
-      "duration_ms": 169840,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
-    },
-    {
-      "added_at": "2024-04-03 12:04:54",
-      "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     }
   ],
   "unique_name": "Top 50 - Slovakia",

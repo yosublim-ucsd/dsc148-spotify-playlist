@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 19557,
+  "num_followers": 19562,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDliMmM1MjU5M2NiOThkYjZjZDA3ZmMzYTljZDBmN2E3NjdjOWEy",
+  "snapshot_id": "MCxlYzM0Mzg3NjIxZGM4ZjI0ZTUxMmUyODEyN2Q1N2Y1ZmMyNjVmOTM2",
   "tracks": [
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niafunk\u00e9",
-        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 197880,
-      "name": "Ali's Here",
-      "url": "https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA"
+      "duration_ms": 194240,
+      "name": "Ledi Coumbe",
+      "url": "https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savane",
-        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 194240,
-      "name": "Ledi Coumbe",
-      "url": "https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE"
+      "duration_ms": 197880,
+      "name": "Ali's Here",
+      "url": "https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA"
     },
     {
       "added_at": null,

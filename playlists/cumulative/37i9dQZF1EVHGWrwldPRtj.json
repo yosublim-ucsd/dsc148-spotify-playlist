@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a>, <a href=spotify:playlist:37i9dQZF1EIXDGo0vWYROm>Noah Kahan</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a>, <a href=spotify:playlist:37i9dQZF1EIYf6cItAYzfX>The Weeknd</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -282,7 +282,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 117495,
       "name": "Affection",
       "url": "https://open.spotify.com/track/3ukklzkdKjDzqkroiXTvf4"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 157812,
       "name": "All Night Long - Y.V.E. 48 Remix",
       "url": "https://open.spotify.com/track/1QOVSkrcX34pDPPxa1Xv5y"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 121470,
       "name": "Almost a Lover",
       "url": "https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 283636,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx"
@@ -976,7 +976,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 242859,
       "name": "Begin",
       "url": "https://open.spotify.com/track/1HeGSI2zSrsrk4uD4VfBtA"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 240000,
       "name": "But I Do",
       "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
@@ -2286,7 +2286,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 229520,
       "name": "Days To Come",
       "url": "https://open.spotify.com/track/1mRTSIs40qa2L7omBzQd1u"
@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 196363,
       "name": "Each Day",
       "url": "https://open.spotify.com/track/25darQhsrqvPpGq9U5wz5c"
@@ -2762,7 +2762,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 213974,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/0BQ4zIMESy75Qf2HeMi4ds"
@@ -3216,6 +3216,24 @@
       "duration_ms": 174489,
       "name": "Floating (feat. Khalid)",
       "url": "https://open.spotify.com/track/2vLWF4yFhTHQZVwrPTjH1s"
+    },
+    {
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67"
+      },
+      "artists": [
+        {
+          "name": "Pool Blue",
+          "url": "https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd"
     },
     {
       "album": {
@@ -4144,7 +4162,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 146842,
       "name": "Hey Now - When I Give You All My Lovin'",
       "url": "https://open.spotify.com/track/3MYUHaITeEQh3WjMkHr67z"
@@ -5708,7 +5726,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 115188,
       "name": "Looking for You",
       "url": "https://open.spotify.com/track/4Hh6lJfX2pOVPqdfJ8GmZv"
@@ -5886,7 +5904,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 170868,
       "name": "Love Song (feat. Glasses)",
       "url": "https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp"
@@ -6151,6 +6169,24 @@
     },
     {
       "album": {
+        "name": "Honey Bones",
+        "url": "https://open.spotify.com/album/6Eskc9vh8wniq95JXGFZ1V"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237961,
+      "name": "Marinade",
+      "url": "https://open.spotify.com/track/2OFUamird9l49tMtwf8w3l"
+    },
+    {
+      "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
@@ -6278,7 +6314,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 91504,
       "name": "Monday Loop",
       "url": "https://open.spotify.com/track/5AIKwGeFoauI8ckPJVhihk"
@@ -6368,7 +6404,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Move Me",
       "url": "https://open.spotify.com/track/6LptEwO1ObZvVQXlU0BPIJ"
@@ -6600,7 +6636,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 254020,
       "name": "Nervous Tics",
       "url": "https://open.spotify.com/track/2oJ8Il24SIiDCJv39RYzPp"
@@ -6690,7 +6726,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 391256,
       "name": "Night Trouble",
       "url": "https://open.spotify.com/track/5LLtNp8qc3NaCIieZ2W4Dk"
@@ -6978,6 +7014,32 @@
       "duration_ms": 195909,
       "name": "One Night Only",
       "url": "https://open.spotify.com/track/74fQgHleHZ4V7Gm1XYcGkj"
+    },
+    {
+      "album": {
+        "name": "The Highlights (Deluxe)",
+        "url": "https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244684,
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "url": "https://open.spotify.com/track/1VNWdmXSbaNrnWod10WIL0"
     },
     {
       "album": {
@@ -7380,7 +7442,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 200422,
       "name": "Promise",
       "url": "https://open.spotify.com/track/53yryXhiQH6zt8tUjE6V32"
@@ -7798,7 +7860,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 195959,
       "name": "Satisfied (Ambient Reprise)",
       "url": "https://open.spotify.com/track/2k5SEAK05D29ZkqbnFgIVL"
@@ -7976,7 +8038,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 173750,
       "name": "She Said (Big Jet Plane)",
       "url": "https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE"
@@ -8720,7 +8782,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -8966,7 +9028,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Sunny Day",
       "url": "https://open.spotify.com/track/3WNZCfPoouCRTbZR0pi0Vn"
@@ -9808,7 +9870,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 199391,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
@@ -10054,7 +10116,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 154403,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/1Bb8NUOSX6jEdjLtR5TEuQ"
@@ -10330,7 +10392,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 247622,
       "name": "Vale",
       "url": "https://open.spotify.com/track/58FsmlVRQxpjFmXF8vSKMT"
@@ -10406,7 +10468,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 311837,
       "name": "Vibin' Out",
       "url": "https://open.spotify.com/track/6SEolIp22t0DzeBfCBo3hr"
@@ -10500,7 +10562,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 214333,
       "name": "Wait",
       "url": "https://open.spotify.com/track/70OhoWldJxT2YAyi5eE8QZ"
@@ -10580,7 +10642,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 223583,
       "name": "Water Flow",
       "url": "https://open.spotify.com/track/1gcbDj7nfYolTr09LklGlr"

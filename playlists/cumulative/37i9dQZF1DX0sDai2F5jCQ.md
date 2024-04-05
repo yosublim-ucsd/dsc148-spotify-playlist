@@ -2,9 +2,9 @@
 
 ### [A1](https://open.spotify.com/playlist/37i9dQZF1DX0sDai2F5jCQ)
 
-> Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Future, Metro Boomin
+> Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Doja Cat
 
-214 songs - 10 hr 30 min
+216 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2 Grown \(feat\. The Kid LAROI\)](https://open.spotify.com/track/5ybZcAwqUF7i9gwABLeXzs) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 3:52 | 2023-09-22 | 2023-09-29 |
 | [3am](https://open.spotify.com/track/1LYGpC6P9t7VARZxap9Kcx) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs), [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [3am](https://open.spotify.com/album/7HKTDmDebceTzrFxiCAO1m) | 3:29 | 2024-02-15 |  |
 | [500lbs](https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [500lbs](https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9) | 2:24 | 2023-11-20 | 2024-03-15 |
+| [86Sentra](https://open.spotify.com/track/0CBPxBZNCCBC5k1eBRVgYH) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [86Sentra](https://open.spotify.com/album/654CmOOF8AzNbGXzdQPWR6) | 1:36 | 2024-04-04 |  |
 | [97](https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:57 | 2023-09-22 | 2023-10-13 |
 | [A Hoochie Tale](https://open.spotify.com/track/4WRPcEvn4VoajAwr0WmQmw) | [Tokyo Vendetta](https://open.spotify.com/artist/0qYhGiA7BARkaoJbklqLG7) | [A Hoochie Tale](https://open.spotify.com/album/45nkru8SAn2PqXy1Y6uWtq) | 2:46 | 2023-10-26 | 2023-12-01 |
 | [A N X I E T Y \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2023-09-22 |  |
@@ -140,6 +141,7 @@
 | [No Reason](https://open.spotify.com/track/02zVMezpAua7ZMmbzSyejO) | [808Riot](https://open.spotify.com/artist/3gnDrRehqMUXOrKU6mBUOe), [JAKOBI](https://open.spotify.com/artist/3IeagIAbCK3T2TRQUO0Wwt) | [No Reason](https://open.spotify.com/album/5Mrxmb4rgY5yFs6wQy9UCB) | 2:04 | 2024-01-04 | 2024-02-09 |
 | [oHio \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 4:51 | 2024-02-29 | 2024-03-15 |
 | [Okay](https://open.spotify.com/track/0VJXWgw0GWsprapvlpbuyu) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Okay](https://open.spotify.com/album/4gCmNrnuUeWSj06B2gdsFc) | 3:12 | 2023-12-07 | 2024-01-26 |
+| [OKLOSER](https://open.spotify.com/track/3EM5ZPDSe1JjSztumpsc5n) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [OKLOSER](https://open.spotify.com/album/6Dp4fwNoZD6Sum7PEheLrJ) | 2:49 | 2024-04-04 |  |
 | [Old Days](https://open.spotify.com/track/7gM0bjWc2LpgZTihy4U18P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Old Days](https://open.spotify.com/album/5d1hVedvruMRp2GFplN9DI) | 3:15 | 2024-02-22 |  |
 | [On My Soul](https://open.spotify.com/track/4eZr40clokPVb8YPgEIjnL) | [J\-MILLA](https://open.spotify.com/artist/1sQJVmNoYaMV05kdys6jy0) | [On My Soul](https://open.spotify.com/album/1gpXKlkQu4jsATJAfEwJCf) | 2:46 | 2023-09-22 | 2023-09-29 |
 | [OUR PEOPLE \(feat\. The Presets\)](https://open.spotify.com/track/0mmLOdN3lD9zfvW91SNsrG) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg) | [OUR PEOPLE \(feat\. The Presets\)](https://open.spotify.com/album/4zVoQrcFwZgHVQPXJe9pKY) | 3:54 | 2023-10-19 | 2023-12-15 |

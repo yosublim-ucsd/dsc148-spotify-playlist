@@ -4,7 +4,7 @@
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.
 
-310 songs - 15 hr 56 min
+311 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 | 2023-11-03 | 2023-11-25 |
 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-05 | 2024-01-27 |
 | [Last Page](https://open.spotify.com/track/3KDPSpHzY5cegiICdgq2l9) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Last Page](https://open.spotify.com/album/5LJAa3XFNU5XQl8OFgC8Mc) | 2:55 | 2023-11-10 | 2023-12-16 |
-| [lavender](https://open.spotify.com/track/7LHVrlM6Eqeiw9kLBrMbeP) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender](https://open.spotify.com/album/3RlYqLXyEamZbjnZBIxwdi) | 2:37 | 2024-02-09 |  |
+| [lavender](https://open.spotify.com/track/7LHVrlM6Eqeiw9kLBrMbeP) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender](https://open.spotify.com/album/3RlYqLXyEamZbjnZBIxwdi) | 2:37 | 2024-02-09 | 2024-04-05 |
 | [Let Me Love You](https://open.spotify.com/track/2yYUTaYKIfgx0j1UAwQw9j) | [Quincy Isaiah](https://open.spotify.com/artist/7eAyJBfRTpp3vLocsj1X2i) | [Let Me Love You](https://open.spotify.com/album/3ie7VY8wpCMhZBztYHisI3) | 3:33 | 2023-11-24 | 2024-01-06 |
 | [LET'S GO](https://open.spotify.com/track/2dRwRtYFH95QcMcRhUVWBB) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [LET'S GO](https://open.spotify.com/album/22ucq2C8fUF9VHN3dcVvan) | 3:16 | 2023-11-03 | 2023-11-11 |
 | [Lethal Woman](https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Lethal Woman](https://open.spotify.com/album/25JZaVPcasGATDbLqizABZ) | 2:06 | 2023-11-03 | 2023-11-11 |
@@ -269,6 +269,7 @@
 | [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 | 2024-04-01 |  |
 | [Sweety](https://open.spotify.com/track/25Re7w5mH0qcSLLhmSjWWA) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 2:49 | 2023-11-03 | 2023-11-11 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-02-16 |  |
+| [TEXAS HOLD 'EM \(PONY UP\) REMIX](https://open.spotify.com/track/5vrUXAD0UfFIVCrBkJ8Kq7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM \(PONY UP\) REMIX](https://open.spotify.com/album/1X75jBTdqVxa8tOs15yPoi) | 3:20 | 2024-04-04 |  |
 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 4:11 | 2023-11-03 | 2023-12-02 |
 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 | 2023-11-17 | 2023-12-09 |
 | [the mom song](https://open.spotify.com/track/1ll3KUyYBk2TQrOWQQ4ICV) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [the mom song](https://open.spotify.com/album/46E1IiLWBHCyrXxZNn0ZbI) | 2:32 | 2024-01-05 | 2024-01-20 |

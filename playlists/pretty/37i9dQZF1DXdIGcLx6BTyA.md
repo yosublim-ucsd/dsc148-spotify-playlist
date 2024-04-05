@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,941 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,940 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 71 | [Dirt Road Nights](https://open.spotify.com/track/4eb6X1EZbOjC0kjy3ethFk) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [COUNTRY FUZZ](https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV) | 3:11 |
 | 72 | [Monsters](https://open.spotify.com/track/55Z5eGNkXedn1N2mHwJ2hz) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Monsters](https://open.spotify.com/album/1eXKj3JRnhZB0OQ7fDRvgn) | 3:20 |
 | 73 | [Champagne Corolla](https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [J.T.](https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB) | 3:35 |
-| 74 | [Letting Me Down](https://open.spotify.com/track/0CFJazMm76jtItqdPYQ53O) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:14 |
-| 75 | [Hard Luck](https://open.spotify.com/track/6d9k2qiL2MNiOkTflqQyvi) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [While I'm Livin'](https://open.spotify.com/album/4tydPSka2twxxoBiS2HTkU) | 3:22 |
+| 74 | [Hard Luck](https://open.spotify.com/track/6d9k2qiL2MNiOkTflqQyvi) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [While I'm Livin'](https://open.spotify.com/album/4tydPSka2twxxoBiS2HTkU) | 3:22 |
+| 75 | [Letting Me Down](https://open.spotify.com/track/0CFJazMm76jtItqdPYQ53O) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:14 |
 | 76 | [Good Fight](https://open.spotify.com/track/0zWEXxAbRfBFkHe0aY1ny2) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:18 |
 | 77 | [Back Down South \(feat\. Tyler Bryant\)](https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:54 |
 | 78 | [You Look Good in Neon](https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU) | [Silverada](https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44) | [You Look Good in Neon](https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg) | 4:00 |
 | 79 | [Drive](https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Drive](https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ) | 2:48 |
 | 80 | [Lotta Fun](https://open.spotify.com/track/4Qpm33fWxkNNV4wJ0rTLYE) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 2:57 |
 
-Snapshot ID: `MCwxODYwY2I4NDBiNjI1M2U2ODQ0MTNkNmEwMDdkNzY2ZjFhMjViODA0`
+Snapshot ID: `MCw4OTEwYzlmMDNhNjU0NmUxMTA2MGQxYWY1NTgwNTgzOTdiNzlhNzUx`

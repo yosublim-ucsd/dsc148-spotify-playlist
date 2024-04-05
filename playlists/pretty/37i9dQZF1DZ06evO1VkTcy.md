@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,198 likes - 51 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,204 likes - 51 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 43 | [Nosso Relacionamento](https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S) | [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nosso Relacionamento](https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF) | 3:20 |
 | 44 | [Fake](https://open.spotify.com/track/6EQlEImXmyV3vtbUXjBlr6) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Fake](https://open.spotify.com/album/1D9ujYdSlTdYgvndgCn8gx) | 2:36 |
 | 45 | [Crazy](https://open.spotify.com/track/3LrvMMiGPvKyfosuR1upAv) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [Crazy](https://open.spotify.com/album/3LBARLC0hmHkmowMZs4ZnS) | 3:09 |
-| 46 | [Flutua](https://open.spotify.com/track/3gsrsMy7PHTaEy0y6vzEVP) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Flutua](https://open.spotify.com/album/5EYFf8QgpN3KTGGTlxkuku) | 3:23 |
+| 46 | [Tudo Vai Mudar](https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Tudo Vai Mudar](https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt) | 2:53 |
 | 47 | [Até o Mundo Acabar](https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Até o Mundo Acabar](https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm) | 3:24 |
-| 48 | [Tudo Vai Mudar](https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Tudo Vai Mudar](https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt) | 2:53 |
+| 48 | [Flutua](https://open.spotify.com/track/3gsrsMy7PHTaEy0y6vzEVP) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Flutua](https://open.spotify.com/album/5EYFf8QgpN3KTGGTlxkuku) | 3:23 |
 | 49 | [1910](https://open.spotify.com/track/7HKydihmOppbDnnLlSJAbF) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [Nobru Black](https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [1910](https://open.spotify.com/album/2OpL0wEz7H75Yb62PLNF9g) | 8:37 |
 | 50 | [Fogo](https://open.spotify.com/track/3EaEZXAL1JIuV69lig1o96) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Fogo](https://open.spotify.com/album/0Dq73RiJuh4EF4GRIYgLO2) | 3:01 |
 | 51 | [Poetisas no Topo 2](https://open.spotify.com/track/1X0ZLlZeFQ6JJ70avGNTJI) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy) | [Poetisas no Topo 2](https://open.spotify.com/album/7MyEI58jpFnvdNlVJS3UXX) | 9:16 |
 
-Snapshot ID: `MCw0ZTA4Mjk2OGI5NzZkNTk2N2FiZTA0NDlhZWY2OTA1YzVmMWEwMzFi`
+Snapshot ID: `MCxhODVhNmNkMTAzYjdhMjM4MTViNjBhYmI0ODgyM2FhYTQ2NmUxNWUy`

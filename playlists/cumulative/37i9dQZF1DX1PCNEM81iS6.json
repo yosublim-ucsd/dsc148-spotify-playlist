@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "PEACEKEEPER",
+        "url": "https://open.spotify.com/album/5an5M8Vi6zKCqwCoxba0X7"
+      },
+      "artists": [
+        {
+          "name": "STEREO DIVE FOUNDATION",
+          "url": "https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208720,
+      "name": "PEACEKEEPER",
+      "url": "https://open.spotify.com/track/6eWvLMxektDc1Yh0namRGc"
+    },
+    {
+      "album": {
         "name": "LAYERING",
         "url": "https://open.spotify.com/album/0zkDqUmXN5wclz5CtXr3ey"
       },

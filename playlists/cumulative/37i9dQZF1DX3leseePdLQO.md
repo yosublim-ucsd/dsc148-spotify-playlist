@@ -4,13 +4,14 @@
 
 > Pop para refrescarte los días, featuring Shakira & Cardi B.
 
-186 songs - 9 hr 24 min
+187 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 | 2023-09-01 |  |
 | [1TRAGO](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1TRAGO](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 | 2023-04-14 |  |
 | [215 Días](https://open.spotify.com/track/1I0iDHKaWVdIB9jbxLFqMU) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos \(Edición Deluxe\)](https://open.spotify.com/album/3Sex8xDtS56Ws47QWiiTiz) | 3:32 | 2023-09-15 |  |
+| [26 \- ni tarde ni temprano](https://open.spotify.com/track/6ClF0j9hpvx0PcNBbiUZT9) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [26 \(ni tarde ni temprano\)](https://open.spotify.com/album/7fhRpgRxxa7FUZWQXpRitl) | 3:23 | 2024-04-04 |  |
 | [4U \(feat\. CKay, Leo Rizzi\)](https://open.spotify.com/track/6qFHJBEbHNKpWhN6e9xNnO) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [4U \(feat\. CKay, Leo Rizzi\)](https://open.spotify.com/album/7eRSN2WVgwjEr5XBRHh2qp) | 3:45 | 2024-01-12 |  |
 | [5 estrellas](https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [5 estrellas](https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV) | 3:18 | 2023-06-09 |  |
 | [5 Estrellas](https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [5 Estrellas](https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF) | 3:11 | 2023-04-04 |  |
@@ -24,7 +25,7 @@
 | [Ajedrez](https://open.spotify.com/track/502C76In6ki3rUo47QP6pA) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ajedrez](https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4) | 3:28 | 2023-04-04 |  |
 | [Alguien Más](https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Alguien Más](https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj) | 2:25 | 2023-04-28 |  |
 | [Alguien Más](https://open.spotify.com/track/2KmMR2NuY9gjDdVXSyUJ9m) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Alguien Más](https://open.spotify.com/album/5sOAl2yXC33MCabAevDQqP) | 2:12 | 2023-08-25 |  |
-| [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/2VhwmatY3oeJI5IOjeIUmr) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [La cuarta hoja \(Extended Version\)](https://open.spotify.com/album/3nYJDr8s1Jyw4YeZRcScQc) | 3:53 | 2023-04-06 |  |
+| [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/2VhwmatY3oeJI5IOjeIUmr) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [La cuarta hoja \(Extended Version\)](https://open.spotify.com/album/3nYJDr8s1Jyw4YeZRcScQc) | 3:53 | 2023-04-06 | 2024-04-05 |
 | [Animal distinto](https://open.spotify.com/track/5cb0fWDLdfBcUcYrKGIfQd) | [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [El Príncipe](https://open.spotify.com/album/5XTsSX2OrLqIJHnvkHI3FE) | 3:19 | 2023-08-04 | 2023-08-26 |
 | [Att: Amor](https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 2:13 | 2023-04-04 |  |
 | [BAILÉ CON MI EX](https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:41 | 2023-04-04 |  |

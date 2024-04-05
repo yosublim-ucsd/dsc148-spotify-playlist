@@ -1,12 +1,12 @@
 {
   "description": "Where music and emotions meet. Cover: <a href=\"spotify:artist:7Ddov9nbJDbpgzvBVb7cU1\">George Wassouf</a>",
-  "num_followers": 80603,
+  "num_followers": 80638,
   "original_name": "Tarab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGFmNzIxMzRhM2YxNzkyOWEyZWJmZTJhOWYxNDJmZTU3MWFlM2E2",
+  "snapshot_id": "MCw4ODk0YmNiYzYxMjU1ZjZlN2NlNThlYzc2MWEyNjU4ODY3ZTZlMzcw",
   "tracks": [
     {
       "added_at": "2022-09-13 14:22:57",
@@ -187,18 +187,18 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Kfoury Classic",
-        "url": "https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x"
+        "name": "Law Fina",
+        "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
       },
       "artists": [
         {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+          "name": "Mais Harb",
+          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
         }
       ],
-      "duration_ms": 342973,
-      "name": "Meen Habeebee Ana (Duet Nawal Al Zoghbi)",
-      "url": "https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF"
+      "duration_ms": 371890,
+      "name": "Law Fina",
+      "url": "https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Law Fina",
-        "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
+        "name": "Kfoury Classic",
+        "url": "https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x"
       },
       "artists": [
         {
-          "name": "Mais Harb",
-          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
         }
       ],
-      "duration_ms": 371890,
-      "name": "Law Fina",
-      "url": "https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s"
+      "duration_ms": 342973,
+      "name": "Meen Habeebee Ana (Duet Nawal Al Zoghbi)",
+      "url": "https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -263,22 +263,6 @@
       "duration_ms": 376386,
       "name": "Wahashtini",
       "url": "https://open.spotify.com/track/3tNjYMW0KORaE2tK1Sjd7J"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Baatereflek",
-        "url": "https://open.spotify.com/album/3Lj06yHKqsunUo5fGurHsr"
-      },
-      "artists": [
-        {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
-        }
-      ],
-      "duration_ms": 545586,
-      "name": "Baatereflek",
-      "url": "https://open.spotify.com/track/7CtrUBl2322AbN94u1aWSl"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -335,22 +319,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
-      },
-      "artists": [
-        {
-          "name": "Nour Mehanna",
-          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
-        }
-      ],
-      "duration_ms": 389773,
-      "name": "Al-Hobbi Koullou",
-      "url": "https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Top Wadie Essafi (The Voice of Lebanon)",
         "url": "https://open.spotify.com/album/3qTTXTSchXUVsTXBJDUpoo"
       },
@@ -367,6 +335,22 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Baatereflek",
+        "url": "https://open.spotify.com/album/3Lj06yHKqsunUo5fGurHsr"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "duration_ms": 545586,
+      "name": "Baatereflek",
+      "url": "https://open.spotify.com/track/7CtrUBl2322AbN94u1aWSl"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "Ossit Helem",
         "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 303765,
       "name": "Debna Aa Ghiyabak (Live)",
       "url": "https://open.spotify.com/track/5pNkQiWpr5rLUB8Pii7QrG"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
+      },
+      "artists": [
+        {
+          "name": "Nour Mehanna",
+          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
+        }
+      ],
+      "duration_ms": 389773,
+      "name": "Al-Hobbi Koullou",
+      "url": "https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -427,22 +427,6 @@
       "duration_ms": 297500,
       "name": "Ma Tehun",
       "url": "https://open.spotify.com/track/1OcQAcusS56avDzLEhSetL"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
-      },
-      "artists": [
-        {
-          "name": "Nour Mehanna",
-          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
-        }
-      ],
-      "duration_ms": 449226,
-      "name": "Ibaati Gawab",
-      "url": "https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -511,6 +495,22 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
+      },
+      "artists": [
+        {
+          "name": "Nour Mehanna",
+          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
+        }
+      ],
+      "duration_ms": 449226,
+      "name": "Ibaati Gawab",
+      "url": "https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "El Zakah",
         "url": "https://open.spotify.com/album/7qHio96eRUQ6lwWKH44QFc"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 119318,
       "name": "El Zakah",
       "url": "https://open.spotify.com/track/5BPiU4eojxCA9PHLRi8x4t"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
-      },
-      "artists": [
-        {
-          "name": "Nour Mehanna",
-          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
-        }
-      ],
-      "duration_ms": 321120,
-      "name": "Khamratal Houbbi",
-      "url": "https://open.spotify.com/track/1Iz1pyVDrnEAJkutlgQxXL"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -587,6 +571,22 @@
       "duration_ms": 542998,
       "name": "Beateriflik",
       "url": "https://open.spotify.com/track/56RjD8YTvGYNhwATPxTrbJ"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
+      },
+      "artists": [
+        {
+          "name": "Nour Mehanna",
+          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
+        }
+      ],
+      "duration_ms": 321120,
+      "name": "Khamratal Houbbi",
+      "url": "https://open.spotify.com/track/1Iz1pyVDrnEAJkutlgQxXL"
     },
     {
       "added_at": "2022-09-13 14:22:57",

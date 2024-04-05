@@ -1,12 +1,12 @@
 {
   "description": "County's best like you've never heard before. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester",
-  "num_followers": 114206,
+  "num_followers": 114215,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWI5Y2YwNzg4NmY5YjNkMjNiOTNlMWUzYzI0YjUzOTJhYzk5YzBj",
+  "snapshot_id": "MCw4ODI0ZTM3NWNmZTNiNGQxOGZkZDUxMzM0MDY4MzkxZDAxYTllZGIz",
   "tracks": [
     {
       "added_at": "2024-01-24 18:24:48",
@@ -1000,22 +1000,6 @@
       "added_at": "2024-01-24 18:24:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 201332,
-      "name": "Never Comin Down - Recorded At Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/3tucKgFqK4GbUCmQtHxnhA"
-    },
-    {
-      "added_at": "2024-01-24 18:24:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
       },
       "artists": [
@@ -1027,6 +1011,22 @@
       "duration_ms": 278167,
       "name": "Green Eyes - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E"
+    },
+    {
+      "added_at": "2024-01-24 18:24:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 201332,
+      "name": "Never Comin Down - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/3tucKgFqK4GbUCmQtHxnhA"
     },
     {
       "added_at": "2024-01-24 18:24:48",

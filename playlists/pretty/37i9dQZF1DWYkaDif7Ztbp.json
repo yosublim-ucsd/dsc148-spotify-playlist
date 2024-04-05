@@ -1,43 +1,31 @@
 {
-  "description": "The tracks heating up the continent right now!  Cover:  <a href=\"https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=8NXOrW4mTNaFp7RU2FE6SA\">Tyla</a>  ",
-  "num_followers": 1573501,
+  "description": "The tracks heating up the continent right now!  Cover:  <a href=\"https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0?si=RwdPtw5wQ-Chp4dkZviL4A\">Simi </a>  and  <a href=\"https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc?si=W-X7xcnoQkOCdHMflKtX8A\">Tiwa Savage</a>",
+  "num_followers": 1574061,
   "original_name": "African Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjJjMmE2Y2EzYmVmOTk3MGNlNDFlZTAzN2VkNjZjZDVjNWRjNTBl",
+  "snapshot_id": "MCxlOTBjZDRmNzQyZWVlNGZhZDI4MWMxMTM2Yzk0NjlkYTUwNDkyOTMw",
   "tracks": [
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Tshwala Bam (feat. S.N.E, EeQue)",
-        "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
       },
       "artists": [
         {
-          "name": "TitoM",
-          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
-        },
-        {
-          "name": "Yuppe",
-          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
-        },
-        {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        },
-        {
-          "name": "S.N.E",
-          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Tshwala Bam (feat. S.N.E, EeQue)",
-      "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
+      "duration_ms": 166000,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Holy Ghost",
         "url": "https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg"
@@ -53,7 +41,27 @@
       "url": "https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Men Are Crazy",
+        "url": "https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Men Are Crazy",
+      "url": "https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Egwu",
         "url": "https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi"
@@ -73,43 +81,7 @@
       "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Commas",
-        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Commas",
-      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Trench to Triumph",
-        "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Ngozi",
-      "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
         "url": "https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC"
@@ -145,99 +117,91 @@
       "url": "https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+        "name": "Commas",
+        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
       },
       "artists": [
         {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 177318,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
+      "duration_ms": 157200,
+      "name": "Commas",
+      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+        "name": "Tshwala Bam (feat. S.N.E, EeQue)",
+        "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
+      },
+      "artists": [
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        },
+        {
+          "name": "Yuppe",
+          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Tshwala Bam (feat. S.N.E, EeQue)",
+      "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 234024,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
       },
       "artists": [
         {
           "name": "Tyla",
           "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 148517,
-      "name": "ART",
-      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "OHEMA (with Crayon & Bella Shmurda)",
-        "url": "https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
         }
       ],
-      "duration_ms": 205714,
-      "name": "OHEMA (with Crayon & Bella Shmurda)",
-      "url": "https://open.spotify.com/track/7CkDjDtJjCZA7AW7RBvrvC"
+      "duration_ms": 147071,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 154512,
-      "name": "FEEL",
-      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "TZA",
-        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 153941,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Soweto (with Don Toliver, Rema and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
@@ -265,23 +229,7 @@
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "YAWA",
-        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "YAWA",
-      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Boy Alone (Deluxe)",
         "url": "https://open.spotify.com/album/5NI7LqHIf9hDtH640m7VI6"
@@ -297,7 +245,135 @@
       "url": "https://open.spotify.com/track/2D0HvqDFPK7YmT7kbrzZch"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Trench to Triumph",
+        "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Ngozi",
+      "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 148517,
+      "name": "ART",
+      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 177318,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "OHEMA (with Crayon & Bella Shmurda)",
+        "url": "https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "OHEMA (with Crayon & Bella Shmurda)",
+      "url": "https://open.spotify.com/track/7CkDjDtJjCZA7AW7RBvrvC"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 154512,
+      "name": "FEEL",
+      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "TZA",
+        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 153941,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "YAWA",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "YAWA",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Work Of Art",
         "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
@@ -313,7 +389,7 @@
       "url": "https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Happiness (feat. Asake & Gunna)",
         "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
@@ -337,23 +413,7 @@
       "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 234024,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
@@ -369,23 +429,7 @@
       "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Turn Off The Lights",
         "url": "https://open.spotify.com/album/42Ma32s3CwNni8AgRWlliR"
@@ -405,7 +449,7 @@
       "url": "https://open.spotify.com/track/2fofdfhRxFVP1bRdjA1FEc"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
@@ -421,7 +465,7 @@
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Dalie (feat. Baby S.O.N)",
         "url": "https://open.spotify.com/album/0J4K8H2exzOLpz1RcfZbID"
@@ -449,7 +493,7 @@
       "url": "https://open.spotify.com/track/4URabg9AGHasjFEVdTbWcC"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
@@ -465,7 +509,7 @@
       "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Shu! (feat. Chley)",
         "url": "https://open.spotify.com/album/7sjv3DhaAGAO0Iu9cDgRSn"
@@ -485,7 +529,7 @@
       "url": "https://open.spotify.com/track/442DDArcRLNRxEeF75jRVk"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Ojapiano",
         "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
@@ -501,7 +545,7 @@
       "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Till We Die (feat. Ruger)",
         "url": "https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY"
@@ -521,7 +565,7 @@
       "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Do I (Remix)",
         "url": "https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m"
@@ -541,7 +585,7 @@
       "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Presido La Pluto",
         "url": "https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR"
@@ -561,7 +605,7 @@
       "url": "https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Outside / Obaa Sima",
         "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
@@ -577,7 +621,7 @@
       "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Me & U",
         "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
@@ -593,7 +637,7 @@
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Pick Up",
         "url": "https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU"
@@ -609,7 +653,7 @@
       "url": "https://open.spotify.com/track/1deimiQlzca70jziGDtTsm"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "EZIOKWU (UNCUT)",
         "url": "https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW"
@@ -629,7 +673,7 @@
       "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Tequila Ever After",
         "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
@@ -645,7 +689,7 @@
       "url": "https://open.spotify.com/track/5bYTh2T6OCVtwnQmwWBUis"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Amapiano",
         "url": "https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6"
@@ -665,7 +709,7 @@
       "url": "https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
@@ -685,7 +729,7 @@
       "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Like Ice Spice / Bezos",
         "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
@@ -701,23 +745,7 @@
       "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "NAHAMciaga",
         "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
@@ -733,7 +761,7 @@
       "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Osadebe",
         "url": "https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ"
@@ -749,7 +777,7 @@
       "url": "https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Isimo",
         "url": "https://open.spotify.com/album/4fHsKSIC0nL0cJimyaDT21"
@@ -785,7 +813,7 @@
       "url": "https://open.spotify.com/track/6Kijtp0DB6VwcoJIw7PJ9W"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "LOVE AND CHAOS",
         "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
@@ -801,7 +829,7 @@
       "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "SOLACE",
         "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
@@ -825,7 +853,7 @@
       "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Ma Cherie",
         "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
@@ -841,7 +869,7 @@
       "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "KATIGORI/PIANO",
         "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
@@ -857,7 +885,7 @@
       "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx"
@@ -877,7 +905,7 @@
       "url": "https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Permanent Music 3",
         "url": "https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow"
@@ -901,23 +929,7 @@
       "url": "https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "The Life I Chose",
         "url": "https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS"
@@ -933,7 +945,7 @@
       "url": "https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Not An Angel",
         "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
@@ -949,7 +961,7 @@
       "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Ananipenda (feat. Soge Culebra, Marioo) [Remix]",
         "url": "https://open.spotify.com/album/12rtLcPE9RQYL8e8WqaWY0"

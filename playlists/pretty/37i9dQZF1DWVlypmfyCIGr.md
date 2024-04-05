@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: i\-dep
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,095 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,101 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Motorcycle](https://open.spotify.com/track/0WymIcEXS0ey2TPxt5ykpO) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [Rikka](https://open.spotify.com/album/5Z6IpQ3YYZLEGGhuveWqh2) | 3:43 |
 | 80 | [サブマリン](https://open.spotify.com/track/6JaegcqofoXXqzGLkyhzbn) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suplex](https://open.spotify.com/album/31Nbiax5bV9lVnYubVVRaB) | 5:18 |
 
-Snapshot ID: `MCw0NGU1NzQ1MmVjY2Y0ODM4NGEwMWQ4NWJmMzU1Mjk1NjQ2NTE2ZjQ2`
+Snapshot ID: `MCxhNDQ3MDEzY2U4NDQ5ZDMxYjI4OTM0MjgwZTVlZGExM2EyNDgwNTg2`

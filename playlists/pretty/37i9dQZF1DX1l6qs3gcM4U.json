@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Black Spygo, C4 Pedro & Bruna Amado.  ",
-  "num_followers": 198331,
+  "num_followers": 198401,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmVhNmNlODBlODJhNGQzMDU1Njk0NDY4ZWQ3N2Q1M2QyYjRjOWJi",
+  "snapshot_id": "MCw1M2Q5ZmIxZDA5YjMwMjU3OGY5N2Q2MGNjZWE0Mzc3NTE0OGYyMzU2",
   "tracks": [
     {
       "added_at": "2024-03-29 00:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Segredo",
-        "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
-      },
-      "artists": [
-        {
-          "name": "Edm\u00e1zia Mayembe",
-          "url": "https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs"
-        }
-      ],
-      "duration_ms": 207640,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "Clima",
         "url": "https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 243750,
       "name": "Clima",
       "url": "https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "Segredo",
+        "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
+      },
+      "artists": [
+        {
+          "name": "Edm\u00e1zia Mayembe",
+          "url": "https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs"
+        }
+      ],
+      "duration_ms": 207640,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
+        "name": "Homem Que \u00c9 Homem",
+        "url": "https://open.spotify.com/album/0zs00lhtRYNtvzWDaC3NeQ"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 216868,
+      "name": "Homem Que \u00c9 Homem",
+      "url": "https://open.spotify.com/track/5HEow9A4pAs7dle5zDXnfb"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
         "name": "Cura",
         "url": "https://open.spotify.com/album/2OnIj9WrPNoetyHNbGwgpX"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 217754,
       "name": "Cura",
       "url": "https://open.spotify.com/track/5GlPkahjTM2G5PdiN3eQhG"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "Homem Que \u00c9 Homem",
-        "url": "https://open.spotify.com/album/0zs00lhtRYNtvzWDaC3NeQ"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 216868,
-      "name": "Homem Que \u00c9 Homem",
-      "url": "https://open.spotify.com/track/5HEow9A4pAs7dle5zDXnfb"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1599,6 +1599,46 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
+        "name": "J\u00e1 N\u00e3o Sei",
+        "url": "https://open.spotify.com/album/2iXz4njIp9glteqBnOHNnv"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 265250,
+      "name": "J\u00e1 N\u00e3o Sei",
+      "url": "https://open.spotify.com/track/59FhY6j1jchU3WGZ2BxuGx"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "J\u00e1 Deu",
+        "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
+      },
+      "artists": [
+        {
+          "name": "Josslyn",
+          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
+        },
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 227685,
+      "name": "J\u00e1 Deu",
+      "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
         "name": "Sincera",
         "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
       },
@@ -1631,46 +1671,6 @@
       "duration_ms": 220645,
       "name": "Pak\u00e9",
       "url": "https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "J\u00e1 Deu",
-        "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
-      },
-      "artists": [
-        {
-          "name": "Josslyn",
-          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
-        },
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 227685,
-      "name": "J\u00e1 Deu",
-      "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "J\u00e1 N\u00e3o Sei",
-        "url": "https://open.spotify.com/album/2iXz4njIp9glteqBnOHNnv"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 265250,
-      "name": "J\u00e1 N\u00e3o Sei",
-      "url": "https://open.spotify.com/track/59FhY6j1jchU3WGZ2BxuGx"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
-        "name": "Mais de Mim",
-        "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
-        },
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Fica Parado (feat. C4 Pedro)",
-      "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
         "name": "Au revoir",
         "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 291960,
       "name": "Belissima",
       "url": "https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
+        "name": "Mais de Mim",
+        "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        },
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Fica Parado (feat. C4 Pedro)",
+      "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
     },
     {
       "added_at": "2024-03-29 00:00:00",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2024-03-29 00:00:00",
       "album": {
+        "name": "Off Para Ti",
+        "url": "https://open.spotify.com/album/6TRkOPJCJzw7FWk8rjz1Yg"
+      },
+      "artists": [
+        {
+          "name": "Anna Joyce",
+          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
+        }
+      ],
+      "duration_ms": 189769,
+      "name": "Off Para ti",
+      "url": "https://open.spotify.com/track/7iGrNb3T8fh4CwxxLIQ10Q"
+    },
+    {
+      "added_at": "2024-03-29 00:00:00",
+      "album": {
         "name": "Teu Ego",
         "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 286093,
       "name": "Teu Ego",
       "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
-    },
-    {
-      "added_at": "2024-03-29 00:00:00",
-      "album": {
-        "name": "Off Para Ti",
-        "url": "https://open.spotify.com/album/6TRkOPJCJzw7FWk8rjz1Yg"
-      },
-      "artists": [
-        {
-          "name": "Anna Joyce",
-          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
-        }
-      ],
-      "duration_ms": 189769,
-      "name": "Off Para ti",
-      "url": "https://open.spotify.com/track/7iGrNb3T8fh4CwxxLIQ10Q"
     },
     {
       "added_at": "2024-03-29 00:00:00",

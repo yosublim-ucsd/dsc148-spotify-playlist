@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 
 > Check out all of these artists and more performing live in Nashville at the CMA Fest 2024! Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,853 likes - 90 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,848 likes - 90 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 | 89 | [God & Country](https://open.spotify.com/track/7LJuvRQRJOyTAxBKk6xJbG) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God & Country](https://open.spotify.com/album/0hsCH0eDI9mq7wcuyWRqIU) | 3:19 |
 | 90 | [Son Of A](https://open.spotify.com/track/1rf3DRmwoWekv6iT30MXlR) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A](https://open.spotify.com/album/5krj7eQSqb08k9RVxujeJ3) | 3:13 |
 
-Snapshot ID: `MCxhNTA5N2NhNjM0YTZhYzI5NzgwNGY2YzM5MDdkNTM5NTMwN2E3Yzhi`
+Snapshot ID: `MCwzMGNkYTU1MDU4OGNlM2NjMGNlNGQ5Mzg0NDYzMjI2MGRlMzBhZjEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,711 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,762 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 84 | [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/track/6q1F8dDPA8z2iaTE4XW2gG) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [New Empire, Vol\. 2](https://open.spotify.com/album/4I3YOnPD8WyNmj8ePI3uzF) | 4:07 |
 | 85 | [Undertaker \- Fever 333 Remix](https://open.spotify.com/track/42byRWzhvfTWbsN7pxcC6w) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(Fever 333 Remix\)](https://open.spotify.com/album/4FAZBq7n35B3wftzMcJIwY) | 2:15 |
 | 86 | [Pulse Queen](https://open.spotify.com/track/6ObSWTFcmGP4gGCBGKVZE3) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [Pulse Queen](https://open.spotify.com/album/2v7ohXpdk3Z2WFfEKOfoE2) | 3:28 |
-| 87 | [Brainfreeze](https://open.spotify.com/track/6kwaYcQCLqWRYlG7Vpffsg) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/3mh4YBAPUHSKZ2VjWGfB3H) | 4:16 |
+| 87 | [Brainfreeze](https://open.spotify.com/track/4NaclRxoM5U9fyWV3dBUwW) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/7LrNW8cW763WEKTAwkCMZ2) | 4:16 |
 | 88 | [Last Resort & Spa](https://open.spotify.com/track/3I3wT9xnFlNWM9SlQyH9i1) | [Battle Tapes](https://open.spotify.com/artist/2TdEIqWbLnZZHYRDWvVj67) | [Form](https://open.spotify.com/album/5kvczjPMKDVYG5TFhU5gBl) | 4:14 |
 | 89 | [The Demented](https://open.spotify.com/track/3ROmQ4E9Nu0ZFTJVprp3Iu) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [The Demented](https://open.spotify.com/album/21fvzqzvdgOZL6tPRMKqvo) | 3:12 |
 | 90 | [The Singularity](https://open.spotify.com/track/11NHApIN2R0DZJDypPYeFJ) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [N / O / I / S / E](https://open.spotify.com/album/2W5rUof3EANdwzqAMtAWhF) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 99 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 |
 | 100 | [Structure of Love II \- Renholdër Remix](https://open.spotify.com/track/1PfCGcRzrnTCFJVoVy03yp) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9), [Renholdër](https://open.spotify.com/artist/7nPKXL3VRokWPSYHtsDD5i) | [Structure of Love II \(Renholdër Remix\)](https://open.spotify.com/album/1koqkGT2Qsd5ToPJZgMFCn) | 3:21 |
 
-Snapshot ID: `MCxkYzI4NzE5ZmYwZWU0NmQyZGNlOWZlZmMxZTJmY2IxMmJmODc0MTI2`
+Snapshot ID: `MCw0OWUwMjAxZjUyZmQ0MzI0NDFhMDIyMTM4NTAwYTlmYjAxNTVlM2Zm`

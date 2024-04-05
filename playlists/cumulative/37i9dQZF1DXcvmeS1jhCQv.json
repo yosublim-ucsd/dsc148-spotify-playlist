@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/5AwxyJ0KmVm17VWaH1Hybu"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174845,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/7HQ1uP9ljzPXe6qgaOlFgc"
+    },
+    {
+      "album": {
         "name": "Chelsea Bakery",
         "url": "https://open.spotify.com/album/02DHWSoYSF7Q0oyuBO18Pc"
       },
@@ -878,7 +896,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 269589,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/3TFPiUHCrjOFflFVtC4qJs"
@@ -1391,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/6IxEWhtC68ce07yxKnwydM"
+      },
+      "artists": [
+        {
+          "name": "Evie",
+          "url": "https://open.spotify.com/artist/1kOS484jvPsfcdWNpKEGG9"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226796,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/4KxQWXimKCGVTatrSwmrYw"
+    },
+    {
+      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/3FFC8lDz8RhvpHtO89NLix"
       },
@@ -1535,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "RoseGold",
+        "url": "https://open.spotify.com/album/6Ane8pLlHEehPVZWe26z4N"
+      },
+      "artists": [
+        {
+          "name": "Cooks But We're Chefs",
+          "url": "https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "RoseGold",
+      "url": "https://open.spotify.com/track/3HwPz3OzoXWOEA1yiAIMZo"
+    },
+    {
+      "album": {
         "name": "See You In a Year and a Half",
         "url": "https://open.spotify.com/album/3wOvqeu8ZppPF9LWD2bcYz"
       },
@@ -1582,7 +1636,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 133253,
       "name": "Sentences",
       "url": "https://open.spotify.com/track/2MI97Z7aN6BsMUpKjGs6MJ"
@@ -1878,7 +1932,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 174178,
       "name": "The Pressures of the Heart",
       "url": "https://open.spotify.com/track/0dBhs5Aw3NO9gAVIWrnmLZ"

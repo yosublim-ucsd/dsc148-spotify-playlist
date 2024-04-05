@@ -4,7 +4,7 @@
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-117 songs - 7 hr 42 min
+120 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Just in case](https://open.spotify.com/track/2SMDdT0TPMtDmYGeeDKUhq) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Live from Pama Studio 1](https://open.spotify.com/album/6cALzVHdHMmXt49arF7WqL) | 3:59 | 2020-08-21 | 2022-07-29 |
 | [Just in Case](https://open.spotify.com/track/3lUHPnOMQBlLjkUs6ZpHkI) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Live from Pama Studio 1](https://open.spotify.com/album/2qT9oFDjZSpNiJ7PZPmkXO) | 3:59 | 2020-08-21 |  |
 | [Lady Love Divine](https://open.spotify.com/track/7IUokcojGB1qGL2rBztGn8) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Lady Love Divine](https://open.spotify.com/album/0k04S34xvowUrOCGtn49xd) | 3:04 | 2023-11-10 |  |
-| [Leave Your Ego](https://open.spotify.com/track/5lCrGrjeBufzZNUWyZuMH2) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 5:14 | 2021-10-22 |  |
+| [Leave Your Ego](https://open.spotify.com/track/37qTH3ygEzM1CULDsfPfvI) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/5c0pSc8G1C8RciCf7xHvwY) | 5:14 | 2021-10-22 |  |
+| [Leave Your Ego](https://open.spotify.com/track/5lCrGrjeBufzZNUWyZuMH2) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 5:14 | 2021-10-22 | 2024-04-05 |
 | [Life On The Outside](https://open.spotify.com/track/2ba1G7j2si3LffTirrQLnw) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [The Deep End Vol\. 1](https://open.spotify.com/album/3E5cQw3IpyFqCM4VeFnOXR) | 3:47 | 2020-08-21 | 2022-07-29 |
 | [Life On The Outside](https://open.spotify.com/track/2iufE5GZ6UobPZgMU8Qh5A) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [The Deep End Vol\. 1](https://open.spotify.com/album/378K25f02JVVcrMbeL6Pp1) | 3:47 | 2020-08-21 |  |
 | [Lives That Don't Exist](https://open.spotify.com/track/0X4vLevfEeJIgjVpKedbgK) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Blind for Love](https://open.spotify.com/album/6l5J6OqjFMWGhv9132gs83) | 3:55 | 2020-08-21 |  |
@@ -88,7 +89,8 @@
 | [Motivational Speaker](https://open.spotify.com/track/1xqLHiTiCjryxjIobgBxZx) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Motivational Speaker](https://open.spotify.com/album/2wX2Al1PYn88BRDFchSIff) | 3:55 | 2020-08-21 |  |
 | [Motivational Speaker](https://open.spotify.com/track/5ZhnaKTGhvnXjSqIQVuCow) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Motivational Speaker](https://open.spotify.com/album/5xEupHqhptd500VR6JHaJE) | 3:55 | 2020-08-21 | 2022-07-29 |
 | [Motivational Speaker](https://open.spotify.com/track/6PJE3j017zKto7sv2wUrNy) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Motivational Speaker](https://open.spotify.com/album/7AJJXxJIYOUkMZzYY0xXOO) | 3:55 | 2020-08-21 | 2023-12-24 |
-| [Open Road](https://open.spotify.com/track/4kAOHwPEBawS1znACiyuqA) | [Oli Brown](https://open.spotify.com/artist/2b5hTGWhfcA88PyeZAJ3Ma) | [Open Road](https://open.spotify.com/album/1L2NhLHg4muWzR7cHpriPb) | 3:47 | 2020-08-21 |  |
+| [Open Road](https://open.spotify.com/track/34s9HDYhfFQW3LrSIP2ePh) | [Oli Brown](https://open.spotify.com/artist/2b5hTGWhfcA88PyeZAJ3Ma) | [Open Road](https://open.spotify.com/album/2xwxnmPhiK1NaWXupoz36k) | 3:47 | 2020-08-21 |  |
+| [Open Road](https://open.spotify.com/track/4kAOHwPEBawS1znACiyuqA) | [Oli Brown](https://open.spotify.com/artist/2b5hTGWhfcA88PyeZAJ3Ma) | [Open Road](https://open.spotify.com/album/1L2NhLHg4muWzR7cHpriPb) | 3:47 | 2020-08-21 | 2024-04-05 |
 | [Openness](https://open.spotify.com/track/6H4ur69PVIZJlX60jTntAM) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [Openness](https://open.spotify.com/album/0Px0ciCMhvJY1gMhjL7Cgp) | 4:26 | 2020-08-21 |  |
 | [Plastic Hamburgers](https://open.spotify.com/track/2bmBc4ovS9p18e1IUYHSE9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Plastic Hamburgers](https://open.spotify.com/album/5oYfjMuqOR07P45xNSjlab) | 3:37 | 2020-08-21 | 2022-07-29 |
 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 | 2020-08-21 |  |
@@ -123,7 +125,8 @@
 | [Vixen Eyes](https://open.spotify.com/track/4KIY1A23VXJZjSlaRFzgTC) | [Gugun Power Trio](https://open.spotify.com/artist/0QnRd6i7Da4louZggkoFrg) | [Solid Ground](https://open.spotify.com/album/75DywChZtKY2f4xAKBrAso) | 4:16 | 2020-08-21 |  |
 | [Walkin' The Dawg](https://open.spotify.com/track/6xHzY67lLIJNdxbR5LxZ5S) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Rollin' & Tumblin'](https://open.spotify.com/album/4GMf9XTF6WJSh6Eh8cm6Up) | 3:44 | 2020-08-21 |  |
 | [Well Run Dry](https://open.spotify.com/track/0dlfcbC2ecv3RS94noopTd) | [Phat Phunktion](https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT) | [Real Life .:.High Fidelity](https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh) | 4:04 | 2020-08-21 |  |
-| [Who Do You Love?](https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Diamonds In The Dirt](https://open.spotify.com/album/7qev8XrmWI1pqJBkXqLcVT) | 3:07 | 2020-08-21 |  |
+| [Who Do You Love?](https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Diamonds In The Dirt](https://open.spotify.com/album/7qev8XrmWI1pqJBkXqLcVT) | 3:07 | 2020-08-21 | 2024-04-05 |
+| [Who Do You Love?](https://open.spotify.com/track/5cyg2gV6FhAfj8h757d5L7) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Diamonds in the Dirt](https://open.spotify.com/album/3Xa4Y2k4nLdtSoAyM1s5b8) | 3:07 | 2020-08-21 |  |
 | [Woman Gonna take The Fear Away](https://open.spotify.com/track/1bk3JiDGZIRlU6iWperLGf) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [Lay It Bare \(Taller Than 2021 Remix\)](https://open.spotify.com/album/4Kt5fmBWMROZNAEUTTS87P) | 3:26 | 2021-12-03 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-278 songs - 14 hr 9 min
+279 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-06 |  |
 | [Medicine](https://open.spotify.com/track/5KD0JO8AHXZ9MFByI6SHqA) | [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Love or the Word \(EP\)](https://open.spotify.com/album/38mdA7Tdg3GF3MFxz2IQSM) | 2:39 | 2022-06-09 | 2022-08-05 |
 | [Melo](https://open.spotify.com/track/6DYmGpZ1a45MlLqf6w5UiL) | [Konstance](https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I) | [Melo](https://open.spotify.com/album/3FbED3SjtuHsbtXQ70XCOu) | 2:22 | 2023-09-09 | 2023-09-29 |
+| [Men Are Crazy](https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Men Are Crazy](https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi) | 3:06 | 2024-04-05 |  |
 | [Miniskirt](https://open.spotify.com/track/5W2JnzMTTGEIpXDzP0EcPe) | [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Miniskirt](https://open.spotify.com/album/5BzGiOWRTSHoSseuc4yWxs) | 2:45 | 2022-06-09 | 2022-07-29 |
 | [mmadu](https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:16 | 2023-01-27 | 2023-06-17 |
 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 | 2022-09-23 | 2023-01-27 |
@@ -168,7 +169,7 @@
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-24 | 2023-03-25 |
 | [More](https://open.spotify.com/track/40KU1IqyqXKwYnLKdMxOl6) | [Teeto](https://open.spotify.com/artist/7ymel9KpuAAHusHyDil3rT), [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [Moon](https://open.spotify.com/artist/4bc2Fc6nmXwFOllgMxpl3M) | [Culture of Honour](https://open.spotify.com/album/1wYPyjlnTdhRa66UNS8wfA) | 3:13 | 2022-07-07 | 2022-07-23 |
 | [More](https://open.spotify.com/track/79xh9a2LfIBIzMxIkDGvxZ) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Eclipse](https://open.spotify.com/album/0iIUaUxmBdL0zByeXuMjtm) | 2:58 | 2022-06-09 | 2022-07-29 |
-| [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-03 |  |
+| [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-03 | 2024-04-05 |
 | [MOVE SLOW](https://open.spotify.com/track/2mN5tLxoAUmfNKQsBUzNf9) | [IRIE SESSIONS](https://open.spotify.com/artist/2GGYWtloD2KYh0Ha6cAjsJ), [Niels](https://open.spotify.com/artist/67Aux8pNOScNMgB0cA2Gwg), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [MOVE SLOW](https://open.spotify.com/album/5SxeIZTaAdJ8MCtRcO6185) | 2:13 | 2023-06-16 | 2023-09-10 |
 | [mr\. sneaky link](https://open.spotify.com/track/2vX0iHFbHF5q6H7kSvkMlH) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [mr\. sneaky link](https://open.spotify.com/album/7dRFkTfLMK9yObf5Pjz9s2) | 2:16 | 2023-07-14 | 2023-09-10 |
 | [Mukulu](https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 3:47 | 2023-08-10 | 2023-12-15 |

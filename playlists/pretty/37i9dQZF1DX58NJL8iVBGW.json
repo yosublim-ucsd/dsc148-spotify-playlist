@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 600748,
+  "num_followers": 600888,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzcxOTEzNjI3ZTk2MTQ3ZTc0YTRkODIzMTMwMWM5ODc1Yjg1ODc4",
+  "snapshot_id": "MCw0N2JiODQ2ZGNiNDE0NTliNWMzYTFhMWE0OThlOGNlZTg1YzE5OWJj",
   "tracks": [
     {
       "added_at": "2024-02-16 19:57:55",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 335586,
-      "name": "Hy-Brasil",
-      "url": "https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Heavy Load",
         "url": "https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 224226,
       "name": "Get Right Church",
       "url": "https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 335586,
+      "name": "Hy-Brasil",
+      "url": "https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Real Gone (Remastered)",
-        "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 290680,
-      "name": "How's It Gonna End",
-      "url": "https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Out Of Hands We Go",
         "url": "https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 233873,
       "name": "Herd",
       "url": "https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Real Gone (Remastered)",
+        "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
+      },
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+        }
+      ],
+      "duration_ms": 290680,
+      "name": "How's It Gonna End",
+      "url": "https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Sharecropper\u2019s Son",
-      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "When the Cellar Children See the Light of Day",
         "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
@@ -1119,22 +1103,6 @@
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1155,6 +1123,38 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Sharecropper\u2019s Son",
+      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
         "name": "Salt For Salt",
         "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "I'm Not Your Man",
-        "url": "https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 175320,
-      "name": "Apple Tree",
-      "url": "https://open.spotify.com/track/6EqCxnulMcawu0qN8B8Y5W"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "William Crighton",
         "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 264937,
       "name": "Priest",
       "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "I'm Not Your Man",
+        "url": "https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Apple Tree",
+      "url": "https://open.spotify.com/track/6EqCxnulMcawu0qN8B8Y5W"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d"
-      },
-      "artists": [
-        {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
-        }
-      ],
-      "duration_ms": 217240,
-      "name": "Fire in the Empire",
-      "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Look Homeward",
         "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 173346,
       "name": "Sister Death",
       "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Fire in the Empire",
+      "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Bastard Children",
-        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
-      },
-      "artists": [
-        {
-          "name": "Vudu Sister",
-          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Psalms",
-      "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Nine Pin",
         "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 239093,
       "name": "Saint Elizabeth",
       "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Bastard Children",
+        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
+      },
+      "artists": [
+        {
+          "name": "Vudu Sister",
+          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Psalms",
+      "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
     },
     {
       "added_at": "2024-02-16 19:57:55",

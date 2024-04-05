@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 161033,
+  "num_followers": 161086,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTgzOWRkNzdlM2MwNTUwNzYxOTQ2ZjEyZTc1OTQxNDMzMTdiNjg2",
+  "snapshot_id": "MCxjNTMzYzgzOTg4NjIwNjk1OTI2NGFkMGZlZDQ1YjIyZjNlYjExMjRk",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "The Party",
-        "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 205525,
-      "name": "Quite Like You",
-      "url": "https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
         "name": "LONER",
         "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 248791,
       "name": "More Of The Same",
       "url": "https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 205525,
+      "name": "Quite Like You",
+      "url": "https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX"
     },
     {
       "added_at": "2023-12-12 16:46:04",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "It Came to Me",
-        "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 261986,
-      "name": "It Came to Me",
-      "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
         "name": "Oh My God",
         "url": "https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 262542,
       "name": "Sing a Glad Song",
       "url": "https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
+        "name": "It Came to Me",
+        "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 261986,
+      "name": "It Came to Me",
+      "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
     },
     {
       "added_at": "2023-12-12 16:46:04",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-12-12 16:46:04",
       "album": {
-        "name": "History Of A Feeling",
-        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 166453,
-      "name": "Nervous",
-      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
-    },
-    {
-      "added_at": "2023-12-12 16:46:04",
-      "album": {
         "name": "& I'm Fine Today",
         "url": "https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 218964,
       "name": "Far out Feeling",
       "url": "https://open.spotify.com/track/7cXOCT8IbMLFXiCeRExTJ6"
+    },
+    {
+      "added_at": "2023-12-12 16:46:04",
+      "album": {
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 166453,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
     },
     {
       "added_at": "2023-12-12 16:46:04",

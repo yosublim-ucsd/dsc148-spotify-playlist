@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 429134,
+  "num_followers": 429223,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDA5YzE3MjNjNTdkNTUxODRjNmVlNWIyY2YwMGRiN2JlOTBhM2Uz",
+  "snapshot_id": "MCxkZDY5MDRiNzVhNDhlYmViNDU2ZTUyNDMxYjc2ZWQ5NDY3MGVhM2Ez",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Show Me Your Mind",
-        "url": "https://open.spotify.com/album/1SRKtsEc9mOeNc6yhQrzpM"
-      },
-      "artists": [
-        {
-          "name": "Sunken",
-          "url": "https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs"
-        }
-      ],
-      "duration_ms": 213236,
-      "name": "Show Me Your Mind",
-      "url": "https://open.spotify.com/track/2ZgOEDHGRz34mewrKsND2t"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Bad Contestant",
         "url": "https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 200093,
       "name": "Strange Time",
       "url": "https://open.spotify.com/track/4eCXQY1vh9XMW66LmS5alP"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Show Me Your Mind",
+        "url": "https://open.spotify.com/album/1SRKtsEc9mOeNc6yhQrzpM"
+      },
+      "artists": [
+        {
+          "name": "Sunken",
+          "url": "https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs"
+        }
+      ],
+      "duration_ms": 213236,
+      "name": "Show Me Your Mind",
+      "url": "https://open.spotify.com/track/2ZgOEDHGRz34mewrKsND2t"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 264746,
+      "name": "L'Inconnue",
+      "url": "https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Way Past Three",
         "url": "https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+        "name": "Eye On The Bat",
+        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
         }
       ],
-      "duration_ms": 264746,
-      "name": "L'Inconnue",
-      "url": "https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA"
+      "duration_ms": 144404,
+      "name": "My Evil",
+      "url": "https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ"
     },
     {
       "added_at": "2024-02-05 23:33:58",
@@ -1063,22 +1079,6 @@
       "duration_ms": 199727,
       "name": "Religion for One",
       "url": "https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Eye On The Bat",
-        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
-      },
-      "artists": [
-        {
-          "name": "Palehound",
-          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
-        }
-      ],
-      "duration_ms": 144404,
-      "name": "My Evil",
-      "url": "https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Serfs Up!",
         "url": "https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 342538,
       "name": "Tastes Good With The Money",
       "url": "https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Less",
+        "url": "https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk"
+      },
+      "artists": [
+        {
+          "name": "deathcrash",
+          "url": "https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Duffy's",
+      "url": "https://open.spotify.com/track/4lcamfRMk5t5fC2OQ3QfXZ"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Within a Dream",
         "url": "https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 216584,
       "name": "Miracle of Life",
       "url": "https://open.spotify.com/track/7ypqr1r0iQSrkF9eP21wjh"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Less",
-        "url": "https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk"
-      },
-      "artists": [
-        {
-          "name": "deathcrash",
-          "url": "https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Duffy's",
-      "url": "https://open.spotify.com/track/4lcamfRMk5t5fC2OQ3QfXZ"
     },
     {
       "added_at": "2023-11-03 23:08:22",

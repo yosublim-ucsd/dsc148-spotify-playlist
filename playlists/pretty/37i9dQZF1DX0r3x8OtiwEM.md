@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,021 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,223 likes - 60 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Home \- Mind Against Remix](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Home \(Mind Against Remix\)](https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3) | 7:17 |
 | 60 | [Bloom In The Cold](https://open.spotify.com/track/3VH1pgtGlayAWg2s19IDed) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Bloom In The Cold](https://open.spotify.com/album/02OyJh302Y5RUnrI1GqeKX) | 4:23 |
 
-Snapshot ID: `MCw3NmQxZDNhMmViMjMwY2Y2YTc2MDhjYjdlOWNlMTM1NDE3NmQ2NTRm`
+Snapshot ID: `MCw1YzNlOWVkNDMzOGIyNTI0OGQ1NzcyNTU3OGRmZDYzZjIxYWMzZjVi`

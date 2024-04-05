@@ -1,12 +1,12 @@
 {
   "description": "trakas hdsptm \ud83d\udc7f\ud83d\udc79\ud83c\udf7b\ud83c\udf7e\ud83e\udee1\ud83d\udcb8",
-  "num_followers": 60545,
+  "num_followers": 60958,
   "original_name": "traka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjE5NjhhNmNhYTEyMTYzNTM3MGUwZDUwNzEyYmEzNjdlYmFhMmY4",
+  "snapshot_id": "MCxjZTNkZWZiMWFhYTNmNzEyMGZlNGI5NTFiMWRkYzZiZWRhZTVlOGVj",
   "tracks": [
     {
       "added_at": "2024-03-22 18:49:21",
@@ -327,8 +327,8 @@
     {
       "added_at": "2024-03-22 18:49:21",
       "album": {
-        "name": "Rompe La Dompe",
-        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
+        "name": "LA PEOPLE II",
+        "url": "https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c"
       },
       "artists": [
         {
@@ -336,17 +336,17 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         },
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
         }
       ],
-      "duration_ms": 165634,
-      "name": "Rompe La Dompe",
-      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
+      "duration_ms": 141064,
+      "name": "LA PEOPLE II",
+      "url": "https://open.spotify.com/track/7EWtB4NKYY3NqBl31PVip9"
     },
     {
       "added_at": "2024-03-22 18:49:21",
@@ -423,8 +423,8 @@
     {
       "added_at": "2024-03-22 18:49:21",
       "album": {
-        "name": "LA PEOPLE II",
-        "url": "https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c"
+        "name": "Rompe La Dompe",
+        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
       },
       "artists": [
         {
@@ -432,17 +432,17 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         },
         {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 141064,
-      "name": "LA PEOPLE II",
-      "url": "https://open.spotify.com/track/7EWtB4NKYY3NqBl31PVip9"
+      "duration_ms": 165634,
+      "name": "Rompe La Dompe",
+      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
     },
     {
       "added_at": "2024-03-22 18:49:21",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-03-22 18:49:21",
       "album": {
+        "name": "SC-9",
+        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 165261,
+      "name": "SC-9",
+      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
+    },
+    {
+      "added_at": "2024-03-22 18:49:21",
+      "album": {
         "name": "Linea Del Perreo",
         "url": "https://open.spotify.com/album/5QAA9U04wuRM8qnRbrKnOI"
       },
@@ -691,22 +707,6 @@
     {
       "added_at": "2024-03-22 18:49:21",
       "album": {
-        "name": "SC-9",
-        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 165261,
-      "name": "SC-9",
-      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
-    },
-    {
-      "added_at": "2024-03-22 18:49:21",
-      "album": {
         "name": "R\u00e1pido Soy",
         "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
       },
@@ -719,6 +719,26 @@
       "duration_ms": 114125,
       "name": "R\u00e1pido Soy",
       "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
+    },
+    {
+      "added_at": "2024-03-22 18:49:21",
+      "album": {
+        "name": "Si No Quieres No",
+        "url": "https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 147011,
+      "name": "Si No Quieres No",
+      "url": "https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean"
     },
     {
       "added_at": "2024-03-22 18:49:21",
@@ -747,46 +767,6 @@
     {
       "added_at": "2024-03-22 18:49:21",
       "album": {
-        "name": "Si No Quieres No",
-        "url": "https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 147011,
-      "name": "Si No Quieres No",
-      "url": "https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean"
-    },
-    {
-      "added_at": "2024-03-22 18:49:21",
-      "album": {
-        "name": "Bling Bling",
-        "url": "https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        }
-      ],
-      "duration_ms": 162649,
-      "name": "Bling Bling",
-      "url": "https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh"
-    },
-    {
-      "added_at": "2024-03-22 18:49:21",
-      "album": {
         "name": "Don Dimadon",
         "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 184987,
       "name": "Don Dimadon",
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
+    },
+    {
+      "added_at": "2024-03-22 18:49:21",
+      "album": {
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "duration_ms": 162649,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh"
     },
     {
       "added_at": "2024-03-22 18:49:21",

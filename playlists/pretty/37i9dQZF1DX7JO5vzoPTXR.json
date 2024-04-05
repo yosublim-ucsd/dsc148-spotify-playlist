@@ -1,12 +1,12 @@
 {
   "description": "Songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/playlist/37i9dQZF1EFRegGOhYpv3j?si=0ea1f81a3471473c\">Alysa Vanderheym</a>",
-  "num_followers": 69583,
+  "num_followers": 69628,
   "original_name": "Created by Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2M1OTU2NGYxNzNkNDcwYTAxZjg2MjI0OGNhM2U2YjAzZmYyOTMy",
+  "snapshot_id": "MCwwZGYxYWE4NmI3YWEyMWNhMzViN2Y5ZTU5YTMyZDA5M2QzMGVlNDJj",
   "tracks": [
     {
       "added_at": "2024-04-03 00:01:00",
@@ -63,6 +63,22 @@
       "duration_ms": 178981,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/3lWdYES9kp95unr6wxJQRb"
+    },
+    {
+      "added_at": "2024-04-03 00:01:00",
+      "album": {
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/17x9sehv8aThjt5SjzShn4"
+      },
+      "artists": [
+        {
+          "name": "Anna Mae",
+          "url": "https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv"
+        }
+      ],
+      "duration_ms": 145547,
+      "name": "Heartthrob",
+      "url": "https://open.spotify.com/track/21fvtJqzyGcXBePIg8waUm"
     },
     {
       "added_at": "2024-04-03 00:01:00",

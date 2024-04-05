@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: The Story So Far
 
-1,173 songs - 2 day 13 hr 59 min
+1,174 songs - 2 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Awful Truth](https://open.spotify.com/track/6f5XzjOhGFDILR4O65Uw6E) | [Woes](https://open.spotify.com/artist/75l6n3i5Hmn8vCUZeMIM6F) | [Awful Truth](https://open.spotify.com/album/1MDn09AnqSFyuecD4MUn4L) | 3:14 | 2022-03-25 | 2022-04-07 |
 | [Baby Blue](https://open.spotify.com/track/3W8kkKICWGoH413PLYUcGh) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Nella Vita](https://open.spotify.com/album/5j86yI68MjgZLKaYsL6Sd7) | 3:09 | 2021-12-10 | 2022-05-20 |
 | [Back of My Mind](https://open.spotify.com/track/1zfnpnKyGYdZxgrGhFYugi) | [The Region](https://open.spotify.com/artist/2MlCiBNmIVGrQeTiwo01Hs) | [Back of My Mind](https://open.spotify.com/album/0eWUFvSEv1nsNyfriOiJvb) | 4:36 | 2022-02-04 | 2022-04-02 |
+| [Back To Hell](https://open.spotify.com/track/1iC1Mt1az29yQZPAirFgxi) | [glimmers](https://open.spotify.com/artist/40vUY0Z0SDZ2RNEcLK5yGy) | [Back To Hell](https://open.spotify.com/album/2jglSCN3LVwnx99Ph8vByU) | 3:38 | 2024-03-22 |  |
 | [Back to You](https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:07 | 2023-04-28 |  |
 | [Back To You](https://open.spotify.com/track/5cA5uzhbAQ3P8ZRnyeCnGV) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5), [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw), [Micki Sobral](https://open.spotify.com/artist/4uCjcfjmj0x612hXzUOzcE), [Henrique Baptista](https://open.spotify.com/artist/3r68W4hVfVDExynh5SZndg), [Tom Verstappen](https://open.spotify.com/artist/5zm9EEu3tRT0dH3qP3D3bY) | [Back To You](https://open.spotify.com/album/1MWhybKgZUjJbarvNSBIim) | 3:27 | 2021-12-10 | 2022-05-18 |
 | [Back Together](https://open.spotify.com/track/3iBlDDZ7PBuxZudPhXJAan) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Back Together](https://open.spotify.com/album/3Ogd8yxFl9drYqG9X6dkIZ) | 4:24 | 2021-12-10 | 2022-06-21 |
@@ -1151,7 +1152,7 @@
 | [Worst Apology](https://open.spotify.com/track/5jaFa0rv7nykoB3SbygzpM) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Worst Apology](https://open.spotify.com/album/20HDyCAkbeyQj8jdiOfE74) | 3:12 | 2023-05-12 | 2023-07-14 |
 | [Worth It](https://open.spotify.com/track/22uRfgnUlPZXfd4BCaretS) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Worth It](https://open.spotify.com/album/065aiQ08pX7qfmkRr912fL) | 3:53 | 2021-12-10 | 2022-07-27 |
 | [Would You Even](https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Would You Even](https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG) | 2:52 | 2024-02-09 |  |
-| [Would You Tell Picasso To Sell His Guitars?](https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [Hand Signals](https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX) | 2:41 | 2023-10-10 |  |
+| [Would You Tell Picasso To Sell His Guitars?](https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [Hand Signals](https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX) | 2:41 | 2023-10-10 | 2024-04-05 |
 | [Wouldn't That Be Nice](https://open.spotify.com/track/4kcH1pBf54ctgrPXPsrCCY) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Wouldn't That Be Nice](https://open.spotify.com/album/0IiIfDeoBAKWnp2Uokdrp1) | 3:06 | 2022-05-20 | 2023-04-11 |
 | [WOW!](https://open.spotify.com/track/3B7PiImMLehZ18ZhZ6KAc3) | [promiser](https://open.spotify.com/artist/4OTKGQdkkR6iOn3BOzxps5) | [Clarity](https://open.spotify.com/album/6ECqLPoPb2sBwaJXLL1hRU) | 3:46 | 2022-02-04 | 2022-04-21 |
 | [Write It Off](https://open.spotify.com/track/2NEZizbxzdZyHWtnuhXKym) | [Ryan Librada](https://open.spotify.com/artist/6JygKoUdCYpjiwjQFFolI7) | [Write It Off](https://open.spotify.com/album/3YSrIBQSbV88daqik3z6g9) | 2:29 | 2022-05-20 | 2022-05-21 |

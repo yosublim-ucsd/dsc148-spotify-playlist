@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 
 > Sum 41 au top des meilleurs morceaux rock du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,271 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,359 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 | 49 | [Horns](https://open.spotify.com/track/2rfXQAs0j00PzH1Lz8X05B) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Feel the Shine](https://open.spotify.com/album/2Y8Jvg7hBj2hGcCMRVBrTd) | 3:26 |
 | 50 | [Something Good](https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 4:12 |
 
-Snapshot ID: `MCw4MzFiYzkyOWM0NjNkMmRjZTEyNzAzMGVhODE4M2M3ZjcwYzAxZmYx`
+Snapshot ID: `MCxkMTI5YzU4OGEzMzA4ODNlZDczOGQ5MGUzYzQ5NTNjNjQxN2I5NDVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8IJf8oADfU.md) - [plain]
 
 > Il n'y a pas d'âge pour aimer le rap et les musiques urbaines!
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,383 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,399 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8IJf8oADfU.md) - [plain]
 | 28 | [Papaoutai](https://open.spotify.com/track/1QFw2xxyQtgKjlrMCEqsNj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:52 |
 | 29 | [Mon soleil](https://open.spotify.com/track/2Dv1CPIgX29t816ZLscdB2) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Poison ou Antidote \(Miel Book Edition\)](https://open.spotify.com/album/275OdcSSXdxWeVxLPOGzl6) | 3:10 |
 | 30 | [En feu](https://open.spotify.com/track/6FxIFhVlOvI1wcXWe8LKei) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [L'Everest \(Deluxe Edition\)](https://open.spotify.com/album/7sNP8kJJr8Ji1wc4eA9HHr) | 3:25 |
-| 31 | [Angela](https://open.spotify.com/track/6ab3CQvDlAVttThZucwGQ1) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Chaise pliante](https://open.spotify.com/album/07bBgskS3ghKJIWvwsgnqF) | 3:56 |
+| 31 | [Angela](https://open.spotify.com/track/6xNXmllCLIV9cH1luBzqvO) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Fiesta Ete](https://open.spotify.com/album/7y5wAxXmiTc3Y7ZMxdXn8G) | 3:56 |
 | 32 | [Dommage](https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vraie vie \(Deluxe\)](https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM) | 3:58 |
 | 33 | [Est\-ce que tu m'aimes ? \- Pilule bleue](https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:57 |
 | 34 | [Roule](https://open.spotify.com/track/4aie3id34NbdlJEaWNlKyZ) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [L'Everest \(Deluxe Edition\)](https://open.spotify.com/album/7sNP8kJJr8Ji1wc4eA9HHr) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8IJf8oADfU.md) - [plain]
 | 49 | [Gangsta \- Bonus](https://open.spotify.com/track/7IFJNcevREJV8ZkIeITQGm) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La cour des grands](https://open.spotify.com/album/0TwkVtzgTlt1Y9kwsqkTCQ) | 3:39 |
 | 50 | [Je danse le Mia](https://open.spotify.com/track/6P8YkdLMTBA7z5nhKXgyi3) | [IAM](https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7) | [Ombre Est Lumière](https://open.spotify.com/album/2soc1D7Ym6sGp4A4d2pbWU) | 4:27 |
 
-Snapshot ID: `MCwwNzU1NDAwNWE3OGY2OTg1OTYwMTI4YjBjNjQxODU5ODZjNDhjZDc5`
+Snapshot ID: `MCwwOWYzZGRlZmFhOTYzMWJiMjY0Zjk5YTc1ZTI4MDNhYTEyMDk2NTBi`

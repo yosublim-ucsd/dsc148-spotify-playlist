@@ -1,12 +1,12 @@
 {
-  "description": "ur on the list bb \ud83e\ude90 featuring Two Shell",
-  "num_followers": 247565,
+  "description": "ur on the list bb \ud83e\ude90 featuring Glimji",
+  "num_followers": 247629,
   "original_name": "planet rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmZhNWE5ZGJmOWU2M2I2ZmFiMGE5NTQzYWY1ZGEwZGNiMmYwOWQ0",
+  "snapshot_id": "MCw4ZGIwZWJjZWIzMWZiMThiMGI0YmM0YzI2YWQ1ZTI2ODgwZTNmZGQ1",
   "tracks": [
     {
       "added_at": "2024-03-25 18:50:25",
@@ -63,6 +63,22 @@
     {
       "added_at": "2024-03-25 18:50:25",
       "album": {
+        "name": "How I Fell in Love",
+        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
+      },
+      "artists": [
+        {
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+        }
+      ],
+      "duration_ms": 112551,
+      "name": "How I Fell in Love",
+      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+    },
+    {
+      "added_at": "2024-03-25 18:50:25",
+      "album": {
         "name": "die for you",
         "url": "https://open.spotify.com/album/6XEyg8afWgcWOb3PKMcUPt"
       },
@@ -75,6 +91,22 @@
       "duration_ms": 118026,
       "name": "die for you",
       "url": "https://open.spotify.com/track/2VYRw09BrrRLcUoilTLN43"
+    },
+    {
+      "added_at": "2024-03-25 18:50:25",
+      "album": {
+        "name": "Seek Everything",
+        "url": "https://open.spotify.com/album/0E74Su86PyauXUPgAFG3Bm"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        }
+      ],
+      "duration_ms": 173201,
+      "name": "Seek Everything",
+      "url": "https://open.spotify.com/track/4gVSIXTL67QoAmNXnu3rqF"
     },
     {
       "added_at": "2024-03-25 18:50:25",
@@ -115,26 +147,6 @@
     {
       "added_at": "2024-03-25 18:50:25",
       "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3"
-      },
-      "artists": [
-        {
-          "name": "Two Shell",
-          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
-        },
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 198437,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/1ca9y7OQxBv0bXUXGKIFYP"
       },
@@ -159,18 +171,98 @@
     {
       "added_at": "2024-03-25 18:50:25",
       "album": {
-        "name": "How I Fell in Love",
-        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/5rFQHgLwKko3D5OKB3BuqT"
       },
       "artists": [
         {
-          "name": "CH4YN",
-          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+          "name": "Eli Mich",
+          "url": "https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
         }
       ],
-      "duration_ms": 112551,
-      "name": "How I Fell in Love",
-      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+      "duration_ms": 169500,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/4KaUtCS52nF45jCbFUi1OM"
+    },
+    {
+      "added_at": "2024-03-25 18:50:25",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 198437,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX"
+    },
+    {
+      "added_at": "2024-03-25 18:50:25",
+      "album": {
+        "name": "It's Only True",
+        "url": "https://open.spotify.com/album/7lMqUt8qan03Qz50U4bkLs"
+      },
+      "artists": [
+        {
+          "name": "Ollie Lishman",
+          "url": "https://open.spotify.com/artist/266LAiHzDxPPRJldh2CPX0"
+        }
+      ],
+      "duration_ms": 180145,
+      "name": "It's Only True",
+      "url": "https://open.spotify.com/track/2LBJbL1wHC4BuUiSuH9j6u"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Nordic Flora Series, Pt. 6: Outlaw Music",
+        "url": "https://open.spotify.com/album/7ib62D611ESrKymPdoeJJY"
+      },
+      "artists": [
+        {
+          "name": "Varg\u00b2\u2122",
+          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Is there a place in heaven for boys like me?",
+      "url": "https://open.spotify.com/track/0f4NbY8uXAIdxsEzJI2Waj"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Club classics / B2b",
+        "url": "https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 153526,
+      "name": "Club classics",
+      "url": "https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5"
     },
     {
       "added_at": "2024-03-25 18:50:25",
@@ -255,22 +347,6 @@
     {
       "added_at": "2024-03-25 18:50:25",
       "album": {
-        "name": "Seek Everything",
-        "url": "https://open.spotify.com/album/0E74Su86PyauXUPgAFG3Bm"
-      },
-      "artists": [
-        {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
-        }
-      ],
-      "duration_ms": 173201,
-      "name": "Seek Everything",
-      "url": "https://open.spotify.com/track/4gVSIXTL67QoAmNXnu3rqF"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
         "name": "The Thrill Of It (NOISY Remixes)",
         "url": "https://open.spotify.com/album/4t7UcJdX836ekNGpinUhsw"
       },
@@ -325,6 +401,22 @@
       "url": "https://open.spotify.com/track/5Ee0r9PetOsxgEG5h9IyqL"
     },
     {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S"
+    },
+    {
       "added_at": "2024-03-25 18:50:25",
       "album": {
         "name": "Need Somebody",
@@ -347,42 +439,6 @@
       "duration_ms": 141398,
       "name": "Need Somebody",
       "url": "https://open.spotify.com/track/0wdJefRAVWCkhlQXFCi8kx"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/5rFQHgLwKko3D5OKB3BuqT"
-      },
-      "artists": [
-        {
-          "name": "Eli Mich",
-          "url": "https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj"
-        },
-        {
-          "name": "Abi Flynn",
-          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/4KaUtCS52nF45jCbFUi1OM"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
-        "name": "It's Only True",
-        "url": "https://open.spotify.com/album/7lMqUt8qan03Qz50U4bkLs"
-      },
-      "artists": [
-        {
-          "name": "Ollie Lishman",
-          "url": "https://open.spotify.com/artist/266LAiHzDxPPRJldh2CPX0"
-        }
-      ],
-      "duration_ms": 180145,
-      "name": "It's Only True",
-      "url": "https://open.spotify.com/track/2LBJbL1wHC4BuUiSuH9j6u"
     },
     {
       "added_at": "2024-03-25 18:50:25",
@@ -471,6 +527,22 @@
       "duration_ms": 230500,
       "name": "Starburst",
       "url": "https://open.spotify.com/track/0C8StPiacteY4ft7OGOt5G"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "We Belong Together",
+        "url": "https://open.spotify.com/album/2Vvc9SNm3h09w5w6kLnmcp"
+      },
+      "artists": [
+        {
+          "name": "Hotline",
+          "url": "https://open.spotify.com/artist/00OrozdSzquB7OcrbAb1bX"
+        }
+      ],
+      "duration_ms": 167156,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/50tWBTjZTos3s18OrywXge"
     },
     {
       "added_at": "2024-03-25 18:50:25",
@@ -719,6 +791,26 @@
       "duration_ms": 209674,
       "name": "Never",
       "url": "https://open.spotify.com/track/2ToCF3zoUJoiOSVq7Mtaci"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/7KGsWMvm7WsELCPXzOWHj2"
+      },
+      "artists": [
+        {
+          "name": "ATSUS",
+          "url": "https://open.spotify.com/artist/3wsI6afBBm770enn4eYoiT"
+        },
+        {
+          "name": "909 Culture",
+          "url": "https://open.spotify.com/artist/777Y5dS5ESjyPlxaqFrUN2"
+        }
+      ],
+      "duration_ms": 139946,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/0CRzMSMY7oT9Uy7R7UpMiD"
     },
     {
       "added_at": "2024-03-25 18:50:25",
@@ -2159,22 +2251,6 @@
     {
       "added_at": "2024-03-25 18:50:25",
       "album": {
-        "name": "Never On My Own",
-        "url": "https://open.spotify.com/album/3yf2Swg9kTfhcXGBAZ2Fcv"
-      },
-      "artists": [
-        {
-          "name": "Sam Girling",
-          "url": "https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS"
-        }
-      ],
-      "duration_ms": 178525,
-      "name": "Never On My Own",
-      "url": "https://open.spotify.com/track/3AbfDdB7wCsPGR0yRrInWe"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/15psK1WC7rarUC9vChkzWR"
       },
@@ -2247,22 +2323,6 @@
       "duration_ms": 241655,
       "name": "AIR 04",
       "url": "https://open.spotify.com/track/765iELgtSJFNVhBOh89mmt"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
     },
     {
       "added_at": "2024-03-25 18:50:25",
@@ -2619,30 +2679,6 @@
     {
       "added_at": "2024-03-25 18:50:25",
       "album": {
-        "name": "I Feel The Magic",
-        "url": "https://open.spotify.com/album/1GMnQFmswk86qt3vgCzTTE"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "ZHIKO",
-          "url": "https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166"
-        }
-      ],
-      "duration_ms": 167999,
-      "name": "I Feel The Magic",
-      "url": "https://open.spotify.com/track/0ic0iGmElvGLyYcITm3Yod"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
         "name": "Thinkin Of U",
         "url": "https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS"
       },
@@ -2659,26 +2695,6 @@
       "duration_ms": 121682,
       "name": "Thinkin Of U",
       "url": "https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
-        "name": "Komodo (KIMMIC Mix)",
-        "url": "https://open.spotify.com/album/0JIVq8RvlA7pc5U9JWyPwa"
-      },
-      "artists": [
-        {
-          "name": "Mauro Picotto",
-          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
-        },
-        {
-          "name": "KIMMIC",
-          "url": "https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN"
-        }
-      ],
-      "duration_ms": 211174,
-      "name": "Komodo - KIMMIC Mix",
-      "url": "https://open.spotify.com/track/7isjHlKzgFi83b3gBigHG1"
     },
     {
       "added_at": "2024-03-25 18:50:25",
@@ -2711,26 +2727,6 @@
       "duration_ms": 294048,
       "name": "Searchin4Somethin - Original Mix",
       "url": "https://open.spotify.com/track/5fMrcJzGQ4oYq4wcGIvkXP"
-    },
-    {
-      "added_at": "2024-03-25 18:50:25",
-      "album": {
-        "name": "red blue and green lights",
-        "url": "https://open.spotify.com/album/6UsNAxGaGSKuqJj7VmWnIt"
-      },
-      "artists": [
-        {
-          "name": "bh",
-          "url": "https://open.spotify.com/artist/1dVRx37Q3qfuHf9Ke9u2OU"
-        },
-        {
-          "name": "saoirse dream",
-          "url": "https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf"
-        }
-      ],
-      "duration_ms": 211764,
-      "name": "red blue and green lights",
-      "url": "https://open.spotify.com/track/4ukDpDWiKtqT4RYQzdrYte"
     },
     {
       "added_at": "2024-03-25 18:50:25",

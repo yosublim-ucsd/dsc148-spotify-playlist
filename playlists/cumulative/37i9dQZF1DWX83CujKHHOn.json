@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Being alone (again) can be tough, but these songs will keep you company.",
+  "description": "Songs to keep you company.",
   "name": "Alone Again",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 241373,
       "name": "All Out of Love",
       "url": "https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 243000,
       "name": "All Out of Love",
       "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 203289,
       "name": "Burning",
       "url": "https://open.spotify.com/track/2mb6YdoavL6db22p7XKJQZ"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 188546,
       "name": "Half a Heart",
       "url": "https://open.spotify.com/track/6nIE1oCE4udqMGv3bqVNVb"
@@ -2296,7 +2296,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 259480,
       "name": "I Found - Acoustic",
       "url": "https://open.spotify.com/track/3i7Iyc932rv1AZz7gl7dj8"
@@ -2698,6 +2698,24 @@
       "duration_ms": 211600,
       "name": "In My Blood",
       "url": "https://open.spotify.com/track/79jX8RM5CgPqDKdGEKNW9K"
+    },
+    {
+      "album": {
+        "name": "Everything To Everyone (Deluxe)",
+        "url": "https://open.spotify.com/album/1KSAqXIHFEWo73keoru7FX"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227749,
+      "name": "In The Kitchen",
+      "url": "https://open.spotify.com/track/44EmuDeJW0Io8HIUUIdgIR"
     },
     {
       "album": {
@@ -3185,6 +3203,28 @@
     },
     {
       "album": {
+        "name": "Let You Break My Heart Again",
+        "url": "https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269066,
+      "name": "Let You Break My Heart Again",
+      "url": "https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo"
+    },
+    {
+      "album": {
         "name": "Liar",
         "url": "https://open.spotify.com/album/0fsUSRF3oFrbX5KKuuVg9M"
       },
@@ -3254,6 +3294,28 @@
       "duration_ms": 185440,
       "name": "like that",
       "url": "https://open.spotify.com/track/1BSAmxkrz2H8v5kpTfAT6v"
+    },
+    {
+      "album": {
+        "name": "Little Bit Better",
+        "url": "https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        },
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227625,
+      "name": "Little Bit Better",
+      "url": "https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st"
     },
     {
       "album": {
@@ -3474,7 +3536,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 236885,
       "name": "Losing Us.",
       "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
@@ -3586,6 +3648,24 @@
       "duration_ms": 285935,
       "name": "Love In The Dark",
       "url": "https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h"
+    },
+    {
+      "album": {
+        "name": "Love Is BS",
+        "url": "https://open.spotify.com/album/3EyAKObwJrfTJLr5UFg5wc"
+      },
+      "artists": [
+        {
+          "name": "Lala Sadii",
+          "url": "https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "Love Is BS",
+      "url": "https://open.spotify.com/track/3zKKxP2qqSJ5ynJS5oaJeZ"
     },
     {
       "album": {
@@ -4552,7 +4632,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 274586,
       "name": "Running Low",
       "url": "https://open.spotify.com/track/2ePgwid1o7NKDpUmNGC69b"
@@ -5416,7 +5496,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 159506,
       "name": "Tee Shirt - Soundtrack Version",
       "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
@@ -5488,7 +5568,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 253093,
       "name": "That's Why You Go Away",
       "url": "https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw"
@@ -5531,6 +5611,24 @@
     },
     {
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "album": {
         "name": "The Fault in Our Stars",
         "url": "https://open.spotify.com/album/75K7Ki7WchpgjTHHR4hDmo"
       },
@@ -5542,7 +5640,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 187194,
       "name": "The Fault in Our Stars",
       "url": "https://open.spotify.com/track/6LteLVcW0oWLjuW6nePyWb"
@@ -5744,7 +5842,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 184064,
       "name": "Thinking 'Bout Love - Acoustic",
       "url": "https://open.spotify.com/track/1nHPM4cx7QvCaFakEPMsho"
@@ -6180,7 +6278,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 184213,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5tajmvqHF6YW1iiUFzKpCB"
@@ -6278,7 +6376,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 189093,
       "name": "What Are Words",
       "url": "https://open.spotify.com/track/50A1WCxKycJUHRr4Rz6WrD"

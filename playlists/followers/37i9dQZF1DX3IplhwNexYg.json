@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 114629,
+  "2024-04-05": 114633,
   "date_first_scraped": "2022-01-02",
   "description": "The best in current indie rock. Cover: Sl\u00f8tface",
   "name": "pulp",
@@ -6924,6 +6924,24 @@
     },
     {
       "album": {
+        "name": "R&B",
+        "url": "https://open.spotify.com/album/1fr1VcE4Jo3WoaUcOi7chU"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168063,
+      "name": "R&B",
+      "url": "https://open.spotify.com/track/6yRsDLeo8qszcOS2u11ZDn"
+    },
+    {
+      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/3ZxC9jh02Nrvpo49frhUMR"
       },
@@ -8621,7 +8639,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 238653,
       "name": "the angel of 8th ave.",
       "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"

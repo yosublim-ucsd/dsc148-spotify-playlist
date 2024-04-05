@@ -1,12 +1,12 @@
 {
   "description": "Trap de la isla, con Yeruza en portada.",
-  "num_followers": 14094,
+  "num_followers": 14107,
   "original_name": "Trap Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzI3YzVkMWQ4Y2YwZmNjMjdjZTFlYzcwMWFjYzU1MmU3MDU0ZDM3",
+  "snapshot_id": "MCxkODkxNGFhNmJiZDU0YzViMWM2YjQ5YjYxYmNiOTM1OWRhMDNjZGMz",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -891,18 +891,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Living Life",
-        "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
+        "name": "Los Bo",
+        "url": "https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD"
       },
       "artists": [
         {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 180751,
-      "name": "La MVP",
-      "url": "https://open.spotify.com/track/74WOZ17ERaFrHXYtSid13p"
+      "duration_ms": 239120,
+      "name": "Los Bo",
+      "url": "https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -959,22 +963,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Los Bo",
-        "url": "https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD"
+        "name": "Living Life",
+        "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
         }
       ],
-      "duration_ms": 239120,
-      "name": "Los Bo",
-      "url": "https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU"
+      "duration_ms": 180751,
+      "name": "La MVP",
+      "url": "https://open.spotify.com/track/74WOZ17ERaFrHXYtSid13p"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1115,22 +1115,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/1RdPNJjLXGZkHEUjROUoM0"
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
       },
       "artists": [
         {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 265749,
-      "name": "23",
-      "url": "https://open.spotify.com/track/4sWkZXLxb0lPCXNBzw5rsr"
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
     }
   ],
   "unique_name": "Trap Boricua",

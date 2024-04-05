@@ -1,12 +1,12 @@
 {
   "description": "The finest set of Malayalam music from the past 10 years.\nCover : Manjummel Boys",
-  "num_followers": 94784,
+  "num_followers": 94975,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTBlNzRiY2IwMjJiMTg1ODU4ZjdlYWYzYjU4NjhjOGE3YTNlYzgx",
+  "snapshot_id": "MCxmZDdkMTBhOGNjMjg4OTc2ODIyOTg4YmUwZTdlMTNlZjA2ZjY0OTRh",
   "tracks": [
     {
       "added_at": "2024-03-21 10:40:58",
@@ -29,10 +29,10 @@
       "url": "https://open.spotify.com/track/11BKSlBxpkxrHvPi8uxXzV"
     },
     {
-      "added_at": "2024-02-22 03:16:27",
+      "added_at": "2024-04-04 04:11:02",
       "album": {
-        "name": "Mazhavillile (From \"Falimy\")",
-        "url": "https://open.spotify.com/album/2CPlfbyLCopFkWebKyBgeo"
+        "name": "Mini Maharani (From \"Premalu\")",
+        "url": "https://open.spotify.com/album/3XaWEypWwOf68Z7GckamCG"
       },
       "artists": [
         {
@@ -40,37 +40,85 @@
           "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
         },
         {
-          "name": "Mu.Ri",
-          "url": "https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm"
+          "name": "Suhail Koya",
+          "url": "https://open.spotify.com/artist/1d3zWx1pD19ZF60KcVUPYv"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Vagu Mazan",
+          "url": "https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV"
         }
       ],
-      "duration_ms": 196609,
-      "name": "Mazhavillile - From \"Falimy\"",
-      "url": "https://open.spotify.com/track/0vvlXqo7vNXmMDwSqXldLy"
+      "duration_ms": 245276,
+      "name": "Mini Maharani (From \"Premalu\")",
+      "url": "https://open.spotify.com/track/2CPjVH7irjP1H9Na7VbhrN"
+    },
+    {
+      "added_at": "2023-09-15 11:12:56",
+      "album": {
+        "name": "Athmave Poo (From \"Romancham\") - Single",
+        "url": "https://open.spotify.com/album/44aS3PHWN0lWZJgqbg0Iai"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 216976,
+      "name": "Athmave Poo (From \"Romancham\")",
+      "url": "https://open.spotify.com/track/4AT2lYbyTiXIDc09bIN0V7"
+    },
+    {
+      "added_at": "2023-09-18 05:21:56",
+      "album": {
+        "name": "Neela Nilave (From \"Rdx\")",
+        "url": "https://open.spotify.com/album/5LXBbKAhhMqgj3rGOBWOah"
+      },
+      "artists": [
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Manu Manjith",
+          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Neela Nilave (From \"RDX\")",
+      "url": "https://open.spotify.com/track/73rMD23ocpYxwQXJQJyRDv"
     },
     {
       "added_at": "2023-11-24 10:18:25",
       "album": {
-        "name": "Uyire (From \"Minnal Murali\")",
-        "url": "https://open.spotify.com/album/5FzV5fBNAsL0WtfIFkw3Mt"
+        "name": "Puthiyoru Pathayil (From \"Varathan\")",
+        "url": "https://open.spotify.com/album/5t0PWUmZcc7f2XIeUFYGKN"
       },
       "artists": [
         {
-          "name": "Shaan Rahman",
-          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
+          "name": "Nazriya Nazim",
+          "url": "https://open.spotify.com/artist/1Y8eSlmFO33Bn0D8ZNA9IE"
         },
         {
-          "name": "Narayani Gopan",
-          "url": "https://open.spotify.com/artist/77CpK8W1pBsAITFE3zVeOI"
-        },
-        {
-          "name": "Mithun Jayaraj",
-          "url": "https://open.spotify.com/artist/3mVQkEy8bTczhoTmCWTRbh"
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
         }
       ],
-      "duration_ms": 327155,
-      "name": "Uyire - From \"Minnal Murali\"",
-      "url": "https://open.spotify.com/track/0vmxxVMfJN21J3xX2uqzkg"
+      "duration_ms": 185958,
+      "name": "Puthiyoru Pathayil - From \"Varathan\"",
+      "url": "https://open.spotify.com/track/0j92tXG29XKV1ongcu3JjR"
     },
     {
       "added_at": "2023-09-27 10:00:03",
@@ -141,30 +189,6 @@
       "url": "https://open.spotify.com/track/5b7Px47PuvYFg2wjgymcRH"
     },
     {
-      "added_at": "2023-09-18 05:21:56",
-      "album": {
-        "name": "Neela Nilave (From \"Rdx\")",
-        "url": "https://open.spotify.com/album/5LXBbKAhhMqgj3rGOBWOah"
-      },
-      "artists": [
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Manu Manjith",
-          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Neela Nilave (From \"RDX\")",
-      "url": "https://open.spotify.com/track/73rMD23ocpYxwQXJQJyRDv"
-    },
-    {
       "added_at": "2023-09-15 11:12:56",
       "album": {
         "name": "Parayuvaan (From \"Ishq\")",
@@ -193,26 +217,6 @@
       "url": "https://open.spotify.com/track/4hTcGYU6uXZVCAfIMsxhlC"
     },
     {
-      "added_at": "2023-11-24 10:18:25",
-      "album": {
-        "name": "Puthiyoru Pathayil (From \"Varathan\")",
-        "url": "https://open.spotify.com/album/5t0PWUmZcc7f2XIeUFYGKN"
-      },
-      "artists": [
-        {
-          "name": "Nazriya Nazim",
-          "url": "https://open.spotify.com/artist/1Y8eSlmFO33Bn0D8ZNA9IE"
-        },
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        }
-      ],
-      "duration_ms": 185958,
-      "name": "Puthiyoru Pathayil - From \"Varathan\"",
-      "url": "https://open.spotify.com/track/0j92tXG29XKV1ongcu3JjR"
-    },
-    {
       "added_at": "2023-09-15 11:12:56",
       "album": {
         "name": "Maradona (Original Motion Picture Soundtrack)",
@@ -235,26 +239,6 @@
       "duration_ms": 228484,
       "name": "Nilapakshi Happy Version",
       "url": "https://open.spotify.com/track/6BvRT4pR5sr3jHgrTYAtbp"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
-        "name": "Athmave Poo (From \"Romancham\") - Single",
-        "url": "https://open.spotify.com/album/44aS3PHWN0lWZJgqbg0Iai"
-      },
-      "artists": [
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 216976,
-      "name": "Athmave Poo (From \"Romancham\")",
-      "url": "https://open.spotify.com/track/4AT2lYbyTiXIDc09bIN0V7"
     },
     {
       "added_at": "2023-09-15 11:12:56",
@@ -563,6 +547,26 @@
       "duration_ms": 385874,
       "name": "En Kanavil - The Love Story",
       "url": "https://open.spotify.com/track/5dqcl7jGMRkHsPMgCGG0fW"
+    },
+    {
+      "added_at": "2024-02-22 03:16:27",
+      "album": {
+        "name": "Mazhavillile (From \"Falimy\")",
+        "url": "https://open.spotify.com/album/2CPlfbyLCopFkWebKyBgeo"
+      },
+      "artists": [
+        {
+          "name": "Vishnu Vijay",
+          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
+        },
+        {
+          "name": "Mu.Ri",
+          "url": "https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm"
+        }
+      ],
+      "duration_ms": 196609,
+      "name": "Mazhavillile - From \"Falimy\"",
+      "url": "https://open.spotify.com/track/0vvlXqo7vNXmMDwSqXldLy"
     },
     {
       "added_at": "2023-11-24 10:18:25",

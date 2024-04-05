@@ -4,7 +4,7 @@
 
 > This is BK\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 41 min
+74 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Luccas Carlos](https://open.spotify.com/track/3d9TLnvPX2IEJ0zvkIQBNU) | [Pirâmide Perdida](https://open.spotify.com/artist/4lJ000HqAKrfAehIP2XENM), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [CHS](https://open.spotify.com/artist/3MHIgk9kofA8ZkNcZoQMpj), [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Bril](https://open.spotify.com/artist/6wOMdAwX6mgYpadxSKU65a) | [Pirâmide Perdida \(Vol\. 7\)](https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE) | 4:09 | 2023-09-18 | 2024-03-29 |
 | [Movimento](https://open.spotify.com/track/1ZjeSBSlwwddWUTa982kBA) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [O Líder em Movimento](https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5) | 3:35 | 2023-09-18 | 2023-12-18 |
 | [Mun Rá](https://open.spotify.com/track/1SXLxcC5SBjYWfN94jIDOc) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Mun Rá](https://open.spotify.com/album/0txbns1JErYP5FQTiLijyl) | 3:28 | 2023-09-18 | 2023-11-11 |
+| [Mun Rá \- Sabotage 50](https://open.spotify.com/track/2dmusPFbSC9BF1tRaj0uBN) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Sabotage 50](https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ) | 3:28 | 2024-04-05 |  |
 | [Músicas de amor nunca mais](https://open.spotify.com/track/6RgXU5moRK2kNovhLQV0Yq) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:22 | 2023-09-18 |  |
 | [Nome nas ruas](https://open.spotify.com/track/4ujSlvkBI6rh0iRORsSD2Q) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:27 | 2023-09-18 |  |
 | [Não Preciso Que Você Duvide](https://open.spotify.com/track/3Cx69RPbGwXtBYJeMwUkZc) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Cidade do Pecado](https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn) | 2:38 | 2023-09-18 | 2023-10-02 |

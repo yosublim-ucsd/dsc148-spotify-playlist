@@ -4,7 +4,7 @@
 
 > Blues favorites from 2023\. Cover: Joe Bonamassa \#SpotifyWrapped
 
-225 songs - 14 hr 35 min
+226 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [Two Of A Kind](https://open.spotify.com/track/4Bz39avjnvbK3cWLN8EdVI) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743) | [Best Of Me](https://open.spotify.com/album/1CW7MiOxF2OB1fm4hCjQSq) | 3:55 | 2023-11-29 |  |
 | [Under Your Spell](https://open.spotify.com/track/1n4OzgYj9CwubUx7vhf1uD) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Under Your Spell](https://open.spotify.com/album/5k0hBiaEUAwqu54TauMa4T) | 2:53 | 2021-12-01 | 2022-07-29 |
 | [Under Your Spell](https://open.spotify.com/track/6cq0Q5NdeKfO6jjCrAnIov) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Under Your Spell](https://open.spotify.com/album/18U447Ip4CM4yoQc26DJ1i) | 2:53 | 2021-12-01 | 2022-12-01 |
-| [Undertow](https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4) | 3:22 | 2023-11-29 |  |
+| [Undertow](https://open.spotify.com/track/0EbZNGeKLzAqYuYuNOCack) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep and the Dirty](https://open.spotify.com/album/67KkHhNmrpt1NkoiRW1cXc) | 3:22 | 2023-11-29 |  |
+| [Undertow](https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4) | 3:22 | 2023-11-29 | 2024-04-05 |
 | [Unhinged](https://open.spotify.com/track/41N74tDfqzG242pQe16lSE) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [Unhinged](https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR) | 3:23 | 2023-11-29 |  |
 | [Up and Rolling \(feat\. Son Little and Valerie June\)](https://open.spotify.com/track/2V5o61Yu0ddJDFz1Pi8T3N) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Up and Rolling \(feat\. Son Little and Valerie June\)](https://open.spotify.com/album/6YgBwPmvrWQYRd2QeoiXpq) | 3:21 | 2021-12-01 | 2022-12-01 |
 | [We Need To Talk About It](https://open.spotify.com/track/1SWk8chKisB7HJvKizuf36) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 2:53 | 2022-11-30 | 2023-11-30 |

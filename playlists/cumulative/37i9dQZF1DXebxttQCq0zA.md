@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-372 songs - 19 hr 1 min
+376 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ad Infinitum](https://open.spotify.com/track/1WHrCfYujnEhApstu2ppFo) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:31 | 2022-12-20 |  |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-05-25 |  |
 | [After All Was Said](https://open.spotify.com/track/0tgcnoBZDZWnZVqY6gWzDg) | [Leander Vaughn](https://open.spotify.com/artist/6VZhEArsID7ayvhvG7DRGl) | [After All Was Said](https://open.spotify.com/album/4XcoP0aDaP9DtFHNr3OypS) | 3:26 | 2022-10-21 |  |
+| [Agate](https://open.spotify.com/track/1aeXvYRS4XkrZG2VUSzIHU) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Agate](https://open.spotify.com/album/1TciqbDhTG30SJUAefAv7V) | 3:21 | 2024-04-04 |  |
 | [Ajna](https://open.spotify.com/track/2K5oZahJ4iSqs4LaXeCjtx) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:29 | 2022-09-30 | 2023-08-12 |
 | [All Rivers](https://open.spotify.com/track/5bw8YBybhZA37RZKjZ2voM) | [Static Garden](https://open.spotify.com/artist/3uuH2jEYv8ZArIf83io4hN) | [All Rivers](https://open.spotify.com/album/0QgSmP4m5QXm8s76qrUM91) | 3:57 | 2022-05-25 | 2022-09-03 |
 | [Already Missing Summer](https://open.spotify.com/track/4ISntdSrLq20YiFzT96SkN) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Already Missing Summer](https://open.spotify.com/album/03yKIwxKmKaByMWsnN15Zq) | 2:46 | 2022-12-06 |  |
@@ -134,6 +135,7 @@
 | [Fjord](https://open.spotify.com/track/5F820xSuKiMLpGOV04Xs3c) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Fjord](https://open.spotify.com/album/6uJxTkCL8G3hjXi7S3ejkJ) | 2:54 | 2022-12-20 |  |
 | [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
 | [Fragile Heart](https://open.spotify.com/track/4YzKmXKalu7Fw1wDb8Js2n) | [Doosi](https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP) | [Fragile Heart](https://open.spotify.com/album/1BCu5Ss9pPaFjtmNcwE0SK) | 3:21 | 2022-12-06 |  |
+| [Fragile Voices](https://open.spotify.com/track/4zlGsaKaK94x4m1rJhDiiO) | [Meadow Rose](https://open.spotify.com/artist/0oEgQRXvflXAckXUZrLI3Y) | [Fragile Voices](https://open.spotify.com/album/1EWqxA9KSoAhWTAoImsM2v) | 3:31 | 2024-04-04 |  |
 | [Fragments Café](https://open.spotify.com/track/0BIStdXlI7hvMEkIfROFUt) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb) | 3:54 | 2022-07-15 | 2022-09-03 |
 | [Fragments Café](https://open.spotify.com/track/3jg4Z0yPJsVx5M3BOYkBS0) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/71Ao0d8AcoKZdzOFhZzScO) | 3:54 | 2022-05-25 | 2022-07-29 |
 | [Friendship Of The Gebora](https://open.spotify.com/track/5kJiKkxRlAX62gNCCoMBan) | [Lost Rainbow](https://open.spotify.com/artist/2AcvgHNvj15wvGtQZQDTbh) | [Friendship Of The Gebora](https://open.spotify.com/album/592uas3YkCZMuDdVQnV4BL) | 3:24 | 2022-05-25 |  |
@@ -200,6 +202,7 @@
 | [Meditación y Relajación](https://open.spotify.com/track/30ZnWr4gkenAaSFIa733gl) | [Calamantos](https://open.spotify.com/artist/4sk5GtqBchPEuDVcOASDXy) | [Relajación y Meditación](https://open.spotify.com/album/7lf9GNRElS8xe9isYjh3bL) | 3:06 | 2022-05-25 | 2023-04-07 |
 | [Meliora](https://open.spotify.com/track/4UUTtDXBx9GiedPVzTNL5F) | [Vendela Rose](https://open.spotify.com/artist/31fLMu6uyged4QpGx1VqA0) | [Meliora](https://open.spotify.com/album/7sxxKRZ8YByAttAbVJiUSp) | 3:17 | 2022-12-06 |  |
 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 | 2022-05-25 |  |
+| [Mercury](https://open.spotify.com/track/1SeMYlrSOaTF2edVkdmnuo) | [Enarxis Lingo](https://open.spotify.com/artist/4fFkYueiawZ4XaoEd3Z84k) | [Mercury](https://open.spotify.com/album/27MdHnlPyYmiruawHMbRPg) | 3:35 | 2024-04-04 |  |
 | [Midnight Relief](https://open.spotify.com/track/3lzrmp1ug1AEu5KQ3AkzO6) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Midnight Relief](https://open.spotify.com/album/5S9SpAQQFbgO5edXpXYd8A) | 3:06 | 2022-10-07 |  |
 | [Mind Balance](https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 2:58 | 2022-12-30 |  |
 | [Mind Cleansing](https://open.spotify.com/track/0V1vo7jIvwW2QIeuKJFAg4) | [Calma](https://open.spotify.com/artist/0UFMDihal5NxeE9xM8jsHz) | [Astral Plane](https://open.spotify.com/album/5xNBsj69xWMQgxqVSo6uAC) | 3:03 | 2022-05-25 | 2022-09-28 |
@@ -208,6 +211,7 @@
 | [Mirno](https://open.spotify.com/track/21YSyRy6GIFkbzIoWHLbhD) | [Alojz Pavic](https://open.spotify.com/artist/51QTWGv4EPAahGEUrk9lmC) | [Mirno](https://open.spotify.com/album/4RAtKiZLrOx2b2PjBQjXKb) | 2:57 | 2022-12-20 |  |
 | [Mirrors](https://open.spotify.com/track/4AxLkuDH6lAh4zfAqnMk1n) | [Tairata](https://open.spotify.com/artist/6S03l2FptTA5eeHeXo115b) | [Mirrors](https://open.spotify.com/album/31hZ1BCR6HrbzBu0dNehj5) | 2:18 | 2022-12-20 |  |
 | [Miuys](https://open.spotify.com/track/6gM3YgCJV3tBzbnYG2ydge) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Miuys](https://open.spotify.com/album/1yoIxMWtpZxCUrFysAZ1Ll) | 3:00 | 2022-08-23 |  |
+| [Moai](https://open.spotify.com/track/679xNjEXNwRY76JfBDbuhA) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [Moai](https://open.spotify.com/album/4t0rYOJrUyGtWkBP8MOWYU) | 2:19 | 2024-04-04 |  |
 | [Mollusca](https://open.spotify.com/track/63kG8LOsD5GLmjW62S2rBA) | [Ferndale](https://open.spotify.com/artist/3RXfYE9FOxd2Mgxf46ZMb9) | [Gabriel](https://open.spotify.com/album/6EKSmGzGQ7ODZmqdHVXpa1) | 3:28 | 2022-05-25 |  |
 | [Moonlight](https://open.spotify.com/track/7d3KZr4HSC2Pt3r4a9Jx91) | [M1ND](https://open.spotify.com/artist/3opgcftoLQXdBYFrwP8xoR) | [At Peace](https://open.spotify.com/album/6T8GQaam618kI3vbP74FXP) | 2:29 | 2022-05-25 | 2022-09-28 |
 | [Moons in the Rings](https://open.spotify.com/track/3Y3u0mF1FF8Psi7PDnSvLI) | [Interstellar Journey](https://open.spotify.com/artist/2lVUuG2asaRByPWesKcMW4) | [Tides on Titan](https://open.spotify.com/album/09Kpj515fwXraK5qYOpx3F) | 2:56 | 2022-05-25 | 2023-12-14 |

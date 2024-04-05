@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 18937,
+  "num_followers": 18938,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTE4Y2UyNzQzYmM1Njg0ZTU5NjE1ZmEwYjQwZjFkYjg5NDBhMWZj",
+  "snapshot_id": "MCxjNTg3NzA5ZGFiYjIzNjc3MGVjZmJjMGNlOThlY2I5ZTAyOGY2NjI3",
   "tracks": [
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From Nkrumah Krom Vol II: Home Run",
-        "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Evil Genius",
         "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 151543,
       "name": "Jamboree",
       "url": "https://open.spotify.com/track/17Yhnis5nnAKKRQKMAHtse"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From Nkrumah Krom Vol II: Home Run",
+        "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
     },
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 178106,
-      "name": "Dabebi",
-      "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tall Shade",
         "url": "https://open.spotify.com/album/1ot4OOnFQfD7FtoQAU3qKS"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 179750,
       "name": "Tall Shade",
       "url": "https://open.spotify.com/track/4pACPCpLl5vqvrToSE161d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 178106,
+      "name": "Dabebi",
+      "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
     },
     {
       "added_at": null,
@@ -1003,6 +1003,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/1lntDqc2Wxb1iRERQIzYaL"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 153992,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breakup Riddim",
         "url": "https://open.spotify.com/album/4jgEls0nOqJJdC2WepmEdf"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 204549,
       "name": "Breakup Riddim",
       "url": "https://open.spotify.com/track/6eQJlOBTVunZYc0DvVj1H0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tony Montana",
-        "url": "https://open.spotify.com/album/1lntDqc2Wxb1iRERQIzYaL"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 153992,
-      "name": "Tony Montana",
-      "url": "https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC"
     },
     {
       "added_at": null,

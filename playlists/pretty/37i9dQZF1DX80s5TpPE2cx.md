@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,343 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,356 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 59 | [Still II](https://open.spotify.com/track/7fVEkRuAjRlEWd6GPSdSuP) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Still II](https://open.spotify.com/album/4suYeq2z1bGkU9AftrlMU7) | 2:09 |
 | 60 | [Supa Sigh](https://open.spotify.com/track/6mESvUo6c4KILTSt0tv7Em) | [BrisB](https://open.spotify.com/artist/5hsqUG0HzeF5qurzzanUWa), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Supa Sigh](https://open.spotify.com/album/0Ozr5RbURs53qS2LPBq3eS) | 3:32 |
 
-Snapshot ID: `MCxmMmNlYTBkYjY2NGVlNDg2OWVmNThhZmQ0NTNlN2NmYTMxZWFiNDJl`
+Snapshot ID: `MCxmMTJkMWI3NGUzZTVhZTRjMDhlY2ExZTcxNjYwMjk2YjZmY2ZlYTNm`

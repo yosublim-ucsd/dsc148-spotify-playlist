@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Omar Montes, Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 975,177 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 975,233 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 21 | [Sin Filtro](https://open.spotify.com/track/4Z5PBylYcd22Wp1YAhR7gT) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV) | [Sin Filtro](https://open.spotify.com/album/5FFN7Ju1YOxdSBcbO7Iqs5) | 2:57 |
 | 22 | [Los Lugares Donde Irás](https://open.spotify.com/track/4p1C7lssRJgOkdpPWlb6s1) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF), [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Los Lugares Donde Irás](https://open.spotify.com/album/78Q2cME3Xqp5REjAlDHX8a) | 2:56 |
 | 23 | [tequiero](https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [tequiero](https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN) | 3:05 |
-| 24 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 |
-| 25 | [Algo Sencillito](https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Algo Sencillito](https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm) | 2:57 |
-| 26 | [Ester Expósito](https://open.spotify.com/track/4GKjSwmowWO082NGn11wNj) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Ester Expósito](https://open.spotify.com/album/0iVOSSLoiNqlqnaMAqe4Co) | 3:33 |
-| 27 | [BLACK OPIUM](https://open.spotify.com/track/09778gErBvUNDu4hCBiwPX) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PALANTE](https://open.spotify.com/album/0Ts13cnp7kgWyaSfemKGkA) | 2:36 |
-| 28 | [La Botella](https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [FINAL \(Vol.2\)](https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx) | 3:06 |
+| 24 | [La Botella](https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [FINAL \(Vol.2\)](https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx) | 3:06 |
+| 25 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 |
+| 26 | [Algo Sencillito](https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Algo Sencillito](https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm) | 2:57 |
+| 27 | [Ester Expósito](https://open.spotify.com/track/4GKjSwmowWO082NGn11wNj) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Ester Expósito](https://open.spotify.com/album/0iVOSSLoiNqlqnaMAqe4Co) | 3:33 |
+| 28 | [BLACK OPIUM](https://open.spotify.com/track/09778gErBvUNDu4hCBiwPX) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PALANTE](https://open.spotify.com/album/0Ts13cnp7kgWyaSfemKGkA) | 2:36 |
 | 29 | [amor de verano](https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [amor de verano](https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG) | 2:56 |
 | 30 | [La última granada](https://open.spotify.com/track/4wCFO12O6g2yY2xiC3EBA8) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [La última granada](https://open.spotify.com/album/4z0I4WdWd8NWEKfHj8WkIH) | 2:39 |
 | 31 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [Pirata](https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Pirata](https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf) | 3:13 |
 | 50 | [Menamorao \(demo\)](https://open.spotify.com/track/1rknipvLh4fVNjrKvwb47B) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Menamorao \(demo\)](https://open.spotify.com/album/6FH3E3d1GYsCSvNglmlkzh) | 2:43 |
 
-Snapshot ID: `MCxhNjM0MDU0Yzk0ZTkwYjBjZDJiODRhOWJiYTk3MjY0N2FhMDU2ZmU2`
+Snapshot ID: `MCxkNjU0MDZlNTQ5ODdmMjc3NTg3YTJkNGVhNjlhZmFjNTk1NDNlNGQw`

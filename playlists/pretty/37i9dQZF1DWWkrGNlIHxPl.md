@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: MC Abdul & Saint Levant
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,877 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,899 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [XENA](https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [XENA](https://open.spotify.com/album/6dIRD8FVDLGmA0AoxYEOeA) | 4:11 |
 | 50 | [Fear Nothing](https://open.spotify.com/track/7LvmSzawlp43aFDK6PddO5) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [INNER WARRIOR](https://open.spotify.com/album/2abEx97wj9sM4Vs81d1rYM) | 3:28 |
 
-Snapshot ID: `MCw5OTlkNWQ1NjRkODMxMWMwY2E5OGVhMTdjZTY5MGQwZTJmOWIwNDA0`
+Snapshot ID: `MCw4NjVkOTdlN2NmYmM1ZTllYTcyYzUwM2RiNzA3ZjQxMDQ0ZjYzMWE3`

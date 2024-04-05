@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Foto: Lara91k
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,304 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,297 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 41 | [Declaración Jurada](https://open.spotify.com/track/6mQxdGZOiYCoVQG1RRAjpi) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Susi](https://open.spotify.com/album/6yO1Irm9PyDUZlNrdpjBNJ) | 2:15 |
 | 42 | [Zona de Fumadores](https://open.spotify.com/track/1LSUmyZ1ACGmLuDtulXXRD) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 1:31 |
 | 43 | [Provoqué](https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Provoqué](https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE) | 3:38 |
-| 44 | [Desastre](https://open.spotify.com/track/7KACvg9l3V2HpBqCW5Oxxi) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:31 |
-| 45 | [Bordes](https://open.spotify.com/track/0j8KXlqxtQrycQH78GPWw4) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Bordes](https://open.spotify.com/album/0UWOXpV26q2LYf6ThqQGT5) | 2:56 |
+| 44 | [Bordes](https://open.spotify.com/track/0j8KXlqxtQrycQH78GPWw4) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Bordes](https://open.spotify.com/album/0UWOXpV26q2LYf6ThqQGT5) | 2:56 |
+| 45 | [Desastre](https://open.spotify.com/track/7KACvg9l3V2HpBqCW5Oxxi) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:31 |
 | 46 | [CRASH](https://open.spotify.com/track/56AfMR14hEbvNxPkzkr4Lu) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [Zyntax](https://open.spotify.com/artist/76KyZ9BBbydGTJkKJz7xdO) | [CRASH](https://open.spotify.com/album/1cAWKfLaoca8sSAiY0bbd1) | 2:41 |
 | 47 | [tribu urbana](https://open.spotify.com/track/2Ch6Q8JCBEguf4HCOpfCBj) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [tribu urbana](https://open.spotify.com/album/5WaHflJ1zw8Camclfo8E2s) | 2:53 |
-| 48 | [Bruma](https://open.spotify.com/track/37A1t6zLsxWtqZfb5nE9hf) | [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [Santa Basura \[1\]](https://open.spotify.com/album/5JD5doGcCXgJMZiIYdFTk9) | 1:19 |
-| 49 | [El Rayo](https://open.spotify.com/track/09HCUGNu21tPaJxHrnxgyd) | [Lola Cobach](https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Camino Dorado](https://open.spotify.com/album/1jESRLrDw77dVGvIVVeKQl) | 3:45 |
+| 48 | [El Rayo](https://open.spotify.com/track/09HCUGNu21tPaJxHrnxgyd) | [Lola Cobach](https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Camino Dorado](https://open.spotify.com/album/1jESRLrDw77dVGvIVVeKQl) | 3:45 |
+| 49 | [Bruma](https://open.spotify.com/track/37A1t6zLsxWtqZfb5nE9hf) | [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [Santa Basura \[1\]](https://open.spotify.com/album/5JD5doGcCXgJMZiIYdFTk9) | 1:19 |
 | 50 | [Puta](https://open.spotify.com/track/1Ckm84P3YA0OHp4fgOrGDQ) | [Greta Dumont](https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Puta](https://open.spotify.com/album/3OgATgCeOhZICDDVyX1cLK) | 2:03 |
 
-Snapshot ID: `MCxkZWI2YjZjYmJjYjc4MTgwM2Y0M2JjMDAzNmE1NzUyYTI4Y2FmN2Nl`
+Snapshot ID: `MCxhMDFmZGVjOGMwZTc5NDY5NjRlNGY2NTZlNGJmYTJmMjExNTM4Nzk2`

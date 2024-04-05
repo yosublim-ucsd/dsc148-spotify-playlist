@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=_2MLvxbWQuClr-c3ohOP5g\">Franja Du Plessis</a>  ",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=nCZWvUgkRzK0a8-A9t8qEg\">Jemma Catherine</a>  ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Bemin",
+        "url": "https://open.spotify.com/album/5cZVFe2nf1kUbpBC9wDMD7"
+      },
+      "artists": [
+        {
+          "name": "Van Der Aven",
+          "url": "https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228714,
+      "name": "Bemin",
+      "url": "https://open.spotify.com/track/6SQgk0RMTWov9yJCw4BuD0"
+    },
+    {
+      "album": {
         "name": "Beskerm Jou Hart",
         "url": "https://open.spotify.com/album/1ic0wKTlW4AsHzEwfKSIPv"
       },
@@ -1917,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Brandstigter",
+        "url": "https://open.spotify.com/album/3R7GwC2aAzdzLj9CTlHlcs"
+      },
+      "artists": [
+        {
+          "name": "Posduif",
+          "url": "https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248668,
+      "name": "Brandstigter",
+      "url": "https://open.spotify.com/track/5uyYASO5URsSfqQT59NpKH"
+    },
+    {
+      "album": {
         "name": "Brannewynlippe",
         "url": "https://open.spotify.com/album/68c0WhoFBICaOlNDVh3pvk"
       },
@@ -2142,6 +2178,24 @@
       "duration_ms": 199804,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/5Ih49pHF0yWdgMVmiFOZOV"
+    },
+    {
+      "album": {
+        "name": "Case Trekker",
+        "url": "https://open.spotify.com/album/52g7xoL93WTBTa3AQvhw1l"
+      },
+      "artists": [
+        {
+          "name": "Armand Hofmeyr",
+          "url": "https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206201,
+      "name": "Case Trekker",
+      "url": "https://open.spotify.com/track/6M3XoM8asGBNvUphOlWxcI"
     },
     {
       "album": {
@@ -2572,6 +2626,28 @@
       "duration_ms": 249506,
       "name": "Dans Met Gevaar",
       "url": "https://open.spotify.com/track/4EPTBSsuBCIiIjl4Dt4Aof"
+    },
+    {
+      "album": {
+        "name": "Dans Saam My",
+        "url": "https://open.spotify.com/album/4UBipRJ4jZljx7XFG0Uccs"
+      },
+      "artists": [
+        {
+          "name": "Kevboii",
+          "url": "https://open.spotify.com/artist/4Mp36UE9keQ7vXLcVLWzmN"
+        },
+        {
+          "name": "Armand Joubert",
+          "url": "https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Dans Saam My",
+      "url": "https://open.spotify.com/track/0rpQHIWiJDAyERZhYgNaQk"
     },
     {
       "album": {
@@ -3389,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "Dis Tyd",
+        "url": "https://open.spotify.com/album/3d6YMz07UHWzKVX7oSxhwD"
+      },
+      "artists": [
+        {
+          "name": "Arnold de Wet",
+          "url": "https://open.spotify.com/artist/7maSsKGnUoRwDEnFSjzcMn"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209062,
+      "name": "Dis Tyd",
+      "url": "https://open.spotify.com/track/1RY9byFcHUR8gu93AUL9ty"
+    },
+    {
+      "album": {
         "name": "Dis Wat Liefde Is",
         "url": "https://open.spotify.com/album/1garcPSs9fJT45SKkiKUUD"
       },
@@ -3614,7 +3708,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 172601,
       "name": "Donker Wolk",
       "url": "https://open.spotify.com/track/0ZNAB2eC9jfW4WGMfz6wzn"
@@ -4763,6 +4857,28 @@
     },
     {
       "album": {
+        "name": "Gravitasie",
+        "url": "https://open.spotify.com/album/53RW8Y057HZRb4xmmo6JiN"
+      },
+      "artists": [
+        {
+          "name": "X_C_Xreece",
+          "url": "https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ"
+        },
+        {
+          "name": "SAMPAULE",
+          "url": "https://open.spotify.com/artist/09zTDGYwMPw6EVHJa04NM8"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154392,
+      "name": "Gravitasie",
+      "url": "https://open.spotify.com/track/3L1P70FX3retz1KLQO6ZRM"
+    },
+    {
+      "album": {
         "name": "Groenlig",
         "url": "https://open.spotify.com/album/7x5N6Oh2It2xKLGjhq6r7h"
       },
@@ -4930,6 +5046,24 @@
       "duration_ms": 162000,
       "name": "Hallo, Medemens.",
       "url": "https://open.spotify.com/track/01TAnBzy90Kq7PdDhFO5Cq"
+    },
+    {
+      "album": {
+        "name": "Hand Op Die Bybel",
+        "url": "https://open.spotify.com/album/02exWmaTVZCMMLvr43frc4"
+      },
+      "artists": [
+        {
+          "name": "Deon Groot",
+          "url": "https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209347,
+      "name": "Hand Op Die Bybel",
+      "url": "https://open.spotify.com/track/2LUmsKhcEiFHfVXGk8cFJi"
     },
     {
       "album": {
@@ -6650,7 +6784,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 202348,
       "name": "Kalahari Ferrari",
       "url": "https://open.spotify.com/track/5M4Vqy5cw969eZ0MF1J8Je"
@@ -6838,7 +6972,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 173142,
       "name": "Katryn",
       "url": "https://open.spotify.com/track/0cNvN35zCMzzhQMXaXPuG7"
@@ -7968,7 +8102,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 211578,
       "name": "Langs Die Straat",
       "url": "https://open.spotify.com/track/0fuY5OOXPRCum71GNl2Zz5"
@@ -8246,6 +8380,24 @@
       "duration_ms": 234226,
       "name": "Liefde Uit Die Oudedoos",
       "url": "https://open.spotify.com/track/51xYOwVyPYaOKtEgvJlHZz"
+    },
+    {
+      "album": {
+        "name": "Liefdeloos",
+        "url": "https://open.spotify.com/album/3nTDuqcyyIof7a5nspfKV1"
+      },
+      "artists": [
+        {
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214011,
+      "name": "Liefdeloos",
+      "url": "https://open.spotify.com/track/5usjyCylhb0SDkH8uSR1x2"
     },
     {
       "album": {
@@ -8614,6 +8766,24 @@
       "duration_ms": 201269,
       "name": "Maak Wakker",
       "url": "https://open.spotify.com/track/3bemRRClVvTnfpOxIQx88w"
+    },
+    {
+      "album": {
+        "name": "Omdat Jy Mag",
+        "url": "https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Madelein",
+      "url": "https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry"
     },
     {
       "album": {
@@ -9522,7 +9692,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 204843,
       "name": "Naby my",
       "url": "https://open.spotify.com/track/1yAnwoVNugBwwpdiJSIjQo"
@@ -9764,7 +9934,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 187809,
       "name": "Net hier bly",
       "url": "https://open.spotify.com/track/23PvHDHLE6Y0FGV6JIm2nF"
@@ -10652,6 +10822,24 @@
       "duration_ms": 169714,
       "name": "Onveilig",
       "url": "https://open.spotify.com/track/1Atlx3XDoMHAtGBazrTiIy"
+    },
+    {
+      "album": {
+        "name": "Oom Boetie S\u00ea Dit is \u0149 Meermin",
+        "url": "https://open.spotify.com/album/5mRbdDeGAp5DuYAuGpAJd8"
+      },
+      "artists": [
+        {
+          "name": "Armand Steenkamp",
+          "url": "https://open.spotify.com/artist/4w6AsEneIpyV0x0Umntav5"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178313,
+      "name": "Oom Boetie S\u00ea Dit is \u0149 Meermin",
+      "url": "https://open.spotify.com/track/45JMoOk5VQBHilVOmsSnXv"
     },
     {
       "album": {
@@ -11673,6 +11861,24 @@
     },
     {
       "album": {
+        "name": "Saai",
+        "url": "https://open.spotify.com/album/7I6JJnUcDWs136wxjYJl1C"
+      },
+      "artists": [
+        {
+          "name": "Adam Tas",
+          "url": "https://open.spotify.com/artist/011KRXCsnsSuCGsY0Enq5r"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "Saai",
+      "url": "https://open.spotify.com/track/5lA0n6EpT7sDCS9pbXjpFf"
+    },
+    {
+      "album": {
         "name": "Saam Is Beter",
         "url": "https://open.spotify.com/album/6R6l5xFzsJrKcRSQwEwCnU"
       },
@@ -11732,7 +11938,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 189522,
       "name": "Saamstaan",
       "url": "https://open.spotify.com/track/5WikbRad6BuQgGOa0bdURQ"
@@ -13990,7 +14196,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 240458,
       "name": "Toring",
       "url": "https://open.spotify.com/track/38GiMeJIB3HdQYAGG6o3Hl"
@@ -14645,6 +14851,24 @@
     },
     {
       "album": {
+        "name": "Verkleur Verskeur",
+        "url": "https://open.spotify.com/album/1SJBUlBMdeF1cUhYWpLB8u"
+      },
+      "artists": [
+        {
+          "name": "Jemma Catherine",
+          "url": "https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207420,
+      "name": "Verkleur Verskeur",
+      "url": "https://open.spotify.com/track/2RvhMJ3XsWwIHdOWKTpWBW"
+    },
+    {
+      "album": {
         "name": "Verlief",
         "url": "https://open.spotify.com/album/5wg40Lw69uxraD7x2trUPS"
       },
@@ -14880,6 +15104,24 @@
       "duration_ms": 187558,
       "name": "Vleisvreters",
       "url": "https://open.spotify.com/track/63RtO5V94GhSGYvZEucg4h"
+    },
+    {
+      "album": {
+        "name": "Vlekkie In My Nekkie",
+        "url": "https://open.spotify.com/album/4vwGQmQAT8JZyoJNKb9aXq"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/2veUEhIf1L8su7fFgpPLu5"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162096,
+      "name": "Vlekkie In My Nekkie",
+      "url": "https://open.spotify.com/track/5S1XxS0hzi7GF21kqnaDk5"
     },
     {
       "album": {
@@ -15420,7 +15662,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 205116,
       "name": "Wanneer U Verskyn",
       "url": "https://open.spotify.com/track/5yXwcySbFyJ2aM7dTvTNao"
@@ -15948,6 +16190,24 @@
       "duration_ms": 187094,
       "name": "Witblits",
       "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
+    },
+    {
+      "album": {
+        "name": "Witborskraai",
+        "url": "https://open.spotify.com/album/1jHm7GIaiPsUh2lwegPvz3"
+      },
+      "artists": [
+        {
+          "name": "Inspirasie Veelvoud",
+          "url": "https://open.spotify.com/artist/3r1BRjgeZHFN40DD6aWMMo"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228386,
+      "name": "Witborskraai",
+      "url": "https://open.spotify.com/track/5J82r5Qd3pSJG3HuuVoIb8"
     },
     {
       "album": {

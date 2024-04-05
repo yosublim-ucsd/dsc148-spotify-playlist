@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 
 > A lo cubano 🔥 Con El Chacal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,479 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,500 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 28 | [La Diferencia](https://open.spotify.com/track/5dSz3tq9yM9EY8FkT7Kdfp) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf), [Orlenis 22k](https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [La Diferencia](https://open.spotify.com/album/1D0tKGeYGWAANfa1oCmBbS) | 2:54 |
 | 29 | [Muchacha](https://open.spotify.com/track/2vI4SxtYqAQD5h1nSrqfKM) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Muchacha](https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj) | 3:20 |
 | 30 | [Southwezzzt](https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [El Yonki](https://open.spotify.com/artist/5Dcy46qDr77Bkep7KHRJIR), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Southwezzzt](https://open.spotify.com/album/22L7ZRrPWvRnpdP8WFuHLi) | 3:07 |
-| 31 | [Todo Está Ok](https://open.spotify.com/track/2Z8rpsOQ64lVimg0eKMRCm) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH), [Ja Rulay](https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV), [Fixty Ordara](https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E) | [Todo Está Ok](https://open.spotify.com/album/6TcAKjAyDTTYFUehxvfJtK) | 3:34 |
-| 32 | [Que Locura](https://open.spotify.com/track/2DKyYH0AV19kMOjhqSqsgF) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Que Locura](https://open.spotify.com/album/2Qbk9uyfmBYKXxenxXGkL8) | 3:17 |
+| 31 | [Que Locura](https://open.spotify.com/track/2DKyYH0AV19kMOjhqSqsgF) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Que Locura](https://open.spotify.com/album/2Qbk9uyfmBYKXxenxXGkL8) | 3:17 |
+| 32 | [Todo Está Ok](https://open.spotify.com/track/2Z8rpsOQ64lVimg0eKMRCm) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH), [Ja Rulay](https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV), [Fixty Ordara](https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E) | [Todo Está Ok](https://open.spotify.com/album/6TcAKjAyDTTYFUehxvfJtK) | 3:34 |
 | 33 | [Agua Noche Remix](https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9) | [Yulien Oviedo](https://open.spotify.com/artist/0AglxiiP1X55pczgFkgdC4), [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH), [Ja Rulay](https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV), [Fixty Ordara](https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E) | [Agua Noche Remix](https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM) | 3:58 |
 | 34 | [Háblame de Miami](https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Háblame de Miami](https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE) | 2:38 |
 | 35 | [Un Palo Como Tu](https://open.spotify.com/track/1FutDLeZnNdv36lpCq0Eb0) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [El Bacoco](https://open.spotify.com/artist/62pQLqF1sUAdFCpEGcVDHM), [Titico](https://open.spotify.com/artist/4URQuC2OfCP7ajydzMnQY7) | [Un Palo Como Tu](https://open.spotify.com/album/2fpQ5SJoudmJe0AP5fNdCY) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 49 | [Te Quiero Pa' Mi](https://open.spotify.com/track/6f1iOMpbJFItdBug6CepDl) | [El Kimiko y Yordy](https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn) | [Te Quiero Pa' Mi](https://open.spotify.com/album/7HWJg3Yznnix51OBoq4BRP) | 3:21 |
 | 50 | [No Volveré](https://open.spotify.com/track/5lNc3k4ZLV7PE1Wg9RSBjb) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Mauro](https://open.spotify.com/artist/0fUFGy1Oy8f3ecf59YoB8O) | [No Volveré](https://open.spotify.com/album/13z1vYRl8WTVTHthgeHSV3) | 3:36 |
 
-Snapshot ID: `MCw1Yzk1ZDkyODJmYmZmN2I2Zjk4NjZlNTk3NGI3ODZiOGVhMTQ2MmVh`
+Snapshot ID: `MCxkZmQxYWY4MGJmM2I3MmU2NzIwN2U1YWU2NTdhYmRjMjlkZGIyZjJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Lukas Agustinho, Gabriela Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,044,871 likes - 100 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,045,307 likes - 100 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 43 | [Clamo Jesus](https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7), [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB) | [Clamo Jesus](https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC) | 7:17 |
 | 44 | [Onde o Fogo Não Apaga \- Ao Vivo](https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm) | 6:56 |
 | 45 | [Casinha Favorita](https://open.spotify.com/track/0M3B9SP1tUSu3uuwjz07PH) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 10:58 |
-| 46 | [Pode Morar Aqui \(feat\. Alessandro Vilas Boas\) \- Ao Vivo](https://open.spotify.com/track/7qEactOYoRIZZAbHB0iza9) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [Pode Morar Aqui \(feat\. Alessandro Vilas Boas\) \[Ao Vivo\]](https://open.spotify.com/album/0mCox5GE2UX2tVdXwxBoYw) | 9:50 |
-| 47 | [Era Deus](https://open.spotify.com/track/7FCZXSFH10ZcwgaGKXaDYj) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Era Deus](https://open.spotify.com/album/5qUCNqOs1lbiZmiizjYBwp) | 4:45 |
+| 46 | [Era Deus](https://open.spotify.com/track/7FCZXSFH10ZcwgaGKXaDYj) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Era Deus](https://open.spotify.com/album/5qUCNqOs1lbiZmiizjYBwp) | 4:45 |
+| 47 | [Pode Morar Aqui \(feat\. Alessandro Vilas Boas\) \- Ao Vivo](https://open.spotify.com/track/7qEactOYoRIZZAbHB0iza9) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [Pode Morar Aqui \(feat\. Alessandro Vilas Boas\) \[Ao Vivo\]](https://open.spotify.com/album/0mCox5GE2UX2tVdXwxBoYw) | 9:50 |
 | 48 | [Ele Cumprirá](https://open.spotify.com/track/1nQ0oeFFwRsW2h6PgZWmlo) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Ele Cumprirá](https://open.spotify.com/album/1zFNMpUmIvseacn9OFcJLk) | 7:36 |
 | 49 | [Nada Pode Calar Um Adorador](https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT) | 4:52 |
 | 50 | [Palavras](https://open.spotify.com/track/31tZBMILhUQPwPDEMrQg3Z) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Palavras](https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG) | 4:24 |
 | 51 | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/album/6QZ6abxy3XaFJyytXZZNft) | 6:18 |
 | 52 | [O Nome de Jesus \- Ao Vivo](https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Nome de Jesus \(Ao Vivo\)](https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI) | 8:48 |
-| 53 | [Quebro Meu Vaso](https://open.spotify.com/track/6g88LTq36Dhe7Dgl3mRph3) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Quebro Meu Vaso](https://open.spotify.com/album/13Wq5d9gRK2l5SScsiiXO2) | 5:13 |
-| 54 | [Minha Essência](https://open.spotify.com/track/78LeIXA2DNk2FsgXko16kE) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Minha Essência](https://open.spotify.com/album/3UgzGMBPgRGe7GY2mdQKOQ) | 4:33 |
+| 53 | [Minha Essência](https://open.spotify.com/track/78LeIXA2DNk2FsgXko16kE) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Minha Essência](https://open.spotify.com/album/3UgzGMBPgRGe7GY2mdQKOQ) | 4:33 |
+| 54 | [Quebro Meu Vaso](https://open.spotify.com/track/6g88LTq36Dhe7Dgl3mRph3) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Quebro Meu Vaso](https://open.spotify.com/album/13Wq5d9gRK2l5SScsiiXO2) | 5:13 |
 | 55 | [Você Nasceu Pra Dar Certo](https://open.spotify.com/track/21oPwXcfY81BrGhrr105os) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Você Nasceu Pra Dar Certo](https://open.spotify.com/album/0yW9gXrE07qjNVwIVTWFww) | 4:16 |
 | 56 | [Deus de Milagres \- Ao Vivo](https://open.spotify.com/track/2pniWHcFFrhNfR5SlUB5Ba) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Deus de Milagres \(Ao Vivo\)](https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9) | 5:48 |
 | 57 | [Quero Voltar Pra Casa \- Ao Vivo](https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Quero Voltar Pra Casa \(Ao Vivo\)](https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4) | 6:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 99 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 |
 | 100 | [O Grande Eu Sou](https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Grande Eu Sou](https://open.spotify.com/album/62QQniKZ3Sw4SAR2s6Er89) | 6:28 |
 
-Snapshot ID: `MCxiMDM4MjIyMmM1ZmY1YjI3YzliYmExMzdjYzkzOTlkMzczNzI1ZmMw`
+Snapshot ID: `MCwwNDAwNmQ5ZTQxZTliYWE4MzIwYTk3YTZjNGVjYzZmMjcxY2NiZTQ0`

@@ -2,9 +2,9 @@
 
 ### [RADAR Polska](https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU)
 
-> Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:3VKQYnCpM6ofG8QUmlnW6d">Zalia</a>
+> Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5RwiBwEEW5dOXGUlEVA0LT">stickxr</a>
 
-139 songs - 6 hr 53 min
+140 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Plan F](https://open.spotify.com/track/0eqprQs8afmriQbN1tkA3I) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Plan F](https://open.spotify.com/album/2GFdILR5ikSH6JYtNw0RyP) | 2:11 | 2024-03-11 |  |
 | [plany](https://open.spotify.com/track/0K5Cr8OvLVvhG87CsSjZsM) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [plany](https://open.spotify.com/album/0cxuO8WpinhRMKElDqUtfR) | 2:39 | 2022-08-26 | 2024-03-12 |
 | [Poker](https://open.spotify.com/track/1p55Vk3mN5bUCrvL13zeaq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7edaeckjPgB02aWyESDg3n) | 1:46 | 2023-05-16 | 2024-02-28 |
-| [Poker](https://open.spotify.com/track/6B9KKY7xNGeyO1KV69wKMA) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7FWuvpwtVgLsMlg85KPG9A) | 1:46 | 2024-02-02 |  |
+| [Poker](https://open.spotify.com/track/6B9KKY7xNGeyO1KV69wKMA) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7FWuvpwtVgLsMlg85KPG9A) | 1:46 | 2024-02-02 | 2024-04-05 |
 | [Promil](https://open.spotify.com/track/2V11pbwkbgi3gj2tei1zl7) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Promil](https://open.spotify.com/album/1P0XxaPUVjqD9T8C7Km4qt) | 3:26 | 2022-08-26 |  |
 | [Promise](https://open.spotify.com/track/3keO1p1cfYkxgNGTIjAbMv) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Power](https://open.spotify.com/album/05sLsId1SGFrPDJFf09rrS) | 4:15 | 2022-08-26 | 2023-10-06 |
 | [przestrzeń](https://open.spotify.com/track/7ljRVro7Gqa99RIb1c9J4A) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [kocham i tęsknię](https://open.spotify.com/album/33fyS7gwoG2qo3dOkSzmZ2) | 3:16 | 2023-02-06 |  |
@@ -133,6 +133,7 @@
 | [to był fajny rok](https://open.spotify.com/track/0bkvnHawQ97qJjSKZkaK1a) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [to był fajny rok](https://open.spotify.com/album/0wMngZrtJ0pC4Z73u61bu2) | 2:51 | 2023-02-06 | 2023-04-15 |
 | [To Co Mam](https://open.spotify.com/track/5FF6gO4hHrBhsQFVGhWA27) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [To Co Mam](https://open.spotify.com/album/3hmQjrFRpJRZrZbyXIACPR) | 3:14 | 2023-05-16 | 2023-11-11 |
 | [TO JEST LOVEEE](https://open.spotify.com/track/44zqk0oN098y0hUTfwlyoR) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [TO JEST LOVEEE](https://open.spotify.com/album/5IwKdshK24jeKOHzqbDueg) | 3:03 | 2023-05-16 | 2023-08-01 |
+| [Uczucia](https://open.spotify.com/track/1ay25zXov7yoR2D8ZAjxKZ) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT), [ERRBITS](https://open.spotify.com/artist/3R4lfbnS9kvMe9VB99VgDL), [Kacezet](https://open.spotify.com/artist/0UtonDPYQQEx6BFqVQfw4u) | [Uczucia](https://open.spotify.com/album/5OXM3lcdxWN406CT9FZEan) | 2:06 | 2024-04-04 |  |
 | [Wczoraj](https://open.spotify.com/track/4QcVRPBOWIL42nod3cGn0u) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wczoraj](https://open.spotify.com/album/3C5tWyJxsBxnKHmUuyATe6) | 2:51 | 2022-08-26 | 2022-09-24 |
 | [Wczoraj \(Ale To Smutna Ballada\)](https://open.spotify.com/track/0Vclll7YLAuvyFaNicQBb0) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wczoraj \(Ale To Smutna Ballada\)](https://open.spotify.com/album/26kJtglfgbqnIQQl8923f2) | 2:59 | 2022-09-23 | 2023-02-07 |
 | [Welur](https://open.spotify.com/track/4uIXiKr1OThTtjgExrCZD0) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Welur](https://open.spotify.com/album/63qjHLrWqfDlWPg4dUNGun) | 3:07 | 2023-09-15 |  |

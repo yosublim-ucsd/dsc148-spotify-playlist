@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 
 > The biggest dance floor bangers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,199 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,584 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 | 15 | [Stamp On The Ground](https://open.spotify.com/track/2KgCPRTAECwNbJG1uYdfjl) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Stamp!](https://open.spotify.com/album/7MbWoZrF41CMAzeUZdS8In) | 3:17 |
 | 16 | [Cry for You](https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Dancing Shoes](https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz) | 3:29 |
 | 17 | [Let Me Think About It](https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV) | [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Singled Out](https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7) | 2:31 |
-| 18 | [Shots](https://open.spotify.com/track/1V4jC0vJ5525lEF1bFgPX2) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Party Rock](https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR) | 3:42 |
-| 19 | [The Logical Song](https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Push The Beat For This Jam \(The Second Chapter\)](https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL) | 3:55 |
+| 18 | [The Logical Song](https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Push The Beat For This Jam \(The Second Chapter\)](https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL) | 3:55 |
+| 19 | [Shots](https://open.spotify.com/track/1V4jC0vJ5525lEF1bFgPX2) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Party Rock](https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR) | 3:42 |
 | 20 | [Pjanoo \- Radio Edit](https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 2:37 |
 | 21 | [Shooting Stars](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Bag Raiders \(Deluxe\)](https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo) | 3:55 |
 | 22 | [Rock This Party \(Everybody Dance Now\)](https://open.spotify.com/track/5qiIxojpo8YTFgOOcDuOaB) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Cutee B.](https://open.spotify.com/artist/5PTDGbHPxxXf81RrubpIOO), [DollarMan](https://open.spotify.com/artist/0TsTesOYlZmHOLnFPLPKLZ), [Big Ali](https://open.spotify.com/artist/4LqXqd68BBoEk9RDYeS0ls), [Makedah](https://open.spotify.com/artist/0f5cjky3a6ee9e0WicpzhW) | [Rock This Party \(Everybody Dance Now\)](https://open.spotify.com/album/57mlkm7WBwmoT0DZ6EDYpH) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 | 99 | [Boten Anna \- Radio edit](https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [LOL \(International version\)](https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU) | 3:27 |
 | 100 | [Warp 1.9 \(feat\. Steve Aoki\)](https://open.spotify.com/track/0HIruANJzlQkYwlpvh8cn6) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [ROMBORAMA](https://open.spotify.com/album/0trChN5eN92UYTUqOIMQRe) | 3:23 |
 
-Snapshot ID: `MCw5MTQ4M2EyOTdiY2ViODFlMGU5MzBiZjI0NTA3NDM4NDExYTMyNDIz`
+Snapshot ID: `MCwxYmYyNzhhNmMxODg4MGM0NDRhNDA4NGY2NWEyZjBlMTc4MWJjNTQ2`

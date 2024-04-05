@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,081 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 19 | [Nkutuse](https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkutuse](https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg) | 3:09 |
 | 20 | [Know God](https://open.spotify.com/track/6yL4ywybJ7s2jy68inQNyH) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Know God](https://open.spotify.com/album/14xBAnMA04zeJCI0HXo9Fg) | 3:22 |
 | 21 | [Izulu](https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5), [Geosteady1](https://open.spotify.com/artist/2RlWVKmzxjwaq6wMR1QUNu) | [King Kong](https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R) | 3:37 |
-| 22 | [Sida Mukyalo](https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Sida Mukyalo](https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM) | 2:40 |
+| 22 | [Sunset](https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Kisses at Midnight](https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye) | 3:16 |
 | 23 | [Juicy Body](https://open.spotify.com/track/7184e5XguzlsBAN5T6WDqg) | [Ziza Bafana](https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3), [Ritah Danchall](https://open.spotify.com/artist/1Kl5zXFqEYaAjxvPr0xvMl) | [JUICY BODY](https://open.spotify.com/album/1YMB6UajEhgTZgpoNJsuns) | 2:30 |
 | 24 | [Just Bu Just](https://open.spotify.com/track/6kmWdPTcbv91cTu1mxJ4z0) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Just Bu Just](https://open.spotify.com/album/7bQUSh4b5fi4bYj3OXvZCM) | 3:00 |
-| 25 | [Sunset](https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Kisses at Midnight](https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye) | 3:16 |
+| 25 | [Sida Mukyalo](https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Sida Mukyalo](https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM) | 2:40 |
 | 26 | [Gemazima](https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Gemazima](https://open.spotify.com/album/02QbNNia59RV4jwu00khDg) | 3:01 |
 | 27 | [Bounce](https://open.spotify.com/track/3ckYKLN77N5JhabWiFmLnM) | [Selecta Jeff](https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu), [Kanyere](https://open.spotify.com/artist/3CGuPNyjmRVGi6veE8GymO) | [Bounce](https://open.spotify.com/album/2gA3mT3UlvQDgOFWlskO9X) | 2:50 |
 | 28 | [Kiriza Rmx](https://open.spotify.com/track/28oAFUkMiaRwLDz9LNza1f) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Kiriza Rmx](https://open.spotify.com/album/5WLHEoba9VjkYusf0zaE0F) | 2:42 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 43 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 |
 | 44 | [Kyabazinga \- PALLASO Remix](https://open.spotify.com/track/6BeNjZev4leBwTOoMuMytw) | [SHON WYZ](https://open.spotify.com/artist/5AsknIWNC3wtvpLKZts9WU), [PALLASO](https://open.spotify.com/artist/0P9wmw5Iu0HSJc2Qsnmpiz) | [Kyabazinga](https://open.spotify.com/album/4r9Hp0mKo45qZiDgao3NPK) | 3:12 |
 | 45 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |
-| 46 | [Sikyegomba](https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Guvnor Ace](https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9), [DVJ Pofia](https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC) | [Sikyegomba](https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y) | 3:30 |
+| 46 | [DanceHall](https://open.spotify.com/track/6P8VucWdTtvHu5VOp5RW1k) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Cindy Sanyu & Beenie Gunter](https://open.spotify.com/artist/51xOpwMyXoEXi04AEbpYpg) | [Roots](https://open.spotify.com/album/0ZQlhloe2p4y4jNHz2lw2U) | 4:42 |
 | 47 | [Bwonjagala](https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Fille](https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx) | [Bwonjagala](https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q) | 2:58 |
-| 48 | [DanceHall](https://open.spotify.com/track/6P8VucWdTtvHu5VOp5RW1k) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Cindy Sanyu & Beenie Gunter](https://open.spotify.com/artist/51xOpwMyXoEXi04AEbpYpg) | [Roots](https://open.spotify.com/album/0ZQlhloe2p4y4jNHz2lw2U) | 4:42 |
+| 48 | [Sikyegomba](https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Guvnor Ace](https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9), [DVJ Pofia](https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC) | [Sikyegomba](https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y) | 3:30 |
 | 49 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 |
-| 50 | [Wulira Omuziki](https://open.spotify.com/track/6ukp2gmcFmgBlvrLJ3Vj9x) | [Eezzy](https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL) | [Wulira Omuziki](https://open.spotify.com/album/1n4gvSOCF9kos6UuFTZV4s) | 3:22 |
+| 50 | [Bajooga](https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Bajooga](https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH) | 2:55 |
 
-Snapshot ID: `MCwzMDM5ZjM4ZDU0MjgzNzhmN2E3MzY0M2Y1ZTU0MzUxYmYxYzY0YThm`
+Snapshot ID: `MCwwY2M4NjBlMDI5ZmNkYWMwYjZmZTEwZWUwODUzOWQ4Y2UxOWU4NmQ2`

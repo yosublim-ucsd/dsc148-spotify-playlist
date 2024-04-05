@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 34601,
+  "num_followers": 34639,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDAzZTNmMDZlZGQyMWNjMDdkYzI1NTQ4M2MzYjNmNjhjNzgxNWNj",
+  "snapshot_id": "MCwyYWJhOWY1MjI1NTJlYmM1MTE4OGYyNWE5ZWUyYzRlZjlhMWE3Njdl",
   "tracks": [
     {
       "added_at": "2024-03-29 04:01:00",
@@ -755,6 +755,38 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Un Beso",
+        "url": "https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "duration_ms": 225029,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/0GRAvBOREScwdewiySp05v"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 195365,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/0HGX3Sk2Wp4ibJDyW9hvdY"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Don't Wanna Go",
         "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
       },
@@ -775,22 +807,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Un Beso",
-        "url": "https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        }
-      ],
-      "duration_ms": 225029,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Provenance",
         "url": "https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 401250,
       "name": "Provenance",
       "url": "https://open.spotify.com/track/1Rbrm7ozBLd32dTyhikJhu"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Bonito",
-        "url": "https://open.spotify.com/album/0GRAvBOREScwdewiySp05v"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 195365,
-      "name": "Bonito",
-      "url": "https://open.spotify.com/track/0HGX3Sk2Wp4ibJDyW9hvdY"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Bionic Boy",
-        "url": "https://open.spotify.com/album/4up90bXZVvpCwtYljSiI16"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 206265,
-      "name": "Bionic Boy",
-      "url": "https://open.spotify.com/track/0CtMpuQoedYSaVBVni2rtE"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Sete (Carlita Remix)",
         "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Supermodel Thick",
-        "url": "https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo"
+        "name": "Bionic Boy",
+        "url": "https://open.spotify.com/album/4up90bXZVvpCwtYljSiI16"
       },
       "artists": [
         {
-          "name": "Jho Roscioli",
-          "url": "https://open.spotify.com/artist/1YyeTuJ8IrPSpPiZMq0rhH"
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
         }
       ],
-      "duration_ms": 326357,
-      "name": "Supermodel Thick",
-      "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
+      "duration_ms": 206265,
+      "name": "Bionic Boy",
+      "url": "https://open.spotify.com/track/0CtMpuQoedYSaVBVni2rtE"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1199,6 +1183,22 @@
       "duration_ms": 186299,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Supermodel Thick",
+        "url": "https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo"
+      },
+      "artists": [
+        {
+          "name": "Jho Roscioli",
+          "url": "https://open.spotify.com/artist/1YyeTuJ8IrPSpPiZMq0rhH"
+        }
+      ],
+      "duration_ms": 326357,
+      "name": "Supermodel Thick",
+      "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Sublime Tech House, Vol. 20",
+        "url": "https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk"
+      },
+      "artists": [
+        {
+          "name": "Reblok",
+          "url": "https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn"
+        }
+      ],
+      "duration_ms": 176264,
+      "name": "Slim Shady",
+      "url": "https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Teki Teki",
         "url": "https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 236279,
       "name": "Origins - 3AM Tusi Mix",
       "url": "https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Sublime Tech House, Vol. 20",
-        "url": "https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk"
-      },
-      "artists": [
-        {
-          "name": "Reblok",
-          "url": "https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn"
-        }
-      ],
-      "duration_ms": 176264,
-      "name": "Slim Shady",
-      "url": "https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u"
-      },
-      "artists": [
-        {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        }
-      ],
-      "duration_ms": 251500,
-      "name": "Atomic Sun",
-      "url": "https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Focus - EP",
         "url": "https://open.spotify.com/album/42xO3MNl7t5rdhSBoqiC79"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 347341,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/05p0F0sC8Ym7BZKG79hTKK"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        }
+      ],
+      "duration_ms": 251500,
+      "name": "Atomic Sun",
+      "url": "https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5"
     },
     {
       "added_at": "2024-03-29 04:01:00",

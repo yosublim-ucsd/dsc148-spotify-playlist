@@ -1,12 +1,12 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 338434,
+  "num_followers": 338412,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjUxNWMzMDAyMTg0MjAxMmU0NTYwMzYyNmFhMzhjMjMzOWM2NTM5",
+  "snapshot_id": "MCw0NGFiNjQxZjM5MzliNTQ0YjUxN2Y2Yzc1NTNjZDVmMzBmYjI3OTlm",
   "tracks": [
     {
       "added_at": "2024-04-03 14:11:27",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-04-03 14:11:27",
       "album": {
-        "name": "Summertime '06",
-        "url": "https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Norf Norf",
-      "url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
-    },
-    {
-      "added_at": "2024-04-03 14:11:27",
-      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2024-04-03 14:11:27",
       "album": {
+        "name": "Summertime '06",
+        "url": "https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Norf Norf",
+      "url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk"
+    },
+    {
+      "added_at": "2024-04-03 14:11:27",
+      "album": {
         "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
         "url": "https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY"
       },
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-04-03 14:11:27",
       "album": {
-        "name": "Babushka Boi",
-        "url": "https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "Babushka Boi",
-      "url": "https://open.spotify.com/track/643PW82aBMUa1FiWi5VQY7"
-    },
-    {
-      "added_at": "2024-04-03 14:11:27",
-      "album": {
         "name": "CREED: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6Vl1FiigNmVpKDMXpRVUCA"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 239800,
       "name": "Last Breath",
       "url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3"
+    },
+    {
+      "added_at": "2024-04-03 14:11:27",
+      "album": {
+        "name": "Babushka Boi",
+        "url": "https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "Babushka Boi",
+      "url": "https://open.spotify.com/track/643PW82aBMUa1FiWi5VQY7"
     },
     {
       "added_at": "2024-04-03 14:11:27",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-04-03 14:11:27",
       "album": {
-        "name": "The New Toronto 3",
-        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 174848,
-      "name": "Stupid Again",
-      "url": "https://open.spotify.com/track/1fPnUpoXCpD2NDI4vPVeLw"
-    },
-    {
-      "added_at": "2024-04-03 14:11:27",
-      "album": {
         "name": "Assault (Carro Forte)",
         "url": "https://open.spotify.com/album/4K5XemHceyhOJtQVVVtQqO"
       },
@@ -1971,30 +1955,18 @@
     {
       "added_at": "2024-04-03 14:11:27",
       "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+        "name": "The New Toronto 3",
+        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
       },
       "artists": [
         {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
         }
       ],
-      "duration_ms": 245987,
-      "name": "INEF\u00c1VEL (feat. Leviano)",
-      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+      "duration_ms": 174848,
+      "name": "Stupid Again",
+      "url": "https://open.spotify.com/track/1fPnUpoXCpD2NDI4vPVeLw"
     },
     {
       "added_at": "2024-04-03 14:11:27",
@@ -2019,6 +1991,34 @@
       "duration_ms": 177230,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
+    },
+    {
+      "added_at": "2024-04-03 14:11:27",
+      "album": {
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        }
+      ],
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     }
   ],
   "unique_name": "Treino Hip-Hop",

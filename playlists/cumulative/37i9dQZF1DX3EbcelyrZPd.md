@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover:  Jux
+> Get your fill of vibes straight out of Tanzania\. Cover:  Nandy
 
-375 songs - 21 hr 23 min
+377 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Teamo \(feat\. Messias Maricoa\)](https://open.spotify.com/track/2wuJk9kUdm3Z8dobXgpzyf) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Flowers](https://open.spotify.com/album/1yYgqZbQEi9NdfrGg364bW) | 4:26 | 2022-01-06 | 2022-11-25 |
 | [Tetema](https://open.spotify.com/track/48jhgnw6aKXv2FimBhpcv8) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Sound from Africa](https://open.spotify.com/album/0diuKnu6lrcGqDtHiQQJcU) | 2:32 | 2021-06-25 | 2022-01-21 |
 | [This Love](https://open.spotify.com/track/2qMwrsE1QFVCHlKGgs49Y0) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [This Love](https://open.spotify.com/album/5QBvP8LsJEAVTp4dohusx2) | 3:09 | 2023-12-21 |  |
+| [Till I Die](https://open.spotify.com/track/5q5kRdpB5sNYXuvTbCZUZR) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi) | [Till I Die](https://open.spotify.com/album/5gPQrFRHCI19mzvfzCJlYL) | 1:58 | 2024-04-04 |  |
 | [Toroka \(feat\. Harmonize\)](https://open.spotify.com/track/31MN3z8m1u2fcd5q1zWrV2) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls), [Harmonize](https://open.spotify.com/artist/64GTboisPoAt7HLgXLB6Yk) | [Toroka \(feat\. Harmonize\)](https://open.spotify.com/album/4h0DfQ52UCckHUf4khRyGX) | 3:19 | 2022-03-03 | 2022-10-08 |
 | [Tucheze](https://open.spotify.com/track/02usEBrKS2uXxRKHoSkMxP) | [Abby Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Tucheze](https://open.spotify.com/album/0o9XMCv7eslk5hhMl7jlRR) | 2:55 | 2021-10-29 | 2022-02-11 |
 | [Tuna Kikao \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/34JTI24yf9y9CaMtQvvK9V) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Tuna Kikao \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/4DbGVv3nVgIrq6oZHSLM9a) | 4:09 | 2023-07-13 | 2024-01-12 |
@@ -356,7 +357,8 @@
 | [Wa Sasa](https://open.spotify.com/track/1FVz0hH9kEafMYlQjIkBTf) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Wa Sasa](https://open.spotify.com/album/3oxmKTtd1oBP7WACgKrh4m) | 3:14 | 2023-08-31 | 2023-12-08 |
 | [Wa Sasa](https://open.spotify.com/track/2UBkMt1lT5qjW36HIUKNCm) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Wa Sasa](https://open.spotify.com/album/451342xiXceD7LWPEqD7su) | 3:15 | 2023-09-07 | 2023-11-24 |
 | [Waambie](https://open.spotify.com/track/2akpNLeJS1LfrlK9KKCAek) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Waambie](https://open.spotify.com/album/0DycumTtXTohHbRkLhFmI3) | 2:37 | 2023-09-21 | 2023-12-22 |
-| [Wababa](https://open.spotify.com/track/7xmRTGoMxsMyrFz9OB9EsD) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wababa](https://open.spotify.com/album/3csfj7XdPGRcYPcGKVQtXL) | 4:33 | 2023-11-30 |  |
+| [Wababa](https://open.spotify.com/track/7xmRTGoMxsMyrFz9OB9EsD) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wababa](https://open.spotify.com/album/3csfj7XdPGRcYPcGKVQtXL) | 4:33 | 2023-11-30 | 2024-04-05 |
+| [Wali Nazi](https://open.spotify.com/track/4mc3yUfDAvt5VjUEaDJlUh) | [Q Chief](https://open.spotify.com/artist/2CL7c3WDQbjC7qoWwFjEig), [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Wali Nazi](https://open.spotify.com/album/3mGrGJh0EJGk0B3USlL8lR) | 3:06 | 2024-04-04 |  |
 | [Wanaweweseka](https://open.spotify.com/track/1rRmvbtJKihinccZi5Xbep) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wanaweweseka](https://open.spotify.com/album/3K61B2XqXn3WpcdRojwWnA) | 3:22 | 2021-09-23 | 2022-05-20 |
 | [Wapo](https://open.spotify.com/track/1XPxQpP5eFmfp21sdY89xl) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Wapo](https://open.spotify.com/album/0sSuteqvC4BO0roqNxF62I) | 3:12 | 2023-10-05 | 2024-03-01 |
 | [Wasiwasi](https://open.spotify.com/track/5RzxzvDwkaBz3msv2VjSwi) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Wasiwasi](https://open.spotify.com/album/72ObTTZXAXz1TIo3NQSbrz) | 3:56 | 2023-02-23 | 2023-07-14 |
@@ -381,7 +383,7 @@
 | [You \- E.A Remix](https://open.spotify.com/track/19fK3nUPSN9vHNy63zPDR5) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [You \(E.A Remix\)](https://open.spotify.com/album/5PZvJ6rcSc41P3iDSS7u7Z) | 2:44 | 2023-12-08 |  |
 | [Zai](https://open.spotify.com/track/53fKnybx3p5MZj3KDYvzz2) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Zai](https://open.spotify.com/album/2zo7BLeC2bPUkiKxrzXtwd) | 3:36 | 2021-11-04 | 2022-07-22 |
 | [Zamani](https://open.spotify.com/track/60bfNCQoQ668j2CbTfzqZA) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Zamani](https://open.spotify.com/album/38KjNLFKtwaHr8Vxzmviwn) | 3:38 | 2024-02-22 |  |
-| [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/track/2pS94OiSyjKxyuGxGKZcdy) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/album/2lT31kHoWx4A1fjGBnd81m) | 2:57 | 2023-06-15 |  |
+| [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/track/2pS94OiSyjKxyuGxGKZcdy) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/album/2lT31kHoWx4A1fjGBnd81m) | 2:57 | 2023-06-15 | 2024-04-05 |
 | [Zawadi \(feat\. Dadiposlim\)](https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Dadiposlim](https://open.spotify.com/artist/4D30TuRCTNiJhSXIVwDELy) | [Zawadi \(feat\. Dadiposlim\)](https://open.spotify.com/album/1M1g4TDVEcEgzeqJpkhCou) | 3:30 | 2024-02-15 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

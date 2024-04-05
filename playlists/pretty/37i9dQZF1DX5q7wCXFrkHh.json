@@ -1,12 +1,12 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 91908,
+  "num_followers": 91977,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjM0YjFiNGQ5ZmFkMDVlNTk5MjhiNDRjYjNkMDgxOGU4NWIxYTM4",
+  "snapshot_id": "MCwwMWFiM2Q2YmEwMjNjOGY1NTVkY2Q5YzQ5ZDJlZTgxNDIwNGJjNDcw",
   "tracks": [
     {
       "added_at": "2024-03-20 12:33:31",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
+        }
+      ],
+      "duration_ms": 442440,
+      "name": "I Love Music",
+      "url": "https://open.spotify.com/track/4MIPpjKWw1lLVwS6tLhis1"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 282600,
       "name": "Take The Coltrane",
       "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal Trio",
-          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
-        }
-      ],
-      "duration_ms": 442440,
-      "name": "I Love Music",
-      "url": "https://open.spotify.com/track/4MIPpjKWw1lLVwS6tLhis1"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Seven Days of Falling",
-        "url": "https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB"
-      },
-      "artists": [
-        {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
-        }
-      ],
-      "duration_ms": 291226,
-      "name": "Believe, Beleft, Below",
-      "url": "https://open.spotify.com/track/1HKZo7knu3IuCJo9JVGz1i"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
         "name": "Master Trio",
         "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "The K\u00f6ln Concert",
-        "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
+        "name": "Seven Days of Falling",
+        "url": "https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
         }
       ],
-      "duration_ms": 894733,
-      "name": "K\u00f6ln, January 24, 1975, Pt. II A - Live",
-      "url": "https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c"
+      "duration_ms": 291226,
+      "name": "Believe, Beleft, Below",
+      "url": "https://open.spotify.com/track/1HKZo7knu3IuCJo9JVGz1i"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -571,6 +555,22 @@
       "duration_ms": 200986,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
+        "name": "The K\u00f6ln Concert",
+        "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 894733,
+      "name": "K\u00f6ln, January 24, 1975, Pt. II A - Live",
+      "url": "https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Contra La Indecisi\u00f3n",
-        "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Canci\u00f3n Contra La Indecisi\u00f3n",
-      "url": "https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
         "name": "Explorations [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 213720,
       "name": "How Deep Is The Ocean",
       "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
+        "name": "Contra La Indecisi\u00f3n",
+        "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Canci\u00f3n Contra La Indecisi\u00f3n",
+      "url": "https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -1175,26 +1175,18 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Lemuria-Seascape (Remastered)",
-        "url": "https://open.spotify.com/album/5VPAg2cD1q7aVpdUYYuYhx"
+        "name": "Jazz Impressions Of Black Orpheus",
+        "url": "https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY"
       },
       "artists": [
         {
-          "name": "Kenny Barron",
-          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
-        },
-        {
-          "name": "Ray Drummond",
-          "url": "https://open.spotify.com/artist/06zGDdseDUlrQgqogXA3mP"
-        },
-        {
-          "name": "Ben Riley",
-          "url": "https://open.spotify.com/artist/5kJE3cE2n7nsTy9LP7KPnj"
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 344044,
-      "name": "Fungii Mama - Remastered",
-      "url": "https://open.spotify.com/track/55hl0N5Fb8SaQwSAAku2Wy"
+      "duration_ms": 318400,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/0Vydnnxf41Ukpn7Rn6D5Wa"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -1231,18 +1223,26 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Jazz Impressions Of Black Orpheus",
-        "url": "https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY"
+        "name": "Lemuria-Seascape (Remastered)",
+        "url": "https://open.spotify.com/album/5VPAg2cD1q7aVpdUYYuYhx"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Kenny Barron",
+          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
+        },
+        {
+          "name": "Ray Drummond",
+          "url": "https://open.spotify.com/artist/06zGDdseDUlrQgqogXA3mP"
+        },
+        {
+          "name": "Ben Riley",
+          "url": "https://open.spotify.com/artist/5kJE3cE2n7nsTy9LP7KPnj"
         }
       ],
-      "duration_ms": 318400,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/0Vydnnxf41Ukpn7Rn6D5Wa"
+      "duration_ms": 344044,
+      "name": "Fungii Mama - Remastered",
+      "url": "https://open.spotify.com/track/55hl0N5Fb8SaQwSAAku2Wy"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Red's Blues",
-        "url": "https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 400373,
-      "name": "Ralph J. Gleason Blues",
-      "url": "https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
         "name": "Shai Maestro Trio",
         "url": "https://open.spotify.com/album/53LA5Radjeit5J77Ka1T0w"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 267533,
       "name": "Angelo",
       "url": "https://open.spotify.com/track/57LtAkQYV0aD4ULVk9szkW"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
+        "name": "Seven Days of Falling",
+        "url": "https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB"
+      },
+      "artists": [
+        {
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+        }
+      ],
+      "duration_ms": 403666,
+      "name": "Elevation of Love",
+      "url": "https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Seven Days of Falling",
-        "url": "https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB"
+        "name": "Red's Blues",
+        "url": "https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS"
       },
       "artists": [
         {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
         }
       ],
-      "duration_ms": 403666,
-      "name": "Elevation of Love",
-      "url": "https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp"
+      "duration_ms": 400373,
+      "name": "Ralph J. Gleason Blues",
+      "url": "https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Mary Lou Williams Presents Black Christ of the Andes",
-        "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lou Williams",
-          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "My Blue Heaven",
-      "url": "https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
         "name": "Trio And Quintet",
         "url": "https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 233320,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
+        "name": "Mary Lou Williams Presents Black Christ of the Andes",
+        "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lou Williams",
+          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "My Blue Heaven",
+      "url": "https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd"
     },
     {
       "added_at": "2024-03-20 12:33:31",

@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 17876,
+  "2024-04-05": 17875,
   "date_first_scraped": "2022-01-10",
   "description": "Your daily update of the most viral tracks right now - Costa Rica.",
   "name": "Viral 50 - Costa Rica",
@@ -3943,7 +3943,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 170422,
       "name": "Baja y Sube",
       "url": "https://open.spotify.com/track/19HdxwjuhFbN3trAA6EHYJ"
@@ -8913,7 +8913,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 96946,
       "name": "CUTE DEPRESSED",
       "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
@@ -13085,6 +13085,28 @@
       "duration_ms": 142802,
       "name": "EXCESO",
       "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
+    },
+    {
+      "album": {
+        "name": "Existo",
+        "url": "https://open.spotify.com/album/0aBkLzScGffWKy1Gz0qHwJ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175355,
+      "name": "Existo",
+      "url": "https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN"
     },
     {
       "album": {
@@ -23885,7 +23907,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 114955,
       "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
       "url": "https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C"
@@ -30629,7 +30651,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 185933,
       "name": "Regalo De Dios",
       "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
@@ -30709,7 +30731,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 219526,
       "name": "REM",
       "url": "https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h"
@@ -35421,7 +35443,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 216000,
       "name": "Te Colaboro",
       "url": "https://open.spotify.com/track/2ja1QIx9ZkqAMteiqfvvcA"
@@ -38887,7 +38909,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 136968,
       "name": "UP!",
       "url": "https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"

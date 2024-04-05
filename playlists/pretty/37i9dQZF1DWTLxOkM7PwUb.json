@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 42396,
+  "num_followers": 42441,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzhmZTEwNDljN2E4ODJkYjQ2ZGRkZjY1ZDYyNjdlNmFjOWFmYTNm",
+  "snapshot_id": "MCxhYTE0MWFiNWYyYjE2NmY3YTJlMGVlM2MzNTUyMTViY2E0ZjZlZmVj",
   "tracks": [
     {
       "added_at": "2024-03-18 15:07:52",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 174642,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
         "name": "No Me Llores",
         "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 191846,
       "name": "No Me Llores",
       "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 174642,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
-        "name": "La Trampa es Ley",
-        "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 141864,
-      "name": "La Trampa es Ley",
-      "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
         "name": "Sol y Luna",
         "url": "https://open.spotify.com/album/1El0UxIBwU3431TI9656dK"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 163621,
       "name": "Sol y Luna",
       "url": "https://open.spotify.com/track/1WMMrUKNFsnEG2csDURxhb"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
+        "name": "La Trampa es Ley",
+        "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 141864,
+      "name": "La Trampa es Ley",
+      "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 240441,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
         "name": "Desde el Fin del Mundo",
         "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 218288,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/14OsvO7eecMfOIdRClquk9"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 240441,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1147,6 +1147,26 @@
       "duration_ms": 290666,
       "name": "Illuminati - Remix",
       "url": "https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
+        "name": "MAWZ",
+        "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 211964,
+      "name": "A tus Pies",
+      "url": "https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1231,26 +1251,6 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
-        "name": "MAWZ",
-        "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 211964,
-      "name": "A tus Pies",
-      "url": "https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
         "name": "Quedate Sola",
         "url": "https://open.spotify.com/album/5ovRJUVUBRZmOcyzUbJFNl"
       },
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
+        "name": "Se Termin\u00f3 (feat. Kodigo)",
+        "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "duration_ms": 202083,
+      "name": "Se Termin\u00f3 (feat. Kodigo)",
+      "url": "https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
         "name": "Ahora No (feat. Kodigo)",
         "url": "https://open.spotify.com/album/6hoAtWCxorwTPscEuWK4Ys"
       },
@@ -1351,46 +1371,6 @@
       "duration_ms": 187046,
       "name": "S\u00e1banas An\u00f3nimas",
       "url": "https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
-        "name": "A fuego (Bizarrap Remix)",
-        "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 239078,
-      "name": "A fuego - Bizarrap Remix",
-      "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
-        "name": "Se Termin\u00f3 (feat. Kodigo)",
-        "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
-        }
-      ],
-      "duration_ms": 202083,
-      "name": "Se Termin\u00f3 (feat. Kodigo)",
-      "url": "https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1435,6 +1415,26 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
+        "name": "A fuego (Bizarrap Remix)",
+        "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 239078,
+      "name": "A fuego - Bizarrap Remix",
+      "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
         "name": "Mi Llamada (Remix)",
         "url": "https://open.spotify.com/album/0UO597AtNYs5g9tJtVApZA"
       },
@@ -1471,26 +1471,6 @@
       "duration_ms": 414320,
       "name": "Mi Llamada (Remix)",
       "url": "https://open.spotify.com/track/78i2QPC8prEzftYZrBjKOM"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
-        "name": "Parte de Mi (feat. Lit Killah)",
-        "url": "https://open.spotify.com/album/4xkKYfcSKi3SgMdO7zi6Bo"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 194092,
-      "name": "Parte de Mi (feat. Lit Killah)",
-      "url": "https://open.spotify.com/track/4OocfNloIRk77ncIKBdYwb"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1535,6 +1515,26 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
+        "name": "Parte de Mi (feat. Lit Killah)",
+        "url": "https://open.spotify.com/album/4xkKYfcSKi3SgMdO7zi6Bo"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 194092,
+      "name": "Parte de Mi (feat. Lit Killah)",
+      "url": "https://open.spotify.com/track/4OocfNloIRk77ncIKBdYwb"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
         "name": "Digame Usted",
         "url": "https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF"
       },
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
+        "name": "C14TORCE IV",
+        "url": "https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "C14TORCE IV",
+      "url": "https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
         "name": "Si No Fue Asi",
         "url": "https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 186461,
       "name": "Estrellas",
       "url": "https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
-        "name": "C14TORCE IV",
-        "url": "https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "C14TORCE IV",
-      "url": "https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
-        "name": "CAPRICHOSO",
-        "url": "https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "CAPRICHOSO",
-      "url": "https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
         "name": "PUNKDEMIA",
         "url": "https://open.spotify.com/album/0XMJsTzaZzW3AaztVZbb6f"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 245677,
       "name": "TU CINTURA",
       "url": "https://open.spotify.com/track/35rGCxanzxooL6R32BuMu6"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
+        "name": "CAPRICHOSO",
+        "url": "https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "CAPRICHOSO",
+      "url": "https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn"
     },
     {
       "added_at": "2024-03-18 15:07:52",

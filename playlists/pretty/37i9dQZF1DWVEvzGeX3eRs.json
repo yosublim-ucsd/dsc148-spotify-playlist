@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2618052,
+  "num_followers": 2618208,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWM3OGRjNDhkNWZhODA2OGNmMjEzYWU5NDQ1MmVmOWYwZjM2MDVl",
+  "snapshot_id": "MCwwMDkzMjQ2NjViYTE4MThkNWVlOWQwYzJmMDVhYTVkZGI3NDA1OTE0",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -79,22 +79,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 252266,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Fever for da Flavor",
         "url": "https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 330945,
       "name": "Knockin' da Boots",
       "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 252266,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/6D527hFJzl1vWSzosEbyQk"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
-    },
-    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "The Deele: Greatest Hits",
@@ -283,18 +267,18 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 428200,
-      "name": "Any Time, Any Place",
-      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
+      "duration_ms": 324280,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -319,18 +303,18 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Blackstreet",
-        "url": "https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb"
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },
       "artists": [
         {
-          "name": "Blackstreet",
-          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 299800,
-      "name": "Before I Let You Go",
-      "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
+      "duration_ms": 428200,
+      "name": "Any Time, Any Place",
+      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
     },
     {
       "added_at": "2023-02-02 23:22:15",
@@ -347,6 +331,22 @@
       "duration_ms": 320360,
       "name": "Forever My Lady",
       "url": "https://open.spotify.com/track/2pY99npaZKTVAyw2DhV9Bo"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Blackstreet",
+        "url": "https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb"
+      },
+      "artists": [
+        {
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+        }
+      ],
+      "duration_ms": 299800,
+      "name": "Before I Let You Go",
+      "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
     },
     {
       "added_at": "2021-03-05 00:03:16",

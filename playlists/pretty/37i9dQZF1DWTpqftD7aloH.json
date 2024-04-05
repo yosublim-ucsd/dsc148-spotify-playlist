@@ -1,13 +1,29 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 345124,
+  "num_followers": 345293,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDZiOWU0OGY1N2RmMzUwYzQ2ZDlhY2Q2MzRlMzMxYmMyM2M2YjQ0",
+  "snapshot_id": "MCxmZDM2MjRkMDY5ZWQ3NDI3YzFiMjk4YWIyZmNlOTljZjRlNzE5NDA4",
   "tracks": [
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
+        "name": "Me Atraiu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 503635,
+      "name": "Me Atraiu - Ao Vivo",
+      "url": "https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP"
+    },
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 213420,
       "name": "Cuido dos Detalhes",
       "url": "https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
-        "name": "Me Atraiu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 503635,
-      "name": "Me Atraiu - Ao Vivo",
-      "url": "https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 422333,
-      "name": "Lugar Secreto",
-      "url": "https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
         "name": "Preto no Branco (Ao Vivo)",
         "url": "https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 297680,
       "name": "Grandes Coisas - Ao Vivo",
       "url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 422333,
+      "name": "Lugar Secreto",
+      "url": "https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
-        "name": "Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 267077,
-      "name": "Os Sonhos de Deus",
-      "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
         "name": "Furioso Oceano",
         "url": "https://open.spotify.com/album/7FomxvXmYkrQCQFvIpfzfV"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 419280,
       "name": "\u00danico - Live",
       "url": "https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
+        "name": "Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 267077,
+      "name": "Os Sonhos de Deus",
+      "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
-        "name": "Galileu (ao Vivo)",
-        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 325200,
-      "name": "Galileu - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
         "name": "Momentos (Vol.1)",
         "url": "https://open.spotify.com/album/5OBBURED8xXfMnTSeraLrY"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 522461,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/2EMy05KEE6JLDUSvnklzk6"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
+        "name": "Galileu (ao Vivo)",
+        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 325200,
+      "name": "Galileu - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
-        "name": "Samuel Messias (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6TtTqrCRMPuSOpVUDlNSeX"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 391720,
-      "name": "Todavia Me Alegrarei (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3AH9Eok8N2BIGNUNBg1APv"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
         "name": "Extraordin\u00e1rio Amor de Deus",
         "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 343051,
       "name": "Ressuscita-me",
       "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
+        "name": "Samuel Messias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6TtTqrCRMPuSOpVUDlNSeX"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 391720,
+      "name": "Todavia Me Alegrarei (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3AH9Eok8N2BIGNUNBg1APv"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
-        "name": "Tudo \u00e9 Poss\u00edvel",
-        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 395435,
-      "name": "Tudo \u00e9 Poss\u00edvel",
-      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
         "name": "Ess\u00eancia",
         "url": "https://open.spotify.com/album/6gh1cKg6cQvjSSmJMKVPhm"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 735253,
       "name": "Em Teus Bra\u00e7os",
       "url": "https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
+        "name": "Tudo \u00e9 Poss\u00edvel",
+        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 395435,
+      "name": "Tudo \u00e9 Poss\u00edvel",
+      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
-        "name": "Kemuel (Sony Music Live)",
-        "url": "https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 314289,
-      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (What a Beautiful Name) [Sony Music Live]",
-      "url": "https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
         "name": "Agrade\u00e7o",
         "url": "https://open.spotify.com/album/5W23bwhWkoCoQ21uyYMel3"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 221976,
       "name": "Agrade\u00e7o",
       "url": "https://open.spotify.com/track/6XFZxwJ5TNZY4TdAfx1v55"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
+        "name": "Kemuel (Sony Music Live)",
+        "url": "https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 314289,
+      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (What a Beautiful Name) [Sony Music Live]",
+      "url": "https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
-        "name": "N\u00e3o Acabou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 315556,
-      "name": "N\u00e3o Acabou (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
         "name": "Tua Gra\u00e7a Me Basta",
         "url": "https://open.spotify.com/album/4TfEJhEc8zjkdkp6HHEuhB"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 439267,
       "name": "Tua Gra\u00e7a Me Basta",
       "url": "https://open.spotify.com/track/22qTwnv9sDRqauI3txYUSf"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
+        "name": "N\u00e3o Acabou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 315556,
+      "name": "N\u00e3o Acabou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 260620,
-      "name": "Cicatrizes",
-      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
         "name": "Inexplic\u00e1vel Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu"
       },
@@ -1455,6 +1439,38 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
+        "name": "Grande \u00c9 O Meu Deus",
+        "url": "https://open.spotify.com/album/2ysGfbNjEcDLoCqP1u20cq"
+      },
+      "artists": [
+        {
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+        }
+      ],
+      "duration_ms": 325533,
+      "name": "Qu\u00e3o Grande \u00e9 o Meu Deus",
+      "url": "https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 260620,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
         "name": "Al\u00e9m do Rio Azul (Ao Vivo)",
         "url": "https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 306560,
       "name": "Al\u00e9m do Rio Azul - Ao Vivo",
       "url": "https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
-        "name": "Grande \u00c9 O Meu Deus",
-        "url": "https://open.spotify.com/album/2ysGfbNjEcDLoCqP1u20cq"
-      },
-      "artists": [
-        {
-          "name": "Soraya Moraes",
-          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
-        }
-      ],
-      "duration_ms": 325533,
-      "name": "Qu\u00e3o Grande \u00e9 o Meu Deus",
-      "url": "https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd"
     },
     {
       "added_at": "2024-01-05 13:21:41",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-01-05 13:21:41",
       "album": {
-        "name": "Eu Sou Livre",
-        "url": "https://open.spotify.com/album/23O2Sf7BGe62TzjYdVP8wu"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 302834,
-      "name": "Meu Universo",
-      "url": "https://open.spotify.com/track/7abLLSsnvZUTnts7L0Ud3m"
-    },
-    {
-      "added_at": "2024-01-05 13:21:41",
-      "album": {
         "name": "Jesus Sempre Tem Mais (Ao Vivo)",
         "url": "https://open.spotify.com/album/4IQFlCvRYoT5z85w6Yrk2E"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 359280,
       "name": "Jesus Sempre Tem Mais - Ao Vivo",
       "url": "https://open.spotify.com/track/5eEZJ0EzlxamBnmUJMO0aD"
+    },
+    {
+      "added_at": "2024-01-05 13:21:41",
+      "album": {
+        "name": "Eu Sou Livre",
+        "url": "https://open.spotify.com/album/23O2Sf7BGe62TzjYdVP8wu"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 302834,
+      "name": "Meu Universo",
+      "url": "https://open.spotify.com/track/7abLLSsnvZUTnts7L0Ud3m"
     },
     {
       "added_at": "2024-01-05 13:21:41",

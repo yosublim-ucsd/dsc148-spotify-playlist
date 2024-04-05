@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: Taeha\(태하\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-320 songs - 19 hr 49 min
+321 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:30 | 2022-05-11 | 2024-03-26 |
 | [Afterlife \(Feat\. OOHYO\) \- Voradory Ver.](https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:12 | 2022-05-11 | 2022-07-21 |
 | [Algorithm](https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu) | 3:08 | 2023-11-02 | 2024-04-04 |
+| [Algorithm](https://open.spotify.com/track/2tGjh54bikVc5x3dl1pUKx) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/04UMoeGtpAK6TyqRLllHqs) | 3:08 | 2024-03-29 |  |
 | [All flights are delayed](https://open.spotify.com/track/65Rgsz3Q3kfumqAJaVqJca) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 1:32 | 2022-05-11 | 2022-07-27 |
 | [All Night](https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Red Light \- The 3rd Album](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) | 3:30 | 2022-05-11 |  |
 | [All Night](https://open.spotify.com/track/1UwERmn5UogyCz6qo21BmA) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Holiday Night \- The 6th Album](https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF) | 3:42 | 2022-06-18 |  |
@@ -74,7 +75,7 @@
 | [Coconut Love](https://open.spotify.com/track/6urgOrkCIjtmyMYUkL370K) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [Coconut Love](https://open.spotify.com/album/3vzJvwiI91UgooKT1jmSUx) | 3:14 | 2022-07-22 | 2022-11-04 |
 | [Coconut Love 코코넛 러브](https://open.spotify.com/track/6ZhbadBT9PnNEuDjW4YV3M) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [Coconut Love 코코넛 러브](https://open.spotify.com/album/3mo2rZgIxhEpNa0cIlkAY9) | 3:14 | 2022-05-11 | 2022-07-29 |
 | [Color Me](https://open.spotify.com/track/0PjVjxtWhAUnaRYBWHWdFa) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Lucky](https://open.spotify.com/album/6sky0eX7g7zrikM2zPqf7h) | 3:40 | 2022-05-11 | 2022-07-03 |
-| [Come With Me](https://open.spotify.com/track/6QGgZu5a3oDPO2NMrlesCd) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/2gQ2s0q9UDJRYhpAdVCjSs) | 3:11 | 2023-07-13 |  |
+| [Come With Me](https://open.spotify.com/track/6QGgZu5a3oDPO2NMrlesCd) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/2gQ2s0q9UDJRYhpAdVCjSs) | 3:11 | 2023-07-13 | 2024-04-05 |
 | [Come With Me \(feat\. Aden & H!\)](https://open.spotify.com/track/5cyfnscoiwhmGnOZYvR9QJ) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [H!](https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/4DqKZBow5uuKTQQiDoSjTF) | 3:11 | 2022-05-11 | 2022-12-16 |
 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [TrophyCat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 | 2022-05-11 | 2023-11-03 |
 | [Cristal Love](https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds) | [En Sokum](https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF) | [Cristal Love](https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK) | 3:37 | 2022-12-21 | 2023-04-16 |

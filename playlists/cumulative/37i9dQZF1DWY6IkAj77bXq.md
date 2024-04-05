@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-183 songs - 9 hr 8 min
+184 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Dreamgaze](https://open.spotify.com/track/6IRi150T6ZXt3uFGpFggEv) | [Brisbois](https://open.spotify.com/artist/3kp0L0gzhW88FsfpD4H0kH) | [Dreamgaze](https://open.spotify.com/album/0gvuIEHNqACJU8JXn2BcTC) | 3:37 | 2023-10-04 |  |
 | [Dreamstate](https://open.spotify.com/track/4WzPktrz71J6X0Rbm9KQlS) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Dreamstate](https://open.spotify.com/album/78168bttecze9M3zCxDAhx) | 2:43 | 2022-07-05 | 2022-07-29 |
 | [Dreamstate](https://open.spotify.com/track/61HSo5TNO6zcd1zjsjO4o5) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Dreamstate](https://open.spotify.com/album/37DwKVq9tG6vzYVhORPRmL) | 2:43 | 2022-07-19 | 2024-02-27 |
+| [Dreamwalker](https://open.spotify.com/track/52ahkUIhePPGiz4lvI4Ah9) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Dreamwalker](https://open.spotify.com/album/3tWedrnHrVXerXmF2Euion) | 2:48 | 2024-04-04 |  |
 | [Drifting](https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9) | [James Nepali](https://open.spotify.com/artist/0SsqkRL4JQC709FbQeLn1x) | [Drifting](https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf) | 2:17 | 2022-07-05 |  |
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-07-05 | 2022-11-12 |
 | [Easy Mind](https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Easy Mind](https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl) | 2:40 | 2022-07-05 |  |
@@ -160,7 +161,7 @@
 | [Somnolent](https://open.spotify.com/track/0NQmxDWx3thsepS1TcO8bR) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Somnolent](https://open.spotify.com/album/0g7Ole1o31s5RhWYCIZqoy) | 3:56 | 2022-07-19 |  |
 | [Soothe](https://open.spotify.com/track/0gfqezlNyYiXgr2FOlEWuA) | [Ever So Calm](https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd) | [Soothe](https://open.spotify.com/album/74vs037IHVc421BMmB5yqo) | 2:51 | 2022-07-19 |  |
 | [Soothe](https://open.spotify.com/track/5HUkAj1VUDNKtkt6uM45xR) | [Ever So Calm](https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd) | [Soothe](https://open.spotify.com/album/4n3NUoFluygkss3dDjfEea) | 2:51 | 2022-07-19 | 2022-07-29 |
-| [Sphere](https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Sphere](https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn) | 2:59 | 2022-07-19 |  |
+| [Sphere](https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Sphere](https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn) | 2:59 | 2022-07-19 | 2024-04-05 |
 | [Stillness](https://open.spotify.com/track/5dm8dyCwn5fGikFFmcSoGc) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Stillness](https://open.spotify.com/album/45JitQMFNSa8L3wFS5JOcC) | 3:11 | 2022-07-19 | 2024-04-04 |
 | [Stressophobic](https://open.spotify.com/track/6O6CClNFRAQ9Y2wB3t2g84) | [Phobic](https://open.spotify.com/artist/4pgvre1wDhGGmEbjevWClj) | [Stressophobic](https://open.spotify.com/album/4viW8FRpQz928WnCqe2NME) | 2:52 | 2023-11-24 | 2024-03-11 |
 | [Structure](https://open.spotify.com/track/4mxKceI65QluBw8XSJpXiN) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Structure](https://open.spotify.com/album/396r7PoiVVsRKXg8jlD3GX) | 3:05 | 2023-10-04 | 2023-12-13 |

@@ -4,7 +4,7 @@
 
 > Easy listening pop that feels sunny wherever you are
 
-216 songs - 14 hr 1 min
+217 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 | 2022-03-27 | 2022-11-13 |
 | [How Bizarre](https://open.spotify.com/track/0wJyFu6JHwUoKQN5X3uzVe) | [OMC](https://open.spotify.com/artist/4vdt8TD56jjQfmxFCmhubX) | [How Bizarre](https://open.spotify.com/album/3JSCkR1qkv6A0s8MkT49EU) | 3:44 | 2019-06-24 | 2022-07-29 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2023-05-29 |  |
-| [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 | 2022-03-27 |  |
+| [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 | 2022-03-27 | 2024-04-05 |
 | [I Don't Want to Be](https://open.spotify.com/track/4vl2zwXsTmAxgu9iY0g6UK) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot](https://open.spotify.com/album/5YTn3PFD7mrjhucfeafJE7) | 3:37 | 2019-05-27 | 2019-06-07 |
 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 | 2022-03-27 |  |
 | [I Love Your Smile](https://open.spotify.com/track/69mFxANpGyq9s69LqH3d9G) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [Inner Child](https://open.spotify.com/album/3O1AUjaFcoauFoI10ZZJxi) | 4:17 | 2022-03-27 | 2022-04-21 |
@@ -109,6 +109,7 @@
 | [I'm Like A Bird](https://open.spotify.com/track/2ze7s5CrESggiWA3RpDYIy) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly! \(Special Edition\)](https://open.spotify.com/album/0on8zrPIIlANtVlNw6Uea7) | 4:03 | 2022-04-19 | 2022-04-20 |
 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 | 2022-12-29 |  |
 | [If It Makes You Happy](https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb) | 5:23 | 2019-06-22 | 2022-07-29 |
+| [In the Summertime](https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7) | 3:31 | 2024-02-19 |  |
 | [In the Summertime](https://open.spotify.com/track/4OT4AvPAq1o0rscVNdC20X) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/7wop1zYIUtT0T9auF2s1jz) | 3:31 | 2022-03-27 | 2022-07-29 |
 | [In the Summertime](https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY) | 3:35 | 2022-07-01 | 2023-11-03 |
 | [In The Summertime](https://open.spotify.com/track/2DdEKsE7xI60WGuGQNM8Cb) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [One Hit Wonders \- Vol\. 7](https://open.spotify.com/album/3kwz9WsdaspUscD1jVVDmG) | 3:41 | 2022-09-05 | 2022-11-13 |

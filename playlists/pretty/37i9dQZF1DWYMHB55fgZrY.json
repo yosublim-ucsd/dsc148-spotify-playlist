@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. El Novio de M\u00e9xico en portada.",
-  "num_followers": 532629,
+  "num_followers": 532713,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODNmMGQ4YzY3MDQ1ZGJmYjBkZTEyYWI1NTQ2NjUzMjkyYWFkMDM5",
+  "snapshot_id": "MCw5NThiYjkxMjUxMGQwZTZlOWQ1NzNhNmQxNjE1ZTkyNzM4MjM4YTdl",
   "tracks": [
     {
       "added_at": "2023-11-10 18:31:01",
@@ -191,18 +191,18 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
       },
       "artists": [
         {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 267226,
-      "name": "Kumbala",
-      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
+      "duration_ms": 255506,
+      "name": "La Dosis Perfecta",
+      "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -239,18 +239,18 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "A la Izquierda de la Tierra",
-        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
         }
       ],
-      "duration_ms": 255506,
-      "name": "La Dosis Perfecta",
-      "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
+      "duration_ms": 267226,
+      "name": "Kumbala",
+      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "Rock en Espa\u00f1ol 80's & 90's",
-        "url": "https://open.spotify.com/album/4DkxlFoBgGH9EPp1bG6MKh"
-      },
-      "artists": [
-        {
-          "name": "Kenny y los El\u00e9ctricos",
-          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
-        }
-      ],
-      "duration_ms": 227066,
-      "name": "No Huyas De Mi",
-      "url": "https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
         "name": "Donde Jugaran Las Ni\u00f1as",
         "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 178400,
       "name": "Voto Latino",
       "url": "https://open.spotify.com/track/3w8eRp9mjGY48zpmIJ920R"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
+        "name": "Rock en Espa\u00f1ol 80's & 90's",
+        "url": "https://open.spotify.com/album/4DkxlFoBgGH9EPp1bG6MKh"
+      },
+      "artists": [
+        {
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+        }
+      ],
+      "duration_ms": 227066,
+      "name": "No Huyas De Mi",
+      "url": "https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po"
     }
   ],
   "unique_name": "Iconos del Rock Mexicano",

@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-245 songs - 12 hr 1 min
+250 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Day By The Sea](https://open.spotify.com/track/32caN3mL4dftJrVNKYwr1t) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [A Day By The Sea](https://open.spotify.com/album/7D3GuuvNP5IwTYwZcN1g5j) | 3:41 | 2022-09-02 |  |
 | [A Free Mind](https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [A Free Mind](https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe) | 3:30 | 2022-06-16 |  |
 | [A Neutral Place](https://open.spotify.com/track/6Db6Cz42MGCRkM28KHivIy) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [A Neutral Place](https://open.spotify.com/album/5gQ1Y7dwVAIWwTwjzZNZho) | 2:49 | 2022-11-11 |  |
+| [A New Dawn](https://open.spotify.com/track/6Qloblu6wPyXRxalwUe5X8) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [A New Dawn](https://open.spotify.com/album/309k958kB40RDKRlQLmSTs) | 1:53 | 2024-04-04 |  |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2022-03-08 |  |
 | [A Whisper In The Dark](https://open.spotify.com/track/1JSfa72GZUWBydnIcI93k5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/3K2G1cnq8sUdsnzYx1JVww) | 2:19 | 2022-02-18 | 2022-07-29 |
 | [A Whisper In The Dark](https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A) | 2:19 | 2022-07-19 | 2023-02-04 |
@@ -33,6 +34,7 @@
 | [At Last](https://open.spotify.com/track/0awdCTFrzeyVtRlZnMtqlH) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Penumbra](https://open.spotify.com/album/1QKIFdGbgz7yenrQiKWp2J) | 2:48 | 2022-07-19 | 2023-07-01 |
 | [At Last](https://open.spotify.com/track/0ghqKD2cL7KZGKq7rkyuex) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [KEEN: Peace & Calm Vol\. 1](https://open.spotify.com/album/5ElKIzZRCQYV6AlyLHOmPj) | 2:48 | 2022-11-11 | 2022-11-14 |
 | [At Last](https://open.spotify.com/track/3l8ILux1wF7VJt8MJXmLyN) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Penumbra](https://open.spotify.com/album/3K6jSzRzY3EfWv0gIVzEdV) | 2:48 | 2022-02-18 | 2022-07-29 |
+| [Atlantis Child](https://open.spotify.com/track/352umwVFzwBvpP5ptUHZYS) | [Metagalactic Chords](https://open.spotify.com/artist/2YvYBsjUjJSSj5KUYfZRhS) | [Atlantis Child](https://open.spotify.com/album/7w1FoTMjaVFa762LhNCqnL) | 2:54 | 2024-04-04 |  |
 | [Atmosfären](https://open.spotify.com/track/2I4UIW7yyhAsbkqF3dWjF9) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Atmosfären](https://open.spotify.com/album/5XiYKgflBgfaKCwN5iAmFJ) | 2:32 | 2022-02-18 |  |
 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 | 2022-02-18 | 2023-04-07 |
 | [awakening](https://open.spotify.com/track/00KTcw8dXiI7Dyxug4S0lt) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [awakening](https://open.spotify.com/album/1eGEmH0bohAxBY6oFXixqR) | 2:34 | 2022-02-18 | 2022-07-29 |
@@ -61,6 +63,7 @@
 | [Cinta](https://open.spotify.com/track/7icjqQq16HoJ00MDrkoeMg) | [Dalkhan Panova](https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV) | [Cinta](https://open.spotify.com/album/21BnnBlD0ssE2TzFwS87Pq) | 2:59 | 2023-04-13 |  |
 | [Claridade](https://open.spotify.com/track/6g3NWbDLuieMlyaiBaOIwE) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Claridade](https://open.spotify.com/album/0MgNA8u768eZPlDk1fCN4f) | 3:17 | 2023-10-02 |  |
 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2022-02-18 | 2023-04-14 |
+| [Come Closer](https://open.spotify.com/track/7c6v8ww6DkbOuB02o2x7OP) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Come Closer](https://open.spotify.com/album/6kWzecmlppwsVpGy30AJ1n) | 2:15 | 2024-04-04 |  |
 | [Companion](https://open.spotify.com/track/1FgtKAO4lPSU7C83CLIOqu) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Snow Berries](https://open.spotify.com/album/13nTRdiXmI29GzOv0x0fJs) | 3:19 | 2022-10-14 |  |
 | [Consonance](https://open.spotify.com/track/6wumg3aZYgGbInRSN8S9g5) | [Blake Tyber](https://open.spotify.com/artist/4vbBZNG20uRReoBN64izRQ) | [Consonance](https://open.spotify.com/album/0yKguZ6t1oKjlFSDYkDuzF) | 3:02 | 2022-11-11 |  |
 | [Coral Reef](https://open.spotify.com/track/6BHSLFa3gVZQPYHcHsIWAY) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [Floating](https://open.spotify.com/album/3wffRTt5HgYmfdJV3gLFPM) | 3:45 | 2022-02-18 | 2023-05-20 |
@@ -163,6 +166,7 @@
 | [Otro amanecer](https://open.spotify.com/track/7CbU1onF6ME4SgRvV21d9j) | [Uli Polli](https://open.spotify.com/artist/1cPGcLr27NVdDGSzNWsxbY) | [Otro amanecer](https://open.spotify.com/album/3b4LQ2PMmm2dlCXqJcrEG3) | 3:02 | 2022-02-18 | 2023-07-15 |
 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 | 2022-02-18 |  |
 | [Patientia](https://open.spotify.com/track/7xliwWjoey2VUe450gdZ5Y) | [John Caelo](https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd) | [Patientia](https://open.spotify.com/album/2wHSo6N02pO8aExcDzjiP4) | 2:20 | 2024-03-07 |  |
+| [Peace in Waves](https://open.spotify.com/track/7wpSb31qDjRsCI105s01a3) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7), [Softly Drift](https://open.spotify.com/artist/59PkxjxtOeVVOBK47vR4Or) | [Peace in Waves](https://open.spotify.com/album/3wTLeuvoIThzfOAInZfIaq) | 2:22 | 2024-04-04 |  |
 | [Peace of Mind](https://open.spotify.com/track/0KKg1XFSet2uywfBf6BS6B) | [Mikkel Boyer](https://open.spotify.com/artist/1HhdV78nBxhhXAnJKVDEu8) | [Peace of Mind](https://open.spotify.com/album/58R9PTSSIpYohBQHqXwSFs) | 2:24 | 2022-02-18 | 2023-07-15 |
 | [Peaceful Journey](https://open.spotify.com/track/2w2TNG4SXWwRAPiHZoRgnw) | [Pacificus Luminus](https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU) | [Peaceful Journey](https://open.spotify.com/album/7lxqmEkwnv3BkHhFj9Yqx7) | 2:11 | 2022-02-18 | 2022-12-10 |
 | [Peaceful Memory](https://open.spotify.com/track/3F8pwlF36S14zSKLfWH6LZ) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [Peaceful Memory](https://open.spotify.com/album/0ynJFurIoUTJidkBgSGy1t) | 2:53 | 2022-02-18 | 2023-09-16 |
@@ -206,6 +210,7 @@
 | [Snowdonia](https://open.spotify.com/track/6JMuZsTQprhBrbywStSwer) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Snowdonia](https://open.spotify.com/album/6OyZMyAiAtD2MJjAI91Irc) | 2:58 | 2022-02-18 | 2023-04-07 |
 | [Sognante](https://open.spotify.com/track/78JrKrc3HthRfKAnFoG0Nw) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Sognante](https://open.spotify.com/album/1YztptUb03EHqZFNXyN47r) | 3:09 | 2022-02-18 |  |
 | [Sotto La Superficie](https://open.spotify.com/track/1YvgFUa5OxOw8z9GZQQLHR) | [Alcine Sala](https://open.spotify.com/artist/6sXYZyjQRKE4ID1x9Y7ZiC) | [Sotto La Superficie](https://open.spotify.com/album/0hY1Y1Jk2abRgY1KeVN9Kf) | 2:27 | 2022-02-18 |  |
+| [Soulless](https://open.spotify.com/track/46KPIWh1Al8DsFptr5JUSS) | [Marta Delgado](https://open.spotify.com/artist/0B8IFmmZxB0JtGg29Qzat2) | [Soulless](https://open.spotify.com/album/7f5EbL7CRDXjlxUFus0VTM) | 3:05 | 2024-04-04 |  |
 | [Sovande](https://open.spotify.com/track/1dJJWFg94Ogmq3aiILfwv8) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Sovande](https://open.spotify.com/album/1mnQAVjKz6Tjh001npCgKw) | 2:27 | 2023-08-25 |  |
 | [Space And Time](https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Space And Time](https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN) | 2:25 | 2022-02-18 |  |
 | [Spaces](https://open.spotify.com/track/3ihG28Sd7TNFsUQ7pu7f7P) | [Gus Cleese](https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2) | [Mountains](https://open.spotify.com/album/57R4gLdl1jbaEZuyYzhI3n) | 3:25 | 2022-02-18 | 2023-04-14 |

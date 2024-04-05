@@ -1,12 +1,12 @@
 {
   "description": "El Tango est\u00e1 m\u00e1s vivo que nunca. Disfrut\u00e1 los cl\u00e1sicos en <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV\">Tangos y Milongas</a>",
-  "num_followers": 87363,
+  "num_followers": 87360,
   "original_name": "Neo Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmQ1Y2FlZjU3ZjQwZjI1ZWMwNGMzMWQwZjZjOWRhNDA5MGRiNjk0",
+  "snapshot_id": "MCwzM2UyYTg0ODAxMDg0ZWYwMzE0NDVjOWE4Y2I5MzE5YzNmNTI2YjMx",
   "tracks": [
     {
       "added_at": "2023-11-24 03:00:00",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Mi Version de los Hechos",
-        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
-      },
-      "artists": [
-        {
-          "name": "Romina Balestrino",
-          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
-        },
-        {
-          "name": "Sandra Mihanovich",
-          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
-        }
-      ],
-      "duration_ms": 287184,
-      "name": "Sue\u00f1o de Barrilete",
-      "url": "https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Muchacha (ojos de papel)",
         "url": "https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 198944,
       "name": "Muchacha (ojos de papel)",
       "url": "https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Mi Version de los Hechos",
+        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
+      },
+      "artists": [
+        {
+          "name": "Romina Balestrino",
+          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
+        },
+        {
+          "name": "Sandra Mihanovich",
+          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
+        }
+      ],
+      "duration_ms": 287184,
+      "name": "Sue\u00f1o de Barrilete",
+      "url": "https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -999,18 +999,26 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Limanueva",
-        "url": "https://open.spotify.com/album/1Q1J4JdO0wxNuFgvBsSQYy"
+        "name": "Libertango (En Vivo en el Luna Park)",
+        "url": "https://open.spotify.com/album/16ncE46moDunwP7X7P7xRH"
       },
       "artists": [
         {
-          "name": "Narcotango",
-          "url": "https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9"
+          "name": "La Milonga Electrica",
+          "url": "https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6"
+        },
+        {
+          "name": "Godoy",
+          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
+        },
+        {
+          "name": "Sebasti\u00e1n Barbui",
+          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
         }
       ],
-      "duration_ms": 259519,
-      "name": "Mistela",
-      "url": "https://open.spotify.com/track/3n2VMpEZW00BKG6MAsJEeo"
+      "duration_ms": 206374,
+      "name": "Libertango - En Vivo en Luna Park",
+      "url": "https://open.spotify.com/track/7JK4ZND7Gvd3smWaX5eU3t"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1047,26 +1055,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Libertango (En Vivo en el Luna Park)",
-        "url": "https://open.spotify.com/album/16ncE46moDunwP7X7P7xRH"
+        "name": "Limanueva",
+        "url": "https://open.spotify.com/album/1Q1J4JdO0wxNuFgvBsSQYy"
       },
       "artists": [
         {
-          "name": "La Milonga Electrica",
-          "url": "https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6"
-        },
-        {
-          "name": "Godoy",
-          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
-        },
-        {
-          "name": "Sebasti\u00e1n Barbui",
-          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
+          "name": "Narcotango",
+          "url": "https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9"
         }
       ],
-      "duration_ms": 206374,
-      "name": "Libertango - En Vivo en Luna Park",
-      "url": "https://open.spotify.com/track/7JK4ZND7Gvd3smWaX5eU3t"
+      "duration_ms": 259519,
+      "name": "Mistela",
+      "url": "https://open.spotify.com/track/3n2VMpEZW00BKG6MAsJEeo"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1212,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv"
         }
       ],
-      "duration_ms": 180306,
-      "name": "Label",
-      "url": "https://open.spotify.com/track/6OqktiC44c2hWp52yuWFnP"
+      "duration_ms": 223986,
+      "name": "Bye Mom",
+      "url": "https://open.spotify.com/track/2kliWnNyvuFRjVITOzkKXr"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1235,18 +1235,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Fuego y pasi\u00f3n / Que Iron\u00eda (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3wJNdWMDUM0C4d5j9SUbDD"
+        "name": "Sebastian Barbui",
+        "url": "https://open.spotify.com/album/28XcARHQ3YiuaAZkGDPidC"
       },
       "artists": [
         {
-          "name": "Diego Giannini",
-          "url": "https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU"
+          "name": "Sebasti\u00e1n Barbui",
+          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
+        },
+        {
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
         }
       ],
-      "duration_ms": 240296,
-      "name": "Fuego y pasi\u00f3n / Que Iron\u00eda - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3UzaPjqE4v7CCnvVzbVNKg"
+      "duration_ms": 202866,
+      "name": "El Dia Que Me Quieras",
+      "url": "https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK"
     }
   ],
   "unique_name": "Neo Tango",

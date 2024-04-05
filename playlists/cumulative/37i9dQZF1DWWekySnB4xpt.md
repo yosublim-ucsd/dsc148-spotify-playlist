@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: ELENA ROSE, Danny Ocean, Jerry Di
 
-150 songs - 9 hr 7 min
+151 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,8 +141,9 @@
 | [Un Buen Perdedor](https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco de Vita](https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb) | 4:00 | 2021-12-17 |  |
 | [Un Día a la Vez](https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Un Día a la Vez](https://open.spotify.com/album/1ou9ssBPUFB9hQzieb1ctA) | 4:06 | 2021-12-17 | 2023-02-10 |
 | [Una Fan Enamorada](https://open.spotify.com/track/07EGbR4e9MznCDPuWGcD93) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [La Historia](https://open.spotify.com/album/4VOSk2bhh4ubQcbCbL1uqZ) | 4:51 | 2022-07-01 | 2023-01-13 |
-| [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/0ZrR1RTJj1glZWtYvBfU7M) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Los Primera](https://open.spotify.com/album/6WazOboL5RdFSLktiSsZO5) | 4:51 | 2022-09-30 |  |
+| [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/0ZrR1RTJj1glZWtYvBfU7M) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Los Primera](https://open.spotify.com/album/6WazOboL5RdFSLktiSsZO5) | 4:51 | 2022-09-30 | 2024-04-05 |
 | [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/0yccmoLCJ5J3Z2owPtdwgf) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Grandes Éxitos](https://open.spotify.com/album/6hwR8ta8BngmQSLZpICskl) | 4:51 | 2022-09-30 | 2022-11-13 |
+| [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/2PJcHAySsvwdUFegqB44xH) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Los Primera](https://open.spotify.com/album/51MC7PW476AnhA5Wr3Rw0t) | 4:51 | 2023-11-21 |  |
 | [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/5XNeals8E3mLTZO2fmVPOB) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Los Primera](https://open.spotify.com/album/5hqjRB0TZER795NKsz9tf0) | 4:51 | 2021-12-17 | 2022-07-29 |
 | [Una Vez Más](https://open.spotify.com/track/2lucHwbjszH0cmxigzmtfd) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Grandes Exitos con Chino y Nacho](https://open.spotify.com/album/68vYBxgxScKS5KmJiCwBGe) | 3:50 | 2021-12-17 |  |
 | [Veronica](https://open.spotify.com/track/6r7Fr0fHtsUjfQFSbQeGeF) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3) | [Miss Mujerzuela](https://open.spotify.com/album/3LU1q4hdfHd60WS6yjEZZP) | 4:13 | 2022-07-01 |  |

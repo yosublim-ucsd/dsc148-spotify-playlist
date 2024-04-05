@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 165545,
+  "2024-04-05": 165559,
   "date_first_scraped": "2023-06-14",
   "description": "Bienvenidx a la trampa mexa. Kevis y Maykyy en portada.",
   "name": "TRAPPERZ_MX",
@@ -5379,10 +5379,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 141176,
       "name": "Yo tmb me fui",
       "url": "https://open.spotify.com/track/0fuEBBx9zVGJKzCNNEcxU5"
+    },
+    {
+      "album": {
+        "name": "Poes\u00edas de mi Odisea",
+        "url": "https://open.spotify.com/album/4qhn37vq11r5zzqbuQNwR2"
+      },
+      "artists": [
+        {
+          "name": "Mike Lamadrid",
+          "url": "https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Yo tmb me fui",
+      "url": "https://open.spotify.com/track/2Pc0Rf5p5WjtonOXQtcgYi"
     },
     {
       "album": {

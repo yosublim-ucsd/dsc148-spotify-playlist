@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with a mix of calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,571 likes - 249 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,677 likes - 249 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 248 | [Verträumt](https://open.spotify.com/track/6yfuxuWZNEnwOykWXStzxY) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Verträumt](https://open.spotify.com/album/1QLGJWEAeddXVFaAwI6gZ4) | 2:14 |
 | 249 | [erinna](https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [erinna](https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X) | 2:08 |
 
-Snapshot ID: `MCwyZWE0ZTY2MWU2NzMzOTQ2MjY3NmRmMTk2YmUzMTk1YWQwOGVkMGQw`
+Snapshot ID: `MCwwMDVhYTFjYTYyMDhhNzgxYjYwN2E2NWNhNDljZDU4ZTI0OWM5NmNj`

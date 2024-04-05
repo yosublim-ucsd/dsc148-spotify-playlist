@@ -2,7 +2,7 @@
 
 ### [Gbedu](https://open.spotify.com/playlist/37i9dQZF1DWUf3j9Rl2IUG)
 
-> Afrobeats' hottest singles\. Cover: SPINALL
+> Afrobeats' hottest singles\. Cover: 1da Banton
 
 308 songs - 14 hr 46 min
 

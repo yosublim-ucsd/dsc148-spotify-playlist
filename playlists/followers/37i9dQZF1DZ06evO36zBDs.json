@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 18868,
+  "2024-04-05": 18867,
   "date_first_scraped": "2022-06-10",
   "description": "This is ClariS. The essential tracks, all in one playlist.",
   "name": "This Is ClariS",
@@ -875,6 +875,24 @@
       "duration_ms": 231080,
       "name": "\u30a2\u30ea\u30b7\u30a2",
       "url": "https://open.spotify.com/track/48bApuUSPxV0TY1CeBXFfe"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
+        "url": "https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216413,
+      "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
+      "url": "https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2024 \(previous playlists archived on my profile\)
 
-107 songs - 5 hr 33 min
+110 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,12 +88,14 @@
 | [POKKA POKKA](https://open.spotify.com/track/2diC2THH55uAw4GGpZQjwn) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [宇宙 日本 世田谷](https://open.spotify.com/album/0hUfv1cSXNaBZ6dHKGluEy) | 4:04 | 2024-01-24 | 2024-03-10 |
 | [Post\-War Glamour Girls](https://open.spotify.com/track/3ocWpEl44dJAIMuDCMqC4E) | [John Cooper Clarke](https://open.spotify.com/artist/0EOkMBYWbDnVqwfHA4zq32) | [The Very Best Of](https://open.spotify.com/album/0GbJSduK8qUuLpG91duF0C) | 3:31 | 2024-02-28 | 2024-03-05 |
 | [Problem Number 6](https://open.spotify.com/track/53b4ay3zz0DpRd3QVgzaqW) | [Bruno Pernadas](https://open.spotify.com/artist/5LEK1kaklDfReP092sVvGd) | [Those Who Throw Objects at the Crocodiles Will Be Asked to Retrieve Them](https://open.spotify.com/album/2NYnAb4TkXGHrY8wZ9uZwT) | 4:22 | 2024-01-05 | 2024-03-10 |
+| [Punk as Fuck](https://open.spotify.com/track/6FcGBRTiMQMAY7g6xquoxg) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 4:09 | 2024-04-04 |  |
 | [Pyro](https://open.spotify.com/track/5xzCsSWJkLi2LmhgoSb5V3) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shades](https://open.spotify.com/album/4AyXcaqnBjy2J5kHCRLzEA) | 2:36 | 2024-01-10 | 2024-03-10 |
 | [Qi Velocity](https://open.spotify.com/track/4jwqOfpGkR0OdiASvDj4OB) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Modern Meta Physic](https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN) | 2:27 | 2024-01-29 | 2024-03-10 |
 | [R&B](https://open.spotify.com/track/3LtQtMTElsBhQQl1Oe2WVv) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [R&B](https://open.spotify.com/album/3GtGp6gTuR28nRXbJmkmPj) | 1:49 | 2024-03-13 | 2024-03-21 |
 | [Shikako Maru Ten](https://open.spotify.com/track/3NCzYu2GXu4iJE286d7x6T) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Shikako Maru Ten](https://open.spotify.com/album/5Y0rxm6JM2RAqm1k5aam2Y) | 3:18 | 2024-01-31 | 2024-03-10 |
 | [Shirt No.7](https://open.spotify.com/track/01kxM787BeH0WqdmCIw8jJ) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 2:30 | 2024-01-31 | 2024-03-10 |
 | [Shoot from the Heart](https://open.spotify.com/track/2tuiGLoE9ZNqAamqylsafY) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Ritmo](https://open.spotify.com/album/0xwLWmM77s0319HTS6HJ4T) | 4:26 | 2024-01-05 | 2024-03-10 |
+| [Signs](https://open.spotify.com/track/7epmAvoQHWEXQKkESieryn) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [Cardinal](https://open.spotify.com/album/5j2btF2YP9WdNBo7ZKPEtH) | 2:19 | 2024-04-05 |  |
 | [Silver](https://open.spotify.com/track/6zJu9qqwSxx1aPnqQmdAlv) | [Astra King](https://open.spotify.com/artist/1lf6ZLHzJmR8d6gLHt51dn) | [Silver](https://open.spotify.com/album/1HLmtzoF0ZGdY2iSiCvP3y) | 2:39 | 2024-01-05 | 2024-03-10 |
 | [Slow](https://open.spotify.com/track/2r8qfNBFEXlYrIpF0m31un) | [Florence Sinclair](https://open.spotify.com/artist/1zIrnPKywoksAoyOuTDL2W) | [It's a big man ting](https://open.spotify.com/album/2NIMo3HrBwvtkIHsTmluZa) | 1:55 | 2024-04-01 |  |
 | [Snake Eyes \(again\)](https://open.spotify.com/track/1Hkx2RQA79iG4jiip6bE3N) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 3:00 | 2024-03-13 |  |
@@ -106,6 +108,7 @@
 | [Target](https://open.spotify.com/track/0pC0qIpSTvptjrCSg0p9Gq) | [Rui Gabriel](https://open.spotify.com/artist/1LhAwMWCGYmplvmnZmvoDz), [Kate Teague](https://open.spotify.com/artist/5yNcIZz69fYkSRhiGoFx8T) | [Target](https://open.spotify.com/album/3ZbLs2qH6lDnDbEnNmsYYv) | 4:59 | 2024-02-23 | 2024-03-10 |
 | [The Beat Of Black Wings](https://open.spotify.com/track/2DyQKUqKUpOFV3Fs3ijW9Q) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:24 | 2024-03-25 |  |
 | [The Farmer](https://open.spotify.com/track/540dXWvRAQjXmg4gvhjxET) | [The Good Ones](https://open.spotify.com/artist/7rIF4gQrWPRDL020SG2eKD) | [RWANDA, you should be loved](https://open.spotify.com/album/35TaKsgwSCeVEH7Zq8fsfG) | 2:43 | 2024-02-27 | 2024-03-10 |
+| [The Kindness of Strangers](https://open.spotify.com/track/3oKX2xnyyWbkXFPWkL7ncF) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:26 | 2024-04-04 |  |
 | [Today Or Tomorrow](https://open.spotify.com/track/1XqvZaj7UvnR8SFGwAZmFh) | [Karate](https://open.spotify.com/artist/6U26vGPwnCQcNDr9Dpj0Y0) | [In Place Of Real Insight](https://open.spotify.com/album/3Zlq4jLSKwaPekmVFR7BcD) | 1:58 | 2024-03-09 |  |
 | [Top of Morning](https://open.spotify.com/track/0UfIarGCDsKojnn6p4LvTx) | [The Hang\-Ups](https://open.spotify.com/artist/16YEyKB4T5ayo9Ss0QvI9V) | [So We Go](https://open.spotify.com/album/70t2UqAkgVrD68eEPq4q7V) | 2:41 | 2024-04-01 |  |
 | [Towards the Light](https://open.spotify.com/track/5Hfek3OCEOxOVeywQjK1aK) | [The Boo Radleys](https://open.spotify.com/artist/6UYwzZChuolxsylHcZcBBP) | [Everything's Alright Forever](https://open.spotify.com/album/6HyyVAjYEHdjSjFDAU86Gx) | 1:41 | 2024-01-09 | 2024-03-10 |

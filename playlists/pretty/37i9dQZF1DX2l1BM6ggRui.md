@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,526 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,524 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 53 | [He Loves Me \(With Windy\)](https://open.spotify.com/track/5zcqzLiXvZc68HAPJaE8LL) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [He Loves Me \(With Windy\)](https://open.spotify.com/album/56WFA9DY6elZw9uPt2xGcL) | 3:59 |
 | 54 | [Hero](https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Hero](https://open.spotify.com/album/2qeoNeByTFBqLT4meBSDBM) | 2:30 |
 | 55 | [Sing\-a\-song](https://open.spotify.com/track/3kUa4w9ydwOReSjFAi7c8y) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 2:50 |
-| 56 | [연애상담인듯](https://open.spotify.com/track/7oFRqf8y5li3YcZbESYvK7) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw) | [어서오세요 여름밤](https://open.spotify.com/album/0GB6OFRgrSKlAXu8GcUbQx) | 3:02 |
-| 57 | [FREE SMILE](https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Seoul Check\-in OST Part 10](https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9) | 3:21 |
+| 56 | [FREE SMILE](https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Seoul Check\-in OST Part 10](https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9) | 3:21 |
+| 57 | [연애상담인듯](https://open.spotify.com/track/7oFRqf8y5li3YcZbESYvK7) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw) | [어서오세요 여름밤](https://open.spotify.com/album/0GB6OFRgrSKlAXu8GcUbQx) | 3:02 |
 | 58 | [SKIP \(Feat\. Wonstein\)](https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 2:51 |
 | 59 | [Once In a Summer \(feat\. Ashley Alisha & Kelsey Kuan\)](https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Once In a Summer](https://open.spotify.com/album/7mieRQVDslmslEystozZ0t) | 3:20 |
 | 60 | [You and I in this hard day](https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:34 |
 
-Snapshot ID: `MCwzZmVjMTc1NmU0NTNjNmFjYTJhZWNkMjVlZjA2ZjJmMzU4NjU0NGQz`
+Snapshot ID: `MCxmNzBiMTcxMmU4ZmU2ZGY5MTA1NzM1ZGQzMzUzODQ5MjFmN2VkMzdm`

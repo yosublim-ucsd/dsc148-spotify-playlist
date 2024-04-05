@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: GooChan",
+  "description": "2024 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover:   Jasmine Kelly",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 32179,
       "name": "physicaltouch",
       "url": "https://open.spotify.com/track/0gyABf30UplLQPRFCiPj6j"
@@ -1908,6 +1908,32 @@
       "duration_ms": 211232,
       "name": "twentyone",
       "url": "https://open.spotify.com/track/3CuSZNQMOfutttNqxeUunT"
+    },
+    {
+      "album": {
+        "name": "waiting for you",
+        "url": "https://open.spotify.com/album/3zCjzqYdYy9gjZRZ6JiLQQ"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Kelly",
+          "url": "https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr"
+        },
+        {
+          "name": "Lushroom",
+          "url": "https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu"
+        },
+        {
+          "name": "sanjay.",
+          "url": "https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168181,
+      "name": "waiting for you",
+      "url": "https://open.spotify.com/track/6SQlsmneR2rMN11QyfwnQh"
     },
     {
       "album": {

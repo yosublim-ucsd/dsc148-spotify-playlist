@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: FLEUR",
+  "description": "De nieuwste Nederlandse pop! Cover: Kraantje Pappie",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -1490,6 +1490,24 @@
       "duration_ms": 177690,
       "name": "Blijf Zo",
       "url": "https://open.spotify.com/track/3bHhbGAnKXlD3SIoRZr8oj"
+    },
+    {
+      "album": {
+        "name": "Blik Op Jou",
+        "url": "https://open.spotify.com/album/2eszVV2AEnzsQX5cPnKA15"
+      },
+      "artists": [
+        {
+          "name": "Jada Borsato",
+          "url": "https://open.spotify.com/artist/6EdpDU1kcKCtErNVnIpUbE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191935,
+      "name": "Blik Op Jou",
+      "url": "https://open.spotify.com/track/6n7MvjxLnE0EYNVDn5kh6c"
     },
     {
       "album": {
@@ -3381,6 +3399,24 @@
     },
     {
       "album": {
+        "name": "Gek Doen (Annemijn)",
+        "url": "https://open.spotify.com/album/4beFwZAnElEtwVYVZEe9rX"
+      },
+      "artists": [
+        {
+          "name": "Vincent Visser",
+          "url": "https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Gek Doen (Annemijn)",
+      "url": "https://open.spotify.com/track/2dUuayEzxpegdZx2zdrJTF"
+    },
+    {
+      "album": {
         "name": "Gereserveerd Voor 1",
         "url": "https://open.spotify.com/album/7JLLnJGZR2DVdj9tibkU27"
       },
@@ -4079,6 +4115,24 @@
     },
     {
       "album": {
+        "name": "Hoe Zou Het Zijn",
+        "url": "https://open.spotify.com/album/2ALYBOS62AwjwUTxPuQZtN"
+      },
+      "artists": [
+        {
+          "name": "Sherefa Yorks",
+          "url": "https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140368,
+      "name": "Hoe Zou Het Zijn",
+      "url": "https://open.spotify.com/track/1Ozx074E5K8p5QNoIgKnrt"
+    },
+    {
+      "album": {
         "name": "Hoger",
         "url": "https://open.spotify.com/album/3EPSzFm41wZfk95Ju8OpSO"
       },
@@ -4348,6 +4402,24 @@
       "duration_ms": 158400,
       "name": "Houden Van Mij",
       "url": "https://open.spotify.com/track/6EuitFOryzqbENBhziq2aS"
+    },
+    {
+      "album": {
+        "name": "Huilen In De Bioscoop",
+        "url": "https://open.spotify.com/album/0oHj3DnR0rpVXptWzN9V6o"
+      },
+      "artists": [
+        {
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147518,
+      "name": "Huilen In De Bioscoop",
+      "url": "https://open.spotify.com/track/0dYQzM1CKG4OVZmdm08rv8"
     },
     {
       "album": {
@@ -4677,6 +4749,24 @@
     },
     {
       "album": {
+        "name": "Incognito",
+        "url": "https://open.spotify.com/album/3c7BaxiV0tzo4VfYaiZXYP"
+      },
+      "artists": [
+        {
+          "name": "TOMMY",
+          "url": "https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130754,
+      "name": "Incognito",
+      "url": "https://open.spotify.com/track/2ec9C3JxRSpZDk8vnBM6VX"
+    },
+    {
+      "album": {
         "name": "Is Dit Geluk?",
         "url": "https://open.spotify.com/album/51dFIOwEKQqryRgGz1As6z"
       },
@@ -4868,7 +4958,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 142344,
       "name": "Kan Je Me Laten",
       "url": "https://open.spotify.com/track/0WiLq7KevSxwPjwPT6QDzt"
@@ -5136,7 +5226,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 260719,
       "name": "Kompas (feat. Big2) - Remix",
       "url": "https://open.spotify.com/track/5MVQPed9JWDb9m9to3GB0d"
@@ -5490,7 +5580,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 175250,
       "name": "Leef Voor Jou",
       "url": "https://open.spotify.com/track/26y0nE6nSpkFjT5Vvh2ikk"
@@ -5602,7 +5692,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 170938,
       "name": "Leuker Als Je High Bent",
       "url": "https://open.spotify.com/track/06U72hUZSEgYuqhAUUKsn7"
@@ -5740,7 +5830,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 181951,
       "name": "Maar Niet Met Jou Erbij",
       "url": "https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna"
@@ -5920,7 +6010,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 216546,
       "name": "Meisjes lopen sneller",
       "url": "https://open.spotify.com/track/3xgs6tyUGo7Q4aNMuZExWS"
@@ -6288,6 +6378,24 @@
       "duration_ms": 158604,
       "name": "Morgen Wordt Fantastisch",
       "url": "https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy"
+    },
+    {
+      "album": {
+        "name": "Life After Daddy",
+        "url": "https://open.spotify.com/album/4FabIeNicgzy4CJhVzIMzC"
+      },
+      "artists": [
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192505,
+      "name": "Naakt Zien",
+      "url": "https://open.spotify.com/track/7E7Qhgkd8iGXj4o8l87SGN"
     },
     {
       "album": {
@@ -7196,7 +7304,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 142264,
       "name": "Radar",
       "url": "https://open.spotify.com/track/7sPU3UDb9jjW3F9AYKlQD9"
@@ -7312,7 +7420,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 183518,
       "name": "Rock \u2018n Roll in Nederland",
       "url": "https://open.spotify.com/track/5M8nfeMKcqbl6oROJqxDgE"
@@ -7789,6 +7897,24 @@
     },
     {
       "album": {
+        "name": "Soms gaat de tijd zo snel",
+        "url": "https://open.spotify.com/album/2anvye5Ul8HSsufVusk8zQ"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175110,
+      "name": "Soms gaat de tijd zo snel",
+      "url": "https://open.spotify.com/track/3o20NBEBiwh7xB5ByLHzNh"
+    },
+    {
+      "album": {
         "name": "Sorry dat ik stoor",
         "url": "https://open.spotify.com/album/4d19JlNDJ2OwrGBWETU3rP"
       },
@@ -8104,6 +8230,24 @@
       "duration_ms": 205520,
       "name": "Stukje Van Mij",
       "url": "https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p"
+    },
+    {
+      "album": {
+        "name": "Sugardaddy",
+        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131796,
+      "name": "Sugardaddy",
+      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
     },
     {
       "album": {
@@ -8702,7 +8846,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 190602,
       "name": "veilig",
       "url": "https://open.spotify.com/track/6AA25bMKeaifeQtJssZhYz"
@@ -9046,6 +9190,24 @@
       "duration_ms": 163730,
       "name": "Voel Jij Dat Ook",
       "url": "https://open.spotify.com/track/52eFgkFoYcSk0r7nSN3ldb"
+    },
+    {
+      "album": {
+        "name": "Voelt Net Als Thuis",
+        "url": "https://open.spotify.com/album/5jsDE3G9Fapuc4LwKxOwnb"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Borelli",
+          "url": "https://open.spotify.com/artist/0vy5LMYxfUiYoSLcgomHOD"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171605,
+      "name": "Voelt Net Als Thuis",
+      "url": "https://open.spotify.com/track/6FqgSBX2kjJWWa5j1jrKKN"
     },
     {
       "album": {
@@ -9629,6 +9791,24 @@
     },
     {
       "album": {
+        "name": "Wees Niet Bang",
+        "url": "https://open.spotify.com/album/3wT5djJDPFupycW30g3lob"
+      },
+      "artists": [
+        {
+          "name": "Shary-An",
+          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202869,
+      "name": "Wees Niet Bang",
+      "url": "https://open.spotify.com/track/7jkWQ2e92jOyjjhj2ZwVem"
+    },
+    {
+      "album": {
         "name": "Wijze Woorden",
         "url": "https://open.spotify.com/album/0pOEH0NO9fj05LMjBAzEwG"
       },
@@ -10192,7 +10372,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 159000,
       "name": "\u00c9coutez-moi - NL",
       "url": "https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe"

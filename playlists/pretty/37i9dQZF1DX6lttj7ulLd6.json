@@ -1,29 +1,13 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 192990,
+  "num_followers": 193243,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTgyMWQ5OThiYmU4YzU4OGJkZWUxNTM1ODJkZWM4NTJhMzQ2YzIw",
+  "snapshot_id": "MCw1M2ZkYjYzOWU4ZGEyNTAxZDQ1MGY2ZGE2N2VjYjQ0MzI3YmU2YmFm",
   "tracks": [
-    {
-      "added_at": "2024-03-19 13:46:36",
-      "album": {
-        "name": "A Mother's Lullaby",
-        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 197125,
-      "name": "A Mother\u2019s Lullaby",
-      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
-    },
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 339826,
       "name": "Secret Affair",
       "url": "https://open.spotify.com/track/06gw3rpzTWZjqe0ff8y2kN"
+    },
+    {
+      "added_at": "2024-03-19 13:46:36",
+      "album": {
+        "name": "A Mother's Lullaby",
+        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 197125,
+      "name": "A Mother\u2019s Lullaby",
+      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -135,6 +135,22 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Where the Night Begins",
+      "url": "https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu"
+    },
+    {
+      "added_at": "2024-03-19 13:46:36",
+      "album": {
         "name": "citynights",
         "url": "https://open.spotify.com/album/4uYrJhj8oQGKm2UoocoMGF"
       },
@@ -151,18 +167,22 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
+        "name": "Double Vision",
+        "url": "https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL"
       },
       "artists": [
         {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+          "name": "Adam Hawley",
+          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
+        },
+        {
+          "name": "Marcus Anderson",
+          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
         }
       ],
-      "duration_ms": 277600,
-      "name": "Where the Night Begins",
-      "url": "https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu"
+      "duration_ms": 251013,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -199,22 +219,18 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
-        "name": "Double Vision",
-        "url": "https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL"
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE"
       },
       "artists": [
         {
-          "name": "Adam Hawley",
-          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
-        },
-        {
-          "name": "Marcus Anderson",
-          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 251013,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g"
+      "duration_ms": 267626,
+      "name": "Boneyizm",
+      "url": "https://open.spotify.com/track/4kUwH75A8Dc6PxA3Kl0Yif"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -231,22 +247,6 @@
       "duration_ms": 213813,
       "name": "Divine Morning",
       "url": "https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7"
-    },
-    {
-      "added_at": "2024-03-19 13:46:36",
-      "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 267626,
-      "name": "Boneyizm",
-      "url": "https://open.spotify.com/track/4kUwH75A8Dc6PxA3Kl0Yif"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
-        "name": "Porch Java",
-        "url": "https://open.spotify.com/album/4sM3uDXvdN0qZ3KIrtVGGY"
-      },
-      "artists": [
-        {
-          "name": "Delorme & Co",
-          "url": "https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W"
-        }
-      ],
-      "duration_ms": 215435,
-      "name": "Porch Java",
-      "url": "https://open.spotify.com/track/11m6UgxZF4ZfDQ50eN9bYs"
-    },
-    {
-      "added_at": "2024-03-19 13:46:36",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/5OUAQeFRS7Rg73FogwB0df"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 322306,
       "name": "In The City",
       "url": "https://open.spotify.com/track/5sjpxYrH0KVtDs6mWGbY7C"
+    },
+    {
+      "added_at": "2024-03-19 13:46:36",
+      "album": {
+        "name": "Porch Java",
+        "url": "https://open.spotify.com/album/4sM3uDXvdN0qZ3KIrtVGGY"
+      },
+      "artists": [
+        {
+          "name": "Delorme & Co",
+          "url": "https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W"
+        }
+      ],
+      "duration_ms": 215435,
+      "name": "Porch Java",
+      "url": "https://open.spotify.com/track/11m6UgxZF4ZfDQ50eN9bYs"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 256853,
-      "name": "If I Could Fly",
-      "url": "https://open.spotify.com/track/6ZrF3FEq8MQd1CN9MXTHqa"
-    },
-    {
-      "added_at": "2024-03-19 13:46:36",
-      "album": {
         "name": "Paks",
         "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
       },
@@ -547,6 +531,22 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 256853,
+      "name": "If I Could Fly",
+      "url": "https://open.spotify.com/track/6ZrF3FEq8MQd1CN9MXTHqa"
+    },
+    {
+      "added_at": "2024-03-19 13:46:36",
+      "album": {
         "name": "Forever, For Always, For Luther",
         "url": "https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 304453,
       "name": "Any Love",
       "url": "https://open.spotify.com/track/1uQnqFPN4Fzvn17DGX0eBj"
+    },
+    {
+      "added_at": "2024-03-19 13:46:36",
+      "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
+      },
+      "artists": [
+        {
+          "name": "Avenue Blue (Featuring Jeff Golub)",
+          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Always There (feat. Jeff Golub)",
+      "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -595,22 +611,6 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
-      },
-      "artists": [
-        {
-          "name": "Avenue Blue (Featuring Jeff Golub)",
-          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Always There (feat. Jeff Golub)",
-      "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
-    },
-    {
-      "added_at": "2024-03-19 13:46:36",
-      "album": {
         "name": "Love's Melody",
         "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
       },
@@ -623,6 +623,22 @@
       "duration_ms": 320733,
       "name": "Midnight At The Oasis",
       "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
+    },
+    {
+      "added_at": "2024-03-19 13:46:36",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 263960,
+      "name": "Pop's Cool Groove",
+      "url": "https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -643,22 +659,6 @@
       "duration_ms": 282666,
       "name": "Surrender (feat. Boney James)",
       "url": "https://open.spotify.com/track/3XS01xqHzkICimJBDwy0iA"
-    },
-    {
-      "added_at": "2024-03-19 13:46:36",
-      "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 263960,
-      "name": "Pop's Cool Groove",
-      "url": "https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -827,34 +827,18 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
-        "name": "Do not disturb",
-        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
       },
       "artists": [
         {
-          "name": "Matty Mel Jr",
-          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
         }
       ],
-      "duration_ms": 179250,
-      "name": "Do not disturb",
-      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
-    },
-    {
-      "added_at": "2024-03-19 13:46:36",
-      "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Can't Stop Now",
-      "url": "https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV"
+      "duration_ms": 233666,
+      "name": "Straight to the Heart",
+      "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -875,18 +859,34 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
       "artists": [
         {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
         }
       ],
-      "duration_ms": 233666,
-      "name": "Straight to the Heart",
-      "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
+      "duration_ms": 255160,
+      "name": "Can't Stop Now",
+      "url": "https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV"
+    },
+    {
+      "added_at": "2024-03-19 13:46:36",
+      "album": {
+        "name": "Do not disturb",
+        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
+      },
+      "artists": [
+        {
+          "name": "Matty Mel Jr",
+          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Do not disturb",
+      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
-        "name": "Euge Groove",
-        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 269573,
-      "name": "Vinyl",
-      "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
-    },
-    {
-      "added_at": "2024-03-19 13:46:36",
-      "album": {
         "name": "Force Field",
         "url": "https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
-        "name": "On Top Of Your Game",
-        "url": "https://open.spotify.com/album/5h0gY72fOLWScMTejDedln"
+        "name": "Euge Groove",
+        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
       },
       "artists": [
         {
-          "name": "Sweet Spot Lab",
-          "url": "https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At"
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
         }
       ],
-      "duration_ms": 166377,
-      "name": "On Top Of Your Game",
-      "url": "https://open.spotify.com/track/4vFLPCdcUNBoh0gNRreIhU"
+      "duration_ms": 269573,
+      "name": "Vinyl",
+      "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -971,6 +955,22 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
+        "name": "On Top Of Your Game",
+        "url": "https://open.spotify.com/album/5h0gY72fOLWScMTejDedln"
+      },
+      "artists": [
+        {
+          "name": "Sweet Spot Lab",
+          "url": "https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At"
+        }
+      ],
+      "duration_ms": 166377,
+      "name": "On Top Of Your Game",
+      "url": "https://open.spotify.com/track/4vFLPCdcUNBoh0gNRreIhU"
+    },
+    {
+      "added_at": "2024-03-19 13:46:36",
+      "album": {
         "name": "For Your Pleasure",
         "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 258398,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd"
-    },
-    {
-      "added_at": "2024-03-19 13:46:36",
-      "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "Saturday Cool",
-      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
-        "name": "Big Jon",
-        "url": "https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo"
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
       "artists": [
         {
-          "name": "Lou Lizza",
-          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
         }
       ],
-      "duration_ms": 230886,
-      "name": "Big Jon",
-      "url": "https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a"
+      "duration_ms": 277840,
+      "name": "Saturday Cool",
+      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -1067,6 +1051,22 @@
       "duration_ms": 279880,
       "name": "More Or Les Paul",
       "url": "https://open.spotify.com/track/3xOHBpfwg3oaRvgi6xZXCw"
+    },
+    {
+      "added_at": "2024-03-19 13:46:36",
+      "album": {
+        "name": "Big Jon",
+        "url": "https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo"
+      },
+      "artists": [
+        {
+          "name": "Lou Lizza",
+          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
+        }
+      ],
+      "duration_ms": 230886,
+      "name": "Big Jon",
+      "url": "https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Everett",
-          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
-        }
-      ],
-      "duration_ms": 244874,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
-    },
-    {
-      "added_at": "2024-03-19 13:46:36",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
       },
@@ -1179,6 +1163,38 @@
       "duration_ms": 332920,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN"
+    },
+    {
+      "added_at": "2024-03-19 13:46:36",
+      "album": {
+        "name": "Ready to Play",
+        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
+      },
+      "artists": [
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "Catnap",
+      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
+    },
+    {
+      "added_at": "2024-03-19 13:46:36",
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Everett",
+          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
+        }
+      ],
+      "duration_ms": 244874,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
-        "name": "Ready to Play",
-        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/3wQ4KYqdrJHqPq2yuuYVC9"
       },
       "artists": [
         {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
         }
       ],
-      "duration_ms": 303973,
-      "name": "Catnap",
-      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
+      "duration_ms": 318053,
+      "name": "Costa del Soul",
+      "url": "https://open.spotify.com/track/0pfYPKBNCIu7WPq293pRqG"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
-        "name": "It's Love",
-        "url": "https://open.spotify.com/album/3wQ4KYqdrJHqPq2yuuYVC9"
+        "name": "Jumpin' Off",
+        "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
       },
       "artists": [
         {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
         }
       ],
-      "duration_ms": 318053,
-      "name": "Costa del Soul",
-      "url": "https://open.spotify.com/track/0pfYPKBNCIu7WPq293pRqG"
+      "duration_ms": 325800,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
-        "name": "Jumpin' Off",
-        "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
+        "name": "Smooth Jazz Radio Hits Volume Two",
+        "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
       },
       "artists": [
         {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+          "name": "Gota",
+          "url": "https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ"
         }
       ],
-      "duration_ms": 325800,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
+      "duration_ms": 216293,
+      "name": "In The City Life",
+      "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
-        "name": "Smooth Jazz Radio Hits Volume Two",
-        "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/00D7sHveDqx8HwneqBVvq0"
       },
       "artists": [
         {
-          "name": "Gota",
-          "url": "https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ"
+          "name": "Boulevard Pacific",
+          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
         }
       ],
-      "duration_ms": 216293,
-      "name": "In The City Life",
-      "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
+      "duration_ms": 213946,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/7CezvnEL5FMOnbsRCgBiMy"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -1343,22 +1359,6 @@
       "duration_ms": 308346,
       "name": "Love To All",
       "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
-    },
-    {
-      "added_at": "2024-03-19 13:46:36",
-      "album": {
-        "name": "Beautiful",
-        "url": "https://open.spotify.com/album/00D7sHveDqx8HwneqBVvq0"
-      },
-      "artists": [
-        {
-          "name": "Boulevard Pacific",
-          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
-        }
-      ],
-      "duration_ms": 213946,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/7CezvnEL5FMOnbsRCgBiMy"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
+      },
+      "artists": [
+        {
+          "name": "Kim Pensyl",
+          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
+        }
+      ],
+      "duration_ms": 305026,
+      "name": "A Short Walk From Home",
+      "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
+    },
+    {
+      "added_at": "2024-03-19 13:46:36",
+      "album": {
         "name": "Brazil Chill",
         "url": "https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 322000,
       "name": "Brazil Chill",
       "url": "https://open.spotify.com/track/3UI2NlVimWCWOohTfyaP9v"
-    },
-    {
-      "added_at": "2024-03-19 13:46:36",
-      "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
-      },
-      "artists": [
-        {
-          "name": "Kim Pensyl",
-          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
-        }
-      ],
-      "duration_ms": 305026,
-      "name": "A Short Walk From Home",
-      "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
     },
     {
       "added_at": "2024-03-19 13:46:36",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-03-19 13:46:36",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 262666,
-      "name": "Lost and Found",
-      "url": "https://open.spotify.com/track/71cTTSVVkCmbIJ04Kl5jgg"
-    },
-    {
-      "added_at": "2024-03-19 13:46:36",
-      "album": {
         "name": "Peaceful Horizon",
         "url": "https://open.spotify.com/album/7yYreUchmftSbB7h0EkDC0"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 218375,
       "name": "Peaceful Horizon",
       "url": "https://open.spotify.com/track/6EkB8OluCOTk6ziNVm4Tpc"
+    },
+    {
+      "added_at": "2024-03-19 13:46:36",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 262666,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/71cTTSVVkCmbIJ04Kl5jgg"
     }
   ],
   "unique_name": "Smooth Jazz Chill",

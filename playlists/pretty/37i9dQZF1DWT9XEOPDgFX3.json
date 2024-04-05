@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Babehoven",
-  "num_followers": 93560,
+  "num_followers": 93614,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDcyY2ZiNzcxYTE0OGMyMjk0Mzk2MDhlMTlkNTc1ODYzNzNkZGY2",
+  "snapshot_id": "MCwxZThjYWM4NjU4ZDQxZjFiOGVjN2Y0NWFlMWFmODhjZmE4MTE0MWRj",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -480,9 +480,25 @@
           "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 243800,
+      "duration_ms": 239895,
       "name": "Mudroom",
       "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Milk Town / Mr. Carter",
+        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 77032,
+      "name": "Milk Town / Mr. Carter",
+      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -503,22 +519,6 @@
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Milk Town / Mr. Carter",
-        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
-      },
-      "artists": [
-        {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
-        }
-      ],
-      "duration_ms": 77032,
-      "name": "Milk Town / Mr. Carter",
-      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "SUGAR EP.",
-        "url": "https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 369105,
-      "name": "Dove",
-      "url": "https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Life Is",
         "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 188293,
       "name": "Life Is",
       "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "SUGAR EP.",
+        "url": "https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 369105,
+      "name": "Dove",
+      "url": "https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/6xCFqOoJGxMDOQR0JEx8ly"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/1B6EfeMzx4lgAFHSdlg3qf"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "The Ballad of Betty and Barney Hill",
         "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 196755,
       "name": "The Ballad of Betty and Barney Hill",
       "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 177104,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 177104,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "History Of A Feeling",
         "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 173426,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Either Way",
-        "url": "https://open.spotify.com/album/6xCFqOoJGxMDOQR0JEx8ly"
-      },
-      "artists": [
-        {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
-        }
-      ],
-      "duration_ms": 252986,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/1B6EfeMzx4lgAFHSdlg3qf"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Rumble Strip",
-        "url": "https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Rumble Strip",
-      "url": "https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Things Take Time, Take Time",
         "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 225632,
       "name": "Before You Gotta Go",
       "url": "https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Rumble Strip",
+        "url": "https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Rumble Strip",
+      "url": "https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Let The Radio Play",
         "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 209634,
       "name": "Let The Radio Play",
       "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Plum",
+        "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 264954,
+      "name": "Plum",
+      "url": "https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Holdup (with Claud)",
         "url": "https://open.spotify.com/album/4lqj5vbIr8AraiKAfmgZb9"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 156732,
       "name": "Holdup (with Claud)",
       "url": "https://open.spotify.com/track/22cA60EuodgZxyIIOyHaQ8"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Plum",
-        "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 264954,
-      "name": "Plum",
-      "url": "https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Ultrapure",
-        "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 177546,
-      "name": "Sink;Swim",
-      "url": "https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Ribcage",
         "url": "https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 247267,
       "name": "Spell",
       "url": "https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Ultrapure",
+        "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 177546,
+      "name": "Sink;Swim",
+      "url": "https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "I'm In Love",
-        "url": "https://open.spotify.com/album/2LxN7gXANSe2A8kZUIPZI7"
-      },
-      "artists": [
-        {
-          "name": "Slaughter Beach, Dog",
-          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
-        }
-      ],
-      "duration_ms": 202869,
-      "name": "I'm In Love",
-      "url": "https://open.spotify.com/track/5kGCnXbeNgKak05lfRFrll"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "glacier meadow",
         "url": "https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD"
       },
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Blue Raspberry",
-        "url": "https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj"
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/2LxN7gXANSe2A8kZUIPZI7"
       },
       "artists": [
         {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
         }
       ],
-      "duration_ms": 199045,
-      "name": "Drop Dead",
-      "url": "https://open.spotify.com/track/4WNetbhwSqOmlmEX6ym824"
+      "duration_ms": 202869,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/5kGCnXbeNgKak05lfRFrll"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Rare Feeling",
-        "url": "https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt"
+        "name": "Blue Raspberry",
+        "url": "https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj"
       },
       "artists": [
         {
-          "name": "Twain",
-          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
         }
       ],
-      "duration_ms": 245849,
-      "name": "Dear Mexico (Thank You for Joyce)",
-      "url": "https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H"
+      "duration_ms": 199045,
+      "name": "Drop Dead",
+      "url": "https://open.spotify.com/track/4WNetbhwSqOmlmEX6ym824"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1731,6 +1715,22 @@
       "duration_ms": 205230,
       "name": "unposted letters",
       "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Rare Feeling",
+        "url": "https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt"
+      },
+      "artists": [
+        {
+          "name": "Twain",
+          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
+        }
+      ],
+      "duration_ms": 245849,
+      "name": "Dear Mexico (Thank You for Joyce)",
+      "url": "https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "gr\u00e6",
-        "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 218413,
-      "name": "Polly",
-      "url": "https://open.spotify.com/track/6vN3Vd01CbXwsEeWFVR6tj"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "what we leave behind",
         "url": "https://open.spotify.com/album/0WXOsTUPDIhkcG9JzWnpVM"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 226258,
       "name": "The Solitude",
       "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "gr\u00e6",
+        "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 218413,
+      "name": "Polly",
+      "url": "https://open.spotify.com/track/6vN3Vd01CbXwsEeWFVR6tj"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2059,18 +2059,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "I'm Green",
-        "url": "https://open.spotify.com/album/1upKvbsQau0k852Ol079dD"
+        "name": "Blue Moon (with paris jackson)",
+        "url": "https://open.spotify.com/album/1kNrj1GRY8WziMDBaruSnU"
       },
       "artists": [
         {
-          "name": "Mali Velasquez",
-          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
+          "name": "Steinza",
+          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
+        },
+        {
+          "name": "paris jackson",
+          "url": "https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e"
         }
       ],
-      "duration_ms": 291587,
-      "name": "Clovers",
-      "url": "https://open.spotify.com/track/5k8oU9p71fIhYiTCPudwdh"
+      "duration_ms": 149680,
+      "name": "Blue Moon (with paris jackson)",
+      "url": "https://open.spotify.com/track/4u49em2HjO33qX3CkGCzNZ"
     }
   ],
   "unique_name": "Folk Arc",

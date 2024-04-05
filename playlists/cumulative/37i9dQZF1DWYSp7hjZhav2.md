@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-213 songs - 18 hr 39 min
+214 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [Pantheon](https://open.spotify.com/track/2JoOFFQnOG8LH01koNUE0w) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 4:32 | 2024-02-12 |  |
 | [Pantheon](https://open.spotify.com/track/2fY9O2PpELY5hubBbC2zEG) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Pantheon](https://open.spotify.com/album/6CCx2uI8l08YutD22C7BvT) | 4:32 | 2023-03-23 | 2024-01-05 |
 | [Perception](https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Perception](https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash) | 4:42 | 2024-02-12 |  |
-| [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 | 2024-02-12 |  |
+| [Pictures Of You](https://open.spotify.com/track/0QQBgAXdLm0hfk9aBJe97f) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 2:55 | 2024-03-29 |  |
+| [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 | 2024-02-12 | 2024-04-05 |
 | [Pictures Of You \- Cassian Remix](https://open.spotify.com/track/7KxCyR3pCUqH136EvCDMun) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 4:03 | 2024-03-29 |  |
 | [Point Of No Return](https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/3rtikOpy9VLFHFv79b2ZzQ) | 4:43 | 2023-11-27 |  |
 | [Point Of No Return](https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID) | 4:43 | 2023-03-23 | 2024-01-05 |

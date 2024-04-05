@@ -4,7 +4,7 @@
 
 > Explore a sprawling musical landscape.
 
-266 songs - 16 hr 47 min
+267 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Alright](https://open.spotify.com/track/2LDziiHJvA6pZHenEVFJYN) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Alright](https://open.spotify.com/album/4rB64RVhiH2LwFOBL22puJ) | 4:39 | 2022-05-02 | 2022-11-14 |
 | [Alright](https://open.spotify.com/track/7EqB4Si62qbT1P8Yf3ZPKH) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Kindly Now](https://open.spotify.com/album/2STN4lLvNNRsO0FuatKqVI) | 4:39 | 2022-05-02 |  |
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2022-11-17 |  |
-| [Autumn](https://open.spotify.com/track/3Vkk3IkuN6NrTkQDsiHThO) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Autumn](https://open.spotify.com/album/18BxkfsDIKf03nINEnbLWV) | 3:52 | 2021-10-08 |  |
+| [Autumn](https://open.spotify.com/track/1VzCTOiWkVlIAbqjmC1vyc) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [EP 1](https://open.spotify.com/album/7uJjmJXBZ2bdClstbgHE5F) | 3:52 | 2023-12-08 |  |
+| [Autumn](https://open.spotify.com/track/3Vkk3IkuN6NrTkQDsiHThO) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Autumn](https://open.spotify.com/album/18BxkfsDIKf03nINEnbLWV) | 3:52 | 2021-10-08 | 2024-04-05 |
 | [Be with You](https://open.spotify.com/track/0TdZYJHVlkv72EYuxaYt7X) | [Avid Dancer](https://open.spotify.com/artist/7x4bI6vTtMCONH8MVqI8WK) | [Be with You](https://open.spotify.com/album/5NSVz4Ew7Gx2fxE8VaJ5D5) | 3:47 | 2021-10-08 | 2022-07-29 |
 | [Be with You](https://open.spotify.com/track/4JjDupedpzidFpMurLSNc3) | [Avid Dancer](https://open.spotify.com/artist/7x4bI6vTtMCONH8MVqI8WK) | [Be with You](https://open.spotify.com/album/5mxMYzrudb8CkSds8gmqOl) | 3:47 | 2022-05-02 | 2022-11-18 |
 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 | 2022-04-13 |  |

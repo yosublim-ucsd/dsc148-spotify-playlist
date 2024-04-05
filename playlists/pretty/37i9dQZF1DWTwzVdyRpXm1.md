@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Diljit Dosanjh & Saweetie
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,785 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,069 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 89 | [Khutti](https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Khutti](https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z) | 2:12 |
 | 90 | [.45](https://open.spotify.com/track/4mym4dNc5XPEAXP7Orzq18) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [.45](https://open.spotify.com/album/6vG52FnBHzc61469A3yiBs) | 2:40 |
 
-Snapshot ID: `MCxiNWFhZTdlOTI3MmZlZjQ5YzhmZWViODkwMDg5OTk2NjA1YTY3NDBk`
+Snapshot ID: `MCwxNTVjOTE4NzVmZjhiMTQ4MTBhOTA2M2E3YmYwY2JiNWM4NTIwYTJh`

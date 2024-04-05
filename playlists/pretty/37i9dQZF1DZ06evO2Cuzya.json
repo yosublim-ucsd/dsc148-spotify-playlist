@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 70365,
+  "num_followers": 70420,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjA1MzJhYmNlMDYxZDIxNDM0ODg0ZGMyNTQzNzc3NTczNWQ5Nzc1",
+  "snapshot_id": "MCw2MmZkZTM3ZTVjMjE1NDA0MzE0NjM0OTU4YTZlNjYyODY3ZThlZGM5",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 160506,
-      "name": "minor",
-      "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
+      "duration_ms": 218440,
+      "name": "Long Sleeves",
+      "url": "https://open.spotify.com/track/3wIRxCIGmdxld4ZC6yShZ9"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 218440,
-      "name": "Long Sleeves",
-      "url": "https://open.spotify.com/track/3wIRxCIGmdxld4ZC6yShZ9"
+      "duration_ms": 160506,
+      "name": "minor",
+      "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
     },
     {
       "added_at": null,

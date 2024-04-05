@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 105729,
+  "num_followers": 105816,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjhhMjY1NDBmZDdkNTk3NGJiZTZkZGI3Yjg5MGM0MGRkNzVhNzk4",
+  "snapshot_id": "MCxmNzBmZWI1MmI1MmNkZjc0MGQ4MzczOTVkMzA4NzA3MWZlODFjNWQx",
   "tracks": [
     {
       "added_at": "2024-04-01 19:53:33",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-04-01 19:53:33",
       "album": {
-        "name": "Dancing Shoes",
-        "url": "https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz"
-      },
-      "artists": [
-        {
-          "name": "September",
-          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "Cry for You",
-      "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao"
-    },
-    {
-      "added_at": "2024-04-01 19:53:33",
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "added_at": "2024-04-01 19:53:33",
+      "album": {
+        "name": "Dancing Shoes",
+        "url": "https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz"
+      },
+      "artists": [
+        {
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "Cry for You",
+      "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao"
     },
     {
       "added_at": "2024-04-01 19:53:33",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-04-01 19:53:33",
       "album": {
-        "name": "Beauty Marks",
-        "url": "https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 204150,
-      "name": "Level Up",
-      "url": "https://open.spotify.com/track/40VqYKBAJP901tpuq6WMt7"
-    },
-    {
-      "added_at": "2024-04-01 19:53:33",
-      "album": {
         "name": "ARTPOP",
         "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 232666,
       "name": "G.U.Y.",
       "url": "https://open.spotify.com/track/4rYLpaNFzt6pkQnrCvVHUw"
+    },
+    {
+      "added_at": "2024-04-01 19:53:33",
+      "album": {
+        "name": "Beauty Marks",
+        "url": "https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 204150,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/40VqYKBAJP901tpuq6WMt7"
     },
     {
       "added_at": "2024-04-01 19:53:33",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-04-01 19:53:33",
       "album": {
-        "name": "Emotion (Deluxe Expanded Edition)",
-        "url": "https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 251327,
-      "name": "Run Away With Me",
-      "url": "https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO"
-    },
-    {
-      "added_at": "2024-04-01 19:53:33",
-      "album": {
         "name": "Demi",
         "url": "https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 233173,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT"
+    },
+    {
+      "added_at": "2024-04-01 19:53:33",
+      "album": {
+        "name": "Emotion (Deluxe Expanded Edition)",
+        "url": "https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 251327,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO"
     },
     {
       "added_at": "2024-04-01 19:53:33",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-04-01 19:53:33",
       "album": {
+        "name": "Welcome to the Dollhouse",
+        "url": "https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta"
+      },
+      "artists": [
+        {
+          "name": "Danity Kane",
+          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/4yHFxB8kzzeuNvoouR8N0N"
+    },
+    {
+      "added_at": "2024-04-01 19:53:33",
+      "album": {
         "name": "The Secret Life Of...",
         "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 239853,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
-    },
-    {
-      "added_at": "2024-04-01 19:53:33",
-      "album": {
-        "name": "Welcome to the Dollhouse",
-        "url": "https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta"
-      },
-      "artists": [
-        {
-          "name": "Danity Kane",
-          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
-        }
-      ],
-      "duration_ms": 244266,
-      "name": "Damaged",
-      "url": "https://open.spotify.com/track/4yHFxB8kzzeuNvoouR8N0N"
     },
     {
       "added_at": "2024-04-01 19:53:33",

@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1550697,
+  "num_followers": 1550864,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTg3ZGNjNzFiNjBiNTBhMDk1Y2MyNmE1NjYxYzAxZGQ5MmIyMzRh",
+  "snapshot_id": "MCxkNTQ2ZjcwYjIyZWQ0YzhjZDk1ODM2ZWEzODBmYzM5MmY2NzUyN2Yx",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Bloom At Night",
+        "url": "https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 199047,
+      "name": "Bloom At Night",
+      "url": "https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Over Again",
         "url": "https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 234312,
       "name": "Tighter (feat. Jalja) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/3PGvcGU10IzjiSA96A2GcO"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Bloom At Night",
-        "url": "https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 199047,
-      "name": "Bloom At Night",
-      "url": "https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Say Hello EP",
+        "url": "https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ"
+      },
+      "artists": [
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        },
+        {
+          "name": "Meliha",
+          "url": "https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5"
+        }
+      ],
+      "duration_ms": 207111,
+      "name": "Say Hello",
+      "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 286520,
       "name": "About Us (feat. EMME)",
       "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Say Hello EP",
-        "url": "https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ"
-      },
-      "artists": [
-        {
-          "name": "Enamour",
-          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
-        },
-        {
-          "name": "Meliha",
-          "url": "https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5"
-        }
-      ],
-      "duration_ms": 207111,
-      "name": "Say Hello",
-      "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1271,6 +1271,30 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "This Feeling (Yotto Remix)",
+        "url": "https://open.spotify.com/album/6Rub1KknGrXsGBPJK2mJqN"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 236078,
+      "name": "This Feeling - Yotto Remix",
+      "url": "https://open.spotify.com/track/5fZVPAWdFrPmqFZ4eZPjob"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Electric Feeling",
         "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
       },
@@ -1303,30 +1327,6 @@
       "duration_ms": 216795,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "This Feeling (Yotto Remix)",
-        "url": "https://open.spotify.com/album/6Rub1KknGrXsGBPJK2mJqN"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 236078,
-      "name": "This Feeling - Yotto Remix",
-      "url": "https://open.spotify.com/track/5fZVPAWdFrPmqFZ4eZPjob"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1467,30 +1467,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Skyscrapers (Hi-Lo Remix)",
-        "url": "https://open.spotify.com/album/5jhAOb0JdrZjlbfEl6BVPS"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        },
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 296368,
-      "name": "Skyscrapers - Hi-Lo Remix",
-      "url": "https://open.spotify.com/track/2g95XDCx4GqcaJPv7TTk8C"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "To the Sea",
         "url": "https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm"
       },
@@ -1511,6 +1487,30 @@
       "duration_ms": 452000,
       "name": "To the Sea - Einmusik Remix",
       "url": "https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Skyscrapers (Hi-Lo Remix)",
+        "url": "https://open.spotify.com/album/5jhAOb0JdrZjlbfEl6BVPS"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 296368,
+      "name": "Skyscrapers - Hi-Lo Remix",
+      "url": "https://open.spotify.com/track/2g95XDCx4GqcaJPv7TTk8C"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Yumi (edit)",
+        "url": "https://open.spotify.com/album/6Or1qZMDfcuXZyq0qceqsX"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "Yumi - edit",
+      "url": "https://open.spotify.com/track/6PK96Y20GrGeiU8yptYGfl"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Radiant",
         "url": "https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 452682,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Yumi (edit)",
-        "url": "https://open.spotify.com/album/6Or1qZMDfcuXZyq0qceqsX"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "Yumi - edit",
-      "url": "https://open.spotify.com/track/6PK96Y20GrGeiU8yptYGfl"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Rapture (with Robert Falcon)",
-        "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        },
-        {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Falling in Love",
         "url": "https://open.spotify.com/album/2Is9HWB1MtmHQUFkDIOGFt"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 217500,
       "name": "Falling in Love",
       "url": "https://open.spotify.com/track/4dmFo5VmijuePqQqgHvLHa"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Rapture (with Robert Falcon)",
+        "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1895,6 +1895,30 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Genesys II",
+        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        },
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 244130,
+      "name": "Consciousness - Eric Prydz Remix",
+      "url": "https://open.spotify.com/track/1pM05FAgX2lLp3NwpMY2vs"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Greece 2000",
         "url": "https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV"
       },
@@ -1919,8 +1943,8 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Freyja",
-        "url": "https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM"
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
       },
       "artists": [
         {
@@ -1928,25 +1952,9 @@
           "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 229959,
-      "name": "Freyja",
-      "url": "https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
+      "duration_ms": 258536,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1971,6 +1979,22 @@
       "duration_ms": 255991,
       "name": "Out Of Reach",
       "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2007,30 +2031,6 @@
       "duration_ms": 335409,
       "name": "The Little Mushroom That Got Away",
       "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ"
-      },
-      "artists": [
-        {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Cami Bear",
-          "url": "https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG"
-        }
-      ],
-      "duration_ms": 190199,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO"
     },
     {
       "added_at": "2024-03-29 04:00:00",

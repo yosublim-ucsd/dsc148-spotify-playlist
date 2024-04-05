@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
-  "num_followers": 132387,
+  "num_followers": 132401,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGEwYTE4YjhjOTNmY2JjNjE3MmY3ZmZmNGU4MjYyZTlkYTY3YTAx",
+  "snapshot_id": "MCwzMDQ4NGQ0NzI5ZjkzZjg5NmIzOWU0MDkyODgyZmViZDc1OGZmMGZj",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -503,22 +503,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "You're the One",
-        "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
+        "name": "Mount Royal",
+        "url": "https://open.spotify.com/album/10dyZoegG6vH1VMjWkb7Ji"
       },
       "artists": [
         {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Jason Isbell",
-          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+          "name": "Julian Lage & Chris Eldridge",
+          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
         }
       ],
-      "duration_ms": 219746,
-      "name": "Yet to Be (feat. Jason Isbell)",
-      "url": "https://open.spotify.com/track/6iHor3auKtisM4nmBmyGpE"
+      "duration_ms": 182293,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/0gIqzwso96i6SafJqcbgxO"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -539,18 +535,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Mount Royal",
-        "url": "https://open.spotify.com/album/10dyZoegG6vH1VMjWkb7Ji"
+        "name": "You're the One",
+        "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
       },
       "artists": [
         {
-          "name": "Julian Lage & Chris Eldridge",
-          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/0gIqzwso96i6SafJqcbgxO"
+      "duration_ms": 219746,
+      "name": "Yet to Be (feat. Jason Isbell)",
+      "url": "https://open.spotify.com/track/6iHor3auKtisM4nmBmyGpE"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+        "name": "Storyman",
+        "url": "https://open.spotify.com/album/25F6ItCZFGZ79LvZVhlDIm"
       },
       "artists": [
         {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
         }
       ],
-      "duration_ms": 420123,
-      "name": "Grow Together",
-      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
+      "duration_ms": 211160,
+      "name": "Play By Your Own Rules",
+      "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Storyman",
-        "url": "https://open.spotify.com/album/25F6ItCZFGZ79LvZVhlDIm"
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
       },
       "artists": [
         {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
         }
       ],
-      "duration_ms": 211160,
-      "name": "Play By Your Own Rules",
-      "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
+      "duration_ms": 420123,
+      "name": "Grow Together",
+      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
-      },
-      "artists": [
-        {
-          "name": "The Earls Of Leicester",
-          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
-        }
-      ],
-      "duration_ms": 152440,
-      "name": "Salty Dog Blues - Live",
-      "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "For Your Love",
         "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 306440,
       "name": "For Your Love",
       "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
+      },
+      "artists": [
+        {
+          "name": "The Earls Of Leicester",
+          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "Salty Dog Blues - Live",
+      "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Radio John: Songs of John Hartford",
+        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "In Tall Buildings",
+      "url": "https://open.spotify.com/track/7cSbzBovpSOfe19Qbn3qWK"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "The More I Learn",
         "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Radio John: Songs of John Hartford",
-        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
+        "name": "The Light We Bring",
+        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
       },
       "artists": [
         {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
         }
       ],
-      "duration_ms": 208026,
-      "name": "In Tall Buildings",
-      "url": "https://open.spotify.com/track/7cSbzBovpSOfe19Qbn3qWK"
+      "duration_ms": 207319,
+      "name": "The Heart Wants",
+      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1387,22 +1403,6 @@
       "duration_ms": 263662,
       "name": "Sweet Spot",
       "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "The Light We Bring",
-        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
-      },
-      "artists": [
-        {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
-        }
-      ],
-      "duration_ms": 207319,
-      "name": "The Heart Wants",
-      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Something Higher",
+        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Winter's Gone",
+      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Jubilation",
         "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
       },
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Something Higher",
-        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
+        "name": "I'll Blame It on the Rain",
+        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
       },
       "artists": [
         {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+          "name": "Hammertowne",
+          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
         }
       ],
-      "duration_ms": 207600,
-      "name": "Winter's Gone",
-      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
+      "duration_ms": 223586,
+      "name": "I'll Blame It on the Rain",
+      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1663,22 +1679,6 @@
       "duration_ms": 217453,
       "name": "Arkansas Bound",
       "url": "https://open.spotify.com/track/1R3sWcinAXhF6hPKrErYTz"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "I'll Blame It on the Rain",
-        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
-      },
-      "artists": [
-        {
-          "name": "Hammertowne",
-          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "I'll Blame It on the Rain",
-      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Small Towns",
-        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
+        "name": "Bozeman (Clawhammer Version)",
+        "url": "https://open.spotify.com/album/4qBsC1P0Wsc3nTKWDj3gf2"
       },
       "artists": [
         {
-          "name": "Stillhouse Junkies",
-          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
+          "name": "Nick Dumas",
+          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
         }
       ],
-      "duration_ms": 228186,
-      "name": "Colorado Bound",
-      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
+      "duration_ms": 256293,
+      "name": "Bozeman - Clawhammer Version",
+      "url": "https://open.spotify.com/track/2OKPFjbjURGrx8fSzKk8uM"
     }
   ],
   "unique_name": "Grass Roots",

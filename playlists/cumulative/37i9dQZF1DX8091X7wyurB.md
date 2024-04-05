@@ -4,15 +4,16 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-328 songs - 1 day 6 hr 58 min
+329 songs - 1 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Able](https://open.spotify.com/track/4NDtKpWb0IpALyrOdZAeWW) | [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Able](https://open.spotify.com/album/6KqJjlg8GqLgZwuME7CbR4) | 3:36 | 2022-06-30 | 2022-10-04 |
 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 | 2022-06-30 | 2023-09-01 |
 | [Adonai](https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Adonai](https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D) | 4:09 | 2023-06-16 |  |
-| [Adore You](https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Adore You](https://open.spotify.com/album/5GV2IQqxEByoiovHXo3FsK) | 2:46 | 2024-03-08 |  |
+| [Adore You](https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Adore You](https://open.spotify.com/album/5GV2IQqxEByoiovHXo3FsK) | 2:46 | 2024-03-08 | 2024-04-05 |
 | [Adura](https://open.spotify.com/track/3mpeIYgtnY2QrjJp0s3G4D) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Adura](https://open.spotify.com/album/2W4BAkrYRCQ6YjUDnJKw7B) | 8:01 | 2023-04-07 | 2023-12-22 |
+| [Adura](https://open.spotify.com/track/5SOPZYCcIa4eaOJvGM4bQs) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Adura](https://open.spotify.com/album/2tKSDcB912OB8pXwN6doCz) | 8:01 | 2024-02-16 |  |
 | [Afurum Gi Nanya](https://open.spotify.com/track/55hhlxMF4pUKCzQzSaOSai) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Tryphena](https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub) | [Afurum Gi Nanya](https://open.spotify.com/album/5MoKsBnpO108u2NAtwXTae) | 2:19 | 2023-03-03 | 2023-07-07 |
 | [Again](https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 6:14 | 2023-10-06 |  |
 | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE) | 4:33 | 2023-06-09 | 2023-06-19 |

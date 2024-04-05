@@ -2,7 +2,7 @@
 
 ### [Bollywood Mush](https://open.spotify.com/playlist/37i9dQZF1DXdpQPPZq3F7n)
 
-> Let these songs be the background score to your love story\. Cover \- Kabir Singh
+> Let these songs be the background score to your love story\. Cover \- Teri Baaton Mein Aisa Uljha Jiya
 
 215 songs - 15 hr 8 min
 

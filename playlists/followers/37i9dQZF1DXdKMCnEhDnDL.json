@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 481884,
+  "2024-04-05": 481931,
   "date_first_scraped": "2023-02-25",
   "description": "De beste Nederlandse hits van vroeger en nu. Cover: MEAU",
   "name": "Beste van NL",
@@ -911,7 +911,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 229466,
       "name": "Daar Gaat Ze",
       "url": "https://open.spotify.com/track/2vFzC766RC2m36ywFyj09S"
@@ -1865,6 +1865,24 @@
       "duration_ms": 138053,
       "name": "Houden Van Mij",
       "url": "https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc"
+    },
+    {
+      "album": {
+        "name": "The Indien",
+        "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
+      },
+      "artists": [
+        {
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200640,
+      "name": "How Many Nights",
+      "url": "https://open.spotify.com/track/565PkWWdrqFITixrqoNSRi"
     },
     {
       "album": {
@@ -3380,6 +3398,24 @@
     },
     {
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/2mDFaJRa8HHbUbWusiq3DF"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227440,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/07uuo1yEND3oinbFZnYOvx"
+    },
+    {
+      "album": {
         "name": "Sowieso Overhoop",
         "url": "https://open.spotify.com/album/6jvrpKhBOCFrEqArSj1EeE"
       },
@@ -3717,7 +3753,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 169848,
       "name": "Trots Op Haar",
       "url": "https://open.spotify.com/track/5Ak0hJNb5chvknl5OY7xnB"

@@ -6291,6 +6291,24 @@
     },
     {
       "album": {
+        "name": "Call Me Up",
+        "url": "https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO"
+      },
+      "artists": [
+        {
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161168,
+      "name": "Call Me Up",
+      "url": "https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A"
+    },
+    {
+      "album": {
         "name": "Call Me Your Hope",
         "url": "https://open.spotify.com/album/123sa4JxBBfMjnHqnrm1Kp"
       },
@@ -25194,7 +25212,7 @@
     {
       "album": {
         "name": "Never Get It Right",
-        "url": "https://open.spotify.com/album/1LVnxRugTrMRHEQxKqRrMT"
+        "url": "https://open.spotify.com/album/0Qyv3Qh4YBUpEep2Lil3ZS"
       },
       "artists": [
         {
@@ -25205,6 +25223,24 @@
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201853,
+      "name": "Never Get It Right",
+      "url": "https://open.spotify.com/track/0OuDodKllEo0z7COb8Pnph"
+    },
+    {
+      "album": {
+        "name": "Never Get It Right",
+        "url": "https://open.spotify.com/album/1LVnxRugTrMRHEQxKqRrMT"
+      },
+      "artists": [
+        {
+          "name": "Connie Campsie",
+          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-05",
       "duration_ms": 201853,
       "name": "Never Get It Right",
       "url": "https://open.spotify.com/track/5sfcsarWqncOJ5vi34aAXz"

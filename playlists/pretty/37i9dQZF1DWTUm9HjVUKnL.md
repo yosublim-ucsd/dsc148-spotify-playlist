@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,613 likes - 932 songs - 2 day 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,623 likes - 932 songs - 2 day 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -941,4 +941,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 931 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 932 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCw2ZTYzOTBiYjVmZDE2ZjcwMDBjMGJiZTk3YTRkMDJjZGM4NDk4MWE2`
+Snapshot ID: `MCwwMzhlZmY1MzRjMzE2YzQ3MmNlZTI1MjY2YjVhNTI5NjY2Mjc4ZWE5`

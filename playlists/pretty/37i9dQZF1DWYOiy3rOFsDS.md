@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance a la antigüita con Ángela Aguilar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,746 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,869 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,18 +79,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 69 | [Tal Vez, Quizá](https://open.spotify.com/track/0sNTrlPwP2CXiMCsiQDIeW) | [David Cavazos](https://open.spotify.com/artist/1dsX2yN51RAijy5uceP5dA) | [Tal Vez, Quizá](https://open.spotify.com/album/6QTKYA5LOTyMveLR38pg0Y) | 4:36 |
 | 70 | [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Solo Boleros](https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD) | 2:58 |
 | 71 | [Me Vuelves Loca](https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Me Vuelves Loca](https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi) | 4:28 |
-| 72 | [Bésame mucho](https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame mucho](https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW) | 4:04 |
-| 73 | [Adiós Amor](https://open.spotify.com/track/23KAto4gDqUxFqTtpqtH9m) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Más Pandora Que Nunca](https://open.spotify.com/album/7J8LJUlBFJxlCfRNJp6d6d) | 3:24 |
+| 72 | [Adiós Amor](https://open.spotify.com/track/23KAto4gDqUxFqTtpqtH9m) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Más Pandora Que Nunca](https://open.spotify.com/album/7J8LJUlBFJxlCfRNJp6d6d) | 3:24 |
+| 73 | [Bésame mucho](https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame mucho](https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW) | 4:04 |
 | 74 | [Este Terco Corazón \- En Vivo Los Estudios Churubusco México DF/2011](https://open.spotify.com/track/0zWa5MVujd2PUiqRnXxTmU) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Acústico En Vivo](https://open.spotify.com/album/21W89hohyAUqNiLMKGYiZn) | 4:32 |
 | 75 | [Tengo](https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP) | [Tania Matus](https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF) | [Tengo](https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8) | 4:08 |
 | 76 | [Para Que Pides Perdon \(Bonus Track\)](https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM) | [Los Tri\-O](https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC) | [Nuestro Primer Disco / Nuestro Amor](https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG) | 3:29 |
 | 77 | [Tu Camisa](https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd) | [Tu Camisa](https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV) | 3:08 |
 | 78 | [La Copa Rota](https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Copa Rota](https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM) | 3:09 |
-| 79 | [En la Orilla del Mar](https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 2:45 |
-| 80 | [Contigo aprendí](https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El palacio de las flores](https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg) | 4:19 |
+| 79 | [Contigo aprendí](https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El palacio de las flores](https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg) | 4:19 |
+| 80 | [En la Orilla del Mar](https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 2:45 |
 | 81 | [Aún Me Sigo Encontrando](https://open.spotify.com/track/7Mmrk9FtkiKLpBMietviFf) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Aún Me Sigo Encontrando](https://open.spotify.com/album/1a72IUAiD277nR5ygMzPgv) | 3:09 |
-| 82 | [Nada personal \(A dueto con Ana Torroja\)](https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN) | [Armando Manzanero Duetos 2](https://open.spotify.com/artist/3ynESLbVr0i6wxyRMMF08A) | [Armando Manzanero Duetos 2](https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl) | 3:12 |
-| 83 | [Te matan los celos](https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [Orígenes: El Bolero Vol.3](https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t) | 3:30 |
+| 82 | [Te matan los celos](https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [Orígenes: El Bolero Vol.3](https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t) | 3:30 |
+| 83 | [Nada personal \(A dueto con Ana Torroja\)](https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN) | [Armando Manzanero Duetos 2](https://open.spotify.com/artist/3ynESLbVr0i6wxyRMMF08A) | [Armando Manzanero Duetos 2](https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl) | 3:12 |
 | 84 | [Te Ofrezco](https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Te Ofrezco](https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY) | 3:26 |
 | 85 | [Ódiame](https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb), [Michelle Rodriguez](https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb) | [Ódiame](https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt) | 3:13 |
 | 86 | [Tiempo al Tiempo](https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 99 | [Por Debajo de la Mesa](https://open.spotify.com/track/3DhB2He4Zi1TQe8YqJ3167) | [Carlos Ponce](https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV) | [Boleros](https://open.spotify.com/album/58MCZcbUtpCZO2AxzN6ft2) | 3:17 |
 | 100 | [Noche No Te Vayas](https://open.spotify.com/track/6qUvXLmgxFLxWpK4zitltx) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:50 |
 
-Snapshot ID: `MCwwYzE3ZmU2MjFmNDM3YWZjOTIyZTdjODU5ZWUwMDc0YjY0NzdhNWZk`
+Snapshot ID: `MCxjZGI1NjFlMmYyNzYzYjY4YTMzNTY4ZjVlNGJlNDUyOTE1MTk5OTlh`

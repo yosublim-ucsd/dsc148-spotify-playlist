@@ -1,12 +1,12 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: James Blake",
-  "num_followers": 38397,
+  "num_followers": 38467,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2NjYTUyNGE5NzAxMDM4NDUzNWNiYTgzMzc0NDkwNGQ5YTM1MDlk",
+  "snapshot_id": "MCxiM2U4YjQ0OWRkODAzNTRmNWNhNWVmYzk5MWE1Yjc4OWNjYjhiNjJh",
   "tracks": [
     {
       "added_at": "2023-12-08 21:38:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Kiasmos",
+        "url": "https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+        }
+      ],
+      "duration_ms": 360705,
+      "name": "Looped",
+      "url": "https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Lockjaw",
         "url": "https://open.spotify.com/album/5I0kS30hvtI7a1LFEhaPve"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 254037,
       "name": "This Song Is Not About A Girl",
       "url": "https://open.spotify.com/track/0Z7GNrvgEj3iiIxxPtRwIe"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Kiasmos",
-        "url": "https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d"
-      },
-      "artists": [
-        {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
-        }
-      ],
-      "duration_ms": 360705,
-      "name": "Looped",
-      "url": "https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Life of Leisure",
-        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 168680,
-      "name": "New Theory",
-      "url": "https://open.spotify.com/track/230SHXjjyWkT7Zorx6hsiy"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Flume",
         "url": "https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Life of Leisure",
+        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 168680,
+      "name": "New Theory",
+      "url": "https://open.spotify.com/track/230SHXjjyWkT7Zorx6hsiy"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Freetown Sound",
         "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
       },
@@ -679,6 +679,26 @@
       "duration_ms": 225747,
       "name": "Best to You",
       "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        },
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 224026,
+      "name": "1998",
+      "url": "https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -711,22 +731,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "1998",
-        "url": "https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i"
+        "name": "TAPE TWO",
+        "url": "https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy"
       },
       "artists": [
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        },
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
         }
       ],
-      "duration_ms": 224026,
-      "name": "1998",
-      "url": "https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK"
+      "duration_ms": 222792,
+      "name": "I Heard",
+      "url": "https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -743,22 +759,6 @@
       "duration_ms": 308741,
       "name": "Gimme Some",
       "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "TAPE TWO",
-        "url": "https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy"
-      },
-      "artists": [
-        {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
-        }
-      ],
-      "duration_ms": 222792,
-      "name": "I Heard",
-      "url": "https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Odyssey / Sonne",
-        "url": "https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 290201,
-      "name": "Recovery",
-      "url": "https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "See Mystery Lights: Remixes & B-Sides",
         "url": "https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Yore",
-        "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
+        "name": "Odyssey / Sonne",
+        "url": "https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp"
       },
       "artists": [
         {
-          "name": "Evenings",
-          "url": "https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y"
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 172252,
-      "name": "Babe",
-      "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
+      "duration_ms": 290201,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 216923,
       "name": "California Girls",
       "url": "https://open.spotify.com/track/4m2ZICy5YEx76B5BVFCDsg"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Yore",
+        "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
+      },
+      "artists": [
+        {
+          "name": "Evenings",
+          "url": "https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "Babe",
+      "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "DJ-KiCKS (Wolf + Lamb vs Soul Clap) [DJ Mix]",
-        "url": "https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        }
-      ],
-      "duration_ms": 117967,
-      "name": "Can't See What Is Burning There - Mixed",
-      "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Warm Water (Snakehips Remix)",
         "url": "https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "DJ-KiCKS (Wolf + Lamb vs Soul Clap) [DJ Mix]",
+        "url": "https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "duration_ms": 117967,
+      "name": "Can't See What Is Burning There - Mixed",
+      "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 239013,
       "name": "Dissolve Me",
       "url": "https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
-      },
-      "artists": [
-        {
-          "name": "Hercules & Love Affair",
-          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
-        }
-      ],
-      "duration_ms": 345560,
-      "name": "Blind - Radio Edit",
-      "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        }
+      ],
+      "duration_ms": 345560,
+      "name": "Blind - Radio Edit",
+      "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Nothing",
         "url": "https://open.spotify.com/album/7lyFqWFcHcQCk8YXJo6hiK"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 312000,
       "name": "Nothing - Original Mix",
       "url": "https://open.spotify.com/track/273poy5BHtv5YFedkWIqwj"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Joli Mai",
-        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 226479,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1235,6 +1219,22 @@
       "duration_ms": 251356,
       "name": "Marilyn",
       "url": "https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Joli Mai",
+        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 226479,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1301,6 +1301,22 @@
       "url": "https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T"
     },
     {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Psychic Chasms",
+        "url": "https://open.spotify.com/album/6orePWE5tyJN7FGR7jzmik"
+      },
+      "artists": [
+        {
+          "name": "Neon Indian",
+          "url": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
+        }
+      ],
+      "duration_ms": 242706,
+      "name": "Deadbeat Summer",
+      "url": "https://open.spotify.com/track/0oSuRJjTO7DTA1ltDuQUzM"
+    },
+    {
       "added_at": "2024-02-29 17:58:01",
       "album": {
         "name": "XXYYXX",
@@ -1319,38 +1335,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Just EP",
-        "url": "https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 372555,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Psychic Chasms",
-        "url": "https://open.spotify.com/album/6orePWE5tyJN7FGR7jzmik"
-      },
-      "artists": [
-        {
-          "name": "Neon Indian",
-          "url": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
-        }
-      ],
-      "duration_ms": 242706,
-      "name": "Deadbeat Summer",
-      "url": "https://open.spotify.com/track/0oSuRJjTO7DTA1ltDuQUzM"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 217120,
       "name": "Life Round Here",
       "url": "https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Just EP",
+        "url": "https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 372555,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "SBTRKT (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "Roses Gabor",
-          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "Pharaohs",
-      "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/5ulxwV032s3dUxd1sXLxm0"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 211194,
       "name": "Psylla",
       "url": "https://open.spotify.com/track/4XCpDE4pLTkkQ0kudqBLdS"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "SBTRKT (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Roses Gabor",
+          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "Pharaohs",
+      "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
     },
     {
       "added_at": "2023-12-08 21:38:00",

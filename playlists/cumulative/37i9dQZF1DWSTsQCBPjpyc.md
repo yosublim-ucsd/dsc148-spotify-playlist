@@ -4,7 +4,7 @@
 
 > Blues meets funk\. Cover: Eric Gales
 
-85 songs - 5 hr 49 min
+86 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Meet Me in Chicago](https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:45 | 2020-12-01 |  |
 | [Nasty Habits](https://open.spotify.com/track/2psM3gc6ZkCyTZdZHzqcmV) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Exception To The Rule](https://open.spotify.com/album/5FxJK4mJFKdK9u9sCJG19b) | 4:00 | 2020-12-01 |  |
 | [Never Giving Up on You](https://open.spotify.com/track/1EKcUQUFKDjULNdBs74Sco) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Never Giving Up on You](https://open.spotify.com/album/0mhW46PwYVHV1ZXfUGMDXm) | 3:07 | 2022-01-21 |  |
-| [Night Train](https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 3:48 | 2020-12-01 |  |
+| [Night Train](https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 3:48 | 2020-12-01 | 2024-04-05 |
+| [Night Train](https://open.spotify.com/track/5fdbVNMOamFwCPJRqO49S2) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/5c0pSc8G1C8RciCf7xHvwY) | 3:48 | 2020-12-01 |  |
 | [Phone Booth](https://open.spotify.com/track/3uOs9LzMSrkvqKj0fWyiiP) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [Heavy Picks\-The Robert Cray Band Collection](https://open.spotify.com/album/4vxRqmFB4Tp4zXYV2HITXI) | 3:29 | 2020-12-01 |  |
 | [Playing On Me](https://open.spotify.com/track/1iLqQUd6H6qN0FzKxDYXaf) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [I Wanna Get Funky](https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6) | 3:23 | 2020-12-01 | 2023-05-20 |
 | [Pots And Pans](https://open.spotify.com/track/2P9jpTryQV7mu7ufOryj59) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Shine Bright](https://open.spotify.com/album/5yP8HnU8eGBDjRN6GxOgVh) | 4:33 | 2020-12-01 |  |

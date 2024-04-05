@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 22709,
+  "2024-04-05": 22710,
   "date_first_scraped": "2022-09-17",
   "description": "Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href=\"spotify:artist:3HRSdDvPAE54ocmaq0JRrJ\">Camilla Magli</a>",
   "name": "RADAR Italia",
@@ -2609,6 +2609,28 @@
       "duration_ms": 183599,
       "name": "Vorrei che fosse odio",
       "url": "https://open.spotify.com/track/7F5OZLcNPOJHdQ3a9ld96C"
+    },
+    {
+      "album": {
+        "name": "MUNICIPIO V :(",
+        "url": "https://open.spotify.com/album/3gd1YoXOGmZ6cKPzB2ZRYm"
+      },
+      "artists": [
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
+        {
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "ZAINI DI TEMU (2\u20ac)",
+      "url": "https://open.spotify.com/track/3TyaUgaI2aDzeHR4yovRiq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl"

@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2928895,
+  "num_followers": 2928968,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGY1YjhlYmExZTVhNDZkYjAyNmE5ODNiMmRkNWFmZjQ3YWE2MTYz",
+  "snapshot_id": "MCxlYWU4MGMxMDU0YjU5NGMxMjQ4MmExNmNkZWZiMmNhYzFlNmYzMjc5",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Look At Me!",
-        "url": "https://open.spotify.com/album/3cyyJALrHc8LawnQNFYRWL"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 126345,
-      "name": "Look At Me!",
-      "url": "https://open.spotify.com/track/7floNISpH8VF4z4459Qo18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Riot",
         "url": "https://open.spotify.com/album/0G3uruzIfqEMKmuI8vGZ42"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 78680,
       "name": "Riot",
       "url": "https://open.spotify.com/track/4aOOExMBUyxKnEYb39SrTg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Look At Me!",
+        "url": "https://open.spotify.com/album/3cyyJALrHc8LawnQNFYRWL"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 126345,
+      "name": "Look At Me!",
+      "url": "https://open.spotify.com/track/7floNISpH8VF4z4459Qo18"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "? (Deluxe)",
-        "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 104600,
-      "name": "A GHETTO CHRISTMAS CAROL",
-      "url": "https://open.spotify.com/track/5aZhp4FuKlrLz7gfJlBtcR"
+      "duration_ms": 137173,
+      "name": "Looking for a Star",
+      "url": "https://open.spotify.com/track/1B3TX5FbmcVROMv2riOwyE"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
       "duration_ms": 166032,
       "name": "Triumph",
       "url": "https://open.spotify.com/track/3arQDLbkZnujJVfhoyEDlM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 137173,
-      "name": "Looking for a Star",
-      "url": "https://open.spotify.com/track/1B3TX5FbmcVROMv2riOwyE"
     },
     {
       "added_at": null,
@@ -883,6 +867,22 @@
       "duration_ms": 77600,
       "name": "Boost!",
       "url": "https://open.spotify.com/track/455IYy22hKJXgEwgownVqT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOOK AT ME: THE ALBUM",
+        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "King Of The Dead",
+      "url": "https://open.spotify.com/track/46OkOaarmTsAQQFfZSsruW"
     }
   ],
   "unique_name": "This Is XXXTENTACION",

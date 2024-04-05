@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 102797,
+  "2024-04-05": 102898,
   "date_first_scraped": "2021-12-28",
   "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Yaisel LM",
   "name": "Rep\u00fablica Dembow",
@@ -305,6 +305,28 @@
       "duration_ms": 144672,
       "name": "Agu\u00e1ntala",
       "url": "https://open.spotify.com/track/0yTv8zIpgEdmqvPAteE2OY"
+    },
+    {
+      "album": {
+        "name": "Al Paso",
+        "url": "https://open.spotify.com/album/4RxGKKLygE1HzhJvLI632Z"
+      },
+      "artists": [
+        {
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
+        },
+        {
+          "name": "Pio el titoki",
+          "url": "https://open.spotify.com/artist/2yIqmykK6KOTqpqg0kLS6y"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104594,
+      "name": "Al Paso",
+      "url": "https://open.spotify.com/track/4cFcMa9cJ3ZfNLifHRLKHh"
     },
     {
       "album": {
@@ -623,6 +645,32 @@
       "duration_ms": 196013,
       "name": "Banda de Camion",
       "url": "https://open.spotify.com/track/2Ew7SW6TFwh4ddOhF38gi3"
+    },
+    {
+      "album": {
+        "name": "Batelo",
+        "url": "https://open.spotify.com/album/3ked2LkfPrNH3PF27vzxAQ"
+      },
+      "artists": [
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        },
+        {
+          "name": "Jhayseven",
+          "url": "https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd"
+        },
+        {
+          "name": "Yeral El De Lo Palo",
+          "url": "https://open.spotify.com/artist/0gNBwt2gBwViwnZKRYoPJb"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113326,
+      "name": "Batelo",
+      "url": "https://open.spotify.com/track/2x1gbQZtAfM0UDOLZSF8uR"
     },
     {
       "album": {
@@ -1885,6 +1933,24 @@
       "duration_ms": 148088,
       "name": "Dale un Boton",
       "url": "https://open.spotify.com/track/7wfEodzHNkYkzvbfrjrVMy"
+    },
+    {
+      "album": {
+        "name": "Dame Chapa",
+        "url": "https://open.spotify.com/album/4rmOdsJ3ciU5mVIYt87I3i"
+      },
+      "artists": [
+        {
+          "name": "Tato el X5",
+          "url": "https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103142,
+      "name": "Dame Chapa",
+      "url": "https://open.spotify.com/track/0UKMhBNesk10SKIruI3xue"
     },
     {
       "album": {
@@ -3472,6 +3538,24 @@
     },
     {
       "album": {
+        "name": "Entone",
+        "url": "https://open.spotify.com/album/6OoM9afwahIrEG2N3LNJAB"
+      },
+      "artists": [
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102722,
+      "name": "Entone",
+      "url": "https://open.spotify.com/track/5dkVCKoLV0uR1ihoPCXgKN"
+    },
+    {
+      "album": {
         "name": "Esa Malondra",
         "url": "https://open.spotify.com/album/2JKNjEpPqoN9MQE2S5mqsY"
       },
@@ -4185,7 +4269,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 151967,
       "name": "Humo Diario",
       "url": "https://open.spotify.com/track/4dheDXk4C3KXFrarxyLhvb"
@@ -8496,6 +8580,24 @@
     },
     {
       "album": {
+        "name": "Que La Choque (En Vivo)",
+        "url": "https://open.spotify.com/album/01Jp01iSwEkw9ZHKHZfYb9"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208980,
+      "name": "Que La Choque - En Vivo",
+      "url": "https://open.spotify.com/track/2a8XCaVa2S81Uef4umFJAK"
+    },
+    {
+      "album": {
         "name": "Que Me Guaye",
         "url": "https://open.spotify.com/album/1RAJEuDgknWPi754pgwi4M"
       },
@@ -10735,6 +10837,24 @@
       "duration_ms": 196684,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/1p2r2wD0ysSk7o63HgSg8T"
+    },
+    {
+      "album": {
+        "name": "Tiguere DK (2X1)",
+        "url": "https://open.spotify.com/album/5gYOY0JtvnvCESzsqyFfFb"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101496,
+      "name": "Tiguere DK - 2X1",
+      "url": "https://open.spotify.com/track/43j4OLE5Evo8qZZCr0Mker"
     },
     {
       "album": {

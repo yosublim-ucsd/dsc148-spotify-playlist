@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 47476,
+  "num_followers": 47486,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzgxOGE4NjEyODIwOGQ1OGRjODY5YWI0MDkxM2JiMjlkMTZlMTUx",
+  "snapshot_id": "MCwzNTRlOGUwMmFiOGFmZjUzYzU0MWU1Y2I1YjFmZmUxY2QyZjUyNmVj",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
+        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+        }
+      ],
+      "duration_ms": 162573,
+      "name": "Kilometro 11",
+      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "Mano a mano",
         "url": "https://open.spotify.com/album/5qeGWTgeMnjCSa28z2Ki9y"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 144866,
       "name": "Canto al Cresp\u00edn",
       "url": "https://open.spotify.com/track/0EGMfCkZ251JssY5acfmbV"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
-        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Mi\u00f1o",
-          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
-        }
-      ],
-      "duration_ms": 162573,
-      "name": "Kilometro 11",
-      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -959,18 +959,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Tierra Colorada en el Teatro Col\u00f3n: Chango Spasiuk en Concierto",
-        "url": "https://open.spotify.com/album/3iTwMKOnbPJvE4SH12yj3s"
+        "name": "Eik\u00e9! - Entrar en el alma",
+        "url": "https://open.spotify.com/album/1cNTV1xuWtGY0J6hWTimjP"
       },
       "artists": [
         {
           "name": "Chango Spasiuk",
           "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        },
+        {
+          "name": "Jacques Morelenbaum",
+          "url": "https://open.spotify.com/artist/7L1GdQNvBnvKltqr3HQchx"
         }
       ],
-      "duration_ms": 288866,
-      "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
-      "url": "https://open.spotify.com/track/3VNpX2bB43qkJGutZ65rff"
+      "duration_ms": 302419,
+      "name": "Mi pueblo, mi casa, la soledad",
+      "url": "https://open.spotify.com/track/2Svc7x1VqoBLhWwY8guJ0p"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1099,22 +1103,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Eik\u00e9! - Entrar en el alma",
-        "url": "https://open.spotify.com/album/1cNTV1xuWtGY0J6hWTimjP"
+        "name": "Tierra Colorada en el Teatro Col\u00f3n: Chango Spasiuk en Concierto",
+        "url": "https://open.spotify.com/album/3iTwMKOnbPJvE4SH12yj3s"
       },
       "artists": [
         {
           "name": "Chango Spasiuk",
           "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
-        },
-        {
-          "name": "Jacques Morelenbaum",
-          "url": "https://open.spotify.com/artist/7L1GdQNvBnvKltqr3HQchx"
         }
       ],
-      "duration_ms": 302419,
-      "name": "Mi pueblo, mi casa, la soledad",
-      "url": "https://open.spotify.com/track/2Svc7x1VqoBLhWwY8guJ0p"
+      "duration_ms": 288866,
+      "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
+      "url": "https://open.spotify.com/track/3VNpX2bB43qkJGutZ65rff"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+        }
+      ],
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
         "name": "12 A\u00f1os Con el Chamam\u00e9",
         "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 183220,
       "name": "El Gallo Negro",
       "url": "https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
-        }
-      ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Andando",
-        "url": "https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ"
-      },
-      "artists": [
-        {
-          "name": "Litoral Tag\u00fce",
-          "url": "https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "General Madariaga",
-      "url": "https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Noche de Tormenta",
         "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 192042,
       "name": "La Leyenda de la Brasita de Fuego",
       "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Andando",
+        "url": "https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ"
+      },
+      "artists": [
+        {
+          "name": "Litoral Tag\u00fce",
+          "url": "https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "General Madariaga",
+      "url": "https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Fito Ledesma",
-          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
-        }
-      ],
-      "duration_ms": 120720,
-      "name": "Jineteando",
-      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Con Estilo Mbaret\u00e9",
         "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 474053,
       "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
       "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Fito Ledesma",
+          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
+        }
+      ],
+      "duration_ms": 120720,
+      "name": "Jineteando",
+      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

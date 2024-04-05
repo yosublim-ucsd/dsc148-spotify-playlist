@@ -2,7 +2,7 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:3HRSdDvPAE54ocmaq0JRrJ">Camilla Magli</a>
+> Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:24oVOFAARWAYUb1LaedbI0">Icy Subzero</a>
 
 134 songs - 6 hr 28 min
 

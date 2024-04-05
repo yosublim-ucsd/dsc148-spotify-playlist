@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 92551,
+  "num_followers": 92572,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzYxNDBmMjhjOWE3ODBmZTE2ZjBmYjY2NDcxMzEwN2Q5MDRjYzJm",
+  "snapshot_id": "MCwyODkwMDRiMzg4ZWZkMGE4YTZhYzliNDI2MjU2MGI2NmE5NzYyYzZl",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/2y2pzedHjln9MbTHCq99qP"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 263372,
-      "name": "Take The World",
-      "url": "https://open.spotify.com/track/1XU8WnwGs6oqpt1qicvw34"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Love? Songs",
         "url": "https://open.spotify.com/album/4SzzC6T3TX9kSUB0UpXDvb"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 189600,
       "name": "Fire",
       "url": "https://open.spotify.com/track/3vbtO7zDgu9VSUO5NyFwK9"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2y2pzedHjln9MbTHCq99qP"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 263372,
+      "name": "Take The World",
+      "url": "https://open.spotify.com/track/1XU8WnwGs6oqpt1qicvw34"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 216315,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Mighty Refuge",
         "url": "https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 216315,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Dragons",
         "url": "https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Dreaming in Electric Blue",
-        "url": "https://open.spotify.com/album/6EojMTIcdHKZUesfXcm04U"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 192005,
-      "name": "Dreaming in Electric Blue",
-      "url": "https://open.spotify.com/track/680DQctfdFDsuO0Dt1QV3a"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 266036,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Dreaming in Electric Blue",
+        "url": "https://open.spotify.com/album/6EojMTIcdHKZUesfXcm04U"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "duration_ms": 192005,
+      "name": "Dreaming in Electric Blue",
+      "url": "https://open.spotify.com/track/680DQctfdFDsuO0Dt1QV3a"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Oh Dreamer",
-        "url": "https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei"
-      },
-      "artists": [
-        {
-          "name": "The Brilliance",
-          "url": "https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e"
-        }
-      ],
-      "duration_ms": 204440,
-      "name": "Oh Dreamer",
-      "url": "https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Hold to the Light",
         "url": "https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 183720,
       "name": "Glow",
       "url": "https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Oh Dreamer",
+        "url": "https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei"
+      },
+      "artists": [
+        {
+          "name": "The Brilliance",
+          "url": "https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Oh Dreamer",
+      "url": "https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Volume II",
-        "url": "https://open.spotify.com/album/3AnhIErjnYikodOSJXn7wH"
-      },
-      "artists": [
-        {
-          "name": "Deeper Well",
-          "url": "https://open.spotify.com/artist/2PeVKtJXHIrrQmJXD7ju7l"
-        },
-        {
-          "name": "Wesley Randolph Eader",
-          "url": "https://open.spotify.com/artist/5Qn7uUdL2vnUFvdngB2gxN"
-        }
-      ],
-      "duration_ms": 308883,
-      "name": "Suffering Servant",
-      "url": "https://open.spotify.com/track/6wcTnA9oBuaQIB3Ke0Sh9X"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "The One Where I Talk To God",
         "url": "https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 205101,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Volume II",
+        "url": "https://open.spotify.com/album/3AnhIErjnYikodOSJXn7wH"
+      },
+      "artists": [
+        {
+          "name": "Deeper Well",
+          "url": "https://open.spotify.com/artist/2PeVKtJXHIrrQmJXD7ju7l"
+        },
+        {
+          "name": "Wesley Randolph Eader",
+          "url": "https://open.spotify.com/artist/5Qn7uUdL2vnUFvdngB2gxN"
+        }
+      ],
+      "duration_ms": 308883,
+      "name": "Suffering Servant",
+      "url": "https://open.spotify.com/track/6wcTnA9oBuaQIB3Ke0Sh9X"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Autumn Love",
-        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
-      },
-      "artists": [
-        {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
-        }
-      ],
-      "duration_ms": 295120,
-      "name": "Autumn Love",
-      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Songs from the Valley",
         "url": "https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Power Over Me",
-        "url": "https://open.spotify.com/album/30wxjIWeV2Q7SkzsYpngCi"
+        "name": "Autumn Love",
+        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
       },
       "artists": [
         {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
         }
       ],
-      "duration_ms": 172088,
-      "name": "Power Over Me",
-      "url": "https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h"
+      "duration_ms": 295120,
+      "name": "Autumn Love",
+      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1091,6 +1075,22 @@
       "duration_ms": 177633,
       "name": "Dawned On Me",
       "url": "https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Power Over Me",
+        "url": "https://open.spotify.com/album/30wxjIWeV2Q7SkzsYpngCi"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 172088,
+      "name": "Power Over Me",
+      "url": "https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h"
     },
     {
       "added_at": "2020-09-04 04:02:00",

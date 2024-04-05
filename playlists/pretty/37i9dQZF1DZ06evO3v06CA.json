@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 192711,
+  "num_followers": 192757,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjNjODQzOGJiMjI4NDU5MDYzZmYxMTY1MzcyMjc2ZGVhZjdlYTRl",
+  "snapshot_id": "MCxmOWYwODFmNzIwZjk3MzNmNzdiMTQ1OWFkNjNiNDc5YjFmNzAyZDQ2",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Willie Nelson The Collection",
+        "url": "https://open.spotify.com/album/4QQfWSR8uMbTye3EjCAea2"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/2GyH5rvdnfkjzsTFaWrrov"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 247000,
       "name": "American Remains",
       "url": "https://open.spotify.com/track/4REjaHRPmVb7btssqChJSy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Willie Nelson The Collection",
-        "url": "https://open.spotify.com/album/4QQfWSR8uMbTye3EjCAea2"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "On the Road Again",
-      "url": "https://open.spotify.com/track/2GyH5rvdnfkjzsTFaWrrov"
     },
     {
       "added_at": null,
@@ -335,6 +335,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 29843,
+      "name": "SMOKE HOUR II",
+      "url": "https://open.spotify.com/track/5tInFhbFRLTM4rFu6yVSJA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 192426,
       "name": "Silver Stallion",
       "url": "https://open.spotify.com/track/6ivUoajqXRNVIyEGhRkucw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 29843,
-      "name": "SMOKE HOUR II",
-      "url": "https://open.spotify.com/track/5tInFhbFRLTM4rFu6yVSJA"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 228160,
-      "name": "Against the Wind",
-      "url": "https://open.spotify.com/track/3Q3R4fUAI7Lz1PEowFjK11"
+      "duration_ms": 167213,
+      "name": "Big River",
+      "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
     },
     {
       "added_at": null,
@@ -679,6 +679,38 @@
       "duration_ms": 230033,
       "name": "California Sober (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highwayman",
+        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 228160,
+      "name": "Against the Wind",
+      "url": "https://open.spotify.com/track/3Q3R4fUAI7Lz1PEowFjK11"
     },
     {
       "added_at": null,
@@ -1003,26 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's What Makes the World Go Around",
-        "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 197861,
-      "name": "That's What Makes The World Go Around",
-      "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To All The Girls...",
         "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
       },
@@ -1039,6 +1051,26 @@
       "duration_ms": 278653,
       "name": "Have You Ever Seen the Rain (feat. Paula Nelson)",
       "url": "https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's What Makes the World Go Around",
+        "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 197861,
+      "name": "That's What Makes The World Go Around",
+      "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
     },
     {
       "added_at": null,
@@ -1395,8 +1427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
       },
       "artists": [
         {
@@ -1404,29 +1436,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 230933,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/7iyd0aOJ2J54hENgLeGxCk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tuskegee (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 270573,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
+      "duration_ms": 146109,
+      "name": "Hello Walls",
+      "url": "https://open.spotify.com/track/27hpjHYx6duzBH99XW7ENn"
     }
   ],
   "unique_name": "This Is Willie Nelson",

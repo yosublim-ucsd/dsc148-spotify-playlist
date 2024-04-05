@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1970s that will make you dance all summer long!",
-  "num_followers": 207415,
+  "num_followers": 207634,
   "original_name": "Summer Hits of the 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjg0MTNhNzNlNmZlNDQwMzQxNGM2ZjQ0ZGI5N2IxNjRkYWM3NzYw",
+  "snapshot_id": "MCw4N2UzOTU3OGJhNDJlOGZlNTUwMzYyNWM3YzdlM2Q5NDRhNGU5M2U3",
   "tracks": [
     {
       "added_at": "2024-03-22 15:16:12",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "Signed, Sealed And Delivered",
-        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
-      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 243933,
       "name": "Take A Chance On Me",
       "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "Stranger In Town",
-        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Old Time Rock & Roll",
-      "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "The Joker",
         "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 264503,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "Stranger In Town",
+        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Old Time Rock & Roll",
+      "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "We Are Family - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 216906,
       "name": "Summer Nights - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "We Are Family - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
+        "name": "Hooked On A Feeling - 40th Anniversary Collection",
+        "url": "https://open.spotify.com/album/12UILuDVbIIjLZhcRBNcOJ"
+      },
+      "artists": [
+        {
+          "name": "Blue Swede",
+          "url": "https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp"
+        },
+        {
+          "name": "Bj\u00f6rn Skifs",
+          "url": "https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Hooked On A Feeling",
+      "url": "https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
         "name": "Back Stabbers",
         "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 296493,
       "name": "Somebody To Love - Remastered 2011",
       "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
-        "name": "Hooked On A Feeling - 40th Anniversary Collection",
-        "url": "https://open.spotify.com/album/12UILuDVbIIjLZhcRBNcOJ"
-      },
-      "artists": [
-        {
-          "name": "Blue Swede",
-          "url": "https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp"
-        },
-        {
-          "name": "Bj\u00f6rn Skifs",
-          "url": "https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Hooked On A Feeling",
-      "url": "https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY"
+      "duration_ms": 255600,
+      "name": "Fat Bottomed Girls - Remastered 2011",
+      "url": "https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3"
     }
   ],
   "unique_name": "Summer Hits of the 70s",

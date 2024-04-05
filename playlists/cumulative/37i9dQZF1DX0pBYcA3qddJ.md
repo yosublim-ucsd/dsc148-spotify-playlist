@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-688 songs - 1 day 22 hr 23 min
+689 songs - 1 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,7 @@
 | [No\. 1, Von fremden Ländern und Menschen](https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Vladimir Horowitz](https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq) | [Schumann: Kinderszenen; Arabesque; Fantasie; Träumerei](https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2) | 1:33 | 2022-10-20 |  |
 | [Nocturne \- piano at home ver.](https://open.spotify.com/track/1rYFbk115enHzhmesbTh15) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Nocturne \(piano at home ver.\)](https://open.spotify.com/album/3Ro9buqMb0i8rcryaGkqwG) | 3:06 | 2023-10-24 | 2024-01-31 |
 | [Nocturne \- piano at home ver.](https://open.spotify.com/track/7wqIhKekPO8Cx1lmlQXB3q) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Nocturne \(piano at home ver.\)](https://open.spotify.com/album/5NTb05kZMHRIWIx5eI9JXu) | 3:06 | 2023-10-24 | 2023-10-26 |
-| [Nocturnes op.3](https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT) | 2:34 | 2022-10-20 |  |
+| [Nocturnes op.3](https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT) | 2:34 | 2022-10-20 | 2024-04-05 |
 | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo) | 2:32 | 2024-02-08 |  |
 | [nowhere](https://open.spotify.com/track/4KIO1h4ocFMHoR29rhtwvc) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Nightfall](https://open.spotify.com/album/1UzrZ7OPtsiDqnyY3zbq3U) | 4:02 | 2024-02-08 |  |
 | [offshore](https://open.spotify.com/track/6sXJHN2YrlEtmhgXyjDp7u) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [offshore](https://open.spotify.com/album/2FYMP9FOs7du0tHHFFpwyt) | 8:04 | 2023-01-17 | 2023-02-08 |
@@ -548,6 +548,7 @@
 | [Turbines/Pigs \- Live at Bush Hall](https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Live at Bush Hall](https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW) | 9:46 | 2023-03-23 | 2023-08-23 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-10-20 | 2022-12-14 |
 | [Two Hearts](https://open.spotify.com/track/5Y65gREADmqP7wGn4rOPCJ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/4FM62Z8aXRnYi3Z6mCLgnE) | 4:06 | 2023-11-16 | 2024-01-21 |
+| [Two Hearts](https://open.spotify.com/track/6NwseBBU7N5ng39DvnSAdA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 4:06 | 2024-03-07 |  |
 | [Tárrega: 涙](https://open.spotify.com/track/3hp9Ue2ZQSPe9KKdT1InrO) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Kiyoshi Shomura](https://open.spotify.com/artist/5T92pu2YFgCPzV64j3EHwB) | [ノスタルジー \~郷愁のショーロ](https://open.spotify.com/album/4Uxsj7kQ2QKMT8xr29YhNT) | 2:06 | 2022-10-20 | 2022-11-23 |
 | [UNICORN](https://open.spotify.com/track/0DgGervwg1jBfFNFn7vKao) | [Nanaco Sato](https://open.spotify.com/artist/5jBW0pDTtDdHdYQnQu8iIN), [Toru Okada](https://open.spotify.com/artist/6u3WQgfTby0E2R6nnqWLqO), [Yusuke Sato](https://open.spotify.com/artist/6ekst7TqSc5t6qan4yEt0n) | [UNICORN](https://open.spotify.com/album/6wLYM2M4RLKsXSbcoR3NHe) | 3:27 | 2024-02-13 | 2024-02-28 |
 | [UNICORN](https://open.spotify.com/track/44MRKShx562b6moPwz1wI8) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33), [Toru Okada](https://open.spotify.com/artist/6u3WQgfTby0E2R6nnqWLqO), [佐藤優介](https://open.spotify.com/artist/48l1ZXH0Liagpd4Cqovx7L) | [UNICORN](https://open.spotify.com/album/2xUmiIIjIVGoCwLpyh8zRV) | 3:27 | 2024-02-13 | 2024-02-15 |

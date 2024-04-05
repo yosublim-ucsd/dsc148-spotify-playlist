@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 1142006,
+  "2024-04-05": 1142054,
   "date_first_scraped": "2019-07-30",
   "description": "Lorde has risen / Charli & Addison are screaming / Ryan x Beyonc\u00e9!!!!!",
   "name": "Lorem",
@@ -3533,6 +3533,24 @@
       "duration_ms": 177400,
       "name": "A\u00e7a\u00ed Bowl",
       "url": "https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk"
+    },
+    {
+      "album": {
+        "name": "Club classics / B2b",
+        "url": "https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178579,
+      "name": "B2b",
+      "url": "https://open.spotify.com/track/6tYGrpUyqB4yao5lAs3AR4"
     },
     {
       "album": {
@@ -21024,6 +21042,24 @@
     },
     {
       "album": {
+        "name": "I Hate You In The Morning",
+        "url": "https://open.spotify.com/album/5uz2vIWV9OWEP72WPQOTPX"
+      },
+      "artists": [
+        {
+          "name": "Otha",
+          "url": "https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134720,
+      "name": "I Hate You In The Morning",
+      "url": "https://open.spotify.com/track/1wb6Q8C37X3rJHSrgYCdOv"
+    },
+    {
+      "album": {
         "name": "I Hate You So Much",
         "url": "https://open.spotify.com/album/712HIhRNFIlZxdG1iVmDGJ"
       },
@@ -22797,10 +22833,28 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 160440,
       "name": "Intergalactic Janet",
       "url": "https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87"
+    },
+    {
+      "album": {
+        "name": "Intergalactic Janet",
+        "url": "https://open.spotify.com/album/7zu5604lPvQjVBERSdwrTe"
+      },
+      "artists": [
+        {
+          "name": "Ley Soul",
+          "url": "https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160440,
+      "name": "Intergalactic Janet",
+      "url": "https://open.spotify.com/track/7zgEoBci3rKmEkLdsZ8ZKJ"
     },
     {
       "album": {

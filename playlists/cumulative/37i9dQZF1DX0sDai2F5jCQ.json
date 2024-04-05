@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Hip-Hop's hottest from Australia, New Zealand and beyond. Cover: Future, Metro Boomin",
+  "description": "Hip-Hop's hottest from Australia, New Zealand and beyond. Cover: Doja Cat",
   "name": "A1",
   "tracks": [
     {
@@ -148,6 +148,32 @@
       "duration_ms": 144390,
       "name": "500lbs",
       "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
+    },
+    {
+      "album": {
+        "name": "86Sentra",
+        "url": "https://open.spotify.com/album/654CmOOF8AzNbGXzdQPWR6"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96009,
+      "name": "86Sentra",
+      "url": "https://open.spotify.com/track/0CBPxBZNCCBC5k1eBRVgYH"
     },
     {
       "album": {
@@ -2826,6 +2852,24 @@
       "duration_ms": 192195,
       "name": "Okay",
       "url": "https://open.spotify.com/track/0VJXWgw0GWsprapvlpbuyu"
+    },
+    {
+      "album": {
+        "name": "OKLOSER",
+        "url": "https://open.spotify.com/album/6Dp4fwNoZD6Sum7PEheLrJ"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169053,
+      "name": "OKLOSER",
+      "url": "https://open.spotify.com/track/3EM5ZPDSe1JjSztumpsc5n"
     },
     {
       "album": {

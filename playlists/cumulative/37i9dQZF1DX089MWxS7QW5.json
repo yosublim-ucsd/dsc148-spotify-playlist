@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: dori)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Jiselle)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -438,7 +438,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 204240,
       "name": "and you (Feat. ZICO)",
       "url": "https://open.spotify.com/track/5r3VFyq4KrdCeRNUDtGfJq"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 216330,
       "name": "Better",
       "url": "https://open.spotify.com/track/6a5DPLmFyHypY8VcsL8O7L"
@@ -1831,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "Frame Narrative",
+        "url": "https://open.spotify.com/album/7auICUiN0Fwsk0egwzzF4D"
+      },
+      "artists": [
+        {
+          "name": "SO HYUN",
+          "url": "https://open.spotify.com/artist/5VLiLdWwqGX5eyXqog2le1"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198491,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/48uFYEit9rEVqraiPON5Hm"
+    },
+    {
+      "album": {
         "name": "Everytime",
         "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
       },
@@ -2212,7 +2230,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 200904,
       "name": "From Now",
       "url": "https://open.spotify.com/track/6q2yYNfgrcNfW3OZh8WQ5Z"
@@ -2800,7 +2818,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 172937,
       "name": "I Deserve Happiness (Feat. Minjeong)",
       "url": "https://open.spotify.com/track/4VLze3IkEPkUhHWqqgqBL5"
@@ -3232,6 +3250,28 @@
       "duration_ms": 200641,
       "name": "LEMON (Feat. SOLE, MINO)",
       "url": "https://open.spotify.com/track/1NZDEgM9f7j5l447FAcHYq"
+    },
+    {
+      "album": {
+        "name": "Lemonade (feat. Woo)",
+        "url": "https://open.spotify.com/album/4sSmFOHTd175JCHtrnOVdW"
+      },
+      "artists": [
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198440,
+      "name": "Lemonade (feat. Woo)",
+      "url": "https://open.spotify.com/track/2FbJYBCv0fyEHNDdrVoMiL"
     },
     {
       "album": {
@@ -4746,7 +4786,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 218360,
       "name": "something",
       "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
@@ -4848,7 +4888,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 192013,
       "name": "Start To Shine (feat. Gaeko)",
       "url": "https://open.spotify.com/track/1KD8juWhiZFJv0gcSpZVSQ"
@@ -5174,7 +5214,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 315122,
       "name": "This Moment Here With You",
       "url": "https://open.spotify.com/track/6iSrr1z0D85A0hLKkjkCvH"
@@ -5496,7 +5536,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 197644,
       "name": "UUU",
       "url": "https://open.spotify.com/track/5c4c8g4QFDaNv3NHogfokl"

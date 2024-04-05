@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,348 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,342 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 22 | [La Despedida](https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 2:54 |
 | 23 | [El Abuelo](https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Abuelo](https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1) | 3:07 |
 | 24 | [Nadie Es Eterno](https://open.spotify.com/track/4CpP8xMTH6vrlMkfCryXvM) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w) | 2:55 |
-| 25 | [Te Vas Ángel Mío \- Live At Nuevo León México/2009](https://open.spotify.com/track/3a7sMVCjNMQ5B1cE3XXub8) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Don Ramiro Cavazos](https://open.spotify.com/artist/563FHcEebqpITZ6Vu5sw6Y) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 3:13 |
-| 26 | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/track/5pERaeSVsez6b98PIIBsN2) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT) | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/album/3PTy9kHj8C3TRja73LjVd2) | 3:27 |
+| 25 | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/track/5pERaeSVsez6b98PIIBsN2) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT) | [Trece Cielos \(Con Cerveza Victoria\)](https://open.spotify.com/album/3PTy9kHj8C3TRja73LjVd2) | 3:27 |
+| 26 | [Te Vas Ángel Mío \- Live At Nuevo León México/2009](https://open.spotify.com/track/3a7sMVCjNMQ5B1cE3XXub8) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Don Ramiro Cavazos](https://open.spotify.com/artist/563FHcEebqpITZ6Vu5sw6Y) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 3:13 |
 | 27 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 |
 | 28 | [El corrido de Miguel Rivera \- Inspirado en "Coco"](https://open.spotify.com/track/1WGdFps5A9Xi3bXNAIFUIp) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Coco \(Banda Sonora Original en Español\)](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 3:57 |
 | 29 | [Un Alma En Pena](https://open.spotify.com/track/6LUsEtfv5RsUmJdhY2VNsS) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 2:22 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 64 | [Chéni \(Miedo\)](https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [Chéni \(Miedo\)](https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA) | 3:48 |
 | 65 | [Calaveritas](https://open.spotify.com/track/1BmNqkmLmBqIU5ToPdbnnw) | [Ana Tijoux](https://open.spotify.com/artist/75myVgZbKQkWpyHAlLUCmG), [Celso Piña](https://open.spotify.com/artist/6w2g4b1Tn0ltVEiO0D3PEM) | [Calaveritas](https://open.spotify.com/album/5fpncon9GYSQJ9EdaoQXQN) | 4:20 |
 | 66 | [Silencio \- Spotify Session](https://open.spotify.com/track/2LtKvokRMG1bayE9PcVGwu) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade \(Spotify Session\)](https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj) | 4:32 |
-| 67 | [La Muerte](https://open.spotify.com/track/4t2qP9p4TLBEA0fcBCel2o) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Grandes Exitos](https://open.spotify.com/album/518olO2EkNkGlhoITehClz) | 2:37 |
-| 68 | [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 |
-| 69 | [Se le apagó la luz \- Versión Básico](https://open.spotify.com/track/5SuMtg9alskh2TE554OMBO) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Basico](https://open.spotify.com/album/33SeVIcoXAiWcqGhQaEZFF) | 4:36 |
+| 67 | [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 |
+| 68 | [Se le apagó la luz \- Versión Básico](https://open.spotify.com/track/5SuMtg9alskh2TE554OMBO) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Basico](https://open.spotify.com/album/33SeVIcoXAiWcqGhQaEZFF) | 4:36 |
+| 69 | [La Muerte](https://open.spotify.com/track/4t2qP9p4TLBEA0fcBCel2o) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Grandes Exitos](https://open.spotify.com/album/518olO2EkNkGlhoITehClz) | 2:37 |
 | 70 | [Piensa en Mí](https://open.spotify.com/track/7MVtPthvWIoBGF8a7o0wT4) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Día de Muertos](https://open.spotify.com/album/1C2o4vm5RIybZbstafidKh) | 3:12 |
 | 71 | [Gracias A La Vida \- Remasterizado 1983](https://open.spotify.com/track/0lq5LDe4TgtZX3BQUwtYVD) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Alfonsina Y El Mar \(Remasterizado 1983\)](https://open.spotify.com/album/4n8smL6EFarc0we2I7trAP) | 4:05 |
 | 72 | [Ruego](https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Ruego](https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 99 | [Pan de Muertos](https://open.spotify.com/track/1ZlZR2fjNZAwcRJ5NNvVcp) | [CARLOS AZCUAGA](https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g) | [Canciones de Día de Muertos](https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ) | 3:52 |
 | 100 | [Morir Soñando](https://open.spotify.com/track/63dcYPuE3PEauC0t480FKn) | [Mariachi Nuevo Tecalitlán](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Dia de los Muertos \(Con Mariachi\)](https://open.spotify.com/album/2jhrvg3VaRCvGwEvhLLsmw) | 3:40 |
 
-Snapshot ID: `MCxjMzI5MTM5ZGY2MzlkNGVlZjZlNTg5MTQ2OGFiMGZiMzRiNzgzNmEy`
+Snapshot ID: `MCw2NzNhYTg3ZmEwMTI4ZmNiMTgzNTcwMTIwM2RiNmVkOTRiMjZkNDA1`

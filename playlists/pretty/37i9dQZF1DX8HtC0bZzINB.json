@@ -1,12 +1,12 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 87169,
+  "num_followers": 87215,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmI4OTI2OTAwYzA3M2E1MGUzYmMzNDhiNzgzYTgxMTRjNjY5NTY5",
+  "snapshot_id": "MCxiYTM4NWQ0ZDMxYTU5ZjE0YzAzZGU3MjU5YWZmODNkY2Q5YzdlYjlh",
   "tracks": [
     {
       "added_at": "2023-08-31 21:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "ZENGBEJ",
+        "url": "https://open.spotify.com/album/5YO5YKavkoBZDA5tTZbsm7"
+      },
+      "artists": [
+        {
+          "name": "Zen-G",
+          "url": "https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "DELAL\u00ca",
+      "url": "https://open.spotify.com/track/3xoEwdWzY9YfEtiEi3dfKo"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "Ta\u015ftan",
         "url": "https://open.spotify.com/album/5OLMyZAcZTSmOPHnzeMKwc"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 176927,
       "name": "Ta\u015ftan",
       "url": "https://open.spotify.com/track/4I2jzj5QIk4q0XWs1QcTnq"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "ZENGBEJ",
-        "url": "https://open.spotify.com/album/5YO5YKavkoBZDA5tTZbsm7"
-      },
-      "artists": [
-        {
-          "name": "Zen-G",
-          "url": "https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "DELAL\u00ca",
-      "url": "https://open.spotify.com/track/3xoEwdWzY9YfEtiEi3dfKo"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -847,22 +847,18 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "Baby (feat. Murda)",
-        "url": "https://open.spotify.com/album/6DzDwkBzDSoCkCYsTsPzTO"
+        "name": "BABY B\u0130RTANEM",
+        "url": "https://open.spotify.com/album/6fyc11DLRRgRZOMVm7PKNL"
       },
       "artists": [
         {
-          "name": "emir taha",
-          "url": "https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb"
-        },
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+          "name": "Zen-G",
+          "url": "https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM"
         }
       ],
-      "duration_ms": 167280,
-      "name": "Baby (feat. Murda)",
-      "url": "https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU"
+      "duration_ms": 167880,
+      "name": "BABY B\u0130RTANEM",
+      "url": "https://open.spotify.com/track/1aPqj5kIol0lpGiBpWOflL"
     },
     {
       "added_at": "2023-08-31 21:00:00",

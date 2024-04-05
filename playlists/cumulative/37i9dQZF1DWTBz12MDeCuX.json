@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: 01099",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Artemas",
   "name": "me right now",
   "tracks": [
     {
@@ -476,6 +476,32 @@
       "duration_ms": 139130,
       "name": "2 Handys",
       "url": "https://open.spotify.com/track/0mth0U5dtI4Fwmc3RrAERn"
+    },
+    {
+      "album": {
+        "name": "2 Mollys",
+        "url": "https://open.spotify.com/album/2f8w4jgQiK3bqGg5Kzz1Am"
+      },
+      "artists": [
+        {
+          "name": "YFG Pave",
+          "url": "https://open.spotify.com/artist/4Ck46WZxqzpKUInvcgVF1C"
+        },
+        {
+          "name": "Nikki030",
+          "url": "https://open.spotify.com/artist/5972jAM2SfTGpYIcYYboRy"
+        },
+        {
+          "name": "Skaff78",
+          "url": "https://open.spotify.com/artist/335gFgPClEWEJWpNk1BYEp"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "2 Mollys",
+      "url": "https://open.spotify.com/track/56QZr4Zup07uecicgm9kQJ"
     },
     {
       "album": {
@@ -982,7 +1008,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 315723,
       "name": "90s Baby",
       "url": "https://open.spotify.com/track/6yBBevO7I1HTgUcNMSPbis"
@@ -1240,7 +1266,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 231338,
       "name": "act ii: date @ 8 (feat. Drake) - remix",
       "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
@@ -2423,6 +2449,28 @@
     },
     {
       "album": {
+        "name": "Applaus",
+        "url": "https://open.spotify.com/album/41wze4N3Ujbl9RhIuocqnv"
+      },
+      "artists": [
+        {
+          "name": "Endzone",
+          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Applaus",
+      "url": "https://open.spotify.com/track/2xcCTxGQouhdtXBbnfqjLF"
+    },
+    {
+      "album": {
         "name": "Area Codes",
         "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
       },
@@ -3500,7 +3548,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
@@ -5545,6 +5593,24 @@
     },
     {
       "album": {
+        "name": "Careful What You Wish For (the doctor said to)",
+        "url": "https://open.spotify.com/album/3rmfOGqqTeqDhwxPMNELz8"
+      },
+      "artists": [
+        {
+          "name": "Jack Harris",
+          "url": "https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193384,
+      "name": "Careful What You Wish For (the doctor said to)",
+      "url": "https://open.spotify.com/track/1Tob6YkutQ6jjWKzLO4gkr"
+    },
+    {
+      "album": {
         "name": "CAROLINE",
         "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
       },
@@ -7081,6 +7147,28 @@
     },
     {
       "album": {
+        "name": "Dein ist mein ganzes Herz",
+        "url": "https://open.spotify.com/album/3m3gNWXJYp8KeoYuZVpN97"
+      },
+      "artists": [
+        {
+          "name": "BIG TIM",
+          "url": "https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF"
+        },
+        {
+          "name": "Heinz Rudolf Kunze",
+          "url": "https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129123,
+      "name": "Dein ist mein ganzes Herz",
+      "url": "https://open.spotify.com/track/0xcjCd9FoMNaYjPK7R8I1L"
+    },
+    {
+      "album": {
         "name": "Dein L\u00fcgner",
         "url": "https://open.spotify.com/album/4SnnAKmWQTfQsw7FdT4mdN"
       },
@@ -7394,6 +7482,24 @@
       "duration_ms": 148816,
       "name": "Die Young (feat. 347aidan)",
       "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
+    },
+    {
+      "album": {
+        "name": "DiEBiN",
+        "url": "https://open.spotify.com/album/72XnjLNVoTHGtGoJBU1dB8"
+      },
+      "artists": [
+        {
+          "name": "Luzine",
+          "url": "https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "DiEBiN",
+      "url": "https://open.spotify.com/track/4foU19Wuzg7DMozML8DvNP"
     },
     {
       "album": {
@@ -7988,7 +8094,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 164571,
       "name": "du denkst an mich",
       "url": "https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2"
@@ -8198,7 +8304,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 142100,
       "name": "eBay",
       "url": "https://open.spotify.com/track/3k7g0xHFCX2ezCVCHaikIf"
@@ -8308,6 +8414,24 @@
       "duration_ms": 147000,
       "name": "Egal",
       "url": "https://open.spotify.com/track/15kfasEzeqJeyqgJF3lk7S"
+    },
+    {
+      "album": {
+        "name": "Egal",
+        "url": "https://open.spotify.com/album/1O3aDjWnICWkla1AzdWQBt"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136777,
+      "name": "Egal",
+      "url": "https://open.spotify.com/track/08XKxLjXwHtgD9cQjpkQI5"
     },
     {
       "album": {
@@ -9545,6 +9669,24 @@
     },
     {
       "album": {
+        "name": "Found Heaven",
+        "url": "https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170754,
+      "name": "Fainted Love",
+      "url": "https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj"
+    },
+    {
+      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -9822,7 +9964,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 157974,
       "name": "Feel It - From The Original Series \u201cInvincible\u201d",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
@@ -15001,6 +15143,28 @@
     },
     {
       "album": {
+        "name": "In Der Zeit Verlieren",
+        "url": "https://open.spotify.com/album/131JPd43brI7u4ad651rj8"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        },
+        {
+          "name": "alfons.",
+          "url": "https://open.spotify.com/artist/6Y44iZaaZDPqrztfH9dcin"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158437,
+      "name": "In Der Zeit Verlieren",
+      "url": "https://open.spotify.com/track/3uF7HxZy1DTZOeMLhZSPbH"
+    },
+    {
+      "album": {
         "name": "In Ha Mood",
         "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
       },
@@ -15146,7 +15310,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 211541,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/38LQJiREi2QNoc6iL8nTXJ"
@@ -15697,6 +15861,24 @@
     },
     {
       "album": {
+        "name": "Von Wind und Anonymit\u00e4t",
+        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137984,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/7r9NCIrR6ZRHX1jfjAASVv"
+    },
+    {
+      "album": {
         "name": "Jumanji",
         "url": "https://open.spotify.com/album/0WilVksURcWI6aoYZR1uzy"
       },
@@ -16030,6 +16212,28 @@
       "duration_ms": 173730,
       "name": "Katana",
       "url": "https://open.spotify.com/track/5IWdTVWfyptPgld5406jpA"
+    },
+    {
+      "album": {
+        "name": "Katastrophe",
+        "url": "https://open.spotify.com/album/2uGdPU34k4wNNAq3qVZRLv"
+      },
+      "artists": [
+        {
+          "name": "Rap La Rue",
+          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
+        },
+        {
+          "name": "Jiyo",
+          "url": "https://open.spotify.com/artist/0i9OWm62ob5N5f6NTqhSts"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198516,
+      "name": "Katastrophe",
+      "url": "https://open.spotify.com/track/64PC5XVJuKbvxYHecenRGO"
     },
     {
       "album": {
@@ -16975,6 +17179,28 @@
     },
     {
       "album": {
+        "name": "Lady Killers II (Christoph Andersson Remix)",
+        "url": "https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Christoph Andersson",
+          "url": "https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297794,
+      "name": "Lady Killers II (Christoph Andersson Remix)",
+      "url": "https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq"
+    },
+    {
+      "album": {
         "name": "LASS LOS",
         "url": "https://open.spotify.com/album/76IWgdnjuSYLlCF7qC6so1"
       },
@@ -17820,6 +18046,24 @@
       "duration_ms": 169946,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
+    },
+    {
+      "album": {
+        "name": "lippenblau",
+        "url": "https://open.spotify.com/album/4Bizq80zTpmpwNmkkcyaO6"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116726,
+      "name": "lippenblau",
+      "url": "https://open.spotify.com/track/2mDJNAEekeLiMoHHtaRP7Y"
     },
     {
       "album": {
@@ -23300,7 +23544,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 149440,
       "name": "parisienne",
       "url": "https://open.spotify.com/track/3TZIDPPCHg3VgABEn6eHZZ"
@@ -23436,7 +23680,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 153103,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/3oELxRDbAzyvOodhd5FQzB"
@@ -24044,7 +24288,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 186586,
       "name": "Positive Vibes",
       "url": "https://open.spotify.com/track/2RNaKhaYCeYJSqtLpxndeg"
@@ -24834,7 +25078,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 188903,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/3oY3C73DJuVVnJmIPpeRJC"
@@ -26332,7 +26576,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 135273,
       "name": "SEH NICHT KLAR",
       "url": "https://open.spotify.com/track/7HX8KHF5VtH9rfWF1UrfO5"
@@ -26442,7 +26686,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 131041,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn"
@@ -27186,6 +27430,24 @@
       "duration_ms": 127717,
       "name": "sLay QuEen*",
       "url": "https://open.spotify.com/track/405OtCs8ISBKklXtSeQhTd"
+    },
+    {
+      "album": {
+        "name": "SLAY!",
+        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107076,
+      "name": "SLAY!",
+      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
       "album": {
@@ -28540,7 +28802,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 158150,
       "name": "Stern",
       "url": "https://open.spotify.com/track/2gA7ac42FTDwufnEA5zePg"
@@ -28620,7 +28882,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -31151,6 +31413,28 @@
     },
     {
       "album": {
+        "name": "Uluda\u011f und Sorgen",
+        "url": "https://open.spotify.com/album/3uR9ZiNsj3VU2x1E0VRNgT"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186247,
+      "name": "Uluda\u011f und Sorgen",
+      "url": "https://open.spotify.com/track/1kQKmatH0qVvnT05kJ0o4d"
+    },
+    {
+      "album": {
         "name": "Days After",
         "url": "https://open.spotify.com/album/4hU6rSfAhTcXrnNIo0GFCR"
       },
@@ -31398,7 +31682,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 132244,
       "name": "Unsterblich Verliebt",
       "url": "https://open.spotify.com/track/2ivDHmYePlPWpIP0AXuN8Y"
@@ -31833,6 +32117,28 @@
     },
     {
       "album": {
+        "name": "Verlaufen",
+        "url": "https://open.spotify.com/album/1vNU4gkZc7JMnvyO8OJMBQ"
+      },
+      "artists": [
+        {
+          "name": "Lucifer Xo",
+          "url": "https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb"
+        },
+        {
+          "name": "REEZA",
+          "url": "https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176603,
+      "name": "Verlaufen",
+      "url": "https://open.spotify.com/track/2qAeSyDs5NqHWOi0HwyVZU"
+    },
+    {
+      "album": {
         "name": "Verliebt",
         "url": "https://open.spotify.com/album/6u6IUF74zUEDbyuLV23jn4"
       },
@@ -31844,7 +32150,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 116426,
       "name": "Verliebt",
       "url": "https://open.spotify.com/track/0k0LF4jnMrZKIVdnmduOei"
@@ -31946,6 +32252,24 @@
       "duration_ms": 186921,
       "name": "Verr\u00fcckt",
       "url": "https://open.spotify.com/track/3fdtL03cpv8g91L8ZB2xXA"
+    },
+    {
+      "album": {
+        "name": "Verstecken",
+        "url": "https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162975,
+      "name": "Verstecken",
+      "url": "https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw"
     },
     {
       "album": {
@@ -32616,6 +32940,24 @@
       "duration_ms": 174750,
       "name": "washing off the blood",
       "url": "https://open.spotify.com/track/13L7MYNjVLkLqq1YnMn0IL"
+    },
+    {
+      "album": {
+        "name": "WASSEREIS",
+        "url": "https://open.spotify.com/album/6TgOuqH0y0ChR7PNFvLL2O"
+      },
+      "artists": [
+        {
+          "name": "Rubi",
+          "url": "https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137441,
+      "name": "WASSEREIS",
+      "url": "https://open.spotify.com/track/7GIHhuHDlRab6yKyjPARcX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 
 > Explore a sprawling musical landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,300 likes - 134 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,324 likes - 134 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 76 | [Albert Ross \(Acoustic Version\)](https://open.spotify.com/track/0mulbeU5pPIOYpt8veI791) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Albert Ross \(Acoustic Version\)](https://open.spotify.com/album/5yLc158NB8aS18RC9sjNbM) | 4:30 |
 | 77 | [LIFE ON EARTH](https://open.spotify.com/track/6ZUZ33Hz83h6szgf56gzJx) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 5:46 |
 | 78 | [Brutally](https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R) | 3:28 |
-| 79 | [Autumn](https://open.spotify.com/track/3Vkk3IkuN6NrTkQDsiHThO) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Autumn](https://open.spotify.com/album/18BxkfsDIKf03nINEnbLWV) | 3:52 |
+| 79 | [Autumn](https://open.spotify.com/track/1VzCTOiWkVlIAbqjmC1vyc) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [EP 1](https://open.spotify.com/album/7uJjmJXBZ2bdClstbgHE5F) | 3:52 |
 | 80 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 |
 | 81 | [The Roundabout](https://open.spotify.com/track/1XJP5iLjFHrKwdNIRC4V4j) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Golden Sings That Have Been Sung \(Deep Cuts Edition\)](https://open.spotify.com/album/65lq5gUdKOakCZjNaurgy6) | 4:41 |
 | 82 | [Go Home](https://open.spotify.com/track/1OQZH2Rh26jnBMqDzhNpyD) | [Methal](https://open.spotify.com/artist/1pLnT9EAEcfbSC2vUhR52I) | [Untitled](https://open.spotify.com/album/0ogh83gdjE30byLfC4K128) | 2:59 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 133 | [The Kingfisher](https://open.spotify.com/track/18wuWtph9JW9dA9nNLwPx5) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [The Kingfisher](https://open.spotify.com/album/3KJQprTqgb4xq2TNqbBGEf) | 3:26 |
 | 134 | [Imogen](https://open.spotify.com/track/0X61Ud5Uzv44RvY3s1SsuO) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 4:15 |
 
-Snapshot ID: `MCxmNzMzNDc2NmYzNmZjOWQzM2ViNjIzZmE1MWI3MzMyNDdmMjY0N2Fh`
+Snapshot ID: `MCxiNTExNzY3MDk3ZGRkOGE3N2E1MmE2ZWI1ZjY4OGE1NDk2ZmQyY2Iw`

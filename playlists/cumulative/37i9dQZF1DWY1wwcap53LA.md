@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Dalton Dover
 
-195 songs - 10 hr 4 min
+200 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [I'll Never](https://open.spotify.com/track/4HUkIgxCIEJzBddjfOcDyG) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [I'll Never](https://open.spotify.com/album/2nULXvvTEpg36QVnOdQBIZ) | 2:43 | 2023-10-27 |  |
 | [If I Wanted Wine](https://open.spotify.com/track/4cgwtyl8Ig2RxDTz0d0JyM) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 2:44 | 2022-06-01 | 2023-11-10 |
 | [If I Wanted Wine](https://open.spotify.com/track/4vX7u4Q8iCuo7rK41M7QUn) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/79iCUqx4rgAItI7BFPJkJC) | 2:44 | 2023-11-03 |  |
+| [JOLENE](https://open.spotify.com/track/2PmMh2t7jAtN6cqFooA0Xy) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:09 | 2024-04-04 |  |
 | [Just In Case](https://open.spotify.com/track/0YXTxxhAcbshkZ6n4QO30H) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Red Dirt Cursed](https://open.spotify.com/album/6ZJaKkfHx5nfEkXXjq3Ond) | 2:58 | 2022-09-02 |  |
 | [Just Say I Love You](https://open.spotify.com/track/4iVi2YeSzYut5CgMu9WBu3) | [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [Just Say I Love You](https://open.spotify.com/album/2HCLaqqb00O9PPNy4aYXx3) | 4:00 | 2021-12-03 |  |
 | [Just the Way](https://open.spotify.com/track/2GtnQgG3Vj8n7sTzRNTHzS) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You 2](https://open.spotify.com/album/3DCaVitYJk2RhE2QxpXKnm) | 3:13 | 2023-10-27 | 2023-11-05 |
@@ -149,9 +150,11 @@
 | [Somebody's Gotta Do It](https://open.spotify.com/track/4NocrufS4EcSjccPQYJIDD) | [Tony Evans Jr.](https://open.spotify.com/artist/3PvNwJTtWwtnkwW01JkNeE) | [Somebody's Gotta Do It](https://open.spotify.com/album/6sKyDqddZhAQKYrZonPCQX) | 3:16 | 2022-05-20 | 2023-12-09 |
 | [Somebody's Gotta Do It](https://open.spotify.com/track/5JCUymeWDY9eELXHvipBU5) | [Tony Evans Jr.](https://open.spotify.com/artist/3PvNwJTtWwtnkwW01JkNeE) | [Somebody's Gotta Do It](https://open.spotify.com/album/39M3izca9vavMUCh7HzJ53) | 3:16 | 2023-12-08 |  |
 | [Something To Dance To](https://open.spotify.com/track/15wjZVpG5krE8khXtQq7Cu) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Something To Dance To](https://open.spotify.com/album/3CN2Jr3yuLh1soyJPNErQC) | 2:32 | 2023-05-12 |  |
+| [Something To Dance To](https://open.spotify.com/track/2pDM2RByQYY4zQLT0FU5MT) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Something To Dance To](https://open.spotify.com/album/2o9aZsNGXbBNJvtdfW0eXt) | 2:32 | 2024-04-04 |  |
 | [Something To Do With You](https://open.spotify.com/track/1ids0Y24ua1ioQQTp4kx90) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Something To Do With You](https://open.spotify.com/album/5jUIvK7SDErkwpTmDKOmsn) | 3:06 | 2023-02-17 |  |
 | [Song of the Summer](https://open.spotify.com/track/54RQicVADP64aUiorGLj2K) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo), [Una Healy](https://open.spotify.com/artist/0yPAOmYRSrkuKnp70eLKLx) | [Song of the Summer](https://open.spotify.com/album/1ta49NPJlUEf6ZdvY2YKDy) | 3:07 | 2021-12-03 | 2023-02-18 |
 | [Southern Curls](https://open.spotify.com/track/2PXlqCswcJk7DHm605QFoP) | [Julie Williams](https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9) | [Southern Curls](https://open.spotify.com/album/0xea2CsAsnZK4JljMCXcJ5) | 4:38 | 2021-12-03 |  |
+| [SPAGHETTII](https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Linda Martell](https://open.spotify.com/artist/78adFi9EyRkMh3CTIatrV9), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:38 | 2024-04-04 |  |
 | [Standards](https://open.spotify.com/track/1XQcnIA8QsYmNuNVUzWVMQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [The Best Thing](https://open.spotify.com/album/7Gw93eT5wLVQfpRVizuNka) | 2:54 | 2021-12-03 |  |
 | [Stay in Bed](https://open.spotify.com/track/4iwjHOttd1glzNXJTEOSdV) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [Stay in Bed](https://open.spotify.com/album/6Rvln9KI4IeotOFYLdasN0) | 2:46 | 2023-11-17 |  |
 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 | 2021-12-03 |  |
@@ -160,6 +163,7 @@
 | [Stuck in the Middle](https://open.spotify.com/track/3FSdVIxZumTuPv5zqQCsdb) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Stuck in the Middle](https://open.spotify.com/album/2GL3TmPmdA91fxYq3UCtrr) | 2:49 | 2022-06-17 | 2023-03-02 |
 | [Sunday Toasted](https://open.spotify.com/track/7trnSmH2rP4Dz9EWCigzhz) | [Zinn](https://open.spotify.com/artist/5mGMpDd5gyYAXp9Goofy6D) | [Sunday Toasted](https://open.spotify.com/album/7FtqnNR1z6z0nqEyinGd5F) | 2:43 | 2022-08-26 |  |
 | [Sunshine Shine](https://open.spotify.com/track/2467Nxi5K1DUUj7eRg1i64) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Sunshine Shine](https://open.spotify.com/album/7u7pAvJ12lZqTHFhyOaKml) | 3:01 | 2024-02-02 |  |
+| [SWEET ★ HONEY ★ BUCKIIN'](https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:56 | 2024-04-04 |  |
 | [Take Me As I Am](https://open.spotify.com/track/6SDwDQ6p0pBs6W00qt3Zix) | [Chuck Adams](https://open.spotify.com/artist/6GLO5F72p0eTCcumR6Ac5a) | [Take Me As I Am](https://open.spotify.com/album/78WF3uDO2YnUTar5ujTsDO) | 3:40 | 2021-12-03 |  |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/2h5LAoOPMnDhQQkUuOFUGf) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Take Me Home, Country Roads](https://open.spotify.com/album/4PJxSZQAoTaPW8Rcnp9gN5) | 3:03 | 2023-11-03 |  |
 | [Tall Boy](https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Tall Boy](https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w) | 2:20 | 2021-12-03 |  |
@@ -178,6 +182,7 @@
 | [Un\-Break My Heart \(Spotify Singles\)](https://open.spotify.com/track/2ypb4O6v2rZgmqxw8lPF2W) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/7MLuSEV3k7u4rAHq3L8z8h) | 4:16 | 2023-11-03 |  |
 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 | 2022-04-01 | 2023-11-04 |
 | [Used to Love That Song](https://open.spotify.com/track/6uSKxEhO9JKYkrPUhPBSa9) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Sink with the Sun](https://open.spotify.com/album/1CI87J6036yNvbzyksedMH) | 2:59 | 2022-08-12 | 2023-02-18 |
+| [Vegas](https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Vegas](https://open.spotify.com/album/2RUdZVnTQeSGB0QVffPJ7m) | 3:00 | 2024-04-04 |  |
 | [We Did](https://open.spotify.com/track/1Ia1nVuJYsaQjArfY7pOd4) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/79iCUqx4rgAItI7BFPJkJC) | 3:03 | 2023-10-06 |  |
 | [We Did](https://open.spotify.com/track/2Fc13mlF3nMqeFm2MY5Pnz) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4ewGerVWPwgTWwD0m0NdNG) | 3:03 | 2022-02-04 | 2022-07-29 |
 | [We Did](https://open.spotify.com/track/2uqPdi0TFoCYZaAoGYf8zr) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 3:03 | 2022-07-22 | 2023-10-27 |

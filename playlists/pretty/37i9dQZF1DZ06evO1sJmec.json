@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 1912487,
+  "num_followers": 1912825,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjgyMDczMzBlNDBkYmU2YjQ2YWQ2ZWVhMWQ5NWFjZjRhOTg0YjBl",
+  "snapshot_id": "MCxlNTdlYzI0ODBiY2MxYTExNWFlMzJhNThjMmI2ZjdiYzBlYjFkYmQy",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 273693,
-      "name": "Too Far Gone?",
-      "url": "https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Master Of Puppets (Deluxe Box Set / Remastered)",
         "url": "https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 387146,
       "name": "Welcome Home (Sanitarium) - Remastered",
       "url": "https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 273693,
+      "name": "Too Far Gone?",
+      "url": "https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 330453,
-      "name": "Screaming Suicide",
-      "url": "https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 86906,
       "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
       "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 330453,
+      "name": "Screaming Suicide",
+      "url": "https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 459120,
-      "name": "72 Seasons",
-      "url": "https://open.spotify.com/track/3uSATa7xWXVJrMhJJSnGGk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Death Magnetic",
         "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 477026,
       "name": "All Nightmare Long",
       "url": "https://open.spotify.com/track/3e7wv9TChjWrnXHrk5NyBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 459120,
+      "name": "72 Seasons",
+      "url": "https://open.spotify.com/track/3uSATa7xWXVJrMhJJSnGGk"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 371880,
-      "name": "Shadows Follow",
-      "url": "https://open.spotify.com/track/5iG1GycXpheJ5xMW0gNvKv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...And Justice For All",
         "url": "https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 345706,
       "name": "Harvester Of Sorrow",
       "url": "https://open.spotify.com/track/1V3wAgMB4ESaN4rStlrUNz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 371880,
+      "name": "Shadows Follow",
+      "url": "https://open.spotify.com/track/5iG1GycXpheJ5xMW0gNvKv"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 396293,
-      "name": "If Darkness Had a Son",
-      "url": "https://open.spotify.com/track/1oCQLSGSiHozdyx7lOqkIt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...And Justice For All",
         "url": "https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 586506,
       "name": "...And Justice For All",
       "url": "https://open.spotify.com/track/0eXz8pS25MoeUguNPR9VvD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 396293,
+      "name": "If Darkness Had a Son",
+      "url": "https://open.spotify.com/track/1oCQLSGSiHozdyx7lOqkIt"
     },
     {
       "added_at": null,

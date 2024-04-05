@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 
 > Sounds from the touring circuit that gave Black performers refuge and birthed a new generation of superstars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,689 likes - 44 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,725 likes - 44 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 16 | [5\-10\-15 Hours](https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 3:15 |
 | 17 | [See See Rider](https://open.spotify.com/track/0HsYttDxOv3neiw3L0wimY) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Soul On Fire: The Best Of LaVern Baker](https://open.spotify.com/album/656bjmiiDmAKjaC9U5HXbh) | 2:29 |
 | 18 | [Port Of Rico](https://open.spotify.com/track/6akKOJzSlnt1QHCFGX2lDR) | [Illinois Jacquet & His Orchestra](https://open.spotify.com/artist/1Aou8CvVAN2aeFHIU4qAWw) | [Flying Home](https://open.spotify.com/album/3Wd9FdgYuWHOSJrI5od7MU) | 2:45 |
-| 19 | [Bip Bam](https://open.spotify.com/track/7LTvkR7okLosNpWMcrV6Hf) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT), [Clyde McPhatter](https://open.spotify.com/artist/4WL6MC4jDW7w7K9hfc4MVS) | [Hits and Rarities](https://open.spotify.com/album/2bV0PFcxYOfBKqwWczSL5c) | 2:45 |
+| 19 | [Bip Bam \(with Clyde McPhatter\)](https://open.spotify.com/track/3U7ZZvQMprdLea0cD3QEKX) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT), [Clyde McPhatter](https://open.spotify.com/artist/4WL6MC4jDW7w7K9hfc4MVS) | [Let the Boogie\-Woogie Roll: Greatest Hits 1953\-1958](https://open.spotify.com/album/3kn3zuGVSTkIeFKYnPgI7B) | 2:47 |
 | 20 | [How Many More Years](https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:43 |
 | 21 | [Pink Champagne](https://open.spotify.com/track/720ucZYHzfmoHxge37h8Pk) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV) | [Presenting Joe Liggins](https://open.spotify.com/album/3hszd9c8nejbnEIDwCwo3n) | 3:03 |
 | 22 | [I Don't Know](https://open.spotify.com/track/7J8g9n29cAxSlLxeHrKCLI) | [Willie Mabon](https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn) | [Presenting Willie Mabon](https://open.spotify.com/album/2Y3IduVxiiyB9cxhFthGim) | 3:10 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 43 | [Booted](https://open.spotify.com/track/3mKwsHWqKv7mzVpZZwPsPH) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 3:04 |
 | 44 | [I Want You \- Remastered](https://open.spotify.com/track/4DJHfD8qXvko3yGNCAOH9A) | [The Cadets](https://open.spotify.com/artist/6kGIQDvdaEyZBA3aUyRHIO) | [Giving You Do\-Wop! \(Remastered\)](https://open.spotify.com/album/4Bs215DPmboswx7jMnuaDm) | 2:49 |
 
-Snapshot ID: `MCw3NDkxN2FhM2UzZmVhNjYxMGQwOTc1MDcxZWM4M2Y0NGU1MDVmYzQ2`
+Snapshot ID: `MCw3MTZkYTQwNjAxNjVjNzYyNmRmNzcxOTVkODg1MGQ3NDg4ZTliMWVk`

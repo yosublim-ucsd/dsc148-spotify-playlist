@@ -1,12 +1,12 @@
 {
   "description": "The perfectly brewed cup, the perfect songs to match. Your happy place is right here.",
-  "num_followers": 548053,
+  "num_followers": 548166,
   "original_name": "Coffee + Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjdhZDFlOTljNmU4NTBlZDIwOTdjNDdkOTY5YzhmNzAxYmFjY2Q2",
+  "snapshot_id": "MCxlYzk4Nzk4ZDZiMjc5NWRkNDhiZWEwZjI5YzZiNTJkOTZiNGRkOWFi",
   "tracks": [
     {
       "added_at": "2024-04-02 03:58:02",
@@ -20,7 +20,7 @@
           "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 243800,
+      "duration_ms": 239895,
       "name": "Mudroom",
       "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
     },
@@ -55,6 +55,22 @@
       "duration_ms": 252454,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
+    },
+    {
+      "added_at": "2024-04-04 13:00:01",
+      "album": {
+        "name": "Collapse List",
+        "url": "https://open.spotify.com/album/1hh3GhyscEuCplQQL31RtB"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "Co-Pathetic",
+      "url": "https://open.spotify.com/track/6eI1uc8HMy4SYp133fF94C"
     },
     {
       "added_at": "2024-04-02 03:58:02",
@@ -119,6 +135,22 @@
       "duration_ms": 153850,
       "name": "Buffalo Replaced - Spotify Singles",
       "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
+    },
+    {
+      "added_at": "2024-04-04 13:00:01",
+      "album": {
+        "name": "The Second Act",
+        "url": "https://open.spotify.com/album/4hVQwE4HbQWok3dOz2CZVs"
+      },
+      "artists": [
+        {
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
+        }
+      ],
+      "duration_ms": 219316,
+      "name": "The Second Act",
+      "url": "https://open.spotify.com/track/5RcWnnP5TMszVvarhYaoqa"
     },
     {
       "added_at": "2024-04-02 03:58:02",
@@ -265,6 +297,38 @@
       "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
     },
     {
+      "added_at": "2024-04-04 13:00:01",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
+      "added_at": "2024-04-04 13:00:01",
+      "album": {
+        "name": "Young In Love",
+        "url": "https://open.spotify.com/album/6P5iR01v1KjmALN4bwkIKD"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 169059,
+      "name": "Same Things",
+      "url": "https://open.spotify.com/track/3x2yirfV6nasZqmQ67PD1y"
+    },
+    {
       "added_at": "2024-04-02 03:58:02",
       "album": {
         "name": "World on a String",
@@ -292,7 +356,7 @@
           "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 218346,
+      "duration_ms": 217421,
       "name": "I Don't Have The Heart",
       "url": "https://open.spotify.com/track/14SnMMqIl8K3JMdZTXSIUb"
     },
@@ -331,6 +395,42 @@
       "duration_ms": 194586,
       "name": "See You Soon",
       "url": "https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8"
+    },
+    {
+      "added_at": "2024-04-04 13:00:01",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/4BM3fZKsal4h6kgU86f1Dl"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        },
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "duration_ms": 159266,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4S9cpPwTo9o0tMFNGkYzRn"
+    },
+    {
+      "added_at": "2024-04-04 13:00:01",
+      "album": {
+        "name": "A Precious Thing",
+        "url": "https://open.spotify.com/album/0att3h3a9gsUKbcwEjyZdB"
+      },
+      "artists": [
+        {
+          "name": "Grace Cummings",
+          "url": "https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a"
+        }
+      ],
+      "duration_ms": 258066,
+      "name": "A Precious Thing",
+      "url": "https://open.spotify.com/track/0hsKYfiYOyb0kOMh67SZ3W"
     },
     {
       "added_at": "2024-04-02 03:58:02",
@@ -387,6 +487,22 @@
       "duration_ms": 194000,
       "name": "Pages",
       "url": "https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP"
+    },
+    {
+      "added_at": "2024-04-04 13:00:01",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/5EAKyTe7nOvmozisIdMU2C"
+      },
+      "artists": [
+        {
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+        }
+      ],
+      "duration_ms": 186961,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/6RnK69iWbnoCZ1vW4lCr36"
     },
     {
       "added_at": "2024-04-02 03:58:02",
@@ -1463,38 +1579,6 @@
     {
       "added_at": "2024-04-02 03:58:02",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 220812,
-      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
-    },
-    {
-      "added_at": "2024-04-02 03:58:02",
-      "album": {
-        "name": "Tomorrow EP",
-        "url": "https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X"
-      },
-      "artists": [
-        {
-          "name": "Jack Curley",
-          "url": "https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK"
-        }
-      ],
-      "duration_ms": 184984,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6"
-    },
-    {
-      "added_at": "2024-04-02 03:58:02",
-      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd"
       },
@@ -1563,22 +1647,18 @@
     {
       "added_at": "2024-04-02 03:58:02",
       "album": {
-        "name": "People Don't Change",
-        "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
+        "name": "Latchkey",
+        "url": "https://open.spotify.com/album/7ybg1PGLMLhYm6JcjMVJYp"
       },
       "artists": [
         {
-          "name": "PJ Harding",
-          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Memorial",
+          "url": "https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc"
         }
       ],
-      "duration_ms": 209813,
-      "name": "The Worst Of You",
-      "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
+      "duration_ms": 171560,
+      "name": "Latchkey",
+      "url": "https://open.spotify.com/track/1pQ9MWG0yUS51uU0pJfBZL"
     },
     {
       "added_at": "2024-04-02 03:58:02",
@@ -1595,90 +1675,6 @@
       "duration_ms": 223846,
       "name": "Evermore",
       "url": "https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X"
-    },
-    {
-      "added_at": "2024-04-02 03:58:02",
-      "album": {
-        "name": "Running With The Wolves",
-        "url": "https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je"
-      },
-      "artists": [
-        {
-          "name": "Azure Ryder",
-          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
-        }
-      ],
-      "duration_ms": 163821,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
-    },
-    {
-      "added_at": "2024-04-02 03:58:02",
-      "album": {
-        "name": "Last Line",
-        "url": "https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 292296,
-      "name": "Last Line",
-      "url": "https://open.spotify.com/track/531Ja3DY2r2Auhk10OseCM"
-    },
-    {
-      "added_at": "2024-04-02 03:58:02",
-      "album": {
-        "name": "our generation",
-        "url": "https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 237780,
-      "name": "Soul Mate",
-      "url": "https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO"
-    },
-    {
-      "added_at": "2024-04-02 03:58:02",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        },
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 191234,
-      "name": "For All You Give",
-      "url": "https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn"
-    },
-    {
-      "added_at": "2024-04-02 03:58:02",
-      "album": {
-        "name": "Latchkey",
-        "url": "https://open.spotify.com/album/7ybg1PGLMLhYm6JcjMVJYp"
-      },
-      "artists": [
-        {
-          "name": "Memorial",
-          "url": "https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc"
-        }
-      ],
-      "duration_ms": 171560,
-      "name": "Latchkey",
-      "url": "https://open.spotify.com/track/1pQ9MWG0yUS51uU0pJfBZL"
     }
   ],
   "unique_name": "Coffee + Chill",

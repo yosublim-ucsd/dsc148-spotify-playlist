@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: TINN
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,161 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,172 likes - 85 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 43 | [Caso Perdido](https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Caso Perdido](https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv) | 3:19 |
 | 44 | [lentamente](https://open.spotify.com/track/4ve8c7k1gugrh7cdY0TNQo) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [lentamente](https://open.spotify.com/album/4zThV7FqLkxpvXMCwd7e2r) | 3:19 |
 | 45 | [Teu Pescoço](https://open.spotify.com/track/4NZJGR8aUHBcUn9dOKGVJC) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 2:55 |
-| 46 | [INTENSAMENTE](https://open.spotify.com/track/5XNHFSi9krUa5Ikw1fJK4K) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [INTENSAMENTE](https://open.spotify.com/album/1S03QGdOVgnsPM2JmoJkte) | 2:58 |
-| 47 | [LSD](https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Reviravolta](https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo) | 3:25 |
+| 46 | [LSD](https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Reviravolta](https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo) | 3:25 |
+| 47 | [INTENSAMENTE](https://open.spotify.com/track/5XNHFSi9krUa5Ikw1fJK4K) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [INTENSAMENTE](https://open.spotify.com/album/1S03QGdOVgnsPM2JmoJkte) | 2:58 |
 | 48 | [Muito Além](https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Muito Além](https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo) | 2:48 |
 | 49 | [Obscuro](https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Obscuro](https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6) | 3:38 |
 | 50 | [NUNCA VOU TE PERDOAR](https://open.spotify.com/track/375FOAahZKZhCvBAGnEb7t) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [NUNCA VOU TE PERDOAR](https://open.spotify.com/album/0HFNiOy2tabQwDMTqRxmOD) | 2:36 |
@@ -85,13 +85,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 75 | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB) | 2:11 |
 | 76 | [Coocoocrazy](https://open.spotify.com/track/1koc0xNNXvdZvxUVKG9Pew) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Papel de Carta \(Deluxe\)](https://open.spotify.com/album/5JD9z50Qpmv591ytAzuwO1) | 2:06 |
 | 77 | [Lugar no Espaço](https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM) | [Isa Salles](https://open.spotify.com/artist/6Oaq2FReJLZazdZPcX7QgH), [Murilo Lourenço](https://open.spotify.com/artist/6hPnVxYK7L67gex8jpzack) | [Lugar no Espaço](https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd) | 3:44 |
-| 78 | [Grito](https://open.spotify.com/track/5haGoQ0rTaulltDB7Tw14C) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Grito](https://open.spotify.com/album/00HuLKm9ktQQO7vdoPYbmu) | 2:37 |
-| 79 | [Não Valemos + Nada](https://open.spotify.com/track/4QuNbNry81en6UZ24wiX0i) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC), [Kyu](https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE) | [Não Valemos + Nada](https://open.spotify.com/album/2PtDpSKpVXzAc5xK7F9kKE) | 2:38 |
+| 78 | [Não Valemos + Nada](https://open.spotify.com/track/4QuNbNry81en6UZ24wiX0i) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC), [Kyu](https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE) | [Não Valemos + Nada](https://open.spotify.com/album/2PtDpSKpVXzAc5xK7F9kKE) | 2:38 |
+| 79 | [Grito](https://open.spotify.com/track/5haGoQ0rTaulltDB7Tw14C) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Grito](https://open.spotify.com/album/00HuLKm9ktQQO7vdoPYbmu) | 2:37 |
 | 80 | [Deixa Estar](https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ) | [Fuze](https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq) | [Foi Tudo Aqui](https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd) | 3:09 |
 | 81 | [Trisal](https://open.spotify.com/track/0ycqfGbV1ULq8k4FCWFfqY) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Trisal](https://open.spotify.com/album/5Zt8H350R5JhsPaVFoLiwO) | 2:34 |
 | 82 | [RESPIRAR](https://open.spotify.com/track/2PSAlshbjCH0GyDvIW0S84) | [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [RESPIRAR](https://open.spotify.com/album/7zU632IY56kixfQ7GnprPy) | 3:05 |
-| 83 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
-| 84 | [VAN GOGH DALTÔNICO](https://open.spotify.com/track/7EdThdy6efxJiYnpchEDLx) | [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [VAN GOGH DALTÔNICO](https://open.spotify.com/album/1fzHOiM0bMDRYFEbMaPeXl) | 2:40 |
-| 85 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 |
+| 83 | [VAN GOGH DALTÔNICO](https://open.spotify.com/track/7EdThdy6efxJiYnpchEDLx) | [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [VAN GOGH DALTÔNICO](https://open.spotify.com/album/1fzHOiM0bMDRYFEbMaPeXl) | 2:40 |
+| 84 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 |
+| 85 | [Legado](https://open.spotify.com/track/22hTtzEc2038qqwCuiZ687) | [Floco](https://open.spotify.com/artist/3Dlxw7x1H8jzflD6DBqljc), [amanda muraro](https://open.spotify.com/artist/0H3Ar9Em4fxqO0NYLTs7vJ) | [Legado](https://open.spotify.com/album/7qk4AUAt8F9m508h7HV8sj) | 2:14 |
 
-Snapshot ID: `MCw0M2I2YmYwYmNlMDc2YmZlYzA1MDY1ODk1Mzc2MDMyOGIzN2MzNTcw`
+Snapshot ID: `MCwyNWI5MTIzZjNlMDFkYmFiZWEzZTBiNGU5ZjJmMDQ1YzcyNjdkNjY5`

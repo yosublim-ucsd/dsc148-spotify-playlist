@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 38479,
+  "2024-04-05": 38501,
   "date_first_scraped": "2023-10-15",
   "description": "Un suave trasfondo musical para mantener el foco en tus tareas.",
   "name": "M\u00fasica Instrumental para Estudiar",
@@ -57,6 +57,24 @@
       "duration_ms": 142293,
       "name": "A Defining Moment",
       "url": "https://open.spotify.com/track/0NxO070mkE8Fpaa2AWbWod"
+    },
+    {
+      "album": {
+        "name": "A Fresh Start",
+        "url": "https://open.spotify.com/album/0HfJtkvuSY9WjsWE6wm5c2"
+      },
+      "artists": [
+        {
+          "name": "Roger Swift",
+          "url": "https://open.spotify.com/artist/7LFWOpUVxbAkCBMVycZT5k"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158580,
+      "name": "A Fresh Start",
+      "url": "https://open.spotify.com/track/2jlX4uHv42kpI4RrkjF9LK"
     },
     {
       "album": {
@@ -2869,6 +2887,24 @@
       "duration_ms": 160261,
       "name": "In Between",
       "url": "https://open.spotify.com/track/3m9L0yTxcDY4OddxsApK5L"
+    },
+    {
+      "album": {
+        "name": "In Presence",
+        "url": "https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A"
+      },
+      "artists": [
+        {
+          "name": "Dean Demir",
+          "url": "https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173862,
+      "name": "In Presence",
+      "url": "https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz"
     },
     {
       "album": {
@@ -7266,6 +7302,24 @@
     },
     {
       "album": {
+        "name": "The Still",
+        "url": "https://open.spotify.com/album/06eRSftUdtz4u5Zx9s7Ywc"
+      },
+      "artists": [
+        {
+          "name": "Erinthe",
+          "url": "https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129817,
+      "name": "The Still",
+      "url": "https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/7lUBViasfvFfPgJvxTuXnC"
       },
@@ -7551,6 +7605,24 @@
       "duration_ms": 192269,
       "name": "Tristesse",
       "url": "https://open.spotify.com/track/4OfvGX9v55SOo2HvLcaqJF"
+    },
+    {
+      "album": {
+        "name": "Day",
+        "url": "https://open.spotify.com/album/5BmyU03YgggujG5J2gEfLM"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271352,
+      "name": "Tuesdays",
+      "url": "https://open.spotify.com/track/673xcQ8s3hrfe2hJDgmYSb"
     },
     {
       "album": {

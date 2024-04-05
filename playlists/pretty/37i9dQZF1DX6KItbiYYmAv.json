@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 733380,
+  "num_followers": 733407,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzU2MWM0YzgyOGJmYTkyOTAyYzUxOTczMWJhZmY3MDgwNWE3OGM2",
+  "snapshot_id": "MCxlNjllMGI4YWRiYWVjYjI1NWIyNjlkM2UxMmExN2RlYjdlZGY0M2Vi",
   "tracks": [
     {
       "added_at": "2024-03-15 13:37:53",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 220720,
       "name": "For Emma",
       "url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "Bathing Beach",
-        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 228164,
-      "name": "Colourway",
-      "url": "https://open.spotify.com/track/2oa53bhiNPCz2CGh26AYxi"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 139000,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 228164,
+      "name": "Colourway",
+      "url": "https://open.spotify.com/track/2oa53bhiNPCz2CGh26AYxi"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "The Oh Hellos EP",
-        "url": "https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W"
-      },
-      "artists": [
-        {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
-        }
-      ],
-      "duration_ms": 256006,
-      "name": "Hello My Old Heart",
-      "url": "https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "Stop All the World Now (Special Edition)",
         "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "The Oh Hellos EP",
+        "url": "https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W"
+      },
+      "artists": [
+        {
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "duration_ms": 256006,
+      "name": "Hello My Old Heart",
+      "url": "https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "First Mind",
-        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 267573,
-      "name": "Cucurucu",
-      "url": "https://open.spotify.com/track/3G3PP7pAkAaZ6QzM0duBry"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 201136,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "First Mind",
+        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 267573,
+      "name": "Cucurucu",
+      "url": "https://open.spotify.com/track/3G3PP7pAkAaZ6QzM0duBry"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
+        "name": "Ancient Transition",
+        "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Our Remains",
+      "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
         "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 199426,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
-        "name": "Ancient Transition",
-        "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Our Remains",
-      "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
     },
     {
       "added_at": "2024-03-15 13:37:53",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2024-03-15 13:37:53",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 286653,
-      "name": "The Blower's Daughter",
-      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
-    },
-    {
-      "added_at": "2024-03-15 13:37:53",
-      "album": {
         "name": "For The Company",
         "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 199359,
       "name": "Boardwalks - Remastered 2015/ Bonus Track",
       "url": "https://open.spotify.com/track/23Zlb66N7xcIWbpt2C1bsi"
+    },
+    {
+      "added_at": "2024-03-15 13:37:53",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286653,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
     },
     {
       "added_at": "2024-03-15 13:37:53",

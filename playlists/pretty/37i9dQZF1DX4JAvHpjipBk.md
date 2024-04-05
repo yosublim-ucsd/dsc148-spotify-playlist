@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Beyoncé, Camila Cabello, Twenty One Pilots, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,190,217 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,190,854 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 94 | [Timeless](https://open.spotify.com/track/3EkBW1RjjYnjDl1DJKTT7m) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Timeless](https://open.spotify.com/album/4805JZGMvu1ZqzmPnbOl2R) | 3:25 |
 | 95 | [LIPS](https://open.spotify.com/track/6KWkRbb8Lh2K44MnTxdhuY) | [MaKenzie](https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0) | [LIPS](https://open.spotify.com/album/58WDcinKOBr7xzCJ2OnO9R) | 3:20 |
 | 96 | [Worst Way](https://open.spotify.com/track/4u2pk0zATUkEeMtuuMtu46) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Worst Way](https://open.spotify.com/album/2pEZkJlkzLMBXPUPWyQJxn) | 3:40 |
-| 97 | [I Don't Have The Heart](https://open.spotify.com/track/14SnMMqIl8K3JMdZTXSIUb) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Flicker + I Don’t Have The Heart](https://open.spotify.com/album/3WGNUmtTsMR3sDWRJaCkyp) | 3:38 |
+| 97 | [I Don't Have The Heart](https://open.spotify.com/track/14SnMMqIl8K3JMdZTXSIUb) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Flicker + I Don’t Have The Heart](https://open.spotify.com/album/3WGNUmtTsMR3sDWRJaCkyp) | 3:37 |
 | 98 | [Nothings Into Signs](https://open.spotify.com/track/31kpgadjTib4K74PRKec0s) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Nothings Into Signs](https://open.spotify.com/album/6Zg7AFB23zW3YJl6wIERjB) | 2:37 |
 | 99 | [April](https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [April](https://open.spotify.com/album/6EMyXFkqDM0jzADSvIIe5V) | 2:59 |
 | 100 | [2WORLDS](https://open.spotify.com/track/0MoTvVdhu4Ocm2Y7yphxPh) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [2WORLDS](https://open.spotify.com/album/0RKIC2QUL8WkDMWWQy3szr) | 2:29 |
 
-Snapshot ID: `MCxmOTg2ZWZmZmNkNWQ2ZTM1MmY3YmJlMDBlNjdlNmQ2Y2ZhOWZmZDVk`
+Snapshot ID: `MCwxMWJkYjhkMmU0NDk1ZjZiZTg2ZmMwNzIyZDA2ZTBlMGJmMDBlYjg0`

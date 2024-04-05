@@ -1,12 +1,12 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 103854,
+  "num_followers": 103925,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Mzc2YTE0ODk3YTA0ZTA3MmZkZTJiOTU5MzcyMzU5MTRiY2ZmNTU3",
+  "snapshot_id": "MCw4NGNkNTQ0Y2U1OTYwYjYwY2Y1NDI5NDQ2NDdkMjg4NTQyNDU3ODhm",
   "tracks": [
     {
       "added_at": "2024-03-19 03:29:52",
@@ -211,22 +211,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Sleep Through the Storm",
-        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
-      },
-      "artists": [
-        {
-          "name": "A Lily",
-          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Kalimba Heart",
-      "url": "https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Tri Repetae",
         "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 255933,
       "name": "Eutow",
       "url": "https://open.spotify.com/track/4uRXAyNL5T4KY7iawdfJBZ"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Sleep Through the Storm",
+        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+      },
+      "artists": [
+        {
+          "name": "A Lily",
+          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Kalimba Heart",
+      "url": "https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -343,22 +343,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Amber",
-        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 397000,
-      "name": "Yulquen",
-      "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Erratics & Unconformities",
         "url": "https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 260202,
       "name": "Familiar Flavours",
       "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 397000,
+      "name": "Yulquen",
+      "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
     },
     {
-      "added_at": "2024-01-02 19:57:01",
-      "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/0xnL6goTzcRFKzbrleXfpF"
-      },
-      "artists": [
-        {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
-        }
-      ],
-      "duration_ms": 248758,
-      "name": "Before I Leave",
-      "url": "https://open.spotify.com/track/3S3gRidA2Fg38gwfHXxeZ3"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "that day, on the beach",
@@ -639,6 +623,22 @@
       "duration_ms": 151302,
       "name": "memorial park",
       "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
+    },
+    {
+      "added_at": "2024-01-02 19:57:01",
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/0xnL6goTzcRFKzbrleXfpF"
+      },
+      "artists": [
+        {
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        }
+      ],
+      "duration_ms": 248758,
+      "name": "Before I Leave",
+      "url": "https://open.spotify.com/track/3S3gRidA2Fg38gwfHXxeZ3"
     },
     {
       "added_at": "2022-09-15 12:23:59",
@@ -659,22 +659,6 @@
       "duration_ms": 279000,
       "name": "Nutrition - Single Edit",
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Dusting For Smoke",
-        "url": "https://open.spotify.com/album/4JqBczxo4FAt696cbtjO0D"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 233499,
-      "name": "Lone Swordsman",
-      "url": "https://open.spotify.com/track/4n0Hki3RG2Fa35s5PORLIq"
     },
     {
       "added_at": "2022-02-16 00:42:21",
@@ -707,6 +691,22 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Dusting For Smoke",
+        "url": "https://open.spotify.com/album/4JqBczxo4FAt696cbtjO0D"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 233499,
+      "name": "Lone Swordsman",
+      "url": "https://open.spotify.com/track/4n0Hki3RG2Fa35s5PORLIq"
     },
     {
       "added_at": "2023-11-23 03:12:41",
@@ -761,6 +761,22 @@
       "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
     },
     {
+      "added_at": "2022-07-06 16:48:39",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 331514,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Homescreen Glow",
@@ -791,22 +807,6 @@
       "duration_ms": 209806,
       "name": "Promise",
       "url": "https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst"
-    },
-    {
-      "added_at": "2022-07-06 16:48:39",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 331514,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Weather the Storm",
-        "url": "https://open.spotify.com/album/7j30PlQmG0gZod9ptHZdAm"
-      },
-      "artists": [
-        {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Weather the Storm",
-      "url": "https://open.spotify.com/track/6ls8JBd8DVecHSDZ2ArxsX"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Tar (Jan Jelinek Remix)",
         "url": "https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 359543,
       "name": "Tar - Jan Jelinek Remix",
       "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Weather the Storm",
+        "url": "https://open.spotify.com/album/7j30PlQmG0gZod9ptHZdAm"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Weather the Storm",
+      "url": "https://open.spotify.com/track/6ls8JBd8DVecHSDZ2ArxsX"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/6CQJSBa7uo6Hr5991sVrGX"
     },
     {
-      "added_at": "2023-04-15 02:42:19",
-      "album": {
-        "name": "FOREVERANDEVERNOMORE (FOREVER VOICELESS EDITION)",
-        "url": "https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 205906,
-      "name": "Ch\u00e9ri - Instrumental",
-      "url": "https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r"
-    },
-    {
       "added_at": "2022-02-25 03:33:17",
       "album": {
         "name": "Exotic Contents / Pulse at the Centre of Being",
@@ -1023,6 +1007,22 @@
       "duration_ms": 346588,
       "name": "Exotic Contents",
       "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
+    },
+    {
+      "added_at": "2023-04-15 02:42:19",
+      "album": {
+        "name": "FOREVERANDEVERNOMORE (FOREVER VOICELESS EDITION)",
+        "url": "https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 205906,
+      "name": "Ch\u00e9ri - Instrumental",
+      "url": "https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r"
     },
     {
       "added_at": "2022-01-13 02:57:00",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW"
     },
     {
-      "added_at": "2022-03-09 04:45:41",
-      "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319047,
-      "name": "Amygdala",
-      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Toska",
@@ -1263,6 +1247,22 @@
       "duration_ms": 342005,
       "name": "Toska",
       "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
+    },
+    {
+      "added_at": "2022-03-09 04:45:41",
+      "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 319047,
+      "name": "Amygdala",
+      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/1QWahKnQpMZpnOX5igsFVe"
     },
     {
-      "added_at": "2022-03-29 02:05:38",
-      "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
-    },
-    {
       "added_at": "2022-02-25 05:11:21",
       "album": {
         "name": "April Dub",
@@ -1363,6 +1347,22 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
+    },
+    {
+      "added_at": "2022-03-29 02:05:38",
+      "album": {
+        "name": "QUAKENBR\u00dcCK [Version]",
+        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "duration_ms": 279601,
+      "name": "Quakenbr\u00fcck - version",
+      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Hodes",
+        "url": "https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP"
+      },
+      "artists": [
+        {
+          "name": "Bengalfuel",
+          "url": "https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "The Pier",
+      "url": "https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "No era s\u00f3lida",
         "url": "https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 425417,
       "name": "Arthur",
       "url": "https://open.spotify.com/track/7AFNqxLKcSL0LpNpOgmhKt"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Hodes",
-        "url": "https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP"
-      },
-      "artists": [
-        {
-          "name": "Bengalfuel",
-          "url": "https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "The Pier",
-      "url": "https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK"
     },
     {
       "added_at": "2022-02-25 03:59:46",
@@ -1517,22 +1517,6 @@
       "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
     },
     {
-      "added_at": "2022-08-31 03:57:27",
-      "album": {
-        "name": "J\u00e4rnn\u00e4tter",
-        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
-      },
-      "artists": [
-        {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
-        }
-      ],
-      "duration_ms": 687536,
-      "name": "A2",
-      "url": "https://open.spotify.com/track/3ZvpVD9Ksyw3DXw5dMGBsg"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Under The Sun (Expanded Vol. 1)",
@@ -1547,6 +1531,22 @@
       "duration_ms": 270546,
       "name": "Give It Your Choir - Instrumental",
       "url": "https://open.spotify.com/track/2lsUYy3qMvswbX3rfbZUiI"
+    },
+    {
+      "added_at": "2022-08-31 03:57:27",
+      "album": {
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
+      },
+      "artists": [
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "duration_ms": 687536,
+      "name": "A2",
+      "url": "https://open.spotify.com/track/3ZvpVD9Ksyw3DXw5dMGBsg"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1567,26 +1567,6 @@
       "duration_ms": 502161,
       "name": "Fluo",
       "url": "https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Dub Protection & The Sportswear Mystics",
-        "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
-      },
-      "artists": [
-        {
-          "name": "The Diabolical Liberties",
-          "url": "https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb"
-        },
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 311480,
-      "name": "Dub Protection",
-      "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1631,6 +1611,26 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Dub Protection & The Sportswear Mystics",
+        "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
+      },
+      "artists": [
+        {
+          "name": "The Diabolical Liberties",
+          "url": "https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 311480,
+      "name": "Dub Protection",
+      "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Blinking/Aubades",
         "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
       },
@@ -1643,22 +1643,6 @@
       "duration_ms": 220212,
       "name": "Aubades",
       "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Middle Life",
-        "url": "https://open.spotify.com/album/6FKJdshnI3wJ5vU13bYGnR"
-      },
-      "artists": [
-        {
-          "name": "Will August Park",
-          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
-        }
-      ],
-      "duration_ms": 97760,
-      "name": "Middle Life",
-      "url": "https://open.spotify.com/track/7i1apjmMHgD3cyaJAoscr5"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1691,6 +1675,22 @@
       "duration_ms": 356813,
       "name": "F7",
       "url": "https://open.spotify.com/track/1djSx1nXAb7nekBdshLXjE"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Middle Life",
+        "url": "https://open.spotify.com/album/6FKJdshnI3wJ5vU13bYGnR"
+      },
+      "artists": [
+        {
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+        }
+      ],
+      "duration_ms": 97760,
+      "name": "Middle Life",
+      "url": "https://open.spotify.com/track/7i1apjmMHgD3cyaJAoscr5"
     }
   ],
   "unique_name": "bleeps ^ glitches",

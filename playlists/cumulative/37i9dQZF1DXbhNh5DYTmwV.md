@@ -4,7 +4,7 @@
 
 > ¡Las canciones más chéveres están sonando aquí!
 
-109 songs - 6 hr 35 min
+110 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,8 +110,9 @@
 | [Tú](https://open.spotify.com/track/7f78dONLuMhM5WRM6S8G2m) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Tú](https://open.spotify.com/album/2UkSswdvKoJrnb2syl9Eae) | 3:37 | 2024-02-23 |  |
 | [Tú 1ero](https://open.spotify.com/track/4pyTcXRw3Bz3zZMWp81v7F) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Tú 1ero](https://open.spotify.com/album/42WVmjyebCg8XbScD9VwFL) | 3:09 | 2022-05-17 |  |
 | [Una Fan Enamorada](https://open.spotify.com/track/07EGbR4e9MznCDPuWGcD93) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [La Historia](https://open.spotify.com/album/4VOSk2bhh4ubQcbCbL1uqZ) | 4:51 | 2022-07-01 | 2023-01-13 |
-| [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/0ZrR1RTJj1glZWtYvBfU7M) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Los Primera](https://open.spotify.com/album/6WazOboL5RdFSLktiSsZO5) | 4:51 | 2022-09-06 |  |
+| [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/0ZrR1RTJj1glZWtYvBfU7M) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Los Primera](https://open.spotify.com/album/6WazOboL5RdFSLktiSsZO5) | 4:51 | 2022-09-06 | 2024-04-05 |
 | [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/0yccmoLCJ5J3Z2owPtdwgf) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Grandes Éxitos](https://open.spotify.com/album/6hwR8ta8BngmQSLZpICskl) | 4:51 | 2022-09-06 | 2022-11-13 |
+| [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/2PJcHAySsvwdUFegqB44xH) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Los Primera](https://open.spotify.com/album/51MC7PW476AnhA5Wr3Rw0t) | 4:51 | 2024-03-01 |  |
 | [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/5XNeals8E3mLTZO2fmVPOB) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Los Primera](https://open.spotify.com/album/5hqjRB0TZER795NKsz9tf0) | 4:51 | 2022-05-17 | 2022-07-29 |
 | [Una Lady Como Tú](https://open.spotify.com/track/5jf0PmPCHefQ78uAzqIqbj) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [ADN](https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi) | 3:33 | 2022-05-17 |  |
 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 | 2024-02-09 |  |

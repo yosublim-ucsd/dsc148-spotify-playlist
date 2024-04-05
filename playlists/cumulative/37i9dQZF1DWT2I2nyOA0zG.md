@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-302 songs - 17 hr 9 min
+304 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Present](https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Worry <](https://open.spotify.com/album/2a7v6mAjcRSKp5GVdhEW93) | 2:48 | 2022-03-03 | 2024-02-16 |
 | [Pull Up](https://open.spotify.com/track/0h8Nv1NG9K7vAuknah3ODJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Pull Up](https://open.spotify.com/album/4B0u29SVDo8LjBhSPeIQ42) | 3:07 | 2021-10-11 | 2022-07-29 |
 | [Pull Up](https://open.spotify.com/track/3sEcJ4mGZ9srlXdG7G2HK1) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:07 | 2021-10-11 | 2023-01-20 |
+| [Qongqotha \(live\) \- Demo](https://open.spotify.com/track/72bqWnVS3F7C06i64dvDny) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [Qongqotha \(live\) \[Demo\]](https://open.spotify.com/album/1OgbwEsTKgf3FnHXjQha8h) | 2:51 | 2024-04-04 |  |
 | [Queen \- Dan Kye Remix](https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Queen \(Dan Kye Remix\)](https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K) | 5:27 | 2024-02-16 |  |
 | [R U FREE?](https://open.spotify.com/track/3VJFbpyVz051wnMStG7juC) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso) | [R U FREE?](https://open.spotify.com/album/1QA1xNM1pHFfhrrmI9H8E2) | 2:37 | 2023-11-03 |  |
 | [Rain or Sun](https://open.spotify.com/track/1BPdZEr7bepUhUrKIoLJab) | [Total Hip Replacement](https://open.spotify.com/artist/6m8keKnv7yR5UcUpCEosO5), [KWAME YEBOAH](https://open.spotify.com/artist/50NKRxEVV07QOG72kYaDB2), [Nsoroma](https://open.spotify.com/artist/36dLW3V3CtJ2I3dYYdiO4w) | [Rain or Sun](https://open.spotify.com/album/48LteUpZNIlMtvaj0J6MXb) | 4:14 | 2023-09-09 |  |
@@ -286,6 +287,7 @@
 | [Test Me](https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2) | 3:40 | 2023-04-14 | 2023-06-10 |
 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-04-20 | 2023-07-29 |
 | [The Calling](https://open.spotify.com/track/6GeJhsWvyRghhVha88TCNG) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [The Calling](https://open.spotify.com/album/2ridtCRegwAWPogc0howcY) | 3:13 | 2021-12-16 | 2022-09-10 |
+| [The Journey \- Edit](https://open.spotify.com/track/5YQI5dLNJfPmKCO2bncGF0) | [Ethan Tait](https://open.spotify.com/artist/417zU4I2H7xk64PUhedjyT), [Boskasie](https://open.spotify.com/artist/4LJguuHWFSdxmO3KgbQaeq) | [The Journey \(Edit\)](https://open.spotify.com/album/4s4mCAojGUMP7n4pZLcPnf) | 4:10 | 2024-04-04 |  |
 | [The More The Better](https://open.spotify.com/track/6Od3z1jmsZKGwVCUReQidl) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [The More The Better](https://open.spotify.com/album/3F886JEtegyU2CGjbvbv4I) | 2:16 | 2023-09-09 |  |
 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 | 2022-06-03 | 2022-07-15 |
 | [Things I Know](https://open.spotify.com/track/2AvzqDvMMRXyJhfXrBEDUb) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Things I Know](https://open.spotify.com/album/14sM4pRzpj49fEn5PJEGUP) | 2:50 | 2022-11-04 | 2023-09-29 |

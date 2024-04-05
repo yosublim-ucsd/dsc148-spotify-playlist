@@ -4,7 +4,7 @@
 
 > Los temas que los Cangrejeros de Santurce están escuchando.
 
-60 songs - 4 hr 5 min
+61 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Las Avispas](https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Para Ti](https://open.spotify.com/album/3bHkIxCLH1CmadBBWuRLxO) | 3:17 | 2023-10-27 |  |
 | [LEJOS DEL CIELO](https://open.spotify.com/track/39qtjJ454r2fgyXaenq8Wv) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [LEJOS DEL CIELO](https://open.spotify.com/album/4144E5wmhkJZJX4UR3Hw5M) | 3:28 | 2023-10-27 |  |
 | [Limbo](https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Prestige](https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg) | 3:44 | 2023-10-27 |  |
-| [Lloraras](https://open.spotify.com/track/2OJQV5HTP9cPj58ji5wtsv) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Al Paso](https://open.spotify.com/album/0hyNXLU9JNeF9DFwhmIqLL) | 4:46 | 2023-10-27 |  |
+| [Lloraras](https://open.spotify.com/track/0z04JPJXqZPY92TG5RE4Im) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Al Paso](https://open.spotify.com/album/2HULURSzDdc6CLAuBRf0QN) | 4:46 | 2023-11-17 |  |
+| [Lloraras](https://open.spotify.com/track/2OJQV5HTP9cPj58ji5wtsv) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Al Paso](https://open.spotify.com/album/0hyNXLU9JNeF9DFwhmIqLL) | 4:46 | 2023-10-27 | 2024-04-05 |
 | [Lo Que Pasó, Pasó](https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:30 | 2023-10-27 |  |
 | [Me Liberé](https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuevo Milenio \- El Mismo Sabor](https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn) | 4:23 | 2023-10-27 |  |
 | [Me Miras y Te Miro](https://open.spotify.com/track/1mEzt9vn6ROvC2xCYaAdBQ) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Originales](https://open.spotify.com/album/0iYfoInNEmGbbEIksf1PCu) | 4:54 | 2023-10-27 |  |

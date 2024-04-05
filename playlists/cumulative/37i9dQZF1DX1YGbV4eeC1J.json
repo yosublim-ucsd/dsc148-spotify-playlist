@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 189570,
       "name": "Abee",
       "url": "https://open.spotify.com/track/3Io6cTgNdEkXF4PFo8VqxP"
@@ -3182,6 +3182,24 @@
       "duration_ms": 189548,
       "name": "This Love",
       "url": "https://open.spotify.com/track/2qMwrsE1QFVCHlKGgs49Y0"
+    },
+    {
+      "album": {
+        "name": "Till I Die",
+        "url": "https://open.spotify.com/album/5gPQrFRHCI19mzvfzCJlYL"
+      },
+      "artists": [
+        {
+          "name": "Mimi Mars",
+          "url": "https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118526,
+      "name": "Till I Die",
+      "url": "https://open.spotify.com/track/5q5kRdpB5sNYXuvTbCZUZR"
     },
     {
       "album": {

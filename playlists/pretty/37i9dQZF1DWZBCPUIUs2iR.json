@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 666245,
+  "num_followers": 666932,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDhkMWIwNzMxNjYxMmU5NTgwMzM2NGM5ZGViODYyZGNjOGI3N2Fi",
+  "snapshot_id": "MCw3NGM2YzFhZjUyM2QwMDgyZjU4YWJlMTY5ZTI3YWI1MGMwODg2YTYz",
   "tracks": [
     {
       "added_at": "2024-03-19 00:08:42",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "Honkytonk University",
-        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "As Good As I Once Was",
-      "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
-    },
-    {
-      "added_at": "2024-03-19 00:08:42",
-      "album": {
         "name": "Tangled Up",
         "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 227426,
       "name": "Die A Happy Man",
       "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
+    },
+    {
+      "added_at": "2024-03-19 00:08:42",
+      "album": {
+        "name": "Honkytonk University",
+        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "As Good As I Once Was",
+      "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 277573,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -343,18 +343,18 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+      "duration_ms": 277573,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Daddy Sang Bass",
-      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
-    },
-    {
-      "added_at": "2024-03-19 00:08:42",
-      "album": {
         "name": "When I Call Your Name",
         "url": "https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 255133,
       "name": "When I Call Your Name",
       "url": "https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT"
+    },
+    {
+      "added_at": "2024-03-19 00:08:42",
+      "album": {
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Daddy Sang Bass",
+      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
-    },
-    {
-      "added_at": "2024-03-19 00:08:42",
-      "album": {
         "name": "All I Can Be",
         "url": "https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 231506,
       "name": "Love, Me",
       "url": "https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR"
+    },
+    {
+      "added_at": "2024-03-19 00:08:42",
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
     },
     {
       "added_at": "2024-03-19 00:08:42",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-03-19 00:08:42",
       "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/1cudEt9ALkzUNCcGeQX9cM"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Don't Let Our Love Start Slippin' Away",
-      "url": "https://open.spotify.com/track/70TsRbycWfabtevnripyRu"
-    },
-    {
-      "added_at": "2024-03-19 00:08:42",
-      "album": {
         "name": "A Country Boy Can Survive (Box Set)",
         "url": "https://open.spotify.com/album/2mUqVFSr5l4W2Hpm8t3Gfm"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 148440,
       "name": "Mind Your Own Business",
       "url": "https://open.spotify.com/track/4raGevWiW8i1gactXulebp"
+    },
+    {
+      "added_at": "2024-03-19 00:08:42",
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/1cudEt9ALkzUNCcGeQX9cM"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "url": "https://open.spotify.com/track/70TsRbycWfabtevnripyRu"
     },
     {
       "added_at": "2024-03-19 00:08:42",

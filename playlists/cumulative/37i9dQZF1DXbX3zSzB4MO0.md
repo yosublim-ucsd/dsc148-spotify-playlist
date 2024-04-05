@@ -4,7 +4,7 @@
 
 > Club vibes wherever you are!
 
-103 songs - 5 hr 11 min
+104 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Ritmo](https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl) | 3:03 | 2023-10-05 |  |
 | [Rule The World \(Everybody\)](https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Rule The World \(Everybody\)](https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ) | 2:52 | 2023-12-22 |  |
 | [Satisfaction](https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi) | 2:35 | 2023-09-01 |  |
+| [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2024-02-07 |  |
 | [Set Me Free](https://open.spotify.com/track/0mlT36UaCBdLk3eWBf1xP2) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Set Me Free](https://open.spotify.com/album/7IVvaU7Jcv9fikTipL141a) | 2:37 | 2023-09-15 | 2023-09-20 |
 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 | 2023-09-01 |  |
 | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI) | 2:55 | 2023-09-01 |  |
@@ -108,7 +109,7 @@
 | [UNTZ UNTZ](https://open.spotify.com/track/1jYQsPvg6A3UTEaxDYffDv) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [UNTZ UNTZ](https://open.spotify.com/album/2bxfjX4QcWh4gGUQYdP0z9) | 2:26 | 2023-09-01 |  |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-09-01 |  |
 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 | 2023-09-01 |  |
-| [Won't Forget You \(Felix Jaehn Remix Edit\)](https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Won't Forget You \(Remixes\)](https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD) | 3:04 | 2023-09-01 |  |
+| [Won't Forget You \(Felix Jaehn Remix Edit\)](https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Won't Forget You \(Remixes\)](https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD) | 3:04 | 2023-09-01 | 2024-04-05 |
 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 | 2023-09-01 |  |
 | [You & I](https://open.spotify.com/track/7k0kq03bs3micRAVvYgzg8) | [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [You & I](https://open.spotify.com/album/1tiC5qMa7iI5dES19tVAYH) | 2:55 | 2023-09-01 |  |
 

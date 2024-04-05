@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2FjMDZlODIyY2FkZTNhZjZiNTIxYjhmYTA0OGRkM2QxZDM0NmVk",
+  "snapshot_id": "MCw1ZWM2MTdkMDYwNDNmM2MzNDc4ZmU0Mjg0ZjEzY2VhNGNlMjVjN2Fk",
   "tracks": [
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "\u4e94\u7a2e\u611b\u7684\u5bc6\u8a9e",
         "url": "https://open.spotify.com/album/2jwrFQsFUNjLYwBeNKgMAG"
@@ -25,75 +25,7 @@
       "url": "https://open.spotify.com/track/3bUjOhILvle7j4yBLfxoYx"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
-      "album": {
-        "name": "In Mind",
-        "url": "https://open.spotify.com/album/2tU8bZsg1ZnPRZO1gfGdpZ"
-      },
-      "artists": [
-        {
-          "name": "Sweet John",
-          "url": "https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm"
-        },
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "\u4e0d\u5c0f\u5fc3\u611b\u4e0a\u4f60 ft. \u9b4f\u5982\u8431 waa wei",
-      "url": "https://open.spotify.com/track/49vNlEFxO7Uv95ZNC9stIP"
-    },
-    {
-      "added_at": "2023-02-11 06:41:28",
-      "album": {
-        "name": "\u4e8c\u5206\u4e4b\u4e00",
-        "url": "https://open.spotify.com/album/7iprefl3BmfpFerOMpc9Z1"
-      },
-      "artists": [
-        {
-          "name": "Limi",
-          "url": "https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2"
-        }
-      ],
-      "duration_ms": 249832,
-      "name": "\u4e16\u754c\u5f88\u5927,\u800c\u6211",
-      "url": "https://open.spotify.com/track/36FNosFEox8WcDOLKUtGf5"
-    },
-    {
-      "added_at": "2023-02-11 06:41:28",
-      "album": {
-        "name": "\u30d6\u30eb\u30fc\u30dd\u30c3\u30d7\u306f\u9cf4\u308a\u3084\u307e\u306a\u3044",
-        "url": "https://open.spotify.com/album/1vOK2rF2bQL4jDXFSv4UQf"
-      },
-      "artists": [
-        {
-          "name": "Sangatsu no Phantasia",
-          "url": "https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "\u604b\u306f\u30ad\u30e9\u30a4\u3060",
-      "url": "https://open.spotify.com/track/5bO1MldE8pnhlBmwS4U3zd"
-    },
-    {
-      "added_at": "2023-02-11 06:41:28",
-      "album": {
-        "name": "i love u",
-        "url": "https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 214003,
-      "name": "i love u",
-      "url": "https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4"
-    },
-    {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "\u5831\u5fa9\u5f0f\u6d6a\u6f2b (feat. moon tang)",
         "url": "https://open.spotify.com/album/0p4IXG9peFiRAtY0a7Xjuf"
@@ -113,7 +45,55 @@
       "url": "https://open.spotify.com/track/5T6PZMH6QDRnhN3fYaXDQz"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
+      "album": {
+        "name": "\u4e8c\u5206\u4e4b\u4e00",
+        "url": "https://open.spotify.com/album/7iprefl3BmfpFerOMpc9Z1"
+      },
+      "artists": [
+        {
+          "name": "Limi",
+          "url": "https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2"
+        }
+      ],
+      "duration_ms": 249832,
+      "name": "\u4e16\u754c\u5f88\u5927,\u800c\u6211",
+      "url": "https://open.spotify.com/track/36FNosFEox8WcDOLKUtGf5"
+    },
+    {
+      "added_at": "2024-04-04 07:20:32",
+      "album": {
+        "name": "\u30d6\u30eb\u30fc\u30dd\u30c3\u30d7\u306f\u9cf4\u308a\u3084\u307e\u306a\u3044",
+        "url": "https://open.spotify.com/album/1vOK2rF2bQL4jDXFSv4UQf"
+      },
+      "artists": [
+        {
+          "name": "Sangatsu no Phantasia",
+          "url": "https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "\u604b\u306f\u30ad\u30e9\u30a4\u3060",
+      "url": "https://open.spotify.com/track/5bO1MldE8pnhlBmwS4U3zd"
+    },
+    {
+      "added_at": "2024-04-04 07:20:32",
+      "album": {
+        "name": "i love u",
+        "url": "https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 214003,
+      "name": "i love u",
+      "url": "https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4"
+    },
+    {
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "\u60f3\u898b\u4f60\u60f3\u898b\u4f60\u60f3\u898b\u4f60(\u96fb\u8996\u5287\"\u60f3\u898b\u4f60\"\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i"
@@ -129,39 +109,27 @@
       "url": "https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
       "album": {
-        "name": "I Love You 3000",
-        "url": "https://open.spotify.com/album/44L0CHtegdQ1MauWk0BZ8x"
+        "name": "In Mind",
+        "url": "https://open.spotify.com/album/2tU8bZsg1ZnPRZO1gfGdpZ"
       },
       "artists": [
         {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        }
-      ],
-      "duration_ms": 209734,
-      "name": "I Love You 3000",
-      "url": "https://open.spotify.com/track/20GqLThxIpyo4LBnwoYe9T"
-    },
-    {
-      "added_at": "2023-02-11 06:41:28",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
+          "name": "Sweet John",
+          "url": "https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm"
+        },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
         }
       ],
-      "duration_ms": 156467,
-      "name": "Off My Face",
-      "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
+      "duration_ms": 239266,
+      "name": "\u4e0d\u5c0f\u5fc3\u611b\u4e0a\u4f60 ft. \u9b4f\u5982\u8431 waa wei",
+      "url": "https://open.spotify.com/track/49vNlEFxO7Uv95ZNC9stIP"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "\u597d\u304d\u3060\u304b\u3089\u3002",
         "url": "https://open.spotify.com/album/7J3ut50EyHiP6Rl92spPIu"
@@ -181,7 +149,39 @@
       "url": "https://open.spotify.com/track/0F6nGXMCUbtk8FiXvKi6HK"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
+      "album": {
+        "name": "I Love You 3000",
+        "url": "https://open.spotify.com/album/44L0CHtegdQ1MauWk0BZ8x"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "duration_ms": 209734,
+      "name": "I Love You 3000",
+      "url": "https://open.spotify.com/track/20GqLThxIpyo4LBnwoYe9T"
+    },
+    {
+      "added_at": "2024-04-04 07:20:32",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 156467,
+      "name": "Off My Face",
+      "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
+    },
+    {
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "\u4e16\u4e00",
         "url": "https://open.spotify.com/album/1YrplQ1IcOFstrRGSoqIwh"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/0YoqbSyFQngPdXaN0BAxnI"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
         "url": "https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/0TMGJMQJWHhuNY60MEr5jR"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "\u515c\u5708 (\u5076\u50cf\u5287\u300c\u5fc5\u5a36\u5973\u4eba\u300d\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/1biahM27YjovWm8dK7J9V2"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/4ezCayon5X4bTBj6ztNlDH"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
@@ -249,23 +249,7 @@
       "url": "https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
-      "album": {
-        "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein)",
-        "url": "https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2"
-      },
-      "artists": [
-        {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
-        }
-      ],
-      "duration_ms": 320165,
-      "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein) - \u96fb\u5f71<\u523b\u5728\u4f60\u5fc3\u5e95\u7684\u540d\u5b57>\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i"
-    },
-    {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "\u5979\u8aaa",
         "url": "https://open.spotify.com/album/2jzTdhgI2kvDx6NerFsRe8"
@@ -281,7 +265,7 @@
       "url": "https://open.spotify.com/track/56UzFYxgkvxU188BsCKBOc"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "\u5553\u793a\u9304",
         "url": "https://open.spotify.com/album/4uO5m2nHREvFrTeR7rOCDx"
@@ -297,7 +281,7 @@
       "url": "https://open.spotify.com/track/2bVyjdLhKmH7O38QBN2Ejh"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/2xyPGbBIwwkGXNiWuHhs2m"
@@ -313,7 +297,23 @@
       "url": "https://open.spotify.com/track/7Fs5kXKd3zK1gbfjqk5Z4E"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
+      "album": {
+        "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein)",
+        "url": "https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2"
+      },
+      "artists": [
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        }
+      ],
+      "duration_ms": 320165,
+      "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein) - \u96fb\u5f71<\u523b\u5728\u4f60\u5fc3\u5e95\u7684\u540d\u5b57>\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i"
+    },
+    {
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "Ginadoll",
         "url": "https://open.spotify.com/album/2XSd8TbPPpodHu28OcLslA"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/5D8Nin6waWHFxi4gyP5nda"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "\u52c1\u6d6a\u6f2b \u8d85\u6eab\u99a8",
         "url": "https://open.spotify.com/album/17rzHi2IJyAQS0X8MnetY2"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/78TbTvePaJ6FFdwSMSXARy"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "\u8001\u6d3e\u7d04\u6703\u4e4b\u5fc5\u8981",
         "url": "https://open.spotify.com/album/6Vgd72xB0XvQL23Nu5QlJ1"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/2lMVTk3I232dE7jnkufOSt"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "College",
         "url": "https://open.spotify.com/album/3rODzqpJZLShivWS9kCabs"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/2Ja6tE6B2QczAkf6YZOPMo"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "2084",
         "url": "https://open.spotify.com/album/2j3mX8c4hex5NmMlL4x7g4"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/6pJT4f6S8GPQ7hWCDvygrN"
     },
     {
-      "added_at": "2023-02-11 06:41:28",
+      "added_at": "2024-04-04 07:20:32",
       "album": {
         "name": "MySecret",
         "url": "https://open.spotify.com/album/2ZkF6zANeekBDgwMFGLIlf"

@@ -4605,6 +4605,24 @@
     },
     {
       "album": {
+        "name": "Holmen",
+        "url": "https://open.spotify.com/album/4WHi9n6BQ1o6qbyUJONOWh"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265522,
+      "name": "Holmen",
+      "url": "https://open.spotify.com/track/6BSe0z7siNCq6qbkPJm6CJ"
+    },
+    {
+      "album": {
         "name": "Nobody Is Not Loved, Remixes, Pt. 4",
         "url": "https://open.spotify.com/album/6NwJLoXyGez4imDQrZOLD4"
       },
@@ -11714,7 +11732,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 180814,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/4VdTPiVynDPgumUwyq72Yj"

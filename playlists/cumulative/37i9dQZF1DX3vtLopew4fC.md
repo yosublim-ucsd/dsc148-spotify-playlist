@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume\. Cover: Faouzia
 
-1,329 songs - 2 day 21 hr 22 min
+1,330 songs - 2 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1055,6 +1055,7 @@
 | [Slow Motion Fighting](https://open.spotify.com/track/11XzqusNjPjPdXkSWftcxW) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Slow Motion Fighting](https://open.spotify.com/album/7n5nAFG2XR2aHVdERmC9o0) | 3:51 | 2022-04-06 | 2023-01-05 |
 | [Small Town](https://open.spotify.com/track/0lvvlI1yJxlLmK3ZRqQMSl) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Small Town](https://open.spotify.com/album/7HOALEfTwqs734tvYauYIG) | 3:03 | 2022-07-06 | 2022-08-04 |
 | [Smoking Weed Alone](https://open.spotify.com/track/0aI85jfjeRy4UsLLc93Nw5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Crybaby](https://open.spotify.com/album/2a8473uZ3beO2ZuePXXBNf) | 3:11 | 2022-11-09 | 2023-01-05 |
+| [So Do I](https://open.spotify.com/track/4rnGatjVZ7P37HaYLLgCW1) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [So Do I](https://open.spotify.com/album/6GP6lddOxHm72zcNfVVKqo) | 2:55 | 2024-04-03 |  |
 | [So Mi Like It](https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [10](https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP) | 2:34 | 2022-06-01 | 2022-07-07 |
 | [So Quick](https://open.spotify.com/track/5R8M7QLz9fDYrgDRz3LaI1) | [Shanuka](https://open.spotify.com/artist/57wiktlw2QICiizAd9s2ny) | [So Quick](https://open.spotify.com/album/6QM5pGjE3xO7tzfkkntSky) | 2:16 | 2021-12-08 | 2022-01-06 |
 | [So So \(feat\. Dai Burger\)](https://open.spotify.com/track/69uVWhBBO5CUJIITkFzvum) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Dai Burger](https://open.spotify.com/artist/1y6hiqeSWkQrJYXkU5PvUk) | [Stock Exchange](https://open.spotify.com/album/1Riy0kKOJRtpGB9ewzBpJN) | 2:39 | 2021-12-08 | 2022-01-06 |

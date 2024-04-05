@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 32712,
+  "num_followers": 32718,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjkwNGFmOTQxOGE4NjllMGU3NjMwNDI5NDM2Yjk0ZmFjZDg0ZDE0",
+  "snapshot_id": "MCxhOTg1YjAwZjJlNTc4ZTBmMTQwNTUxZjZlOGI0NDZmMDg3N2ExMzE5",
   "tracks": [
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 186933,
-      "name": "Ever And A Day",
-      "url": "https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu"
+      "duration_ms": 155333,
+      "name": "The Nephilim",
+      "url": "https://open.spotify.com/track/6AbO0VF7dLnvQFJ8AbM5Vm"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 155333,
-      "name": "The Nephilim",
-      "url": "https://open.spotify.com/track/6AbO0VF7dLnvQFJ8AbM5Vm"
+      "duration_ms": 186933,
+      "name": "Ever And A Day",
+      "url": "https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu"
     },
     {
       "added_at": null,

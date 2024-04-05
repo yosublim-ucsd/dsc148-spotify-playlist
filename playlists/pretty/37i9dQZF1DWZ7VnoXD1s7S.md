@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,925 likes - 81 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,374 likes - 81 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 28 | [memories](https://open.spotify.com/track/4VkRQSpG16JxrXaVlNyWdX) | [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb) | [memories](https://open.spotify.com/album/1W7locJBenHBGz0Z8OzBcq) | 1:26 |
 | 29 | [Still Life](https://open.spotify.com/track/69PcaJEZMB3cCfCeRSibj2) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C) | [Be the One You Love](https://open.spotify.com/album/4vnVALee891bV599C0I6rI) | 3:22 |
 | 30 | [Nice Boys](https://open.spotify.com/track/6uuBSo3wXnosEWVXRzZDTf) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 3:00 |
-| 31 | [Agony \- Instrumental](https://open.spotify.com/track/1nO49nVkqlqOHU8mrjAVWu) | [TheExorcist](https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR) | [Agony \(Instrumental\)](https://open.spotify.com/album/6WF6Q0Ihfc5ZmbxICIuRnN) | 5:01 |
+| 31 | [Agony \- Instrumental](https://open.spotify.com/track/79dGhCtRRTj3XqqXnvSkG7) | [Scammacist](https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn), [Sovara](https://open.spotify.com/artist/5LvxxkEWNKHYGIntNEg2NY) | [Agony \(Instrumental\)](https://open.spotify.com/album/7CoUIJf8UmStUci7q0Mftu) | 5:01 |
 | 32 | [Fika](https://open.spotify.com/track/2cMCreuGNlEP5zzxXIMQS2) | [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi) | [Isolated](https://open.spotify.com/album/2tchNCm4dsnBTu3KaXCQy0) | 3:18 |
 | 33 | [PP1](https://open.spotify.com/track/1lZUpqag6NEbHJqOEVKsAz) | [Frakkur](https://open.spotify.com/artist/7MsCO5nqwXGWzbEFzpXxMV) | [2000 \- 2004](https://open.spotify.com/album/0XEVhUvCuqZpSClREEsVlg) | 4:21 |
 | 34 | [I Don't Want To Set The World On Fire](https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 58 | [Spaces Inbetween.](https://open.spotify.com/track/54shhL9vif2iwUXg0lNpQX) | [Omori](https://open.spotify.com/artist/4DoTDDfW3gkeyb06XrIHlg) | [Omori \(Original Game Soundtrack\), Pt.1](https://open.spotify.com/album/3SDU0tsnoMO841qeOHlP8B) | 0:58 |
 | 59 | [aisatsana \[102\]](https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 5:21 |
 | 60 | [Deep Swim](https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Enchanted Instrumentals and Whispers](https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N) | 4:16 |
-| 61 | [nevermind, everything's ok](https://open.spotify.com/track/6ALOEBRrJZZ1lpAHbr1VOA) | [dreamcorp.](https://open.spotify.com/artist/0UIto5RF21KnI9X46G0Lau) | [dreams](https://open.spotify.com/album/0iOX2i9TIzAfZZHjF1x1Cm) | 3:18 |
+| 61 | [nevermind, everything's ok](https://open.spotify.com/track/3ttTgxZGqqwfO8NtNrnQvb) | [Elliot Norlander](https://open.spotify.com/artist/2vcH94PF19UypegwaEughz) | [nevermind, everything's ok](https://open.spotify.com/album/3nmFmqgX6pJH8QzQ8B3JKW) | 3:18 |
 | 62 | [overpopulation at the end of everything is less of a worry, haha \('a letter to you' from mother 3\)](https://open.spotify.com/track/0NPajRRbTvnXppqfEU8qaW) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [atlantis part 2](https://open.spotify.com/album/1rgyl3sbS5ViSSuvnXU734) | 1:23 |
 | 63 | [Implanted Memories](https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Computer Afterlife](https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq) | 1:26 |
 | 64 | [Nocturne Interlude](https://open.spotify.com/track/5yeKnXDHfMOeZNbAKoRpIB) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 1:29 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 80 | [Best of Luck](https://open.spotify.com/track/3D0SDYQLsZFt3DK6iRiWs1) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Velocity \(Music from the Film\)](https://open.spotify.com/album/0YeQBgnX0wFRWNWoXPjmNR) | 1:51 |
 | 81 | [White Noiz](https://open.spotify.com/track/3JjXYP1XVbcrFYwgbFsPCZ) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:23 |
 
-Snapshot ID: `MCwzZWEzN2Y0YjQxZWI0ZTA2Y2Y1NmQwM2RhNmNhMjkyOTk2OTRlY2Q2`
+Snapshot ID: `MCwyZjYwOGUzZmJiMTFjMDZhYTc4ZGY5Mjk0ZmIyZDBmZDVhMGEzMzU1`

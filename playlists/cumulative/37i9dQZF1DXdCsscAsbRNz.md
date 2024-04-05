@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-360 songs - 17 hr 10 min
+365 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Horizon](https://open.spotify.com/track/1v7qvbTyjn77X1oTValc3z) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Horizon](https://open.spotify.com/album/6LWJK9xh6Fh5KHP7GjBnx5) | 4:52 | 2020-10-20\* | 2021-01-07 |
 | [How did it Happen](https://open.spotify.com/track/5Ssia1opQ1cpUBiY0hLSUy) | [Tom Holding](https://open.spotify.com/artist/6ricPc7dXpgND8NjKLbHqg) | [How did it Happen](https://open.spotify.com/album/52NgJ1FXRHFcfDYH9EWt07) | 1:53 | 2020-10-20\* | 2023-07-29 |
 | [Hushed Premonition](https://open.spotify.com/track/5p3moUVU9JBeuj67GmZjSZ) | [amabilla stills](https://open.spotify.com/artist/6FLdU3AbGAyrRIX4ma1MxF) | [Hushed Premonition](https://open.spotify.com/album/0A7MgyzLmzMl52aDlGx3gJ) | 3:34 | 2020-10-20\* | 2024-03-27 |
+| [Hygge](https://open.spotify.com/track/6EhChspFVFDa6aMW61IdRD) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Hygge](https://open.spotify.com/album/5QE4P72MV75aIIgEVTDAXO) | 2:29 | 2024-04-04 |  |
 | [Hypnosis](https://open.spotify.com/track/6xhwbnVSG3DeLM6oZau2Mr) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [The Minimalist](https://open.spotify.com/album/2XtO4MwzBtukUmgMEWZ33M) | 3:12 | 2020-10-20\* |  |
 | [I](https://open.spotify.com/track/2FQviMkaoixlgWuGL4u1EO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 1:17 | 2022-07-22 | 2023-07-29 |
 | [I](https://open.spotify.com/track/770urYRt3t7vImMY8106hB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/1Xdzq7uZAv640cXUoeAFAZ) | 1:17 | 2020-10-20\* | 2022-07-29 |
@@ -264,6 +265,7 @@
 | [Sailing Through Our Night](https://open.spotify.com/track/0vbKO2YqTAoyjBzjLMpIOX) | [Milford Keynes](https://open.spotify.com/artist/7q7lOOGnChjRBjZ8yDGSC1) | [Sailing Through Our Night](https://open.spotify.com/album/3EQXfScxlCCbJLlH3CVRFn) | 2:13 | 2020-10-20\* |  |
 | [Saorsa](https://open.spotify.com/track/0wmllTG9uDe4kCBwGsQi7C) | [Zoltan Granosh](https://open.spotify.com/artist/2Gsns5NInNwsauuIXU3T4g) | [Xyst](https://open.spotify.com/album/4n7NhKvTUcsW8MXhlCp0CB) | 2:31 | 2021-03-06 |  |
 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 | 2020-10-20\* |  |
+| [Sbocciare](https://open.spotify.com/track/6J8pPNooqGI2zYOg8vwOAD) | [Nela Bautista](https://open.spotify.com/artist/57p6zjae5P8UG8gGu8jO4w) | [Sbocciare](https://open.spotify.com/album/5xm1l23P5p49PKyzE2M73j) | 2:45 | 2024-04-04 |  |
 | [Scarlet](https://open.spotify.com/track/2cIZnj2au400srT96TbOUO) | [Antonella Schiavone](https://open.spotify.com/artist/66UPdA7Hmxuf3JpXWWxh4s) | [Scarlet](https://open.spotify.com/album/5xlxpmwsMshrHl8BP5gYDe) | 1:42 | 2020-10-20\* | 2023-07-29 |
 | [Serene Sanctuary](https://open.spotify.com/track/69HNELzycnP7UucHMyfPv6) | [Meliore](https://open.spotify.com/artist/2idtXzJnFZXORxj1JhTTqZ) | [Serene Sanctuary](https://open.spotify.com/album/06KfQjiKksP8mmCSdayolJ) | 2:31 | 2023-03-03 |  |
 | [Serenity](https://open.spotify.com/track/2I9qjveKy0l2SqyDb1F9jj) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Mansellastica](https://open.spotify.com/album/57UbkSTXlX14SUDc7yakvx) | 3:49 | 2021-04-15 | 2022-08-13 |
@@ -293,6 +295,8 @@
 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 | 2021-09-24 |  |
 | [Spirit Dance](https://open.spotify.com/track/60782fvOOB4v0m9dYT7F8M) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Spirit Dance](https://open.spotify.com/album/2Urj4oCqA2SzlhZpmD6oOH) | 3:05 | 2023-12-01 |  |
 | [Spiritual Alignment](https://open.spotify.com/track/2i171UfyH6nG0qqrIdwoCO) | [Sunwell](https://open.spotify.com/artist/1FZkHf5jmlpSdySTd8BUu2) | [Spiritual Alignment](https://open.spotify.com/album/6APh84KBRc7seMrOxssFi4) | 3:42 | 2020-10-20\* | 2023-02-10 |
+| [Splendor](https://open.spotify.com/track/7cMFnReFBsP5Zt3wYdKHNn) | [The Eternalists](https://open.spotify.com/artist/5QtPdyrH3QEW55lpWcupc5) | [Splendor](https://open.spotify.com/album/7APEBk88QsJDd9sHiNPdQS) | 2:55 | 2024-04-04 |  |
+| [Starfield](https://open.spotify.com/track/2uQoWtKqoD4KqUOvSx1fFA) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Starfield](https://open.spotify.com/album/5kUUjwdp0Otxljg9h6JGJO) | 2:10 | 2024-04-04 |  |
 | [Starlight Song](https://open.spotify.com/track/6D1DLNT4FshLPwdiQ45rXu) | [Jamie McNeal](https://open.spotify.com/artist/74vNtY2P9DwQNltXVislIc) | [Starlight Song](https://open.spotify.com/album/0a81mgVUyef6JqS7DIPGb4) | 2:59 | 2021-08-27 |  |
 | [State of Tranquility](https://open.spotify.com/track/1JFb0Na5vJFckCPOmrxPXR) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 4:08 | 2020-10-20\* |  |
 | [Steady](https://open.spotify.com/track/089DXbcfLgJEJyuOyQWEdN) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [Look Ahead](https://open.spotify.com/album/650nklWLMUwYLTG9AVsH34) | 2:52 | 2020-10-20\* |  |
@@ -321,6 +325,7 @@
 | [The Light of Day](https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [The Light of Day](https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71) | 2:47 | 2020-10-20\* | 2022-07-16 |
 | [The Quiet Hours](https://open.spotify.com/track/40M4T2bzYllLK4DzSPCGPy) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [The Quiet Hours](https://open.spotify.com/album/05MirPFXPGeqG59lLaHGyN) | 2:10 | 2021-09-08 |  |
 | [The Seeds I’ve Sown](https://open.spotify.com/track/3OLr0gzUC0zLlWmpE6L0Ay) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [The Seeds I've Sown](https://open.spotify.com/album/7FN3LtwM4XRkXXHuLPTzdI) | 3:01 | 2020-10-20\* | 2022-02-04 |
+| [The Slo Flo](https://open.spotify.com/track/1RtBurgE4dwfGEetqY7Kl9) | [Ambientics](https://open.spotify.com/artist/5P4WyIscm91rNDa8lZuW6a) | [The Slo Flo](https://open.spotify.com/album/49uMgOuiw3fmurGdsrfqaw) | 3:10 | 2024-04-04 |  |
 | [The Space Between Us](https://open.spotify.com/track/6sjD1SSw6kbkSDi5qIUxQO) | [Sarah Jacoby](https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V) | [Born Again](https://open.spotify.com/album/4VhkKxDXLDSmk9XxzJYWKo) | 2:54 | 2022-12-09 |  |
 | [These Steady Hands](https://open.spotify.com/track/3IIJBXhYKDDRk5UAaSSacY) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 2:45 | 2020-10-20\* | 2024-03-27 |
 | [Thoughts](https://open.spotify.com/track/3MUvt8kUIA6QPSBTEnjgMr) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Empty Canvas](https://open.spotify.com/album/6xla5pUFL0vlN6NjCEeOV3) | 3:21 | 2020-10-20\* | 2024-03-27 |

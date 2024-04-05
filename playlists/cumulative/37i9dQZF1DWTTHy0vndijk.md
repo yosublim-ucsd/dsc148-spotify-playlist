@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: STAYC \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-406 songs - 22 hr 33 min
+407 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 | 2021-11-29 |  |
 | [REDSUN](https://open.spotify.com/track/1jJlwj28RdKzfF2r8Zoz3f) | [Conch](https://open.spotify.com/artist/1Wi58TGvGgV38POMcpUOUv) | [REDSUN](https://open.spotify.com/album/1JofVGiNaETwZsFwrmfrBw) | 2:43 | 2022-06-20 | 2022-07-05 |
 | [Renaissance](https://open.spotify.com/track/73tK3X9QfFjSjby77aeKye) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Dream your dream](https://open.spotify.com/album/6PfJc6U6hFSmFs0AxaTEeY) | 3:41 | 2021-11-29 | 2022-06-12 |
-| [Ridin' Out](https://open.spotify.com/track/0WRjZPy5qlpvgzM0hwBIc2) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [BAD](https://open.spotify.com/album/2Abu3BsKcVE3bSdXk6Cukx) | 2:56 | 2024-03-18 |  |
+| [Ridin' Out](https://open.spotify.com/track/0WRjZPy5qlpvgzM0hwBIc2) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [BAD](https://open.spotify.com/album/2Abu3BsKcVE3bSdXk6Cukx) | 2:56 | 2024-03-18 | 2024-04-05 |
 | [RING X RING](https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception : chapter one](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) | 3:20 | 2021-11-29 | 2022-10-28 |
 | [Rock U](https://open.spotify.com/track/1UH0rFRBSBEtgtUdqNKFK5) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [The Best Of KARA](https://open.spotify.com/album/1hbLjh2GLYu56RMNIy5kRr) | 3:31 | 2022-03-29 | 2022-04-21 |
 | [Roller Coaster](https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Roller Coaster](https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw) | 2:59 | 2023-07-03 |  |
@@ -304,6 +304,7 @@
 | [Silly](https://open.spotify.com/track/2a2u3rXdvwjkZUV4K3jepq) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.4 Cait Sith](https://open.spotify.com/album/5CkOZ5vgacWk5rMr620rsW) | 4:00 | 2022-03-29 | 2022-04-12 |
 | [Single Heart](https://open.spotify.com/track/3WwP3uqSBOUdL35ICAW2Zs) | [Bella](https://open.spotify.com/artist/35zGq5770Sla7X3qweK9yo), [Hyeseong](https://open.spotify.com/artist/3EVONoZnP970K2Y3k0HzLj) | [RICHMAN OST Part.4](https://open.spotify.com/album/6rAd1PzPDbfEg70cNQ7gLG) | 3:16 | 2022-03-29 | 2022-04-21 |
 | [Sixteen](https://open.spotify.com/track/3hNdg4iWnhnjj1kP14sRKC) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 3:21 | 2022-01-04 | 2022-04-21 |
+| [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 | 2024-04-04 |  |
 | [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 | 2022-08-03 | 2023-08-15 |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-17 |  |
 | [Smooth Sailing](https://open.spotify.com/track/0eBKVjyBWAEpxZn6q5QdS0) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [4th EP Album 'Us in the Summer'](https://open.spotify.com/album/3VQXrqt21tT3CEetwBqWLb) | 3:36 | 2023-08-30 | 2023-10-12 |

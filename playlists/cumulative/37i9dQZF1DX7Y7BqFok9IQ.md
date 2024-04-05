@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Slash
 
-274 songs - 17 hr 20 min
+275 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,8 @@
 | [Tell Me](https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/7hLiHJqM7TJJrHxN5o4FWB) | 3:17 | 2021-02-26 | 2022-07-28 |
 | [Testify \- Radio Edit](https://open.spotify.com/track/0AMQlLoWnXwD9rwe852cUM) | [These Wicked Rivers](https://open.spotify.com/artist/0GqHJdaaT0S1kjk3zhEVKu) | [Testify \(Radio Edit\)](https://open.spotify.com/album/3gboQHxNh9JFRNk1A1tib4) | 4:13 | 2023-02-03 | 2023-09-16 |
 | [The Call](https://open.spotify.com/track/7jC3g7Zt4hTsuOOMOBc75b) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [The Call](https://open.spotify.com/album/7JO8hvc7MmKxvM217csaMz) | 3:29 | 2022-04-08 |  |
-| [The Deep And The Dirty](https://open.spotify.com/track/7muqW2jlmexIiyQpVz2eaR) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/2xXRnrq7Q0eXvdSCvCMimk) | 3:47 | 2023-06-23 |  |
+| [The Deep and the Dirty](https://open.spotify.com/track/3nQpyaOEql2BECg4QmaCrF) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep and the Dirty](https://open.spotify.com/album/67KkHhNmrpt1NkoiRW1cXc) | 3:47 | 2023-06-23 |  |
+| [The Deep And The Dirty](https://open.spotify.com/track/7muqW2jlmexIiyQpVz2eaR) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/2xXRnrq7Q0eXvdSCvCMimk) | 3:47 | 2023-06-23 | 2024-04-05 |
 | [The Drop](https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc) | 3:39 | 2020-10-16 | 2023-12-23 |
 | [The Drop](https://open.spotify.com/track/4RaIGi86fsQ34SC4r7nGf5) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/7uDSOgunaHsoMJchpIU44T) | 3:39 | 2020-10-16 | 2022-07-25 |
 | [The Drop](https://open.spotify.com/track/7v2sAn8Epk75eyuN7V1Xol) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/4umFE3UJjwqt7N57m6VyTf) | 3:39 | 2020-10-16 |  |

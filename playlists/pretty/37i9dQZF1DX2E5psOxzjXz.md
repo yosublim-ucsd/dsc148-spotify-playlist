@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Hasan Raheem
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,862 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,879 likes - 85 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 6 | [Tere Baajo](https://open.spotify.com/track/1Giy9XohjL9TZPGfm90jim) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Tere Baajo](https://open.spotify.com/album/4GKHmod11S1lF33zJH5LIQ) | 3:12 |
 | 7 | [NAAL](https://open.spotify.com/track/4ZCIQlHFG44NvcwpoXvEob) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [NAAL](https://open.spotify.com/album/62DhFkn8ipPEpbmokdXyaM) | 2:36 |
 | 8 | [Haaray](https://open.spotify.com/track/2LCvypYL9a21Hln4A4EdWU) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Haaray](https://open.spotify.com/album/5yRZJ8DeZ2eeDbYqW83KOd) | 3:04 |
-| 9 | [Lamha](https://open.spotify.com/track/2dCrvLPU36Iv8p7Tq1Vy6V) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7) | [Chaar Dinon Ka Khwaab](https://open.spotify.com/album/72qKpOx8VNdYxZriGFnBnz) | 4:48 |
+| 9 | [Lamha](https://open.spotify.com/track/3FI4xMdyLRTTEcmxl17cEn) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7) | [Chaar Dinon Ka Khwaab](https://open.spotify.com/album/6nV3b2qvy5aAk33JoVrvHu) | 4:48 |
 | 10 | [Siyah](https://open.spotify.com/track/6xFWVY7hS55qaF7fXBEw7X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/0PedR8249zcLWFtNNkAEcZ) | 2:51 |
 | 11 | [Diya](https://open.spotify.com/track/6be2Qb95JM8HnKtJHYWpzG) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Diya](https://open.spotify.com/album/6ngQPB42n6qbvTHhoDHoNX) | 3:15 |
 | 12 | [Hum Kahan](https://open.spotify.com/track/4lU9mJtD01KknelD2W2jX8) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Hum Kahan](https://open.spotify.com/album/6de2uubuc6Oi51s8A7PPkV) | 3:09 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 84 | [Take Me Home](https://open.spotify.com/track/5AUv6RJO2JBJ2BFcu4ErCO) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Take Me Home](https://open.spotify.com/album/4TqDP0UAdkvYEcy9OwWl6P) | 3:06 |
 | 85 | [Sub Theek Hai](https://open.spotify.com/track/2q0amZ8WgDGN7xBOBG7Dl6) | [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Shayan Fatani](https://open.spotify.com/artist/6ALIDmAST5XPoCSoxWCzwq) | [Sub Theek Hai](https://open.spotify.com/album/4380eKIz6zC3isIoJwc4TF) | 2:23 |
 
-Snapshot ID: `MCxmYmU3MTRhNWRiODE1OGRmMzA1NzY0MmE4NzIxMjFiNTIzM2FlMzdl`
+Snapshot ID: `MCwyYzAwZTNiOTExMDA1YTk2MDMwYzM2MGEyY2IwYTYxMmI1YTJhZTM1`

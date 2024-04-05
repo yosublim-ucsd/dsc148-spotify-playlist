@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Tiakola au top de la première playlist de rap français !
+> Kerchak au top de la première playlist de rap français !
 
-241 songs - 12 hr 23 min
+243 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [3 singes](https://open.spotify.com/track/4HllqyOknEOEwq7bZuhDW7) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [3 singes](https://open.spotify.com/album/1zyctO1OPYpG3lMmbFWaLO) | 3:02 | 2023-02-16 | 2023-04-14 |
 | [44](https://open.spotify.com/track/1zmXVf6lCsdVRWRetxauFG) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/65EcukDOv2KFUXYVGWdqe2) | 2:47 | 2022-01-06 | 2022-12-09 |
 | [4MOTION](https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [4MOTION](https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E) | 3:19 | 2024-03-07 |  |
-| [6G](https://open.spotify.com/track/4MsOD2fBtHHIyyKY4acddP) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [6G](https://open.spotify.com/album/54LK6dIRTx4gRYznkLdjzt) | 2:52 | 2024-02-08 |  |
+| [6G](https://open.spotify.com/track/4MsOD2fBtHHIyyKY4acddP) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [6G](https://open.spotify.com/album/54LK6dIRTx4gRYznkLdjzt) | 2:52 | 2024-02-08 | 2024-04-05 |
 | [A la base](https://open.spotify.com/track/0GUH7Qb3w9xOcfRIWoaJmt) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna](https://open.spotify.com/album/4G2UgJhnsWIdYYuTtILd7I) | 4:26 | 2022-01-06 | 2022-07-29 |
 | [A la base](https://open.spotify.com/track/0VJwgZkDmZZLZygKnPj2s6) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 4:26 | 2022-07-28 | 2022-08-26 |
 | [Ailleurs](https://open.spotify.com/track/7ujxY1bqVRvMe1sR5iFmxt) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 2:45 | 2023-11-23 |  |
@@ -50,7 +50,7 @@
 | [CARTIER](https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:49 | 2024-01-04 |  |
 | [CELINE 3X](https://open.spotify.com/track/2APwDsIavDeJRJFcz6s8Ow) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [CELINE 3X](https://open.spotify.com/album/41kuLdSoezApusMB9AIZCT) | 2:38 | 2022-05-26 | 2022-12-09 |
 | [Cette année\-là](https://open.spotify.com/track/41NJluEub1MMcwkUo411an) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:08 | 2022-12-08 | 2022-12-24 |
-| [Chemin d'or](https://open.spotify.com/track/3rkyVQEgaDR5nZvW10QOrQ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 3:32 | 2023-12-21 |  |
+| [Chemin d'or](https://open.spotify.com/track/3rkyVQEgaDR5nZvW10QOrQ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 3:32 | 2023-12-21 | 2024-04-05 |
 | [Chic choc](https://open.spotify.com/track/1mPommdCgPxwWW1pkoUkes) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [VOL 169 ATTERRISSAGE](https://open.spotify.com/album/7u3TOtAemTZ2eXT7JjNBCh) | 3:11 | 2022-05-12 | 2022-11-04 |
 | [Chop \(Nouvelle École\)](https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Chop \(Nouvelle École\)](https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U) | 3:15 | 2022-06-30 | 2022-11-17 |
 | [Chop \- Nouvelle École](https://open.spotify.com/track/1NEL5O5FotR1OyPQyvlMag) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 3:15 | 2022-11-10 | 2022-12-09 |
@@ -97,6 +97,7 @@
 | [Full black](https://open.spotify.com/track/3GdWREHnpwt24gHOxqKbOo) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xNkM6KOf8SQqeNOHTYlzD) | 2:29 | 2022-01-13 | 2022-07-29 |
 | [Full black](https://open.spotify.com/track/7DPQMoNUREqcRjlnbFh2cN) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/2QZYxEoqTwj45Ajifa0hxg) | 2:29 | 2022-07-28 | 2022-08-24 |
 | [FUM22 NOCIVE](https://open.spotify.com/track/3v9eCrcYmTjYjy68TWHj5b) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [MELANCHOLIA 999](https://open.spotify.com/album/0bybjX3wEDFCqYe65E9q1a) | 2:11 | 2022-01-06 | 2022-08-05 |
+| [GARS DU ZOO](https://open.spotify.com/track/2x4Tzd6KDGwiMraNGopTyf) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [SUR LE CHEMIN \(Phase 2\)](https://open.spotify.com/album/5snjlu5BRcHa6UFsrmF14C) | 2:45 | 2024-04-04 |  |
 | [Gasolina \(feat\. Ninho\)](https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Toujours nous\-mêmes](https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP) | 2:33 | 2022-01-06 | 2022-09-23 |
 | [Gasolina \(feat\. Rsko\)](https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:03 | 2022-06-02 | 2023-03-25 |
 | [Gaza](https://open.spotify.com/track/2e6LkWTmEDqlUmODfIpZsb) | [Un jour de paix](https://open.spotify.com/artist/4ClHj8bEVJatxqxBqY7SHA), [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Gaza](https://open.spotify.com/album/2wP3iEGhtn0HkcCrX44GhP) | 4:33 | 2023-12-14 | 2024-02-09 |
@@ -155,6 +156,7 @@
 | [Manège](https://open.spotify.com/track/0JyX9jNf4mUdp1eNUVAqyR) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/1UEcfpwy8q1TvhATQx6Ntu) | 2:29 | 2022-01-06 | 2022-02-11 |
 | [Mapessa \(feat\. Tiakola\)](https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 2:48 | 2022-01-06 | 2022-09-30 |
 | [Match](https://open.spotify.com/track/5atXcF9P7BvCIfCwpALYXB) | [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Match](https://open.spotify.com/album/1DyKKChdiu0IdEZvz4yt4U) | 2:23 | 2023-02-09 | 2023-05-12 |
+| [Maudit](https://open.spotify.com/track/441BFongsHOE1kQKMsVGWm) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Maudit](https://open.spotify.com/album/4Q3jOM5dPofPLTSVanGVBM) | 3:17 | 2024-04-04 |  |
 | [Mauvais](https://open.spotify.com/track/54UJEUIggHJVojkbMOtkZT) | [Mayo](https://open.spotify.com/artist/4NYN8zAaPqtfM9MHFTmC0a), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Mauvais](https://open.spotify.com/album/539crVxyaWT2XJ5l3npt6c) | 2:46 | 2023-06-08 | 2023-11-17 |
 | [MAUVAIS 2X \(feat\. Ninho\)](https://open.spotify.com/track/6UlSVbJrj3wsyxjGM4KPAv) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [MAUVAIS 2X \(feat\. Ninho\)](https://open.spotify.com/album/1VzvY3LElVy2aPEph6Tsch) | 4:00 | 2022-01-06 | 2022-07-08 |
 | [MAUVAIS PAYEUR](https://open.spotify.com/track/2IGabiC03QhYoz6lcAmxXk) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [MAUVAIS PAYEUR](https://open.spotify.com/album/0fpEA74mmopuM5pJfnYBpT) | 2:19 | 2022-01-20 | 2022-05-06 |

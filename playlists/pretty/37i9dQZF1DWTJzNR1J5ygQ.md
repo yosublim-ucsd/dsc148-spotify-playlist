@@ -2,34 +2,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJzNR1J5ygQ.md) - [plain]
 
 ### [I Love My Midwest Classics](https://open.spotify.com/playlist/37i9dQZF1DWTJzNR1J5ygQ)
 
-> It's a Midwest thing\. Cover: Lupe Fiasco
+> It's a Midwest thing\. Cover: Nelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,231 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,357 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ride Wit Me](https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [City Spud](https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:51 |
+| 1 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 |
 | 2 | [Guilty Conscience](https://open.spotify.com/track/6da04YB906XonC6IQNC44u) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 3:19 |
 | 3 | [Tha Crossroads](https://open.spotify.com/track/5KSJ9k1FYjFLnIRlJT2wF8) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [E\. 1999 Eternal](https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9) | 3:43 |
 | 4 | [Through The Wire](https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:41 |
 | 5 | [Paris, Tokyo](https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:30 |
 | 6 | [Cocoa Butter Kisses](https://open.spotify.com/track/0aMHIW1lqrulVCx0LLlr6a) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Acid Rap](https://open.spotify.com/album/2VBcztE58pBKjIDS5oEgFh) | 5:07 |
-| 7 | [Won't Do](https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 3:52 |
-| 8 | [My Name Is](https://open.spotify.com/track/75IN3CtuZwTHTnZvYM4qnJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 4:28 |
-| 9 | [Thuggish Ruggish Bone](https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Creepin on Ah Come Up](https://open.spotify.com/album/5g2FfZVMvBqRmuHjNsaf3l) | 4:41 |
-| 10 | [Love Sosa](https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:06 |
-| 11 | [Overnight Celebrity](https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Kamikaze](https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb) | 3:53 |
-| 12 | [The Show Goes On](https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lasers](https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D) | 3:59 |
-| 13 | [Role Model](https://open.spotify.com/track/0EtirusGt3LivUmALXSMVe) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 3:25 |
-| 14 | [The Corner](https://open.spotify.com/track/31rk2z6XreitvUgfJURMil) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [The Last Poets](https://open.spotify.com/artist/58Wl2AJZWwfvEn2eAWJbIG) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 3:45 |
-| 15 | [Po Pimp](https://open.spotify.com/track/66AMCAjrOk7c957i3ej06f) | [Do Or Die](https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB) | [Picture This](https://open.spotify.com/album/4Rjhr6Jg80XQ94uDA8UZkG) | 3:54 |
-| 16 | [The Light](https://open.spotify.com/track/5NiUrZVKyLpsyj62Roq5FW) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Like Water For Chocolate](https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub) | 4:21 |
-| 17 | [The Look of Love, Pt\. 1](https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [J\-88](https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta) | 3:38 |
-| 18 | [Just What I Am](https://open.spotify.com/track/20bJBbPapGQ4bqs0YcA9xY) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [King Chip](https://open.spotify.com/artist/5NjUjtjtkzZqRuWFdspT1K) | [Indicud](https://open.spotify.com/album/262o5a05pMUDSV2uzo5EwQ) | 3:48 |
-| 19 | [Hay](https://open.spotify.com/track/56hvN4r1qI7kDW9cw1lVov) | [Crucial Conflict](https://open.spotify.com/artist/1NMPFAWwsqqy5m8kEQvDl6) | [The Final Tic](https://open.spotify.com/album/1R5AaySMUzB0lmuwQ49YJO) | 4:20 |
-| 20 | [Purple Pills](https://open.spotify.com/track/5IweeQZdY5XEzStLzUJG5t) | [D12](https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0) | [Devils Night](https://open.spotify.com/album/22CVoj4sxsAGO02OONbkQA) | 5:04 |
-| 21 | [Fast Lane](https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Hell: The Sequel \(Deluxe\)](https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P) | 4:09 |
-| 22 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 |
+| 7 | [Ride Wit Me](https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [City Spud](https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:51 |
+| 8 | [Won't Do](https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 3:52 |
+| 9 | [My Name Is](https://open.spotify.com/track/75IN3CtuZwTHTnZvYM4qnJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 4:28 |
+| 10 | [Thuggish Ruggish Bone](https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Creepin on Ah Come Up](https://open.spotify.com/album/5g2FfZVMvBqRmuHjNsaf3l) | 4:41 |
+| 11 | [Love Sosa](https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:06 |
+| 12 | [Overnight Celebrity](https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Kamikaze](https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb) | 3:53 |
+| 13 | [The Show Goes On](https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lasers](https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D) | 3:59 |
+| 14 | [Role Model](https://open.spotify.com/track/0EtirusGt3LivUmALXSMVe) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 3:25 |
+| 15 | [The Corner](https://open.spotify.com/track/31rk2z6XreitvUgfJURMil) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [The Last Poets](https://open.spotify.com/artist/58Wl2AJZWwfvEn2eAWJbIG) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 3:45 |
+| 16 | [Po Pimp](https://open.spotify.com/track/66AMCAjrOk7c957i3ej06f) | [Do Or Die](https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB) | [Picture This](https://open.spotify.com/album/4Rjhr6Jg80XQ94uDA8UZkG) | 3:54 |
+| 17 | [The Light](https://open.spotify.com/track/5NiUrZVKyLpsyj62Roq5FW) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Like Water For Chocolate](https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub) | 4:21 |
+| 18 | [The Look of Love, Pt\. 1](https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [J\-88](https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta) | 3:38 |
+| 19 | [Just What I Am](https://open.spotify.com/track/20bJBbPapGQ4bqs0YcA9xY) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [King Chip](https://open.spotify.com/artist/5NjUjtjtkzZqRuWFdspT1K) | [Indicud](https://open.spotify.com/album/262o5a05pMUDSV2uzo5EwQ) | 3:48 |
+| 20 | [Hay](https://open.spotify.com/track/56hvN4r1qI7kDW9cw1lVov) | [Crucial Conflict](https://open.spotify.com/artist/1NMPFAWwsqqy5m8kEQvDl6) | [The Final Tic](https://open.spotify.com/album/1R5AaySMUzB0lmuwQ49YJO) | 4:20 |
+| 21 | [Purple Pills](https://open.spotify.com/track/5IweeQZdY5XEzStLzUJG5t) | [D12](https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0) | [Devils Night](https://open.spotify.com/album/22CVoj4sxsAGO02OONbkQA) | 5:04 |
+| 22 | [Fast Lane](https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Hell: The Sequel \(Deluxe\)](https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P) | 4:09 |
 | 23 | [What'chu Like \(feat\. Tyrese\)](https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Unrestricted](https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811) | 3:41 |
 | 24 | [Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:56 |
 | 25 | [The Setup](https://open.spotify.com/track/6uzesxG4dlBg3faZmzL6Qs) | [Obie Trice](https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM) | [Cheers](https://open.spotify.com/album/7exM52pkWRKdoZqkheCRCC) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJzNR1J5ygQ.md) - [plain]
 | 49 | [Like You \(feat\. Ciara\)](https://open.spotify.com/track/3jEqrIfwKO0M8ALu3TGilF) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Wanted](https://open.spotify.com/album/65G0BpV00GmLi5WUCeWdvT) | 3:25 |
 | 50 | [1st of Tha Month](https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [E\. 1999 Eternal](https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9) | 5:14 |
 
-Snapshot ID: `MCwwN2QxZmVkZmMzYjdkODg1Mjk4MTE4M2E4ZjA5NWRjNzcxNGZkZGU2`
+Snapshot ID: `MCw1ODcyZWNlM2Y4YmFjYzZmZjJkYWEzYjdmMzZhNjRiODUxZjEyNWEz`

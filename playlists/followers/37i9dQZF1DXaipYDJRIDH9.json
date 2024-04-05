@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 218166,
+  "2024-04-05": 218180,
   "date_first_scraped": "2024-01-15",
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
   "name": "Foco no Estudo",
@@ -377,7 +377,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 160064,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4"
@@ -1919,6 +1919,24 @@
       "duration_ms": 148941,
       "name": "The round",
       "url": "https://open.spotify.com/track/6YD98m2CsK814hbBVQz9yS"
+    },
+    {
+      "album": {
+        "name": "The Still",
+        "url": "https://open.spotify.com/album/06eRSftUdtz4u5Zx9s7Ywc"
+      },
+      "artists": [
+        {
+          "name": "Erinthe",
+          "url": "https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129817,
+      "name": "The Still",
+      "url": "https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA"
     },
     {
       "album": {

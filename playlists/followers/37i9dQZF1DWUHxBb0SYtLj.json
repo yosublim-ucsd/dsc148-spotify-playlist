@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 21719,
+  "2024-04-05": 21723,
   "date_first_scraped": "2021-12-28",
   "description": "Ascolta a tutto volume queste talentuose artiste italiane! Cover: Angelica",
   "name": "EQUAL Italia",
@@ -493,7 +493,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 155840,
       "name": "Acqua ossigenata",
       "url": "https://open.spotify.com/track/3Q8UZcTEBbaVcg9RhShnY0"
@@ -1175,6 +1175,24 @@
       "duration_ms": 149575,
       "name": "Aria",
       "url": "https://open.spotify.com/track/7kF6GY9In7xN0Up5SZmHZZ"
+    },
+    {
+      "album": {
+        "name": "ARIA!",
+        "url": "https://open.spotify.com/album/6V1DpuIspWPskHkaOOft3G"
+      },
+      "artists": [
+        {
+          "name": "Margherita Vicario",
+          "url": "https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162631,
+      "name": "ARIA!",
+      "url": "https://open.spotify.com/track/0A8vQ3UME04FMC21VDKANs"
     },
     {
       "album": {
@@ -4833,7 +4851,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "DIAMANTI GREZZI",
       "url": "https://open.spotify.com/track/6KM80DJGk9gehJMDmKuzfv"
@@ -4855,6 +4873,24 @@
       "duration_ms": 170952,
       "name": "DimmeloTu",
       "url": "https://open.spotify.com/track/5MtyKBEy3uLPsDyLF8q2Gk"
+    },
+    {
+      "album": {
+        "name": "Dimmi (Pills One)",
+        "url": "https://open.spotify.com/album/0iKTHZi3RigfBLoiIri2Pv"
+      },
+      "artists": [
+        {
+          "name": "Laurah",
+          "url": "https://open.spotify.com/artist/2JDox6TzjUdGSIaFPPCa1d"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101515,
+      "name": "Dimmi (Pills One)",
+      "url": "https://open.spotify.com/track/3nkpHbgzCJOrMaDNScVqk8"
     },
     {
       "album": {
@@ -7333,7 +7369,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 166574,
       "name": "HATTORI HANZO (feat. Madame)",
       "url": "https://open.spotify.com/track/5e6Qu6LyjBJ3xROHLhwcTT"
@@ -7691,6 +7727,24 @@
       "duration_ms": 185100,
       "name": "IL FUMO UCCIDE",
       "url": "https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg"
+    },
+    {
+      "album": {
+        "name": "Il nome del capitano",
+        "url": "https://open.spotify.com/album/7fYGI2wlQcCJ2x7yUAApT5"
+      },
+      "artists": [
+        {
+          "name": "clauscalmo",
+          "url": "https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219053,
+      "name": "Il nome del capitano",
+      "url": "https://open.spotify.com/track/2zLzetUzpCSXPTBiMP1Exf"
     },
     {
       "album": {
@@ -8691,7 +8745,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 189124,
       "name": "La noia",
       "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
@@ -8785,6 +8839,24 @@
       "duration_ms": 169651,
       "name": "La tua ragazza",
       "url": "https://open.spotify.com/track/3SF3BnafrAXdF5OVKvQVps"
+    },
+    {
+      "album": {
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/5tOUjr8okysSFcpySHZU6L"
+      },
+      "artists": [
+        {
+          "name": "H\u00c5N",
+          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121691,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/51BUYyFMqfMEJZBfEmRMtA"
     },
     {
       "album": {
@@ -8991,6 +9063,24 @@
       "duration_ms": 124408,
       "name": "Lento Lento Lento (feat. Gaia)",
       "url": "https://open.spotify.com/track/5L31h116yhPwxPuE0FvfqI"
+    },
+    {
+      "album": {
+        "name": "Lesbica Vera",
+        "url": "https://open.spotify.com/album/4rcDilP20VicEAeVCZPFdg"
+      },
+      "artists": [
+        {
+          "name": "Asiabel",
+          "url": "https://open.spotify.com/artist/491HAKV720PSqmM2Cii1F7"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252091,
+      "name": "Lesbica Vera",
+      "url": "https://open.spotify.com/track/0etPCXxFvxiPX2tIzD22Bc"
     },
     {
       "album": {
@@ -9688,6 +9778,28 @@
     },
     {
       "album": {
+        "name": "MA COME SI FA",
+        "url": "https://open.spotify.com/album/4YwdSpryGk4Ciu2fqc3OdL"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        },
+        {
+          "name": "Scraby",
+          "url": "https://open.spotify.com/artist/3BgpK7ZHEWz7oX8376ngNL"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139591,
+      "name": "MA COME SI FA",
+      "url": "https://open.spotify.com/track/0NWiNpldKNulxKaVSOToBB"
+    },
+    {
+      "album": {
         "name": "MA MA MA",
         "url": "https://open.spotify.com/album/0YZrlfDg42ZHzbZ77Tb6Ut"
       },
@@ -9887,6 +9999,46 @@
       "duration_ms": 146776,
       "name": "Mama (feat. Davinhor)",
       "url": "https://open.spotify.com/track/2Q1FMfXs5tOT9Y5JzTwyBW"
+    },
+    {
+      "album": {
+        "name": "Sangue",
+        "url": "https://open.spotify.com/album/2jtQPd5Iyr6Cuan56JMoNU"
+      },
+      "artists": [
+        {
+          "name": "BigMama",
+          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+        },
+        {
+          "name": "LA NI\u00d1A",
+          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153818,
+      "name": "Mama Non Mama (feat. LA NI\u00d1A)",
+      "url": "https://open.spotify.com/track/1CNkGXVHdCd1Z4yLF9lo5p"
+    },
+    {
+      "album": {
+        "name": "MAMMA",
+        "url": "https://open.spotify.com/album/1JMDjSUCpBtsgqNqvxS1ze"
+      },
+      "artists": [
+        {
+          "name": "ALDA",
+          "url": "https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209261,
+      "name": "MAMMA",
+      "url": "https://open.spotify.com/track/28tVShuhCShyChDFHXEzFL"
     },
     {
       "album": {
@@ -10161,6 +10313,24 @@
       "duration_ms": 186783,
       "name": "Martina",
       "url": "https://open.spotify.com/track/1x7c9oh6TYenSNjncCU1IA"
+    },
+    {
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/7jeVFpNKdXauEa0q5BE7u9"
+      },
+      "artists": [
+        {
+          "name": "Ditonellapiaga",
+          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225976,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/6S6BtiIzabwvOEJAZWzWBB"
     },
     {
       "album": {
@@ -12202,6 +12372,24 @@
     },
     {
       "album": {
+        "name": "parole violente",
+        "url": "https://open.spotify.com/album/0ELEmbJnJgDME79AM5rwlz"
+      },
+      "artists": [
+        {
+          "name": "soap",
+          "url": "https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151429,
+      "name": "parole violente",
+      "url": "https://open.spotify.com/track/6QnOPyl6sUy4L50QjkJv5q"
+    },
+    {
+      "album": {
         "name": "Party on My Own",
         "url": "https://open.spotify.com/album/6cipBf6Xsv55Qo8V38CZFb"
       },
@@ -12653,7 +12841,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 175458,
       "name": "Porta Pia",
       "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
@@ -14640,6 +14828,24 @@
     },
     {
       "album": {
+        "name": "Showu",
+        "url": "https://open.spotify.com/album/13luLECarR62ppW5Eou17m"
+      },
+      "artists": [
+        {
+          "name": "Kuni",
+          "url": "https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128218,
+      "name": "Showu",
+      "url": "https://open.spotify.com/track/6HGRFffsqctjlRyZX6JxzQ"
+    },
+    {
+      "album": {
         "name": "Pelle",
         "url": "https://open.spotify.com/album/0gplTsjYc1mjdaUHlUH7Mm"
       },
@@ -14723,7 +14929,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 215714,
       "name": "Sinceramente",
       "url": "https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ"
@@ -14903,7 +15109,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 204186,
       "name": "Solo Mai",
       "url": "https://open.spotify.com/track/0Il0YemaJKppnqBaVsFIyJ"
@@ -16588,6 +16794,24 @@
     },
     {
       "album": {
+        "name": "Tutti contro tutti",
+        "url": "https://open.spotify.com/album/0MKxiFxj7Palssg4NDjh5h"
+      },
+      "artists": [
+        {
+          "name": "chiamamifaro",
+          "url": "https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167816,
+      "name": "Tutti contro tutti",
+      "url": "https://open.spotify.com/track/3Qi2tRCAstmItgnf1qpq71"
+    },
+    {
+      "album": {
         "name": "TUTTO (con te)",
         "url": "https://open.spotify.com/album/0w7mfTvGuKCG7XQvLuyCda"
       },
@@ -16967,6 +17191,24 @@
       "duration_ms": 156560,
       "name": "VERDE SEMAFORO",
       "url": "https://open.spotify.com/track/1AwJiWb7tvCGf7sSZTwBR8"
+    },
+    {
+      "album": {
+        "name": "Verso Casa",
+        "url": "https://open.spotify.com/album/3wmRFgx7Lr0YeUDBrEz5Qx"
+      },
+      "artists": [
+        {
+          "name": "CARA",
+          "url": "https://open.spotify.com/artist/5zB3Q6zAf7VWq0cfiHgzqf"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180446,
+      "name": "Verso Casa",
+      "url": "https://open.spotify.com/track/23mocQ2xxsFmktFFHdqfBh"
     },
     {
       "album": {

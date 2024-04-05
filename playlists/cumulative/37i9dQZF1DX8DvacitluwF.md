@@ -4,7 +4,7 @@
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf?si=\-K7t4\-FuSmK22E74drnYrQ>Mikhalé Jones</a>
 
-201 songs - 10 hr 37 min
+203 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Submerged](https://open.spotify.com/track/3X7soYMzDbNQg4AgbxYgz7) | [Cindii Masina](https://open.spotify.com/artist/4mh4cMpsxH7elAqheOtTf5), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf), [Elizée](https://open.spotify.com/artist/66F2XoLQPsKPCquiQIlI6x) | [Submerged](https://open.spotify.com/album/51oO91iQOItzQGSaDXIo8u) | 3:39 | 2024-02-08 |  |
 | [Superpowers](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:54 | 2024-02-08 |  |
 | [Sweet Nothing](https://open.spotify.com/track/2LZueKBZ9jGxsYBMueaR4R) | [Nalu](https://open.spotify.com/artist/591xpLmcojVwIHCiMVQ3dq) | [Sweet Nothing](https://open.spotify.com/album/0NbNpeeNiN6lr2O3I6C7y8) | 1:28 | 2023-10-12 | 2024-01-26 |
+| [Take Your Time](https://open.spotify.com/track/5FIFjUVWBIihte8cXpj11Z) | [Daveny](https://open.spotify.com/artist/6Aw4KeEvY6cyNUz7IIyPe3), [tugi ndichu](https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7) | [Sol](https://open.spotify.com/album/2Eenldjdnm9OpQXSBSp19T) | 4:12 | 2024-04-04 |  |
 | [Talk 2 Me \(feat\. BGRZ\)](https://open.spotify.com/track/00pWq1F4xyqPWPeo0hiUu8) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [Talk 2 Me \(feat\. BGRZ\)](https://open.spotify.com/album/11JX0v0Diz3q0FUpB12Q1b) | 2:53 | 2023-10-12 | 2024-03-15 |
 | [Tell No One](https://open.spotify.com/track/3kdZmjXZCsZGvYgSiigWhn) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [KAIEN](https://open.spotify.com/album/71miAiUyj1kOLJ0yiLgvip) | 3:40 | 2023-10-26 | 2024-03-15 |
 | [Tender](https://open.spotify.com/track/6dAY1jZ9doJSFeHcPrz36U) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Tender](https://open.spotify.com/album/4Gp4JlzMRXKuH32Jee28D2) | 3:03 | 2023-10-12 | 2024-01-26 |
@@ -183,6 +184,7 @@
 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 | 2023-10-12 | 2024-03-01 |
 | [till forever ends](https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [little messages](https://open.spotify.com/album/7hDzyjqHrig751Igo5ebvN) | 2:56 | 2023-10-12 | 2023-10-20 |
 | [TIME](https://open.spotify.com/track/4abv3ao51qRblxKxkYfw56) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq), [Maloon TheBoom](https://open.spotify.com/artist/66xnl7wTIoeKdJV2YblQp4) | [HOLDING/EVOLVING](https://open.spotify.com/album/5eMsBt8WjfQYROA2dSnG33) | 3:20 | 2024-03-07 |  |
+| [Tonight](https://open.spotify.com/track/2GBfPNvZqNmIG8lgF8p9tU) | [Mary Jane](https://open.spotify.com/artist/6N2ZOBipWXmuFn5uzXoVpr) | [Tonight](https://open.spotify.com/album/1xTXtXOgV8leQWJkWjjjNA) | 3:21 | 2024-04-04 |  |
 | [True Love](https://open.spotify.com/track/4TEw5hpdE3xkMwOHIBpYJm) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [True Love](https://open.spotify.com/album/0Le8c3YsUvdoB8EsWEN6K5) | 2:50 | 2023-11-09 | 2024-03-22 |
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2023-11-30 |  |
 | [Umhlaba](https://open.spotify.com/track/6l212VLnvhEJl2o7BCRBcG) | [katli g](https://open.spotify.com/artist/2IGyvttuJUWbmXxSrfSNu7), [mordy](https://open.spotify.com/artist/3xzIIBU6Sag14Yle4zgoty), [tabiska](https://open.spotify.com/artist/7KEUzqWJJvLJM8SNRXettE) | [Umhlaba](https://open.spotify.com/album/2iniomh8ICLoBfhW6RKAZs) | 3:35 | 2024-01-29 |  |
@@ -199,7 +201,7 @@
 | [Water](https://open.spotify.com/track/6J3rA77AWZ5POPCqAIWCrr) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Testament](https://open.spotify.com/album/06klV2isRMZbEofIvOunPM) | 2:45 | 2023-11-23 | 2024-03-22 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-10-12 | 2024-03-22 |
 | [What Is Love?](https://open.spotify.com/track/2BSIFZLVJ8QIUWvIToGQzb) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820) | [What Is Love?](https://open.spotify.com/album/5uaX4Bh833hXKXRldxi1uD) | 2:33 | 2023-10-12 | 2024-01-26 |
-| [Whatchu Say ?](https://open.spotify.com/track/38Myszu0cRqEwZbzUWE80J) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [Whatchu Say ?](https://open.spotify.com/album/4emUcj6mqDLRpNUMLVTpfY) | 2:38 | 2024-03-14 |  |
+| [Whatchu Say ?](https://open.spotify.com/track/38Myszu0cRqEwZbzUWE80J) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [Whatchu Say ?](https://open.spotify.com/album/4emUcj6mqDLRpNUMLVTpfY) | 2:38 | 2024-03-14 | 2024-04-05 |
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-02-22 |  |
 | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/track/6am2YNS3MTz3SbWkBUY234) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/album/0oqzFS1ec6worWKBAzgolc) | 2:57 | 2023-11-16 | 2024-02-09 |
 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 | 2023-10-26 | 2024-03-22 |

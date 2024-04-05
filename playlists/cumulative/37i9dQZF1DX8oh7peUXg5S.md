@@ -2,9 +2,9 @@
 
 ### [Cantautoras](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
 
-> El don de cantar y componer, una playlist llena de talento\. Foto: La Otra.
+> El don de cantar y componer, una playlist llena de talento\. Foto: Depedro.
 
-277 songs - 17 hr 40 min
+278 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [El último hombre en la tierra](https://open.spotify.com/track/3WoTzTDj5HMfH1LJweA4SZ) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [El último hombre en la tierra](https://open.spotify.com/album/0fmNaVHkRtCWpOgNDtfoRX) | 3:53 | 2022-06-09 | 2022-07-20 |
 | [En Los Márgenes](https://open.spotify.com/track/5L1TQjRNSh95i5pahdyTBD) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [En Los Márgenes](https://open.spotify.com/album/3g2Mxw8RuCpI1rWNaXh02G) | 3:59 | 2022-09-22 | 2022-11-11 |
 | [Enero en Buenos Aires](https://open.spotify.com/track/29g7kjLpgVQF3Od5H0Ckdy) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [Enero en Buenos Aires](https://open.spotify.com/album/4GXjX23fckp9hcqqdEkomn) | 3:20 | 2024-02-01 | 2024-02-16 |
-| [Escorpiano](https://open.spotify.com/track/2kKnZJSyzL77X0fLNUw0QJ) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [Escorpiano](https://open.spotify.com/album/0Ej1bVU7yEHxoBLqP11l9D) | 3:34 | 2024-03-14 |  |
+| [Escorpiano](https://open.spotify.com/track/2kKnZJSyzL77X0fLNUw0QJ) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [Escorpiano](https://open.spotify.com/album/0Ej1bVU7yEHxoBLqP11l9D) | 3:34 | 2024-03-14 | 2024-04-05 |
 | [Estadio Azteca](https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 3:37 | 2022-06-09 |  |
 | [Este Tren](https://open.spotify.com/track/4zSpfYHyf6bN2jJVO0so03) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Este Tren](https://open.spotify.com/album/4UNcJ7hdl45wESaNuZEhkh) | 3:16 | 2022-06-09 | 2022-09-23 |
 | [Fina Estampa](https://open.spotify.com/track/7COfZjseddNFUpZcONru4M) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN), [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM), [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Mujeres de Fina Estampa](https://open.spotify.com/album/5YmzTZ5AVgpJmKLTfSviCF) | 3:07 | 2022-06-09 |  |
@@ -112,6 +112,7 @@
 | [Guapa](https://open.spotify.com/track/3KQDPSO8QYeqjQNphIf8ef) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Guapa](https://open.spotify.com/album/4RkNRTFEPawbKupoxCz3US) | 4:45 | 2022-06-09 | 2022-07-21 |
 | [Guapa](https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Maldita Vocación](https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku) | 4:45 | 2022-06-30 |  |
 | [Habaneras de Cádiz](https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB) | [De Lo Perdido Y Otras Coplas](https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC) | 5:46 | 2022-06-09 | 2022-07-26 |
+| [Habilidad](https://open.spotify.com/track/7IkVtjroq1agMpZsiihqZ1) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Un lugar perfecto](https://open.spotify.com/album/4xlJYN385bxZiw4QpF14P9) | 3:53 | 2024-04-04 |  |
 | [Hablame del Mar, Marinero](https://open.spotify.com/track/4V5WoW97fMrwGqI8B7XM7R) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [De Marisol A Pepa Flores](https://open.spotify.com/album/73Wl1DZw4FCGwGNdATSCIO) | 3:45 | 2022-06-30 | 2022-07-24 |
 | [Honrar la Vida](https://open.spotify.com/track/5qAYAoahHsmbH8l1BhIoQ6) | [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Honrar la Vida](https://open.spotify.com/album/4cLGB4NfJG9nll9zTPPSb4) | 3:49 | 2022-06-09 | 2022-07-29 |
 | [Hoy Ten Miedo De Mi](https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Con Cierto Aire a Ti](https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA) | 2:58 | 2022-08-11 |  |

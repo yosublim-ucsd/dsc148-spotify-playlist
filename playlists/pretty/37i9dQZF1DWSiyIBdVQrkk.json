@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the film Bob Marley: One Love.",
-  "num_followers": 2242311,
+  "num_followers": 2242924,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGI3YjIwZDE4MjdjMTEyZTM0YTJiMjM1ZDYxMDM5MGE1MTFkYTQz",
+  "snapshot_id": "MCxkZWYxMGVmZGVkOWNjMWM4NjlkZDM0OGY4ZjliNjYyYWM0NmFiYTM4",
   "tracks": [
     {
       "added_at": "2024-01-29 05:23:56",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Good Vibes - The Very Best of Laid Back",
-        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
-      },
-      "artists": [
-        {
-          "name": "Laid Back",
-          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "Sunshine Reggae",
-      "url": "https://open.spotify.com/track/0z0JSkE5Nw3i3nin3BBSuG"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Bloody Tourists",
         "url": "https://open.spotify.com/album/3MecVG0PeBObAhjwEAczFG"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 267946,
       "name": "Dreadlock Holiday",
       "url": "https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Good Vibes - The Very Best of Laid Back",
+        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
+      },
+      "artists": [
+        {
+          "name": "Laid Back",
+          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "Sunshine Reggae",
+      "url": "https://open.spotify.com/track/0z0JSkE5Nw3i3nin3BBSuG"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Police & Thieves",
-        "url": "https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR"
-      },
-      "artists": [
-        {
-          "name": "Junior Murvin",
-          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
-        }
-      ],
-      "duration_ms": 244109,
-      "name": "Police & Thieves",
-      "url": "https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Revelation Part 1: The Root Of Life",
         "url": "https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 225333,
       "name": "Break Us Apart",
       "url": "https://open.spotify.com/track/5wgy309XNqFkqj8MMDquvj"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Police & Thieves",
+        "url": "https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR"
+      },
+      "artists": [
+        {
+          "name": "Junior Murvin",
+          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
+        }
+      ],
+      "duration_ms": 244109,
+      "name": "Police & Thieves",
+      "url": "https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Cocody Rock !!! (2010 Remastered Edition)",
-        "url": "https://open.spotify.com/album/0XCUj5oCpYC2GZZGGh7iVg"
-      },
-      "artists": [
-        {
-          "name": "Alpha Blondy",
-          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
-        },
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Cocody Rock - 2010 Remastered Edition",
-      "url": "https://open.spotify.com/track/1NbHlnoQbLMMy07BxJK5EP"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Mind Control",
         "url": "https://open.spotify.com/album/1uJzh0ZINTIALdPwDVrbJP"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 294786,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/1Bsl6Jw7bJtQ4pc7OQREog"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Cocody Rock !!! (2010 Remastered Edition)",
+        "url": "https://open.spotify.com/album/0XCUj5oCpYC2GZZGGh7iVg"
+      },
+      "artists": [
+        {
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
+        },
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Cocody Rock - 2010 Remastered Edition",
+      "url": "https://open.spotify.com/track/1NbHlnoQbLMMy07BxJK5EP"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -975,30 +975,6 @@
       "duration_ms": 154293,
       "name": "007 (Shanty Town)",
       "url": "https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "Revelation Pt. II: The Fruit of Life",
-        "url": "https://open.spotify.com/album/3zBCEk3g6EGiUQVgJ4jFiK"
-      },
-      "artists": [
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
-        {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
-        },
-        {
-          "name": "Sizzla",
-          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "Rock Stone",
-      "url": "https://open.spotify.com/track/7b2WilS8iNSF8PcU17IMdC"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1107,6 +1083,30 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "Revelation Pt. II: The Fruit of Life",
+        "url": "https://open.spotify.com/album/3zBCEk3g6EGiUQVgJ4jFiK"
+      },
+      "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        },
+        {
+          "name": "Sizzla",
+          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "Rock Stone",
+      "url": "https://open.spotify.com/track/7b2WilS8iNSF8PcU17IMdC"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "True Reflections...A New Beginning",
         "url": "https://open.spotify.com/album/40BYBDHTNouG1hMQh1iDZn"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Reign Of Fire",
-        "url": "https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21"
-      },
-      "artists": [
-        {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "That Day Will Come",
-      "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Perfect Key Riddim",
         "url": "https://open.spotify.com/album/1YyDLlEWKPAUCjUxWuTejl"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 205714,
       "name": "Mama",
       "url": "https://open.spotify.com/track/6YNKLxiWQhK2n06xI6gUg7"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Reign Of Fire",
+        "url": "https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21"
+      },
+      "artists": [
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "That Day Will Come",
+      "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Wanted Dread and Alive",
-        "url": "https://open.spotify.com/album/18s7KUeencxiAsv7ths3jK"
-      },
-      "artists": [
-        {
-          "name": "Peter Tosh",
-          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
-        }
-      ],
-      "duration_ms": 268213,
-      "name": "Wanted Dread and Alive - 2002 Remaster",
-      "url": "https://open.spotify.com/track/5jkxC8SIZJ4qqusxRPVS5s"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Labour Of Love II",
         "url": "https://open.spotify.com/album/2jfea3275Ef5g1nUwnf1fg"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 228293,
       "name": "Kingston Town",
       "url": "https://open.spotify.com/track/3e7yziCpnpx2ujgvXqSLzp"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Wanted Dread and Alive",
+        "url": "https://open.spotify.com/album/18s7KUeencxiAsv7ths3jK"
+      },
+      "artists": [
+        {
+          "name": "Peter Tosh",
+          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
+        }
+      ],
+      "duration_ms": 268213,
+      "name": "Wanted Dread and Alive - 2002 Remaster",
+      "url": "https://open.spotify.com/track/5jkxC8SIZJ4qqusxRPVS5s"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
-        "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Live at Stubb's",
         "url": "https://open.spotify.com/album/6kfMhZYXTwm9HGMJuLl7HO"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 288600,
       "name": "King Without a Crown - Live at Stubb's, Austin, TX - February 2005",
       "url": "https://open.spotify.com/track/6yalDzJGNoUQ2qSDlAdqU8"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
+        "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Equal Rights (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4fUOOBGNI8k9cb4vD2hZ65"
-      },
-      "artists": [
-        {
-          "name": "Peter Tosh",
-          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
-        }
-      ],
-      "duration_ms": 269546,
-      "name": "I Am That I Am",
-      "url": "https://open.spotify.com/track/2PyDqCtFcXsucZqTF4rE3i"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Reggae Gold 2007",
-        "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
+        "name": "Equal Rights (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4fUOOBGNI8k9cb4vD2hZ65"
       },
       "artists": [
         {
-          "name": "Pressure Busspipe",
-          "url": "https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD"
+          "name": "Peter Tosh",
+          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
         }
       ],
-      "duration_ms": 258653,
-      "name": "Love And Affection",
-      "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
+      "duration_ms": 269546,
+      "name": "I Am That I Am",
+      "url": "https://open.spotify.com/track/2PyDqCtFcXsucZqTF4rE3i"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1423,6 +1407,22 @@
       "duration_ms": 204000,
       "name": "Spanish Town Rockin'",
       "url": "https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Reggae Gold 2007",
+        "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
+      },
+      "artists": [
+        {
+          "name": "Pressure Busspipe",
+          "url": "https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD"
+        }
+      ],
+      "duration_ms": 258653,
+      "name": "Love And Affection",
+      "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Freddie McGregor: The Anthology",
-        "url": "https://open.spotify.com/album/0BYUeVSCYNS6CaldxhIo1F"
-      },
-      "artists": [
-        {
-          "name": "Freddie McGregor",
-          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Big Ship",
-      "url": "https://open.spotify.com/track/3wIMCE0IWJmOQFeBjCS6hy"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Chill Out",
         "url": "https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 242173,
       "name": "Chill Out",
       "url": "https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Freddie McGregor: The Anthology",
+        "url": "https://open.spotify.com/album/0BYUeVSCYNS6CaldxhIo1F"
+      },
+      "artists": [
+        {
+          "name": "Freddie McGregor",
+          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Big Ship",
+      "url": "https://open.spotify.com/track/3wIMCE0IWJmOQFeBjCS6hy"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Bush Doctor",
-        "url": "https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b"
-      },
-      "artists": [
-        {
-          "name": "Peter Tosh",
-          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
-        }
-      ],
-      "duration_ms": 320280,
-      "name": "(You Gotta Walk) Don't Look Back - 2002 Remaster",
-      "url": "https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "A Thousand Times",
         "url": "https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 197183,
       "name": "A Thousand Times",
       "url": "https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Bush Doctor",
+        "url": "https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b"
+      },
+      "artists": [
+        {
+          "name": "Peter Tosh",
+          "url": "https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN"
+        }
+      ],
+      "duration_ms": 320280,
+      "name": "(You Gotta Walk) Don't Look Back - 2002 Remaster",
+      "url": "https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn"
     },
     {
       "added_at": "2024-01-29 05:23:56",

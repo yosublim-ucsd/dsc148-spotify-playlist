@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-671 songs - 1 day 12 hr 49 min
+672 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2023-03-03 | 2023-12-08 |
 | [Love On You](https://open.spotify.com/track/0mBX1jSxAQbOlfSWgZlL0I) | [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [The Found Album](https://open.spotify.com/album/4pRSg1bpkomA4aSn9EIxfx) | 4:10 | 2023-06-09 | 2023-10-15 |
 | [Love Outloud](https://open.spotify.com/track/0jj4TBUdZK5IekIzzYnqyU) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [ARTchives](https://open.spotify.com/album/0gb4DvjQAURA9LEu7RQr9A) | 2:57 | 2023-08-25 | 2024-03-01 |
+| [Love Outloud](https://open.spotify.com/track/5bsGugP8WQoG2J4Dnyxgpl) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [ARTchives](https://open.spotify.com/album/4oKWWUVSRBH1ioYEG8nD6i) | 2:57 | 2023-08-25 |  |
 | [Loverboy](https://open.spotify.com/track/1x9UiIdgnqRr9weFqFD8Pb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Loverboy](https://open.spotify.com/album/6b4zVp76pVqlDU7WQrho22) | 3:58 | 2022-10-19 | 2023-02-14 |
 | [Loverboy](https://open.spotify.com/track/7DHrin6fl2RV6ND1k3MF9y) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Loverboy](https://open.spotify.com/album/7w3ggwVB0OqAGFkboiozRS) | 3:58 | 2021-12-15 | 2022-10-13 |
 | [LOW TIDE](https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 2:26 | 2023-10-27 |  |
@@ -547,7 +548,7 @@
 | [Somewhere](https://open.spotify.com/track/08iNtav9HI11DXYv33dJc9) | [Nnena](https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj) | [...Just Cause](https://open.spotify.com/album/77Uf7Pe6japz6TwtFPrh2M) | 2:56 | 2021-12-15 | 2022-07-29 |
 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 | 2023-06-02 |  |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2023-01-12 | 2023-03-25 |
-| [Soul Lovers](https://open.spotify.com/track/0TyOXgKUhETRgIIpttQWaS) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:11 | 2023-09-01 |  |
+| [Soul Lovers](https://open.spotify.com/track/0TyOXgKUhETRgIIpttQWaS) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:11 | 2023-09-01 | 2024-04-05 |
 | [SOUL SURVIVOR](https://open.spotify.com/track/0kQTQQzTCf958lQCmPTraa) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN BENEDICTION](https://open.spotify.com/album/47wufSb4ym1n1EhsJvYAOX) | 3:01 | 2023-06-23 | 2023-10-09 |
 | [Space \(feat\. H.E.R.\)](https://open.spotify.com/track/7ghoNKAbiTdM9aov6cNQbI) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 5:55 | 2023-09-15 | 2023-11-11 |
 | [Space is the Place](https://open.spotify.com/track/38PFECJBX4yGhiHFH9XgYX) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [You Can't Steal My Joy](https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl) | 2:34 | 2021-12-15 | 2023-01-28 |

@@ -4,7 +4,7 @@
 
 > Khuphuka lapho… seku\-late! Cover: <a href="https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A?si=q6P6fyMqR3mluO5n9Q8CVg">Big Zulu</a>
 
-189 songs - 15 hr 1 min
+190 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Babesihleka](https://open.spotify.com/track/1ctSLtJlPa5sLMyiDnVo0R) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Chabo](https://open.spotify.com/album/5PgmVQCCDKFiJV1F39QUAM) | 4:29 | 2023-12-01 |  |
 | [Bafuna Sihlukane](https://open.spotify.com/track/3sL440xAohRKtarUSnBRxE) | [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [S'qhuba Izinkomo](https://open.spotify.com/album/3ivjLXlzcdqXFspHzhyCm2) | 4:26 | 2023-01-30 |  |
 | [BAMPHAMBANISELA](https://open.spotify.com/track/293R0EgKi4hLD8EUF5kFRj) | [JAIVA ZIMNIKE](https://open.spotify.com/artist/14d1q3R8UjzYOeb4DO9UW3) | [BANGIHLINZA NGIPHILA](https://open.spotify.com/album/4kMnochB18f8pvg0XJCXkW) | 4:32 | 2023-06-15 |  |
+| [Bathi Unyiswa Umjolo \- Lihle Xhakaza \- 2024](https://open.spotify.com/track/5kmATruTplLxAMiTKoL103) | [uMaphoyisa](https://open.spotify.com/artist/7qHgq8cS8tsxFuuVZx3hS4), [Umagumede Wenu](https://open.spotify.com/artist/6iyj3Q36rbiyNCwwIzm7ly) | [Bathi Unyiswa Umjolo \(Lihle Xhakaza \- 2024\)](https://open.spotify.com/album/49UJnOKFLY1zapc3W8v7OD) | 3:52 | 2024-04-04 |  |
 | [Baxabene](https://open.spotify.com/track/1YQ0TnVKPgJ5GcWGLjcSrg) | [Mjaheni](https://open.spotify.com/artist/1rk2P7IOjB9MUbRAAc9OJR) | [Baxabene](https://open.spotify.com/album/6MJP7q7bQO0BiuPBD09Xw2) | 13:44 | 2023-01-30 | 2023-02-03 |
 | [BayangiSabawela](https://open.spotify.com/track/3quA7mtdIg05CfJ4f3beww) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Incane Lembobo](https://open.spotify.com/album/0BDVeJR2FEfPjJLpgg5nbP) | 4:14 | 2023-01-30 |  |
 | [BO GIRL](https://open.spotify.com/track/6CrL5WAQNE2a94i7tqbi67) | [uMjabulisi](https://open.spotify.com/artist/7hgZmJWaqjihq01cTFgyD6) | [Ningaphiki Nami](https://open.spotify.com/album/12840tLE83NAKIiNZuEqZ8) | 4:08 | 2023-01-30 | 2023-12-02 |
@@ -124,7 +125,7 @@
 | [NGITHANDANA NE OWNER](https://open.spotify.com/track/5twLen4btRsNxaiUVDfxiC) | [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg) | [Uber Driver](https://open.spotify.com/album/0lFkTDYIcsWwiqVPA9Xcip) | 4:56 | 2023-11-07 |  |
 | [Ngiyashisa Bhe!](https://open.spotify.com/track/2Xrnw2pMpLhBJtFzoJCqBM) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Ngiyashisa Bhe!!](https://open.spotify.com/album/2XndIgHBdfGrQbU8qdBsdT) | 4:57 | 2018-09-25 | 2023-02-17 |
 | [Ngiyashisa Bhe!](https://open.spotify.com/track/5T2V2jA4cPulYnMT5SUETu) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Ngiyashisa Bhe!!](https://open.spotify.com/album/0HGeXxPm0xeqMorXQXSczL) | 4:57 | 2018-09-25 | 2022-09-25 |
-| [Ngiyeza](https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Ngiyeza](https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR) | 4:41 | 2023-02-02 |  |
+| [Ngiyeza](https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Ngiyeza](https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR) | 4:41 | 2023-02-02 | 2024-04-05 |
 | [Ngiyeza](https://open.spotify.com/track/7ATU7xI4ffZgPGm3QCKX4K) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 4:41 | 2024-01-18 |  |
 | [Ngomthetho Omdala \- Remake](https://open.spotify.com/track/3QHCcH3mQ7kVT7RgFWSIsI) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF) | [Ngomthetho Omdala \(Remake\)](https://open.spotify.com/album/5R8ColLxaWu79CDJVFcSRn) | 4:29 | 2023-04-07 |  |
 | [Nguye](https://open.spotify.com/track/5rO92QmCFzqbHgbwaJnwAH) | [Intaba Yase Dubai](https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6), [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [Wave Rhyder](https://open.spotify.com/artist/2g6Idw9wnJRWM0viAxhRRX) | [Amagama](https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP) | 4:03 | 2023-01-30 |  |

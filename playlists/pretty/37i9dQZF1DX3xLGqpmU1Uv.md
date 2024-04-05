@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,659 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,696 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 4 | [Te Seguiré \(I Will Follow You\)](https://open.spotify.com/track/4KnjB5h7F90s1yfk3U1RfQ) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Enrique Guzmán \(El Llanto del Siglo\)](https://open.spotify.com/album/0cudjmyNmIaQYLbvPcp2bu) | 2:12 |
 | 5 | [La Hiedra Venenosa](https://open.spotify.com/track/3krsFPf7DL0DxweDyAz2WJ) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Homenaje a Johnny Laboriel Con los Rebeldes del Rock](https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR) | 2:39 |
 | 6 | [El Rock De La Cárcel](https://open.spotify.com/track/43ciCW4nNa2x17L8Ts3Csf) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 1:54 |
-| 7 | [Creo Estar Soñando](https://open.spotify.com/track/76k8SMT9ALvTijx3EQiJP0) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Discos Del Millón](https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k) | 2:42 |
+| 7 | [Hazme una Señal \- Gimme Little Sign](https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/57hDLkTP9HAokmNA8N4920) | 2:22 |
 | 8 | [Significas Todo Para Mi](https://open.spotify.com/track/2AN25qW8T7TBLpUDTWNDip) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 2:41 |
-| 9 | [Hazme una Señal \- Gimme Little Sign](https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/57hDLkTP9HAokmNA8N4920) | 2:22 |
+| 9 | [Creo Estar Soñando](https://open.spotify.com/track/76k8SMT9ALvTijx3EQiJP0) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Discos Del Millón](https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k) | 2:42 |
 | 10 | [Bule Bule](https://open.spotify.com/track/0eMMc5pZJifAsXSaEViY3E) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Idolos del Rock & Roll](https://open.spotify.com/album/7BI6FgfgfYaWaOZo6phWBC) | 2:22 |
 | 11 | [Melodía de Amor](https://open.spotify.com/track/0PeWOm50vIoOCwp9MljmDk) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP) | 2:26 |
 | 12 | [Adiós a Jamaica \(Jamaica Farewell\)](https://open.spotify.com/track/1th6iTXKtTtIrVbGPD3J3Z) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 49 | [Sospecha](https://open.spotify.com/track/17R4EXVlGqwQCevhoqY79U) | [Los Seven Days](https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp) | [Mexican Garage Rock '66](https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY) | 2:29 |
 | 50 | [Chica ye yé](https://open.spotify.com/track/2KPj9qiGpjmFHcczbHOXuf) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Legado de Mujeres Latinas](https://open.spotify.com/album/2pilz2V8vMaHaS7hDFuSU5) | 2:13 |
 
-Snapshot ID: `MCwxZTU2OTY1MmI4ZjMzNzU5ODZjNDNjZWFjNzM3NjIwZWYwNWY0ZmFl`
+Snapshot ID: `MCxiMzdhZTE0YmRhNDY4NDdhNjJmNzZmZTJlM2NiNjg5OGU1YzdmMWM2`

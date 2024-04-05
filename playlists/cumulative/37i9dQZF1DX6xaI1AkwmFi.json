@@ -2130,24 +2130,6 @@
     {
       "album": {
         "name": "Love One Another",
-        "url": "https://open.spotify.com/album/2BKXSl0ktKpWNHzqdAAy1T"
-      },
-      "artists": [
-        {
-          "name": "Furui Riho",
-          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
-        }
-      ],
-      "date_added": "2024-04-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 225149,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/4V79L8tRqdgQLT1og54hN6"
-    },
-    {
-      "album": {
-        "name": "Love One Another",
         "url": "https://open.spotify.com/album/47MmxhLmTn7W91dxYCHvT9"
       },
       "artists": [
@@ -2162,6 +2144,28 @@
       "duration_ms": 225149,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/7Bek5MohEgCbfAs91H3Di1"
+    },
+    {
+      "album": {
+        "name": "Love One Another",
+        "url": "https://open.spotify.com/album/2BKXSl0ktKpWNHzqdAAy1T"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        },
+        {
+          "name": "knoak",
+          "url": "https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225149,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/4V79L8tRqdgQLT1og54hN6"
     },
     {
       "album": {

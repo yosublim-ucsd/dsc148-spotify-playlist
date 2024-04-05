@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1267676,
+  "num_followers": 1268753,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzY1MWJiODljZTRlMWY5OWQxYWU0ZTY3OTM5Yjk4NGY2OGRjNzVi",
+  "snapshot_id": "MCxiOTc4ZTVkMDY5M2I5Y2MzNjk1ZWY5NmU0ODk3YmUzZmFiMzVhNzAw",
   "tracks": [
     {
       "added_at": "2024-01-05 17:40:54",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
+        "name": "New Home (Slowed)",
+        "url": "https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq"
+      },
+      "artists": [
+        {
+          "name": "Austin Farwell",
+          "url": "https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5"
+        }
+      ],
+      "duration_ms": 174521,
+      "name": "New Home (Slowed)",
+      "url": "https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW"
+    },
+    {
+      "added_at": "2024-01-05 17:40:54",
+      "album": {
         "name": "LOVELY BASTARDS (Slowed)",
         "url": "https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 152674,
       "name": "LOVELY BASTARDS - Slowed",
       "url": "https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H"
-    },
-    {
-      "added_at": "2024-01-05 17:40:54",
-      "album": {
-        "name": "New Home (Slowed)",
-        "url": "https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq"
-      },
-      "artists": [
-        {
-          "name": "Austin Farwell",
-          "url": "https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5"
-        }
-      ],
-      "duration_ms": 174521,
-      "name": "New Home (Slowed)",
-      "url": "https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW"
     },
     {
       "added_at": "2024-01-05 17:40:54",

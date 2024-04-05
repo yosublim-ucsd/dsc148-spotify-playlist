@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 62308,
+  "num_followers": 62318,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWM5MzY5YTEwN2JjOThiNWYzMTNhNDAwZmZmYWJhMjI0MzRkOTRi",
+  "snapshot_id": "MCw0NzI4NDAwMTM4MTVhOGIyMGNkMGM4ZWRlNzg3ODNmZjAyMTNhMjRk",
   "tracks": [
     {
       "added_at": null,
@@ -591,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUNAY",
-        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
+        "name": "Palmeras",
+        "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
       },
       "artists": [
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 186976,
-      "name": "La S\u00e1bana y los Pies",
-      "url": "https://open.spotify.com/track/2dO6OrbCT0eBuiExwfo6KZ"
+      "duration_ms": 162857,
+      "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
+      "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
     },
     {
       "added_at": null,
@@ -623,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palmeras",
-        "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
+        "name": "MUNAY",
+        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
       },
       "artists": [
-        {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
-        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 162857,
-      "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
-      "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
+      "duration_ms": 186976,
+      "name": "La S\u00e1bana y los Pies",
+      "url": "https://open.spotify.com/track/2dO6OrbCT0eBuiExwfo6KZ"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Tu Bien",
-        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 228280,
-      "name": "Duele Amarte As\u00ed (feat. Pedro Cap\u00f3)",
-      "url": "https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Quito el Sombrero (En Vivo Desde Guanajuato)",
         "url": "https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 263640,
       "name": "El Aprendiz (with Pedro Cap\u00f3) - En Vivo Desde Guanajuato",
       "url": "https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Tu Bien",
+        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 228280,
+      "name": "Duele Amarte As\u00ed (feat. Pedro Cap\u00f3)",
+      "url": "https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te"
     },
     {
       "added_at": null,

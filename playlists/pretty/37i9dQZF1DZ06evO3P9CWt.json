@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 275813,
+  "num_followers": 275823,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTU4YTQ5YTI5NmI5NzJmNGQzYjlmMDZjNGQxNjdiNjdhNzgxMTVh",
+  "snapshot_id": "MCwyMDE0NjYyZTQ5NGQxNzRmMDg2ZjNiNDZkNjlhMGIwYTc4OGY2NWEy",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Equalize",
-        "url": "https://open.spotify.com/album/7xW9I1m2LUQ6xFj8CxMNGf"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Equalize",
-      "url": "https://open.spotify.com/track/2N8jmZ4Ai3bJwnm3avMAru"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 158544,
       "name": "Trago seu Amor de Volta (feat. Dilsinho)",
       "url": "https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Equalize",
+        "url": "https://open.spotify.com/album/7xW9I1m2LUQ6xFj8CxMNGf"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Equalize",
+      "url": "https://open.spotify.com/track/2N8jmZ4Ai3bJwnm3avMAru"
     },
     {
       "added_at": null,
@@ -943,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vai Passar Mal",
+        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 168510,
+      "name": "Ent\u00e3o Vai (Get By) (feat. Diplo)",
+      "url": "https://open.spotify.com/track/5SOxxG6ju1Oq2hpoa6wARV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
         "url": "https://open.spotify.com/album/4TJKo4PqnHVgwXmqgf5RYK"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 174988,
       "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
       "url": "https://open.spotify.com/track/3BvwBnmbsKs7dBkU6PKBrT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vai Passar Mal",
-        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 168510,
-      "name": "Ent\u00e3o Vai (Get By) (feat. Diplo)",
-      "url": "https://open.spotify.com/track/5SOxxG6ju1Oq2hpoa6wARV"
     },
     {
       "added_at": null,

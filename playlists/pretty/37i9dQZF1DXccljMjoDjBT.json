@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: Tina Turner",
-  "num_followers": 279042,
+  "num_followers": 279118,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTliZGFmOTYxYjc1YTgwNWMxMDY1MDY4NGEwMGQwZjY1NDdkMzc0",
+  "snapshot_id": "MCxlMTNkMTI4OTE1MWIzYzUxMzI3YzcxYjBiNDExMmNjMjUxOGVhNmY3",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Soul Searchin'",
-        "url": "https://open.spotify.com/album/4b6WnqBqu76diL48izgBZJ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Frey",
-          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
-        }
-      ],
-      "duration_ms": 279693,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/0fMlhe66IZtHbCSe5EGBlX"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "All Dressed Up",
         "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 254457,
       "name": "Boys of Autumn",
       "url": "https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Soul Searchin'",
+        "url": "https://open.spotify.com/album/4b6WnqBqu76diL48izgBZJ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "duration_ms": 279693,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/0fMlhe66IZtHbCSe5EGBlX"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "No Fun Aloud",
-        "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Frey",
-          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
-        }
-      ],
-      "duration_ms": 245306,
-      "name": "I Found Somebody",
-      "url": "https://open.spotify.com/track/64wX1p2ZtC9ksXSVYtCp88"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Chicago 16 (Expanded Edition)",
         "url": "https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 304813,
       "name": "Hard to Say I'm Sorry / Get Away - 2009 Remaster",
       "url": "https://open.spotify.com/track/5zpYTfWIuNXCFblRIescG1"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "No Fun Aloud",
+        "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "duration_ms": 245306,
+      "name": "I Found Somebody",
+      "url": "https://open.spotify.com/track/64wX1p2ZtC9ksXSVYtCp88"
     },
     {
       "added_at": "2023-03-30 14:38:10",

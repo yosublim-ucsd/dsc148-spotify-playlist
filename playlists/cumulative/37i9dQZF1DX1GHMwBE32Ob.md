@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: Spyro
 
-223 songs - 10 hr 19 min
+224 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 | 2022-09-16 | 2024-01-16 |
 | [Jajo](https://open.spotify.com/track/0hmoTQIWk98ABc1AIREO7O) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [City Boy](https://open.spotify.com/album/1aA2GGmzpNZnzBm0xBooz0) | 2:23 | 2023-05-19 | 2023-05-27 |
 | [Jambo](https://open.spotify.com/track/2NMfL5jeGKg1x5dgm46LpR) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Jambo](https://open.spotify.com/album/6msrTfFHef2GWcRFTB7ed2) | 2:34 | 2023-03-24 | 2023-03-31 |
+| [JOKORIKO \(feat\. Qdot\)](https://open.spotify.com/track/4j8LBXFyTA0OetJEK877kf) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [JOKORIKO \(feat\. Qdot\)](https://open.spotify.com/album/6V71aso6OEL1f0sDnoqyWo) | 2:15 | 2024-04-05 |  |
 | [Killin Dem \(feat\. Zlatan\)](https://open.spotify.com/track/3a7ziOOO3Cbuv6BMXrj0wU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:41 | 2022-06-29 | 2023-12-15 |
 | [Koni Baje](https://open.spotify.com/track/4kOKUxm84unlT2VxwEp1pB) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Stranger](https://open.spotify.com/album/5XgZB2QHhjbyFduvvHkh0A) | 2:13 | 2023-02-14 | 2023-02-17 |
 | [Kosalabaro](https://open.spotify.com/track/6M5uAfQ1rfLpgPAtl5ArCl) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Ika of Africa](https://open.spotify.com/album/7a1ykEG6P58L8iJ4mnDSva) | 3:09 | 2022-11-25 | 2022-12-02 |
@@ -204,7 +205,7 @@
 | [Taka Oshi](https://open.spotify.com/track/2NexijiPK9irTO8VsjiF9N) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Big Time](https://open.spotify.com/album/6T069OH10Fo4kfJGO6kiWG) | 2:13 | 2023-03-10 | 2023-03-18 |
 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 | 2022-08-18 |  |
 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 | 2024-02-23 |  |
-| [Things on Things](https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Things on Things](https://open.spotify.com/album/5OXS5DoiCaozs5l7WztbLc) | 3:16 | 2023-10-13 |  |
+| [Things on Things](https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Things on Things](https://open.spotify.com/album/5OXS5DoiCaozs5l7WztbLc) | 3:16 | 2023-10-13 | 2024-04-05 |
 | [Tiff](https://open.spotify.com/track/5jdJ6Flvi1ep0mpnWKa04R) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Tiff](https://open.spotify.com/album/1KeUFIH7fYkSCWByLwCiAO) | 2:12 | 2022-11-25 |  |
 | [Time \- Remix](https://open.spotify.com/track/2ETc95EJp82O8Bbx1MGEAR) | [Damo K](https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Time \(Remix\)](https://open.spotify.com/album/1c2FeiwmSLO8prJnDg24Z1) | 2:27 | 2023-02-16 | 2023-12-30 |
 | [Tintok Cruise Beat](https://open.spotify.com/track/4KDnF7cF5UwTBEJYosVSnw) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u) | [TinTok Cruise Beat](https://open.spotify.com/album/3AdRRuXQ3Rs8B0APJsbaOu) | 2:13 | 2022-06-29 | 2023-03-25 |

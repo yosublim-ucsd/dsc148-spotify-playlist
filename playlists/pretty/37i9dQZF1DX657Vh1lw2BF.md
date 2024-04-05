@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 
 > أفضل الاغاني العراقية\. الغلاف:ياسر عبدالوهاب
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,427 likes - 40 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,454 likes - 40 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 | 39 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 |
 | 40 | [Ala Tary Al Awatef](https://open.spotify.com/track/0QzIZuiK93NdsMzR1L1mrj) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Ala Tary Al Awatef](https://open.spotify.com/album/5gzN1IZvfYtbtJ1Pk7BGOF) | 3:27 |
 
-Snapshot ID: `MCxhMzY2NmVlMjI0ODFiN2U1ODU1MzJmMDYxMzBjOTNhZDQ4ZTg4MGJk`
+Snapshot ID: `MCw3ODZlOWE1MGMxMjMwZDFhMWM2YTUzMjdjMTQ3M2I4MTUxZTdlMTYz`

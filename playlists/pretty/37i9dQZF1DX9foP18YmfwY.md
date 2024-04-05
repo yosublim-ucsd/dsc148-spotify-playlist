@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva, Danúbia M.J
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,009 likes - 70 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,080 likes - 70 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 32 | [Quero Nascer de Novo](https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Quero Nascer de Novo](https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO) | 6:10 |
 | 33 | [Alma de Cristo](https://open.spotify.com/track/2ihGz1qkAcxCrU8RsO3TZm) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Banquete Eterno](https://open.spotify.com/album/4jnSnb99zjQcs5sjakBIyp) | 3:52 |
 | 34 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 |
-| 35 | [Yeshua \(feat\. Eliana Ribeiro\)](https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Yeshua \(feat\. Eliana Ribeiro\)](https://open.spotify.com/album/6kb2Z7f0oZtl7TDrfhTN3j) | 4:47 |
+| 35 | [Ninguém Explica Deus \- Ao Vivo](https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM) | [Ninguém Explica Deus \(Ao Vivo\)](https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW) | 5:09 |
 | 36 | [Divino Esposo](https://open.spotify.com/track/2vcDp4l6tl3dvQaStYu5Ps) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Divino Esposo](https://open.spotify.com/album/1UH1xNf23o2u24v42G5nYj) | 3:38 |
-| 37 | [Ninguém Explica Deus \- Ao Vivo](https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM) | [Ninguém Explica Deus \(Ao Vivo\)](https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW) | 5:09 |
+| 37 | [Yeshua \(feat\. Eliana Ribeiro\)](https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Yeshua \(feat\. Eliana Ribeiro\)](https://open.spotify.com/album/6kb2Z7f0oZtl7TDrfhTN3j) | 4:47 |
 | 38 | [Não Há Mais Vendaval \- Ao Vivo](https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk) | [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Não Há Mais Vendaval \(Ao Vivo\)](https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv) | 7:09 |
 | 39 | [Se Eu Tenho o Hoje](https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Se Eu Tenho o Hoje](https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi) | 5:27 |
 | 40 | [Só por Ti, Jesus](https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 4](https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f) | 3:55 |
 | 41 | [Nada Temerei](https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK) | [Nada Temerei](https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ) | 4:46 |
-| 42 | [Louvor dos Pequenos](https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Cantai a Deus Com Alegria 2023](https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q) | 5:08 |
-| 43 | [Romaria \- Ao Vivo](https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Leo Cidade](https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit) | [Romaria \(Ao Vivo\)](https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U) | 5:19 |
+| 42 | [Romaria \- Ao Vivo](https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Leo Cidade](https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit) | [Romaria \(Ao Vivo\)](https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U) | 5:19 |
+| 43 | [Louvor dos Pequenos](https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Cantai a Deus Com Alegria 2023](https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q) | 5:08 |
 | 44 | [Egito \- Ao Vivo Em São Paulo](https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou \(Ao Vivo Em São Paulo\)](https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi) | 7:29 |
 | 45 | [Acalma Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 |
 | 46 | [Deus Vê](https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx) | [Evandro José](https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46) | [Deus Vê](https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q) | 4:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Deixa Deus Sonhar em Ti](https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Gba Stage, Vol\. 13](https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l) | 4:54 |
 | 70 | [Não Há Deus Maior \- Ao Vivo](https://open.spotify.com/track/05P0v8aNAZxLImFQU6MVuq) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Não Há Deus Maior](https://open.spotify.com/album/2iyvKC1ejRa0dfQRCNoh1y) | 5:41 |
 
-Snapshot ID: `MCwwZDM2YmRjZjc4ZDI3MDU1ZDAwNmYwMTU0YTgzNGM3YjJlZGQzMWRh`
+Snapshot ID: `MCxmYmE1NTBhOTViNmJhMTY5M2JjMTA5OWQ2NTAxYWRjZDY1ZTBjMzlm`

@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 399306,
+  "num_followers": 399323,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGVlNjUyYTIxYmU2YjAzNTZiOGRhY2Q4ZGI1ZmJjZmI1NDMwZTFh",
+  "snapshot_id": "MCwzN2U5NGM4ZTYyOTkwNzI3OTdkODA4YzA4Y2YxMmUwNDIwMGI3ZDg2",
   "tracks": [
     {
       "added_at": "2024-03-29 00:01:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "The Pop Jazz Sessions",
-        "url": "https://open.spotify.com/album/1bSsOP5q2aXB0TO2h6rKXg"
-      },
-      "artists": [
-        {
-          "name": "Atlantic Five Jazz Band",
-          "url": "https://open.spotify.com/artist/2utgbFODWxZ6ZPLVhRaToA"
-        }
-      ],
-      "duration_ms": 323520,
-      "name": "Saving All My Love for You",
-      "url": "https://open.spotify.com/track/67gegBlOgrRPHhfLfb3CEj"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "A Ballad Moment: Second View",
         "url": "https://open.spotify.com/album/7CxvY9uDtXY6za0GdpWInW"
       },
@@ -115,18 +99,18 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Timba a la Americana",
-        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
+        "name": "The Pop Jazz Sessions",
+        "url": "https://open.spotify.com/album/1bSsOP5q2aXB0TO2h6rKXg"
       },
       "artists": [
         {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+          "name": "Atlantic Five Jazz Band",
+          "url": "https://open.spotify.com/artist/2utgbFODWxZ6ZPLVhRaToA"
         }
       ],
-      "duration_ms": 181928,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx"
+      "duration_ms": 323520,
+      "name": "Saving All My Love for You",
+      "url": "https://open.spotify.com/track/67gegBlOgrRPHhfLfb3CEj"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -147,6 +131,22 @@
       "duration_ms": 283998,
       "name": "Quiet Sense (feat. Paolo Fresu)",
       "url": "https://open.spotify.com/track/56OCZENfcrmeCpufvWZd0P"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Timba a la Americana",
+        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "duration_ms": 181928,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Morning Sun",
-        "url": "https://open.spotify.com/album/4VB7PmeVHqaiA87rs77pRm"
-      },
-      "artists": [
-        {
-          "name": "The Grace Smith Gang",
-          "url": "https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv"
-        }
-      ],
-      "duration_ms": 180463,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/3wM2sEe8qcWoAZWlXB6pj1"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Follow the Light",
         "url": "https://open.spotify.com/album/464mXSRcytt5W0mq22FMMt"
       },
@@ -239,6 +223,22 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/4VB7PmeVHqaiA87rs77pRm"
+      },
+      "artists": [
+        {
+          "name": "The Grace Smith Gang",
+          "url": "https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv"
+        }
+      ],
+      "duration_ms": 180463,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/3wM2sEe8qcWoAZWlXB6pj1"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "Omega",
         "url": "https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0"
       },
@@ -251,38 +251,6 @@
       "duration_ms": 217800,
       "name": "The Dreamer",
       "url": "https://open.spotify.com/track/2UqYwWfjMDyCRnJc1Eebnn"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Stay a While",
-        "url": "https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE"
-      },
-      "artists": [
-        {
-          "name": "Simon Westman Trio",
-          "url": "https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw"
-        }
-      ],
-      "duration_ms": 332391,
-      "name": "Jakob\u2019s Happy Song",
-      "url": "https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Mondenkind",
-        "url": "https://open.spotify.com/album/1s27PprVQ7RNFHxsWa6RhQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Wollny",
-          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
-        }
-      ],
-      "duration_ms": 163946,
-      "name": "Velvet Gloves & Spit",
-      "url": "https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -303,6 +271,38 @@
       "duration_ms": 320356,
       "name": "There's No Place For Me - Live",
       "url": "https://open.spotify.com/track/48PojLpjonNmPElm0ntohW"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Mondenkind",
+        "url": "https://open.spotify.com/album/1s27PprVQ7RNFHxsWa6RhQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Wollny",
+          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
+        }
+      ],
+      "duration_ms": 163946,
+      "name": "Velvet Gloves & Spit",
+      "url": "https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Stay a While",
+        "url": "https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE"
+      },
+      "artists": [
+        {
+          "name": "Simon Westman Trio",
+          "url": "https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw"
+        }
+      ],
+      "duration_ms": 332391,
+      "name": "Jakob\u2019s Happy Song",
+      "url": "https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Omission",
-        "url": "https://open.spotify.com/album/593q9vEn6lZFiooIkdGWgm"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Omission",
-      "url": "https://open.spotify.com/track/3k5DKMMsGADkmtIVa72D7p"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Massimo Fara\u00f2 Plays the Great Jazz American Composers - George Gershwin, Vol. 3",
         "url": "https://open.spotify.com/album/0w9US9EzNtLwIMDHM4QDQC"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 268081,
       "name": "Bess Is My Woman Now",
       "url": "https://open.spotify.com/track/0H7udegVzTRxIYzPXoBvkI"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Omission",
+        "url": "https://open.spotify.com/album/593q9vEn6lZFiooIkdGWgm"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Omission",
+      "url": "https://open.spotify.com/track/3k5DKMMsGADkmtIVa72D7p"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Ballad for K",
-        "url": "https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl"
-      },
-      "artists": [
-        {
-          "name": "Ruhi Erdogan",
-          "url": "https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "Ballad for K",
-      "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Homeward Bound",
         "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Pure Imagination",
-        "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
+        "name": "Ballad for K",
+        "url": "https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl"
       },
       "artists": [
         {
-          "name": "Rob Barron",
-          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
+          "name": "Ruhi Erdogan",
+          "url": "https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9"
         }
       ],
-      "duration_ms": 358853,
-      "name": "Pure Imagination",
-      "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
+      "duration_ms": 235360,
+      "name": "Ballad for K",
+      "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -719,6 +703,22 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
+      },
+      "artists": [
+        {
+          "name": "Rob Barron",
+          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
+        }
+      ],
+      "duration_ms": 358853,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "Trouble Maker",
         "url": "https://open.spotify.com/album/1uWMkNdhSSdVnTQoxNH4RS"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 407333,
       "name": "Trouble Maker",
       "url": "https://open.spotify.com/track/6saSpp7UZUXltPD6OYGn9u"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Jazz Lullaby",
+        "url": "https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7"
+      },
+      "artists": [
+        {
+          "name": "Ben Paterson",
+          "url": "https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG"
+        }
+      ],
+      "duration_ms": 189929,
+      "name": "Frere Jacques",
+      "url": "https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -755,22 +771,6 @@
       "duration_ms": 366133,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Jazz Lullaby",
-        "url": "https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7"
-      },
-      "artists": [
-        {
-          "name": "Ben Paterson",
-          "url": "https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG"
-        }
-      ],
-      "duration_ms": 189929,
-      "name": "Frere Jacques",
-      "url": "https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1115,6 +1115,30 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "A Drums Comes True",
+        "url": "https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+        },
+        {
+          "name": "John Webber",
+          "url": "https://open.spotify.com/artist/2DcPd1TuEWKCjnokl3EIO5"
+        }
+      ],
+      "duration_ms": 353280,
+      "name": "Will You Still Be Mine?",
+      "url": "https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "A Ballad Moment",
         "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
       },
@@ -1159,30 +1183,6 @@
       "duration_ms": 360680,
       "name": "Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)",
       "url": "https://open.spotify.com/track/3ONFcrwlLYLUZBPh0WSD6q"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "A Drums Comes True",
-        "url": "https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr"
-      },
-      "artists": [
-        {
-          "name": "Massimo Fara\u00f2",
-          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
-        },
-        {
-          "name": "Jimmy Cobb",
-          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
-        },
-        {
-          "name": "John Webber",
-          "url": "https://open.spotify.com/artist/2DcPd1TuEWKCjnokl3EIO5"
-        }
-      ],
-      "duration_ms": 353280,
-      "name": "Will You Still Be Mine?",
-      "url": "https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "where are we",
-        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        }
-      ],
-      "duration_ms": 337573,
-      "name": "Baltimore",
-      "url": "https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Day",
         "url": "https://open.spotify.com/album/3PhmbGVWT1R1Ng4uU58EZb"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 275200,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "where are we",
+        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 337573,
+      "name": "Baltimore",
+      "url": "https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "Love Is in the Air",
+        "url": "https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 225707,
+      "name": "Love Is in the Air",
+      "url": "https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "In the Wee Small Hours of the Morning",
         "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
       },
@@ -1451,6 +1467,26 @@
       "duration_ms": 270027,
       "name": "In the Wee Small Hours of the Morning",
       "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Lovers Moment (H\u00e5kan Brostr\u00f6m Meets Carl Winther Trio)",
+        "url": "https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        },
+        {
+          "name": "H\u00e5kan Brostr\u00f6m",
+          "url": "https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB"
+        }
+      ],
+      "duration_ms": 327642,
+      "name": "Sweet Smile",
+      "url": "https://open.spotify.com/track/0tHMMqD7ygCW2S1zdOMvHb"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1487,42 +1523,6 @@
       "duration_ms": 254560,
       "name": "Nothing Happens Here",
       "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Love Is in the Air",
-        "url": "https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 225707,
-      "name": "Love Is in the Air",
-      "url": "https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Lovers Moment (H\u00e5kan Brostr\u00f6m Meets Carl Winther Trio)",
-        "url": "https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig"
-      },
-      "artists": [
-        {
-          "name": "Carl Winther Trio",
-          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
-        },
-        {
-          "name": "H\u00e5kan Brostr\u00f6m",
-          "url": "https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB"
-        }
-      ],
-      "duration_ms": 327642,
-      "name": "Sweet Smile",
-      "url": "https://open.spotify.com/track/0tHMMqD7ygCW2S1zdOMvHb"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1579,22 +1579,6 @@
       "duration_ms": 244191,
       "name": "Son binocle",
       "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Boo's Blues",
-        "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 205094,
-      "name": "Boo's Blues",
-      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1671,6 +1655,22 @@
       "duration_ms": 482693,
       "name": "Softly, as in a Morning Sunrise",
       "url": "https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Boo's Blues",
+        "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 205094,
+      "name": "Boo's Blues",
+      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
+      },
+      "artists": [
+        {
+          "name": "New Fossils",
+          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
+        }
+      ],
+      "duration_ms": 171397,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "Some Gospel According to Matthew",
         "url": "https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 323426,
       "name": "Some Gospel According to Matthew - Live",
       "url": "https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
-      },
-      "artists": [
-        {
-          "name": "New Fossils",
-          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
-        }
-      ],
-      "duration_ms": 171397,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
     },
     {
       "added_at": "2024-03-29 00:01:00",

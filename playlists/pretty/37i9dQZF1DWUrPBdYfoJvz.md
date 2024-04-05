@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,609 likes - 120 songs - 13 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,665 likes - 120 songs - 13 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 109 | [Rasch Und Mäßig Bewegt](https://open.spotify.com/track/1BhNdKPskUFQVELGgqaHIH) | [Asmus Tietchens](https://open.spotify.com/artist/1VR7bz3EQSo38riLKO8oJK) | [Eisgang / Dämmerattacke](https://open.spotify.com/album/2cNBhp9Us7dF9R9ldFRmRa) | 19:53 |
 | 110 | [A Rainbow in the Curved Air \- Instrumental](https://open.spotify.com/track/0aGvcIUEdMq9PelZIGJOBU) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Terry Riley: A Rainbow in Curved Air & Poppy Nogood and the Phantom Band](https://open.spotify.com/album/7tMM2MIBklhAtmmsgbQrAq) | 18:39 |
 | 111 | [Illusion Of Time \- Teodor Wolgers Rework](https://open.spotify.com/track/3svg12xf0NinRluooXoVfF) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Illusion Of Time \(Teodor Wolgers Rework\)](https://open.spotify.com/album/2gb12OlBnALWWT4tuNSfK9) | 3:35 |
-| 112 | [Freeze](https://open.spotify.com/track/3NsCJjms6R8JLbzmRCDJ9Y) | [Klaus Schulze](https://open.spotify.com/artist/3U2U4TR03ZuStsizrv0EJB) | [Angst](https://open.spotify.com/album/7cwcJ8B4QV0Q1wEx9sD6zi) | 6:42 |
+| 112 | [Freeze](https://open.spotify.com/track/5mHtUWgWPJ2Oi2440y0XCi) | [Klaus Schulze](https://open.spotify.com/artist/3U2U4TR03ZuStsizrv0EJB) | [Angst](https://open.spotify.com/album/1v5SpqSfB6nCgb0jPmoIzL) | 6:42 |
 | 113 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 |
 | 114 | [Saku](https://open.spotify.com/track/78WANNBMEK80nVGTWFGXyg) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 5:45 |
 | 115 | [Introspection \- Edit](https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia) | 2:35 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 119 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
 | 120 | [Ferrum](https://open.spotify.com/track/0s5x2cr3VyJYez1W8SKXC0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Mirror](https://open.spotify.com/album/66d3xKf4p6CDloe6I7HaE9) | 16:13 |
 
-Snapshot ID: `MCxhNWY3MTRiMTlmMDdjZWE5YjZhMThmOGZjYzM5OTA5MjhmZjc0NDhl`
+Snapshot ID: `MCxlMmI4YjgwMTU0YzBiZmYyOGUzZGU3ZWZkYmEyMmEyMmVmY2RjZWNl`

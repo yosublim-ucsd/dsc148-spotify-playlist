@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 333551,
+  "2024-04-05": 333548,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Canada.",
   "name": "Top 50 - Canada",
@@ -15635,7 +15635,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 92400,
       "name": "intro (end of the world)",
       "url": "https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq"
@@ -16952,6 +16952,28 @@
     },
     {
       "album": {
+        "name": "Lady Killers II (Christoph Andersson Remix)",
+        "url": "https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Christoph Andersson",
+          "url": "https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297794,
+      "name": "Lady Killers II (Christoph Andersson Remix)",
+      "url": "https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq"
+    },
+    {
+      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn"
       },
@@ -17795,7 +17817,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 257699,
       "name": "LEVII'S JEANS",
       "url": "https://open.spotify.com/track/2UDARQiksl207HcSduDpov"
@@ -35121,7 +35143,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"

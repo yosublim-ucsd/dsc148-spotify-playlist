@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-312 songs - 1 day 3 hr 24 min
+313 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,8 @@
 | [Penguin Love Theory](https://open.spotify.com/track/3bzJhJH6nAzXXdMrxgUOvV) | [Archie Ward](https://open.spotify.com/artist/18KynPUlZ6UHjikJs1uDaA) | [Penguin Love Theory](https://open.spotify.com/album/3EEBi4BV92v9Gbfhx1la7l) | 5:13 | 2024-03-01 |  |
 | [Persefone](https://open.spotify.com/track/6Y7zsTTF0NJgJGssD6BOJP) | [Cuartero](https://open.spotify.com/artist/3k9XSew0mrAQytiYyIXf18) | [Persefone EP](https://open.spotify.com/album/2ripLUy3pKcxCiA3Va7NX3) | 6:10 | 2023-09-08 | 2023-11-18 |
 | [Physically Closed](https://open.spotify.com/track/2CDjr1XkuBgOLIO3I3YWQp) | [Sha Sha Kimbo](https://open.spotify.com/artist/76m30VYfVl1aar0k9O1vFt) | [Wonder Tech](https://open.spotify.com/album/0TQw8aVOv0AH9qxpunYhjD) | 6:00 | 2023-01-12 | 2023-03-11 |
-| [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 | 2024-02-16 |  |
+| [Pictures Of You](https://open.spotify.com/track/0QQBgAXdLm0hfk9aBJe97f) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 2:55 | 2024-03-22 |  |
+| [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 | 2024-02-16 | 2024-04-05 |
 | [Planet XXX](https://open.spotify.com/track/3vzyI6jeJ86NuRoL5v1fOe) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij) | [Cocoon Compilation S](https://open.spotify.com/album/7dAIB06XezAwD6Mg706lvH) | 6:45 | 2024-02-13 |  |
 | [Play by Play \- Riva Starr Edit](https://open.spotify.com/track/6zdaywP9gc7EnPx9ZgLKN3) | [Luca Morris](https://open.spotify.com/artist/4ZVC41uL0ehcBycZaTN68j), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [Raw Edits Vol\. 1](https://open.spotify.com/album/2RgNFhMndsN5rOE7RScGhx) | 6:55 | 2023-02-17 | 2023-07-01 |
 | [Poignant Letters \- Extended](https://open.spotify.com/track/4ETaeFSEd8sVzFUQQZ2hF0) | [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N) | [Poignant Letters](https://open.spotify.com/album/79F8pixjuaKqt9lpQWD5Lb) | 6:08 | 2023-01-27 | 2023-07-01 |

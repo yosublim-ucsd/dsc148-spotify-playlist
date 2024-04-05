@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/",
-  "num_followers": 325672,
+  "num_followers": 325723,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDVjYTgyOGJmMjEyYTVhM2U0ODQyN2VmNzYxNjg5ZDJlZDc0MmQ4",
+  "snapshot_id": "MCwwNjJmODNiM2E2MWYxYjc1ZTRmYzQxYjU1YmE3Y2RkMjFlMzhkYTRm",
   "tracks": [
     {
       "added_at": "2024-03-29 14:48:36",
@@ -1027,42 +1027,6 @@
     {
       "added_at": "2024-03-29 14:48:36",
       "album": {
-        "name": "Signal",
-        "url": "https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "Signal",
-      "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
-    },
-    {
-      "added_at": "2024-03-29 14:48:36",
-      "album": {
-        "name": "Elemental",
-        "url": "https://open.spotify.com/album/7kbCCMwXxLWQYevRcGtR3U"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 233092,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/5VNd1hDPumxU02ckWEPguk"
-    },
-    {
-      "added_at": "2024-03-29 14:48:36",
-      "album": {
         "name": "DOMINATION",
         "url": "https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob"
       },
@@ -1083,6 +1047,42 @@
       "duration_ms": 168800,
       "name": "DOMINATION",
       "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
+    },
+    {
+      "added_at": "2024-03-29 14:48:36",
+      "album": {
+        "name": "Elemental",
+        "url": "https://open.spotify.com/album/7kbCCMwXxLWQYevRcGtR3U"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 233092,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/5VNd1hDPumxU02ckWEPguk"
+    },
+    {
+      "added_at": "2024-03-29 14:48:36",
+      "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
     },
     {
       "added_at": "2024-03-29 14:48:36",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-03-29 14:48:36",
       "album": {
-        "name": "Mercy Killing",
-        "url": "https://open.spotify.com/album/2zpMB0CBeBuQu15Mx2bZIX"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        },
-        {
-          "name": "Scarlxrd",
-          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
-        }
-      ],
-      "duration_ms": 228998,
-      "name": "Mercy Killing",
-      "url": "https://open.spotify.com/track/7eHvmbbmUKT1AYtPmzr7Ww"
-    },
-    {
-      "added_at": "2024-03-29 14:48:36",
-      "album": {
         "name": "Sacrificial",
         "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 182000,
       "name": "Sacrificial",
       "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
+    },
+    {
+      "added_at": "2024-03-29 14:48:36",
+      "album": {
+        "name": "Mercy Killing",
+        "url": "https://open.spotify.com/album/2zpMB0CBeBuQu15Mx2bZIX"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        },
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        }
+      ],
+      "duration_ms": 228998,
+      "name": "Mercy Killing",
+      "url": "https://open.spotify.com/track/7eHvmbbmUKT1AYtPmzr7Ww"
     },
     {
       "added_at": "2024-03-29 14:48:36",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-03-29 14:48:36",
       "album": {
-        "name": "Time Isn't Real",
-        "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Pain Killer",
-      "url": "https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC"
-    },
-    {
-      "added_at": "2024-03-29 14:48:36",
-      "album": {
         "name": "JUMP OUT",
         "url": "https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 129776,
       "name": "JUMP OUT",
       "url": "https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7"
+    },
+    {
+      "added_at": "2024-03-29 14:48:36",
+      "album": {
+        "name": "Time Isn't Real",
+        "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC"
     },
     {
       "added_at": "2024-03-29 14:48:36",
@@ -2175,6 +2175,26 @@
     {
       "added_at": "2024-03-29 14:48:36",
       "album": {
+        "name": "LOUD",
+        "url": "https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Jason Aalon Butler",
+          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "LOUD (feat. Jason Aalon from FEVER 333)",
+      "url": "https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf"
+    },
+    {
+      "added_at": "2024-03-29 14:48:36",
+      "album": {
         "name": "Done Better",
         "url": "https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh"
       },
@@ -2195,26 +2215,6 @@
       "duration_ms": 170583,
       "name": "Done Better",
       "url": "https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS"
-    },
-    {
-      "added_at": "2024-03-29 14:48:36",
-      "album": {
-        "name": "LOUD",
-        "url": "https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Jason Aalon Butler",
-          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "LOUD (feat. Jason Aalon from FEVER 333)",
-      "url": "https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf"
     },
     {
       "added_at": "2024-03-29 14:48:36",
@@ -2511,18 +2511,22 @@
     {
       "added_at": "2024-03-29 14:48:36",
       "album": {
-        "name": "Loving You Kills Me",
-        "url": "https://open.spotify.com/album/0r0NYM9gZnVJbFsvLG9T7w"
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/4z3ceRR57zSeebnwkZaH7o"
       },
       "artists": [
         {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         }
       ],
-      "duration_ms": 174657,
-      "name": "Loving You Kills Me",
-      "url": "https://open.spotify.com/track/2HoQChs4cvAVWKidJRrGV9"
+      "duration_ms": 196500,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/79xFgpCUqxYSQJcJBXFWSd"
     }
   ],
   "unique_name": "Rocktronic",

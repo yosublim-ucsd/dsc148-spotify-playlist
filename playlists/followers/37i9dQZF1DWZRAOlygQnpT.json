@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 85261,
+  "2024-04-05": 85317,
   "date_first_scraped": "2022-04-22",
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
   "name": "Rock & Roll en Espa\u00f1ol",
@@ -1177,6 +1177,24 @@
       "duration_ms": 165840,
       "name": "Cuando Era un Jovencito",
       "url": "https://open.spotify.com/track/7B1VlOOC2K4UkWNJNXbG6w"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2OA7EvjDkBZMkAZvElz8UU"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "Cuando Me Enamoro (Quando Mi Inamoro)",
+      "url": "https://open.spotify.com/track/27tgdvEdEXoGVBvRomPMiU"
     },
     {
       "album": {
@@ -2963,7 +2981,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 166386,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/3ALSAAcAgp6gmWPnvPPRqH"

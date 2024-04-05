@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265079,
+      "name": "Grato a Ti",
+      "url": "https://open.spotify.com/track/3cyYp8qxwUU1lV4HIzpV9X"
+    },
+    {
+      "album": {
         "name": "Com Muito Louvor",
         "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
       },
@@ -624,7 +642,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 257137,
       "name": "N\u00e3o Negue a Jesus / Com Cristo \u00e9 Vencer / Contigo Est\u00e1",
       "url": "https://open.spotify.com/track/592T41GMbnMvSVb9XpeEGe"

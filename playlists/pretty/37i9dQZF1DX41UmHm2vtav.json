@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 466333,
+  "num_followers": 466383,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjk3MjViODQ3MmIyODFjOWMwZTA4NmM2NWVmNjZhNjFhNmMzNmQw",
+  "snapshot_id": "MCw3Mjc4MDkyYzBmYjFmMGUxMzRkNmFjM2U5MmIxZDI5ZjFlYTMxODQw",
   "tracks": [
     {
       "added_at": "2024-03-16 02:06:56",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-03-16 02:06:56",
       "album": {
-        "name": "Paradise (Vintage Culture Remix)",
-        "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
-      },
-      "artists": [
-        {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 241823,
-      "name": "Paradise - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
-    },
-    {
-      "added_at": "2024-03-16 02:06:56",
-      "album": {
         "name": "Monalisa (KVSH Remix)",
         "url": "https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 175844,
       "name": "Monalisa (KVSH Remix)",
       "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
+    },
+    {
+      "added_at": "2024-03-16 02:06:56",
+      "album": {
+        "name": "Paradise (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
+      },
+      "artists": [
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 241823,
+      "name": "Paradise - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
     },
     {
       "added_at": "2024-03-16 02:06:56",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2024-03-16 02:06:56",
       "album": {
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
+      },
+      "artists": [
+        {
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+        },
+        {
+          "name": "Rodrigo S\u00e1",
+          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
+    },
+    {
+      "added_at": "2024-03-16 02:06:56",
+      "album": {
         "name": "Se Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
       },
@@ -1291,46 +1311,6 @@
     {
       "added_at": "2024-03-16 02:06:56",
       "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
-      },
-      "artists": [
-        {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
-        },
-        {
-          "name": "Rodrigo S\u00e1",
-          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
-    },
-    {
-      "added_at": "2024-03-16 02:06:56",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "JHart",
-          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
-        }
-      ],
-      "duration_ms": 179481,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
-    },
-    {
-      "added_at": "2024-03-16 02:06:56",
-      "album": {
         "name": "Alto Mar (Woak & Rigon Remix)",
         "url": "https://open.spotify.com/album/0CiYa6remt7JTz5ZJFyvSs"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 162073,
       "name": "Alto Mar - Woak & Rigon Remix",
       "url": "https://open.spotify.com/track/4eRdqHpdfJxJcUdzhoYBSq"
+    },
+    {
+      "added_at": "2024-03-16 02:06:56",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "duration_ms": 179481,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
     },
     {
       "added_at": "2024-03-16 02:06:56",
@@ -1503,22 +1503,22 @@
     {
       "added_at": "2024-03-16 02:06:56",
       "album": {
-        "name": "Resenha (Radio Edit)",
-        "url": "https://open.spotify.com/album/1HAOi0KtbG60wUPvY0pZTQ"
+        "name": "O Amor \u00e9 o Segredo (Dre Guazelli Remix Radio Edit)",
+        "url": "https://open.spotify.com/album/4Ed15mSBTFC3isoPAijpcR"
       },
       "artists": [
         {
-          "name": "Salk",
-          "url": "https://open.spotify.com/artist/5WRqgOVssGPVDA7ZIkIiGd"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         },
         {
-          "name": "Arthur Favero",
-          "url": "https://open.spotify.com/artist/6ro3Jx7xVl5MVF4HzZ2puK"
+          "name": "Dre Guazzelli",
+          "url": "https://open.spotify.com/artist/4NnfyZ8ExJjtf6vuWHPoNl"
         }
       ],
-      "duration_ms": 208770,
-      "name": "Resenha - Radio Edit",
-      "url": "https://open.spotify.com/track/3jevEbow9lePvSD8PUDisD"
+      "duration_ms": 168572,
+      "name": "O Amor \u00e9 o Segredo - Dre Guazelli Remix Radio Edit",
+      "url": "https://open.spotify.com/track/3AUwUpkVKa1gQ74gxxV49z"
     }
   ],
   "unique_name": "Festa na Praia",

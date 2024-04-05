@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 190483,
+  "num_followers": 190703,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzI4ODZjY2VjNTcyMDI4M2U2YmM4MTQxYmUyZjM3MzUyYWJkMzUw",
+  "snapshot_id": "MCw2NDM5MzYwMjQ3YmQ3N2E0MzNlODBhNTZhYjg5MjZjMTZmMDQ4MGRi",
   "tracks": [
     {
       "added_at": "2024-03-17 23:18:17",
@@ -652,8 +652,8 @@
       },
       "artists": [
         {
-          "name": "C Dobleta",
-          "url": "https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE"
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
         }
       ],
       "duration_ms": 182474,
@@ -859,6 +859,30 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 309120,
+      "name": "No Me Conoce - Remix",
+      "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "ANDO",
         "url": "https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D"
       },
@@ -875,22 +899,6 @@
       "duration_ms": 172774,
       "name": "ANDO",
       "url": "https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "Holanda",
-        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Holanda",
-      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -999,26 +1007,18 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Famouz",
-        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+        "name": "Holanda",
+        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
       },
       "artists": [
         {
           "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 309120,
-      "name": "No Me Conoce - Remix",
-      "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
+      "duration_ms": 231693,
+      "name": "Holanda",
+      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1311,22 +1311,18 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Esc\u00e1pate Conmigo (Remix)",
-        "url": "https://open.spotify.com/album/12hBTtSdHrsNO17m4VemTy"
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
       },
       "artists": [
         {
-          "name": "Wolfine",
-          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
-        },
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 167418,
-      "name": "Esc\u00e1pate Conmigo - Remix",
-      "url": "https://open.spotify.com/track/4aEOz6ZpXh3wF4FOdJHOPV"
+      "duration_ms": 214120,
+      "name": "Pa' Que La Pases Bien",
+      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1363,18 +1359,42 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+        "name": "Esc\u00e1pate Conmigo (Remix)",
+        "url": "https://open.spotify.com/album/12hBTtSdHrsNO17m4VemTy"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Wolfine",
+          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
         }
       ],
-      "duration_ms": 214120,
-      "name": "Pa' Que La Pases Bien",
-      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
+      "duration_ms": 167418,
+      "name": "Esc\u00e1pate Conmigo - Remix",
+      "url": "https://open.spotify.com/track/4aEOz6ZpXh3wF4FOdJHOPV"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "Maquillaje",
+        "url": "https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy"
+      },
+      "artists": [
+        {
+          "name": "Renn",
+          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
+        },
+        {
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
+        }
+      ],
+      "duration_ms": 211969,
+      "name": "Maquillaje",
+      "url": "https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1419,26 +1439,6 @@
       "duration_ms": 176326,
       "name": "Si La Mami",
       "url": "https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "Maquillaje",
-        "url": "https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy"
-      },
-      "artists": [
-        {
-          "name": "Renn",
-          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
-        },
-        {
-          "name": "Yexel",
-          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
-        }
-      ],
-      "duration_ms": 211969,
-      "name": "Maquillaje",
-      "url": "https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 124374,
+      "name": "Emociones",
+      "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "Brattiputy",
         "url": "https://open.spotify.com/album/2jmAx9Pl6bp05KnJvBNV1f"
       },
@@ -1695,42 +1711,6 @@
       "duration_ms": 230816,
       "name": "Brattiputy",
       "url": "https://open.spotify.com/track/4NRvhgXpBfLCPjdDbZHjp7"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 124374,
-      "name": "Emociones",
-      "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1775,6 +1755,26 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "Single",
         "url": "https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW"
       },
@@ -1787,26 +1787,6 @@
       "duration_ms": 178181,
       "name": "Single",
       "url": "https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "Ex-Special",
-        "url": "https://open.spotify.com/album/5dvomMEu2lIYM9p189RxIp"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Ex-Special",
-      "url": "https://open.spotify.com/track/4ix1NGkHZEiVyzoQ6cEVs3"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1831,6 +1811,26 @@
       "duration_ms": 286265,
       "name": "BONNIE AND CLYDE - REMIX",
       "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "Ex-Special",
+        "url": "https://open.spotify.com/album/5dvomMEu2lIYM9p189RxIp"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Ex-Special",
+      "url": "https://open.spotify.com/track/4ix1NGkHZEiVyzoQ6cEVs3"
     },
     {
       "added_at": "2024-03-17 23:18:17",

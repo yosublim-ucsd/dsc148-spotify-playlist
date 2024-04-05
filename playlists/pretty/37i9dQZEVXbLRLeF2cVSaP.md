@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,642 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,662 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Зима в сердце](https://open.spotify.com/track/6awpF8KkBWuZr1ElN2xkaW) | [Moya Mishel](https://open.spotify.com/artist/28oFVU5sNejm6p76RkSwtQ) | [Из цветов и темноты](https://open.spotify.com/album/5Psqb8umHXgLiEXpkAsYl4) | 4:05 |
 | 50 | [Дерьмо](https://open.spotify.com/track/0MVVy6JqnmQHtxvDB860FJ) | [unki](https://open.spotify.com/artist/157DpdCWsAG42qhS6BCsjT) | [JERK SHIT HAPPENS](https://open.spotify.com/album/5vuwrdSk8QOlcMCCeKyCgV) | 1:30 |
 
-Snapshot ID: `NzY1NTA4ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY1NTk1MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

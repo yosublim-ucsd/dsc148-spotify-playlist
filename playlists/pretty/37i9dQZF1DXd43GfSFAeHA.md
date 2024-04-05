@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Shabjdeed & Al Nather
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,826 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,862 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 17 | [Machi Lkhatri](https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Machi Lkhatri](https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU) | 3:29 |
 | 18 | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/track/3NCimqhH0nbUEFGpExhsTM) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/album/7gSkacuneqgcG3HFLQkCbS) | 2:42 |
 | 19 | [Minuit](https://open.spotify.com/track/4Qwzw8eFrFYUkegexOtyNm) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Minuit](https://open.spotify.com/album/2ubz38hd8GzoT6nFs50NeA) | 3:27 |
-| 20 | [MATAL3ACH](https://open.spotify.com/track/55T3HvQKuTr6N57mMoIgMc) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MATAL3ACH](https://open.spotify.com/album/7e2fbam9ZoNFL7xvTZqOTH) | 2:55 |
-| 21 | [Garee2](https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Garee2](https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv) | 1:09 |
+| 20 | [Garee2](https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Garee2](https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv) | 1:09 |
+| 21 | [MATAL3ACH](https://open.spotify.com/track/55T3HvQKuTr6N57mMoIgMc) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MATAL3ACH](https://open.spotify.com/album/7e2fbam9ZoNFL7xvTZqOTH) | 2:55 |
 | 22 | [TODO BENÉ \- Spotify Singles](https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [TODO BENÉ \(Spotify Singles\)](https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x) | 3:26 |
 | 23 | [Shkoon](https://open.spotify.com/track/76oxojNipN7ol8ALGuNA0Y) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Shkoon](https://open.spotify.com/album/5Et9sV7KldC7b3sxSR4uWW) | 3:36 |
 | 24 | [Rad Saree3](https://open.spotify.com/track/1vcb5OCIZ7X7WfomgPgH4y) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl), [Riyadiyat](https://open.spotify.com/artist/4U10V6SOPK1QA2Hh8ALk6S) | [SULTAN](https://open.spotify.com/album/4clzoFbF4ygMmBSP5xKH3M) | 4:30 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 28 | [Vida Loca](https://open.spotify.com/track/4WKcS5bpZNwg31wcGpO2o0) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [Mangesto](https://open.spotify.com/album/3t3dNFtSlwC5UBg9fRgKi5) | 1:59 |
 | 29 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 |
 | 30 | [Tripod](https://open.spotify.com/track/4nydbqIi7U7DMM3ZGQEjtE) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa) | 3:48 |
-| 31 | [London](https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:40 |
-| 32 | [Rajel](https://open.spotify.com/track/4YibFdQpXOTKUuONm34QLV) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Rajel](https://open.spotify.com/album/5qIdMl371jLKWHDkj63uca) | 3:33 |
+| 31 | [Rajel](https://open.spotify.com/track/4YibFdQpXOTKUuONm34QLV) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Rajel](https://open.spotify.com/album/5qIdMl371jLKWHDkj63uca) | 3:33 |
+| 32 | [London](https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:40 |
 | 33 | [Lang](https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Lang](https://open.spotify.com/album/4pN9RFdnu3Ia45AkMolCTm) | 2:26 |
 | 34 | [Meen \(feat\. Rafiek\)](https://open.spotify.com/track/6mtov0T6NivlQZMNqnCK8B) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [من الرماد](https://open.spotify.com/album/0izte4GdWsvO29WcOWKbkp) | 2:45 |
 | 35 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 50 | [Kolo Muthandil](https://open.spotify.com/track/1XGmDAd1isogzMDhF7OvA8) | [Naj](https://open.spotify.com/artist/0kEUm2PfkVPtCdUpFEXyfH), [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Kolo Muthandil](https://open.spotify.com/album/6RbbsOl4390qj4E5maFIw7) | 2:46 |
 | 51 | [Rawq Elmanga](https://open.spotify.com/track/2hB2WISY87CjgjY3YNaJpt) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Rawq Elmanga](https://open.spotify.com/album/24i5mi7wRZIZATTQCWipGC) | 3:15 |
 
-Snapshot ID: `MCxjYTI3OWY1NWFhYWY4YzY0N2I2ZmJiZjkwMzE3M2ZiMTQzZDM5MTFj`
+Snapshot ID: `MCwxYWU5ZGZhZjE0OWVlZTk2MTc0YWU3ZGE3NGNjNjRkYmUwNTJlZGE4`

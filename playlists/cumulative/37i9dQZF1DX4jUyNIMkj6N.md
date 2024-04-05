@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-272 songs - 16 hr 45 min
+273 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 | 2022-07-14 |  |
 | [Line of Fire](https://open.spotify.com/track/3C3ArxTzVCYVzHpzq6AO9G) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/7x9Q6tQyDcS6EhWsmTgujm) | 3:08 | 2021-12-02 | 2022-07-29 |
 | [Little Twirl](https://open.spotify.com/track/7vmWRYyUn4N70WFWigpMwc) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Carvings](https://open.spotify.com/album/0g5Hk7IoMATmXQKDwdM9ln) | 2:22 | 2023-01-19 | 2023-02-08 |
+| [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 | 2024-04-04 |  |
 | [Look At The Light](https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Flowers](https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW) | 3:40 | 2021-12-02 | 2023-10-06 |
 | [Lost](https://open.spotify.com/track/3y30CMKgom7ymwPVnDuoQ4) | [Sonic Løland](https://open.spotify.com/artist/3g4SAPEqsPhWUsAzRqnu8o) | [Lost](https://open.spotify.com/album/5KGvjHsl3He6zOSszh8uFH) | 3:45 | 2022-11-10 | 2022-11-26 |
 | [Lou Lou](https://open.spotify.com/track/7fdPcyE4xzQlm0Fkf0JERy) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Lou Lou](https://open.spotify.com/album/39Tx9lVSciEVoYmCCdpkXH) | 2:04 | 2021-12-02 | 2022-07-28 |
@@ -192,7 +193,7 @@
 | [Sister Hymn](https://open.spotify.com/track/6RBnyMeL6CQgqSe7lHDVDB) | [Oakland Rain](https://open.spotify.com/artist/5KfRoJYMy6yuBdJfDXU1wR) | [Sister Hymn](https://open.spotify.com/album/2vzhIKEk713VEzoczzqj1M) | 2:32 | 2024-03-07 |  |
 | [Sjåaren](https://open.spotify.com/track/3zsLCHX1W9eyxCGvdtGnRQ) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Nord](https://open.spotify.com/album/3MOfbBRIIiDiJANV0Ko6GN) | 5:17 | 2021-12-02 | 2024-03-05 |
 | [Skuggor av oss](https://open.spotify.com/track/7mLnXV14Oqu0H4Svh1DWvG) | [Dolce](https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T), [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skuggor av oss](https://open.spotify.com/album/68Z3DsQCy4w1vTHHCB5E3x) | 3:09 | 2024-01-25 |  |
-| [Slowly](https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID) | [Red Langur](https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9) | [Slowly](https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa) | 2:52 | 2024-03-21 |  |
+| [Slowly](https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID) | [Red Langur](https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9) | [Slowly](https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa) | 2:52 | 2024-03-21 | 2024-04-05 |
 | [Solfager og Ormekongen](https://open.spotify.com/track/72xkiSQyAbHlaGHBYrlwLI) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Solfager og Ormekongen](https://open.spotify.com/album/1CcblCunCvgfhSb7B3E1fS) | 4:53 | 2021-12-02 | 2022-07-28 |
 | [Solringen \- First Flight of the White Raven LIVE](https://open.spotify.com/track/0fIy0hd1teqHnUZyt0o7os) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Solringen \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/6onBcLQqwIoGL81fFAwI82) | 4:45 | 2022-01-20 | 2022-07-21 |
 | [Something Good](https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Something Good](https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G) | 3:45 | 2022-09-29 | 2023-12-19 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 12942,
+  "2024-04-05": 12940,
   "date_first_scraped": "2023-12-14",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC\">Murda Beatz</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Murda Beatz",
@@ -3499,10 +3499,40 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 228813,
       "name": "JET",
       "url": "https://open.spotify.com/track/2MQiBrImIKat0FP2LQ7OOE"
+    },
+    {
+      "album": {
+        "name": "BAD HOP WORLD DELUXE",
+        "url": "https://open.spotify.com/album/3wBs5WEBH00eWJuNCmVTnF"
+      },
+      "artists": [
+        {
+          "name": "BAD HOP",
+          "url": "https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2"
+        },
+        {
+          "name": "G-k.i.d",
+          "url": "https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v"
+        },
+        {
+          "name": "Yellow Pato",
+          "url": "https://open.spotify.com/artist/1NdYIG2u5Dj0nFP8fPbGcr"
+        },
+        {
+          "name": "Tiji Jojo",
+          "url": "https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228904,
+      "name": "JET (feat. G-k.i.d, Yellow Pato & Tiji Jojo)",
+      "url": "https://open.spotify.com/track/2AuzwnFFJcK1FG7yULZqvV"
     },
     {
       "album": {

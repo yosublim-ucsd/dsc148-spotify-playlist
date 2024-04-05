@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 95612,
+  "num_followers": 95653,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmNlNjE1N2Y3MGYwNjk1ODRiZjJjOGRhNWVmM2UwNDZlNmNhM2Mx",
+  "snapshot_id": "MCxkYjY1MTI0OTllYjY4MTlmNjc0MDQzOTZkM2MwYTk5OWJhYjZiNzBh",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -431,22 +431,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
-      },
-      "artists": [
-        {
-          "name": "GAWVI",
-          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
-        }
-      ],
-      "duration_ms": 283317,
-      "name": "TRAPCHATA",
-      "url": "https://open.spotify.com/track/0sFvANVCB08GDLjjUx7NDm"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Me Llevas M\u00e1s Alto",
         "url": "https://open.spotify.com/album/6ZOw1bQKJpRWnAmyKkVhe2"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 199524,
       "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
       "url": "https://open.spotify.com/track/0KyNEJfDrKHOGSxsxCDM7v"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
+      },
+      "artists": [
+        {
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+        }
+      ],
+      "duration_ms": 283317,
+      "name": "TRAPCHATA",
+      "url": "https://open.spotify.com/track/0sFvANVCB08GDLjjUx7NDm"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -563,6 +563,26 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/57TWQ1wClUOJ8MFDKIVKAH"
       },
@@ -627,26 +647,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
-        "url": "https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
-      "url": "https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Hoy Ver\u00e9 Su Gloria",
         "url": "https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/3Lxyo5wFt4lYA5XzG4ye7V"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        }
-      ],
-      "duration_ms": 190290,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/1oKB6sCR5aeEip3I93EuEf"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90"
       },
@@ -731,6 +715,38 @@
       "duration_ms": 192402,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "This Is My Time",
+        "url": "https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "duration_ms": 228111,
+      "name": "La Misma Mentira",
+      "url": "https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/3Lxyo5wFt4lYA5XzG4ye7V"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "duration_ms": 190290,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1oKB6sCR5aeEip3I93EuEf"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -767,22 +783,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "This Is My Time",
-        "url": "https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        }
-      ],
-      "duration_ms": 228111,
-      "name": "La Misma Mentira",
-      "url": "https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "La Fe Que Dios Me Di\u00f3",
         "url": "https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K"
       },
@@ -815,6 +815,26 @@
       "duration_ms": 231003,
       "name": "Ritmo del Cielo",
       "url": "https://open.spotify.com/track/1rYUm7oOLJcJW5dSnJTem5"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0j2n0aqjlCAK2Ym6dt2TOr"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        },
+        {
+          "name": "Niko La F\u00e1brica",
+          "url": "https://open.spotify.com/artist/77gpdl9ket58wQczszbrno"
+        }
+      ],
+      "duration_ms": 224783,
+      "name": "Yo Te Prometo",
+      "url": "https://open.spotify.com/track/3BmjG2rfCuZcgJ4szVLFHO"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -863,22 +883,6 @@
       "duration_ms": 190800,
       "name": "No Vaya a Ser",
       "url": "https://open.spotify.com/track/4cxZYv0KJvw6MNHjuz8tOk"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Quinto Elemento",
-        "url": "https://open.spotify.com/album/73QDJ8kDJT0SbWQJJab2Zf"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kelly",
-          "url": "https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb"
-        }
-      ],
-      "duration_ms": 190611,
-      "name": "Va Cae",
-      "url": "https://open.spotify.com/track/6VnM8awfWWcXF37qbU2DHF"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

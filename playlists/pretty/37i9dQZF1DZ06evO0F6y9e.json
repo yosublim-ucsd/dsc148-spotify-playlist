@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 950060,
+  "num_followers": 950248,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2E0NzI2MmMxMTJlNjI3ZDllM2YzNjM5MTczOGZmNTBhNDAzZDdh",
+  "snapshot_id": "MCwxYjQ4M2RlZWFkYzBlOGZlNWM3YzE2MTFjMDRmZjljMDNmYmYxMGI0",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El G\u00fcero (Feat. Marca MP)",
-        "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 213254,
-      "name": "El G\u00fcero (Feat. Marca MP)",
-      "url": "https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suspiros (En Vivo)",
         "url": "https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 185642,
       "name": "Suspiros (En Vivo)",
       "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El G\u00fcero (Feat. Marca MP)",
+        "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 213254,
+      "name": "El G\u00fcero (Feat. Marca MP)",
+      "url": "https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mil Gracias Por Existir",
-        "url": "https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 225541,
-      "name": "Mil Gracias Por Existir",
-      "url": "https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 250686,
       "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mil Gracias Por Existir",
+        "url": "https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 225541,
+      "name": "Mil Gracias Por Existir",
+      "url": "https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X"
     },
     {
       "added_at": null,
@@ -607,46 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Patrocinador",
-        "url": "https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "El Patrocinador",
-      "url": "https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Estar\u00e9 Esperando (En Vivo)",
         "url": "https://open.spotify.com/album/6glSiYSioOzvLo6cnv1hgZ"
       },
@@ -683,6 +643,46 @@
       "duration_ms": 232597,
       "name": "La Historia De Mis Manos (En Vivo)",
       "url": "https://open.spotify.com/track/71sLcaF7h1Y4oVuRLGIRrT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Patrocinador",
+        "url": "https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "El Patrocinador",
+      "url": "https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XL",
-        "url": "https://open.spotify.com/album/42gWMcRX1GVhRvUAb1jUcw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 147597,
-      "name": "XL",
-      "url": "https://open.spotify.com/track/2WbciITogHwrgtxtkhmdPj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ac\u00e1bame de Matar (Feat. Luis Angel \"El Flaco\")",
         "url": "https://open.spotify.com/album/5gJytBbQyZB1voWvuVk6of"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 214199,
       "name": "Ac\u00e1bame de Matar (Feat. Luis Angel \"El Flaco\")",
       "url": "https://open.spotify.com/track/3Tq17cNZ19NxBlNgLPXx7u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XL",
+        "url": "https://open.spotify.com/album/42gWMcRX1GVhRvUAb1jUcw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 147597,
+      "name": "XL",
+      "url": "https://open.spotify.com/track/2WbciITogHwrgtxtkhmdPj"
     },
     {
       "added_at": null,
@@ -891,6 +891,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
+        "url": "https://open.spotify.com/album/7adBn21cJiGl0qGhmFy12R"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 241536,
+      "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
+      "url": "https://open.spotify.com/track/6bANxR8naOx4pnq1795q31"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Secuestro De Amor",
         "url": "https://open.spotify.com/album/5tlAgf8YtdhvwcJihsF1dV"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 275683,
       "name": "Te Equivocaste",
       "url": "https://open.spotify.com/track/1aYCO1g5B1Jrg3kz6TXL3o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
-        "url": "https://open.spotify.com/album/7adBn21cJiGl0qGhmFy12R"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 241536,
-      "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
-      "url": "https://open.spotify.com/track/6bANxR8naOx4pnq1795q31"
     },
     {
       "added_at": null,

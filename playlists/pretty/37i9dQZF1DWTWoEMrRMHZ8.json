@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Joyce Alane",
-  "num_followers": 347003,
+  "num_followers": 347031,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWFjYWQxYzg2MjRkOWVlNzBiNmIwYjg1NGM4ZDRjZjA5Y2I1ZmJh",
+  "snapshot_id": "MCw4Y2ZiODkxNzU1MTc2NDRiYmFhM2YyZDNkOTllYjRjOWNlMWIzZWQ2",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "DARAM\u00d4",
-        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "saudade boa",
-      "url": "https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "No Escuro",
         "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 238384,
       "name": "No Escuro",
       "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "DARAM\u00d4",
+        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "saudade boa",
+      "url": "https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "SERENA",
+        "url": "https://open.spotify.com/album/73rAawCkZdweVXlMfHkB51"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 189713,
+      "name": "SERENA",
+      "url": "https://open.spotify.com/track/4ZxM1fRBKH1IdiKWPE6eZc"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Gerando na Alta",
         "url": "https://open.spotify.com/album/4BSFDWZXGcfjqteEakRbvb"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Maria Maria - Spotify Singles",
-        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Maria Maria - Spotify Singles",
-      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Se o Meu Peito Fosse o Mundo (Lado A)",
         "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
       },
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "SERENA",
-        "url": "https://open.spotify.com/album/73rAawCkZdweVXlMfHkB51"
+        "name": "Maria Maria - Spotify Singles",
+        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
       },
       "artists": [
         {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 189713,
-      "name": "SERENA",
-      "url": "https://open.spotify.com/track/4ZxM1fRBKH1IdiKWPE6eZc"
+      "duration_ms": 143933,
+      "name": "Maria Maria - Spotify Singles",
+      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Ao Arrepio da Lei",
-        "url": "https://open.spotify.com/album/1UwTMohdeycHtJFsRJ4nCY"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 219744,
-      "name": "Ao Arrepio da Lei",
-      "url": "https://open.spotify.com/track/4xsVg1mKcHTHa9gxqeuiNA"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Roupa Branca",
         "url": "https://open.spotify.com/album/1NoGlIcRHsvjKl9XtHCrmc"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 163426,
       "name": "Faz Parte Do Meu Show",
       "url": "https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Ao Arrepio da Lei",
+        "url": "https://open.spotify.com/album/1UwTMohdeycHtJFsRJ4nCY"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 219744,
+      "name": "Ao Arrepio da Lei",
+      "url": "https://open.spotify.com/track/4xsVg1mKcHTHa9gxqeuiNA"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Qual \u00c9 a Sua?",
-        "url": "https://open.spotify.com/album/018b2Donln67BGiwNP7XjS"
-      },
-      "artists": [
-        {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
-        }
-      ],
-      "duration_ms": 172623,
-      "name": "Qual \u00c9 a Sua?",
-      "url": "https://open.spotify.com/track/2bPBUYlwhiKP3diP15zM33"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Coment\u00e1rio a Respeito de John",
         "url": "https://open.spotify.com/album/6WOf0ipvapNBTYVxG1SF54"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 187934,
       "name": "Sangue Latino",
       "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Qual \u00c9 a Sua?",
+        "url": "https://open.spotify.com/album/018b2Donln67BGiwNP7XjS"
+      },
+      "artists": [
+        {
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        }
+      ],
+      "duration_ms": 172623,
+      "name": "Qual \u00c9 a Sua?",
+      "url": "https://open.spotify.com/track/2bPBUYlwhiKP3diP15zM33"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
+      },
+      "artists": [
+        {
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 182780,
       "name": "Dan\u00e7a",
       "url": "https://open.spotify.com/track/4zOwbaaLKlivAFL8ueaLTo"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
-      },
-      "artists": [
-        {
-          "name": "Maria Maud",
-          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Coragem",
-        "url": "https://open.spotify.com/album/6lF3W0y9vU60TWPXjdoazp"
-      },
-      "artists": [
-        {
-          "name": "Toco",
-          "url": "https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL"
-        }
-      ],
-      "duration_ms": 197918,
-      "name": "Coragem",
-      "url": "https://open.spotify.com/track/6AIBj4HDtIurPmA3lycw2v"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "V\u00e1 Com Deus",
         "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 172268,
       "name": "V\u00e1 Com Deus",
       "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Coragem",
+        "url": "https://open.spotify.com/album/6lF3W0y9vU60TWPXjdoazp"
+      },
+      "artists": [
+        {
+          "name": "Toco",
+          "url": "https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL"
+        }
+      ],
+      "duration_ms": 197918,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/6AIBj4HDtIurPmA3lycw2v"
     },
     {
       "added_at": "2024-03-29 03:00:00",

@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. 🌍 Photo: SenSey'
 
-356 songs - 21 hr 52 min
+358 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,8 @@
 | [Afriquoi \- Balobi \(Zed Bias Dub Mix\)](https://open.spotify.com/track/0LhiaTtuCHYLkVA3hJCA8s) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT), [Zed Bias](https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7) | [Balobi \(Zed Bias Dub Mix\)](https://open.spotify.com/album/0n7ygsBJ4rnirVDpzg1W6y) | 6:07 | 2023-01-27 | 2023-02-25 |
 | [Afro Mbokalisation](https://open.spotify.com/track/3P5wVufq5aP1hDMl1W1qvO) | [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Afro Mbokalisation](https://open.spotify.com/album/5lv3btQPZawglTewcn1Y1h) | 4:07 | 2022-11-18 |  |
 | [Afsana](https://open.spotify.com/track/0Ms0rronIijW3ngbCOtRlB) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6) | 4:47 | 2022-12-16 | 2023-07-01 |
+| [Allo](https://open.spotify.com/track/2aOCcxLfLXUvDra9KuDkaa) | [Rockia Chelle](https://open.spotify.com/artist/1ZrT53sSLbDhxz7QVnisBo), [Fanicko](https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p) | [Allo](https://open.spotify.com/album/5gnoiVpxA1Y4bJIZ2oNpYL) | 3:19 | 2024-04-05 |  |
+| [ALWAYS](https://open.spotify.com/track/6Wkoz5kAWOTIHewXzn9srF) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [ALWAYS](https://open.spotify.com/album/5M3zUxFgRlneZtiEXGuKYe) | 2:52 | 2024-04-05 |  |
 | [Amani Bombe](https://open.spotify.com/track/7qGZsPHy5NAkvtNeet3GXk) | [Huguette Tolinga](https://open.spotify.com/artist/13gEoV3xYprWdVPCSznG1O) | [Amani Bombe](https://open.spotify.com/album/7mrSqIQMuLxX6OQmYaT7kL) | 3:27 | 2022-07-29 | 2022-11-26 |
 | [Atalaku](https://open.spotify.com/track/4f45BUGMPheVBmtxg5jVAf) | [Mike LeMillionaire](https://open.spotify.com/artist/4U7uidgCCK3Q7KsLzT3muv) | [Atalaku](https://open.spotify.com/album/6z4rOtn4oWJmSISqwXYhpE) | 1:04 | 2022-06-30 | 2023-03-18 |
 | [Aucune attache](https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Aucune attache](https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI) | 2:41 | 2024-02-02 |  |
@@ -151,7 +153,7 @@
 | [Jalousie](https://open.spotify.com/track/1W7asBGIbGNgFelsxHqz9D) | [AFARA TSENA FUKUSHIMA](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Coupé décalé congolais](https://open.spotify.com/album/3HOzLE98uvORHFwCmZ9oil) | 5:15 | 2022-06-30 | 2022-07-29 |
 | [Japonais](https://open.spotify.com/track/4L6GFaHKWwJBeaD6FEKaXh) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Japonais](https://open.spotify.com/album/5F1Br2g4h6tiMyz3p8FzVV) | 2:45 | 2023-12-15 |  |
 | [Je sais faire](https://open.spotify.com/track/3lRGilDec8Yq22ZBf7JJlw) | [Jordy](https://open.spotify.com/artist/5tZRrutidZHlufZzoO10Zh), [Bruzer](https://open.spotify.com/artist/1U2Bzt0bhkqHJj7L1WQdnB) | [Je sais faire](https://open.spotify.com/album/65HMSuWazqfmdwXlpUyj1g) | 2:02 | 2023-03-17 | 2023-04-22 |
-| [Je t'aime](https://open.spotify.com/track/5J9dOEHLNPwfbFlWPTkm8S) | [Gally](https://open.spotify.com/artist/77leAzJhNtGmrB9EzWxBv7) | [Amour & moi](https://open.spotify.com/album/2NAkbN7FQw4yTukP3NOvpb) | 2:57 | 2023-03-17 |  |
+| [Je t'aime](https://open.spotify.com/track/5J9dOEHLNPwfbFlWPTkm8S) | [Gally](https://open.spotify.com/artist/77leAzJhNtGmrB9EzWxBv7) | [Amour & moi](https://open.spotify.com/album/2NAkbN7FQw4yTukP3NOvpb) | 2:57 | 2023-03-17 | 2024-04-05 |
 | [Jolie \(feat\. Ninho\)](https://open.spotify.com/track/3q1FxEzXmsNmJrxaoICXzW) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jolie \(feat\. Ninho\)](https://open.spotify.com/album/0S78h6ZbLzlZjpprrx6LO2) | 2:39 | 2023-03-17 |  |
 | [Julio Cesar \- Amapiano](https://open.spotify.com/track/3RDFbEo7EZado9KJVtLFc5) | [IDPizzle](https://open.spotify.com/artist/3tHfJUWTW4xMGVrUuFD7DC) | [Julio Cesar \(Amapiano\)](https://open.spotify.com/album/0v7n1Dy8POTrf0uclPKm2P) | 3:06 | 2022-07-08 | 2023-03-18 |
 | [Kaka Boye](https://open.spotify.com/track/18qDtqnKrFshHeuMsGnGL0) | [Sista Becky](https://open.spotify.com/artist/5W7kgjSXcX9nWvlYjRXoER), [Yvon Yusuf](https://open.spotify.com/artist/3d637WvU4WJTZoeIJj22i1) | [Kaka Boye](https://open.spotify.com/album/3J9fmDUqirc1fwyw2SbiGw) | 3:35 | 2023-11-10 | 2024-01-13 |
@@ -214,7 +216,7 @@
 | [Misu na misu](https://open.spotify.com/track/0rEnLlgpNdxntNU7irVb51) | [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Misu na misu](https://open.spotify.com/album/4kI0FPGAJdKHE7DEvfNv1i) | 3:28 | 2022-06-30 | 2023-05-06 |
 | [MK II \- Version Libanga](https://open.spotify.com/track/58HxwiXZMSzFp0feDTpAcX) | [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l) | [MK II](https://open.spotify.com/album/0ZSPkwitGGzb6PRqXSqc4B) | 3:16 | 2023-04-21 | 2023-05-06 |
 | [Mobulu te](https://open.spotify.com/track/5qd0QJrlKaoGyi4BWXx3Sa) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT) | [Mobulu te](https://open.spotify.com/album/5R3lpXwUrTOTZ3WX2Zx5ZL) | 3:46 | 2023-02-24 | 2023-03-25 |
-| [Mon bonheur](https://open.spotify.com/track/7FdHNzHJKCmNlmGZS9owvx) | [Cindy le Cœur](https://open.spotify.com/artist/79pJ6eff5enOPGahcr9PKL), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Mon bonheur](https://open.spotify.com/album/10mo1JVParjtGIAL9pM5p1) | 5:48 | 2024-01-05 |  |
+| [Mon bonheur](https://open.spotify.com/track/7FdHNzHJKCmNlmGZS9owvx) | [Cindy le Cœur](https://open.spotify.com/artist/79pJ6eff5enOPGahcr9PKL), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Mon bonheur](https://open.spotify.com/album/10mo1JVParjtGIAL9pM5p1) | 5:48 | 2024-01-05 | 2024-04-05 |
 | [Mon doudou](https://open.spotify.com/track/4LQhEWxaUSigESJetoNx2E) | [Ewing sima](https://open.spotify.com/artist/4Nc9sa3ZUT4b8Cp4YQKkjj) | [Mon doudou](https://open.spotify.com/album/4jokcX7kQNiaUmr09KH6nH) | 3:09 | 2022-06-30 | 2022-08-06 |
 | [Mood Pt.2](https://open.spotify.com/track/1Rm5415K4UyrcpQOvey81t) | [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [Mood Pt.2](https://open.spotify.com/album/2tBx4UzTVjncOnm8oYVMZs) | 1:12 | 2023-03-17 | 2023-08-05 |
 | [Mopacho Panama](https://open.spotify.com/track/7wbMzPQrM8HF5z5ouQNiZT) | [Stone Warley](https://open.spotify.com/artist/4PYXE76LmEnTLqqkeoxc01), [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Mopacho Panama](https://open.spotify.com/album/5PmflLOf1xJZt1P7fAbA4D) | 2:59 | 2023-04-14 | 2023-11-25 |

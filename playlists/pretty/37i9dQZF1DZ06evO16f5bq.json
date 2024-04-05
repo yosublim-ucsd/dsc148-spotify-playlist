@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 134421,
+  "num_followers": 134458,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDg3ODE5YTM2ZDAyMGFhODY3MDZmMGU0YmM4MDBmMTNhNDhiNmZh",
+  "snapshot_id": "MCw1NDA0N2IyZmNjMTkzNDlkMTU2ODE2MmE0NmNkZWJlZGZhYTAyN2Uw",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "X1",
-      "url": "https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00c9 SEGREDO",
         "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 155771,
       "name": "N\u00c9 SEGREDO",
       "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "X1",
+      "url": "https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X"
     },
     {
       "added_at": null,
@@ -1043,38 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virus Love",
-        "url": "https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Logo Eu",
-      "url": "https://open.spotify.com/track/1pYPtkKcoJpXcqfSNuGjRg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "18K",
         "url": "https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo"
       },
@@ -1103,6 +1071,38 @@
       "duration_ms": 284117,
       "name": "Meu Mundo",
       "url": "https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Virus Love",
+        "url": "https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Logo Eu",
+      "url": "https://open.spotify.com/track/1pYPtkKcoJpXcqfSNuGjRg"
     },
     {
       "added_at": null,
@@ -1331,30 +1331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 144822,
-      "name": "TE ENCONTREI",
-      "url": "https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IRRASTRE\u00c1VEL",
         "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
       },
@@ -1379,6 +1355,30 @@
       "duration_ms": 181512,
       "name": "Vamo Marolar",
       "url": "https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 144822,
+      "name": "TE ENCONTREI",
+      "url": "https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Se prendi\u00f3 la fiesta, featuring Marc Anthony.",
-  "num_followers": 85679,
+  "num_followers": 85726,
   "original_name": "SABOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTFkYWMxZmY4MDM0YzhkODlmY2ZkMDNhMTcyN2QyNmU3ZjhjMmIx",
+  "snapshot_id": "MCw5MTRjZWJiYzQwYzQ2Y2RlZGRkZDQ2YzU0YmUwMTNhYTU0OWJkNjYy",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -103,6 +103,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
@@ -119,18 +135,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
         }
       ],
-      "duration_ms": 252346,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -151,22 +167,6 @@
       "duration_ms": 158804,
       "name": "Monoton\u00eda",
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Una Dimensi\u00f3n De \u00c9xitos",
-        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
-      },
-      "artists": [
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354973,
-      "name": "Gotas De Lluvia",
-      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 192698,
       "name": "Carita de Inocente (feat. Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354973,
+      "name": "Gotas De Lluvia",
+      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -835,6 +835,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "Ven Conmigo",
+      "url": "https://open.spotify.com/track/2QSuNcQxqFfokvbS7SInHG"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 226187,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Prestige",
-        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "Ven Conmigo",
-      "url": "https://open.spotify.com/track/2QSuNcQxqFfokvbS7SInHG"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 316093,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Travesia",
         "url": "https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 266493,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 316093,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Que Suenen los Tambores",
-        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
+        "name": "No Hay Quinto Malo",
+        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 272680,
-      "name": "No Quer\u00eda Enga\u00f1arte",
-      "url": "https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq"
+      "duration_ms": 310360,
+      "name": "Cali Pachanguero",
+      "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "No Hay Quinto Malo",
-        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
+        "name": "Que Suenen los Tambores",
+        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 310360,
-      "name": "Cali Pachanguero",
-      "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
+      "duration_ms": 272680,
+      "name": "No Quer\u00eda Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 286466,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Tatuaje",
         "url": "https://open.spotify.com/album/1PG3xm0A5CkuLONdSC0VyO"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 230840,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/7qvnwfrklCpXozI4ZDU3qc"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 286466,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Adicto (feat. Marc Anthony)",
-        "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 209191,
-      "name": "Adicto (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Adicto (feat. Marc Anthony)",
+        "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 209191,
+      "name": "Adicto (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Pintame",
-        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "P\u00edntame",
-      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Cumbia A La Gente",
         "url": "https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12"
       },
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Pintame",
+        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "P\u00edntame",
+      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "La Negra Tiene Tumbao",
         "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
       },
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Gente Valiente",
-        "url": "https://open.spotify.com/album/5kEnDeBQVa1V1YT485bMyF"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "Ya No Me Duele M\u00e1s",
-      "url": "https://open.spotify.com/track/4JnJ9ACXmtLkpH61ZvFSaM"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Rebotando",
         "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 246266,
       "name": "Como Un Trueno",
       "url": "https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Gente Valiente",
+        "url": "https://open.spotify.com/album/5kEnDeBQVa1V1YT485bMyF"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "Ya No Me Duele M\u00e1s",
+      "url": "https://open.spotify.com/track/4JnJ9ACXmtLkpH61ZvFSaM"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
-      },
-      "artists": [
-        {
-          "name": "Fulanito",
-          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "El Cepillo",
-      "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 208800,
       "name": "Nuestra Cancion",
       "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Rebotando",
+        "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+        }
+      ],
+      "duration_ms": 263493,
+      "name": "El Taqui Taqui - Original Mix",
+      "url": "https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk"
     }
   ],
   "unique_name": "SABOR",

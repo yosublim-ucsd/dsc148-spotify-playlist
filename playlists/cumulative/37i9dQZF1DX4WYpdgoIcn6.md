@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-934 songs - 2 day 2 hr 43 min
+935 songs - 2 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -701,6 +701,7 @@
 | [Safe With You](https://open.spotify.com/track/22CoODRRJboBc4tEvHY9nc) | [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [Safe With You](https://open.spotify.com/album/6XwOCQOCLeSr0N3EqFRwCt) | 3:08 | 2019-11-08 | 2021-05-22 |
 | [Same Old](https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w) | 2:55 | 2019-06-22 | 2020-06-11 |
 | [Same Team \(feat\. Stefflon Don\)](https://open.spotify.com/track/7Db4ViXHhXYznDDRdfX2VB) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Same Team \(feat\. Stefflon Don\)](https://open.spotify.com/album/5bK3Xn3qq3qvqVRLbQiAY9) | 3:09 | 2019-05-25\* | 2019-07-12 |
+| [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 | 2024-04-05 |  |
 | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/track/4jSE5cAaa5rwTyhDSXfwQN) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/album/66wHES29CUsAIaWHkusEka) | 3:58 | 2020-10-02 | 2020-10-30 |
 | [Say to You](https://open.spotify.com/track/5eH0e7g26zWBwpGNeK3Gb0) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Say to You](https://open.spotify.com/album/22DKvHucok7t6wzlwEMVL0) | 3:14 | 2020-05-22 | 2021-04-21 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-30 |  |
@@ -834,7 +835,7 @@
 | [Thru These Tears](https://open.spotify.com/track/4gB61mP4tNChn4LgfquMhi) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Thru These Tears](https://open.spotify.com/album/66Jli9l9UHCoiumUK85Y5z) | 3:24 | 2019-05-25\* | 2019-06-15 |
 | [Thursday](https://open.spotify.com/track/77nXj2IoswHUcgwh0tw83O) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Thursday](https://open.spotify.com/album/1nVObfP6mIY7aFKu61Po2S) | 3:36 | 2019-05-25\* | 2019-10-04 |
 | [Til I Don't](https://open.spotify.com/track/6TSlbHp7Vx4wZ0Rqciwn5v) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Til I Don't](https://open.spotify.com/album/7qou5grVdmCP3cLqIZPQbr) | 2:06 | 2019-06-06 | 2020-04-22 |
-| [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2021-03-09 |  |
+| [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2021-03-09 | 2024-04-05 |
 | [Till I Found You](https://open.spotify.com/track/2NsJh6vFQlruTkdm7LdUCB) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/5KVxsbJLeA5aleN7LCWmUu) | 4:00 | 2019-05-27 | 2019-10-25 |
 | [Tissues](https://open.spotify.com/track/07rDOk6qeP4CpqlkJmUo5x) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Tissues](https://open.spotify.com/album/41tFNtJfGLhjTA3p510KOa) | 2:33 | 2020-10-23 | 2022-04-19 |
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-24 | 2021-12-21 |

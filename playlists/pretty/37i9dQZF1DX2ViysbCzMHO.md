@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,004 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,080 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 62 | [Slow Dance In A Parking Lot \- Acoustic](https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Slow Dance In A Parking Lot \(Acoustic\)](https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo) | 2:58 |
 | 63 | [Sober & Skinny](https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sober & Skinny](https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0) | 3:18 |
 | 64 | [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/album/5f2fMbivqn3423xYIenThU) | 2:47 |
-| 65 | [The Ocean \- Acoustic Live In Studio \(feat\. Charlie Worsham\)](https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Honestly \(Deluxe\)](https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY) | 3:32 |
-| 66 | [Wanna Be Saved \(Acoustic\)](https://open.spotify.com/track/5epVsitL7tbdUM8FoIywYj) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [All Out Acoustic Sessions](https://open.spotify.com/album/6gjHiXBlEdFs4WpBlV66KB) | 3:07 |
+| 65 | [Wanna Be Saved \(Acoustic\)](https://open.spotify.com/track/5epVsitL7tbdUM8FoIywYj) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [All Out Acoustic Sessions](https://open.spotify.com/album/6gjHiXBlEdFs4WpBlV66KB) | 3:07 |
+| 66 | [The Ocean \- Acoustic Live In Studio \(feat\. Charlie Worsham\)](https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Honestly \(Deluxe\)](https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY) | 3:32 |
 | 67 | [No Horse To Ride \- demo version](https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride \(demo version\)](https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB) | 2:13 |
 | 68 | [Best Shot \(Acoustic\)](https://open.spotify.com/track/1i3koBIHigtGkhFSKEW3Gn) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Best Shot \(Acoustic\)](https://open.spotify.com/album/6RKktqrvsQlht15wzaeWR2) | 3:13 |
 | 69 | [goodbye looks good on you feat\. Mitchell Tenpenny \(acoustic\)](https://open.spotify.com/track/5KhBQkh2LvhuQQCW0hFjNo) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [TWENTY SOMETHING \(DELUXE\)](https://open.spotify.com/album/5MoyIbsjnEHO2o6BNKjCpd) | 3:16 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 79 | [I'm Not Pretty \- Acoustic](https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I'm Not Prettier](https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy) | 2:58 |
 | 80 | [For A Day](https://open.spotify.com/track/29LtoylY7DDpmY2hMdEVkx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini) | 2:47 |
 | 81 | [Pretty Little Poison \- Piano Version](https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison \(Piano Version\)](https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb) | 3:36 |
-| 82 | [Waves \(Live\)](https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Live from Layman](https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL) | 4:20 |
-| 83 | [Gone Too Soon \- Acoustic](https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon \(Acoustic\)](https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i) | 2:47 |
+| 82 | [Gone Too Soon \- Acoustic](https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon \(Acoustic\)](https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i) | 2:47 |
+| 83 | [Waves \(Live\)](https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Live from Layman](https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL) | 4:20 |
 | 84 | [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 |
 | 85 | [Heart Shut \(feat\. Tenille Townes\)](https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Six Strings](https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk) | 3:21 |
 | 86 | [Better Off Gone \(Acoustic Sessions\)](https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Acoustic Sessions](https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [Somebody Like That \(Acoustic\)](https://open.spotify.com/track/4nuVBNUB669f4Csdb0ml7b) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Somebody Like That \(Acoustic\)](https://open.spotify.com/album/0LNVrlvKTXZt9XuO6FBrX9) | 3:14 |
 | 100 | [Standing Room Only \- Acoustic](https://open.spotify.com/track/0B8Z2MvMXc52D06L3SkXwE) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only \(Acoustic\)](https://open.spotify.com/album/3rFLlJ2vRuigTDlrA8DmN4) | 3:46 |
 
-Snapshot ID: `MCwwNmRlNDVhOWZjYjAwOGE5ODE5Njg2OGE4ZTYwNmM2MDVjZGNjYzA0`
+Snapshot ID: `MCw1Y2UyOTc1OTAwNjQ3MjRlMzExNjkwZTA1ZjZmODYwZTk4MmVjMGRi`

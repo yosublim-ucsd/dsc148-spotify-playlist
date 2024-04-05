@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,284 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,324 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 49 | [Safar](https://open.spotify.com/track/17PQNiQynwG4iCGwPglRuL) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Kimaya](https://open.spotify.com/album/5W5uidFGkEFw2GFKWUyT03) | 4:36 |
 | 50 | [Haalyo Jaa \(Secret Sessions X Collab Stories\)](https://open.spotify.com/track/3QmeA8spViA3XNsOW0mQMQ) | [Jaysinh Gadhvi](https://open.spotify.com/artist/1HEuIORmED1xTKDDiPH6MJ), [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa), [Bhargav Purohit](https://open.spotify.com/artist/2v7bvNV1rWBtzZqFj2L9Qc), [Sagar Patel](https://open.spotify.com/artist/1hVYdNuFnaMpCWK9t5J6S5), [Raju Bhaai](https://open.spotify.com/artist/1rF0er2kxD1tn46ToQavcC), [Kavi Shree Ghanshyam Gadhvi](https://open.spotify.com/artist/4rU6mQr0ILE4ulexLA3l7W) | [Haalyo Jaa \(Secret Sessions X Collab Stories\)](https://open.spotify.com/album/2BvmgU37aWulnWfAlF5B2D) | 2:55 |
 
-Snapshot ID: `MCxkN2EzZTE0YzU2NDEzMWMwM2JkZmEzYzcxMGRmNThjZjc4NGNlZmMz`
+Snapshot ID: `MCxmYjNjMzdkYzJjMTFkMmU5OTQzZmNhZDcwNTQ3MDgzMTUyMGZlZjE4`

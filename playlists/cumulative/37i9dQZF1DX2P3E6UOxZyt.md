@@ -2,9 +2,9 @@
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: 派偉俊 \(Patrick Brasca\)
+> 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: LIU KOI
 
-514 songs - 1 day 6 hr 1 min
+517 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Liminal](https://open.spotify.com/track/5qPW6ipIDI0ViYTqy7YEkI) | [Edisong](https://open.spotify.com/artist/0RhNindPw9ZrA5KmSr6ASN) | [Liminal](https://open.spotify.com/album/3UsruFkybIk53R1DQf5o75) | 3:19 | 2023-08-31 | 2023-12-15 |
 | [Listen to Me](https://open.spotify.com/track/4ctBtGioje65qUZbWPd4EK) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Listen to Me](https://open.spotify.com/album/1t3hYYECO3j2I69DNzC7WM) | 3:46 | 2023-06-15 | 2024-03-22 |
 | [Lonestar](https://open.spotify.com/track/0y3skHpU8JN23aFHgvya6t) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Lonestar](https://open.spotify.com/album/0NWEZ50wiCMLP2SiFXyMEv) | 4:28 | 2022-03-24 | 2022-06-03 |
+| [LosE tO yOu](https://open.spotify.com/track/6lTJOAfoSWVgRpCPiztujD) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [LosE tO yOu](https://open.spotify.com/album/2MooXNaTRtM9XNfajmvdcs) | 3:21 | 2024-04-04 |  |
 | [Love?](https://open.spotify.com/track/1kEddX5EQVIDq2qOUO3pxb) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC), [J.win](https://open.spotify.com/artist/6pcfBsij9bi4yKK1YMpYNH), [翊喬](https://open.spotify.com/artist/7ha60jo5xhSQfOblBzcxeB) | [Love?](https://open.spotify.com/album/5lqhwTPBfumlIQjJXUStTL) | 4:10 | 2022-05-19 | 2022-05-27 |
 | [Love’s Gravity](https://open.spotify.com/track/5XCCIDIX31Rc6RpU9EqBoR) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd), [Keril 韋喆](https://open.spotify.com/artist/5BjD0zLWPsE5SGC9rii43h) | [Love’s Gravity](https://open.spotify.com/album/0JzAE0fqe9gkbg39M4TfzP) | 2:39 | 2021-12-30 | 2022-01-21 |
 | [Lullaby \- 原創影集《火神的眼淚》插曲](https://open.spotify.com/track/0b33uKwlJilGuA51P6PMFm) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [Lullaby \(原創影集《火神的眼淚》插曲\)](https://open.spotify.com/album/6tT3E3rXXLrcYoblLk2pSy) | 3:30 | 2022-12-01 | 2022-12-16 |
@@ -134,6 +135,7 @@
 | [Paradise..\. How Far?](https://open.spotify.com/track/1gKnFeolxWkGBHDXk2XZLG) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Real Love Is...](https://open.spotify.com/album/1HuMI9YQymF8NWBn2D8BdK) | 4:27 | 2022-01-20 | 2023-06-09 |
 | [PIMP](https://open.spotify.com/track/0n4k5M4Lih8cQNPaDAkLue) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [藥王回來到 "Asia" Is Back](https://open.spotify.com/album/2dBgxYs9N266RNnRFoxXJ5) | 2:04 | 2022-10-13 | 2023-01-20 |
 | [Pretend](https://open.spotify.com/track/5TYMy4967EFk7FyBFTNt4y) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [Becky Yeung](https://open.spotify.com/artist/1MJsRmsm8GxqRAUSFUr3PS), [George Wu](https://open.spotify.com/artist/7qGIxfjhsCoaWbCaqA8vhE) | [Pretend](https://open.spotify.com/album/5AyoPXRw3PiZI8pgpb4ZYa) | 2:46 | 2022-07-28 | 2022-09-02 |
+| [Pretense](https://open.spotify.com/track/1iGilBtLO9t5Wm6hs4I7pj) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Pretense](https://open.spotify.com/album/64Ucc9nGoY5gpfh86alRVm) | 4:27 | 2024-04-04 |  |
 | [r u happy now?](https://open.spotify.com/track/4G2avvdC2denJm9d244fez) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [r u happy now?](https://open.spotify.com/album/6HBnBlT0skv0BgIE4lcY16) | 2:55 | 2023-09-21 | 2023-11-24 |
 | [Rich](https://open.spotify.com/track/2xRvSUwY1fZmcOKshehMLn) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC), [G22](https://open.spotify.com/artist/5xRZqaqEy9SX8GrmtXoSGT) | [Rich](https://open.spotify.com/album/6lEf40SnNDQRuC2a6myp5O) | 3:27 | 2022-03-24 | 2023-10-27 |
 | [Rollin' On](https://open.spotify.com/track/63oSPrP54in4X41vq6cNlL) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [LOVELY SUNDAY](https://open.spotify.com/album/2D4TWvXGzGmL1zbOdoDnWw) | 3:54 | 2021-12-30 | 2022-01-14 |
@@ -168,7 +170,7 @@
 | [The Way](https://open.spotify.com/track/7BsxnZQIlqEUL7h2haDK9z) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [The Way](https://open.spotify.com/album/3wA7xdtKNtpWqDGDnx4u6N) | 1:40 | 2024-03-28 |  |
 | [the way you wanna be](https://open.spotify.com/track/3qjh8pAF0yTYTjzHwQ9WuR) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx), [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [the way you wanna be](https://open.spotify.com/album/3wogxQLPdiF4WmeKx0RFHN) | 2:37 | 2022-12-08 | 2023-02-24 |
 | [Till We Fall in Love](https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [Till We Fall in Love](https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt) | 4:00 | 2022-01-20 | 2022-03-25 |
-| [To My Queen](https://open.spotify.com/track/7Kk4RaZM3p7hnypFrMhvpf) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [To My Queen](https://open.spotify.com/album/0x1xZf3huCjpt0A405d4z0) | 2:16 | 2024-03-28 |  |
+| [To My Queen](https://open.spotify.com/track/7Kk4RaZM3p7hnypFrMhvpf) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [To My Queen](https://open.spotify.com/album/0x1xZf3huCjpt0A405d4z0) | 2:16 | 2024-03-28 | 2024-04-05 |
 | [Up In the Air](https://open.spotify.com/track/7eEpzdJJX8AE4Fweh9vx45) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Up In the Air](https://open.spotify.com/album/0wrRmU5Lrv1Zbzlt64qKxJ) | 2:29 | 2022-03-24 | 2022-06-24 |
 | [Utopia Reimagined: 宁静的海洋](https://open.spotify.com/track/2F92epgieVe49h9qkKkQHX) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [Utopia Reimagined: 宁静的海洋](https://open.spotify.com/album/006h1eKoIJiDhyC5UdpnIw) | 3:26 | 2023-03-23 | 2023-04-28 |
 | [Vengeance // 直衝地獄](https://open.spotify.com/track/2doqzJTVdH9nNuesRwNXKY) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785), [Asiaboy 禁藥王 & Lizi 栗子](https://open.spotify.com/artist/0ZJJtdrebVOdx8yKeAZogM) | [Vengeance // 直衝地獄](https://open.spotify.com/album/5GUJQEU9GZ7Hv6B9XbCEF1) | 4:08 | 2023-06-02 | 2023-08-11 |
@@ -177,6 +179,7 @@
 | [Wanna know](https://open.spotify.com/track/66kYti8hisQUEt6N297ki5) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ), [思遠AL](https://open.spotify.com/artist/47Y3qqRQCC32k2OO9dRcau) | [Wanna know](https://open.spotify.com/album/2MgypIjhzaqFeaiuaOsH1L) | 3:05 | 2024-03-28 |  |
 | [WANT TOO](https://open.spotify.com/track/1xBLUezHIborqtET1vkfcY) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [WANT TOO](https://open.spotify.com/album/76c574QgbdN4As2a8yvspS) | 2:43 | 2022-06-02 | 2022-10-07 |
 | [Watch me!](https://open.spotify.com/track/16hFT7Hp0eHUlFP5LLHmcH) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [Watch me!](https://open.spotify.com/album/2gph7iEY0OSvhwMI36TebV) | 1:09 | 2023-12-28 | 2024-03-29 |
+| [week by week](https://open.spotify.com/track/51bPv2VzuFbGXkthHzx30I) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [week by week](https://open.spotify.com/album/0VVxbUd44wpxpWFtvtxfH0) | 3:00 | 2024-04-04 |  |
 | [Weirdo \- Acoustic Version](https://open.spotify.com/track/3sgCFqA7PqmMae2zepUIh2) | [HUR](https://open.spotify.com/artist/14cA6ZJHyr9VQpEQ5xzsui), [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [Weirdo \(Acoustic Version\)](https://open.spotify.com/album/6iLV2Ew0CYO9zJAgja0sxj) | 3:10 | 2022-08-11 | 2022-10-21 |
 | [what 4](https://open.spotify.com/track/0RDRXCdWNSJdMPnS4eAtAg) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [what 4](https://open.spotify.com/album/4F975HDTmfHfXqmprqKmhb) | 2:32 | 2024-03-28 |  |
 | [what the ! \(中文版）](https://open.spotify.com/track/4bfLk8mlTTgHWE3Z3DOzRZ) | [Jasmine Yen](https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS) | [what the ! \(中文版）](https://open.spotify.com/album/38cQjVC7uiJyEiXcr1NSzl) | 2:57 | 2023-11-16 | 2024-01-19 |
@@ -440,7 +443,7 @@
 | [稍派](https://open.spotify.com/track/4MvqTx3EBXvbmepdEKsCDs) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [稍派](https://open.spotify.com/album/5Ha2A12uGYvn2gFxSHimPO) | 3:28 | 2023-12-08 | 2024-03-29 |
 | [積極太陽 Feat\. 反骨男孩](https://open.spotify.com/track/77FbbfzQ315DZCGlAcIBXM) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [反骨男孩](https://open.spotify.com/artist/7aaZll9P7r7OuplQY2F5zk) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 3:19 | 2022-02-03 | 2022-05-06 |
 | [積水](https://open.spotify.com/track/4c6nW4uXXQqgyS0jHfh3lv) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [Life Buoy](https://open.spotify.com/album/1tzRVINQei2GdrfHz6GvzU) | 2:44 | 2023-07-20 | 2023-10-27 |
-| [窩囊廢](https://open.spotify.com/track/5aipGUxvifWyhwJ8i1UPfF) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Diamond In The Rough](https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ) | 2:39 | 2024-03-28 |  |
+| [窩囊廢](https://open.spotify.com/track/5aipGUxvifWyhwJ8i1UPfF) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Diamond In The Rough](https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ) | 2:39 | 2024-03-28 | 2024-04-05 |
 | [笨蛋](https://open.spotify.com/track/6IeWsmiTBpHv6zmV1CDtt1) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [笨蛋](https://open.spotify.com/album/0EpBEMnAxBm58kUDQBc2dm) | 3:49 | 2023-08-17 | 2023-12-08 |
 | [等待被理解的人](https://open.spotify.com/track/3rjE1K6ASuHzYC1ETM4UFa) | [張若凡RuoFan](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [等待被理解的人](https://open.spotify.com/album/21kTRBroWNrpXyp2IiYkrF) | 3:26 | 2022-12-01 | 2023-09-08 |
 | [等我回家](https://open.spotify.com/track/1Wl9sF3iwrjFSibLvkGjQg) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx) | [等我回家](https://open.spotify.com/album/7GyI6npxvRIBR0HNVnalpp) | 2:29 | 2024-03-28 |  |
@@ -452,7 +455,7 @@
 | [罪人](https://open.spotify.com/track/4e8cX0iQczup7RBIFb21yz) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [罪人](https://open.spotify.com/album/570GBJS6md5fpH4klLyh6X) | 3:46 | 2022-05-19 | 2022-08-12 |
 | [美](https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [美](https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG) | 2:24 | 2022-01-20 | 2024-02-02 |
 | [脆弱](https://open.spotify.com/track/5rsMC01Nv2dVprvmkcrvZD) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 3:01 | 2022-01-27 | 2022-11-11 |
-| [脫俗](https://open.spotify.com/track/7vdGyajh36go3Qyc58R7Kf) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [脫俗](https://open.spotify.com/album/1MiRt67d4bGsfYaRm6V4eK) | 2:50 | 2024-03-28 |  |
+| [脫俗](https://open.spotify.com/track/7vdGyajh36go3Qyc58R7Kf) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [脫俗](https://open.spotify.com/album/1MiRt67d4bGsfYaRm6V4eK) | 2:50 | 2024-03-28 | 2024-04-05 |
 | [臨界點](https://open.spotify.com/track/3twXXIEEjWbEnWPtMzFzYM) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [臨界點](https://open.spotify.com/album/2Td8m9jMa9AZOcelknVNy0) | 2:23 | 2022-07-14 | 2022-09-30 |
 | [自由的風](https://open.spotify.com/track/1uONk3vGhr6wyxSOSPxSRb) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx) | [自由的風](https://open.spotify.com/album/4q7o688PlMkWNeqdi3Qxte) | 2:19 | 2024-03-28 |  |
 | [自說自話](https://open.spotify.com/track/7iufo31RxYOcahPUWTkyMT) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Shangri\-La Is Calling](https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK) | 3:51 | 2022-07-07 | 2023-02-17 |

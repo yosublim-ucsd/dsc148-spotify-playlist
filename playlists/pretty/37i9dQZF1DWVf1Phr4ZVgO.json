@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1071998,
+  "num_followers": 1072199,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjVhNjIyNGZjMDJlMzExOGRmYzM4ZDZjNmIzNDg0YzVlNDMwOWFm",
+  "snapshot_id": "MCwyZjBiYmRlNGNhN2ZjZmY0MzQzOGEwNmQxODBhODlmOTdiYzA4NDM2",
   "tracks": [
     {
       "added_at": "2024-03-20 08:31:05",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-03-20 08:31:05",
       "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "A Kiss To Build A Dream On - Single Version",
-      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
-    },
-    {
-      "added_at": "2024-03-20 08:31:05",
-      "album": {
         "name": "Ultimate Sinatra",
         "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 147146,
       "name": "Fly Me To The Moon",
       "url": "https://open.spotify.com/track/2dR5WkrpwylTuT3jRWNufa"
+    },
+    {
+      "added_at": "2024-03-20 08:31:05",
+      "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "A Kiss To Build A Dream On - Single Version",
+      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
     },
     {
       "added_at": "2024-03-20 08:31:05",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-03-20 08:31:05",
       "album": {
+        "name": "Vaughan And Violins",
+        "url": "https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 182640,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC"
+    },
+    {
+      "added_at": "2024-03-20 08:31:05",
+      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 176013,
       "name": "One for My Baby (And One More for the Road)",
       "url": "https://open.spotify.com/track/1c4oqyJGptLz2Yt7LLheX8"
-    },
-    {
-      "added_at": "2024-03-20 08:31:05",
-      "album": {
-        "name": "Vaughan And Violins",
-        "url": "https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 182640,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC"
     },
     {
       "added_at": "2024-03-20 08:31:05",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-03-20 08:31:05",
       "album": {
-        "name": "I Wanna Be Around",
-        "url": "https://open.spotify.com/album/11KbbI91LeZUkXALWALytD"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 134893,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr"
-    },
-    {
-      "added_at": "2024-03-20 08:31:05",
-      "album": {
         "name": "My One And Only Thrill",
         "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 210693,
       "name": "Baby I'm A Fool",
       "url": "https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr"
+    },
+    {
+      "added_at": "2024-03-20 08:31:05",
+      "album": {
+        "name": "I Wanna Be Around",
+        "url": "https://open.spotify.com/album/11KbbI91LeZUkXALWALytD"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 134893,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr"
     },
     {
       "added_at": "2024-03-20 08:31:05",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-03-20 08:31:05",
       "album": {
-        "name": "The Manhattan Transfer",
-        "url": "https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx"
-      },
-      "artists": [
-        {
-          "name": "The Manhattan Transfer",
-          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Tuxedo Junction",
-      "url": "https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ"
-    },
-    {
-      "added_at": "2024-03-20 08:31:05",
-      "album": {
         "name": "Love, Andy",
         "url": "https://open.spotify.com/album/3KtDJorsycOFXqwQGTzwxe"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 193386,
       "name": "Can't Take My Eyes Off You",
       "url": "https://open.spotify.com/track/1lLRi0LvCwKaKONxzoeJfj"
+    },
+    {
+      "added_at": "2024-03-20 08:31:05",
+      "album": {
+        "name": "The Manhattan Transfer",
+        "url": "https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx"
+      },
+      "artists": [
+        {
+          "name": "The Manhattan Transfer",
+          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Tuxedo Junction",
+      "url": "https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ"
     },
     {
       "added_at": "2024-03-20 08:31:05",

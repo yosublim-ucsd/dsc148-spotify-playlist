@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,999 likes - 99 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,997 likes - 99 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 63 | [Bad Guy Necessity \- Acoustic](https://open.spotify.com/track/4VthU2Re0xqGF0qt6XHPMD) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead \(Deluxe\)](https://open.spotify.com/album/76BB70ASc22gc7NcRTGSQl) | 3:57 |
 | 64 | [No Expectations](https://open.spotify.com/track/4wWnFmXuoFhSAu5UukxTjs) | [George Thorogood](https://open.spotify.com/artist/1avbhJvMxjF2VhG7BXXn60) | [Party Of One](https://open.spotify.com/album/6VZz2Zc2SG7ueQiYCS9pfT) | 3:56 |
 | 65 | [Right Here](https://open.spotify.com/track/2L7M2b2WZJkPSvPGy9BBmi) | [Keller Williams](https://open.spotify.com/artist/5de5W8sgXIMq9dgMR0Wml0) | [Raw](https://open.spotify.com/album/6s7Uv2kwhvuRCcFPPa4n6K) | 5:48 |
-| 66 | [Let's Have Some Fun](https://open.spotify.com/track/4krvAl6zfhfDfWL1KdvQAa) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Black Wind Howlin'](https://open.spotify.com/album/7iVYk6SKIzwsUf11kxoNS6) | 4:27 |
+| 66 | [Let's Have Some Fun](https://open.spotify.com/track/3tgNmSy9B0XZLTwH5NZ36T) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Black Wind Howlin'](https://open.spotify.com/album/1FI8XKJnQQeETxuJwP4ZCO) | 4:27 |
 | 67 | [Coffee Blues](https://open.spotify.com/track/16GdiwewBf99MhUSVsxUBe) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 3:47 |
 | 68 | [Guitar & Harmonica Rag](https://open.spotify.com/track/6DBVUOcItyqkuBkSwNelOX) | [Bowling Green John Cephas](https://open.spotify.com/artist/1WLzLvyPtIKHVscQ8rbX1i), [Harmonica Phil Wiggins](https://open.spotify.com/artist/6dyecnDdUXZovKXNnOv1wq) | [Living Country Blues USA, Vol\. 1](https://open.spotify.com/album/7qQbThSdEViT0axddA7qEp) | 3:11 |
 | 69 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 72 | [Play With Your Poodle](https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Deep In The Blues](https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU) | 3:39 |
 | 73 | [Calling Out To You](https://open.spotify.com/track/4NbmBhEdThmGYpiVakws47) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Made Up Mind](https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA) | 3:46 |
 | 74 | [Pray For Rain](https://open.spotify.com/track/1lE2aVjpBPUcDO1XlmD0yu) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Blues for the Modern Daze](https://open.spotify.com/album/7F73Pr637O5lVlXUsPgUFJ) | 3:14 |
-| 75 | [Death Row](https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Gone to Texas](https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ) | 4:07 |
+| 75 | [Death Row](https://open.spotify.com/track/7IPJ7HAM4AhEWl3rcqKTFV) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Gone to Texas](https://open.spotify.com/album/1ycHUFaT23s3xyMfD6aA0o) | 4:07 |
 | 76 | [Living With The Blues](https://open.spotify.com/track/5NJkdnML8tFQ3wzh91BQAp) | [Hans Theessink](https://open.spotify.com/artist/2e02wACgnPCZ1lPeQEUCom) | [Wishing Well](https://open.spotify.com/album/6BKMOyKifmcINqpBWIcG6D) | 3:02 |
 | 77 | [You'll All Get What's Coming To You](https://open.spotify.com/track/12u5zwcsb50LIhzpPxDI7q) | [Dan Arborise](https://open.spotify.com/artist/3tLrjXofiogOGcDpAUgM5z) | [Of Tide And Trail](https://open.spotify.com/album/5wUbHsRZkKTSq7a2QFoz6m) | 4:14 |
 | 78 | [Pay Day](https://open.spotify.com/track/5oNiGRP6jxcK3uoF2U144o) | [The Blues Preachers](https://open.spotify.com/artist/3ikhKlxQA5V5LcZEos15Zb) | [Dry Long So](https://open.spotify.com/album/2St0nFT4MkzzFhTsFLI7nS) | 4:10 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 98 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/5LTMzb6lrWkdgNl4CNwfwx) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Between Midnight And Day](https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED) | 2:54 |
 | 99 | [What They Say](https://open.spotify.com/track/1Ksvwp4L3vKsWOJP9j1QoA) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/2SbPOPZJhWcY5bf81e4PIV) | 2:46 |
 
-Snapshot ID: `MCxjZmRiNWZkODFlZTI0ZGQxOWQ3YTI4MjE3OWQ4YTA3YTYzNmM5YWZi`
+Snapshot ID: `MCxlODQxZDZjYTA0Zjk2MDFkZTg0MjI3OWY3MGUzMmI2M2U5NzQ1NzY5`

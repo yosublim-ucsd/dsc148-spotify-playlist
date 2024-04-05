@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-644 songs - 1 day 12 hr 2 min
+645 songs - 1 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 | 2022-03-25 | 2022-11-23 |
 | [Lies & Cheats](https://open.spotify.com/track/5CpAElXaFax1RVC8AU8dA4) | [Nathan Grisdale](https://open.spotify.com/artist/2CxdgVG8zBFMBPZb4NCb9l) | [Lies & Cheats](https://open.spotify.com/album/4GWHyoDSIt73mzsGymN1Ey) | 3:46 | 2022-02-21 | 2022-07-13 |
 | [Life Goes On](https://open.spotify.com/track/74eJR4gwG1ZmG4BFkbrOlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:30 | 2023-05-16 | 2024-01-27 |
+| [Lifeline](https://open.spotify.com/track/4m9DA6crSHtnrhaIVGPzwm) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Lifeline](https://open.spotify.com/album/4FZIE2wFhtrE4bwvp1H1nu) | 2:55 | 2024-03-29 |  |
 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 | 2024-01-19 |  |
 | [Like I Do](https://open.spotify.com/track/7gL0h7uIZ6JA2tPv5OLTI8) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Like I Do](https://open.spotify.com/album/0AaaRwz24KqFzKlqYUfUuZ) | 3:12 | 2021-12-16 | 2021-12-28 |
 | [Lilah's Lullaby](https://open.spotify.com/track/6wKMPjmKoeXddZpRIapfPk) | [Lilah](https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo) | [Lilah's Lullaby](https://open.spotify.com/album/2EabJgMuDeSBBBokB3l8QJ) | 2:52 | 2022-03-25 | 2022-04-10 |
@@ -366,7 +367,7 @@
 | [Love on the Side](https://open.spotify.com/track/442gGJvRUQaUzl36zTNWEU) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Love on the Side](https://open.spotify.com/album/2FiykGkODZ3zt7tDckKA8o) | 2:33 | 2022-03-29 | 2022-07-29 |
 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-03-25 | 2022-12-21 |
 | [Loving You Will Be The Death Of Me](https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB) | 2:11 | 2024-01-26 |  |
-| [Lucky](https://open.spotify.com/track/1izC6AsOwb84CYQ7OA3ko7) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Lucky](https://open.spotify.com/album/3omkrvNwtwGdbSYiAwlsxL) | 5:38 | 2024-02-23 |  |
+| [Lucky](https://open.spotify.com/track/1izC6AsOwb84CYQ7OA3ko7) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Lucky](https://open.spotify.com/album/3omkrvNwtwGdbSYiAwlsxL) | 5:38 | 2024-02-23 | 2024-04-05 |
 | [Magazines](https://open.spotify.com/track/7gT71c6WzCkifRtSQbggGz) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Magazines](https://open.spotify.com/album/4hL7bPlgURwziybd5zBuEo) | 3:40 | 2021-12-16 | 2021-12-27 |
 | [Magical](https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:14 | 2023-09-28 | 2024-01-27 |
 | [Make Believe](https://open.spotify.com/track/01zA432f5V0ssx6YbMgk18) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/3NT1Gm0ikf2rUNlUT1bpL4) | 3:53 | 2021-12-16 | 2022-04-27 |
@@ -589,12 +590,12 @@
 | [Trouble \- from ‘Three Months’](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 | 2022-02-21 | 2023-03-29 |
 | [Trust Nobody](https://open.spotify.com/track/60noSWJZxLxgZBzmOKxckF) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Trust Nobody](https://open.spotify.com/album/3Ysfk40yB4vJNCjflkD7tZ) | 3:15 | 2022-03-25 | 2022-04-12 |
 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 | 2022-09-13 | 2023-11-16 |
-| [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-21 |  |
+| [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-21 | 2024-04-05 |
 | [Two Sides](https://open.spotify.com/track/5XBobVYataJuVgG2os9ndV) | [Oli Fox](https://open.spotify.com/artist/6L7tIdRpMMZb5l2tk42YLA) | [Two Sides](https://open.spotify.com/album/5nM0xGQe18AnZagKbWfPi6) | 3:37 | 2021-12-16 | 2021-12-29 |
 | [Two Weeks Ago](https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:59 | 2023-06-30 | 2024-02-10 |
 | [u.](https://open.spotify.com/track/1II7Rpz0ILbz3YfeWi8Nov) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP), [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 2:39 | 2024-03-15 |  |
 | [u.](https://open.spotify.com/track/31YKmnHqN03fMd8XhEy6Et) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP), [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [u.](https://open.spotify.com/album/6QhYWeJu70SNRcKnVCGcPQ) | 2:39 | 2024-02-23 | 2024-03-24 |
-| [Universe](https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Universe](https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx) | 2:46 | 2024-03-08 | 2024-03-29 |
+| [Universe](https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Universe](https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx) | 2:46 | 2024-03-08 |  |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2023-06-30 |  |
 | [Uppercut](https://open.spotify.com/track/1haUfbbRNpakcYWnZ4o5sg) | [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Uppercut](https://open.spotify.com/album/6KXCrirHjUqlEPghXnmSlH) | 4:11 | 2022-03-25 | 2022-07-25 |
 | [upstream](https://open.spotify.com/track/6t2BxwBbLB8M981sJqDxte) | [emie nathan](https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB) | [upstream](https://open.spotify.com/album/1gB6qF88vFV2Fnjp7RzxpN) | 3:15 | 2021-12-16 | 2022-01-04 |

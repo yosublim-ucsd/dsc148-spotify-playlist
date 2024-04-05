@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa?si=381ae84152fa4474\">Amaranthe</a> takes over our epic and melodic metal playlist, celebrating the release of \"The Catalyst.\"",
-  "num_followers": 764818,
+  "num_followers": 764865,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzExMzRiYjlhNWNhOTcwNzFmMjZkZWYzM2FjN2Q1YjVlM2RlZGVl",
+  "snapshot_id": "MCwwMTVjNjUwZTY3YmM0OWMyNGQ3MDUxOTAwZDgxY2U0OTIwMWUxNTll",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Diamanti",
-        "url": "https://open.spotify.com/album/0YFCj6Qvb78Ogj1NPZz1Cy"
-      },
-      "artists": [
-        {
-          "name": "Temperance",
-          "url": "https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J"
-        }
-      ],
-      "duration_ms": 305506,
-      "name": "Pure Life Unfolds",
-      "url": "https://open.spotify.com/track/0UGIbrYl917NPgAazPIOJ2"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Frozen",
         "url": "https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 300560,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Diamanti",
+        "url": "https://open.spotify.com/album/0YFCj6Qvb78Ogj1NPZz1Cy"
+      },
+      "artists": [
+        {
+          "name": "Temperance",
+          "url": "https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J"
+        }
+      ],
+      "duration_ms": 305506,
+      "name": "Pure Life Unfolds",
+      "url": "https://open.spotify.com/track/0UGIbrYl917NPgAazPIOJ2"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "On the Sea",
-        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
+        "name": "Animus",
+        "url": "https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ"
       },
       "artists": [
         {
-          "name": "Tungsten",
-          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+          "name": "Moonlight Haze",
+          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
         }
       ],
-      "duration_ms": 233343,
-      "name": "On the Sea",
-      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
+      "duration_ms": 242320,
+      "name": "We'll Be Free",
+      "url": "https://open.spotify.com/track/4FH2bZ6mt6p8yuCaK8Eeg1"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Animus",
-        "url": "https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ"
+        "name": "On the Sea",
+        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
       },
       "artists": [
         {
-          "name": "Moonlight Haze",
-          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
         }
       ],
-      "duration_ms": 242320,
-      "name": "We'll Be Free",
-      "url": "https://open.spotify.com/track/4FH2bZ6mt6p8yuCaK8Eeg1"
+      "duration_ms": 233343,
+      "name": "On the Sea",
+      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1343,18 +1343,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Take My Hand (Bonus Track)",
-        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
+        "name": "The Endless Shore",
+        "url": "https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7"
       },
       "artists": [
         {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+          "name": "Mortemia",
+          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
+        },
+        {
+          "name": "Ulli Perhonen",
+          "url": "https://open.spotify.com/artist/5sVlAjN68bza0JFzEbagzH"
+        },
+        {
+          "name": "Nils Courbaron",
+          "url": "https://open.spotify.com/artist/5TXDrJYFMZU5x7DqNnJcR4"
         }
       ],
-      "duration_ms": 189533,
-      "name": "Take My Hand - Bonus Track",
-      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
+      "duration_ms": 298124,
+      "name": "The Endless Shore",
+      "url": "https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is"
     },
     {
       "added_at": "2024-02-23 05:00:00",

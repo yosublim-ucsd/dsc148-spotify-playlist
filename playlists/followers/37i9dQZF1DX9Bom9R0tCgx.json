@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 371211,
+  "2024-04-05": 371332,
   "date_first_scraped": "2023-09-07",
   "description": "All the stuff that will blow your speakers!",
   "name": "Bass Explosion",
@@ -5725,6 +5725,24 @@
     {
       "album": {
         "name": "TECHNO CARNIVAL",
+        "url": "https://open.spotify.com/album/5TW1O1C8jS2O33sUSXYWj8"
+      },
+      "artists": [
+        {
+          "name": "Netgate",
+          "url": "https://open.spotify.com/artist/5lw2CndmZ8QU8NIFpzAGs1"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183243,
+      "name": "TECHNO CARNIVAL",
+      "url": "https://open.spotify.com/track/363NUm9k7Lh3VnchDtVhou"
+    },
+    {
+      "album": {
+        "name": "TECHNO CARNIVAL",
         "url": "https://open.spotify.com/album/3gABozvLrCVT0XwnOJw1Nh"
       },
       "artists": [
@@ -5735,7 +5753,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 183243,
       "name": "TECHNO CARNIVAL",
       "url": "https://open.spotify.com/track/6ZXvkOSCEqoEVuEhZRBRco"

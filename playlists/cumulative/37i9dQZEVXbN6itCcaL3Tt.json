@@ -9816,11 +9816,19 @@
         {
           "name": "kittiesloverage",
           "url": "https://open.spotify.com/artist/6CvKpD5oXOVHdlkQDTsbq8"
+        },
+        {
+          "name": "2115",
+          "url": "https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
         }
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 127059,
       "name": "EMBASSY / AMBASADA",
       "url": "https://open.spotify.com/track/4Oa9XS4sTknYw9awQN5cEt"
@@ -10806,7 +10814,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 142205,
       "name": "Fluid",
       "url": "https://open.spotify.com/track/30r5RN2yGoKzanggEzqrzM"
@@ -12020,7 +12028,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 178004,
       "name": "Ground Zero",
       "url": "https://open.spotify.com/track/2FHBvsUs4tpHSzIi3GvRjK"
@@ -23304,7 +23312,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"

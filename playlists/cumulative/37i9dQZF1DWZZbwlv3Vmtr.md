@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-913 songs - 1 day 11 hr 30 min
+914 songs - 1 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Candlestick Oasis](https://open.spotify.com/track/4dN47mXIJJOj4b7qRJ1zQf) | [Convoy Gold](https://open.spotify.com/artist/5ZEKAN1x3N50gFfs6VXTXC) | [Under the Leaden Sky](https://open.spotify.com/album/0f8gMNOxgUraGCPFeuWzFm) | 3:14 | 2022-04-15 |  |
 | [Candy](https://open.spotify.com/track/6JD16eoMFjKNU9OVmSL2eq) | [Ada Vula](https://open.spotify.com/artist/79KlmpJEbaL2Eif2lceNLv) | [Candy](https://open.spotify.com/album/38oI19U6Dm87afeEMF5f9N) | 1:46 | 2022-09-02 |  |
 | [Carpo](https://open.spotify.com/track/7HTAqdN7u1e1KbFM9KdWK4) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O) | [Carpo](https://open.spotify.com/album/0PjCTfG71aDSibVzzseWmo) | 3:01 | 2022-05-20 | 2022-06-03 |
+| [Cashmere](https://open.spotify.com/track/38D3yNAwPmCP5VlUEGFfi1) | [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt) | [Textures](https://open.spotify.com/album/3QspIBavbSRf2RwWFBCxaE) | 2:12 | 2024-03-22 |  |
 | [Castle](https://open.spotify.com/track/0WUs4bOtcRF52R9BaXsZn1) | [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j), [JFlove](https://open.spotify.com/artist/3TC2tAGycjFEmG8BMloKHP) | [Castle](https://open.spotify.com/album/3NJCQUd4ZTepboWnrpVdTj) | 1:36 | 2022-11-11 |  |
 | [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 | 2023-10-27 |  |
 | [Cathartic](https://open.spotify.com/track/0yk0UX9d2qa9eCqsvQobei) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Cathartic](https://open.spotify.com/album/1qn7HpgYuij9FtWD1KIxHd) | 2:12 | 2022-04-15 | 2022-07-08 |
@@ -753,7 +754,7 @@
 | [Sunbake](https://open.spotify.com/track/13dSHGSpq8LoJe4YesGKSr) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Sunbake](https://open.spotify.com/album/1vNX82DA1f0PLCNIdJaJ9P) | 2:04 | 2022-04-15 | 2023-10-13 |
 | [Sunday](https://open.spotify.com/track/71e14NqXbs73muybtabMjJ) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Sunday](https://open.spotify.com/album/2GY7OcR4K6JftC80zFMrK0) | 3:48 | 2023-09-08 | 2024-02-28 |
 | [Sunday Stroll](https://open.spotify.com/track/59X5tZsRdrmuj12YKnXvjh) | [Chilles](https://open.spotify.com/artist/13uNHvieT91AQEZiuno4KU) | [Sunday Stroll](https://open.spotify.com/album/4zmXufzsEaiw6tUvElJR6j) | 1:57 | 2022-04-15 | 2022-06-10 |
-| [Sunglasses at Night](https://open.spotify.com/track/7bprxmvPWGSdYIyjcXKVSV) | [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunglasses at Night](https://open.spotify.com/album/7gmLOUJFVnq4SNAKOdpstk) | 2:05 | 2022-12-09 |  |
+| [Sunglasses at Night](https://open.spotify.com/track/7bprxmvPWGSdYIyjcXKVSV) | [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunglasses at Night](https://open.spotify.com/album/7gmLOUJFVnq4SNAKOdpstk) | 2:05 | 2022-12-09 | 2024-04-05 |
 | [Sunny](https://open.spotify.com/track/0JXVthIPNVYB76jj2oxbKY) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Sunny](https://open.spotify.com/album/3R5VARmC4zQ45PWlphX0vR) | 2:33 | 2022-10-14 |  |
 | [Sunny Side](https://open.spotify.com/track/2J8gE4IMrJhOpKad0UgM25) | [Hawk Town](https://open.spotify.com/artist/4kr96RAgKYYkht9GMqFKY1) | [Sunny Side](https://open.spotify.com/album/0JjSuWZ8awn89gBUKP4urE) | 2:37 | 2022-04-15 |  |
 | [Sunrise Over Seattle](https://open.spotify.com/track/3athjQzCfwoqj5xv8Qd8hy) | [Anthony Smith](https://open.spotify.com/artist/67dt5GuTNqsdlSfaTDky4S) | [Sunrise Over Seattle](https://open.spotify.com/album/4i7PFRW6S4g44lgqL0Qk8c) | 2:31 | 2024-01-12 | 2024-01-18 |

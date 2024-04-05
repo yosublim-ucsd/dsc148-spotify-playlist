@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,113 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,352 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 93 | [Timeless](https://open.spotify.com/track/3EkBW1RjjYnjDl1DJKTT7m) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Timeless](https://open.spotify.com/album/4805JZGMvu1ZqzmPnbOl2R) | 3:25 |
 | 94 | [LIPS](https://open.spotify.com/track/6KWkRbb8Lh2K44MnTxdhuY) | [MaKenzie](https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0) | [LIPS](https://open.spotify.com/album/58WDcinKOBr7xzCJ2OnO9R) | 3:20 |
 | 95 | [Worst Way](https://open.spotify.com/track/4u2pk0zATUkEeMtuuMtu46) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Worst Way](https://open.spotify.com/album/2pEZkJlkzLMBXPUPWyQJxn) | 3:40 |
-| 96 | [I Don't Have The Heart](https://open.spotify.com/track/14SnMMqIl8K3JMdZTXSIUb) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Flicker + I Don’t Have The Heart](https://open.spotify.com/album/3WGNUmtTsMR3sDWRJaCkyp) | 3:38 |
+| 96 | [I Don't Have The Heart](https://open.spotify.com/track/14SnMMqIl8K3JMdZTXSIUb) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Flicker + I Don’t Have The Heart](https://open.spotify.com/album/3WGNUmtTsMR3sDWRJaCkyp) | 3:37 |
 | 97 | [Nothings Into Signs](https://open.spotify.com/track/31kpgadjTib4K74PRKec0s) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Nothings Into Signs](https://open.spotify.com/album/6Zg7AFB23zW3YJl6wIERjB) | 2:37 |
 | 98 | [April](https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [April](https://open.spotify.com/album/6EMyXFkqDM0jzADSvIIe5V) | 2:59 |
 | 99 | [Motivashun](https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [No Big Deal](https://open.spotify.com/album/3buVlngArH6e0boFoaH58f) | 3:01 |
 | 100 | [2WORLDS](https://open.spotify.com/track/0MoTvVdhu4Ocm2Y7yphxPh) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [2WORLDS](https://open.spotify.com/album/0RKIC2QUL8WkDMWWQy3szr) | 2:29 |
 
-Snapshot ID: `MCwyZDFiZDA1Mzk5YWU3ZDQ1ZTU4NTVmOWYzNWQwOTM2OGQ2MjczNTc4`
+Snapshot ID: `MCwzNjk2NDFlNzBlMTVmNzE4OGZjM2I2MWNhNTg4YzFlMTBmMDJjZWMz`

@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 4180,
+  "2024-04-05": 4181,
   "date_first_scraped": "2023-02-16",
   "description": "Club tracks and dancefloor essentials. The best floor fillers. Change your living room to a nightclub with these tracks!",
   "name": "Tech House & Clubbing 2024",
@@ -2586,6 +2586,28 @@
     },
     {
       "album": {
+        "name": "Don't Be Afraid",
+        "url": "https://open.spotify.com/album/4TCiAtPP4wUJdpI2nDTMz9"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "KeeQ",
+          "url": "https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210967,
+      "name": "Don't Be Afraid",
+      "url": "https://open.spotify.com/track/0JvzedR9RXOOMcNEAYjWZP"
+    },
+    {
+      "album": {
         "name": "Don't Know Where",
         "url": "https://open.spotify.com/album/3sZXsUKL1qg7uNfejPlZb2"
       },
@@ -3501,6 +3523,24 @@
       "duration_ms": 168693,
       "name": "Free Candy (feat. DAIJAH)",
       "url": "https://open.spotify.com/track/2QaCYdtF5UyHKuPAKqdfx1"
+    },
+    {
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/3okRVbjoH7anbOb5vFYfpc"
+      },
+      "artists": [
+        {
+          "name": "Fede Rego",
+          "url": "https://open.spotify.com/artist/1givwtQXh3LZPSiVqnQdzN"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137812,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/45GXyr5LIIMAgKK1zc2IWT"
     },
     {
       "album": {
@@ -8395,6 +8435,24 @@
       "duration_ms": 149538,
       "name": "Party Schedule",
       "url": "https://open.spotify.com/track/5qanaqRzPEoioP5LMdCAba"
+    },
+    {
+      "album": {
+        "name": "Pasarla Bien",
+        "url": "https://open.spotify.com/album/33sNxzNSeZZYxocIqTLGLu"
+      },
+      "artists": [
+        {
+          "name": "CastNowski",
+          "url": "https://open.spotify.com/artist/3k401DGwSxRHA33UfMeMtl"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Pasarla Bien",
+      "url": "https://open.spotify.com/track/4hgSRtFwnuwZELfA4whB7v"
     },
     {
       "album": {

@@ -11202,6 +11202,24 @@
     {
       "album": {
         "name": "Diggin a Hole",
+        "url": "https://open.spotify.com/album/2tBIjrHsiraqvhLyQuMgz0"
+      },
+      "artists": [
+        {
+          "name": "Bluetoof",
+          "url": "https://open.spotify.com/artist/1DPheCuZwGAFUlM8H2jV6x"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454615,
+      "name": "The hole got deeper",
+      "url": "https://open.spotify.com/track/3XdhCH7Fd2ICPsvK2cnOQb"
+    },
+    {
+      "album": {
+        "name": "Diggin a Hole",
         "url": "https://open.spotify.com/album/70cpDBZcj4mpTYzWGQlUyE"
       },
       "artists": [
@@ -11212,7 +11230,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 454615,
       "name": "The hole got deeper",
       "url": "https://open.spotify.com/track/7lMzDDkaFEKLBgzZhOPOj4"

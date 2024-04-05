@@ -1,12 +1,12 @@
 {
   "description": "a high-quality alternative blend ft. Mt. Joy",
-  "num_followers": 103692,
+  "num_followers": 103700,
   "original_name": "Grade A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTY1YmYyZjhlNWZlOGM5MGNkMWRjOGQyNzU3ZDUzNDU0NTk0NDYw",
+  "snapshot_id": "MCwwMTllYmY0OGNlYWVlNzMzOGZlNjc5MWViMzU5NTdlYzMyNWQyODlj",
   "tracks": [
     {
       "added_at": "2024-03-18 22:34:47",
@@ -423,18 +423,18 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Turn the Lights Back On",
-        "url": "https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC"
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 238939,
-      "name": "Turn the Lights Back On",
-      "url": "https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw"
+      "duration_ms": 212470,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -455,18 +455,18 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
+        "name": "Turn the Lights Back On",
+        "url": "https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 212470,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
+      "duration_ms": 238939,
+      "name": "Turn the Lights Back On",
+      "url": "https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Modern Girl",
-        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 223100,
-      "name": "Modern Girl",
-      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 195086,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Modern Girl",
+        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 223100,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -651,26 +651,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "All in Good Time",
-        "url": "https://open.spotify.com/album/6kVfufglPPPTLPWQkvHPaR"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        },
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 255338,
-      "name": "All in Good Time",
-      "url": "https://open.spotify.com/track/533aNRdHHLdI9tiTvqPqjt"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Movie Of The Week",
         "url": "https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU"
       },
@@ -691,18 +671,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7"
+        "name": "All in Good Time",
+        "url": "https://open.spotify.com/album/6kVfufglPPPTLPWQkvHPaR"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
         }
       ],
-      "duration_ms": 208517,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
+      "duration_ms": 255338,
+      "name": "All in Good Time",
+      "url": "https://open.spotify.com/track/533aNRdHHLdI9tiTvqPqjt"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -723,6 +707,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 208517,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "everything is alive",
         "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 237434,
       "name": "kisses",
       "url": "https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Wild God",
-        "url": "https://open.spotify.com/album/0mDWCfytbtRYgiWzjUQrnp"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 319106,
-      "name": "Wild God",
-      "url": "https://open.spotify.com/track/6d2JJCLcg02uteyuvFVmCq"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -771,6 +755,22 @@
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Wild God",
+        "url": "https://open.spotify.com/album/0mDWCfytbtRYgiWzjUQrnp"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 319106,
+      "name": "Wild God",
+      "url": "https://open.spotify.com/track/6d2JJCLcg02uteyuvFVmCq"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Vampire Empire / Born For Loving You",
-        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 214073,
-      "name": "Born For Loving You",
-      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Pour It Out Into The Night",
         "url": "https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 262066,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Vampire Empire / Born For Loving You",
+        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 214073,
+      "name": "Born For Loving You",
+      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Wanting and Waiting",
-        "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 255560,
-      "name": "Wanting and Waiting",
-      "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "dopamine",
         "url": "https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 158568,
       "name": "dopamine",
       "url": "https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Wanting and Waiting",
+        "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 255560,
+      "name": "Wanting and Waiting",
+      "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 211693,
-      "name": "Habits - Radio Edit",
-      "url": "https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "What Now",
         "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Cutting Thru The Country",
-        "url": "https://open.spotify.com/album/4OWv5Arr45FudqMP7zSUZf"
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 204276,
-      "name": "Cutting Thru The Country",
-      "url": "https://open.spotify.com/track/09eN4wtRH0cAAHQHAbOjvQ"
+      "duration_ms": 211693,
+      "name": "Habits - Radio Edit",
+      "url": "https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1367,6 +1351,22 @@
       "duration_ms": 177733,
       "name": "Big Love",
       "url": "https://open.spotify.com/track/5TlQaUReZtviIA3AWrAazB"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Cutting Thru The Country",
+        "url": "https://open.spotify.com/album/4OWv5Arr45FudqMP7zSUZf"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 204276,
+      "name": "Cutting Thru The Country",
+      "url": "https://open.spotify.com/track/09eN4wtRH0cAAHQHAbOjvQ"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/5oeAizWMabulSRyY3mMjEB"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 214282,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "We Make Hits",
         "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 200546,
       "name": "Body",
       "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/5oeAizWMabulSRyY3mMjEB"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 214282,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Don\u2019t Wanna Love U",
-        "url": "https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 209418,
-      "name": "Don\u2019t Wanna Love U",
-      "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Yard",
         "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 155733,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Don\u2019t Wanna Love U",
+        "url": "https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 209418,
+      "name": "Don\u2019t Wanna Love U",
+      "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "I'm Leaving",
-      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Impressively Average",
         "url": "https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 198761,
       "name": "Impressively Average",
       "url": "https://open.spotify.com/track/1sL6n9kMtrlAvPokQKlZGP"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "I'm Leaving",
+      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Sweet Tooth",
-        "url": "https://open.spotify.com/album/7p5JzjQqCDR84m0HlHsk9F"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 239366,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/64hxSQpLelfhMPF7cjVIUS"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Faith Crisis Pt 1",
         "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 177473,
       "name": "Dramamine",
       "url": "https://open.spotify.com/track/0RKLSRK8BXvNJsWyxiAoYQ"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 234288,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1xn1htwSeRr3HhOlYToFEx"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF"
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/7p5JzjQqCDR84m0HlHsk9F"
       },
       "artists": [
         {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
         }
       ],
-      "duration_ms": 234288,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/1xn1htwSeRr3HhOlYToFEx"
+      "duration_ms": 239366,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/64hxSQpLelfhMPF7cjVIUS"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Cuero Dudes / Beauty Opens Doors",
-        "url": "https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr"
-      },
-      "artists": [
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 298921,
-      "name": "Cuero Dudes",
-      "url": "https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Subtitles for Feelings",
         "url": "https://open.spotify.com/album/4lYJrlAFhTpbGgZeXMBnJa"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 243520,
       "name": "Go Getter",
       "url": "https://open.spotify.com/track/6UWvbA3Jx5ubUTFumQibEs"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Cuero Dudes / Beauty Opens Doors",
+        "url": "https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 298921,
+      "name": "Cuero Dudes",
+      "url": "https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Wild Days",
-        "url": "https://open.spotify.com/album/0p7Ovi78Z8SEfl7easPLF3"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        }
-      ],
-      "duration_ms": 219349,
-      "name": "Wild Days",
-      "url": "https://open.spotify.com/track/4J1zHD22PDW4Jdw6XYXs28"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
         "name": "Faith Crisis Pt 1",
         "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
       },
@@ -2219,22 +2203,18 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
-        "name": "Danzig With Myself",
-        "url": "https://open.spotify.com/album/5vlpxtN3xTFxPMI1y1Ly0u"
+        "name": "Wild Days",
+        "url": "https://open.spotify.com/album/0p7Ovi78Z8SEfl7easPLF3"
       },
       "artists": [
         {
-          "name": "The Dandy Warhols",
-          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
-        },
-        {
-          "name": "Frank Black",
-          "url": "https://open.spotify.com/artist/5Q8gM5SMBT2LAoZ5LzqAvH"
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
         }
       ],
-      "duration_ms": 235960,
-      "name": "Danzig With Myself",
-      "url": "https://open.spotify.com/track/6kgsE8vtnBj7z3gS1qo8Ni"
+      "duration_ms": 219349,
+      "name": "Wild Days",
+      "url": "https://open.spotify.com/track/4J1zHD22PDW4Jdw6XYXs28"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2255,6 +2235,26 @@
     {
       "added_at": "2024-03-18 22:34:47",
       "album": {
+        "name": "Danzig With Myself",
+        "url": "https://open.spotify.com/album/5vlpxtN3xTFxPMI1y1Ly0u"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        },
+        {
+          "name": "Frank Black",
+          "url": "https://open.spotify.com/artist/5Q8gM5SMBT2LAoZ5LzqAvH"
+        }
+      ],
+      "duration_ms": 235960,
+      "name": "Danzig With Myself",
+      "url": "https://open.spotify.com/track/6kgsE8vtnBj7z3gS1qo8Ni"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
         "name": "Night In",
         "url": "https://open.spotify.com/album/5qfu1icLSwAFmYoehJ3kYN"
       },
@@ -2267,22 +2267,6 @@
       "duration_ms": 207506,
       "name": "Night In",
       "url": "https://open.spotify.com/track/3Qt9dcvy6bNpbl6nmiioDd"
-    },
-    {
-      "added_at": "2024-03-18 22:34:47",
-      "album": {
-        "name": "Say It Like You Mean It",
-        "url": "https://open.spotify.com/album/60Dn3hJOYD75S9SahrlWp9"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "Say It Like You Mean It",
-      "url": "https://open.spotify.com/track/3XcEhWqxe04Qgpnsp4qUbc"
     },
     {
       "added_at": "2024-03-18 22:34:47",
@@ -2303,6 +2287,22 @@
       "duration_ms": 203608,
       "name": "Don't Even Worry",
       "url": "https://open.spotify.com/track/59budStVXuAhbpyBKJBdX9"
+    },
+    {
+      "added_at": "2024-03-18 22:34:47",
+      "album": {
+        "name": "Say It Like You Mean It",
+        "url": "https://open.spotify.com/album/60Dn3hJOYD75S9SahrlWp9"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "Say It Like You Mean It",
+      "url": "https://open.spotify.com/track/3XcEhWqxe04Qgpnsp4qUbc"
     },
     {
       "added_at": "2024-03-18 22:34:47",

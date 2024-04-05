@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: YG",
-  "num_followers": 165958,
+  "num_followers": 165994,
   "original_name": "I Love My 2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDJmNWE2NGE0ZGNhODJhMWEyYzNiZTM3N2U5YzM4YmRkNWYwNGEy",
+  "snapshot_id": "MCxiYTI2NjI5NzQ3OGQ1N2YxYTYxOTk2M2E0ZjhmM2JlNzA0Mjg3ZjZl",
   "tracks": [
     {
       "added_at": "2024-03-15 04:01:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Trap Queen",
+      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
         "name": "Chill Bill (feat. J. Davi$ & Spooks)",
         "url": "https://open.spotify.com/album/5qBu7Ab6alstSCAzxTJMb1"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 177184,
       "name": "Chill Bill (feat. J. Davi$ & Spooks)",
       "url": "https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "Fetty Wap (Deluxe)",
-        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Trap Queen",
-      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -1223,18 +1223,22 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "Dreams and Nightmares (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7"
+        "name": "Rise Of An Empire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"
       },
       "artists": [
         {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+          "name": "Young Money",
+          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 230693,
-      "name": "Dreams and Nightmares",
-      "url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U"
+      "duration_ms": 188320,
+      "name": "Trophies",
+      "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -1259,22 +1263,18 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "Rise Of An Empire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"
+        "name": "Dreams and Nightmares (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7"
       },
       "artists": [
         {
-          "name": "Young Money",
-          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
         }
       ],
-      "duration_ms": 188320,
-      "name": "Trophies",
-      "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
+      "duration_ms": 230693,
+      "name": "Dreams and Nightmares",
+      "url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "Northsbest (Extended)",
-        "url": "https://open.spotify.com/album/6lggWd5q9Rh66OkDE1eNDr"
-      },
-      "artists": [
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Noticed",
-      "url": "https://open.spotify.com/track/7zLYKWcXnYeHHWidalz7rj"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
         "name": "LIFE'S A TRIP",
         "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 256161,
       "name": "Dark Knight Dummo (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "Northsbest (Extended)",
+        "url": "https://open.spotify.com/album/6lggWd5q9Rh66OkDE1eNDr"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Noticed",
+      "url": "https://open.spotify.com/track/7zLYKWcXnYeHHWidalz7rj"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 305350,
-      "name": "Dang! (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
         "name": "Tha Carter IV (Complete Edition)",
         "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
       },
@@ -1519,22 +1499,22 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "A Love Letter To You 3",
-        "url": "https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna"
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         },
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 175954,
-      "name": "1400 / 999 Freestyle (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/0axBgt9y0GvMCLuRl2xBKG"
+      "duration_ms": 305350,
+      "name": "Dang! (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -1563,6 +1543,42 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "ELEMENT.",
+      "url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "A Love Letter To You 3",
+        "url": "https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 175954,
+      "name": "1400 / 999 Freestyle (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/0axBgt9y0GvMCLuRl2xBKG"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 319253,
       "name": "IFHY (feat. Pharrell)",
       "url": "https://open.spotify.com/track/0NjW4SKY3gbfl2orl1p8hr"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "ELEMENT.",
-      "url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
-        "name": "GTTM: Goin Thru the Motions",
-        "url": "https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2"
-      },
-      "artists": [
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        }
-      ],
-      "duration_ms": 245604,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/2xbI8Vmyv3TkpTdywpPyNw"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
         "name": "DiCaprio 2",
         "url": "https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 156780,
       "name": "151 Rum",
       "url": "https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
+        "name": "GTTM: Goin Thru the Motions",
+        "url": "https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "duration_ms": 245604,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/2xbI8Vmyv3TkpTdywpPyNw"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-03-15 04:01:00",
       "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Ladders",
+      "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
+    },
+    {
+      "added_at": "2024-03-15 04:01:00",
+      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 220486,
       "name": "High Fashion (feat. Mustard)",
       "url": "https://open.spotify.com/track/07KXEDMj78x68D884wgVEm"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Ladders",
-      "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
     },
     {
       "added_at": "2024-03-15 04:01:00",

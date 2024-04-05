@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: Chris Patrick
 
-1,136 songs - 2 day 1 hr 19 min
+1,137 songs - 2 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [How Can I Lose](https://open.spotify.com/track/2SwUCE29gioH7sUMRp8jvr) | [Franchize](https://open.spotify.com/artist/5kVuxWc0beQxt41B7h3AY0) | [How Can I Lose](https://open.spotify.com/album/108dMFmHj9Qut3yOsPrQt2) | 2:53 | 2022-03-30 | 2022-05-05 |
 | [How Could I Not?](https://open.spotify.com/track/7jgWMCYT3ZlI569mDZ2ezb) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [DON'T CALL THIS LUCK, THAT'S DISRESPECTFUL](https://open.spotify.com/album/0S6F6t2LaifS3ATo6N1Dmx) | 2:08 | 2024-02-28 | 2024-03-21 |
 | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/track/1kTUHCB8NPqAPSnI5D1YIG) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu) | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/album/28Fjbqnkqv9LmOGLehRIVT) | 2:33 | 2022-05-25 | 2023-01-12 |
+| [How?! \(feat\. Niontay\)](https://open.spotify.com/track/5IPSlwgpJskSg5i7m2JAmr) | [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z), [Niontay](https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t) | [Triple Digits \[112\]](https://open.spotify.com/album/37XRzcFMZ91g9TrYKRUpcg) | 3:00 | 2024-04-03 |  |
 | [humans can self destruct too](https://open.spotify.com/track/0cUfyWqMPNnLotNUTiMFWk) | [Itha¢a](https://open.spotify.com/artist/77WFeOTzKHCZQyTMx8OZGw) | [humans can self destruct too](https://open.spotify.com/album/3jfdr6EqQNoyXQiJH5y3jR) | 1:40 | 2022-02-16 | 2022-03-24 |
 | [Humble Af.](https://open.spotify.com/track/7omzhSspMbVMsLXvvexL2M) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [Humble Af.](https://open.spotify.com/album/2ONKlkCM8XBO55kgtm9Zvf) | 2:34 | 2023-08-16 | 2024-01-25 |
 | [HUNNIBUN](https://open.spotify.com/track/2xXhtxILUKEeCUVs9Qf6R3) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [HUNNIBUN](https://open.spotify.com/album/5dI9g0Jt0YhqRiQN57w9t9) | 1:44 | 2023-07-26 | 2023-09-21 |

@@ -1,9 +1,27 @@
 {
-  "2024-04-04": 5287,
+  "2024-04-05": 5297,
   "date_first_scraped": "2022-05-15",
   "description": "This is the official partnership playlist for JTBC 'Sing Again3'. (JTBC  '\uc2f1\uc5b4\uac8c\uc7783'\uc758 \uacf5\uc2dd \ud30c\ud2b8\ub108\uc2ed \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\uc785\ub2c8\ub2e4.)",
   "name": "\uc2f1\uc5b4\uac8c\uc7783 (Sing Again3)",
   "tracks": [
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 8 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/1KBoPHsLEuz7UdYzjNPrN9"
+      },
+      "artists": [
+        {
+          "name": "Jeong Hongil",
+          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195985,
+      "name": "A Flowers That Didn't Bloom",
+      "url": "https://open.spotify.com/track/1ZBIjj5mZCqoKF6dOGzUhT"
+    },
     {
       "album": {
         "name": "SingAgain - Battle of the Unknown, Ep. 8 (From The JTBC TV Show) (Live)",
@@ -39,6 +57,28 @@
       "duration_ms": 195985,
       "name": "A Flowers That Didn't Bloom - Live",
       "url": "https://open.spotify.com/track/3vyI8IW9urzvYatktVqzQb"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown,Ep. 5 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/0ovt4Go99WVU0eL9WNzc5b"
+      },
+      "artists": [
+        {
+          "name": "Choa",
+          "url": "https://open.spotify.com/artist/6ds0TyQgh3FpC3wYM2pFQp"
+        },
+        {
+          "name": "Shin Min Jung",
+          "url": "https://open.spotify.com/artist/4pWTAf7WHVYuKNGztWeTpf"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191018,
+      "name": "A Gust Of Laughter",
+      "url": "https://open.spotify.com/track/6HBVJZ7T6KJPBTyjVlq9zx"
     },
     {
       "album": {
@@ -134,6 +174,28 @@
     },
     {
       "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 4 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/0Y8MQl24dsWKJoqS94FvoR"
+      },
+      "artists": [
+        {
+          "name": "Choi Ye Geun",
+          "url": "https://open.spotify.com/artist/1wVz0zqtCpu1O23k1CfU9M"
+        },
+        {
+          "name": "415",
+          "url": "https://open.spotify.com/artist/4ZAakh9PB0owkUsmGcYXKh"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179579,
+      "name": "A Little Rogue",
+      "url": "https://open.spotify.com/track/3OZ58No8zQGrZEDlOU8LMy"
+    },
+    {
+      "album": {
         "name": "SingAgain - Battle of the Unknown, Ep. 4 (From The JTBC TV Show) (Live)",
         "url": "https://open.spotify.com/album/4GBufmNiwVZfPMZKLZr8ED"
       },
@@ -171,10 +233,32 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 189243,
       "name": "A Peppermint Candy",
       "url": "https://open.spotify.com/track/0rMPg8ygh7B1cf9rx1YDm5"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 4 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6QPredocgmIxhgLOeX0gg1"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        },
+        {
+          "name": "KIM KI TAE",
+          "url": "https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189243,
+      "name": "A Peppermint Candy",
+      "url": "https://open.spotify.com/track/5EbebjIcKiSVkpkcUZG48P"
     },
     {
       "album": {
@@ -197,6 +281,24 @@
       "duration_ms": 189243,
       "name": "A Peppermint Candy - Live",
       "url": "https://open.spotify.com/track/5Q5QNdbRQsUTrla6h2uvLL"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 9 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/5mFrXUqyGzPMVlzfJnNGzv"
+      },
+      "artists": [
+        {
+          "name": "Lee Jung Kwon",
+          "url": "https://open.spotify.com/artist/2NdXW202j10do6ammYu4N1"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244575,
+      "name": "A Stray Child",
+      "url": "https://open.spotify.com/track/4VgGysQJZF2JSOCdVVww2X"
     },
     {
       "album": {
@@ -236,6 +338,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 12 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/7lS1W6pSygiLe8wjJkmOoh"
+      },
+      "artists": [
+        {
+          "name": "KIM KI TAE",
+          "url": "https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250999,
+      "name": "After Love",
+      "url": "https://open.spotify.com/track/4GLgWPdSlb4SwrNeQCbg7Z"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 12",
         "url": "https://open.spotify.com/album/5QOFUPrakL71henufIpjGT"
       },
@@ -247,7 +367,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 250999,
       "name": "After Love",
       "url": "https://open.spotify.com/track/64ybC7QZva4Px2Hn2kzOy8"
@@ -330,6 +450,24 @@
     },
     {
       "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 3 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/273zRGnZ4Mru1gOssz05Um"
+      },
+      "artists": [
+        {
+          "name": "HAN SEUNG YUN",
+          "url": "https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158357,
+      "name": "Again, you have to",
+      "url": "https://open.spotify.com/track/3Q30138qAsat4oLZ95sMUN"
+    },
+    {
+      "album": {
         "name": "SingAgain - Battle of the Unknown, Ep. 3 (From The JTBC TV Show)",
         "url": "https://open.spotify.com/album/56TH2ZJCjlCT1qCoNj61QJ"
       },
@@ -348,6 +486,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 7 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6LKItmP5Xlu76eRc7tV6aY"
+      },
+      "artists": [
+        {
+          "name": "dongryeol",
+          "url": "https://open.spotify.com/artist/6U9oTbaWA7ZvaIoXQtAAL2"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192855,
+      "name": "All over the world",
+      "url": "https://open.spotify.com/track/1JrQw78Xo4BPvWCALEomt3"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 7",
         "url": "https://open.spotify.com/album/1nLlbElGKq2fVzIDUtnnxp"
       },
@@ -359,7 +515,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 192855,
       "name": "All over the world",
       "url": "https://open.spotify.com/track/3Qcu225i1CO8Ogowe5euts"
@@ -399,6 +555,28 @@
       "duration_ms": 187501,
       "name": "Also My Life",
       "url": "https://open.spotify.com/track/3hiapghwR4HlReHIirdXfL"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown,Ep. 5 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/0ovt4Go99WVU0eL9WNzc5b"
+      },
+      "artists": [
+        {
+          "name": "Lee Jung Kwon",
+          "url": "https://open.spotify.com/artist/2NdXW202j10do6ammYu4N1"
+        },
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238592,
+      "name": "Also My Life",
+      "url": "https://open.spotify.com/track/0PYNARQUkAyRDVNroHzu3G"
     },
     {
       "album": {
@@ -710,6 +888,24 @@
     },
     {
       "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 10 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/5axfaje7kQldnoTHF4M0Cm"
+      },
+      "artists": [
+        {
+          "name": "Sojung",
+          "url": "https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266547,
+      "name": "As We Live",
+      "url": "https://open.spotify.com/track/2koFJR5xDQfNCR3q61rjD0"
+    },
+    {
+      "album": {
         "name": "SingAgain - Battle of the Unknown, Ep. 10 (From The JTBC TV Show) (Live)",
         "url": "https://open.spotify.com/album/1bRfSsSF0cShAZVTHQl76v"
       },
@@ -743,6 +939,24 @@
       "duration_ms": 291176,
       "name": "At Gwanghwamun - Live",
       "url": "https://open.spotify.com/track/5O0lqAgj3ExYmHsAZmCpnJ"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 1 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/2qNGkuR7v7VJHBxgsedeM4"
+      },
+      "artists": [
+        {
+          "name": "Choi Ye Geun",
+          "url": "https://open.spotify.com/artist/1wVz0zqtCpu1O23k1CfU9M"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172715,
+      "name": "BBIBBI",
+      "url": "https://open.spotify.com/track/6J0pA3Uw1VXKkF3XjTQcsZ"
     },
     {
       "album": {
@@ -881,10 +1095,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 249820,
       "name": "Beautiful Rivers and Mountains",
       "url": "https://open.spotify.com/track/0AWXPUpfmYngAhbxZGd9Af"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 12 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/7lS1W6pSygiLe8wjJkmOoh"
+      },
+      "artists": [
+        {
+          "name": "Shin Yumi",
+          "url": "https://open.spotify.com/artist/3BqAKo9uXBy5DT1Loq9RkZ"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249820,
+      "name": "Beautiful Rivers and Mountains",
+      "url": "https://open.spotify.com/track/7jd3aefyNd3DkYMcMKl9ja"
     },
     {
       "album": {
@@ -924,6 +1156,28 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 4 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6QPredocgmIxhgLOeX0gg1"
+      },
+      "artists": [
+        {
+          "name": "Park Hyeon Gyu",
+          "url": "https://open.spotify.com/artist/1rxYSKTBCjSv6UuLMqHV16"
+        },
+        {
+          "name": "An da eun",
+          "url": "https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198773,
+      "name": "Bit By Bit",
+      "url": "https://open.spotify.com/track/0tLgXz011W62l4ywq4X67b"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 4",
         "url": "https://open.spotify.com/album/502zu3HrIkH5tJEjSpMjAN"
       },
@@ -939,7 +1193,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 198773,
       "name": "Bit By Bit",
       "url": "https://open.spotify.com/track/4i4qU4rYZMgU4CwmDJpNAo"
@@ -1019,10 +1273,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 207348,
       "name": "BREATHE",
       "url": "https://open.spotify.com/track/2wftmlpwK4UDVbEdaJNLHc"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 7 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6LKItmP5Xlu76eRc7tV6aY"
+      },
+      "artists": [
+        {
+          "name": "KIM KI TAE",
+          "url": "https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207348,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/5vR4gvHhCLuKqJlE0NIo4t"
     },
     {
       "album": {
@@ -1444,6 +1716,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 6 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/3Dehc9s07jjHB62d8RXyzF"
+      },
+      "artists": [
+        {
+          "name": "Park Hyeon Gyu",
+          "url": "https://open.spotify.com/artist/1rxYSKTBCjSv6UuLMqHV16"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211430,
+      "name": "Don't Worry Dear",
+      "url": "https://open.spotify.com/track/7Ds5s4Z8uZkhwvPhlhrCHJ"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 6",
         "url": "https://open.spotify.com/album/6pmzeTrqkTqbTsXpxD1j6d"
       },
@@ -1455,7 +1745,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 211430,
       "name": "Don't Worry Dear",
       "url": "https://open.spotify.com/track/0y09VADmnF3H9MXGs02DlT"
@@ -1480,6 +1770,28 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 4 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6QPredocgmIxhgLOeX0gg1"
+      },
+      "artists": [
+        {
+          "name": "Yoon Sena",
+          "url": "https://open.spotify.com/artist/0HxIBSgDgNMV7A1wthYZYI"
+        },
+        {
+          "name": "YoonSung",
+          "url": "https://open.spotify.com/artist/2HGZYM7VRf9rveDQee2NRN"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207116,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3vHUYaAhBYWgcZWV93wCKw"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 4",
         "url": "https://open.spotify.com/album/502zu3HrIkH5tJEjSpMjAN"
       },
@@ -1495,7 +1807,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 207116,
       "name": "Dream",
       "url": "https://open.spotify.com/track/5fC1lalzU4QafvJUJ6rkBX"
@@ -1618,6 +1930,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 7 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6LKItmP5Xlu76eRc7tV6aY"
+      },
+      "artists": [
+        {
+          "name": "NAAKYEUM",
+          "url": "https://open.spotify.com/artist/0tcpyHoHq4ILwcxfGFvSMN"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212418,
+      "name": "Fall's eyes",
+      "url": "https://open.spotify.com/track/0NipijlHutg1pUiv0edjIX"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 7",
         "url": "https://open.spotify.com/album/1nLlbElGKq2fVzIDUtnnxp"
       },
@@ -1629,7 +1959,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 212418,
       "name": "Fall's eyes",
       "url": "https://open.spotify.com/track/6wAAJiAToErzngOrrkutAU"
@@ -1723,10 +2053,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 216397,
       "name": "Flame Of Asia",
       "url": "https://open.spotify.com/track/3vqyKyv1k2v7W4xaYbfaEk"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 8 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/2vg7ROyl4EW3VwPJbtteyg"
+      },
+      "artists": [
+        {
+          "name": "dongryeol",
+          "url": "https://open.spotify.com/artist/6U9oTbaWA7ZvaIoXQtAAL2"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216397,
+      "name": "Flame Of Asia",
+      "url": "https://open.spotify.com/track/4uBmL5Qz1VV9Pk4uB5FAMJ"
     },
     {
       "album": {
@@ -1802,6 +2150,24 @@
     },
     {
       "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 7 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/7BWZXeuZjxnaoH9UUNRxXh"
+      },
+      "artists": [
+        {
+          "name": "Lee Jung Kwon",
+          "url": "https://open.spotify.com/artist/2NdXW202j10do6ammYu4N1"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230727,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/5O5kFmmHu3o0F4oN8po2kD"
+    },
+    {
+      "album": {
         "name": "SingAgain - Battle of the Unknown, Ep. 7 (From The JTBC TV Show)",
         "url": "https://open.spotify.com/album/0NHp35YCCxVHrMHnfgGzbo"
       },
@@ -1838,6 +2204,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 10 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6mRrB9TClAfQPRQF0FXitA"
+      },
+      "artists": [
+        {
+          "name": "Park Hyeon Gyu",
+          "url": "https://open.spotify.com/artist/1rxYSKTBCjSv6UuLMqHV16"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221387,
+      "name": "For thousand days",
+      "url": "https://open.spotify.com/track/5odgriI1YIZfv61eXVfCwt"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 10",
         "url": "https://open.spotify.com/album/5HPrxQZ3GmAwlJ2TfSjQ93"
       },
@@ -1849,7 +2233,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 221387,
       "name": "For thousand days",
       "url": "https://open.spotify.com/track/3RAKYdDHqxF6FYBMosznBT"
@@ -1958,6 +2342,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 1 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/47ieojAYbQDbNib7jAWjqi"
+      },
+      "artists": [
+        {
+          "name": "KIM SO YEON",
+          "url": "https://open.spotify.com/artist/0MX5nfUypMRGoxewT2VcM7"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194279,
+      "name": "Forgotten Season",
+      "url": "https://open.spotify.com/track/75A54m7yyGCreSJzMHcGcx"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 1",
         "url": "https://open.spotify.com/album/3oBdT6qQ6Z4xiJuifJahfg"
       },
@@ -1969,7 +2371,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 194279,
       "name": "Forgotten Season",
       "url": "https://open.spotify.com/track/4pRlZgqvXV6H6MjHSLLIDG"
@@ -1991,6 +2393,24 @@
       "duration_ms": 194279,
       "name": "Forgotten Season - Live",
       "url": "https://open.spotify.com/track/2cQa0XIz8t3UUZu7fiL0hM"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 8 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/1KBoPHsLEuz7UdYzjNPrN9"
+      },
+      "artists": [
+        {
+          "name": "Taeho",
+          "url": "https://open.spotify.com/artist/4p0Tt1h24m9LNOmqGMAhcC"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241815,
+      "name": "Fox Rain",
+      "url": "https://open.spotify.com/track/1YSYegegFktHD4bcE6s3en"
     },
     {
       "album": {
@@ -2211,10 +2631,32 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 213951,
       "name": "Grumble",
       "url": "https://open.spotify.com/track/0ZbeIFOjoUK6DOngUOAVn6"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 4 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6QPredocgmIxhgLOeX0gg1"
+      },
+      "artists": [
+        {
+          "name": "Shin yong nam",
+          "url": "https://open.spotify.com/artist/1C2D7AXZthvUkxknsAGR8r"
+        },
+        {
+          "name": "Bae In Hyuk",
+          "url": "https://open.spotify.com/artist/54zhMFqa0Jnl0QDPnYMaFz"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213951,
+      "name": "Grumble",
+      "url": "https://open.spotify.com/track/5RrGwLoemowEJ0xykYacHh"
     },
     {
       "album": {
@@ -2360,6 +2802,24 @@
     },
     {
       "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 11 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6gbYJKFMCKi69VYi6LwSvb"
+      },
+      "artists": [
+        {
+          "name": "YOARI",
+          "url": "https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242469,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/6R6v0puaLc8FAcgIou4adK"
+    },
+    {
+      "album": {
         "name": "SingAgain - Battle of the Unknown, Ep. 11 (From The JTBC TV Show) (Live)",
         "url": "https://open.spotify.com/album/6lH1yunlvO5tUUiGNT5XrL"
       },
@@ -2414,6 +2874,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 10 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6mRrB9TClAfQPRQF0FXitA"
+      },
+      "artists": [
+        {
+          "name": "KIM SO YEON",
+          "url": "https://open.spotify.com/artist/0MX5nfUypMRGoxewT2VcM7"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205470,
+      "name": "Hidden Road",
+      "url": "https://open.spotify.com/track/19HCNkpNgkcw6J1UU48jjk"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 10",
         "url": "https://open.spotify.com/album/5HPrxQZ3GmAwlJ2TfSjQ93"
       },
@@ -2425,7 +2903,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 205470,
       "name": "Hidden Road",
       "url": "https://open.spotify.com/track/3xmTFxdIH8jU5O2b304YtD"
@@ -2504,6 +2982,24 @@
     },
     {
       "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 2 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/0hVegFB8Vm4hE2w7OBRzJU"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Yoon",
+          "url": "https://open.spotify.com/artist/5r6We61DO9tU5yu0RcbUPt"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183794,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1i9nrrht0pSbIBjGnXu6sr"
+    },
+    {
+      "album": {
         "name": "SingAgain (Battle of the Unknown) Episode.2",
         "url": "https://open.spotify.com/album/3gUwEeziZujv7yqOPuMCz8"
       },
@@ -2533,7 +3029,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 183794,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2NWB4Jk74ner8CbUlP13fA"
@@ -2613,6 +3109,24 @@
       "duration_ms": 254069,
       "name": "I have a lover - Live",
       "url": "https://open.spotify.com/track/5nnLmU7PVpstxSn9etAcaM"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 7 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/7BWZXeuZjxnaoH9UUNRxXh"
+      },
+      "artists": [
+        {
+          "name": "Kim Junhwi",
+          "url": "https://open.spotify.com/artist/4ybSIEGIiAGcof5xjie3lS"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "I have to live",
+      "url": "https://open.spotify.com/track/42bwPtP3R5QEakIddEI7xA"
     },
     {
       "album": {
@@ -2721,6 +3235,24 @@
       "duration_ms": 251296,
       "name": "I Miss You - Live",
       "url": "https://open.spotify.com/track/3afQoo33mLJxIxFXgAs4pt"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 7 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/7BWZXeuZjxnaoH9UUNRxXh"
+      },
+      "artists": [
+        {
+          "name": "Youme",
+          "url": "https://open.spotify.com/artist/0kgK64SIuInLUon0mn9o4h"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247681,
+      "name": "I Pray",
+      "url": "https://open.spotify.com/track/7bvOn8pQemwjntTRcfObg2"
     },
     {
       "album": {
@@ -2972,6 +3504,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 12 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/7lS1W6pSygiLe8wjJkmOoh"
+      },
+      "artists": [
+        {
+          "name": "YoonSung",
+          "url": "https://open.spotify.com/artist/2HGZYM7VRf9rveDQee2NRN"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248213,
+      "name": "I'm a Candle Before You",
+      "url": "https://open.spotify.com/track/5N5RO1QMLvMM2uJDZOHvxq"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 12",
         "url": "https://open.spotify.com/album/5QOFUPrakL71henufIpjGT"
       },
@@ -2983,7 +3533,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 248213,
       "name": "I'm a Candle Before You",
       "url": "https://open.spotify.com/track/3vdVsH24jHteBb29EoHt7c"
@@ -3059,6 +3609,24 @@
       "duration_ms": 263189,
       "name": "I'm coming to you - Live",
       "url": "https://open.spotify.com/track/4LtvNffTeHeiEe3qxo7cUU"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 8 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/1KBoPHsLEuz7UdYzjNPrN9"
+      },
+      "artists": [
+        {
+          "name": "Youme",
+          "url": "https://open.spotify.com/artist/0kgK64SIuInLUon0mn9o4h"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221587,
+      "name": "If It Is You",
+      "url": "https://open.spotify.com/track/65cUi0AUoANZhgeMjmezM0"
     },
     {
       "album": {
@@ -3152,6 +3720,24 @@
     },
     {
       "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 2 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/0hVegFB8Vm4hE2w7OBRzJU"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173261,
+      "name": "Is there anybody",
+      "url": "https://open.spotify.com/track/1xHIloBMe6RKkUjSB63Nf2"
+    },
+    {
+      "album": {
         "name": "SingAgain (Battle of the Unknown) Episode.2",
         "url": "https://open.spotify.com/album/3gUwEeziZujv7yqOPuMCz8"
       },
@@ -3221,10 +3807,32 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 201930,
       "name": "It's a Fire",
       "url": "https://open.spotify.com/track/033yzpZJXmOjKFExsSmqWb"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 4 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6QPredocgmIxhgLOeX0gg1"
+      },
+      "artists": [
+        {
+          "name": "Seen Hyun Hee",
+          "url": "https://open.spotify.com/artist/3vd412swJreRPEn4cyirZQ"
+        },
+        {
+          "name": "Cho Hyunyoung",
+          "url": "https://open.spotify.com/artist/1H2S37zuLm5Sn4PBADR72w"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201930,
+      "name": "It's a Fire",
+      "url": "https://open.spotify.com/track/5mBkMiAAqdr0DR9fURqI16"
     },
     {
       "album": {
@@ -3261,10 +3869,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 216743,
       "name": "It's you",
       "url": "https://open.spotify.com/track/0rexT8hPud33Dj9Pa8qcVT"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 9 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/2h7eorXbpMKoVMB9MqJDfa"
+      },
+      "artists": [
+        {
+          "name": "Shin Yumi",
+          "url": "https://open.spotify.com/artist/3BqAKo9uXBy5DT1Loq9RkZ"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216743,
+      "name": "It's you",
+      "url": "https://open.spotify.com/track/4ge5Ru4P3EPP0ABGRvBzGH"
     },
     {
       "album": {
@@ -3337,6 +3963,24 @@
       "duration_ms": 182573,
       "name": "Knife - Live",
       "url": "https://open.spotify.com/track/5RK3m0uordynPmoN1Mx0gN"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 9 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/5mFrXUqyGzPMVlzfJnNGzv"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Yoon",
+          "url": "https://open.spotify.com/artist/5r6We61DO9tU5yu0RcbUPt"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224966,
+      "name": "Laid Silk And Satins On My Heart",
+      "url": "https://open.spotify.com/track/2dBsJ6QLlTpbmd2e9He0hv"
     },
     {
       "album": {
@@ -3484,6 +4128,28 @@
     },
     {
       "album": {
+        "name": "SingAgain - Battle of the Unknown,Ep. 5 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/0ovt4Go99WVU0eL9WNzc5b"
+      },
+      "artists": [
+        {
+          "name": "Youme",
+          "url": "https://open.spotify.com/artist/0kgK64SIuInLUon0mn9o4h"
+        },
+        {
+          "name": "Jisun",
+          "url": "https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207317,
+      "name": "LIKE A FLAME",
+      "url": "https://open.spotify.com/track/4Ozur1jcfYBwT5DuIDkxb5"
+    },
+    {
+      "album": {
         "name": "SingAgain - Battle of the Unknown, Ep. 5 (From The JTBC TV Show) (Live)",
         "url": "https://open.spotify.com/album/6HF9lHi4e8DXeKJNp58hod"
       },
@@ -3542,6 +4208,24 @@
     },
     {
       "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 1 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/2qNGkuR7v7VJHBxgsedeM4"
+      },
+      "artists": [
+        {
+          "name": "Kim Jin Woong",
+          "url": "https://open.spotify.com/artist/2aeYpB1jUc33g8ti8tPjTa"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169662,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/6A2lj0M04cXwshCJwa7osr"
+    },
+    {
+      "album": {
         "name": "\uc2f1\uc5b4\uac8c\uc778 - \ubb34\uba85\uac00\uc218\uc804 Episode.1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1gRLH2XGM6yGu5vyBzRR6P"
       },
@@ -3553,7 +4237,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 169662,
       "name": "Lonely Night",
       "url": "https://open.spotify.com/track/7uwvzkOGE9k5jmUhkC9VGP"
@@ -3632,6 +4316,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 7 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6LKItmP5Xlu76eRc7tV6aY"
+      },
+      "artists": [
+        {
+          "name": "KIM SO YEON",
+          "url": "https://open.spotify.com/artist/0MX5nfUypMRGoxewT2VcM7"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Lose Where Go My Mind",
+      "url": "https://open.spotify.com/track/10rWg1xRL6hB0GGSLMpOwN"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 7",
         "url": "https://open.spotify.com/album/1nLlbElGKq2fVzIDUtnnxp"
       },
@@ -3643,7 +4345,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 203026,
       "name": "Lose Where Go My Mind",
       "url": "https://open.spotify.com/track/6G1WP5nwTDRVIutkTCDEr1"
@@ -3683,6 +4385,24 @@
       "duration_ms": 169323,
       "name": "Love Is Too Bitter",
       "url": "https://open.spotify.com/track/5DHJa0459LEGTkZwdkTiJm"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 7 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/7BWZXeuZjxnaoH9UUNRxXh"
+      },
+      "artists": [
+        {
+          "name": "Hajin",
+          "url": "https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231919,
+      "name": "Love on its solitude",
+      "url": "https://open.spotify.com/track/4U6xlCubIfjEj8OEWp3JZY"
     },
     {
       "album": {
@@ -3834,6 +4554,24 @@
     },
     {
       "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 9 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/5mFrXUqyGzPMVlzfJnNGzv"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197767,
+      "name": "Lying on the sea",
+      "url": "https://open.spotify.com/track/2w1j3GkhToYEd1NQWknlDE"
+    },
+    {
+      "album": {
         "name": "SingAgain - Battle of the Unknown, Ep. 9 (From The JTBC TV Show)",
         "url": "https://open.spotify.com/album/16FONHdsESljnpjFHBqKwh"
       },
@@ -3870,6 +4608,24 @@
     },
     {
       "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 3 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/273zRGnZ4Mru1gOssz05Um"
+      },
+      "artists": [
+        {
+          "name": "Shin Min Jung",
+          "url": "https://open.spotify.com/artist/4pWTAf7WHVYuKNGztWeTpf"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162773,
+      "name": "Make Up",
+      "url": "https://open.spotify.com/track/1CoW6oGvegwr0dSpyHRtal"
+    },
+    {
+      "album": {
         "name": "\uc2f1\uc5b4\uac8c\uc778 - \ubb34\uba85\uac00\uc218\uc804 Episode.3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3k6os65Birhnu3Pb73OmVR"
       },
@@ -3881,7 +4637,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 162773,
       "name": "Make Up",
       "url": "https://open.spotify.com/track/6WTM97A4KVEivf6L4Ayxkn"
@@ -4050,6 +4806,24 @@
     },
     {
       "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 11 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6gbYJKFMCKi69VYi6LwSvb"
+      },
+      "artists": [
+        {
+          "name": "Jeong Hongil",
+          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215986,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/18Zdcm132wlkgr7vjpWMpj"
+    },
+    {
+      "album": {
         "name": "\uc2f1\uc5b4\uac8c\uc778 - \ubb34\uba85\uac00\uc218\uc804 Episode.11 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1RAjQ6XsK9aZpGTnO0upeG"
       },
@@ -4061,7 +4835,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 215986,
       "name": "Maria",
       "url": "https://open.spotify.com/track/28F1bwRjNRe8D3UamtDe0A"
@@ -4191,10 +4965,32 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 200467,
       "name": "MIROTIC",
       "url": "https://open.spotify.com/track/4KhR1YXzrhDfYGXUCifYZU"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 6 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/3Dehc9s07jjHB62d8RXyzF"
+      },
+      "artists": [
+        {
+          "name": "Shin Yumi",
+          "url": "https://open.spotify.com/artist/3BqAKo9uXBy5DT1Loq9RkZ"
+        },
+        {
+          "name": "NAAKYEUM",
+          "url": "https://open.spotify.com/artist/0tcpyHoHq4ILwcxfGFvSMN"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200467,
+      "name": "MIROTIC",
+      "url": "https://open.spotify.com/track/54VfZNwYVjuzvujiUTb5NN"
     },
     {
       "album": {
@@ -4242,6 +5038,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 1 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/47ieojAYbQDbNib7jAWjqi"
+      },
+      "artists": [
+        {
+          "name": "Ulala Session",
+          "url": "https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161210,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/7vHXsgKKDQ57GafFHdCru6"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 1",
         "url": "https://open.spotify.com/album/3oBdT6qQ6Z4xiJuifJahfg"
       },
@@ -4253,7 +5067,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 161210,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/2fzO1nw5n0lRxTSbDuPQ9H"
@@ -4289,10 +5103,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 226431,
       "name": "MOON",
       "url": "https://open.spotify.com/track/2AOqxmVZ3wxn4fL78d8jCu"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 7 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/7BWZXeuZjxnaoH9UUNRxXh"
+      },
+      "artists": [
+        {
+          "name": "YOARI",
+          "url": "https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226431,
+      "name": "MOON",
+      "url": "https://open.spotify.com/track/4cWcwuB94bAckcbhZK4LOj"
     },
     {
       "album": {
@@ -4347,10 +5179,32 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 219885,
       "name": "Mother to daughter",
       "url": "https://open.spotify.com/track/6vKQfLvezpLbWrqxro4ueP"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 5 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/4gXEJ2fQWDh8VpAMEYQcL6"
+      },
+      "artists": [
+        {
+          "name": "Yang Hyun Kyung",
+          "url": "https://open.spotify.com/artist/0U6S9OZCnZZ4w76c5xiSxO"
+        },
+        {
+          "name": "Seo Gi",
+          "url": "https://open.spotify.com/artist/41s4WWJTaYrBtw2K1rYPiI"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219885,
+      "name": "Mother to daughter",
+      "url": "https://open.spotify.com/track/33fOna63bNCqDn93uZ37Is"
     },
     {
       "album": {
@@ -4413,6 +5267,24 @@
       "duration_ms": 160059,
       "name": "My Darling Far Far Away",
       "url": "https://open.spotify.com/track/5Dj4aykLpES3170r8rawxN"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 9 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/5mFrXUqyGzPMVlzfJnNGzv"
+      },
+      "artists": [
+        {
+          "name": "Seo Young Ju",
+          "url": "https://open.spotify.com/artist/6RkvFk4pb1KGJk778pNQ4u"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227301,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/2PmAyJ9TgcS560ofVgNA4U"
     },
     {
       "album": {
@@ -4510,6 +5382,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 8 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/2vg7ROyl4EW3VwPJbtteyg"
+      },
+      "artists": [
+        {
+          "name": "Seo Gi",
+          "url": "https://open.spotify.com/artist/41s4WWJTaYrBtw2K1rYPiI"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215194,
+      "name": "On The Road",
+      "url": "https://open.spotify.com/track/4XzplXcqjozPUuotbd3Nh7"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 8",
         "url": "https://open.spotify.com/album/4aLjoFgh19htz21TOSeDaU"
       },
@@ -4521,7 +5411,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 215194,
       "name": "On The Road",
       "url": "https://open.spotify.com/track/3dDL48WJwO22wCKR5mYnON"
@@ -4564,6 +5454,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 9 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/2h7eorXbpMKoVMB9MqJDfa"
+      },
+      "artists": [
+        {
+          "name": "Park Hyeon Gyu",
+          "url": "https://open.spotify.com/artist/1rxYSKTBCjSv6UuLMqHV16"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224273,
+      "name": "Only her laughter",
+      "url": "https://open.spotify.com/track/3KRUkeW87LmpLsZptuuBa5"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 9",
         "url": "https://open.spotify.com/album/6BClGOsYCFeTLfcPSCocH5"
       },
@@ -4575,7 +5483,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 224273,
       "name": "Only her laughter",
       "url": "https://open.spotify.com/track/5BqEJ4YeI7v0Sn68rWXzxH"
@@ -4600,6 +5508,42 @@
     },
     {
       "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 7 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/7BWZXeuZjxnaoH9UUNRxXh"
+      },
+      "artists": [
+        {
+          "name": "Lee Minkwan",
+          "url": "https://open.spotify.com/artist/561R7qbKcrtpvQeKl3Xa9j"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233897,
+      "name": "Only Longing Grows",
+      "url": "https://open.spotify.com/track/67s1H0ta8bqlxVMhS5dLl5"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 2 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/0WIJ0JoW7eQ6r3UdGKUD6N"
+      },
+      "artists": [
+        {
+          "name": "Seo Gi",
+          "url": "https://open.spotify.com/artist/41s4WWJTaYrBtw2K1rYPiI"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171779,
+      "name": "Only longing grows",
+      "url": "https://open.spotify.com/track/4rtQElF2inz3zSW324h4aX"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 2",
         "url": "https://open.spotify.com/album/16P5gkdnq70M4nYwYpCNqx"
       },
@@ -4611,7 +5555,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 171779,
       "name": "Only longing grows",
       "url": "https://open.spotify.com/track/12O4kFnDhqHelEPnedVNmR"
@@ -4770,6 +5714,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 12 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/7lS1W6pSygiLe8wjJkmOoh"
+      },
+      "artists": [
+        {
+          "name": "Park Hyeon Gyu",
+          "url": "https://open.spotify.com/artist/1rxYSKTBCjSv6UuLMqHV16"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234577,
+      "name": "Passing",
+      "url": "https://open.spotify.com/track/3uM9Tc2nk95NdZtu1R8Lj9"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 12",
         "url": "https://open.spotify.com/album/5QOFUPrakL71henufIpjGT"
       },
@@ -4781,7 +5743,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 234577,
       "name": "Passing",
       "url": "https://open.spotify.com/track/0r5ryMT4QGpBujQUrMve3n"
@@ -4806,6 +5768,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 12 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/7lS1W6pSygiLe8wjJkmOoh"
+      },
+      "artists": [
+        {
+          "name": "KIM SO YEON",
+          "url": "https://open.spotify.com/artist/0MX5nfUypMRGoxewT2VcM7"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221004,
+      "name": "People All Change",
+      "url": "https://open.spotify.com/track/3MZcuogNzjrTPbOJsBhwOQ"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 12",
         "url": "https://open.spotify.com/album/5QOFUPrakL71henufIpjGT"
       },
@@ -4817,7 +5797,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 221004,
       "name": "People All Change",
       "url": "https://open.spotify.com/track/6Hs0vZZGmve3kizIuV1VTz"
@@ -4875,10 +5855,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 170134,
       "name": "Piano Man",
       "url": "https://open.spotify.com/track/12F2bfJyY7OBIKnngm33DW"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 3 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/273zRGnZ4Mru1gOssz05Um"
+      },
+      "artists": [
+        {
+          "name": "Venti",
+          "url": "https://open.spotify.com/artist/6tO8aWucgqj6GGOVdQklSA"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170134,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/2tIUI3n0ChSH4YGHfYhpDH"
     },
     {
       "album": {
@@ -4936,6 +5934,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 8 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/2vg7ROyl4EW3VwPJbtteyg"
+      },
+      "artists": [
+        {
+          "name": "KIM KI TAE",
+          "url": "https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202173,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/0iDr5uefloKNWYFqKPwLv4"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 8",
         "url": "https://open.spotify.com/album/4aLjoFgh19htz21TOSeDaU"
       },
@@ -4947,7 +5963,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 202173,
       "name": "Please",
       "url": "https://open.spotify.com/track/3CYuMVxnWDJCyO2sMBdNob"
@@ -5005,6 +6021,24 @@
       "duration_ms": 226421,
       "name": "Rain And Your Story",
       "url": "https://open.spotify.com/track/6y8oJSYmnIfh5gm1yapknR"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 3 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/273zRGnZ4Mru1gOssz05Um"
+      },
+      "artists": [
+        {
+          "name": "Taeho",
+          "url": "https://open.spotify.com/artist/4p0Tt1h24m9LNOmqGMAhcC"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166096,
+      "name": "Rebecca",
+      "url": "https://open.spotify.com/track/21HaZD28JX3fMkADHGiCs0"
     },
     {
       "album": {
@@ -5255,10 +6289,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 224798,
       "name": "Sherlock (Clue+Note)",
       "url": "https://open.spotify.com/track/3wEGjBwW0h1RJkmyxsQcVe"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 8 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/2vg7ROyl4EW3VwPJbtteyg"
+      },
+      "artists": [
+        {
+          "name": "Bae In Hyuk",
+          "url": "https://open.spotify.com/artist/54zhMFqa0Jnl0QDPnYMaFz"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224798,
+      "name": "Sherlock (Clue+Note)",
+      "url": "https://open.spotify.com/track/5544bCwQxS7Atr3G9wAzOp"
     },
     {
       "album": {
@@ -5277,6 +6329,42 @@
       "duration_ms": 224798,
       "name": "Sherlock (Clue+Note) - Live",
       "url": "https://open.spotify.com/track/4q1oq2tKmq73fjbICx6CV5"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 12 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/4IEy1o5ggBRAYyl4ktt1lo"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238167,
+      "name": "Side road",
+      "url": "https://open.spotify.com/track/2t0y4pZMzSPVPbaGVdee25"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 2 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/0WIJ0JoW7eQ6r3UdGKUD6N"
+      },
+      "artists": [
+        {
+          "name": "NAAKYEUM",
+          "url": "https://open.spotify.com/artist/0tcpyHoHq4ILwcxfGFvSMN"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179080,
+      "name": "Side road",
+      "url": "https://open.spotify.com/track/1V2caTA0KfrKpZBYZ6VIys"
     },
     {
       "album": {
@@ -5309,7 +6397,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 179080,
       "name": "Side road",
       "url": "https://open.spotify.com/track/2A5O9nuuG5vjOEiTBbv8ss"
@@ -5406,6 +6494,24 @@
     },
     {
       "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 2 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/0hVegFB8Vm4hE2w7OBRzJU"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182038,
+      "name": "Solar System",
+      "url": "https://open.spotify.com/track/456SZhEcNOWDFE1JavwsQT"
+    },
+    {
+      "album": {
         "name": "SingAgain (Battle of the Unknown) Episode.2",
         "url": "https://open.spotify.com/album/3gUwEeziZujv7yqOPuMCz8"
       },
@@ -5482,6 +6588,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 6 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/3Dehc9s07jjHB62d8RXyzF"
+      },
+      "artists": [
+        {
+          "name": "TAEWOO",
+          "url": "https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189958,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/3SxoAQDbQyFB126UkJOO81"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 6",
         "url": "https://open.spotify.com/album/6pmzeTrqkTqbTsXpxD1j6d"
       },
@@ -5493,7 +6617,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 189958,
       "name": "Speed",
       "url": "https://open.spotify.com/track/5Z3mZhuViAXIfXNa2h7YZm"
@@ -5562,6 +6686,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 6 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/3Dehc9s07jjHB62d8RXyzF"
+      },
+      "artists": [
+        {
+          "name": "Shin yong nam",
+          "url": "https://open.spotify.com/artist/1C2D7AXZthvUkxknsAGR8r"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213139,
+      "name": "Spring Rain",
+      "url": "https://open.spotify.com/track/1l6aqy2UugCj99cqfiAxHW"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 6",
         "url": "https://open.spotify.com/album/6pmzeTrqkTqbTsXpxD1j6d"
       },
@@ -5573,7 +6715,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 213139,
       "name": "Spring Rain",
       "url": "https://open.spotify.com/track/3tUSZj1o2hxz5xrKiBghoX"
@@ -5751,10 +6893,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 204104,
       "name": "Tarzan",
       "url": "https://open.spotify.com/track/3oCFgqkBloXsVFacnEXnx0"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 6 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/3Dehc9s07jjHB62d8RXyzF"
+      },
+      "artists": [
+        {
+          "name": "Seen Hyun Hee",
+          "url": "https://open.spotify.com/artist/3vd412swJreRPEn4cyirZQ"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204104,
+      "name": "Tarzan",
+      "url": "https://open.spotify.com/track/5kTcEa67ZZoiTAByWHy2m1"
     },
     {
       "album": {
@@ -5787,10 +6947,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 196162,
       "name": "Teacup",
       "url": "https://open.spotify.com/track/6cungsRnT8gJDgCThGx9rb"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 7 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6LKItmP5Xlu76eRc7tV6aY"
+      },
+      "artists": [
+        {
+          "name": "Lee Ju Hyuk",
+          "url": "https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196162,
+      "name": "Teacup",
+      "url": "https://open.spotify.com/track/706OFkVX9WDfEAwd0cxXWL"
     },
     {
       "album": {
@@ -5834,6 +7012,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 1 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/47ieojAYbQDbNib7jAWjqi"
+      },
+      "artists": [
+        {
+          "name": "TAEWOO",
+          "url": "https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179182,
+      "name": "The Downfall of Moon",
+      "url": "https://open.spotify.com/track/3ENXJyGAlUH2S0S9KqROYZ"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 1",
         "url": "https://open.spotify.com/album/3oBdT6qQ6Z4xiJuifJahfg"
       },
@@ -5845,7 +7041,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 179182,
       "name": "The Downfall of Moon",
       "url": "https://open.spotify.com/track/46ZstPMLbQteGyEO4X0HXE"
@@ -5867,6 +7063,24 @@
       "duration_ms": 179182,
       "name": "The Downfall of Moon - Live",
       "url": "https://open.spotify.com/track/4JwogU3NoQo7VLUfqCZtXx"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 10 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/5axfaje7kQldnoTHF4M0Cm"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242637,
+      "name": "The dreams",
+      "url": "https://open.spotify.com/track/250RKdC1vkRdawaNgGlQtd"
     },
     {
       "album": {
@@ -5906,6 +7120,24 @@
     },
     {
       "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 3 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/273zRGnZ4Mru1gOssz05Um"
+      },
+      "artists": [
+        {
+          "name": "Sojung",
+          "url": "https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187653,
+      "name": "The flight",
+      "url": "https://open.spotify.com/track/3jISq0X4MTaYe5bNgfQpCB"
+    },
+    {
+      "album": {
         "name": "SingAgain - Battle of the Unknown, Ep. 3 (From The JTBC TV Show)",
         "url": "https://open.spotify.com/album/56TH2ZJCjlCT1qCoNj61QJ"
       },
@@ -5935,10 +7167,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 178692,
       "name": "The Girl at The Cigarette Store",
       "url": "https://open.spotify.com/track/0Bjkf3fr1zXwkCaZOeyEwJ"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 2 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/0WIJ0JoW7eQ6r3UdGKUD6N"
+      },
+      "artists": [
+        {
+          "name": "Beom seung hyuk",
+          "url": "https://open.spotify.com/artist/3VGSDro1uWEgv3S1yLNA9S"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178692,
+      "name": "The Girl at The Cigarette Store",
+      "url": "https://open.spotify.com/track/4GmGEv0TpuVR0kg6KNkZn3"
     },
     {
       "album": {
@@ -5993,10 +7243,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 200353,
       "name": "The Girl in My Memories",
       "url": "https://open.spotify.com/track/1HWIpR5Bg9QUS88Abhuh4z"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 9 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/2h7eorXbpMKoVMB9MqJDfa"
+      },
+      "artists": [
+        {
+          "name": "Lee Ju Hyuk",
+          "url": "https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200353,
+      "name": "The Girl in My Memories",
+      "url": "https://open.spotify.com/track/4FCZ60ZSgtXg6dPbHYg3FZ"
     },
     {
       "album": {
@@ -6054,6 +7322,28 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 5 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/4gXEJ2fQWDh8VpAMEYQcL6"
+      },
+      "artists": [
+        {
+          "name": "Mose",
+          "url": "https://open.spotify.com/artist/3D0P52LtleMAK6BlV94ZM2"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/6wsBlNHFREdDuOmCyELXz3"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213358,
+      "name": "The Unwritten Legend",
+      "url": "https://open.spotify.com/track/4QtEak80WbEwHfzyY13UQS"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 5",
         "url": "https://open.spotify.com/album/5c6C3LVpIxjZzHMy7XVTix"
       },
@@ -6069,7 +7359,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 213358,
       "name": "The Unwritten Legend",
       "url": "https://open.spotify.com/track/0RSamg4JoBiH3ficIpEh6P"
@@ -6152,6 +7442,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 6 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/3Dehc9s07jjHB62d8RXyzF"
+      },
+      "artists": [
+        {
+          "name": "Bae In Hyuk",
+          "url": "https://open.spotify.com/artist/54zhMFqa0Jnl0QDPnYMaFz"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222166,
+      "name": "Then That Person",
+      "url": "https://open.spotify.com/track/0St2juCnQVhRQlFO6RBBCD"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 6",
         "url": "https://open.spotify.com/album/6pmzeTrqkTqbTsXpxD1j6d"
       },
@@ -6163,7 +7471,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 222166,
       "name": "Then That Person",
       "url": "https://open.spotify.com/track/6udEo1mi8TZmGowbwad14L"
@@ -6185,6 +7493,24 @@
       "duration_ms": 222166,
       "name": "Then That Person - Live",
       "url": "https://open.spotify.com/track/32UlLRuvq9h92NMn35oFJr"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 1 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/2qNGkuR7v7VJHBxgsedeM4"
+      },
+      "artists": [
+        {
+          "name": "Jaejoo Boys",
+          "url": "https://open.spotify.com/artist/6Z41VjRzi0cKNZAVp5u7VZ"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144492,
+      "name": "THEO",
+      "url": "https://open.spotify.com/track/07b5eDohnpHImrf6Z7zMmt"
     },
     {
       "album": {
@@ -6242,6 +7568,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 12 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/7lS1W6pSygiLe8wjJkmOoh"
+      },
+      "artists": [
+        {
+          "name": "Lee Ju Hyuk",
+          "url": "https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259980,
+      "name": "Thorn Tree",
+      "url": "https://open.spotify.com/track/25K3zVTpx1vq4GoiSeicaV"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 12",
         "url": "https://open.spotify.com/album/5QOFUPrakL71henufIpjGT"
       },
@@ -6253,10 +7597,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 259980,
       "name": "Thorn Tree",
       "url": "https://open.spotify.com/track/7anJbN4K6D5g857ArxAgvd"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 2 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/0hVegFB8Vm4hE2w7OBRzJU"
+      },
+      "artists": [
+        {
+          "name": "Yoon Seol Ha",
+          "url": "https://open.spotify.com/artist/4vMVVeLxroHkE14NgoacMp"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219741,
+      "name": "Thorn Tree",
+      "url": "https://open.spotify.com/track/1vdFXJUPzsoD0VYtyX9t9m"
     },
     {
       "album": {
@@ -6563,10 +7925,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 177640,
       "name": "Too Painful Love Was Not Love",
       "url": "https://open.spotify.com/track/5z5gHjCjV6fYeElI6AdWJ4"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 5 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/4gXEJ2fQWDh8VpAMEYQcL6"
+      },
+      "artists": [
+        {
+          "name": "KIM KI TAE",
+          "url": "https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177640,
+      "name": "Too Painful Love Was Not Love",
+      "url": "https://open.spotify.com/track/75FrhLHWPTuRmobRoiCmrB"
     },
     {
       "album": {
@@ -6650,6 +8030,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 6 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/3Dehc9s07jjHB62d8RXyzF"
+      },
+      "artists": [
+        {
+          "name": "Seo Gi",
+          "url": "https://open.spotify.com/artist/41s4WWJTaYrBtw2K1rYPiI"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209241,
+      "name": "Turning the Pages of Memories",
+      "url": "https://open.spotify.com/track/6rtNV0Uvqh53pOXdYpADzo"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 6",
         "url": "https://open.spotify.com/album/6pmzeTrqkTqbTsXpxD1j6d"
       },
@@ -6661,7 +8059,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 209241,
       "name": "Turning the Pages of Memories",
       "url": "https://open.spotify.com/track/52wqwA3PUdaA0e2W9x6yWe"
@@ -6740,6 +8138,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 2 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/0WIJ0JoW7eQ6r3UdGKUD6N"
+      },
+      "artists": [
+        {
+          "name": "HaRam",
+          "url": "https://open.spotify.com/artist/1h4UULrdz2i5qqmxmDOsXW"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163152,
+      "name": "Unrequited love",
+      "url": "https://open.spotify.com/track/7dpbSqaZ0eoUi0cixDvi8p"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 2",
         "url": "https://open.spotify.com/album/16P5gkdnq70M4nYwYpCNqx"
       },
@@ -6751,7 +8167,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 163152,
       "name": "Unrequited love",
       "url": "https://open.spotify.com/track/3dQu7pAZqdolSHks6VhY2K"
@@ -6787,10 +8203,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 210119,
       "name": "Until the Morning Breaks",
       "url": "https://open.spotify.com/track/2YHmiMHGgUkoT2Da8jrG8C"
+    },
+    {
+      "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 1 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/47ieojAYbQDbNib7jAWjqi"
+      },
+      "artists": [
+        {
+          "name": "Bae In Hyuk",
+          "url": "https://open.spotify.com/artist/54zhMFqa0Jnl0QDPnYMaFz"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210119,
+      "name": "Until the Morning Breaks",
+      "url": "https://open.spotify.com/track/2hEj6hit2tBxRDc9wNtiUX"
     },
     {
       "album": {
@@ -6830,6 +8264,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 10 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6mRrB9TClAfQPRQF0FXitA"
+      },
+      "artists": [
+        {
+          "name": "YoonSung",
+          "url": "https://open.spotify.com/artist/2HGZYM7VRf9rveDQee2NRN"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235858,
+      "name": "Waiting everyday",
+      "url": "https://open.spotify.com/track/5bDpIgIBn7jzFqwC5kykDt"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 10",
         "url": "https://open.spotify.com/album/5HPrxQZ3GmAwlJ2TfSjQ93"
       },
@@ -6841,7 +8293,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 235858,
       "name": "Waiting everyday",
       "url": "https://open.spotify.com/track/1rSEcHUpLTxpykwSE1ZUUI"
@@ -6863,6 +8315,24 @@
       "duration_ms": 235858,
       "name": "Waiting everyday (Live)",
       "url": "https://open.spotify.com/track/0hlUe2BHQ0vAjmUiV70fyt"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 12 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/4IEy1o5ggBRAYyl4ktt1lo"
+      },
+      "artists": [
+        {
+          "name": "YOARI",
+          "url": "https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221005,
+      "name": "Walking along",
+      "url": "https://open.spotify.com/track/76EbD4k8oEs4NRt3OTwrZm"
     },
     {
       "album": {
@@ -7008,6 +8478,24 @@
     },
     {
       "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 9 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/5mFrXUqyGzPMVlzfJnNGzv"
+      },
+      "artists": [
+        {
+          "name": "Kim Junhwi",
+          "url": "https://open.spotify.com/artist/4ybSIEGIiAGcof5xjie3lS"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242928,
+      "name": "When Love Passes",
+      "url": "https://open.spotify.com/track/78at2xjziUs47uW9uYA7fZ"
+    },
+    {
+      "album": {
         "name": "SingAgain - Battle of the Unknown, Ep. 9 (From The JTBC TV Show)",
         "url": "https://open.spotify.com/album/16FONHdsESljnpjFHBqKwh"
       },
@@ -7059,6 +8547,24 @@
       "duration_ms": 182245,
       "name": "Where are You (Live)",
       "url": "https://open.spotify.com/track/6bGiKhQMgFrUoDSDm4Hftd"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 6 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/47MOerMdgkk3nbYvyNdR7e"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223666,
+      "name": "Whistle",
+      "url": "https://open.spotify.com/track/3YEkcDYpo76QgfaLEdjOME"
     },
     {
       "album": {
@@ -7175,6 +8681,24 @@
       "duration_ms": 171591,
       "name": "Why So Lonely",
       "url": "https://open.spotify.com/track/3Ziptq5YRFfT3Oz0bJ5LYX"
+    },
+    {
+      "album": {
+        "name": "SingAgain - Battle of the Unknown, Ep. 12 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/4IEy1o5ggBRAYyl4ktt1lo"
+      },
+      "artists": [
+        {
+          "name": "Lee Jung Kwon",
+          "url": "https://open.spotify.com/artist/2NdXW202j10do6ammYu4N1"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258262,
+      "name": "Wind",
+      "url": "https://open.spotify.com/track/4RAT86K3aFyrFrjYVENIu6"
     },
     {
       "album": {
@@ -7380,6 +8904,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 7 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6LKItmP5Xlu76eRc7tV6aY"
+      },
+      "artists": [
+        {
+          "name": "YoonSung",
+          "url": "https://open.spotify.com/artist/2HGZYM7VRf9rveDQee2NRN"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202576,
+      "name": "Woman Outside Window",
+      "url": "https://open.spotify.com/track/58i7pQITDZEh3wz4l71Hpn"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 7",
         "url": "https://open.spotify.com/album/1nLlbElGKq2fVzIDUtnnxp"
       },
@@ -7391,7 +8933,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 202576,
       "name": "Woman Outside Window",
       "url": "https://open.spotify.com/track/2ouTxT4II4BE9Ip9DcfPbL"
@@ -7482,6 +9024,24 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 7 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6LKItmP5Xlu76eRc7tV6aY"
+      },
+      "artists": [
+        {
+          "name": "Ulala Session",
+          "url": "https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216493,
+      "name": "Writing Our Stories",
+      "url": "https://open.spotify.com/track/7JqaWhvf8txeJ0wySn5Ih3"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 7",
         "url": "https://open.spotify.com/album/1nLlbElGKq2fVzIDUtnnxp"
       },
@@ -7493,7 +9053,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 216493,
       "name": "Writing Our Stories",
       "url": "https://open.spotify.com/track/6DC29M6Y4vb5q6MXyXijNC"
@@ -7602,6 +9162,28 @@
     },
     {
       "album": {
+        "name": "SingAgain2 - Battle of the Unknown, Ep. 4 (From the JTBC Television Show)",
+        "url": "https://open.spotify.com/album/6QPredocgmIxhgLOeX0gg1"
+      },
+      "artists": [
+        {
+          "name": "Beom seung hyuk",
+          "url": "https://open.spotify.com/artist/3VGSDro1uWEgv3S1yLNA9S"
+        },
+        {
+          "name": "TAEWOO",
+          "url": "https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215185,
+      "name": "You in vague memory",
+      "url": "https://open.spotify.com/track/1gFdmbgDStN6zjZqNbAwrG"
+    },
+    {
+      "album": {
         "name": "SingAgain2 - Battle of the Unknown, Ep. 4",
         "url": "https://open.spotify.com/album/502zu3HrIkH5tJEjSpMjAN"
       },
@@ -7617,7 +9199,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 215185,
       "name": "You in vague memory",
       "url": "https://open.spotify.com/track/58iQma1WvdDPglMLYWsRd3"
@@ -7751,7 +9333,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 219741,
       "name": "\uac00\uc2dc\ub098\ubb34",
       "url": "https://open.spotify.com/track/1mv8gcEfAV8OA5O69MYhx1"
@@ -7773,7 +9355,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 179579,
       "name": "\uac1c\uad6c\uc7a5\uc774",
       "url": "https://open.spotify.com/track/4nM2PHg5aGkGOuH7YZuxgV"
@@ -7813,7 +9395,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 221005,
       "name": "\uac77\uace0\uc2f6\ub2e4",
       "url": "https://open.spotify.com/track/3YElBSunq99a7E8OcTMUx7"
@@ -7947,7 +9529,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 233897,
       "name": "\uadf8\ub9ac\uc6c0\ub9cc \uc313\uc774\ub124",
       "url": "https://open.spotify.com/track/0AH9zLQFFKLcJkAOfYCuPD"
@@ -8037,7 +9619,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 242637,
       "name": "\uafc8",
       "url": "https://open.spotify.com/track/3aHXge4BReFlJr2im0JSiJ"
@@ -8055,7 +9637,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 230727,
       "name": "\ub0a0\uc544",
       "url": "https://open.spotify.com/track/4ulOrsGRxUI9gyWUuoztVI"
@@ -8163,7 +9745,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 158357,
       "name": "\ub108\uc5d0\uac8c\ub85c \ub610 \ub2e4\uc2dc",
       "url": "https://open.spotify.com/track/4tecnx06lklapLD0tAlmvM"
@@ -8199,7 +9781,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 221587,
       "name": "\ub108\uc600\ub2e4\uba74",
       "url": "https://open.spotify.com/track/3ltrSL2FZG0EVMuYmZYIIJ"
@@ -8293,7 +9875,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 166096,
       "name": "\ub9ac\ubca0\uce74",
       "url": "https://open.spotify.com/track/4aZSmMMG2N3bONFUIdn6Wz"
@@ -8365,7 +9947,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 244575,
       "name": "\ubbf8\uc544",
       "url": "https://open.spotify.com/track/6LRRzerNOs3tBucB01xn2j"
@@ -8419,7 +10001,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 197767,
       "name": "\ubc14\ub2e4\uc5d0 \ub204\uc6cc",
       "url": "https://open.spotify.com/track/2k7PI1yUd27gfwyr8cHpsY"
@@ -8455,7 +10037,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 258262,
       "name": "\ubc14\ub78c",
       "url": "https://open.spotify.com/track/5EVzbNLCgyg0PUY5hT6yvI"
@@ -8513,7 +10095,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 207317,
       "name": "\ubd88\uaf43\ucc98\ub7fc",
       "url": "https://open.spotify.com/track/69iXw7uAPPb4Phc2YnCLBk"
@@ -8553,7 +10135,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 247681,
       "name": "\ube44\ub098\ub9ac",
       "url": "https://open.spotify.com/track/6jGTYpBzuwj5J0Tp5hJPVE"
@@ -8589,7 +10171,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 187653,
       "name": "\ube44\uc0c1",
       "url": "https://open.spotify.com/track/4o8Vygwt3nWTfOqmJBjQb3"
@@ -8625,7 +10207,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 172715,
       "name": "\uc090\uc090",
       "url": "https://open.spotify.com/track/49Hikc5a4vIo0hFLznTyrm"
@@ -8643,7 +10225,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 231919,
       "name": "\uc0ac\ub791 \uadf8 \uc4f8\uc4f8\ud568\uc5d0 \ub300\ud558\uc5ec",
       "url": "https://open.spotify.com/track/3tCFD0HWGPGGlAuoy8ZtiC"
@@ -8679,7 +10261,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 242928,
       "name": "\uc0ac\ub791\uc774 \uc9c0\ub098\uac00\uba74",
       "url": "https://open.spotify.com/track/7GoN67KXzh5NwUqncS4A2R"
@@ -8715,7 +10297,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 266547,
       "name": "\uc0b4\ub2e4 \ubcf4\uba74",
       "url": "https://open.spotify.com/track/189F72aLcDa9DjuCdv6NcP"
@@ -8751,7 +10333,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 210133,
       "name": "\uc0b4\uc544\uc57c\uc9c0",
       "url": "https://open.spotify.com/track/1pngabddsqHwrAARxrmUFJ"
@@ -8805,7 +10387,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 242469,
       "name": "\uc548\ub155",
       "url": "https://open.spotify.com/track/7jfxKKoFW4yY9wISK2hqzY"
@@ -8885,7 +10467,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 241815,
       "name": "\uc5ec\uc6b0\ube44",
       "url": "https://open.spotify.com/track/2PB8LdEiN3jYs53K1a0OuL"
@@ -9099,7 +10681,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 144492,
       "name": "\ud130",
       "url": "https://open.spotify.com/track/5MLLZbNEXQkC37zFh8hv89"
@@ -9121,7 +10703,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 191018,
       "name": "\ud55c\ubc14\ud0d5 \uc6c3\uc74c\uc73c\ub85c",
       "url": "https://open.spotify.com/track/4cTnDziZDeuJio8qBdRPd2"

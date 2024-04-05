@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Valiant
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,812 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,899 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 61 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
 | 62 | [Love Yuh Everything](https://open.spotify.com/track/0Bhgvv9rPEAGkh8SA5TAtR) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Love Yuh Everything](https://open.spotify.com/album/32CHNFFfNt5l2bc3vmaPcT) | 2:45 |
 | 63 | [Gvnman Shift](https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Gvnman Shift](https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW) | 3:24 |
-| 64 | [Bam Bam](https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:04 |
-| 65 | [Pull Up](https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 2:51 |
+| 64 | [Pull Up](https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 2:51 |
+| 65 | [Bam Bam](https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:04 |
 | 66 | [I Love My Life](https://open.spotify.com/track/6S0nwCOEAftiihy73YVDnl) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6) | [I Love My Life \- Single](https://open.spotify.com/album/48o7c4uGPRJybVClvbTBde) | 3:30 |
 | 67 | [Romie](https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Maestro](https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1) | 3:51 |
 | 68 | [Brik Pan Brik](https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Brik Pan Brik](https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW) | 2:40 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 73 | [Call Me If](https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [VENT](https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0) | 4:00 |
 | 74 | [Tempted To Touch](https://open.spotify.com/track/7khLgMuA7m4SA6aaDv1QSv) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Asafa Powell: Train For Speed](https://open.spotify.com/album/7eXV1e30GKjzEOFSttyn0D) | 3:27 |
 | 75 | [23](https://open.spotify.com/track/6OhkL5aQSgWJvK8LaF1Tp9) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [23](https://open.spotify.com/album/5Zg5KiHgz1YoToU23hTpsZ) | 2:24 |
-| 76 | [Come Around](https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Collie Buddz](https://open.spotify.com/album/2BGWnHTib774X9f7RPoato) | 3:41 |
+| 76 | [Journey](https://open.spotify.com/track/4a7McmduzNphrhwcExeKI3) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Journey](https://open.spotify.com/album/38TguhcOXn3BLj8NRUSdLs) | 3:08 |
 | 77 | [Dunce Cheque](https://open.spotify.com/track/4ifFhV3uG87Gc00h5Gn3qp) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Dunce Cheque](https://open.spotify.com/album/0hLZJMZkIlh0dSPO39HUWi) | 2:36 |
-| 78 | [Journey](https://open.spotify.com/track/4a7McmduzNphrhwcExeKI3) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Journey](https://open.spotify.com/album/38TguhcOXn3BLj8NRUSdLs) | 3:08 |
+| 78 | [Come Around](https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Collie Buddz](https://open.spotify.com/album/2BGWnHTib774X9f7RPoato) | 3:41 |
 | 79 | [King Of The Dancehall](https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Back To Basics](https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2) | 3:37 |
 | 80 | [Bicycle](https://open.spotify.com/track/1jUuRNEIHITr1xecjeG5So) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Dancehall Hero Raw: Deluxe](https://open.spotify.com/album/3XROPn9zW3o0RnwkZCCEbs) | 2:17 |
 | 81 | [Sha La La \(Sunday Mawnin\)](https://open.spotify.com/track/4O4Qe2u31BEqwggZBwYxmw) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Sha La La \(Sunday Mawnin\)](https://open.spotify.com/album/3L0dENcGOMZcR67uhWwPNq) | 2:36 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 90 | [Waistline](https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Waistline](https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR) | 2:46 |
 | 91 | [Gal A Bubble](https://open.spotify.com/track/3Ib4YrvFEug9vY4JaCmBBw) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Strictly The Best Vol\. 51](https://open.spotify.com/album/6EFR4aXlC8CtacHf30uOnH) | 3:31 |
 | 92 | [Ganja Farmer](https://open.spotify.com/track/4IPQwZBtK0B2DabP0rQvV0) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/6vCafqC9POiyyLxqC4kdpf) | 3:56 |
-| 93 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
-| 94 | [Rum & RedBull](https://open.spotify.com/track/2J49g2pq8WG0PP6m2GtzKU) | [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Future Fambo](https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI) | [One Day Riddim](https://open.spotify.com/album/42WPGk6CaSkXm0iDBnRzGM) | 2:15 |
-| 95 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
-| 96 | [Beautiful](https://open.spotify.com/track/5tLDX5Z50VZAvga5695enB) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 4:47 |
+| 93 | [Rum & RedBull](https://open.spotify.com/track/2J49g2pq8WG0PP6m2GtzKU) | [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Future Fambo](https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI) | [One Day Riddim](https://open.spotify.com/album/42WPGk6CaSkXm0iDBnRzGM) | 2:15 |
+| 94 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
+| 95 | [Beautiful](https://open.spotify.com/track/5tLDX5Z50VZAvga5695enB) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 4:47 |
+| 96 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
 | 97 | [Verified Choppa 2](https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE) | 2:19 |
 | 98 | [Owner](https://open.spotify.com/track/0bkZbg5Z3z40tGMOqemCAX) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Intro](https://open.spotify.com/album/7IDpOUPZyWt5bLFSC1WOdR) | 3:23 |
 | 99 | [Missing You](https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Missing You](https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9) | 3:22 |
 | 100 | [Settle Down \(Destiny\)](https://open.spotify.com/track/3No90yqhFHg1vcFCHrCR6b) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/5wqSokkE06joXVP6Pe3tlf) | 3:09 |
 
-Snapshot ID: `MCwwNTdmYmQwMzEwYWY2NDI4MjhiOTNlMTBmNDVhZjY1OWNhMGJjZDI4`
+Snapshot ID: `MCw0ZGYzNTQ2NDMyOTcwYmRhZjE0OTRkM2ZkYjdmNmYzOTdjMTJmOWI3`

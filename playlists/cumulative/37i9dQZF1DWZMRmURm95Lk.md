@@ -2,9 +2,9 @@
 
 ### [Radici Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWZMRmURm95Lk)
 
-> Beat e rime, oggi come una volta\. Cor Veleno e Fabri Fibra in cover.
+> Beat e rime, oggi come una volta\. Claver Gold in cover.
 
-373 songs - 21 hr 34 min
+374 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Momenti no](https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Mr\. Simpatia](https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf) | 4:19 | 2022-05-05 |  |
 | [Mondo Marcio Gue Pequeno \(feat\. Guè\) \- 2022 Remastered](https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Fuori di qua! \(Stories\) \[2022 Remastered\]](https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn) | 2:39 | 2022-05-05 | 2022-07-28 |
 | [My Bad](https://open.spotify.com/track/5tq1fOs4kZnsdGzcrsx8DN) | [Do Your Thang](https://open.spotify.com/artist/1LVuRp8vSEFxSsqs3ANToC), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Jekesa](https://open.spotify.com/artist/54D1PV1ggY7IvVLQK04YBx), [Penny](https://open.spotify.com/artist/7HYg9A4AHw2p4FVmWs37oM), [Rubber Soul](https://open.spotify.com/artist/4Lt9Xk37qXJD96hRCxOfrT), [Alan Beez](https://open.spotify.com/artist/0byxUVCLvKGmlJnX8c3jUp), [Dj Dibba](https://open.spotify.com/artist/3aU3YBlS9lXzeAVmCxfgUa), [Benjamin Ventura](https://open.spotify.com/artist/311eLcQf3m45gs1sYUxKNc) | [My Bad](https://open.spotify.com/album/2lbw1UhnNbogs7OGGvhCjK) | 3:14 | 2022-05-30 |  |
+| [Nak Su Kao \- Parte 2 \- Domo Version](https://open.spotify.com/track/6Pm7BmNjPZUKq2CCee34Ub) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Questo non è un cane / Domo](https://open.spotify.com/album/0oVlowAcydHpJvAaR3jVUK) | 2:59 | 2024-04-04 |  |
 | [Narciso \(feat\. Murubutu\)](https://open.spotify.com/track/4iKdzpTULRZUTtuyTUpLYP) | [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK), [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri) | [Riproduzione Vietata](https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0) | 2:43 | 2022-05-05 |  |
 | [Natura](https://open.spotify.com/track/5ebE6c9KKiOgI4iF40AraF) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz), [Dj Double S](https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0), [Samuel](https://open.spotify.com/artist/0zcmS7osRfOk8EJpwUvQFr) | [Natura](https://open.spotify.com/album/5974A4vRIsQbMMx6xLzbZL) | 4:20 | 2023-03-23 | 2023-05-13 |
 | [Ne Parlero' Con Te](https://open.spotify.com/track/4eHz63b9Wus5sRtErW3HG0) | [Ape](https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM) | [Generazione Di Sconvolti](https://open.spotify.com/album/79jJoqnwIm7NuDGFpvK0dV) | 3:21 | 2022-05-05 | 2022-08-19 |
@@ -255,7 +256,7 @@
 | [Pallottole Sull'Amore \(feat\. Fabri Fibra\)](https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz) | [Cor Veleno](https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Pallottole Sull’Amore \(feat\. Fabri Fibra\)](https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX) | 3:55 | 2024-02-29 |  |
 | [Panico](https://open.spotify.com/track/0q8XaTJ1MzlEb9q7YdStT1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Guerra E Pace](https://open.spotify.com/album/3p3zyxP3IBd0KNYNopjXBE) | 4:13 | 2022-07-28 |  |
 | [Parla piano](https://open.spotify.com/track/37IHphajTmd27MDLG76zEd) | [DJ Fastcut](https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Dead Poets 3 \- Maledetti](https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74) | 3:07 | 2022-05-05 |  |
-| [Parole](https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN) | [Mistaman](https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q) | [Parole](https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37) | 3:49 | 2022-05-12 |  |
+| [Parole](https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN) | [Mistaman](https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q) | [Parole](https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37) | 3:49 | 2022-05-12 | 2024-04-05 |
 | [Per tutti](https://open.spotify.com/track/6ohpYadq50CPaaOjlf2kZ2) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz) | [Per tutti](https://open.spotify.com/album/2DiVJmLYqja74At96xDHqJ) | 2:49 | 2023-03-30 | 2023-04-28 |
 | [Petra.](https://open.spotify.com/track/48xtEcLKPcXlYdlPZJTeVs) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [Petra.](https://open.spotify.com/album/5cRhODEj0eIKDJXsHp1D4O) | 2:45 | 2022-12-01 | 2023-02-03 |
 | [Pezzi sparsi](https://open.spotify.com/track/1ps5LD9MCffeLAaneaVQDG) | [Eclectic Witches](https://open.spotify.com/artist/0FBrNrWKtC3WZgCsuckZR2), [LoneWolf](https://open.spotify.com/artist/09XnkGwE0de4hKvHdllajf), [O.K.O\. project](https://open.spotify.com/artist/744ECJgeEifVhZKD7dDs4w) | [Pezzi sparsi](https://open.spotify.com/album/4C212s6Y6mmROehhc9am5N) | 4:27 | 2022-05-12 | 2022-06-01 |

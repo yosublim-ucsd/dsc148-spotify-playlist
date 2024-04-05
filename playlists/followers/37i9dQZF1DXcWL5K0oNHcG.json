@@ -1,7 +1,7 @@
 {
-  "2024-04-04": 212844,
+  "2024-04-05": 212939,
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Amy Gadiaga. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: CHERISE. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 306714,
       "name": "All Black Everything",
       "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
@@ -3217,6 +3217,24 @@
       "duration_ms": 197404,
       "name": "Bow\u2019s Wallet",
       "url": "https://open.spotify.com/track/1Sh7myERP5ngnBX9oGt0do"
+    },
+    {
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/5AwxyJ0KmVm17VWaH1Hybu"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174845,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/7HQ1uP9ljzPXe6qgaOlFgc"
     },
     {
       "album": {
@@ -7023,7 +7041,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 886000,
       "name": "East of the Sun (and West of the Moon)",
       "url": "https://open.spotify.com/track/5knJnLBXWm95ak1RqTPuPl"
@@ -7865,6 +7883,24 @@
       "duration_ms": 191086,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/5PpgLFcIbRWLsGygOSfk17"
+    },
+    {
+      "album": {
+        "name": "Fallibility",
+        "url": "https://open.spotify.com/album/7tk8ecwkfKn18GFanZvQI7"
+      },
+      "artists": [
+        {
+          "name": "Skyline Sun",
+          "url": "https://open.spotify.com/artist/3YykFJnJFIwelwHGAO0Jkv"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310735,
+      "name": "Fallibility",
+      "url": "https://open.spotify.com/track/0dnO0pQ1qJDjbzdW0Z5vjs"
     },
     {
       "album": {
@@ -10334,6 +10370,24 @@
     },
     {
       "album": {
+        "name": "How Can I Possibly Sleep When There is Music (a response to Ry\u014dkan Taigu)",
+        "url": "https://open.spotify.com/album/5Rj7bCsZ45HjnhRMTO4u6W"
+      },
+      "artists": [
+        {
+          "name": "Luka Kuplowsky",
+          "url": "https://open.spotify.com/artist/3WoJfG2qjHZ9Q96yFMQ8FE"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155424,
+      "name": "How Can I Possibly Sleep When There is Music (a response to Ry\u014dkan Taigu)",
+      "url": "https://open.spotify.com/track/4R2dwDKUHVR8SGcm4HIrGB"
+    },
+    {
+      "album": {
         "name": "2061",
         "url": "https://open.spotify.com/album/7kb0q7cY1Fanry5qXOIhWi"
       },
@@ -11543,7 +11597,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 421578,
       "name": "Invers\u00f5es",
       "url": "https://open.spotify.com/track/4KdsvKrGgZJXdfIgPlnglg"
@@ -12832,6 +12886,24 @@
     },
     {
       "album": {
+        "name": "La Boca",
+        "url": "https://open.spotify.com/album/2hwN5B43dGW2dyClZameUC"
+      },
+      "artists": [
+        {
+          "name": "Anthony Bruno",
+          "url": "https://open.spotify.com/artist/1xHTfW0mULQmn6CM9f2wvN"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411800,
+      "name": "La Boca",
+      "url": "https://open.spotify.com/track/2a56hT2gM0f76Dhj6iYwiN"
+    },
+    {
+      "album": {
         "name": "La Jungla",
         "url": "https://open.spotify.com/album/6ILv7tQIYKuicDal4wnw8X"
       },
@@ -14044,6 +14116,60 @@
     },
     {
       "album": {
+        "name": "LUA",
+        "url": "https://open.spotify.com/album/3BSlZ8TJHd7PjFhjBGdErn"
+      },
+      "artists": [
+        {
+          "name": "Filipe Rosset",
+          "url": "https://open.spotify.com/artist/35w950duS41GbEsWV2DQEq"
+        },
+        {
+          "name": "benjamin francis",
+          "url": "https://open.spotify.com/artist/77orLdlSeYbDKQwXPbXQMB"
+        },
+        {
+          "name": "Noah Denton",
+          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
+        },
+        {
+          "name": "phonon",
+          "url": "https://open.spotify.com/artist/4CySw3P8BeBPMBr9Rymc8Y"
+        },
+        {
+          "name": "David Binney",
+          "url": "https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf"
+        },
+        {
+          "name": "Israel Strom",
+          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
+        },
+        {
+          "name": "Dave Eggar",
+          "url": "https://open.spotify.com/artist/76H3P1c4PIomESKq0JDiLn"
+        },
+        {
+          "name": "Michael Wang",
+          "url": "https://open.spotify.com/artist/5WBi8jHnllY29gnOGltewV"
+        },
+        {
+          "name": "Ben Sutin",
+          "url": "https://open.spotify.com/artist/5U6QYt1Lx7JNVbeg2zkgdz"
+        },
+        {
+          "name": "Dan Hitchcock",
+          "url": "https://open.spotify.com/artist/2PsETi89TqApSKLwVY50mq"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351283,
+      "name": "LUA",
+      "url": "https://open.spotify.com/track/327ApgUIoKw0KAe9CSmJzY"
+    },
+    {
+      "album": {
         "name": "Callisto",
         "url": "https://open.spotify.com/album/3H3grs4rYynO2osDOZbT55"
       },
@@ -14410,6 +14536,24 @@
     },
     {
       "album": {
+        "name": "Small Variations from the Previous Day",
+        "url": "https://open.spotify.com/album/4f4XeLb2E2IMw4O2UPP76h"
+      },
+      "artists": [
+        {
+          "name": "Louis Matute",
+          "url": "https://open.spotify.com/artist/29W139vCxg27ll23aYZ9u7"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192826,
+      "name": "Marcovaldo",
+      "url": "https://open.spotify.com/track/5Lom5Jdjtfe45AJZywRjNi"
+    },
+    {
+      "album": {
         "name": "Marshland IV - Rays",
         "url": "https://open.spotify.com/album/734QCAnoqrOPCbxUCHBmyT"
       },
@@ -14583,7 +14727,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 262956,
       "name": "Meanderings - Trio Version",
       "url": "https://open.spotify.com/track/05DtZ7RYPPB9enBHPrEM9a"
@@ -15439,7 +15583,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 382224,
       "name": "moon",
       "url": "https://open.spotify.com/track/6C555aOjhaqhPrJj0puPxZ"
@@ -20059,10 +20203,28 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 409000,
       "name": "S.Y.P.T. (Show Your PentaTonic)",
       "url": "https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4"
+    },
+    {
+      "album": {
+        "name": "SABIO",
+        "url": "https://open.spotify.com/album/7McR20l5PMDLgg6GGJBi8W"
+      },
+      "artists": [
+        {
+          "name": "Jorj Sabio",
+          "url": "https://open.spotify.com/artist/39b2ZUCY5oOcDQFFkwbrKs"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265070,
+      "name": "SABIO",
+      "url": "https://open.spotify.com/track/013LmCJbycdHLFylzgKwhQ"
     },
     {
       "album": {
@@ -20743,7 +20905,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 238573,
       "name": "She's A Rose",
       "url": "https://open.spotify.com/track/0VRICfiGMTS9RPnzpxoJ9Z"
@@ -22096,6 +22258,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/3S7farIQSVSidIFbURbl8M"
+      },
+      "artists": [
+        {
+          "name": "Julieta Eugenio",
+          "url": "https://open.spotify.com/artist/3H7h1KgR3buzLFKHRSQN45"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460946,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/20UgP0t6d6MPeex3FvgV9f"
+    },
+    {
+      "album": {
         "name": "Stealing Me",
         "url": "https://open.spotify.com/album/48iEiXUl3N5g9FID6DVBcC"
       },
@@ -22649,7 +22829,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 435280,
       "name": "Sun Streak",
       "url": "https://open.spotify.com/track/0g82AK31NDtvkFpsE50hY8"
@@ -23844,6 +24024,24 @@
     },
     {
       "album": {
+        "name": "Plays",
+        "url": "https://open.spotify.com/album/0dDBTho3KpdknTeHgfOgS0"
+      },
+      "artists": [
+        {
+          "name": "Nicole Glover",
+          "url": "https://open.spotify.com/artist/3b45vGS2YWLMEzUE0R5PhT"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287226,
+      "name": "The Fox",
+      "url": "https://open.spotify.com/track/2ONZE0FG9CkmclhyXtsa2s"
+    },
+    {
+      "album": {
         "name": "The Girl In Blue",
         "url": "https://open.spotify.com/album/0iFtgw3EYygAbNEXMpsk3E"
       },
@@ -24963,7 +25161,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 309268,
       "name": "This Is Her",
       "url": "https://open.spotify.com/track/7cagPtRRpRZgRJHCtF5wfs"
@@ -25843,7 +26041,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 387798,
       "name": "T\u00edlia",
       "url": "https://open.spotify.com/track/3B656MJNdDYPCOF3zhiKvS"

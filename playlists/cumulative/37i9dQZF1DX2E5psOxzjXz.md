@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Hasan Raheem
 
-257 songs - 14 hr 36 min
+258 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Laapata \(Original Soundtrack\)](https://open.spotify.com/track/4ItcLqYlyYMwZ1KfR8hwba) | [Farhan Zameer](https://open.spotify.com/artist/1z31jJSEmPHMhysFHbU2e7), [Kiran Waseem](https://open.spotify.com/artist/73EU1Zz0Vx2STSyTgp41BX), [Tehseen W\. Chishty](https://open.spotify.com/artist/3SJUvKLk5mtpNUhmG3M7nQ) | [Laapata \(Original Soundtrack\)](https://open.spotify.com/album/405NorynkVpd9emhYHBf20) | 5:07 | 2021-12-06 | 2022-06-17 |
 | [Lagda Nahi](https://open.spotify.com/track/3Kyi9o0PACXBCiwbZ4t65u) | [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [Ammy Gill](https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z) | [Lagda Nahi](https://open.spotify.com/album/5AO0SVvnvElqp8ofy2FLKP) | 3:10 | 2023-11-29 |  |
 | [Laiyan](https://open.spotify.com/track/2l7Z6J3b0wpohKqmNfASdC) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Laiyan](https://open.spotify.com/album/7sunQsnhjmkVyPKQZsjJDy) | 3:13 | 2022-09-26 | 2022-11-24 |
-| [Lamha](https://open.spotify.com/track/2dCrvLPU36Iv8p7Tq1Vy6V) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7) | [Chaar Dinon Ka Khwaab](https://open.spotify.com/album/72qKpOx8VNdYxZriGFnBnz) | 4:48 | 2023-04-07 |  |
+| [Lamha](https://open.spotify.com/track/2dCrvLPU36Iv8p7Tq1Vy6V) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7) | [Chaar Dinon Ka Khwaab](https://open.spotify.com/album/72qKpOx8VNdYxZriGFnBnz) | 4:48 | 2023-04-07 | 2024-04-05 |
+| [Lamha](https://open.spotify.com/track/3FI4xMdyLRTTEcmxl17cEn) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7) | [Chaar Dinon Ka Khwaab](https://open.spotify.com/album/6nV3b2qvy5aAk33JoVrvHu) | 4:48 | 2024-02-23 |  |
 | [LIGHTSPEED](https://open.spotify.com/track/7acZeCG01zFILBoZkpwUAg) | [Hashir](https://open.spotify.com/artist/3daREed4KlrtvohgJjSkJr) | [LIGHTSPEED](https://open.spotify.com/album/67qPextXnvkGy0kjEq14Uo) | 2:30 | 2021-12-06 | 2022-06-11 |
 | [Long time no see](https://open.spotify.com/track/6V4N3h4HYD1Ask9cUTxjjg) | [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi), [Raffey Anwar](https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD), [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Long time no see](https://open.spotify.com/album/5qBulMP2DP48SEyNwsXY79) | 3:38 | 2023-11-29 |  |
 | [lost](https://open.spotify.com/track/0R7rIsxEpTq1V0vqniFXzr) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [lost](https://open.spotify.com/album/2HWfMyHEtgfQ0Aug0qFq5g) | 3:11 | 2021-12-06 | 2023-04-09 |

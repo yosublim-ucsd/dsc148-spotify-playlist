@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 114248,
+  "num_followers": 114267,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGUxNDQzMzI4NmI0NjRkMDlmYjhhNDcxMjRjZTI5MjM4ZTc4N2Vl",
+  "snapshot_id": "MCxjYmYzNTI3Zjc2MjUzYjI4MzM1M2IzNTBiMDQ5ZTQ0ODczMmMxOTZj",
   "tracks": [
     {
       "added_at": null,
@@ -595,30 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quality Control: Control The Streets Volume 1",
-        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
+        "name": "Big Grim Reaper: The Return",
+        "url": "https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut"
       },
       "artists": [
         {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Big Scarr",
+          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
         },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 145188,
-      "name": "Menace",
-      "url": "https://open.spotify.com/track/0CjHqLvr4EdjBJ0XiKtbCI"
+      "duration_ms": 202783,
+      "name": "Fantasy (feat. Offset)",
+      "url": "https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM"
     },
     {
       "added_at": null,
@@ -643,22 +635,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Grim Reaper: The Return",
-        "url": "https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut"
+        "name": "Quality Control: Control The Streets Volume 1",
+        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
       "artists": [
         {
-          "name": "Big Scarr",
-          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 202783,
-      "name": "Fantasy (feat. Offset)",
-      "url": "https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM"
+      "duration_ms": 145188,
+      "name": "Menace",
+      "url": "https://open.spotify.com/track/0CjHqLvr4EdjBJ0XiKtbCI"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby On Baby",
-        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 157693,
-      "name": "Baby Sitter (feat. Offset)",
-      "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RICH YOUNGIN",
         "url": "https://open.spotify.com/album/3o5M2OXfUVRsUFrd7u4a5K"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 188106,
       "name": "UP THE SMOKE (with Offset)",
       "url": "https://open.spotify.com/track/3faAAUxohrxqYhPlneZ3XV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 157693,
+      "name": "Baby Sitter (feat. Offset)",
+      "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
     },
     {
       "added_at": null,
@@ -1031,30 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Gone Wild",
-        "url": "https://open.spotify.com/album/6As7lrex6rWK9Drjj88pAJ"
-      },
-      "artists": [
-        {
-          "name": "Mike G",
-          "url": "https://open.spotify.com/artist/3VB8y1z7TlJIzklaN3mJ1m"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Girls Gone Wild",
-      "url": "https://open.spotify.com/track/2D7diy0xyUWvXZCQGoTqNu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plug Talk",
         "url": "https://open.spotify.com/album/77QaRhETtj1oS39f6bbfOa"
       },
@@ -1079,26 +1055,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SLOPES",
-        "url": "https://open.spotify.com/album/76WH6EAud79m7bFx5CfDyJ"
+        "name": "Girls Gone Wild",
+        "url": "https://open.spotify.com/album/6As7lrex6rWK9Drjj88pAJ"
       },
       "artists": [
         {
-          "name": "1999 WRITE THE FUTURE",
-          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/3VB8y1z7TlJIzklaN3mJ1m"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
         },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Warren Hue",
-          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
         }
       ],
-      "duration_ms": 162077,
-      "name": "SLOPES",
-      "url": "https://open.spotify.com/track/6d9toX1QCK6w2eIagLm8fa"
+      "duration_ms": 168000,
+      "name": "Girls Gone Wild",
+      "url": "https://open.spotify.com/track/2D7diy0xyUWvXZCQGoTqNu"
     },
     {
       "added_at": null,
@@ -1127,6 +1103,30 @@
       "duration_ms": 315973,
       "name": "Guwop (feat. Quavo, Offset and Young Scooter)",
       "url": "https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SLOPES",
+        "url": "https://open.spotify.com/album/76WH6EAud79m7bFx5CfDyJ"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "duration_ms": 162077,
+      "name": "SLOPES",
+      "url": "https://open.spotify.com/track/6d9toX1QCK6w2eIagLm8fa"
     }
   ],
   "unique_name": "This Is Offset",

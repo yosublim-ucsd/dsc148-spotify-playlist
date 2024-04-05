@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 140319,
+  "num_followers": 140335,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDU1N2NjOGQxMDcyNzZhYWEzOGI3YTNmYzBiNDk5YjM3NmRlNmE1",
+  "snapshot_id": "MCw2ZTJiNTE3YzUzNGMyYjZmNTVkOTNkZmY2ODk4ZWI5OWFhNjg0Y2I1",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:30",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "2nd Time Around (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 190058,
-      "name": "It's A Shame",
-      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Lioness: Hidden Treasures",
         "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 169373,
       "name": "Our Day Will Come",
       "url": "https://open.spotify.com/track/4NDpn6yfD5aqafYWFEaJDz"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "2nd Time Around (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 190058,
+      "name": "It's A Shame",
+      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Capitol Gold: The Best Of Minnie Riperton",
+        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Inside My Love - Remastered 1993",
+      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Everything Is Everything",
         "url": "https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh"
       },
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Capitol Gold: The Best Of Minnie Riperton",
-        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Inside My Love - Remastered 1993",
-      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Remember the Rain",
         "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
       },
@@ -1519,22 +1519,6 @@
       "duration_ms": 280062,
       "name": "Remember the Rain",
       "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 429371,
-      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
-      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 429371,
+      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Tell It Like It Is - The Par Lo Years",
         "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Essentials: Ruth Brown",
-        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Essentials: Bloodstone",
         "url": "https://open.spotify.com/album/40itH1o9OXNvjVjendp50L"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 249093,
       "name": "Natural High - Single Version",
       "url": "https://open.spotify.com/track/73etijhz7pV4Wx7GTANLpq"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Essentials: Ruth Brown",
+        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Nothing Can Come Between Us",
-      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Irma Thomas Collection: 1961-1966",
         "url": "https://open.spotify.com/album/3MhMYjRhAkiZ9F4GDkcpuy"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 159733,
       "name": "Ruler Of My Heart",
       "url": "https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Nothing Can Come Between Us",
+      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 265186,
-      "name": "The Sweetest Taboo - Remastered",
-      "url": "https://open.spotify.com/track/5SRvh35HZmN5bNe8iT4ST5"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 203760,
       "name": "Harlem",
       "url": "https://open.spotify.com/track/6JumfGk4f9E5KLT086I75s"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 265186,
+      "name": "The Sweetest Taboo - Remastered",
+      "url": "https://open.spotify.com/track/5SRvh35HZmN5bNe8iT4ST5"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
-      },
-      "artists": [
-        {
-          "name": "Barbara Acklin",
-          "url": "https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Am I The Same Girl",
-      "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Very Best of Aretha Franklin - The 70's",
         "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 333933,
       "name": "Bridge over Troubled Water",
       "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
+      },
+      "artists": [
+        {
+          "name": "Barbara Acklin",
+          "url": "https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Am I The Same Girl",
+      "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Just Being Myself",
-        "url": "https://open.spotify.com/album/4Pusa4MZ3mEmXKOOWE9nFs"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "You're Gonna Need Me",
-      "url": "https://open.spotify.com/track/5ezYm2LkW25YhkkTp7bC9u"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Take Me To The Alley",
         "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 254893,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Just Being Myself",
+        "url": "https://open.spotify.com/album/4Pusa4MZ3mEmXKOOWE9nFs"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 270200,
+      "name": "You're Gonna Need Me",
+      "url": "https://open.spotify.com/track/5ezYm2LkW25YhkkTp7bC9u"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Liquid Spirit (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 235573,
+      "name": "No Love Dying",
+      "url": "https://open.spotify.com/track/03BN4IvMyiT9OEDJv2fH5n"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "The Essential Bill Withers",
         "url": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
       },
@@ -2367,22 +2383,6 @@
       "duration_ms": 258912,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/6aarvZBVzYo3sp4NYOBqCp"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Liquid Spirit (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 235573,
-      "name": "No Love Dying",
-      "url": "https://open.spotify.com/track/03BN4IvMyiT9OEDJv2fH5n"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2767,22 +2767,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
-        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Body Heat",
         "url": "https://open.spotify.com/album/3lvSxvMmdUz694tDBXkPmv"
       },
@@ -2795,6 +2779,22 @@
       "duration_ms": 238866,
       "name": "Body Heat",
       "url": "https://open.spotify.com/track/0OLOcKHN4uXRo5ISx2TAqk"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
+        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
     },
     {
       "added_at": "2023-08-15 12:19:30",

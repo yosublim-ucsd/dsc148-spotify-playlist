@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "Cowboy In A Escalade (Spotify OUTSIDE Version) [Live From West Columbia, TX]",
+        "url": "https://open.spotify.com/album/4QsqH6RBbMl6OgB47gRc1t"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122017,
+      "name": "Cowboy In An Escalade (Spotify OUTSIDE Version) - Live From West Columbia, TX",
+      "url": "https://open.spotify.com/track/1w35Va648auSiXaTgimWj0"
+    },
+    {
+      "album": {
         "name": "young forever",
         "url": "https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn"
       },

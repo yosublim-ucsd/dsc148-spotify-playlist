@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: SunSquabi
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,808 likes - 100 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,829 likes - 100 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `MCxiYWE0NjE0MzdhYWY3Nzk5YmJlMzFiZTc5ZTI5OWFkZDVlOWE1MzAz`
+Snapshot ID: `MCw0Y2YzYjAzYzg4ZDZjYmE3NDg2YjY1YTE0YzNjMTJkMzRiYTcxZjIz`

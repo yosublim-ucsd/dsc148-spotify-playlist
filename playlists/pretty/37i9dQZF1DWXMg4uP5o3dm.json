@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Artemas",
-  "num_followers": 477971,
+  "num_followers": 478059,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTJkODdhNDNlM2I5ZWUzZDU4NWI1Yjc0NjE1NmM3ZjAwNjJhY2Ez",
+  "snapshot_id": "MCxiZDBkYzYyMmExM2MyNDcxMDY0MWM2YTkzNTMxYjQwODliMDdkZTY1",
   "tracks": [
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Armatron",
-        "url": "https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 252603,
-      "name": "Armatron",
-      "url": "https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 171428,
       "name": "Crown",
       "url": "https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Armatron",
+        "url": "https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 252603,
+      "name": "Armatron",
+      "url": "https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Knockoff",
-        "url": "https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n"
+        "name": "flowers",
+        "url": "https://open.spotify.com/album/10dsPoEePt3UB4WWR2N2Oz"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
         }
       ],
-      "duration_ms": 184518,
-      "name": "Knockoff",
-      "url": "https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl"
+      "duration_ms": 161322,
+      "name": "flowers",
+      "url": "https://open.spotify.com/track/4SBECfkTJOnZFj9A8gzUQy"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "flowers",
-        "url": "https://open.spotify.com/album/10dsPoEePt3UB4WWR2N2Oz"
+        "name": "Knockoff",
+        "url": "https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n"
       },
       "artists": [
         {
-          "name": "phem",
-          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 161322,
-      "name": "flowers",
-      "url": "https://open.spotify.com/track/4SBECfkTJOnZFj9A8gzUQy"
+      "duration_ms": 184518,
+      "name": "Knockoff",
+      "url": "https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy"
+      },
+      "artists": [
+        {
+          "name": "Sir Sly",
+          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+        }
+      ],
+      "duration_ms": 131440,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/5GbK9am1svakX356ltRPcm"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "Freefall (feat. Oliver Tree)",
         "url": "https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 155498,
       "name": "Freefall (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy"
-      },
-      "artists": [
-        {
-          "name": "Sir Sly",
-          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
-        }
-      ],
-      "duration_ms": 131440,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/5GbK9am1svakX356ltRPcm"
     },
     {
       "added_at": "2024-03-22 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:23xFbA9rYgRX8mreqysWPc">Bossman Dlow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,771,828 likes - 99 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,771,832 likes - 99 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [Dat Business](https://open.spotify.com/track/3OcGYX2gjvVTcU3OVCE9iZ) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Yes, I'm Sad](https://open.spotify.com/album/1sNFQJdjahycBFQrPVW2RN) | 2:00 |
 | 99 | [On Lock](https://open.spotify.com/track/3tuAivyXRWOKC1UVKwDQ21) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [On Lock](https://open.spotify.com/album/7qW1pB3ePK1R2QPuYIatov) | 2:00 |
 
-Snapshot ID: `MCw0NDVlZWM1OGRmMTdmZjliOGExYTUxZTNiNzZmNjQ4YWZjNjAwZjI1`
+Snapshot ID: `MCw0ODlkZjU2ZDRjMmZjOGY0MzE3ZDllZmQzYTFiOTdlMjBhM2FiMmQ3`

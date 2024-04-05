@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xEyyndYk10.md) - [plain]
 
 > Que la calle te acompañe al conducir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,675 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,768 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xEyyndYk10.md) - [plain]
 | 36 | [Bombos y Tarolas](https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Sincopa](https://open.spotify.com/album/4u16vv7jUXm8XTdvd2szGH) | 4:52 |
 | 37 | [No Hay Manera](https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM) | 4:03 |
 | 38 | [Quiúboles Que](https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Quiúboles Que!](https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK) | 3:41 |
-| 39 | [hARAkiRi](https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [hARAkiRi](https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D) | 2:49 |
+| 39 | [Me Gusta Lo Simple](https://open.spotify.com/track/3VJSv1RoYiCY4ECGyDO7ry) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 3:16 |
 | 40 | [Ando Al Millón](https://open.spotify.com/track/5CCmSrzQUFq6rvRQ7XyDY9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Ando Al Millón](https://open.spotify.com/album/29bVXHNrBMnTNXBkEMRVWn) | 3:55 |
 | 41 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 |
 | 42 | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/track/4ggrH4V2eKpf2xDfHMuRrq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/album/44MB3M5UPDawANWNBaauw0) | 2:53 |
 | 43 | [Vaya Vaya](https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vaya Vaya](https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE) | 3:05 |
 | 44 | [Cómo Diamante](https://open.spotify.com/track/76j6ISLdqxSKJBNGLL0fPb) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Akasha](https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [Humo en la Trampa 3](https://open.spotify.com/album/52pj5NqKKtffjSmxvMzhlY) | 3:27 |
-| 45 | [Me Gusta Lo Simple](https://open.spotify.com/track/3VJSv1RoYiCY4ECGyDO7ry) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 3:16 |
+| 45 | [hARAkiRi](https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [hARAkiRi](https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D) | 2:49 |
 | 46 | [Desvielados](https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [BeeJay](https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ) | [IceWeed\-Man](https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8) | 4:12 |
 | 47 | [Tío Rico](https://open.spotify.com/track/34tjVFScQh1ppmiAYGGq32) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Tío Rico](https://open.spotify.com/album/5tEe1EwA2IOzNrYiy2eFT6) | 3:20 |
 | 48 | [En La Nube](https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [En La Nube](https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V) | 3:32 |
 | 49 | [Liga Malandra 2](https://open.spotify.com/track/0cthSQfXnR3JOCOg0CfX0B) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb), [Unex Msc](https://open.spotify.com/artist/1xVkmToVzWDqpPAVBmf7MX) | [Liga Malandra 2](https://open.spotify.com/album/46phNOwy2WSnRWYvOBzjTZ) | 4:00 |
 | 50 | [Mar y Tierra](https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mar y Tierra](https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w) | 3:05 |
 
-Snapshot ID: `MCxlZmU1NTM1ZGFjNTFmOTM4YjhkYjFlY2Y4NTVjNmZlY2RmODAwMTgy`
+Snapshot ID: `MCw0Y2U3MDc5NTI4NDQ5NjcxYmVkMDJmMzg4OWFlOGRjZTc4ZmVjNGI1`

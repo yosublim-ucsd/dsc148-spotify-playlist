@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,591 songs - 3 day 10 hr 47 min
+1,592 songs - 3 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -923,7 +923,7 @@
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-07 | 2021-11-14 |
 | [Magi \- fra Kristiania Magiske Tivolitheater](https://open.spotify.com/track/60sMfMRKuq42HIcjCDYhM3) | [Sebastian Zalo](https://open.spotify.com/artist/5CGn9wJhdFhjB3DoU7LHX0) | [Magi \(fra Kristiania Magiske Tivolitheater\)](https://open.spotify.com/album/4E2YxIRzJb6CPhhHerzb5g) | 2:34 | 2021-12-14 | 2021-12-30 |
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-05 | 2022-11-13 |
-| [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-03-12 |  |
+| [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-03-12 | 2024-04-05 |
 | [making the bed](https://open.spotify.com/track/5CscrLqFBgPfZR8fGtikov) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:18 | 2023-09-13 | 2023-09-17 |
 | [Mama](https://open.spotify.com/track/774f2Kn00cBgYObzXGEHbx) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Mama](https://open.spotify.com/album/7IELyzUSjtZ8BRFXXsvvPO) | 2:15 | 2023-01-21 | 2023-02-05 |
 | [Mamma sa](https://open.spotify.com/track/5s3kEIMzzFcowY4BCsK6gk) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [ZeroLove](https://open.spotify.com/album/6ktd8kt6ofHfo9RGMzoFHO) | 2:48 | 2022-04-02 | 2022-04-04 |
@@ -1274,6 +1274,7 @@
 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-26 | 2023-09-10 |
 | [SIPPER](https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [SIPPER](https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x) | 2:15 | 2023-04-15 | 2023-05-14 |
 | [SIRENS](https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:24 | 2023-07-29 | 2023-08-03 |
+| [Situasjon](https://open.spotify.com/track/0CtXW4RHp9WTRDyGEyH6Vn) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Situasjon](https://open.spotify.com/album/1AEsR9r4BOlTqpHCEV4hAp) | 2:12 | 2024-04-04 |  |
 | [Sjanse](https://open.spotify.com/track/3BlC5oQOpIB9F6tsgjAT78) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Sjanse](https://open.spotify.com/album/7DC2fbntLBHzWTjbkDoLxI) | 3:00 | 2023-07-01 | 2023-07-14 |
 | [Sju Fjell](https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Sju Fjell](https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ) | 2:58 | 2021-03-27\* | 2021-10-12 |
 | [Skal ikke gråte](https://open.spotify.com/track/5cUqVMM5kxpkud2kKK7LCi) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Skal ikke gråte](https://open.spotify.com/album/6C9NqMXDFXBFbq8fI3tpFY) | 3:24 | 2023-01-23 | 2023-03-05 |

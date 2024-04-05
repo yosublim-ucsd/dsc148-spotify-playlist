@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 469886,
+  "num_followers": 470046,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzIzNjJlYTY4NWMxYjA2NjI2NWJkMDdmNzlkYzI3Y2IzZDI2OTY0",
+  "snapshot_id": "MCxkMTU2Mjg3OGEzOTY1NGM0MjFkMTIyM2Y0MWQ5MTJlMGFkMDU3YjQ4",
   "tracks": [
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "Emarosa",
+        "url": "https://open.spotify.com/album/0Pe4Z5Sz0d8NJuIFjF7C7R"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "A Toast to the future kids!",
+      "url": "https://open.spotify.com/track/16avQsEDeyH5poyoJ2hyv3"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "Scary Kids Scaring Kids",
         "url": "https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 235640,
       "name": "Guys Like You Make Us Look Bad",
       "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "Emarosa",
-        "url": "https://open.spotify.com/album/0Pe4Z5Sz0d8NJuIFjF7C7R"
-      },
-      "artists": [
-        {
-          "name": "Emarosa",
-          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "A Toast to the future kids!",
-      "url": "https://open.spotify.com/track/16avQsEDeyH5poyoJ2hyv3"
     },
     {
       "added_at": "2023-03-28 16:00:32",

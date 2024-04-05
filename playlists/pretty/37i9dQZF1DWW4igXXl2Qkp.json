@@ -1,12 +1,12 @@
 {
   "description": "The best new hip-hop music by independent artists and labels. Cover: Chris Patrick\n",
-  "num_followers": 237462,
+  "num_followers": 237585,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGQ5YjVhMjViZDQzMzEwMWRhZWMxMjU3MTI0ZmUwMWY5MTFlOTJi",
+  "snapshot_id": "MCxjMjMxOThlODg1YTk3YjAzZTYwMTBhYzk0OWVmYmJkNjQ1NDdjMjMy",
   "tracks": [
     {
       "added_at": "2024-04-03 16:00:00",
@@ -459,6 +459,26 @@
       "duration_ms": 216338,
       "name": "it is what it is",
       "url": "https://open.spotify.com/track/6utwQVdK6GvgDSS5mzjkkq"
+    },
+    {
+      "added_at": "2024-04-03 16:00:00",
+      "album": {
+        "name": "Triple Digits [112]",
+        "url": "https://open.spotify.com/album/37XRzcFMZ91g9TrYKRUpcg"
+      },
+      "artists": [
+        {
+          "name": "RiTchie",
+          "url": "https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z"
+        },
+        {
+          "name": "Niontay",
+          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "How?! (feat. Niontay)",
+      "url": "https://open.spotify.com/track/5IPSlwgpJskSg5i7m2JAmr"
     },
     {
       "added_at": "2024-04-03 16:00:00",

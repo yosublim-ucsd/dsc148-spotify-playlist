@@ -4,7 +4,7 @@
 
 > Indian Indie songs we loved the most in 2023\. Cover \- Mitraz \#SpotifyWrapped
 
-75 songs - 4 hr 13 min
+76 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 | 2023-05-09 |  |
 | [Pal Behta Jaaye](https://open.spotify.com/track/0fIbPMXnTdyuW2UirA9mWQ) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Pal Behta Jaaye](https://open.spotify.com/album/0TGb91XBYJ9BZbFpgyNMjc) | 2:54 | 2023-05-09 |  |
 | [Peace Of Mind](https://open.spotify.com/track/3oMU1p4h2mL2YG6TbRzXOi) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [Notes from Therapy](https://open.spotify.com/album/0FMVEUTTvMBM0Hyo8oldqX) | 3:06 | 2023-05-09 | 2023-11-30 |
-| [Pehli Baarish](https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish](https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww) | 2:37 | 2023-05-09 |  |
+| [Pehli Baarish](https://open.spotify.com/track/7LjntjLognntHjSRC6B9rc) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish](https://open.spotify.com/album/5S0vlS3fgGUEDcdEZIACYr) | 2:37 | 2024-02-27 |  |
+| [Pehli Baarish](https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish](https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww) | 2:37 | 2023-05-09 | 2024-04-05 |
 | [Pink Blue](https://open.spotify.com/track/3dBnKADF2MmLXM9IopV9Bt) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd) | [Pink Blue](https://open.spotify.com/album/0qYhqBhpicb2Kl8oB6YziF) | 3:25 | 2023-05-09 |  |
 | [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 | 2023-05-09 |  |
 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 | 2023-05-09 |  |

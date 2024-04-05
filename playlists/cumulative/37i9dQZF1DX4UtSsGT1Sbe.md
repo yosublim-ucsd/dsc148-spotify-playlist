@@ -2,9 +2,9 @@
 
 ### [All Out 80s](https://open.spotify.com/playlist/37i9dQZF1DX4UtSsGT1Sbe)
 
-> The biggest songs of the 1980s\. Cover: Madonna
+> The biggest songs of the 1980s\. Cover: Bonnie Tyler.
 
-693 songs - 2 day 1 hr 8 min
+694 songs - 2 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Girl You Know It's True](https://open.spotify.com/track/24K5er7fAl8bNeF5H8nMAU) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [Frank Farian \- Summer Hits](https://open.spotify.com/album/1sF1gSmmVfcT8s6m9BWfp7) | 3:17 | 2020-06-12 | 2021-10-14 |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [The Best Of The 80's](https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr) | 3:48 | 2019-05-26\* | 2022-07-29 |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/2zjt2hHBbiv5SuxYg8Z7eP) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 3:58 | 2019-08-27 | 2019-09-21 |
-| [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 | 2020-12-22 |  |
+| [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 | 2020-12-22 | 2024-04-05 |
 | [Girls, Girls, Girls](https://open.spotify.com/track/5xLyTbCFONUGUuG0LtUxjn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z) | 4:30 | 2019-08-26 | 2019-08-27 |
 | [Give It Up](https://open.spotify.com/track/40QPoAAKKMwPms6I6FHJqy) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [The Very Best of KC & the Sunshine Band](https://open.spotify.com/album/7swznakopP5J1aSOzCsalv) | 4:05 | 2019-06-21 | 2020-05-10 |
 | [Give It Up](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [All In a Night's Work \(Expanded Version\)](https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2) | 4:14 | 2020-05-24 | 2022-07-29 |
@@ -404,6 +404,7 @@
 | [Maneater \- Radio Edit](https://open.spotify.com/track/028r3igL3M00VdRCe2Ga7Q) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 4:30 | 2019-06-21 | 2020-05-30 |
 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 | 2022-06-02 | 2023-06-30 |
 | [Maniac](https://open.spotify.com/track/1xPSDf8z4dH46gkvlLtvDO) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance Original Soundtrack From The Motion Picture](https://open.spotify.com/album/5rdy0MyO9GklJMgqfAJOSQ) | 4:04 | 2019-06-06 | 2021-12-28 |
+| [Maniac \- From "Flashdance"](https://open.spotify.com/track/4owSXetN7Yeq8h3ppIPdkF) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [ドライブが楽しくなる洋楽ヒッツ！80年代 HITS](https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD) | 4:06 | 2024-04-04 |  |
 | [Manic Monday](https://open.spotify.com/track/798fUF6UnRn27xiVuKyJCi) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light](https://open.spotify.com/album/4hdp78YnsVLv4Hx5wPXpOp) | 3:04 | 2019-05-26\* | 2022-07-29 |
 | [Manic Monday](https://open.spotify.com/track/7Di7t9yGoxdZRLAt5a4pi0) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light](https://open.spotify.com/album/2ta5ItEJ00a6xgQ601xgSd) | 3:04 | 2020-12-22 | 2020-12-24 |
 | [Maquillaje](https://open.spotify.com/track/3JznYTYT2UXwYqhYCqvTSL) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Mecano](https://open.spotify.com/album/7K1Hg5vLSW39vWYquAXmMm) | 2:32 | 2019-08-26 | 2019-08-27 |

@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 39276,
+  "num_followers": 39305,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGIxNGU2NzkzZDM1ZTFiMTFmYTkxYmRiOTFiNDI1ZDI0MzZhN2Fj",
+  "snapshot_id": "MCxiMWI3OTY5ODYzNGFiYjU2OWUxYTExOGVjMWQ3OTk3MTY2MTFlOGM3",
   "tracks": [
     {
       "added_at": "2024-03-20 14:54:30",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/7yRzVFzD4b5aTWlXsFIm6k"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid",
-          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Beginning",
-      "url": "https://open.spotify.com/track/0LP368Un2yy06i9hLCig9N"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "Fifth Winter",
         "url": "https://open.spotify.com/album/1nE1ClsJHPJzUVwng0TOZw"
       },
@@ -291,22 +275,18 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Pipe Dreams",
-        "url": "https://open.spotify.com/album/1rDxdpTzfIOsPixMN5unj8"
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/7yRzVFzD4b5aTWlXsFIm6k"
       },
       "artists": [
         {
-          "name": "S\u00f8ren Dahl Jeppesen",
-          "url": "https://open.spotify.com/artist/3yrWnykkPPROYEYdfuhJNX"
-        },
-        {
-          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
-          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
+          "name": "Kjetil Mulelid",
+          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
         }
       ],
-      "duration_ms": 290013,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/5f8t87EAUOP4JLHGfvVD9Z"
+      "duration_ms": 278680,
+      "name": "Beginning",
+      "url": "https://open.spotify.com/track/0LP368Un2yy06i9hLCig9N"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -347,6 +327,26 @@
       "duration_ms": 301026,
       "name": "On Stream",
       "url": "https://open.spotify.com/track/6nqhMMxnXbb2kMuh2cNd2L"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Pipe Dreams",
+        "url": "https://open.spotify.com/album/1rDxdpTzfIOsPixMN5unj8"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Dahl Jeppesen",
+          "url": "https://open.spotify.com/artist/3yrWnykkPPROYEYdfuhJNX"
+        },
+        {
+          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
+          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
+        }
+      ],
+      "duration_ms": 290013,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/5f8t87EAUOP4JLHGfvVD9Z"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -399,6 +399,22 @@
       "duration_ms": 352746,
       "name": "Oktoberhavet",
       "url": "https://open.spotify.com/track/3vAJ3gvTKRsXTO6XCbcI6q"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Solid Ether",
+        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Kakonita",
+      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -491,38 +507,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "The Ground",
-        "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "Twins",
-      "url": "https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "Solid Ether",
-        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Kakonita",
-      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "One Kiss Too Many",
         "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 200344,
       "name": "Slaraffenland",
       "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "The Ground",
+        "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "Twins",
+      "url": "https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "V\u00e5g",
-        "url": "https://open.spotify.com/album/0GNHSK2tq55A09aeBqD29o"
-      },
-      "artists": [
-        {
-          "name": "Geir Sundst\u00f8l",
-          "url": "https://open.spotify.com/artist/7mVOcdjvBq2ivxf3nOvWiC"
-        }
-      ],
-      "duration_ms": 311450,
-      "name": "V\u00e5g",
-      "url": "https://open.spotify.com/track/2IxkVTHlGwA5AqHahdfrzV"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "Stitches",
         "url": "https://open.spotify.com/album/4L0UZCIP3EPOnvUs2xa5hF"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 222762,
       "name": "Honey in Your Head",
       "url": "https://open.spotify.com/track/0IHTPYEnrSXADbi3XYDNfB"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "V\u00e5g",
+        "url": "https://open.spotify.com/album/0GNHSK2tq55A09aeBqD29o"
+      },
+      "artists": [
+        {
+          "name": "Geir Sundst\u00f8l",
+          "url": "https://open.spotify.com/artist/7mVOcdjvBq2ivxf3nOvWiC"
+        }
+      ],
+      "duration_ms": 311450,
+      "name": "V\u00e5g",
+      "url": "https://open.spotify.com/track/2IxkVTHlGwA5AqHahdfrzV"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
+        "name": "No City, No Tree, No Lake",
+        "url": "https://open.spotify.com/album/3YtgPusjjcPrOD1CFjt23C"
+      },
+      "artists": [
+        {
+          "name": "Johan Lindvall Trio",
+          "url": "https://open.spotify.com/artist/10s1rJ9RW1wkVbAFZ2PjfI"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Almost Romance",
+      "url": "https://open.spotify.com/track/7oLuklTciOp5P0heQeYqsC"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
         "name": "Touch of Time",
         "url": "https://open.spotify.com/album/3Ywj9EXQW7OsgpP56SLpAa"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 526520,
       "name": "Redream",
       "url": "https://open.spotify.com/track/443EcMPAGpPBVlN9BvzGQ0"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "No City, No Tree, No Lake",
-        "url": "https://open.spotify.com/album/3YtgPusjjcPrOD1CFjt23C"
-      },
-      "artists": [
-        {
-          "name": "Johan Lindvall Trio",
-          "url": "https://open.spotify.com/artist/10s1rJ9RW1wkVbAFZ2PjfI"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Almost Romance",
-      "url": "https://open.spotify.com/track/7oLuklTciOp5P0heQeYqsC"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "The Land That Is Not",
-        "url": "https://open.spotify.com/album/2cuu8fnvSnQdXHS0JmY1Yo"
-      },
-      "artists": [
-        {
-          "name": "Sinikka Langeland",
-          "url": "https://open.spotify.com/artist/4f0jv2Efskq0AdTlziV5nj"
-        }
-      ],
-      "duration_ms": 375653,
-      "name": "Triumph Of Being",
-      "url": "https://open.spotify.com/track/7EgFTTaVEO304Bdqrh65Vb"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "A Fine Line",
         "url": "https://open.spotify.com/album/4EvdavzDE5DxKviRFqM0Fn"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 171093,
       "name": "Leilani",
       "url": "https://open.spotify.com/track/7JFqgygDKJYZpGmoPrXgw2"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "The Land That Is Not",
+        "url": "https://open.spotify.com/album/2cuu8fnvSnQdXHS0JmY1Yo"
+      },
+      "artists": [
+        {
+          "name": "Sinikka Langeland",
+          "url": "https://open.spotify.com/artist/4f0jv2Efskq0AdTlziV5nj"
+        }
+      ],
+      "duration_ms": 375653,
+      "name": "Triumph Of Being",
+      "url": "https://open.spotify.com/track/7EgFTTaVEO304Bdqrh65Vb"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
+        "name": "Perfectly Unhappy",
+        "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        },
+        {
+          "name": "Andy Sheppard",
+          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
+        }
+      ],
+      "duration_ms": 336533,
+      "name": "Naked Trees",
+      "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
         "name": "Reflections and Odysseys",
         "url": "https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf"
       },
@@ -1367,42 +1387,6 @@
       "duration_ms": 285773,
       "name": "How Could It Be?",
       "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "Perfectly Unhappy",
-        "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        },
-        {
-          "name": "Andy Sheppard",
-          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
-        }
-      ],
-      "duration_ms": 336533,
-      "name": "Naked Trees",
-      "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "Landkjenning",
-        "url": "https://open.spotify.com/album/6CzBXM5G2oIYxx004wSohG"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        }
-      ],
-      "duration_ms": 215552,
-      "name": "Landkjenning",
-      "url": "https://open.spotify.com/track/0rwKvhsCGby7GKkk3kDR3P"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1459,22 +1443,18 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Tree House",
-        "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
+        "name": "Landkjenning",
+        "url": "https://open.spotify.com/album/6CzBXM5G2oIYxx004wSohG"
       },
       "artists": [
         {
-          "name": "Trondheim Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
-        },
-        {
-          "name": "Albatrosh",
-          "url": "https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR"
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
         }
       ],
-      "duration_ms": 449893,
-      "name": "Seaweed",
-      "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
+      "duration_ms": 215552,
+      "name": "Landkjenning",
+      "url": "https://open.spotify.com/track/0rwKvhsCGby7GKkk3kDR3P"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1499,6 +1479,50 @@
       "duration_ms": 301253,
       "name": "Mirages",
       "url": "https://open.spotify.com/track/0s8YGmoWPKtb1GynGbHAWK"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Tree House",
+        "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
+      },
+      "artists": [
+        {
+          "name": "Trondheim Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
+        },
+        {
+          "name": "Albatrosh",
+          "url": "https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR"
+        }
+      ],
+      "duration_ms": 449893,
+      "name": "Seaweed",
+      "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Being",
+        "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        },
+        {
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        },
+        {
+          "name": "Per Zanussi",
+          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
+        }
+      ],
+      "duration_ms": 380306,
+      "name": "The Pondering",
+      "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1531,30 +1555,6 @@
       "duration_ms": 101175,
       "name": "Few Words",
       "url": "https://open.spotify.com/track/3MXtKi9TTIk2Ae4BLpiehg"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "Being",
-        "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        },
-        {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
-        },
-        {
-          "name": "Per Zanussi",
-          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
-        }
-      ],
-      "duration_ms": 380306,
-      "name": "The Pondering",
-      "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
+        "name": "Kurzsam and Fulger",
+        "url": "https://open.spotify.com/album/2BbHyjSxcAMgp41y98NyhV"
+      },
+      "artists": [
+        {
+          "name": "Christian Wallumr\u00f8d Ensemble",
+          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
+        }
+      ],
+      "duration_ms": 373899,
+      "name": "Langsam",
+      "url": "https://open.spotify.com/track/7pRPBoo6BpZ8hXZd41tjAg"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
         "name": "Both Only",
         "url": "https://open.spotify.com/album/0ILAAcet8xZuw1h5LBgseA"
       },
@@ -1743,18 +1759,18 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Kurzsam and Fulger",
-        "url": "https://open.spotify.com/album/2BbHyjSxcAMgp41y98NyhV"
+        "name": "Hjorten i skogen",
+        "url": "https://open.spotify.com/album/1msMWUc2k6bMgdUlzXjyFW"
       },
       "artists": [
         {
-          "name": "Christian Wallumr\u00f8d Ensemble",
-          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
+          "name": "Moskus",
+          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
         }
       ],
-      "duration_ms": 373899,
-      "name": "Langsam",
-      "url": "https://open.spotify.com/track/7pRPBoo6BpZ8hXZd41tjAg"
+      "duration_ms": 425642,
+      "name": "Hjorten i skogen",
+      "url": "https://open.spotify.com/track/2yJIwvrRF8OnwFJ8GV81oZ"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1783,22 +1799,6 @@
       "duration_ms": 528100,
       "name": "Point of no return",
       "url": "https://open.spotify.com/track/13FM6MFlLvMqhNVYCgRHZ6"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "Hjorten i skogen",
-        "url": "https://open.spotify.com/album/1msMWUc2k6bMgdUlzXjyFW"
-      },
-      "artists": [
-        {
-          "name": "Moskus",
-          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
-        }
-      ],
-      "duration_ms": 425642,
-      "name": "Hjorten i skogen",
-      "url": "https://open.spotify.com/track/2yJIwvrRF8OnwFJ8GV81oZ"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Asthma Breath",
-        "url": "https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE"
-      },
-      "artists": [
-        {
-          "name": "Jesper Thorn",
-          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
-        }
-      ],
-      "duration_ms": 196868,
-      "name": "Asthma Breath",
-      "url": "https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "Ancient Land, New Territory",
         "url": "https://open.spotify.com/album/6IefZoNhUs1R1QONYERDRe"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 459000,
       "name": "Sacred Rituals",
       "url": "https://open.spotify.com/track/4fibLzZCLwcyvsO4Y2MFel"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Asthma Breath",
+        "url": "https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE"
+      },
+      "artists": [
+        {
+          "name": "Jesper Thorn",
+          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
+        }
+      ],
+      "duration_ms": 196868,
+      "name": "Asthma Breath",
+      "url": "https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1923,22 +1923,26 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Jan Garbarek: Works",
-        "url": "https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX"
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2"
       },
       "artists": [
         {
-          "name": "Jan Garbarek",
-          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+          "name": "Arne Torvik Trio",
+          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
         },
         {
-          "name": "Bobo Stenson Quartet",
-          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
+          "name": "Bj\u00f8rnar Kaldefoss Tveite",
+          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
+        },
+        {
+          "name": "\u00d8ystein Aarnes Vik",
+          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
         }
       ],
-      "duration_ms": 299333,
-      "name": "Svevende",
-      "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
+      "duration_ms": 487053,
+      "name": "Cinematic",
+      "url": "https://open.spotify.com/track/3XKc6VFBNCCkd5vAs45Psd"
     }
   ],
   "unique_name": "Nordic Jazz",

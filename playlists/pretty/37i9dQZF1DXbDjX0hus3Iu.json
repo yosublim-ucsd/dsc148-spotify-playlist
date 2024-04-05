@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 495175,
+  "num_followers": 495246,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTFmMDlhNGVlMWI4ZmVhN2RkNzJkMDVhNDg1MDhkMWViOTczZGI1",
+  "snapshot_id": "MCxmYzkwNzE5Yzc4N2VmN2QxZmQ3NTA5MjIzMjcxZjgxMjI1ZThjM2Q2",
   "tracks": [
     {
       "added_at": "2024-03-19 19:54:29",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Eat A Peach",
-        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 311703,
-      "name": "Blue Sky",
-      "url": "https://open.spotify.com/track/6iX1QW1gGIVNEItnqyvFfH"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
         "name": "Million Mile Reflections",
         "url": "https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a"
       },
@@ -363,18 +347,34 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "It'll Shine When It Shines",
-        "url": "https://open.spotify.com/album/558WlMriwRXU9I2Hq6JMzG"
+        "name": "Eat A Peach",
+        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
       },
       "artists": [
         {
-          "name": "The Ozark Mountain Daredevils",
-          "url": "https://open.spotify.com/artist/7jM2XoJBKhdL8oNnDr4re9"
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 250120,
-      "name": "Jackie Blue",
-      "url": "https://open.spotify.com/track/1R9EHsvzpXwOvlGkgDmE55"
+      "duration_ms": 311703,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/6iX1QW1gGIVNEItnqyvFfH"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "Rock & Roll Strategy",
+        "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
+      },
+      "artists": [
+        {
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+        }
+      ],
+      "duration_ms": 304693,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Rock & Roll Strategy",
-        "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
+        "name": "It'll Shine When It Shines",
+        "url": "https://open.spotify.com/album/558WlMriwRXU9I2Hq6JMzG"
       },
       "artists": [
         {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+          "name": "The Ozark Mountain Daredevils",
+          "url": "https://open.spotify.com/artist/7jM2XoJBKhdL8oNnDr4re9"
         }
       ],
-      "duration_ms": 304693,
-      "name": "Second Chance",
-      "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
+      "duration_ms": 250120,
+      "name": "Jackie Blue",
+      "url": "https://open.spotify.com/track/1R9EHsvzpXwOvlGkgDmE55"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -475,34 +475,18 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "The Deep End Vol. 1",
-        "url": "https://open.spotify.com/album/378K25f02JVVcrMbeL6Pp1"
+        "name": "20th Century Masters The Millennium Collection: Best of 38 Special",
+        "url": "https://open.spotify.com/album/5gditTVu3JNE5P8T6tafiH"
       },
       "artists": [
         {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
         }
       ],
-      "duration_ms": 467800,
-      "name": "Soulshine",
-      "url": "https://open.spotify.com/track/3lzYx9dpCNw6CkttQe6SlE"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
-        "name": "Eat A Peach",
-        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 221890,
-      "name": "Ain't Wastin' Time No More",
-      "url": "https://open.spotify.com/track/4euYSSvpQZSAQ4gThyL2QD"
+      "duration_ms": 279893,
+      "name": "Hold On Loosely",
+      "url": "https://open.spotify.com/track/6hQszXJIYhtjmSTmDqZpeU"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -523,6 +507,38 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
+        "name": "Eat A Peach",
+        "url": "https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 221890,
+      "name": "Ain't Wastin' Time No More",
+      "url": "https://open.spotify.com/track/4euYSSvpQZSAQ4gThyL2QD"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "The Deep End Vol. 1",
+        "url": "https://open.spotify.com/album/378K25f02JVVcrMbeL6Pp1"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 467800,
+      "name": "Soulshine",
+      "url": "https://open.spotify.com/track/3lzYx9dpCNw6CkttQe6SlE"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
         "name": "The Whippoorwill",
         "url": "https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi"
       },
@@ -539,8 +555,8 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "20th Century Masters The Millennium Collection: Best of 38 Special",
-        "url": "https://open.spotify.com/album/5gditTVu3JNE5P8T6tafiH"
+        "name": "Rockin' Into The Night",
+        "url": "https://open.spotify.com/album/6Y5TCAPz4RNwgandUvik2A"
       },
       "artists": [
         {
@@ -548,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
         }
       ],
-      "duration_ms": 279893,
-      "name": "Hold On Loosely",
-      "url": "https://open.spotify.com/track/6hQszXJIYhtjmSTmDqZpeU"
+      "duration_ms": 241226,
+      "name": "Rockin' Into The Night",
+      "url": "https://open.spotify.com/track/1rWqtf1rOYiPEb9puv2bYd"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -567,22 +583,6 @@
       "duration_ms": 237333,
       "name": "Keep On Smilin'",
       "url": "https://open.spotify.com/track/6sHrxsewgTMPs2Di4x636C"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
-        "name": "Brothers And Sisters (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0OCVL5FaQyJzR008B2Mvpr"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 451160,
-      "name": "Jessica",
-      "url": "https://open.spotify.com/track/7AN22wQYwiCG49qYosygFq"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Rockin' Into The Night",
-        "url": "https://open.spotify.com/album/6Y5TCAPz4RNwgandUvik2A"
+        "name": "Brothers And Sisters (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0OCVL5FaQyJzR008B2Mvpr"
       },
       "artists": [
         {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 241226,
-      "name": "Rockin' Into The Night",
-      "url": "https://open.spotify.com/track/1rWqtf1rOYiPEb9puv2bYd"
+      "duration_ms": 451160,
+      "name": "Jessica",
+      "url": "https://open.spotify.com/track/7AN22wQYwiCG49qYosygFq"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section",
-        "url": "https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f"
+        "name": "The Johnny Van Zant Collection",
+        "url": "https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe"
       },
       "artists": [
         {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+          "name": "Johnny Van Zant Band",
+          "url": "https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR"
         }
       ],
-      "duration_ms": 293800,
-      "name": "Georgia Rhythm",
-      "url": "https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt"
+      "duration_ms": 245600,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "The Johnny Van Zant Collection",
-        "url": "https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section",
+        "url": "https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f"
       },
       "artists": [
         {
-          "name": "Johnny Van Zant Band",
-          "url": "https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR"
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
         }
       ],
-      "duration_ms": 245600,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji"
+      "duration_ms": 293800,
+      "name": "Georgia Rhythm",
+      "url": "https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt"
     },
     {
       "added_at": "2024-03-19 19:54:29",

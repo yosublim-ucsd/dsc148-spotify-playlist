@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 96896,
+  "2024-04-05": 96891,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Panama.",
   "name": "Top 50 - Panama",
@@ -6071,7 +6071,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 234481,
       "name": "EL ROYCE (feat. Natti Natasha, iZaak)",
       "url": "https://open.spotify.com/track/475Alro27tSTuCgaBPaqfx"
@@ -8807,6 +8807,24 @@
       "duration_ms": 222085,
       "name": "HYAENA",
       "url": "https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc"
+    },
+    {
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
       "album": {
@@ -11575,7 +11593,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 220682,
       "name": "Los Captures - Live",
       "url": "https://open.spotify.com/track/0hObGhndO61qvsS7EiKAk4"
@@ -17699,7 +17717,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"

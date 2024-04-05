@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: B*Witched",
-  "num_followers": 823043,
+  "num_followers": 823716,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2VjMWQzNmI1YzQ3MGI3MWM0ODA4YThhM2E1MDM1ZDJmNTc0NGQ1",
+  "snapshot_id": "MCw0ODMzM2NkNmFiMDg1OGRhOTIxMzJkNGMzZmQxNTY2NjM4MWQxMmU5",
   "tracks": [
     {
       "added_at": "2024-03-15 19:06:32",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Who Needs Guitars Anyway?",
-        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
-      },
-      "artists": [
-        {
-          "name": "Alice Deejay",
-          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 320266,
       "name": "Doo Wop (That Thing)",
       "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Scatman's World",
-        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
-      },
-      "artists": [
-        {
-          "name": "Scatman John",
-          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
-      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Very Necessary",
         "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 248573,
       "name": "Shoop",
       "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Scatman's World",
+        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
+      },
+      "artists": [
+        {
+          "name": "Scatman John",
+          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
+      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -747,6 +747,26 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "Tubthumper",
         "url": "https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 259893,
       "name": "Your Woman",
       "url": "https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
-        "name": "Europop",
-        "url": "https://open.spotify.com/album/65jtw2LL6r3aVvDD7PSXtV"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "Spice Up Your Life",
-      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "...Baby One More Time (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 195106,
       "name": "Jump",
       "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Spice Up Your Life",
+      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "No Limits",
-        "url": "https://open.spotify.com/album/22s9JNTNHLw9e5wwxKdcF0"
-      },
-      "artists": [
-        {
-          "name": "2 Unlimited",
-          "url": "https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC"
-        }
-      ],
-      "duration_ms": 224220,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/7voHUmPNDuYZ1SW1mwRu26"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 264000,
       "name": "Dreams (Will Come Alive)",
       "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "No Limits",
+        "url": "https://open.spotify.com/album/22s9JNTNHLw9e5wwxKdcF0"
+      },
+      "artists": [
+        {
+          "name": "2 Unlimited",
+          "url": "https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC"
+        }
+      ],
+      "duration_ms": 224220,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/7voHUmPNDuYZ1SW1mwRu26"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Ice 'n' Green",
-        "url": "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML"
-      },
-      "artists": [
-        {
-          "name": "Ice Mc",
-          "url": "https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8"
-        }
-      ],
-      "duration_ms": 260973,
-      "name": "Think About the Way",
-      "url": "https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "You Don't Know Me (feat. Duane Harden)",
         "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 242333,
       "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
       "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Ice 'n' Green",
+        "url": "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML"
+      },
+      "artists": [
+        {
+          "name": "Ice Mc",
+          "url": "https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8"
+        }
+      ],
+      "duration_ms": 260973,
+      "name": "Think About the Way",
+      "url": "https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "S Club",
-        "url": "https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5"
-      },
-      "artists": [
-        {
-          "name": "S Club",
-          "url": "https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Bring It All Back",
-      "url": "https://open.spotify.com/track/3v0uXfyMEZ1lGvBOv1Y4ar"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Up (Special Edition)",
         "url": "https://open.spotify.com/album/0GeBgrCuLqz4NKMiv1aRez"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 170466,
       "name": "I'm Too Sexy",
       "url": "https://open.spotify.com/track/1MQrMQwfqjgOjXEUaN9AMd"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "S Club",
+        "url": "https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5"
+      },
+      "artists": [
+        {
+          "name": "S Club",
+          "url": "https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Bring It All Back",
+      "url": "https://open.spotify.com/track/3v0uXfyMEZ1lGvBOv1Y4ar"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Forever Faithless - The Greatest Hits",
-        "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 208506,
-      "name": "God Is a DJ",
-      "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Swing Batta Swing",
         "url": "https://open.spotify.com/album/0BFZy6FBVmJmSK5FjQj2RN"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 239733,
       "name": "Come Baby Come",
       "url": "https://open.spotify.com/track/2b8RCiPb2rtG5AQ1FwyUZX"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Forever Faithless - The Greatest Hits",
+        "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 208506,
+      "name": "God Is a DJ",
+      "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Born Slippy (Nuxx) [Radio Edit]",
-        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 264187,
-      "name": "Born Slippy (Nuxx) - Radio Edit",
-      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Boombastic",
         "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 238360,
       "name": "In The Summertime",
       "url": "https://open.spotify.com/track/726KAdf3k8Ce8W95O38XNI"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Born Slippy (Nuxx) [Radio Edit]",
+        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 264187,
+      "name": "Born Slippy (Nuxx) - Radio Edit",
+      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -2395,6 +2395,22 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "Feel the heat of the night",
+        "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
+      },
+      "artists": [
+        {
+          "name": "Masterboy",
+          "url": "https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "Feel the heat of the night - Radio Edit",
+      "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "Headliners",
         "url": "https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N"
       },
@@ -2423,22 +2439,6 @@
       "duration_ms": 247001,
       "name": "Everybody Everybody",
       "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
-        "name": "Feel the heat of the night",
-        "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
-      },
-      "artists": [
-        {
-          "name": "Masterboy",
-          "url": "https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "Feel the heat of the night - Radio Edit",
-      "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
     },
     {
       "added_at": "2024-03-15 19:06:32",

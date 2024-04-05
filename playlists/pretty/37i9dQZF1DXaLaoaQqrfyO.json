@@ -1,12 +1,12 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 345826,
+  "num_followers": 345860,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGE2ZDhlNTk4Mzk2MTc2ZTE2ZmY1YjUxMDkwZmI4ZTAyODc3ZGU5",
+  "snapshot_id": "MCxlMzg4ZWMxZjIzNjg4MTE2MTUwM2JkZDEwNWNjNjJiNzg4OTExZTI4",
   "tracks": [
     {
       "added_at": "2024-04-02 17:00:58",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "More Than Just a Dream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "Out of My League",
-      "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "More Than Just a Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Out of My League",
+      "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 277506,
-      "name": "Supercut",
-      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "Sadnecessary (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 313626,
       "name": "Stolen Dance",
       "url": "https://open.spotify.com/track/0ZfByLXCeKchuj7zi1CJ0S"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 277506,
+      "name": "Supercut",
+      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
+        "name": "I Can't Handle Change",
+        "url": "https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX"
+      },
+      "artists": [
+        {
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+        }
+      ],
+      "duration_ms": 198213,
+      "name": "I Can't Handle Change",
+      "url": "https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
         "name": "bad idea!",
         "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
-        "name": "I Can't Handle Change",
-        "url": "https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX"
-      },
-      "artists": [
-        {
-          "name": "Roar",
-          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
-        }
-      ],
-      "duration_ms": 198213,
-      "name": "I Can't Handle Change",
-      "url": "https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "I Follow Rivers (The Magician Remix)",
         "url": "https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 280069,
       "name": "I Follow Rivers - The Magician Remix",
       "url": "https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Goodpain",
-        "url": "https://open.spotify.com/album/7soDnur2TfBoEJETTCws91"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 204208,
-      "name": "Beige",
-      "url": "https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "Young The Giant (Special Edition)",
         "url": "https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 249520,
       "name": "Cough Syrup",
       "url": "https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Goodpain",
+        "url": "https://open.spotify.com/album/7soDnur2TfBoEJETTCws91"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 204208,
+      "name": "Beige",
+      "url": "https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Muchacho",
-        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 370200,
-      "name": "Song for Zula",
-      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "RIP Indo Hisashi",
         "url": "https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 195501,
       "name": "Narcissist (feat. The 1975)",
       "url": "https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song for Zula",
+      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 217053,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 260398,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 217053,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Sure Sure",
-        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
-      },
-      "artists": [
-        {
-          "name": "Sure Sure",
-          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
-        }
-      ],
-      "duration_ms": 219260,
-      "name": "This Must Be The Place",
-      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "Coast Modern",
         "url": "https://open.spotify.com/album/7oU1JaPIxWfpCFyvIZyiZL"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 204066,
       "name": "Guru",
       "url": "https://open.spotify.com/track/1bHEcHv3lUkLFAebNnaPNE"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Sure Sure",
+        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
+      },
+      "artists": [
+        {
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+        }
+      ],
+      "duration_ms": 219260,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
+        "name": "All Becomes Okay",
+        "url": "https://open.spotify.com/album/7MahUqJc9Nv28t3i6LHpF3"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Wales",
+          "url": "https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ"
+        }
+      ],
+      "duration_ms": 242859,
+      "name": "Begin",
+      "url": "https://open.spotify.com/track/1HeGSI2zSrsrk4uD4VfBtA"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
         "name": "Bombs Away",
         "url": "https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 268213,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
-        "name": "All Becomes Okay",
-        "url": "https://open.spotify.com/album/7MahUqJc9Nv28t3i6LHpF3"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Wales",
-          "url": "https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ"
-        }
-      ],
-      "duration_ms": 242859,
-      "name": "Begin",
-      "url": "https://open.spotify.com/track/1HeGSI2zSrsrk4uD4VfBtA"
     },
     {
       "added_at": "2024-04-02 17:00:58",

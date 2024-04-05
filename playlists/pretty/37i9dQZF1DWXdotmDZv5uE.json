@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 131525,
+  "num_followers": 131540,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2VmOWYyYmU1MWVlOWMzNmI5MGJmOTQxYzZmYmQ3YjFlZWEyOWIz",
+  "snapshot_id": "MCwyNjIyOGFiYzFiMWVkMjkzNGJiY2NhYjhjNGFiOWI5ZWM4MTYwYWFl",
   "tracks": [
     {
       "added_at": "2023-05-09 18:01:28",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Caribe Mar Sincopado",
-        "url": "https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx"
+        "name": "Caf\u00e9 Caf\u00e9",
+        "url": "https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S"
       },
       "artists": [
         {
-          "name": "Son De Madera",
-          "url": "https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme"
+          "name": "Radio Jarocho",
+          "url": "https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx"
         }
       ],
-      "duration_ms": 294000,
-      "name": "El Balaj\u00fa",
-      "url": "https://open.spotify.com/track/71BWI87sAe2JFqOSECGXpX"
+      "duration_ms": 238586,
+      "name": "Caf\u00e9 Caf\u00e9",
+      "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Caf\u00e9 Caf\u00e9",
-        "url": "https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S"
+        "name": "Caribe Mar Sincopado",
+        "url": "https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx"
       },
       "artists": [
         {
-          "name": "Radio Jarocho",
-          "url": "https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx"
+          "name": "Son De Madera",
+          "url": "https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme"
         }
       ],
-      "duration_ms": 238586,
-      "name": "Caf\u00e9 Caf\u00e9",
-      "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
+      "duration_ms": 294000,
+      "name": "El Balaj\u00fa",
+      "url": "https://open.spotify.com/track/71BWI87sAe2JFqOSECGXpX"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "La Sandunga",
-        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 284426,
-      "name": "Pinotepa",
-      "url": "https://open.spotify.com/track/3vdxdNwaXWwUyf3bHpxIr2"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
         "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 155933,
       "name": "Canto A Veracruz",
       "url": "https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "La Sandunga",
+        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 284426,
+      "name": "Pinotepa",
+      "url": "https://open.spotify.com/track/3vdxdNwaXWwUyf3bHpxIr2"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Recordando A Antonio Bribiesca",
-        "url": "https://open.spotify.com/album/0jvIr4ODC4xNyRFJxkoI08"
-      },
-      "artists": [
-        {
-          "name": "Antonio Bribiesca",
-          "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Rayando El Sol",
-      "url": "https://open.spotify.com/track/0vbTSruZjJ7ypw0mbqwQ8J"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "En Tonos Muy Diferentes",
         "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 345320,
       "name": "El Siquisir\u00ed",
       "url": "https://open.spotify.com/track/3GHWRRUTDG5CNPK0ZZQCoc"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "Recordando A Antonio Bribiesca",
+        "url": "https://open.spotify.com/album/0jvIr4ODC4xNyRFJxkoI08"
+      },
+      "artists": [
+        {
+          "name": "Antonio Bribiesca",
+          "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Rayando El Sol",
+      "url": "https://open.spotify.com/track/0vbTSruZjJ7ypw0mbqwQ8J"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1271,8 +1271,8 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Agradecer",
-        "url": "https://open.spotify.com/album/5qVQLwmsMmBEKfQsPd3LXM"
+        "name": "Reza en Voz Alta",
+        "url": "https://open.spotify.com/album/3modoSnNXdsJx7c6rUqfg4"
       },
       "artists": [
         {
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
         }
       ],
-      "duration_ms": 205574,
-      "name": "Agradecer",
-      "url": "https://open.spotify.com/track/3xFVSTW8SdnST60rBsObdt"
+      "duration_ms": 240448,
+      "name": "Reza en Voz Alta",
+      "url": "https://open.spotify.com/track/3iXA6VYCudT4ZaKw7xBHKT"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
+        "name": "En Tonos Muy Diferentes",
+        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
+      },
+      "artists": [
+        {
+          "name": "Los Vega",
+          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
+        }
+      ],
+      "duration_ms": 342360,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
         "name": "M\u00fasica Mexicana de Sal\u00f3n Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx",
         "url": "https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 267720,
       "name": "Lindas Mexicanas",
       "url": "https://open.spotify.com/track/71AU1WeRsBgdRceTWqNloI"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
-        "name": "En Tonos Muy Diferentes",
-        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
-      },
-      "artists": [
-        {
-          "name": "Los Vega",
-          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
-        }
-      ],
-      "duration_ms": 342360,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1443,8 +1443,8 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Reza en Voz Alta",
-        "url": "https://open.spotify.com/album/3modoSnNXdsJx7c6rUqfg4"
+        "name": "Agradecer",
+        "url": "https://open.spotify.com/album/5qVQLwmsMmBEKfQsPd3LXM"
       },
       "artists": [
         {
@@ -1452,9 +1452,9 @@
           "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
         }
       ],
-      "duration_ms": 240448,
-      "name": "Reza en Voz Alta",
-      "url": "https://open.spotify.com/track/3iXA6VYCudT4ZaKw7xBHKT"
+      "duration_ms": 205574,
+      "name": "Agradecer",
+      "url": "https://open.spotify.com/track/3xFVSTW8SdnST60rBsObdt"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
+        "name": "Mariachi from Mexico",
+        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "La raspa",
+      "url": "https://open.spotify.com/track/59kogGBmBNHC3r7t9DZ3ip"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
         "name": "Marimbas Y Regional Vol. 1",
         "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 181465,
       "name": "Ansia Marimba",
       "url": "https://open.spotify.com/track/01moK6nSNPIDKnfv5GhsN1"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
-        "name": "Mariachi from Mexico",
-        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "La raspa",
-      "url": "https://open.spotify.com/track/59kogGBmBNHC3r7t9DZ3ip"
     },
     {
       "added_at": "2023-05-09 18:01:28",

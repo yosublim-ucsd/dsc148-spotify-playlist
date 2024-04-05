@@ -2,7 +2,7 @@
 
 ### [All Out 50s](https://open.spotify.com/playlist/37i9dQZF1DWSV3Tk4GO2fq)
 
-> The biggest songs of the 1950s\. Cover: Sister Rosetta Tharpe
+> The biggest songs of the 1950s\. Cover: Elvis Presley
 
 329 songs - 15 hr 12 min
 
@@ -138,7 +138,7 @@
 | [It's All In The Game](https://open.spotify.com/track/65DHarvIY5nZ57ZcgTxx75) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [True 50's love](https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y) | 2:38 | 2021-04-28 | 2022-07-29 |
 | [It's All In The Game](https://open.spotify.com/track/2tvt5K7y1gndmCgtIoLo1f) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [It’s All In The Game](https://open.spotify.com/album/5Pm6JmFRagCaNbD5OLlG3d) | 2:38 | 2022-06-09 |  |
 | [It's All In The Game](https://open.spotify.com/track/2lmPUdIdzlFH64PWJrw6Zb) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [It’s All In The Game: The Best Of Tommy Edwards](https://open.spotify.com/album/1r5eluEOlo6G5UW3Pf3ZZR) | 2:39 | 2022-06-09 | 2023-03-27 |
-| [It's Not For Me To Say](https://open.spotify.com/track/4lFXv6eBek6kEiGYzh2mH2) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Johnny's Greatest Hits](https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1) | 3:05 | 2022-06-09 | 2024-03-02 |
+| [It's Not For Me To Say](https://open.spotify.com/track/4lFXv6eBek6kEiGYzh2mH2) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Johnny's Greatest Hits](https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1) | 3:05 | 2022-06-09 |  |
 | [It's Not for Me to Say \- From the MGM Film "Lizzie"](https://open.spotify.com/track/4g9ZMsnY0xpeG3OR8GRJne) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis 3.0](https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv) | 3:03 | 2021-04-28 | 2022-01-09 |
 | [It's Only Make Believe](https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Conway Twitty Sings](https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP) | 2:12 | 2022-06-09 |  |
 | [It's Only Make Believe \- Single Version](https://open.spotify.com/track/6Em0JcoORXzv0BGfxAacpv) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [It's Only Make Believe/The MGM Years](https://open.spotify.com/album/7MQ7DVMk4wBymAhDvTV8jo) | 2:12 | 2021-04-28 | 2022-07-29 |
@@ -165,7 +165,7 @@
 | [Lollipop](https://open.spotify.com/track/0ZOuues7b9AgBOJ0YRZMLR) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/1d7UWrwiM07dJX9CJjgAtN) | 2:10 | 2022-06-09 |  |
 | [Lollipop](https://open.spotify.com/track/1hFB1obL3dCyIDigkojSTm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl) | 2:10 | 2022-06-09 | 2023-11-05 |
 | [Lonely Boy](https://open.spotify.com/track/4kh2S9hRpPvoF9JkwZcYGN) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:31 | 2021-04-28 | 2022-11-13 |
-| [Lonely Teardrops](https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Lonely Teardrops](https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT) | 2:46 | 2021-04-28 | 2024-04-01 |
+| [Lonely Teardrops](https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Lonely Teardrops](https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT) | 2:46 | 2021-04-28 |  |
 | [Lonesome Town \- 1990 Digital Remaster](https://open.spotify.com/track/56XoFI6v7kbGNdM8ALYWof) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [The Legendary Masters Series \(Volume 1\)](https://open.spotify.com/album/5R27t83T8Jhltww09lriMo) | 2:15 | 2021-04-28 |  |
 | [Long Tall Sally \(The Thing\)](https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:07 | 2021-04-28 |  |
 | [Louisiana Blues](https://open.spotify.com/track/2nbV8brWogyKVqRhypvzJS) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:54 | 2021-04-28 | 2022-11-13 |
@@ -313,7 +313,7 @@
 | [What Do You Want to Make Those Eyes at Me for](https://open.spotify.com/track/5LpUlD9Egwtf4SgDRE9HVs) | [Emile Ford & The Checkmates](https://open.spotify.com/artist/2qyvlQ4Ku5zc2mk4pYamzC) | [What Do You Want to Make Those Eyes At Me For?](https://open.spotify.com/album/3sA8LG6XghvwNgzLCRplKv) | 2:04 | 2022-06-09 | 2022-11-12 |
 | [What Do You Want to Make Those Eyes at Me For ?](https://open.spotify.com/track/2Pd7nI81XFF9hTuKppK5h3) | [Emile Ford](https://open.spotify.com/artist/4WlnMvgVJYN8jkujHZHrP0), [The Checkmates](https://open.spotify.com/artist/6YU3dTfvzThOATHd0pfp3f) | [What Do You Want to Make Those Eyes at Me For ?](https://open.spotify.com/album/69UB1pwN38nuZ1kZ3XugNe) | 2:08 | 2021-12-23 | 2022-07-29 |
 | [What'd I Say, Pt\. 1 & 2](https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [What'd I Say](https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn) | 5:07 | 2021-04-28 |  |
-| [When They Ring The Golden Bell](https://open.spotify.com/track/32csDpGNVJu6lEP77Bg5FJ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train](https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px) | 2:29 | 2024-03-01 |  |
+| [When They Ring The Golden Bell](https://open.spotify.com/track/32csDpGNVJu6lEP77Bg5FJ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train](https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px) | 2:29 | 2024-03-01 | 2024-04-05 |
 | [Who's Sorry Now](https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:16 | 2021-04-28 |  |
 | [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 | 2021-04-28 | 2022-04-29 |
 | [Whole Lot Of Shakin' Going On \- Single Version](https://open.spotify.com/track/3EdEML9OuJmadb6qHvLvID) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Whole Lotta Shakin' Going On / It'll Be Me](https://open.spotify.com/album/3yIm9sw7a2OScbcB1bPJeV) | 2:53 | 2022-04-29 | 2022-11-13 |
@@ -336,6 +336,6 @@
 | [You Send Me](https://open.spotify.com/track/0IzjDwh5z66OJPT83bYTT4) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Goodfellas Generation](https://open.spotify.com/album/7utOAX2RHKGtAiw2qRVsKB) | 2:48 | 2022-06-09 | 2022-11-13 |
 | [You'll Never Never Know](https://open.spotify.com/track/6pVZR38m2UcizxA6YAnkw4) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters Greatest Hits](https://open.spotify.com/album/4dBuOe6XBS1dbEqrdLrsMO) | 2:41 | 2021-04-28 | 2022-04-27 |
 | [Your Cheatin' Heart](https://open.spotify.com/track/13Oi7vfd9mrujcEmGAYAPe) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [The Complete Hank Williams](https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN) | 2:41 | 2021-04-28 | 2022-11-13 |
-| [Zing! Went The Strings Of My Heart](https://open.spotify.com/track/7e5hWckgQgEXEkKdrqwvaq) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Judy in Love](https://open.spotify.com/album/4pBqyTxz1T2ubymulwLavS) | 3:41 | 2024-03-01 |  |
+| [Zing! Went The Strings Of My Heart](https://open.spotify.com/track/7e5hWckgQgEXEkKdrqwvaq) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Judy in Love](https://open.spotify.com/album/4pBqyTxz1T2ubymulwLavS) | 3:41 | 2024-03-01 | 2024-04-05 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

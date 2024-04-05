@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-807 songs - 1 day 23 hr 9 min
+808 songs - 1 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -756,6 +756,7 @@
 | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/track/43eS61ezviPc61XDu6tRYR) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/album/3TssDAhHAEuj5IIoLjLJ5U) | 3:59 | 2024-03-23 |  |
 | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S) | 4:38 | 2022-07-11 | 2022-08-21 |
 | [เพราะเธอนั้นเป็นเหมือนดั่งโลกทั้งใบ](https://open.spotify.com/track/5W7rKNXaUZ6uyC85SlG2EF) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [เพราะเธอนั้นเป็นเหมือนดั่งโลกทั้งใบ](https://open.spotify.com/album/0wBHCf3putYJEsWZdXR7p4) | 5:08 | 2021-10-23 | 2021-10-24 |
+| [เพลงที่เธอไม่ฟัง](https://open.spotify.com/track/6KRj0vz2JEk8Ykt1Q0KKZX) | [Bedroom Audio](https://open.spotify.com/artist/5NTMa7YJCseQqw70zgF7b5) | [Album](https://open.spotify.com/album/5rLo8es514U1hcjv4aGsM9) | 3:58 | 2024-04-04 |  |
 | [เพลงรักเพลงแรก \- Blooming](https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เพลงรักเพลงแรก \(Blooming\)](https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4) | 4:17 | 2023-10-17 |  |
 | [เพลงรักในวันลา](https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [เพลงรักในวันลา](https://open.spotify.com/album/5Dl2n6GdOhYSroqNGsh5Lf) | 4:28 | 2023-07-09 | 2023-12-20 |
 | [เพลงรักในวันลา](https://open.spotify.com/track/5oC32WxxER4uaVwJo23RN9) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [Life Novel](https://open.spotify.com/album/3odh92LU5rfU5LyxYE0C3u) | 4:28 | 2023-12-19 | 2023-12-22 |
@@ -792,7 +793,7 @@
 | [โลกที่แบกไว้](https://open.spotify.com/track/1BAIaOr39e7FsxRYjbPiyz) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [โลกที่แบกไว้](https://open.spotify.com/album/7Kd7MwlHvyBxiwAFaqhTqJ) | 4:40 | 2024-04-03 |  |
 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 | 2024-03-13 |  |
 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 | 2022-12-15 | 2024-01-23 |
-| [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 | 2023-04-15 |  |
+| [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 | 2023-04-15 | 2024-04-05 |
 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 | 2022-04-09 | 2022-07-26 |
 | [ใจเกเร](https://open.spotify.com/track/0rDzLlocH57yvez6q3fSWK) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ใจเกเร](https://open.spotify.com/album/06nVVnuo262M0lNw7PwlIQ) | 3:48 | 2022-06-02 | 2022-09-12 |
 | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI) | 3:45 | 2022-07-11 | 2022-07-17 |

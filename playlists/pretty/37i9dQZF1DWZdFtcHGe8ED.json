@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 544127,
+  "num_followers": 544249,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmUyZGIwMGI1OWE1Y2IxY2MyNmVkOTcyZGVmYzVmN2ExYjJiYmIy",
+  "snapshot_id": "MCxjMjQ3YTEwYmRkNTE4YTkxODI3NmY3MDY2OTgzODdkNjhmMDQyMTNm",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Humanoid",
-        "url": "https://open.spotify.com/album/6yUcQWzIvRnGdJqN1CpmuD"
-      },
-      "artists": [
-        {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
-        }
-      ],
-      "duration_ms": 275426,
-      "name": "Humanoid",
-      "url": "https://open.spotify.com/track/5tUZwaxzIk8vdXMzMiegRh"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Hornet's Nest",
         "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 279811,
       "name": "Hornet's Nest",
       "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Humanoid",
+        "url": "https://open.spotify.com/album/6yUcQWzIvRnGdJqN1CpmuD"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 275426,
+      "name": "Humanoid",
+      "url": "https://open.spotify.com/track/5tUZwaxzIk8vdXMzMiegRh"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Aita",
-        "url": "https://open.spotify.com/album/78zNb7zhpXPx2IxLz4vZKz"
-      },
-      "artists": [
-        {
-          "name": "Korpiklaani",
-          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
-        }
-      ],
-      "duration_ms": 227204,
-      "name": "Aita",
-      "url": "https://open.spotify.com/track/0TfZAE7oV7Zv56crYu5m0K"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "No Absolution",
         "url": "https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 250253,
       "name": "No Absolution",
       "url": "https://open.spotify.com/track/7DDtR2AfAcLGtSDJ0BQbhU"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Aita",
+        "url": "https://open.spotify.com/album/78zNb7zhpXPx2IxLz4vZKz"
+      },
+      "artists": [
+        {
+          "name": "Korpiklaani",
+          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
+        }
+      ],
+      "duration_ms": 227204,
+      "name": "Aita",
+      "url": "https://open.spotify.com/track/0TfZAE7oV7Zv56crYu5m0K"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Mourn the Southern Skies",
-        "url": "https://open.spotify.com/album/6Zv7TZNO5LrJH9dRUjouom"
-      },
-      "artists": [
-        {
-          "name": "Exhorder",
-          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
-        }
-      ],
-      "duration_ms": 233145,
-      "name": "My Time",
-      "url": "https://open.spotify.com/track/7455R3ZkleZUXIl4qUrsEu"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Pleasure to Kill",
         "url": "https://open.spotify.com/album/2eAK1pBzED09E9ooIAznXP"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 249333,
       "name": "Pleasure to Kill",
       "url": "https://open.spotify.com/track/3LFeYtxcstS7tezHLWuUY5"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Mourn the Southern Skies",
+        "url": "https://open.spotify.com/album/6Zv7TZNO5LrJH9dRUjouom"
+      },
+      "artists": [
+        {
+          "name": "Exhorder",
+          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
+        }
+      ],
+      "duration_ms": 233145,
+      "name": "My Time",
+      "url": "https://open.spotify.com/track/7455R3ZkleZUXIl4qUrsEu"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Moments Elsewhere",
-        "url": "https://open.spotify.com/album/54jLv7qhitycZp9GiQ3t1C"
-      },
-      "artists": [
-        {
-          "name": "Johnny Booth",
-          "url": "https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Collapse in the Key of Fireworks",
-      "url": "https://open.spotify.com/track/5IHuTwMWWGFof1sOk7dR7x"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Born Of The Bomb",
         "url": "https://open.spotify.com/album/0zV6u0B6tozejS9ol4rfca"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 279373,
       "name": "Combat Mosh",
       "url": "https://open.spotify.com/track/04FfBJZBfU0UR5uqR4CJAD"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Moments Elsewhere",
+        "url": "https://open.spotify.com/album/54jLv7qhitycZp9GiQ3t1C"
+      },
+      "artists": [
+        {
+          "name": "Johnny Booth",
+          "url": "https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Collapse in the Key of Fireworks",
+      "url": "https://open.spotify.com/track/5IHuTwMWWGFof1sOk7dR7x"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "The Man That Never Was",
-        "url": "https://open.spotify.com/album/7hqBWYPGvk8WrGm66UgCJW"
-      },
-      "artists": [
-        {
-          "name": "Exhorder",
-          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "The Man That Never Was",
-      "url": "https://open.spotify.com/track/19ZMUBNaw5HopQ5ljdZj8T"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Cycle of Suffering",
         "url": "https://open.spotify.com/album/667otcFavTltYttK0VqcVm"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 308173,
       "name": "I Sever",
       "url": "https://open.spotify.com/track/2mUGAyLahjCX5TQ9VB8vX2"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "The Man That Never Was",
+        "url": "https://open.spotify.com/album/7hqBWYPGvk8WrGm66UgCJW"
+      },
+      "artists": [
+        {
+          "name": "Exhorder",
+          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "The Man That Never Was",
+      "url": "https://open.spotify.com/track/19ZMUBNaw5HopQ5ljdZj8T"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/32nLLpycunqmJfnF3EEfNJ"
-      },
-      "artists": [
-        {
-          "name": "Metal Church",
-          "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Start the Fire",
-      "url": "https://open.spotify.com/track/6EDh3fGDzhYlgzPiccnRKe"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Point Of No Return EP",
         "url": "https://open.spotify.com/album/5mO4PY6XyJAzLFOBJfx88b"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 198960,
       "name": "Critical Mass",
       "url": "https://open.spotify.com/track/4uOq76srFzt94o98QrCVRO"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/32nLLpycunqmJfnF3EEfNJ"
+      },
+      "artists": [
+        {
+          "name": "Metal Church",
+          "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Start the Fire",
+      "url": "https://open.spotify.com/track/6EDh3fGDzhYlgzPiccnRKe"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Totem",
+        "url": "https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i"
+      },
+      "artists": [
+        {
+          "name": "Soulfly",
+          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+        }
+      ],
+      "duration_ms": 194101,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/5VwwTHDa25f8oC9kkBdObh"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Conformicide",
         "url": "https://open.spotify.com/album/6GI3M1qTLgDNNcZCTzgWEQ"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 280400,
       "name": "Surf Nicaragua",
       "url": "https://open.spotify.com/track/0cjd7hXm53E1xAJsIYcSJN"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Totem",
-        "url": "https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i"
-      },
-      "artists": [
-        {
-          "name": "Soulfly",
-          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
-        }
-      ],
-      "duration_ms": 194101,
-      "name": "Superstition",
-      "url": "https://open.spotify.com/track/5VwwTHDa25f8oC9kkBdObh"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Profane Prayer",
-        "url": "https://open.spotify.com/album/4PcHDeJv6FmO6WZb6qYGHa"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Angels",
-          "url": "https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2"
-        }
-      ],
-      "duration_ms": 285013,
-      "name": "Purified by Fire",
-      "url": "https://open.spotify.com/track/5Yj54OcbkQk5hUmtXCSYOx"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Slaughter In The Vatican",
         "url": "https://open.spotify.com/album/5YnKblRYZeLlm90M9xAIvT"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 368840,
       "name": "Desecrator",
       "url": "https://open.spotify.com/track/3Lao9WQ5YkN6P9YKE0ppVX"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Profane Prayer",
+        "url": "https://open.spotify.com/album/4PcHDeJv6FmO6WZb6qYGHa"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Angels",
+          "url": "https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2"
+        }
+      ],
+      "duration_ms": 285013,
+      "name": "Purified by Fire",
+      "url": "https://open.spotify.com/track/5Yj54OcbkQk5hUmtXCSYOx"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Profane Prayer",
-        "url": "https://open.spotify.com/album/4PcHDeJv6FmO6WZb6qYGHa"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Angels",
-          "url": "https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2"
-        }
-      ],
-      "duration_ms": 174120,
-      "name": "Virtues of Destruction",
-      "url": "https://open.spotify.com/track/1ACpMQW2yIPcLDrpHlrY7l"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "No Absolution",
         "url": "https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs"
       },
@@ -1859,18 +1843,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Taking Over",
-        "url": "https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N"
+        "name": "Profane Prayer",
+        "url": "https://open.spotify.com/album/4PcHDeJv6FmO6WZb6qYGHa"
       },
       "artists": [
         {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+          "name": "Suicidal Angels",
+          "url": "https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2"
         }
       ],
-      "duration_ms": 272333,
-      "name": "Wrecking Crew",
-      "url": "https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG"
+      "duration_ms": 174120,
+      "name": "Virtues of Destruction",
+      "url": "https://open.spotify.com/track/1ACpMQW2yIPcLDrpHlrY7l"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1891,18 +1875,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "666-Pack",
-        "url": "https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8"
+        "name": "Taking Over",
+        "url": "https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N"
       },
       "artists": [
         {
-          "name": "Insanity Alert",
-          "url": "https://open.spotify.com/artist/7371n3dNMRdoAuDOiweQJx"
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
         }
       ],
-      "duration_ms": 92612,
-      "name": "All Mosh / No Brain",
-      "url": "https://open.spotify.com/track/0amgTTnQK7rmkXTUFFRZsY"
+      "duration_ms": 272333,
+      "name": "Wrecking Crew",
+      "url": "https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1919,6 +1903,22 @@
       "duration_ms": 226971,
       "name": "Ahi K\u0101",
       "url": "https://open.spotify.com/track/6TWusB8IRbn4OCJm3jLQJr"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "666-Pack",
+        "url": "https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8"
+      },
+      "artists": [
+        {
+          "name": "Insanity Alert",
+          "url": "https://open.spotify.com/artist/7371n3dNMRdoAuDOiweQJx"
+        }
+      ],
+      "duration_ms": 92612,
+      "name": "All Mosh / No Brain",
+      "url": "https://open.spotify.com/track/0amgTTnQK7rmkXTUFFRZsY"
     },
     {
       "added_at": "2024-03-08 05:00:00",

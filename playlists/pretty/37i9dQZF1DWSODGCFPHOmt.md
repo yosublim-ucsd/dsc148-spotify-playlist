@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Cover: Panter Belico
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,919 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,918 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 79 | [Navidad, Feel The Magic](https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Navidad, Feel The Magic](https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO) | 2:45 |
 | 80 | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe) | 2:35 |
 
-Snapshot ID: `MCwxY2M0YjEwZDUzNWVkZWZiYmQ1NDk3OTFhNTI3MTJiZTVkMmI0NWIz`
+Snapshot ID: `MCw2MWYwZTZmZTU5ZWE1MGZjZDQyNTM0N2RhOTljNWM3ODM5NWFiODUz`

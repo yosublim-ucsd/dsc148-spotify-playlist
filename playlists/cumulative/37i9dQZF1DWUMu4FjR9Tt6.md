@@ -4,7 +4,7 @@
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-116 songs - 7 hr 21 min
+117 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [The Order of Death](https://open.spotify.com/track/3QOQEObqJvCi4M2SNeko7V) | [Public Image Ltd.](https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp) | [This is What You Want..\. This Is What You Get](https://open.spotify.com/album/72V5EfB3sa97eKf0Fs99EJ) | 4:49 | 2022-06-17 |  |
 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 | 2022-06-22 |  |
 | [This Year's Love](https://open.spotify.com/track/1dQOMZz9SkT7ig0w65lQWC) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp) | 4:05 | 2022-06-17 | 2022-10-13 |
-| [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 | 2022-06-17 |  |
+| [This Year's Love](https://open.spotify.com/track/1wK6fC3r5fGJ7N4U8R0nOY) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder \(2020 Remaster\)](https://open.spotify.com/album/65dV0TVZ9BEfudSPEt1hb6) | 4:05 | 2022-06-17 |  |
+| [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 | 2022-06-17 | 2024-04-05 |
 | [This Year's Love \- 2020 Remaster](https://open.spotify.com/track/5LAAykvFusHpsTd03OgqPw) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder \(20th Anniversary Edition\)](https://open.spotify.com/album/3ng5VSbmPioTrHajoJgr4X) | 4:05 | 2022-06-17 | 2022-11-14 |
 | [Twistin' the Night Away](https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away](https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY) | 2:39 | 2022-06-17 |  |
 | [Unwind Yourself](https://open.spotify.com/track/0h7pMUK2EKEj7E4gGvhDO5) | [Marva Whitney](https://open.spotify.com/artist/691nF1fI0SKCfsIypzFr7h) | [It's My Thing](https://open.spotify.com/album/5DRDGz9y5gyLgd0S8gI0aO) | 2:50 | 2022-06-17 |  |

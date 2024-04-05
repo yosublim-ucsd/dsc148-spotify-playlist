@@ -4,13 +4,14 @@
 
 > a state of mind.
 
-110 songs - 6 hr 29 min
+111 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [16th Avenue](https://open.spotify.com/track/7tvoGy9Ou4Oe0Lu3Mv0WVX) | [Lacy J\. Dalton](https://open.spotify.com/artist/3JTFILRsbbqmkb740jjT0l) | [Blue Eyed Blues](https://open.spotify.com/album/3EMQs9gBntlWvOcnODjINi) | 3:09 | 2023-04-14 |  |
 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 | 2023-04-14 |  |
-| [Another Bad Apple](https://open.spotify.com/track/3r9qooc5NP0klrtZbFfBhC) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Another Bad Apple](https://open.spotify.com/album/6auwDOqgyAHQVYpfBcOmR9) | 3:03 | 2023-04-14 |  |
+| [Another Bad Apple](https://open.spotify.com/track/3r9qooc5NP0klrtZbFfBhC) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Another Bad Apple](https://open.spotify.com/album/6auwDOqgyAHQVYpfBcOmR9) | 3:03 | 2023-04-14 | 2024-04-05 |
+| [Another Bad Apple](https://open.spotify.com/track/5DXkH66yHd6nTMlby8AwHD) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Another Bad Apple](https://open.spotify.com/album/5O8QT0vzGanGGu8DZAiitB) | 3:03 | 2023-12-22 |  |
 | [Are You Sure Hank Done It This Way](https://open.spotify.com/track/5Z0Khiz8xgC8AYMr4ctS8Y) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Dreaming My Dreams](https://open.spotify.com/album/2iZvfv5wU8DxGm2o2O1dis) | 2:54 | 2023-04-14 |  |
 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 | 2023-04-14 |  |
 | [Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:55 | 2023-04-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,753 likes - 115 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,899 likes - 115 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 67 | [Mah Nà Mah Nà](https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 1:56 |
 | 68 | [Guns of Navarone](https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs) | [Al Caiola](https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6) | [Bonanza \- 50 Fabulous Guitar Favourites](https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9) | 2:40 |
 | 69 | [Les Parapluies de Cherbourg](https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 2:22 |
-| 70 | [Billy Jack's Theme](https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7) | [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 2:01 |
-| 71 | [Frenesí](https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Boleros Bonitos](https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg) | 2:49 |
+| 70 | [Frenesí](https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Boleros Bonitos](https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg) | 2:49 |
+| 71 | [Billy Jack's Theme](https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7) | [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 2:01 |
 | 72 | [Lady Milady](https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41) | [Pop Concerto Orchestra](https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30) | [Best of Pop Concerto Orchestra](https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ) | 2:36 |
 | 73 | [Midnight Cowboy](https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [The Ultimate John Barry](https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j) | 2:47 |
 | 74 | [Concierto para una sola voz](https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR) | [Robson Miguel y grupo](https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY) | [Sueño azul](https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU) | 2:22 |
@@ -88,18 +88,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 78 | [East Bound And Down](https://open.spotify.com/track/287NlxhT7ovzqs1XeChOhW) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [East Bound And Down](https://open.spotify.com/album/6i4T3kD5KHM5CcQu4yH9iT) | 2:42 |
 | 79 | [El Návajo Azul](https://open.spotify.com/track/4ZintGm70QaQWUx3AwRcQc) | [Mila Khodorkovsky](https://open.spotify.com/artist/5Zy8TV6z4GDzhbSC2cTsXO) | [Violín Mágico 3 Alegria](https://open.spotify.com/album/7LWwMcPCac2Bj55ZLK8yNV) | 3:41 |
 | 80 | [Piano](https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23) | [Raul Di Blasio](https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u) | [Grandes Exitos](https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS) | 6:23 |
-| 81 | [Frenesi](https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk) | [Gustavo Pimentel](https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU) | [A Regar La Polilla](https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T) | 3:20 |
-| 82 | [Memories of Summer](https://open.spotify.com/track/53d1VYmnh5LUkTG223zjth) | [Tony Hatch](https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj) | [Avengers and Other Top Sixties Themes](https://open.spotify.com/album/1XU7ztjltJ2klhUwFk1z8M) | 3:10 |
-| 83 | [Call Me](https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c) | [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [Rain Forest](https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv) | 2:25 |
+| 81 | [Memories of Summer](https://open.spotify.com/track/53d1VYmnh5LUkTG223zjth) | [Tony Hatch](https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj) | [Avengers and Other Top Sixties Themes](https://open.spotify.com/album/1XU7ztjltJ2klhUwFk1z8M) | 3:10 |
+| 82 | [Call Me](https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c) | [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [Rain Forest](https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv) | 2:25 |
+| 83 | [Frenesi](https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk) | [Gustavo Pimentel](https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU) | [A Regar La Polilla](https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T) | 3:20 |
 | 84 | [Recuerdos De La Alhambra \(with The Royal Philharmonic Orchestra\)](https://open.spotify.com/track/5fDbDD0sJ8DLzzSzpMKZZL) | [Luis Cobos](https://open.spotify.com/artist/1H75EEjXwzO6v2K1d8QGPX), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [La Danza De Los Corcelos \(with The Royal Philharmonic Orchestra\)](https://open.spotify.com/album/7xNLPcZiXI18BJS2O4OXWD) | 3:53 |
 | 85 | [Ravel's Bolero](https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x) | [Ferrante & Teicher](https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB) | [The Ferrante & Teicher Collection](https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV) | 6:43 |
 | 86 | [Siempre en Mi Corazón](https://open.spotify.com/track/46J3o36c0PLQsiUoVwLbRA) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Presentando a Los Indios Tabajaras](https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv) | 2:30 |
 | 87 | [A Swingin' Safari](https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [A Swingin' Safari](https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu) | 2:15 |
 | 88 | [Something for Sellers \- From the Mirisch\-G & E Production "The Pink Panther"](https://open.spotify.com/track/0Y6C8gl6ypXDfRGM1fbbAq) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Pink Panther \- Original Soundtrack](https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy) | 2:49 |
 | 89 | [Atlantis](https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C) | [The Shadows](https://open.spotify.com/artist/7n2bs5q3whSUnindQssIGC) | [20 Golden Greats](https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu) | 2:48 |
-| 90 | [Autumn Leaves](https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Roger Williams Greatest Hits](https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i) | 3:01 |
+| 90 | [Imágenes](https://open.spotify.com/track/6aRvWvjzsdp5GlNbRr6rRn) | [Cuerdas y Metales](https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM) | [Canciones Inolvidables](https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u) | 3:09 |
 | 91 | [Ave Maria No Morro](https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Presentando a Los Indios Tabajaras](https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv) | 2:34 |
-| 92 | [Imágenes](https://open.spotify.com/track/6aRvWvjzsdp5GlNbRr6rRn) | [Cuerdas y Metales](https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM) | [Canciones Inolvidables](https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u) | 3:09 |
+| 92 | [Autumn Leaves](https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Roger Williams Greatest Hits](https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i) | 3:01 |
 | 93 | [Over the Rainbow](https://open.spotify.com/track/68EG7pZ1EvUjp6wbhcItTL) | [Caravelli](https://open.spotify.com/artist/4ZELYX7reIsNTmxOWCMcav) | [Caravelli & His Orchestra](https://open.spotify.com/album/6fg2yCwbKZ4aCSGAlovkyZ) | 3:28 |
 | 94 | [La Vie En Rose](https://open.spotify.com/track/2R5uw1Sa7XjU5AcriEeQER) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Wonderland By Night](https://open.spotify.com/album/4NJgRrbHDkPMBMkup98HpB) | 2:40 |
 | 95 | [Java](https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Greatest Hits](https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB) | 1:56 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 114 | [Too Young](https://open.spotify.com/track/2l6OsDqjoFFAKHMHcZ7nYi) | [Ricardo Juarez](https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70) | [Presentando a Ricardo Juarez](https://open.spotify.com/album/5iC3GicPaENZWdTv2B1yON) | 2:55 |
 | 115 | [Ave Maria No Morro](https://open.spotify.com/track/1tZZ3VD2jbHBEr0KM2rHlG) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [The Incredible Helmut Zacharias](https://open.spotify.com/album/5ZfXPyyeUz8zS9YXTJLZ9A) | 2:46 |
 
-Snapshot ID: `MCxlMDU4MmNjNzlhZWQ0N2I2MjcyOWJjNTcxM2FlNzM0MjUxNjE4Yzg5`
+Snapshot ID: `MCw2YWE1MjBlZjQ1NjkzMWNkMWU4MzhjZGZkYTJmZGUzMzc3MmQ2MjEz`

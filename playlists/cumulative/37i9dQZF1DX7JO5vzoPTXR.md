@@ -4,7 +4,7 @@
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFRegGOhYpv3j?si=0ea1f81a3471473c">Alysa Vanderheym</a>
 
-779 songs - 1 day 18 hr 50 min
+780 songs - 1 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [hating myself in the summer](https://open.spotify.com/track/3Pb372Lorpke7HiBvNaKff) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [twenty something](https://open.spotify.com/album/6BsMfOPu12jc6fnPtHjeSe) | 2:42 | 2022-06-01 | 2022-07-07 |
 | [He Is](https://open.spotify.com/track/7HnxsWJeLTrtBHFTJfdLWA) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Safe Place](https://open.spotify.com/album/5wSbxRSTblLMiq9tgHQrXv) | 3:04 | 2022-02-02 | 2022-03-09 |
 | [Heart of Gold](https://open.spotify.com/track/2ga7Q3rTCWzOBqe4l3qrks) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:36 | 2022-06-01 | 2022-07-07 |
+| [Heartthrob](https://open.spotify.com/track/21fvtJqzyGcXBePIg8waUm) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [Heartthrob](https://open.spotify.com/album/17x9sehv8aThjt5SjzShn4) | 2:25 | 2024-04-03 |  |
 | [Heatwave](https://open.spotify.com/track/6rKD9axpeGAKgytwctW7f4) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:44 | 2021-12-08 | 2022-01-06 |
 | [Hello](https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Hello](https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff) | 5:08 | 2023-10-04 | 2023-11-09 |
 | [HI MY NAME IS](https://open.spotify.com/track/4c9p6pcoc13Rdw84HdHzoS) | [RAEGAN](https://open.spotify.com/artist/2nB2BHirpyBx2sJc4QKfwz) | [HI MY NAME IS](https://open.spotify.com/album/3FWYRNLRnd8wTRrrQovq2K) | 3:12 | 2022-11-09 | 2022-12-01 |

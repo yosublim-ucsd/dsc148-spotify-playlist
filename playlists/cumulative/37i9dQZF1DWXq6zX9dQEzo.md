@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-578 songs - 1 day 4 hr 27 min
+579 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Hall of Fame](https://open.spotify.com/track/6vOrFSgl9uYHexljLl26E1) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [Sonshine](https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7) | 3:37 | 2022-02-04 | 2022-12-17 |
 | [Hallelujah’s Song \(Psalm 103\) \- FRANKLIN Remix](https://open.spotify.com/track/6CyjgYf2MXZwKdSKkCAmaK) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Caleb Chapman](https://open.spotify.com/artist/2O7QprwEkB7axelpXQa7Th), [Will Chapman](https://open.spotify.com/artist/5QUtZ4R2ZxWxOSrrvxj4jU) | [Bangerz](https://open.spotify.com/album/4PiXo9M3VrAlP5fG0auMcx) | 4:18 | 2022-02-04 | 2022-04-30 |
 | [Hands on Me](https://open.spotify.com/track/4fJPzIrLQPeHl9ONB4bPCD) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Hands on Me](https://open.spotify.com/album/0biyWpaRqrmazzLwt0pqts) | 2:16 | 2024-03-20 |  |
+| [HE BACK!](https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [HE BACK!](https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4) | 1:55 | 2024-03-20 |  |
 | [Headspace \- GOLDHOUSE Remix](https://open.spotify.com/track/7HcnT1waFtSq0Ul3kXwflW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Headspace](https://open.spotify.com/album/7y8Dzogy270AzjyhZU204y) | 3:08 | 2022-02-04 | 2022-07-18 |
 | [Heaven Bound](https://open.spotify.com/track/3GTeDNluIT844Wy0nP3UR2) | [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [Heaven Bound](https://open.spotify.com/album/3tGembZgInQMBhCEROWTuj) | 2:10 | 2023-12-15 | 2024-02-03 |
 | [Helga](https://open.spotify.com/track/47n31kXP2dwfE82xtOA3qK) | [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Helga](https://open.spotify.com/album/4GpsaQPRX1Sjv628WlMFRC) | 2:36 | 2022-07-17 | 2022-07-29 |
@@ -280,7 +281,7 @@
 | [Just like Marvin](https://open.spotify.com/track/0nlauzP2BOuRb4QxjsUzpq) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Just like Marvin](https://open.spotify.com/album/2MML57Zxl0b2o0QM3L2hVP) | 2:10 | 2023-08-11 | 2023-11-03 |
 | [Keep Me](https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Keep Me](https://open.spotify.com/album/56QvP6bxRamLdPzp1YwL52) | 2:30 | 2022-02-04 | 2024-01-13 |
 | [Keep On Movin \- Zed Bias Remix](https://open.spotify.com/track/4mJvhJqBMvyIXRWFSDK594) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Zed Bias](https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7) | [RE//CHOIRED](https://open.spotify.com/album/3qSgBlnR7TknyBhQ7B7AkP) | 5:18 | 2022-03-23 | 2022-04-28 |
-| [KEEPER](https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8) | [Amar](https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2), [Vianca "The Grace"](https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP) | [KEEPER](https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV) | 3:58 | 2024-02-02 |  |
+| [KEEPER](https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8) | [Amar](https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2), [Vianca "The Grace"](https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP) | [KEEPER](https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV) | 3:58 | 2024-02-02 | 2024-04-05 |
 | [KIDS](https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [KIDS](https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh) | 2:13 | 2022-03-23 | 2023-08-12 |
 | [King Jesus](https://open.spotify.com/track/2ZiFqYVqFov05oVA8QQjEP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [King Jesus](https://open.spotify.com/album/5YJm6pkNV8vFWjqDc9LNDD) | 2:48 | 2022-03-11 | 2022-03-24 |
 | [KING of 'kings"](https://open.spotify.com/track/1LRjbSailfqUFnYUGZIinm) | [GIDYON](https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [KING of 'kings"](https://open.spotify.com/album/7KgAv7XR86ZvZVyCzCXU86) | 3:15 | 2022-04-30 | 2023-09-07 |

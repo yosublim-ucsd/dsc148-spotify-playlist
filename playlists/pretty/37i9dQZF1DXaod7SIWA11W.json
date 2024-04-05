@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"spotify:artist:03qM4LmPCrR7CuHTE0WAIW\">Koryn Hawthorne</a> ",
-  "num_followers": 71105,
+  "num_followers": 71155,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDllOTI2M2IzMDIwYzNjNzljNzk4YzE4NzgzOGQzNjUzZjU0NmY3",
+  "snapshot_id": "MCw4ZmNmNmMyMTkxYjRkZDlhMTU4ZTc1MGYyODViNjE0YzA0YTMxOTJl",
   "tracks": [
     {
       "added_at": "2024-03-20 10:43:05",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "OOWEE",
+        "url": "https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6"
+      },
+      "artists": [
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        }
+      ],
+      "duration_ms": 148363,
+      "name": "OOWEE",
+      "url": "https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "Pray For Atlanta",
         "url": "https://open.spotify.com/album/3p4fL3jh9YxqEstKbz1Cfy"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 136470,
       "name": "Let Go Let God",
       "url": "https://open.spotify.com/track/0FaZTQqTrOOVp84K1aygmC"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "OOWEE",
-        "url": "https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6"
-      },
-      "artists": [
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        }
-      ],
-      "duration_ms": 148363,
-      "name": "OOWEE",
-      "url": "https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -647,30 +647,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Joy In The Morning (Remix)",
-        "url": "https://open.spotify.com/album/7Ach1ESfO3xhhhs8bOBcZp"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 233373,
-      "name": "Joy In The Morning - Remix",
-      "url": "https://open.spotify.com/track/0edWLFpD77Xw6wt0hJOswX"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "FIND MY WAY",
         "url": "https://open.spotify.com/album/6zMB1gaaFKxJIWQtYnsES5"
       },
@@ -691,6 +667,30 @@
       "duration_ms": 110030,
       "name": "FIND MY WAY",
       "url": "https://open.spotify.com/track/32oM6ZiwrFcXtscoQWpN76"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Joy In The Morning (Remix)",
+        "url": "https://open.spotify.com/album/7Ach1ESfO3xhhhs8bOBcZp"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "Joy In The Morning - Remix",
+      "url": "https://open.spotify.com/track/0edWLFpD77Xw6wt0hJOswX"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Choirmaster II (Live)",
-        "url": "https://open.spotify.com/album/4Nqqfoi87fORR9WqZssv78"
-      },
-      "artists": [
-        {
-          "name": "Ricky Dillard",
-          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
-        }
-      ],
-      "duration_ms": 395784,
-      "name": "Fill Us Once Again - Live",
-      "url": "https://open.spotify.com/track/2DXxLCnsZBIaRrTGmm6kwC"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Glory Hour",
         "url": "https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
+        "name": "Choirmaster II (Live)",
+        "url": "https://open.spotify.com/album/4Nqqfoi87fORR9WqZssv78"
       },
       "artists": [
         {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
         }
       ],
-      "duration_ms": 195404,
-      "name": "New",
-      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
+      "duration_ms": 395784,
+      "name": "Fill Us Once Again - Live",
+      "url": "https://open.spotify.com/track/2DXxLCnsZBIaRrTGmm6kwC"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -835,22 +819,18 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "I Pray (Acoustic)",
-        "url": "https://open.spotify.com/album/0dfw8uAvEi5v7hdvpw3bv5"
+        "name": "New",
+        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
       },
       "artists": [
         {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/0JGwd3NLTdEaPHWQse8nkx"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 218016,
-      "name": "I Pray (Acoustic)",
-      "url": "https://open.spotify.com/track/1H8T3lz2edaHhmoIxlPUSK"
+      "duration_ms": 195404,
+      "name": "New",
+      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -903,6 +883,26 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "I Pray (Acoustic)",
+        "url": "https://open.spotify.com/album/0dfw8uAvEi5v7hdvpw3bv5"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/0JGwd3NLTdEaPHWQse8nkx"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 218016,
+      "name": "I Pray (Acoustic)",
+      "url": "https://open.spotify.com/track/1H8T3lz2edaHhmoIxlPUSK"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "What?",
         "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 132472,
       "name": "What?",
       "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "I Still Have You",
-        "url": "https://open.spotify.com/album/22Dhwmk1vEUU8G5keHdfBo"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 254208,
-      "name": "I Still Have You",
-      "url": "https://open.spotify.com/track/6ungnRr8B5ZetjVy3KnlVs"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -963,6 +947,22 @@
       "duration_ms": 183201,
       "name": "HI-C",
       "url": "https://open.spotify.com/track/6DmLU5yyCcwCS5MgHbZq78"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "I Still Have You",
+        "url": "https://open.spotify.com/album/22Dhwmk1vEUU8G5keHdfBo"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 254208,
+      "name": "I Still Have You",
+      "url": "https://open.spotify.com/track/6ungnRr8B5ZetjVy3KnlVs"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "That Feel",
+        "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "duration_ms": 163657,
+      "name": "That Feel",
+      "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "Nobody's Perfect",
         "url": "https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 189960,
       "name": "Third Day (feat. Ty Brasel)",
       "url": "https://open.spotify.com/track/585LHTE4ugzJoCqk6bmkjV"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "That Feel",
-        "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
-      },
-      "artists": [
-        {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
-        }
-      ],
-      "duration_ms": 163657,
-      "name": "That Feel",
-      "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/6bLyGhK2QLpi8yS3GWtRML"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/6BFVwjDZLLtmxaxsl1t3lP"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Nicely",
         "url": "https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "My Dey",
-        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/6bLyGhK2QLpi8yS3GWtRML"
       },
       "artists": [
         {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 131065,
-      "name": "My Dey",
-      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
+      "duration_ms": 216000,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/6BFVwjDZLLtmxaxsl1t3lP"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1239,6 +1223,22 @@
       "duration_ms": 186713,
       "name": "Optimistic",
       "url": "https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "My Dey",
+        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "My Dey",
+      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Clouds II",
         "url": "https://open.spotify.com/album/1gKvdAwzaQBaOkm1j2FOQG"
       },
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "Freedom Dance",
         "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
       },
@@ -1399,26 +1399,6 @@
       "duration_ms": 174000,
       "name": "Freedom Dance",
       "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "G.O.A.L.S.",
-        "url": "https://open.spotify.com/album/20u7UEG2i60KRs5iPJ2pgl"
-      },
-      "artists": [
-        {
-          "name": "Aaron LaRoy",
-          "url": "https://open.spotify.com/artist/1CkVufmAAig0ly0zyEqQQJ"
-        },
-        {
-          "name": "Constance Dees",
-          "url": "https://open.spotify.com/artist/0kIBXBjW4OANrsRuMto6yu"
-        }
-      ],
-      "duration_ms": 179031,
-      "name": "G.O.A.L.S.",
-      "url": "https://open.spotify.com/track/2DHpfCtX1KmkvHvc5rutRV"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1443,6 +1423,26 @@
       "duration_ms": 285106,
       "name": "Jesus (feat. Le'andria Johnson)",
       "url": "https://open.spotify.com/track/3Fw9sLyTKHYpRISAWCgvY1"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "G.O.A.L.S.",
+        "url": "https://open.spotify.com/album/20u7UEG2i60KRs5iPJ2pgl"
+      },
+      "artists": [
+        {
+          "name": "Aaron LaRoy",
+          "url": "https://open.spotify.com/artist/1CkVufmAAig0ly0zyEqQQJ"
+        },
+        {
+          "name": "Constance Dees",
+          "url": "https://open.spotify.com/artist/0kIBXBjW4OANrsRuMto6yu"
+        }
+      ],
+      "duration_ms": 179031,
+      "name": "G.O.A.L.S.",
+      "url": "https://open.spotify.com/track/2DHpfCtX1KmkvHvc5rutRV"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "SURREAL",
+        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "duration_ms": 174409,
+      "name": "SURREAL",
+      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "6:41PM",
         "url": "https://open.spotify.com/album/3vJyEXyyULmw8gupmsV58o"
       },
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "SURREAL",
-        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
-      },
-      "artists": [
-        {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
-        }
-      ],
-      "duration_ms": 174409,
-      "name": "SURREAL",
-      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Lover of My Soul",
         "url": "https://open.spotify.com/album/2S3qRBiuvL9pD5oHPvobHd"
       },
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "RADICAL",
+        "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 172027,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6Kz4gt4CBJyjveJic1hB5X"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "God Of My Dreams",
         "url": "https://open.spotify.com/album/76mWJMAuLvCwzG7i4AJbLT"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 178360,
       "name": "God Of My Dreams",
       "url": "https://open.spotify.com/track/0iCoAvCGdcS8il7ZcGvCop"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "RADICAL",
-        "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 172027,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/6Kz4gt4CBJyjveJic1hB5X"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/3is8scf2A9pcP2mLXAAOBJ"
-      },
-      "artists": [
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
-        }
-      ],
-      "duration_ms": 166600,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/0C1vXc5CXswmFHITNClPn6"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "It's You",
         "url": "https://open.spotify.com/album/6aS85jgNXuGFYN190ytedS"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 135819,
       "name": "It's You",
       "url": "https://open.spotify.com/track/401iOVzoxC7ZhhrwP2zh9h"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/3is8scf2A9pcP2mLXAAOBJ"
+      },
+      "artists": [
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        }
+      ],
+      "duration_ms": 166600,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/0C1vXc5CXswmFHITNClPn6"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1823,30 +1823,18 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "God Of Color",
-        "url": "https://open.spotify.com/album/79lzwtt0wzKrQMstqpuLCA"
+        "name": "The Prodigal Son",
+        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
       },
       "artists": [
         {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "Jalen Seawright",
-          "url": "https://open.spotify.com/artist/5puI4C97ehRfRMIYD1jmdY"
-        },
-        {
-          "name": "Royce Lovett",
-          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
-        },
-        {
-          "name": "Bianca White",
-          "url": "https://open.spotify.com/artist/6LQEc5GwKeHrG2FzliYVcN"
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
         }
       ],
-      "duration_ms": 222000,
-      "name": "God Of Color",
-      "url": "https://open.spotify.com/track/12GXU5ZCZOGlty5hNElzic"
+      "duration_ms": 190295,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/1mkANYnNwWgdBhC81QQdZz"
     }
   ],
   "unique_name": "Lifted Frequency",

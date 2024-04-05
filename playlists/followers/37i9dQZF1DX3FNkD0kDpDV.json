@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 723151,
+  "2024-04-05": 723315,
   "date_first_scraped": "2021-12-21",
   "description": "From 1994 to 2024: Time Warp Turns 30! Celebrate this landmark anniversary with us through a 30-hour party marathon. Get into the Time Warp spirit with an exclusive playlist showcasing the best of our artists performing on the first weekend of April in Mannheim.",
   "name": "Time Warp Guest List",
@@ -888,6 +888,24 @@
     },
     {
       "album": {
+        "name": "Armstrong / Pumpkin",
+        "url": "https://open.spotify.com/album/4lQBz5LoSgfuxBKyvNdtlY"
+      },
+      "artists": [
+        {
+          "name": "Speedy J",
+          "url": "https://open.spotify.com/artist/4zOEbGsiNi7qGWdyDv43gx"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556119,
+      "name": "Armstrong",
+      "url": "https://open.spotify.com/track/2TZxgK0843b8dCIB0JnSJz"
+    },
+    {
+      "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
       },
@@ -929,7 +947,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 722906,
       "name": "Assault",
       "url": "https://open.spotify.com/track/7gldneI4G7dB2o9Aqo83cG"
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 518945,
       "name": "Blackwater - 128 full strings vocal mix",
       "url": "https://open.spotify.com/track/3etLHAzGr30F9G4bnUpdxw"
@@ -1541,6 +1559,24 @@
       "duration_ms": 406651,
       "name": "Blooming Flower - Extended Version",
       "url": "https://open.spotify.com/track/1AO3ZJYilMhYn08dbK2j40"
+    },
+    {
+      "album": {
+        "name": "Blue (Da Ba Dee)",
+        "url": "https://open.spotify.com/album/3YqqiMSH0rbnLQPksRrSnh"
+      },
+      "artists": [
+        {
+          "name": "I'm Blue",
+          "url": "https://open.spotify.com/artist/5Rdhduu4Zo7gs9FOt6YKbo"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221979,
+      "name": "Blue (Da Ba Dee)",
+      "url": "https://open.spotify.com/track/0nHQAxZgzAcKGRxAsOISTc"
     },
     {
       "album": {
@@ -2440,6 +2476,24 @@
     },
     {
       "album": {
+        "name": "Let's Begin",
+        "url": "https://open.spotify.com/album/3G95YugyYcr8ty6fIM1P5P"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243639,
+      "name": "Computerized",
+      "url": "https://open.spotify.com/track/5H9qwIan5qx3MFNG8jyXgI"
+    },
+    {
+      "album": {
         "name": "Concepts of Love",
         "url": "https://open.spotify.com/album/1zKUzsOIYFIKbicO0IhQcb"
       },
@@ -2835,10 +2889,32 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 294750,
       "name": "Cuando Vengas",
       "url": "https://open.spotify.com/track/2e14vbZGQtgOlNkb48BYeV"
+    },
+    {
+      "album": {
+        "name": "C\u0153ur Noir",
+        "url": "https://open.spotify.com/album/6XYaNLpStLI3vkOgzYY6bz"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Vitalic",
+          "url": "https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274545,
+      "name": "C\u0153ur Noir",
+      "url": "https://open.spotify.com/track/0zbaWzgpzP1gFpEvgwI8YI"
     },
     {
       "album": {
@@ -2879,6 +2955,24 @@
       "duration_ms": 366141,
       "name": "Da Fonk (feat. Joni)",
       "url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b"
+    },
+    {
+      "album": {
+        "name": "Dads Backyard",
+        "url": "https://open.spotify.com/album/6wLrpkVDd1oz51wRYU9QmH"
+      },
+      "artists": [
+        {
+          "name": "Juliet Fox",
+          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238344,
+      "name": "Dads Backyard",
+      "url": "https://open.spotify.com/track/3zkI4XgK1kJHP8hWs0GhJG"
     },
     {
       "album": {
@@ -3065,6 +3159,32 @@
       "duration_ms": 370602,
       "name": "De-Orbit - Remastered 2021",
       "url": "https://open.spotify.com/track/61aKZo1sgYkIHgVJI6irSB"
+    },
+    {
+      "album": {
+        "name": "Move D Presents House Grooves Vol. 1",
+        "url": "https://open.spotify.com/album/4N2bWXjy8UDxCM41X8nlHH"
+      },
+      "artists": [
+        {
+          "name": "Move D",
+          "url": "https://open.spotify.com/artist/3hwmrS8MSceZwnZYvZFf97"
+        },
+        {
+          "name": "Seebase",
+          "url": "https://open.spotify.com/artist/5ZVEYv36W2q6hBqShD1AMi"
+        },
+        {
+          "name": "DJ Oyster",
+          "url": "https://open.spotify.com/artist/4k5cTI4utnYQcvVTAFfGgt"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350593,
+      "name": "Deep (feat. Seebase) - DJ Oyster Edit",
+      "url": "https://open.spotify.com/track/3CnrneHGLG4RdlGDkh6QCP"
     },
     {
       "album": {
@@ -5372,6 +5492,24 @@
     },
     {
       "album": {
+        "name": "Gigantia",
+        "url": "https://open.spotify.com/album/2Eyevi4paab5SHW0pgCRuR"
+      },
+      "artists": [
+        {
+          "name": "Boston 168",
+          "url": "https://open.spotify.com/artist/2C5ZMi6drXQAbj9LNhzZo0"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339940,
+      "name": "Gigantia",
+      "url": "https://open.spotify.com/track/2W0okYa253wH35AgMldHDT"
+    },
+    {
+      "album": {
         "name": "EDC Las Vegas 2022",
         "url": "https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau"
       },
@@ -6409,7 +6547,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 343007,
       "name": "Hypnotic States",
       "url": "https://open.spotify.com/track/5HQ1J9HFUNmdD3OYHlbFPa"
@@ -7468,6 +7606,24 @@
     },
     {
       "album": {
+        "name": "Krekc (Remastered 2021)",
+        "url": "https://open.spotify.com/album/111alzRaTt5puA1hycMi3S"
+      },
+      "artists": [
+        {
+          "name": "Speedy J",
+          "url": "https://open.spotify.com/artist/4zOEbGsiNi7qGWdyDv43gx"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527922,
+      "name": "Krekc - Remastered 2021",
+      "url": "https://open.spotify.com/track/6LJ8RhrSvburc2SWEFfcyE"
+    },
+    {
+      "album": {
         "name": "La Candela Viva",
         "url": "https://open.spotify.com/album/1QKqaGnIWDOk4w5eX0rjjE"
       },
@@ -7501,7 +7657,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 416000,
       "name": "La cl\u00e9 des champs",
       "url": "https://open.spotify.com/track/12LOYGBr0T0IqyuhEILYFh"
@@ -10781,7 +10937,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 318048,
       "name": "Pochuvstvui",
       "url": "https://open.spotify.com/track/3yAZlSePhxGnVmNPySnW87"
@@ -10937,7 +11093,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 359444,
       "name": "Pull Over - Remastered 2021",
       "url": "https://open.spotify.com/track/3DLSN0FHPHLQVeuXwJ4etH"
@@ -11049,6 +11205,24 @@
       "duration_ms": 232682,
       "name": "Pyramids",
       "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
+    },
+    {
+      "album": {
+        "name": "P\u00e9gate M\u00e1s EP",
+        "url": "https://open.spotify.com/album/6ySqBn2WEo0tJMmfyWcs7R"
+      },
+      "artists": [
+        {
+          "name": "David L\u00f6hlein",
+          "url": "https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213800,
+      "name": "P\u00e9gate M\u00e1s",
+      "url": "https://open.spotify.com/track/0MpfkGn4Ba3IBaoBtF5OLB"
     },
     {
       "album": {
@@ -11217,7 +11391,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 239083,
       "name": "Rave - Remix",
       "url": "https://open.spotify.com/track/1xcxd5hIP1hkU3IOebJkuo"
@@ -11279,7 +11453,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 207919,
       "name": "Ray Of Solar - Anfisa Letyago Remix",
       "url": "https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR"
@@ -12001,6 +12175,24 @@
       "duration_ms": 255000,
       "name": "Rok The House",
       "url": "https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ"
+    },
+    {
+      "album": {
+        "name": "Roll / Feeling in the Air",
+        "url": "https://open.spotify.com/album/76Xek2jq5hf8cLSE1vPQ9h"
+      },
+      "artists": [
+        {
+          "name": "Sam Paganini",
+          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262140,
+      "name": "Roll - Radio-Edit",
+      "url": "https://open.spotify.com/track/6SgNegPZt8R0KO8QLlSqnV"
     },
     {
       "album": {
@@ -13820,6 +14012,28 @@
     },
     {
       "album": {
+        "name": "Take Off",
+        "url": "https://open.spotify.com/album/350F8g1oIRWzdUs8gMfmsc"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237401,
+      "name": "Take Off",
+      "url": "https://open.spotify.com/track/1Qew5n9FSPxpiqu0Og4R3J"
+    },
+    {
+      "album": {
         "name": "Klockworks 27",
         "url": "https://open.spotify.com/album/1ERbppCfzFR6FbVORPEs9K"
       },
@@ -13923,6 +14137,24 @@
       "duration_ms": 464000,
       "name": "Tanzstube - Original Mix",
       "url": "https://open.spotify.com/track/3c95FMCqKRCx3KA2e5rv4y"
+    },
+    {
+      "album": {
+        "name": "tarde (remixes)",
+        "url": "https://open.spotify.com/album/1TyHR2CD5Y5C3lNWrbViRp"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488500,
+      "name": "tarde - nina kraviz psy mix",
+      "url": "https://open.spotify.com/track/5yrdKFfLK8bpVCMNoDvnMX"
     },
     {
       "album": {
@@ -14643,6 +14875,24 @@
       "duration_ms": 278029,
       "name": "Tienat\u00e9",
       "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
+    },
+    {
+      "album": {
+        "name": "Never On Sunday",
+        "url": "https://open.spotify.com/album/2OO037Y1FuqD60MHMSEbri"
+      },
+      "artists": [
+        {
+          "name": "Octave One",
+          "url": "https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415225,
+      "name": "Tiers (Level A)",
+      "url": "https://open.spotify.com/track/0ksnV4uorP7OZfBlAPKQKQ"
     },
     {
       "album": {
@@ -15417,7 +15667,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 166556,
       "name": "Velvet Tears",
       "url": "https://open.spotify.com/track/3nRFfFIZomzTJpDSYXF4zj"
@@ -15735,7 +15985,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 545806,
       "name": "Wall - Original Mix",
       "url": "https://open.spotify.com/track/6wBsEwHHJoYSexXBLjCJ3R"
@@ -16844,6 +17094,28 @@
     },
     {
       "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/1nbX5SpbInsusz0qYRcrr2"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170645,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/4mwYnQIIIQMZ2fv1bA1v9E"
+    },
+    {
+      "album": {
         "name": "You Are My Guide",
         "url": "https://open.spotify.com/album/2zDhAIky85X0Mn39O047bn"
       },
@@ -17107,7 +17379,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 502969,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/5NZdurYcFYOg3s2YyzeVgE"

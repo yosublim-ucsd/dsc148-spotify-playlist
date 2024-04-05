@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 8100,
+  "2024-04-05": 8120,
   "date_first_scraped": "2022-09-21",
   "description": "The best new music by independent African artists and labels. Cover:  <a href=\"https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA?si=AQ0HJi-XQFi92sXnksyuZQ\">Taves</a>. Artwork: Isu Kim. ",
   "name": "Fresh Finds Africa",
@@ -14043,7 +14043,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 390000,
       "name": "Tshwala Bam (feat. S.N.E, EeQue)",
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
@@ -14513,10 +14513,32 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 187242,
       "name": "Vitamin D",
       "url": "https://open.spotify.com/track/65aPujtCATKAH8IgGQPt4t"
+    },
+    {
+      "album": {
+        "name": "Vitamin D / Dey Play",
+        "url": "https://open.spotify.com/album/5ZR8Ae56tRPjiEB2fOGt4h"
+      },
+      "artists": [
+        {
+          "name": "3rty",
+          "url": "https://open.spotify.com/artist/1tf6tPWbSTGpFgNo9IAP8U"
+        },
+        {
+          "name": "WeTalkSound",
+          "url": "https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187242,
+      "name": "Vitamin D",
+      "url": "https://open.spotify.com/track/38wwH8rLOM07KQ2iYscUiY"
     },
     {
       "album": {

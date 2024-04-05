@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,758 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,776 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 44 | [Is It Love \- goddard\. Remix](https://open.spotify.com/track/5kNaiGZicJkD7r1cwbzDcD) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Is It Love \(goddard\. Remix\)](https://open.spotify.com/album/2JSThj7pMIiCybV5lxWDYh) | 2:38 |
 | 45 | [I'm Not a Girl, Not Yet a Woman \- Snakehips Remix](https://open.spotify.com/track/4AWNbyE153F4Olg7fTJFD5) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [I'm Not a Girl, Not Yet a Woman \(Snakehips Remix\)](https://open.spotify.com/album/6hB0pjxCzWPAIZDwpxQ5yh) | 2:47 |
 | 46 | [Head Underwater \- Arcando Remix](https://open.spotify.com/track/4DwQLjh6eCUHX8Ri4ZpG8v) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [Head Underwater \(Remixes\)](https://open.spotify.com/album/19kASaaQTNHfTHyEMEZbKl) | 2:30 |
-| 47 | [Life Goes On \- Alok Remix](https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Life Goes On \(Alok Remix\)](https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8) | 2:37 |
-| 48 | [Good Ones \- Joel Corry Remix](https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Good Ones \(Joel Corry Remix\)](https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv) | 2:45 |
+| 47 | [Good Ones \- Joel Corry Remix](https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Good Ones \(Joel Corry Remix\)](https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv) | 2:45 |
+| 48 | [Life Goes On \- Alok Remix](https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Life Goes On \(Alok Remix\)](https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8) | 2:37 |
 | 49 | [Cardboard Box \- Happi Remix](https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Cardboard Box](https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0) | 2:30 |
 | 50 | [Say So \(Jax Jones Midnight Snack Remix\)](https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Say So \(Jax Jones Midnight Snack Remix\)](https://open.spotify.com/album/6pbeqvCzbgBigh3zo8SSit) | 3:30 |
 
-Snapshot ID: `MCwzNmVkZTcxZmU0YmU5ZGNjNmMzNmM4ODM5YjAzNDBiZTA3M2Q2ZjJl`
+Snapshot ID: `MCxmNmZkNWM2NWViMGU2YWFhOTNmZTY3NWM5YTY1MjhkMjBlMjg3MDRj`

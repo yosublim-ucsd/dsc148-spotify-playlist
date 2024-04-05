@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1260428,
+  "num_followers": 1260804,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjEwMWU3NmU4OTA3MzU3OWJkZWIwNGVkZjU1NmVkODBlNzExZTdk",
+  "snapshot_id": "MCw4NTMwMGY3ZGUwODEzZGI4MmJhNDZiYmNjYjI0NDAzNzI3MDY1MDgx",
   "tracks": [
     {
       "added_at": "2024-03-29 04:01:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Buhloone Mindstate",
+        "url": "https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 255008,
+      "name": "Breakadawn",
+      "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "The Patience",
         "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Buhloone Mindstate",
-        "url": "https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 255008,
-      "name": "Breakadawn",
-      "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Reachin' (A New Refutation Of Time And Space)",
         "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
       },
@@ -343,46 +343,6 @@
       "duration_ms": 275342,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Donny In Valdez (PJ's Flip)",
-        "url": "https://open.spotify.com/album/6QcDKB0L4Hr2LcyPLLQFlP"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 113747,
-      "name": "Donny In Valdez - PJ's Flip",
-      "url": "https://open.spotify.com/track/1aZ2te6hhXVJOYumYrZkAt"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "BAKIN SOUL",
-        "url": "https://open.spotify.com/album/6a2Y9BYoJFkcDs0SwxZ4bm"
-      },
-      "artists": [
-        {
-          "name": "Cookin Soul",
-          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
-        },
-        {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
-        }
-      ],
-      "duration_ms": 168978,
-      "name": "Life Lessons",
-      "url": "https://open.spotify.com/track/3Tepsl8CqNWu5N8lqHvYdH"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -407,6 +367,46 @@
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/344MYybqGBtYOEI97tb0f5"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "BAKIN SOUL",
+        "url": "https://open.spotify.com/album/6a2Y9BYoJFkcDs0SwxZ4bm"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        }
+      ],
+      "duration_ms": 168978,
+      "name": "Life Lessons",
+      "url": "https://open.spotify.com/track/3Tepsl8CqNWu5N8lqHvYdH"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Donny In Valdez (PJ's Flip)",
+        "url": "https://open.spotify.com/album/6QcDKB0L4Hr2LcyPLLQFlP"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "duration_ms": 113747,
+      "name": "Donny In Valdez - PJ's Flip",
+      "url": "https://open.spotify.com/track/1aZ2te6hhXVJOYumYrZkAt"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -775,30 +775,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Jazzmatazz Volume II: The New Reality",
-        "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
-      },
-      "artists": [
-        {
-          "name": "Guru",
-          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
-        },
-        {
-          "name": "Paul Ferguson",
-          "url": "https://open.spotify.com/artist/5FEcqRnQYuAb8QyZginKaa"
-        },
-        {
-          "name": "Baybe",
-          "url": "https://open.spotify.com/artist/1dpH2N2f3HJ3D48z2q78br"
-        }
-      ],
-      "duration_ms": 237733,
-      "name": "Feel The Music",
-      "url": "https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Baw Baw Black Sheep",
         "url": "https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 259906,
       "name": "Cookie Chips",
       "url": "https://open.spotify.com/track/75yIue8dwthQA0QKd9ktyI"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Jazzmatazz Volume II: The New Reality",
+        "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
+      },
+      "artists": [
+        {
+          "name": "Guru",
+          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        {
+          "name": "Paul Ferguson",
+          "url": "https://open.spotify.com/artist/5FEcqRnQYuAb8QyZginKaa"
+        },
+        {
+          "name": "Baybe",
+          "url": "https://open.spotify.com/artist/1dpH2N2f3HJ3D48z2q78br"
+        }
+      ],
+      "duration_ms": 237733,
+      "name": "Feel The Music",
+      "url": "https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "The Actual Proof",
         "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 163636,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Mellow My Man",
-      "url": "https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1047,30 +1047,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Sleep Is the Cousin of Death",
-        "url": "https://open.spotify.com/album/0eDkilJPtjHJfmedXgAZ4W"
-      },
-      "artists": [
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        },
-        {
-          "name": "Dephlow",
-          "url": "https://open.spotify.com/artist/1nCUYuFML9tgcrVZ605wXB"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 154837,
-      "name": "Street Jazz",
-      "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "The Return (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3qA0tPLgVE2F7GjnaqGLDP"
       },
@@ -1091,6 +1067,30 @@
       "duration_ms": 147617,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/37NJtv7Cbkb9potgl3pArj"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Sleep Is the Cousin of Death",
+        "url": "https://open.spotify.com/album/0eDkilJPtjHJfmedXgAZ4W"
+      },
+      "artists": [
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        },
+        {
+          "name": "Dephlow",
+          "url": "https://open.spotify.com/artist/1nCUYuFML9tgcrVZ605wXB"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 154837,
+      "name": "Street Jazz",
+      "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Speakthru (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 187175,
+      "name": "Shine Thru",
+      "url": "https://open.spotify.com/track/7oedV61tJa8X3ZPE4egKpy"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -1519,26 +1539,6 @@
       "duration_ms": 203680,
       "name": "Violets (feat. Phonte)",
       "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Speakthru (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 187175,
-      "name": "Shine Thru",
-      "url": "https://open.spotify.com/track/7oedV61tJa8X3ZPE4egKpy"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1735,30 +1735,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Last Nite",
-        "url": "https://open.spotify.com/album/5LfD9m1peTRqw0JBdbthq5"
-      },
-      "artists": [
-        {
-          "name": "Potatohead People",
-          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Kapok",
-          "url": "https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/0tyzW2eT67ggLRTVvvXeAM"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Factor",
         "url": "https://open.spotify.com/album/05VwnXwsWgDKvhoAi62vPq"
       },
@@ -1779,6 +1755,30 @@
       "duration_ms": 177713,
       "name": "Factor",
       "url": "https://open.spotify.com/track/4P2wL0Bt5X2NyrpHywsuPM"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Last Nite",
+        "url": "https://open.spotify.com/album/5LfD9m1peTRqw0JBdbthq5"
+      },
+      "artists": [
+        {
+          "name": "Potatohead People",
+          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Kapok",
+          "url": "https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/0tyzW2eT67ggLRTVvvXeAM"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Can't Let You Go (feat. Nick Grant)",
-        "url": "https://open.spotify.com/album/1rTUaJkFNfc671grQVrpXp"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Nick Grant",
-          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
-        }
-      ],
-      "duration_ms": 193616,
-      "name": "Can't Let You Go (feat. Nick Grant)",
-      "url": "https://open.spotify.com/track/1po27sCiUflhrwE29Gc9PJ"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Back At The House",
         "url": "https://open.spotify.com/album/78q1wlDQCvJXhjqTq9ZTZV"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 258461,
       "name": "Down",
       "url": "https://open.spotify.com/track/0XnhTgMuX3ncdnf5mZnce8"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Can't Let You Go (feat. Nick Grant)",
+        "url": "https://open.spotify.com/album/1rTUaJkFNfc671grQVrpXp"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
+        }
+      ],
+      "duration_ms": 193616,
+      "name": "Can't Let You Go (feat. Nick Grant)",
+      "url": "https://open.spotify.com/track/1po27sCiUflhrwE29Gc9PJ"
     },
     {
       "added_at": "2024-03-29 04:01:00",

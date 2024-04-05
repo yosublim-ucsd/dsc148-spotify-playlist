@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 28831,
+  "2024-04-05": 28830,
   "date_first_scraped": "2022-07-19",
   "description": "Tropical jams to catch a vibe and whine to. Cover: Gold Fang",
   "name": "Afro Fusion",
@@ -7547,6 +7547,28 @@
       "duration_ms": 136268,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/6TrkF1hbn1qLMdR2Ly3ZGj"
+    },
+    {
+      "album": {
+        "name": "Tested, Approved & Trusted",
+        "url": "https://open.spotify.com/album/3i0VuN0GGdWw9PgEHtBWli"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382588,
+      "name": "Tested, Approved & Trusted - Major League DJz Mix",
+      "url": "https://open.spotify.com/track/1d6telYM1rky7HEdY7lA3d"
     },
     {
       "album": {

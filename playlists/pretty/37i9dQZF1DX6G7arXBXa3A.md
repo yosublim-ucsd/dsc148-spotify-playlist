@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 
 > Big bands, big sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,336 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,378 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 30 | [Woodchopper’s Ball](https://open.spotify.com/track/28Ku0JK5FGK2tNdfI0rzXz) | [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn) | [Welcome to My Dream](https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o) | 3:15 |
 | 31 | [Whirly\-Bird](https://open.spotify.com/track/5YtcHwvM9O2BayUOsghqhO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [The Atomic Mr Basie](https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb) | 3:52 |
 | 32 | [Jack, You're Dead!](https://open.spotify.com/track/1EbSCkFjbaTncuamPWPq11) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Jumpin' Jive \(Remastered 1999\)](https://open.spotify.com/album/7spQJsP6dimhGMNgsBYaRO) | 2:47 |
-| 33 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:03 |
-| 34 | [Jazz Me Blues](https://open.spotify.com/track/1HCR0Img7vPgXCHxeSCtK6) | [Woody Herman](https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P) | [Verve Jazz Masters 54: Woody Herman](https://open.spotify.com/album/5VSUS19ItaqyZwSNV7CRuo) | 3:04 |
-| 35 | [I Got Rhythm](https://open.spotify.com/track/1IjZmiq8MrgzEsHgb0ubLA) | [Jimmy Dorsey & His Orchestra](https://open.spotify.com/artist/3z5VqEvu6RJ4Abtah3lTsg) | [Contrasts](https://open.spotify.com/album/6Td0cXeGPSZ6urzMTKbPEf) | 3:05 |
+| 33 | [Jazz Me Blues](https://open.spotify.com/track/1HCR0Img7vPgXCHxeSCtK6) | [Woody Herman](https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P) | [Verve Jazz Masters 54: Woody Herman](https://open.spotify.com/album/5VSUS19ItaqyZwSNV7CRuo) | 3:04 |
+| 34 | [I Got Rhythm](https://open.spotify.com/track/1IjZmiq8MrgzEsHgb0ubLA) | [Jimmy Dorsey & His Orchestra](https://open.spotify.com/artist/3z5VqEvu6RJ4Abtah3lTsg) | [Contrasts](https://open.spotify.com/album/6Td0cXeGPSZ6urzMTKbPEf) | 3:05 |
+| 35 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:03 |
 | 36 | [Manteca](https://open.spotify.com/track/6KpMB0Wgw1NVFqwn0DCprf) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Night In Tunisia: The Very Best Of Dizzy Gillespie](https://open.spotify.com/album/23CDAtj0sfiYYuoDWYR6cf) | 3:06 |
 | 37 | [Happy Together](https://open.spotify.com/track/3fwtrg0fdPvtW793T6WPwF) | [Matt Forbes](https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt) | [Happy Together](https://open.spotify.com/album/4RsJz7fSJgWzGhooCmzGoO) | 3:36 |
 | 38 | [Speakeasy Swagger](https://open.spotify.com/track/3B1iVnHB6KCAVs9azXtQO8) | [John Rowcroft](https://open.spotify.com/artist/7GyrVlX5jFlHisEa2X2GSF), [London Studio Big Band](https://open.spotify.com/artist/38Rc4JSbOBanZukrQFBe7Z) | [Vintage Big Band](https://open.spotify.com/album/4CbbOvGG4eQkNPqpZ21v2O) | 2:27 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 42 | [Greenhouse](https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP) | [Rob McConnell & The Boss Brass With Phil Woods](https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br) | [Boss Brass And Woods](https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb) | 7:41 |
 | 43 | [The Night Is Ours](https://open.spotify.com/track/3gdtpnncPDMylME3EWreQf) | [Gregory Cotti](https://open.spotify.com/artist/33t28I8epQR7UNrJXLgowa), [Gabriel Saban](https://open.spotify.com/artist/2lgEU996kHhYBlo10vh59G) | [Rumble Jam \- Big Band and Jazz Themes](https://open.spotify.com/album/2u1GEI8PRVNlBnVCAOEJFM) | 2:28 |
 | 44 | [I Didn´t Tell Them Why](https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq) | [Andrea Motis](https://open.spotify.com/artist/6CEcslhZk3A6cnin9neg5j), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Didn´t Tell Them Why](https://open.spotify.com/album/5MMnRfc7EhstEv91b1itP7) | 4:57 |
-| 45 | [Whisper Not](https://open.spotify.com/track/6chc0hinq5KuAhQhML22Hv) | [Maynard Ferguson Orchestra](https://open.spotify.com/artist/5zKY2J7SS55XcV2NFb7rPD) | [1967](https://open.spotify.com/album/1zfcftE8MWUffLvReEkuvK) | 6:18 |
+| 45 | [Luck Be a Lady](https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr) | 3:04 |
 | 46 | [Doodlin'](https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 3:55 |
-| 47 | [Luck Be a Lady](https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr) | 3:04 |
+| 47 | [Whisper Not](https://open.spotify.com/track/6chc0hinq5KuAhQhML22Hv) | [Maynard Ferguson Orchestra](https://open.spotify.com/artist/5zKY2J7SS55XcV2NFb7rPD) | [1967](https://open.spotify.com/album/1zfcftE8MWUffLvReEkuvK) | 6:18 |
 | 48 | [Three In One](https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h) | [Thad Jones\-Mel Lewis Jazz Orchestra](https://open.spotify.com/artist/486Xo5PeXA3TAkK0hisOtc) | [Presenting Thad Jones\-Mel Lewis & The Jazz Orchestra](https://open.spotify.com/album/0GVZOTR7vm9mYlZrbKTDPh) | 5:48 |
 | 49 | [Straight, No Chaser](https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Quintessence](https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH) | 2:27 |
 | 50 | [Just One Of Those Things](https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Inspiration \(A Tribute To Nat King Cole\)](https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m) | 2:42 |
 
-Snapshot ID: `MCw5ZmQxYzU3MjQ5YjExOTZlMjhmNGIyMGJiMTM5MjYzMmM5OTIxOWM4`
+Snapshot ID: `MCxhNzMyMGU0YWU0MDYzNjg2MDM1NGQ3NWRhOGEwNzNhZjU3NzdjM2Vl`

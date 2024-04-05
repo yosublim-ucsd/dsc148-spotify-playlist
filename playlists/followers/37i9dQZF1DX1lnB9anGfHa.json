@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 218237,
+  "2024-04-05": 218304,
   "date_first_scraped": "2022-03-28",
   "description": "A journey into the unknown, dark, and experimental.",
   "name": "Terra Incognita",
@@ -981,7 +981,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 520719,
       "name": "Dois Litorais",
       "url": "https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34"
@@ -3241,6 +3241,24 @@
       "duration_ms": 176126,
       "name": "Ripagnola Alle 19 (feat. Orelle, Martina Primavera)",
       "url": "https://open.spotify.com/track/0c8mwvjTYUZUMwiLn4vhbX"
+    },
+    {
+      "album": {
+        "name": "Figura",
+        "url": "https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa"
+      },
+      "artists": [
+        {
+          "name": "CLARAGUILAR",
+          "url": "https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339125,
+      "name": "Ros Elavy",
+      "url": "https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no"
     },
     {
       "album": {

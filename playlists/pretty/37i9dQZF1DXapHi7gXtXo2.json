@@ -1,12 +1,12 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 84882,
+  "num_followers": 84910,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NThmMmIzYWU5ZmM4NTE0ZWY4N2Q5NzgzOTFhN2Q0OWU3NjUwMTI5",
+  "snapshot_id": "MCwzYjRmZWE3YmNkOTc3ZmFlOGYyZWZhN2Y1OGE5YTVmNTk0MjZiNTFl",
   "tracks": [
     {
       "added_at": "2024-02-29 22:13:03",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Si Quieres",
-        "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 167044,
-      "name": "Si Quieres",
-      "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "SUPERSTICIONES",
         "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 188890,
       "name": "Supersticiones",
       "url": "https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "Si Quieres",
+        "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "duration_ms": 167044,
+      "name": "Si Quieres",
+      "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Nafta",
-        "url": "https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 253161,
-      "name": "La Carta",
-      "url": "https://open.spotify.com/track/0H351Cn5b1uS4E4Cg1Jxb5"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "Me Diste la Espalda",
         "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 202492,
       "name": "Me Diste la Espalda",
       "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "Nafta",
+        "url": "https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 253161,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/0H351Cn5b1uS4E4Cg1Jxb5"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -795,18 +795,22 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "La Danza del Espacio Tiempo",
-        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
+        "name": "Ya Me Hiciste Mal (Remix)",
+        "url": "https://open.spotify.com/album/4z11zYLcNsJZip4UeN9amB"
       },
       "artists": [
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "Rayos L\u00e1ser",
+          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 128981,
-      "name": "La Danza del Espacio Tiempo",
-      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
+      "duration_ms": 199189,
+      "name": "Ya Me Hiciste Mal - Remix",
+      "url": "https://open.spotify.com/track/3VUOdXoxnuOPiDm80AsuZR"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -831,22 +835,18 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Ya Me Hiciste Mal (Remix)",
-        "url": "https://open.spotify.com/album/4z11zYLcNsJZip4UeN9amB"
+        "name": "La Danza del Espacio Tiempo",
+        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
       },
       "artists": [
         {
-          "name": "Rayos L\u00e1ser",
-          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 199189,
-      "name": "Ya Me Hiciste Mal - Remix",
-      "url": "https://open.spotify.com/track/3VUOdXoxnuOPiDm80AsuZR"
+      "duration_ms": 128981,
+      "name": "La Danza del Espacio Tiempo",
+      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Te Pienso Todo el Tiempo",
-        "url": "https://open.spotify.com/album/1z3DJNUHiZ47dMH0rNjEwz"
-      },
-      "artists": [
-        {
-          "name": "Todo El Verano",
-          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
-        },
-        {
-          "name": "La Femme D\u00b4Argent",
-          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "Te Pienso Todo el Tiempo",
-      "url": "https://open.spotify.com/track/14CtkTc8EgxHM1fjfkiGXx"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "Verano en Invierno",
         "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 187653,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6XzNlsxA4RMUWgYC0GP5aq"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "Te Pienso Todo el Tiempo",
+        "url": "https://open.spotify.com/album/1z3DJNUHiZ47dMH0rNjEwz"
+      },
+      "artists": [
+        {
+          "name": "Todo El Verano",
+          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
+        },
+        {
+          "name": "La Femme D\u00b4Argent",
+          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "Te Pienso Todo el Tiempo",
+      "url": "https://open.spotify.com/track/14CtkTc8EgxHM1fjfkiGXx"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 228437,
+      "name": "Amor de Verano",
+      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
         "name": "Ojitos de Md (Remix)",
         "url": "https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Verano en Invierno",
-        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
       "artists": [
         {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
         }
       ],
-      "duration_ms": 228437,
-      "name": "Amor de Verano",
-      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
+      "duration_ms": 310216,
+      "name": "Nariz Con Ra\u00edz",
+      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
-      },
-      "artists": [
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        }
-      ],
-      "duration_ms": 310216,
-      "name": "Nariz Con Ra\u00edz",
-      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "Viernes",
         "url": "https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0"
       },
@@ -1291,6 +1291,26 @@
       "duration_ms": 191475,
       "name": "Viernes",
       "url": "https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/2HKVZFyt8s52LzQYhZsmic"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        },
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 176246,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/1DhyUIHhu7e6KwiTfKasiU"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1339,26 +1359,6 @@
       "duration_ms": 154087,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/6hFZ0KFUAz1bcwp4mmkGYH"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/2HKVZFyt8s52LzQYhZsmic"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        },
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 176246,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/1DhyUIHhu7e6KwiTfKasiU"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
+        "name": "Ni\u00f1o Eterno",
+        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Nin\u0303o Eterno",
+      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
         "name": "Estamos Bajo el Agua",
         "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Ni\u00f1o Eterno",
-        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
+        "name": "Madre Padre Marte",
+        "url": "https://open.spotify.com/album/7jio1zy0Bp4PiUXKdwfDMk"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
         }
       ],
-      "duration_ms": 161617,
-      "name": "Nin\u0303o Eterno",
-      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
+      "duration_ms": 212574,
+      "name": "Aparato",
+      "url": "https://open.spotify.com/track/4wl4H1WNxfxJveag7dGkQU"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1543,22 +1559,6 @@
       "duration_ms": 251996,
       "name": "Mundo de Cristal",
       "url": "https://open.spotify.com/track/6vV1TLBRd8IeOpQMZNw1ZH"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
-        "name": "Madre Padre Marte",
-        "url": "https://open.spotify.com/album/7jio1zy0Bp4PiUXKdwfDMk"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 212574,
-      "name": "Aparato",
-      "url": "https://open.spotify.com/track/4wl4H1WNxfxJveag7dGkQU"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Helado de Mango",
-        "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efa Valdez",
-          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
-        }
-      ],
-      "duration_ms": 208434,
-      "name": "Helado de Mango",
-      "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
-    },
-    {
-      "added_at": "2024-02-29 22:13:03",
-      "album": {
         "name": "Todo Lamento",
         "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
       },
@@ -1715,18 +1699,18 @@
     {
       "added_at": "2024-02-29 22:13:03",
       "album": {
-        "name": "Quiero Verte",
-        "url": "https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW"
+        "name": "Helado de Mango",
+        "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
       },
       "artists": [
         {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+          "name": "Na\u00efa Valdez",
+          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
         }
       ],
-      "duration_ms": 225938,
-      "name": "Quiero Verte",
-      "url": "https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR"
+      "duration_ms": 208434,
+      "name": "Helado de Mango",
+      "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
     },
     {
       "added_at": "2024-02-29 22:13:03",
@@ -1747,6 +1731,22 @@
       "duration_ms": 208908,
       "name": "SUR",
       "url": "https://open.spotify.com/track/2nw7A30Hk2QuCGjcyiWbxj"
+    },
+    {
+      "added_at": "2024-02-29 22:13:03",
+      "album": {
+        "name": "Quiero Verte",
+        "url": "https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 225938,
+      "name": "Quiero Verte",
+      "url": "https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR"
     },
     {
       "added_at": "2024-02-29 22:13:03",

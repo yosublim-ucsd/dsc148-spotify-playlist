@@ -4,7 +4,7 @@
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-113 songs - 7 hr 53 min
+117 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [It Ain't Easy](https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:11 | 2022-03-08 |  |
 | [It Hurts Me Too](https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Sky Is Crying](https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU) | 5:06 | 2021-03-01 |  |
 | [Kill Or Be Kind](https://open.spotify.com/track/4V8Bx1b1B5XcslWAAOph89) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 3:45 | 2021-03-01 | 2024-03-29 |
-| [Later On](https://open.spotify.com/track/2GnsJUt8AcHJDrt0zxcQAk) | [Jane Lee Hooker](https://open.spotify.com/artist/1fFEQ9r3l2ApZ1EOEcwreH) | [Spiritus](https://open.spotify.com/album/6HSLZoEk44as8CH9vG8O1g) | 5:38 | 2021-03-01 |  |
+| [Later On](https://open.spotify.com/track/2GnsJUt8AcHJDrt0zxcQAk) | [Jane Lee Hooker](https://open.spotify.com/artist/1fFEQ9r3l2ApZ1EOEcwreH) | [Spiritus](https://open.spotify.com/album/6HSLZoEk44as8CH9vG8O1g) | 5:38 | 2021-03-01 | 2024-04-05 |
+| [Later On](https://open.spotify.com/track/4JywqZZWjdpreyAjQzQEzG) | [Jane Lee Hooker](https://open.spotify.com/artist/1fFEQ9r3l2ApZ1EOEcwreH) | [Spiritus](https://open.spotify.com/album/3Oeo5IS0N11eN9t1YyoVoF) | 5:38 | 2022-03-08 |  |
 | [Leave Me Alone](https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Ain't Got No Troubles](https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x) | 3:52 | 2021-03-01 |  |
 | [Let Me Down Easy](https://open.spotify.com/track/3GxxEvIYLj5GTyia5p29No) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Let Me Down Easy](https://open.spotify.com/album/2zdW2kFqLuJu6nwcAU4u9R) | 4:50 | 2022-02-18 | 2024-03-29 |
 | [Let The Tears Roll Down](https://open.spotify.com/track/5jGTsMUMWHXrgcTHyJrLho) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 5:43 | 2021-03-01 |  |
@@ -74,14 +75,16 @@
 | [Medicine Man](https://open.spotify.com/track/3Lr0bBluqoWt2F2njzyNLd) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8) | 3:39 | 2022-03-08 | 2024-03-29 |
 | [Medicine Man](https://open.spotify.com/track/3P55beeDiAOH7qHkj8CPYZ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/7rooTZehVu9pdUIirCwA0a) | 3:39 | 2021-03-01 | 2022-10-17 |
 | [Money Makes You Ugly](https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:36 | 2021-03-01 | 2024-03-29 |
-| [My Man Called Me](https://open.spotify.com/track/2FqLyyGqLM5KWRkWs4c39D) | [Heather Crosse](https://open.spotify.com/artist/0OdyBBQn3J8hwZN1oMSEQT) | [Groovin' at the Crosse Roads](https://open.spotify.com/album/0cTXGsOEadB2wpKMtIzhN0) | 3:34 | 2021-03-01 |  |
+| [My Man Called Me](https://open.spotify.com/track/2FqLyyGqLM5KWRkWs4c39D) | [Heather Crosse](https://open.spotify.com/artist/0OdyBBQn3J8hwZN1oMSEQT) | [Groovin' at the Crosse Roads](https://open.spotify.com/album/0cTXGsOEadB2wpKMtIzhN0) | 3:34 | 2021-03-01 | 2024-04-05 |
+| [My Man Called Me](https://open.spotify.com/track/36X90M19rmpoqvhk2QMasB) | [Heather Crosse](https://open.spotify.com/artist/0OdyBBQn3J8hwZN1oMSEQT) | [Groovin' at the Crosse Roads](https://open.spotify.com/album/2XCnZDKGMpFyv5oJd1yMAQ) | 3:34 | 2022-03-08 |  |
 | [No Riders](https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:29 | 2021-03-01 |  |
 | [Now You Want Me Back](https://open.spotify.com/track/4Xdduaxx6hH6JER9A2Q71v) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/7lrmsF6mMiLYN8WAXJziez) | 4:09 | 2022-03-08 |  |
 | [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 | 2021-03-01 | 2024-01-12 |
 | [Nowhere Left to Go](https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU) | [Nowhere Left to Go](https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd) | 3:47 | 2021-03-01 |  |
 | [Open Eyes](https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Moon Goes Missing](https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh) | 5:21 | 2021-03-01 |  |
 | [Party at Red's](https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp) | [Fiona Boyes](https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE) | [Voodoo in the Shadows](https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK) | 4:15 | 2021-03-01 |  |
-| [Played the Game](https://open.spotify.com/track/04Y0ON4aAZgzbJdzu504SI) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM) | [Heart of Fire](https://open.spotify.com/album/1Vk2mDeiPytdF3RgwMeke0) | 4:45 | 2022-02-18 |  |
+| [Played the Game](https://open.spotify.com/track/04Y0ON4aAZgzbJdzu504SI) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM) | [Heart of Fire](https://open.spotify.com/album/1Vk2mDeiPytdF3RgwMeke0) | 4:45 | 2022-02-18 | 2024-04-05 |
+| [Played the Game](https://open.spotify.com/track/5TW2JPyiQ3HZEzSkce30uL) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM) | [Heart of Fire](https://open.spotify.com/album/1gtR85ENadeOX8oXCAr8yM) | 4:45 | 2022-03-08 |  |
 | [Release and Be Free](https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [The Beautiful Bones](https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38) | 4:24 | 2021-03-01 |  |
 | [Rollin' On](https://open.spotify.com/track/4PrEiwUcs8jMOAk1b5BueL) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 5:08 | 2022-02-18 |  |
 | [Romance In The Dark](https://open.spotify.com/track/5FlUpgml57EvfrdM9IFXwS) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Blackbirds](https://open.spotify.com/album/3gX2IvOKb8zxDJTTnyeLkf) | 4:18 | 2021-03-01 | 2022-07-29 |
@@ -110,7 +113,8 @@
 | [They Never Pay Me](https://open.spotify.com/track/4I7exgZnKPQeLgzRAsx77r) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/2rc0kuRCruGFP5osvkZp2S) | 3:33 | 2021-03-01 | 2022-07-27 |
 | [Things Have Changed](https://open.spotify.com/track/08aZMbV00fxoxzosGLr3cq) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/5WptPw9D94BfcayWYtk76T) | 6:56 | 2021-03-01 | 2022-07-29 |
 | [Things Have Changed](https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/4WrWD47QXsRA5IUZAyZmue) | 6:56 | 2022-03-08 |  |
-| [This Is My Will](https://open.spotify.com/track/6LOo0imVNkr9CFr6Cg6dkD) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Tell Me](https://open.spotify.com/album/4XSyd1dqmvO4SX4xh7tvru) | 5:11 | 2021-03-01 |  |
+| [This Is My Will](https://open.spotify.com/track/2TvfZaLnad4s9zX6wDly8N) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Tell Me](https://open.spotify.com/album/4BLWL6O89dRfvYbVfg30gd) | 5:11 | 2022-03-08 |  |
+| [This Is My Will](https://open.spotify.com/track/6LOo0imVNkr9CFr6Cg6dkD) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Tell Me](https://open.spotify.com/album/4XSyd1dqmvO4SX4xh7tvru) | 5:11 | 2021-03-01 | 2024-04-05 |
 | [Tricky Thing](https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 4:31 | 2021-03-01 |  |
 | [Uncivil War](https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:45 | 2021-03-01 | 2022-07-29 |
 | [Unintended Consequence Of Love](https://open.spotify.com/track/0DSob5ze3sstCI5FFpCRwj) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:49 | 2021-03-01 | 2024-03-29 |

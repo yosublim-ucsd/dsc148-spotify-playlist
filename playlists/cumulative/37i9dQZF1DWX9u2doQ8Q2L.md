@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,372 songs - 3 day 11 hr 52 min
+1,373 songs - 3 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [DOCUMENT \- 2023](https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [DOCUMENT \(2023\)](https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69) | 4:38 | 2023-04-05 | 2023-07-07 |
 | [DOG EATS GOD \(feat\. 筒井康隆\)](https://open.spotify.com/track/42puayM78xtWfZgQR8q2XH) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv), [筒井康隆](https://open.spotify.com/artist/7CVwuk73WJuFogsp0HN4bl) | [DOG EATS GOD \(feat\. 筒井康隆\)](https://open.spotify.com/album/7IF7TfpbLsQEeYSqYomkcK) | 3:04 | 2022-09-01 | 2022-10-12 |
 | [Doin It Well \- ft\. Chocoholic](https://open.spotify.com/track/6ocxzhUe3knJVasvFYoFuH) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Doin It Well](https://open.spotify.com/album/3CwjFwOSE31amjZJkSSg5e) | 2:19 | 2024-01-23 | 2024-02-07 |
-| [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP) | 2:37 | 2022-09-22 |  |
+| [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP) | 2:37 | 2022-09-22 | 2024-04-05 |
 | [DOWN TOWN](https://open.spotify.com/track/3MXCCaSni8I1FSvHeMQIGV) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [DOWN TOWN](https://open.spotify.com/album/3yY408DUkgwhfZkouMRK0i) | 4:50 | 2023-03-14 | 2023-05-05 |
 | [Drama](https://open.spotify.com/track/2AYRZZBTGjhFKATI4f7AlH) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Drama](https://open.spotify.com/album/4Jj1Z1zQ7erei7UsqsGNSo) | 3:37 | 2023-04-04 | 2023-04-06 |
 | [Drama](https://open.spotify.com/track/7q81qAmPUTbYiVOZ9uZDlk) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Drama](https://open.spotify.com/album/5jnChZoGsz6XTKKEgr6xkm) | 3:37 | 2023-04-05 | 2023-04-12 |
@@ -842,6 +842,7 @@
 | [Sol](https://open.spotify.com/track/6mMliV5nFpbX2WbYEtKImK) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Sol](https://open.spotify.com/album/1ISfBItYYBdfHXxrr6uo4W) | 3:43 | 2023-10-17 | 2023-11-22 |
 | [Sometimes \- Japanese Version](https://open.spotify.com/track/2eidpEU0z0adLL3l0cxWsh) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Sometimes \(Japanese Version\)](https://open.spotify.com/album/1IVZonSHa5osQ8hexgUrZH) | 2:28 | 2024-01-16 | 2024-03-11 |
 | [Somewhere Near Marseilles ーマルセイユ辺りー](https://open.spotify.com/track/5ai97hAB5rHiV2luX5NWw5) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [BADモード](https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij) | 11:54 | 2022-07-28 | 2022-09-16 |
+| [Somewhere Near Marseilles ーマルセイユ辺りー \(Sci\-Fi Edit\)](https://open.spotify.com/track/4GUY0onClFq7BrdSJMQ4Vw) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Somewhere Near Marseilles ーマルセイユ辺りー \(Sci\-Fi Edit\)](https://open.spotify.com/album/26ygzT2K5HKFnhsGxJPSuD) | 4:12 | 2024-04-02 |  |
 | [SONiC](https://open.spotify.com/track/4f5YVTA1gjpVUQ8nW56qlJ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nisenhyakunen](https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n) | 4:09 | 2023-01-03 | 2023-01-25 |
 | [SORA](https://open.spotify.com/track/3dGWJ8UlemnEV4WycKW3hd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 2:52 | 2023-03-14 | 2023-04-12 |
 | [SORA](https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh) | 2:52 | 2023-03-14 | 2023-03-16 |

@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Hufanani",
+        "url": "https://open.spotify.com/album/4C5MP6vOv9gSXbYKSeRdNg"
+      },
+      "artists": [
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Hufanani",
+      "url": "https://open.spotify.com/track/4y3Xoxq7l4JvZcEDN2tUZX"
+    },
+    {
+      "album": {
         "name": "Usifadhaike",
         "url": "https://open.spotify.com/album/3ugo6jrkHwa1fEmpKPvDs2"
       },
@@ -2054,6 +2072,24 @@
       "duration_ms": 402267,
       "name": "Shwari",
       "url": "https://open.spotify.com/track/4iI5RXEDegpckQPyZjRiYd"
+    },
+    {
+      "album": {
+        "name": "SIJAI KUWA MSOTO (Racing Thoughts)",
+        "url": "https://open.spotify.com/album/5RK2fDS59YJ0QkHPdfuY0G"
+      },
+      "artists": [
+        {
+          "name": "XLVI K",
+          "url": "https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "SIJAI KUWA MSOTO (Racing Thoughts)",
+      "url": "https://open.spotify.com/track/4xoPWWvpF16ORhHSVtrn1U"
     },
     {
       "album": {

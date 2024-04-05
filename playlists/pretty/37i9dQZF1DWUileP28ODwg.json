@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
-  "num_followers": 345223,
+  "num_followers": 345448,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmFiYjYwODQxMjgzMTc2YWU5M2ZiOTViMmFiNGE2NWU3MDM5NzNm",
+  "snapshot_id": "MCxmNGRkOWJhZGNlNGIyODMyMjA1ZjNjOWUzYmRmMTc0MzZlNjEyMTlh",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Make It Through",
-        "url": "https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 192196,
-      "name": "Make It Through",
-      "url": "https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Take It All Back",
         "url": "https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 193501,
       "name": "Take It All Back",
       "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Make It Through",
+        "url": "https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 192196,
+      "name": "Make It Through",
+      "url": "https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Altars Over Stages",
+        "url": "https://open.spotify.com/album/6TfLBFjK30qyZtFEBKu9NS"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 190264,
+      "name": "Altars Over Stages",
+      "url": "https://open.spotify.com/track/3XRoa9mZpoODgvYUqXP2zg"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "I Speak Jesus",
         "url": "https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "The Lord's Prayer (It's Yours)",
-        "url": "https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "The Lord's Prayer (It's Yours)",
-      "url": "https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "A Thousand Times",
         "url": "https://open.spotify.com/album/6lYqMjNaEjClreJ71eWDHr"
       },
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Altars Over Stages",
-        "url": "https://open.spotify.com/album/6TfLBFjK30qyZtFEBKu9NS"
+        "name": "The Lord's Prayer (It's Yours)",
+        "url": "https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5"
       },
       "artists": [
         {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 190264,
-      "name": "Altars Over Stages",
-      "url": "https://open.spotify.com/track/3XRoa9mZpoODgvYUqXP2zg"
+      "duration_ms": 203266,
+      "name": "The Lord's Prayer (It's Yours)",
+      "url": "https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Sound Mind (Studio Version)",
-        "url": "https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 222655,
-      "name": "Sound Mind - Studio Version",
-      "url": "https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Where Can I Go - Psalm 139",
         "url": "https://open.spotify.com/album/79urTMskFiBnMovdMAwUw1"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 277000,
       "name": "Where Can I Go - Psalm 139",
       "url": "https://open.spotify.com/track/759M03NuO9GCcWNRbZlWOL"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Sound Mind (Studio Version)",
+        "url": "https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 222655,
+      "name": "Sound Mind - Studio Version",
+      "url": "https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Deeper Waters",
-        "url": "https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 156410,
-      "name": "Deeper Waters",
-      "url": "https://open.spotify.com/track/3TyXxUT1D3EiATkn4g5vJ6"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Heaven On Earth",
         "url": "https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 199236,
       "name": "Heaven On Earth",
       "url": "https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Deeper Waters",
+        "url": "https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 156410,
+      "name": "Deeper Waters",
+      "url": "https://open.spotify.com/track/3TyXxUT1D3EiATkn4g5vJ6"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Christ Our Hope In Life And Death",
         "url": "https://open.spotify.com/album/0hz5LRsLloj4raXH1EF3f1"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 227893,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/1QMXR5HEcic19jfv6AhaLh"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 179604,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5zi9xHZ5qEdBSPkNVGumCY"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "All Along",
         "url": "https://open.spotify.com/album/77WsuRa6qXxutGWSW8RxT9"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 189400,
       "name": "All Along",
       "url": "https://open.spotify.com/track/4AQ9Yz6qxhZhlyAbWbgsdI"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 179604,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5zi9xHZ5qEdBSPkNVGumCY"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "No One Loves Me Like You Do (Radio Mix)",
+        "url": "https://open.spotify.com/album/4XYQrxh7QL6NsZxctVnJDK"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 167207,
+      "name": "No One Loves Me Like You Do - Radio Mix",
+      "url": "https://open.spotify.com/track/0VHku8GcJIfdAC6AqQgUrm"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "My Tribute (To God Be The Glory)",
         "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 341986,
       "name": "My Tribute (To God Be The Glory)",
       "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "No One Loves Me Like You Do (Radio Mix)",
-        "url": "https://open.spotify.com/album/4XYQrxh7QL6NsZxctVnJDK"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 167207,
-      "name": "No One Loves Me Like You Do - Radio Mix",
-      "url": "https://open.spotify.com/track/0VHku8GcJIfdAC6AqQgUrm"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Yeshua (Friend Of Sinners)",
-        "url": "https://open.spotify.com/album/771ZnqvojsyL5DYqnMNb7O"
-      },
-      "artists": [
-        {
-          "name": "Mike Donehey",
-          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "Yeshua (Friend Of Sinners)",
-      "url": "https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Crowns Down (Live / Deluxe)",
         "url": "https://open.spotify.com/album/6Mh3CQITw07mEI0JJ0YIP9"
       },
@@ -1275,6 +1259,78 @@
       "duration_ms": 448179,
       "name": "Joy (What The World Calls Foolish) - Live",
       "url": "https://open.spotify.com/track/59XvMohAPJxOYI2qNnsJ6w"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Yeshua (Friend Of Sinners)",
+        "url": "https://open.spotify.com/album/771ZnqvojsyL5DYqnMNb7O"
+      },
+      "artists": [
+        {
+          "name": "Mike Donehey",
+          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "Yeshua (Friend Of Sinners)",
+      "url": "https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/4npiT4Jjd9rBy8sxWy7PLF"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 202879,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/2HpRHPEKz6o17RMBP0LBZT"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Rescue",
+        "url": "https://open.spotify.com/album/01Bdh6eWt3Vp6pjyVf3qFk"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 221403,
+      "name": "Rescue (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/1qA19MGPhY4VXJw4RywdWM"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "You Changed My Name (Jon Reddick Collab Version)",
+        "url": "https://open.spotify.com/album/1hGZNecvgaMDhRHpdB9y9C"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        },
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "duration_ms": 236261,
+      "name": "You Changed My Name - Jon Reddick Collab Version",
+      "url": "https://open.spotify.com/track/5EQSJElOqQQwiVFvgIqkKh"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1303,42 +1359,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "You Changed My Name (Jon Reddick Collab Version)",
-        "url": "https://open.spotify.com/album/1hGZNecvgaMDhRHpdB9y9C"
+        "name": "Eden (Isn't It Just Like You?)",
+        "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
       },
       "artists": [
         {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        },
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 236261,
-      "name": "You Changed My Name - Jon Reddick Collab Version",
-      "url": "https://open.spotify.com/track/5EQSJElOqQQwiVFvgIqkKh"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Rescue",
-        "url": "https://open.spotify.com/album/01Bdh6eWt3Vp6pjyVf3qFk"
-      },
-      "artists": [
-        {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 221403,
-      "name": "Rescue (feat. Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/1qA19MGPhY4VXJw4RywdWM"
+      "duration_ms": 275466,
+      "name": "Eden (Isn't It Just Like You?)",
+      "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1355,22 +1387,6 @@
       "duration_ms": 179136,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Eden (Isn't It Just Like You?)",
-        "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "Eden (Isn't It Just Like You?)",
-      "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Hills Of Tyrone",
-        "url": "https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 209390,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Ark",
         "url": "https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B"
       },
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Scars",
-        "url": "https://open.spotify.com/album/4npiT4Jjd9rBy8sxWy7PLF"
+        "name": "Hills Of Tyrone",
+        "url": "https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v"
       },
       "artists": [
         {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
         }
       ],
-      "duration_ms": 202879,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/2HpRHPEKz6o17RMBP0LBZT"
+      "duration_ms": 209390,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Jesus Music",
+        "url": "https://open.spotify.com/album/3kjQ9mZ8SWjp7q5USnlmG0"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "Jesus Music",
+      "url": "https://open.spotify.com/track/2XaoDKLrO6WjtsAImXM6dz"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Where The Glory Is",
         "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
       },
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Jesus Music",
-        "url": "https://open.spotify.com/album/3kjQ9mZ8SWjp7q5USnlmG0"
+        "name": "Bigger Than Hope",
+        "url": "https://open.spotify.com/album/3xaGigA4NYkrLRBl2MXOe4"
       },
       "artists": [
         {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
         }
       ],
-      "duration_ms": 250840,
-      "name": "Jesus Music",
-      "url": "https://open.spotify.com/track/2XaoDKLrO6WjtsAImXM6dz"
+      "duration_ms": 208660,
+      "name": "Bigger Than Hope",
+      "url": "https://open.spotify.com/track/4BwTyRXI3RBYoWTW9m592J"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1663,42 +1679,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Bigger Than Hope",
-        "url": "https://open.spotify.com/album/3xaGigA4NYkrLRBl2MXOe4"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        }
-      ],
-      "duration_ms": 208660,
-      "name": "Bigger Than Hope",
-      "url": "https://open.spotify.com/track/4BwTyRXI3RBYoWTW9m592J"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Grace after Grace Reimagined",
-        "url": "https://open.spotify.com/album/4E4BkTx5cbchemPgXFgc0i"
-      },
-      "artists": [
-        {
-          "name": "Jimi Cravity",
-          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
-        },
-        {
-          "name": "Kenny J West",
-          "url": "https://open.spotify.com/artist/4bXi7LEJLwB1rZQyoPBDCb"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Grace after Grace Reimagined",
-      "url": "https://open.spotify.com/track/2QBH21Ja2afe2iHxBqSNwg"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Worthy One",
         "url": "https://open.spotify.com/album/0SLLkcMA1BbhmhSlhg091R"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 342778,
       "name": "Valor",
       "url": "https://open.spotify.com/track/0zrDcz4IcvtNqvB04tJQgh"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Grace after Grace Reimagined",
+        "url": "https://open.spotify.com/album/4E4BkTx5cbchemPgXFgc0i"
+      },
+      "artists": [
+        {
+          "name": "Jimi Cravity",
+          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
+        },
+        {
+          "name": "Kenny J West",
+          "url": "https://open.spotify.com/artist/4bXi7LEJLwB1rZQyoPBDCb"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Grace after Grace Reimagined",
+      "url": "https://open.spotify.com/track/2QBH21Ja2afe2iHxBqSNwg"
     }
   ],
   "unique_name": "Top Christian Contemporary",

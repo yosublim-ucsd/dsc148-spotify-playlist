@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 925704,
+  "2024-04-05": 925725,
   "date_first_scraped": "2021-12-21",
   "description": "Relaxing piano to help you find calm and stillness within. ",
   "name": "calm vibes",
@@ -1641,7 +1641,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 162160,
       "name": "Box of Memories",
       "url": "https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA"
@@ -2289,7 +2289,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 167179,
       "name": "Collecting Memories",
       "url": "https://open.spotify.com/track/6aFHghBSzxP3QPxS30qqp0"
@@ -2689,7 +2689,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 158823,
       "name": "Dancing the twelve",
       "url": "https://open.spotify.com/track/2yDIfosvpcbhKj3liMHZov"
@@ -2743,7 +2743,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 244374,
       "name": "Dawn Of Day",
       "url": "https://open.spotify.com/track/635M2GuMSoVunGBe7D7vWz"
@@ -2959,7 +2959,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 123000,
       "name": "Det skal nok g\u00e5",
       "url": "https://open.spotify.com/track/6i17OjR0ZQYh5RkHexzDMR"
@@ -3668,6 +3668,24 @@
     },
     {
       "album": {
+        "name": "Endlich",
+        "url": "https://open.spotify.com/album/6EYlet7J4aCY3zTqqhl8eB"
+      },
+      "artists": [
+        {
+          "name": "Arata Rin",
+          "url": "https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130246,
+      "name": "Endlich",
+      "url": "https://open.spotify.com/track/0QzBw7xBO5q6plc8hX5z7B"
+    },
+    {
+      "album": {
         "name": "Ensamma n\u00e4tter",
         "url": "https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo"
       },
@@ -3755,7 +3773,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 157170,
       "name": "Ether",
       "url": "https://open.spotify.com/track/0NInoCrExhcGEZFnRBBo0o"
@@ -4079,7 +4097,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 125500,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/6XxqVuReY8oStJvHuG3cOZ"
@@ -4385,7 +4403,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 192358,
       "name": "For You",
       "url": "https://open.spotify.com/track/2MQYYyWv4oin7VlNQDFb6n"
@@ -5660,6 +5678,24 @@
     },
     {
       "album": {
+        "name": "In Presence",
+        "url": "https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A"
+      },
+      "artists": [
+        {
+          "name": "Dean Demir",
+          "url": "https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173862,
+      "name": "In Presence",
+      "url": "https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz"
+    },
+    {
+      "album": {
         "name": "In the break of dawn",
         "url": "https://open.spotify.com/album/7I4yr1cj7ZXkis8vCvgX3R"
       },
@@ -6715,7 +6751,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 165500,
       "name": "Lendama",
       "url": "https://open.spotify.com/track/6VS88EyMGTbNowgV5TBeal"
@@ -6895,7 +6931,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 240099,
       "name": "Light in the Mist",
       "url": "https://open.spotify.com/track/4Be0A7S5hA8MvzB7rbFuHc"
@@ -6917,7 +6953,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 155138,
       "name": "Like a Child",
       "url": "https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp"
@@ -7403,7 +7439,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 146636,
       "name": "marzo 3",
       "url": "https://open.spotify.com/track/6DqQMsdAlPbPiVXiAyxpVC"
@@ -8469,7 +8505,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 150242,
       "name": "Ordinary Day",
       "url": "https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u"
@@ -8505,7 +8541,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 207253,
       "name": "Orpheus",
       "url": "https://open.spotify.com/track/7AWRvkdNrKwbOtAdwrala2"
@@ -9027,7 +9063,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 160647,
       "name": "Prevail",
       "url": "https://open.spotify.com/track/6jUukScClzRj806CeCgGk6"
@@ -9574,6 +9610,24 @@
     },
     {
       "album": {
+        "name": "Resta Con Me",
+        "url": "https://open.spotify.com/album/2BHogXZFHfpMP5qpGYwdqg"
+      },
+      "artists": [
+        {
+          "name": "Valentina Romano",
+          "url": "https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129468,
+      "name": "Resta Con Me",
+      "url": "https://open.spotify.com/track/11kyoJkQePM8zW2kEozhFu"
+    },
+    {
+      "album": {
         "name": "Rester Dans Les Parages",
         "url": "https://open.spotify.com/album/2sEefiUsuwEzMN8tXzxXVQ"
       },
@@ -9747,7 +9801,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 177766,
       "name": "River",
       "url": "https://open.spotify.com/track/78kCCDzaO09KZ8Fg7ZzIfF"
@@ -11025,7 +11079,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 184220,
       "name": "Spheroidal",
       "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
@@ -12145,7 +12199,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 144000,
       "name": "Time Passes Me By",
       "url": "https://open.spotify.com/track/0Orm7akGhYu09YPzKHZBpB"
@@ -12235,7 +12289,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 140844,
       "name": "Tolerance",
       "url": "https://open.spotify.com/track/28breCSDTKxrWa96iZBNlq"
@@ -12595,7 +12649,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 192842,
       "name": "Underverse",
       "url": "https://open.spotify.com/track/2FqPT4G4ygSSRTerAfyUD6"
@@ -12667,7 +12721,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 150009,
       "name": "Unless you leave now",
       "url": "https://open.spotify.com/track/2X2suFxascM2QSKOcWJsA1"
@@ -13193,7 +13247,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 122245,
       "name": "What It Should Look Like",
       "url": "https://open.spotify.com/track/6rWa5bTCCZQIv0qKekqhnC"
@@ -13805,7 +13859,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 139803,
       "name": "Za\u0161to",
       "url": "https://open.spotify.com/track/7eiM2QUgzptSwtOAno0kVW"

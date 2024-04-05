@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The African & West Indian diaspora united. Cover: YG Marley",
-  "name": "African Caribbean Society",
+  "description": "The African & West Indian diaspora united. Cover: Kes",
+  "name": "ACS",
   "tracks": [
     {
       "album": {
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 232155,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 202605,
       "name": "Ex Convict",
       "url": "https://open.spotify.com/track/5O7fTE396BVFRTkQv5ENSo"
@@ -3650,7 +3650,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 184000,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C"
@@ -4429,6 +4429,32 @@
     },
     {
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147071,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE"
       },
@@ -4776,7 +4802,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 205083,
       "name": "Kusuu",
       "url": "https://open.spotify.com/track/1ESLdyMbLyjOHVQlNzRVSf"
@@ -6287,6 +6313,28 @@
     },
     {
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147046,
+      "name": "No.1 (feat. Tems)",
+      "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
+    },
+    {
+      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
       },
@@ -6390,7 +6438,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 165610,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0Bm5WU83MjOYoDXKoiOQBJ"
@@ -7323,6 +7371,24 @@
     },
     {
       "album": {
+        "name": "Pretty Girls",
+        "url": "https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145571,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs"
+    },
+    {
+      "album": {
         "name": "OUT:SIDE",
         "url": "https://open.spotify.com/album/3rPlEhJ2xkEM1zqrYczjzn"
       },
@@ -8172,7 +8238,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 163361,
       "name": "Sharpally",
       "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
@@ -8944,7 +9010,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 181550,
       "name": "System (feat. WizKid)",
       "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
@@ -9172,7 +9238,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 144447,
       "name": "The Life I Chose",
       "url": "https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs"
@@ -9416,6 +9482,36 @@
       "duration_ms": 133773,
       "name": "Try",
       "url": "https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4"
+    },
+    {
+      "album": {
+        "name": "Tshwala Bam (feat. S.N.E, EeQue)",
+        "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
+      },
+      "artists": [
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        },
+        {
+          "name": "Yuppe",
+          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390000,
+      "name": "Tshwala Bam (feat. S.N.E, EeQue)",
+      "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
     },
     {
       "album": {
@@ -10164,7 +10260,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 187500,
       "name": "Wrist On Freeze",
       "url": "https://open.spotify.com/track/0SQhNk3xObQHvq3NFpIbj4"
@@ -10242,6 +10338,24 @@
       "duration_ms": 228463,
       "name": "Yebo/Sema",
       "url": "https://open.spotify.com/track/7tFZNqsXf7ESFsT8pYd2RV"
+    },
+    {
+      "album": {
+        "name": "Man With No Door",
+        "url": "https://open.spotify.com/album/1MS5QTc5isnW4DGXNVm1PZ"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211197,
+      "name": "Yes Please",
+      "url": "https://open.spotify.com/track/17gy4BgjagKxfF7HCosd4E"
     },
     {
       "album": {

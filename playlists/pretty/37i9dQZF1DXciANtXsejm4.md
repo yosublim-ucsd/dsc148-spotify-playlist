@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,135 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,214 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 72 | [No Fue Culpa Mia](https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [No Fue Culpa Mia](https://open.spotify.com/album/2hwcGbBQKle8mt23Z3gy6p) | 3:48 |
 | 73 | [Entre el Odio y el Amor](https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Rico y Suave](https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP) | 3:38 |
 | 74 | [Flor Pálida](https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Mensajes del Corazon](https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW) | 4:22 |
-| 75 | [Te Sorprenderás](https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS) | [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Sorprenderás](https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8) | 3:08 |
-| 76 | [Se Enamoró de Mi la Soledad](https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Se Enamoró de Mi la Soledad](https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI) | 4:05 |
+| 75 | [Se Enamoró de Mi la Soledad](https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Se Enamoró de Mi la Soledad](https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI) | 4:05 |
+| 76 | [Te Sorprenderás](https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS) | [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Sorprenderás](https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8) | 3:08 |
 | 77 | [Imposible Olvidarte](https://open.spotify.com/track/5XwKOns3tv46E2CmhZFvED) | [Sergio Moran y su Banda](https://open.spotify.com/artist/7hSXBaGwB70P4kBDzqoTT2) | [Como Tú](https://open.spotify.com/album/6GU7qLROD5m1VWF12BD0m2) | 3:20 |
 | 78 | [Que Sorpresa](https://open.spotify.com/track/3GI15ZZCaAp6MdvCMPvwpy) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Que Sorpresa](https://open.spotify.com/album/5C3B2j5vucQ8XlLKNAjXCc) | 2:17 |
 | 79 | [Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo](https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Grupo Trinidad y Sus Cantantes](https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3) | 7:37 |
 | 80 | [Distancia](https://open.spotify.com/track/7sV1a3hPpytFTrPBstLtEv) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Volvió el Parrandero!!!](https://open.spotify.com/album/2FjIpsiAXEn3NY8kbEsaW7) | 4:09 |
 
-Snapshot ID: `MCwyZjg0YWViOGE4MWExN2NmMDg0YTM1YTM4YTJjZTFlZDgwMGY1OGY0`
+Snapshot ID: `MCwzMzk3NjMwODAyMjAxMTFkMmRkYzM2YTUzOTQxYjFhNjRlZDQ0NDRi`

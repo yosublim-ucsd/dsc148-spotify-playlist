@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Álvaro Díaz y Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,233 likes - 52 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,287 likes - 52 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 51 | [Não Vou Repetir](https://open.spotify.com/track/023mXZg0xwBnnvXcyh0R8f) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Não Vou Repetir](https://open.spotify.com/album/7EbUWRA3qQSmM8jAP3uXuP) | 2:24 |
 | 52 | [Dedo do Meio \- Ao Vivo](https://open.spotify.com/track/2ORC76autQ7QTfBCkZl4Wo) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Fortaleza, Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK) | 2:47 |
 
-Snapshot ID: `MCxlNDBhNTQ0YmUxMDU4NDBkMGY5ZDIzY2UyNDZkNzhjNTAxZDQ1Zjli`
+Snapshot ID: `MCxjNGE0NWIzMzk3NWQ4OWIwNDUzYzljZGVhMTI2YjVjNWVmZTRlOWUy`

@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 88604,
+  "num_followers": 88620,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2ZmNjQ4ZmQ2MGMzMGYwNzI0NGVlN2E3NjUyYzkyMDM0NzJlYjRh",
+  "snapshot_id": "MCxlMWZhYTdjOTkxMzljNTE0Yjc0ZDcyZWEyNzkzYjc0Y2EwMjM1Zjhk",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El 7",
-        "url": "https://open.spotify.com/album/2f9SmGJPGVkdQmq4hbS7rd"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 225142,
-      "name": "El 7",
-      "url": "https://open.spotify.com/track/2CSB2buyBO4fRRNepjHRq5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 174556,
       "name": "Para Ser Respetado",
       "url": "https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El 7",
+        "url": "https://open.spotify.com/album/2f9SmGJPGVkdQmq4hbS7rd"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 225142,
+      "name": "El 7",
+      "url": "https://open.spotify.com/track/2CSB2buyBO4fRRNepjHRq5"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ramon Buchon",
-        "url": "https://open.spotify.com/album/2DAnJcXYCfkBv4NBfmbdIL"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 239620,
-      "name": "Ramon Buchon",
-      "url": "https://open.spotify.com/track/5s1e25d3neq4zcZa1ndvJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda Vol.2",
         "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 197463,
       "name": "Calles De S.D.",
       "url": "https://open.spotify.com/track/7qjrn67d14U8XDsnwOL0Nr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ramon Buchon",
+        "url": "https://open.spotify.com/album/2DAnJcXYCfkBv4NBfmbdIL"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 239620,
+      "name": "Ramon Buchon",
+      "url": "https://open.spotify.com/track/5s1e25d3neq4zcZa1ndvJJ"
     },
     {
       "added_at": null,
@@ -695,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Una Pantera",
-        "url": "https://open.spotify.com/album/4EF1XEWqEJN0MkBzK2QAH4"
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
       },
       "artists": [
-        {
-          "name": "Hermanos Siqueiros",
-          "url": "https://open.spotify.com/artist/7kmSbutRbO93rp52GQac9C"
-        },
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 170492,
-      "name": "Como Una Pantera",
-      "url": "https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b"
+      "duration_ms": 197247,
+      "name": "WAX",
+      "url": "https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ"
     },
     {
       "added_at": null,
@@ -731,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como Una Pantera",
+        "url": "https://open.spotify.com/album/4EF1XEWqEJN0MkBzK2QAH4"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Siqueiros",
+          "url": "https://open.spotify.com/artist/7kmSbutRbO93rp52GQac9C"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 170492,
+      "name": "Como Una Pantera",
+      "url": "https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Botas Ariat",
         "url": "https://open.spotify.com/album/4u3djr5WDq8rPzagF79rJF"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 183409,
       "name": "Botas Ariat",
       "url": "https://open.spotify.com/track/1uSKLuMMqy48AFI7dFOiIA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 197247,
-      "name": "WAX",
-      "url": "https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ"
     },
     {
       "added_at": null,

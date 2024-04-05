@@ -4,7 +4,7 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-77 songs - 5 hr 1 min
+78 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Paani](https://open.spotify.com/track/3MQCWVCuzdoP9M6aeXtRT6) | [Rohan Kamath](https://open.spotify.com/artist/2Ni9NexOwtEehPqRXNSdlM) | [Paani](https://open.spotify.com/album/1bp4sHm3BL0qRy9dP8nCwG) | 3:13 | 2023-05-09 |  |
 | [Pal Behta Jaaye](https://open.spotify.com/track/0fIbPMXnTdyuW2UirA9mWQ) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Pal Behta Jaaye](https://open.spotify.com/album/0TGb91XBYJ9BZbFpgyNMjc) | 2:54 | 2023-05-09 |  |
 | [Parey](https://open.spotify.com/track/5QvGIGxLUuqziDY1vjMFB2) | [Samar Mehdi](https://open.spotify.com/artist/0kn5e77RPjL0jdsLYcN4rN) | [Urooj](https://open.spotify.com/album/6AQcoEJ3NH4ugF5DVagnGD) | 6:45 | 2023-05-09 |  |
-| [Pehli Baarish](https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish](https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww) | 2:37 | 2023-05-09 |  |
+| [Pehli Baarish](https://open.spotify.com/track/7LjntjLognntHjSRC6B9rc) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish](https://open.spotify.com/album/5S0vlS3fgGUEDcdEZIACYr) | 2:37 | 2024-03-28 |  |
+| [Pehli Baarish](https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish](https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww) | 2:37 | 2023-05-09 | 2024-04-05 |
 | [Pehli Baarish \- Acoustic](https://open.spotify.com/track/3nH2qforxZ3ZWtCOne2m0F) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish \(Acoustic\)](https://open.spotify.com/album/5In5fUCXEXXNtaNfjsMscl) | 2:26 | 2023-06-30 |  |
 | [Piya Basanti](https://open.spotify.com/track/4ZffnUdAzNy5HvcO3rphIP) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Piya Basanti](https://open.spotify.com/album/54p1S3dlFHWke6HDdhyVj2) | 4:36 | 2023-05-09 |  |
 | [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 | 2023-05-09 | 2023-06-16 |

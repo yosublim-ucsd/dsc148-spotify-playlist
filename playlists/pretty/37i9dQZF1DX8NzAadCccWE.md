@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,661 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,668 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 64 | [Stalker Ha \- DJ J Heat Remix](https://open.spotify.com/track/4RPyrQEfEyPfNR1aXNRtd0) | [Kingdom](https://open.spotify.com/artist/4QOlGlPUWuInhP9dExlDH2), [DJ J Heat](https://open.spotify.com/artist/2GuYQVqrxCbLnYGVHXFCG0) | [Jersey Transit Systems](https://open.spotify.com/album/32zCCFnch4HhErtBO56TvT) | 2:47 |
 | 65 | [Inside](https://open.spotify.com/track/7uiIwCSQDjGOetPwRxDeXN) | [Regal86](https://open.spotify.com/artist/18BWZFP35cPhvqC66DJ613) | [Club Riders](https://open.spotify.com/album/7AJ0PBxpwScHZhQWvqDNS5) | 5:02 |
 | 66 | [Done Me Wrong](https://open.spotify.com/track/2Zgd4CU4Gjd0Fbu4darACt) | [Mosca](https://open.spotify.com/artist/09w4rprrROhfc0yevxXCGg) | [Done Me Wrong / Bax](https://open.spotify.com/album/30mWh7iOWxTJTLExLXCS1t) | 5:29 |
-| 67 | [The hole got deeper](https://open.spotify.com/track/7lMzDDkaFEKLBgzZhOPOj4) | [Bluetoof](https://open.spotify.com/artist/1DPheCuZwGAFUlM8H2jV6x) | [Diggin a Hole](https://open.spotify.com/album/70cpDBZcj4mpTYzWGQlUyE) | 7:34 |
+| 67 | [The hole got deeper](https://open.spotify.com/track/3XdhCH7Fd2ICPsvK2cnOQb) | [Bluetoof](https://open.spotify.com/artist/1DPheCuZwGAFUlM8H2jV6x) | [Diggin a Hole](https://open.spotify.com/album/2tBIjrHsiraqvhLyQuMgz0) | 7:34 |
 | 68 | [Thinking](https://open.spotify.com/track/1p2t8sCkJHYfIrClMarCxY) | [K\-65](https://open.spotify.com/artist/3hY1HpO80VUxjDY2KVMmDf) | [Get Down](https://open.spotify.com/album/3r8JkXTAjKaGTOvzr6VMiF) | 4:51 |
 | 69 | [Go Berserk](https://open.spotify.com/track/0teDIy6RxHoUCPkbdi0tcC) | [Amadeezy](https://open.spotify.com/artist/21xuoAcyt3fBIJfDjX22n9) | [2 Lit 2 Quit](https://open.spotify.com/album/3W4OthKJQFhKKCSYTsR7MU) | 3:57 |
 | 70 | [Atmozong](https://open.spotify.com/track/4EpHKwzGlagX94kXEXNvf4) | [Pouty's Rage](https://open.spotify.com/artist/0nDRb89E2TQoprCcqSfJoG) | [Jungle Tekno Revivalism](https://open.spotify.com/album/0czQHLjU8qLoip1shvU5tO) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 99 | [CMYK](https://open.spotify.com/track/09alZMvBX6qVQGzfFsRi9X) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Iotdxi](https://open.spotify.com/album/3VOh4ZvVfyIDe4hlW300qv) | 3:39 |
 | 100 | [Love Songz \- BRC Club Mix](https://open.spotify.com/track/10DDRKxUnhNOuGQntqVIpL) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Sound Is Like Water, 202% THC Remix Package](https://open.spotify.com/album/14Jux3zGjXq252Fg28R3pZ) | 3:42 |
 
-Snapshot ID: `MCxhZTNlZGNiY2EzYjljOTUzOGZkNTkzNmIwZGE5MzNhYzUwZTk1ZTlk`
+Snapshot ID: `MCwyY2EyNjEwZDZlNDVlZDk2OTM2NWU5MzBkYmFmM2UwZTBlYjg2NmFl`

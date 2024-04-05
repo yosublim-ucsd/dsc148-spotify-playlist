@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,097 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,135 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 17 | [Burning Out](https://open.spotify.com/track/5abyTR9t1SuyS8YAQZd6xA) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 3:28 |
 | 18 | [Diamonds & Gold](https://open.spotify.com/track/6ih0RIVI5ZVOOGpYBzV9rd) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Lay It On Down](https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR) | 5:17 |
 | 19 | [Any Way the Wind Blows](https://open.spotify.com/track/6b3AxcFd30h4dx7nPXraRF) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [WAYS](https://open.spotify.com/album/13Lic5cbhujb4ngZs8BlTm) | 3:01 |
-| 20 | [Leave Your Ego](https://open.spotify.com/track/5lCrGrjeBufzZNUWyZuMH2) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 5:14 |
+| 20 | [Leave Your Ego](https://open.spotify.com/track/37qTH3ygEzM1CULDsfPfvI) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/5c0pSc8G1C8RciCf7xHvwY) | 5:14 |
 | 21 | [Honey](https://open.spotify.com/track/4gvttoQ87qNDYrtVX5TlHG) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Does Anybody Wanna Funk?](https://open.spotify.com/album/76rkieGPYIWF101l5gmg4t) | 2:53 |
 | 22 | [Before You Hit The Ground](https://open.spotify.com/track/6X3oobD0XUStLRoCciGEmj) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Wander This World](https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG) | 3:54 |
 | 23 | [Love Ain't a Love Song](https://open.spotify.com/track/50ttL5XmiGyYscxnJKJy2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/3g3H58t89gy5HS6e9oaIos) | 3:48 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 52 | [Shake It](https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:59 |
 | 53 | [Soul On Fire](https://open.spotify.com/track/4Qq0xEgR45Lf7iGpv6t0vD) | [Saint Jude](https://open.spotify.com/artist/5bk7jL6NrCWUqdtZ6t9m8z) | [Diary of a Soul Fiend](https://open.spotify.com/album/5doTWaDPG8coY3SR6SQQc3) | 3:44 |
 | 54 | [Vixen Eyes](https://open.spotify.com/track/4KIY1A23VXJZjSlaRFzgTC) | [Gugun Power Trio](https://open.spotify.com/artist/0QnRd6i7Da4louZggkoFrg) | [Solid Ground](https://open.spotify.com/album/75DywChZtKY2f4xAKBrAso) | 4:16 |
-| 55 | [Who Do You Love?](https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Diamonds In The Dirt](https://open.spotify.com/album/7qev8XrmWI1pqJBkXqLcVT) | 3:07 |
-| 56 | [Open Road](https://open.spotify.com/track/4kAOHwPEBawS1znACiyuqA) | [Oli Brown](https://open.spotify.com/artist/2b5hTGWhfcA88PyeZAJ3Ma) | [Open Road](https://open.spotify.com/album/1L2NhLHg4muWzR7cHpriPb) | 3:47 |
+| 55 | [Who Do You Love?](https://open.spotify.com/track/5cyg2gV6FhAfj8h757d5L7) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Diamonds in the Dirt](https://open.spotify.com/album/3Xa4Y2k4nLdtSoAyM1s5b8) | 3:07 |
+| 56 | [Open Road](https://open.spotify.com/track/34s9HDYhfFQW3LrSIP2ePh) | [Oli Brown](https://open.spotify.com/artist/2b5hTGWhfcA88PyeZAJ3Ma) | [Open Road](https://open.spotify.com/album/2xwxnmPhiK1NaWXupoz36k) | 3:47 |
 | 57 | [Love Sweet Love](https://open.spotify.com/track/1N47m6es1ruoERTpLByl8V) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [Up 2 Zero](https://open.spotify.com/album/0PPpXI50qweR3lbhDL0Yb7) | 3:29 |
 | 58 | [Find a Way](https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:56 |
 | 59 | [Just in Case](https://open.spotify.com/track/3lUHPnOMQBlLjkUs6ZpHkI) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Live from Pama Studio 1](https://open.spotify.com/album/2qT9oFDjZSpNiJ7PZPmkXO) | 3:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 74 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 |
 | 75 | [In Time](https://open.spotify.com/track/4BVmZWmdjlmJTRBPfiGbjB) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 7:02 |
 
-Snapshot ID: `MCwwM2M1MDk2NWJhZjI2ODNjMzAxYjcxNmZkOWI4ZDZhZWFhY2UzNWM5`
+Snapshot ID: `MCw3M2QyY2Y0YWUwMjJkY2I3OTc2YWRiYTRkN2IwZDljNjBhOWI1OTUz`

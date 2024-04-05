@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S9gwdi7dev.md) - [plain]
 
 > Fun tracks for your Halloween festivities!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,218 likes - 85 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,095 likes - 85 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S9gwdi7dev.md) - [plain]
 | 84 | [Ballroom Blitz](https://open.spotify.com/track/3Pu3IChaAoa5EjgUBv5F6x) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Desolation Boulevard](https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54) | 4:06 |
 | 85 | [Midnight Sky](https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:43 |
 
-Snapshot ID: `MCwxNGE5MmYzM2NhYTIyNGE0NzYzYTgxNjY2ZjkwMjgyN2Q1MzA1Mzcy`
+Snapshot ID: `MCxmYmY3OWU4ZjU0ZjI5MDliMGNiOTA3NTE1NTI2MzA0OTc5NDk2ZTUy`

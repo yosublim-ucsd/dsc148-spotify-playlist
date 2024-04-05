@@ -4,7 +4,7 @@
 
 > Our favourite new music, updated monthly by the XL team.
 
-555 songs - 1 day 8 hr 13 min
+556 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-15 | 2024-03-22 |
 | [02:29](https://open.spotify.com/track/4l4HVlm0t0hXWvMeEAGv5W) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [02:29](https://open.spotify.com/album/1r6Gn84PkOgTTqggu5ib6u) | 2:29 | 2023-04-13 | 2023-08-04 |
 | [0NLY 0NE](https://open.spotify.com/track/7xZO7T6ccGY4okpo0tXlru) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [0NLY 0NE](https://open.spotify.com/album/51EftfDzYkJ7ZoPBsMa8ac) | 3:38 | 2022-12-15 | 2023-02-11 |
+| [1+1=11 \- Edit](https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [1+1=11](https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc) | 3:10 | 2024-04-04 |  |
 | [100 Gecs](https://open.spotify.com/track/44JPVgVeguN6lcCJlVSU0W) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Pinball](https://open.spotify.com/album/5gHqM8u3IclJ1ZV6q309OW) | 1:21 | 2024-03-21 |  |
 | [100222](https://open.spotify.com/track/411sjSTTaT4ygaqY9Z4ild) | [Pudding Club](https://open.spotify.com/artist/6nJum0gye4urtfo5q7mLNA) | [100222](https://open.spotify.com/album/1DA50TYrkLJMRfTfQrduPt) | 1:43 | 2022-11-08 | 2022-12-20 |
 | [146](https://open.spotify.com/track/3naealhHYcNTj2o42JRPTd) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw) | [146](https://open.spotify.com/album/0achDRXdKCh08RodV45To2) | 5:07 | 2022-12-15 | 2023-02-11 |

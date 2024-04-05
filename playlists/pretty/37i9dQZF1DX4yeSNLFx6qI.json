@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1702530,
+  "num_followers": 1702625,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzlkNDQwNWY5NGZlNGRlMTc2ZmRhODUxNDc3ZWNhMGEwZTFjOWUx",
+  "snapshot_id": "MCxhYmMyNzJmNmVjY2Q4MTllMTVmYjVjYmI4ZjZhYjdjNjUxZDhiMTY5",
   "tracks": [
     {
       "added_at": "2024-03-21 20:36:15",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-03-21 20:36:15",
       "album": {
-        "name": "\u00bfA D\u00f3nde Vamos?",
-        "url": "https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 229107,
-      "name": "Enam\u00f3rate De Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/1pDgS6HDNrrIawdhYEvI0s"
+      "duration_ms": 265840,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/1uSRXFGgEkukRZIa9WsX52"
     },
     {
       "added_at": "2024-03-21 20:36:15",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-03-21 20:36:15",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+        "name": "\u00bfA D\u00f3nde Vamos?",
+        "url": "https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 265840,
-      "name": "Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/1uSRXFGgEkukRZIa9WsX52"
+      "duration_ms": 229107,
+      "name": "Enam\u00f3rate De Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/1pDgS6HDNrrIawdhYEvI0s"
     },
     {
       "added_at": "2024-03-21 20:36:15",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-03-21 20:36:15",
       "album": {
-        "name": "claridad",
-        "url": "https://open.spotify.com/album/3WfOIUEYZSSBlJVzF9UCt0"
+        "name": "Lluvia: Rain City Vol.2",
+        "url": "https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4"
       },
       "artists": [
         {
-          "name": "Marina Reche",
-          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 166285,
-      "name": "Por si quieres volver",
-      "url": "https://open.spotify.com/track/0Y66CEujNdMDXKPAxuHK0s"
+      "duration_ms": 92539,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/4U7cplCdwTjHjrcTaNZx9u"
     },
     {
       "added_at": "2024-03-21 20:36:15",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-03-21 20:36:15",
       "album": {
+        "name": "claridad",
+        "url": "https://open.spotify.com/album/3WfOIUEYZSSBlJVzF9UCt0"
+      },
+      "artists": [
+        {
+          "name": "Marina Reche",
+          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "Por si quieres volver",
+      "url": "https://open.spotify.com/track/0Y66CEujNdMDXKPAxuHK0s"
+    },
+    {
+      "added_at": "2024-03-21 20:36:15",
+      "album": {
         "name": "OCEAN",
         "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 202053,
       "name": "Dices Que Te Vas",
       "url": "https://open.spotify.com/track/0QHOIQxRlIPYPJ1HLgIN8S"
-    },
-    {
-      "added_at": "2024-03-21 20:36:15",
-      "album": {
-        "name": "Lluvia: Rain City Vol.2",
-        "url": "https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 92539,
-      "name": "Siempre",
-      "url": "https://open.spotify.com/track/4U7cplCdwTjHjrcTaNZx9u"
     },
     {
       "added_at": "2024-03-21 20:36:15",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-03-21 20:36:15",
       "album": {
-        "name": "Te Olvid\u00e9",
-        "url": "https://open.spotify.com/album/5tCvYwnjj9GaEHO8hgxEQA"
+        "name": "Lluvia: Rain City Vol.2",
+        "url": "https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4"
       },
       "artists": [
         {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 185106,
-      "name": "Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/0LiSASDl1Os4c8JeiypsT8"
+      "duration_ms": 199497,
+      "name": "Negar",
+      "url": "https://open.spotify.com/track/0iCjrGqW2akkM2c8zimBaF"
     },
     {
       "added_at": "2024-03-21 20:36:15",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-03-21 20:36:15",
       "album": {
+        "name": "Te Olvid\u00e9",
+        "url": "https://open.spotify.com/album/5tCvYwnjj9GaEHO8hgxEQA"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 185106,
+      "name": "Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/0LiSASDl1Os4c8JeiypsT8"
+    },
+    {
+      "added_at": "2024-03-21 20:36:15",
+      "album": {
         "name": "V\u00e9rtigo",
         "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 209221,
       "name": "Hablemos de amor",
       "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
-    },
-    {
-      "added_at": "2024-03-21 20:36:15",
-      "album": {
-        "name": "Lluvia: Rain City Vol.2",
-        "url": "https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 199497,
-      "name": "Negar",
-      "url": "https://open.spotify.com/track/0iCjrGqW2akkM2c8zimBaF"
     },
     {
       "added_at": "2024-03-21 20:36:15",

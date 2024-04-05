@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 271015,
+  "num_followers": 271188,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGRkNzRjMDMxN2NkYTQ3NmVhYzEwYmVjYzY0ZDVmZWI0NDhlZDY4",
+  "snapshot_id": "MCxjYWNkZGIzMWMzYzhkY2IyYmFkZThjZjYwYjk3ZTFjMTVhNDYxMDc5",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "The Lord's Prayer (It's Yours) [Acoustic]",
-        "url": "https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 224024,
-      "name": "The Lord's Prayer (It's Yours) - Acoustic",
-      "url": "https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "SURVEY: Part 1",
         "url": "https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 350783,
       "name": "Found",
       "url": "https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "The Lord's Prayer (It's Yours) [Acoustic]",
+        "url": "https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 224024,
+      "name": "The Lord's Prayer (It's Yours) - Acoustic",
+      "url": "https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Wanted (Piano & Cello Version) / Haven\u2019t Seen It Yet (Acoustic)",
+        "url": "https://open.spotify.com/album/2lpiHMogTupT75qNnleilE"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Haven't Seen It Yet - Acoustic",
+      "url": "https://open.spotify.com/track/4Al0PIC21UKhazRu69vXl3"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Christ Be In My Heart",
         "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 288529,
       "name": "Christ Be In My Heart",
       "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Wanted (Piano & Cello Version) / Haven\u2019t Seen It Yet (Acoustic)",
-        "url": "https://open.spotify.com/album/2lpiHMogTupT75qNnleilE"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Haven't Seen It Yet - Acoustic",
-      "url": "https://open.spotify.com/track/4Al0PIC21UKhazRu69vXl3"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Ashes to Skies",
-        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
+        "name": "I can always find You",
+        "url": "https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge"
       },
       "artists": [
         {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
         }
       ],
-      "duration_ms": 274546,
-      "name": "Ashes to Skies",
-      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
+      "duration_ms": 226063,
+      "name": "I can always find You",
+      "url": "https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "I can always find You",
-        "url": "https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge"
+        "name": "Ashes to Skies",
+        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
       },
       "artists": [
         {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
         }
       ],
-      "duration_ms": 226063,
-      "name": "I can always find You",
-      "url": "https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg"
+      "duration_ms": 274546,
+      "name": "Ashes to Skies",
+      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "When It Comes to You",
-        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
-      },
-      "artists": [
-        {
-          "name": "RNW Music",
-          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
-        }
-      ],
-      "duration_ms": 335299,
-      "name": "Goodness",
-      "url": "https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Keeper of Days",
         "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 354223,
       "name": "Teach Us That One Song",
       "url": "https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "When It Comes to You",
+        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
+      },
+      "artists": [
+        {
+          "name": "RNW Music",
+          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+        }
+      ],
+      "duration_ms": 335299,
+      "name": "Goodness",
+      "url": "https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "The War Is Over",
-        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
-      },
-      "artists": [
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 277853,
-      "name": "Get Your Hopes Up",
-      "url": "https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Closer Than a Brother",
         "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
       },
@@ -1235,22 +1219,6 @@
       "duration_ms": 309354,
       "name": "Closer Than a Brother",
       "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "After All These Years: A Collection",
-        "url": "https://open.spotify.com/album/1ixYVxV8caqaVDiHrktthj"
-      },
-      "artists": [
-        {
-          "name": "Andrew Peterson",
-          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Isn't It Love - 2014 Version",
-      "url": "https://open.spotify.com/track/04Lw9ot3N6m7o4Z02JdwCx"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1271,18 +1239,34 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "You Are God, Be Glorified",
-        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
+        "name": "The War Is Over",
+        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
       },
       "artists": [
         {
-          "name": "Danny O'Callaghan",
-          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 267165,
-      "name": "You Are God, Be Glorified",
-      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
+      "duration_ms": 277853,
+      "name": "Get Your Hopes Up",
+      "url": "https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "After All These Years: A Collection",
+        "url": "https://open.spotify.com/album/1ixYVxV8caqaVDiHrktthj"
+      },
+      "artists": [
+        {
+          "name": "Andrew Peterson",
+          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Isn't It Love - 2014 Version",
+      "url": "https://open.spotify.com/track/04Lw9ot3N6m7o4Z02JdwCx"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 187124,
       "name": "Valley - CalledOut Music Remix",
       "url": "https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "You Are God, Be Glorified",
+        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
+      },
+      "artists": [
+        {
+          "name": "Danny O'Callaghan",
+          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
+        }
+      ],
+      "duration_ms": 267165,
+      "name": "You Are God, Be Glorified",
+      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
+      },
+      "artists": [
+        {
+          "name": "Bryan McCleery",
+          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
+        }
+      ],
+      "duration_ms": 235056,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Magnified (Acoustic)",
         "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 256750,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/5DFOkSH4ToaLPM0pFVzWn9"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Worth The Wait",
-        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
-      },
-      "artists": [
-        {
-          "name": "Bryan McCleery",
-          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
-        }
-      ],
-      "duration_ms": 235056,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Suddenly (Or the Nuclear Sunburst of the Truth Revealed)",
-        "url": "https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 240946,
-      "name": "This Wild Earth",
-      "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Praise You In This Storm (New York Sessions)",
         "url": "https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 354407,
       "name": "Praise You In This Storm - New York Sessions",
       "url": "https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Suddenly (Or the Nuclear Sunburst of the Truth Revealed)",
+        "url": "https://open.spotify.com/album/1NnzAkcue0YdEzLWKb8bfp"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 240946,
+      "name": "This Wild Earth",
+      "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "& Side A",
-        "url": "https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i"
-      },
-      "artists": [
-        {
-          "name": "For All Seasons",
-          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
-        }
-      ],
-      "duration_ms": 268970,
-      "name": "Light & Momentary",
-      "url": "https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/2KA8x4fFCG9HGhmFszrorh"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 437188,
       "name": "More Than Anything",
       "url": "https://open.spotify.com/track/7i0MfRdyGrNddq0H1dqSHR"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "& Side A",
+        "url": "https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i"
+      },
+      "artists": [
+        {
+          "name": "For All Seasons",
+          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
+        }
+      ],
+      "duration_ms": 268970,
+      "name": "Light & Momentary",
+      "url": "https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Throne Room",
-        "url": "https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt"
-      },
-      "artists": [
-        {
-          "name": "Ben Laine",
-          "url": "https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj"
-        }
-      ],
-      "duration_ms": 236962,
-      "name": "I Could Sing Of Your Love Forever",
-      "url": "https://open.spotify.com/track/4wXh7qz12O9DiMQHGATKv1"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Home (GCM Sinai Sessions) [feat. Jonathan Ogden]",
         "url": "https://open.spotify.com/album/4iwQhf1wykHLNxnTJ9aQfi"
       },
@@ -1723,22 +1707,42 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Don't Give Up",
-        "url": "https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u"
+        "name": "Throne Room",
+        "url": "https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt"
       },
       "artists": [
         {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        },
-        {
-          "name": "Will Reagan",
-          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+          "name": "Ben Laine",
+          "url": "https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj"
         }
       ],
-      "duration_ms": 317000,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx"
+      "duration_ms": 236962,
+      "name": "I Could Sing Of Your Love Forever",
+      "url": "https://open.spotify.com/track/4wXh7qz12O9DiMQHGATKv1"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Now I See",
+        "url": "https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3"
+      },
+      "artists": [
+        {
+          "name": "The McClures",
+          "url": "https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        }
+      ],
+      "duration_ms": 243653,
+      "name": "Now I See",
+      "url": "https://open.spotify.com/track/66SLmhCxmoFG8DUgBFv572"
     }
   ],
   "unique_name": "Love Coffee, Love Jesus",

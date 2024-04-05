@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Seven Lions, ILLENIUM, ÁSDÍS
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,002 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,011 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 43 | [Deserve Each Other](https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Deserve Each Other](https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd) | 2:47 |
 | 44 | [Thrilla](https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [Thrilla](https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL) | 2:14 |
 | 45 | [Fuck The Pain Away](https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Triple F](https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw) | 2:43 |
-| 46 | [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 |
+| 46 | [Pictures Of You](https://open.spotify.com/track/0QQBgAXdLm0hfk9aBJe97f) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 2:55 |
 | 47 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 |
 | 48 | [LMK](https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [LMK](https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6) | 3:53 |
 | 49 | [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV) | 3:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 69 | [Off Your Feet](https://open.spotify.com/track/5Pc4EIFIV7SAWW7AFG4UoY) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Off Your Feet](https://open.spotify.com/album/1813xCcbDcuZKudopbav6g) | 3:25 |
 | 70 | [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 |
 
-Snapshot ID: `MCwxNjMwZmE1YzVlZTIzYTFmOTczMmUyMWM1NGVlNzA1MDI2ZDRkNGYx`
+Snapshot ID: `MCw4NmQ2NWQxNjYzOTAwOGYwMGI3ZTdmZWZjYTMwNzAwZGY0ZTNlYWQ2`

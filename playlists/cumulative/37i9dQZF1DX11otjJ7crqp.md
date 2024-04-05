@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Isabel LaRosa
 
-5,094 songs - 10 day 13 hr 31 min
+5,095 songs - 10 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2190,6 +2190,7 @@
 | [I Don't Wanna Leave Just Yet](https://open.spotify.com/track/5hM0JAqF7VzzD8JxU5RbYL) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [I Don't Wanna Leave Just Yet](https://open.spotify.com/album/5CA5LlVVLzW1XCF6ESiCGq) | 3:05 | 2023-09-29 | 2023-10-21 |
 | [i don't wanna lose again](https://open.spotify.com/track/7i486TulfhsAzMItM2zChQ) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [i don't wanna lose again](https://open.spotify.com/album/0moECp4h0pO4of8BkTdGQR) | 2:44 | 2022-04-22 | 2022-04-29 |
 | [i don't wanna ruin ur party](https://open.spotify.com/track/1mYEAoHFaq4I5gJV0MvhSa) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [i don't wanna ruin ur party](https://open.spotify.com/album/38ZS3InIKSDLYcKZpfm09m) | 2:22 | 2022-09-30 | 2022-10-15 |
+| [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-03-29 |  |
 | [I Don’t Know](https://open.spotify.com/track/4HyGTtgsNGCcHaqEWiu3lm) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Comedy & Tragedy: Act 2](https://open.spotify.com/album/1709msvR4Y09McKNriJjfG) | 3:08 | 2023-10-27 | 2023-11-11 |
 | [i don’t sleep as good as i used to](https://open.spotify.com/track/2YCrJo5Ly8VS7rWMO30xbX) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [i don’t sleep as good as i used to](https://open.spotify.com/album/6aUYWT72B92zOpEK5xIo0i) | 3:03 | 2023-10-06 | 2023-10-21 |
 | [I Don’t Think That I Like Her](https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [I Don’t Think That I Like Her](https://open.spotify.com/album/5f7yRF519Ruz1yE9x97jID) | 3:08 | 2022-09-17 | 2022-10-01 |

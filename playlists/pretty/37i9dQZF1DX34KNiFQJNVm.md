@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Leo Santana com Thiaguinho, Beyoncé, L7NNON e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,925,004 likes - 73 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,925,222 likes - 73 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 50 | [Arquivos](https://open.spotify.com/track/5oQaUfLbBhR4yVla3O7jLS) | [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7) | [Arquivos](https://open.spotify.com/album/0CtmDIpvYbwoOt7iMcVJw9) | 2:15 |
 | 51 | [Perfil \#91 \- Fuck Fake](https://open.spotify.com/track/7jZEJM52xT7rO2ifFStYcJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Perfil \#91 \- Fuck Fake](https://open.spotify.com/album/3xAC9al4rdbRbHPcm1SY0y) | 2:20 |
 | 52 | [Drink Azul 2 \(feat\. TcheloBeats\)](https://open.spotify.com/track/3ZXt3rfyWUjRFANw2KsXN3) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B) | [Drink Azul 2 \(feat\. TcheloBeats\)](https://open.spotify.com/album/4VpX1NU92MkXt0slgyFrbX) | 3:32 |
-| 53 | [não teria coragem](https://open.spotify.com/track/4Kr59WgiiHoFtN18V9o3vG) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [sua vez de escutar](https://open.spotify.com/album/4osDSPHvkroyYR8qdfdqxq) | 2:17 |
+| 53 | [não teria coragem](https://open.spotify.com/track/4Kr59WgiiHoFtN18V9o3vG) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Galdino](https://open.spotify.com/artist/73wXBokdlBHMUchOdiphB3), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [sua vez de escutar](https://open.spotify.com/album/4osDSPHvkroyYR8qdfdqxq) | 2:17 |
 | 54 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
 | 55 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 |
 | 56 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 72 | [Flea](https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Flea](https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN) | 3:46 |
 | 73 | [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 |
 
-Snapshot ID: `MCw3OTc4NGNmOWFmMDgxYTI4OTk2ZGFkYTI0MDEyOGRkNDJkYmYwYWM3`
+Snapshot ID: `MCwyNjg4ZjBmMzllODJkMWNjNTFiZjkxNWUzOGE1NGE3NzA3YmFjNmUx`

@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 88 | [Life Is Fucking Beautiful](https://open.spotify.com/track/497WlXfNpdALph2XMDKXsa) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:52 |
 | 89 | [Time](https://open.spotify.com/track/21Yiut66EbiO71B43sPMeR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:09 |
 | 90 | [Imagination](https://open.spotify.com/track/5NspL05XmCt5DbjQjDdrRb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:41 |
-| 91 | [Everything You Need To Know About Me Today](https://open.spotify.com/track/08orqK26mwpW6sRFn7xpu3) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 7:43 |
-| 92 | [Same Song Forever](https://open.spotify.com/track/7HPOODAHzR3NU7u27MA5QO) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Same Song Forever](https://open.spotify.com/album/4zgRXBKyMH1QPGewjYr6ss) | 3:27 |
+| 91 | [Same Song Forever](https://open.spotify.com/track/7HPOODAHzR3NU7u27MA5QO) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Same Song Forever](https://open.spotify.com/album/4zgRXBKyMH1QPGewjYr6ss) | 3:27 |
+| 92 | [Everything You Need To Know About Me Today](https://open.spotify.com/track/08orqK26mwpW6sRFn7xpu3) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 7:43 |
 | 93 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `Mjg1MzY2MDAsMDAwMDAwMDBmMGQ0NTZhMmI4NWIwMWNjYWExMTMwMjYzNWZmOGVjMA==`
+Snapshot ID: `Mjg1MzgwNDAsMDAwMDAwMDA1ZWVmMzViNWY2ZDMwY2NiYzZhYmNiMjc5ODc1ODdhYg==`

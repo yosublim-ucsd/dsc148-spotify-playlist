@@ -2,7 +2,7 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Mahalini
+> Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Ghea Indrawari
 
 106 songs - 7 hr 10 min
 

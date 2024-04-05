@@ -1,12 +1,12 @@
 {
   "description": "The playlist version of a warm hug",
-  "num_followers": 82882,
+  "num_followers": 82873,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzZhOTU3YTk2ZmRiOWE0MTI0YTYyN2RjMzY4ZmM0OWVlZWVkOTM5",
+  "snapshot_id": "MCxiNDM2ODMxMzExYzU2MWQ3YzlhZWZhM2NjNmJiMGE4MWM2NWM0M2Q4",
   "tracks": [
     {
       "added_at": "2023-12-01 16:37:09",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 245964,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Favourite Worst Nightmare (Standard Version)",
         "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
-        "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 205483,
-      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 257533,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
+        "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 205483,
+      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Two Hearts",
-        "url": "https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 246796,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
       },
@@ -875,22 +859,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Sense of Home",
-        "url": "https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Sense of Home",
-      "url": "https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Without Fear",
         "url": "https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG"
       },
@@ -903,6 +871,22 @@
       "duration_ms": 202346,
       "name": "Rome",
       "url": "https://open.spotify.com/track/2ZwihAP8zB5XX1CmYIOBbF"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Sense of Home",
+        "url": "https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Sense of Home",
+      "url": "https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
+        "name": "I've told the trees everything",
+        "url": "https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 246796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/6NwseBBU7N5ng39DvnSAdA"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 200755,
       "name": "Autumn Leaves - Deluxe Edition",
       "url": "https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Simply the Best (From \"Schitt's Creek\")",
+        "url": "https://open.spotify.com/album/3by1f21NPpyV2sxW4PkzRp"
+      },
+      "artists": [
+        {
+          "name": "Noah Reid",
+          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
+        }
+      ],
+      "duration_ms": 177918,
+      "name": "Simply the Best (From \"Schitt's Creek\")",
+      "url": "https://open.spotify.com/track/1KFuLRUmWf0irn0CLclT2X"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1067,22 +1083,6 @@
       "duration_ms": 277506,
       "name": "Dog Years",
       "url": "https://open.spotify.com/track/5RRNZFyOi17nTh2bPEKPtp"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
-        "name": "Simply the Best (From \"Schitt's Creek\")",
-        "url": "https://open.spotify.com/album/3by1f21NPpyV2sxW4PkzRp"
-      },
-      "artists": [
-        {
-          "name": "Noah Reid",
-          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
-        }
-      ],
-      "duration_ms": 177918,
-      "name": "Simply the Best (From \"Schitt's Creek\")",
-      "url": "https://open.spotify.com/track/1KFuLRUmWf0irn0CLclT2X"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp"
-      },
-      "artists": [
-        {
-          "name": "Morgan Harper-Jones",
-          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "I Wanna Dance With Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Nothing's Gonna Happen (Demo)",
         "url": "https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 236450,
       "name": "Nothing's Gonna Happen (Demo)",
       "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp"
+      },
+      "artists": [
+        {
+          "name": "Morgan Harper-Jones",
+          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
+        }
+      ],
+      "duration_ms": 182240,
+      "name": "I Wanna Dance With Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 236653,
-      "name": "Two People",
-      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "This Is All Yours",
         "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 225017,
       "name": "Warm Foothills",
       "url": "https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 236653,
+      "name": "Two People",
+      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1491,6 +1491,22 @@
       "duration_ms": 227698,
       "name": "Still",
       "url": "https://open.spotify.com/track/7lKmIkQzOyJuW9ZIbmIOog"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 143966,
+      "name": "Dancing in the Moonlight (It's Caught Me in Its Spotlight) - Live from Spotify Studios, New York City, NY",
+      "url": "https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1575,22 +1591,6 @@
       "duration_ms": 246070,
       "name": "Vanilla (Stairwell Version)",
       "url": "https://open.spotify.com/track/7yuecadXy2rAgc6Id2D6Qw"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 143966,
-      "name": "Dancing in the Moonlight (It's Caught Me in Its Spotlight) - Live from Spotify Studios, New York City, NY",
-      "url": "https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB"
     },
     {
       "added_at": "2023-12-01 16:37:09",

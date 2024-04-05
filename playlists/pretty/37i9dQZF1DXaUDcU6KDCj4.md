@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Secret Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,518 likes - 152 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,562 likes - 152 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 5 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
 | 6 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 |
 | 7 | [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 |
-| 8 | [I Don't Have The Heart](https://open.spotify.com/track/14SnMMqIl8K3JMdZTXSIUb) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Flicker + I Don’t Have The Heart](https://open.spotify.com/album/3WGNUmtTsMR3sDWRJaCkyp) | 3:38 |
+| 8 | [I Don't Have The Heart](https://open.spotify.com/track/14SnMMqIl8K3JMdZTXSIUb) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Flicker + I Don’t Have The Heart](https://open.spotify.com/album/3WGNUmtTsMR3sDWRJaCkyp) | 3:37 |
 | 9 | [Milk Town / Mr\. Carter](https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 1:17 |
 | 10 | [Follow the Sound of My Voice](https://open.spotify.com/track/1QXNrX8FDJtjygjZesvEwv) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Follow the Sound of My Voice](https://open.spotify.com/album/1o1Ox39kLfKMc90x9yYSLu) | 5:50 |
 | 11 | [Need](https://open.spotify.com/track/33gJCIvnJY3neAfe022efc) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [Car Sick](https://open.spotify.com/album/6axDqIcHhVLrvPj7qUHd8v) | 3:35 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 85 | [I Shall Be Released](https://open.spotify.com/track/6SJl5nCBZY74IHReWdwerM) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [I Shall Be Released](https://open.spotify.com/album/7wyFPa9oDy3xyjHkY28TXB) | 4:34 |
 | 86 | [The Mender](https://open.spotify.com/track/65xmLkX6BePfhiKKL5J1ne) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [The Mender](https://open.spotify.com/album/5tfgHz3JUGBKNkymxmKn4o) | 3:57 |
 | 87 | [Just 21](https://open.spotify.com/track/68PL4PLUa1nksoJfiQxMRJ) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Just 21](https://open.spotify.com/album/1T3PKH1G49Y5dBQgB2fcfc) | 3:04 |
-| 88 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 4:03 |
+| 88 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 3:59 |
 | 89 | [Nothing to Lose](https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Nothing to Lose](https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp) | 3:57 |
 | 90 | [Future Ghosts](https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Future Ghosts](https://open.spotify.com/album/7q8YXz7fBjSgE13ZsJEB8I) | 3:28 |
 | 91 | [Somewhere Between](https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Somewhere Between](https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej) | 3:40 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 151 | [Revival](https://open.spotify.com/track/4TaRFbSPV4xhtRVPLs7BO7) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 4:05 |
 | 152 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
 
-Snapshot ID: `MCw2ZGQ2NWIyNWE0YWRjZGI5ODg2NDU3MjEwNjA2ZWFiN2FhNGVmZGI1`
+Snapshot ID: `MCxiNDNjYjBmZWMyNjg1MGY5ZGIwMWNlYjYxMjk1NzBmZDEyNjlmMmVj`

@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Hozier
 
-650 songs - 1 day 11 hr 31 min
+652 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,7 +556,8 @@
 | [Stronger \(Grey's Anatomy Version\)](https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:59 | 2023-02-07 | 2023-08-26 |
 | [stuck in denial](https://open.spotify.com/track/5VVqWlP1umXU5XYdZTXXaT) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [stuck in denial](https://open.spotify.com/album/61bATvekneBTSDOYXE6cjA) | 3:10 | 2022-10-28 | 2022-11-26 |
 | [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 | 2023-05-12 | 2023-09-30 |
-| [Sunday](https://open.spotify.com/track/7xxmW8ieHp9YnACGc0PfNz) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sunday](https://open.spotify.com/album/34Pax5tBAPlhxGXfmfypNO) | 2:58 | 2023-10-20 |  |
+| [Sunday](https://open.spotify.com/track/04zdjWewHa4UZ8ZePm5QSK) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/5mjWgYQYxutEyJEKe3Fmqx) | 2:58 | 2023-12-01 |  |
+| [Sunday](https://open.spotify.com/track/7xxmW8ieHp9YnACGc0PfNz) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sunday](https://open.spotify.com/album/34Pax5tBAPlhxGXfmfypNO) | 2:58 | 2023-10-20 | 2024-04-05 |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-02-04 | 2022-04-02 |
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-10-14 | 2022-11-05 |
 | [Sweet Sounds Of Heaven \(feat\. Lady Gaga\) \- Edit](https://open.spotify.com/track/6HCUMOcGa4LyjcBXjl7z0Y) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Sweet Sounds Of Heaven](https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK) | 5:06 | 2023-09-29 | 2024-03-23 |
@@ -600,7 +601,8 @@
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-01-27 | 2023-07-29 |
 | [Turbulence](https://open.spotify.com/track/2Xc7OQIxS4Hn9p0DnLpUb2) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Turbulence](https://open.spotify.com/album/2A6b9NvbSmfPVDm6iEbCbJ) | 2:52 | 2022-03-18 | 2022-04-02 |
 | [Twice](https://open.spotify.com/track/2UHnJzIiyNqPTufzxHdTQx) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 2:22 | 2023-10-20 |  |
-| [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-17 |  |
+| [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-17 | 2024-04-05 |
+| [Two Hearts](https://open.spotify.com/track/6NwseBBU7N5ng39DvnSAdA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 4:06 | 2023-12-01 |  |
 | [Ugly](https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:33 | 2022-03-11 | 2022-05-07 |
 | [Uneasy \(feat\. Lil Wayne\)](https://open.spotify.com/track/6dotY5Ubbm5cLKBm6KQkZI) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 5:21 | 2023-08-18 | 2023-10-21 |
 | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/album/6QEbEpz7fWR5N3HoIiSHFo) | 2:29 | 2023-05-19 | 2024-02-10 |

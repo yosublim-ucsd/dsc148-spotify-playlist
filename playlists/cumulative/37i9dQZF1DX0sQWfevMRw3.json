@@ -1821,6 +1821,28 @@
     },
     {
       "album": {
+        "name": "BORTAMATCH",
+        "url": "https://open.spotify.com/album/5nxoDtwdwxLkSyke2SFhmV"
+      },
+      "artists": [
+        {
+          "name": "TRIPPEL TRUBBEL",
+          "url": "https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE"
+        },
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118269,
+      "name": "BORTAMATCH",
+      "url": "https://open.spotify.com/track/6KOdcw6aEPLAVWdtuylF8g"
+    },
+    {
+      "album": {
         "name": "BOTAS",
         "url": "https://open.spotify.com/album/3bYjdxDqPBZprOVB3ed0Ky"
       },
@@ -4910,7 +4932,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 157941,
       "name": "En Shot F\u00f6r Landet",
       "url": "https://open.spotify.com/track/5WpqaJ23cQuCLGI6dpJBes"
@@ -6005,6 +6027,50 @@
     },
     {
       "album": {
+        "name": "Flipperspel",
+        "url": "https://open.spotify.com/album/2kOKEqkSx7nLFmdhT7THLV"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        },
+        {
+          "name": "DJ BERIT",
+          "url": "https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105411,
+      "name": "Flipperspel",
+      "url": "https://open.spotify.com/track/1do1VIb5p1UTMtTaFxTMo2"
+    },
+    {
+      "album": {
+        "name": "Florens",
+        "url": "https://open.spotify.com/album/3UOSzq5BSylyGaEehQGIPl"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        },
+        {
+          "name": "250 kg k\u00e4rlek",
+          "url": "https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Florens",
+      "url": "https://open.spotify.com/track/5FP3pZEhwkXwODZcoFOJjE"
+    },
+    {
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/4kWFb4NacUYGGiseCUuPnF"
       },
@@ -6668,6 +6734,28 @@
       "duration_ms": 144750,
       "name": "Full som en kastrull",
       "url": "https://open.spotify.com/track/5wIPWSYnyYy3YligvwXyNc"
+    },
+    {
+      "album": {
+        "name": "FULLA",
+        "url": "https://open.spotify.com/album/2yxZKoAqVmePN35Txs3L0n"
+      },
+      "artists": [
+        {
+          "name": "Silje Bakke",
+          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
+        },
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141360,
+      "name": "FULLA",
+      "url": "https://open.spotify.com/track/2elQQCpDbMJZyFntQB8jFM"
     },
     {
       "album": {
@@ -7516,7 +7604,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 135172,
       "name": "GITTI",
       "url": "https://open.spotify.com/track/5lsScqnMOsS8e5qghQVz3c"
@@ -8722,6 +8810,24 @@
       "duration_ms": 159026,
       "name": "Hemmafest",
       "url": "https://open.spotify.com/track/5qkhIwHsI8alxOPn9Cycxe"
+    },
+    {
+      "album": {
+        "name": "HEMMAFEST",
+        "url": "https://open.spotify.com/album/6tiRtyVQEaE4L8iroDdYJy"
+      },
+      "artists": [
+        {
+          "name": "Perra & Berra",
+          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116052,
+      "name": "HEMMAFEST",
+      "url": "https://open.spotify.com/track/1lVaLRC8fRx9fwS2sgK18d"
     },
     {
       "album": {
@@ -14002,7 +14108,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 133878,
       "name": "PAPI L\u00d6SER",
       "url": "https://open.spotify.com/track/4IWujw2IDOGckUfSYdo9Te"
@@ -15063,6 +15169,24 @@
     },
     {
       "album": {
+        "name": "RAGGARDISCO",
+        "url": "https://open.spotify.com/album/2FHQLkpnMiwwYFb9qy4RU0"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174121,
+      "name": "RAGGARDISCO",
+      "url": "https://open.spotify.com/track/2TNrBxpRxzhA1xaSvBRFMW"
+    },
+    {
+      "album": {
         "name": "RAGGARDUDE",
         "url": "https://open.spotify.com/album/3neMsFeLxEJlKq0g7my4RJ"
       },
@@ -16053,6 +16177,24 @@
     },
     {
       "album": {
+        "name": "Rymdraket",
+        "url": "https://open.spotify.com/album/1q3LLeJoai9v7MnhubhtKt"
+      },
+      "artists": [
+        {
+          "name": "TRENDEN",
+          "url": "https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166350,
+      "name": "Rymdraket",
+      "url": "https://open.spotify.com/track/7gAg1behdciBIlkW2smGQ2"
+    },
+    {
+      "album": {
         "name": "Sabotage",
         "url": "https://open.spotify.com/album/0NOy19wwB8BkHIphvgVbWn"
       },
@@ -16508,6 +16650,32 @@
       "duration_ms": 217065,
       "name": "Sexy Boi",
       "url": "https://open.spotify.com/track/1qAKmE4OoW7B02aqCambhJ"
+    },
+    {
+      "album": {
+        "name": "SHITFACED",
+        "url": "https://open.spotify.com/album/4Yu6PpOE59v5N7Jt80LOlt"
+      },
+      "artists": [
+        {
+          "name": "BR0D3R",
+          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
+        },
+        {
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
+        },
+        {
+          "name": "Kattastrof",
+          "url": "https://open.spotify.com/artist/3n82Yo7bU7Bj2yHBScFuKJ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181379,
+      "name": "SHITFACED",
+      "url": "https://open.spotify.com/track/2NbLfZbmGWosfWn0vjfS9z"
     },
     {
       "album": {
@@ -18320,7 +18488,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 142500,
       "name": "ST\u00d6RA HELA STADEN (Hela Flaskan)",
       "url": "https://open.spotify.com/track/5X6uvFjoC1nxofjP4BIswk"
@@ -18954,7 +19122,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 145745,
       "name": "TA EN SHOT MED MIG",
       "url": "https://open.spotify.com/track/3owHmkXorSOsxWtwU7byqO"
@@ -21080,6 +21248,28 @@
       "duration_ms": 150687,
       "name": "VIP",
       "url": "https://open.spotify.com/track/58QoOmzoDZWkvFHaMyH0l7"
+    },
+    {
+      "album": {
+        "name": "VOI TILL MIN FUCKBOI",
+        "url": "https://open.spotify.com/album/2CuUNP6q3OohkEEUw2orgT"
+      },
+      "artists": [
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142304,
+      "name": "VOI TILL MIN FUCKBOI",
+      "url": "https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV"
     },
     {
       "album": {

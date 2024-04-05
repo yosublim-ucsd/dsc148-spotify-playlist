@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-675 songs - 1 day 4 hr 39 min
+677 songs - 1 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Alpen Rose](https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Alpen Rose](https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW) | 2:44 | 2022-12-16 | 2023-04-22 |
 | [Always With You](https://open.spotify.com/track/5ItGFvCvkLI4wm2dXycCCs) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Always With You](https://open.spotify.com/album/5T3Ix0PNlLeAhemjXwjBH9) | 2:27 | 2023-08-10 |  |
 | [Am ende](https://open.spotify.com/track/60N406bCjmSX6Mwj0lR7dC) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Am ende](https://open.spotify.com/album/2a7ziC6igJV8XCrw9s2yeb) | 2:32 | 2023-04-21 |  |
+| [Am Fuschlsee](https://open.spotify.com/track/3IQxXk7kjHO2YTaf0kDD7K) | [Duo MR](https://open.spotify.com/artist/7hfYp0jhsWfGQImrzTEa3i) | [Am Fuschlsee](https://open.spotify.com/album/1hrGVeNjcMuU0vne38brsd) | 3:50 | 2024-03-29 |  |
 | [am Marienplatz](https://open.spotify.com/track/6aChaZyAJMXGE1dv3Hl1Py) | [Alexander Wurzler](https://open.spotify.com/artist/25W6u2VnVVME6ZEMSn9Kfa) | [Morgenstund](https://open.spotify.com/album/2ni9DbZXvKnvHyr5UbYAo5) | 2:49 | 2022-07-15 | 2023-04-22 |
 | [AM Sunset](https://open.spotify.com/track/06ZwqZmTvUVclp1a7a1Wka) | [Ralph Couvert](https://open.spotify.com/artist/2rM55HuW8Su40glESzyjoa) | [AM Sunset](https://open.spotify.com/album/33beEdj4t72q8BLg2eZBOT) | 3:10 | 2023-09-07 |  |
 | [Amai Hi](https://open.spotify.com/track/39kKNitwwvn7Y0oH0NGN82) | [Kenji Takahashi](https://open.spotify.com/artist/7smqi5Xb8sKqalw1MNMa7D) | [Amai Hi](https://open.spotify.com/album/62Y6MiU9MICnsbetYyKizY) | 2:02 | 2023-04-21 | 2023-10-02 |
@@ -141,7 +142,7 @@
 | [Cradle Song](https://open.spotify.com/track/6yzAM00PEx3nBUqTsUgkgz) | [Ricardo Salinas](https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse), [Andrew York](https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ) | [Cradle Song](https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV) | 3:47 | 2022-07-15 | 2022-10-29 |
 | [Cuando Duermes](https://open.spotify.com/track/0ynAGgB5TLv14W2HdRytzk) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Cuando Duermes](https://open.spotify.com/album/14tU3MYJORpXh8IyF5Fe4w) | 1:48 | 2023-04-21 | 2023-05-13 |
 | [Cuerda De Algodon](https://open.spotify.com/track/6908BOjeinWFsU69fQuQSa) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [Cuerda De Algodon](https://open.spotify.com/album/459rMVytLNW0fjDKzmOVzU) | 2:55 | 2022-07-15 | 2022-10-07 |
-| [Cut Flower Garden](https://open.spotify.com/track/4mODR07RUAtPBH4ACE0r1r) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Cut Flower Garden](https://open.spotify.com/album/6rHPm1x9z81VJHbpqzdQ5A) | 2:49 | 2023-04-21 |  |
+| [Cut Flower Garden](https://open.spotify.com/track/4mODR07RUAtPBH4ACE0r1r) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Cut Flower Garden](https://open.spotify.com/album/6rHPm1x9z81VJHbpqzdQ5A) | 2:49 | 2023-04-21 | 2024-04-05 |
 | [Cymatic Patterns](https://open.spotify.com/track/5iPaREWrPaHuLjfZIJvOfM) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cymatic Patterns](https://open.spotify.com/album/4D7FAUbOxuBOvyGjRUdglI) | 1:53 | 2023-08-17 | 2023-08-26 |
 | [Da Capo](https://open.spotify.com/track/7otpDaoUjNgyaq15nyFXGC) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Da Capo](https://open.spotify.com/album/6b0najWGe4E4YpcuGgelWq) | 2:15 | 2023-04-21 |  |
 | [Daffodil](https://open.spotify.com/track/4iMdLRlOYmVKieGVPNfawY) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Daffodil](https://open.spotify.com/album/7iPJO6kKUX6OzSxXxhBgjW) | 2:46 | 2024-02-23 |  |
@@ -477,10 +478,11 @@
 | [Reminiscent Of Us](https://open.spotify.com/track/1CyUDJ44PxxDxKyNcS9n9H) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Reminiscent Of Us](https://open.spotify.com/album/7GZ9cChnV0Z267BDz8n4sg) | 2:33 | 2023-04-21 | 2024-04-01 |
 | [Renacer](https://open.spotify.com/track/5RLG9xOJEFTjZjhmwWul7L) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Renacer](https://open.spotify.com/album/3bZKCf0hvKE8fj3ZgGlRlU) | 2:28 | 2023-04-21 |  |
 | [Repos profond](https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Repos profond](https://open.spotify.com/album/5zZlYMoFYienIwLSKEHqUp) | 2:44 | 2023-04-21 |  |
+| [Resolve](https://open.spotify.com/track/6YKeEQOMBRxrv9kY5A4pON) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Resolve](https://open.spotify.com/album/7CFTnTVuiu6Bz3iupotMsN) | 2:40 | 2024-03-29 |  |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2023-04-21 |  |
 | [Restless Sea](https://open.spotify.com/track/1F8c9YGJjGXnSWhSoZedyH) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Restless Sea](https://open.spotify.com/album/4AMOZFHaOtTz5Y36mTdZxt) | 2:03 | 2023-04-21 | 2023-06-09 |
 | [Revolving Wheel](https://open.spotify.com/track/7Bbk1oFCZwU4k3ODJzNqRH) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Revolving Wheel](https://open.spotify.com/album/6Q5jVBPXmleh97QRUN5s5N) | 2:14 | 2023-04-21 |  |
-| [Ricorda](https://open.spotify.com/track/3N53aMV2eJB32wb2G2Pns0) | [Michèle Courbis](https://open.spotify.com/artist/2BEY2sCSB3h4dO65KU87pv) | [Ricorda](https://open.spotify.com/album/0oo1cTsjmvl1ilc6RlwH6T) | 2:40 | 2023-04-21 |  |
+| [Ricorda](https://open.spotify.com/track/3N53aMV2eJB32wb2G2Pns0) | [Michèle Courbis](https://open.spotify.com/artist/2BEY2sCSB3h4dO65KU87pv) | [Ricorda](https://open.spotify.com/album/0oo1cTsjmvl1ilc6RlwH6T) | 2:40 | 2023-04-21 | 2024-04-05 |
 | [Rio De Los Sauces](https://open.spotify.com/track/693lY3L3XadRUYWEQoYHtb) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Rio De Los Sauces](https://open.spotify.com/album/3rW87wBuoMnxn5CIdesQ7I) | 2:49 | 2022-07-15 | 2023-04-22 |
 | [Rio Panama](https://open.spotify.com/track/5nmvzqwFTpY7UvC8t748bK) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Rio Panama](https://open.spotify.com/album/6n18Rbe3dJKLS0QbHCPE39) | 2:46 | 2022-07-15 |  |
 | [Rio Segundo](https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Rio Segundo](https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU) | 2:49 | 2022-07-15 | 2023-04-22 |

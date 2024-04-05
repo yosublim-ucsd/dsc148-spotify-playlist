@@ -4,7 +4,7 @@
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-137 songs - 8 hr 12 min
+138 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 | 2021-06-15 |  |
 | [Koka\-Kola Veins](https://open.spotify.com/track/75ap5Fce8d9LXSwuBgVC0s) | [The Tough Alliance](https://open.spotify.com/artist/4ps52NgTUPV9accMr5TMBw) | [The New School](https://open.spotify.com/album/2bZ46L0o0qtL3Z48D2egWX) | 4:03 | 2021-06-15 | 2022-07-29 |
 | [Kom igen Lena!](https://open.spotify.com/track/4UDaVq5tm2mQ6tNgWydhUX) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Det är så jag säger det](https://open.spotify.com/album/2x39gXdLwYnTxJyxExXpTj) | 3:51 | 2021-06-15 | 2023-08-17 |
-| [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:48 | 2021-06-15 |  |
+| [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:48 | 2021-06-15 | 2024-04-05 |
 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 | 2021-06-15 |  |
 | [Let's Dance to Joy Division](https://open.spotify.com/track/60Ih7J2Q1o9shvMC2OAALu) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:11 | 2021-06-15 | 2023-06-06 |
 | [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 | 2021-06-15 |  |
@@ -101,6 +101,7 @@
 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2021-06-15 |  |
 | [Paper Planes](https://open.spotify.com/track/1lKrkGoVEsc1a4xcllm7S2) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Paper Planes \- Homeland Security Remixes](https://open.spotify.com/album/4GG44VSWcotck92vWZYpS5) | 3:25 | 2021-06-15 | 2022-11-13 |
 | [Paper Planes](https://open.spotify.com/track/1wgqttlPacpvmX5DKVboOa) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/23vvbZr2ZDlJNZftFAkCqO) | 3:25 | 2021-06-15 | 2022-03-22 |
+| [Please Please Please \- Revisited](https://open.spotify.com/track/444ig6qFZ6t4NEVXMAe7VG) | [Shout Out Louds](https://open.spotify.com/artist/0UOrN3LNaKApiOSdvJiETl) | [Howl Howl Gaff Gaff \(Revisited\)](https://open.spotify.com/album/7qKvcw2qGPA0q2C7Ok5v1F) | 4:30 | 2024-04-04 |  |
 | [Pokerkväll i Vårby Gård](https://open.spotify.com/track/40i1Lt5HjtIvTsd0t1GCoy) | [Florence Valentin](https://open.spotify.com/artist/6hLA4SOKykB43tu3e7iunt) | [HITSVILLE HANINGE \- Samlade Spår 2003\-2014](https://open.spotify.com/album/11bkl9cdSG8mWl4iYfSZd6) | 2:57 | 2021-06-15 | 2022-07-29 |
 | [Punkdrömmar](https://open.spotify.com/track/615tgqlxXuRLXvuUx3Qbfg) | [\[ingenting\]](https://open.spotify.com/artist/6nceGL5HhapgE9AJvlZK1l) | [Mycket Väsen För Ingenting](https://open.spotify.com/album/5NztLuA8iBEwvQaolmXPO3) | 3:10 | 2021-06-15 | 2022-07-27 |
 | [Ramlar](https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:16 | 2021-06-15 | 2023-06-26 |

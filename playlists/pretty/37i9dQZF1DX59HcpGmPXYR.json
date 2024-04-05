@@ -1,12 +1,12 @@
 {
   "description": "The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride. Cover: Sam Smith & Kim Petras",
-  "num_followers": 662244,
+  "num_followers": 662328,
   "original_name": "Pride Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTY2OWI4ZDIxYmY1ODMwYTk5YjhlZTViNmRjZDE1OTVhZTExNGY0",
+  "snapshot_id": "MCxmMmE2ZThkODU3MjdjMTZjODNkMDY2YzIzMzBjNmQyYWI1YzRmMTM0",
   "tracks": [
     {
       "added_at": "2023-06-08 22:01:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "C'est Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 331360,
-      "name": "Le Freak - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
         "name": "Can't Stop the Music (Original Soundtrack 1980)",
         "url": "https://open.spotify.com/album/4oIOg6AgN5cTIQPk00RAWS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 184626,
       "name": "Deceptacon",
       "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "C'est Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 331360,
+      "name": "Le Freak - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE"
     },
     {
       "added_at": "2023-06-08 22:01:00",

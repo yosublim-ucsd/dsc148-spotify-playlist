@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-832 songs - 2 day 8 hr 52 min
+833 songs - 2 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [Mio](https://open.spotify.com/track/6cl3amT9HIxuSYxNZnPmlY) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Mio](https://open.spotify.com/album/03cZqgLuOhAhpuFBiDP2AL) | 4:13 | 2023-05-24 | 2023-07-06 |
 | [Miquelon](https://open.spotify.com/track/5JSqCpiltF0Hu3UdgLrAVf) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo), [Nick Launay](https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe) | [Miquelon](https://open.spotify.com/album/6dzheUJaRJxrA9tkkmO1uG) | 3:01 | 2024-01-22 | 2024-03-07 |
 | [Miracles](https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Miracles](https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW) | 3:44 | 2022-09-08 | 2022-10-21 |
+| [More Data To Survive](https://open.spotify.com/track/2EgWtwJIsyyUezh8U5xikt) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa), [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Trust / More Data To Survive](https://open.spotify.com/album/1RXhUN6z2OIHbNXk20ucrq) | 4:32 | 2024-04-04 |  |
 | [Mosquito](https://open.spotify.com/track/2aIEqZvD0MNvXVPamBkbif) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:12 | 2023-03-08 | 2023-04-20 |
 | [Mosquito \- Tzusing Remix](https://open.spotify.com/track/0rb1Ngna2bumcUf4YCUeNv) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC), [Tzusing](https://open.spotify.com/artist/7Ifvnt1HhJ0b1QwOxLAu2s) | [Mosquito \(Tzusing Remix\)](https://open.spotify.com/album/2x0cKKk9b9zlBKJLcWyWag) | 3:25 | 2022-12-07 | 2023-02-02 |
 | [Moss Side Fish Fry](https://open.spotify.com/track/28HJJDTHudlwGXeurKzXrW) | [Steve Mason](https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU), [OneDa](https://open.spotify.com/artist/1DwRZpAKiTkUXcprfnxEFr) | [Moss Side Fish Fry](https://open.spotify.com/album/0SFpq0bSpEMX0xg0MLPMM0) | 4:12 | 2023-11-02 | 2024-01-04 |

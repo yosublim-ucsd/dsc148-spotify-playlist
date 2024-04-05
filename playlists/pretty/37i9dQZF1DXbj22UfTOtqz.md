@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj22UfTOtqz.md) - [plain]
 
 > Clásicos del Hip Hop para toda la familia a disfrutar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,590 likes - 43 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,615 likes - 43 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj22UfTOtqz.md) - [plain]
 | 25 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 | 26 | [It's a Shame \(My Sister\)](https://open.spotify.com/track/6ir6C7AHGMVLGQN7hv7gTA) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu), [True Image](https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj) | [Down to Earth](https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT) | 3:42 |
 | 27 | [The Breaks](https://open.spotify.com/track/5TvcggVu3s2P1fMAS8BupX) | [Kurtis Blow](https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9) | [Kurtis Blow](https://open.spotify.com/album/1ZcUKK3nnmuYVGEUBxXSXt) | 7:43 |
-| 28 | [I Go To Work](https://open.spotify.com/track/6tGtBvK6DezcjbtUxXGyxe) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [Knowledge Is King](https://open.spotify.com/album/31WVLciVB5ffpco1dZ9vHz) | 4:42 |
-| 29 | [I Can't Live Without My Radio](https://open.spotify.com/track/2qfTGzETefwtBWKDThZjnU) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 5:27 |
+| 28 | [I Can't Live Without My Radio](https://open.spotify.com/track/2qfTGzETefwtBWKDThZjnU) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 5:27 |
+| 29 | [I Go To Work](https://open.spotify.com/track/6tGtBvK6DezcjbtUxXGyxe) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [Knowledge Is King](https://open.spotify.com/album/31WVLciVB5ffpco1dZ9vHz) | 4:42 |
 | 30 | [We Got Our Own Thang](https://open.spotify.com/track/0yndiszlOMgxOu3y2vKZvB) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3) | [Big Tyme](https://open.spotify.com/album/2RDUJixbxpkSdNdDLR4LL8) | 3:52 |
 | 31 | [Si Señor](https://open.spotify.com/track/2KUuvz45mQcuNdyB2x196e) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/31fEHaKaTwJc7hPH2mc9k2) | 4:13 |
 | 32 | [Rock Dis Funky Joint](https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK) | [Poor Righteous Teachers](https://open.spotify.com/artist/1j6sK1bUYK36UNfLjdOfFy) | [Holy Intellect \(Expanded Edition\)](https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm) | 5:11 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj22UfTOtqz.md) - [plain]
 | 42 | [My Adidas](https://open.spotify.com/track/64UQLXFp7Gs189kF3myYiq) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Greatest Hits](https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF) | 2:48 |
 | 43 | [Human Beat Box \(Re\-Recorded Version\)](https://open.spotify.com/track/4tYMaJMiv8DMRnP9tfCpR5) | [Fat Boys](https://open.spotify.com/artist/3537Phr9t8GWkY2GtxDpnt) | [Wipeout \(Re\-Recorded Versions\)](https://open.spotify.com/album/11r8tYGEUCtMwliUxFljCv) | 2:18 |
 
-Snapshot ID: `MCwwZjAzZDY2YTJlMDBkMzBkMmFkNTA4ZDMwZGI0ZWZlMjYzZGUzZWNh`
+Snapshot ID: `MCwzYzY0ZTc0ZGFjOTRhYTRjMmFjNGVkMDM3NmZhNjA2MzljMjQ3ZWMw`

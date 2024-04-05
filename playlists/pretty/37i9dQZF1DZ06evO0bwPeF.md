@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,778 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,779 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 39 | [Make\-Up](https://open.spotify.com/track/09U3w7A1bWNtQ86p5opFcK) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 2:48 |
 | 40 | [Reprise](https://open.spotify.com/track/5nzkV1JORVZoWpRudZ3BAr) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 1:41 |
 
-Snapshot ID: `MCwyNjNjYWIzMjdiYzEzZjJmMjUzNWU0NmQ0NWQyNDkwMDk2ZThiMGYz`
+Snapshot ID: `MCw3MzcxNjBhODVhNjg5N2I1ODU4YmUyMjY4Yzk4NWFmNDc2MWRlM2E1`

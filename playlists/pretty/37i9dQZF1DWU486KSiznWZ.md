@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: فهد العمري
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,797 likes - 40 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,833 likes - 40 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 39 | [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 |
 | 40 | [قيام](https://open.spotify.com/track/1ej0zKc17Qpnrz3BjQzvXD) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [مرحبا](https://open.spotify.com/album/6F34uPWLURxhVHvOUzxNiQ) | 4:04 |
 
-Snapshot ID: `MCxkMTUyMzljNzc2MTA5YzhkMDIwMDE0MDY0NWE2ZDgyMzNkOWNjZjJm`
+Snapshot ID: `MCw0YjVkMzZjY2FiYzU0YzVkYjZkMmFkYzc0MmVjYjViMjNlZTAyODNm`

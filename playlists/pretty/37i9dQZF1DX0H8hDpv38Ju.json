@@ -1,12 +1,12 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 815552,
+  "num_followers": 815650,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDA5ZjE4ZmU0ZmQwZWNkMDJjZDlhMmM3NjE2ZGZmZDBlMTIyNGVk",
+  "snapshot_id": "MCxkNjljZTc3YWNkODQwYWE2ZDcyZTk1Yzc1Mjk3YjgyZmQ3ZDNlZjZj",
   "tracks": [
     {
       "added_at": "2021-04-01 19:37:56",
@@ -363,26 +363,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Club Classics Vol. One",
-        "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
-      },
-      "artists": [
-        {
-          "name": "Soul II Soul",
-          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
-        },
-        {
-          "name": "Caron Wheeler",
-          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Back To Life (However Do You Want Me)",
-      "url": "https://open.spotify.com/track/7ELuWpsuVCRBnOR9ZAZKDp"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of The Dazz Band",
         "url": "https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 240093,
       "name": "Oh Sheila",
       "url": "https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Club Classics Vol. One",
+        "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
+      },
+      "artists": [
+        {
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        },
+        {
+          "name": "Caron Wheeler",
+          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Back To Life (However Do You Want Me)",
+      "url": "https://open.spotify.com/track/7ELuWpsuVCRBnOR9ZAZKDp"
     },
     {
       "added_at": "2021-04-01 19:37:56",

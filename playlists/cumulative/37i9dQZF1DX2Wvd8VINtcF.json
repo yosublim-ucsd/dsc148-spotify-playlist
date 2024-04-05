@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-02",
-  "description": "the pearls of an oyster. Cover: Artemas",
+  "description": "the pearls of an oyster. Cover: Goldielocks",
   "name": "Oyster",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 95129,
       "name": "27AM",
       "url": "https://open.spotify.com/track/0btuN3Oea2yRolMgI67uPO"
@@ -442,6 +442,32 @@
       "duration_ms": 167533,
       "name": "6am - DJ_Dave Edit",
       "url": "https://open.spotify.com/track/1MeYPXGfxZLjX2ZApzaJMn"
+    },
+    {
+      "album": {
+        "name": "86Sentra",
+        "url": "https://open.spotify.com/album/654CmOOF8AzNbGXzdQPWR6"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96009,
+      "name": "86Sentra",
+      "url": "https://open.spotify.com/track/0CBPxBZNCCBC5k1eBRVgYH"
     },
     {
       "album": {
@@ -2729,6 +2755,36 @@
     },
     {
       "album": {
+        "name": "Pigeons & Planes presents: See You Next Year 2",
+        "url": "https://open.spotify.com/album/2HmJbK4LHezgshv0V4m9bi"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        },
+        {
+          "name": "monte booker",
+          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
+        },
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        },
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153066,
+      "name": "Bob Dylan Bus (feat. King Isis)",
+      "url": "https://open.spotify.com/track/1P2ugR200fs2J3ASKUAIMg"
+    },
+    {
+      "album": {
         "name": "Bon Voyage",
         "url": "https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105"
       },
@@ -3194,6 +3250,28 @@
       "duration_ms": 168069,
       "name": "Burns",
       "url": "https://open.spotify.com/track/5ze8DITDe8DQ8oS4MLoUtU"
+    },
+    {
+      "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/2CKsrejBLIuNSASNFQ7ALH"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253960,
+      "name": "Business As Usual (night shift mix)",
+      "url": "https://open.spotify.com/track/09DifuWMDv2U9AsdtLrEma"
     },
     {
       "album": {
@@ -4958,10 +5036,32 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 259646,
       "name": "Det l\u00e4cker",
       "url": "https://open.spotify.com/track/6GffMzseDk8LgpRNFW9Hca"
+    },
+    {
+      "album": {
+        "name": "Det l\u00e4cker (Sebastian Furrer Edit)",
+        "url": "https://open.spotify.com/album/0K58w3lG2p00OCvTDLp3KA"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        },
+        {
+          "name": "Sebastian Furrer",
+          "url": "https://open.spotify.com/artist/0F0otkpvDmCa1E0ePmHmi9"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221397,
+      "name": "Det l\u00e4cker - Sebastian Furrer Edit",
+      "url": "https://open.spotify.com/track/1ixA4PqNk3745oLPMiqmVW"
     },
     {
       "album": {
@@ -5046,6 +5146,24 @@
       "duration_ms": 268946,
       "name": "Did I Stutter",
       "url": "https://open.spotify.com/track/2zAznrUzdl0FugJMarnGXU"
+    },
+    {
+      "album": {
+        "name": "Did It Make You Feel Like a Man",
+        "url": "https://open.spotify.com/album/21QhudCvLFPqldoMRY7uP1"
+      },
+      "artists": [
+        {
+          "name": "bby ivy",
+          "url": "https://open.spotify.com/artist/17aZjZK0Dqx0xGd05Ooo0R"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174912,
+      "name": "Did It Make You Feel Like a Man",
+      "url": "https://open.spotify.com/track/5cnkGhztZtEiAzZQcQ6lBy"
     },
     {
       "album": {
@@ -7086,7 +7204,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 128468,
       "name": "Final G\u00f8rl",
       "url": "https://open.spotify.com/track/3fDOY2MCtgGunLeNKOJe2v"
@@ -7664,6 +7782,24 @@
       "duration_ms": 288155,
       "name": "Fri till slut - Spotify Singles",
       "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
+    },
+    {
+      "album": {
+        "name": "Friend or Foe",
+        "url": "https://open.spotify.com/album/2yBWhovYNLKS7VnHdK8cEN"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250971,
+      "name": "Friend or Foe",
+      "url": "https://open.spotify.com/track/5PM4EyvM68K8XA0UCmWpLF"
     },
     {
       "album": {
@@ -9321,6 +9457,24 @@
     },
     {
       "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229437,
+      "name": "Hold Me Up (Thank You)",
+      "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
+    },
+    {
+      "album": {
         "name": "Become",
         "url": "https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga"
       },
@@ -10142,7 +10296,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 187282,
       "name": "I'm Sorry (ft. Lous and The Yakuza)",
       "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
@@ -10524,7 +10678,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 361025,
       "name": "Indifference",
       "url": "https://open.spotify.com/track/7kllr7HrqwKMZyCSbRAgyw"
@@ -10576,6 +10730,32 @@
       "duration_ms": 170213,
       "name": "Inhale / Exhale (with Sabrina Claudio)",
       "url": "https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu"
+    },
+    {
+      "album": {
+        "name": "Nordic Flora Series, Pt. 6: Outlaw Music",
+        "url": "https://open.spotify.com/album/7ib62D611ESrKymPdoeJJY"
+      },
+      "artists": [
+        {
+          "name": "Varg\u00b2\u2122",
+          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221666,
+      "name": "Is there a place in heaven for boys like me?",
+      "url": "https://open.spotify.com/track/0f4NbY8uXAIdxsEzJI2Waj"
     },
     {
       "album": {
@@ -10836,7 +11016,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 230806,
       "name": "Jigglypuff",
       "url": "https://open.spotify.com/track/2XvHPenTKEkwAwT3T1q1aW"
@@ -11188,6 +11368,24 @@
       "duration_ms": 173576,
       "name": "Keep It Tucked",
       "url": "https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x"
+    },
+    {
+      "album": {
+        "name": "Keep It Up",
+        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156524,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
     },
     {
       "album": {
@@ -11672,7 +11870,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 176861,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/1kRi2A08loSg8oZmHbvxWG"
@@ -11828,7 +12026,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
@@ -12192,6 +12390,24 @@
       "duration_ms": 131000,
       "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
       "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
+    },
+    {
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/7HvwMFz2rJAU9ftzX9oMGf"
+      },
+      "artists": [
+        {
+          "name": "Goldielocks",
+          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176440,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/3VuEgYNwHDWB9Q9cdjtvQi"
     },
     {
       "album": {
@@ -12850,7 +13066,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 210466,
       "name": "Make Ya Proud",
       "url": "https://open.spotify.com/track/4fhgClrrGEsKTpBekCmuUy"
@@ -13042,7 +13258,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 203519,
       "name": "Me Before You",
       "url": "https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3"
@@ -13986,7 +14202,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 158239,
       "name": "New Age Crisis",
       "url": "https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO"
@@ -17212,7 +17428,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 145074,
       "name": "Self Sabotage",
       "url": "https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE"
@@ -18487,6 +18703,24 @@
     },
     {
       "album": {
+        "name": "Spite",
+        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162205,
+      "name": "Spite",
+      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
+    },
+    {
+      "album": {
         "name": "Sports",
         "url": "https://open.spotify.com/album/3O9r5PoJDRmhHHuH4NDsv6"
       },
@@ -19046,7 +19280,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 182265,
       "name": "Stuntin",
       "url": "https://open.spotify.com/track/44CSjBjs3mcn5c66XnB8It"
@@ -19650,7 +19884,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 198437,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX"
@@ -19997,6 +20231,28 @@
     },
     {
       "album": {
+        "name": "Terminal (feat. Haley Bridge)",
+        "url": "https://open.spotify.com/album/6gHfQ7fZIFmFCxbeTJcuU4"
+      },
+      "artists": [
+        {
+          "name": "FELIX SANDMAN",
+          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
+        },
+        {
+          "name": "Haley Bridge",
+          "url": "https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Terminal (feat. Haley Bridge)",
+      "url": "https://open.spotify.com/track/3y4ygtOnJjvxvS8PSpZmDv"
+    },
+    {
+      "album": {
         "name": "Terms and Conditions",
         "url": "https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5"
       },
@@ -20116,7 +20372,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 194234,
       "name": "The Big Boom - Bonus Track",
       "url": "https://open.spotify.com/track/587lEdNGAThT52JpvjnJKd"
@@ -21096,7 +21352,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 160045,
       "name": "Troubled Ones",
       "url": "https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS"
@@ -23016,7 +23272,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"

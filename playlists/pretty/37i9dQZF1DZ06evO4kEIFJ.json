@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 154258,
+  "num_followers": 154286,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjFjMzg0MTlhZThkMjU3OGQwNDJlNWU3ZDUwNzU3OWJhYTZmNmEz",
+  "snapshot_id": "MCxhY2ZlMGY3ZDUzMjkyNTE2Y2YzZmQzMzAwOWMyN2FkZmFhZmJhNjE1",
   "tracks": [
     {
       "added_at": null,
@@ -59,26 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INDUSTRY BABY (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7 EP",
         "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
@@ -86,17 +66,21 @@
         {
           "name": "Lil Nas X",
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
         }
       ],
-      "duration_ms": 113000,
-      "name": "Old Town Road",
-      "url": "https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH"
+      "duration_ms": 157066,
+      "name": "Old Town Road - Remix",
+      "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
     },
     {
       "added_at": null,
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu"
       },
       "artists": [
         {
@@ -104,9 +88,9 @@
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 137704,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
+      "duration_ms": 154997,
+      "name": "HOLIDAY",
+      "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
     },
     {
       "added_at": null,
@@ -143,6 +127,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "7 EP",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "Old Town Road",
+      "url": "https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 146005,
+      "name": "TALES OF DOMINICA",
+      "url": "https://open.spotify.com/track/5S4PZ7AuYlYiVIVik3wHUf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "light! (with Lil Nas X & 9lives)",
         "url": "https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL"
       },
@@ -167,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+        "name": "SUN GOES DOWN",
+        "url": "https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0"
       },
       "artists": [
         {
@@ -176,9 +192,9 @@
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 146005,
-      "name": "TALES OF DOMINICA",
-      "url": "https://open.spotify.com/track/5S4PZ7AuYlYiVIVik3wHUf"
+      "duration_ms": 168275,
+      "name": "SUN GOES DOWN",
+      "url": "https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h"
     },
     {
       "added_at": null,
@@ -203,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUN GOES DOWN",
-        "url": "https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0"
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
       "artists": [
         {
@@ -212,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 168275,
-      "name": "SUN GOES DOWN",
-      "url": "https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h"
+      "duration_ms": 130925,
+      "name": "DONT WANT IT",
+      "url": "https://open.spotify.com/track/4vsJWPwWPS27gRM4oLjBNO"
     },
     {
       "added_at": null,
@@ -235,22 +251,6 @@
       "duration_ms": 180666,
       "name": "Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 130925,
-      "name": "DONT WANT IT",
-      "url": "https://open.spotify.com/track/4vsJWPwWPS27gRM4oLjBNO"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
       "artists": [
         {
@@ -352,13 +352,13 @@
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         },
         {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 162720,
-      "name": "F9mily (You & Me)",
-      "url": "https://open.spotify.com/track/1ABQT5SxlUTNapSbSzblGx"
+      "duration_ms": 145074,
+      "name": "DOLLA SIGN SLIME (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio"
     }
   ],
   "unique_name": "This Is Lil Nas X",

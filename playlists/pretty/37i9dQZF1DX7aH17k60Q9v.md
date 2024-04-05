@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 
 > Con todo el sabor de la vitamina G.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,407 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,622 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 | 99 | [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 |
 | 100 | [En Mi Defensa](https://open.spotify.com/track/73Ssnz5NOJwYpKw2OWXv7p) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [En Mi Defensa](https://open.spotify.com/album/2oS87aZVLDkJOResbJgX9W) | 3:06 |
 
-Snapshot ID: `MCxmMTEyYTMwMzA1NWE1ODY1YjU0ZWEyZjQ1NDA2MTlkZmFkNGU4ZmEy`
+Snapshot ID: `MCxmNTBjMmQwZjliMDViNDg1ZjIyYWMzMDhlNjBlNzc0MzI5MjdhOGZk`

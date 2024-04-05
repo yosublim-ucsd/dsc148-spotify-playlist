@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: Taeha\(태하\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,255 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,282 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 50 | [Caffeine](https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR) | [Eyedi](https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN) | [Caffeine](https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki) | 3:15 |
 | 51 | [Ladies Night](https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Day 2](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) | 3:56 |
 | 52 | [Why](https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:08 |
-| 53 | [DAYDREAM](https://open.spotify.com/track/19vNcjcAM9KC7ykx9V6eBy) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:23 |
-| 54 | [샴푸의 요정](https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4) | [Light & Salt](https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf) | [빛과 소금](https://open.spotify.com/album/43StLW2LdY30M1GIf7xSh7) | 3:47 |
-| 55 | [Baby Don't Play](https://open.spotify.com/track/0fscOpcaHzivo321QxAfAo) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB) | 3:31 |
+| 53 | [Baby Don't Play](https://open.spotify.com/track/0fscOpcaHzivo321QxAfAo) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB) | 3:31 |
+| 54 | [DAYDREAM](https://open.spotify.com/track/19vNcjcAM9KC7ykx9V6eBy) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:23 |
+| 55 | [샴푸의 요정](https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4) | [Light & Salt](https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf) | [빛과 소금](https://open.spotify.com/album/43StLW2LdY30M1GIf7xSh7) | 3:47 |
 | 56 | [보라빛 향기](https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap) | [강수지](https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi) | [강수지 BEST ALBUM](https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30) | 3:28 |
 | 57 | [Thinking About You \(feat\. SUMIN\)](https://open.spotify.com/track/4kUD47WGOx48NepL37CfbT) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Color of Night](https://open.spotify.com/album/36u4F4DHUfQc4Zli7TgHQN) | 3:29 |
 | 58 | [Number 1](https://open.spotify.com/track/1W9fuK1bUimZRvyckkQR05) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 3:22 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 62 | [You and Me Together](https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue) | 3:07 |
 | 63 | [& New](https://open.spotify.com/track/49U6ijIBwe6XZ2d2H7VDDe) | [Eyedi](https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN) | [& New](https://open.spotify.com/album/1p8YgPgFCXInpT5uM4PZoi) | 4:08 |
 | 64 | [Elastic Love](https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [Elastic Love](https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC) | 3:38 |
-| 65 | [A song from the past](https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [A song from the past](https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC) | 3:55 |
+| 65 | [You Got](https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [WJ STAY?](https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f) | 3:34 |
 | 66 | [Orange Road \(with YUKIKA\)](https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 4:30 |
-| 67 | [You Got](https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [WJ STAY?](https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f) | 3:34 |
+| 67 | [A song from the past](https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [A song from the past](https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC) | 3:55 |
 | 68 | [Breathing](https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Breathing](https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y) | 2:53 |
 | 69 | [Drive to 1980 Love](https://open.spotify.com/track/6wTsVAlBZxi8mdGbbAwcWp) | [JANE POP](https://open.spotify.com/artist/7G6b59wjxcAlNpSCmfig5u) | [Drive to 1980 Love](https://open.spotify.com/album/5Oov22r0e9aNkHqhgrEdOD) | 3:11 |
 | 70 | [It's Beautiful](https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Onstage Digging Club Seoul Part.03](https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC) | 3:54 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 76 | [Dive](https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7) | 3:41 |
 | 77 | [Haru \(with meenoi\)](https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:43 |
 | 78 | [City Drive](https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [City Drive](https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1) | 3:27 |
-| 79 | [A day of weather](https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:46 |
-| 80 | [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 |
+| 79 | [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 |
+| 80 | [A day of weather](https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:46 |
 | 81 | [Monthly Project 2019 May Yoon Jong Shin \- A train to chuncheon](https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Monthly Project 2019 May Yoon Jong Shin \- A train to chuncheon](https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ) | 4:54 |
 | 82 | [When My Loneliness Calls You](https://open.spotify.com/track/2HHs3WKouTsJ3pGo5gex3N) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7) | [When My Loneliness Calls You \(From the Original TV Show "Live On"\)](https://open.spotify.com/album/2xpPQeBzdd2ovQpBnAYV37) | 4:17 |
 | 83 | [Rain 51db](https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue) | 3:21 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 96 | [Diver](https://open.spotify.com/track/4YWTrUVmmvULMJviDOzMg0) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/4wuAqejGxm4tQW952IKfHI) | 3:10 |
 | 97 | [Let You Go](https://open.spotify.com/track/4opnoUS0I23L6LyTON7LIh) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/09akXw71DkZY5NrJc8miWU) | 3:11 |
 | 98 | [Paradise](https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:14 |
-| 99 | [Line](https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Lonely](https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603) | 3:54 |
-| 100 | [Come With Me](https://open.spotify.com/track/6QGgZu5a3oDPO2NMrlesCd) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/2gQ2s0q9UDJRYhpAdVCjSs) | 3:11 |
+| 99 | [Algorithm](https://open.spotify.com/track/2tGjh54bikVc5x3dl1pUKx) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/04UMoeGtpAK6TyqRLllHqs) | 3:08 |
+| 100 | [Line](https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Lonely](https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603) | 3:54 |
 
-Snapshot ID: `MCwyYzc3MGVmMzMwNTkzMjIzNTdhODUzOWJmZTAzNGYyZmZhMTViYjNm`
+Snapshot ID: `MCxkNzhhYWFlNTg3OTVjNzA2NjY3M2FmYzE4NjUwOGI5NDgyNmVhNThi`

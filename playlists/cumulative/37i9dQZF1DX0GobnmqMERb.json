@@ -632,6 +632,24 @@
     {
       "album": {
         "name": "Al Paso",
+        "url": "https://open.spotify.com/album/2HULURSzDdc6CLAuBRf0QN"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286348,
+      "name": "Lloraras",
+      "url": "https://open.spotify.com/track/0z04JPJXqZPY92TG5RE4Im"
+    },
+    {
+      "album": {
+        "name": "Al Paso",
         "url": "https://open.spotify.com/album/0hyNXLU9JNeF9DFwhmIqLL"
       },
       "artists": [
@@ -642,7 +660,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 286348,
       "name": "Lloraras",
       "url": "https://open.spotify.com/track/2OJQV5HTP9cPj58ji5wtsv"

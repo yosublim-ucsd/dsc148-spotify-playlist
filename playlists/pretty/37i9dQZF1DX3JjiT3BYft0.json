@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 68551,
+  "num_followers": 68582,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWIyZWRkN2MxNzc5YWE2MjJmODUxZjZkZDdmYmU1ZmE3ZTBlZTlk",
+  "snapshot_id": "MCwxMjJmYTNlMzY0M2Q0MDNjZjcwNmJiNjQ0NTZiMDY2NjllZTM4ZTVl",
   "tracks": [
     {
       "added_at": "2024-03-23 16:15:14",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "\uff32",
-        "url": "https://open.spotify.com/album/5XtGy68gBjYEZpZCbEfQiI"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 284833,
-      "name": "R",
-      "url": "https://open.spotify.com/track/45jaPXs1EROGdFRtT0T8Sx"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "ZEAL of proud",
         "url": "https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU"
       },
@@ -1295,18 +1279,34 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "Poppin\u2019on!",
-        "url": "https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI"
+        "name": "\uff32",
+        "url": "https://open.spotify.com/album/5XtGy68gBjYEZpZCbEfQiI"
       },
       "artists": [
         {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
         }
       ],
-      "duration_ms": 257665,
-      "name": "\u3068\u304d\u3081\u304d\u30a8\u30af\u30b9\u30da\u30ea\u30a8\u30f3\u30b9\uff01",
-      "url": "https://open.spotify.com/track/02BsKsy19crntOUIhTG8Si"
+      "duration_ms": 284833,
+      "name": "R",
+      "url": "https://open.spotify.com/track/45jaPXs1EROGdFRtT0T8Sx"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
+        "url": "https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 315400,
+      "name": "Sing Alive",
+      "url": "https://open.spotify.com/track/59TG3QLUt4mvnPKY07H5la"
     }
   ],
   "unique_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",

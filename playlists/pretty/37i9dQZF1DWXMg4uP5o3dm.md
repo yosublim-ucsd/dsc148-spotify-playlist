@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,971 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,059 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 67 | [Going Ghost](https://open.spotify.com/track/09gwNkeuRJhS1Ryb3sNp6V) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [I WANT BLOOD / i want love](https://open.spotify.com/album/4KkTFPZPuyOWmBNuUXrD0e) | 2:49 |
 | 68 | [LOST IT](https://open.spotify.com/track/0BpRdpbGMQ18OLpU0r0kPb) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag), [P!X!E](https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq) | [LOST IT](https://open.spotify.com/album/0kHS4bvtYbAaBREla4DtLt) | 2:46 |
 | 69 | [Pain Killer](https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Time Isn't Real](https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g) | 3:32 |
-| 70 | [Armatron](https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Armatron](https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r) | 4:12 |
-| 71 | [Crown](https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Crown](https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ) | 2:51 |
+| 70 | [Crown](https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Crown](https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ) | 2:51 |
+| 71 | [Armatron](https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Armatron](https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r) | 4:12 |
 | 72 | [lost cause// \(with grandson\)](https://open.spotify.com/track/1zXoU7XohkF9xLMu5LHZ2G) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [lost cause// \(with grandson\)](https://open.spotify.com/album/30pzFBCamJulEWfJTco52K) | 2:51 |
 | 73 | [Our House \(The Mess We Made\)](https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Our House \(The Mess We Made\)](https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM) | 3:40 |
 | 74 | [Drinking with Cupid](https://open.spotify.com/track/7dooLmazlQIYM9Wo7FRQR7) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Drinking with Cupid](https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD) | 2:52 |
@@ -92,15 +92,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 82 | [PUMP THE BREAK](https://open.spotify.com/track/7baoqD2YuFgFTqdBwf72PC) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:12 |
 | 83 | [Portraits](https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr) | 3:42 |
 | 84 | [Lightning Over Mexico](https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [The Catastrophists EP](https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr) | 4:11 |
-| 85 | [Knockoff](https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Knockoff](https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n) | 3:04 |
+| 85 | [flowers](https://open.spotify.com/track/4SBECfkTJOnZFj9A8gzUQy) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [flowers](https://open.spotify.com/album/10dsPoEePt3UB4WWR2N2Oz) | 2:41 |
 | 86 | [Easy](https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Easy](https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp) | 3:26 |
-| 87 | [flowers](https://open.spotify.com/track/4SBECfkTJOnZFj9A8gzUQy) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [flowers](https://open.spotify.com/album/10dsPoEePt3UB4WWR2N2Oz) | 2:41 |
+| 87 | [Knockoff](https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Knockoff](https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n) | 3:04 |
 | 88 | [When You & Me Dance](https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [When You & Me Dance](https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd) | 3:41 |
 | 89 | [Dead](https://open.spotify.com/track/6O2QJqa6hgF0uzj9mcDq4p) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Dead](https://open.spotify.com/album/3hKxNaxs2oVPewk04LDuBI) | 2:37 |
 | 90 | [Mr Regular](https://open.spotify.com/track/0DBXMMwNYbo0O8wCzpVXkC) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 2:54 |
 | 91 | [Regret \- Remix](https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [A Change of Perspective \(Deluxe\)](https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD) | 3:29 |
-| 92 | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU) | 2:35 |
-| 93 | [Bang](https://open.spotify.com/track/5GbK9am1svakX356ltRPcm) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Bang](https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy) | 2:11 |
+| 92 | [Bang](https://open.spotify.com/track/5GbK9am1svakX356ltRPcm) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Bang](https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy) | 2:11 |
+| 93 | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU) | 2:35 |
 | 94 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 |
 | 95 | [god damn!](https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [god damn!](https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv) | 1:56 |
 | 96 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 99 | [peachy](https://open.spotify.com/track/3sAqyVG6b5dyqIYujvUsxS) | [Saint Slumber](https://open.spotify.com/artist/35rPDAvcHOnhrMVmqhQ6BM) | [peachy](https://open.spotify.com/album/1X19TViAdx7ohbra4fNlXT) | 3:23 |
 | 100 | [New Friends](https://open.spotify.com/track/6bHFFcOvpc1pKrT4YL1K83) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [New Friends](https://open.spotify.com/album/3CqLMnA4ivtuBuGPV4h4Ky) | 2:56 |
 
-Snapshot ID: `MCw0ZTJkODdhNDNlM2I5ZWUzZDU4NWI1Yjc0NjE1NmM3ZjAwNjJhY2Ez`
+Snapshot ID: `MCxiZDBkYzYyMmExM2MyNDcxMDY0MWM2YTkzNTMxYjQwODliMDdkZTY1`

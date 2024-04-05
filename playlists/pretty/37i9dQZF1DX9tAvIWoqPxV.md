@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tAvIWoqPxV.md) - [plain]
 
 > Retro favorites from 2023\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,458 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,454 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tAvIWoqPxV.md) - [plain]
 | 49 | [Better With You](https://open.spotify.com/track/76PSAnoPnMEzF4xmflptce) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Better With You](https://open.spotify.com/album/6ezo2KxwPTWq0Ov5IyIx22) | 2:13 |
 | 50 | [Darling](https://open.spotify.com/track/442CrII1BuI3Q9OmzAAwTq) | [BRIDGE](https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8) | [Cry Baby](https://open.spotify.com/album/4BvzVMX9CAVDfP12AIXu53) | 3:01 |
 
-Snapshot ID: `MCwxNTVkNTEwNDMwNGMyOTk3ZjE3NTY4OWNkZWQ0ZjM5Y2MxODIyZDY0`
+Snapshot ID: `MCxlMjFlZGIyNDc3YTgwMDljMzczYjIxMzliNTk1NjE3ZTFiZTBkNjI3`

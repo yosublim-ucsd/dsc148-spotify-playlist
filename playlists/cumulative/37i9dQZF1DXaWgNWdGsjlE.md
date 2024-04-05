@@ -4,7 +4,7 @@
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-217 songs - 11 hr 46 min
+218 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [BLOOD DIAMOND](https://open.spotify.com/track/2ppPviNexUPjzBGkH7XRlp) | [M.O.B.](https://open.spotify.com/artist/3vSeS3NsnQhceuHCesjx05), [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [BLOOD DIAMOND](https://open.spotify.com/album/4V43ZlyWMR4P9PLBWKO4ZM) | 4:16 | 2022-04-08 | 2023-05-06 |
 | [BLOODPUDDLE](https://open.spotify.com/track/4cbmaakH3pHNNBn4oYhxgO) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [BLOODPUDDLE](https://open.spotify.com/album/1ECcVLJb9ksKW15h4Slulo) | 1:54 | 2023-03-24 | 2023-08-19 |
 | [Brainfreeze](https://open.spotify.com/track/4Eb3gMQ7N2dpPNJM3g0BQf) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/7eEbep8JcpiguccrgdNcms) | 4:16 | 2022-04-08 | 2022-07-29 |
-| [Brainfreeze](https://open.spotify.com/track/6kwaYcQCLqWRYlG7Vpffsg) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/3mh4YBAPUHSKZ2VjWGfB3H) | 4:16 | 2022-07-01 |  |
+| [Brainfreeze](https://open.spotify.com/track/4NaclRxoM5U9fyWV3dBUwW) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/7LrNW8cW763WEKTAwkCMZ2) | 4:16 | 2024-02-12 |  |
+| [Brainfreeze](https://open.spotify.com/track/6kwaYcQCLqWRYlG7Vpffsg) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/3mh4YBAPUHSKZ2VjWGfB3H) | 4:16 | 2022-07-01 | 2024-04-05 |
 | [Brainfreeze](https://open.spotify.com/track/7pDH3MNeFLhDYJMsqHPhCF) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [XVOTO](https://open.spotify.com/album/6muUIRODfshZYZLD52K5Va) | 4:16 | 2022-11-08 | 2022-11-14 |
 | [BURNING RUBBER](https://open.spotify.com/track/2zhW4Hb4JuQugffpsuVwKz) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [I WANT BLOOD / i want love](https://open.spotify.com/album/4z172SKyhMOorillZtbIIZ) | 2:13 | 2024-02-12 |  |
 | [BURNING RUBBER](https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [BURNING RUBBER](https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e) | 2:13 | 2022-04-08 | 2024-04-04 |

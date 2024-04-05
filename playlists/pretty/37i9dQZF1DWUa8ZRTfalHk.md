@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > Who's now and next in pop\. Cover: Camila Cabello
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,184,518 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,184,843 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 99 | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w) | 2:03 |
 | 100 | [Tattoos](https://open.spotify.com/track/4p1i3nnCvKtkMWWx7EuKQ7) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Tattoos](https://open.spotify.com/album/7bkPBBnOZeGCYZRLYMSUZF) | 2:45 |
 
-Snapshot ID: `MCxmZTYyNTc4ZTM2NmUyOTZmZWU2MThiNTNiMGRmN2IxYWY1NzkxNzcx`
+Snapshot ID: `MCw4NTdmMDBhZTUzZTEwOTU4NGE2ZmM4MGQ4MjZkYWYwMzcxZGU5M2E1`

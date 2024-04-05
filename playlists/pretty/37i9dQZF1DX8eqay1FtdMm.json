@@ -1,12 +1,12 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: DAVICHI(\ub2e4\ube44\uce58)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 334783,
+  "num_followers": 334801,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjkzNjdjMmUyNzhlZTZjNDRkMjY4ODg4NmY5ZGViYWI2NDA0ZWQ2",
+  "snapshot_id": "MCwzNTBlM2Y0MTdhMTdkNjA3ZTc5YmNmMWFhOTU5ZTg5NDBmM2VjMWQ2",
   "tracks": [
     {
       "added_at": "2024-03-26 10:41:20",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
+        "name": "18 again, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/46SLMiMiXNfPLoeatJo9wY"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "duration_ms": 244213,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0avJy0NC4btzu7PQ7TtG0n"
+    },
+    {
+      "added_at": "2024-03-26 10:41:20",
+      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
-        "name": "18 again, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/46SLMiMiXNfPLoeatJo9wY"
-      },
-      "artists": [
-        {
-          "name": "Sohyang",
-          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
-        }
-      ],
-      "duration_ms": 244213,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0avJy0NC4btzu7PQ7TtG0n"
-    },
-    {
-      "added_at": "2024-03-26 10:41:20",
-      "album": {
         "name": "Chocolate, Pt.5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/04B0uLq5aKWhjVmA8Vrj8I"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
-        "name": "her",
-        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 155546,
-      "name": "her",
-      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
-    },
-    {
-      "added_at": "2024-03-26 10:41:20",
-      "album": {
         "name": "Stay Here",
         "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 228615,
       "name": "Stay Here",
       "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
+    },
+    {
+      "added_at": "2024-03-26 10:41:20",
+      "album": {
+        "name": "her",
+        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "duration_ms": 155546,
+      "name": "her",
+      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
     },
     {
       "added_at": "2024-03-26 10:41:20",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
+        "name": "WINTER",
+        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 264678,
+      "name": "Will Last Forever",
+      "url": "https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H"
+    },
+    {
+      "added_at": "2024-03-26 10:41:20",
+      "album": {
         "name": "Alley",
         "url": "https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 285426,
       "name": "Alley (with SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC"
-    },
-    {
-      "added_at": "2024-03-26 10:41:20",
-      "album": {
-        "name": "WINTER",
-        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 264678,
-      "name": "Will Last Forever",
-      "url": "https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H"
     },
     {
       "added_at": "2024-03-26 10:41:20",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
+        "name": "Way - SM STATION",
+        "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 238853,
+      "name": "Way",
+      "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
+    },
+    {
+      "added_at": "2024-03-26 10:41:20",
+      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 293160,
       "name": "Even for a moment",
       "url": "https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD"
-    },
-    {
-      "added_at": "2024-03-26 10:41:20",
-      "album": {
-        "name": "Way - SM STATION",
-        "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
-      },
-      "artists": [
-        {
-          "name": "ONEW",
-          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
-        },
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        }
-      ],
-      "duration_ms": 238853,
-      "name": "Way",
-      "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
     },
     {
       "added_at": "2024-03-26 10:41:20",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
-        "name": "Full Bloom",
-        "url": "https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "Love Fool",
-      "url": "https://open.spotify.com/track/78ArztlRnP0iatNE9GJNJB"
-    },
-    {
-      "added_at": "2024-03-26 10:41:20",
-      "album": {
         "name": "The 3rd Digital Single `Amazing You'",
         "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 296832,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+    },
+    {
+      "added_at": "2024-03-26 10:41:20",
+      "album": {
+        "name": "Back In Time (The Moon during the Day X K.will)",
+        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Back In Time (The Moon during the Day X K.will)",
+      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
     },
     {
       "added_at": "2024-03-26 10:41:20",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
-        "name": "Back In Time (The Moon during the Day X K.will)",
-        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
+        "name": "Full Bloom",
+        "url": "https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y"
       },
       "artists": [
         {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
         }
       ],
-      "duration_ms": 225120,
-      "name": "Back In Time (The Moon during the Day X K.will)",
-      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+      "duration_ms": 191160,
+      "name": "Love Fool",
+      "url": "https://open.spotify.com/track/78ArztlRnP0iatNE9GJNJB"
     },
     {
       "added_at": "2024-03-26 10:41:20",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-03-26 10:41:20",
       "album": {
-        "name": "love",
-        "url": "https://open.spotify.com/album/600af5WWeNaasoZFOzG8DN"
+        "name": "FlexxCop OST Part.3 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5GWrGN3k1vnk7NItvfiH7Q"
       },
       "artists": [
         {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+          "name": "Bernard Park",
+          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
         }
       ],
-      "duration_ms": 213275,
-      "name": "comedy",
-      "url": "https://open.spotify.com/track/2vTtdPT1qUYAn5KhivJuOt"
+      "duration_ms": 246720,
+      "name": "To. Me",
+      "url": "https://open.spotify.com/track/3iclBTy2seRGoHq71GCJ6e"
     }
   ],
   "unique_name": "v o K a l",

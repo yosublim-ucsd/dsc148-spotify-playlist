@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21198,
+  "num_followers": 21204,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTA4Mjk2OGI5NzZkNTk2N2FiZTA0NDlhZWY2OTA1YzVmMWEwMzFi",
+  "snapshot_id": "MCxhODVhNmNkMTAzYjdhMjM4MTViNjBhYmI0ODgyM2FhYTQ2NmUxNWUy",
   "tracks": [
     {
       "added_at": null,
@@ -1223,22 +1223,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flutua",
-        "url": "https://open.spotify.com/album/5EYFf8QgpN3KTGGTlxkuku"
+        "name": "Tudo Vai Mudar",
+        "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
       },
       "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
         {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
         }
       ],
-      "duration_ms": 203980,
-      "name": "Flutua",
-      "url": "https://open.spotify.com/track/3gsrsMy7PHTaEy0y6vzEVP"
+      "duration_ms": 173553,
+      "name": "Tudo Vai Mudar",
+      "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
     },
     {
       "added_at": null,
@@ -1263,26 +1267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo Vai Mudar",
-        "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
+        "name": "Flutua",
+        "url": "https://open.spotify.com/album/5EYFf8QgpN3KTGGTlxkuku"
       },
       "artists": [
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
         {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
         }
       ],
-      "duration_ms": 173553,
-      "name": "Tudo Vai Mudar",
-      "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
+      "duration_ms": 203980,
+      "name": "Flutua",
+      "url": "https://open.spotify.com/track/3gsrsMy7PHTaEy0y6vzEVP"
     },
     {
       "added_at": null,

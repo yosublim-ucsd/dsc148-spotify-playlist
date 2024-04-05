@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Don Diablo & Major Lazer",
-  "num_followers": 237483,
+  "num_followers": 237574,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2Q3MWFmOGIzODk1MTcwNjY5ZmMyODZiZGRmZWIwMGUxZjUyODQ5",
+  "snapshot_id": "MCw1MDE2N2QyNzZhODAzOWE3ZjkwYTVhZjg4MzRhMDgyOGE3ZTkxZWJi",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Sippin' Yak",
+        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 146230,
+      "name": "Sippin' Yak",
+      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
         "url": "https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 251904,
       "name": "Sweet Disposition - John Summit & Silver Panda Remix",
       "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Sippin' Yak",
-        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 146230,
-      "name": "Sippin' Yak",
-      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "New Bottega",
+        "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        },
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "duration_ms": 188915,
+      "name": "New Bottega",
+      "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Zombie (feat. Valerie Broussard)",
         "url": "https://open.spotify.com/album/1uLMooNp9bB40khUJAqe5c"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 284643,
       "name": "Zombie (feat. Valerie Broussard)",
       "url": "https://open.spotify.com/track/5AZJbQwaYGHWCY53k7fO57"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "New Bottega",
-        "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
-      },
-      "artists": [
-        {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
-        },
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        }
-      ],
-      "duration_ms": 188915,
-      "name": "New Bottega",
-      "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "SEE YOU DROP",
+        "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "SEE YOU DROP",
+      "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Dola re Dola",
         "url": "https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 125538,
       "name": "Dola re Dola",
       "url": "https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "SEE YOU DROP",
-        "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "SEE YOU DROP",
-      "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Overdrive EP",
+        "url": "https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 254836,
+      "name": "Overdrive - Edit",
+      "url": "https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 206000,
       "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Overdrive EP",
-        "url": "https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 254836,
-      "name": "Overdrive - Edit",
-      "url": "https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1831,18 +1831,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "CAN YOU SEE ME?",
-        "url": "https://open.spotify.com/album/1tiNJggspDrowgtBP4w25O"
+        "name": "Gyrate (ft. Wreckno)",
+        "url": "https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd"
       },
       "artists": [
         {
           "name": "Rezz",
           "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        },
+        {
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
         }
       ],
-      "duration_ms": 141538,
-      "name": "CAN YOU SEE ME?",
-      "url": "https://open.spotify.com/track/2YeHtUuRFJeeeJtGGmLp5a"
+      "duration_ms": 176000,
+      "name": "Gyrate (ft. Wreckno)",
+      "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1859,6 +1867,26 @@
       "duration_ms": 217946,
       "name": "One Pill",
       "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 176548,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1883,26 +1911,6 @@
       "duration_ms": 137142,
       "name": "Softly - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/58X8RJOiEXA1bkgUMPScXz"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "I Found You",
-        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 176548,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1963,26 +1971,34 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Gyrate (ft. Wreckno)",
-        "url": "https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd"
+        "name": "CAN YOU SEE ME?",
+        "url": "https://open.spotify.com/album/1tiNJggspDrowgtBP4w25O"
       },
       "artists": [
         {
           "name": "Rezz",
           "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Quackson",
-          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
-        },
-        {
-          "name": "Wreckno",
-          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Gyrate (ft. Wreckno)",
-      "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
+      "duration_ms": 141538,
+      "name": "CAN YOU SEE ME?",
+      "url": "https://open.spotify.com/track/2YeHtUuRFJeeeJtGGmLp5a"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "dontstopme!",
+      "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2011,22 +2027,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "dontstopme!",
-      "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Stop Time",
         "url": "https://open.spotify.com/album/2R0m33i4wSKTVCJAysYNT4"
       },
@@ -2051,26 +2051,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Motor",
-        "url": "https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Motor",
-      "url": "https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "This Mixtape is Fire TOO",
         "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
       },
@@ -2087,6 +2067,26 @@
       "duration_ms": 239047,
       "name": "buttons! (with Knock2)",
       "url": "https://open.spotify.com/track/6lNYE1wSCTtBxFvcdUAymQ"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Motor",
+        "url": "https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "Motor",
+      "url": "https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2175,6 +2175,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 193218,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "BANG YOUR HEAD",
         "url": "https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk"
       },
@@ -2259,26 +2279,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 193218,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Do My Thing",
         "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
       },
@@ -2335,6 +2335,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "NEXT LVL",
+        "url": "https://open.spotify.com/album/1rhMrfqiJY4q1KtEzmjx2o"
+      },
+      "artists": [
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "NEXT LVL",
+      "url": "https://open.spotify.com/track/6uaKtnOTKImR5B6cU8FXjo"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "You Found Me",
         "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
       },
@@ -2355,26 +2375,6 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "NEXT LVL",
-        "url": "https://open.spotify.com/album/1rhMrfqiJY4q1KtEzmjx2o"
-      },
-      "artists": [
-        {
-          "name": "DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "LEVEL UP",
-          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "NEXT LVL",
-      "url": "https://open.spotify.com/track/6uaKtnOTKImR5B6cU8FXjo"
     },
     {
       "added_at": "2024-03-29 04:00:00",

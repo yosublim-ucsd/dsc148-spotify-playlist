@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 81701,
+  "2024-04-05": 81740,
   "date_first_scraped": "2022-02-25",
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
   "name": "Jersey Club Heat",
@@ -3347,6 +3347,28 @@
     {
       "album": {
         "name": "Leave",
+        "url": "https://open.spotify.com/album/6AeZAE9S0GDtkKpxSxsHae"
+      },
+      "artists": [
+        {
+          "name": "The Szns",
+          "url": "https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU"
+        },
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174623,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/7jRVGR6xzoiBkY51gEla0L"
+    },
+    {
+      "album": {
+        "name": "Leave",
         "url": "https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs"
       },
       "artists": [
@@ -4507,7 +4529,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 111304,
       "name": "Orange Soda - Jersey Club Remix",
       "url": "https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ"

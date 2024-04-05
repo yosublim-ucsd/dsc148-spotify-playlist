@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,947 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,027 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 33 | [Pensando en Ti](https://open.spotify.com/track/7MfrwUdFybdVfNHd1wcH63) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Pensando en Ti](https://open.spotify.com/album/328KPPOFjIYTfLsH8iyIAh) | 3:21 |
 | 34 | [Complicado](https://open.spotify.com/track/3eGpyKNSwZH2E738CjK9w1) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [No Teníamos Nada, Pero Éramos Felices](https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs) | 3:59 |
 | 35 | [NO LOGRÉ CONQUISTARTE](https://open.spotify.com/track/2PAjRPUvexWW0Fy3qdIriI) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [NO LOGRÉ CONQUISTARTE](https://open.spotify.com/album/3YC0oHVHqArWdKTvelM0Uq) | 3:09 |
-| 36 | [Luna Azul](https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna Azul](https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP) | 3:08 |
-| 37 | [No Estés Triste](https://open.spotify.com/track/0RmcxxIWGaiZ4mvK8ryRsq) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [No estes triste](https://open.spotify.com/album/3zQZmkhiglO4prMpN5U2A6) | 3:18 |
+| 36 | [No Estés Triste](https://open.spotify.com/track/0RmcxxIWGaiZ4mvK8ryRsq) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [No estes triste](https://open.spotify.com/album/3zQZmkhiglO4prMpN5U2A6) | 3:18 |
+| 37 | [Luna Azul](https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna Azul](https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP) | 3:08 |
 | 38 | [PA QUE CONMIGO](https://open.spotify.com/track/6EQ2lpYqcWp0lpbgLmQGFS) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [PA QUE CONMIGO](https://open.spotify.com/album/5DMDB1y2gSxBWyXGPn38vy) | 2:56 |
 | 39 | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs) | 3:23 |
 | 40 | [Volvernos a Topar](https://open.spotify.com/track/2g1WWDdLIhLsFTy0t04u3f) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Perder para Ganar](https://open.spotify.com/album/4RnP44jWQF3PptVM0hJXZB) | 3:31 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 80 | [Tú, Mija](https://open.spotify.com/track/3iHKAaHygZybCLU2oDostS) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Tú, Mija](https://open.spotify.com/album/1wTlJ4THw8zVTuZna1AFwI) | 3:30 |
 | 81 | [Confundido](https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Confundido](https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve) | 4:36 |
 | 82 | [Vaivén](https://open.spotify.com/track/68RnQABNIGlpZOnWCHTXlP) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Vaivén](https://open.spotify.com/album/4AxOgNmDycOaIv95OiJHMt) | 3:00 |
-| 83 | [Findes](https://open.spotify.com/track/5JAP0DcgbnOPvpSVC7Bmm9) | [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [Findes](https://open.spotify.com/album/6EJbPllUaHkXndA03xJGfy) | 2:41 |
-| 84 | [¿Qué Pasó Mi Amor?](https://open.spotify.com/track/2GlGnsgX2acpZk6O4J2Qc7) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Masoquista / ¿Qué Pasó Mi Amor?](https://open.spotify.com/album/2x7RSXftZESuzY52tyu4Cs) | 3:02 |
+| 83 | [¿Qué Pasó Mi Amor?](https://open.spotify.com/track/2GlGnsgX2acpZk6O4J2Qc7) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Masoquista / ¿Qué Pasó Mi Amor?](https://open.spotify.com/album/2x7RSXftZESuzY52tyu4Cs) | 3:02 |
+| 84 | [Findes](https://open.spotify.com/track/5JAP0DcgbnOPvpSVC7Bmm9) | [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [Findes](https://open.spotify.com/album/6EJbPllUaHkXndA03xJGfy) | 2:41 |
 | 85 | [Te Amodio](https://open.spotify.com/track/4gJAYXiTkzDlbfeZn4EH9F) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Te Amodio](https://open.spotify.com/album/25N4zFBTWXO5C5zWPBMYjA) | 4:27 |
 | 86 | [Ajena](https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [Ajena](https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t) | 2:40 |
 | 87 | [GPI](https://open.spotify.com/track/00ONvNtwpto32WcJ7xY31s) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Easy To Hate](https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 99 | [Próximo Diciembre](https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Próximo Diciembre](https://open.spotify.com/album/009pkQIFctOi2Js6ipx6T1) | 3:44 |
 | 100 | [Sonríes Como Nadie](https://open.spotify.com/track/35upFzxLHai3PhYbZlF90f) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Sonríes Como Nadie](https://open.spotify.com/album/3HPEQMPNdF7YdcdxECYBPy) | 3:16 |
 
-Snapshot ID: `MCwzODJjNzM5NzAxNzY0MDk5ZTQ0NmUyMWRiMjNjOWM5ODNkOTA4MGEx`
+Snapshot ID: `MCwyYzM1MDE2ZTczM2RjYTlmOGYxMGFlOWZhMmNiODg0ZGE0YTVkM2U4`

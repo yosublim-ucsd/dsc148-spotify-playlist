@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 310633,
+  "num_followers": 310789,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODU2OWZjNTczZTZmN2E2YTA4NjE0OWE3YzM2NDY0ZWYwMzAyMjQw",
+  "snapshot_id": "MCwwZDExYjk2MmRlMjllNzMzMTE1ZTBmZGIxZDA5ZDgyN2UyYmRmNzQ2",
   "tracks": [
     {
       "added_at": "2024-03-13 08:19:05",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/1bQuCY8PIVLbvSl0cHyivO"
+      },
+      "artists": [
+        {
+          "name": "Efemero",
+          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
+        }
+      ],
+      "duration_ms": 193684,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/6GSuQUeRCOEQ5JRnI8iZYo"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Journey (Mahmut Orhan Remix)",
         "url": "https://open.spotify.com/album/3W4y2VylACtq2E0ZFxwHd6"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 201125,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/1bQuCY8PIVLbvSl0cHyivO"
-      },
-      "artists": [
-        {
-          "name": "Efemero",
-          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
-        }
-      ],
-      "duration_ms": 193684,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/6GSuQUeRCOEQ5JRnI8iZYo"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Heatiche (Vip Mix)",
+        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
+      },
+      "artists": [
+        {
+          "name": "Mpirgkel",
+          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
+        }
+      ],
+      "duration_ms": 216521,
+      "name": "Heatiche - Vip Mix",
+      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "Bayati Shiraz (feat. Kenan Bayramli)",
         "url": "https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 214214,
       "name": "Bayati Shiraz (feat. Kenan Bayramli)",
       "url": "https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Heatiche (Vip Mix)",
-        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
-      },
-      "artists": [
-        {
-          "name": "Mpirgkel",
-          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
-        }
-      ],
-      "duration_ms": 216521,
-      "name": "Heatiche - Vip Mix",
-      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1104,6 +1104,10 @@
           "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
         },
         {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        },
+        {
           "name": "Sahal\u00e9",
           "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
         }
@@ -1111,6 +1115,22 @@
       "duration_ms": 396428,
       "name": "Sophonisbe - Sahale Remix",
       "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/0VCPlHKrNaXBmvDLuXdBVH"
+      },
+      "artists": [
+        {
+          "name": "Berat Oz",
+          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/6swUlpIZQ3ogPdfnn2Sh5Y"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1215,22 +1235,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/0VCPlHKrNaXBmvDLuXdBVH"
-      },
-      "artists": [
-        {
-          "name": "Berat Oz",
-          "url": "https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/6swUlpIZQ3ogPdfnn2Sh5Y"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Deep Anatolia",
         "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
       },
@@ -1327,22 +1331,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Sireli",
-        "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
-      },
-      "artists": [
-        {
-          "name": "Viken Arman",
-          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
-        }
-      ],
-      "duration_ms": 381818,
-      "name": "Souq",
-      "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Anlar",
         "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
       },
@@ -1383,6 +1371,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Sireli",
+        "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
+      },
+      "artists": [
+        {
+          "name": "Viken Arman",
+          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
+        }
+      ],
+      "duration_ms": 381818,
+      "name": "Souq",
+      "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "3ala bali",
         "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
       },
@@ -1403,26 +1407,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Love of You (The Violin Song)",
-        "url": "https://open.spotify.com/album/34OrTqooBQrQqkwJpxPTJJ"
-      },
-      "artists": [
-        {
-          "name": "Embody",
-          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
-        },
-        {
-          "name": "Brianna",
-          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
-        }
-      ],
-      "duration_ms": 160575,
-      "name": "Love of You (The Violin Song)",
-      "url": "https://open.spotify.com/track/3Plxq17VtrPDcXMFvFqBI4"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "CEWRESAMIN",
         "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
       },
@@ -1439,6 +1423,26 @@
       "duration_ms": 136000,
       "name": "Cewresamin",
       "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Love of You (The Violin Song)",
+        "url": "https://open.spotify.com/album/34OrTqooBQrQqkwJpxPTJJ"
+      },
+      "artists": [
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+        },
+        {
+          "name": "Brianna",
+          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
+        }
+      ],
+      "duration_ms": 160575,
+      "name": "Love of You (The Violin Song)",
+      "url": "https://open.spotify.com/track/3Plxq17VtrPDcXMFvFqBI4"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1471,6 +1475,34 @@
       "duration_ms": 270015,
       "name": "La rose \u00e9ternelle",
       "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
+        "name": "Tawada",
+        "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "OSENS",
+          "url": "https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D"
+        },
+        {
+          "name": "Anas Chlih",
+          "url": "https://open.spotify.com/artist/0ezd2sTG5nyJdtHFzbdbZV"
+        },
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "duration_ms": 435121,
+      "name": "Tawada - Saint Evo Remix",
+      "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1515,34 +1547,6 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Tawada",
-        "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        },
-        {
-          "name": "OSENS",
-          "url": "https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D"
-        },
-        {
-          "name": "Anas Chlih",
-          "url": "https://open.spotify.com/artist/0ezd2sTG5nyJdtHFzbdbZV"
-        },
-        {
-          "name": "Saint Evo",
-          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
-        }
-      ],
-      "duration_ms": 435121,
-      "name": "Tawada - Saint Evo Remix",
-      "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
         "name": "Sunam",
         "url": "https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt"
       },
@@ -1567,18 +1571,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Mektup",
-        "url": "https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij"
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
       },
       "artists": [
         {
-          "name": "ilkan Muslu",
-          "url": "https://open.spotify.com/artist/3tU2vh0n0CMrNvVkvh4Lxv"
+          "name": "Pad\u00e9",
+          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
+        },
+        {
+          "name": "Murat Salman",
+          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
         }
       ],
-      "duration_ms": 212615,
-      "name": "Askim",
-      "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
+      "duration_ms": 179512,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1603,22 +1611,18 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
+        "name": "Mektup",
+        "url": "https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij"
       },
       "artists": [
         {
-          "name": "Pad\u00e9",
-          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
-        },
-        {
-          "name": "Murat Salman",
-          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
+          "name": "ilkan Muslu",
+          "url": "https://open.spotify.com/artist/3tU2vh0n0CMrNvVkvh4Lxv"
         }
       ],
-      "duration_ms": 179512,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
+      "duration_ms": 212615,
+      "name": "Askim",
+      "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1695,6 +1699,22 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
+    },
+    {
+      "added_at": "2024-03-13 08:19:05",
+      "album": {
         "name": "El Hawa",
         "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
       },
@@ -1763,22 +1783,6 @@
       "duration_ms": 452950,
       "name": "Mosaic - Yohan & David Remix",
       "url": "https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK"
-    },
-    {
-      "added_at": "2024-03-13 08:19:05",
-      "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
     },
     {
       "added_at": "2024-03-13 08:19:05",
@@ -1915,18 +1919,30 @@
     {
       "added_at": "2024-03-13 08:19:05",
       "album": {
-        "name": "Jawi",
-        "url": "https://open.spotify.com/album/047yqMv9xH71I4Y72gDcLw"
+        "name": "The Universe of Buddha Bar",
+        "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
       "artists": [
         {
-          "name": "HbbZ",
-          "url": "https://open.spotify.com/artist/2nfiyna13PWJGEEQ806fmu"
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Momo Ryuk",
+          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
+        },
+        {
+          "name": "Salah Hammadi",
+          "url": "https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T"
         }
       ],
-      "duration_ms": 245161,
-      "name": "Jawi",
-      "url": "https://open.spotify.com/track/0oyXfaKxMo82IbAzAC2BMb"
+      "duration_ms": 355886,
+      "name": "Lbechra",
+      "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
     }
   ],
   "unique_name": "mosaic",

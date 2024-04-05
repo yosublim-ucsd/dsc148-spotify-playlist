@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-111 songs - 5 hr 19 min
+112 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Ippai G2](https://open.spotify.com/track/7quDM98kweHmcHrqzdCkIj) | [Link Hood](https://open.spotify.com/artist/7wjf64sDcVNsgTXKKyaxio), [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc) | [Ippai G2](https://open.spotify.com/album/2rJl8FBwTHAkQ8p0aqIPuo) | 3:12 | 2023-06-21 |  |
 | [JAPANESE NINJA](https://open.spotify.com/track/00HIKUJ3NMsxnvFuLuQiSf) | [LeMu](https://open.spotify.com/artist/2Fs2BmbyNv5W969MZKe2kM), [P¥TA](https://open.spotify.com/artist/3YVzbws07cdeBA8ZisKzqX), [Will](https://open.spotify.com/artist/3muGOz0Xarz7aRbHp1QOSu), [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe) | [LeMu TAPE](https://open.spotify.com/album/2AIUvGSCl36rMXwiRH1IaV) | 2:22 | 2022-11-19 |  |
 | [Kamasu or Die](https://open.spotify.com/track/2wsYbaGE0LrBpFVvpTPmHH) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [ZORN](https://open.spotify.com/artist/1usR8ZFyugMzuO9eDDwMKU) | [Kamasu or Die](https://open.spotify.com/album/5lbYwvOXS7YZIdRdKvLaTw) | 3:41 | 2022-11-19 | 2024-01-16 |
+| [Kawasaki Drift](https://open.spotify.com/track/1fbMGnVgmS72f4CUWnPTMU) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [BAD HOP HOUSE](https://open.spotify.com/album/1BgFgc9JWJbvn50Jyj3rfV) | 4:37 | 2024-02-27 |  |
 | [Kawasaki Drift](https://open.spotify.com/track/2zWJKBSNKyy0kEc78V9CAW) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [BAD HOP HOUSE](https://open.spotify.com/album/4yWFSxfJsvkgkR0o6JeD1a) | 4:37 | 2022-11-19 | 2024-04-04 |
 | [Kick Up](https://open.spotify.com/track/3GEZrXDyJGtcIo4kLLiF67) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Kick Up](https://open.spotify.com/album/6KkikXwQyUw7jtJqrfo35a) | 3:07 | 2022-11-19 |  |
 | [LEGACY](https://open.spotify.com/track/7ejrd0wNFUKuIC9Jr7KvSA) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [DJ Hazime](https://open.spotify.com/artist/5OTMloJew4RhmaLHAFyItP) | [LEGACY](https://open.spotify.com/album/1EM4qEhEHmBIKWFhLFWY6a) | 4:26 | 2022-11-19 | 2022-12-07 |
@@ -94,7 +95,7 @@
 | [Run It Back](https://open.spotify.com/track/1eWlti11pK0nmijVe4kxMG) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [D\-SETO](https://open.spotify.com/artist/5elaXaxdLd2cN5x2H7N8YG) | [3rd High "Resuscitation" \(mixed by DJ BULLSET\)](https://open.spotify.com/album/67iANbB3iesGmIAlUe79qf) | 3:32 | 2023-01-13 | 2023-06-22 |
 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 | 2024-02-13 |  |
 | [Selfish](https://open.spotify.com/track/1hwqsjPVA3p4KZ09yTglg6) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Selfish](https://open.spotify.com/album/2qyP7Wson4vojQNDQqzXD7) | 3:44 | 2022-11-19 |  |
-| [SPEED STAR](https://open.spotify.com/track/3kZjPo6GSaZ8CiBVGbPzRZ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SPEED STAR](https://open.spotify.com/album/6AqAeUeKGaR8hWLYM4gWVr) | 1:42 | 2022-11-19 |  |
+| [SPEED STAR](https://open.spotify.com/track/3kZjPo6GSaZ8CiBVGbPzRZ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SPEED STAR](https://open.spotify.com/album/6AqAeUeKGaR8hWLYM4gWVr) | 1:42 | 2022-11-19 | 2024-04-05 |
 | [SPEED UP](https://open.spotify.com/track/5jAmU8qZIEU2U6nGpgKszx) | [Jimmy Johns](https://open.spotify.com/artist/39arl4QmjqYbuq7GzoaTLj), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [Lil Cotetsu](https://open.spotify.com/artist/7jzZKM2YWqoqz9m593uDEj) | [Aliveness](https://open.spotify.com/album/22K0VLMEIUt3FOaKlfsJyM) | 2:11 | 2022-11-19 | 2023-09-27 |
 | [Speedy Freeky](https://open.spotify.com/track/4E2hL0dlVvubXr3T9UbXLb) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Speedy Freeky](https://open.spotify.com/album/4gKphxVmdCNTp17WluW9ZO) | 2:55 | 2023-06-21 | 2023-08-25 |
 | [Step Into The Arena](https://open.spotify.com/track/21BKhmiFvF3BRkx8wlcdka) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Step Into The Arena](https://open.spotify.com/album/4UMWfoCWxryks2BwW18Iec) | 3:46 | 2022-11-19 |  |

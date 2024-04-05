@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Laurence Nerbonne
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,132 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,139 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 34 | [Cramer](https://open.spotify.com/track/22YcAS1AAnzSUulaNMZtys) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Cramer](https://open.spotify.com/album/1fGUAVyGF7LAWodzoiDMVT) | 3:29 |
 | 35 | [J'ai mal](https://open.spotify.com/track/7BPBSa3AIkZrK4c7lPzFEo) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [J'ai mal](https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6) | 2:08 |
 | 36 | [Matata](https://open.spotify.com/track/2r8eknpCO79WImm5i9Aaiz) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Matata](https://open.spotify.com/album/6loazP7tFix6vicTNHi2Qs) | 3:26 |
-| 37 | [C24](https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [C24](https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3) | 4:05 |
-| 38 | [Océane](https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH) | [BU$HI](https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Bushi Tape 3](https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf) | 3:04 |
-| 39 | [Si t'es pas là](https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Si t'es pas là](https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg) | 3:17 |
-| 40 | [blue \(yes, i love you\)](https://open.spotify.com/track/7znfQHTZ1tut2V17waMNTl) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [blue \(yes, i love you\)](https://open.spotify.com/album/17xBNG2Bgr4VVGlVIXH8NV) | 1:42 |
-| 41 | [Souvenir](https://open.spotify.com/track/6a20iVTnMEjuLKtOFSUms1) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Souvenir](https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m) | 2:46 |
-| 42 | [MAUVAIS PAYEUR](https://open.spotify.com/track/6O305YQaWEWfaU1S0nTcx6) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [P.M.R.](https://open.spotify.com/album/7lRwTBtOa4iiN9jOXfwKxR) | 3:41 |
-| 43 | [Abimé](https://open.spotify.com/track/4UA7p7ndurcpEBQxGyTAnQ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Goumin](https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF) | 2:34 |
-| 44 | [ADN](https://open.spotify.com/track/2yXslghJqUpeozgmWG2xrH) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL) | [ADN](https://open.spotify.com/album/688EeoY7hIVLEHM86OaMXl) | 3:06 |
-| 45 | [Recommence\-moi](https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Recommence\-moi](https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y) | 3:16 |
-| 46 | [LE FOND \(feat\. Zokush\)](https://open.spotify.com/track/3gktsOcb7tDf4th88k8kZd) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU), [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw) | [LE FOND \(feat\. Zokush\)](https://open.spotify.com/album/3R6HVhMY57HehOkLVk6mYv) | 2:51 |
-| 47 | [PLAGE ENNEIGEE](https://open.spotify.com/track/5eaS2PEdjSDGK1MfvRDUe4) | [WarEnd](https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [EMC](https://open.spotify.com/album/6BF3lSyJtGjnKeUqqYMjdG) | 3:00 |
+| 37 | [Océane](https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH) | [BU$HI](https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Bushi Tape 3](https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf) | 3:04 |
+| 38 | [C24](https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [C24](https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3) | 4:05 |
+| 39 | [Abimé](https://open.spotify.com/track/4UA7p7ndurcpEBQxGyTAnQ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Goumin](https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF) | 2:34 |
+| 40 | [Si t'es pas là](https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Si t'es pas là](https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg) | 3:17 |
+| 41 | [blue \(yes, i love you\)](https://open.spotify.com/track/7znfQHTZ1tut2V17waMNTl) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [blue \(yes, i love you\)](https://open.spotify.com/album/17xBNG2Bgr4VVGlVIXH8NV) | 1:42 |
+| 42 | [Souvenir](https://open.spotify.com/track/6a20iVTnMEjuLKtOFSUms1) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Souvenir](https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m) | 2:46 |
+| 43 | [MAUVAIS PAYEUR](https://open.spotify.com/track/6O305YQaWEWfaU1S0nTcx6) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [P.M.R.](https://open.spotify.com/album/7lRwTBtOa4iiN9jOXfwKxR) | 3:41 |
+| 44 | [Recommence\-moi](https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Recommence\-moi](https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y) | 3:16 |
+| 45 | [ADN](https://open.spotify.com/track/2yXslghJqUpeozgmWG2xrH) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL) | [ADN](https://open.spotify.com/album/688EeoY7hIVLEHM86OaMXl) | 3:06 |
+| 46 | [PLAGE ENNEIGEE](https://open.spotify.com/track/5eaS2PEdjSDGK1MfvRDUe4) | [WarEnd](https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [EMC](https://open.spotify.com/album/6BF3lSyJtGjnKeUqqYMjdG) | 3:00 |
+| 47 | [LE FOND \(feat\. Zokush\)](https://open.spotify.com/track/3gktsOcb7tDf4th88k8kZd) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU), [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw) | [LE FOND \(feat\. Zokush\)](https://open.spotify.com/album/3R6HVhMY57HehOkLVk6mYv) | 2:51 |
 | 48 | [Dis\-toi que c'est la vie](https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Dis\-toi que c'est la vie](https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ) | 2:27 |
 | 49 | [Le Rang des Étoiles](https://open.spotify.com/track/0UoklKqjOkt8q0lqB0ACZd) | [Biga\*Ranx](https://open.spotify.com/artist/5rgdw8NVhnxWL8Poo6HsiX) | [Le Rang des Étoiles](https://open.spotify.com/album/3iQda7g4gHv1ynJHXrHFph) | 1:51 |
 | 50 | [Parisienne High Level](https://open.spotify.com/track/5OYJXif1vzHZFvFORFBpvI) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [Parisienne High Level](https://open.spotify.com/album/6jvxhfExqa59zUlIIrCHUp) | 2:31 |
 
-Snapshot ID: `MCw2YWU3NzY3MGMxNGFkMTAxMjE5MzE4Y2UxZjQyMjEzMDk2MWI2ZGIx`
+Snapshot ID: `MCxiOTI0YjE3MGY3NzZlMjBmMjExNmJlOWY5ZjA5ZmY1MWNkMDcxNTkx`

@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 151495,
+  "num_followers": 151542,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmIyYjcyNDhmMjRlY2UyMTFkNDM4YmY5YmVjNDdlMDZmYjMyNzFm",
+  "snapshot_id": "MCxiYjZmYTZiNjFjZDYxNzllNGQ2MjgzZDhhNzdjNDg3ZWZiODY1MDUx",
   "tracks": [
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Nobody Likes The Records That I Play",
-        "url": "https://open.spotify.com/album/2DL0N74UxejnfXoxZL5FDj"
-      },
-      "artists": [
-        {
-          "name": "Netsky",
-          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Nobody Likes The Records That I Play",
-      "url": "https://open.spotify.com/track/2qpfRinMEix4FG8q45XroG"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
         "name": "Their Law The Singles 1990 - 2005",
         "url": "https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 307813,
       "name": "Voodoo People - Pendulum Mix",
       "url": "https://open.spotify.com/track/7C0PzxbsQx59DgGVRsquwJ"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
+        "name": "Nobody Likes The Records That I Play",
+        "url": "https://open.spotify.com/album/2DL0N74UxejnfXoxZL5FDj"
+      },
+      "artists": [
+        {
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Nobody Likes The Records That I Play",
+      "url": "https://open.spotify.com/track/2qpfRinMEix4FG8q45XroG"
     },
     {
       "added_at": "2024-03-01 11:54:01",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-03-01 11:54:01",
       "album": {
-        "name": "Shut It Down",
-        "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
-      },
-      "artists": [
-        {
-          "name": "Mollie Collins",
-          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
-        },
-        {
-          "name": "Elipsa",
-          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "Shut It Down",
-      "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
-    },
-    {
-      "added_at": "2024-03-01 11:54:01",
-      "album": {
         "name": "Know What It Means",
         "url": "https://open.spotify.com/album/0AaRkGHFB4D8PsZylovt0d"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 160000,
       "name": "Know What It Means",
       "url": "https://open.spotify.com/track/1FIFWiHNLtohEAnuFgNgJf"
+    },
+    {
+      "added_at": "2024-03-01 11:54:01",
+      "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
     },
     {
       "added_at": "2024-03-01 11:54:01",

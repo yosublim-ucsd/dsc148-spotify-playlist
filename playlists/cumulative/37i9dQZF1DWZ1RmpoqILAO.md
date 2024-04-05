@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation featuring music from Faye Webster 🌟🌟🌟
 
-222 songs - 14 hr 15 min
+224 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [garbage truck](https://open.spotify.com/track/4DQnPtChUxquO83Fjn6D3S) | [hemlock](https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2) | [talk soon](https://open.spotify.com/album/356rRbXibYCUg2gkyRZIZF) | 2:11 | 2023-12-08 | 2024-03-09 |
 | [Germs](https://open.spotify.com/track/37xUeodJvuKZl19BaUboHo) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [Acetone](https://open.spotify.com/album/7reRvUl6TnOYkfgKO5kDP9) | 4:44 | 2023-06-16 |  |
 | [Glaze](https://open.spotify.com/track/4jkRnUuBruxsBxwGvljLTe) | [Hook\-Ups](https://open.spotify.com/artist/6FMudRfeeTt2SB4g7mIgDk) | [Glaze](https://open.spotify.com/album/6vQc9oS4OPg5QKkXZ5DvLA) | 3:09 | 2023-12-08 |  |
-| [Gnaw](https://open.spotify.com/track/4KwttC1ZokLqillyhJgSe8) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 3:21 | 2023-06-12 |  |
+| [Gnaw](https://open.spotify.com/track/4F7SWwVXyvGlCs9TtXJbUd) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/42bSpkr89bdrwMMNuEZlDJ) | 3:21 | 2024-03-01 |  |
+| [Gnaw](https://open.spotify.com/track/4KwttC1ZokLqillyhJgSe8) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 3:21 | 2023-06-12 | 2024-04-05 |
 | [Going For Oysters](https://open.spotify.com/track/2qJZU5QeYYYiPtlSd58qBH) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Going For Oysters](https://open.spotify.com/album/6JhI0FY95G2Q8Of2J0T9Ln) | 4:36 | 2023-12-01 |  |
 | [gold ring \(flounder bonus track\)](https://open.spotify.com/track/6FIq8R2juA9GvlNE5SjwsU) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder \(deluxe\)](https://open.spotify.com/album/7jGLYHzIlEVCTNbhu1jYlM) | 3:03 | 2023-07-28 |  |
 | [Golden Days](https://open.spotify.com/track/7midhUSAQfwD3aFwQrLZYc) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 4:02 | 2023-06-12 |  |
@@ -175,7 +176,8 @@
 | [Sandy](https://open.spotify.com/track/48qv6X8wNBhjQKPCns2CFw) | [Teal Peel](https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz) | [Country River](https://open.spotify.com/album/2LhqkKyEXH5huDebuxSvss) | 3:55 | 2023-12-08 |  |
 | [Sarah](https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 2:56 | 2024-01-12 |  |
 | [Send It To Oslo](https://open.spotify.com/track/5vVma4c4Yr5kBj9C3UtmU0) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [Tear Jerky](https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm) | 2:59 | 2023-12-01 | 2024-03-09 |
-| [Sha](https://open.spotify.com/track/6HMdSCsyt5ZNPZokEgcoxQ) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Sha](https://open.spotify.com/album/5aBRXOGZlyci28Qps87Mdp) | 3:36 | 2023-08-18 |  |
+| [Sha](https://open.spotify.com/track/0DTsMXJRentoe0Mzawg3HW) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Sha](https://open.spotify.com/album/5LNL7Vss2s8JxYSRhUWpZ9) | 3:36 | 2024-03-01 |  |
+| [Sha](https://open.spotify.com/track/6HMdSCsyt5ZNPZokEgcoxQ) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Sha](https://open.spotify.com/album/5aBRXOGZlyci28Qps87Mdp) | 3:36 | 2023-08-18 | 2024-04-05 |
 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 | 2023-07-28 | 2023-12-09 |
 | [Shirley](https://open.spotify.com/track/3RoXuQNiqtWPigQFfbWqqm) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Shirley](https://open.spotify.com/album/1yAdXJsVvczv434ikVJf5I) | 1:19 | 2023-03-17 | 2023-10-27 |
 | [Shirley](https://open.spotify.com/track/7i7vzTKLeeLzbJ3crsTqRB) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends \(UNRATED EDITION\)](https://open.spotify.com/album/4XNH2tkgSe8rtFuGRdgWp2) | 1:19 | 2023-10-13 | 2023-12-02 |

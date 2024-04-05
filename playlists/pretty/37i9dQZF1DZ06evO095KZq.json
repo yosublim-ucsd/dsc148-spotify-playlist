@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 429102,
+  "num_followers": 429137,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTIyZDJhZDJjMjQ3YWNjN2I2M2U1MmQ4MGY4ZTMyMWY0YWZmNGE2",
+  "snapshot_id": "MCw4NGIzNzJiNTRmNDQ3ZjBhOTk1M2ExYThjNDRmNzcxYWQ4M2UyOGEy",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encantadora",
-        "url": "https://open.spotify.com/album/0Cun0bbB8jz6QqyshWUBPe"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 144512,
-      "name": "Encantadora",
-      "url": "https://open.spotify.com/track/15gKM0h7lqe2vZsBAFA5L2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' los Recuerdos, Vol. 2",
         "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 145781,
       "name": "Mi Ranchito",
       "url": "https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Encantadora",
+        "url": "https://open.spotify.com/album/0Cun0bbB8jz6QqyshWUBPe"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 144512,
+      "name": "Encantadora",
+      "url": "https://open.spotify.com/track/15gKM0h7lqe2vZsBAFA5L2"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quien Te Dio Permiso",
-        "url": "https://open.spotify.com/album/15ZaNM3eSNZ7MdFyPHBED3"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "Quien Te Dio Permiso",
-      "url": "https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' los Recuerdos, Vol. 2",
         "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 158442,
       "name": "Cuanto Me Gusta Este Rancho",
       "url": "https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quien Te Dio Permiso",
+        "url": "https://open.spotify.com/album/15ZaNM3eSNZ7MdFyPHBED3"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Quien Te Dio Permiso",
+      "url": "https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolor y Amor",
-        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 155416,
-      "name": "Hombre de Rancho",
-      "url": "https://open.spotify.com/track/59IyKRSgCwLyKS3e46TlYM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "10 Kilates (Con Norte\u00f1o)",
         "url": "https://open.spotify.com/album/3bTNvG7R2BbLUE9zyaLCPt"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 167282,
       "name": "El Perseverante",
       "url": "https://open.spotify.com/track/2Kn1fCHlf6ODnYKqCSfBni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 155416,
+      "name": "Hombre de Rancho",
+      "url": "https://open.spotify.com/track/59IyKRSgCwLyKS3e46TlYM"
     },
     {
       "added_at": null,

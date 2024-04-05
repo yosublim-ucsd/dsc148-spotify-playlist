@@ -4,7 +4,7 @@
 
 > When the dance floor calls your name, that's amore.
 
-175 songs - 14 hr 57 min
+176 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 | 2022-02-11 |  |
 | [Battle Stars \- K\-Effect Remix](https://open.spotify.com/track/0wsHHSPg9NEtE2fhrtTRh8) | [O'Cardio](https://open.spotify.com/artist/1sIh3c4omj8OL4Btx4EzBk), [K Effect](https://open.spotify.com/artist/2xXk1wjFbm9VJqhgbBoHRF) | [Battle Stars](https://open.spotify.com/album/5c5aLDIF1gEtwA9vghedm4) | 7:01 | 2022-02-11 | 2022-03-22 |
 | [Bluff Dance](https://open.spotify.com/track/6KDdJNlNKVelfAFJyeCkm9) | [Relmer](https://open.spotify.com/artist/2hxnHvKjsAHCGzsXTCKuvy) | [Relmer International](https://open.spotify.com/album/6QyBzCaQ52iUvfAV3RQuk5) | 5:48 | 2022-02-11 | 2022-07-29 |
-| [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 | 2022-02-11 |  |
+| [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 | 2022-02-11 | 2024-04-05 |
 | [Boys \(Summertime Love\)](https://open.spotify.com/track/1iwQoAswnkS5eVlVIXN998) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Boys \(Summertime Love\)](https://open.spotify.com/album/3k166ijpPTPQZeiCOTOm9E) | 3:48 | 2022-07-01 | 2023-09-15 |
 | [Boys \(Summertime Love\)](https://open.spotify.com/track/5N3OfUHIfgKZIHIIFb8VII) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Golden Dance Hits](https://open.spotify.com/album/4nfVX7UtuXYRCi3AfZST6E) | 3:51 | 2022-02-11 | 2022-06-27 |
 | [Boys \- Summertime Love](https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Sabrina](https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v) | 3:54 | 2023-07-28 |  |
@@ -38,6 +38,7 @@
 | [Dammi un'idea](https://open.spotify.com/track/7DrO38olLryjXBoxqKPqHN) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Dammi un'idea](https://open.spotify.com/album/1Y6CC1upQq0zT8hsuhTHKj) | 3:21 | 2024-03-07 |  |
 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 | 2022-02-11 |  |
 | [Dancin' All The Night \- Original Extended Version](https://open.spotify.com/track/21br0MBSr0o05d073b2ld8) | [Paul Sharada](https://open.spotify.com/artist/6Ka73Uf6EKU9GW8zTTRobK) | [80's Dance Story Original Italo Hits](https://open.spotify.com/album/0rcYpBkTkKMUv5W32JPcaY) | 6:19 | 2022-02-11 | 2022-02-22 |
+| [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 | 2024-04-04 |  |
 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 | 2022-02-11 |  |
 | [Destiny](https://open.spotify.com/track/5WQfpJ7lTXwgOsYKtPqnkO) | [Vivien Vee](https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d) | [Destiny \(Original\) \- Single](https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8) | 4:39 | 2022-10-07 | 2023-05-18 |
 | [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 | 2022-02-11 | 2024-03-08 |

@@ -9213,6 +9213,28 @@
     },
     {
       "album": {
+        "name": "Trust / More Data To Survive",
+        "url": "https://open.spotify.com/album/1RXhUN6z2OIHbNXk20ucrq"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        },
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272611,
+      "name": "More Data To Survive",
+      "url": "https://open.spotify.com/track/2EgWtwJIsyyUezh8U5xikt"
+    },
+    {
+      "album": {
         "name": "Dogsbody",
         "url": "https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok"
       },

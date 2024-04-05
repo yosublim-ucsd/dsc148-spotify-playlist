@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 517330,
+  "num_followers": 517374,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjU4MDE0MWFhNTcwNzBiOTJmMmM3NzUxZjg5NTY5MzM3NmI4OWRl",
+  "snapshot_id": "MCxkMDZmMDI0ODFlMGFkZjI3YzFmOGJiYWM2MDY3ZjJjZjVjMjA3ZTM3",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
         }
       ],
-      "duration_ms": 165440,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/5adCpfWaVDZUorqk15ScHj"
+      "duration_ms": 188600,
+      "name": "Day Tripper",
+      "url": "https://open.spotify.com/track/5J3R2eEHlD2ng4cwh6Tlnz"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
         }
       ],
-      "duration_ms": 188600,
-      "name": "Day Tripper",
-      "url": "https://open.spotify.com/track/5J3R2eEHlD2ng4cwh6Tlnz"
+      "duration_ms": 165440,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/5adCpfWaVDZUorqk15ScHj"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Coral Way",
-        "url": "https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        }
-      ],
-      "duration_ms": 219999,
-      "name": "Coral Way",
-      "url": "https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Soul Burst",
         "url": "https://open.spotify.com/album/06zt1aFTGlMq9n9y7kPOBN"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 375693,
       "name": "Curacao",
       "url": "https://open.spotify.com/track/1bq401DIP2Fvt6Cu95dZXt"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Coral Way",
+        "url": "https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        }
+      ],
+      "duration_ms": 219999,
+      "name": "Coral Way",
+      "url": "https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Ultimate Duets",
+        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        },
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "duration_ms": 320480,
+      "name": "Solo Esta Soledad",
+      "url": "https://open.spotify.com/track/4Y30iXqao3OnzhSFQaBW7L"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 311920,
       "name": "En Esta Tarde Gris",
       "url": "https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Ultimate Duets",
-        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
-      },
-      "artists": [
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        },
-        {
-          "name": "Josh Groban",
-          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
-        }
-      ],
-      "duration_ms": 320480,
-      "name": "Solo Esta Soledad",
-      "url": "https://open.spotify.com/track/4Y30iXqao3OnzhSFQaBW7L"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "El Arte Del Bolero",
         "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 477496,
       "name": "C\u00f3mo Fue",
       "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Habana",
-        "url": "https://open.spotify.com/album/6wV9FgUyUXOqE84uz2uNIy"
-      },
-      "artists": [
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 287173,
-      "name": "Afrodisia",
-      "url": "https://open.spotify.com/track/2agvDL6NkQfEjGgMbfqQMi"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 250933,
       "name": "Manteca Theme",
       "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Habana",
+        "url": "https://open.spotify.com/album/6wV9FgUyUXOqE84uz2uNIy"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 287173,
+      "name": "Afrodisia",
+      "url": "https://open.spotify.com/track/2agvDL6NkQfEjGgMbfqQMi"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Dig My Feeling",
-        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 220198,
-      "name": "Dig My Feeling",
-      "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Listen Here",
         "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 341560,
       "name": "In Flight",
       "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Dig My Feeling",
+        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 220198,
+      "name": "Dig My Feeling",
+      "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 131386,
+      "name": "Seven Steps To Heaven",
+      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "The Bronx Pyramid",
         "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 321420,
       "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
       "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 131386,
-      "name": "Seven Steps To Heaven",
-      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
     }
   ],
   "unique_name": "Latin Jazz",

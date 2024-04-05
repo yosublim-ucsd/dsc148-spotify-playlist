@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-394 songs - 19 hr 58 min
+398 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-05-01 | 2023-07-14 |
 | [Beachclub](https://open.spotify.com/track/0kLr2EDbfeMOyhgWbluBWl) | [Koen](https://open.spotify.com/artist/6vwz7HydONQujdnKzrsSUf), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Beachclub](https://open.spotify.com/album/5gC1HRsXewur0q2UajAZuU) | 2:01 | 2023-08-07 | 2023-11-10 |
 | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK) | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn) | 2:13 | 2023-02-23 | 2023-03-04 |
+| [Beetje Vrijheid](https://open.spotify.com/track/5r2HA1QlAEVdhhqnC3nqkp) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Dromers Slapen Niet](https://open.spotify.com/album/7hD0o6qizBV3vivCFNHvqD) | 3:50 | 2024-04-04 |  |
 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2023-02-23 | 2023-04-06 |
 | [Big Dick \- Spuit Me Vol Edit](https://open.spotify.com/track/4FZUYO18aLOQzMx9UoIHRv) | [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS) | [Pussy Lounge 2017](https://open.spotify.com/album/6kL3qyobRvHrCYmROi5B2d) | 4:00 | 2024-03-23 |  |
 | [Big Jet Plane](https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Big Jet Plane](https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW) | 2:30 | 2023-02-23 | 2023-04-12 |
@@ -140,6 +141,7 @@
 | [Heartbeat](https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat](https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl) | 3:18 | 2023-02-23 | 2023-04-12 |
 | [HEET \(feat\. Bizzey\)](https://open.spotify.com/track/45ZGE4ZqMOZwf47RMg5XdV) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [TURBULENTIE](https://open.spotify.com/album/1LyxYL6FtgF4p1DTiazSjw) | 2:53 | 2024-03-29 |  |
 | [Helemaal Naar De Klotuh!](https://open.spotify.com/track/5dxGjVQocFOjacTNkj4RKH) | [Berend Beuker](https://open.spotify.com/artist/7d5H9a4u4OJpKZJ14MANNB) | [Helemaal Naar De Klotuh!](https://open.spotify.com/album/5FU7lT09hwJNvkRjSOE7Oy) | 2:52 | 2024-03-06 |  |
+| [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:15 | 2024-04-04 |  |
 | [Het Eind](https://open.spotify.com/track/2umHBbVBhktAVcU5U6L2BY) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Het Eind](https://open.spotify.com/album/2IsYJShE9eFjUwvkVuIOrG) | 2:25 | 2023-03-07 | 2023-05-02 |
 | [Het Fluitlied \- Uit De Amazon Original Serie LOL: Last One Laughing](https://open.spotify.com/track/5t1fL0fLCfDUvWnftRhGoh) | [Bas Hoeflaak](https://open.spotify.com/artist/3p0Geu5lSPEr8Z8rLopaTg) | [Het Fluitlied \(Uit De Amazon Original Serie LOL: Last One Laughing\)](https://open.spotify.com/album/3qU8G5qLcyDrg91GAjRqyt) | 3:00 | 2023-02-23 | 2023-04-12 |
 | [Het Goede Leven](https://open.spotify.com/track/0iBEI6GLlJ9ru9qZwObsbG) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Succes/Ik Ben Twan](https://open.spotify.com/album/7vUGdwNbWKQcSXWX3LLQzp) | 4:07 | 2023-12-27 | 2024-02-09 |
@@ -226,6 +228,7 @@
 | [Momenten Gekoesterd](https://open.spotify.com/track/4kO516FbjVKj67zX3Ymxhk) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Gevoelig Feestje](https://open.spotify.com/album/2It3C6VpmoUqbDxuyVyKpu) | 3:54 | 2023-10-12 | 2024-02-09 |
 | [MON LOVE OHO](https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9) | 2:19 | 2023-05-04 | 2023-06-27 |
 | [MON LOVE OHO](https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/3Kw0SPNrjAZ9fL1TtfsnL9) | 2:19 | 2023-04-11 | 2023-05-08 |
+| [Money On My Mind](https://open.spotify.com/track/5XX9oGZfgKMXdHnEp4t2JB) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:12 | 2024-04-04 |  |
 | [Monster](https://open.spotify.com/track/5TEkJECu40iwrM8AOSITBt) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/0258dItR7nbdZhF0fRCbOC) | 2:54 | 2023-10-30 | 2023-11-17 |
 | [Monster](https://open.spotify.com/track/6w67kek3AnRI83HMnDWxpB) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/3m9wXZj0Je2axtnF0fXNYy) | 2:54 | 2023-11-16 | 2024-01-09 |
 | [Monster \- Sped Up](https://open.spotify.com/track/7wSgwryCFK3VHW6pROgEBE) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/3m9wXZj0Je2axtnF0fXNYy) | 2:24 | 2023-11-09 | 2023-11-16 |
@@ -381,6 +384,7 @@
 | [Voor Onze Club](https://open.spotify.com/track/2yMBGJ1w5pKuHXador97HD) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Voor Onze Club](https://open.spotify.com/album/3tpdKW8lJbZJJLEc05JtPB) | 2:22 | 2023-10-05 | 2023-11-10 |
 | [Vraagtekens](https://open.spotify.com/track/1HMV4HV1r7icaylIaadle6) | [Vxlious](https://open.spotify.com/artist/0Bzf7UfWcqZ7ATMQ1Mx6sf) | [Vraagtekens](https://open.spotify.com/album/5LiHaTVav0xAbZRAWUwqGH) | 2:07 | 2023-09-06 | 2023-10-03 |
 | [Vreemde Eend](https://open.spotify.com/track/0GV0lD9rGpwjfcSjkjLagj) | [Lisanne Dijkstra](https://open.spotify.com/artist/0wIu2ctLBUxffORP0R84bk) | [Vreemde Eend](https://open.spotify.com/album/2jbfrnX63Zbfg3lOeKIoOm) | 2:28 | 2023-07-04 | 2023-11-01 |
+| [Wagwan](https://open.spotify.com/track/13sO1jcA6RxBPYC79dYGxg) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kater Karma](https://open.spotify.com/artist/4uoA55AcDfXP6BqttlThF2) | [Wagwan](https://open.spotify.com/album/5irEqy9aZI4PRKOwMvNKPQ) | 2:54 | 2024-04-04 |  |
 | [Wat Is Er Gebeurd](https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Wat Is Er Gebeurd](https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7) | 2:35 | 2023-03-07 | 2023-05-10 |
 | [Wat Wil Je Van Mij](https://open.spotify.com/track/1KxRzfQuO8k0dCua9JVRgM) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wat Wil Je Van Mij](https://open.spotify.com/album/5kUWt2aSUlU911bG7oqkqh) | 3:19 | 2023-02-23 | 2023-03-10 |
 | [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 | 2023-03-03 | 2023-04-19 |

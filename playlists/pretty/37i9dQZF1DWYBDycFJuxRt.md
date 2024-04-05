@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Furui Riho \*👉 <a href="https://spice.eplus.jp/articles/327650?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,524 likes - 86 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,602 likes - 86 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Your Love](https://open.spotify.com/track/4V79L8tRqdgQLT1og54hN6) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Love One Another](https://open.spotify.com/album/2BKXSl0ktKpWNHzqdAAy1T) | 3:45 |
+| 1 | [Your Love](https://open.spotify.com/track/4V79L8tRqdgQLT1og54hN6) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Love One Another](https://open.spotify.com/album/2BKXSl0ktKpWNHzqdAAy1T) | 3:45 |
 | 2 | [Happy Order?](https://open.spotify.com/track/42m2Tyvsx9DRuujxfeTjfi) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Happy Order?](https://open.spotify.com/album/0oGqRZnSSNtsbOfUeWTCAG) | 3:31 |
 | 3 | [Cubism](https://open.spotify.com/track/2vQi0AbpCSO0YRSmH44Jzl) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Cubism](https://open.spotify.com/album/7kZYHnhPHOqT4T0KRaUYVx) | 3:13 |
 | 4 | [YA YA](https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:34 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 37 | [balloon](https://open.spotify.com/track/6IjyCBKJWENIbRon2naimY) | [EOW](https://open.spotify.com/artist/3hufeT9qrBonKU5iZxAeHI) | [balloon](https://open.spotify.com/album/1pjbRLuDTlLOJZTZW93Acw) | 4:24 |
 | 38 | [Eureka](https://open.spotify.com/track/5N0J0YLHluyIMdrYf8TfE4) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Eureka](https://open.spotify.com/album/5HfCLJOXg3OJJbr6Lz9C67) | 3:45 |
 | 39 | [Shinsho Volcano](https://open.spotify.com/track/4YyYCuWBmgl5qOCZTURogx) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Shinsho Volcano](https://open.spotify.com/album/62idr27j9mujFTXG5ytLEj) | 3:57 |
-| 40 | [Orangette \(feat\. 安次嶺希和子\)](https://open.spotify.com/track/0MIetOirMwIHUeVpfXyvJA) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3), [Kiwako Ashimine](https://open.spotify.com/artist/0YZQHsiYTU4sUWbzyzS5Ie) | [Citrus](https://open.spotify.com/album/5jHwh4thJUTo0Sfvl5Gyu3) | 3:02 |
+| 40 | [Orangette \(feat\. 安次嶺希和子\)](https://open.spotify.com/track/0MIetOirMwIHUeVpfXyvJA) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3), [安次嶺希和子](https://open.spotify.com/artist/7HWHuHcMtIAPdh2oSZNt58) | [Citrus](https://open.spotify.com/album/5jHwh4thJUTo0Sfvl5Gyu3) | 3:02 |
 | 41 | [Loverboy](https://open.spotify.com/track/78xxf2z3mM6c0WghJEV3Bz) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0) | [Loverboy](https://open.spotify.com/album/2ApUSiM43jJGWBwhYxPlok) | 2:55 |
 | 42 | [19 Slide](https://open.spotify.com/track/7CyR1R7T43QWYj6G6DN1xa) | [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [19 Slide](https://open.spotify.com/album/1XtnpK4i7r8zDfb8F5AXud) | 3:23 |
 | 43 | [Love Fire](https://open.spotify.com/track/3PSj0h7rMUW4m754rOgZPJ) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [PSYCHIC FILE Ⅱ](https://open.spotify.com/album/7GBguLTdlkJhzecV5KMvzO) | 3:11 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 85 | [BLACK RAIN](https://open.spotify.com/track/18y0tR1OLTxOIrQDjnr55l) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [Tenderness](https://open.spotify.com/album/5fXlmdu7yLIMsDpNfrH6yx) | 3:49 |
 | 86 | [moonrise dream](https://open.spotify.com/track/6kOF2j7SQTJo92hIELnnjx) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Hylen](https://open.spotify.com/artist/1glUbGdkshgCb1d4ossJBi), [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [moonrise dream](https://open.spotify.com/album/6tOQMgohPi5aNzEGFj67Ne) | 2:56 |
 
-Snapshot ID: `MCxmMmI5ODVmNzllODZhNjQ2OTMwMmFhNjIxOGQyMjQ1OGU2NTAyOTI5`
+Snapshot ID: `MCw1N2ZjZGJhMTQyYTkxOTBlNjI5ZThlMGVhOGE2MWRkZTJiZTRmYThl`

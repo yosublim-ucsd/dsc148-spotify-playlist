@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : Jean\-Jacques Goldman
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,627 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,694 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 49 | [La boîte de jazz](https://open.spotify.com/track/74TeGcp8PfGffFx9CjR3H0) | [Michel Jonasz](https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7) | [Unis vers l'uni](https://open.spotify.com/album/3NsxgHg4EJL5qCmxeUVbns) | 3:02 |
 | 50 | [Le Loir & Cher](https://open.spotify.com/track/2qHhWm8oZ7nNNvTitjEvio) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p), [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Album De Duos](https://open.spotify.com/album/5HgPr5vMIGWGYuqtEXb9qV) | 3:29 |
 
-Snapshot ID: `MCxmM2E3ZTQwNTZjOWRiNzk1ZDhjYjQ2M2IxYjAxZTM2MjI4Y2IwZWM5`
+Snapshot ID: `MCxiNGY2ZDY2OTcyMzY5NTdkMWI2Y2IwMTM0YjQzOGRmZWE3NDE0OGUx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=FS3SHbnpQrypAIYdOToH5g\">Riaan Benad\u00e9</a>  ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=45a30asnSZC1qXPlyoy12w\">Brendan Peyper</a>  ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 180040,
       "name": "Gooi Nog 'n Whiskey",
       "url": "https://open.spotify.com/track/7Bn6wlpyw2ucBHxdDYEAUT"
@@ -2118,6 +2118,24 @@
       "duration_ms": 188348,
       "name": "Maak 'n Plan",
       "url": "https://open.spotify.com/track/5q5fkffY4JxRlb5zpl92kq"
+    },
+    {
+      "album": {
+        "name": "Omdat Jy Mag",
+        "url": "https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Madelein",
+      "url": "https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry"
     },
     {
       "album": {

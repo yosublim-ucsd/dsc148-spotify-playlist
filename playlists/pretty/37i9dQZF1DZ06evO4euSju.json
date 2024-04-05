@@ -1,12 +1,12 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1178,
+  "num_followers": 1179,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzI2NjI5NTBiMWJhNjk0YjYwZmQwMzFlNjQ4ZThkODNiNmE5OTYz",
+  "snapshot_id": "MCxlMTBiNTIzMzEwMTlhNmI3ODM0OGU4YjZkNzJmMjI2NDJlMGI2YjA5",
   "tracks": [
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 194010,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX"
+      "duration_ms": 252314,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 252314,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
+      "duration_ms": 194010,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 238588,
-      "name": "Black Flamingo",
-      "url": "https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs"
+      "duration_ms": 157221,
+      "name": "Kibo",
+      "url": "https://open.spotify.com/track/5iQPGnGBClKTf4pHdhNuAg"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 157221,
-      "name": "Kibo",
-      "url": "https://open.spotify.com/track/5iQPGnGBClKTf4pHdhNuAg"
+      "duration_ms": 238588,
+      "name": "Black Flamingo",
+      "url": "https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs"
     },
     {
       "added_at": null,

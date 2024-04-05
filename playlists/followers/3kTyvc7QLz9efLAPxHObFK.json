@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 17,
+  "2024-04-05": 17,
   "date_first_scraped": "2023-10-10",
   "description": "",
   "name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",
@@ -6792,6 +6792,24 @@
     },
     {
       "album": {
+        "name": "Evil",
+        "url": "https://open.spotify.com/album/4rM7MHiPqexmfPflHynF88"
+      },
+      "artists": [
+        {
+          "name": "Cyber Gunz",
+          "url": "https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199152,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/0g6FNaWRStoYqhQiHC2Vs3"
+    },
+    {
+      "album": {
         "name": "Execute",
         "url": "https://open.spotify.com/album/2jioYBhDvVDq6m9uKwUDbI"
       },
@@ -9349,6 +9367,28 @@
       "duration_ms": 198360,
       "name": "GOOD VIBES",
       "url": "https://open.spotify.com/track/0Nmr2OIe1GNjfsJSgF5UiV"
+    },
+    {
+      "album": {
+        "name": "Got Me High",
+        "url": "https://open.spotify.com/album/0TouHyvEkcsG0Xb9cyiwei"
+      },
+      "artists": [
+        {
+          "name": "Naaisor",
+          "url": "https://open.spotify.com/artist/7DJ3MAQvE1zaF5y4yPobkL"
+        },
+        {
+          "name": "Takanova",
+          "url": "https://open.spotify.com/artist/1MGctDzsI20x1eW2GWiXiP"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260802,
+      "name": "Got Me High",
+      "url": "https://open.spotify.com/track/4QFxH1u3RlTApAz9ExaqwA"
     },
     {
       "album": {
@@ -12024,6 +12064,24 @@
     },
     {
       "album": {
+        "name": "Knocked Out",
+        "url": "https://open.spotify.com/album/5I5n46FiJsUWAIvWdcDP53"
+      },
+      "artists": [
+        {
+          "name": "N3bula",
+          "url": "https://open.spotify.com/artist/0bKtsZIFkV1M2sl1j0OeGq"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203596,
+      "name": "Knocked Out",
+      "url": "https://open.spotify.com/track/3dAGQ2aSRpNeNWE904E9va"
+    },
+    {
+      "album": {
         "name": "KOKUSHIMUSOU",
         "url": "https://open.spotify.com/album/2NsQgw0uNzapLd9rTeguZg"
       },
@@ -13181,6 +13239,24 @@
       "duration_ms": 195003,
       "name": "Lost In A Fantasy",
       "url": "https://open.spotify.com/track/09us0m1Xw0x0XSsykw2XCM"
+    },
+    {
+      "album": {
+        "name": "Lost In Illusion",
+        "url": "https://open.spotify.com/album/7xCwwLqOHQDpjQQKbgHxR1"
+      },
+      "artists": [
+        {
+          "name": "Colin Hennerz",
+          "url": "https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215229,
+      "name": "Lost In Illusion",
+      "url": "https://open.spotify.com/track/68b8bW0LpnellyuuWEdo1q"
     },
     {
       "album": {

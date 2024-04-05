@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 38931,
+  "2024-04-05": 39133,
   "date_first_scraped": "2023-04-03",
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
   "name": "Soft Nature Music",
@@ -233,7 +233,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 157714,
       "name": "Arbores",
       "url": "https://open.spotify.com/track/04rVrBygXJgRV10I4Me90r"
@@ -381,6 +381,24 @@
       "duration_ms": 171072,
       "name": "Before I Wake Up",
       "url": "https://open.spotify.com/track/1xGlmw5v4POLlk4NbifkWC"
+    },
+    {
+      "album": {
+        "name": "Berolige",
+        "url": "https://open.spotify.com/album/0XRbQIYB0Zis5Onjac79SF"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156061,
+      "name": "Berolige",
+      "url": "https://open.spotify.com/track/15dsm3bIFI6HLkvMcRdJ5I"
     },
     {
       "album": {

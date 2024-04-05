@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2080394,
+  "num_followers": 2080550,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDZiNDYyMzFlYzY1YzdkOTAzYjY2NTJmYzZlZjkzZGI5OTdhMGY2",
+  "snapshot_id": "MCxlNTA2OTU1ZjEyNjlmMTkyNjU1OGE2ODkzNmJkNDVkZWVhYjJjOGI0",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:06",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "Be OK",
-        "url": "https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/7aohwSiTDju51QmC54AUba"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "Living Mirage",
         "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 196055,
       "name": "Honeybee",
       "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "Be OK",
+        "url": "https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        }
+      ],
+      "duration_ms": 148400,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/7aohwSiTDju51QmC54AUba"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "All We Ever Knew",
+      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
         "name": "And It\u2019s Still Alright",
         "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 241194,
       "name": "Surefire",
       "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
-        "name": "Signs of Light",
-        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "All We Ever Knew",
-      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "One Step Ahead",
-        "url": "https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 191647,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 259120,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "One Step Ahead",
+        "url": "https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 191647,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1539,6 +1539,26 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
+        "name": "I Was Born To Love You",
+        "url": "https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 265843,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
         "name": "Love Lines",
         "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
       },
@@ -1583,26 +1603,6 @@
       "duration_ms": 193080,
       "name": "Tom Barrett",
       "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
-        "name": "I Was Born To Love You",
-        "url": "https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 265843,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
         "name": "Work Hard and Be Nice",
         "url": "https://open.spotify.com/album/7hvm1xQnsTkIrcHYHGA5mR"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 196195,
       "name": "Getting Ready to Get Down",
       "url": "https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
         "name": "Floating On A Dream",
         "url": "https://open.spotify.com/album/7FpXmkq40ZUE5bm6IEyksa"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 177720,
       "name": "All Is Well [Feat. Joy Williams]",
       "url": "https://open.spotify.com/track/0z1SYbSEYNLoZuxzHMTS6h"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
-        "name": "Out of My Head",
-        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Out of My Head",
-      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
     },
     {
       "added_at": "2024-03-08 05:01:06",

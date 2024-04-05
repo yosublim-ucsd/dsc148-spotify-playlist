@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,729 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,730 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 44 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 |
 | 45 | [YESMAN \(feat\. Roh Yun Ha\)](https://open.spotify.com/track/31Mq4iNnukk3wngb6ePLgD) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 3:09 |
 | 46 | [Secret](https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Secret \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.2](https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2) | 3:11 |
-| 47 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |
-| 48 | [널 생각해](https://open.spotify.com/track/21TczfwT8EREWUCE7fsvOb) | [One More Chance](https://open.spotify.com/artist/1mFRixk0TXvZkjBzvyJjEY) | [First Album](https://open.spotify.com/album/18IkKu7CLawL4WKsTYvRwb) | 4:08 |
+| 47 | [널 생각해](https://open.spotify.com/track/21TczfwT8EREWUCE7fsvOb) | [One More Chance](https://open.spotify.com/artist/1mFRixk0TXvZkjBzvyJjEY) | [First Album](https://open.spotify.com/album/18IkKu7CLawL4WKsTYvRwb) | 4:08 |
+| 48 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |
 | 49 | [Traffic Accident](https://open.spotify.com/track/3Nr9K1cYOCceaRArxWzoFf) | [Dann](https://open.spotify.com/artist/4ehtLyNdsw7CcJ29kmOeJT), [MUJIN](https://open.spotify.com/artist/2nR3HIgrF5irB5FLRYaluH) | [Unintentional Love Story Original Televion Soundtrack Pt\. 3](https://open.spotify.com/album/5QQ0WxXVEPNeGMgMj1anZS) | 3:21 |
 | 50 | [Confuse](https://open.spotify.com/track/5DVfZpo2EUQ9ZdpBDx4w5H) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Fade Away](https://open.spotify.com/album/0ukJ3I2mxiZVacGtaOIXo5) | 2:37 |
 
-Snapshot ID: `MCwyMTk2ZWM3MjY3NTMyMjdmZDZkMGVkYzM0MTA1NGI5YTY0ZDFjZTkz`
+Snapshot ID: `MCxkMDIyZmRmNDEzOTljZWE5OTdhZDUxMGRhOTVlYTI4YTgxMTg0NGI2`

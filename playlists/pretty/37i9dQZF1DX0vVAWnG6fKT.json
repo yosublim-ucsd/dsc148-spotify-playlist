@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 144077,
+  "num_followers": 144106,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzU1MDM4NThkNmUwMTZjYmQ2MTI5MmJkZDE4ZmFkY2Q3ZjdkYzc2",
+  "snapshot_id": "MCxkZWVlYjM0NTViMWZmYTg1MDM0MWYyYTU1YmRmODEwZmIwZjQzNzZi",
   "tracks": [
     {
       "added_at": "2024-03-15 21:17:26",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "The Essential Roy Acuff",
-        "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
-      },
-      "artists": [
-        {
-          "name": "Roy Acuff",
-          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Tennessee Waltz",
-      "url": "https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
         "name": "The Merle Travis Story",
         "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 177626,
       "name": "Sixteen Tons",
       "url": "https://open.spotify.com/track/6Jvw3KvzhMnp67v3wLbc6m"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
+        "name": "The Essential Roy Acuff",
+        "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
+      },
+      "artists": [
+        {
+          "name": "Roy Acuff",
+          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Tennessee Waltz",
+      "url": "https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Dark As A Dungeon",
+      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
         "name": "The Essential Hank Snow",
         "url": "https://open.spotify.com/album/3CihtEK0DUIjF3clGitVGE"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 165453,
       "name": "The Golden Rocket",
       "url": "https://open.spotify.com/track/5jcprGzyDUAq25Babtyuei"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
-      },
-      "artists": [
-        {
-          "name": "Tex Ritter",
-          "url": "https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Deck Of Cards",
-      "url": "https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -543,34 +543,18 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
       },
       "artists": [
         {
-          "name": "Bill Monroe",
-          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
+          "name": "Tex Ritter",
+          "url": "https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G"
         }
       ],
-      "duration_ms": 166160,
-      "name": "Kentucky Waltz",
-      "url": "https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Dark As A Dungeon",
-      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
+      "duration_ms": 185533,
+      "name": "Deck Of Cards",
+      "url": "https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -587,6 +571,22 @@
       "duration_ms": 129133,
       "name": "Cool Water",
       "url": "https://open.spotify.com/track/6SxMOJLemuF6cCuvjhUmPN"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe",
+          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "Kentucky Waltz",
+      "url": "https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Nine Pound Hammer",
+      "url": "https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
         "name": "Complete Original #1 Hits",
         "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Wakely",
-          "url": "https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "One Has My Name (The Other Has My Heart) - 1948 Single",
-      "url": "https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
         "name": "Presenting Patsy Montana",
         "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
       },
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU"
       },
       "artists": [
         {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+          "name": "Jimmy Wakely",
+          "url": "https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5"
         }
       ],
-      "duration_ms": 159760,
-      "name": "Nine Pound Hammer",
-      "url": "https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH"
+      "duration_ms": 168160,
+      "name": "One Has My Name (The Other Has My Heart) - 1948 Single",
+      "url": "https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "My Favorite Country Songs",
-        "url": "https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU"
+        "name": "Presenting Al Dexter",
+        "url": "https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Al Dexter",
+          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
         }
       ],
-      "duration_ms": 185200,
-      "name": "Tumbling Tumbleweeds",
-      "url": "https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3"
+      "duration_ms": 163053,
+      "name": "Too Late to Worry, Too Blue to Cry",
+      "url": "https://open.spotify.com/track/39oDv2nFjiDVRpj0DLBXIl"
     }
   ],
   "unique_name": "40s Country",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Louisette & Amaury",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Johnny Jane",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -236,6 +236,24 @@
       "duration_ms": 181447,
       "name": "Aseptis\u00e9",
       "url": "https://open.spotify.com/track/2W5IVgVXNf3IcqRGWv5lr0"
+    },
+    {
+      "album": {
+        "name": "Baby Boom",
+        "url": "https://open.spotify.com/album/3LjqItLFxYl9xw1zpanrLE"
+      },
+      "artists": [
+        {
+          "name": "Superbus",
+          "url": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183703,
+      "name": "Baby Boom",
+      "url": "https://open.spotify.com/track/1nBH9j0nyQiMjAT02rz35b"
     },
     {
       "album": {
@@ -988,7 +1006,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 173023,
       "name": "Forteresse",
       "url": "https://open.spotify.com/track/2dlsjJGFMoWD3Nu4YcIX09"
@@ -1816,7 +1834,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 187829,
       "name": "Moi du Pass\u00e9",
       "url": "https://open.spotify.com/track/72bwy4wAvp7D2oRsZZ65pp"
@@ -2025,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Partie en voyage",
+        "url": "https://open.spotify.com/album/5hpem1VD9BVxWG8vitbukp"
+      },
+      "artists": [
+        {
+          "name": "Laurie Darmon",
+          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253910,
+      "name": "Partie en voyage",
+      "url": "https://open.spotify.com/track/0siMTfHv3BiAm7w1RYL80K"
+    },
+    {
+      "album": {
         "name": "Multitude",
         "url": "https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw"
       },
@@ -2199,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "Popcorn",
+        "url": "https://open.spotify.com/album/3iLr3Zo5PK3TEiqffN1yMf"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Patronik",
+          "url": "https://open.spotify.com/artist/21HK8UZA439q6bjQ0cpu2M"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170772,
+      "name": "Popcorn",
+      "url": "https://open.spotify.com/track/4dKQSpZXVwNYMgZ9DDIwLM"
+    },
+    {
+      "album": {
         "name": "Populaire",
         "url": "https://open.spotify.com/album/6MjGsKipgUJ1qUZqbNmDQE"
       },
@@ -2250,7 +2304,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 169569,
       "name": "Puzzle",
       "url": "https://open.spotify.com/track/6sKi2n9ibaCpXt06Dt1XWr"
@@ -2276,6 +2330,24 @@
     {
       "album": {
         "name": "Que des coeurs",
+        "url": "https://open.spotify.com/album/2O2gUhyodNlJsM9Y7HpKsM"
+      },
+      "artists": [
+        {
+          "name": "Charlie Faron",
+          "url": "https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169293,
+      "name": "Que des coeurs",
+      "url": "https://open.spotify.com/track/030g4LPa9Nnlx8GA8QzM6R"
+    },
+    {
+      "album": {
+        "name": "Que des coeurs",
         "url": "https://open.spotify.com/album/7cQ4UlVIDXLPsm6iMyUTF0"
       },
       "artists": [
@@ -2286,7 +2358,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 169293,
       "name": "Que des coeurs",
       "url": "https://open.spotify.com/track/0UFkdHfHFVAguM7egweU0q"

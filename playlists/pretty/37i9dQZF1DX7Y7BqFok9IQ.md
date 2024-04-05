@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Slash
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,584 likes - 150 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,687 likes - 150 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 27 | [Gets Me so High](https://open.spotify.com/track/0OZOk21ZTDXptdd1X6ki6p) | [GrandVille](https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK) | [GrandVille](https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY) | 4:43 |
 | 28 | [Ready for More](https://open.spotify.com/track/3qCcj7VVDZtiCo8LASZQyG) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [III](https://open.spotify.com/album/7wOCyDQqR7yUb4JvEgBnrd) | 2:24 |
 | 29 | [You Pushed Me](https://open.spotify.com/track/01tmrXbE6UPvMLpxMBlmiY) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [You Pushed Me](https://open.spotify.com/album/4N20MOAxyJDC6LIlbySax6) | 3:21 |
-| 30 | [The Deep And The Dirty](https://open.spotify.com/track/7muqW2jlmexIiyQpVz2eaR) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/2xXRnrq7Q0eXvdSCvCMimk) | 3:47 |
+| 30 | [The Deep and the Dirty](https://open.spotify.com/track/3nQpyaOEql2BECg4QmaCrF) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep and the Dirty](https://open.spotify.com/album/67KkHhNmrpt1NkoiRW1cXc) | 3:47 |
 | 31 | [SAINTS & SIN](https://open.spotify.com/track/5sukydajInUaXEScc19Y5u) | [Fortune Child](https://open.spotify.com/artist/3rWJ0yDBY3NyNeJYcRiVAr) | [SAINTS & SIN](https://open.spotify.com/album/3bG3PgbM2zprEZ9TDHRB6x) | 3:56 |
 | 32 | [Between Me and the Devil](https://open.spotify.com/track/0Dt5wjxCps2aaTJnQyt4lb) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/7clOVsfQ9IkT4GjjTbtBEZ) | 3:08 |
 | 33 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Little Thing Gone Wild](https://open.spotify.com/track/3XGCZQTIl2AXccefEuJfeh) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Wrong Creatures](https://open.spotify.com/album/0rqC0UZ8kTGxIEI654LWhj) | 3:19 |
 | 150 | [Lie Lie Lie](https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Lie Lie Lie](https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk) | 3:35 |
 
-Snapshot ID: `MCw1Nzk2NDBhZGYyZGEwNTEwNmM3N2ZjZDgwN2Y2MDA3YjA3NWI4MDk2`
+Snapshot ID: `MCwwMThiNGI5OGJiMGZjODA1OTE0MTE1Y2ZiNmQ1ZmEwYjhjZTRjYjFh`

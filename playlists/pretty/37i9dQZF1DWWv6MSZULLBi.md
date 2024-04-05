@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Jessica Pratt
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,952 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,977 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 36 | [Good People](https://open.spotify.com/track/42YrtW7V1OyF3BXi0ftYQj) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/61hQL89ZMJXqfNXoMmcjG3) | 3:06 |
 | 37 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
 | 38 | [I Guess](https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [I Guess](https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E) | 3:44 |
-| 39 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 4:03 |
+| 39 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 3:59 |
 | 40 | [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 |
 | 41 | [When I Was Younger](https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb) | [When I Was Younger](https://open.spotify.com/album/03QaM9aGaUe4aMrI8gGICH) | 3:17 |
 | 42 | [Carefree](https://open.spotify.com/track/1hSQICDWszNYqqH3d6wBeb) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Carefree](https://open.spotify.com/album/1wFREzOReu0HUeh1Ww9Z5J) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Sometimes the Darts Hit the Wall](https://open.spotify.com/track/2NOIMtgcRNmQ2n93ZbyukF) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [Nothing Lasts Forever \(B\-Sides\)](https://open.spotify.com/album/3RtPgB29r2QpPfK5L6H00j) | 3:43 |
 | 100 | [What You Don’t Know](https://open.spotify.com/track/6tp9ZObhuYqZb1lNPyMXxf) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [What You Don't Know](https://open.spotify.com/album/1fKYAXIj2jDoT5amgBVbSc) | 2:59 |
 
-Snapshot ID: `MCxiMzFkOTc2MDU2ZjI2MDIxMDE1OGU2NzMzNTg0YTE1NWY2Y2FlYTJh`
+Snapshot ID: `MCxjODJjMjk2MGM3MTY5ZGY0NDA3OTNlNjhlOTE3NGE3ZDg3ZDZhN2Nh`

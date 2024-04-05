@@ -1,12 +1,12 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60704,
+  "num_followers": 60716,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2FhNWNlMDQ2NDRjY2YwMGNmMjcyNDhmODc1MWFmNzVhMTJjMjRk",
+  "snapshot_id": "MCw0ZTJhY2U0ZGIzOTMwOWRhOTQwNjhlM2NkZjFlYWRiOWIwMGFiYmQw",
   "tracks": [
     {
       "added_at": "2024-04-01 01:01:00",
@@ -43,38 +43,6 @@
     {
       "added_at": "2024-04-01 01:01:00",
       "album": {
-        "name": "Death of a Bachelor",
-        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "House of Memories",
-      "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
-    },
-    {
-      "added_at": "2024-04-01 01:01:00",
-      "album": {
-        "name": "20 something",
-        "url": "https://open.spotify.com/album/5xoHpRnnxIH33pFgPXtYTf"
-      },
-      "artists": [
-        {
-          "name": "Jessica Baio",
-          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
-        }
-      ],
-      "duration_ms": 160782,
-      "name": "20 something",
-      "url": "https://open.spotify.com/track/3xpuHGQZMXiR8j9aCIOO8C"
-    },
-    {
-      "added_at": "2024-04-01 01:01:00",
-      "album": {
         "name": "Come Over When You're Sober, Pt. 2",
         "url": "https://open.spotify.com/album/52JymrguPgkmmwLaWIusst"
       },
@@ -95,18 +63,34 @@
     {
       "added_at": "2024-04-01 01:01:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+        "name": "20 something",
+        "url": "https://open.spotify.com/album/5xoHpRnnxIH33pFgPXtYTf"
       },
       "artists": [
         {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
         }
       ],
-      "duration_ms": 218106,
-      "name": "Electric Love",
-      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
+      "duration_ms": 160782,
+      "name": "20 something",
+      "url": "https://open.spotify.com/track/3xpuHGQZMXiR8j9aCIOO8C"
+    },
+    {
+      "added_at": "2024-04-01 01:01:00",
+      "album": {
+        "name": "Death of a Bachelor",
+        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "House of Memories",
+      "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
     },
     {
       "added_at": "2024-04-01 01:01:00",
@@ -123,6 +107,22 @@
       "duration_ms": 181026,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+    },
+    {
+      "added_at": "2024-04-01 01:01:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
     },
     {
       "added_at": "2024-04-01 01:01:00",

@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-90 songs - 6 hr 18 min
+91 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Blues Garage](https://open.spotify.com/track/63z5HlfiJw3g74Ja9NYgUt) | [Marco Tansini](https://open.spotify.com/artist/4nqDZHAp53xZXsaySBj6Dp) | [Blues Garage](https://open.spotify.com/album/2naMQdig9E1D2yA1aMlb2Y) | 4:40 | 2022-11-30 |  |
 | [Blues In The Closet](https://open.spotify.com/track/11w62lcuFaIPrSf64XkK2S) | [Maxeen](https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN) | [Blues In The Closet](https://open.spotify.com/album/32vOOaqwQl8zrAsmXDpQ5u) | 2:40 | 2023-10-13 |  |
 | [Blues on a Borrowed Guitar](https://open.spotify.com/track/5xr5jeIHR15YyllJRHmkEY) | [Snowy White](https://open.spotify.com/artist/4DMlDJn7CPSSS0DuUf1vrH) | [Released](https://open.spotify.com/album/4Yzs60CBn1AteXBUaXqnk6) | 5:45 | 2022-11-30 |  |
-| [Blues Wail \- Shared ISRC](https://open.spotify.com/track/39W3NjHlj7MSFS9q5D46zN) | [Tiny Grimes](https://open.spotify.com/artist/2SJ9t86XCfdJnyoMgAtPU1), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Blues Wail: Coleman Hawkins Plays The Blues](https://open.spotify.com/album/21NYOM1XZhCPaLDX8CkvOc) | 6:43 | 2022-11-30 |  |
+| [Blues Wail](https://open.spotify.com/track/3wyWxsmfYrH3CH1P9HPJLK) | [Tiny Grimes](https://open.spotify.com/artist/2SJ9t86XCfdJnyoMgAtPU1) | [Jammin' In Swingville](https://open.spotify.com/album/0Q8BDLG4lx0QUQjdcJpeIh) | 6:45 | 2023-11-24 |  |
+| [Blues Wail \- Shared ISRC](https://open.spotify.com/track/39W3NjHlj7MSFS9q5D46zN) | [Tiny Grimes](https://open.spotify.com/artist/2SJ9t86XCfdJnyoMgAtPU1), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Blues Wail: Coleman Hawkins Plays The Blues](https://open.spotify.com/album/21NYOM1XZhCPaLDX8CkvOc) | 6:43 | 2022-11-30 | 2024-04-05 |
 | [Boedo's Blues](https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Boedo's Blues](https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf) | 2:13 | 2022-11-30 |  |
 | [Bolo Blues](https://open.spotify.com/track/0paLclaOTcSsiCnXVaCQnX) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Night Train](https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s) | 3:16 | 2022-11-30 |  |
 | [Christo Redemptor](https://open.spotify.com/track/2KmDMUum37jq4TFaHXD3JY) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Stand Back!](https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe) | 3:21 | 2022-11-30 |  |

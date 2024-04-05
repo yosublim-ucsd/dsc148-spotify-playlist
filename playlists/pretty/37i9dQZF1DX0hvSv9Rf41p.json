@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Elohim",
-  "num_followers": 977541,
+  "num_followers": 977565,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjAwNzlmOGRiODc2M2JiYTM0NTc4OTk5ZDUzMTQyM2NlNzYyYjhh",
+  "snapshot_id": "MCxhY2ZjMGMxZTQ5ZTBjMWEzODU3M2JkODUxZjFmOTNkYTMxZWM1Mzdl",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1237,10 +1237,10 @@
       "url": "https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Nan Slapper",
-        "url": "https://open.spotify.com/album/0w3qxx32q76Rmx5UK58bEH"
+        "name": "Swerve it",
+        "url": "https://open.spotify.com/album/5o9bTDEWsJpTReXH4LuoME"
       },
       "artists": [
         {
@@ -1248,33 +1248,29 @@
           "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
         },
         {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
-        }
-      ],
-      "duration_ms": 263314,
-      "name": "Nan Slapper",
-      "url": "https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Everywhere, Nowhere",
-        "url": "https://open.spotify.com/album/7CDvBUVzkXMUFJN69ZasQ7"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
         },
         {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Everywhere, Nowhere",
-      "url": "https://open.spotify.com/track/6aVGa81S7Q1S24yuPbakEL"
+      "duration_ms": 167314,
+      "name": "Swerve It",
+      "url": "https://open.spotify.com/track/3IwA24jZLqPW3tFCWpkr7S"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1299,6 +1295,26 @@
       "duration_ms": 209556,
       "name": "On Forever",
       "url": "https://open.spotify.com/track/3lFIlyk6D1G2lzREqKAJu4"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Everywhere, Nowhere",
+        "url": "https://open.spotify.com/album/7CDvBUVzkXMUFJN69ZasQ7"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Everywhere, Nowhere",
+      "url": "https://open.spotify.com/track/6aVGa81S7Q1S24yuPbakEL"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1421,10 +1437,10 @@
       "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
+      "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Swerve it",
-        "url": "https://open.spotify.com/album/5o9bTDEWsJpTReXH4LuoME"
+        "name": "Nan Slapper",
+        "url": "https://open.spotify.com/album/0w3qxx32q76Rmx5UK58bEH"
       },
       "artists": [
         {
@@ -1432,29 +1448,13 @@
           "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
         },
         {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
-        },
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
         }
       ],
-      "duration_ms": 167314,
-      "name": "Swerve It",
-      "url": "https://open.spotify.com/track/3IwA24jZLqPW3tFCWpkr7S"
+      "duration_ms": 263314,
+      "name": "Nan Slapper",
+      "url": "https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj"
     },
     {
       "added_at": "2023-10-20 04:01:00",

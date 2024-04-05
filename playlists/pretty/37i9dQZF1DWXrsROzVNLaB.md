@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,697 likes - 75 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,696 likes - 75 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 26 | [Grace Alone](https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Becoming Who We Are](https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif) | 3:38 |
 | 27 | [Mighty Cross](https://open.spotify.com/track/2qFxitJohZtPd3QIPumFH0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:16 |
 | 28 | [Isn't He \(This Jesus\)](https://open.spotify.com/track/3ehg0c0FEpEA2lxc8R4j6N) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Isn't He \(This Jesus\)](https://open.spotify.com/album/6RjmjrxlN18E8vR04zwfMu) | 9:50 |
-| 29 | [Death Where is Your Sting](https://open.spotify.com/track/0U1FxC0ANweT6KSqLorM6e) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:40 |
-| 30 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
+| 29 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
+| 30 | [Death Where is Your Sting](https://open.spotify.com/track/0U1FxC0ANweT6KSqLorM6e) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:40 |
 | 31 | [Jesus Paid It All](https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Everything Glorious](https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF) | 5:27 |
 | 32 | [Behold \(Then Sings My Soul\) \- Live](https://open.spotify.com/track/1ploWGMJ1grQQrKcV2zwqb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Let There Be Light \(Deluxe\)](https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja) | 6:46 |
 | 33 | [Happy Day](https://open.spotify.com/track/1gLCydMCD7D1b0bnYp5tyS) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Holding Nothing Back](https://open.spotify.com/album/2rygzTYOjYKpkfW99tCiaz) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 74 | [Above All](https://open.spotify.com/track/4UKkXhpY3knx2S4KDrsRSP) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr) | [The Writer's Collection](https://open.spotify.com/album/1ztavDrZMEGJubkYFKcmZv) | 5:23 |
 | 75 | [The Cross Forever Speaks](https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:52 |
 
-Snapshot ID: `MCw3ZGVkNTIxYWRiYjAzODBkYmMzODdkZmY0N2E2YmE4OTY2ZWU2ZjY5`
+Snapshot ID: `MCxmOTNhZGIzMTMxOTFjMjBkMTk2NjY1YzMwMGVlZTA2MmFlMGZkOTRh`

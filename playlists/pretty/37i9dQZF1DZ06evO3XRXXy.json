@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 131330,
+  "num_followers": 131368,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmJmOTVkYjU4ZjY0NDIxY2RjMTBjY2QzZDdlYWRlMGExYTdjMjI0",
+  "snapshot_id": "MCw2OWRmMWJiYzFiNWI2MjQxMzI4ZjIwM2IzNGIxZWQ5NTQ1MjE5Yjdk",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "World Music Radio",
-        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
+        "name": "Songbird: The Best Of Kenny G",
+        "url": "https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06"
       },
       "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 77374,
-      "name": "Clair de Lune (feat. Kenny G)",
-      "url": "https://open.spotify.com/track/6YoOSmaiA0ZBff3ozVvPFa"
+      "duration_ms": 261200,
+      "name": "My Heart Will Go On (Love Theme from \"Titanic\")",
+      "url": "https://open.spotify.com/track/5f2u9cxFcnNAmYEEkIVGkw"
     },
     {
       "added_at": null,
@@ -491,18 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songbird: The Best Of Kenny G",
-        "url": "https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06"
+        "name": "World Music Radio",
+        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
       },
       "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 261200,
-      "name": "My Heart Will Go On (Love Theme from \"Titanic\")",
-      "url": "https://open.spotify.com/track/5f2u9cxFcnNAmYEEkIVGkw"
+      "duration_ms": 77374,
+      "name": "Clair de Lune (feat. Kenny G)",
+      "url": "https://open.spotify.com/track/6YoOSmaiA0ZBff3ozVvPFa"
     },
     {
       "added_at": null,

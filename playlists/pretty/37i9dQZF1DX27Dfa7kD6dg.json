@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 34310,
+  "num_followers": 34364,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTI1ZDY4NmM5YTNhZTg0ZDc0MDg0NWQzNDlmMmU4YjZmOGUxNjY3",
+  "snapshot_id": "MCwwZDU1MTE2YTcxZjllNTA4ODhiMmIyNTAwZDc2YjNjZGRiNmRlYzA5",
   "tracks": [
     {
       "added_at": "2024-04-03 01:10:10",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-04-03 01:10:10",
       "album": {
-        "name": "Sorpresa La Flauta",
-        "url": "https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Harlow",
-          "url": "https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW"
-    },
-    {
-      "added_at": "2024-04-03 01:10:10",
-      "album": {
         "name": "Mi Tumbao Social",
         "url": "https://open.spotify.com/album/3UL8WmEzBRWnGLgBA0tDkj"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 250009,
       "name": "Deja de Criticar",
       "url": "https://open.spotify.com/track/1TNBaVWcOnNIiPCJaNV0rz"
+    },
+    {
+      "added_at": "2024-04-03 01:10:10",
+      "album": {
+        "name": "Sorpresa La Flauta",
+        "url": "https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Harlow",
+          "url": "https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW"
     },
     {
       "added_at": "2024-04-03 01:10:10",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-04-03 01:10:10",
       "album": {
-        "name": "Salsa Nama",
-        "url": "https://open.spotify.com/album/0wKo8Gv5tffGXI18AxsfbG"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 332532,
-      "name": "Nuestro Sue\u00f1o",
-      "url": "https://open.spotify.com/track/0hrzWL0y3GVHEeWVDrWw5g"
-    },
-    {
-      "added_at": "2024-04-03 01:10:10",
-      "album": {
         "name": "Hoy Y Ayer",
         "url": "https://open.spotify.com/album/1RDCs8PZwX9UnI2u6Jdquy"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 220333,
       "name": "Pachito Eche",
       "url": "https://open.spotify.com/track/1lezqUzhsYpLyDMf2BHjL4"
+    },
+    {
+      "added_at": "2024-04-03 01:10:10",
+      "album": {
+        "name": "Salsa Nama",
+        "url": "https://open.spotify.com/album/0wKo8Gv5tffGXI18AxsfbG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 332532,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/0hrzWL0y3GVHEeWVDrWw5g"
     },
     {
       "added_at": "2024-04-03 01:10:10",

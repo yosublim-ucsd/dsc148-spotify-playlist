@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 55908,
+  "2024-04-05": 55915,
   "date_first_scraped": "2023-02-10",
   "description": "Funk - new and old - to accompany your drive.",
   "name": "Funk Drive",
@@ -965,6 +965,24 @@
       "duration_ms": 263946,
       "name": "I'll Be With You",
       "url": "https://open.spotify.com/track/1cH5gmAdX31JANDnooSbRB"
+    },
+    {
+      "album": {
+        "name": "Gnomes and Badgers",
+        "url": "https://open.spotify.com/album/4qPlarTcn0hM0nSFZQJIrG"
+      },
+      "artists": [
+        {
+          "name": "Karl Denson",
+          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
+        }
+      ],
+      "date_added": "2019-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "I'm Your Biggest Fan",
+      "url": "https://open.spotify.com/track/17i912AtjvTamKg5Oriyw9"
     },
     {
       "album": {
@@ -2053,7 +2071,7 @@
       ],
       "date_added": "2019-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 212252,
       "name": "Wired Up",
       "url": "https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx"

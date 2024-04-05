@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1706835,
+  "num_followers": 1707308,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2E3ZmI5ZWNkMjI3MTk0YmZhNzllZDgwMTI2NjhlZGNkYjhlZDRj",
+  "snapshot_id": "MCwyMzUwODQ0ODNiZjY0ODAwNTI2NWNjYTlhZGVhYjc1MTM4ODQzNWZi",
   "tracks": [
     {
       "added_at": "2024-04-02 11:11:15",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-04-02 11:11:15",
       "album": {
-        "name": "Al Green Explores Your Mind",
-        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
+        "name": "I Can't Stand the Rain",
+        "url": "https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
         }
       ],
-      "duration_ms": 225373,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
+      "duration_ms": 150400,
+      "name": "I Can't Stand the Rain",
+      "url": "https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6"
     },
     {
       "added_at": "2024-04-02 11:11:15",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-04-02 11:11:15",
       "album": {
-        "name": "I Can't Stand the Rain",
-        "url": "https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL"
-      },
-      "artists": [
-        {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
-        }
-      ],
-      "duration_ms": 150400,
-      "name": "I Can't Stand the Rain",
-      "url": "https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6"
-    },
-    {
-      "added_at": "2024-04-02 11:11:15",
-      "album": {
         "name": "Come Get It! (Expanded Edition)",
         "url": "https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 297346,
       "name": "Mary Jane",
       "url": "https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My"
+    },
+    {
+      "added_at": "2024-04-02 11:11:15",
+      "album": {
+        "name": "Al Green Explores Your Mind",
+        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
     },
     {
       "added_at": "2024-04-02 11:11:15",

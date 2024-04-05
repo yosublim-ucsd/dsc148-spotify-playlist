@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=FS3SHbnpQrypAIYdOToH5g">Riaan Benadé</a>
+> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=45a30asnSZC1qXPlyoy12w">Brendan Peyper</a>
 
-200 songs - 11 hr 9 min
+201 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Gee My ‘n Boerseun](https://open.spotify.com/track/2oBfcnyvgX6cajJgIFeqY2) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Gee My ‘n Boerseun](https://open.spotify.com/album/7x9ZKftmTxAmr4uto3piBr) | 3:24 | 2022-04-14 | 2022-11-11 |
 | [Geheueverlies](https://open.spotify.com/track/6uj9EblCmjH3mD68hXYd1J) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Geheueverlies](https://open.spotify.com/album/7uxR1ditZkvT9RO8brR8hL) | 3:26 | 2022-02-17 | 2023-11-24 |
 | [Glo](https://open.spotify.com/track/0fQ5MOq8VDkLmOmXj9nfGZ) | [Jacques Leonard](https://open.spotify.com/artist/6vZo5K5MApUmC0oT6g5262) | [Glo](https://open.spotify.com/album/50ehh8dDKeB8qjwLboZ2ez) | 3:28 | 2022-09-29 | 2022-10-29 |
-| [Gooi Nog 'n Whiskey](https://open.spotify.com/track/7Bn6wlpyw2ucBHxdDYEAUT) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 3:00 | 2023-03-09 |  |
+| [Gooi Nog 'n Whiskey](https://open.spotify.com/track/7Bn6wlpyw2ucBHxdDYEAUT) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 3:00 | 2023-03-09 | 2024-04-05 |
 | [H2Oë](https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [H2Oë](https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP) | 2:55 | 2022-08-25 |  |
 | [Haai Haai](https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Haai Haai](https://open.spotify.com/album/7pcS22M4wts8bcT1pBoB0y) | 3:18 | 2022-06-30 |  |
 | [Haar Naam Was Somer](https://open.spotify.com/track/6EoilsUTHrNfdslcBOBekC) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Haar Naam Was Somer](https://open.spotify.com/album/1keEU7iuzECezDFw8Z1CVE) | 3:14 | 2023-11-23 |  |
@@ -122,6 +122,7 @@
 | [Lyfie](https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3) | 3:28 | 2022-10-13 | 2023-12-08 |
 | [Lyntjie](https://open.spotify.com/track/1EhZrbHrX4gTpH7cS35cd2) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Lyntjie](https://open.spotify.com/album/51aJBYJeoKwIFxevyaeohg) | 3:05 | 2023-07-13 |  |
 | [Maak 'n Plan](https://open.spotify.com/track/5q5fkffY4JxRlb5zpl92kq) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Maak 'n Plan](https://open.spotify.com/album/0f8TL15rhE8ejfouXHDBxs) | 3:08 | 2022-03-17 | 2022-10-29 |
+| [Madelein](https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Omdat Jy Mag](https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt) | 3:33 | 2024-04-04 |  |
 | [Mal Maandagaande](https://open.spotify.com/track/6oW7y2wkmHiO95rwinPANA) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Mal Maandagaande](https://open.spotify.com/album/0XUoQmK7E5z2Dql7QMkCOp) | 2:13 | 2023-05-11 | 2023-07-14 |
 | [Man so na my hart](https://open.spotify.com/track/5U6cE7kIhPe69nQuEG90CL) | [Elizma Theron](https://open.spotify.com/artist/63XPx0RP7mfLOJ1BJ3HoMU) | [Man so na my hart](https://open.spotify.com/album/5R7biF12QJgeuIpZzqVc3C) | 3:17 | 2023-03-03 | 2023-05-12 |
 | [Marakas](https://open.spotify.com/track/1CZuOrdzTTkkNeTIHU26WF) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Marakas](https://open.spotify.com/album/5PW1QI5M5ghXWrnYP9X4bs) | 4:01 | 2023-08-03 | 2023-09-01 |

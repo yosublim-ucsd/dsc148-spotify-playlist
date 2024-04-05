@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,733 likes - 235 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,832 likes - 235 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 234 | [Peaceful Rebellion](https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Peaceful Rebellion](https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI) | 2:19 |
 | 235 | [Romance No 2 'Normandie'](https://open.spotify.com/track/4zGwlwhObmrKxQSVwaWFMA) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Romance No 2 'Normandie'](https://open.spotify.com/album/6DEdXVTwC9oIO4DVvIqT7s) | 3:14 |
 
-Snapshot ID: `MCxlOGZlYmQ4OTM0MWU1NjMzODA3YmI2NjdmNTViZjc5ZWFkNTZhMGYw`
+Snapshot ID: `MCxhNWEzODFlMGRkMzRjN2M2YjU2YzQzYTkyNWE2MmVkMDYyODAwN2Qz`

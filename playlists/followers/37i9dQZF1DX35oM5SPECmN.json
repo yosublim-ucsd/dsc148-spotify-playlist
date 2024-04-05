@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 2340580,
+  "2024-04-05": 2340560,
   "date_first_scraped": "2021-12-21",
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
   "name": "Run Wild",
@@ -1491,7 +1491,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 162070,
       "name": "I Get No Joy",
       "url": "https://open.spotify.com/track/2rgCu3A8HVHOnYAIBLsHYw"
@@ -2515,6 +2515,24 @@
       "duration_ms": 257893,
       "name": "See the World",
       "url": "https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB"
+    },
+    {
+      "album": {
+        "name": "See the World",
+        "url": "https://open.spotify.com/album/78UXXQ2WhEdl3586dCV2ZT"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257893,
+      "name": "See the World",
+      "url": "https://open.spotify.com/track/0ioDZn2JL53ictGJMMkETC"
     },
     {
       "album": {

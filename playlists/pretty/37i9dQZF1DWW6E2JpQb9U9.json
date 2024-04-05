@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 110393,
+  "num_followers": 110418,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjY3ZjlhYWYwMzdmNzJlMDczNzZlOGUzMDY4MTQ0MjliZTJhY2Fh",
+  "snapshot_id": "MCxjOTBiYTUyMzI1NzJjM2QwM2ZjZjdhMzQ0Zjk1YjNhZTYyYzcyNzhm",
   "tracks": [
     {
       "added_at": "2024-03-21 20:50:21",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "En Vivo en el Estadio \u00danico",
-        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 341626,
-      "name": "Traicionero - En Vivo en el Estadio \u00danico",
-      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
         "name": "Vivo De Pastillas: Locura Y Realidad (Live In Buenos Aires / 2016)",
         "url": "https://open.spotify.com/album/3l0v842H6eKkHsOmHUUcHe"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 222226,
       "name": "Absolutismos\u2026 - Live In Buenos Aires / 2016",
       "url": "https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
+        "name": "En Vivo en el Estadio \u00danico",
+        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 341626,
+      "name": "Traicionero - En Vivo en el Estadio \u00danico",
+      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
+        "name": "Luces (En Vivo Luna Park 2006)",
+        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
+      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 285053,
       "name": "Pasos al Costado - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
-        "name": "Luces (En Vivo Luna Park 2006)",
-        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
-      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
+        "name": "Sortilegio de Arrabal (En Vivo)",
+        "url": "https://open.spotify.com/album/33Oh3YxKskNQSzgo9KTQtz"
+      },
+      "artists": [
+        {
+          "name": "Los Gardelitos",
+          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
+        }
+      ],
+      "duration_ms": 244071,
+      "name": "Envuelto en Llamas - En Vivo",
+      "url": "https://open.spotify.com/track/3RbasQvZGNBKD9UyAS33wH"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 250538,
       "name": "Ay, Qu\u00e9 Dios Boludo",
       "url": "https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
-        "name": "Sortilegio de Arrabal (En Vivo)",
-        "url": "https://open.spotify.com/album/33Oh3YxKskNQSzgo9KTQtz"
-      },
-      "artists": [
-        {
-          "name": "Los Gardelitos",
-          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
-        }
-      ],
-      "duration_ms": 244071,
-      "name": "Envuelto en Llamas - En Vivo",
-      "url": "https://open.spotify.com/track/3RbasQvZGNBKD9UyAS33wH"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "En Vivo en el Teatro Coliseo",
-        "url": "https://open.spotify.com/album/2HPBjV6pfag0WSo7l1Y8oY"
+        "name": "Trascenlace (Vivo en Obras)",
+        "url": "https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
         }
       ],
-      "duration_ms": 487597,
-      "name": "\u00bfQu\u00e9 Tal? - En Vivo",
-      "url": "https://open.spotify.com/track/0L8j3R0I7PT6dPsITLMhdL"
+      "duration_ms": 317005,
+      "name": "El Riesgo - Vivo en Obras",
+      "url": "https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj"
     }
   ],
   "unique_name": "Vivo de Rock",

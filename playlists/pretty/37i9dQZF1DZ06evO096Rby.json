@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 29352,
+  "num_followers": 29397,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGU2MmE2YWJjYWRiYjgyNWYxMTQ4YzhjOTNmZDJiMGE1MmM0Yjgz",
+  "snapshot_id": "MCwyYzc0N2MyMTk5M2MyMjBjMTEzNjYyYjJiMGNlYTg4ZmM3YjY4NzI1",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Es por Ella",
-        "url": "https://open.spotify.com/album/3CcLFuxfmJV1Q8TyY59zew"
-      },
-      "artists": [
-        {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 170908,
-      "name": "No Es por Ella",
-      "url": "https://open.spotify.com/track/65aRqpfHbDRWhFfupWm26H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Envidia Se Dio Cuenta (En Vivo)",
         "url": "https://open.spotify.com/album/56ZmDRD0prasmcVlSJwQNS"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 206271,
       "name": "La Envidia Se Dio Cuenta - En Vivo",
       "url": "https://open.spotify.com/track/0612bpbpVUQX7mwYNO36xj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Es por Ella",
+        "url": "https://open.spotify.com/album/3CcLFuxfmJV1Q8TyY59zew"
+      },
+      "artists": [
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 170908,
+      "name": "No Es por Ella",
+      "url": "https://open.spotify.com/track/65aRqpfHbDRWhFfupWm26H"
     },
     {
       "added_at": null,
@@ -663,34 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Llores BB",
-        "url": "https://open.spotify.com/album/3Aex8IQQTjNn0FXPVc173W"
+        "name": "Botecitos",
+        "url": "https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk"
       },
       "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 158090,
-      "name": "Ya No Llores BB",
-      "url": "https://open.spotify.com/track/3nhRj5PwAgCViXn9qNjnkx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 202509,
-      "name": "Alto y Piel Morena",
-      "url": "https://open.spotify.com/track/6gEUZHMdjTWEi74fHNHW52"
+      "duration_ms": 188138,
+      "name": "Botecitos",
+      "url": "https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y"
     },
     {
       "added_at": null,
@@ -715,6 +703,38 @@
       "duration_ms": 169523,
       "name": "Kyc",
       "url": "https://open.spotify.com/track/2W1939GIXBdA58meh74sUU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 202509,
+      "name": "Alto y Piel Morena",
+      "url": "https://open.spotify.com/track/6gEUZHMdjTWEi74fHNHW52"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Llores BB",
+        "url": "https://open.spotify.com/album/3Aex8IQQTjNn0FXPVc173W"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 158090,
+      "name": "Ya No Llores BB",
+      "url": "https://open.spotify.com/track/3nhRj5PwAgCViXn9qNjnkx"
     },
     {
       "added_at": null,
@@ -755,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos 602 Vol.3 (En Vivo)",
+        "url": "https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 142357,
+      "name": "En Los Puritos Huesos - En Vivo",
+      "url": "https://open.spotify.com/track/1d3J01sINV8BsC38QtWMjL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Danny De Chicali (En Vivo)",
         "url": "https://open.spotify.com/album/7CgGpLyXJscIpG8RIjOvIK"
       },
@@ -775,42 +811,6 @@
       "duration_ms": 150000,
       "name": "El Danny De Chicali (En Vivo)",
       "url": "https://open.spotify.com/track/6lRgHvhZ3a0BeLhUuXlCzP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Botecitos",
-        "url": "https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk"
-      },
-      "artists": [
-        {
-          "name": "Los Pescadores Del Rio Conchos",
-          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 188138,
-      "name": "Botecitos",
-      "url": "https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos 602 Vol.3 (En Vivo)",
-        "url": "https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 142357,
-      "name": "En Los Puritos Huesos - En Vivo",
-      "url": "https://open.spotify.com/track/1d3J01sINV8BsC38QtWMjL"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecta Para Mi",
-        "url": "https://open.spotify.com/album/4enQ6asfExjDZ0qFFJJ5CQ"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 179685,
-      "name": "Perfecta Para MI",
-      "url": "https://open.spotify.com/track/3zaS4P1REhfZBcaBVSuHLJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos 602 Vol.3 (En Vivo)",
         "url": "https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 176819,
       "name": "Ya Se Fue El Parche",
       "url": "https://open.spotify.com/track/3kiKK2eUCG5uswn6YeE6LO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfecta Para Mi",
+        "url": "https://open.spotify.com/album/4enQ6asfExjDZ0qFFJJ5CQ"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 179685,
+      "name": "Perfecta Para MI",
+      "url": "https://open.spotify.com/track/3zaS4P1REhfZBcaBVSuHLJ"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 448698,
+  "num_followers": 448924,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTI1YmYzYmQ5ZjNiNGUxZTdiZTczOWQ4YjIyYzU1YmEyMDVlNTU1",
+  "snapshot_id": "MCw0ZmQ1NTZiMDZjY2VlMTQ4MjJkNTQwY2U2YjkwOGYyZDNlYmM4OTEx",
   "tracks": [
     {
       "added_at": "2023-09-25 02:25:33",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
     },
     {
-      "added_at": "2023-06-07 16:02:09",
-      "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
-      },
-      "artists": [
-        {
-          "name": "Konyikeh",
-          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
-        }
-      ],
-      "duration_ms": 140898,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
-    },
-    {
       "added_at": "2022-04-18 03:39:12",
       "album": {
         "name": "Three Dimensions Deep",
@@ -671,6 +655,22 @@
       "duration_ms": 173774,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
+    },
+    {
+      "added_at": "2023-06-07 16:02:09",
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "duration_ms": 140898,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
     },
     {
       "added_at": "2023-06-02 02:31:02",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k"
     },
     {
-      "added_at": "2023-12-20 03:34:06",
-      "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Run A Red Light",
-      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
-    },
-    {
       "added_at": "2023-02-21 02:56:05",
       "album": {
         "name": "Phosphorescent",
@@ -1175,6 +1159,22 @@
       "duration_ms": 240449,
       "name": "Skylight",
       "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
+    },
+    {
+      "added_at": "2023-12-20 03:34:06",
+      "album": {
+        "name": "Fuse",
+        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Run A Red Light",
+      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1297,26 +1297,6 @@
       "url": "https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf"
     },
     {
-      "added_at": "2023-10-10 01:29:29",
-      "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "Duncan Bellamy",
-          "url": "https://open.spotify.com/artist/6d5nBcIHQltdskVV1X67jQ"
-        }
-      ],
-      "duration_ms": 258120,
-      "name": "Thin Line",
-      "url": "https://open.spotify.com/track/1Vv16VYpddnreBUtCFy0AE"
-    },
-    {
       "added_at": "2023-01-04 01:09:50",
       "album": {
         "name": "20 Years Dope Noir - Oranje Album",
@@ -1341,6 +1321,26 @@
       "url": "https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF"
     },
     {
+      "added_at": "2023-10-10 01:29:29",
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Duncan Bellamy",
+          "url": "https://open.spotify.com/artist/6d5nBcIHQltdskVV1X67jQ"
+        }
+      ],
+      "duration_ms": 258120,
+      "name": "Thin Line",
+      "url": "https://open.spotify.com/track/1Vv16VYpddnreBUtCFy0AE"
+    },
+    {
       "added_at": "2023-05-24 02:01:11",
       "album": {
         "name": "I Hope You Can Forgive Me",
@@ -1357,20 +1357,24 @@
       "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
-      "added_at": "2024-01-03 18:42:32",
+      "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "So Pacific",
-        "url": "https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh"
+        "name": "Sweetness Remixes",
+        "url": "https://open.spotify.com/album/45IJcpXoaZbDYSYN3qkeNb"
       },
       "artists": [
         {
-          "name": "Memory Of Jane",
-          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
+          "name": "Sweet Whirl",
+          "url": "https://open.spotify.com/artist/3gMAzRuPRRTdDDbeBzlxKu"
+        },
+        {
+          "name": "Andras",
+          "url": "https://open.spotify.com/artist/6C3Q1d8QOpgYuRdsTmSoVm"
         }
       ],
-      "duration_ms": 213956,
-      "name": "So Pacific",
-      "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
+      "duration_ms": 206820,
+      "name": "Sweetness - Dub Mix by Andras",
+      "url": "https://open.spotify.com/track/6h5SiRf0aOLRql4UGopHOu"
     },
     {
       "added_at": "2022-04-18 03:39:12",
@@ -1387,6 +1391,22 @@
       "duration_ms": 172436,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak"
+    },
+    {
+      "added_at": "2024-01-03 18:42:32",
+      "album": {
+        "name": "So Pacific",
+        "url": "https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh"
+      },
+      "artists": [
+        {
+          "name": "Memory Of Jane",
+          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
+        }
+      ],
+      "duration_ms": 213956,
+      "name": "So Pacific",
+      "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1445,26 +1465,6 @@
       "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Sweetness Remixes",
-        "url": "https://open.spotify.com/album/45IJcpXoaZbDYSYN3qkeNb"
-      },
-      "artists": [
-        {
-          "name": "Sweet Whirl",
-          "url": "https://open.spotify.com/artist/3gMAzRuPRRTdDDbeBzlxKu"
-        },
-        {
-          "name": "Andras",
-          "url": "https://open.spotify.com/artist/6C3Q1d8QOpgYuRdsTmSoVm"
-        }
-      ],
-      "duration_ms": 206820,
-      "name": "Sweetness - Dub Mix by Andras",
-      "url": "https://open.spotify.com/track/6h5SiRf0aOLRql4UGopHOu"
-    },
-    {
       "added_at": "2023-09-25 02:40:58",
       "album": {
         "name": "Sorry I Haven't Called",
@@ -1479,6 +1479,22 @@
       "duration_ms": 177733,
       "name": "Lexicon",
       "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
+    },
+    {
+      "added_at": "2022-12-07 04:04:10",
+      "album": {
+        "name": "head down",
+        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
+      },
+      "artists": [
+        {
+          "name": "Habe",
+          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
+        }
+      ],
+      "duration_ms": 148304,
+      "name": "head down",
+      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1519,22 +1535,6 @@
       "duration_ms": 392560,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/7vMyUJeWiiF9CwMedCGCxF"
-    },
-    {
-      "added_at": "2022-12-07 04:04:10",
-      "album": {
-        "name": "head down",
-        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
-      },
-      "artists": [
-        {
-          "name": "Habe",
-          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
-        }
-      ],
-      "duration_ms": 148304,
-      "name": "head down",
-      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
     },
     {
+      "added_at": "2022-02-09 03:25:54",
+      "album": {
+        "name": "Drifting Out EP",
+        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 219312,
+      "name": "Drifting Out",
+      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Modern World",
@@ -1615,22 +1631,6 @@
       "duration_ms": 246631,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/38N4yGHfwByW1BjKBp6FMk"
-    },
-    {
-      "added_at": "2022-02-09 03:25:54",
-      "album": {
-        "name": "Drifting Out EP",
-        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 219312,
-      "name": "Drifting Out",
-      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
     },
     {
       "added_at": "2022-04-08 19:23:51",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Under Darkening Skies",
-        "url": "https://open.spotify.com/album/3YCZyxDxBnFt4x3eYGYHFv"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 277608,
-      "name": "Harlem River",
-      "url": "https://open.spotify.com/track/4xv8NEU2gJ0Ud3PZZJgh59"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Tru Love",
         "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 198084,
       "name": "Tru Love",
       "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Under Darkening Skies",
+        "url": "https://open.spotify.com/album/3YCZyxDxBnFt4x3eYGYHFv"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 277608,
+      "name": "Harlem River",
+      "url": "https://open.spotify.com/track/4xv8NEU2gJ0Ud3PZZJgh59"
     }
   ],
   "unique_name": "Soft Office",

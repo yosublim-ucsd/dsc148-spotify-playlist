@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 22080,
+  "num_followers": 22081,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTdmNTA0ZTQ0ZWRkYzBjMjliZjgwYzZmMDRjOGQzNmI1MzQ1NDMy",
+  "snapshot_id": "MCxlNzhhNTA3Y2VlZDc4ZGFkNGE1ZWZkYjAwMjRhM2U1OGQ4NzUwODM2",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Indie Rockera",
+        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
+      },
+      "artists": [
+        {
+          "name": "Tobias Indigo",
+          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Indie Rockera",
+      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Rojo",
         "url": "https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 173313,
       "name": "Antes de que Olvide",
       "url": "https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Indie Rockera",
-        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
-      },
-      "artists": [
-        {
-          "name": "Tobias Indigo",
-          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Indie Rockera",
-      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Corriendo",
-        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
-      },
-      "artists": [
-        {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
-        }
-      ],
-      "duration_ms": 159576,
-      "name": "Corriendo",
-      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Ochocientos Envolventes al Sol",
         "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 250517,
       "name": "800 Vueltas Envolventes",
       "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Corriendo",
+        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
+      },
+      "artists": [
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+        }
+      ],
+      "duration_ms": 159576,
+      "name": "Corriendo",
+      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1003,6 +1003,38 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Amor Express",
+        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
+      },
+      "artists": [
+        {
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+        }
+      ],
+      "duration_ms": 214409,
+      "name": "Amor Express",
+      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Comprensi\u00f3n1",
+        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 145407,
+      "name": "5A",
+      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/69ZNrQXyGpwQ4kp6DUquQS"
       },
@@ -1027,38 +1059,6 @@
       "duration_ms": 270566,
       "name": "Crucificame",
       "url": "https://open.spotify.com/track/4XsxZlFTmhXH3NssKrRTSu"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Comprensi\u00f3n1",
-        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 145407,
-      "name": "5A",
-      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Amor Express",
-        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
-      },
-      "artists": [
-        {
-          "name": "Andry Bett",
-          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
-        }
-      ],
-      "duration_ms": 214409,
-      "name": "Amor Express",
-      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "SUELO",
-        "url": "https://open.spotify.com/album/7J6hemedekIrdBl2KlqmwM"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 169387,
-      "name": "SUELO",
-      "url": "https://open.spotify.com/track/2AsG5SNToRkg80eFb5Z5Hb"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Mala (Edici\u00f3n Mal\u00edsima)",
         "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 220473,
       "name": "Haku - Bonus Track",
       "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "SUELO",
+        "url": "https://open.spotify.com/album/7J6hemedekIrdBl2KlqmwM"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 169387,
+      "name": "SUELO",
+      "url": "https://open.spotify.com/track/2AsG5SNToRkg80eFb5Z5Hb"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Razon",
-        "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
-      },
-      "artists": [
-        {
-          "name": "Francisco Bochat\u00f3n",
-          "url": "https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS"
-        }
-      ],
-      "duration_ms": 179658,
-      "name": "Raz\u00f3n",
-      "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Tranki Town",
         "url": "https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 233671,
       "name": "La Poesia Intermitente",
       "url": "https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Razon",
+        "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
+      },
+      "artists": [
+        {
+          "name": "Francisco Bochat\u00f3n",
+          "url": "https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS"
+        }
+      ],
+      "duration_ms": 179658,
+      "name": "Raz\u00f3n",
+      "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Esp\u00eda del Arte",
-        "url": "https://open.spotify.com/album/1QeQK6Vtgd9OIdZS1hEATg"
-      },
-      "artists": [
-        {
-          "name": "La Vida en Familia",
-          "url": "https://open.spotify.com/artist/7DEnD46VUEAYgm9Bftv8oL"
-        }
-      ],
-      "duration_ms": 290458,
-      "name": "Esp\u00eda del Arte",
-      "url": "https://open.spotify.com/track/6gPUedPLsF7taEAWvgJEal"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Curriculum Completo",
         "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Esp\u00eda del Arte",
+        "url": "https://open.spotify.com/album/1QeQK6Vtgd9OIdZS1hEATg"
+      },
+      "artists": [
+        {
+          "name": "La Vida en Familia",
+          "url": "https://open.spotify.com/artist/7DEnD46VUEAYgm9Bftv8oL"
+        }
+      ],
+      "duration_ms": 290458,
+      "name": "Esp\u00eda del Arte",
+      "url": "https://open.spotify.com/track/6gPUedPLsF7taEAWvgJEal"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Promesas",
         "url": "https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB"
       },
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Psicodelia arbolera",
-        "url": "https://open.spotify.com/album/2JDPqOcPBNk2Y3lfTqLu9k"
-      },
-      "artists": [
-        {
-          "name": "\u00c1rbol",
-          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
-        }
-      ],
-      "duration_ms": 248808,
-      "name": "Psicodelia arbolera",
-      "url": "https://open.spotify.com/track/1rAbshnvEsArNPwW4vUR1L"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Promesa",
         "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 208689,
       "name": "Promesa",
       "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Psicodelia arbolera",
+        "url": "https://open.spotify.com/album/2JDPqOcPBNk2Y3lfTqLu9k"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+        }
+      ],
+      "duration_ms": 248808,
+      "name": "Psicodelia arbolera",
+      "url": "https://open.spotify.com/track/1rAbshnvEsArNPwW4vUR1L"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "\u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/6KaDzlbouoNjT5ukVF7MRA"
+      },
+      "artists": [
+        {
+          "name": "Alem",
+          "url": "https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "\u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/6sLMcDjjJYW1r78cxQT2hg"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Mi Generaci\u00f3n",
         "url": "https://open.spotify.com/album/5cfherksWvvP9ou8gMS8dj"
       },
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "\u00bfPara Qu\u00e9?",
-        "url": "https://open.spotify.com/album/6KaDzlbouoNjT5ukVF7MRA"
-      },
-      "artists": [
-        {
-          "name": "Alem",
-          "url": "https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "\u00bfPara Qu\u00e9?",
-      "url": "https://open.spotify.com/track/6sLMcDjjJYW1r78cxQT2hg"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Ceremonia",
         "url": "https://open.spotify.com/album/516TbYe7ZRYOyFxkhTnq1J"
       },
@@ -1519,26 +1519,6 @@
       "duration_ms": 194937,
       "name": "Ceremonia",
       "url": "https://open.spotify.com/track/5YnCVGrhkkCjh23v2c8Bld"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Si No Hubiera Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4"
-      },
-      "artists": [
-        {
-          "name": "GULI",
-          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
-        },
-        {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "Conf\u00edn Dorado",
-      "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1559,6 +1539,22 @@
       "duration_ms": 255897,
       "name": "Espejo",
       "url": "https://open.spotify.com/track/32VI35kNjDYQhtryCeBv0y"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "LA ARA\u00d1A",
+        "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "duration_ms": 208962,
+      "name": "LA ARA\u00d1A",
+      "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
     }
   ],
   "unique_name": "6PM Indie",

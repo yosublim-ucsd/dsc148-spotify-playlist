@@ -4,7 +4,7 @@
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-60 songs - 5 hr 10 min
+61 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Fala Jesus Querido](https://open.spotify.com/track/5hGUUFuZ4OfGTbpVJrYE1o) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 7:13 | 2023-07-09 |  |
 | [Faça a diferença](https://open.spotify.com/track/5jqhsYvka1SpClRNjTwIy9) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Seleção Essencial \- Grandes Sucessos \- Cassiane](https://open.spotify.com/album/6Z0LRoCexkdlVof1Qo0Axn) | 4:36 | 2023-07-09 |  |
 | [Forte Campeão](https://open.spotify.com/track/46yEehuyQ361ecO1zjaRIP) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 5:15 | 2023-07-09 |  |
+| [Grato a Ti](https://open.spotify.com/track/3cyYp8qxwUU1lV4HIzpV9X) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 4:25 | 2024-04-05 |  |
 | [Hino da Vitória](https://open.spotify.com/track/2MHtGSaW12T738131nTj0d) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:47 | 2023-07-09 |  |
 | [Identidade](https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Identidade](https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm) | 4:35 | 2023-07-09 |  |
 | [Imagine](https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sem Palavras](https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd) | 4:49 | 2023-07-09 |  |
@@ -40,7 +41,7 @@
 | [Minha Bênção](https://open.spotify.com/track/5SS4AAEBMOMVGJTlKS7Hnw) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 4:20 | 2023-07-09 |  |
 | [Não Abro Mão \(Ao Vivo\)](https://open.spotify.com/track/1TGWFsVx97mxmo247s5pj3) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Lauriete](https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e) | [Não Abro Mão \(Ao Vivo\)](https://open.spotify.com/album/0XHjlbrPHz5B7CvtyUuVDh) | 4:31 | 2023-07-25 | 2023-08-05 |
 | [Não Negue a Jesus](https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:21 | 2023-07-09 | 2024-03-26 |
-| [Não Negue a Jesus / Com Cristo é Vencer / Contigo Está](https://open.spotify.com/track/592T41GMbnMvSVb9XpeEGe) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [25 Anos de Muito Louvor](https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A) | 4:17 | 2024-03-25 |  |
+| [Não Negue a Jesus / Com Cristo é Vencer / Contigo Está](https://open.spotify.com/track/592T41GMbnMvSVb9XpeEGe) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [25 Anos de Muito Louvor](https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A) | 4:17 | 2024-03-25 | 2024-04-05 |
 | [Não Pare Agora](https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Pare Agora](https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp) | 4:29 | 2023-07-09 |  |
 | [Não Posso Desistir](https://open.spotify.com/track/2cgCsP1m4K4tilrfRw9nM3) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Posso Desistir](https://open.spotify.com/album/0nuJ9Ohww9T23k3MDESFg3) | 3:36 | 2023-07-09 | 2023-12-14 |
 | [Não Reclame](https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 4:26 | 2023-07-09 |  |

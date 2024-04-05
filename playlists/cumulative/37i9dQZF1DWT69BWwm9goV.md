@@ -4,7 +4,7 @@
 
 > A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists\. Cover: Tate McRae
 
-23 songs - 1 hr 4 min
+24 songs - 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Camelot](https://open.spotify.com/track/44sYqNBttbXNxya33FJ3Dj) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Top Shotta](https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf) | 2:28 | 2024-04-02 |  |
 | [club heaven \- Live from Spotify Green Screen](https://open.spotify.com/track/3AaRTY18Q5ETuYoQ2wLXDP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [club heaven \(Live from Spotify Green Screen\)](https://open.spotify.com/album/1fe3shDrSWQXIwf32qLFiY) | 2:28 | 2024-04-02 |  |
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2024-04-02 |  |
+| [Cowboy In An Escalade \(Spotify OUTSIDE Version\) \- Live From West Columbia, TX](https://open.spotify.com/track/1w35Va648auSiXaTgimWj0) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Cowboy In A Escalade \(Spotify OUTSIDE Version\) \[Live From West Columbia, TX\]](https://open.spotify.com/album/4QsqH6RBbMl6OgB47gRc1t) | 2:02 | 2024-04-04 |  |
 | [die first](https://open.spotify.com/track/3TfDUStpnEVIlsNlgcKQgJ) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:57 | 2024-04-02 |  |
 | [Donde Estás \- Live from Spotify Green Screen](https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Donde Estás \- Live from Spotify Green Screen](https://open.spotify.com/album/7ldQ6NFWnHHiuxsbNYZWbS) | 3:12 | 2024-04-02 |  |
 | [estella//](https://open.spotify.com/track/3emo5sUq2OwBctNgX0NMEV) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 1:58 | 2024-04-02 |  |

@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-173 songs - 10 hr 51 min
+175 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 | 2020-08-11 |  |
 | [Death Letter](https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Covered Tracks: Vol\. 2](https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K) | 4:23 | 2021-06-04 |  |
 | [Death Letter](https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Forever On My Mind](https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9) | 5:51 | 2022-03-18 |  |
-| [Death Row](https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Gone to Texas](https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ) | 4:07 | 2020-08-11 |  |
+| [Death Row](https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Gone to Texas](https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ) | 4:07 | 2020-08-11 | 2024-04-05 |
+| [Death Row](https://open.spotify.com/track/7IPJ7HAM4AhEWl3rcqKTFV) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Gone to Texas](https://open.spotify.com/album/1ycHUFaT23s3xyMfD6aA0o) | 4:07 | 2020-08-11 |  |
 | [Deep River Blues](https://open.spotify.com/track/4PvPkRcbnO4s67MPnij3sh) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Doc Watson](https://open.spotify.com/album/5utfrn0rGdeOC9MO2xCI6r) | 3:12 | 2020-08-11 |  |
 | [Delta Getaway](https://open.spotify.com/track/5suBKFfUnbSDujh14lmxT0) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Migration Blues](https://open.spotify.com/album/6zGiiAgHy41gVLOkhub2at) | 2:38 | 2020-08-11 |  |
 | [Delta Getaway](https://open.spotify.com/track/6puSbCX17EbrpJu0mIhUpw) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Migration Blues](https://open.spotify.com/album/3GUjuuxc6SUovceRCUngc2) | 2:38 | 2020-08-11 | 2022-07-29 |
@@ -94,7 +95,8 @@
 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/5LTMzb6lrWkdgNl4CNwfwx) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Between Midnight And Day](https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED) | 2:54 | 2020-08-11 |  |
 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/08CShCm5L8jopYYkpF6bVY) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Alligator Records 35th Anniversary Collection](https://open.spotify.com/album/5oNBMrK7Upa0tbWsmlDQAt) | 2:55 | 2020-08-11 | 2022-11-13 |
 | [Lead Me On](https://open.spotify.com/track/6i7pokV2JiF1et71olScGO) | [Kelly Joe Phelps](https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF) | [Lead Me On \(15 Year Anniversary Edition\)](https://open.spotify.com/album/4YQ7qU3Se2TBdFg7FpROPs) | 4:47 | 2020-08-11 |  |
-| [Let's Have Some Fun](https://open.spotify.com/track/4krvAl6zfhfDfWL1KdvQAa) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Black Wind Howlin'](https://open.spotify.com/album/7iVYk6SKIzwsUf11kxoNS6) | 4:27 | 2020-08-11 |  |
+| [Let's Have Some Fun](https://open.spotify.com/track/3tgNmSy9B0XZLTwH5NZ36T) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Black Wind Howlin'](https://open.spotify.com/album/1FI8XKJnQQeETxuJwP4ZCO) | 4:27 | 2020-08-11 |  |
+| [Let's Have Some Fun](https://open.spotify.com/track/4krvAl6zfhfDfWL1KdvQAa) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Black Wind Howlin'](https://open.spotify.com/album/7iVYk6SKIzwsUf11kxoNS6) | 4:27 | 2020-08-11 | 2024-04-05 |
 | [Letter from Bluewater Man](https://open.spotify.com/track/0vsJuXrbsAhoLmvpfb1T44) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Letter from Bluewater Man](https://open.spotify.com/album/1SwZd4wIIN6tAMs0vPEMJK) | 2:24 | 2021-08-20 | 2022-11-30 |
 | [Letter from Bluewater Man](https://open.spotify.com/track/5jl5jAMyWpkR4lEkAGnTXX) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Letter from Bluewater Man](https://open.spotify.com/album/3iTXLRbWXRvuNgfJPkoMOh) | 2:24 | 2021-08-20 |  |
 | [Life by the Drop](https://open.spotify.com/track/1cyftogE58xHzSgb77zcsn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 2:27 | 2020-08-11 |  |

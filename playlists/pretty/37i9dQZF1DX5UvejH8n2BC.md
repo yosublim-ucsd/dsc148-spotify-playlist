@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 
 > Female artists of Philadelphia International Records which is especially known for Philly Soul\. Cover: The Jones Girls:
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,970 likes - 32 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,023 likes - 32 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 31 | [You Are My Friend](https://open.spotify.com/track/7sFyB4BNNfyIwB4CtWEBMh) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Patti Labelle \(Expanded Edition\)](https://open.spotify.com/album/1KvfHKLbfIbVYtHyyHbZ8u) | 4:36 |
 | 32 | [What You Won't Do for Love](https://open.spotify.com/track/7Cw9qRzAA9RMH4DxMkg6pr) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:02 |
 
-Snapshot ID: `MCxkMzhjNjM1NDgwMDYzMjA0OGFkOTg3ZjliNGE2MzU0NTZiNTgyNTVi`
+Snapshot ID: `MCwyMDY0YTRkNWZhZjQxNWQzNjVkYjcyN2M1YTNkMzc0NjQ1MTczNTc0`

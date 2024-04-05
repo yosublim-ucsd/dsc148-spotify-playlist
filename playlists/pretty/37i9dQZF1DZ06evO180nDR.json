@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 26618,
+  "num_followers": 26634,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGUwOTY4ZDIwZGUzYjY1OWJjMmFhYmY4ZjkzN2M2NDQzMGQxZDk5",
+  "snapshot_id": "MCxhMTFmNzNkNWVhOWQ4ZTc1NTk5NGY2OTE5ZmY1ZWYzYzMyYmMwOGYz",
   "tracks": [
     {
       "added_at": null,
@@ -599,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Due\u00f1a De Mi Vida",
-        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
+        "name": "La Mercedes Cuadradita (En Vivo)",
+        "url": "https://open.spotify.com/album/77qwbVpJge8AbCHu0OPIoq"
       },
       "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 209920,
-      "name": "La Mas Bonita De Todas",
-      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
+      "duration_ms": 155280,
+      "name": "La Mercedes Cuadradita (En Vivo)",
+      "url": "https://open.spotify.com/track/3f6tKxLFAOtpo5dJ4Fv9hY"
     },
     {
       "added_at": null,
@@ -631,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Due\u00f1a De Mi Vida",
+        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "La Mas Bonita De Todas",
+      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Una Virgencita",
         "url": "https://open.spotify.com/album/6kkPDjyWenV0Ai1hVFOrRn"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 167464,
       "name": "Una Virgencita",
       "url": "https://open.spotify.com/track/2B3F5gK9iC8VEYG8Xi6kp0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Mercedes Cuadradita (En Vivo)",
-        "url": "https://open.spotify.com/album/77qwbVpJge8AbCHu0OPIoq"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 155280,
-      "name": "La Mercedes Cuadradita (En Vivo)",
-      "url": "https://open.spotify.com/track/3f6tKxLFAOtpo5dJ4Fv9hY"
     },
     {
       "added_at": null,
@@ -843,6 +843,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Equipo del Terror",
+        "url": "https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI"
+      },
+      "artists": [
+        {
+          "name": "Betillo Guerrero",
+          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 204313,
+      "name": "El Equipo del Terror",
+      "url": "https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Principio Y El Fin",
         "url": "https://open.spotify.com/album/2FR5MC8QeTPajOyC3XajyH"
       },
@@ -879,22 +899,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Equipo del Terror",
-        "url": "https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI"
+        "name": "En La Mira",
+        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
       },
       "artists": [
-        {
-          "name": "Betillo Guerrero",
-          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
-        },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 204313,
-      "name": "El Equipo del Terror",
-      "url": "https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe"
+      "duration_ms": 222293,
+      "name": "Sentimiento De Dolor",
+      "url": "https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B"
     },
     {
       "added_at": null,
@@ -911,22 +927,6 @@
       "duration_ms": 175840,
       "name": "El Jabali - Huapango Version",
       "url": "https://open.spotify.com/track/3HztqhFkIjy8Jf48FOKDJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En La Mira",
-        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Sentimiento De Dolor",
-      "url": "https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B"
     },
     {
       "added_at": null,
@@ -967,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dichos Y Grandes",
-        "url": "https://open.spotify.com/album/7p1p2zwwgFzmuky82s7URf"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 198437,
-      "name": "Dichos Y Grandes",
-      "url": "https://open.spotify.com/track/6N9UZ5TbSrs9V6RGa9uv2V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En La Mira",
         "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 255133,
       "name": "Luz De D\u00eda",
       "url": "https://open.spotify.com/track/0gv3VPyYaR5lxtpkgJayKD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dichos Y Grandes",
+        "url": "https://open.spotify.com/album/7p1p2zwwgFzmuky82s7URf"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 198437,
+      "name": "Dichos Y Grandes",
+      "url": "https://open.spotify.com/track/6N9UZ5TbSrs9V6RGa9uv2V"
     },
     {
       "added_at": null,

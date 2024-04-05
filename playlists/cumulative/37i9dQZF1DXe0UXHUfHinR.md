@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-711 songs - 2 day 8 hr 8 min
+712 songs - 2 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Everytime We Say Goodbye](https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 6:01 | 2022-10-27 |  |
 | [Excerpts From The Blues](https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 3:04 | 2022-10-27 |  |
 | [Exit Music](https://open.spotify.com/track/73ik3a517Lz2W7eLWejapJ) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Songs: The Art of the Trio, Vol\. 3](https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9) | 4:23 | 2023-01-03 |  |
-| [Fair Weather \- Remastered](https://open.spotify.com/track/3X3p3u03P8eFL8WTH0oaaU) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Modern Art](https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6) | 5:44 | 2023-12-14 |  |
+| [Fair Weather \- Remastered](https://open.spotify.com/track/3X3p3u03P8eFL8WTH0oaaU) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Modern Art](https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6) | 5:44 | 2023-12-14 | 2024-04-05 |
 | [Fantastic, That's You](https://open.spotify.com/track/0JUg0sZeed300oK3FIP4Ak) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Once Upon A Time](https://open.spotify.com/album/2z9eYLpgriuyG2ubLEpsRY) | 4:10 | 2024-01-18 |  |
 | [Favela \- Remastered](https://open.spotify.com/track/13Y8guAjsfss2WPIINuoYd) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 4:00 | 2022-10-27 |  |
 | [Felicidade](https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Double Rainbow](https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH) | 4:44 | 2023-08-30 | 2023-09-21 |
@@ -347,6 +347,7 @@
 | [Joy Spring](https://open.spotify.com/track/0sQ9ee2jJNTQgjy55Pse5H) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [The Best Of Clifford Brown](https://open.spotify.com/album/0oWFL44UweyyQSawMSHA4L) | 3:18 | 2022-10-27 |  |
 | [Joy Spring](https://open.spotify.com/track/2oMaXY0yiWhAEWD7SutXh2) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 6:50 | 2022-10-27 |  |
 | [Just Between Us](https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Between Us](https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5) | 5:08 | 2022-10-27 |  |
+| [Just Friends](https://open.spotify.com/track/4szMJBXAahLQ3yhLZhKOUE) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:31 | 2024-03-20 |  |
 | [Just Friends](https://open.spotify.com/track/6RqomqKVORIwNJCKNxvc3F) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [After Hours](https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef) | 3:01 | 2022-12-07 | 2023-10-11 |
 | [Just The Way You Are](https://open.spotify.com/track/1GGK81j5LaThJjnJHhfGDq) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Live In Paris](https://open.spotify.com/album/5VarMGaR1VFP4vlmzZsKgV) | 5:00 | 2022-10-27 |  |
 | [Kathy's Waltz](https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 4:47 | 2022-10-27 |  |

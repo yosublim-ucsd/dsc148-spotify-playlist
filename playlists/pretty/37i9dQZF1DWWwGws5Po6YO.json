@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 35049,
+  "num_followers": 35066,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmE1ODkxNzg4NzE3Y2JkMTExNWY3MWRiMGIzZGFkODY5NGIxZTQ1",
+  "snapshot_id": "MCw0OWMxNDJhYWNkYjM3NzY2YTk2NjgzYTU4Njk1NGJjZmU0MzE4MGFm",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:07",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Raw Silk Uncut Wood",
-        "url": "https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY"
+        "name": "The Sacrificial Code",
+        "url": "https://open.spotify.com/album/5Hyb3LlbP8DIVP4zsMOwlw"
       },
       "artists": [
         {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
         }
       ],
-      "duration_ms": 600386,
-      "name": "Raw Silk Uncut Wood",
-      "url": "https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl"
+      "duration_ms": 653904,
+      "name": "Spectacle Of Ritual",
+      "url": "https://open.spotify.com/track/2BqFBCxmlTAYLklSuyWi7y"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+        "name": "Raw Silk Uncut Wood",
+        "url": "https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY"
       },
       "artists": [
         {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
         }
       ],
-      "duration_ms": 164000,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz"
+      "duration_ms": 600386,
+      "name": "Raw Silk Uncut Wood",
+      "url": "https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Night Journeys",
         "url": "https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 186600,
       "name": "Night Journeys I",
       "url": "https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "The Sacrificial Code",
-        "url": "https://open.spotify.com/album/5Hyb3LlbP8DIVP4zsMOwlw"
-      },
-      "artists": [
-        {
-          "name": "Kali Malone",
-          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
-        }
-      ],
-      "duration_ms": 653904,
-      "name": "Spectacle Of Ritual",
-      "url": "https://open.spotify.com/track/2BqFBCxmlTAYLklSuyWi7y"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Absolution",
-      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Big Room",
         "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 436776,
       "name": "Night Journeys II",
       "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Antiphonals",
-        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 394863,
-      "name": "Rushes Recede",
-      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Memories of Log",
         "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 400248,
       "name": "Falling Water Lullaby",
       "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Antiphonals",
+        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 394863,
+      "name": "Rushes Recede",
+      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "A Mythology of Circles",
-        "url": "https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG"
-      },
-      "artists": [
-        {
-          "name": "Faten Kanaan",
-          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
-        }
-      ],
-      "duration_ms": 251887,
-      "name": "The North Wind",
-      "url": "https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Welfare / Practice",
         "url": "https://open.spotify.com/album/1O05SuJmpU1j9PtraWRaXc"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Hill, Flower, Fog",
-        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
+        "name": "A Mythology of Circles",
+        "url": "https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG"
       },
       "artists": [
         {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+          "name": "Faten Kanaan",
+          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
         }
       ],
-      "duration_ms": 347680,
-      "name": "Moon View",
-      "url": "https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8"
+      "duration_ms": 251887,
+      "name": "The North Wind",
+      "url": "https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1039,6 +1023,22 @@
       "duration_ms": 381496,
       "name": "Composition Of Flowers (Excerpt)",
       "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Hill, Flower, Fog",
+        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 347680,
+      "name": "Moon View",
+      "url": "https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "You Make It Look so Easy (Reverbed by Malibu)",
         "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 239232,
       "name": "You Make It Look so Easy - Reverbed by Malibu",
       "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Sketch for Winter IX: Perlita",
-        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
-      },
-      "artists": [
-        {
-          "name": "Carmen Villain",
-          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
-        }
-      ],
-      "duration_ms": 266057,
-      "name": "Light in Phases",
-      "url": "https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "I'll Look For You In Others",
         "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 393479,
       "name": "I'll Look for You in Others",
       "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Sketch for Winter IX: Perlita",
+        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
+      },
+      "artists": [
+        {
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
+        }
+      ],
+      "duration_ms": 266057,
+      "name": "Light in Phases",
+      "url": "https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin"
     },
     {
       "added_at": "2023-09-08 14:04:07",

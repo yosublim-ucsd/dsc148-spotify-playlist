@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-522 songs - 1 day 2 hr 43 min
+523 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Alone](https://open.spotify.com/track/1HynKU9h7mM3nhtLlnVDFu) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Alone](https://open.spotify.com/album/6lfzz0LHtj7dVCeidrcGoX) | 2:37 | 2022-12-09 | 2023-04-28 |
 | [Alone](https://open.spotify.com/track/1OZLLfRrvELLaTowXNsg30) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [SGAR](https://open.spotify.com/artist/3HhCTUgUQh6tLfQAqCTEmm) | [Alone](https://open.spotify.com/album/4ndufOeALEZHWH2LfvWFQ0) | 3:50 | 2024-02-08 |  |
 | [Alone](https://open.spotify.com/track/4kvIwyqoAVaho3Ea7feClh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 3:34 | 2022-05-19 | 2023-04-28 |
+| [Along Your Way](https://open.spotify.com/track/2djlVRaQK1zPwUBYFoTOgl) | [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc), [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh) | [Along Your Way](https://open.spotify.com/album/632FZyDyOX2WScV3RK5bWd) | 4:20 | 2024-04-04 |  |
 | [Alright](https://open.spotify.com/track/2pgcIWzePTTC2a99dRrTzd) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Sync](https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13), [Marky Style](https://open.spotify.com/artist/30rdwRJSoSZicHb4xOCrme) | [Alright](https://open.spotify.com/album/0UQjd1grnKWmHS6OFY1Qqh) | 3:14 | 2024-01-09 |  |
 | [Annabelle's Tea Party](https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Annabelle's Tea Party](https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24) | 3:08 | 2022-10-28 | 2023-04-28 |
 | [apart](https://open.spotify.com/track/0513aRXknqqlp96VbKLkL7) | [sumu](https://open.spotify.com/artist/3VJrstLqhMNsvGJ7wpScsB) | [apart](https://open.spotify.com/album/6KQ2yhVXzGlaajA8OctQq7) | 2:22 | 2024-02-27 |  |

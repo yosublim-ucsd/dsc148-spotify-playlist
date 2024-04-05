@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Royel Otis",
+  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Big Special",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -64,7 +64,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 201667,
       "name": "Act Of God",
       "url": "https://open.spotify.com/track/4txZfRFchA3Ry0qfDGKrEQ"
@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 200320,
       "name": "Adios",
       "url": "https://open.spotify.com/track/1hKbnXEH8nAJlVpG9mtadI"
@@ -288,6 +288,24 @@
       "duration_ms": 167312,
       "name": "Beautiful People (Stay High)",
       "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
+    },
+    {
+      "album": {
+        "name": "BLACK DOG / WHITE HORSE (bd/wh)",
+        "url": "https://open.spotify.com/album/1ocPyuuqpJiFvNJ4j8E66d"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188721,
+      "name": "BLACK DOG / WHITE HORSE - bd/wh",
+      "url": "https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz"
     },
     {
       "album": {
@@ -844,7 +862,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 155733,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
@@ -1154,6 +1172,42 @@
       "duration_ms": 249586,
       "name": "Gift Horse",
       "url": "https://open.spotify.com/track/67CrKLE8d3Qhm4gcltiKs1"
+    },
+    {
+      "album": {
+        "name": "Real Power",
+        "url": "https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175117,
+      "name": "Give It Up For Love",
+      "url": "https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI"
+    },
+    {
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/0OnblvmyOmNIlMGL6rxLWx"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186466,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/5HuLnaRoHZTcgu2GMAbLGJ"
     },
     {
       "album": {
@@ -1867,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194731,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
+    },
+    {
+      "album": {
         "name": "My Best Friend",
         "url": "https://open.spotify.com/album/5eZNZwivm3Ux6EHvLfK3ba"
       },
@@ -2116,7 +2188,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 200466,
       "name": "Out Loud",
       "url": "https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO"
@@ -2152,7 +2224,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 278400,
       "name": "Peace Sign",
       "url": "https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa"
@@ -2684,6 +2756,24 @@
       "duration_ms": 248760,
       "name": "STFU",
       "url": "https://open.spotify.com/track/2joicPcq4DNcgO5NedEsNW"
+    },
+    {
+      "album": {
+        "name": "Strawberry Moon",
+        "url": "https://open.spotify.com/album/5y9kYsejqeHvrNXUNLksvU"
+      },
+      "artists": [
+        {
+          "name": "Arab Strap",
+          "url": "https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222524,
+      "name": "Strawberry Moon",
+      "url": "https://open.spotify.com/track/10BKuJBnCHqUWbPgTjo8s0"
     },
     {
       "album": {

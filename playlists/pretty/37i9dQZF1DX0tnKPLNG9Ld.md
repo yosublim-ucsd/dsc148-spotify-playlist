@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,553 likes - 87 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,623 likes - 87 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 20 | [All Of Me](https://open.spotify.com/track/0qZo9OzKPzg58Ts9ad4Bcy) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Swings Gently With Nelson](https://open.spotify.com/album/1aJEGozkrvANT0vJ7AmeWG) | 3:22 |
 | 21 | [Cheek To Cheek](https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 3:58 |
 | 22 | [As Long As I'm In Your Arms](https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 1:58 |
-| 23 | [Bossa Antigua](https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:42 |
-| 24 | [Alright, Okay, You Win](https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:02 |
+| 23 | [Alright, Okay, You Win](https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:02 |
+| 24 | [Bossa Antigua](https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:42 |
 | 25 | [C'est Magnifique \- Remastered](https://open.spotify.com/track/6ghdeAG64RBwahVxWzj9sa) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Movin' On Broadway](https://open.spotify.com/album/0H3fpfEvApgmSPp8qivyOQ) | 2:19 |
 | 26 | [Beautiful Love](https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 2:40 |
 | 27 | [\(How Little It Matters\) How Little We Know](https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Witchcraft](https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH) | 2:36 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 69 | [Give Me The Simple Life](https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie..\. At Home](https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0) | 2:05 |
 | 70 | [Woman's Got Soul](https://open.spotify.com/track/6EHJcbjjFtukS3aIwnynqM) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra](https://open.spotify.com/album/4tCP6ZGeKDOhlhtl1bcoVA) | 2:22 |
 | 71 | [On a Clear Day](https://open.spotify.com/track/79OtkmhkIGwAvK6Cc7jc1J) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Adonis Rose](https://open.spotify.com/artist/5xNCQCeanWkWyBKoGXET9y), [New Orleans Jazz Orchestra](https://open.spotify.com/artist/6OcKkFl60cJU7Tmru46mMK) | [Petite Fleur](https://open.spotify.com/album/0NuIQgu6wfFEQ7gyKsgnh2) | 3:48 |
-| 72 | [Jive At Six](https://open.spotify.com/track/21UJyo1YGUlm0G8BpaljTf) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 4:11 |
-| 73 | [People Will Say We're In Love](https://open.spotify.com/track/2aFhRDBzWZd1KG0OJ8caM4) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 3:16 |
+| 72 | [People Will Say We're In Love](https://open.spotify.com/track/2aFhRDBzWZd1KG0OJ8caM4) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 3:16 |
+| 73 | [Jive At Six](https://open.spotify.com/track/21UJyo1YGUlm0G8BpaljTf) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 4:11 |
 | 74 | [If I Were a Bell \- 2004 Remaster](https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Shirley / Let's Face the Music](https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6) | 2:54 |
 | 75 | [Sometimes I'm Happy](https://open.spotify.com/track/1aNyLvKxlaRcHq8qswscdo) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Jazz Abroad](https://open.spotify.com/album/1DWLdf4OEK96kgNNozY1i0) | 5:51 |
 | 76 | [Between The Devil And The Deep Blue Sea](https://open.spotify.com/track/6INVoNpTuZ2Uqi588Y5Fi2) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Whisper For You](https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7) | 2:26 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 86 | [The Song Is You](https://open.spotify.com/track/3Cm5dmc7D8b49sa567pQwX) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Buddy Bregman](https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs) | [Bing Sings Whilst Bregman Swings](https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY) | 3:54 |
 | 87 | [Lullaby of Birdland](https://open.spotify.com/track/5EnAlrMmygDNpm6ReZC3ED) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Jazz Voices](https://open.spotify.com/album/635hnlkrA2VznGlaSHv4eT) | 2:29 |
 
-Snapshot ID: `MCwwNjk5MGNjNDcxYWEyYzM0ZTBmN2VmNWU1NGUyMjIxMDMzNTZiZGY1`
+Snapshot ID: `MCxkZDA4ZGY2Y2Y3MDFlYzU1NjhkOTViYjgyYjE1Mzk0Y2FiMmE2ZGEw`

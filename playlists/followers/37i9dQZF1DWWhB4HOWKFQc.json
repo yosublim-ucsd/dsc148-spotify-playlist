@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 1264960,
+  "2024-04-05": 1265793,
   "date_first_scraped": "2023-03-26",
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Adrian Khalif, Juicy Luicy",
   "name": "Lagi Viral",
@@ -2320,6 +2320,24 @@
     },
     {
       "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
+    },
+    {
+      "album": {
         "name": "From The Start",
         "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
       },
@@ -2706,6 +2724,24 @@
     },
     {
       "album": {
+        "name": "Wish You Hell - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184053,
+      "name": "His Car Isn't Yours",
+      "url": "https://open.spotify.com/track/5cvwFPDokfdI6T7O0HgzuM"
+    },
+    {
+      "album": {
         "name": "Midnights (The Til Dawn Edition)",
         "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
       },
@@ -2721,6 +2757,24 @@
       "duration_ms": 234466,
       "name": "Hits Different",
       "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
+    },
+    {
+      "album": {
+        "name": "hold me tight",
+        "url": "https://open.spotify.com/album/2jJOkzVvP8iEFYjfl6qLeA"
+      },
+      "artists": [
+        {
+          "name": "Skyline",
+          "url": "https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191020,
+      "name": "hold me tight",
+      "url": "https://open.spotify.com/track/5vMYg1wLg1ZK5vOweoRorf"
     },
     {
       "album": {
@@ -4694,6 +4748,24 @@
     },
     {
       "album": {
+        "name": "Nikmati Perjalanannya",
+        "url": "https://open.spotify.com/album/5oAaVT1eCNMDDDECL2dxHd"
+      },
+      "artists": [
+        {
+          "name": "Chintya Gabriella",
+          "url": "https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201943,
+      "name": "Nikmati Perjalanannya",
+      "url": "https://open.spotify.com/track/7GEct8saqLf7ldt1g2HRTA"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -5892,6 +5964,24 @@
     },
     {
       "album": {
+        "name": "Sadrah",
+        "url": "https://open.spotify.com/album/2w4AJncxdhdz2MIsBXgbyq"
+      },
+      "artists": [
+        {
+          "name": "For Revenge",
+          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247007,
+      "name": "Sadrah",
+      "url": "https://open.spotify.com/track/33UIshRVxXEBzITjCzo6al"
+    },
+    {
+      "album": {
         "name": "SAH",
         "url": "https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX"
       },
@@ -6073,6 +6163,24 @@
       "duration_ms": 256000,
       "name": "seasons",
       "url": "https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh"
+    },
+    {
+      "album": {
+        "name": "Sebelum Lebih Jauh",
+        "url": "https://open.spotify.com/album/514CCr4L0iL10TRUKiezXK"
+      },
+      "artists": [
+        {
+          "name": "GITA",
+          "url": "https://open.spotify.com/artist/4Bj2N0TMyyM7lGyEgZz93Q"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "Sebelum Lebih Jauh",
+      "url": "https://open.spotify.com/track/5FNBMEO1xndHq3Jyh3oBTU"
     },
     {
       "album": {
@@ -7302,6 +7410,24 @@
     },
     {
       "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235506,
+      "name": "Tell Me It's Not a Dream",
+      "url": "https://open.spotify.com/track/7nxoUuqcsDfv3PsPGeciWy"
+    },
+    {
+      "album": {
         "name": "Krisis Seperempat Dewasa",
         "url": "https://open.spotify.com/album/3KI6xFkUSU1nXf5eBeniYG"
       },
@@ -7501,6 +7627,28 @@
       "duration_ms": 131612,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/2jNsRYnDMN7408HUtAwAKV"
+    },
+    {
+      "album": {
+        "name": "The Way You Look At Me",
+        "url": "https://open.spotify.com/album/7IsX0Gy9v558vLczlUVqe5"
+      },
+      "artists": [
+        {
+          "name": "Nyoman Paul",
+          "url": "https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250271,
+      "name": "The Way You Look At Me",
+      "url": "https://open.spotify.com/track/4jS2jYLMO71ZsIvtBxASXg"
     },
     {
       "album": {
@@ -8192,6 +8340,24 @@
     },
     {
       "album": {
+        "name": "Wish You Hell - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170360,
+      "name": "Wish You Hell",
+      "url": "https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW"
+    },
+    {
+      "album": {
         "name": "Beginning : The Wind Page",
         "url": "https://open.spotify.com/album/3e4bWJGjQCBkDveRgcKhTM"
       },
@@ -8261,6 +8427,24 @@
       "duration_ms": 293480,
       "name": "Yang Tlah Merelakanmu",
       "url": "https://open.spotify.com/track/7zcmeZ4Xt54ICq90anFSXq"
+    },
+    {
+      "album": {
+        "name": "Yasudah",
+        "url": "https://open.spotify.com/album/0NVWNTENg9PZM0J1RfToXX"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296402,
+      "name": "Yasudah",
+      "url": "https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP"
     },
     {
       "album": {

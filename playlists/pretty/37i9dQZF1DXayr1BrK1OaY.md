@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,230 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,351 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 12 | [Rescue Me](https://open.spotify.com/track/6FWFxRT3c4FXWvMrDbp2V1) | [CHEEKS](https://open.spotify.com/artist/3yeAenPW5DfjuousCOdek9), [CRONIN](https://open.spotify.com/artist/6FJuV645kRPPrMRHLjPq7M) | [Rescue Me](https://open.spotify.com/album/46yTdnUyLnrvqNX7cvlcPH) | 2:42 |
 | 13 | [Heavy With Hoping](https://open.spotify.com/track/2W2e6TBrwJt4ASh5jyYgvZ) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 4:01 |
 | 14 | [SET ME FREE](https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [SET ME FREE](https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW) | 2:58 |
-| 15 | [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 |
+| 15 | [Pictures Of You](https://open.spotify.com/track/0QQBgAXdLm0hfk9aBJe97f) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 2:55 |
 | 16 | [DESCEND](https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [DESCEND](https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY) | 3:40 |
 | 17 | [Lost](https://open.spotify.com/track/0cFXO8OMdeLeShQoEp7pxi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Lost](https://open.spotify.com/album/2qzCGspVB8DdrxAmZVzTKO) | 3:44 |
 | 18 | [BLINDED](https://open.spotify.com/track/1UiqtkLyYSF9RSXvkBskGy) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [BLINDED \(ONLYTHENEXT Remix\)](https://open.spotify.com/album/1Ngx2Q24qZR1opZ3N1diH2) | 4:00 |
@@ -89,14 +89,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 79 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 |
 | 80 | [Save Our Ship \(SOS\)](https://open.spotify.com/track/0SuFM875msKXWm8E3x34DA) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Save Our Ship \(SOS\)](https://open.spotify.com/album/62CmBWPso8MZGNl3S47YdA) | 3:17 |
 | 81 | [Little Planets \- Remix](https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Little Planets \- Remix](https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg) | 4:00 |
-| 82 | [Just Over](https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Growth](https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv) | 2:54 |
-| 83 | [Forever In My Mind](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Forever In My Mind](https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW) | 2:32 |
+| 82 | [Forever In My Mind](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Forever In My Mind](https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW) | 2:32 |
+| 83 | [Just Over](https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Growth](https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv) | 2:54 |
 | 84 | [Wildfire](https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Wildfire](https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg) | 3:25 |
 | 85 | [Howl](https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl](https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66) | 4:17 |
 | 86 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
 | 87 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 |
-| 88 | [Be Someone](https://open.spotify.com/track/3OCFPScaJuLwmHJkqtVWoL) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Dark Matter](https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN) | 3:24 |
-| 89 | [Fading](https://open.spotify.com/track/7dGWQLlYtJszgqdSjxRgpL) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/04HcvlMjZ3dGBkjvVrbSwf) | 4:27 |
+| 88 | [Fading](https://open.spotify.com/track/7dGWQLlYtJszgqdSjxRgpL) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/04HcvlMjZ3dGBkjvVrbSwf) | 4:27 |
+| 89 | [Be Someone](https://open.spotify.com/track/3OCFPScaJuLwmHJkqtVWoL) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Dark Matter](https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN) | 3:24 |
 | 90 | [win your love](https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [win your love](https://open.spotify.com/album/7rgMBpHoFHoyMFmoDmblst) | 3:35 |
 | 91 | [About Us \(feat\. EMME\)](https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [About Us \(feat\. EMME\)](https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs) | 4:46 |
 | 92 | [Always](https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 7:28 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 96 | [Is It Love \- goddard\. Remix](https://open.spotify.com/track/5kNaiGZicJkD7r1cwbzDcD) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Is It Love \(goddard\. Remix\)](https://open.spotify.com/album/2JSThj7pMIiCybV5lxWDYh) | 2:38 |
 | 97 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 |
 | 98 | [Calling On](https://open.spotify.com/track/6ByN6v7D5YUogv622VMGrk) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:35 |
-| 99 | [Surrender To The Feeling](https://open.spotify.com/track/4k0N1HHajVqshJQGkS9YWk) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Surrender To The Feeling](https://open.spotify.com/album/7KhCchcBtE9dTmbwf52LUo) | 3:27 |
-| 100 | [Chains \(feat\. Daya\)](https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Chains \(feat\. Daya\)](https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0) | 3:19 |
+| 99 | [Chains \(feat\. Daya\)](https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Chains \(feat\. Daya\)](https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0) | 3:19 |
+| 100 | [Surrender To The Feeling](https://open.spotify.com/track/4k0N1HHajVqshJQGkS9YWk) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Surrender To The Feeling](https://open.spotify.com/album/7KhCchcBtE9dTmbwf52LUo) | 3:27 |
 
-Snapshot ID: `MCw4OGFhMDdkZGI4NDZlOGMzMjk1M2JjOGYzNWFmYmJiZGM0NDMxNTdk`
+Snapshot ID: `MCw0ZDliMmE2Njc5ZDIzNmUzYjM0NDIyZTg0ZGE5MDM0MWRlZGUzZmZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover: Derek & The Cats, Frizzell D'souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,725 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,744 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 41 | [Nobody Else But You](https://open.spotify.com/track/17BN6uaGdmPuc9HhCRTNlB) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Nobody Else But You](https://open.spotify.com/album/1sgoRiWtrycgeZ0iN7rRFa) | 3:19 |
 | 42 | [Love Drunk](https://open.spotify.com/track/5mgGKIjsmxlRpEm7DQoMga) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/6Wh4Dyti49RAcSLupRiZHG) | 2:30 |
 | 43 | [Vanilla](https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7) | 2:31 |
-| 44 | [Making Faces](https://open.spotify.com/track/6jen6M7ea0yuXA6C4x7zpd) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Making Faces](https://open.spotify.com/album/0Uv9TA5qhuzvBpYafclE4E) | 3:12 |
-| 45 | [I’m Just Like That](https://open.spotify.com/track/1CPnlfYU1dAQSLb6w5jt7I) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Lingering Gloaming](https://open.spotify.com/album/2ruuvwYiR8ju0dCY38UbS9) | 3:28 |
+| 44 | [I’m Just Like That](https://open.spotify.com/track/1CPnlfYU1dAQSLb6w5jt7I) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Lingering Gloaming](https://open.spotify.com/album/2ruuvwYiR8ju0dCY38UbS9) | 3:28 |
+| 45 | [Making Faces](https://open.spotify.com/track/6jen6M7ea0yuXA6C4x7zpd) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Making Faces](https://open.spotify.com/album/0Uv9TA5qhuzvBpYafclE4E) | 3:12 |
 | 46 | [Eleven](https://open.spotify.com/track/4hTSDYZuvejzX7lC667Qdt) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Eleven](https://open.spotify.com/album/6rWYgwW4ytO7sHkEQSKAMT) | 3:23 |
 | 47 | [Find You](https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Deja Vu](https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC) | 4:44 |
 | 48 | [Sober Song](https://open.spotify.com/track/6QiE9xVHfGT1s3ilFo2lVu) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [Cái Đầu Tiên](https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5) | 2:09 |
 | 49 | [Just A Word](https://open.spotify.com/track/3XWRc74od1pT7MUkGiJmoW) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:00 |
-| 50 | [Two Kites](https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Noi Naa](https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2), [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Two Kites](https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp) | 2:46 |
-| 51 | [Stay with Me](https://open.spotify.com/track/1DK3RXk38erunCpFE68PQp) | [The Fur.​](https://open.spotify.com/artist/0neVDcSdi4GMgFduUudWve) | [Serene Reminder](https://open.spotify.com/album/2TB1J2Q397wIpztQvyH5D1) | 3:28 |
+| 50 | [Stay with Me](https://open.spotify.com/track/1DK3RXk38erunCpFE68PQp) | [The Fur.​](https://open.spotify.com/artist/0neVDcSdi4GMgFduUudWve) | [Serene Reminder](https://open.spotify.com/album/2TB1J2Q397wIpztQvyH5D1) | 3:28 |
+| 51 | [Two Kites](https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Noi Naa](https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2), [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Two Kites](https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp) | 2:46 |
 | 52 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 |
 | 53 | [SUNNY AFTERNOON](https://open.spotify.com/track/4CiSdCGCAqeAgGJHRQzcTr) | [雲端司機 CLOUDRIVER](https://open.spotify.com/artist/06velPyQuEOTEGImz6Qmce) | [SUNNY AFTERNOON](https://open.spotify.com/album/3eWrnC9eI96hz9GBEGMg1y) | 2:51 |
 | 54 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 71 | [Cold Cold Night](https://open.spotify.com/track/6EQG98YQXZwX9nJSABjvDw) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/2y8RTJ5EawVOSl7h5KxKmy) | 3:21 |
 | 72 | [Love Is Not A Fucking Game](https://open.spotify.com/track/0cj465OG5QJUhPJfF9Oxjg) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Love Is Not A Fucking Game](https://open.spotify.com/album/1aa2y3XAePhsxfvaiPl83v) | 3:30 |
 | 73 | [Sucks to Be Human](https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks to Be Human](https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd) | 3:25 |
-| 74 | [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 |
-| 75 | [One Day I Might Have A Say](https://open.spotify.com/track/1HlT3pKWWPPWriV2E44oEB) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [One Day I Might Have A Say](https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI) | 3:40 |
+| 74 | [One Day I Might Have A Say](https://open.spotify.com/track/1HlT3pKWWPPWriV2E44oEB) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [One Day I Might Have A Say](https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI) | 3:40 |
+| 75 | [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 |
 
-Snapshot ID: `MCwxOTljNDdiMzU5MmYyY2E4MTY1NTVlZDg4MDBkZDRlZmE5NDFjMjVj`
+Snapshot ID: `MCxhNzE2ZWIzNzMwOWIzZDg5NzQ4OTU4Yzg0YzU0N2ZkMTU3NWQ1NGJk`

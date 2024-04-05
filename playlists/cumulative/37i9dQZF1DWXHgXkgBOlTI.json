@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 309433,
       "name": "Blue Bird",
       "url": "https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn"
@@ -1132,6 +1132,24 @@
       "duration_ms": 283333,
       "name": "Sweety - Retake",
       "url": "https://open.spotify.com/track/52mth0jGVZaWoIQVHuYLXY"
+    },
+    {
+      "album": {
+        "name": "JAZZ\u76ee\u7dda2",
+        "url": "https://open.spotify.com/album/7CbZFe7OHG41MCkYcWQlzM"
+      },
+      "artists": [
+        {
+          "name": "JABBERLOOP",
+          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256493,
+      "name": "TAKARAJIMA",
+      "url": "https://open.spotify.com/track/0LxZYdBCTyGY3UwvHhjkxi"
     },
     {
       "album": {

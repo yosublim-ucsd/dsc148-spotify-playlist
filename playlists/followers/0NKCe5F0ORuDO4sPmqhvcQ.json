@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 20795,
+  "2024-04-05": 20792,
   "date_first_scraped": "2021-12-21",
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
   "name": "Moving Castle Monthly",
@@ -1497,6 +1497,24 @@
       "duration_ms": 170802,
       "name": "Brothers",
       "url": "https://open.spotify.com/track/1lot66VQeVUqsFdy7Lsfbd"
+    },
+    {
+      "album": {
+        "name": "Bumper",
+        "url": "https://open.spotify.com/album/2pvwJhqGKp5bLsaWiVdgwc"
+      },
+      "artists": [
+        {
+          "name": "Arky Waters",
+          "url": "https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240157,
+      "name": "Bumper",
+      "url": "https://open.spotify.com/track/4b4FinrgohDybRlMlldcvu"
     },
     {
       "album": {
@@ -10638,6 +10656,28 @@
     },
     {
       "album": {
+        "name": "The Song of You",
+        "url": "https://open.spotify.com/album/4NUKgm26zPv5N4VKz266gR"
+      },
+      "artists": [
+        {
+          "name": "Golden Vessel",
+          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
+        },
+        {
+          "name": "Headaches",
+          "url": "https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130759,
+      "name": "The Song of You",
+      "url": "https://open.spotify.com/track/7iWx1V2BqnNdRyO4ZsN0D1"
+    },
+    {
+      "album": {
         "name": "The Vortex",
         "url": "https://open.spotify.com/album/0ji8HEJxJ9KnkhvquiP30g"
       },
@@ -10799,6 +10839,28 @@
       "duration_ms": 170476,
       "name": "THREE IN THE MORNING",
       "url": "https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy"
+    },
+    {
+      "album": {
+        "name": "Throw It Back",
+        "url": "https://open.spotify.com/album/3eKEOVPOf9zuTO66tszH9x"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140142,
+      "name": "Throw It Back",
+      "url": "https://open.spotify.com/track/6mjAMJjMb5FUvRFOyBLeKv"
     },
     {
       "album": {

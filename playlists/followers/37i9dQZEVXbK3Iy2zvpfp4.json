@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 4611,
+  "2024-04-05": 4610,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -6797,7 +6797,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 135478,
       "name": "Come Through",
       "url": "https://open.spotify.com/track/4BSNIP9txYvoT9Qsz3pVgf"
@@ -11888,6 +11888,24 @@
     },
     {
       "album": {
+        "name": "Get It Sexyy",
+        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
+    },
+    {
+      "album": {
         "name": "Ghandi",
         "url": "https://open.spotify.com/album/1uv9TBNx7c3qVMhvsGv25d"
       },
@@ -13897,6 +13915,24 @@
       "duration_ms": 220840,
       "name": "Hodina no\u010dn\u00e9ho pokoja",
       "url": "https://open.spotify.com/track/2Dtd0S3HjqmjmxVr1JZX79"
+    },
+    {
+      "album": {
+        "name": "Hodin\u00e1r",
+        "url": "https://open.spotify.com/album/1EPgyoLIgPrb19GOVBT6gg"
+      },
+      "artists": [
+        {
+          "name": "Unknown Consciousness",
+          "url": "https://open.spotify.com/artist/2ddMQoCwebaYynvO9a3GDd"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113777,
+      "name": "Hodin\u00e1r",
+      "url": "https://open.spotify.com/track/0rGQD0V0a7594LkOn0X0WD"
     },
     {
       "album": {
@@ -30421,7 +30457,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 211395,
       "name": "SKLO",
       "url": "https://open.spotify.com/track/2Y6GZQMenNx2pZMJhgl3QE"

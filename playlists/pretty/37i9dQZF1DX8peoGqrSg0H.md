@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Billkin
+> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: bamm
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,444 likes - 65 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,491 likes - 65 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ติดฝน \(rain\)](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 |
-| 2 | [จำนน \(White Flag\)](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน \(White Flag\)](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
-| 3 | [ก้าวก่าย](https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ก้าวก่าย](https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx) | 3:32 |
-| 4 | [ซ่อน\(ไม่\)หา](https://open.spotify.com/track/759xYXTgNDGU6i6FH4kruy) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ซ่อน\(ไม่\)หา](https://open.spotify.com/album/31dukmU9drXyFzMiyK4eq4) | 3:54 |
-| 5 | [คนในใจ \(My Only One\)](https://open.spotify.com/track/05xzhSWVFhGAtLBwEQJJeL) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนในใจ \(My Only One\)](https://open.spotify.com/album/1zl24CXqPa80noECuJjxyY) | 3:39 |
-| 6 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 |
-| 7 | [แฟนฉัน \(Love Ads\)](https://open.spotify.com/track/7i6avkKQTEF9g69OcNvECT) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [แฟนฉัน \(Love Ads\)](https://open.spotify.com/album/5XPZJ2Rh52WC9sWuRr3U5U) | 2:52 |
-| 8 | [Mona Lisa](https://open.spotify.com/track/3H4k0YdtIxrZVORbW57wtp) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [Mona Lisa](https://open.spotify.com/album/69xnGRhLkV3mQcV30IEWMn) | 3:49 |
-| 9 | [NASA](https://open.spotify.com/track/5QoTKVSKBAVgo4RM4DyfKU) | [Noeul Nuttarat](https://open.spotify.com/artist/1FdeO1Hyc2AFlbbq2Lr0hn) | [NASA](https://open.spotify.com/album/2eCpb8KsJzBXFR2mkxiFVi) | 2:29 |
-| 10 | [เสนอตัว \(Ooh!\)](https://open.spotify.com/track/3LSVGHaeHEImPdNM3JUykE) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เสนอตัว \(Ooh!\)](https://open.spotify.com/album/1FaIlBwYnBhae6YUUsxrGD) | 2:55 |
-| 11 | [BOY \(Don't You Know\)](https://open.spotify.com/track/6AlPVLHlqTdFV7HYoGWGwi) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [Ta Worraseth](https://open.spotify.com/artist/34WJOzrugDHbqouIHKuW4N) | [BOY \(Don't You Know\)](https://open.spotify.com/album/4FTEA2LBYfBia22bPhgvId) | 3:43 |
-| 12 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
-| 13 | [Mr.Sea \(feat\. LAZYLOXY\)](https://open.spotify.com/track/4HvqRt04XmIwjOlnPUXm7c) | [Tommy Sittichok](https://open.spotify.com/artist/5Phq9wNCXtNt8b0ZDwuBjF), [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [Mr.Sea \(feat\. LAZYLOXY\)](https://open.spotify.com/album/0k0quJKuMQU2jUPrQTP1sC) | 3:50 |
+| 1 | [จำนน \(White Flag\)](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน \(White Flag\)](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
+| 2 | [ก้าวก่าย](https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ก้าวก่าย](https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx) | 3:32 |
+| 3 | [เปลี่ยนตัวผู้เล่น \(Time to Shine\)](https://open.spotify.com/track/3WhnoaMfaJnOzLWBuKnD5L) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เปลี่ยนตัวผู้เล่น \(Time to Shine\)](https://open.spotify.com/album/0jhtd9GxvrRfGVbWKJJUco) | 2:43 |
+| 4 | [ติดฝน \(rain\)](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 |
+| 5 | [ซ่อน\(ไม่\)หา](https://open.spotify.com/track/759xYXTgNDGU6i6FH4kruy) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ซ่อน\(ไม่\)หา](https://open.spotify.com/album/31dukmU9drXyFzMiyK4eq4) | 3:54 |
+| 6 | [TRY](https://open.spotify.com/track/7BKE7q7IPJMrWke7zo2ISS) | [THI\-O](https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1) | [TRY](https://open.spotify.com/album/2bv4P5pVQ83fpcjCcHCvwa) | 3:32 |
+| 7 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 |
+| 8 | [ฉ่ำ \(CHARM\)](https://open.spotify.com/track/1DIzk3mrcXKJxLQ969XfME) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj), [Joong Archen](https://open.spotify.com/artist/4qqSbta0ZgVIBdlBbwQqxk), [Pond Naravit](https://open.spotify.com/artist/37PDDAi9sH8d1Dt3CDvuqX) | [ฉ่ำ \(CHARM\) \- Single](https://open.spotify.com/album/7goHQJukczd3W44DYTLdiS) | 3:09 |
+| 9 | [Mona Lisa](https://open.spotify.com/track/3H4k0YdtIxrZVORbW57wtp) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [Mona Lisa](https://open.spotify.com/album/69xnGRhLkV3mQcV30IEWMn) | 3:49 |
+| 10 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
+| 11 | [คนในใจ \(My Only One\)](https://open.spotify.com/track/05xzhSWVFhGAtLBwEQJJeL) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนในใจ \(My Only One\)](https://open.spotify.com/album/1zl24CXqPa80noECuJjxyY) | 3:39 |
+| 12 | [แฟนฉัน \(Love Ads\)](https://open.spotify.com/track/7i6avkKQTEF9g69OcNvECT) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [แฟนฉัน \(Love Ads\)](https://open.spotify.com/album/5XPZJ2Rh52WC9sWuRr3U5U) | 2:52 |
+| 13 | [เสนอตัว \(Ooh!\)](https://open.spotify.com/track/3LSVGHaeHEImPdNM3JUykE) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เสนอตัว \(Ooh!\)](https://open.spotify.com/album/1FaIlBwYnBhae6YUUsxrGD) | 2:55 |
 | 14 | [รักจริง \(แค่เมื่อวาน\)](https://open.spotify.com/track/0lpAUU1G9B5QOaJqt4t8OH) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [รักจริง \(แค่เมื่อวาน\)](https://open.spotify.com/album/1U2jRB2eu7E7aIVGED2GrC) | 3:35 |
 | 15 | [สวยงามเสมอ \(Ever\-Forever\) \- Ost\. หลานม่า](https://open.spotify.com/track/5Bs2KbKUeNHM25x8t1DBTF) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [สวยงามเสมอ \(Ever\-Forever\) \[Ost\. หลานม่า\]](https://open.spotify.com/album/2NLjV6ULahC8NVfjWSlsOv) | 3:41 |
 | 16 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [ผิดหน้าที่ \(Responsibility\)](https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF), [Aheye of 4EVE](https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u) | [ผิดหน้าที่ \(Responsibility\) \- Single](https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p) | 3:13 |
 | 65 | [เค้ามาก่อน \(Lovefool\)](https://open.spotify.com/track/2vmEX5b6qbFfLNvD8EvULb) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [เค้ามาก่อน \(Lovefool\)](https://open.spotify.com/album/5bqBFRHVmjld8KdFoK8bVw) | 3:20 |
 
-Snapshot ID: `MCw1Y2EzYTVhYjcxZDc2NDgxNjE0YWVlNmVjYTI4YTQ5YzBiZTk1ZGJj`
+Snapshot ID: `MCwzNmRlOTZlZTI1NzI1MTdmMGYwNDIxYzgxZGUwNjM3OTQwZWI5MGVi`

@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-461 songs - 1 day 0 hr 26 min
+462 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [I.L.Y](https://open.spotify.com/track/37Sw3UuUzxK5iqbDfao6Df) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [I.L.Y](https://open.spotify.com/album/6n6czlJGJOEXP4BC2CRPXh) | 4:05 | 2022-02-03 | 2022-04-21 |
 | [If](https://open.spotify.com/track/0WeN52xa8nBDBfKsaiKJ0i) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:57 | 2021-12-16 | 2022-06-10 |
 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 | 2023-02-28 |  |
+| [Imaranma](https://open.spotify.com/track/0NFNiWzFvNjJDSRlMbI9lC) | [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Imaranma](https://open.spotify.com/album/48uIaP1oyoy7X5DqMc8SYq) | 3:22 | 2024-04-04 |  |
 | [Infinity \(feat\. Omah Lay\)](https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Carpe Diem](https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh) | 2:51 | 2021-12-16 |  |
 | [Irrational \(feat\. Adekunle Gold\) \- Remix](https://open.spotify.com/track/3QF4i1kw1Cs4KsIJvevZ3v) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Irrational \(feat\. Adekunle Gold\) \[Remix\]](https://open.spotify.com/album/5NoFagwdwUNqVESnkP8c1m) | 3:50 | 2022-12-14 | 2024-03-26 |
 | [Irrational \(feat\. Adekunle Gold\) \- Remix](https://open.spotify.com/track/5gCImzpv57IJp9oEFrCKQf) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Irrational \(feat\. Adekunle Gold\) \[Remix\]](https://open.spotify.com/album/33poJ8nmV0JbkmgmzTL6sC) | 3:50 | 2021-12-16 | 2022-12-02 |
@@ -401,7 +402,7 @@
 | [Tempestade](https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:25 | 2021-12-16 | 2022-02-24 |
 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 | 2023-03-23 |  |
 | [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2022-05-16 | 2023-04-17 |
-| [Test Me](https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2) | 3:40 | 2023-04-20 |  |
+| [Test Me](https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2) | 3:40 | 2023-04-20 | 2024-04-05 |
 | [Tetema](https://open.spotify.com/track/53NjleILyfXt7GYwTgxZX9) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Tetema](https://open.spotify.com/album/75ud6QcIp3ewGilMkSLt01) | 2:32 | 2021-12-16 | 2022-07-29 |
 | [Tetema \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/1rbQWXOpvpbf61fsFDQnru) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Tetema \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/5ByfebvDaiXgUQOleR14GK) | 2:32 | 2022-11-07 | 2022-11-14 |
 | [Tetema \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/50tFLjmKu1pftJONIbaljz) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Sound from Africa](https://open.spotify.com/album/5ku1S5rs8OsxdMeAxjZk9q) | 2:32 | 2022-07-28 |  |

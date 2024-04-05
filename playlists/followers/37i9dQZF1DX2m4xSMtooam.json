@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 193341,
+  "2024-04-05": 193486,
   "date_first_scraped": "2022-05-26",
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
   "name": "Bossa Chill",
@@ -1783,6 +1783,24 @@
       "duration_ms": 341280,
       "name": "Goin' Home - Rudy Van Gelder Edition/2007 Digital Remaster",
       "url": "https://open.spotify.com/track/4vmyjeAmH2YW1Zf2YhTca6"
+    },
+    {
+      "album": {
+        "name": "Green Light",
+        "url": "https://open.spotify.com/album/1AYgQw2jkNkyptUflqyMGA"
+      },
+      "artists": [
+        {
+          "name": "Stockholm Whereabouts",
+          "url": "https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233625,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6pJKUVbk8N858Ukh1L0CWm"
     },
     {
       "album": {
@@ -3909,7 +3927,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 230706,
       "name": "So Nice",
       "url": "https://open.spotify.com/track/383io5N8jcS6SVycxhZdub"

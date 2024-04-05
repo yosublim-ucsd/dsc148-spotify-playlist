@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03DwPK.md) - [plain]
 
 > This is Bruno Mars\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,796,725 likes - 41 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,797,364 likes - 41 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03DwPK.md) - [plain]
 | 40 | [Catch a Grenade \- The Hooligans Remix](https://open.spotify.com/track/1EOWf8bsePF6QtiDUAclrJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Grenade Sessions](https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3) | 3:30 |
 | 41 | [24K Magic \- R3hab Remix](https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [24K Magic \(R3hab Remix\)](https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK) | 2:38 |
 
-Snapshot ID: `MCxmZThkOThhMTQzMDRmZWQzZDkxMmE3NmZlZjNmNTdlYjM2YTJhYmZh`
+Snapshot ID: `MCw0ZjcwNzRjMDJhMzM2NDdjZmU3OTNjNmE5OThiYzM4ZWVjODdiNTc5`

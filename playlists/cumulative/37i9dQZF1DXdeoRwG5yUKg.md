@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-164 songs - 11 hr 24 min
+165 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Is There Something I Should Know](https://open.spotify.com/track/70vU4pqCiPVJVo6N04Kamz) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [The Beautiful Lowdown](https://open.spotify.com/album/60crLBQx2RHQQfDoDXdnke) | 4:29 | 2020-11-05 | 2022-07-29 |
 | [Johnnie Ray](https://open.spotify.com/track/5v6dtKoPkH8wJVqfOROJqD) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 2](https://open.spotify.com/album/6wfjOYh05Xg6xCxAdxRrN8) | 3:44 | 2020-11-05 |  |
 | [Jordan](https://open.spotify.com/track/69XVjPC0IHe4N87lVCgjAT) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Jordan](https://open.spotify.com/album/1ZeucgZuXgsLMM7Bm5wXGO) | 5:01 | 2024-01-26 |  |
-| [Just As I Am](https://open.spotify.com/track/265GyouACrBchvNoHHkkuu) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Try Me](https://open.spotify.com/album/7fEch4BxgISBtcklzK1Xex) | 6:23 | 2020-11-05 |  |
+| [Just as I Am](https://open.spotify.com/track/1ySF874duyvjE9qQ6AOlzg) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Try Me](https://open.spotify.com/album/20m1ng48JtN2TiODHLyH65) | 6:23 | 2020-11-05 |  |
+| [Just As I Am](https://open.spotify.com/track/265GyouACrBchvNoHHkkuu) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Try Me](https://open.spotify.com/album/7fEch4BxgISBtcklzK1Xex) | 6:23 | 2020-11-05 | 2024-04-05 |
 | [Katrina](https://open.spotify.com/track/6Ktr87bevDceLjUC3xtLAt) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Anders Osborne](https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888) | [Freedom & Dreams](https://open.spotify.com/album/1GwtFx5UsUEbfoDDgs5KoC) | 5:01 | 2020-11-05 |  |
 | [Last Forever](https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Last Forever](https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J) | 3:46 | 2020-11-05 |  |
 | [Last Goodbye](https://open.spotify.com/track/0VnXemLs18D2jcH7wXaySJ) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Turn Around](https://open.spotify.com/album/2A7jWbq8sH2XFwXc9oCxWy) | 3:56 | 2020-11-05 |  |

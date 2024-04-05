@@ -4,7 +4,7 @@
 
 > Tunes for sun drenched days and balmy nights.
 
-144 songs - 8 hr 38 min
+145 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Fairyland](https://open.spotify.com/track/6CVtLr3bbHUYaLrgBylLXZ) | [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy), [Holly](https://open.spotify.com/artist/0CYjis6hfG45tEhjGMNL33) | [The Night EP](https://open.spotify.com/album/3mZWoEDVRirGx81IpkwCrT) | 3:51 | 2021-11-30 | 2022-12-01 |
 | [Feel Like Clarity](https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb) | [Gaudion](https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI) | [Feel Like Clarity](https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk) | 3:08 | 2021-11-30 | 2024-04-04 |
 | [Feeling Fine](https://open.spotify.com/track/7nFzhJY6qquGuYp5SZkSMF) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Feeling Fine](https://open.spotify.com/album/1d4NX4I7UalL37vhDKNJKM) | 3:15 | 2021-11-30 | 2022-12-01 |
-| [Find Our Way](https://open.spotify.com/track/2OLab4G373tu39KBrJ50sg) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Find Our Way](https://open.spotify.com/album/28MsBuhgOd6FMJvf8N3glq) | 3:31 | 2023-11-17 |  |
+| [Find Our Way](https://open.spotify.com/track/2OLab4G373tu39KBrJ50sg) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Find Our Way](https://open.spotify.com/album/28MsBuhgOd6FMJvf8N3glq) | 3:31 | 2023-11-17 | 2024-04-05 |
+| [Find Our Way](https://open.spotify.com/track/6AnfMLy1PUABObY0PTzLIe) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Find Our Way](https://open.spotify.com/album/3McxYRPPlSHCHOgUAYntyf) | 3:31 | 2023-11-30 |  |
 | [Floating](https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:15 | 2022-11-30 |  |
 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 | 2022-11-30 |  |
 | [For the Dreamers](https://open.spotify.com/track/3wLIctUIIgOhfpiUXndEoT) | [Luke Thompson](https://open.spotify.com/artist/2Cd44ho20XhLnQu1ArHqWh) | [The Trials & Tribulations of Adam & His Seed](https://open.spotify.com/album/3wyWGsJQXn7753hSSzy5dU) | 3:03 | 2021-11-30 | 2022-12-01 |

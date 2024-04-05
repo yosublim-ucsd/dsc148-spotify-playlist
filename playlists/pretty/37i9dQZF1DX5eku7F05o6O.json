@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3750,
+  "num_followers": 750,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmUxNzcyYWNmZGY3Y2NhZmViNTgzMWFjNDRmYWUyNzkxNGYyMjM0",
+  "snapshot_id": "MCxkN2Y5NTY1YjQ5NGQzOGJjYmEzMTI0Njc2ZmU3YjZiNTU3NGQ0MjJj",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/63RCfZKMzbxI8ltgzSzM1G"
-      },
-      "artists": [
-        {
-          "name": "Lydia K\u00e9pinski",
-          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "M'attends-tu",
-      "url": "https://open.spotify.com/track/1fxOtL0FoCD9kSY9Luis96"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Lovers in No Mind's Land",
         "url": "https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 174000,
       "name": "Once Every Billion Years",
       "url": "https://open.spotify.com/track/3Vq3qqSI2PWNBcV0v4WyvK"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/63RCfZKMzbxI8ltgzSzM1G"
+      },
+      "artists": [
+        {
+          "name": "Lydia K\u00e9pinski",
+          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "M'attends-tu",
+      "url": "https://open.spotify.com/track/1fxOtL0FoCD9kSY9Luis96"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Les amours parall\u00e8les",
-        "url": "https://open.spotify.com/album/6t5F9hgEjkanSW3opjKB82"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Lapointe",
-          "url": "https://open.spotify.com/artist/0bEvfTJsHHsTxqpqzWGXDw"
-        }
-      ],
-      "duration_ms": 218935,
-      "name": "L\u2019oiseau m\u00e9canique",
-      "url": "https://open.spotify.com/track/1TCklgqTPFMMD8YV5G4wNB"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Les Ombres Longues",
         "url": "https://open.spotify.com/album/1VWw0MtGZlUXZMcANHMzCX"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 188520,
       "name": "Le nouveau vocabulaire",
       "url": "https://open.spotify.com/track/5dhWyASbSFyAarXtYfovgH"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Les amours parall\u00e8les",
+        "url": "https://open.spotify.com/album/6t5F9hgEjkanSW3opjKB82"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Lapointe",
+          "url": "https://open.spotify.com/artist/0bEvfTJsHHsTxqpqzWGXDw"
+        }
+      ],
+      "duration_ms": 218935,
+      "name": "L\u2019oiseau m\u00e9canique",
+      "url": "https://open.spotify.com/track/1TCklgqTPFMMD8YV5G4wNB"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Stella",
-        "url": "https://open.spotify.com/album/35I4P4msenASz5z5xjSIdo"
-      },
-      "artists": [
-        {
-          "name": "Ariane Brunet",
-          "url": "https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg"
-        }
-      ],
-      "duration_ms": 257546,
-      "name": "Ciel",
-      "url": "https://open.spotify.com/track/4RzXLiXCQTPi84oxicyNtV"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "A Wider Space, B-Sides",
         "url": "https://open.spotify.com/album/5mUBEzLAxef1iGhMFIEcLx"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 222720,
       "name": "Cabin (VF)",
       "url": "https://open.spotify.com/track/1LEB7rebJJrztPAKKa8zay"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Stella",
+        "url": "https://open.spotify.com/album/35I4P4msenASz5z5xjSIdo"
+      },
+      "artists": [
+        {
+          "name": "Ariane Brunet",
+          "url": "https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg"
+        }
+      ],
+      "duration_ms": 257546,
+      "name": "Ciel",
+      "url": "https://open.spotify.com/track/4RzXLiXCQTPi84oxicyNtV"
     },
     {
       "added_at": "2021-02-06 03:12:40",

@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-174 songs - 9 hr 20 min
+175 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dalilah](https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Growing Pains](https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx) | 2:47 | 2023-12-08 |  |
 | [Dalilah II](https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Dalilah II](https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb) | 2:58 | 2024-03-22 |  |
 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 | 2022-02-11 |  |
+| [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 | 2024-04-05 |  |
 | [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 | 2022-09-23 |  |
 | [Dishonest \(feat\. Tyler ICU & Sha Sha\)](https://open.spotify.com/track/4PawszYWrGKg2UddKeVk0C) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT) | [Dishonest \(feat\. Tyler ICU & Sha Sha\)](https://open.spotify.com/album/15WfPT1UJGzQTjCMTVLvkL) | 3:04 | 2024-03-08 |  |
 | [Distance](https://open.spotify.com/track/2MVsAH10Wu2jMc9SM60KDr) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Distance](https://open.spotify.com/album/7HtEpllVdzazEO98gdGCwb) | 3:02 | 2022-07-28 | 2022-10-29 |
@@ -180,7 +181,7 @@
 | [Wicked Somebody](https://open.spotify.com/track/7C4B2HESrQL1qXYouNs3qh) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Imperfect](https://open.spotify.com/album/3hqB59kl4O50ywV4jbqggt) | 3:33 | 2022-02-11 | 2022-08-19 |
 | [Yesterday](https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:23 | 2022-02-11 | 2022-09-20 |
 | [Yoruba Demon](https://open.spotify.com/track/24XUKCOaMqHJbVm350wGDD) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd) | [Yoruba Demon](https://open.spotify.com/album/4hJAQ68RUNCu6pb3mrWYc0) | 2:13 | 2022-09-19 | 2023-02-11 |
-| [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 | 2023-11-24 |  |
+| [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 | 2023-11-24 | 2024-04-05 |
 | [You Need To](https://open.spotify.com/track/5yC1nqnRKZMrP8TsZd25zB) | [Plug Music](https://open.spotify.com/artist/5sVHv1gaAjQw2X2gyYpKq6), [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Celine Vol\. I](https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV) | 3:00 | 2024-03-08 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

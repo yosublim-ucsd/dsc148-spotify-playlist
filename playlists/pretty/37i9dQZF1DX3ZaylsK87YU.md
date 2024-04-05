@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,499 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,510 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,17 +64,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 54 | [Great Is Thy Faithfulness](https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 6](https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw) | 4:31 |
 | 55 | [Come Thou Fount \(Above All Else\)](https://open.spotify.com/track/5yZcK6LIBxD6Ia5vYuEr6v) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 5:51 |
 | 56 | [Sticks & Stones](https://open.spotify.com/track/236Joyhsvc06vmBkKjCFwf) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 4:05 |
-| 57 | [My Worth Is Not In What I Own](https://open.spotify.com/track/2P4h4BnBsFxdMbHFr0jCo9) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Fernando Ortega](https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp) | [Facing A Task Unfinished](https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz) | 4:34 |
+| 57 | [There Came a Light](https://open.spotify.com/track/4qBzmRgakEiYxjLBCFE6Mr) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Moriah Hazeltine](https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR) | [Age to Age](https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj) | 4:42 |
 | 58 | [Head to the Heart \(Live\)](https://open.spotify.com/track/53LcankShhZrR40AedT26x) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 5:20 |
-| 59 | [There Came a Light](https://open.spotify.com/track/4qBzmRgakEiYxjLBCFE6Mr) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Moriah Hazeltine](https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR) | [Age to Age](https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj) | 4:42 |
+| 59 | [My Worth Is Not In What I Own](https://open.spotify.com/track/2P4h4BnBsFxdMbHFr0jCo9) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Fernando Ortega](https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp) | [Facing A Task Unfinished](https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz) | 4:34 |
 | 60 | [Resurrecting \(Studio Version\)](https://open.spotify.com/track/4m3rBNZbDBZ5adk4EnDi4s) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Resurrecting \- EP](https://open.spotify.com/album/0Pw8f54MEx8sIYpMYrIQSn) | 4:24 |
 | 61 | [Living Hope](https://open.spotify.com/track/5B58hgrfK6gaN5FxNyUeSJ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/2ZlyhJR1Y2Ik5cvkw6nx8I) | 5:27 |
 | 62 | [Come Thou Fount](https://open.spotify.com/track/3VzWiZtaS7Z6rLj290J3Fh) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Good to Me](https://open.spotify.com/album/5xREj9Thco8YJ83fCEomhV) | 4:00 |
 | 63 | [Psalm 139 \(Far Too Wonderful\)](https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:12 |
 | 64 | [Come Thou Fount Of Every Blessing](https://open.spotify.com/track/0f9U92JG3vu8BH3PTvxySR) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 3:44 |
 | 65 | [Time](https://open.spotify.com/track/7A0KE0lgddnjGIOry9AjOT) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Promised Land](https://open.spotify.com/album/2N7sEVVS3jKMJJuJi4v0UF) | 5:47 |
-| 66 | [Speak O Lord](https://open.spotify.com/track/5S3KGLRJlrwZq0xfT3VLdV) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:01 |
-| 67 | [The House Of God, Forever](https://open.spotify.com/track/11DoHAnnLO1kK2FTyzs5Uv) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Limbs & Branches](https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI) | 4:43 |
+| 66 | [The House Of God, Forever](https://open.spotify.com/track/11DoHAnnLO1kK2FTyzs5Uv) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Limbs & Branches](https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI) | 4:43 |
+| 67 | [Speak O Lord](https://open.spotify.com/track/5S3KGLRJlrwZq0xfT3VLdV) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:01 |
 | 68 | [Take Courage \- Live](https://open.spotify.com/track/6fiARGC2wsBpuOech1FAun) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Starlight \(Live\)](https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh) | 6:18 |
 | 69 | [Divine / Sailing / Time / Hymn \- Acoustic](https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 7:44 |
 | 70 | [I Shall Not Want](https://open.spotify.com/track/5rgukqlCowrFmIIAF4Cs8u) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Fortunate Fall](https://open.spotify.com/album/76I8fqOA2ZEoASDzbifCMA) | 4:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [Be Still My Soul](https://open.spotify.com/track/6pnT1MuK6JLYW9HY5fKxVw) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [Roots Run Deeper](https://open.spotify.com/album/6Pcu1C4dXMinzA7AoQa83v) | 4:42 |
 | 100 | [Oh What a Father](https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q) | 3:56 |
 
-Snapshot ID: `MCw3M2JmMjQxZWM3NmU5ZDQwODEwYWUxNzg5YTQ4YjZmODU0OGY4MWI1`
+Snapshot ID: `MCxjZDNiZDlhYjc4NzZjMjBkZDk2MjVmYTZjZGEzYzVlYzcyMDNhODVh`

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-695 songs - 1 day 16 hr 11 min
+696 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Northern Lights](https://open.spotify.com/track/2Z7mgegx1cKi8UoMOFHEIl) | [Saxsquatch](https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t) | [Northern Lights](https://open.spotify.com/album/7sVsz8n71bg6rA1uON2DzU) | 3:06 | 2022-06-21 | 2022-09-07 |
 | [Not My Night](https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Not My Night](https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7) | 3:22 | 2024-02-28 |  |
 | [NOT THE ONE](https://open.spotify.com/track/1zT5ymdKPYUJBNLa85FIBN) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Kelly Paige](https://open.spotify.com/artist/55gmpteNh4JYsHglV3aQeD) | [NOT THE ONE](https://open.spotify.com/album/6fMyp6cpXpQDq5dZ2cRBuY) | 2:27 | 2023-09-26 | 2024-01-11 |
+| [Nothin On You](https://open.spotify.com/track/1yhjOPo2WSZHL32MrTxk4B) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Nothin On You](https://open.spotify.com/album/1Nu4WHbLLaD6jbvV4G2BSs) | 3:03 | 2024-04-04 |  |
 | [Nova](https://open.spotify.com/track/60JKwJQTyaX5EcEhmfmPy3) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Livingston Crain](https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn) | [Nova](https://open.spotify.com/album/3l62LbSvXMTWUz30VYbaHr) | 3:01 | 2023-06-14 | 2023-09-26 |
 | [Numb](https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Numb](https://open.spotify.com/album/2C1eeI6heXSrCmtkGOV2FT) | 3:45 | 2022-05-02 | 2022-07-13 |
 | [Não Sei Parar](https://open.spotify.com/track/620eMyji7XM9zf0kHwDsys) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC) | [Não Sei Parar](https://open.spotify.com/album/3DH0NYxAi5Mw8YpmHXgAMb) | 3:25 | 2023-06-07 | 2023-09-26 |
@@ -602,7 +603,7 @@
 | [The Banana Song](https://open.spotify.com/track/1fTxD2WAaESaaXJqg2av2X) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [The Banana Song](https://open.spotify.com/album/3Z64U9gwzFb0CNy7bTC0Fs) | 2:45 | 2024-04-01 |  |
 | [The Dark](https://open.spotify.com/track/3mE2sIa33kLQtTcSTWrylq) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Crimson Child](https://open.spotify.com/artist/3HfDytr1a4fQhrC2J29K6v) | [The Dark](https://open.spotify.com/album/60XUyh545wo0P4HHuVQPsI) | 3:48 | 2023-01-26 | 2023-04-13 |
 | [The Dead March](https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [The Dead March](https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU) | 2:42 | 2022-10-06 | 2022-12-07 |
-| [The Epic Octopus Song](https://open.spotify.com/track/5l3InJmd0xxUvyj1eBb1d1) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Dani Demand](https://open.spotify.com/artist/4AUz9m5EecusjVSBw0FylH) | [The Epic Octopus Song](https://open.spotify.com/album/3VsNiMSWEAc2QkhJjigBSf) | 3:04 | 2024-01-15 |  |
+| [The Epic Octopus Song](https://open.spotify.com/track/5l3InJmd0xxUvyj1eBb1d1) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Dani Demand](https://open.spotify.com/artist/4AUz9m5EecusjVSBw0FylH) | [The Epic Octopus Song](https://open.spotify.com/album/3VsNiMSWEAc2QkhJjigBSf) | 3:04 | 2024-01-15 | 2024-04-05 |
 | [The Intimate Space](https://open.spotify.com/track/1pJW9CkfDyV7wc1YJpK4g9) | [Not Now Please](https://open.spotify.com/artist/3f330dgm1dKMxsVZHy7M84) | [The Intimate Space](https://open.spotify.com/album/5AzkYIG5sDlEChKq7n93Kv) | 5:01 | 2022-04-29 | 2022-07-09 |
 | [The Journey](https://open.spotify.com/track/0WpZ2gPLOUju1uFFlJ2DIZ) | [Terry Da Libra](https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [The Journey](https://open.spotify.com/album/1HIBewAa9FHq2zZoZmmh3X) | 3:29 | 2023-11-07 | 2024-02-21 |
 | [The Law](https://open.spotify.com/track/4FgwI0UIW4Vp71oNB2xB7y) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [The Law](https://open.spotify.com/album/5A624L3aNoTqg6jlMw0B9W) | 3:56 | 2023-09-11 | 2024-01-11 |

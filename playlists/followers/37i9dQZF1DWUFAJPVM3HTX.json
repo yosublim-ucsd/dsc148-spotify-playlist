@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 235455,
+  "2024-04-05": 235582,
   "date_first_scraped": "2022-01-09",
   "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX?si=lI0sVvQFRrCSmKVXKyfmjw\"> Leo Waters </a>. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
@@ -18163,10 +18163,28 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 160440,
       "name": "Intergalactic Janet",
       "url": "https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87"
+    },
+    {
+      "album": {
+        "name": "Intergalactic Janet",
+        "url": "https://open.spotify.com/album/7zu5604lPvQjVBERSdwrTe"
+      },
+      "artists": [
+        {
+          "name": "Ley Soul",
+          "url": "https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160440,
+      "name": "Intergalactic Janet",
+      "url": "https://open.spotify.com/track/7zgEoBci3rKmEkLdsZ8ZKJ"
     },
     {
       "album": {

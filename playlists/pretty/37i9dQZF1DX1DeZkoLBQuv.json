@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8203,
+  "num_followers": 8204,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGZjYWExZGMxNzgzNmNmM2FhMzdjMWEwZmZkYjYyNzRkZGU3NTUx",
+  "snapshot_id": "MCw0OGY1MGYwMTY4ODQxZmUwMTllZGFiZTljMjMwMzdkNzEwMzYzYjgy",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Revolu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7lzq7OwJjzlM8ZD7g2kwqR"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 258054,
+      "name": "Filho de Deus Amigo Meu",
+      "url": "https://open.spotify.com/track/6Ho433JPP8UAtgUsasuOZZ"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Apaixonado",
         "url": "https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 337537,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Revolu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7lzq7OwJjzlM8ZD7g2kwqR"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 258054,
-      "name": "Filho de Deus Amigo Meu",
-      "url": "https://open.spotify.com/track/6Ho433JPP8UAtgUsasuOZZ"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Nasce Jesus",
+      "url": "https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "\u00c9 Natal",
         "url": "https://open.spotify.com/album/7FjU2uBOba0eaYi5NsuMkn"
       },
@@ -547,18 +563,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+        "name": "Outra Vez, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 219920,
-      "name": "Nasce Jesus",
-      "url": "https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM"
+      "duration_ms": 282500,
+      "name": "Como Um de N\u00f3s - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -647,6 +671,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Gl\u00f3ria a Deus nas Alturas",
+        "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
+      },
+      "artists": [
+        {
+          "name": "Laura Morena",
+          "url": "https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU"
+        },
+        {
+          "name": "Sullivan Dutra",
+          "url": "https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki"
+        }
+      ],
+      "duration_ms": 242192,
+      "name": "Gl\u00f3ria a Deus nas Alturas",
+      "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Natal de Amor",
         "url": "https://open.spotify.com/album/1ow4VlwnqoFnYqBaOQrZ40"
       },
@@ -675,26 +719,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Gl\u00f3ria a Deus nas Alturas",
-        "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
-      },
-      "artists": [
-        {
-          "name": "Laura Morena",
-          "url": "https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU"
-        },
-        {
-          "name": "Sullivan Dutra",
-          "url": "https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki"
-        }
-      ],
-      "duration_ms": 242192,
-      "name": "Gl\u00f3ria a Deus nas Alturas",
-      "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Celebrando o Natal",
         "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
       },
@@ -707,30 +731,6 @@
       "duration_ms": 210372,
       "name": "Dai Louvores ao Rei",
       "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Outra Vez, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 282500,
-      "name": "Como Um de N\u00f3s - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td"
     },
     {
       "added_at": "2023-12-22 03:00:00",

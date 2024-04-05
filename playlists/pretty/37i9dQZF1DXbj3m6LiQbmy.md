@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 28 | [Bloody Mary](https://open.spotify.com/track/6dfus00rufybawdDBasdG8) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Bloody Mary](https://open.spotify.com/album/0nwNGmFOJkmEy5zI9rFwVr) | 2:15 |
 | 29 | [How Do U Feel](https://open.spotify.com/track/1LjJjkKtr7N7zGGfyBl3M1) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [How Do U Feel](https://open.spotify.com/album/71NytofTYW4F5hBuDLMPY7) | 2:34 |
 | 30 | [Piccola Inutile](https://open.spotify.com/track/2BrerWrh38QmRzjaeN9PMU) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Piccola Inutile](https://open.spotify.com/album/220BF5aubxcU1oxYpl4qwg) | 3:19 |
-| 31 | [BODY](https://open.spotify.com/track/1AVxwEGZupwnrxX9KjnovY) | [Fucksia](https://open.spotify.com/artist/78zGiRnNQVpLCK3Fz29J0P) | [BODY](https://open.spotify.com/album/1fVxaKD3wlxlGLnSN0BWUF) | 3:28 |
+| 31 | [Body](https://open.spotify.com/track/1Fi8lmYNVvP7BgoH4ACytK) | [Fucksia](https://open.spotify.com/artist/78zGiRnNQVpLCK3Fz29J0P) | [BODY](https://open.spotify.com/album/52ODdOGIsNq64G1uoJz1CG) | 3:28 |
 | 32 | [PRAY](https://open.spotify.com/track/5OPERNndxIm6JL4Qmdfm5S) | [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [PRAY](https://open.spotify.com/album/5zsTNApj0NEoO3c4tFYbhY) | 2:23 |
 | 33 | [Chi Ama Brucia](https://open.spotify.com/track/6E72u7gme1bAjQjPs1H29m) | [Ragazza Milano](https://open.spotify.com/artist/0OY6LGQu7fk8V4X43c81zn) | [Chi Ama Brucia](https://open.spotify.com/album/1rVqCLxybZCUtyCfaF9SwO) | 2:06 |
 | 34 | [ULTRANCE](https://open.spotify.com/track/11O2CGvvumz63FcH4VYUMx) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [ULTRANCE](https://open.spotify.com/album/0eqxXDKHDPPYIUs59r6Vvv) | 5:39 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 77 | [Non ti sopporto più](https://open.spotify.com/track/6E2sqmmajA8nXs4pijQebR) | [Senza\_Cri](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [Non ti sopporto più](https://open.spotify.com/album/1wDp4rWLCgkQF55BSdaa3C) | 2:42 |
 | 78 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/0uf3THPz59F1SmobBeTgaB) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/4mGJlxDbUm6OelkTrUDSoW) | [Le città](https://open.spotify.com/album/6QWVKKra5NxI0AlS4h4u0t) | 4:24 |
 
-Snapshot ID: `MCwwMTJmZTE1MjlkZmQ1MGE1NWFlNDc1OGI0Y2EzM2ZiMThkMTY2MTJh`
+Snapshot ID: `MCxiYTYyMmI2NTVjNmY0MjZkMDdjZTBmMDgwOWFhNDk0MWI4MTYwOGI5`

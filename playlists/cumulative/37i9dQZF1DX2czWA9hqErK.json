@@ -6013,6 +6013,24 @@
     },
     {
       "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/4FZIE2wFhtrE4bwvp1H1nu"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175969,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/4m9DA6crSHtnrhaIVGPzwm"
+    },
+    {
+      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S"
       },
@@ -6580,7 +6598,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 338195,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/1izC6AsOwb84CYQ7OA3ko7"
@@ -10662,7 +10680,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 246796,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m"
@@ -10760,7 +10778,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 166941,
       "name": "Universe",
       "url": "https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w"

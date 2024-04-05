@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-30",
-  "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Aqyila \u2013 congrats on your win! ",
+  "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Aqyila",
   "name": "R&B Rewind",
   "tracks": [
     {
@@ -266,7 +266,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 203720,
       "name": "Best Feature",
       "url": "https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 154702,
       "name": "Give Me Time",
       "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/3yhKFjz9G1bZRWpIVXjkH8"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146979,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/5pqG9n8GviAw4bKXL6iF5q"
+    },
+    {
+      "album": {
         "name": "How Would You Feel",
         "url": "https://open.spotify.com/album/373W4hy5SMxKxICDMDynoX"
       },
@@ -1056,6 +1074,24 @@
       "duration_ms": 225213,
       "name": "IMPORTED (with 6LACK)",
       "url": "https://open.spotify.com/track/2shEeQzAAL3nnOXfB5pJXx"
+    },
+    {
+      "album": {
+        "name": "In 2 Deep",
+        "url": "https://open.spotify.com/album/6F18TbI5mO5bvhJK0T9Am8"
+      },
+      "artists": [
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135999,
+      "name": "In 2 Deep",
+      "url": "https://open.spotify.com/track/6dAoE1lXYk5W25CRuCkeq6"
     },
     {
       "album": {
@@ -1786,7 +1822,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 292000,
       "name": "Some Kinda Love",
       "url": "https://open.spotify.com/track/1kTvzk3atwk9K2YSFMtnzj"
@@ -1964,7 +2000,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 164468,
       "name": "Talk Luv",
       "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"

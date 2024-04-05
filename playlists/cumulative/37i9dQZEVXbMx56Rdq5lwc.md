@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,547 songs - 3 day 12 hr 52 min
+1,548 songs - 3 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 | 2023-01-03 |
 | [GASOLINE](https://open.spotify.com/track/5jWcNM7uHhsAj9yuypurdP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:41 | 2023-01-21 | 2023-01-26 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-17 |
+| [GERU DIENU](https://open.spotify.com/track/65Rj0wlvcYOlL7LSSDedZ4) | [Proflame](https://open.spotify.com/artist/08hlS00IaeGBaRSZtxuwUq) | [GERU DIENU](https://open.spotify.com/album/4yaeYPMm1oiG3WKqxmOit5) | 1:53 | 2024-04-04 |  |
 | [Getting Older](https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:04 | 2021-08-01 | 2021-08-06 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2022-04-05 | 2022-04-30 |
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2023-02-11 | 2023-02-13 |
@@ -727,7 +728,7 @@
 | [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 | 2022-11-14 | 2023-01-18 |
 | [limuzinas](https://open.spotify.com/track/7AoMcuwJqKzEVS0itrej52) | [dj nevykele](https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg) | [OŽKA](https://open.spotify.com/album/0NRRBv2yjlSUgjhKdkyTc5) | 1:57 | 2023-06-06 | 2023-06-10 |
 | [LINIJA](https://open.spotify.com/track/5twL3BpxBA3ryTnaouiBea) | [ba.](https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf) | [NAUTO](https://open.spotify.com/album/1XXP7AmLVPFsriIOegQYUf) | 4:26 | 2022-10-01 | 2022-10-03 |
-| [Lipalas](https://open.spotify.com/track/4l9hif3IgXU8VQvfrzbybE) | [Free Finga](https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd) | [Plastika](https://open.spotify.com/album/7szy2af4pQ10JvLx6fGRmF) | 3:16 | 2024-03-22 |  |
+| [Lipalas](https://open.spotify.com/track/4l9hif3IgXU8VQvfrzbybE) | [Free Finga](https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd) | [Plastika](https://open.spotify.com/album/7szy2af4pQ10JvLx6fGRmF) | 3:16 | 2024-03-22 | 2024-04-05 |
 | [Little Freak](https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:22 | 2022-05-21 | 2022-06-05 |
 | [Little Saint Nick \- 1991 Remix](https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys' Christmas Album](https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3) | 1:58 | 2023-12-25 | 2023-12-30 |
 | [LIVIDI SUI GOMITI](https://open.spotify.com/track/1ITV1k9laGrWUpagayejMQ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:45 | 2021-05-25 | 2021-06-07 |
@@ -992,7 +993,7 @@
 | [PARASAIL](https://open.spotify.com/track/2Q0aElTZQtEUsoiaQfizu6) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:34 | 2023-07-29 | 2023-07-31 |
 | [Parašyk Man Laišką Iš Paryžiaus](https://open.spotify.com/track/4esgPC4gyawQNRNtKvqo3I) | [Sel](https://open.spotify.com/artist/3x5BNVdaDxbzqEQOxPoQ5F) | [Muzika](https://open.spotify.com/album/07sDovr6n2FhNnI2Ui8AAA) | 3:27 | 2024-04-01 | 2024-04-03 |
 | [Pasaka](https://open.spotify.com/track/7CA64sreJrxXDrbkIMi8ge) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu), [Elayork](https://open.spotify.com/artist/1VzqAM4QKWvuzVjw6kSCf8) | [Pasaka](https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U) | 2:21 | 2023-03-11 |  |
-| [Pasikeist Galiu](https://open.spotify.com/track/2vbXzm1aWIABdRHY0yeQIN) | [Free Finga](https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd) | [Plastika](https://open.spotify.com/album/7szy2af4pQ10JvLx6fGRmF) | 4:38 | 2024-03-22 |  |
+| [Pasikeist Galiu](https://open.spotify.com/track/2vbXzm1aWIABdRHY0yeQIN) | [Free Finga](https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd) | [Plastika](https://open.spotify.com/album/7szy2af4pQ10JvLx6fGRmF) | 4:38 | 2024-03-22 | 2024-04-05 |
 | [Pasikeitimai](https://open.spotify.com/track/0ptlrowT2m6ZaFIqMK40OP) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5), [Mario Basanov](https://open.spotify.com/artist/2fwn3zMuclydNxRzPZPCbB), [Soliaris](https://open.spotify.com/artist/7LBzs6cqSEFzNeCXr3Bhhw) | [Pasikeitimai](https://open.spotify.com/album/1fhusNV0AFXc9lYpK2fYG2) | 2:53 | 2022-10-26 | 2022-11-25 |
 | [Paskambink Man](https://open.spotify.com/track/25xDvdW2KVCPaC7kCgVNQ3) | [Saulės Kliošas](https://open.spotify.com/artist/3uZBXvFcHJ31b4Ln9iI78w), [JUSTÉ](https://open.spotify.com/artist/0KaCPegNwYNmKuyzGHZR3V) | [Paskambink Man](https://open.spotify.com/album/3r1wohFnwdEKtKaKQDb4pp) | 3:04 | 2021-03-27\* | 2021-09-14 |
 | [Paskendę vyne](https://open.spotify.com/track/7hUjUlcZyl9N6zWzqyYbjs) | [Furytto](https://open.spotify.com/artist/53xjuOkCa7byXggNs2VZOw) | [Paskendę vyne](https://open.spotify.com/album/49Av61NYQ6SwuZrttWqNRY) | 2:14 | 2023-07-01 |  |
@@ -1265,7 +1266,7 @@
 | [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 | 2023-12-25 | 2023-12-30 |
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-06-18 | 2022-06-25 |
 | [Stop Kappin'](https://open.spotify.com/track/1ip6fQzlU29GRrbfwiGxsc) | [Jl Bout\-It](https://open.spotify.com/artist/4ghraCvITrDwgt1yn3xw0C) | [Stop Kappin'](https://open.spotify.com/album/1cIfiSuGp4I9yztUMiAEtW) | 2:50 | 2021-05-20 | 2021-05-21 |
-| [Strangers](https://open.spotify.com/track/593knnQN4REEshx8th9zgK) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [The After Taste](https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN) | 2:52 | 2024-03-23 | 2024-04-02 |
+| [Strangers](https://open.spotify.com/track/593knnQN4REEshx8th9zgK) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [The After Taste](https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN) | 2:52 | 2024-03-23 |  |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-02 | 2024-03-24 |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-27 |
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2021-03-27\* | 2021-05-23 |

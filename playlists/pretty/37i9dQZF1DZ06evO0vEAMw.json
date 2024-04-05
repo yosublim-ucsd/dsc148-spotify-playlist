@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 73443,
+  "num_followers": 73493,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjI4MzUwYzU4MWZhYjEzY2Q3NDkwYThiNDMyNTk1NzY0MDE3OTc3",
+  "snapshot_id": "MCxhNmNhYzVhM2E0MzZmMDA2MTRjZTgzNGQyZjQyMDAzYTZhYTczMjUz",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breezy (Deluxe)",
+        "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Nobody Has To Know (feat. Davido)",
+      "url": "https://open.spotify.com/track/4U94pbUhXrzFNVcyrFeMso"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
         "url": "https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M"
       },
@@ -611,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FIA",
+        "url": "https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 214205,
+      "name": "FIA",
+      "url": "https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -627,22 +663,6 @@
       "duration_ms": 171724,
       "name": "The Best (feat. Mayorkun)",
       "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FIA",
-        "url": "https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 214205,
-      "name": "FIA",
-      "url": "https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA"
     },
     {
       "added_at": null,
@@ -891,30 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/6jwOZjlgsVnE0PvEmusjqZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Green With Envy",
         "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
       },
@@ -935,6 +931,30 @@
       "duration_ms": 216013,
       "name": "Who's True",
       "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/6jwOZjlgsVnE0PvEmusjqZ"
     },
     {
       "added_at": null,
@@ -1031,22 +1051,6 @@
       "duration_ms": 248727,
       "name": "Sweet in the Middle (feat. Wurld, Naira Marley & Zlatan)",
       "url": "https://open.spotify.com/track/2ylO41DTQwQv1QH1mSP3cH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nwa Baby",
-        "url": "https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 222327,
-      "name": "Nwa Baby",
-      "url": "https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m"
     }
   ],
   "unique_name": "This Is Davido",

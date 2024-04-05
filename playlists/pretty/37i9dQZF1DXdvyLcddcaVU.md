@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,202 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,731 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 3 | [Saison 2](https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:25 |
 | 4 | [Tu connais](https://open.spotify.com/track/2QSswvVqhYPlZuWTua3uZb) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 2:49 |
 | 5 | [Murder](https://open.spotify.com/track/3LK81r3yptHlliNgLBo1UC) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:44 |
-| 6 | [Position](https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 2:21 |
-| 7 | [Soirée parisienne \(feat\. Jizo Djohn.P\)](https://open.spotify.com/track/77jfFVugaz41IwpWqoXsUh) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Jizo Djohn.P](https://open.spotify.com/artist/5bmxexFqUzFm4nWg6EUYjE) | [Journal intime](https://open.spotify.com/album/7h7MqzSJ1wEXpjHzkevE6h) | 5:57 |
-| 8 | [BBL](https://open.spotify.com/track/4vyW7yLnnO01ZIoZR21PIq) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [BBL](https://open.spotify.com/album/595vG7VzrjghpR8TlhgFaD) | 2:52 |
+| 6 | [BBL](https://open.spotify.com/track/4vyW7yLnnO01ZIoZR21PIq) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [BBL](https://open.spotify.com/album/595vG7VzrjghpR8TlhgFaD) | 2:52 |
+| 7 | [Position](https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 2:21 |
+| 8 | [Soirée parisienne \(feat\. Jizo Djohn.P\)](https://open.spotify.com/track/77jfFVugaz41IwpWqoXsUh) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Jizo Djohn.P](https://open.spotify.com/artist/5bmxexFqUzFm4nWg6EUYjE) | [Journal intime](https://open.spotify.com/album/7h7MqzSJ1wEXpjHzkevE6h) | 5:57 |
 | 9 | [Y a une meuf](https://open.spotify.com/track/3hBR7YFqumGQAGUkrjv8C3) | [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [DJ SYT](https://open.spotify.com/artist/666wjebcUXtAhPErZc1b7l), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Y a une meuf](https://open.spotify.com/album/5id7TypSkVAVIwGD4dMWf8) | 3:52 |
 | 10 | [Maudit](https://open.spotify.com/track/1pA6YWfmMgbKHk36LtlcUP) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:17 |
 | 11 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 99 | [Sexyy Red \(feat\. La Fève\)](https://open.spotify.com/track/0dNOqSvDE2vZhepbZNBt6R) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF), [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [SOLSTICE](https://open.spotify.com/album/0SIPEk9qH6s7WMN1jkymKB) | 2:48 |
 | 100 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 |
 
-Snapshot ID: `MCw2ZmIxYjhjOWNkNzM2YjkyM2I4ZTRiODdmZTgyNTg0MWM5ZjhhY2Fj`
+Snapshot ID: `MCwwYmY5MWM5NjUxMWRiNDdlOWI3N2Y0YTk4NmI0YzkxMTM3NTA3Njgx`

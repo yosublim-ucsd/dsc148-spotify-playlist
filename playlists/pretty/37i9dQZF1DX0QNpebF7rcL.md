@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,841 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,878 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 37 | [Animal In Me](https://open.spotify.com/track/0FIeSr04FRgHFAQsDDlaqo) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Animal In Me](https://open.spotify.com/album/7DGUiEkagecwFnpucvxKAj) | 2:54 |
 | 38 | [Work Until My Days Are Done](https://open.spotify.com/track/2xMgZIxBuHiD7VLVFZVnsH) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Work Until My Days Are Done](https://open.spotify.com/album/2Yd9AicKdULZkAOZzGF8Gx) | 3:31 |
 | 39 | [Love Is All](https://open.spotify.com/track/3p0vfHAh2O2Rws5xPQJQho) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [The Fatalist](https://open.spotify.com/album/33ihKi0yijzptTHMNHXTNB) | 3:40 |
-| 40 | [Undertow](https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4) | 3:22 |
+| 40 | [Undertow](https://open.spotify.com/track/0EbZNGeKLzAqYuYuNOCack) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep and the Dirty](https://open.spotify.com/album/67KkHhNmrpt1NkoiRW1cXc) | 3:22 |
 | 41 | [Unhinged](https://open.spotify.com/track/41N74tDfqzG242pQe16lSE) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [Unhinged](https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR) | 3:23 |
 | 42 | [Don't Get Me Started](https://open.spotify.com/track/6iji2KRmhPBorFa54KBLBa) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [LaVette!](https://open.spotify.com/album/4He1qQkf7kFRGD6n3Mwb11) | 5:11 |
 | 43 | [Daughter Of Zion \[Feat\. Joe Walsh\]](https://open.spotify.com/track/27S3ILmMMln0kQjmxLghjA) | [Glenn Schwartz](https://open.spotify.com/artist/5LZLhHjT5eCyy2kMaFPSqc), [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Daughter Of Zion \[Feat\. Joe Walsh\]](https://open.spotify.com/album/73hDokQXIjjMe6AqzG5PuI) | 4:36 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 77 | [I'm Just Getting Started!](https://open.spotify.com/track/5FpQfVO2jHbTtZGGR8lkN8) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [I'm Just Getting Started!](https://open.spotify.com/album/0QgQ8Ln8AIxc3Svhc8cbi3) | 2:39 |
 | 78 | [Feel Like Going Home](https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S) | 4:35 |
 | 79 | [I Like Games \- Single Version](https://open.spotify.com/track/0XfQWxtYE8OHwNQYV5tom9) | [Arthur Brown](https://open.spotify.com/artist/4Wyn0ejiSIAgFhCL6zbTRm) | [I Like Games](https://open.spotify.com/album/55RkPA2FJj70bBnKFPHjfu) | 4:21 |
-| 80 | [Mount up on the Wings of the King](https://open.spotify.com/track/30Hrgpp6gqufsaSY7F7txp) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Straight from the Heart](https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ) | 3:19 |
+| 80 | [Mount up on the Wings of the King](https://open.spotify.com/track/3oIkw0Owj1V0LH5EExbQKY) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5gM9h1Ksjiu1iy3wLy42dt) | [Straight from the Heart](https://open.spotify.com/album/4gN7CmqNauA6dTrBYOfVMe) | 3:19 |
 | 81 | [Still The World Goes Round](https://open.spotify.com/track/6NC8TahwAZKURe6EolCBOv) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Bitches Blues](https://open.spotify.com/album/1Dm1iro6Z5Hjv6USdF2NXY) | 4:01 |
 | 82 | [Strong as Steel](https://open.spotify.com/track/2zurVB1sxDSgt2EdGjaICS) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Strong as Steel](https://open.spotify.com/album/0BCEBQ4oMiqVuVqhP9QrbA) | 4:09 |
 | 83 | [In Blood](https://open.spotify.com/track/4R9G9PKBSiBN9vo0d1bBvX) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [Blood on My Hands](https://open.spotify.com/album/10dbGQiopAbLHmxglr90rl) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Here I'm Is](https://open.spotify.com/track/45DxmdLBAjYelavuazYJhg) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Here I'm Is](https://open.spotify.com/album/2FwkQp2elO2xN3MOs2XJL9) | 2:27 |
 | 100 | [The Future Ain't What It Used to Be](https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [The Future Ain't What It Used to Be](https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035) | 3:20 |
 
-Snapshot ID: `MCxmOGNkZjY2YzA3ODg5ZTBkOGZlNzRjNDY3ZmY5NTg5YjUyODE0Yzhk`
+Snapshot ID: `MCw0ZGQ4NjRkYWRmMzI5ZDAzNGMyNjFiZmU5YWVkMjJhZDA0MDRhMGE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,073 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,075 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 9 | [Be Glad](https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Be Glad](https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx) | 4:59 |
 | 10 | [thank you](https://open.spotify.com/track/6cf0agH2MqxT8t4ea1FSD7) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [simplicity](https://open.spotify.com/album/5SuCJyVXZNHggwXo5XKyH9) | 2:30 |
 | 11 | [This Is How I Thank The Lord \(feat\. Cody Carnes, Amanda Cook, Joe L Barnes\)](https://open.spotify.com/track/2t8f07knCNSY19avq19l1R) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Thanks](https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML) | 3:41 |
-| 12 | [Give Thanks & Praises](https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 3:14 |
-| 13 | [Give Thanks](https://open.spotify.com/track/4x9fYrQw7l3oDXq7P6oR7d) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Faith Of My Father](https://open.spotify.com/album/0I0JE2RocLzI0ymeGGbfvC) | 4:09 |
+| 12 | [Give Thanks](https://open.spotify.com/track/4x9fYrQw7l3oDXq7P6oR7d) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Faith Of My Father](https://open.spotify.com/album/0I0JE2RocLzI0ymeGGbfvC) | 4:09 |
+| 13 | [Give Thanks & Praises](https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 3:14 |
 | 14 | [And You Don't Stop](https://open.spotify.com/track/4gGuQwT0xobQ9VUFtzg8oY) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [The Other Side](https://open.spotify.com/album/0QsUa6r50W8EDZKHjNdxgD) | 3:41 |
 | 15 | [Thankful](https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Thankful](https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt) | 3:12 |
 | 16 | [Thank You](https://open.spotify.com/track/3mhfZz57Xbt7rBuTcxSR3p) | [Walter Hawkins](https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb) | [Love Alive IV](https://open.spotify.com/album/54D2RsYSwVIS6QIpKclaOd) | 10:42 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 50 | [Thank You \(Famine Or Feast\)](https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Thank You \(Famine Or Feast\)](https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q) | 3:23 |
 | 51 | [I Won't Forget \(Live\)](https://open.spotify.com/track/1mohJvDGBQ4pury12Q3sFP) | [Lifepoint Worship](https://open.spotify.com/artist/7GPZGfVnkGTiIq3f4E78yo), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [I Won't Forget](https://open.spotify.com/album/3ZDeyTbNrItTMYscutBCg7) | 8:41 |
 | 52 | [For All You've Done \(I Worship You\) \(feat\. Jason Ingram\) \- Live](https://open.spotify.com/track/78BJN4Nya6inRz4OhEY6PH) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Jason Ingram](https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR) | [Live Worship From Vertical Church](https://open.spotify.com/album/3Cugb1EthU6slWVMkhqEBz) | 5:45 |
-| 53 | [Gratitude \- Live](https://open.spotify.com/track/2H4EuXmxJp29Sc19EnD9xP) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK) | [Gratitude \(Live\)](https://open.spotify.com/album/1voPEXBiUxLOuJNkJosiXl) | 6:16 |
-| 54 | [Grateful](https://open.spotify.com/track/1zm7N5ffTPjHQzNIQAdGq1) | [Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ) | [Songs 4 Worship Gospel \- God Is In the House](https://open.spotify.com/album/052YKRyqnlBdsBPvL82WRZ) | 6:29 |
+| 53 | [Grateful](https://open.spotify.com/track/1zm7N5ffTPjHQzNIQAdGq1) | [Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ) | [Songs 4 Worship Gospel \- God Is In the House](https://open.spotify.com/album/052YKRyqnlBdsBPvL82WRZ) | 6:29 |
+| 54 | [Gratitude \- Live](https://open.spotify.com/track/2H4EuXmxJp29Sc19EnD9xP) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK) | [Gratitude \(Live\)](https://open.spotify.com/album/1voPEXBiUxLOuJNkJosiXl) | 6:16 |
 | 55 | [Thankful](https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Faithful To Believe](https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61) | 6:26 |
 | 56 | [Give Thanks](https://open.spotify.com/track/0GP883AbjnoO3iTvvjzVO5) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Give Thanks](https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK) | 4:31 |
 | 57 | [Thankful \- Live](https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Lilly Powers](https://open.spotify.com/artist/0dkmEy84PNteOhnxSZyJkt) | [Thankful \(Live\)](https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8) | 6:59 |
-| 58 | [Oh Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/1zmKMlVCxrHBL38BcRBp27) | [Wendell Kimbrough](https://open.spotify.com/artist/6zO6HdgPt1pOQsP6kC4i9B) | [Oh Give Thanks \(Psalm 107\) \[Live\]](https://open.spotify.com/album/36LAY52wPfMK172ikMQrha) | 6:09 |
-| 59 | [Joyful Blessing](https://open.spotify.com/track/01yctBdQgHzDEXGrjV4CYn) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [N!x](https://open.spotify.com/artist/5Lm6f1hGukpsGFbS2K5hKn) | [Talk to God](https://open.spotify.com/album/6I6rwc4chgp143l6TF5Jaf) | 2:09 |
+| 58 | [Joyful Blessing](https://open.spotify.com/track/01yctBdQgHzDEXGrjV4CYn) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [N!x](https://open.spotify.com/artist/5Lm6f1hGukpsGFbS2K5hKn) | [Talk to God](https://open.spotify.com/album/6I6rwc4chgp143l6TF5Jaf) | 2:09 |
+| 59 | [Oh Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/1zmKMlVCxrHBL38BcRBp27) | [Wendell Kimbrough](https://open.spotify.com/artist/6zO6HdgPt1pOQsP6kC4i9B) | [Oh Give Thanks \(Psalm 107\) \[Live\]](https://open.spotify.com/album/36LAY52wPfMK172ikMQrha) | 6:09 |
 | 60 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
 
-Snapshot ID: `MCxmOTQzZTEyYzEzNWFlNTkwOGQ3NmE3YzgyNDJiZDY4MWNkYmJkZjdj`
+Snapshot ID: `MCwzNmVkYWFiYzdhNmE3YjdjNDZhNzQ5OTgyMDM3MWZiN2JhNTZiNzIz`

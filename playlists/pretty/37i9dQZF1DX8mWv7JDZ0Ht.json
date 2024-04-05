@@ -1,12 +1,12 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Jovem Dionisio",
-  "num_followers": 434697,
+  "num_followers": 434772,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGExMzY1MTU1ZTQ2ZGFjMmViYWNhMTcwZjM3ZTgxMmQwZDQ4MzUx",
+  "snapshot_id": "MCw1OGM3ODRhY2I1ZDUyN2MyYzczYmVhZjAwNTBhYmIyNGNhN2NhNjAz",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Pausa",
         "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 219306,
       "name": "Pausa",
       "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "At\u00e9 Envelhecer",
+        "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "At\u00e9 Envelhecer",
+      "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Carinha De Problema",
         "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 163258,
       "name": "Carinha De Problema",
       "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "At\u00e9 Envelhecer",
-        "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "At\u00e9 Envelhecer",
-      "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Voc\u00ea Chegou",
-        "url": "https://open.spotify.com/album/0zS2dRNVij5Z1A7fi5wpRV"
-      },
-      "artists": [
-        {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
-        }
-      ],
-      "duration_ms": 143661,
-      "name": "Voc\u00ea Chegou",
-      "url": "https://open.spotify.com/track/5sDpV6Z7wwfATtiSVkt5Hu"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "calma na alma",
         "url": "https://open.spotify.com/album/4XIGrKDCbYgBDSPxSo9voV"
       },
@@ -783,6 +767,38 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Quando isso vai passar?",
+        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Quando isso vai passar?",
+      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Voc\u00ea Chegou",
+        "url": "https://open.spotify.com/album/0zS2dRNVij5Z1A7fi5wpRV"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "duration_ms": 143661,
+      "name": "Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/5sDpV6Z7wwfATtiSVkt5Hu"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "N\u00d3S NUS",
         "url": "https://open.spotify.com/album/5Q0BZT7rQ2pGzWaMXEVPgR"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 304068,
       "name": "N\u00d3S NUS",
       "url": "https://open.spotify.com/track/3zRoNvRTovjZcycfZw7N7T"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Quando isso vai passar?",
-        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 156466,
-      "name": "Quando isso vai passar?",
-      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Samba Azul",
-        "url": "https://open.spotify.com/album/4yGKNoM67bEOR8rE9T1Tgo"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 182004,
-      "name": "Samba Azul",
-      "url": "https://open.spotify.com/track/3fABA4ex5mUpAbiFG09zKl"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "que se fosse",
         "url": "https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 139666,
       "name": "que se fosse",
       "url": "https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Samba Azul",
+        "url": "https://open.spotify.com/album/4yGKNoM67bEOR8rE9T1Tgo"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 182004,
+      "name": "Samba Azul",
+      "url": "https://open.spotify.com/track/3fABA4ex5mUpAbiFG09zKl"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Como Tinha Que Ser",
+        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Como Tinha Que Ser",
+      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 167424,
       "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Como Tinha Que Ser",
-        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Como Tinha Que Ser",
-      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
+      },
+      "artists": [
+        {
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Duas da Manh\u00e3",
         "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
-      },
-      "artists": [
-        {
-          "name": "Maria Maud",
-          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Meu Lugar Preferido",
         "url": "https://open.spotify.com/album/6Gr1teEljYdbOU07MxcJ4j"
       },
@@ -1343,6 +1343,38 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "V\u00e1 Com Deus",
+        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 172268,
+      "name": "V\u00e1 Com Deus",
+      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Concreto (2024 Rework)",
+        "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 194196,
+      "name": "Recome\u00e7o - Bonus Track",
+      "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "No Azul do Teu Olhar",
         "url": "https://open.spotify.com/album/4e26MuGPtaW04apoRiYkmd"
       },
@@ -1375,38 +1407,6 @@
       "duration_ms": 205540,
       "name": "J\u00e1 Te Falei",
       "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Concreto (2024 Rework)",
-        "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 194196,
-      "name": "Recome\u00e7o - Bonus Track",
-      "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "V\u00e1 Com Deus",
-        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 172268,
-      "name": "V\u00e1 Com Deus",
-      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
     },
     {
       "added_at": "2024-03-29 03:00:00",

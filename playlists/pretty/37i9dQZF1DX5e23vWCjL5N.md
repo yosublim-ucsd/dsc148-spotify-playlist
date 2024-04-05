@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Kid Yugi
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,558 likes - 65 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,612 likes - 65 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 64 | [Mondo Di Fango](https://open.spotify.com/track/3rR90ytwXhFCGXjbDzN7HI) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [QVC9 \- QUELLO CHE VI CONSIGLIO VOL\. 9](https://open.spotify.com/album/5lfSlorm20o9qN9YoDmwFe) | 1:57 |
 | 65 | [Morto di fame \(feat\. Lazza\)](https://open.spotify.com/track/4hqi818jHZUJIbJ6OJllGI) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Keta Music, Vol\. 3](https://open.spotify.com/album/5XmLyPktaR9fYxYqtQukqa) | 2:43 |
 
-Snapshot ID: `MCwxOTQ4ZmQyYjNhMGNiYzM2YmI1NDRkZDhkOGQ3NTY2YjBkMWRlYWU0`
+Snapshot ID: `MCw2YTQxZDU5OTY1ZDdiMjFmN2VjZDA2MTQwODAzM2MxZGJkOTU5ZTVj`

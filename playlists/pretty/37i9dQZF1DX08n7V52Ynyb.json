@@ -1,12 +1,12 @@
 {
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
-  "num_followers": 47606,
+  "num_followers": 47652,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjU3MWY1NWU4NDJjM2ZlMGVlOTJmNjIxZTU1MTFjNzM3MjkwMGE0",
+  "snapshot_id": "MCxiZDcyZDkyY2YxODE2OWE2YTE1YjE3NzViYjQ3MDIzNzIyODA5OWVj",
   "tracks": [
     {
       "added_at": "2024-03-20 13:56:44",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
-        "name": "The Art of Jazz with Miriam Netti",
-        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
-      },
-      "artists": [
-        {
-          "name": "Miriam Netti",
-          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
-        }
-      ],
-      "duration_ms": 310275,
-      "name": "May I Come In",
-      "url": "https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr"
-    },
-    {
-      "added_at": "2024-03-20 13:56:44",
-      "album": {
         "name": "Perhaps You\u2019ll Wonder Why",
         "url": "https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 285306,
       "name": "Perhaps You'll Wonder Why",
       "url": "https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp"
+    },
+    {
+      "added_at": "2024-03-20 13:56:44",
+      "album": {
+        "name": "The Art of Jazz with Miriam Netti",
+        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
+      },
+      "artists": [
+        {
+          "name": "Miriam Netti",
+          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
+        }
+      ],
+      "duration_ms": 310275,
+      "name": "May I Come In",
+      "url": "https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr"
     },
     {
       "added_at": "2024-03-20 13:56:44",
@@ -683,22 +683,22 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
-        "name": "Let's Face the Music",
-        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
+        "name": "The Complete Ella And Louis On Verve",
+        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
       "artists": [
         {
-          "name": "Reinhardt Winkler",
-          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         },
         {
-          "name": "Simone Kopmajer",
-          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 227867,
-      "name": "Why Should I Care?",
-      "url": "https://open.spotify.com/track/0rGRDmusUJI3byaiZWcurV"
+      "duration_ms": 223000,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/6zK83IKs3vP6Uxm2UpYYpo"
     },
     {
       "added_at": "2024-03-20 13:56:44",
@@ -723,22 +723,22 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
-        "name": "The Complete Ella And Louis On Verve",
-        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
+        "name": "Let's Face the Music",
+        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Reinhardt Winkler",
+          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
         },
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Simone Kopmajer",
+          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/6zK83IKs3vP6Uxm2UpYYpo"
+      "duration_ms": 227867,
+      "name": "Why Should I Care?",
+      "url": "https://open.spotify.com/track/0rGRDmusUJI3byaiZWcurV"
     },
     {
       "added_at": "2024-03-20 13:56:44",
@@ -775,6 +775,38 @@
       "duration_ms": 371170,
       "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
       "url": "https://open.spotify.com/track/4wfF91BDvZYOiP7LKq2New"
+    },
+    {
+      "added_at": "2024-03-20 13:56:44",
+      "album": {
+        "name": "Conjuring",
+        "url": "https://open.spotify.com/album/1Z67DgVbrQYsPShoWAeC6X"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "John Chin",
+          "url": "https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU"
+        },
+        {
+          "name": "Nick Tannura",
+          "url": "https://open.spotify.com/artist/17rFfNiQpIFQGk04TNl3xB"
+        }
+      ],
+      "duration_ms": 305538,
+      "name": "It's Magic",
+      "url": "https://open.spotify.com/track/0U7pO71aCMz226PxROBsoc"
     },
     {
       "added_at": "2024-03-20 13:56:44",
@@ -867,38 +899,6 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
-        "name": "Conjuring",
-        "url": "https://open.spotify.com/album/1Z67DgVbrQYsPShoWAeC6X"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Eric Wheeler",
-          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        },
-        {
-          "name": "John Chin",
-          "url": "https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU"
-        },
-        {
-          "name": "Nick Tannura",
-          "url": "https://open.spotify.com/artist/17rFfNiQpIFQGk04TNl3xB"
-        }
-      ],
-      "duration_ms": 305538,
-      "name": "It's Magic",
-      "url": "https://open.spotify.com/track/0U7pO71aCMz226PxROBsoc"
-    },
-    {
-      "added_at": "2024-03-20 13:56:44",
-      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
       },
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
+        "name": "Fever: a Peggy Lee Celebration!",
+        "url": "https://open.spotify.com/album/1e9mJDic98xbyRQbfdY3wy"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        }
+      ],
+      "duration_ms": 366706,
+      "name": "The Folks Who Live on the Hill",
+      "url": "https://open.spotify.com/track/2Mg2GadBhJE4lPKsQK2ioz"
+    },
+    {
+      "added_at": "2024-03-20 13:56:44",
+      "album": {
         "name": "Spring Can Really Hang You up the Most",
         "url": "https://open.spotify.com/album/6Jl50vplY7lfIVwFpMoWSI"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 326019,
       "name": "Spring Can Really Hang You up the Most",
       "url": "https://open.spotify.com/track/3GFBG0crgjK3sjivJtMwLe"
-    },
-    {
-      "added_at": "2024-03-20 13:56:44",
-      "album": {
-        "name": "Fever: a Peggy Lee Celebration!",
-        "url": "https://open.spotify.com/album/1e9mJDic98xbyRQbfdY3wy"
-      },
-      "artists": [
-        {
-          "name": "Ann Hampton Callaway",
-          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
-        }
-      ],
-      "duration_ms": 366706,
-      "name": "The Folks Who Live on the Hill",
-      "url": "https://open.spotify.com/track/2Mg2GadBhJE4lPKsQK2ioz"
     },
     {
       "added_at": "2024-03-20 13:56:44",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
-        "name": "Easy Come, Easy Go Blues",
-        "url": "https://open.spotify.com/album/3jF1HHLzYTcKf7YTOAB7gp"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 152654,
-      "name": "Easy Come, Easy Go Blues",
-      "url": "https://open.spotify.com/track/1710r4hqXR33zvno2TtqFV"
-    },
-    {
-      "added_at": "2024-03-20 13:56:44",
-      "album": {
         "name": "I Fall in Love Too Easily",
         "url": "https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 268973,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/3Di0QuYbltNHaIU85cpxvi"
+    },
+    {
+      "added_at": "2024-03-20 13:56:44",
+      "album": {
+        "name": "Easy Come, Easy Go Blues",
+        "url": "https://open.spotify.com/album/3jF1HHLzYTcKf7YTOAB7gp"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 152654,
+      "name": "Easy Come, Easy Go Blues",
+      "url": "https://open.spotify.com/track/1710r4hqXR33zvno2TtqFV"
     },
     {
       "added_at": "2024-03-20 13:56:44",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
+        "name": "Come What May",
+        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 345120,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/2ShXVI9NNJwVnYGBWRd7nd"
+    },
+    {
+      "added_at": "2024-03-20 13:56:44",
+      "album": {
         "name": "Dindi",
         "url": "https://open.spotify.com/album/0TfJkb6NSFDo2I89wGmiac"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 350890,
       "name": "Dindi",
       "url": "https://open.spotify.com/track/7qNTlknMfHKgR6lrY8lzwU"
-    },
-    {
-      "added_at": "2024-03-20 13:56:44",
-      "album": {
-        "name": "Come What May",
-        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 345120,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/2ShXVI9NNJwVnYGBWRd7nd"
     },
     {
       "added_at": "2024-03-20 13:56:44",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
-        "name": "Songs from Other Places (Special Edition)",
-        "url": "https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        },
-        {
-          "name": "Art Hirahara",
-          "url": "https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib"
-        }
-      ],
-      "duration_ms": 260746,
-      "name": "Memories of You",
-      "url": "https://open.spotify.com/track/29CbKFxs4Aa5pA8ktWuBUC"
-    },
-    {
-      "added_at": "2024-03-20 13:56:44",
-      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/2Mji2KTTzRiYqViOCeu3Hn"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 266200,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/4TIU2oX0NLrGUyqP0JDM6R"
+    },
+    {
+      "added_at": "2024-03-20 13:56:44",
+      "album": {
+        "name": "Songs from Other Places (Special Edition)",
+        "url": "https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Art Hirahara",
+          "url": "https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib"
+        }
+      ],
+      "duration_ms": 260746,
+      "name": "Memories of You",
+      "url": "https://open.spotify.com/track/29CbKFxs4Aa5pA8ktWuBUC"
     },
     {
       "added_at": "2024-03-20 13:56:44",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
+        "name": "Stealing Moments",
+        "url": "https://open.spotify.com/album/5IRLJ5KaSYAHZ2Hr622qbt"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "Hands Off",
+      "url": "https://open.spotify.com/track/0g1JDkIaDX3xGAEdZ63XTe"
+    },
+    {
+      "added_at": "2024-03-20 13:56:44",
+      "album": {
         "name": "Night at the Movies",
         "url": "https://open.spotify.com/album/7LbEEwo9BiYcPkb3DCDgDH"
       },
@@ -1943,22 +1959,6 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
-      },
-      "artists": [
-        {
-          "name": "Silva & Steini",
-          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
-        }
-      ],
-      "duration_ms": 293700,
-      "name": "I Wish I Knew",
-      "url": "https://open.spotify.com/track/78GkbIgSD0VI7ZV7bnBe5I"
-    },
-    {
-      "added_at": "2024-03-20 13:56:44",
-      "album": {
         "name": "No Bounds",
         "url": "https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC"
       },
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
+      },
+      "artists": [
+        {
+          "name": "Silva & Steini",
+          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
+        }
+      ],
+      "duration_ms": 293700,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/78GkbIgSD0VI7ZV7bnBe5I"
+    },
+    {
+      "added_at": "2024-03-20 13:56:44",
+      "album": {
         "name": "Neon Blue",
         "url": "https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh"
       },
@@ -1987,22 +2003,6 @@
       "duration_ms": 262346,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/2KCvVYuwYhuzxbH7pQSfUL"
-    },
-    {
-      "added_at": "2024-03-20 13:56:44",
-      "album": {
-        "name": "Stealing Moments",
-        "url": "https://open.spotify.com/album/5IRLJ5KaSYAHZ2Hr622qbt"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "Hands Off",
-      "url": "https://open.spotify.com/track/0g1JDkIaDX3xGAEdZ63XTe"
     },
     {
       "added_at": "2024-03-20 13:56:44",

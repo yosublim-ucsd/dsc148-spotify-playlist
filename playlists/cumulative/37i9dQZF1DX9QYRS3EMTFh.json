@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Maureen",
+  "description": "Les hits dancehall du moment. Photo : Kybba",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 203576,
       "name": "Dancehall Nice Again - Basik Riddim",
       "url": "https://open.spotify.com/track/2lBhYqRXgb8HaiF8nbpQtF"
@@ -2036,6 +2036,28 @@
       "duration_ms": 138901,
       "name": "Discreet",
       "url": "https://open.spotify.com/track/1DvwTv5wKJHGG8kPIohLz2"
+    },
+    {
+      "album": {
+        "name": "Dof\u00e9",
+        "url": "https://open.spotify.com/album/3e4B2TDY98olu7g4Nf1J6n"
+      },
+      "artists": [
+        {
+          "name": "Marshall",
+          "url": "https://open.spotify.com/artist/3PVXeZI5d2zsKUDjmxOKtM"
+        },
+        {
+          "name": "DJ MiMi",
+          "url": "https://open.spotify.com/artist/0nM2p46IFFB8f3NQxspjG5"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157565,
+      "name": "Dof\u00e9",
+      "url": "https://open.spotify.com/track/1mFpkxW8xBd2tvci9HQLEC"
     },
     {
       "album": {
@@ -2960,6 +2982,28 @@
       "duration_ms": 136337,
       "name": "Hell Yeah",
       "url": "https://open.spotify.com/track/5y5b7bIG6JJpMwWI7Ok1X0"
+    },
+    {
+      "album": {
+        "name": "Love 66",
+        "url": "https://open.spotify.com/album/0hWOhFM6XiZl9HDFNUAdKE"
+      },
+      "artists": [
+        {
+          "name": "Mallaury",
+          "url": "https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV"
+        },
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173946,
+      "name": "Himeros (feat. Bamby)",
+      "url": "https://open.spotify.com/track/327nnaX3FQ1VySeHzed1jQ"
     },
     {
       "album": {
@@ -4392,7 +4436,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 142833,
       "name": "Mi Body Yeah",
       "url": "https://open.spotify.com/track/6YXC9jXQ76j7BPdG67yCsW"
@@ -5162,7 +5206,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 216887,
       "name": "PAPA",
       "url": "https://open.spotify.com/track/7aQWrIsNNLXTO2BS5GoJfE"
@@ -5210,7 +5254,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 183861,
       "name": "Party",
       "url": "https://open.spotify.com/track/3AffxycA3klo1JrIMKZPCz"

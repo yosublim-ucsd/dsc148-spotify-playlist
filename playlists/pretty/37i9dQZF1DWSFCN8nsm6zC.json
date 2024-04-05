@@ -1,12 +1,12 @@
 {
   "description": "Rock for the road. Cover: The Strokes",
-  "num_followers": 32148,
+  "num_followers": 32155,
   "original_name": "Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmFiMTU5NDFlNjIwZWVkZDZhMDQ4OTFiMGM0YzZjZTAyYzRiYzA1",
+  "snapshot_id": "MCwxNjM2ODZjNDhjODU3MTQwZjNmMzg5Mjk2MWE4MDU1NWNjZTY5M2Yz",
   "tracks": [
     {
       "added_at": "2021-07-01 23:15:26",
@@ -201,22 +201,6 @@
       "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
     },
     {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Say It Ain't So",
-      "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
-    },
-    {
       "added_at": "2022-06-30 18:55:35",
       "album": {
         "name": "Room On Fire",
@@ -231,6 +215,22 @@
       "duration_ms": 219826,
       "name": "Reptilia",
       "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Say It Ain't So",
+      "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
     },
     {
       "added_at": "2021-07-01 23:15:26",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 244293,
-      "name": "Mountain at My Gates",
-      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 179813,
       "name": "Here It Goes Again",
       "url": "https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 244293,
+      "name": "Mountain at My Gates",
+      "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
     },
     {
       "added_at": "2022-06-30 18:55:35",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 462266,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 189400,
       "name": "Pork And Beans",
       "url": "https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 462266,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
     },
     {
       "added_at": "2022-06-30 18:55:35",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI"
     },
     {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
-        "name": "LCD Soundsystem",
-        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 314556,
-      "name": "Daft Punk Is Playing at My House",
-      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
-    },
-    {
       "added_at": "2022-06-30 18:55:35",
       "album": {
         "name": "Guero",
@@ -1031,6 +1015,22 @@
       "duration_ms": 202360,
       "name": "E-Pro",
       "url": "https://open.spotify.com/track/01MBhRpvFkbeRwAp7gcF2W"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "LCD Soundsystem",
+        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 314556,
+      "name": "Daft Punk Is Playing at My House",
+      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
     },
     {
       "added_at": "2021-07-01 23:15:26",

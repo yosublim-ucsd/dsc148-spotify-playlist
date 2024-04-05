@@ -1,12 +1,12 @@
 {
   "description": "With By The Coast, LAVE, VICTORS and more",
-  "num_followers": 1724,
+  "num_followers": 1723,
   "original_name": "NIGHT TRAVELER Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzUwNDlkNjEzMDJlYzc2MDY3MTQwMTE4YTg4YTllZDM1Y2Q3MDA5",
+  "snapshot_id": "MCxhMjJkYWJmYTE5MzEwM2VmMDUxNzQ5MDg0NzQ5NTI4MTZmOTdkNTg5",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2L9JqYt7BxSiqz0YZ3Dd9l"
+      },
+      "artists": [
+        {
+          "name": "The Ivy",
+          "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
+        }
+      ],
+      "duration_ms": 215823,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6roiPaka61jSTdVIH5B35F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lost Years",
         "url": "https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e"
       },
@@ -36,9 +52,29 @@
           "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
         }
       ],
-      "duration_ms": 245511,
-      "name": "Miles Ahead",
-      "url": "https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex"
+      "duration_ms": 289408,
+      "name": "Nothing New",
+      "url": "https://open.spotify.com/track/3FvlayEQ7rHflEnZCt1zdH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/01NvO6TqiKVs74m5BThWsf"
+      },
+      "artists": [
+        {
+          "name": "Katz",
+          "url": "https://open.spotify.com/artist/3g9k2cNSlZn5zbRT2l671q"
+        },
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        }
+      ],
+      "duration_ms": 199185,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/3yTJT5zArfnNnHNIvieAAw"
     },
     {
       "added_at": null,
@@ -59,50 +95,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young and in Love",
-        "url": "https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo"
+        "name": "Heavy Sunshine",
+        "url": "https://open.spotify.com/album/3JRMAxyr1L8YEACfr9nQ34"
       },
       "artists": [
         {
-          "name": "The Wild Wind",
-          "url": "https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y"
-        }
-      ],
-      "duration_ms": 295000,
-      "name": "The Ocean",
-      "url": "https://open.spotify.com/track/2FrpcMmVduj9eX1NmTqmLs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW"
-      },
-      "artists": [
+          "name": "La Bouquet",
+          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
+        },
         {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+          "name": "Olivver the Kid",
+          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
         }
       ],
-      "duration_ms": 302266,
-      "name": "Prom Night",
-      "url": "https://open.spotify.com/track/5pOuutOhdUKIR9eruBTLD4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ruminations",
-        "url": "https://open.spotify.com/album/3ywsSe0AcPuKJQCVxEmX8P"
-      },
-      "artists": [
-        {
-          "name": "Boundary Run",
-          "url": "https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8"
-        }
-      ],
-      "duration_ms": 221817,
-      "name": "Make It Out",
-      "url": "https://open.spotify.com/track/3CHFQauBPBcIqFyL3kqA4y"
+      "duration_ms": 246226,
+      "name": "Kiss Me, Kill Me",
+      "url": "https://open.spotify.com/track/3qNUnRoxy02gAbBaQQUsEN"
     },
     {
       "added_at": null,
@@ -116,25 +124,25 @@
           "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
         }
       ],
-      "duration_ms": 203600,
-      "name": "Put Your Money on Me",
-      "url": "https://open.spotify.com/track/4Q1pnbP3KrfMus9LeqorGB"
+      "duration_ms": 217893,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/4glRuGLzYN6uT7NC56tQ18"
     },
     {
       "added_at": null,
       "album": {
-        "name": "On the Corner Where You Live",
-        "url": "https://open.spotify.com/album/02g8cOPykp2ZbBFDfScCTE"
+        "name": "[ The Black Era ]",
+        "url": "https://open.spotify.com/album/47rOikEyuwGUCqGpTemU7G"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+          "name": "Jet Black Alley Cat",
+          "url": "https://open.spotify.com/artist/6p2LDcKxYGWM4azuOXNPHJ"
         }
       ],
-      "duration_ms": 279480,
-      "name": "Deep Burn Blue",
-      "url": "https://open.spotify.com/track/3cArmShnXQh0ZsCWtfMOZZ"
+      "duration_ms": 240532,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/7zO6KQDrxDwhJqE6goQ5s7"
     },
     {
       "added_at": null,
@@ -155,34 +163,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rearview",
-        "url": "https://open.spotify.com/album/3f6DvjqGkMsTnVRn8s0udM"
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/4vpZiKNXO0eTWDWwJai3Iw"
       },
       "artists": [
         {
-          "name": "Run River North",
-          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
+          "name": "Honest Men",
+          "url": "https://open.spotify.com/artist/7ed5eSusVIBEIvmkASgzKj"
         }
       ],
-      "duration_ms": 222913,
-      "name": "Rearview",
-      "url": "https://open.spotify.com/track/0xl44WcbjRXYGz1rV0oAY5"
+      "duration_ms": 220200,
+      "name": "Ain't No Mountain High Enough",
+      "url": "https://open.spotify.com/track/6lUpzSb4oXUvqAoAgwiKqB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "En Masse",
-        "url": "https://open.spotify.com/album/2rBTBvbPLnR0M64UrLTy6Z"
+        "name": "Harvest Moon",
+        "url": "https://open.spotify.com/album/49tsUiIz7GtVWCgtol17tG"
       },
       "artists": [
         {
-          "name": "Mike Edel",
-          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
+          "name": "Mree",
+          "url": "https://open.spotify.com/artist/3K8cGxW088HVyhFSGWJJcX"
         }
       ],
-      "duration_ms": 207960,
-      "name": "Still Thinking About You",
-      "url": "https://open.spotify.com/track/5sIdAQhsVsX8W6qmjadnVY"
+      "duration_ms": 206391,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/2c0kbDABGzZ5fK6nQ98w7X"
     },
     {
       "added_at": null,
@@ -219,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Okay",
-        "url": "https://open.spotify.com/album/4vpZiKNXO0eTWDWwJai3Iw"
-      },
-      "artists": [
-        {
-          "name": "Honest Men",
-          "url": "https://open.spotify.com/artist/7ed5eSusVIBEIvmkASgzKj"
-        }
-      ],
-      "duration_ms": 220200,
-      "name": "Ain't No Mountain High Enough",
-      "url": "https://open.spotify.com/track/6lUpzSb4oXUvqAoAgwiKqB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faint of Heart",
         "url": "https://open.spotify.com/album/6Oo2L6mlblKkGSWj49Q7mn"
       },
@@ -251,38 +243,98 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fireworks",
-        "url": "https://open.spotify.com/album/0MqgCjyXIKDtXURPHR3nwr"
+        "name": "Better in My Head",
+        "url": "https://open.spotify.com/album/5BqoxzrqKjb2SAriU4FFSR"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "The Ivy",
+          "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
         }
       ],
-      "duration_ms": 242014,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/6qIUd9qdVd3xtVYT6CAQZn"
+      "duration_ms": 253760,
+      "name": "Better in My Head",
+      "url": "https://open.spotify.com/track/31r5NLOx5L31PWYT9GvCQV"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Will You Think of Me Later?",
-        "url": "https://open.spotify.com/album/2a3SSXkv6PfXWhg0qw9qGk"
+        "name": "En Masse",
+        "url": "https://open.spotify.com/album/2rBTBvbPLnR0M64UrLTy6Z"
       },
       "artists": [
         {
-          "name": "Edwin Raphael",
-          "url": "https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB"
-        },
-        {
-          "name": "Ridgely",
-          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
+          "name": "Mike Edel",
+          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
         }
       ],
-      "duration_ms": 232645,
-      "name": "Tangerine Skies",
-      "url": "https://open.spotify.com/track/5MLtBfZLclv3RXu3dILibe"
+      "duration_ms": 207960,
+      "name": "Still Thinking About You",
+      "url": "https://open.spotify.com/track/5sIdAQhsVsX8W6qmjadnVY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreams You Don't Forget",
+        "url": "https://open.spotify.com/album/3PJe5CI9HcvQaQtDvCZmS4"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "duration_ms": 245920,
+      "name": "Bad Enough",
+      "url": "https://open.spotify.com/track/1hGMEpBTCc5Ch2DiWtnnPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Space and Time (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6kHxPKAWHgv7wVaM2qcKlV"
+      },
+      "artists": [
+        {
+          "name": "The Bad Dreamers",
+          "url": "https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY"
+        }
+      ],
+      "duration_ms": 265074,
+      "name": "New York Minute",
+      "url": "https://open.spotify.com/track/4ZxfbHZufqs1EZhMVBvqIl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Don't Know How",
+        "url": "https://open.spotify.com/album/3L5PBa1KeL6SDrRYGgYdc4"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "duration_ms": 226106,
+      "name": "I Don't Know How",
+      "url": "https://open.spotify.com/track/6Xfx2CvOzptlBsVaWogTZb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lost Years",
+        "url": "https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e"
+      },
+      "artists": [
+        {
+          "name": "The Strike",
+          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
+        }
+      ],
+      "duration_ms": 298628,
+      "name": "Looking for Love",
+      "url": "https://open.spotify.com/track/5UvcNAtYa3davlDx7FoHXG"
     },
     {
       "added_at": null,
@@ -307,18 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Someone To You",
-        "url": "https://open.spotify.com/album/5EIHcxxy0gZCYOxjLVpWTP"
+        "name": "Day by Day",
+        "url": "https://open.spotify.com/album/3qq5vTW7xGBgSD9YHrc84B"
       },
       "artists": [
         {
-          "name": "Great Good Fine Ok",
-          "url": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
+          "name": "Perlo",
+          "url": "https://open.spotify.com/artist/7HoyQiwbj67vedZeOSFQSJ"
         }
       ],
-      "duration_ms": 200111,
-      "name": "Someone To You",
-      "url": "https://open.spotify.com/track/0X48tmPQTHN2vtoyAnJK8M"
+      "duration_ms": 191885,
+      "name": "Day by Day",
+      "url": "https://open.spotify.com/track/5WDHgJilJuL7PZHvE2MgKD"
     },
     {
       "added_at": null,
@@ -339,24 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lost Years",
-        "url": "https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e"
-      },
-      "artists": [
-        {
-          "name": "The Strike",
-          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
-        }
-      ],
-      "duration_ms": 298628,
-      "name": "Looking for Love",
-      "url": "https://open.spotify.com/track/5UvcNAtYa3davlDx7FoHXG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dialtone",
-        "url": "https://open.spotify.com/album/0fBvgPPG4ivVersSP7GvoR"
+        "name": "I'll Explain Later",
+        "url": "https://open.spotify.com/album/4cWNuV3nsNGtOpBnX8LvFH"
       },
       "artists": [
         {
@@ -364,57 +400,41 @@
           "url": "https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Dialtone",
-      "url": "https://open.spotify.com/track/0IsB9kYyUfWVxFP85bFAmX"
+      "duration_ms": 230138,
+      "name": "Maybe, One Day",
+      "url": "https://open.spotify.com/track/3FQquWL1AHJ8pO75e0MFkk"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Day by Day",
-        "url": "https://open.spotify.com/album/3qq5vTW7xGBgSD9YHrc84B"
+        "name": "Last Line",
+        "url": "https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU"
       },
       "artists": [
         {
-          "name": "Perlo",
-          "url": "https://open.spotify.com/artist/7HoyQiwbj67vedZeOSFQSJ"
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
         }
       ],
-      "duration_ms": 191885,
-      "name": "Day by Day",
-      "url": "https://open.spotify.com/track/5WDHgJilJuL7PZHvE2MgKD"
+      "duration_ms": 292296,
+      "name": "Last Line",
+      "url": "https://open.spotify.com/track/531Ja3DY2r2Auhk10OseCM"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Headphones",
-        "url": "https://open.spotify.com/album/5jmUnHI6B32EloahOxu4sF"
+        "name": "Washed Wine",
+        "url": "https://open.spotify.com/album/6cPnpY4PBuarcZVCOkddjA"
       },
       "artists": [
         {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+          "name": "LAVE",
+          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
         }
       ],
-      "duration_ms": 204998,
-      "name": "Headphones",
-      "url": "https://open.spotify.com/track/7mQmu0JSoEyYU763IJXhIA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Veins",
-        "url": "https://open.spotify.com/album/32akDKytJQVzrYLNWSWPgq"
-      },
-      "artists": [
-        {
-          "name": "LOS LEO",
-          "url": "https://open.spotify.com/artist/66JYtwqQMdDFgBgMP1NENW"
-        }
-      ],
-      "duration_ms": 217950,
-      "name": "Veins",
-      "url": "https://open.spotify.com/track/4wdEpS3727zs26eMMrPSPa"
+      "duration_ms": 219457,
+      "name": "Washed Wine",
+      "url": "https://open.spotify.com/track/6ZEdXD3Eeh34PPNXcF0Tdz"
     },
     {
       "added_at": null,
@@ -435,6 +455,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/1rKMKM5DxCNjNy5PAMCYG3"
+      },
+      "artists": [
+        {
+          "name": "LOS LEO",
+          "url": "https://open.spotify.com/artist/66JYtwqQMdDFgBgMP1NENW"
+        }
+      ],
+      "duration_ms": 220263,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/0lSMpziFnq22pEGxEDX65C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/3XrMEkjELnohhHQ5QP8CMT"
+      },
+      "artists": [
+        {
+          "name": "Knox Hamilton",
+          "url": "https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "18",
+      "url": "https://open.spotify.com/track/0a4D2cX2i3T6y4Ei0tut1A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Have You Ever Been in Love",
+        "url": "https://open.spotify.com/album/62GPrUhZ7nrZCGTmUQQppc"
+      },
+      "artists": [
+        {
+          "name": "The Ivy",
+          "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
+        }
+      ],
+      "duration_ms": 208336,
+      "name": "Have You Ever Been in Love",
+      "url": "https://open.spotify.com/track/0n9B2zPLq1AOlUqsENmqLz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW"
       },
@@ -451,18 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'll Explain Later",
-        "url": "https://open.spotify.com/album/4cWNuV3nsNGtOpBnX8LvFH"
+        "name": "Olympia",
+        "url": "https://open.spotify.com/album/3joUkie2ZoNneYqgM4NpDJ"
       },
       "artists": [
         {
-          "name": "Hotel Apache",
-          "url": "https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y"
+          "name": "LAVE",
+          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
         }
       ],
-      "duration_ms": 230138,
-      "name": "Maybe, One Day",
-      "url": "https://open.spotify.com/track/3FQquWL1AHJ8pO75e0MFkk"
+      "duration_ms": 264000,
+      "name": "Olympia",
+      "url": "https://open.spotify.com/track/2ujg7mbti0S8Z1Kj1Uu31H"
     },
     {
       "added_at": null,
@@ -487,50 +555,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seafoam",
-        "url": "https://open.spotify.com/album/4karetyaFfxwXYKPHcfZTG"
+        "name": "Veins",
+        "url": "https://open.spotify.com/album/32akDKytJQVzrYLNWSWPgq"
       },
       "artists": [
         {
-          "name": "LAVE",
-          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
+          "name": "LOS LEO",
+          "url": "https://open.spotify.com/artist/66JYtwqQMdDFgBgMP1NENW"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Seafoam",
-      "url": "https://open.spotify.com/track/0WW5aR86VYihIAK2TQ0ud1"
+      "duration_ms": 217950,
+      "name": "Veins",
+      "url": "https://open.spotify.com/track/4wdEpS3727zs26eMMrPSPa"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dreams You Don't Forget",
-        "url": "https://open.spotify.com/album/3PJe5CI9HcvQaQtDvCZmS4"
+        "name": "Craving (Stripped)",
+        "url": "https://open.spotify.com/album/05LKka0bXtrUTycvvb45yX"
       },
       "artists": [
         {
-          "name": "NIGHT TRAVELER",
-          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+          "name": "VICTORS",
+          "url": "https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN"
         }
       ],
-      "duration_ms": 318666,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/42I9tq6REnLRlb92sSQg5m"
+      "duration_ms": 262055,
+      "name": "Craving - Stripped",
+      "url": "https://open.spotify.com/track/0sHwAoE0wqZo54qFJGPCpB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "pLAyed Out",
-        "url": "https://open.spotify.com/album/50W579OvxH4kPFZ3X4pd87"
+        "name": "Great Good Five Ok",
+        "url": "https://open.spotify.com/album/7wSrwRAZqvDKESkUFwqdFG"
       },
       "artists": [
         {
-          "name": "The True Blue",
-          "url": "https://open.spotify.com/artist/1mVhWJe3qmfTXM7ByuoryV"
+          "name": "Great Good Fine Ok",
+          "url": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
+        },
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
         }
       ],
-      "duration_ms": 204464,
-      "name": "pLAyed Out",
-      "url": "https://open.spotify.com/track/4PUAuPFSIAbyQiXpPbfoOT"
+      "duration_ms": 176653,
+      "name": "You Don\u2019t Look at Me the Same",
+      "url": "https://open.spotify.com/track/2rggoRqUqZcsznpwSRYSqx"
     },
     {
       "added_at": null,
@@ -544,73 +616,9 @@
           "url": "https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY"
         }
       ],
-      "duration_ms": 233460,
-      "name": "Let Go Of Me",
-      "url": "https://open.spotify.com/track/6Yfny3kWJFGZ8DVN2JNG6K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heard It in a Dream, Love",
-        "url": "https://open.spotify.com/album/0G0952x5VWLLsNLOYKj5gI"
-      },
-      "artists": [
-        {
-          "name": "Rhineland",
-          "url": "https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/4CbEywsdQl5J2e2XQhYEfq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ruminations",
-        "url": "https://open.spotify.com/album/3ywsSe0AcPuKJQCVxEmX8P"
-      },
-      "artists": [
-        {
-          "name": "Boundary Run",
-          "url": "https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "Lose Ourselves",
-      "url": "https://open.spotify.com/track/1QsxTZXP6ea8N6u2baMJza"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Olympia",
-        "url": "https://open.spotify.com/album/3joUkie2ZoNneYqgM4NpDJ"
-      },
-      "artists": [
-        {
-          "name": "LAVE",
-          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Olympia",
-      "url": "https://open.spotify.com/track/2ujg7mbti0S8Z1Kj1Uu31H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lost Years",
-        "url": "https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e"
-      },
-      "artists": [
-        {
-          "name": "The Strike",
-          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
-        }
-      ],
-      "duration_ms": 210218,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/5Z6ZEZlVbXQyUaKicZZtFG"
+      "duration_ms": 279692,
+      "name": "Holier Than Thou",
+      "url": "https://open.spotify.com/track/0ZQjM2deKXP34B1xugQd8I"
     },
     {
       "added_at": null,
@@ -631,34 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esc.",
-        "url": "https://open.spotify.com/album/7n0KxAWj7U7T9LTKBNUOtU"
+        "name": "Ruminations",
+        "url": "https://open.spotify.com/album/3ywsSe0AcPuKJQCVxEmX8P"
       },
       "artists": [
         {
-          "name": "Ville",
-          "url": "https://open.spotify.com/artist/0gMDmT9p1JEmsjF97dFYBV"
+          "name": "Boundary Run",
+          "url": "https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8"
         }
       ],
-      "duration_ms": 276914,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/0YxZf6wyEkeIESIcjLWhmh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'll Explain Later",
-        "url": "https://open.spotify.com/album/4cWNuV3nsNGtOpBnX8LvFH"
-      },
-      "artists": [
-        {
-          "name": "Hotel Apache",
-          "url": "https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y"
-        }
-      ],
-      "duration_ms": 206111,
-      "name": "1985",
-      "url": "https://open.spotify.com/track/6p6Mjbm1pgMUvuRezkm5DG"
+      "duration_ms": 205500,
+      "name": "Lose Ourselves",
+      "url": "https://open.spotify.com/track/1QsxTZXP6ea8N6u2baMJza"
     },
     {
       "added_at": null,
@@ -676,25 +668,41 @@
           "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
         }
       ],
-      "duration_ms": 264760,
-      "name": "Pure Heartbreak",
-      "url": "https://open.spotify.com/track/7rmSRifU9BBWYlUK2msZE7"
+      "duration_ms": 344120,
+      "name": "Scream My Name",
+      "url": "https://open.spotify.com/track/41daczL3He3HE03W9QeTKJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dead of Night",
-        "url": "https://open.spotify.com/album/3AV2mYwY7ofNBMO1hTXvfo"
+        "name": "Suncats",
+        "url": "https://open.spotify.com/album/6NV0j4IBP308X9FdZvO38e"
       },
       "artists": [
         {
-          "name": "Beach Tiger",
-          "url": "https://open.spotify.com/artist/5qzpmNVaiypyq7VpVYPn92"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 222026,
-      "name": "Dead of Night",
-      "url": "https://open.spotify.com/track/7EIzEesO7gQ8Ywpnis8dQK"
+      "duration_ms": 292857,
+      "name": "Suncats",
+      "url": "https://open.spotify.com/track/2xCj3kJNzpdGVQtWyac0ad"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face Value",
+        "url": "https://open.spotify.com/album/1BPnR765HbEx1GV5op6EWq"
+      },
+      "artists": [
+        {
+          "name": "Dylan Dunlap",
+          "url": "https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W"
+        }
+      ],
+      "duration_ms": 211126,
+      "name": "Face Value",
+      "url": "https://open.spotify.com/track/5bg2Y4xbK7Q81Z0vO6233a"
     },
     {
       "added_at": null,
@@ -731,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Changing",
+        "url": "https://open.spotify.com/album/7zEYTqqrqNO5RU65cAMYKc"
+      },
+      "artists": [
+        {
+          "name": "Walden",
+          "url": "https://open.spotify.com/artist/7IspetvXSZ5EjAymJEGJTF"
+        }
+      ],
+      "duration_ms": 222571,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/0vR3zXKUZnNtB208N5tykf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cannot Be, Whatsoever",
         "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
       },
@@ -747,18 +771,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Next Stop",
-        "url": "https://open.spotify.com/album/3ar2uUStkn9hAndFBRjHA3"
+        "name": "Resolve",
+        "url": "https://open.spotify.com/album/1jeNHG76cj07RcHxeqbdi4"
       },
       "artists": [
         {
-          "name": "The Ivy",
-          "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
+          "name": "Hayden Everett",
+          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
         }
       ],
-      "duration_ms": 229320,
-      "name": "I Don't Wanna",
-      "url": "https://open.spotify.com/track/6HwdOa2RXrdBbRAOS1CvxR"
+      "duration_ms": 214573,
+      "name": "Resolve",
+      "url": "https://open.spotify.com/track/4XDxd9R9sW50M9gbxJSBhH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Late Night Radio",
+        "url": "https://open.spotify.com/album/1R98VthtScKMC0wydg1enA"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Late Night Radio",
+      "url": "https://open.spotify.com/track/0UEdnmrowHcL0fPnZSGWDp"
     },
     {
       "added_at": null,
@@ -776,57 +816,25 @@
           "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
         }
       ],
-      "duration_ms": 244706,
-      "name": "Bad News!",
-      "url": "https://open.spotify.com/track/4COHO7LKVfV03fEOFqzyN9"
+      "duration_ms": 264760,
+      "name": "Pure Heartbreak",
+      "url": "https://open.spotify.com/track/7rmSRifU9BBWYlUK2msZE7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Morning Glow",
-        "url": "https://open.spotify.com/album/5dPZ01ZEZNP8w2xkSaVhnX"
+        "name": "Pale Ash",
+        "url": "https://open.spotify.com/album/5OJo9rpvpcFLhrN9lk2gBN"
       },
       "artists": [
         {
-          "name": "Hunter Plake",
-          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+          "name": "LAVE",
+          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
         }
       ],
-      "duration_ms": 146134,
-      "name": "Morning Glow",
-      "url": "https://open.spotify.com/track/6I7qAiVkCDbqRPUjd6bTDO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 313640,
-      "name": "Anew",
-      "url": "https://open.spotify.com/track/1irbTMG2ULyD9mmr3fpSk5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If I Can Be Honest",
-        "url": "https://open.spotify.com/album/3ZtL1SWFzq5SvYy5IacxJ1"
-      },
-      "artists": [
-        {
-          "name": "CALI JEWLS",
-          "url": "https://open.spotify.com/artist/0iDbrXm29WpIVqxhWaVzlH"
-        }
-      ],
-      "duration_ms": 222194,
-      "name": "If I Can Be Honest",
-      "url": "https://open.spotify.com/track/29JmpCDpzpo8g7M0ZsUBJX"
+      "duration_ms": 206600,
+      "name": "Pale Ash",
+      "url": "https://open.spotify.com/track/5udeA3sg1rTBxSBMmc9o5y"
     }
   ],
   "unique_name": "NIGHT TRAVELER Radio",

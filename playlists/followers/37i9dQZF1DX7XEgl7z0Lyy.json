@@ -1,9 +1,27 @@
 {
-  "2024-04-04": 398729,
+  "2024-04-05": 400057,
   "date_first_scraped": "2023-07-23",
   "description": "music from the underworld",
   "name": "hexxed",
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6LPcdvBpYreJXcEYOwbwgs"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/37xKfBHDeIzMeeScHOp89Q"
+    },
     {
       "album": {
         "name": "#KO1",
@@ -2569,24 +2587,6 @@
       "duration_ms": 123341,
       "name": "noble 6 (feat. nuvfr)",
       "url": "https://open.spotify.com/track/5sK8yQ6lyOe7sPrfWlIQLm"
-    },
-    {
-      "album": {
-        "name": "noir",
-        "url": "https://open.spotify.com/album/6LPcdvBpYreJXcEYOwbwgs"
-      },
-      "artists": [
-        {
-          "name": "sho",
-          "url": "https://open.spotify.com/artist/7J931Zo6xntPEBM04BANte"
-        }
-      ],
-      "date_added": "2024-03-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 97001,
-      "name": "noir",
-      "url": "https://open.spotify.com/track/37xKfBHDeIzMeeScHOp89Q"
     },
     {
       "album": {

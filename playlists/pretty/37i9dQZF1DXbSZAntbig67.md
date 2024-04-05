@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 
 > Canciones para celebrar la Navidad para toda la familia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,148 likes - 108 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,147 likes - 108 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 | 89 | [Rodolfo el Reno de la Nariz Roja](https://open.spotify.com/track/6BhqbJluxEaIk6ILy03YFS) | [Sasha](https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU) | [Top Latino Navidad \(Remix \- Audio\)](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 2:30 |
 | 90 | [Los Peces En El Rio](https://open.spotify.com/track/2cVXRo4Mp3j3HsyRyk0YtC) | [Rodolfo el Reno Y Musica Navideña](https://open.spotify.com/artist/7dalawerQXU02a0ncSjX7A) | [Rodolfo El Reno Y Canciones De Navidad](https://open.spotify.com/album/1RbeixDQXwUpBtNSmeAS93) | 2:18 |
 | 91 | [Jingle Bell Rock \- Spanish Mix](https://open.spotify.com/track/2jZ3EjE3zVqiWwRxJUPGer) | [Marco Pastor Estelles](https://open.spotify.com/artist/3MND8QdAIFyJJvvN8VPu4s) | [Jingle Bell Rock](https://open.spotify.com/album/6JoALfcujUh3AhqtFBOJ31) | 2:35 |
-| 92 | [Luces En Las Calles](https://open.spotify.com/track/0FWY6Qa8RSGeaJlyczwbBh) | [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek) | [Bilingual Christmas](https://open.spotify.com/album/4sTqtbkf9rL9maCeR7bnY8) | 2:45 |
+| 92 | [Luces en las Calles](https://open.spotify.com/track/0FWY6Qa8RSGeaJlyczwbBh) | [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Bilingual Christmas](https://open.spotify.com/album/4sTqtbkf9rL9maCeR7bnY8) | 2:45 |
 | 93 | [Campana Sobre Campana](https://open.spotify.com/track/6CtRTwMBibkJcRj7xbg3Sh) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 3:33 |
 | 94 | [Feliz Navidad](https://open.spotify.com/track/44xD4VflQVswhyAgjhXIQs) | [Coro Católico Navideño Virgen María](https://open.spotify.com/artist/1i2brfbbB4R5ZfRcKRaazP) | [Navidad para Niños\. Voces Blancas Cantan Villancicos](https://open.spotify.com/album/44PVoGzXgo7Awm0r37jPF4) | 2:56 |
 | 95 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/46pF1zFimM582ss1PrMy68) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:46 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 | 107 | [Farolito \(Little Star\)](https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV) | 4:39 |
 | 108 | [Aires De Navidad](https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 3:43 |
 
-Snapshot ID: `MCw4MDQ4ZTQwOWMwYTgxODdlOTVkODc1MDg0OTA0YWE3NjU1ZGIxMDhk`
+Snapshot ID: `MCw5OWE0ZmE5NWRmNWRmZjg0MzEwMTM2YzExNDAwMTNiYjhlMzkyYjgw`

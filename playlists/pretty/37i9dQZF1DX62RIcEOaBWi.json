@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 595102,
+  "num_followers": 595150,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWRiZDUxZTM4MjQ3OWMxY2RhYjg0NDZlNTA4ZjU2ZTE1MTU0NTg4",
+  "snapshot_id": "MCw0N2U2ZDYxMDNjMzYyMjFjYmQ3OTU5OTg5MjFkZWYwMzRiNThmYjRl",
   "tracks": [
     {
       "added_at": "2024-02-06 14:28:05",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 223280,
-      "name": "Midnight Sky",
-      "url": "https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Todo De Ti",
         "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "Midnight Sky",
+      "url": "https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Red Red Wine",
+      "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
         "name": "GRX",
         "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 157846,
       "name": "UNA BACHATA",
       "url": "https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
-      },
-      "artists": [
-        {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Red Red Wine",
-      "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "ZORRA",
-        "url": "https://open.spotify.com/album/5DyJyPd1uYQrE0iWTkhmRf"
-      },
-      "artists": [
-        {
-          "name": "Nebulossa",
-          "url": "https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF"
-        }
-      ],
-      "duration_ms": 183577,
-      "name": "ZORRA",
-      "url": "https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Higher Power",
         "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 211294,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "ZORRA",
+        "url": "https://open.spotify.com/album/5DyJyPd1uYQrE0iWTkhmRf"
+      },
+      "artists": [
+        {
+          "name": "Nebulossa",
+          "url": "https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF"
+        }
+      ],
+      "duration_ms": 183577,
+      "name": "ZORRA",
+      "url": "https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1387,22 +1387,22 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "La Bella y la Bestia",
-        "url": "https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR"
+        "name": "En Tus Planes",
+        "url": "https://open.spotify.com/album/63cRlzjRihSdheA6lKonRy"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         },
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 186359,
-      "name": "La Bella y la Bestia",
-      "url": "https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs"
+      "duration_ms": 196802,
+      "name": "A Partir De Hoy",
+      "url": "https://open.spotify.com/track/3Z7JMhKrVBiMvMd0xV1vyI"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1427,22 +1427,22 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "En Tus Planes",
-        "url": "https://open.spotify.com/album/63cRlzjRihSdheA6lKonRy"
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR"
       },
       "artists": [
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         },
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 196802,
-      "name": "A Partir De Hoy",
-      "url": "https://open.spotify.com/track/3Z7JMhKrVBiMvMd0xV1vyI"
+      "duration_ms": 186359,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "Quiero Decirte",
-        "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 222348,
-      "name": "Quiero Decirte",
-      "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Blockbuster",
         "url": "https://open.spotify.com/album/5a159rNIxq78lGa4qnoZBL"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 147907,
       "name": "El Principio de algo",
       "url": "https://open.spotify.com/track/6tZI1nTl6m40HG5Rs7QuHL"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "Quiero Decirte",
+        "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 222348,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 288053,
-      "name": "El lado oscuro",
-      "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 195760,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/5tpAcJ47UgF4udM5YXcDd2"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 288053,
+      "name": "El lado oscuro",
+      "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "amor de verano",
-        "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
-      },
-      "artists": [
-        {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "amor de verano",
-      "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Te Miro A La Cara",
         "url": "https://open.spotify.com/album/6LCwDsFIPU8BPk3f0jdzr3"
       },
@@ -2299,18 +2283,34 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "Tragas o Escupes",
-        "url": "https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7"
+        "name": "amor de verano",
+        "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
       },
       "artists": [
         {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
         }
       ],
-      "duration_ms": 214553,
-      "name": "Eso Que T\u00fa Me Das",
-      "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
+      "duration_ms": 176666,
+      "name": "amor de verano",
+      "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -2331,18 +2331,18 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+        "name": "Tragas o Escupes",
+        "url": "https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
         }
       ],
-      "duration_ms": 242946,
-      "name": "La Isla Bonita",
-      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
+      "duration_ms": 214553,
+      "name": "Eso Que T\u00fa Me Das",
+      "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
+        "name": "Aviones",
+        "url": "https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH"
+      },
+      "artists": [
+        {
+          "name": "Pereza",
+          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Lady Madrid",
+      "url": "https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
         "name": "Mucho Por Vivir",
         "url": "https://open.spotify.com/album/4lqmri54Jap1lOS7FthZrh"
       },
@@ -2407,22 +2423,6 @@
       "duration_ms": 216266,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
-        "name": "Aviones",
-        "url": "https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH"
-      },
-      "artists": [
-        {
-          "name": "Pereza",
-          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Lady Madrid",
-      "url": "https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -2495,22 +2495,18 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "COBARDE",
-        "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
+        "name": "Nuclear",
+        "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
         }
       ],
-      "duration_ms": 166081,
-      "name": "COBARDE",
-      "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
+      "duration_ms": 240984,
+      "name": "Como Si Fueras a Morir Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4aAfLSx9IthpC3Pw5pNk3E"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -2531,22 +2527,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "Nuclear",
-        "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 240984,
-      "name": "Como Si Fueras a Morir Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4aAfLSx9IthpC3Pw5pNk3E"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Arena En Los Bolsillos",
         "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
       },
@@ -2559,6 +2539,26 @@
       "duration_ms": 246240,
       "name": "Pajaros de Barro",
       "url": "https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "COBARDE",
+        "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 166081,
+      "name": "COBARDE",
+      "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
     },
     {
       "added_at": "2024-02-06 14:28:05",
@@ -2599,22 +2599,6 @@
     {
       "added_at": "2024-02-06 14:28:05",
       "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 375119,
-      "name": "Acabo de llegar",
-      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
-    },
-    {
-      "added_at": "2024-02-06 14:28:05",
-      "album": {
         "name": "Correcaminos",
         "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
       },
@@ -2631,6 +2615,22 @@
       "duration_ms": 182106,
       "name": "Correcaminos",
       "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
+    },
+    {
+      "added_at": "2024-02-06 14:28:05",
+      "album": {
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 375119,
+      "name": "Acabo de llegar",
+      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
     }
   ],
   "unique_name": "En el Trabajo",

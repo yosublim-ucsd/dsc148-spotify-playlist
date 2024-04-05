@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 417447,
+  "num_followers": 417466,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODZkMGM5NzVmMWU1ODhiNmIxYWQ5OGM3YjY2MzE1MDM1OWZhYjdi",
+  "snapshot_id": "MCw4MjNlMjA0OTJlZjMxZjk4OTRmMDc3M2IxZjM1ZWJmODYzMTMwMDBh",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -547,18 +547,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+        "name": "A Pillar of Salt",
+        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+      "duration_ms": 319053,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -579,6 +583,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "U.F.O.F.",
         "url": "https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 188413,
       "name": "UFOF",
       "url": "https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "A Pillar of Salt",
-        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 319053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 276826,
-      "name": "All The Good Times",
-      "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
-    },
-    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "Hero",
@@ -731,6 +715,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 276826,
+      "name": "All The Good Times",
+      "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 141666,
       "name": "Marion",
       "url": "https://open.spotify.com/track/4Pzg3KLuXxPJ2eFsPiN134"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Note to Self",
+        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "Nothing Compares",
+      "url": "https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -775,22 +791,6 @@
       "duration_ms": 245653,
       "name": "The Wolves",
       "url": "https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Note to Self",
-        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
-      },
-      "artists": [
-        {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "Nothing Compares",
-      "url": "https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Right on Time",
+        "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 192666,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Right on Time",
-        "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Cerulean",
-        "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
-      },
-      "artists": [
-        {
-          "name": "Ken Yates",
-          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
-        },
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 240787,
-      "name": "Consolation Prize",
-      "url": "https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Rubber",
         "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 223628,
       "name": "Keeping The Light On",
       "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        },
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 240787,
+      "name": "Consolation Prize",
+      "url": "https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "I'm Not Sorry, I Was Just Being Me",
+        "url": "https://open.spotify.com/album/42anHsnzFORglZyMr9udzN"
+      },
+      "artists": [
+        {
+          "name": "King Hannah",
+          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
+        }
+      ],
+      "duration_ms": 209603,
+      "name": "All Being Fine",
+      "url": "https://open.spotify.com/track/0HqSDUbwhv5h3XSsFHdSQF"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Among Horses III (Fifth Anniversary Edition)",
         "url": "https://open.spotify.com/album/5uXGkExjP5WJdeaGeBQ8hm"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 123000,
       "name": "Francis",
       "url": "https://open.spotify.com/track/4NSK5gHAFbeD0CGkEjaouz"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "I'm Not Sorry, I Was Just Being Me",
-        "url": "https://open.spotify.com/album/42anHsnzFORglZyMr9udzN"
-      },
-      "artists": [
-        {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
-        }
-      ],
-      "duration_ms": 209603,
-      "name": "All Being Fine",
-      "url": "https://open.spotify.com/track/0HqSDUbwhv5h3XSsFHdSQF"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "duration_ms": 119372,
+      "name": "Optimism",
+      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Deli Daydreams",
         "url": "https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 294296,
       "name": "Eviction Notice",
       "url": "https://open.spotify.com/track/2BGC8XJPFRm3f7ZX2FRPNy"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
-      },
-      "artists": [
-        {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
-        }
-      ],
-      "duration_ms": 119372,
-      "name": "Optimism",
-      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Beginners",
-        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 236813,
-      "name": "Lose This Number",
-      "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 271206,
       "name": "Rae Street",
       "url": "https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Beginners",
+        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 236813,
+      "name": "Lose This Number",
+      "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Latch",
-        "url": "https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi"
-      },
-      "artists": [
-        {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
-        }
-      ],
-      "duration_ms": 209819,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Note to Self",
         "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 210280,
       "name": "Control",
       "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Latch",
+        "url": "https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "duration_ms": 209819,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Cosmic Dancer",
-        "url": "https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 265995,
-      "name": "Cosmic Dancer",
-      "url": "https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Forever Half Mast",
         "url": "https://open.spotify.com/album/6JYgcV8VlG9sX18HhRHH4u"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 242488,
       "name": "Forever Half Mast",
       "url": "https://open.spotify.com/track/3A4qUZbBLjDWWUJ0ayr6Nk"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Cosmic Dancer",
+        "url": "https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 265995,
+      "name": "Cosmic Dancer",
+      "url": "https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Quitters",
-        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 208911,
-      "name": "Rubberneckers",
-      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Weather Balloons [Feat. Frances Cone]",
         "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 212502,
       "name": "Weather Balloons [Feat. Frances Cone]",
       "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Quitters",
+        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 208911,
+      "name": "Rubberneckers",
+      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2483,6 +2483,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Life and Life Only",
+        "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "All My Dreams",
+      "url": "https://open.spotify.com/track/5St1urzGD938Zo3BL12Mam"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Cala",
         "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
       },
@@ -2515,22 +2531,6 @@
       "duration_ms": 172520,
       "name": "Resentment (New Feelings Version)",
       "url": "https://open.spotify.com/track/3T5m746yNi1IFCcnaVA0IR"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Life and Life Only",
-        "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Heavy",
-          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "All My Dreams",
-      "url": "https://open.spotify.com/track/5St1urzGD938Zo3BL12Mam"
     }
   ],
   "unique_name": "Modern Eclectic",

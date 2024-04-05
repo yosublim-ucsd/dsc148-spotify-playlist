@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 465,
+  "2024-04-05": 465,
   "date_first_scraped": "2023-11-08",
   "description": "Close your eyes and relax to calm, peaceful piano melodies.",
   "name": "Calming Piano",
@@ -3841,6 +3841,24 @@
       "duration_ms": 105365,
       "name": "Pink Lightning",
       "url": "https://open.spotify.com/track/3uzRLP6BmoemR6P4j4WUrA"
+    },
+    {
+      "album": {
+        "name": "Prelude",
+        "url": "https://open.spotify.com/album/1kKmTZbBL1rxiwKavLd5H6"
+      },
+      "artists": [
+        {
+          "name": "Arrowsmith",
+          "url": "https://open.spotify.com/artist/3JhSV8X6sETpGxgkz9y5Gn"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131862,
+      "name": "Prelude",
+      "url": "https://open.spotify.com/track/01a2EaCPIDrJx2VCp8kFqs"
     },
     {
       "album": {

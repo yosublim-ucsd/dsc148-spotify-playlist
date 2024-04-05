@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 571613,
+  "num_followers": 571877,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTViN2I1MTZhZjNlYWU5Nzg2MGJmN2U1ODY2Mzg5ZmE4MTBiNzRj",
+  "snapshot_id": "MCw1NTA1YjJhN2QxOTE4OGEzY2NkZjE0NDVmODY4NzE4MTJlNTMwYTgy",
   "tracks": [
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mark, Tom And Travis Show (The Enema Strikes Back!) [Live]",
-        "url": "https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz"
+        "name": "Neighborhoods (Deluxe Explicit Version)",
+        "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 51306,
-      "name": "Family Reunion - Live/1999",
-      "url": "https://open.spotify.com/track/5TyHeZpXFaweWQxaihvmwH"
+      "duration_ms": 257519,
+      "name": "Ghost On The Dance Floor",
+      "url": "https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighborhoods (Deluxe Explicit Version)",
-        "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
+        "name": "The Mark, Tom And Travis Show (The Enema Strikes Back!) [Live]",
+        "url": "https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 257519,
-      "name": "Ghost On The Dance Floor",
-      "url": "https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d"
+      "duration_ms": 51306,
+      "name": "Family Reunion - Live/1999",
+      "url": "https://open.spotify.com/track/5TyHeZpXFaweWQxaihvmwH"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ"
+        "name": "Neighborhoods (Deluxe Explicit Version)",
+        "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 161066,
-      "name": "Another Girl Another Planet",
-      "url": "https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q"
+      "duration_ms": 200360,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/4M4taWkQGn3FcbH6tnH6mx"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighborhoods (Deluxe Explicit Version)",
-        "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 200360,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/4M4taWkQGn3FcbH6tnH6mx"
+      "duration_ms": 161066,
+      "name": "Another Girl Another Planet",
+      "url": "https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q"
     },
     {
       "added_at": null,

@@ -3250,7 +3250,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 174285,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/1MGsikUV7Y0q4Yr1rju8xz"
@@ -5980,6 +5980,32 @@
       "duration_ms": 358895,
       "name": "Ghost in Me - Lemon & Herb Remix",
       "url": "https://open.spotify.com/track/4BWZpIcAteH7rbQL0Ze6Eh"
+    },
+    {
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Lily Mckenzie",
+          "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176185,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm"
     },
     {
       "album": {

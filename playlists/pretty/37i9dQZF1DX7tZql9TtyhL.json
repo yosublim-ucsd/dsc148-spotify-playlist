@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica de ayer, el party de hoy.",
-  "num_followers": 439263,
+  "num_followers": 439288,
   "original_name": "TBT Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjYzMjMzNGQ3YTE3OGJiMmZiYmUzNWNmYzE5MjQ2YWM2YjBlOGQ2",
+  "snapshot_id": "MCw0NDk2OTZmNDA4ODQ3NWQyNjNjZjM5NDVhMjFmZTAwMTBjNDc1YjU1",
   "tracks": [
     {
       "added_at": "2023-11-30 12:32:36",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "Los Que Gustan",
         "url": "https://open.spotify.com/album/303q7Gwd1npoNdMFtoAe9s"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 186976,
       "name": "Corazon De Seda (feat. Ozuna)",
       "url": "https://open.spotify.com/track/0uRHot8ml8U8cYVwwzMwNT"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
         "name": "Por Fin Te Encontr\u00e9",
         "url": "https://open.spotify.com/album/6waZU5OJmLrEJqUvy4Zytm"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 250836,
       "name": "Por Fin Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/2DAULesb1U4Qz4FSTZpEUJ"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Mala Fama",
-      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Todo Comenz\u00f3 Bailando",
-        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 146506,
-      "name": "Todo Comenz\u00f3 Bailando",
-      "url": "https://open.spotify.com/track/2rrWhFrcSZcZQ2SDKPGKQ6"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "Ni Gucci Ni Prada",
         "url": "https://open.spotify.com/album/4x1ekBFExz90qUx1dKQByU"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 175200,
       "name": "Ni Gucci Ni Prada",
       "url": "https://open.spotify.com/track/32lexhcz93AinKK0qLTZaZ"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "Todo Comenz\u00f3 Bailando",
+        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 146506,
+      "name": "Todo Comenz\u00f3 Bailando",
+      "url": "https://open.spotify.com/track/2rrWhFrcSZcZQ2SDKPGKQ6"
     },
     {
       "added_at": "2023-11-30 12:32:36",

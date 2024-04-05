@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Future & Metro Boomin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,432 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,543 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 35 | [Lil Bastard \(feat\. Rob49\)](https://open.spotify.com/track/6mn8RvMkKooyaKqJ9V4Ndw) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Mr Beat The Road](https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb) | 3:00 |
 | 36 | [Wickstyle](https://open.spotify.com/track/0J1iJxPmVJRFtaYyWFU1YC) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Wickstyle](https://open.spotify.com/album/11inU7lZwHsEQ1JtuQY2oc) | 2:55 |
 | 37 | [﻿Grab My Stick](https://open.spotify.com/track/54S52EiOUaGiPKW1A5p59F) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Forgotten Star](https://open.spotify.com/album/1HNnHdrqYYAFlAzz50HE1I) | 1:42 |
-| 38 | [4 RINGS](https://open.spotify.com/track/0rjYs7qHlJosZTU8JA1vQL) | [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [4 RINGS](https://open.spotify.com/album/5zTQ1rxPUNkbYdb0VPcsaK) | 2:34 |
+| 38 | [4 RINGS \(feat\. BIG30\)](https://open.spotify.com/track/0rjYs7qHlJosZTU8JA1vQL) | [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [4 RINGS \(feat\. BIG30\)](https://open.spotify.com/album/5zTQ1rxPUNkbYdb0VPcsaK) | 2:34 |
 | 39 | [Rappin N Trappin](https://open.spotify.com/track/1nxoLeQx0GlJ3t7ZYZOVKM) | [Rublow](https://open.spotify.com/artist/4ldyGaB3s6qWtuhlNfwVZs) | [Rappin N Trappin](https://open.spotify.com/album/75dLcQdc2cf9TFDWJ6iNHP) | 1:55 |
 | 40 | [WTFYM](https://open.spotify.com/track/1xwvjqcwflD2NEqRCNcCo2) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:52 |
 | 41 | [Left Right](https://open.spotify.com/track/3qbCktPeVi8YHw265AQCZk) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [REDRUM Wizard \(Gangsta Grillz\)](https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [The One](https://open.spotify.com/track/3V0A5gVJFGy4Hmo3MJ59uD) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [I Showed U So](https://open.spotify.com/album/4GVyz2cTtsOtCX5Jk1zeaU) | 2:14 |
 | 100 | [Heard Of Me](https://open.spotify.com/track/7pw6IXqjBn0M68l5JI3mIV) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Heard Of Me](https://open.spotify.com/album/21EvF7Ad9W7agK0o0vSBqz) | 3:44 |
 
-Snapshot ID: `MCwzMWEwMzE5NDJlZDVmNzA0NjdhNjIzOTgwNzYwYWVkYTE5NTVhNjQ1`
+Snapshot ID: `MCw3MWVkMGVlNGZjNzQ1Y2JmNDhiNGI2MWZjYzdiZTc3NDY1YTJiODc5`

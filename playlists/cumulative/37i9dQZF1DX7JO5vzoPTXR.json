@@ -5179,6 +5179,24 @@
     },
     {
       "album": {
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/17x9sehv8aThjt5SjzShn4"
+      },
+      "artists": [
+        {
+          "name": "Anna Mae",
+          "url": "https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145547,
+      "name": "Heartthrob",
+      "url": "https://open.spotify.com/track/21fvtJqzyGcXBePIg8waUm"
+    },
+    {
+      "album": {
         "name": "Little Oblivions",
         "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },

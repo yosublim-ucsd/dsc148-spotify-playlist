@@ -1,12 +1,12 @@
 {
   "description": "All the of punk rock that you need in your life. ",
-  "num_followers": 912806,
+  "num_followers": 912835,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2ZiYzNiNTEzNWYxMGQ0M2M0MjhjYjk4NjdjMDk1ZTFiZjA1NDZj",
+  "snapshot_id": "MCwyYWVjZDhiMzdkMjA2NDk2NWFkNWQ3MjkzZTY0NzViZDBlY2Y5MGM0",
   "tracks": [
     {
       "added_at": "2024-02-06 19:36:52",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Bro Hymn - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
         "name": "Say It Like You Mean It",
         "url": "https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 258266,
       "name": "The Best Of Me",
       "url": "https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Bro Hymn - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
     }
   ],
   "unique_name": "Punk Essentials",

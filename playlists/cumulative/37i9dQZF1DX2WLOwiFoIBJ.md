@@ -4,7 +4,7 @@
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE?si=qdWK3\-k8R2u1\_TroCpsRWg">Kevin Abstract's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-30 songs - 1 hr 53 min
+31 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Dramamine](https://open.spotify.com/track/5vtRk4rYxiy4cj95cmJ5Ma) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [This Is a Long Drive for Someone with Nothing to Think About](https://open.spotify.com/album/3PTktNuj2FItJr8afuiieo) | 5:42 | 2023-11-24 |  |
 | [For Ivadell](https://open.spotify.com/track/2ECZzeWJF7pEXpzmnsMYLS) | [Mineral](https://open.spotify.com/artist/3N4eFtnZCCXfMs0hBQwujT) | [EndSerenading](https://open.spotify.com/album/4huCR57Zm45LMaeUlgJHkU) | 3:36 | 2023-11-24 |  |
 | [Galapogos \- Remastered 2012](https://open.spotify.com/track/2yKrGPtIwsiwv5tGTDgpNd) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:46 | 2023-11-24 |  |
-| [Gnaw](https://open.spotify.com/track/4KwttC1ZokLqillyhJgSe8) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 3:21 | 2023-11-24 |  |
+| [Gnaw](https://open.spotify.com/track/4F7SWwVXyvGlCs9TtXJbUd) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/42bSpkr89bdrwMMNuEZlDJ) | 3:21 | 2023-11-24 |  |
+| [Gnaw](https://open.spotify.com/track/4KwttC1ZokLqillyhJgSe8) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 3:21 | 2023-11-24 | 2024-04-05 |
 | [Gravity Rides Everything](https://open.spotify.com/track/1pPqVrG2RCHXx81Aw4xp99) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Moon & Antarctica](https://open.spotify.com/album/5SbcupirEParczvqqyUPXL) | 4:19 | 2023-11-24 |  |
 | [Hope](https://open.spotify.com/track/35UO6dWrEPLmeSVXtAysS4) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 2:36 | 2023-11-24 |  |
 | [In Circles \- Remastered](https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(Remastered and Expanded Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:58 | 2023-11-24 |  |

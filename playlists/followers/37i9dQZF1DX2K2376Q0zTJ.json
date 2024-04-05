@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 15090,
+  "2024-04-05": 15140,
   "date_first_scraped": "2021-12-28",
   "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002\u4eca\u6708\u306e\u30a2\u30f3\u30d0\u30b5\u30c0\u30fc: Furui RIho",
   "name": "EQUAL Japan",
@@ -693,6 +693,24 @@
       "duration_ms": 159678,
       "name": "Atlantic Ocean",
       "url": "https://open.spotify.com/track/5yBytSuO06LvrSmiEavHgU"
+    },
+    {
+      "album": {
+        "name": "Awaini",
+        "url": "https://open.spotify.com/album/2PKY0nUkj6ou7NS1TWyDBx"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201471,
+      "name": "Awaini",
+      "url": "https://open.spotify.com/track/2LvtiKmK2dOIH8NjSlix7d"
     },
     {
       "album": {
@@ -15545,7 +15563,7 @@
     {
       "album": {
         "name": "Love One Another",
-        "url": "https://open.spotify.com/album/47MmxhLmTn7W91dxYCHvT9"
+        "url": "https://open.spotify.com/album/2BKXSl0ktKpWNHzqdAAy1T"
       },
       "artists": [
         {
@@ -15556,6 +15574,24 @@
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 225149,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/4V79L8tRqdgQLT1og54hN6"
+    },
+    {
+      "album": {
+        "name": "Love One Another",
+        "url": "https://open.spotify.com/album/47MmxhLmTn7W91dxYCHvT9"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-04",
       "duration_ms": 225149,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/7Bek5MohEgCbfAs91H3Di1"
@@ -16097,7 +16133,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 201471,
       "name": "\u3042\u308f\u3044\u306b",
       "url": "https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95"

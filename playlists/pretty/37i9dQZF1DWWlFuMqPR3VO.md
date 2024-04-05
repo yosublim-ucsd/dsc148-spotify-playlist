@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 
 > From the jazzy, up\-beat New Orleans blues to the slower, zydeco and Cajun\-influenced Swamp blues\. Cover: Kenny Neal
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,613 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,618 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zulu Coconuts](https://open.spotify.com/track/0HmkfDik3HhtV3LU2LxUe9) | [Jon Cleary](https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX) | [Zulu Coconuts](https://open.spotify.com/album/33urWPWjTlYBzGmKPASk8S) | 4:12 |
-| 2 | [New Orleans](https://open.spotify.com/track/0wyqkOP61KLRso4a8mABBF) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [New Orleans](https://open.spotify.com/album/5Sb3w0vcE90p8YKVIdqViq) | 4:01 |
+| 2 | [New Orleans](https://open.spotify.com/track/0EUBaxr51xLCQPmNZxGfTR) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Straight from the Heart](https://open.spotify.com/album/4gN7CmqNauA6dTrBYOfVMe) | 4:01 |
 | 3 | [This Time I'm Gone For Good](https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Man Of My Word](https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5) | 4:40 |
 | 4 | [Creole Moon](https://open.spotify.com/track/7uf7sRGi0DkGgTOTSjrBUG) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Creole Moon](https://open.spotify.com/album/0Jzf95x1LjqhTda3HMH5ZU) | 8:34 |
 | 5 | [I Got a Woman](https://open.spotify.com/track/1MJjFZfKgJ3DTyXUDZd403) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 49 | [Boppin' The Rock](https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R) | [Clifton Chenier](https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY) | [Zodico Blues & Boogie](https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC) | 2:21 |
 | 50 | [One More Night](https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB) | [Lonesome Sundown](https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ) | [Been Gone Too Long](https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO) | 4:15 |
 
-Snapshot ID: `MCwwMmIxZmY4YmNhNmFjMmQxMGYyNzBkYjk2NTk5ZGY3MGM3MzAzZGVi`
+Snapshot ID: `MCxmMjRiMmU0MDQ2YWMyMTQ2MGQ0MDM0NDQ1MWIwOThlZTA0MzAyYWZm`

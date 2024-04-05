@@ -4,7 +4,7 @@
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Howard Lee \(李浩瑋\)
 
-129 songs - 7 hr 37 min
+131 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,10 +20,12 @@
 | [All My Friends Are Dead](https://open.spotify.com/track/3ey4XswJNcHqNXWRvJcg0C) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [All My Friends Are Dead](https://open.spotify.com/album/0oUSOHqVIC8Q4f02KwzWwv) | 2:52 | 2024-02-29 | 2024-03-15 |
 | [All Right](https://open.spotify.com/track/6QisFwVX3ub7juPflH7638) | [Hurshel](https://open.spotify.com/artist/6z6uBfaMCKFCDIuHNYhRra) | [All Right](https://open.spotify.com/album/7n7zEjg2Q4L666oluUD95F) | 3:08 | 2024-02-01 | 2024-02-23 |
 | [All You Want to Say \(Xmas eve\)](https://open.spotify.com/track/738fLdRMGkwJ5Wo5gL4bx7) | [The Tic Tac](https://open.spotify.com/artist/2mqVECX61mIhYXSldVRfWj) | [All You Want to Say \(Xmas eve\)](https://open.spotify.com/album/6hMczqzv22QOtajxafoMHV) | 3:32 | 2024-01-25 | 2024-03-22 |
+| [andale](https://open.spotify.com/track/6knkWNw6xJA1AMKqtMBd29) | [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [andale](https://open.spotify.com/album/7dtZvyBAw1Tg1FbsKh6a5C) | 3:05 | 2024-04-04 |  |
 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us](https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ) | 3:42 | 2024-01-25 |  |
+| [Better With You](https://open.spotify.com/track/68aTobxIDfpbY2QpDZOKw4) | [Hurshel](https://open.spotify.com/artist/6z6uBfaMCKFCDIuHNYhRra) | [Better With You](https://open.spotify.com/album/7qIP51MoABAqEqU1ryy4yw) | 2:40 | 2024-04-04 |  |
 | [Birds](https://open.spotify.com/track/56BH5nMAvWlpaPBr1n0amO) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [銘 Epigraphy](https://open.spotify.com/album/6YUoogEoSI4rcIKnGFI2l6) | 2:36 | 2024-03-14 |  |
 | [BLEED IT](https://open.spotify.com/track/3whltYELqdlgrJVyRX6PcL) | [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw) | [BLEED IT](https://open.spotify.com/album/1JQO0ZpPREtAPcub97Knz0) | 2:32 | 2024-02-29 | 2024-03-15 |
-| [Blue Jeans](https://open.spotify.com/track/32vQDKOMbDdxoRcdikE8hV) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Blue Jeans](https://open.spotify.com/album/2Eecm6iYE9FNEOi7FeUiNS) | 4:45 | 2024-03-14 |  |
+| [Blue Jeans](https://open.spotify.com/track/32vQDKOMbDdxoRcdikE8hV) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Blue Jeans](https://open.spotify.com/album/2Eecm6iYE9FNEOi7FeUiNS) | 4:45 | 2024-03-14 | 2024-04-05 |
 | [CACTUS](https://open.spotify.com/track/5XEanyXMTmJwi6C3ECSc2j) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [CACTUS](https://open.spotify.com/album/4vC52K14grNuFtp8NIbLMm) | 4:06 | 2024-02-29 | 2024-03-15 |
 | [Can You Fix It](https://open.spotify.com/track/6C7tnzMVfOPgxPhjigd3kf) | [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Can You Fix It](https://open.spotify.com/album/6tbjnicCHxbuAtSQuq3xS7) | 2:54 | 2024-03-28 |  |
 | [Carousel](https://open.spotify.com/track/6a1KogheIeQ34Y1ZwN2q34) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Red Hood Squad](https://open.spotify.com/artist/06MFEUOcADxVpRKLC9EZXn) | [Carousel](https://open.spotify.com/album/1nbOlxFDqQJYI1FcXJn4JX) | 3:15 | 2024-03-28 |  |
@@ -44,7 +46,7 @@
 | [FLAME \(feat\. MANDARK\)](https://open.spotify.com/track/3xk02Q61AHrcptZEAnKBAc) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [FLAME \(feat\. MANDARK\)](https://open.spotify.com/album/0kzjxi4mX2pWh5WOJU29M7) | 3:40 | 2024-01-25 |  |
 | [frozen in time](https://open.spotify.com/track/1DEaum9DNltFAEzvkzUmQy) | [Elin Lee](https://open.spotify.com/artist/4SwNIde9PXmYXhcBJjPjFx), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [frozen in time](https://open.spotify.com/album/6bXW0qAirQQSNJmN5WkiNe) | 3:28 | 2024-01-25 |  |
 | [Galaxy official](https://open.spotify.com/track/5Jwxp0LAi6SueBzoFZzFL5) | [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl), [God Øne](https://open.spotify.com/artist/0WoCJqLme8Jz2NrGXXdwNL) | [Galaxy official](https://open.spotify.com/album/2ZF7aDkfknXIqRiaOMY14g) | 3:16 | 2024-02-29 | 2024-03-15 |
-| [Ghosts](https://open.spotify.com/track/1a8Krrol95IhEDLZtutEIB) | [潘PAN](https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo) | [Ghosts](https://open.spotify.com/album/3KROcodSwLEuPTUWItvY98) | 3:08 | 2024-03-14 |  |
+| [Ghosts](https://open.spotify.com/track/1a8Krrol95IhEDLZtutEIB) | [潘PAN](https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo) | [Ghosts](https://open.spotify.com/album/3KROcodSwLEuPTUWItvY98) | 3:08 | 2024-03-14 | 2024-04-05 |
 | [GOOD LOOKING](https://open.spotify.com/track/2mEk627nf8k8K7zTBYy6XI) | [POPO J](https://open.spotify.com/artist/3asn0DBHRjY3cHdlbm5kuu) | [GOOD LOOKING](https://open.spotify.com/album/4gMmT8HIwXPuDt5cwWp3S9) | 2:10 | 2024-01-25 |  |
 | [Hey Aries](https://open.spotify.com/track/55MtNtt5LO68O7b6ipfhLG) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [The Great Escape Of Our Time](https://open.spotify.com/album/74K79LQUF1axz9ZXbBTojZ) | 4:14 | 2024-02-29 | 2024-03-15 |
 | [HUNG UP](https://open.spotify.com/track/1R2Sq0FGXh7J27Pe4u0Viv) | [Nini Music](https://open.spotify.com/artist/4iggZUAEXfBeJH9DjKwccm), [NiNi](https://open.spotify.com/artist/1yRlzSYXePSpSnffspTXYQ) | [HUNG UP](https://open.spotify.com/album/7A5qcUPr93rD3kqu3s3X04) | 3:15 | 2024-03-28 |  |

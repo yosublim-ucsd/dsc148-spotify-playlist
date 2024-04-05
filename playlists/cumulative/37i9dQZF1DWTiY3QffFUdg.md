@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-153 songs - 8 hr 37 min
+154 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Breathe In](https://open.spotify.com/track/3qM2JuYrffLMLtwx8YOWxj) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Another Life](https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ) | [Breathe In](https://open.spotify.com/album/4FjkGcjCasHkfTJjkBnCfA) | 6:38 | 2023-08-11 | 2023-08-26 |
 | [Calling](https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV) | [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [Calling](https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r) | 3:16 | 2024-01-26 | 2024-03-12 |
 | [Can't Get You out of My Head](https://open.spotify.com/track/5M5KUXnWP2pB3NugBHcER9) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [LAUWEND](https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Can't Get You out of My Head](https://open.spotify.com/album/6JGdqchvfbGFc2cMnLdZBn) | 2:28 | 2023-09-01 |  |
-| [Chase The Sun \- VIP](https://open.spotify.com/track/5KGDSRODIjVBAN040ovdQw) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Chase The Sun \(VIP\)](https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu) | 4:01 | 2023-08-11 |  |
+| [Chase The Sun \- VIP](https://open.spotify.com/track/5KGDSRODIjVBAN040ovdQw) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Chase The Sun \(VIP\)](https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu) | 4:01 | 2023-08-11 | 2024-04-05 |
 | [Children \- Radio Edit](https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn) | 3:26 | 2023-08-11 |  |
 | [CHORMA](https://open.spotify.com/track/78sIUhDEOuD5mpSr1zwDwg) | [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3) | [CHORMA](https://open.spotify.com/album/2HVE0ZmEDKkasHZhWVmImV) | 3:03 | 2023-08-11 | 2023-09-03 |
 | [Close To You](https://open.spotify.com/track/5NFCZQEma4ll0SD00lS6FQ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Close To You](https://open.spotify.com/album/5IQSHIPD6Z8EBTTjHI8uUM) | 3:23 | 2023-08-11 | 2023-10-11 |
@@ -110,6 +110,7 @@
 | [Paranoid](https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Paranoid](https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp) | 2:54 | 2024-03-08 |  |
 | [Paris to Milan](https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [Paris to Milan](https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U) | 1:52 | 2023-09-29 | 2023-10-21 |
 | [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 | 2023-08-25 |  |
+| [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-03-29 |  |
 | [Perfect \(Exceeder\)](https://open.spotify.com/track/441rdYPewU5Ky9FsMJkZQH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Perfect \(Exceeder\)](https://open.spotify.com/album/7jptXhYjOAixCHxhXUiLgU) | 2:24 | 2024-03-08 | 2024-03-30 |
 | [Pjanoo](https://open.spotify.com/track/4dql0qXHrM3CSpUaaabudR) | [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Payback](https://open.spotify.com/artist/7tEit6KIclO1fyvmvdYDzE) | [Pjanoo](https://open.spotify.com/album/5nEUqBceCXlkmbFYD75APW) | 2:44 | 2023-12-15 |  |
 | [Poker Face](https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Joe Kox](https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G) | [Poker Face](https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA) | 2:37 | 2023-12-15 |  |

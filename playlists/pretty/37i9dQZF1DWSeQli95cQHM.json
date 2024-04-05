@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 11307,
+  "num_followers": 11313,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTAzZGI3MzhiMTdlYjExYzZjZTZiNzZhYjc0ZmVhOGFkOGZhMTgw",
+  "snapshot_id": "MCxjZDc0MTVjMTU2NmJhZDNkNDQ5YWY3MDg4MzJkOGIyZThiZTcwYzIy",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Ideologia Chinesa",
-        "url": "https://open.spotify.com/album/59gOFfVWRfngojfpLIqabt"
+        "name": "Movimento Paralelo, Vol.1",
+        "url": "https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76"
       },
       "artists": [
         {
-          "name": "Pessoas Que Eu Conhe\u00e7o",
-          "url": "https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD"
+          "name": "Guillerrrmo",
+          "url": "https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy"
         }
       ],
-      "duration_ms": 323629,
-      "name": "House Aprovado Pelo Governo",
-      "url": "https://open.spotify.com/track/6M5Qw2cglL7PGAq3VS9uaI"
+      "duration_ms": 248062,
+      "name": "Sarrafando Em Voc\u00ea",
+      "url": "https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Movimento Paralelo, Vol.1",
-        "url": "https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76"
+        "name": "Ideologia Chinesa",
+        "url": "https://open.spotify.com/album/59gOFfVWRfngojfpLIqabt"
       },
       "artists": [
         {
-          "name": "Guillerrrmo",
-          "url": "https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy"
+          "name": "Pessoas Que Eu Conhe\u00e7o",
+          "url": "https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD"
         }
       ],
-      "duration_ms": 248062,
-      "name": "Sarrafando Em Voc\u00ea",
-      "url": "https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD"
+      "duration_ms": 323629,
+      "name": "House Aprovado Pelo Governo",
+      "url": "https://open.spotify.com/track/6M5Qw2cglL7PGAq3VS9uaI"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Kin Sharuba",
+        "url": "https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi"
+      },
+      "artists": [
+        {
+          "name": "Carrot Green",
+          "url": "https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY"
+        }
+      ],
+      "duration_ms": 469695,
+      "name": "Kin Sharuba",
+      "url": "https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Ch\u00e1 de trombeta",
         "url": "https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 420000,
       "name": "Ch\u00e1 de trombeta",
       "url": "https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Kin Sharuba",
-        "url": "https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi"
-      },
-      "artists": [
-        {
-          "name": "Carrot Green",
-          "url": "https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY"
-        }
-      ],
-      "duration_ms": 469695,
-      "name": "Kin Sharuba",
-      "url": "https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -767,26 +767,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Laiarai\u00e1 (Remixes)",
-        "url": "https://open.spotify.com/album/7nnfxrjhpD6t0lyuW7JYix"
+        "name": "Maelstro\u0308m",
+        "url": "https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT"
       },
       "artists": [
         {
-          "name": "Henrique Portugal",
-          "url": "https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5"
-        },
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        },
-        {
-          "name": "LOV.ini",
-          "url": "https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z"
+          "name": "Wielki",
+          "url": "https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB"
         }
       ],
-      "duration_ms": 308000,
-      "name": "Laiarai\u00e1 (LOV.ini Remix)",
-      "url": "https://open.spotify.com/track/1t1AznXhR5rr9IKBqhMOl5"
+      "duration_ms": 487073,
+      "name": "Maelstro\u0308m",
+      "url": "https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -807,18 +799,26 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Maelstro\u0308m",
-        "url": "https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT"
+        "name": "Laiarai\u00e1 (Remixes)",
+        "url": "https://open.spotify.com/album/7nnfxrjhpD6t0lyuW7JYix"
       },
       "artists": [
         {
-          "name": "Wielki",
-          "url": "https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB"
+          "name": "Henrique Portugal",
+          "url": "https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5"
+        },
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        },
+        {
+          "name": "LOV.ini",
+          "url": "https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z"
         }
       ],
-      "duration_ms": 487073,
-      "name": "Maelstro\u0308m",
-      "url": "https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC"
+      "duration_ms": 308000,
+      "name": "Laiarai\u00e1 (LOV.ini Remix)",
+      "url": "https://open.spotify.com/track/1t1AznXhR5rr9IKBqhMOl5"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg"
+        "name": "Ghetto Hong Kong",
+        "url": "https://open.spotify.com/album/6D1PHgImMxDMtKCSznl6L8"
       },
       "artists": [
         {
-          "name": "Mau Maioli",
-          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
+          "name": "Agrabah",
+          "url": "https://open.spotify.com/artist/24lbhcjEJEOInrDEAGZfE6"
         }
       ],
-      "duration_ms": 432000,
-      "name": "Shine - Dance Version",
-      "url": "https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM"
+      "duration_ms": 365082,
+      "name": "Madame Kabukicho",
+      "url": "https://open.spotify.com/track/5wdbMg0l4UIig9nnkRVQOz"
     }
   ],
   "unique_name": "Front BR",

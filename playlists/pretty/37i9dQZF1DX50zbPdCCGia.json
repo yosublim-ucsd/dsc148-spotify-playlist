@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Styx",
-  "num_followers": 239905,
+  "num_followers": 240006,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDY1OTA3NjBkMWVhYjUwYTY5ODNhMTg4MDI3MDM5MWU3MzFmMzk3",
+  "snapshot_id": "MCxiYWFjZTJlMzRjMjBmMGFhNGE4ZGNkZjgzZjhlNzA3YzY1NDE3YmRk",
   "tracks": [
     {
       "added_at": "2023-03-29 17:34:27",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Sleeper Catcher (Remastered 2022)",
+        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 257868,
+      "name": "Reminiscing - Remastered 2010",
+      "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
         "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 283640,
       "name": "Rocky Mountain High",
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Sleeper Catcher (Remastered 2022)",
-        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
-      },
-      "artists": [
-        {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
-        }
-      ],
-      "duration_ms": 257868,
-      "name": "Reminiscing - Remastered 2010",
-      "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Stranger In Town",
-        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Till It Shines",
-      "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 249733,
       "name": "Never Be the Same",
       "url": "https://open.spotify.com/track/4Z2015s3noJJ7IRydu7ozr"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Stranger In Town",
+        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Till It Shines",
+      "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "The Stranger",
-        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/7gREIuHognJFspylIDJ94p"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "In the Pocket (2019 Remaster)",
         "url": "https://open.spotify.com/album/45fMwpxS1ZOMqNt8Rq5pxP"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 273306,
       "name": "Shower the People - 2019 Remaster",
       "url": "https://open.spotify.com/track/1Pwcxq35Hl2kqwUVd5XCRg"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "The Stranger",
+        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/7gREIuHognJFspylIDJ94p"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Turnstiles",
-        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Summer, Highland Falls",
-      "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/3m4xJJDmVNzsWaJ6OlLTru"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 181009,
       "name": "What Can I Say (2023 Remaster)",
       "url": "https://open.spotify.com/track/74t8MRGyoMSIkiN1f43gKc"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Turnstiles",
+        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Summer, Highland Falls",
+      "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
     },
     {
       "added_at": "2023-03-29 17:34:27",

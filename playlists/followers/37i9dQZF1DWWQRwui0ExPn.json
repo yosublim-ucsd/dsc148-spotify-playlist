@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 5273939,
+  "2024-04-05": 5274555,
   "date_first_scraped": "2019-05-26",
   "description": "chill beats, lofi vibes, new tracks every week... ",
   "name": "lofi beats",
@@ -2151,6 +2151,24 @@
       "duration_ms": 192000,
       "name": "About The Distance",
       "url": "https://open.spotify.com/track/60ONwBU0GgM3kJhPEOhTx0"
+    },
+    {
+      "album": {
+        "name": "about time",
+        "url": "https://open.spotify.com/album/3l5GQ4fCeXateeGqKoLqyl"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149958,
+      "name": "about time",
+      "url": "https://open.spotify.com/track/2DKde30hNrpBDmHMW8gFFe"
     },
     {
       "album": {
@@ -82657,7 +82675,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 163687,
       "name": "OneFourDed",
       "url": "https://open.spotify.com/track/1fi0djtQcu7NDgwEvnRz0R"

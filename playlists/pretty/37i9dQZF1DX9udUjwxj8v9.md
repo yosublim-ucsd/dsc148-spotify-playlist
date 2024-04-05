@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,517 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,511 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 31 | [Nobre Vagabundo](https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Feijão Com Arroz](https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C) | 3:53 |
 | 32 | [Xangô](https://open.spotify.com/track/19K67ARK51RFvi3CDdB69g) | [Emerson Dias](https://open.spotify.com/artist/6X4xWRzBiyR5w1WnsetCsz), [Acadêmicos Do Salgueiro](https://open.spotify.com/artist/1o6Ib1rhaC0r4YoVKayJWz) | [Sambas De Enredo Das Escolas De Samba 2019](https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr) | 5:31 |
 | 33 | [Nem Ouro Nem Prata](https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K) | [Ruy Maurity](https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf) | [Nem Ouro Nem Prata](https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ) | 3:41 |
-| 34 | [Diga Que Valeu \- Ao Vivo](https://open.spotify.com/track/6hJkTyrjoHdndSHprRDnH0) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:16 |
-| 35 | [História Para Ninar Gente Grande](https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x) | [Marquinho Art'Samba](https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh), [Estação Primeira de Mangueira](https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0) | [Sambas De Enredo Das Escolas De Samba 2019](https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr) | 4:31 |
+| 34 | [História Para Ninar Gente Grande](https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x) | [Marquinho Art'Samba](https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh), [Estação Primeira de Mangueira](https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0) | [Sambas De Enredo Das Escolas De Samba 2019](https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr) | 4:31 |
+| 35 | [Diga Que Valeu \- Ao Vivo](https://open.spotify.com/track/6hJkTyrjoHdndSHprRDnH0) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:16 |
 | 36 | [Os Orixás](https://open.spotify.com/track/513U1dzs6DITfRum7dM90X) | [Trio Mocoto](https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP) | [Samba Rock](https://open.spotify.com/album/1Xi2cRkf7VYMp8U5x99XFJ) | 4:09 |
 | 37 | [Rapunzel](https://open.spotify.com/track/5IocKfGOEyFiBolTgguc5c) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Feijão Com Arroz](https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C) | 3:39 |
 | 38 | [QUERO UM CARNAVAL](https://open.spotify.com/track/2ooeiOnpx96CJfOegfjwA3) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [FESTA DE ADEUS](https://open.spotify.com/album/7DU9frP5BFaBmA3RpJOInK) | 3:40 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 41 | [Ladainha](https://open.spotify.com/track/3sKjN5oPlgyOREoxJ3zLru) | [Nat Guareschi](https://open.spotify.com/artist/1X18fGGzvxN2txuNIJvHs0) | [Ladainha](https://open.spotify.com/album/3HuFPoYl9C1XWqwKkHvUpC) | 2:27 |
 | 42 | [Masculino E Feminino](https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Maxximum \- Pepeu Gomes E Baby Consuelo](https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl) | 3:44 |
 | 43 | [Me Abraça](https://open.spotify.com/track/0CNdiziA23RpZeX7T7gOkX) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Beleza Rara \- O melhor De Banda Eva](https://open.spotify.com/album/4KHEzOq418Ukqxg3oKJXEa) | 4:11 |
-| 44 | [A Vida É Festa](https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4) | [Banda Beijo](https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK) | [Aconteceu](https://open.spotify.com/album/5sMLKAXXcMzEGUUBF9aOmZ) | 3:52 |
-| 45 | [Chuva, Suor E Cerveja](https://open.spotify.com/track/5q63Fb5vWEXhXU9KG09MTg) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 3:24 |
+| 44 | [Chuva, Suor E Cerveja](https://open.spotify.com/track/5q63Fb5vWEXhXU9KG09MTg) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 3:24 |
+| 45 | [A Vida É Festa](https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4) | [Banda Beijo](https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK) | [Aconteceu](https://open.spotify.com/album/5sMLKAXXcMzEGUUBF9aOmZ) | 3:52 |
 | 46 | [Bloco Do Prazer](https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 3:03 |
 | 47 | [Patuscada de Gandhi \- Afoxé filhos de Gandhi](https://open.spotify.com/track/6pqvI3ods51ID3ZSJ67H9S) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Refavela](https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna) | 2:35 |
 | 48 | [Swing da Cor](https://open.spotify.com/track/4QvN1r5iloT7eKvx6mjNdq) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Daniela Mercury](https://open.spotify.com/album/0nTyaheFM5NuVVNrC74yJA) | 3:39 |
 | 49 | [Maria Bethânia, a Menina Dos Olhos de Oyá \(Samba Enredo 2016\)](https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Mangueira \- a Menina Dos Meus Olhos](https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC) | 1:03 |
-| 50 | [Estação da Luz](https://open.spotify.com/track/20jqOQnJnF89ju9DMfQ2Kk) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Estação da Luz](https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO) | 3:22 |
+| 50 | [Atrás Do Trio Elétrico](https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 2:42 |
 
-Snapshot ID: `MCw5MTFlMGE3ZTM5MTkyMjVmOTUwMWE2NzE4MzM1OTNhM2ZiYTZkMzA1`
+Snapshot ID: `MCxmYmY2N2VjYmY3OWYyMjViMzUyNmM4ZWRkMDBmNWZkZjEwOTVhYTc1`

@@ -104,7 +104,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 171748,
       "name": "6 De La Ma\u00f1ana",
       "url": "https://open.spotify.com/track/6u2uAR3w98nDi2KBuH4oBo"
@@ -148,6 +148,28 @@
       "duration_ms": 155504,
       "name": "A Brand New Start",
       "url": "https://open.spotify.com/track/6QanbknK7HJMOaUqlNCxhz"
+    },
+    {
+      "album": {
+        "name": "A Dream Goes On Forever",
+        "url": "https://open.spotify.com/album/3GlvdGXfhdSubUQ2uKYXKI"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279170,
+      "name": "A Dream Goes On Forever",
+      "url": "https://open.spotify.com/track/5OY32VyyPJDPBf2C2RTX9v"
     },
     {
       "album": {
@@ -1077,6 +1099,24 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/7GFnomhPOTcD3hexX6GNRn"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299120,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/58Fkphee9r7xCQmKj4SMar"
+    },
+    {
+      "album": {
         "name": "Daft Puns",
         "url": "https://open.spotify.com/album/1J3lMWdcIrkkmcBrrxMPk5"
       },
@@ -1232,7 +1272,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 283275,
       "name": "Desire",
       "url": "https://open.spotify.com/track/7pQA1cjkXj1vKglpu6yZNY"
@@ -1286,7 +1326,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 186536,
       "name": "DON'T KNOW WHERE I'M GOING",
       "url": "https://open.spotify.com/track/314xWohgRBDE8tjVFc2dmv"
@@ -1730,7 +1770,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 439994,
       "name": "Final Credits",
       "url": "https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O"
@@ -1824,6 +1864,24 @@
       "duration_ms": 249365,
       "name": "Greener Pastures - Edit",
       "url": "https://open.spotify.com/track/6KxbDZguKzMLGeBKWcwSJG"
+    },
+    {
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204067,
+      "name": "Habla Con Ella",
+      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
     },
     {
       "album": {
@@ -2104,7 +2162,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 135245,
       "name": "I Can't See",
       "url": "https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo"
@@ -2162,7 +2220,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 257219,
       "name": "I Need A Forest Fire",
       "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
@@ -2252,7 +2310,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 224946,
       "name": "Impressions",
       "url": "https://open.spotify.com/track/4l6gl1xs2TQx5SwBNdWEsv"
@@ -2360,7 +2418,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 269067,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/1FjWbDfXu195TRmMxXZi99"
@@ -2450,7 +2508,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 197748,
       "name": "Jessie (i miss you)",
       "url": "https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ"
@@ -2682,7 +2740,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 325414,
       "name": "Leko - Session Victim Remix",
       "url": "https://open.spotify.com/track/18nGprzEucUO4FF768lLhe"
@@ -2743,6 +2801,28 @@
     },
     {
       "album": {
+        "name": "life gets hard (Edit)",
+        "url": "https://open.spotify.com/album/6PuhXI5QuoTTgQNP88XCcs"
+      },
+      "artists": [
+        {
+          "name": "iilliaa",
+          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155106,
+      "name": "life gets hard - Edit",
+      "url": "https://open.spotify.com/track/1vQTyLGbpA2zXejuDC9b9t"
+    },
+    {
+      "album": {
         "name": "Light on Me",
         "url": "https://open.spotify.com/album/6fkVChPgzviHHVzWazZ8qr"
       },
@@ -2776,6 +2856,28 @@
       "duration_ms": 252493,
       "name": "Little Girl",
       "url": "https://open.spotify.com/track/7fycv13yuvE2c0yMy4UFls"
+    },
+    {
+      "album": {
+        "name": "LMK",
+        "url": "https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233532,
+      "name": "LMK",
+      "url": "https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA"
     },
     {
       "album": {
@@ -2866,7 +2968,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 197558,
       "name": "Love Now, Again",
       "url": "https://open.spotify.com/track/1NoWuTa2yd2fmXqIbALVri"
@@ -3092,7 +3194,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 250206,
       "name": "Moments - Ben B\u00f6hmer & Nils Hoffmann Remix",
       "url": "https://open.spotify.com/track/3RF7yizTDynqcKO9EmypOy"
@@ -3114,7 +3216,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 291568,
       "name": "Money (with Tom Misch)",
       "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
@@ -3268,10 +3370,28 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 168746,
       "name": "Ne Me Quitte Pas (Don't Leave Me)",
       "url": "https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr"
+    },
+    {
+      "album": {
+        "name": "Need 2",
+        "url": "https://open.spotify.com/album/79ZaIlw5sTErnWdbgJvFQ0"
+      },
+      "artists": [
+        {
+          "name": "Does it matter",
+          "url": "https://open.spotify.com/artist/00fhyHwDkhykp7qxLsbvch"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125106,
+      "name": "Need 2",
+      "url": "https://open.spotify.com/track/0wkr8bQUqNLdfmbeDUJMqg"
     },
     {
       "album": {
@@ -3536,7 +3656,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 494256,
       "name": "Opal - Four Tet Remix",
       "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
@@ -3692,7 +3812,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 211764,
       "name": "Peaceful Groove",
       "url": "https://open.spotify.com/track/1ur4amXvk23LWTtEMSjlxt"
@@ -4228,7 +4348,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 226096,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e"
@@ -4348,7 +4468,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 238072,
       "name": "Should Have Seen It Coming",
       "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
@@ -4840,7 +4960,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 291840,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6"
@@ -4930,7 +5050,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 224303,
       "name": "The Path Less Travelled",
       "url": "https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe"
@@ -5140,7 +5260,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 215357,
       "name": "transcending (Karen Nyame KG remix) - Remix",
       "url": "https://open.spotify.com/track/3IKM5Dt9fZA1CIVbM91CNY"
@@ -5158,7 +5278,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 252255,
       "name": "Two Thousand and Seventeen",
       "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
@@ -5270,7 +5390,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 132500,
       "name": "Very Few Friends",
       "url": "https://open.spotify.com/track/4rjcVZDZ74xqv49D8kFh5l"
@@ -5480,7 +5600,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 326439,
       "name": "Without You",
       "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"

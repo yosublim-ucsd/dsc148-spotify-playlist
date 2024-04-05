@@ -1,15 +1,31 @@
 {
   "description": "Chill, take a long walk and clear your mind",
-  "num_followers": 8102,
+  "num_followers": 8117,
   "original_name": "Barefoot and Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGY3ZjAyODI2NTRmN2ZkMmNjMjJjZTQxMDMyNGZlM2FiNDNjNmNm",
+  "snapshot_id": "MCxiNDhkMjA5MjA5YjZiYjkwOWE3MjUzOTc0NjBkMmE3NmE1ODEwNTZh",
   "tracks": [
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
+      "album": {
+        "name": "Alusa Why Are You Topless?",
+        "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 281860,
+      "name": "Chikwere",
+      "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
+    },
+    {
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "The Footprint",
         "url": "https://open.spotify.com/album/04ZdDUDZ05hdtUawvudVL4"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/2fSLRfuJr2utyjHrbohiWu"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Jane",
         "url": "https://open.spotify.com/album/04nFAFPbSLiJQRGPUIyi9i"
@@ -45,23 +61,7 @@
       "url": "https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
-      "album": {
-        "name": "Alusa Why Are You Topless?",
-        "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 281860,
-      "name": "Chikwere",
-      "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
-    },
-    {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Konke",
         "url": "https://open.spotify.com/album/443uREi4EtPJTxpKgGJVG4"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/10tynOIFqckNWnTwKoydlU"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Pete",
         "url": "https://open.spotify.com/album/5D4ETjU3vwslf8b6HOLUWx"
@@ -97,7 +97,27 @@
       "url": "https://open.spotify.com/track/2DDM0D8wOXNPxshFgtYIG1"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
+      "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/2Eenldjdnm9OpQXSBSp19T"
+      },
+      "artists": [
+        {
+          "name": "Daveny",
+          "url": "https://open.spotify.com/artist/6Aw4KeEvY6cyNUz7IIyPe3"
+        },
+        {
+          "name": "tugi ndichu",
+          "url": "https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7"
+        }
+      ],
+      "duration_ms": 252017,
+      "name": "Take Your Time",
+      "url": "https://open.spotify.com/track/5FIFjUVWBIihte8cXpj11Z"
+    },
+    {
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "For Keeps - A COLORS SHOW",
         "url": "https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Ndoa",
         "url": "https://open.spotify.com/album/3vKSPMAe4vy4p8LcaOygoR"
@@ -129,55 +149,7 @@
       "url": "https://open.spotify.com/track/0dd0McSQVC7kxppAEunPQN"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
-      "album": {
-        "name": "Tawasifu Ya Moyo",
-        "url": "https://open.spotify.com/album/0BPwyOsMg7lQrdxWoy4YLv"
-      },
-      "artists": [
-        {
-          "name": "Njoki Karu",
-          "url": "https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F"
-        }
-      ],
-      "duration_ms": 232285,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/1qOVb7IpU5Mp0vM7HVVA5V"
-    },
-    {
-      "added_at": "2024-03-28 23:59:00",
-      "album": {
-        "name": "For Life",
-        "url": "https://open.spotify.com/album/01LAdgvIXOkrBigv0pyDLF"
-      },
-      "artists": [
-        {
-          "name": "X.O",
-          "url": "https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ"
-        }
-      ],
-      "duration_ms": 195094,
-      "name": "For Life",
-      "url": "https://open.spotify.com/track/6VbXGySuhLG1MTb7AkZast"
-    },
-    {
-      "added_at": "2024-03-28 23:59:00",
-      "album": {
-        "name": "Shorts -EP",
-        "url": "https://open.spotify.com/album/4ZxY4aQytI7Ydd1213HZRu"
-      },
-      "artists": [
-        {
-          "name": "Barbara Wangui",
-          "url": "https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ"
-        }
-      ],
-      "duration_ms": 145892,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/7zbQtW2Xb7NADsW6Yw6dIM"
-    },
-    {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Nitangoja",
         "url": "https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex"
@@ -193,7 +165,55 @@
       "url": "https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
+      "album": {
+        "name": "Tawasifu Ya Moyo",
+        "url": "https://open.spotify.com/album/0BPwyOsMg7lQrdxWoy4YLv"
+      },
+      "artists": [
+        {
+          "name": "Njoki Karu",
+          "url": "https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F"
+        }
+      ],
+      "duration_ms": 232285,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/1qOVb7IpU5Mp0vM7HVVA5V"
+    },
+    {
+      "added_at": "2024-04-04 23:59:00",
+      "album": {
+        "name": "For Life",
+        "url": "https://open.spotify.com/album/01LAdgvIXOkrBigv0pyDLF"
+      },
+      "artists": [
+        {
+          "name": "X.O",
+          "url": "https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ"
+        }
+      ],
+      "duration_ms": 195094,
+      "name": "For Life",
+      "url": "https://open.spotify.com/track/6VbXGySuhLG1MTb7AkZast"
+    },
+    {
+      "added_at": "2024-04-04 23:59:00",
+      "album": {
+        "name": "Shorts -EP",
+        "url": "https://open.spotify.com/album/4ZxY4aQytI7Ydd1213HZRu"
+      },
+      "artists": [
+        {
+          "name": "Barbara Wangui",
+          "url": "https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ"
+        }
+      ],
+      "duration_ms": 145892,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/7zbQtW2Xb7NADsW6Yw6dIM"
+    },
+    {
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Wuodh Hera",
         "url": "https://open.spotify.com/album/4n8DWVD48VkPBhcbZ4mU1U"
@@ -213,7 +233,7 @@
       "url": "https://open.spotify.com/track/5H3ej9j2jqgGEN6qIXTnEq"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "It's You",
         "url": "https://open.spotify.com/album/5DbTBskBpsHoO8MCaP3ubM"
@@ -233,7 +253,7 @@
       "url": "https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Tamu",
         "url": "https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Nipende",
         "url": "https://open.spotify.com/album/06DbgiBmUM7eSQiAk2cx55"
@@ -265,7 +285,7 @@
       "url": "https://open.spotify.com/track/6DgMQzle107AN4oBX5Uhcz"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Wild Ride - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
@@ -281,7 +301,7 @@
       "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Asali (Sweeter)",
         "url": "https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R"
@@ -301,7 +321,7 @@
       "url": "https://open.spotify.com/track/6OM5yjhSYR68YwS4fADK3O"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "You Never Learn",
         "url": "https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd"
@@ -317,7 +337,27 @@
       "url": "https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
+      "album": {
+        "name": "Sasa Hivi [Stripped Down]",
+        "url": "https://open.spotify.com/album/1JAFcsR793tC7RbHSkpIig"
+      },
+      "artists": [
+        {
+          "name": "V-Be",
+          "url": "https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW"
+        },
+        {
+          "name": "Ashley Music",
+          "url": "https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Sasa Hivi [Stripped Down]",
+      "url": "https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB"
+    },
+    {
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Bald Men Love Better",
         "url": "https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ"
@@ -337,7 +377,7 @@
       "url": "https://open.spotify.com/track/4B9Rhu9Xdq3Vo1hfLJQh9p"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Kitanda Baridi",
         "url": "https://open.spotify.com/album/7hJjPkoexYN13yHx7W7XhI"
@@ -353,7 +393,7 @@
       "url": "https://open.spotify.com/track/6pKPr8Q8DPtQ5HI0JMfTmx"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "The Journey Continues...",
         "url": "https://open.spotify.com/album/0oFTaTpg0kUPIbwi9xJPkl"
@@ -369,7 +409,7 @@
       "url": "https://open.spotify.com/track/5SaG30jdhIatQo1THOTFe7"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "SAVAGE LEVEL",
         "url": "https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110"
@@ -385,7 +425,7 @@
       "url": "https://open.spotify.com/track/4mY9viBrQYRVOOINLmwI1I"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Save Me, Pt. 2",
         "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
@@ -401,7 +441,7 @@
       "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "LOVE / HATE Pt. 1",
         "url": "https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC"
@@ -421,7 +461,7 @@
       "url": "https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Bright Outside",
         "url": "https://open.spotify.com/album/0rTeZFpcIKYjfp3sMLsiDM"
@@ -441,7 +481,7 @@
       "url": "https://open.spotify.com/track/4cuhSC70d2pVMkgiQXQNd9"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN"
@@ -457,7 +497,7 @@
       "url": "https://open.spotify.com/track/4LolcPDdgSroaKquGfCFqt"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/5ZZ5etoKU2wQ6eb2U5j1uZ"
@@ -473,7 +513,7 @@
       "url": "https://open.spotify.com/track/67CQz7IH16hlEQf7AszkY8"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "YOU'LL NEVER LEAVE ME",
         "url": "https://open.spotify.com/album/6SC1WweelSTjiRFn8XPZX6"
@@ -493,7 +533,7 @@
       "url": "https://open.spotify.com/track/212foSbfdipO7619yXHkJx"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Sometimes (slowed+reverb remix)",
         "url": "https://open.spotify.com/album/05Lhrlmn5toScqQhr4pRXc"
@@ -509,7 +549,7 @@
       "url": "https://open.spotify.com/track/1Wai4S6wD7jE9vjrZW9Ydw"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Oasis Park III",
         "url": "https://open.spotify.com/album/0gyKYbsf4q8U5RaSBSqp3s"
@@ -533,7 +573,7 @@
       "url": "https://open.spotify.com/track/7FuyHQVU2rdPy7nmQhzOye"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "I'm Here",
         "url": "https://open.spotify.com/album/2Rj3tI88QYmUcSiC1Mqsp6"
@@ -549,7 +589,7 @@
       "url": "https://open.spotify.com/track/7joutRkcXCkujSPf9x5WB3"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Oceans",
         "url": "https://open.spotify.com/album/2xhSN6qB5HsKwWUFLUhMyI"
@@ -565,7 +605,7 @@
       "url": "https://open.spotify.com/track/50eCGnJmjeJU1HfjmcdK2N"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "dawa",
         "url": "https://open.spotify.com/album/567zkX4DjYyss366DTflSG"
@@ -585,7 +625,7 @@
       "url": "https://open.spotify.com/track/6DywLDHN945BpPggycAYYW"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Misimu",
         "url": "https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH"
@@ -601,7 +641,7 @@
       "url": "https://open.spotify.com/track/2zgjDvC4btrPBHBg1w4QqM"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Blink",
         "url": "https://open.spotify.com/album/6vzfIdktz4sBazv4NSOz1n"
@@ -617,7 +657,7 @@
       "url": "https://open.spotify.com/track/6a6k7ieZ83lmqqpw9pYhwS"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "TURN IT OFF",
         "url": "https://open.spotify.com/album/4ylxBzU0yxcLNsDGkBQnVS"
@@ -641,59 +681,7 @@
       "url": "https://open.spotify.com/track/1juwVlJ15TZZXFo4vIEexs"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
-      "album": {
-        "name": "Sasa Hivi [Stripped Down]",
-        "url": "https://open.spotify.com/album/1JAFcsR793tC7RbHSkpIig"
-      },
-      "artists": [
-        {
-          "name": "V-Be",
-          "url": "https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW"
-        },
-        {
-          "name": "Ashley Music",
-          "url": "https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Sasa Hivi [Stripped Down]",
-      "url": "https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB"
-    },
-    {
-      "added_at": "2024-03-28 23:59:00",
-      "album": {
-        "name": "Short Versions, Long Stories",
-        "url": "https://open.spotify.com/album/05QYtF6561A9EfIMipAFcS"
-      },
-      "artists": [
-        {
-          "name": "Ethan",
-          "url": "https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1"
-        }
-      ],
-      "duration_ms": 96444,
-      "name": "Uko Poa",
-      "url": "https://open.spotify.com/track/1DJgI3D1o5k4dnktOJFG2e"
-    },
-    {
-      "added_at": "2024-03-28 23:59:00",
-      "album": {
-        "name": "So Tired",
-        "url": "https://open.spotify.com/album/2ZbOkKbtmqC84BC1wzxfTR"
-      },
-      "artists": [
-        {
-          "name": "Janice Iche",
-          "url": "https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "So Tired",
-      "url": "https://open.spotify.com/track/2qt8hSdiYKD33C7zZcrxPB"
-    },
-    {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Ambia",
         "url": "https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn"
@@ -709,27 +697,7 @@
       "url": "https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
-      "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/1vF0nqkfedSTlQrXh0Feoa"
-      },
-      "artists": [
-        {
-          "name": "Ethan",
-          "url": "https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1"
-        },
-        {
-          "name": "Watendawili",
-          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
-        }
-      ],
-      "duration_ms": 183711,
-      "name": "Asali",
-      "url": "https://open.spotify.com/track/0RDjgKJuFxZVUk93ov59o6"
-    },
-    {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Aibu (feat. Bien)",
         "url": "https://open.spotify.com/album/6W4ZbKDYOh7ZPB4KGm5iZ0"
@@ -749,23 +717,7 @@
       "url": "https://open.spotify.com/track/1cBRn1Gp5RbFi4sVDN3v1A"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
-      "album": {
-        "name": "Lisa Oduor Noah",
-        "url": "https://open.spotify.com/album/1j6atBlfWPYRhbhkOsKr0V"
-      },
-      "artists": [
-        {
-          "name": "Lisa Oduor-Noah",
-          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
-        }
-      ],
-      "duration_ms": 173085,
-      "name": "The Oasis on Mbaazi Street",
-      "url": "https://open.spotify.com/track/7oqKrDdrY5BvaNOTJ0wO7l"
-    },
-    {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Kitenge",
         "url": "https://open.spotify.com/album/68ZCghHJcYTcaQ7vuxxFyP"
@@ -781,7 +733,7 @@
       "url": "https://open.spotify.com/track/4hbmPkeauQBw3RnxH45udP"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/1UqJeAHLAQh2g5M8QCdei5"
@@ -797,7 +749,7 @@
       "url": "https://open.spotify.com/track/3JJ6IAPfrrJPV2fOGQZYGl"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Different Definitions of Love: Part 1",
         "url": "https://open.spotify.com/album/3xBNNkmdc2ioXJk8mfyZSS"
@@ -813,7 +765,59 @@
       "url": "https://open.spotify.com/track/2smULwfhqWK1ovV6SmzwVa"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
+      "album": {
+        "name": "Short Versions, Long Stories",
+        "url": "https://open.spotify.com/album/05QYtF6561A9EfIMipAFcS"
+      },
+      "artists": [
+        {
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1"
+        }
+      ],
+      "duration_ms": 96444,
+      "name": "Uko Poa",
+      "url": "https://open.spotify.com/track/1DJgI3D1o5k4dnktOJFG2e"
+    },
+    {
+      "added_at": "2024-04-04 23:59:00",
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/1vF0nqkfedSTlQrXh0Feoa"
+      },
+      "artists": [
+        {
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1"
+        },
+        {
+          "name": "Watendawili",
+          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
+        }
+      ],
+      "duration_ms": 183711,
+      "name": "Asali",
+      "url": "https://open.spotify.com/track/0RDjgKJuFxZVUk93ov59o6"
+    },
+    {
+      "added_at": "2024-04-04 23:59:00",
+      "album": {
+        "name": "Lisa Oduor Noah",
+        "url": "https://open.spotify.com/album/1j6atBlfWPYRhbhkOsKr0V"
+      },
+      "artists": [
+        {
+          "name": "Lisa Oduor-Noah",
+          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
+        }
+      ],
+      "duration_ms": 173085,
+      "name": "The Oasis on Mbaazi Street",
+      "url": "https://open.spotify.com/track/7oqKrDdrY5BvaNOTJ0wO7l"
+    },
+    {
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Njia Moja",
         "url": "https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp"
@@ -829,7 +833,7 @@
       "url": "https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Lock me",
         "url": "https://open.spotify.com/album/4xPEootVjy1AmsVr6vYZkL"
@@ -845,7 +849,7 @@
       "url": "https://open.spotify.com/track/69Pv8rfP3biRUE6HZvy4A4"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE"
@@ -869,7 +873,7 @@
       "url": "https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934"
     },
     {
-      "added_at": "2024-03-28 23:59:00",
+      "added_at": "2024-04-04 23:59:00",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW"

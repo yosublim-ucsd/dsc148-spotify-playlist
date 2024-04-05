@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,415 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,492 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 | 49 | [Where the Roses Never Fade](https://open.spotify.com/track/7sQ9OH1DrisPzjoTOoxIZQ) | [Billie Chandler](https://open.spotify.com/artist/2j8sEmdITbTiI0ZABw6FR1) | [Where the Roses Never Fade](https://open.spotify.com/album/1gdqSzsLn5ExDEzaophMDr) | 3:51 |
 | 50 | [What A Friend We Have In Jesus](https://open.spotify.com/track/4TTgSYLyZPzlwmjU4w37Il) | [Chapman Asbury](https://open.spotify.com/artist/3JmHUA1Ro9pT1JJEhluIBJ) | [What A Friend We Have In Jesus](https://open.spotify.com/album/4Pb3IkcjHTvvAMUqoZsn7p) | 3:46 |
 
-Snapshot ID: `MCxiMjY0MTY1NmExNzY0YjkzMWYwMDE3NjE4MTkzNjBkYTNmMzI1YTIz`
+Snapshot ID: `MCw2MGUyODI3NGJhZjVjNjJjM2RhZGRhZGZlZWQyYTcwZGUxZmExYzI4`

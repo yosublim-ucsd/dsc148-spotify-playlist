@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 685943,
+  "num_followers": 686042,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzJiZTViNDM2ZjkwZmMxMzE0MjM2N2MwYTA4YTk3NWNmZjlmOGZj",
+  "snapshot_id": "MCw4NDE5MzBiZTZjZTBjYTBjZTY5MTRiZjQzN2MwZDU0MDhhMWIxNTUw",
   "tracks": [
     {
       "added_at": "2024-01-09 15:49:37",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "American IV: The Man Comes Around",
-        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "I Melt with You",
         "url": "https://open.spotify.com/album/52bkZUrqk2yqMChTrt7bQS"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 217344,
       "name": "I Melt with You",
       "url": "https://open.spotify.com/track/2klm5iA7LfNZBdip5hAeVL"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "I Remember Everything",
-        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 156146,
-      "name": "I Remember Everything",
-      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Portfolio",
         "url": "https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 207240,
       "name": "What's up",
       "url": "https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "I Remember Everything",
+        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 156146,
+      "name": "I Remember Everything",
+      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "Ben Folds Live",
-        "url": "https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8"
-      },
-      "artists": [
-        {
-          "name": "Ben Folds",
-          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
-        }
-      ],
-      "duration_ms": 323600,
-      "name": "Tiny Dancer - Live at Newport Music Festival, Newport, RI - July 2002",
-      "url": "https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
         "name": "Tribute To (Reissue)",
         "url": "https://open.spotify.com/album/0t7vqfhPuV8Zqs3l2G7lxA"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 213013,
       "name": "My Sweet Lord",
       "url": "https://open.spotify.com/track/6R5OmhK7k3kLCBpF7ZsRBS"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
+        "name": "Ben Folds Live",
+        "url": "https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8"
+      },
+      "artists": [
+        {
+          "name": "Ben Folds",
+          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+        }
+      ],
+      "duration_ms": 323600,
+      "name": "Tiny Dancer - Live at Newport Music Festival, Newport, RI - July 2002",
+      "url": "https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV"
     },
     {
       "added_at": "2024-01-09 15:49:37",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
-        "name": "More Than a Woman",
-        "url": "https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM"
+        "name": "You'll Never Walk Alone",
+        "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
       },
       "artists": [
         {
-          "name": "The Shadowboxers",
-          "url": "https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4"
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
         }
       ],
-      "duration_ms": 224666,
-      "name": "More Than a Woman",
-      "url": "https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC"
+      "duration_ms": 118476,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
     }
   ],
   "unique_name": "Classic Covers",

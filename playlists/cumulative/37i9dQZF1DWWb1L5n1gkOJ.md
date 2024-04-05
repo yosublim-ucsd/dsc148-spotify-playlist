@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-158 songs - 7 hr 29 min
+162 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Cloud Dance](https://open.spotify.com/track/7vOfAUgHjLDiHwgjAKn9c4) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Cloud Dance](https://open.spotify.com/album/4vcFJNkXXMDI4VgUnhfVk7) | 2:36 | 2022-10-12 |  |
 | [Cold Nights](https://open.spotify.com/track/3VKDama6kBesXErV1pvMU7) | [Lumen Sonitus](https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW) | [Cold Nights](https://open.spotify.com/album/389ancrSn0JTicvyxdpkIo) | 3:12 | 2024-03-14 |  |
 | [Confidence](https://open.spotify.com/track/61LzaoAvJFI2N1qZKjWEfG) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Confidence](https://open.spotify.com/album/5Bhi1WTuw3gm08KC3iwi3v) | 2:42 | 2022-10-12 |  |
+| [Connected](https://open.spotify.com/track/1vQ3tw9wuBOOezgkRH8lw2) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [Connected](https://open.spotify.com/album/6ljX7J9ydYpuP1mjpIVlBQ) | 3:16 | 2024-04-04 |  |
 | [Consider](https://open.spotify.com/track/47KiJwkuSOnFeL5WvLBFvP) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Consider](https://open.spotify.com/album/7cpmL0bFhUkvuBM8cpGWeg) | 2:43 | 2023-09-29 |  |
 | [Crystal Grid, Pt\. 1](https://open.spotify.com/track/0tRgzV9zTGDG51NWCDI9li) | [Nu Meditation Music](https://open.spotify.com/artist/66K6bDotWhnNf557BCkfIH) | [Reiki Healing](https://open.spotify.com/album/53nBbgsW6vWkFgfEKlriyu) | 3:24 | 2022-10-12 | 2023-02-18 |
 | [Cuidada](https://open.spotify.com/track/0DjPkjHwrelEO2WEfoaxOM) | [Lucinda Pasillas](https://open.spotify.com/artist/1VIx3IfD02xy9yWri9U0Ac) | [Cuidada](https://open.spotify.com/album/2q0u4ZvLivxNchLRUJ6Su9) | 2:52 | 2022-10-12 | 2022-11-23 |
@@ -58,6 +59,7 @@
 | [Enúna](https://open.spotify.com/track/4YnBnr9owZndTD3zmR5Whp) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Glow](https://open.spotify.com/album/1jqB0XXEL4UEtkgEuyzL8e) | 2:28 | 2022-11-22 |  |
 | [Erstwhile](https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Erstwhile](https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E) | 2:13 | 2023-04-06 |  |
 | [Etoile](https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Etoile](https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT) | 2:15 | 2022-10-12 |  |
+| [Expired Thoughts](https://open.spotify.com/track/16tv70QfvbOzdpPrjt0MKP) | [Santino Dunleaf](https://open.spotify.com/artist/6UmU6V7Nh76CSxujJEBEja) | [Expired Thoughts](https://open.spotify.com/album/43fkNRsNLSGji8aC8TwZPE) | 3:05 | 2024-04-04 |  |
 | [Fading](https://open.spotify.com/track/2pZ3K8qHHflxXkBqSVbunE) | [Withered Sun](https://open.spotify.com/artist/0XMQ7yeLJih2CAJVQi4vsc) | [Fading](https://open.spotify.com/album/4C5P60I5WeNo48Qrzql73t) | 3:13 | 2024-01-24 |  |
 | [Fallen night](https://open.spotify.com/track/09xFkJ9Pe9cWQSLH9yMDBc) | [Castorum](https://open.spotify.com/artist/04RsbMw3XjQupVwFm8i18f) | [Fallen night](https://open.spotify.com/album/60sgdxyL6lICqNs0ZfKcn9) | 3:10 | 2024-03-14 |  |
 | [Feathers](https://open.spotify.com/track/5zafrD1Ovmh2XiuoX3IuUa) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Feathers](https://open.spotify.com/album/68btKDvVJKuKLW9IiRuv6V) | 3:12 | 2022-10-12 |  |
@@ -120,6 +122,7 @@
 | [Planet Calm](https://open.spotify.com/track/1DiSzonwA6obAjQSbz1vAx) | [Rebootist](https://open.spotify.com/artist/6kwfEowXeDA4ixlHvGmZpb) | [Talking Souls](https://open.spotify.com/album/5P7CUCHWkRwhFQT2iJ4e2B) | 3:10 | 2023-02-25 |  |
 | [Porcelain](https://open.spotify.com/track/1p6B2W8oxPhLhkY9baZbi5) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Porcelain](https://open.spotify.com/album/4JM38aezOxi9ZN7dKawJcx) | 2:09 | 2022-11-22 |  |
 | [Praiseworthy](https://open.spotify.com/track/6UDUV0eh8K04FTxhfpOEdR) | [Elisha Raymond](https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr) | [Spiritually Connected](https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI) | 2:27 | 2022-10-12 |  |
+| [Ramus](https://open.spotify.com/track/6I661pmM6IANKvfZgDnwbL) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Ramus](https://open.spotify.com/album/63784z6zoLHJk7d4kgv9Aq) | 3:00 | 2024-04-04 |  |
 | [Redamancy](https://open.spotify.com/track/2iWt83ffEevRHEPJiz6nJN) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Redamancy](https://open.spotify.com/album/3zOIJ6Ke62DFZYdXMMtrnQ) | 3:39 | 2022-10-12 | 2023-02-09 |
 | [Rehabilitation](https://open.spotify.com/track/5T6UXsOFn7pUeMRZcd9cXQ) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres for Healing and Recovery](https://open.spotify.com/album/0iwssHNT8AmPqrBK1adac8) | 2:52 | 2022-10-12 | 2023-02-09 |
 | [Release](https://open.spotify.com/track/3WvLmahT84IZwXfK5S8cIb) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Release](https://open.spotify.com/album/4jBVlTEpIx48NPGSxfBAKr) | 2:17 | 2022-10-12 |  |
@@ -135,6 +138,7 @@
 | [Shadows](https://open.spotify.com/track/6fdDm8BUpOpM5fbxv3zhSZ) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Shadows](https://open.spotify.com/album/1RqHF0Lf1nrRnExXA9Tpjg) | 3:11 | 2022-10-12 |  |
 | [Silver Ocean](https://open.spotify.com/track/0nUmtaGW0KUELFtMBhxeAt) | [Monet Benitez](https://open.spotify.com/artist/4oQZmRxjpBOfuINrvgElwz) | [Silver Ocean](https://open.spotify.com/album/2dyjYTPkDOwRfbBEuPxPNC) | 2:49 | 2022-10-12 |  |
 | [Simplistica](https://open.spotify.com/track/6ZOmpmAGA1nM53YEvq8eLk) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Simplistica](https://open.spotify.com/album/15GH2ZI0qwAeMTQdYI5VXx) | 2:07 | 2022-10-12 |  |
+| [Sisu](https://open.spotify.com/track/12UNTCcyT4WEQfDHVrt94I) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Sisu](https://open.spotify.com/album/6nHNJaECiZWuuZ2O8A8j1l) | 2:31 | 2024-04-04 |  |
 | [Soft And Quiet](https://open.spotify.com/track/3wEYRfHvBH8enJnak36lRS) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [Soft And Quiet](https://open.spotify.com/album/41Fz56qqfcIjIpEzjFh58z) | 2:49 | 2022-10-12 | 2023-02-09 |
 | [Soft Ardour](https://open.spotify.com/track/1iL1vDGQ1OAf8wW5lqzXMa) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Soft Ardour](https://open.spotify.com/album/0BTuhivz5n6te5nMjtMENN) | 2:31 | 2022-10-12 |  |
 | [Softly Drift](https://open.spotify.com/track/2YYvF9y9HlnvDUsqgmmI9a) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Softly Drift](https://open.spotify.com/album/7GpqbUVy8lUymLnjVEtmDL) | 3:18 | 2022-10-12 |  |

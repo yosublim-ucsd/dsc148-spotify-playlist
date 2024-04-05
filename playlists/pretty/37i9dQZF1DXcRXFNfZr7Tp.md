@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,884,303 likes - 103 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,884,767 likes - 103 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 102 | [IL0V3Y0U](https://open.spotify.com/track/0MdcE5oHji8C8XCJCR5o3z) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [IL0V3Y0U](https://open.spotify.com/album/3f2hRnl0alXw9bz8PpQSWz) | 2:43 |
 | 103 | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm) | 2:56 |
 
-Snapshot ID: `MCw5M2E2MzcxNTBkNGM3NzFlNTcyMzk0MTZiOTY4NmQxNTY3OGIzMmE0`
+Snapshot ID: `MCw2ZWI1YTBhMDNlMmE0NGNmNGMxYWFhNzI4YmViMDdhYzEyZDNhN2M3`

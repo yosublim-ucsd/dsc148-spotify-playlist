@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5284,
+  "num_followers": 5286,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGYxNjVhOTc3NjZjZjBhYTc3ZDVmZTAwMzI2Y2YzYmFhNzdiZDlj",
+  "snapshot_id": "MCwyMGJmZmQ2NWVlYTQxNDVlNTM4N2M2ZTI4MTljZDJiMDE3NjhlZTJh",
   "tracks": [
     {
       "added_at": null,
@@ -31,26 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do It For The Bay",
-        "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 118551,
-      "name": "Do It For The Bay",
-      "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STUNNA",
         "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
@@ -71,6 +51,26 @@
       "duration_ms": 162407,
       "name": "Again",
       "url": "https://open.spotify.com/track/1qMiwEmeArAqKvGZzuMHEB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do It For The Bay",
+        "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 118551,
+      "name": "Do It For The Bay",
+      "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
     },
     {
       "added_at": null,
@@ -111,6 +111,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 120512,
+      "name": "Good (feat. Larry June)",
+      "url": "https://open.spotify.com/track/5xMGrKAdfo5RDUychxfMYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SNOOP CUBE 40 $HORT",
         "url": "https://open.spotify.com/album/0W8eSVMCkF6C4CpvtDtOyZ"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 216100,
       "name": "Too Big",
       "url": "https://open.spotify.com/track/5CSKc1MTcGNx5DF9Yo6DqF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 120512,
-      "name": "Good (feat. Larry June)",
-      "url": "https://open.spotify.com/track/5xMGrKAdfo5RDUychxfMYQ"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 159064,
+      "name": "bamboo",
+      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Before Anything - EP",
         "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 243226,
       "name": "Light This Bitch Up",
       "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 159064,
-      "name": "bamboo",
-      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make a Move",
-        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
-      },
-      "artists": [
-        {
-          "name": "Jeff Bernat",
-          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 144060,
-      "name": "Make a Move",
-      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Connected And Respected",
         "url": "https://open.spotify.com/album/3RXaP3Adt3TLsnIKRPBb1x"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 221287,
       "name": "Boy",
       "url": "https://open.spotify.com/track/4tWfESbIYebRHdMqlwy04T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make a Move",
+        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
+      },
+      "artists": [
+        {
+          "name": "Jeff Bernat",
+          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 144060,
+      "name": "Make a Move",
+      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Just Gang",
-      "url": "https://open.spotify.com/track/5KhphLWMvY7f4OZRI8tL10"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Cold: DELUXE EDITION",
         "url": "https://open.spotify.com/album/3n0uYyyL4ONNrl6RwbZ2ql"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 268800,
       "name": "Too Faded Remix",
       "url": "https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Just Gang",
+      "url": "https://open.spotify.com/track/5KhphLWMvY7f4OZRI8tL10"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Type Beat",
-      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B.A.R.S (Vol. 1)",
         "url": "https://open.spotify.com/album/1JwwVlMQ5mZUquPb3SE8h2"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 159783,
       "name": "Ask 'Em (feat. P-Lo & Jessi)",
       "url": "https://open.spotify.com/track/06cgIaSS8aWWEh7Culie0U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Type Beat",
+      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
     },
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Before Anything - EP",
+        "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 201573,
+      "name": "In That",
+      "url": "https://open.spotify.com/track/0qDh2aqqeI5PQtKTPPXbXA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SHINE",
         "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 144459,
       "name": "House",
       "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Before Anything - EP",
-        "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 201573,
-      "name": "In That",
-      "url": "https://open.spotify.com/track/0qDh2aqqeI5PQtKTPPXbXA"
     },
     {
       "added_at": null,
@@ -999,22 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 118184,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/7reqdhRTImOChEgyZlrqJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARTY WITH THE GANG (feat. P-LO & FREDOBAGZ)",
         "url": "https://open.spotify.com/album/3o5dOgyF7CVccsiOqUk7Ob"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 149288,
       "name": "PARTY WITH THE GANG (feat. P-LO & FREDOBAGZ)",
       "url": "https://open.spotify.com/track/2eWAqyAJWW0gQ5EoXQofLx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 118184,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7reqdhRTImOChEgyZlrqJJ"
     }
   ],
   "unique_name": "This Is P-Lo",

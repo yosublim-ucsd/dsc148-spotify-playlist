@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Blondshell & Bully
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,117,373 likes - 124 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,117,502 likes - 124 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 123 | [Don't Call Me](https://open.spotify.com/track/6TmdQKyH6D50cTnXVnfLFn) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Don't Call Me](https://open.spotify.com/album/27RLYalOrcL90bq5Y13mZ1) | 2:48 |
 | 124 | [Gimme](https://open.spotify.com/track/2M220rNo8EQw2qp0HWtlPf) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Gimme](https://open.spotify.com/album/3pio7v2Ug2K4qt4lIRFnza) | 2:24 |
 
-Snapshot ID: `MCw2ZDc2ZTk0MWI1NTI5ZTg0ZDVmZGU4NzAzZDEwOGU0NGU0NDQ3MjI2`
+Snapshot ID: `MCw2NGU2NWNlZjc3YjU1Y2EyYzA0YTMyYTdhMTNmODNlZGQyZGExNDMy`

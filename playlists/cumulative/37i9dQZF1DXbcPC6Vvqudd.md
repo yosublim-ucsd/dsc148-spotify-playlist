@@ -4,7 +4,7 @@
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-456 songs - 20 hr 23 min
+457 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Averse Sombre](https://open.spotify.com/track/0XdxWj0BQOdVKhaAbQYlwF) | [Créateurs De Pluie](https://open.spotify.com/artist/6LNyPA7N6f4dCGIqNdYkdK) | [Pluie Confortable](https://open.spotify.com/album/5YCyQJq6BlyEqb8et9l216) | 2:41 | 2022-01-21 |  |
 | [Back Alley Rainstorm](https://open.spotify.com/track/6E9ACxbryalj3PnCDhZxtO) | [Water Effects Center](https://open.spotify.com/artist/4ElnPSfB20IpwQlP4UudVG) | [Rain & Thunder](https://open.spotify.com/album/6R3irvC35SviITh36UxCWr) | 2:51 | 2021-11-08 |  |
 | [Backyard Rains](https://open.spotify.com/track/5v6qXVmMn68GxCPF9XGZVH) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Relaxing Rainstorms](https://open.spotify.com/album/3jg3BUq18aQaSGD07MQxOa) | 2:31 | 2021-11-08 |  |
-| [Balcony Rain](https://open.spotify.com/track/2hQW9bQ8dU69juNx98Kqw4) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Balcony Rain](https://open.spotify.com/album/3WsAshRntdtBDuXKGHlSuF) | 2:57 | 2024-03-21 |  |
+| [Balcony Rain](https://open.spotify.com/track/2hQW9bQ8dU69juNx98Kqw4) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Balcony Rain](https://open.spotify.com/album/3WsAshRntdtBDuXKGHlSuF) | 2:57 | 2024-03-21 | 2024-04-05 |
 | [Beautiful Storm](https://open.spotify.com/track/1WzjuOh6r9WXVi6dsoLKcB) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Oneiric Rains](https://open.spotify.com/album/32P9pdkNBQm0ZL2vMUGHYb) | 2:53 | 2021-11-08 |  |
 | [Been Raining For Hours](https://open.spotify.com/track/7iZHDQwbapPo9MYf3KLSG0) | [humidum](https://open.spotify.com/artist/1jtVdZK2EbmvWwytD9GCSp) | [Rainy Nights](https://open.spotify.com/album/0keGZBa42JeCzQbdKXmwzO) | 3:28 | 2021-11-08 | 2024-03-22 |
 | [Beyond Storm](https://open.spotify.com/track/4D1voq8tKTsgOloyHpjiaY) | [Salvo](https://open.spotify.com/artist/4PHEKFLzjQUNk5zenIMW9n) | [Beyond Storm](https://open.spotify.com/album/6EGDInl8hOMCJ0NAHaLARk) | 3:28 | 2021-11-08 |  |
@@ -403,6 +403,7 @@
 | [Stormy Weather](https://open.spotify.com/track/3du4x4mjmzMZNXu5CFNkIE) | [Rain Hive](https://open.spotify.com/artist/7926Y6ve9rJTFcjeCYTjqx) | [Rain Hive](https://open.spotify.com/album/5hAjWiqgkKLll4XWQ3n2Yx) | 2:14 | 2021-11-08 |  |
 | [Strawberry Rain](https://open.spotify.com/track/06EYu330c8GVTs3fDGJ0pD) | [DreamDrops](https://open.spotify.com/artist/20XfshUALsTbm05gj6Ea5M) | [Strawberry Rain](https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1) | 3:32 | 2021-11-08 |  |
 | [Strike of Lightning](https://open.spotify.com/track/16sx5xwm1gENlnG4HaKR3X) | [It Can Be Done](https://open.spotify.com/artist/5rEZYkp7IH0CYH0bLaEhrj) | [Strike of Lightning](https://open.spotify.com/album/31WXAKnBJOpRT2VyjVDRnN) | 3:40 | 2021-11-08 |  |
+| [Strong Rain](https://open.spotify.com/track/5WCKWlR0uNc6SxBlSqh5zj) | [Organic Nature](https://open.spotify.com/artist/51pWYHXlT0KXM8zYZ6IhRa) | [Strong Rain](https://open.spotify.com/album/2HmENem14B3nlOrKgHRskI) | 2:38 | 2024-03-21 |  |
 | [Struck by lightning](https://open.spotify.com/track/01OzUhNPtpn2xqQpNZ5vCN) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Storm](https://open.spotify.com/album/0X0aO8gxJeV2xHf53J8gFI) | 3:00 | 2021-11-08 | 2024-03-22 |
 | [Summer Rain](https://open.spotify.com/track/1sHXqphcVMiOzIS8ZxOeQo) | [Haya Sounds](https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2) | [Days Of Rain](https://open.spotify.com/album/0cBWB9SDm1IIxQ7weGrpiG) | 3:28 | 2021-11-08 |  |
 | [Summer Rain in Berlin](https://open.spotify.com/track/1XROkBFBaW947gPDzYk4As) | [Sugar Pine Sounds](https://open.spotify.com/artist/3dYzcc9uzbFghFxGtLvIRH) | [Water](https://open.spotify.com/album/3QeU2pjzT25h16jbSeIG7Z) | 2:51 | 2024-03-21 |  |

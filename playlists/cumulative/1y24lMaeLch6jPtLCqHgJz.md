@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-316 songs - 16 hr 7 min
+317 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 | 2023-11-21 |  |
 | [Can't Get You Out Of My Head](https://open.spotify.com/track/4AYEuQihZ55nPcjiaiLZdC) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [Can't Get You Out Of My Head](https://open.spotify.com/album/5domnGTFgodBxJ0aQe6bbg) | 1:55 | 2024-01-26 | 2024-02-09 |
 | [Catching Fire](https://open.spotify.com/track/0gpJMwZeHBz4TmjWXjax6k) | [J4CKO](https://open.spotify.com/artist/5aang7oD3L1eWq1SCYsMVu), [LostVolts](https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef) | [Catching Fire](https://open.spotify.com/album/2YvhwThO6T1h7emgR7Mi9Y) | 2:55 | 2022-12-09 | 2023-02-11 |
+| [Champion](https://open.spotify.com/track/50GVy9jKhOOycBJ7gTI12I) | [Mike Bond](https://open.spotify.com/artist/4yroY1dUWxiROWLei7Mude), [Sesco](https://open.spotify.com/artist/0pP0ClsQK7FgtbwuUcVrQV), [Richie Loop](https://open.spotify.com/artist/0fwGtEcJ4v3H0btcbM0KWc) | [Champion](https://open.spotify.com/album/3aDsky9uABrOWVmjgwLfAb) | 2:18 | 2024-04-04 |  |
 | [Chase The Sun](https://open.spotify.com/track/18vGqlZqxpAwlepFrqIkOG) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Chase The Sun](https://open.spotify.com/album/4sm3DeCmr4ppnUnxdRtJEG) | 3:03 | 2022-07-29 | 2023-09-09 |
 | [Chasing Bliss](https://open.spotify.com/track/2D3aVWaHfXemcFgn9T50AK) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Chasing Bliss](https://open.spotify.com/album/4VvRpBgvISZ3DcSZp4fNqV) | 3:15 | 2022-07-29 | 2022-10-08 |
 | [City Looks Different](https://open.spotify.com/track/73Q1ftTv3Id2YlIylUQdsK) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jason Walker](https://open.spotify.com/artist/3XBxSfCwYIMBzWmJL7ZJ4U) | [City Looks Different](https://open.spotify.com/album/6ml8hgQ7FjIOC305LOc5gH) | 2:32 | 2022-07-29 | 2023-08-11 |

@@ -1,12 +1,12 @@
 {
   "description": "la generaci\u00f3n del discman y el walkman",
-  "num_followers": 35344,
+  "num_followers": 35389,
   "original_name": "noventeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTQ4ZDIwZWUzZTI2ZmFlYzIyOTQ3OTJhYTkyYzc3YTVmYTU4OGQz",
+  "snapshot_id": "MCw3OGI1OTUwMWMwMzA0MTU3YjdkODQwZjA5OWU3ZGU2MTc3Y2Y4MDE1",
   "tracks": [
     {
       "added_at": "2024-02-16 20:23:30",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-02-16 20:23:30",
       "album": {
-        "name": "Bigger, Better, Faster, More !",
-        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
-      },
-      "artists": [
-        {
-          "name": "4 Non Blondes",
-          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "What's Up?",
-      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
-    },
-    {
-      "added_at": "2024-02-16 20:23:30",
-      "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 193953,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
+    },
+    {
+      "added_at": "2024-02-16 20:23:30",
+      "album": {
+        "name": "Bigger, Better, Faster, More !",
+        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
+      },
+      "artists": [
+        {
+          "name": "4 Non Blondes",
+          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
     },
     {
       "added_at": "2024-02-16 20:23:30",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-02-16 20:23:30",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 263560,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
-    },
-    {
-      "added_at": "2024-02-16 20:23:30",
-      "album": {
         "name": "Left Of The Middle",
         "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 244666,
       "name": "Torn",
       "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
+    },
+    {
+      "added_at": "2024-02-16 20:23:30",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 263560,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
     },
     {
       "added_at": "2024-02-16 20:23:30",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-02-16 20:23:30",
       "album": {
-        "name": "Nek (spanish version)",
-        "url": "https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP"
-      },
-      "artists": [
-        {
-          "name": "Nek",
-          "url": "https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ"
-        }
-      ],
-      "duration_ms": 225239,
-      "name": "Laura no est\u00e0",
-      "url": "https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA"
-    },
-    {
-      "added_at": "2024-02-16 20:23:30",
-      "album": {
         "name": "De Piel Negra",
         "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 206440,
       "name": "Eternamente Bella",
       "url": "https://open.spotify.com/track/3pIgumKqXX7ge7lT9rCvNy"
+    },
+    {
+      "added_at": "2024-02-16 20:23:30",
+      "album": {
+        "name": "Nek (spanish version)",
+        "url": "https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP"
+      },
+      "artists": [
+        {
+          "name": "Nek",
+          "url": "https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ"
+        }
+      ],
+      "duration_ms": 225239,
+      "name": "Laura no est\u00e0",
+      "url": "https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA"
     },
     {
       "added_at": "2024-02-16 20:23:30",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-02-16 20:23:30",
       "album": {
-        "name": "El Privilegio De Amar",
-        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "El Privilegio De Amar",
-      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
-    },
-    {
-      "added_at": "2024-02-16 20:23:30",
-      "album": {
         "name": "Depende",
         "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 265160,
       "name": "Depende",
       "url": "https://open.spotify.com/track/6aaPUBUFw9KEW1p1inVQv9"
+    },
+    {
+      "added_at": "2024-02-16 20:23:30",
+      "album": {
+        "name": "El Privilegio De Amar",
+        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "El Privilegio De Amar",
+      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
     },
     {
       "added_at": "2024-02-16 20:23:30",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-02-16 20:23:30",
       "album": {
-        "name": "The Best Of Hanson 20th Century Masters The Millennium Collection",
-        "url": "https://open.spotify.com/album/1SNNc4pb0aA0GS2PsLr5b5"
-      },
-      "artists": [
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "MMMBop - Single Version",
-      "url": "https://open.spotify.com/track/2HNZxbvFvasRtlOJ9M6DgR"
-    },
-    {
-      "added_at": "2024-02-16 20:23:30",
-      "album": {
         "name": "Caribe",
         "url": "https://open.spotify.com/album/3kpnPvG6TOLfpV0TvD0FUd"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 251333,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/49nYkvvZTU06Pcwu1SrK4h"
+    },
+    {
+      "added_at": "2024-02-16 20:23:30",
+      "album": {
+        "name": "The Best Of Hanson 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/1SNNc4pb0aA0GS2PsLr5b5"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "MMMBop - Single Version",
+      "url": "https://open.spotify.com/track/2HNZxbvFvasRtlOJ9M6DgR"
     }
   ],
   "unique_name": "noventeras",

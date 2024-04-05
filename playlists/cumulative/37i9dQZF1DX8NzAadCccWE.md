@@ -4,7 +4,7 @@
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-684 songs - 2 day 7 hr 44 min
+685 songs - 2 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,7 +586,8 @@
 | [The Green Man.Mp3](https://open.spotify.com/track/4sqHNwM5aYmSUDG9ndwjlt) | [Shut Up and Dance](https://open.spotify.com/artist/5m8iUPCoViiUr1fXKjX7ej) | [Death Is Not the End](https://open.spotify.com/album/4eBXRI4mExUO5zSZULCYnK) | 4:08 | 2022-12-12 | 2023-03-08 |
 | [The Helicopter Tune](https://open.spotify.com/track/1Lr9jMrlowBH5EXn4oive0) | [Deep blue](https://open.spotify.com/artist/0N1AChd9JXrtoczyW8PzZM) | [The Helicopter Tune / The Helicopter Tune \(Rufige Kru Remix\) / Fantasy \#2 / The Helicopter Tune \(2 Bad Mice Remix\) / Fantasy \#3 / The Helicopter Tune \(Rufige Kru VIP Remix\)](https://open.spotify.com/album/7dwvt0Q7oAHeyNf4BTyUAO) | 5:23 | 2023-09-26 |  |
 | [The HitMan](https://open.spotify.com/track/5grETTEGmUbptGZ1dXmgXD) | [Marvellous Cain](https://open.spotify.com/artist/3DyNrfbjNdST3C9fjeocIx), [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [The HitMan Album](https://open.spotify.com/album/55GSAJ19zDY3wV7gIMD81y) | 5:38 | 2022-02-28 | 2022-05-04 |
-| [The hole got deeper](https://open.spotify.com/track/7lMzDDkaFEKLBgzZhOPOj4) | [Bluetoof](https://open.spotify.com/artist/1DPheCuZwGAFUlM8H2jV6x) | [Diggin a Hole](https://open.spotify.com/album/70cpDBZcj4mpTYzWGQlUyE) | 7:34 | 2023-09-26 |  |
+| [The hole got deeper](https://open.spotify.com/track/3XdhCH7Fd2ICPsvK2cnOQb) | [Bluetoof](https://open.spotify.com/artist/1DPheCuZwGAFUlM8H2jV6x) | [Diggin a Hole](https://open.spotify.com/album/2tBIjrHsiraqvhLyQuMgz0) | 7:34 | 2024-02-08 |  |
+| [The hole got deeper](https://open.spotify.com/track/7lMzDDkaFEKLBgzZhOPOj4) | [Bluetoof](https://open.spotify.com/artist/1DPheCuZwGAFUlM8H2jV6x) | [Diggin a Hole](https://open.spotify.com/album/70cpDBZcj4mpTYzWGQlUyE) | 7:34 | 2023-09-26 | 2024-04-05 |
 | [THE PSA](https://open.spotify.com/track/3qNAUrKcySlURmNr3QX1Wi) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [BEAUTIFUL PRESENTS: BEAUTIFUL VOL 1](https://open.spotify.com/album/7vxquNykZOqoSU3MR7UJ0G) | 2:04 | 2022-01-07 | 2022-02-19 |
 | [The Rain \(2020 Remaster\) \- Photek Remix](https://open.spotify.com/track/3HH7es7iUK6R1QPFbGVsTY) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [Still Life / The Rain \(2020 Remasters\) \[Photek Remixes\]](https://open.spotify.com/album/4WgSI6oHYgrC0yQmeiWmR3) | 7:48 | 2023-09-26 |  |
 | [The Return \(Father and Son\)](https://open.spotify.com/track/4oQQPbbPwUQfPRBHjFAAOD) | [Ninjaman](https://open.spotify.com/artist/6AOWTKUQBsRamW22wk4ptr), [Ninja Ford](https://open.spotify.com/artist/1iWPF5p5NENblx980tYAcg) | [Original Front Tooth Gold Tooth Don Gorgon](https://open.spotify.com/album/72uBJoJ01UbBy7ZmJf0YbO) | 1:49 | 2022-02-28 | 2022-05-04 |

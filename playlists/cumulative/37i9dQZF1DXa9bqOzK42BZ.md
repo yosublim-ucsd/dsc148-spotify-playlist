@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=QOxAEPw5SfeFdIYUaljgEA">Christina Shusho</a>
 
-150 songs - 13 hr 58 min
+152 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Hakuna Wakufanana](https://open.spotify.com/track/2iDJTL5XerzoErsduFYWVQ) | [Dan Em](https://open.spotify.com/artist/5UysAc77bsT1C6XJIZn1u1) | [Halleluya \(Worship 1\)](https://open.spotify.com/album/6iHWWsouuBWpKUzJlROoYr) | 5:06 | 2022-06-24 |  |
 | [Halal](https://open.spotify.com/track/4UdqbEzCQ7OqHqb8i8AlVF) | [Mathooko](https://open.spotify.com/artist/6JRgBJKwtMEnApK7bn1Svw) | [Halal](https://open.spotify.com/album/5Uqe1LZJyXpqBJuxZw2K90) | 2:18 | 2023-07-14 | 2023-11-25 |
 | [Hararat](https://open.spotify.com/track/6sNaQRTxAwmFzC0Pe3zyNF) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Hararat](https://open.spotify.com/album/3Le8OrIOMXZvK2JnNR21hS) | 3:45 | 2023-04-07 |  |
+| [Hufanani](https://open.spotify.com/track/4y3Xoxq7l4JvZcEDN2tUZX) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Hufanani](https://open.spotify.com/album/4C5MP6vOv9gSXbYKSeRdNg) | 3:28 | 2024-04-05 |  |
 | [Huniachi](https://open.spotify.com/track/5NLS2f8tVRtoKXOU600LBL) | [Reuben Kigame](https://open.spotify.com/artist/0bTD7Hz0264DFfTV9e5PQf), [Sifa Voices](https://open.spotify.com/artist/75UlA58ClvAkoGrCouQQAI), [Gloria Muliro](https://open.spotify.com/artist/39RtliJb0Ct7KASnAK5Vs2) | [Usifadhaike](https://open.spotify.com/album/3ugo6jrkHwa1fEmpKPvDs2) | 5:02 | 2022-06-24 |  |
 | [I Have Tasted / Nimeonja](https://open.spotify.com/track/3BlvopHOGCh134vhugmiyv) | [Reuben Kigame](https://open.spotify.com/artist/0bTD7Hz0264DFfTV9e5PQf), [Sifa Voices](https://open.spotify.com/artist/75UlA58ClvAkoGrCouQQAI) | [Tulia](https://open.spotify.com/album/6xsRFuy3hZsnxqppb5e6mT) | 6:50 | 2022-06-24 |  |
 | [I'm Blessed](https://open.spotify.com/track/0FEjctsiNnY7QSY2xvIpLI) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [I'm Blessed](https://open.spotify.com/album/4YPYAwVq1Bi9KWQW3iOMnK) | 4:20 | 2023-05-05 |  |
@@ -116,6 +117,7 @@
 | [Shukurani](https://open.spotify.com/track/1kcmPNrOkYJY1wJuwuRbZC) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Shukurani](https://open.spotify.com/album/2zrVtAaSEUhuo6oQgjji97) | 4:39 | 2022-06-24 |  |
 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 | 2023-06-16 |  |
 | [Shwari](https://open.spotify.com/track/4iI5RXEDegpckQPyZjRiYd) | [Samuel Thomas](https://open.spotify.com/artist/1Vw4G05iiTwoWHkrP1EvWw), [Henrick Mruma](https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU) | [Shwari](https://open.spotify.com/album/3Cd2sv9TL1MSOPn1yrbEGZ) | 6:42 | 2022-06-24 |  |
+| [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/track/4xoPWWvpF16ORhHSVtrn1U) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/album/5RK2fDS59YJ0QkHPdfuY0G) | 4:24 | 2024-04-05 |  |
 | [Sijaona Kama Wewe](https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Sijaona Kama Wewe](https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU) | 11:13 | 2022-06-24 |  |
 | [Sisi Ndio Wale](https://open.spotify.com/track/7GtbWZzckE9diKrKYSQ4Gi) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Sisi Ndio Wale](https://open.spotify.com/album/5DyJwA7sacoreQVSlDaBYo) | 4:23 | 2023-11-10 | 2023-11-25 |
 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 | 2023-10-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 539740,
+  "num_followers": 539767,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmZlNjc5YWEzMTc2YjU1NmM2MzEwNjFhZGMyYmUzNzhjMTA5YWY5",
+  "snapshot_id": "MCw1ZDNlMGVhNjc0Njg2NDU0YjFkZTZkNDAyZjliYWFlZGE0NTk1M2Ji",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Gateway",
-        "url": "https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER"
-      },
-      "artists": [
-        {
-          "name": "Bongzilla",
-          "url": "https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Greenthumb",
-      "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Blood Lust",
         "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 435213,
       "name": "Death's Door",
       "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Gateway",
+        "url": "https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER"
+      },
+      "artists": [
+        {
+          "name": "Bongzilla",
+          "url": "https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Greenthumb",
+      "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Old Growth",
-        "url": "https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT"
-      },
-      "artists": [
-        {
-          "name": "Dead Meadow",
-          "url": "https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0"
-        }
-      ],
-      "duration_ms": 256959,
-      "name": "What Needs Must Be",
-      "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Burning Village",
         "url": "https://open.spotify.com/album/5XEU2cfXUc3WUdo4vyS8mh"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 282217,
       "name": "The Dead Won't Sleep",
       "url": "https://open.spotify.com/track/2oeQxYynk2yTM9xeGx1ifl"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Old Growth",
+        "url": "https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT"
+      },
+      "artists": [
+        {
+          "name": "Dead Meadow",
+          "url": "https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0"
+        }
+      ],
+      "duration_ms": 256959,
+      "name": "What Needs Must Be",
+      "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The No. 6 Dance",
-        "url": "https://open.spotify.com/album/67i7N7vSnXUzF99mzneOAs"
-      },
-      "artists": [
-        {
-          "name": "Five Horse Johnson",
-          "url": "https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Mississippi King",
-      "url": "https://open.spotify.com/track/2lDpCH1LL5QSX6PXi3E8F2"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Only a Suggestion",
         "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 282160,
       "name": "The Bottle",
       "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The No. 6 Dance",
+        "url": "https://open.spotify.com/album/67i7N7vSnXUzF99mzneOAs"
+      },
+      "artists": [
+        {
+          "name": "Five Horse Johnson",
+          "url": "https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "Mississippi King",
+      "url": "https://open.spotify.com/track/2lDpCH1LL5QSX6PXi3E8F2"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "From the Ages",
-        "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
-      },
-      "artists": [
-        {
-          "name": "Earthless",
-          "url": "https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi"
-        }
-      ],
-      "duration_ms": 848346,
-      "name": "Uluru Rock",
-      "url": "https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Capricorn",
         "url": "https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 336720,
       "name": "Older No Wiser",
       "url": "https://open.spotify.com/track/3vX40kM91roJS58JpFMWct"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "From the Ages",
+        "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
+      },
+      "artists": [
+        {
+          "name": "Earthless",
+          "url": "https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi"
+        }
+      ],
+      "duration_ms": 848346,
+      "name": "Uluru Rock",
+      "url": "https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu"
     },
     {
       "added_at": "2024-02-09 05:00:00",

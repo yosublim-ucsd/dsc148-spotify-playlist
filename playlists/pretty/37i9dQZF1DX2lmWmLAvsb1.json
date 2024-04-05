@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2019. Cover: Daddy Yankee",
-  "num_followers": 58043,
+  "num_followers": 58084,
   "original_name": "Latin Hits 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWZiNGE4MmM3ZDM4MzBlMGYzNzFlOTExMTJiOTQ5OTVhZjdkZjFm",
+  "snapshot_id": "MCxhMDI4Y2MxOThjNTljYzMzY2I0NjBmYmMxMjZhMDFkM2IwNDdmNTAw",
   "tracks": [
     {
       "added_at": "2021-12-16 01:10:18",
@@ -303,26 +303,6 @@
     {
       "added_at": "2021-12-16 01:10:18",
       "album": {
-        "name": "FANTAS\u00cdA",
-        "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "Un A\u00f1o",
-      "url": "https://open.spotify.com/track/2vrpcQNg6itmgVZWsNjWe0"
-    },
-    {
-      "added_at": "2021-12-16 01:10:18",
-      "album": {
         "name": "The Academy",
         "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 216066,
       "name": "Quizas",
       "url": "https://open.spotify.com/track/5Id5B3dxJZhPcV9GzgYZZe"
+    },
+    {
+      "added_at": "2021-12-16 01:10:18",
+      "album": {
+        "name": "FANTAS\u00cdA",
+        "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "Un A\u00f1o",
+      "url": "https://open.spotify.com/track/2vrpcQNg6itmgVZWsNjWe0"
     },
     {
       "added_at": "2021-12-16 01:10:18",
@@ -1183,18 +1183,26 @@
     {
       "added_at": "2021-12-16 01:10:18",
       "album": {
-        "name": "Goteo",
-        "url": "https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg"
+        "name": "Sigues Con El",
+        "url": "https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
         }
       ],
-      "duration_ms": 164457,
-      "name": "Goteo",
-      "url": "https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B"
+      "duration_ms": 226532,
+      "name": "Sigues Con El",
+      "url": "https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3"
     }
   ],
   "unique_name": "Latin Hits 2019",

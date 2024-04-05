@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 37650,
+  "num_followers": 37705,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjlhY2RlOGM1Y2U5ZGQ2MjM2N2NiZTk4MDIyMDVkMGEwY2NhYWIy",
+  "snapshot_id": "MCwzOGNjM2NhNzVlZTA3ZjBmZjFiM2NiNmQzN2E5ZTU4YzVlNTgwM2M0",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 144493,
+      "name": "Just Your Fool",
+      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Having a Rave Up with The Yardbirds (2015 Remaster)",
         "url": "https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno"
       },
@@ -275,6 +291,22 @@
       "duration_ms": 159866,
       "name": "I'm a Man - 2015 Remaster",
       "url": "https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 528133,
+      "name": "Voodoo Chile Blues",
+      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -299,38 +331,6 @@
       "duration_ms": 289173,
       "name": "Goin' Down Slow",
       "url": "https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 528133,
-      "name": "Voodoo Chile Blues",
-      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 144493,
-      "name": "Just Your Fool",
-      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 294426,
-      "name": "Checkin' Up On My Baby",
-      "url": "https://open.spotify.com/track/02b0vxOu1dFKNoUR58YVnk"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 236160,
       "name": "My Babe",
       "url": "https://open.spotify.com/track/0YCj5u72nxNMLdvDQcUdZr"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 294426,
+      "name": "Checkin' Up On My Baby",
+      "url": "https://open.spotify.com/track/02b0vxOu1dFKNoUR58YVnk"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Tons Of Sobs",
-        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 220999,
-      "name": "Wild Indian Woman",
-      "url": "https://open.spotify.com/track/30UbWFhYVVcIjIR7L0VXI3"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Official Blues Band Bootleg Album (Remastered)",
         "url": "https://open.spotify.com/album/2VzkgbYZHG3rOTSJQxzlRO"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 234393,
       "name": "Talk To Me Baby - Remastered",
       "url": "https://open.spotify.com/track/3xbfli5MdImWymShGOOMlC"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Tons Of Sobs",
+        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 220999,
+      "name": "Wild Indian Woman",
+      "url": "https://open.spotify.com/track/30UbWFhYVVcIjIR7L0VXI3"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
-        "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 135640,
-      "name": "Blues In D Natural",
-      "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "In London",
         "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 309293,
       "name": "Blue Shadows",
       "url": "https://open.spotify.com/track/6rGuOsQMY1UsvyPcpvbE4i"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
+        "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 135640,
+      "name": "Blues In D Natural",
+      "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Door To Door",
-        "url": "https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP"
+        "name": "Basic Soul",
+        "url": "https://open.spotify.com/album/5WRNrna2YPWvQtfgCVU7Of"
       },
       "artists": [
         {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 182493,
-      "name": "Searchin' For A Woman",
-      "url": "https://open.spotify.com/track/4flr62w4ZvsSOyWuivV0WA"
+      "duration_ms": 232226,
+      "name": "Uh Huh My Baby",
+      "url": "https://open.spotify.com/track/1smUyCwjopLiEnkyzypWOW"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1127,34 +1127,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Basic Soul",
-        "url": "https://open.spotify.com/album/5WRNrna2YPWvQtfgCVU7Of"
+        "name": "Door To Door",
+        "url": "https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
         }
       ],
-      "duration_ms": 232226,
-      "name": "Uh Huh My Baby",
-      "url": "https://open.spotify.com/track/1smUyCwjopLiEnkyzypWOW"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "That's It! / Duke Recordings Vol. III",
-        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 154693,
-      "name": "Good Time Charlie - Pt. 1 / Single Version",
-      "url": "https://open.spotify.com/track/5HSJ3BzoAWbE0qdRD0YvvQ"
+      "duration_ms": 182493,
+      "name": "Searchin' For A Woman",
+      "url": "https://open.spotify.com/track/4flr62w4ZvsSOyWuivV0WA"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1171,6 +1155,22 @@
       "duration_ms": 166506,
       "name": "Early One Morning",
       "url": "https://open.spotify.com/track/6mUSXLiUA398z4cpcRp7a5"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "That's It! / Duke Recordings Vol. III",
+        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 154693,
+      "name": "Good Time Charlie - Pt. 1 / Single Version",
+      "url": "https://open.spotify.com/track/5HSJ3BzoAWbE0qdRD0YvvQ"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1279,30 +1279,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Checkin' It Out",
-        "url": "https://open.spotify.com/album/75cACdZc7bh9xgE402Tsmg"
-      },
-      "artists": [
-        {
-          "name": "Billy Boy Arnold",
-          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
-        },
-        {
-          "name": "Tony McPhee",
-          "url": "https://open.spotify.com/artist/641MUhxfyhBorLlnQ2983q"
-        },
-        {
-          "name": "The Groundhogs",
-          "url": "https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Don't Stay Out All Night",
-      "url": "https://open.spotify.com/track/2w5wOsTUOPRGekr3z65G2l"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Door To Door",
         "url": "https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP"
       },
@@ -1331,6 +1307,30 @@
       "duration_ms": 136893,
       "name": "Somebody Help Me - Mono Version",
       "url": "https://open.spotify.com/track/1v0D2YFE15WXlxqvoKmCGv"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Checkin' It Out",
+        "url": "https://open.spotify.com/album/75cACdZc7bh9xgE402Tsmg"
+      },
+      "artists": [
+        {
+          "name": "Billy Boy Arnold",
+          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
+        },
+        {
+          "name": "Tony McPhee",
+          "url": "https://open.spotify.com/artist/641MUhxfyhBorLlnQ2983q"
+        },
+        {
+          "name": "The Groundhogs",
+          "url": "https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Don't Stay Out All Night",
+      "url": "https://open.spotify.com/track/2w5wOsTUOPRGekr3z65G2l"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Texas Oil - The Complete Federal Recordings",
-        "url": "https://open.spotify.com/album/0aUiSnttJkUwVycLAnXKdQ"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Wash Out",
-      "url": "https://open.spotify.com/track/7krwrfAipXYI2aChTzv3t0"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Frijid Pink (Digitially Remastered)",
         "url": "https://open.spotify.com/album/0iGAC7IoWSGGFXEDqtddNI"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 228626,
       "name": "Drivin' Blues - Remastered",
       "url": "https://open.spotify.com/track/5HvEnevlPtko7RRHFYfOrL"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Texas Oil - The Complete Federal Recordings",
+        "url": "https://open.spotify.com/album/0aUiSnttJkUwVycLAnXKdQ"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Wash Out",
+      "url": "https://open.spotify.com/track/7krwrfAipXYI2aChTzv3t0"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "Confessin' The Blues",
+      "url": "https://open.spotify.com/track/26VeLcnNOv7iOtzb7VuHZF"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Goin' To Chicago",
         "url": "https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K"
       },
@@ -1679,22 +1695,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "Confessin' The Blues",
-      "url": "https://open.spotify.com/track/26VeLcnNOv7iOtzb7VuHZF"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Beck-Ola",
-        "url": "https://open.spotify.com/album/5U29fXcBHWNrUrFI1ol8Oi"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 290666,
-      "name": "The Hangman's Knee - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0LxgShBPLp0dZT866Ilkv2"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "When Girls Do It",
         "url": "https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 172560,
       "name": "When Girls Do It",
       "url": "https://open.spotify.com/track/0sGX1jTxtvtLDVPQdgXuLu"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Beck-Ola",
+        "url": "https://open.spotify.com/album/5U29fXcBHWNrUrFI1ol8Oi"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 290666,
+      "name": "The Hangman's Knee - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0LxgShBPLp0dZT866Ilkv2"
     },
     {
       "added_at": "2023-01-27 16:34:16",

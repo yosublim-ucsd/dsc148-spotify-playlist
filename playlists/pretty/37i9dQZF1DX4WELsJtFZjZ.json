@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1980s.",
-  "num_followers": 881778,
+  "num_followers": 882384,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTAyMjUxOGYxNmE3NzNkODM2MjcyNjZhNDUyYjI3YjVhZmI1Y2Yx",
+  "snapshot_id": "MCw2YThlMTg5ZjQ1OWNkMDk1OWVkZWVmMjk2NThkMjMyYmZjZTNlODVi",
   "tracks": [
     {
       "added_at": "2023-01-24 23:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Crowded House",
-        "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 221053,
       "name": "Little Lies - 2017 Remaster",
       "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Crowded House",
+        "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv"
     },
     {
-      "added_at": "2023-11-10 14:51:19",
-      "album": {
-        "name": "...Nothing Like The Sun",
-        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Englishman In New York",
-      "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
-    },
-    {
       "added_at": "2023-01-24 23:00:00",
       "album": {
         "name": "Forever Young",
@@ -667,6 +651,22 @@
       "duration_ms": 226706,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
+    },
+    {
+      "added_at": "2023-11-10 14:51:19",
+      "album": {
+        "name": "...Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Englishman In New York",
+      "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "Saving All My Love for You",
-      "url": "https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "True - The Digital E.P.",
         "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 329146,
       "name": "True - Single Edit",
       "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "Saving All My Love for You",
+      "url": "https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "...Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 236306,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "We've Got Tonight",
         "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 234560,
       "name": "We've Got Tonight",
       "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "...Nothing Like The Sun",
-        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 236306,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Human Racing",
-        "url": "https://open.spotify.com/album/5cl4eOKYrrX0pcFFnEieYR"
-      },
-      "artists": [
-        {
-          "name": "Nik Kershaw",
-          "url": "https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac"
-        }
-      ],
-      "duration_ms": 277053,
-      "name": "Wouldn't It Be Good",
-      "url": "https://open.spotify.com/track/00FDHurakzVEiPutdUxXXq"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Heart Break",
         "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
+        "name": "Human Racing",
+        "url": "https://open.spotify.com/album/5cl4eOKYrrX0pcFFnEieYR"
       },
       "artists": [
         {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+          "name": "Nik Kershaw",
+          "url": "https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac"
         }
       ],
-      "duration_ms": 254476,
-      "name": "These Dreams",
-      "url": "https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY"
+      "duration_ms": 277053,
+      "name": "Wouldn't It Be Good",
+      "url": "https://open.spotify.com/track/00FDHurakzVEiPutdUxXXq"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1671,6 +1655,22 @@
       "duration_ms": 227293,
       "name": "There's No Easy Way",
       "url": "https://open.spotify.com/track/7ePEIbrsRXk9En7noiLAo7"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 254476,
+      "name": "These Dreams",
+      "url": "https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Guilty",
         "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 264333,
       "name": "Guilty (feat. Barry Gibb)",
       "url": "https://open.spotify.com/track/60mGckXEG1EzR4VmjYLfEW"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "La Isla Bonita",
-      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 336666,
-      "name": "Father Figure - Remastered",
-      "url": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Jeffrey Osborne",
         "url": "https://open.spotify.com/album/0Z4d4VItwYl3FavOak829u"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 241760,
       "name": "On The Wings Of Love",
       "url": "https://open.spotify.com/track/6AEdWbrFREOUNmI1hMPbyc"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 336666,
+      "name": "Father Figure - Remastered",
+      "url": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Juice",
-        "url": "https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc"
-      },
-      "artists": [
-        {
-          "name": "Juice Newton",
-          "url": "https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "Angel Of The Morning",
-      "url": "https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Winner In You",
         "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 290840,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Juice",
+        "url": "https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc"
+      },
+      "artists": [
+        {
+          "name": "Juice Newton",
+          "url": "https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "Angel Of The Morning",
+      "url": "https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2443,18 +2443,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Best of Bish",
-        "url": "https://open.spotify.com/album/3jONwbdCWOJf9uqUBHXvhj"
+        "name": "The Sensual World (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
       },
       "artists": [
         {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 258901,
-      "name": "It Might Be You",
-      "url": "https://open.spotify.com/track/2Qmx8W62PEz88T7cGjHDug"
+      "duration_ms": 216306,
+      "name": "This Woman's Work - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e"
     }
   ],
   "unique_name": "Soft 80s",

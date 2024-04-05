@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1189076,
+  "num_followers": 1189217,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWQ2MTUzZWZhYzY2NjU1YWFlM2NkNGJlNDVlMTQ3YzM0Y2Q4OTdj",
+  "snapshot_id": "MCxiZDhlMWVmOGU0OWRiMzdlZWZlMzYwODhkN2JlNjZmNTQzODc4Yjlk",
   "tracks": [
     {
       "added_at": "2023-09-29 20:20:52",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "I'm Always Here",
+      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "Trauma",
         "url": "https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 198807,
       "name": "Silly Girl",
       "url": "https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
-      },
-      "artists": [
-        {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "I'm Always Here",
-      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+        "name": "Home for the Summer",
+        "url": "https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
         }
       ],
-      "duration_ms": 279306,
-      "name": "Pictures of Us",
-      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
+      "duration_ms": 155271,
+      "name": "Home for the Summer",
+      "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Home for the Summer",
-        "url": "https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX"
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
       "artists": [
         {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 155271,
-      "name": "Home for the Summer",
-      "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
+      "duration_ms": 279306,
+      "name": "Pictures of Us",
+      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "curse,",
-        "url": "https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO"
-      },
-      "artists": [
-        {
-          "name": "normal the kid",
-          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
-        }
-      ],
-      "duration_ms": 238734,
-      "name": "curse,",
-      "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Kenny",
         "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 194133,
       "name": "Kenny",
       "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "curse,",
+        "url": "https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO"
+      },
+      "artists": [
+        {
+          "name": "normal the kid",
+          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+        }
+      ],
+      "duration_ms": 238734,
+      "name": "curse,",
+      "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "we were girls together",
+        "url": "https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 137136,
+      "name": "we were girls together",
+      "url": "https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "Smoke Signals (feat. Tessa Violet)",
         "url": "https://open.spotify.com/album/0BcN30IU7guOqvKxVeXXqQ"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 208966,
       "name": "Smoke Signals (feat. Tessa Violet)",
       "url": "https://open.spotify.com/track/07c66SO9kYqa5GSmvLsQZy"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "we were girls together",
-        "url": "https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 137136,
-      "name": "we were girls together",
-      "url": "https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Hey u x",
-        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 231700,
-      "name": "Happen To Me",
-      "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/3J5x8fNyhDoZtxKVaNxRkm"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 211746,
       "name": "Close to Me",
       "url": "https://open.spotify.com/track/01r2Cl5Q9n8JJb5SyI9OSm"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Hey u x",
+        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 231700,
+      "name": "Happen To Me",
+      "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Maybe I\u2019m Lonely",
-        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 152141,
-      "name": "Maybe I\u2019m Lonely",
-      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
-    },
-    {
       "added_at": "2024-03-07 21:03:22",
       "album": {
         "name": "Your Mother's Name",
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "When the City Sleeps",
-        "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
+        "name": "Maybe I\u2019m Lonely",
+        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
       },
       "artists": [
         {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 216514,
-      "name": "I Feel It",
-      "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
+      "duration_ms": 152141,
+      "name": "Maybe I\u2019m Lonely",
+      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
       "added_at": "2024-03-07 21:03:22",
@@ -1495,6 +1479,22 @@
       "duration_ms": 190000,
       "name": "safe space",
       "url": "https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "When the City Sleeps",
+        "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 216514,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
     },
     {
       "added_at": "2023-09-29 20:20:52",

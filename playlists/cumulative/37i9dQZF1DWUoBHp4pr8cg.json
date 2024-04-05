@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Only the hottest Hip Hop from Lucas Raps (pictured), Future & Metro Boomin', Big Sean and more...",
+  "description": "Only the hottest Hip Hop from Nasty C(pictured), Future & Metro Boomin', Big Sean and more...",
   "name": "Hip Hop Circle",
   "tracks": [
     {
@@ -702,7 +702,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 110781,
       "name": "Big Mad (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/6UliIDFULJHvJpSfQ61zu5"
@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "coMPRess",
+        "url": "https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194811,
+      "name": "coMPRess",
+      "url": "https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn"
+    },
+    {
+      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/1cxhz5Jd9G2j3IHYKDaGaO"
       },
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 122487,
       "name": "Dead or Alive",
       "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 501648,
       "name": "GOD DID (feat. Rick Ross, Lil Wayne, Jay-Z, John Legend & Fridayy)",
       "url": "https://open.spotify.com/track/2sOj9vyd6yiss9W1IK6chU"
@@ -2750,6 +2768,32 @@
       "duration_ms": 181106,
       "name": "Life Worth Living",
       "url": "https://open.spotify.com/track/33Tvaro7t9LNhkoJdjrFOR"
+    },
+    {
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267706,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
     },
     {
       "album": {
@@ -4333,6 +4377,24 @@
     },
     {
       "album": {
+        "name": "Separate the Rams",
+        "url": "https://open.spotify.com/album/7drCT7zg78Bajn6GjMvVUd"
+      },
+      "artists": [
+        {
+          "name": "Solo Ntsizwa Ka Mthimkhulu",
+          "url": "https://open.spotify.com/artist/5YW48kOOBcUUOpXgAI1KYY"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155413,
+      "name": "Separate the Rams",
+      "url": "https://open.spotify.com/track/5yBmeokqzmbawwhpgdWmBG"
+    },
+    {
+      "album": {
         "name": "SETE (feat. Young Stunna & Blxckie)",
         "url": "https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG"
       },
@@ -4820,7 +4882,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 148115,
       "name": "Strike (Holster)",
       "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"

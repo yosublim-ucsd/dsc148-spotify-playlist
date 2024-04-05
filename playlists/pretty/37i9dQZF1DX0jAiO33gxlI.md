@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Rashid
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,541 likes - 74 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,553 likes - 74 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 11 | [Sem Bala Contada](https://open.spotify.com/track/2yTuoDzpNuo2hiQvxFrD4f) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Sem Bala Contada](https://open.spotify.com/album/4WlO7hqFv8sn7QYJ6Dm03S) | 2:47 |
 | 12 | [Tempo Ruim](https://open.spotify.com/track/1g70vYJx7zcLVeOl4uxeRc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:40 |
 | 13 | [Maybach](https://open.spotify.com/track/5gsMdAjkaCx2FwWfPn2LRM) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [Maybach](https://open.spotify.com/album/2gCYuXnp9xRO4e1eqZo6TN) | 2:30 |
-| 14 | [Vivências & Negócios](https://open.spotify.com/track/5PGnU2xpp0Xt4TmFiEr9b3) | [JL](https://open.spotify.com/artist/6uz5Mq7MWDHlFo6XTKtw8Q), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Kiel Mc](https://open.spotify.com/artist/4JK6yXHA3gPH0j1DTckViZ) | [Vivências & Negócios](https://open.spotify.com/album/18riLkMJy6CmiWT6Wn0XzZ) | 3:24 |
+| 14 | [Vivências & Negócios](https://open.spotify.com/track/5PGnU2xpp0Xt4TmFiEr9b3) | [JL](https://open.spotify.com/artist/6uz5Mq7MWDHlFo6XTKtw8Q), [Kiel Mc](https://open.spotify.com/artist/4JK6yXHA3gPH0j1DTckViZ), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu) | [Vivências & Negócios](https://open.spotify.com/album/18riLkMJy6CmiWT6Wn0XzZ) | 3:24 |
 | 15 | [Domingo no Centro](https://open.spotify.com/track/5B0iquJgVg0bX2jl3AdpDe) | [LONNMAR](https://open.spotify.com/artist/7pHh0Fkpf9Fsa6znXNWyrW), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Domingo no Centro](https://open.spotify.com/album/1a8dxCIPUhMpcaMuyIVPuS) | 2:30 |
 | 16 | [Enigma](https://open.spotify.com/track/4MT2KdPYfTBdKpuZLyU7eC) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [CMKMUSIC](https://open.spotify.com/artist/73IZwmH55Ormc0TTDUTGfO), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Neo BXD](https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73), [MT](https://open.spotify.com/artist/3nDDNAa6ObdyNErfT5bv02), [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL) | [Enigma](https://open.spotify.com/album/79cZaharrnC66Lu0ffL6xX) | 2:59 |
 | 17 | [Igrejas e Terreiros](https://open.spotify.com/track/2z5FWmKAZGQVYi0Q6JeduI) | [Rod 3030](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [RAFA KABELO](https://open.spotify.com/artist/6dVYz8pdgpTFLxzq0heiPo) | [Deus É Brasileiro](https://open.spotify.com/album/43lX3jomJ4z9s5lLEG8qcC) | 2:53 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 73 | [Trintou \- Ao Vivo](https://open.spotify.com/track/7hDNDt4A317VTNLdqJIaXK) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 3:30 |
 | 74 | [SP Capital](https://open.spotify.com/track/27mibYlhKxG500N1HIyHy9) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [janderson fundação](https://open.spotify.com/artist/5HcWnzCSCqQ218lLa1ewvb), [DJ Faveliano](https://open.spotify.com/artist/53SS1Ab7P1dG97hT8jwAKQ) | [SP Capital](https://open.spotify.com/album/6Ks8cwo1O3W6FRuH1vRqRj) | 3:16 |
 
-Snapshot ID: `MCwxMjY4YTU3MzA2NmE2MzE4MzIxYmNjMTU4MWY1ZGQ3OWQ3YzkyYThh`
+Snapshot ID: `MCxlMDRhZjYwYmZlYjY5YjI4NmUyMThjMDAzNmQ0ZGEzZjUyM2E2ZmJl`

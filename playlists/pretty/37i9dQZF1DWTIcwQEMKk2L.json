@@ -1,12 +1,12 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 67614,
+  "num_followers": 67633,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODMxZTgwYmQ4N2E2MjdiODllMjdlMDk3ZmQ2YmVhOTQzZTVkYzM4",
+  "snapshot_id": "MCw1NGUyNzM5NjNmZTZjN2Q5YjRmZWM2YTg5NzY0OGM5NjZiZDE5Y2Zj",
   "tracks": [
     {
       "added_at": "2024-03-25 03:24:21",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-03-25 03:24:21",
       "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Evans",
-          "url": "https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL"
-        }
-      ],
-      "duration_ms": 157250,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
-    },
-    {
-      "added_at": "2024-03-25 03:24:21",
-      "album": {
         "name": "The Fountain OST",
         "url": "https://open.spotify.com/album/7q18n1Pnq7mx6satptDoJ3"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 301733,
       "name": "Together We Will Live Forever",
       "url": "https://open.spotify.com/track/2pr6us08iPNzIex5q6fMvI"
+    },
+    {
+      "added_at": "2024-03-25 03:24:21",
+      "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Evans",
+          "url": "https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL"
+        }
+      ],
+      "duration_ms": 157250,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
     },
     {
       "added_at": "2024-03-25 03:24:21",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-03-25 03:24:21",
       "album": {
-        "name": "Happy Thoughts",
-        "url": "https://open.spotify.com/album/2T4ORsMoDr8YnScTnCTXpq"
-      },
-      "artists": [
-        {
-          "name": "Hashim Reese",
-          "url": "https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h"
-        }
-      ],
-      "duration_ms": 108750,
-      "name": "Happy Thoughts",
-      "url": "https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U"
-    },
-    {
-      "added_at": "2024-03-25 03:24:21",
-      "album": {
         "name": "Intervention",
         "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 166683,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ"
+    },
+    {
+      "added_at": "2024-03-25 03:24:21",
+      "album": {
+        "name": "Happy Thoughts",
+        "url": "https://open.spotify.com/album/2T4ORsMoDr8YnScTnCTXpq"
+      },
+      "artists": [
+        {
+          "name": "Hashim Reese",
+          "url": "https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h"
+        }
+      ],
+      "duration_ms": 108750,
+      "name": "Happy Thoughts",
+      "url": "https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U"
     },
     {
       "added_at": "2024-03-25 03:24:21",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-03-25 03:24:21",
       "album": {
-        "name": "Star Eyes",
-        "url": "https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I"
-      },
-      "artists": [
-        {
-          "name": "Angel Gregoire",
-          "url": "https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF"
-        }
-      ],
-      "duration_ms": 220964,
-      "name": "Star Eyes",
-      "url": "https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z"
-    },
-    {
-      "added_at": "2024-03-25 03:24:21",
-      "album": {
         "name": "Nibiru",
         "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 118016,
       "name": "Kleine Forelle",
       "url": "https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ"
+    },
+    {
+      "added_at": "2024-03-25 03:24:21",
+      "album": {
+        "name": "Star Eyes",
+        "url": "https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I"
+      },
+      "artists": [
+        {
+          "name": "Angel Gregoire",
+          "url": "https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF"
+        }
+      ],
+      "duration_ms": 220964,
+      "name": "Star Eyes",
+      "url": "https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z"
     },
     {
       "added_at": "2024-03-25 03:24:21",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-03-25 03:24:21",
       "album": {
-        "name": "Amorzinho (Piano Version)",
-        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
-      },
-      "artists": [
-        {
-          "name": "Tip Ferreira",
-          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
-        }
-      ],
-      "duration_ms": 216023,
-      "name": "Amorzinho - Piano Version",
-      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
-    },
-    {
-      "added_at": "2024-03-25 03:24:21",
-      "album": {
         "name": "Breathe In (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5cvhwLaFo0osyZmxdTvis2"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2024-03-25 03:24:21",
       "album": {
+        "name": "Amorzinho (Piano Version)",
+        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
+      },
+      "artists": [
+        {
+          "name": "Tip Ferreira",
+          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
+        }
+      ],
+      "duration_ms": 216023,
+      "name": "Amorzinho - Piano Version",
+      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
+    },
+    {
+      "added_at": "2024-03-25 03:24:21",
+      "album": {
         "name": "Oddities",
         "url": "https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 179810,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
-    },
-    {
-      "added_at": "2024-03-25 03:24:21",
-      "album": {
-        "name": "Friendship.",
-        "url": "https://open.spotify.com/album/6xSRZ5mSLTX2iWEZAyf6Tj"
-      },
-      "artists": [
-        {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
-        }
-      ],
-      "duration_ms": 91898,
-      "name": "Friendship.",
-      "url": "https://open.spotify.com/track/4tgsdsLdze2YKRMSqmcy6A"
     },
     {
       "added_at": "2024-03-25 03:24:21",
@@ -1247,6 +1231,22 @@
       "duration_ms": 180624,
       "name": "Nefelibata",
       "url": "https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ"
+    },
+    {
+      "added_at": "2024-03-25 03:24:21",
+      "album": {
+        "name": "Friendship.",
+        "url": "https://open.spotify.com/album/6xSRZ5mSLTX2iWEZAyf6Tj"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 91898,
+      "name": "Friendship.",
+      "url": "https://open.spotify.com/track/4tgsdsLdze2YKRMSqmcy6A"
     },
     {
       "added_at": "2024-03-25 03:24:21",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-03-25 03:24:21",
       "album": {
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
+      },
+      "artists": [
+        {
+          "name": "Seth Fernsby",
+          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
+        }
+      ],
+      "duration_ms": 139663,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
+    },
+    {
+      "added_at": "2024-03-25 03:24:21",
+      "album": {
         "name": "Becoming",
         "url": "https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 163250,
       "name": "Becoming",
       "url": "https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg"
-    },
-    {
-      "added_at": "2024-03-25 03:24:21",
-      "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn"
-      },
-      "artists": [
-        {
-          "name": "Jakob Ahlbom",
-          "url": "https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K"
-        }
-      ],
-      "duration_ms": 137290,
-      "name": "Forget",
-      "url": "https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO"
     },
     {
       "added_at": "2024-03-25 03:24:21",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-03-25 03:24:21",
       "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn"
       },
       "artists": [
         {
-          "name": "Seth Fernsby",
-          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
+          "name": "Jakob Ahlbom",
+          "url": "https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K"
         }
       ],
-      "duration_ms": 139663,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
+      "duration_ms": 137290,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO"
     },
     {
       "added_at": "2024-03-25 03:24:21",
@@ -1395,38 +1395,6 @@
       "duration_ms": 172522,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
-    },
-    {
-      "added_at": "2024-03-25 03:24:21",
-      "album": {
-        "name": "The Ember",
-        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
-      },
-      "artists": [
-        {
-          "name": "Albie Monroy",
-          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
-        }
-      ],
-      "duration_ms": 198298,
-      "name": "Trail of Light",
-      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
-    },
-    {
-      "added_at": "2024-03-25 03:24:21",
-      "album": {
-        "name": "Magnolia",
-        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
-      },
-      "artists": [
-        {
-          "name": "Snow in April",
-          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
-        }
-      ],
-      "duration_ms": 148407,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
     },
     {
       "added_at": "2024-03-25 03:24:21",
@@ -1463,6 +1431,38 @@
     {
       "added_at": "2024-03-25 03:24:21",
       "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
+      },
+      "artists": [
+        {
+          "name": "Snow in April",
+          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
+        }
+      ],
+      "duration_ms": 148407,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
+    },
+    {
+      "added_at": "2024-03-25 03:24:21",
+      "album": {
+        "name": "The Ember",
+        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
+      },
+      "artists": [
+        {
+          "name": "Albie Monroy",
+          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
+        }
+      ],
+      "duration_ms": 198298,
+      "name": "Trail of Light",
+      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+    },
+    {
+      "added_at": "2024-03-25 03:24:21",
+      "album": {
         "name": "Water Lilly Pond",
         "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
       },
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-03-25 03:24:21",
       "album": {
-        "name": "Murray's Moon",
-        "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
-      },
-      "artists": [
-        {
-          "name": "Stan Van Outen",
-          "url": "https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Murray's Moon",
-      "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
-    },
-    {
-      "added_at": "2024-03-25 03:24:21",
-      "album": {
         "name": "Defying Gravity",
         "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
       },
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2024-03-25 03:24:21",
       "album": {
-        "name": "Greensleaves",
-        "url": "https://open.spotify.com/album/0E922s2u5gBDUb7YWrfjyJ"
+        "name": "Murray's Moon",
+        "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
       },
       "artists": [
         {
-          "name": "Alexander Ardelan",
-          "url": "https://open.spotify.com/artist/3CxoICFGD6Cjj9NU7ewb0R"
+          "name": "Stan Van Outen",
+          "url": "https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu"
         }
       ],
-      "duration_ms": 107250,
-      "name": "Greensleaves",
-      "url": "https://open.spotify.com/track/30uZQX3jngrbRsI2HeiIYg"
+      "duration_ms": 127000,
+      "name": "Murray's Moon",
+      "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
     },
     {
       "added_at": "2024-03-25 03:24:21",
@@ -1571,6 +1555,22 @@
       "duration_ms": 128873,
       "name": "erinna",
       "url": "https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB"
+    },
+    {
+      "added_at": "2024-03-25 03:24:21",
+      "album": {
+        "name": "Greensleaves",
+        "url": "https://open.spotify.com/album/0E922s2u5gBDUb7YWrfjyJ"
+      },
+      "artists": [
+        {
+          "name": "Alexander Ardelan",
+          "url": "https://open.spotify.com/artist/3CxoICFGD6Cjj9NU7ewb0R"
+        }
+      ],
+      "duration_ms": 107250,
+      "name": "Greensleaves",
+      "url": "https://open.spotify.com/track/30uZQX3jngrbRsI2HeiIYg"
     },
     {
       "added_at": "2024-03-25 03:24:21",

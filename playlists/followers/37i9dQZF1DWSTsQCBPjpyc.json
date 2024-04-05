@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 33443,
+  "2024-04-05": 33476,
   "date_first_scraped": "2022-05-26",
   "description": "Blues meets funk. Cover: Eric Gales",
   "name": "Funky Blues",
@@ -1269,7 +1269,7 @@
     {
       "album": {
         "name": "Mess Of Blues",
-        "url": "https://open.spotify.com/album/6KopMX1sqafvcQVLtOpnw6"
+        "url": "https://open.spotify.com/album/5jHcovMQ9lseSj1EBnISjb"
       },
       "artists": [
         {
@@ -1280,6 +1280,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 226133,
+      "name": "Sugar Sweet",
+      "url": "https://open.spotify.com/track/5LtkJC7nQhyOuEOzLbk2d1"
+    },
+    {
+      "album": {
+        "name": "Mess Of Blues",
+        "url": "https://open.spotify.com/album/6KopMX1sqafvcQVLtOpnw6"
+      },
+      "artists": [
+        {
+          "name": "Jeff Healey",
+          "url": "https://open.spotify.com/artist/4SsLXt0cHcVRhHzxXa8Wnx"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-04",
       "duration_ms": 226160,
       "name": "Sugar Sweet",
       "url": "https://open.spotify.com/track/13cYITViVXDJ9PQv7YqJPM"

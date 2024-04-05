@@ -2143,6 +2143,24 @@
     },
     {
       "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "December",
+      "url": "https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT"
+    },
+    {
+      "album": {
         "name": "Denge II",
         "url": "https://open.spotify.com/album/7K9VJX2ZO6rtj4jW9zqY8t"
       },
@@ -3769,6 +3787,32 @@
     },
     {
       "album": {
+        "name": "Inshallah",
+        "url": "https://open.spotify.com/album/7tcae3ariHW1tuoJccBvC2"
+      },
+      "artists": [
+        {
+          "name": "Ypee",
+          "url": "https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P"
+        },
+        {
+          "name": "Kofi Jamar",
+          "url": "https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222615,
+      "name": "Inshallah",
+      "url": "https://open.spotify.com/track/6XLVIa3eq9KiZXZGLGH5vn"
+    },
+    {
+      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/0sV7MVjtvmIlLqA6AJxzAu"
       },
@@ -3874,7 +3918,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 185739,
       "name": "Jakpa",
       "url": "https://open.spotify.com/track/0LQCqvg5fiIW0efHyVNw00"
@@ -6560,7 +6604,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 218230,
       "name": "Patek",
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
@@ -6578,7 +6622,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 153103,
       "name": "Peace Be Unto You (PBUY)",
       "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
@@ -9264,6 +9308,32 @@
       "duration_ms": 192034,
       "name": "Who Say",
       "url": "https://open.spotify.com/track/6AKrORRZr4zljkdZiZx8gn"
+    },
+    {
+      "album": {
+        "name": "Wombom",
+        "url": "https://open.spotify.com/album/5WQmQP2tj5xH2mvoB1dXme"
+      },
+      "artists": [
+        {
+          "name": "Kofi Jamar",
+          "url": "https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK"
+        },
+        {
+          "name": "Kwesi Amewuga",
+          "url": "https://open.spotify.com/artist/3M6wBIiRHibBnlC0MVZDeC"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284879,
+      "name": "Wombom",
+      "url": "https://open.spotify.com/track/3ITbQtBxqUfMnDKUPxtNTo"
     },
     {
       "album": {

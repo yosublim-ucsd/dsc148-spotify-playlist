@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Hot Mulligan",
-  "num_followers": 569080,
+  "num_followers": 569165,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGM4NjlhZThiMDI3ZmE5ODU1YTQwMjFmYzkzYWQzYzNjZGU5YmEy",
+  "snapshot_id": "MCw3N2NkZGQ4YWFiM2FkZWQ3MmM2NmNlNjc4M2M4ODJlNDJkY2EyOWY5",
   "tracks": [
     {
       "added_at": "2024-03-22 19:30:48",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
+        "name": "sleepwalking",
+        "url": "https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "duration_ms": 120855,
+      "name": "sleepwalking",
+      "url": "https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
         "name": "\"good guy\"",
         "url": "https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 196301,
       "name": "GODDAMNITALL",
       "url": "https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
-        "name": "sleepwalking",
-        "url": "https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt"
-      },
-      "artists": [
-        {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
-        }
-      ],
-      "duration_ms": 120855,
-      "name": "sleepwalking",
-      "url": "https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "More Like A Crash",
-        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "More Like A Crash",
-      "url": "https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "Lessons That We Swear to Keep",
         "url": "https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 171160,
       "name": "A Part Is Better Than Zero",
       "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "More Like A Crash",
+        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "More Like A Crash",
+      "url": "https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "3 DAY HEADACHE",
-        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 114284,
-      "name": "3 DAY HEADACHE",
-      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "shut up & kiss me",
         "url": "https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 161000,
       "name": "shut up & kiss me",
       "url": "https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "3 DAY HEADACHE",
+        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 114284,
+      "name": "3 DAY HEADACHE",
+      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
+        "name": "Alameda County Fair",
+        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
+      },
+      "artists": [
+        {
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+        }
+      ],
+      "duration_ms": 147546,
+      "name": "Alameda County Fair",
+      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
         "name": "can we start over?",
         "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
       },
@@ -691,18 +707,18 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Alameda County Fair",
-        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
+        "name": "GROWING UP ON THE INTERNET",
+        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
       },
       "artists": [
         {
-          "name": "Mom Jeans.",
-          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
         }
       ],
-      "duration_ms": 147546,
-      "name": "Alameda County Fair",
-      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
+      "duration_ms": 199866,
+      "name": "GROWING UP ON THE INTERNET",
+      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -735,22 +751,6 @@
       "duration_ms": 193801,
       "name": "Childhood Eyes",
       "url": "https://open.spotify.com/track/2ttWOp5QoqdO6zkIJJ4bFh"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
-        "name": "GROWING UP ON THE INTERNET",
-        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "GROWING UP ON THE INTERNET",
-      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Certified Depressant",
-        "url": "https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 200981,
-      "name": "Everything Sucks",
-      "url": "https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "Hey Ben",
         "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
+        "name": "Certified Depressant",
+        "url": "https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 200981,
+      "name": "Everything Sucks",
+      "url": "https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
         "name": "Past // Present // Future",
         "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
       },
@@ -887,22 +887,18 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "No Point Pretending (Song For Tour)",
-        "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
+        "name": "Honda Civic",
+        "url": "https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM"
       },
       "artists": [
         {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        },
-        {
-          "name": "Bears In Trees",
-          "url": "https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2"
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
         }
       ],
-      "duration_ms": 179250,
-      "name": "No Point Pretending (Song For Tour)",
-      "url": "https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C"
+      "duration_ms": 170520,
+      "name": "Honda Civic",
+      "url": "https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -923,18 +919,22 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Honda Civic",
-        "url": "https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM"
+        "name": "No Point Pretending (Song For Tour)",
+        "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
       },
       "artists": [
         {
-          "name": "Lauran Hibberd",
-          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        },
+        {
+          "name": "Bears In Trees",
+          "url": "https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2"
         }
       ],
-      "duration_ms": 170520,
-      "name": "Honda Civic",
-      "url": "https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB"
+      "duration_ms": 179250,
+      "name": "No Point Pretending (Song For Tour)",
+      "url": "https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Petty Enemy",
-        "url": "https://open.spotify.com/album/5uHsfC0uBHrCpGCTTH658f"
+        "name": "How To Live With Yourself / Smoke Screen",
+        "url": "https://open.spotify.com/album/2IvgPVP1I1BDZwsWe8EaZU"
       },
       "artists": [
         {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
         }
       ],
-      "duration_ms": 199553,
-      "name": "Petty Enemy",
-      "url": "https://open.spotify.com/track/52H6QAbHUfJf2bMgRE6Ooa"
+      "duration_ms": 165173,
+      "name": "How To Live With Yourself",
+      "url": "https://open.spotify.com/track/2MfVLc5DOoOYxPhlvd7afG"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

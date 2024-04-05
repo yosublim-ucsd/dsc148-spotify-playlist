@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 
 > Brighten your morning with these indie, folk and acoustic sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,554 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,555 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 12 | [Tree by the River](https://open.spotify.com/track/1lhtOsCUtm0kND96OtDeNw) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Kiss Each Other Clean](https://open.spotify.com/album/4hQrMKUocaKJjrv2jxgI9l) | 3:56 |
 | 13 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 |
 | 14 | [Chateau Lobby \#4 \(in C for Two Virgins\)](https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F) | 2:50 |
-| 15 | [Beggar in the Morning](https://open.spotify.com/track/4JrnZmOfgmVStNzxqDnznZ) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [The Barr Brothers](https://open.spotify.com/album/6sKE3JOEoAj6WEFCTkb1m4) | 5:55 |
+| 15 | [Beggar in the Morning](https://open.spotify.com/track/7pCF5qq2HYbPTXXglBdqaO) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [The Barr Brothers](https://open.spotify.com/album/7lBNpLMWtOz24d6IM2tzOP) | 5:55 |
 | 16 | [40 Day Dream \(2019 Remaster\)](https://open.spotify.com/track/6qSViwr8Z1ERkL2ZVun3VY) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \- 10th Anniversary Edition](https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd) | 3:52 |
 | 17 | [Ragged Wood](https://open.spotify.com/track/2qvToeBdYliw6n0nEsKJQa) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 5:07 |
 | 18 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 99 | [Man](https://open.spotify.com/track/6BDfXTstCuQuNl0BAuRNxc) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Wild Creatures](https://open.spotify.com/album/0KGcCenSL9QAN9mhonWfx5) | 3:31 |
 | 100 | [Show Me Something Higher](https://open.spotify.com/track/17IqqKRqItHYtUol1m0LLB) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz) | [Something Higher](https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj) | 5:27 |
 
-Snapshot ID: `MCxhMTY4N2MyYzU5YTk3YTE2MTZlYTE0Nzk0MGYwNjhiYzUxYTc1MWQz`
+Snapshot ID: `MCw1MGY0YmEwZTkxOWU2MDIxMjQxMTZmN2JjMGZhN2I5YWVjY2MzNzBj`

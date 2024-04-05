@@ -1,12 +1,12 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1346353,
+  "num_followers": 1346704,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDY3ZTczOTk4ODA5M2ZjNWQ2NDA3NjVlZDZhODJlYjIwNWJkYzI1",
+  "snapshot_id": "MCxiOTNlMDk4ZjM4MzZlZTczYWJkY2Q0NmVlNDA1NTNiMDAwZmY0NmEw",
   "tracks": [
     {
       "added_at": "2024-01-02 10:36:29",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "18 and Life",
+      "url": "https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
         "name": "Crazy World",
         "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 190718,
       "name": "A Little Bit Off",
       "url": "https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "18 and Life",
-      "url": "https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "War Is the Answer",
-        "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 262440,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "No More Tears (Expanded Edition)",
         "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 251866,
       "name": "Mama, I'm Coming Home",
       "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 262440,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
-        "url": "https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Wrong Side of Heaven",
-      "url": "https://open.spotify.com/track/0GQmBK4A5hFQdjhYCFCbtK"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 346960,
       "name": "Love Bites - Remastered 2017",
       "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
+        "url": "https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Wrong Side of Heaven",
+      "url": "https://open.spotify.com/track/0GQmBK4A5hFQdjhYCFCbtK"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
+        "name": "Tooth and Nail",
+        "url": "https://open.spotify.com/album/68bOQyF7s918K2nUIXSGWo"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "duration_ms": 260680,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/5Q916vqrwfON21qlJiXpSz"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
         "name": "The Sound of Perseverance - Reissue",
         "url": "https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 223933,
       "name": "Voice of the Soul",
       "url": "https://open.spotify.com/track/69Yia3qCLw6N9U80WhLwLn"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "Life Eternal",
-      "url": "https://open.spotify.com/track/7qkKJFIYBsLEVOjgAwqTlz"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Tooth and Nail",
-        "url": "https://open.spotify.com/album/68bOQyF7s918K2nUIXSGWo"
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
       },
       "artists": [
         {
-          "name": "Dokken",
-          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 260680,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/5Q916vqrwfON21qlJiXpSz"
+      "duration_ms": 207120,
+      "name": "Life Eternal",
+      "url": "https://open.spotify.com/track/7qkKJFIYBsLEVOjgAwqTlz"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 303613,
-      "name": "Hold on to Memories",
-      "url": "https://open.spotify.com/track/7tDwiOA86rkQWR1E1TPpgD"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "The World Needs a Hero",
         "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 268706,
       "name": "Promises",
       "url": "https://open.spotify.com/track/196rNjJkKTjsk2NTEtJKLq"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 303613,
+      "name": "Hold on to Memories",
+      "url": "https://open.spotify.com/track/7tDwiOA86rkQWR1E1TPpgD"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 354636,
-      "name": "Hysteria - Remastered 2017",
-      "url": "https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "Damnation",
         "url": "https://open.spotify.com/album/4FmI0F5GvvR1M9RURWnJV9"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 464280,
       "name": "Windowpane",
       "url": "https://open.spotify.com/track/4uJSCrI7r0usNJ3aaHAuC6"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 354636,
+      "name": "Hysteria - Remastered 2017",
+      "url": "https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Heartbreak Station",
-        "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Heartbreak Station",
-      "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "In The Heart Of The Young",
         "url": "https://open.spotify.com/album/1ww9dziy6w0U2uS88aX6zN"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 255333,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/6Hp98J9Z9hRE100nivqg86"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Heartbreak Station",
+        "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Heartbreak Station",
+      "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 466586,
-      "name": "The Unforgiven III",
-      "url": "https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "Adrenalize (Deluxe)",
         "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 324026,
       "name": "Have You Ever Needed Someone So Bad",
       "url": "https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 466586,
+      "name": "The Unforgiven III",
+      "url": "https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"
     },
     {
       "added_at": "2024-01-02 10:36:29",

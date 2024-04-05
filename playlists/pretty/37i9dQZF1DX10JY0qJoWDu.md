@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 
 > Holiday cheer from your Disney favorites!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,637 likes - 121 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,632 likes - 121 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 30 | [We Wish You a Merry Christmas](https://open.spotify.com/track/5a91gSADKfKNpsWr1vcOjD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Deck the Halls](https://open.spotify.com/album/1SKpUUo0isTRq19wE5RUs0) | 1:29 |
 | 31 | [What Christmas Means to Me](https://open.spotify.com/track/1ZRq7JZzM3Q26xweRKz0SF) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [What Christmas Means to Me](https://open.spotify.com/album/1RcoVRUDGhepaBcxeEp4A0) | 3:11 |
 | 32 | [Christmas Again](https://open.spotify.com/track/5wVIYvdUYoL8cPhf5erVTx) | [Scarlett Estevez](https://open.spotify.com/artist/7vtaa3f6pG08gYqAs2l9fk) | [Christmas Again \(Original Soundtrack\)](https://open.spotify.com/album/2p2vhl9JhrEgLHufU2ynjT) | 3:04 |
-| 33 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2cYRS293yoUntnfqyzsUrf) | [Huey](https://open.spotify.com/artist/33wbkdcxtduHKY53LnI1Hf), [Dewey](https://open.spotify.com/artist/2baibcPB54ZviMVMj8w25N), [Louie](https://open.spotify.com/artist/7zMwSfJMdl84Ai26VJr8VK), [Daisy Duck](https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB) | [Disney Holiday Magic](https://open.spotify.com/album/3s3K3PpzvcW4RARpmUMZgy) | 2:40 |
+| 33 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2cYRS293yoUntnfqyzsUrf) | [Huey](https://open.spotify.com/artist/33wbkdcxtduHKY53LnI1Hf), [Dewey](https://open.spotify.com/artist/07RBsYVepCM2TzeVoCvxzZ), [Louie](https://open.spotify.com/artist/7zMwSfJMdl84Ai26VJr8VK), [Daisy Duck](https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB) | [Disney Holiday Magic](https://open.spotify.com/album/3s3K3PpzvcW4RARpmUMZgy) | 2:40 |
 | 34 | [Carol of the Bells](https://open.spotify.com/track/1JkD85e8leiLWPwW4b0qWa) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 1:33 |
 | 35 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/7mE5nyoRdlZq7hKW2Uzxkl) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Stolen Jars](https://open.spotify.com/artist/5EAJ2dKLdisq7BOJHQ1B7r) | [Noelle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw) | 2:52 |
 | 36 | [Christmas Is Coming](https://open.spotify.com/track/5adIYznGmdO5b0cSwJZrjb) | [Ross Lynch and R5](https://open.spotify.com/artist/5pqZ35N7W2L1naGMgOddVW) | [Disney Channel Holiday Playlist](https://open.spotify.com/album/3u4JngBheQE1ZUyP6my3zE) | 3:08 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 120 | [Hearts Full of Cheer \- From "Elena of Avalor"](https://open.spotify.com/track/30LsNscPjAU2uzAfMMbrx9) | ["Elena Of Avalor" Cast](https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ) | [Disney Junior Music Holiday Hits](https://open.spotify.com/album/3MnoSzB6Ynq2vq0BV3krZg) | 2:16 |
 | 121 | [Audrey's Christmas Rewind](https://open.spotify.com/track/41EBsCOnEjg6j9l72fFtRf) | [Sarah Jeffery](https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K), [Jadah Marie](https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz) | [Audrey's Christmas Rewind](https://open.spotify.com/album/7fDSJl22e3oDb0L6tiAS4S) | 2:13 |
 
-Snapshot ID: `MCw0YmZiNDgwZTg4YmIyODMxMTk5M2Y1ODlmOWNkMDBhNDBiMjgxNmZk`
+Snapshot ID: `MCxjMjk1YWQ0YTExZWQzYjkwODhkODU0ZDkxMGYzMDg5ODY4ZjJiZTAz`

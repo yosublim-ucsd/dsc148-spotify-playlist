@@ -1,13 +1,29 @@
 {
   "description": "The best in modern indie. Cover: Lorde",
-  "num_followers": 2125493,
+  "num_followers": 2125561,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjE3MTJkMTQ3MTE1YWNjZjFhYTMyY2ViYjNjMDVjM2YwNTM1NzQ4",
+  "snapshot_id": "MCwyNmY3Y2VhZjkxNzkyYmY0YjNmYjU5MDNiMTE5NmQ1NzY0NDgwOWI5",
   "tracks": [
+    {
+      "added_at": "2024-04-04 16:13:25",
+      "album": {
+        "name": "Mary Boone",
+        "url": "https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 266026,
+      "name": "Mary Boone",
+      "url": "https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ"
+    },
     {
       "added_at": "2024-03-21 18:03:44",
       "album": {
@@ -73,6 +89,54 @@
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
     },
     {
+      "added_at": "2024-04-04 16:13:25",
+      "album": {
+        "name": "Bubba",
+        "url": "https://open.spotify.com/album/1du8MwctLqseKPRs9TXP6x"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Bubba",
+      "url": "https://open.spotify.com/track/635z38XAiXqvFfz6NVMO0y"
+    },
+    {
+      "added_at": "2024-04-04 16:13:25",
+      "album": {
+        "name": "Gates of Heaven / Snake Eyes (again)",
+        "url": "https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ"
+      },
+      "artists": [
+        {
+          "name": "Horse Jumper of Love",
+          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
+        }
+      ],
+      "duration_ms": 142480,
+      "name": "Gates of Heaven",
+      "url": "https://open.spotify.com/track/21S8jPbABB05vCFFwuyXGS"
+    },
+    {
+      "added_at": "2024-04-04 16:13:25",
+      "album": {
+        "name": "AMAMA",
+        "url": "https://open.spotify.com/album/5FqxuOKOkFjjkawp7bf4NA"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "AMAMA",
+      "url": "https://open.spotify.com/track/6rI8nhxfPes1TpaxOKQj0D"
+    },
+    {
       "added_at": "2024-03-21 18:03:44",
       "album": {
         "name": "Free Treasure",
@@ -87,6 +151,22 @@
       "duration_ms": 215514,
       "name": "Free Treasure",
       "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
+    },
+    {
+      "added_at": "2024-04-04 16:13:25",
+      "album": {
+        "name": "World on a String",
+        "url": "https://open.spotify.com/album/39juqMzTGcRlRdBsGfSyFe"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 189640,
+      "name": "World on a String",
+      "url": "https://open.spotify.com/track/0IsVEZzB4oBYqf2Nx0u2n8"
     },
     {
       "added_at": "2024-01-09 18:45:07",
@@ -125,6 +205,22 @@
       "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
     },
     {
+      "added_at": "2024-04-04 16:13:25",
+      "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/6EMyXFkqDM0jzADSvIIe5V"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "April",
+      "url": "https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ"
+    },
+    {
       "added_at": "2024-01-31 16:23:26",
       "album": {
         "name": "Nothing Matters",
@@ -139,6 +235,22 @@
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "added_at": "2024-03-28 23:28:29",
+      "album": {
+        "name": "Is This What Love Is?",
+        "url": "https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 223231,
+      "name": "Is This What Love Is?",
+      "url": "https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40"
     },
     {
       "added_at": "2024-03-28 23:28:29",
@@ -189,6 +301,22 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
+      "added_at": "2024-04-04 16:13:25",
+      "album": {
+        "name": "Rufus",
+        "url": "https://open.spotify.com/album/1OMJLY7DGl3BdzmG9MEXeA"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 165344,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/7q2euBzunDGE9082q4eRV0"
+    },
+    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "Run Your Mouth",
@@ -235,6 +363,58 @@
       "duration_ms": 180840,
       "name": "Lorelei",
       "url": "https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ"
+    },
+    {
+      "added_at": "2024-04-04 16:13:25",
+      "album": {
+        "name": "Docket (feat. Bully)",
+        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        },
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Docket (feat. Bully)",
+      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
+    },
+    {
+      "added_at": "2024-03-28 23:28:29",
+      "album": {
+        "name": "Before It's Gone",
+        "url": "https://open.spotify.com/album/4bz0SLNCeqWSNeYjY56Dvq"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 321856,
+      "name": "Thinking ('bout you, 'bout me)",
+      "url": "https://open.spotify.com/track/3JE7ZfeFprq4FlBdwqsjYL"
+    },
+    {
+      "added_at": "2024-04-04 16:13:25",
+      "album": {
+        "name": "All In One",
+        "url": "https://open.spotify.com/album/433yKcIuI3sgm8eYmhJuHg"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "duration_ms": 306866,
+      "name": "All In One",
+      "url": "https://open.spotify.com/track/7ycbGYrE2GMshCIiv2I33j"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -333,6 +513,26 @@
       "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
     },
     {
+      "added_at": "2024-03-28 23:28:29",
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        },
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 176632,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
+    },
+    {
       "added_at": "2024-02-09 20:51:38",
       "album": {
         "name": "Two Star & The Dream Police",
@@ -347,22 +547,6 @@
       "duration_ms": 198295,
       "name": "Alesis",
       "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Brown Paper Bag",
-        "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Brown Paper Bag",
-      "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
     },
     {
       "added_at": "2024-02-13 18:33:58",
@@ -395,6 +579,42 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-04-04 16:13:25",
+      "album": {
+        "name": "Fever : Huron John",
+        "url": "https://open.spotify.com/album/4Gs53i3RE91hhSjZ5GK10v"
+      },
+      "artists": [
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        },
+        {
+          "name": "Huron John",
+          "url": "https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v"
+        }
+      ],
+      "duration_ms": 143453,
+      "name": "Fever : Huron John",
+      "url": "https://open.spotify.com/track/3VI5TXQGla9yNivhkYaByV"
+    },
+    {
+      "added_at": "2024-04-04 16:13:25",
+      "album": {
+        "name": "Pocket",
+        "url": "https://open.spotify.com/album/2cy9UiKp4m5TuYTQD5rg3E"
+      },
+      "artists": [
+        {
+          "name": "Margot Liotta",
+          "url": "https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Pocket",
+      "url": "https://open.spotify.com/track/4tEbhflVi5PzSl2om3C3so"
     },
     {
       "added_at": "2024-02-09 20:51:38",
@@ -433,40 +653,36 @@
       "url": "https://open.spotify.com/track/0NL61fJiDf07EAd2HzsNCW"
     },
     {
-      "added_at": "2024-03-01 05:05:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Meant",
-        "url": "https://open.spotify.com/album/6AwFbp01un82gwxyAvipCi"
+        "name": "Brown Paper Bag",
+        "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
       },
       "artists": [
         {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 207013,
-      "name": "Meant",
-      "url": "https://open.spotify.com/track/0PbXhejxq3Ih2ObOGfundH"
+      "duration_ms": 265000,
+      "name": "Brown Paper Bag",
+      "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
     },
     {
-      "added_at": "2024-03-28 23:28:29",
+      "added_at": "2024-04-04 16:13:25",
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
+        "name": "Acid Star",
+        "url": "https://open.spotify.com/album/42ybuZX5idfaZBp4yrigBe"
       },
       "artists": [
         {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        },
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+          "name": "Peel",
+          "url": "https://open.spotify.com/artist/2s7R5INBvAebNLGZFOjjfZ"
         }
       ],
-      "duration_ms": 176632,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
+      "duration_ms": 204373,
+      "name": "Manic World",
+      "url": "https://open.spotify.com/track/6t7AbzopwHWsrHEFHDmoH8"
     },
     {
       "added_at": "2024-01-29 17:21:12",
@@ -633,22 +849,6 @@
       "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
     },
     {
-      "added_at": "2024-03-28 23:28:29",
-      "album": {
-        "name": "Before It's Gone",
-        "url": "https://open.spotify.com/album/4bz0SLNCeqWSNeYjY56Dvq"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 321856,
-      "name": "Thinking ('bout you, 'bout me)",
-      "url": "https://open.spotify.com/track/3JE7ZfeFprq4FlBdwqsjYL"
-    },
-    {
       "added_at": "2024-03-15 00:50:11",
       "album": {
         "name": "Sweater Club",
@@ -695,22 +895,6 @@
       "duration_ms": 192144,
       "name": "May Ninth",
       "url": "https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX"
-    },
-    {
-      "added_at": "2024-03-28 23:28:29",
-      "album": {
-        "name": "Is This What Love Is?",
-        "url": "https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 223231,
-      "name": "Is This What Love Is?",
-      "url": "https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40"
     },
     {
       "added_at": "2024-02-28 16:09:08",
@@ -843,26 +1027,6 @@
       "duration_ms": 171262,
       "name": "Light",
       "url": "https://open.spotify.com/track/6t7ssvIwRyThKBiI9xi85q"
-    },
-    {
-      "added_at": "2024-03-15 00:50:11",
-      "album": {
-        "name": "All in Good Time",
-        "url": "https://open.spotify.com/album/6kVfufglPPPTLPWQkvHPaR"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        },
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 255338,
-      "name": "All in Good Time",
-      "url": "https://open.spotify.com/track/533aNRdHHLdI9tiTvqPqjt"
     },
     {
       "added_at": "2024-02-16 05:00:00",

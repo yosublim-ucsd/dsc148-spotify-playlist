@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-195 songs - 10 hr 14 min
+201 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Ayunan](https://open.spotify.com/track/7sKHxAlAL7yvXMqCQyOLLK) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Faedah](https://open.spotify.com/album/1tR8nFFyDf0jgyxRlcVAYi) | 2:15 | 2022-12-30 |  |
 | [Beila's Comet](https://open.spotify.com/track/3IAnhwTjZLf5CSnghGASC3) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Beila's Comet](https://open.spotify.com/album/3TKaoqXuRk1EmMM5q2HYZL) | 2:16 | 2023-11-10 |  |
 | [Black hole](https://open.spotify.com/track/5iD6NihVFdiA9hp03qH8Ho) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Solid Mercury](https://open.spotify.com/album/5hF6PGmJIwBssjOccmxNOT) | 3:06 | 2023-02-17 |  |
-| [Blue Clouds](https://open.spotify.com/track/0NXTm7alwB0tMhLqEnWSri) | [Joy Parade](https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o) | [Blue Clouds](https://open.spotify.com/album/6SiSM8vEUiAFZ8zb5yISHH) | 2:48 | 2024-02-22 |  |
+| [Blue Clouds](https://open.spotify.com/track/0NXTm7alwB0tMhLqEnWSri) | [Joy Parade](https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o) | [Blue Clouds](https://open.spotify.com/album/6SiSM8vEUiAFZ8zb5yISHH) | 2:48 | 2024-02-22 | 2024-04-05 |
 | [Blue Horizon](https://open.spotify.com/track/40TIxgymbbZsANsfvMRFvC) | [Crystals](https://open.spotify.com/artist/0WO63gX2KR2lMmeAgNf8gY) | [Crystals](https://open.spotify.com/album/4KyUloQONRdcmdTjidzpwI) | 2:48 | 2021-12-10 | 2023-02-18 |
 | [Blue Peak](https://open.spotify.com/track/33rVIuXB2ZgtxCG64qVT24) | [Tibetan Audio](https://open.spotify.com/artist/4jjUtZ19nXBNcIL9s1AAM8) | [Blue Peak](https://open.spotify.com/album/6Q67bFtUNxqRJ9RxRBsxIm) | 3:24 | 2024-02-22 |  |
 | [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2021-12-10 |  |
@@ -43,6 +43,7 @@
 | [Cosmic Awareness](https://open.spotify.com/track/4piid7tPoN2WkIqAxathMC) | [Out Of Gravity](https://open.spotify.com/artist/4TFNHaPqofW42WWVafTX7o) | [Cosmic Awareness](https://open.spotify.com/album/3hecCEF63VmN2b0ZUbhMAV) | 4:28 | 2021-12-10 | 2022-07-29 |
 | [Crescent Moon](https://open.spotify.com/track/54aSz8TCN9F3UmYBao3S6Q) | [Cameron Heap](https://open.spotify.com/artist/4vYseAXrGI36H1oD7MM054) | [Crescent Moon](https://open.spotify.com/album/6i0LnT3zpICqfc2kD5N4wj) | 2:36 | 2021-12-10 |  |
 | [Cwtch](https://open.spotify.com/track/7ljE0RT8coNsbBYAhGOilP) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Cwtch](https://open.spotify.com/album/3AQOCwhGHVw8pfKTn8ZBNt) | 2:31 | 2021-12-10 |  |
+| [Dark Wisdom](https://open.spotify.com/track/4F5IWs4DPnrvgiJYzKbedL) | [Yakki Stu](https://open.spotify.com/artist/41auKvLcOcxCmAiQyKgIQj) | [Dark Wisdom](https://open.spotify.com/album/1jhLYfjWujTymikd6ZTSkw) | 3:15 | 2024-04-04 |  |
 | [Dawning](https://open.spotify.com/track/2OqSCeCuxFkMyXHV2tzNBG) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Dawning](https://open.spotify.com/album/2RgLANbWOUnPesH8imnEZw) | 2:23 | 2023-01-13 |  |
 | [Distant Dreams](https://open.spotify.com/track/05XqOIQ7J4mO4ZyOFIoz5L) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Distant Dreams](https://open.spotify.com/album/6M5JYrM1JhzIXe5vIDWZcB) | 3:59 | 2021-12-10 |  |
 | [Drapier's Letters](https://open.spotify.com/track/2s7tc96Wb1bN80mhXr2ao4) | [Enlightened Spaces](https://open.spotify.com/artist/0t2TYx0kWvbBu9s9OwGBhG) | [Drapier's Letters](https://open.spotify.com/album/5BZDUeEv57uJKYMSmyUv2o) | 2:42 | 2021-12-10 |  |
@@ -60,6 +61,7 @@
 | [Ethereal](https://open.spotify.com/track/19Veznfh8J7ZPLs9kgK1Kq) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Ethereal](https://open.spotify.com/album/7w5YrYY6lrmDIlNFNpj79L) | 3:17 | 2021-12-10 |  |
 | [Eudaimonia](https://open.spotify.com/track/6KU6lJNEwpHSB8EdI6klNN) | [Gaea Antoniou](https://open.spotify.com/artist/3L8lia6SiogIvkEl2qQ32d) | [Eudaimonia](https://open.spotify.com/album/09qRQwHteDmqgCTEe2HcYl) | 2:57 | 2021-12-10 |  |
 | [Evening's peace](https://open.spotify.com/track/2JvLy4Sn0HHPMDY3zAx3nE) | [Ann Windsor](https://open.spotify.com/artist/0v2xcXKJMnxbrBP3d83evx) | [Evening's peace](https://open.spotify.com/album/6ejJZyYDesDEeTmnKbwj41) | 3:25 | 2021-12-10 |  |
+| [Evolve](https://open.spotify.com/track/74t8xHjb5VXZofOVK1ewar) | [ZenithEcho](https://open.spotify.com/artist/6kr9ZNAP53oR0jWVt7LJwD) | [Evolve](https://open.spotify.com/album/1kGknpfXhPmp8mVVqPj4bU) | 3:02 | 2024-04-04 |  |
 | [Exit](https://open.spotify.com/track/6ILOMqjC2nX80Rg1ACdUvZ) | [Milo Heart](https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1) | [Enter](https://open.spotify.com/album/3gkHD3Lrf6J3LQNBgKmbuW) | 3:34 | 2022-06-29 |  |
 | [Exit](https://open.spotify.com/track/7fqVkGIea2Kb58i2Oajz3Z) | [Milo Heart](https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1) | [Enter](https://open.spotify.com/album/2itmHyFe6x0pzdWES5yIjn) | 3:34 | 2021-12-10 | 2022-07-29 |
 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 | 2021-12-10 |  |
@@ -138,6 +140,7 @@
 | [Promissus](https://open.spotify.com/track/5VpmKYWuKcX33aKeMAuRkV) | [Eunephele](https://open.spotify.com/artist/0RfnRQ6vmyxDzMuyDmJaSm) | [Promissus](https://open.spotify.com/album/0YaqeFy4R15go6qxCfkjVG) | 3:22 | 2023-10-12 |  |
 | [Propinquity](https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Propinquity](https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843) | 2:22 | 2021-12-10 | 2021-12-24 |
 | [Purpose](https://open.spotify.com/track/5GzuDxMuqENSCZ61rb3Zex) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Purpose](https://open.spotify.com/album/20huIijfp7AeN5jvvzfeYv) | 3:34 | 2021-12-10 |  |
+| [Pursuit of the Climb](https://open.spotify.com/track/4iIV4dGKdEAeTqMiAsoQ79) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Pursuit of the Climb](https://open.spotify.com/album/245eRKaVlAFuQKJxKq28l1) | 3:38 | 2024-04-04 |  |
 | [Radiant](https://open.spotify.com/track/2leJrTGeB6reJMKvvAkOb6) | [Kumatra](https://open.spotify.com/artist/5I6mjLaJjYhtmDJY2nsF5H) | [Radiant](https://open.spotify.com/album/0cRHU8IubGRGBH2tIBiCff) | 3:08 | 2023-09-01 |  |
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2021-12-10 | 2023-10-07 |
 | [Reflexiones](https://open.spotify.com/track/5yxmYoPu75KeKkLbPJbDpZ) | [Aarona](https://open.spotify.com/artist/1v4myR6ZDEKYmMlRqT48IS) | [Reflexiones](https://open.spotify.com/album/3rmS5XRb3vLM6xyritTjxu) | 3:08 | 2023-05-19 |  |
@@ -147,6 +150,7 @@
 | [Repetetive Chattering Mind](https://open.spotify.com/track/6l8Xxuu9DMIEzZqfvedNZA) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Findings Inside](https://open.spotify.com/album/4kyzuLwgaOBwVrpMI9hBXH) | 3:13 | 2021-12-10 | 2023-11-11 |
 | [Resolutions](https://open.spotify.com/track/4ovVCv4X9VZfT79f79c0XN) | [Bevan Holcomb](https://open.spotify.com/artist/4c2v7qErEBJfzjDs2UXStG) | [Resolutions](https://open.spotify.com/album/4aHmDEtV3YWFakmdD2LMow) | 3:08 | 2022-09-02 |  |
 | [Resonance](https://open.spotify.com/track/2BvNx9meCJYzVXHVKdSL7X) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Resonance](https://open.spotify.com/album/3AQyZpDhvOtnL602e3W5z2) | 2:52 | 2023-09-08 |  |
+| [Road To Nowhere](https://open.spotify.com/track/2RyoLqnXvMHYRys537EP0m) | [Noch Nie](https://open.spotify.com/artist/4QOVmhoXkNhbf4b8cmnwmD) | [Road To Nowhere](https://open.spotify.com/album/0IX9Oj1U6OGNqrFqIG7eCG) | 2:52 | 2024-04-04 |  |
 | [Saima](https://open.spotify.com/track/0YpZ1FViRAWJrDmrl2O88p) | [Fjordyn](https://open.spotify.com/artist/2Fx9aKfhce3ziCJlAgM58w) | [Saima](https://open.spotify.com/album/5qBYGlNjuWcrIkiQXXf0YH) | 3:04 | 2024-03-08 |  |
 | [Sajama](https://open.spotify.com/track/16lkqroAzQvli59vxKjvpF) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Sajama](https://open.spotify.com/album/6MSBAT2vZRcoi3Ez6TMzV6) | 3:06 | 2021-12-10 |  |
 | [Salaio](https://open.spotify.com/track/3JtiHgyAOj8mvHUi5zR3Sq) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Salaio](https://open.spotify.com/album/1wp9I2G3CzvuTB8LpBQ52k) | 2:36 | 2021-12-10 |  |
@@ -171,6 +175,7 @@
 | [Spirits Balance](https://open.spotify.com/track/4SMLRrtyEh571Du8ycZzMV) | [Spiritualista](https://open.spotify.com/artist/72Zcai2FsmoM3LYK1C2nSW) | [Spirits Balance](https://open.spotify.com/album/4ayvsxoKqW5HldRNs2GEW4) | 2:50 | 2024-03-08 |  |
 | [Spiritual Conquest](https://open.spotify.com/track/0OLknAPE9i8CXou7d9Hk4M) | [Natural X](https://open.spotify.com/artist/1zP2l8li9yQDtXVsTRMMPu) | [Spiritual Conquest](https://open.spotify.com/album/4EAbmQe5oFYMSBE6izl7xk) | 3:22 | 2021-12-10 | 2022-08-13 |
 | [Spiritual Touch](https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Re\-Creating](https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky) | 4:17 | 2021-12-10 | 2021-12-24 |
+| [Star Sapphire](https://open.spotify.com/track/4PEaexNSqrYBG2oGVyVhgt) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Star Sapphire](https://open.spotify.com/album/0QfpBOzWW1pSX3rxU35BFy) | 2:21 | 2024-04-04 |  |
 | [Starlight Song](https://open.spotify.com/track/6D1DLNT4FshLPwdiQ45rXu) | [Jamie McNeal](https://open.spotify.com/artist/74vNtY2P9DwQNltXVislIc) | [Starlight Song](https://open.spotify.com/album/0a81mgVUyef6JqS7DIPGb4) | 2:59 | 2021-12-10 |  |
 | [Stars Align](https://open.spotify.com/track/3EuOsa9Zb6QzS7XPCZnJ85) | [Malluma Nokto](https://open.spotify.com/artist/7ftD6LOqlL3lBzI4H4fbTg) | [Stars Align](https://open.spotify.com/album/6c2hKxQiGqT3M99FB82cR3) | 3:16 | 2023-08-04 |  |
 | [State of Tranquility](https://open.spotify.com/track/1JFb0Na5vJFckCPOmrxPXR) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 4:08 | 2021-12-10 | 2022-08-13 |
@@ -188,6 +193,7 @@
 | [Tranquil Words](https://open.spotify.com/track/2RvWyBpbUwNqAghZ7r49ya) | [Kamal Ra](https://open.spotify.com/artist/02ezikrBcYhPwhnqqkgc56) | [Tranquil Words](https://open.spotify.com/album/6c6OD7843RI08pEBLUHuRv) | 2:53 | 2023-05-19 |  |
 | [Transcendent Tranquility](https://open.spotify.com/track/0bz6iGkPb4HiBE9knyGdCF) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Transcendent Tranquility](https://open.spotify.com/album/2PZCjFavks3YfHgov1os3V) | 3:08 | 2023-10-06 |  |
 | [Unawareness](https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf) | [Enika Moerani](https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh) | [Unawareness](https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i) | 2:42 | 2021-12-10 |  |
+| [Valerie](https://open.spotify.com/track/3GQxufqZcVLxSH6la2ZlKs) | [Misha Burton](https://open.spotify.com/artist/4jjbyStVj5wtgQpHtxL3ue) | [Valerie](https://open.spotify.com/album/1j2cC0YXjjX4wVrwdYsAQt) | 3:18 | 2024-04-04 |  |
 | [Versuchen](https://open.spotify.com/track/5dhj9EMLIeq5R1zEo3PSni) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Versuchen](https://open.spotify.com/album/6n04Dj1nhdwLCmm3421TC0) | 2:16 | 2021-12-10 | 2022-08-13 |
 | [Vitality](https://open.spotify.com/track/2qq70CnufPOLYgcjHv00ht) | [Les Cieu](https://open.spotify.com/artist/2AOAPIy3omNL5qYIgep3TB) | [Vitality](https://open.spotify.com/album/3CRqKw05hXRMqxaYDC59r1) | 3:12 | 2021-12-10 |  |
 | [Vitality \- Relaxing Music for Zen Meditation and Deep Breathing](https://open.spotify.com/track/2XEZOoJC9nu2o5k3DpDyC6) | [Spa Music Collective](https://open.spotify.com/artist/58yicdDBopSJkQdBVZqCbs) | [Mediterranea Spa Music \- Mediterranean Spa Music\. Relaxation Meditation Healing Music for Deep Meditation, Reiki, Massage, Chakra, Yoga and Tai Chi\. Relaxing Sounds from the Islands in the Sun](https://open.spotify.com/album/1SInC2a5j6Kyunocj3PEE2) | 5:38 | 2021-12-10 | 2022-08-13 |

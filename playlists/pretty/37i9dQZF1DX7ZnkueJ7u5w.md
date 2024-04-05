@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 
 > Música sabrosa para festejar la temporada de carnavales en México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,997 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,013 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,18 +58,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 | 48 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 |
 | 49 | [1 2 3](https://open.spotify.com/track/3rxs4C8FPu0DcuKVaZlUCu) | [El Simbolo](https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3) | [Éxitos](https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd) | 3:39 |
 | 50 | [El Gato Volador](https://open.spotify.com/track/3K9h28l1trUlOMkiAh09Pb) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Cracker Jack & Jr Crack](https://open.spotify.com/artist/0sAajIvpY4U0ATVq0n1DM8) | [Cuentos de la Cripta 3](https://open.spotify.com/album/6y07fZcNzVsvLgACeUuBli) | 1:53 |
-| 51 | [Ramito De Violetas](https://open.spotify.com/track/7BwEomcUntwQkSWf3U0Yxl) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Éxitos](https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify) | 3:32 |
-| 52 | [La Sirenita](https://open.spotify.com/track/6X2Mxz4KnWYOAOHmv3MNAK) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Amor Y Cumbia](https://open.spotify.com/album/4nSARKHzo1d323AHGmvzsQ) | 3:56 |
-| 53 | [El Viejo Del Sombrerón](https://open.spotify.com/track/287DFeg3xmSQbiu2shxHlI) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [La Morocha](https://open.spotify.com/artist/5nWfqSJHayE4qvjUxoQfMu) | [Juntos Por La Sonora](https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5) | 4:15 |
-| 54 | [Mi Niña Mujer](https://open.spotify.com/track/2WPxFf05MYsEHQCxonA1vS) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [De Plaza En Plaza \(Cumbia Sinfónica/Deluxe\)](https://open.spotify.com/album/7oxd8r5ovhnE67VLXEXS5M) | 3:14 |
+| 51 | [La Sirenita](https://open.spotify.com/track/6X2Mxz4KnWYOAOHmv3MNAK) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Amor Y Cumbia](https://open.spotify.com/album/4nSARKHzo1d323AHGmvzsQ) | 3:56 |
+| 52 | [Ramito De Violetas](https://open.spotify.com/track/7BwEomcUntwQkSWf3U0Yxl) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Éxitos](https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify) | 3:32 |
+| 53 | [Mi Niña Mujer](https://open.spotify.com/track/2WPxFf05MYsEHQCxonA1vS) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [De Plaza En Plaza \(Cumbia Sinfónica/Deluxe\)](https://open.spotify.com/album/7oxd8r5ovhnE67VLXEXS5M) | 3:14 |
+| 54 | [El Viejo Del Sombrerón](https://open.spotify.com/track/287DFeg3xmSQbiu2shxHlI) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [La Morocha](https://open.spotify.com/artist/5nWfqSJHayE4qvjUxoQfMu) | [Juntos Por La Sonora](https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5) | 4:15 |
 | 55 | [Bomboro Quiñá Quiñá \(with Rubén Albarrán\)](https://open.spotify.com/track/1rE3FOiSxAR0vmDg4Yntjy) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [La Sonora Santanera en Su 60 Aniversario](https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U) | 2:44 |
 | 56 | [El Cepillo](https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 |
-| 57 | [Mi Mujer Me Gobierna](https://open.spotify.com/track/6O5K9nWwxg5gTijmedgWdc) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Exitos Durisimos](https://open.spotify.com/album/2bFmgUdT6BbTiqpDmsLakV) | 4:58 |
-| 58 | [Escándalo](https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 4:48 |
+| 57 | [Escándalo](https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 4:48 |
+| 58 | [Mi Mujer Me Gobierna](https://open.spotify.com/track/6O5K9nWwxg5gTijmedgWdc) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Exitos Durisimos](https://open.spotify.com/album/2bFmgUdT6BbTiqpDmsLakV) | 4:58 |
 | 59 | [Cangrejito Playero](https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [El Soltero](https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL) | 2:26 |
 | 60 | [El Baile del Beeper \- Version Mexico](https://open.spotify.com/track/3LPRCFmqXUilyKIOT0EYDN) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/6FHozfvoQ11QmsvbulUNlo) | 4:49 |
-| 61 | [El Listón De Tu Pelo](https://open.spotify.com/track/4gPBK5eYojAxc2SldHkvTo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew) | 3:34 |
-| 62 | [Nena](https://open.spotify.com/track/4IimwTTiXvDLjrRoWUebkW) | [Grupo Super T](https://open.spotify.com/artist/6F2FQ9MYBUtc7telIlwBKN) | [Cumbia De Los Cuervos](https://open.spotify.com/album/2gFrECRltBPCOy0EvY37dq) | 3:25 |
+| 61 | [Nena](https://open.spotify.com/track/4IimwTTiXvDLjrRoWUebkW) | [Grupo Super T](https://open.spotify.com/artist/6F2FQ9MYBUtc7telIlwBKN) | [Cumbia De Los Cuervos](https://open.spotify.com/album/2gFrECRltBPCOy0EvY37dq) | 3:25 |
+| 62 | [El Listón De Tu Pelo](https://open.spotify.com/track/4gPBK5eYojAxc2SldHkvTo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew) | 3:34 |
 | 63 | [Suavecito Suavecito](https://open.spotify.com/track/5HuVRxBhFVWNjUpMBZEBGT) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/7b5r8UmTqf3vcf7opFjyhD) | 3:45 |
 | 64 | [Pero La Recuerdo](https://open.spotify.com/track/3mtThJNrqACi4f6GJeduAR) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Pero La Recuerdo](https://open.spotify.com/album/1rZTUDYyxdMYExoSiMa9kC) | 4:02 |
 | 65 | [El Gran Varon](https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Legal Alien \- Top Secrets](https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ) | 6:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 | 74 | [Tan Bella Y Tan Presumida](https://open.spotify.com/track/5KOu0YxjEPkbFjP9yPCNoP) | [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [Eva María](https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y) | 3:05 |
 | 75 | [Sorbito De Champana](https://open.spotify.com/track/1Oqe4XCDKIRS2eK4g5BQIj) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [Cumbias Cumbias Cumbias](https://open.spotify.com/album/6pJYj1JmkoLlDFNkF5WpN4) | 3:46 |
 
-Snapshot ID: `MCw4MDJjZjQwMDIzYTJhZDIwYTBlODE3OWNkMzJjYThjNjMwNDYyNjE2`
+Snapshot ID: `MCwxNTA0NGUxNTNmMTc3NTc1ZjRkODNjODE5MGZhNDNjOTYzYWNlODEy`

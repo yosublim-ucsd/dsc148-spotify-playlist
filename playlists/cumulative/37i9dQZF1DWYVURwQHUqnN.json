@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo: Shay",
+  "description": "Photo: PLK x Jul ",
   "name": "Best Life",
   "tracks": [
     {
@@ -1039,6 +1039,28 @@
     },
     {
       "album": {
+        "name": "Oh qu'elle est belle",
+        "url": "https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220013,
+      "name": "Oh qu'elle est belle",
+      "url": "https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr"
+    },
+    {
+      "album": {
         "name": "Olala (feat. Naza)",
         "url": "https://open.spotify.com/album/2zFuzuLOoOxCYvmQ57Td2w"
       },
@@ -1164,6 +1186,32 @@
       "duration_ms": 157200,
       "name": "Pens\u00e9es noires",
       "url": "https://open.spotify.com/track/10wjcXzC0e5lw99cN4YU7A"
+    },
+    {
+      "album": {
+        "name": "Piccolo",
+        "url": "https://open.spotify.com/album/0J5lTuFjid6AqmYOBCyVQX"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179314,
+      "name": "Piccolo",
+      "url": "https://open.spotify.com/track/6ZHzSxjBVMBn2d6RTlAEDN"
     },
     {
       "album": {
@@ -1302,7 +1350,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 199782,
       "name": "Reste Trankil",
       "url": "https://open.spotify.com/track/7B7zzTwckbzoiRz3fAdQq9"
@@ -1462,7 +1510,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 261320,
       "name": "Sensations",
       "url": "https://open.spotify.com/track/5Y8Zbqlmx97hTM8y5kqo0x"

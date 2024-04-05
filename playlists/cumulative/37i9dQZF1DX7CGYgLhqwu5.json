@@ -2355,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "Okie From Muskogee",
+        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168821,
+      "name": "Swinging Doors",
+      "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
+    },
+    {
+      "album": {
         "name": "Super Hits Collection - 32 Songs - Swinging Doors",
         "url": "https://open.spotify.com/album/7inmfUQJ4jioW0GSVxpgpe"
       },
@@ -2370,24 +2388,6 @@
       "duration_ms": 172920,
       "name": "Swinging Doors",
       "url": "https://open.spotify.com/track/6Ja76N5EcdHrZCGfsWNeGo"
-    },
-    {
-      "album": {
-        "name": "Okie From Muskogee",
-        "url": "https://open.spotify.com/album/2fafx3ywRHPbNbfnIMfv26"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "date_added": "2022-07-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168821,
-      "name": "Swinging Doors - Re-Recorded",
-      "url": "https://open.spotify.com/track/5kDQ02FBkj0Hx7YUGPcuhO"
     },
     {
       "album": {

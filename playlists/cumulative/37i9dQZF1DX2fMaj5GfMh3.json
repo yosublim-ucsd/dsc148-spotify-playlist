@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Dasha o op de cover van Fresh Pop!",
+  "description": "Benson Boone op de cover van Fresh Pop! ",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 167000,
       "name": "24/7, 365",
       "url": "https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 181000,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
@@ -378,7 +378,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 210000,
       "name": "Amen",
       "url": "https://open.spotify.com/track/1eSej5TdSVrBXcrkmkplqS"
@@ -1761,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186359,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
+    },
+    {
+      "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
       },
@@ -2681,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200010,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
+    },
+    {
+      "album": {
         "name": "eyes don't lie",
         "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
       },
@@ -2732,6 +2768,24 @@
       "duration_ms": 204893,
       "name": "F64",
       "url": "https://open.spotify.com/track/5DFi6D7SrYHRIgZbY5MqqE"
+    },
+    {
+      "album": {
+        "name": "Found Heaven",
+        "url": "https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170754,
+      "name": "Fainted Love",
+      "url": "https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj"
     },
     {
       "album": {
@@ -2974,6 +3028,24 @@
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
+        "name": "Fly Like Me",
+        "url": "https://open.spotify.com/album/28d6QfMqewxmXou3eQgM4H"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182066,
+      "name": "Fly Like Me",
+      "url": "https://open.spotify.com/track/3Iw5IljZq38cVFJr4v0yPL"
     },
     {
       "album": {
@@ -4779,6 +4851,28 @@
     },
     {
       "album": {
+        "name": "Incredible (feat. Labrinth)",
+        "url": "https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213632,
+      "name": "Incredible (feat. Labrinth)",
+      "url": "https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw"
+    },
+    {
+      "album": {
         "name": "vert1go vol. 1",
         "url": "https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY"
       },
@@ -5180,6 +5274,24 @@
       "duration_ms": 214044,
       "name": "lie",
       "url": "https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh"
+    },
+    {
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/4FZIE2wFhtrE4bwvp1H1nu"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175969,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/4m9DA6crSHtnrhaIVGPzwm"
     },
     {
       "album": {
@@ -6077,6 +6189,24 @@
     },
     {
       "album": {
+        "name": "My Oh My",
+        "url": "https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156155,
+      "name": "My Oh My",
+      "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
+    },
+    {
+      "album": {
         "name": "Narcissist",
         "url": "https://open.spotify.com/album/5q4oFnbNrfW9MtuZdBIZlC"
       },
@@ -6088,7 +6218,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 149508,
       "name": "Narcissist",
       "url": "https://open.spotify.com/track/0fayxbip7asGIBze5wWZnu"
@@ -7071,6 +7201,24 @@
     },
     {
       "album": {
+        "name": "ver2igo vol. 2",
+        "url": "https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196456,
+      "name": "Pillow In My Arms",
+      "url": "https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT"
+    },
+    {
+      "album": {
         "name": "Placebo Effect",
         "url": "https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa"
       },
@@ -7883,6 +8031,24 @@
     },
     {
       "album": {
+        "name": "Small Town Scandal",
+        "url": "https://open.spotify.com/album/1KQBTxsa7BMd72SSO4Dj6s"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210893,
+      "name": "Small Town Scandal",
+      "url": "https://open.spotify.com/track/56yiEEYcSMw27ujiSyVzCS"
+    },
+    {
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/6GfhI8EKNPVEfplLMaINV5"
       },
@@ -8674,7 +8840,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 195850,
       "name": "The Alibi",
       "url": "https://open.spotify.com/track/4JyS3WGxalmpzgEbVyTycL"

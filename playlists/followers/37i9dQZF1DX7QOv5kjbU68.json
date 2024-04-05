@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 4029301,
+  "2024-04-05": 4029739,
   "date_first_scraped": "2021-12-21",
   "description": "Hear all of Drake's biggest and best hits in one playlist. Thank us later.",
   "name": "This Is Drake",
@@ -39,6 +39,28 @@
       "duration_ms": 239635,
       "name": "7am On Bridle Path",
       "url": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+    },
+    {
+      "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
     },
     {
       "album": {

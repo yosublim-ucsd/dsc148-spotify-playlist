@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation featuring music from Faye Webster 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,628 likes - 141 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,743 likes - 141 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 53 | [Tres Hermanos](https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:21 |
 | 54 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
 | 55 | [Lamplight](https://open.spotify.com/track/473SizAMoQBwQXdnF3dhnu) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Lamplight](https://open.spotify.com/album/1vqxyUR8okdL1W0KIPvE4d) | 4:23 |
-| 56 | [Gnaw](https://open.spotify.com/track/4KwttC1ZokLqillyhJgSe8) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 3:21 |
+| 56 | [Gnaw](https://open.spotify.com/track/4F7SWwVXyvGlCs9TtXJbUd) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/42bSpkr89bdrwMMNuEZlDJ) | 3:21 |
 | 57 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 |
 | 58 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 59 | [Runnin](https://open.spotify.com/track/01HfhwZbc9bHQl9wKQHjNj) | [Ohtis](https://open.spotify.com/artist/3u39r3hiQU2sq7VrV38L6x) | [Curve of Earth \(Deluxe Version\)](https://open.spotify.com/album/5lKZGMY4mh2IJTJ6goyzQV) | 4:21 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 77 | [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 |
 | 78 | [Blood Red Sentimental Blues](https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO) | 4:36 |
 | 79 | [Hard Feelings](https://open.spotify.com/track/68MbMKn42dsBU9bgzHaRXw) | [Howdy](https://open.spotify.com/artist/2y1A93fUkRi2xSbKMwhyzs) | [Hard Feelings](https://open.spotify.com/album/6JG9cpogbueo7J6AWLhl6T) | 4:24 |
-| 80 | [Sha](https://open.spotify.com/track/6HMdSCsyt5ZNPZokEgcoxQ) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Sha](https://open.spotify.com/album/5aBRXOGZlyci28Qps87Mdp) | 3:36 |
+| 80 | [Sha](https://open.spotify.com/track/0DTsMXJRentoe0Mzawg3HW) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Sha](https://open.spotify.com/album/5LNL7Vss2s8JxYSRhUWpZ9) | 3:36 |
 | 81 | [Kansas](https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Kansas](https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx) | 3:31 |
 | 82 | [Kind Of Girl](https://open.spotify.com/track/2kNnSv2CB0MO3O5WMspcSC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:06 |
 | 83 | [Sandy](https://open.spotify.com/track/48qv6X8wNBhjQKPCns2CFw) | [Teal Peel](https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz) | [Country River](https://open.spotify.com/album/2LhqkKyEXH5huDebuxSvss) | 3:55 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 140 | [Bury The Hatchet \- Radio Edit](https://open.spotify.com/track/731pNkRH6bnlhDGZQLRWJs) | [Mol Sullivan](https://open.spotify.com/artist/3oYFKaeq39nYQsW6z6LX3T) | [Bury The Hatchet \(Radio Edit\)](https://open.spotify.com/album/6nWAsgxghVFT7xXP0EY4aF) | 3:38 |
 | 141 | [Voicemail](https://open.spotify.com/track/1BhIBuQqcc797NM9gwJWwE) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Place to Land](https://open.spotify.com/album/55pfu2IeDDtlhtKuFl1krR) | 3:11 |
 
-Snapshot ID: `MCxjZDkzMzY2ZGIwMjBjYzNhNjEwMTViNTlmMjYzNWE1YWU4NDgxMzMx`
+Snapshot ID: `MCw3ZjRmY2QwODEzMjE0NTg4MjM1OTNjZjk5ZjlmNmI0YTM0MWM3ZDRj`

@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 74163,
+  "num_followers": 74207,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmRmNmFlOWRiZWRkNzdiNTJiNjRhM2E4NjFiYzdmMzQxZmQ0NzMx",
+  "snapshot_id": "MCwyN2I0NWVhZTlhZjU5YWRhZGVmNmZiZWMzNTdjMzcyYTdiZDk4NGE4",
   "tracks": [
     {
       "added_at": "2023-11-13 15:26:06",
@@ -59,6 +59,30 @@
     {
       "added_at": "2023-11-13 15:26:06",
       "album": {
+        "name": "\u00c9 o Trem!",
+        "url": "https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "CalliCartel",
+          "url": "https://open.spotify.com/artist/0s5MMDYKWYf4XksClf5Oiq"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        }
+      ],
+      "duration_ms": 120046,
+      "name": "N\u00e3o faz isso Comigo n\u00e3o",
+      "url": "https://open.spotify.com/track/0zTZONeg1hFNplaZGc7siE"
+    },
+    {
+      "added_at": "2023-11-13 15:26:06",
+      "album": {
         "name": "Poesia Ac\u00fastica #9: Melhor Forma",
         "url": "https://open.spotify.com/album/6drqaBLJWKqoNlKvOQeBTm"
       },
@@ -103,30 +127,6 @@
       "duration_ms": 611076,
       "name": "Poesia Ac\u00fastica #9: Melhor Forma",
       "url": "https://open.spotify.com/track/2fmeSswdyVq4wcqhY41UHk"
-    },
-    {
-      "added_at": "2023-11-13 15:26:06",
-      "album": {
-        "name": "\u00c9 o Trem!",
-        "url": "https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "CalliCartel",
-          "url": "https://open.spotify.com/artist/0s5MMDYKWYf4XksClf5Oiq"
-        },
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        }
-      ],
-      "duration_ms": 120046,
-      "name": "N\u00e3o faz isso Comigo n\u00e3o",
-      "url": "https://open.spotify.com/track/0zTZONeg1hFNplaZGc7siE"
     },
     {
       "added_at": "2023-11-13 15:26:06",
@@ -319,6 +319,78 @@
     {
       "added_at": "2023-11-13 15:26:06",
       "album": {
+        "name": "Peda\u00e7o de Mim",
+        "url": "https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B"
+      },
+      "artists": [
+        {
+          "name": "OIK",
+          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "IssoQue\u00c9SomDeRap",
+          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
+        }
+      ],
+      "duration_ms": 202318,
+      "name": "Peda\u00e7o de Mim",
+      "url": "https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW"
+    },
+    {
+      "added_at": "2023-11-13 15:26:06",
+      "album": {
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "Jogo",
+      "url": "https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l"
+    },
+    {
+      "added_at": "2023-11-13 15:26:06",
+      "album": {
+        "name": "Doutora 2",
+        "url": "https://open.spotify.com/album/4ygocMSqluhiWZHnDmB4Wl"
+      },
+      "artists": [
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Dj Nene",
+          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
+        }
+      ],
+      "duration_ms": 206117,
+      "name": "Doutora 2",
+      "url": "https://open.spotify.com/track/2AwpSQRW0iOKlx3AWSUZaf"
+    },
+    {
+      "added_at": "2023-11-13 15:26:06",
+      "album": {
         "name": "Poesia Ac\u00fastica 11: Nada Mudou",
         "url": "https://open.spotify.com/album/3716y3qiVChUSJv24nvCUB"
       },
@@ -371,50 +443,6 @@
     {
       "added_at": "2023-11-13 15:26:06",
       "album": {
-        "name": "Peda\u00e7o de Mim",
-        "url": "https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B"
-      },
-      "artists": [
-        {
-          "name": "OIK",
-          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "IssoQue\u00c9SomDeRap",
-          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
-        }
-      ],
-      "duration_ms": 202318,
-      "name": "Peda\u00e7o de Mim",
-      "url": "https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW"
-    },
-    {
-      "added_at": "2023-11-13 15:26:06",
-      "album": {
-        "name": "Doutora 2",
-        "url": "https://open.spotify.com/album/4ygocMSqluhiWZHnDmB4Wl"
-      },
-      "artists": [
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
-          "name": "Dj Nene",
-          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
-        }
-      ],
-      "duration_ms": 206117,
-      "name": "Doutora 2",
-      "url": "https://open.spotify.com/track/2AwpSQRW0iOKlx3AWSUZaf"
-    },
-    {
-      "added_at": "2023-11-13 15:26:06",
-      "album": {
         "name": "Perdi\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6JJrn3h0bgZ886jTetGLfk"
       },
@@ -427,34 +455,6 @@
       "duration_ms": 275000,
       "name": "Perdi\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7FikD4RFpmSZIvoP3rRwsS"
-    },
-    {
-      "added_at": "2023-11-13 15:26:06",
-      "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 168205,
-      "name": "Jogo",
-      "url": "https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l"
     },
     {
       "added_at": "2023-11-13 15:26:06",
@@ -575,38 +575,6 @@
     {
       "added_at": "2023-11-13 15:26:06",
       "album": {
-        "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
-        "url": "https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 242526,
-      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
-      "url": "https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ"
-    },
-    {
-      "added_at": "2023-11-13 15:26:06",
-      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/7v5z2GBVV7qcIv3Amvn1l0"
       },
@@ -667,6 +635,38 @@
     {
       "added_at": "2023-11-13 15:26:06",
       "album": {
+        "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
+        "url": "https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 242526,
+      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
+      "url": "https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ"
+    },
+    {
+      "added_at": "2023-11-13 15:26:06",
+      "album": {
         "name": "Baby C\u00ea \u00e9 Gata",
         "url": "https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De"
       },
@@ -711,46 +711,6 @@
       "duration_ms": 234098,
       "name": "Lance Criminoso (feat. BK)",
       "url": "https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl"
-    },
-    {
-      "added_at": "2023-11-13 15:26:06",
-      "album": {
-        "name": "Poesia Ac\u00fastica - Paris",
-        "url": "https://open.spotify.com/album/4k8pamcdDRM5PQGkAqhvjS"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Dk 47",
-          "url": "https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 420000,
-      "name": "Poesia Ac\u00fastica - Paris",
-      "url": "https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK"
     },
     {
       "added_at": "2023-11-13 15:26:06",
@@ -827,6 +787,46 @@
       "duration_ms": 172000,
       "name": "Sagit\u00e1rio",
       "url": "https://open.spotify.com/track/7tgLsXgElnqUpW6mweFWGV"
+    },
+    {
+      "added_at": "2023-11-13 15:26:06",
+      "album": {
+        "name": "Poesia Ac\u00fastica - Paris",
+        "url": "https://open.spotify.com/album/4k8pamcdDRM5PQGkAqhvjS"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Dk 47",
+          "url": "https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 420000,
+      "name": "Poesia Ac\u00fastica - Paris",
+      "url": "https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK"
     },
     {
       "added_at": "2023-11-13 15:26:06",
@@ -955,6 +955,46 @@
     {
       "added_at": "2023-11-13 15:26:06",
       "album": {
+        "name": "Calma, Beb\u00ea!",
+        "url": "https://open.spotify.com/album/1r9wCZceI3QoeuSU2ledD1"
+      },
+      "artists": [
+        {
+          "name": "Magr\u00e3o AllFavela",
+          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 159529,
+      "name": "Calma, Beb\u00ea!",
+      "url": "https://open.spotify.com/track/0dEaaQY4pj0DB89Nx51OVJ"
+    },
+    {
+      "added_at": "2023-11-13 15:26:06",
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Amo Te Ver de Juju",
+      "url": "https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V"
+    },
+    {
+      "added_at": "2023-11-13 15:26:06",
+      "album": {
         "name": "Dubl\u00ea de Marido",
         "url": "https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks"
       },
@@ -975,26 +1015,6 @@
       "duration_ms": 154285,
       "name": "Dubl\u00ea de Marido",
       "url": "https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg"
-    },
-    {
-      "added_at": "2023-11-13 15:26:06",
-      "album": {
-        "name": "Calma, Beb\u00ea!",
-        "url": "https://open.spotify.com/album/1r9wCZceI3QoeuSU2ledD1"
-      },
-      "artists": [
-        {
-          "name": "Magr\u00e3o AllFavela",
-          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 159529,
-      "name": "Calma, Beb\u00ea!",
-      "url": "https://open.spotify.com/track/0dEaaQY4pj0DB89Nx51OVJ"
     },
     {
       "added_at": "2023-11-13 15:26:06",
@@ -1047,26 +1067,6 @@
       "duration_ms": 472615,
       "name": "GR6 Convoca #01 (Relacionamentos)",
       "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
-    },
-    {
-      "added_at": "2023-11-13 15:26:06",
-      "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Amo Te Ver de Juju",
-      "url": "https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V"
     },
     {
       "added_at": "2023-11-13 15:26:06",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2023-11-13 15:26:06",
       "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 182854,
+      "name": "Brutas Tamb\u00e9m Choram",
+      "url": "https://open.spotify.com/track/7gTStq2OMkjtHyH09GGKkO"
+    },
+    {
+      "added_at": "2023-11-13 15:26:06",
+      "album": {
         "name": "Deixa Eu Te Chamar de Moz\u00e3o",
         "url": "https://open.spotify.com/album/3YnHedfeESbbi1atWZzxHF"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 108460,
       "name": "Te Escolhi",
       "url": "https://open.spotify.com/track/1Kb5kcBZtriYUKznTchWQd"
-    },
-    {
-      "added_at": "2023-11-13 15:26:06",
-      "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 182854,
-      "name": "Brutas Tamb\u00e9m Choram",
-      "url": "https://open.spotify.com/track/7gTStq2OMkjtHyH09GGKkO"
     },
     {
       "added_at": "2023-11-13 15:26:06",

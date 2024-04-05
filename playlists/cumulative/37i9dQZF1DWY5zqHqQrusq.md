@@ -4,7 +4,7 @@
 
 > Chill, take a long walk and clear your mind
 
-81 songs - 4 hr 33 min
+82 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,13 +69,14 @@
 | [Sio Siri](https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Sio Siri](https://open.spotify.com/album/1XkXWsoUaTSbYFtKjDOR54) | 3:08 | 2022-11-11 | 2023-12-03 |
 | [Skin](https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [You Never Learn](https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd) | 3:39 | 2023-04-28 |  |
 | [Slowly](https://open.spotify.com/track/2fSLRfuJr2utyjHrbohiWu) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [The Footprint](https://open.spotify.com/album/04ZdDUDZ05hdtUawvudVL4) | 3:37 | 2023-12-02 |  |
-| [So Tired](https://open.spotify.com/track/2qt8hSdiYKD33C7zZcrxPB) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [So Tired](https://open.spotify.com/album/2ZbOkKbtmqC84BC1wzxfTR) | 3:35 | 2022-11-11 |  |
+| [So Tired](https://open.spotify.com/track/2qt8hSdiYKD33C7zZcrxPB) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [So Tired](https://open.spotify.com/album/2ZbOkKbtmqC84BC1wzxfTR) | 3:35 | 2022-11-11 | 2024-04-05 |
 | [Sometimes](https://open.spotify.com/track/1qOVb7IpU5Mp0vM7HVVA5V) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Tawasifu Ya Moyo](https://open.spotify.com/album/0BPwyOsMg7lQrdxWoy4YLv) | 3:52 | 2022-11-11 |  |
 | [Sometimes \- slowed+reverb remix](https://open.spotify.com/track/1Wai4S6wD7jE9vjrZW9Ydw) | [Mist'riii](https://open.spotify.com/artist/2ET4fikSmaataNBz8cJM4e) | [Sometimes \(slowed+reverb remix\)](https://open.spotify.com/album/05Lhrlmn5toScqQhr4pRXc) | 4:23 | 2022-11-11 |  |
 | [Southwards](https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:24 | 2023-09-15 |  |
 | [Sugar Rush](https://open.spotify.com/track/3JJ6IAPfrrJPV2fOGQZYGl) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/1UqJeAHLAQh2g5M8QCdei5) | 3:49 | 2024-03-08 |  |
 | [Sugar Rush](https://open.spotify.com/track/5v8bHru9HBHysftNF2orLb) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/4URmrv5RB7dI5VKHiCI0FV) | 3:49 | 2022-11-11 | 2024-03-21 |
 | [Sunshine](https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 3:28 | 2022-11-11 | 2023-04-29 |
+| [Take Your Time](https://open.spotify.com/track/5FIFjUVWBIihte8cXpj11Z) | [Daveny](https://open.spotify.com/artist/6Aw4KeEvY6cyNUz7IIyPe3), [tugi ndichu](https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7) | [Sol](https://open.spotify.com/album/2Eenldjdnm9OpQXSBSp19T) | 4:12 | 2024-04-04 |  |
 | [Tamu](https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5) | [Zaituni Wambui](https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me) | [Tamu](https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg) | 3:01 | 2024-02-01 |  |
 | [The Oasis on Mbaazi Street](https://open.spotify.com/track/6ncAWPMP3cxAmiwN6SI8ca) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Lisa Oduor\-Noah](https://open.spotify.com/album/01OpRABjuFQgRtj4DdT55m) | 2:53 | 2022-11-11 | 2023-07-05 |
 | [The Oasis on Mbaazi Street](https://open.spotify.com/track/7oqKrDdrY5BvaNOTJ0wO7l) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Lisa Oduor Noah](https://open.spotify.com/album/1j6atBlfWPYRhbhkOsKr0V) | 2:53 | 2023-04-28 |  |

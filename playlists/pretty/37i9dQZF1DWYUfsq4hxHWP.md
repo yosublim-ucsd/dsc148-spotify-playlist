@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Walker County, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,243 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,325 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 99 | [The Summer That Got Away](https://open.spotify.com/track/1Obt0ahEG2Avv4KAOHM7qm) | [Lily Grace](https://open.spotify.com/artist/36C2hXqhxu8S68awyDaGQD) | [The Summer That Got Away](https://open.spotify.com/album/44YdEhnz623Oy7gCXI8mSq) | 2:58 |
 | 100 | [Don't Take Her Home](https://open.spotify.com/track/5kfx1RL383sxPiytI6iVMr) | [Jeb Bundy](https://open.spotify.com/artist/6ZtihUIqX9h72FrkQW43U6), [Cam Harris](https://open.spotify.com/artist/1piKAEgLs1KDhK0kEEpuSC) | [Don't Take Her Home](https://open.spotify.com/album/2BGHj4gtfgKwqvbKokKz8I) | 2:04 |
 
-Snapshot ID: `MCwwMTRkZDc5OTFkYjlhMjE2OTQxYzZjNjMwYTFiMzRkMDJjZDUyMjY1`
+Snapshot ID: `MCw0MmNjMDVlNjZjYjZkYmVhM2M0OWRhMjRjY2Q2MzI4MzhkMDI4N2Vi`

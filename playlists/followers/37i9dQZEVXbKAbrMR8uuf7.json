@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 153351,
+  "2024-04-05": 153377,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
   "name": "Top 50 - Dominican Republic",
@@ -1541,6 +1541,24 @@
       "duration_ms": 339611,
       "name": "Andrea",
       "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
+    },
+    {
+      "album": {
+        "name": "Ante",
+        "url": "https://open.spotify.com/album/5nwY2q23E9tzoONdq8x0La"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125087,
+      "name": "Ante",
+      "url": "https://open.spotify.com/track/6GjJOJ3TWG4TTNmQ12fInn"
     },
     {
       "album": {
@@ -3979,7 +3997,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 164055,
       "name": "Cintureo - Remix",
       "url": "https://open.spotify.com/track/1cQTT0WyAvD4LL0m42J8M4"
@@ -15011,7 +15029,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 178567,
       "name": "Me Porto Bonito",
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
@@ -19859,6 +19877,32 @@
       "duration_ms": 140643,
       "name": "Puta Rara, Puta Dominicana",
       "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
+    },
+    {
+      "album": {
+        "name": "El Fresa",
+        "url": "https://open.spotify.com/album/1pExbAW1AeIxpbXUo4vnTp"
+      },
+      "artists": [
+        {
+          "name": "Ro Hernandez",
+          "url": "https://open.spotify.com/artist/4oahjzMIim9kzzFlspLYlJ"
+        },
+        {
+          "name": "JeyJenm",
+          "url": "https://open.spotify.com/artist/6ZCJavXJVSYsfLFko1XkYb"
+        },
+        {
+          "name": "Dazh",
+          "url": "https://open.spotify.com/artist/3nGVRGChMNUZbnRKayaGBB"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160824,
+      "name": "P\u00e9gate M\u00e1s",
+      "url": "https://open.spotify.com/track/69MiNNBC02yBnMW1pmakqi"
     },
     {
       "album": {
@@ -26811,7 +26855,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 555071,
       "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) - Remix",
       "url": "https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0"
@@ -26931,7 +26975,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"

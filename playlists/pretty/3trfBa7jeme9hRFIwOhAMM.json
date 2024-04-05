@@ -6,10 +6,30 @@
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "MTY4OCwxYzljYzI5Nzc1ZDFkYmI2MjM1MmJiOGYzYzRiMDc2NjM0NTgyZTQ3",
+  "snapshot_id": "MTY5OSw5Y2EwNjU1OGFiYzc3Mjc0ODA2ZjM1ZDcyY2E1M2Q0YjM5ZTk2MWZl",
   "tracks": [
     {
-      "added_at": "2024-03-22 15:16:13",
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "Booty Dance",
+        "url": "https://open.spotify.com/album/7akBe6WnWMEiFnoyargjXb"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "Chuwe",
+          "url": "https://open.spotify.com/artist/7rJzxhgAkMeLK3jKJ8qKhn"
+        }
+      ],
+      "duration_ms": 183779,
+      "name": "Booty Dance",
+      "url": "https://open.spotify.com/track/3NKIETK259038LjUWzDCYZ"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "Four Symbols EP",
         "url": "https://open.spotify.com/album/3QW1M8WQPnzcJHpP2rtSOn"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/61EcOtWCcbIIduDSlpRneD"
     },
     {
-      "added_at": "2024-03-18 02:27:56",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "Want My Love",
         "url": "https://open.spotify.com/album/38rT6Cg4Szkmls0nYccnxd"
@@ -45,7 +65,7 @@
       "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
     },
     {
-      "added_at": "2024-03-18 02:27:56",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "White Tiger",
         "url": "https://open.spotify.com/album/6JcUvozxPKui9B7W7rPpgN"
@@ -61,7 +81,7 @@
       "url": "https://open.spotify.com/track/5sK6BGBWbB8HxgSgAWoBjq"
     },
     {
-      "added_at": "2024-03-18 02:27:56",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "East Bounce",
         "url": "https://open.spotify.com/album/5Hwfv9dfENIQ1RJ7PzB5cL"
@@ -77,7 +97,7 @@
       "url": "https://open.spotify.com/track/6RwZ2HhlgX1MDo3l5ek0a4"
     },
     {
-      "added_at": "2024-03-18 02:27:56",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "The Music",
         "url": "https://open.spotify.com/album/6LdlSCPDnCqJrWNqsMVLhM"
@@ -97,7 +117,7 @@
       "url": "https://open.spotify.com/track/65JCNU7q3n5JrNHySefc3P"
     },
     {
-      "added_at": "2024-03-18 02:27:56",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF"
@@ -117,27 +137,7 @@
       "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
     },
     {
-      "added_at": "2024-03-22 16:18:47",
-      "album": {
-        "name": "D\u00eddymoi",
-        "url": "https://open.spotify.com/album/1RmuUaqgU0WQQv63NLfkyJ"
-      },
-      "artists": [
-        {
-          "name": "Ark Nomads",
-          "url": "https://open.spotify.com/artist/1Ur133dmPPstSi5RbGPKaD"
-        },
-        {
-          "name": "Frankllin",
-          "url": "https://open.spotify.com/artist/60O3861cpmpuxxtYhKuKkV"
-        }
-      ],
-      "duration_ms": 280975,
-      "name": "Ragas",
-      "url": "https://open.spotify.com/track/1rfPjCvDZ4gtGyguweb6Vo"
-    },
-    {
-      "added_at": "2024-03-22 15:16:15",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "Four Symbols EP",
         "url": "https://open.spotify.com/album/3QW1M8WQPnzcJHpP2rtSOn"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/6DeknAlFWNlHj2L8J0Trgu"
     },
     {
-      "added_at": "2024-03-18 02:27:56",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "Kill The Lights",
         "url": "https://open.spotify.com/album/37NA8ATUVqpIxgLWv3LlGP"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/4FYXh0MJf1aCu7RNadVuhK"
     },
     {
-      "added_at": "2024-03-18 02:27:56",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "Rhythm Of The Night",
         "url": "https://open.spotify.com/album/0eIjrRPxXHrZzhQFNxVlOb"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/1NNzj3Ausx2vjGf8WBHhwF"
     },
     {
-      "added_at": "2024-03-18 02:27:56",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "I Don't Wanna Rush",
         "url": "https://open.spotify.com/album/2z5b9JPx8u2UMzJXXV131T"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/3cJLvOe20mubVRkWEpgN9G"
     },
     {
-      "added_at": "2024-03-18 02:27:56",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "All Day, All Night",
         "url": "https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j"
     },
     {
-      "added_at": "2024-03-22 15:16:18",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "Four Symbols EP",
         "url": "https://open.spotify.com/album/3QW1M8WQPnzcJHpP2rtSOn"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/6MdWhXZwdSRqQ2EWApxiii"
     },
     {
-      "added_at": "2024-03-18 02:27:56",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
     },
     {
-      "added_at": "2024-03-18 02:27:56",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "BEATS FOR THE UNDERGROUND",
         "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
@@ -277,23 +277,7 @@
       "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
     },
     {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "While The Record Spins",
-        "url": "https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "While The Record Spins",
-      "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "Move With Tha",
         "url": "https://open.spotify.com/album/35YXlOPsyhZtgcELZcN4nJ"
@@ -309,23 +293,23 @@
       "url": "https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK"
     },
     {
-      "added_at": "2024-03-22 16:21:44",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
-        "name": "In My Zone",
-        "url": "https://open.spotify.com/album/7jfNQKl9UVhkE2jphNILY5"
+        "name": "Legday",
+        "url": "https://open.spotify.com/album/0EKRaA5ItrT94peduivYy7"
       },
       "artists": [
         {
-          "name": "Actimax",
-          "url": "https://open.spotify.com/artist/4R9Bm1J23wbXOK3oxpjKau"
+          "name": "BODYWORX",
+          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
         }
       ],
-      "duration_ms": 147619,
-      "name": "In My Zone",
-      "url": "https://open.spotify.com/track/129YtWvauG535qN5dr7YKO"
+      "duration_ms": 171428,
+      "name": "Legday",
+      "url": "https://open.spotify.com/track/6x8JdugszU0J5w2tcRNXhY"
     },
     {
-      "added_at": "2024-03-18 02:27:56",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "Fuck It Up",
         "url": "https://open.spotify.com/album/5N3MFNQdu7kcfxlLK5TGW2"
@@ -341,7 +325,23 @@
       "url": "https://open.spotify.com/track/59Up9bvTzye1JE1fueCjER"
     },
     {
-      "added_at": "2024-03-18 02:27:56",
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/3AXxEsN1LllmxvSSI35sxp"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 255029,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/1TuSdRRhFDISLBx1PlHeGK"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/0rIMrd4kixZrTdielNS0xO"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/6j3cKIuwYzxWmfADBhIVG1"
     },
     {
-      "added_at": "2024-03-18 02:27:56",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "Tututu (Radio Edit)",
         "url": "https://open.spotify.com/album/2mnt4Rz0fsBFxT7N6iAnr0"
@@ -397,351 +397,7 @@
       "url": "https://open.spotify.com/track/3BRn1Iue3q3VQNwka4Cweq"
     },
     {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/3AXxEsN1LllmxvSSI35sxp"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 255029,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/1TuSdRRhFDISLBx1PlHeGK"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Ain't No Mountain",
-        "url": "https://open.spotify.com/album/71ODnsWScGKqVcMLaVpskY"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Thousand Kids",
-          "url": "https://open.spotify.com/artist/5pAaSIooaMTPOhCu7J4dRU"
-        },
-        {
-          "name": "MERAKI",
-          "url": "https://open.spotify.com/artist/3qREC2G2u5sUK9M0NDxEWp"
-        }
-      ],
-      "duration_ms": 167040,
-      "name": "Ain't No Mountain",
-      "url": "https://open.spotify.com/track/6pYInbFNcmHrUhQr1NKowc"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/5c6Murua9v7wCYdw8AYrHg"
-      },
-      "artists": [
-        {
-          "name": "N3dek",
-          "url": "https://open.spotify.com/artist/5K7h4Ik3vKcHxEiVFVTf13"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/2jIbHF7gHq6N8ymyemruIm"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 192755,
-      "name": "365",
-      "url": "https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Flying",
-        "url": "https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 184836,
-      "name": "Flying",
-      "url": "https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/67XjrrrITpkyvIhSnaY03K"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
-        },
-        {
-          "name": "Janet Livv",
-          "url": "https://open.spotify.com/artist/4kbrRWBDBTf1g4waN4fg6n"
-        }
-      ],
-      "duration_ms": 174197,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/0DNpPGeQi11J05oYuHOZ4I"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "XTC / Concentrate EP",
-        "url": "https://open.spotify.com/album/5ZeguV8kQIg2JBd566b6D2"
-      },
-      "artists": [
-        {
-          "name": "Mike Cervello",
-          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/4RMOH93IUkNUjEKcvZCzq0"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Stereo Function",
-        "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Kage",
-          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
-        }
-      ],
-      "duration_ms": 206904,
-      "name": "Stereo Function",
-      "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Gibberish",
-        "url": "https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 153321,
-      "name": "Gibberish",
-      "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Memento Mori",
-        "url": "https://open.spotify.com/album/6O1WaSTWxI6AdLmQ84BSpG"
-      },
-      "artists": [
-        {
-          "name": "MAZAN",
-          "url": "https://open.spotify.com/artist/0y0mNvcQKUUsbRlOcekXG4"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Memento Mori",
-      "url": "https://open.spotify.com/track/3NeoM0B3Qd4x7g0xlXdC5d"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Sometimes I Get",
-        "url": "https://open.spotify.com/album/70ym3lVvCDlytS2fsOpeLD"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 191445,
-      "name": "Sometimes I Get",
-      "url": "https://open.spotify.com/track/5Igv1jW8dj9i9LGNhD6ZCm"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Bassline Rumble",
-        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 175969,
-      "name": "Bassline Rumble",
-      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Crave The Bassline",
-        "url": "https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 166962,
-      "name": "Crave The Bassline",
-      "url": "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/1ef49F2Q341KHNUFOehNGd"
-      },
-      "artists": [
-        {
-          "name": "Noola",
-          "url": "https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG"
-        }
-      ],
-      "duration_ms": 205932,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/5WkJkW64ThQsfQ2tfaLcZ3"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/4s8l87cU1Z2Sg5iKualNLr"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "PollyAnna",
-          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
-        }
-      ],
-      "duration_ms": 167509,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/6vpMnQ5iOvdTH6oJqKo3aI"
-      },
-      "artists": [
-        {
-          "name": "CMC$",
-          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
-        }
-      ],
-      "duration_ms": 144821,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/25wmVH3ytIFnKBDSFUIdxu"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Make Amends (feat. Kyan Palmer)",
-        "url": "https://open.spotify.com/album/0tNgfFcdLPQhzfgE6kI3u4"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "Kyan Palmer",
-          "url": "https://open.spotify.com/artist/3W5hlKkJKXp7xY7R7IYfxp"
-        }
-      ],
-      "duration_ms": 160430,
-      "name": "Make Amends (feat. Kyan Palmer)",
-      "url": "https://open.spotify.com/track/4Ocr8ezgeulwYhg3aZIqDL"
-    },
-    {
-      "added_at": "2024-03-18 02:27:56",
-      "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/2nGbUA5qJOroJrDDpHvtxz"
-      },
-      "artists": [
-        {
-          "name": "Noola",
-          "url": "https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG"
-        }
-      ],
-      "duration_ms": 194072,
-      "name": "Once Again",
-      "url": "https://open.spotify.com/track/1xlflYpC5NkXEHkWLUCzor"
-    },
-    {
-      "added_at": "2024-03-18 02:31:03",
-      "album": {
-        "name": "Legday",
-        "url": "https://open.spotify.com/album/0EKRaA5ItrT94peduivYy7"
-      },
-      "artists": [
-        {
-          "name": "BODYWORX",
-          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Legday",
-      "url": "https://open.spotify.com/track/6x8JdugszU0J5w2tcRNXhY"
-    },
-    {
-      "added_at": "2024-03-18 02:32:00",
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "Corazon",
         "url": "https://open.spotify.com/album/5GJEHZyJuZaAIAoLQscX99"
@@ -765,7 +421,123 @@
       "url": "https://open.spotify.com/track/3bot8lUvwEKSn8yDuxHA4z"
     },
     {
-      "added_at": "2024-03-18 02:33:38",
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "Ain't No Mountain",
+        "url": "https://open.spotify.com/album/71ODnsWScGKqVcMLaVpskY"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Thousand Kids",
+          "url": "https://open.spotify.com/artist/5pAaSIooaMTPOhCu7J4dRU"
+        },
+        {
+          "name": "MERAKI",
+          "url": "https://open.spotify.com/artist/3qREC2G2u5sUK9M0NDxEWp"
+        }
+      ],
+      "duration_ms": 167040,
+      "name": "Ain't No Mountain",
+      "url": "https://open.spotify.com/track/6pYInbFNcmHrUhQr1NKowc"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/5c6Murua9v7wCYdw8AYrHg"
+      },
+      "artists": [
+        {
+          "name": "N3dek",
+          "url": "https://open.spotify.com/artist/5K7h4Ik3vKcHxEiVFVTf13"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2jIbHF7gHq6N8ymyemruIm"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 192755,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "Flying",
+        "url": "https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 184836,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/67XjrrrITpkyvIhSnaY03K"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        },
+        {
+          "name": "Janet Livv",
+          "url": "https://open.spotify.com/artist/4kbrRWBDBTf1g4waN4fg6n"
+        }
+      ],
+      "duration_ms": 174197,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/0DNpPGeQi11J05oYuHOZ4I"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "XTC / Concentrate EP",
+        "url": "https://open.spotify.com/album/5ZeguV8kQIg2JBd566b6D2"
+      },
+      "artists": [
+        {
+          "name": "Mike Cervello",
+          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/4RMOH93IUkNUjEKcvZCzq0"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "KUMBAYA",
         "url": "https://open.spotify.com/album/4kOM8abkB7j3roPjoEI6UR"
@@ -779,6 +551,202 @@
       "duration_ms": 293333,
       "name": "KUMBAYA",
       "url": "https://open.spotify.com/track/1xSYEWTIvedPRL8IG6Thk9"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "Stereo Function",
+        "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
+        }
+      ],
+      "duration_ms": 206904,
+      "name": "Stereo Function",
+      "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "Gibberish",
+        "url": "https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 153321,
+      "name": "Gibberish",
+      "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "Memento Mori",
+        "url": "https://open.spotify.com/album/6O1WaSTWxI6AdLmQ84BSpG"
+      },
+      "artists": [
+        {
+          "name": "MAZAN",
+          "url": "https://open.spotify.com/artist/0y0mNvcQKUUsbRlOcekXG4"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Memento Mori",
+      "url": "https://open.spotify.com/track/3NeoM0B3Qd4x7g0xlXdC5d"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "Sometimes I Get",
+        "url": "https://open.spotify.com/album/70ym3lVvCDlytS2fsOpeLD"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 191445,
+      "name": "Sometimes I Get",
+      "url": "https://open.spotify.com/track/5Igv1jW8dj9i9LGNhD6ZCm"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "Bassline Rumble",
+        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 175969,
+      "name": "Bassline Rumble",
+      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "Crave The Bassline",
+        "url": "https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 166962,
+      "name": "Crave The Bassline",
+      "url": "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/1ef49F2Q341KHNUFOehNGd"
+      },
+      "artists": [
+        {
+          "name": "Noola",
+          "url": "https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG"
+        }
+      ],
+      "duration_ms": 205932,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/5WkJkW64ThQsfQ2tfaLcZ3"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/4s8l87cU1Z2Sg5iKualNLr"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "PollyAnna",
+          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
+        }
+      ],
+      "duration_ms": 167509,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/6vpMnQ5iOvdTH6oJqKo3aI"
+      },
+      "artists": [
+        {
+          "name": "CMC$",
+          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
+        }
+      ],
+      "duration_ms": 144821,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/25wmVH3ytIFnKBDSFUIdxu"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "Make Amends (feat. Kyan Palmer)",
+        "url": "https://open.spotify.com/album/0tNgfFcdLPQhzfgE6kI3u4"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Kyan Palmer",
+          "url": "https://open.spotify.com/artist/3W5hlKkJKXp7xY7R7IYfxp"
+        }
+      ],
+      "duration_ms": 160430,
+      "name": "Make Amends (feat. Kyan Palmer)",
+      "url": "https://open.spotify.com/track/4Ocr8ezgeulwYhg3aZIqDL"
+    },
+    {
+      "added_at": "2024-04-04 22:39:46",
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/2nGbUA5qJOroJrDDpHvtxz"
+      },
+      "artists": [
+        {
+          "name": "Noola",
+          "url": "https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG"
+        }
+      ],
+      "duration_ms": 194072,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/1xlflYpC5NkXEHkWLUCzor"
     }
   ],
   "unique_name": "ALL THINGS HOUSE - CURBI PRESENTS",

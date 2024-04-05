@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 937536,
+  "num_followers": 937628,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmMxNzMzNjlhOWQwOTE2NDFlMzg5ZTkwNTI0NWNjOWI5ZDk3Yzcz",
+  "snapshot_id": "MCwyMDc5MGMwYjQ5ZTk1NjNiNjE5NWQwMTg0NzNhMTdjNDU2MGZiNGFj",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "I'm Drunk (feat. AMY MIY\u00da)",
         "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 150234,
       "name": "I'm Drunk (feat. AMY MIY\u00da)",
       "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Quick Highs",
-        "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Helen",
-          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
-        }
-      ],
-      "duration_ms": 194243,
-      "name": "Quick Highs",
-      "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Quick Highs",
+        "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Helen",
+          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
+        }
+      ],
+      "duration_ms": 194243,
+      "name": "Quick Highs",
+      "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
     },
     {
       "added_at": "2024-03-29 04:00:00",

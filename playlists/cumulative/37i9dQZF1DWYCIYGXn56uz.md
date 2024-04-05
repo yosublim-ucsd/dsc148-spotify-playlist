@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Olly
+> ✨giovane✨pop✨z✨ Cover: Petit
 
-367 songs - 16 hr 58 min
+369 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,12 +41,13 @@
 | [ATTIMO](https://open.spotify.com/track/0KM17GZroJQiZUkQZEUH1I) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [ATTIMO](https://open.spotify.com/album/46oN09hGI1JujQaLgv1kbL) | 3:07 | 2024-03-07 | 2024-03-29 |
 | [AUTODISTRUTTIVO](https://open.spotify.com/track/3ZcpVnBJguv1WVeMG44i2M) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [AUTODISTRUTTIVO](https://open.spotify.com/album/1M06XJqOcsMo0kCroZzl0q) | 3:09 | 2024-02-07 |  |
 | [Autogol](https://open.spotify.com/track/5QRvX3WAktD8SIN2fQ99e6) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Autogol](https://open.spotify.com/album/3YBhgpFuwuRf0APuD4Ff2M) | 2:34 | 2023-11-23 | 2023-12-13 |
-| [Avaria](https://open.spotify.com/track/25d0v0TOdM0KS99R4uK6bd) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Avaria](https://open.spotify.com/album/7wLjcMg51NTWXNSJ1gloyQ) | 2:33 | 2024-03-21 |  |
+| [Avaria](https://open.spotify.com/track/25d0v0TOdM0KS99R4uK6bd) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Avaria](https://open.spotify.com/album/7wLjcMg51NTWXNSJ1gloyQ) | 2:33 | 2024-03-21 | 2024-04-05 |
 | [Baby Don't Cry](https://open.spotify.com/track/1FH5kQE84G1aY17BO5U2Ei) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Baby Don't Cry](https://open.spotify.com/album/7zPSn1s2DdZVLTLCRi9zFz) | 3:04 | 2024-01-11 | 2024-02-07 |
 | [Balla \(come la domenica\)](https://open.spotify.com/track/5c5i976D2vDemkPHOMcyDT) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR), [Paps'n'Skar](https://open.spotify.com/artist/7pbBSvkFKdTKLCJl5G1jSV) | [Balla \(come la domenica\)](https://open.spotify.com/album/5hun2luD1TdLOyNPm33U5Z) | 2:46 | 2023-05-18 | 2023-11-24 |
 | [Balla Adrenalina](https://open.spotify.com/track/3EMTN0y6mBpVod7qd33sDa) | [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [Balla Adrenalina](https://open.spotify.com/album/2qdqzQGIMM7Jy5rql8Pf6Q) | 2:53 | 2023-06-15 | 2023-09-22 |
 | [Basta \(feat\. LDA\)](https://open.spotify.com/track/13EWG0TWbIVmyzd2ohpE0B) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Ammore Malamente](https://open.spotify.com/album/5pydbU79C724udCB6btJsy) | 3:11 | 2023-04-20 | 2023-06-09 |
 | [Bella](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Bella](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 | 2023-06-29 |  |
+| [Bella](https://open.spotify.com/track/5ahyDnrhuLYEKtjZ61iF00) | [Urano](https://open.spotify.com/artist/4boc9WGDp4rS4bObD8WtlU) | [Bella](https://open.spotify.com/album/27GpI3zmiIvkETQKirKqXJ) | 2:11 | 2024-04-04 |  |
 | [Bella \(ft\. Boro\)](https://open.spotify.com/track/1yBBuN8zzSXkew8qe12Xlt) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [VILLABANKS](https://open.spotify.com/album/1v4ennAZieVxb71tEgpjnZ) | 2:06 | 2023-10-26 | 2023-11-24 |
 | [bellissimissima <3](https://open.spotify.com/track/2qrCResILkL1JFeRBrv3qA) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [bellissimissima <3](https://open.spotify.com/album/2uKdFaQMLtLkOHthm855ns) | 2:37 | 2023-05-18 |  |
 | [BELLU GUAGLIONE](https://open.spotify.com/track/5rtsLnalGnYd4iNYmm8qmI) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [BELLU GUAGLIONE](https://open.spotify.com/album/0YN7JhcGmsUfQGHL8SNDEb) | 2:54 | 2023-05-18 | 2023-06-23 |
@@ -128,7 +129,7 @@
 | [Fila indiana](https://open.spotify.com/track/2WTgfEZW6gYWhHCMkn4lMc) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/2Dy8cBZkLwkAQJGUls25Hb) | 3:13 | 2023-11-30 | 2024-02-01 |
 | [Finale Aperto \(feat\. Albe\)](https://open.spotify.com/track/5rPGJdfVxKCcVCjhZYeWQb) | [Crytical](https://open.spotify.com/artist/1zcq8tjytfCbpj2VHmGfck), [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Finale Aperto \(feat\. Albe\)](https://open.spotify.com/album/19bX6D0fiIYm01QxeNPehJ) | 3:01 | 2024-01-04 | 2024-01-19 |
 | [Fine Settembre](https://open.spotify.com/track/6hzdvxKpOM6Ot7CEPvfa9a) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 3:31 | 2023-09-28 | 2023-11-17 |
-| [finiscimi](https://open.spotify.com/track/2c0lqanQ7Yz8f7VaAfgqqt) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [finiscimi](https://open.spotify.com/album/0KPFdlJaeqxhaiif2mcXP3) | 3:11 | 2024-02-07 |  |
+| [finiscimi](https://open.spotify.com/track/2c0lqanQ7Yz8f7VaAfgqqt) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [finiscimi](https://open.spotify.com/album/0KPFdlJaeqxhaiif2mcXP3) | 3:11 | 2024-02-07 | 2024-04-05 |
 | [FINO ALLE 6](https://open.spotify.com/track/3tXM57Khcgj7Az8sW7pWnA) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy) | [FINO ALLE 6](https://open.spotify.com/album/4xQGwlG5pBrTxg3gsRglDX) | 2:50 | 2023-12-15 | 2024-02-02 |
 | [Fiore Sulla Luna](https://open.spotify.com/track/6Sinn7z9DmUQPY3oQcMKcV) | [Federico Rossi](https://open.spotify.com/artist/27cy5lbFuVKPVSCD36bmuu) | [Fiore Sulla Luna](https://open.spotify.com/album/6Kz7JnUf9h5yqQDtt6R5Ag) | 2:27 | 2023-08-31 | 2023-09-29 |
 | [fiume di parole](https://open.spotify.com/track/19RZHhzIgCrnUBFJfGzexj) | [Anima](https://open.spotify.com/artist/78KLSh5jP52tMwFeDpR5Ml), [Poet](https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs), [Pi Greco](https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b) | [fiume di parole](https://open.spotify.com/album/1vfdwQ7JuTqGrWdYjJQEAp) | 2:31 | 2023-04-20 | 2023-05-19 |
@@ -301,6 +302,7 @@
 | [SE MI LASCI DOMANI](https://open.spotify.com/track/4Z8Rrgk9MYwcvMGbxZluuX) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [SE MI LASCI DOMANI](https://open.spotify.com/album/23w6agrUntnc6Ok1A18gvD) | 3:33 | 2023-04-20 | 2023-06-23 |
 | [Se poi domani](https://open.spotify.com/track/32XKm4CJzVNRUCzkhQoX13) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Se poi domani](https://open.spotify.com/album/6gsgGDGj0bfP46w0xCISQ2) | 3:28 | 2023-03-23 | 2023-07-07 |
 | [Sei la fine del mondo](https://open.spotify.com/track/2T3XBmvTu8vD4kByVzvLil) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq) | [Amami](https://open.spotify.com/album/2MovZc1VuaqbWbJ7fdY4UY) | 2:26 | 2023-06-29 | 2023-07-14 |
+| [SEI NELL'ARIA](https://open.spotify.com/track/2klE3JOlRzSvvbf61r064C) | [Berna](https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT) | [SEI NELL'ARIA](https://open.spotify.com/album/38TazBV9Xx0Ptj1e1VoFC8) | 2:15 | 2024-04-04 |  |
 | [SERIE A](https://open.spotify.com/track/3Gptt8SQHD3zZBylNS9Ym3) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAVE, ECLISSI](https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I) | 2:50 | 2023-03-23 | 2023-04-14 |
 | [SETIAMO](https://open.spotify.com/track/1HlY2VHpOYAn0zeBcWcW4s) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [SETIAMO](https://open.spotify.com/album/5SMPDLbS5m4RtF8bS4lFvD) | 2:58 | 2023-03-23 | 2023-04-14 |
 | [Si è spenta anche la luna \- LUNA](https://open.spotify.com/track/2nWVJWO9bQRH6OsvG5bWIO) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Si è spenta anche la luna \- LUNA](https://open.spotify.com/album/0XMf0lGQAJmxdo2r9x1ob0) | 3:23 | 2023-12-15 | 2024-03-22 |

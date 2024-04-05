@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-2,460 songs - 5 day 10 hr 24 min
+2,461 songs - 5 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,7 +505,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-02 | 2023-06-07 |
 | [Cupid – Twin Ver\. \(FIFTY FIFTY\) – Sped Up Version](https://open.spotify.com/track/3B228N0GxfUCwPyfNcJxps) | [sped up 8282](https://open.spotify.com/artist/1c0ChJZVluriMPwFrTAmly) | [Cupid – Twin Ver\. \(FIFTY FIFTY\) – Sped Up Version](https://open.spotify.com/album/2kzO9CzI8XI1gG207XPOgk) | 2:25 | 2023-05-02 | 2023-05-17 |
 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-03-14 | 2023-03-19 |
-| [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 | 2024-04-01 |  |
+| [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 | 2024-04-01 | 2024-04-05 |
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2022-08-30 | 2022-09-12 |
 | [Cómo Te Atreves](https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 4:00 | 2024-03-01 | 2024-03-10 |
 | [DACIA](https://open.spotify.com/track/0okYvXKPqzZpj3iZrJH6JK) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DACIA](https://open.spotify.com/album/4nO3TIfUPnGSnryBvA9q1N) | 2:09 | 2023-02-07 | 2023-02-09 |
@@ -736,7 +736,8 @@
 | [Farq hai](https://open.spotify.com/track/7GsNFfmWszJUcMvYePL6M1) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/0sj88yyoDKFPiJsxnIrgIB) | 3:04 | 2023-09-26 | 2023-10-18 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-04-18 | 2023-05-03 |
 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2023-08-29 | 2023-09-06 |
-| [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 | 2024-03-26 |  |
+| [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 | 2024-03-26 | 2024-04-05 |
+| [Faster n Harder](https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Internet Famous](https://open.spotify.com/album/2yEBsWRowuo5FRa0Q4b5D6) | 2:03 | 2024-04-04 |  |
 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-03-01 | 2022-03-09 |
 | [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 | 2023-03-14 | 2023-04-26 |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-24 | 2022-06-13 |
@@ -1896,7 +1897,7 @@
 | [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 | 2023-08-29 | 2023-09-13 |
 | [Sen Affetsen](https://open.spotify.com/track/0nudrF7WUr6R5OEVffxuky) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Acıların Kadını](https://open.spotify.com/album/75qpnDwZZv4o7rfxoykj2H) | 4:25 | 2022-03-08 | 2022-03-30 |
 | [Sen Evlisin](https://open.spotify.com/track/6Q0LyWaNDsLi6KefnEKAMd) | [Gülden Karaböcek](https://open.spotify.com/artist/2wioAsnSZ6JmA6I7Y7PDkc) | [Ağlıyorsam Yaşıyorum \- Gülden Karaböcek Klasikleri, Vol\. 2](https://open.spotify.com/album/4JlswY1NUkXOU6mDd8tKfW) | 3:40 | 2024-02-26 | 2024-03-26 |
-| [Senden Güzeli Mi Var](https://open.spotify.com/track/4ehQRRPPelxT1hIYAy1pgy) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [VEDA TÜRKÜSÜ](https://open.spotify.com/album/7ei9t3MIlufpCNxN9rS8T2) | 3:23 | 2024-02-09 | 2024-04-03 |
+| [Senden Güzeli Mi Var](https://open.spotify.com/track/4ehQRRPPelxT1hIYAy1pgy) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [VEDA TÜRKÜSÜ](https://open.spotify.com/album/7ei9t3MIlufpCNxN9rS8T2) | 3:23 | 2024-02-09 |  |
 | [Seni Kırmışlar](https://open.spotify.com/track/5zALCdtPOOz1SX7uHwp6En) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Sen Böyle Değildin](https://open.spotify.com/album/14KTTy0gQAGWcOLTGkw9hy) | 2:53 | 2022-06-16 | 2022-07-11 |
 | [Seni Severdim](https://open.spotify.com/track/4wafsaGv4ofwEBmDyp4qsA) | [Yıldız Usmonova](https://open.spotify.com/artist/7J9o5Hdc4fNz21SsIBztYK), [Yaşar Günaçgün](https://open.spotify.com/artist/5h9ueyfXGdgh1rkRQFixkj) | [Dünya](https://open.spotify.com/album/4OANCg2XGfMsaP3bMhazsu) | 4:30 | 2023-05-24 | 2023-06-15 |
 | [Seni Yazdım](https://open.spotify.com/track/1abxpxR02QBwzEWJal3Khb) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl), [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5) | [Seni Yazdım](https://open.spotify.com/album/6cxZJkdAXDdGVGtLnwRTVg) | 2:31 | 2024-02-20 | 2024-03-06 |

@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-181 songs - 11 hr 13 min
+182 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Cigarettes, Whiskey And Wild, Wild Women](https://open.spotify.com/track/4CWMKliTHoJCoRWaI8WljW) | [The Big Three Trio](https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY), [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [The Best Of Delta Records](https://open.spotify.com/album/6qF7UpIdnbVMPukKa9rpee) | 3:00 | 2022-06-14 |  |
 | [Circle Of Lies](https://open.spotify.com/track/6M8KpTVYG0ZqgZosDxg9HG) | [Jim Bows & The Flycatchers](https://open.spotify.com/artist/0U0pUhmntI6hEFvdro8a6Q) | [Circle Of Lies](https://open.spotify.com/album/587AGksXRFKQ9JikfDaH2L) | 3:52 | 2022-07-08 | 2023-05-23 |
 | [Coffee Blues](https://open.spotify.com/track/2azwzKd8xYex2PyJEyl8BX) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Rediscovered](https://open.spotify.com/album/7563JyVKfAPqonIxfTuU1p) | 3:46 | 2022-05-25 | 2023-08-24 |
-| [Cross Creek Road](https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Neckbone Stew](https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb) | 3:01 | 2022-05-25 |  |
+| [Cross Creek Road](https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Neckbone Stew](https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb) | 3:01 | 2022-05-25 | 2024-04-05 |
 | [Dance In The Fire](https://open.spotify.com/track/2kGeYQBWv8QiYRoOo9vQJt) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Strange Time To Be Alive](https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA) | 3:51 | 2023-01-13 |  |
 | [Danger and Dread](https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [The Devil Dancing](https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou) | 3:46 | 2022-07-08 |  |
 | [Danger and Dread](https://open.spotify.com/track/2VUA9RXQluo3013YNhDeez) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [The Devil Dancing](https://open.spotify.com/album/674lfymYQKdcMA0kMy2dgO) | 3:46 | 2022-05-25 | 2022-07-28 |
@@ -134,6 +134,7 @@
 | [Paris Blues](https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Paris Blues](https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT) | 5:53 | 2022-11-18 | 2023-04-07 |
 | [Passing Through](https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj) | [Mark Harrison](https://open.spotify.com/artist/14CtALWVNL2IsuvjO27qBd) | [The Road to Liberty, Pt\. 1](https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk) | 3:24 | 2023-02-24 |  |
 | [Perpetual Blues Machine](https://open.spotify.com/track/2CgFNet99tzGTEIxYrYbuN) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Martin Scorsese Presents The Blues: Keb' Mo'](https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc) | 3:15 | 2022-05-25 |  |
+| [Please Help](https://open.spotify.com/track/4tUmDlWfo82idjkeOp8rgX) | [Michael Jerome Browne](https://open.spotify.com/artist/5FuofLPjGvwTTSt0rHphfc) | [Gettin' Together](https://open.spotify.com/album/52jq4u9jjWovc8hzgf472C) | 3:51 | 2023-11-24 |  |
 | [Please Take My Hand](https://open.spotify.com/track/2wWvmScZdELY3qBA4d22Kc) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [In Too Deep](https://open.spotify.com/album/3ptdoPUdZaNSVAZSdEYeeZ) | 3:03 | 2022-05-25 | 2022-07-28 |
 | [Please Take My Hand](https://open.spotify.com/track/4b5MhQ12ztQKOIPoyESfR3) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [In Too Deep](https://open.spotify.com/album/4UsUWtLQqW0QyGFBKgddue) | 3:03 | 2022-11-18 |  |
 | [Preachin' Blues](https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:21 | 2022-07-01 | 2023-04-07 |

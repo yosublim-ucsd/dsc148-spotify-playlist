@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,695 likes - 29 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,698 likes - 29 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 | 13 | [Sleepers](https://open.spotify.com/track/6s3d8xe76eyHPgD2QYutJQ) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 2:51 |
 | 14 | [Translating the Name](https://open.spotify.com/track/2fsYDaUa76sRjlHxqh1sdx) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:26 |
 | 15 | [Count Back from TEN](https://open.spotify.com/track/69ycJyqz0Sy7jk5hQ43afA) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 3:06 |
-| 16 | [Nothing Is What It Seems](https://open.spotify.com/track/4NWL8X6InF3pQwzw8820ic) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 4:25 |
+| 16 | [I Keep Secrets Safe](https://open.spotify.com/track/2jAZg043nuMGUcdtvmEIJE) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:54 |
 | 17 | [It's So Simple](https://open.spotify.com/track/4amcY5vhp2Z40EhNVa2xHl) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 2:48 |
 | 18 | [Lost Symphonies](https://open.spotify.com/track/7EzL0vW3YlaAH0EiUe5MKk) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:55 |
 | 19 | [Ideology Is Theft](https://open.spotify.com/track/2JpvJGyaOpH1YPjBGZf1qr) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 3:33 |
-| 20 | [I Keep Secrets Safe](https://open.spotify.com/track/2jAZg043nuMGUcdtvmEIJE) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:54 |
+| 20 | [Nothing Is What It Seems](https://open.spotify.com/track/4NWL8X6InF3pQwzw8820ic) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 4:25 |
 | 21 | [It's Far Better To Learn](https://open.spotify.com/track/0nQcyybXeatlDXgvQOrT1n) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:54 |
 | 22 | [Let Go Control](https://open.spotify.com/track/0OiZCyNOdjpHm38CQXLGH7) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Voices](https://open.spotify.com/album/28LWWFUiQSA4WEZTYtSGbh) | 2:58 |
 | 23 | [Second Guesses](https://open.spotify.com/track/78j1GGl7Tlm00RnvCkwMM6) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 4:08 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 | 28 | [Love Maker](https://open.spotify.com/track/0IsOrgcBeDDwzaaw4Gqeo3) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [The Grey](https://open.spotify.com/album/5FME0EWIpnQ3pGT5ugvykD) | 3:17 |
 | 29 | [New Angel](https://open.spotify.com/track/7mph7O5E7n3wKJcy2jNx0w) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/3WFPpbGgppW9ZgXQ4eyH0w) | 2:56 |
 
-Snapshot ID: `MCwzNmEyZTMwYzA0YjFmNjU5YmM2ODQ1MTE4NGEzZDNmZjNiNzE3ZDhl`
+Snapshot ID: `MCw0NWNkNmM5OWI2N2E5MDVhNmJmZGRmOGI5NjI4OTE1YTQzZGZiZTJm`

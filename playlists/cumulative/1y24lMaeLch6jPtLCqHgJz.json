@@ -1383,6 +1383,32 @@
     },
     {
       "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/3aDsky9uABrOWVmjgwLfAb"
+      },
+      "artists": [
+        {
+          "name": "Mike Bond",
+          "url": "https://open.spotify.com/artist/4yroY1dUWxiROWLei7Mude"
+        },
+        {
+          "name": "Sesco",
+          "url": "https://open.spotify.com/artist/0pP0ClsQK7FgtbwuUcVrQV"
+        },
+        {
+          "name": "Richie Loop",
+          "url": "https://open.spotify.com/artist/0fwGtEcJ4v3H0btcbM0KWc"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138471,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/50GVy9jKhOOycBJ7gTI12I"
+    },
+    {
+      "album": {
         "name": "Chase The Sun",
         "url": "https://open.spotify.com/album/4sm3DeCmr4ppnUnxdRtJEG"
       },

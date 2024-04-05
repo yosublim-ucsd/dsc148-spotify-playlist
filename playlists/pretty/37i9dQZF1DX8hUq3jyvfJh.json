@@ -1,12 +1,12 @@
 {
   "description": "Escute Manu e mais mulheres no volume m\u00e1ximo! Co-curadoria com ",
-  "num_followers": 177049,
+  "num_followers": 177042,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjU1MDgxODdkMjE1ZjBmMWY3ZTFiNGJiYjc1ODMwNjhlN2E1NzFj",
+  "snapshot_id": "MCxkZDFlOWNlNDljNWM0ZmU5M2M1ZjhiYjY3OGI2MzYxZTA3M2RjN2Ew",
   "tracks": [
     {
       "added_at": "2024-04-03 03:00:00",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-04-03 03:00:00",
       "album": {
+        "name": "B\u00eabado e Apaixonado",
+        "url": "https://open.spotify.com/album/7r5oNea325sqeTZD5mHlEd"
+      },
+      "artists": [
+        {
+          "name": "Mariana Pimenta",
+          "url": "https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn"
+        }
+      ],
+      "duration_ms": 175082,
+      "name": "B\u00eabado e Apaixonado",
+      "url": "https://open.spotify.com/track/3gBTaR5wzBuDfcCEDT0C56"
+    },
+    {
+      "added_at": "2024-04-03 03:00:00",
+      "album": {
         "name": "Cintilante (Ao Vivo)",
         "url": "https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 188084,
       "name": "Apaixonada",
       "url": "https://open.spotify.com/track/6PPtpSPkzvXUpmXbfnNupr"
-    },
-    {
-      "added_at": "2024-04-03 03:00:00",
-      "album": {
-        "name": "B\u00eabado e Apaixonado",
-        "url": "https://open.spotify.com/album/7r5oNea325sqeTZD5mHlEd"
-      },
-      "artists": [
-        {
-          "name": "Mariana Pimenta",
-          "url": "https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn"
-        }
-      ],
-      "duration_ms": 175082,
-      "name": "B\u00eabado e Apaixonado",
-      "url": "https://open.spotify.com/track/3gBTaR5wzBuDfcCEDT0C56"
     },
     {
       "added_at": "2024-04-03 03:00:00",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-04-03 03:00:00",
       "album": {
-        "name": "Trapo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0behvZdnNJOhhebvHOH1GT"
-      },
-      "artists": [
-        {
-          "name": "Larissa e Mariana",
-          "url": "https://open.spotify.com/artist/4Tbs2tTIXSx0CfTQCj96kO"
-        },
-        {
-          "name": "J\u00falia & Rafaela",
-          "url": "https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02"
-        }
-      ],
-      "duration_ms": 172460,
-      "name": "Trapo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4tiEwmV6AbwvEBsAda5Kxf"
-    },
-    {
-      "added_at": "2024-04-03 03:00:00",
-      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/3HcXOQpyZOzWFJXxd9rETo"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 162750,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/0HK7bfg1m4bAQLR5B0wruC"
+    },
+    {
+      "added_at": "2024-04-03 03:00:00",
+      "album": {
+        "name": "Trapo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0behvZdnNJOhhebvHOH1GT"
+      },
+      "artists": [
+        {
+          "name": "Larissa e Mariana",
+          "url": "https://open.spotify.com/artist/4Tbs2tTIXSx0CfTQCj96kO"
+        },
+        {
+          "name": "J\u00falia & Rafaela",
+          "url": "https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02"
+        }
+      ],
+      "duration_ms": 172460,
+      "name": "Trapo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4tiEwmV6AbwvEBsAda5Kxf"
     },
     {
       "added_at": "2024-04-03 03:00:00",
@@ -719,6 +719,26 @@
     {
       "added_at": "2024-04-03 03:00:00",
       "album": {
+        "name": "Cleide",
+        "url": "https://open.spotify.com/album/3QY7ydZS435baVDOqu4h8L"
+      },
+      "artists": [
+        {
+          "name": "Marcia Novo",
+          "url": "https://open.spotify.com/artist/33ZYvlC9Qs0gtyBWY6GOik"
+        },
+        {
+          "name": "O Conde S\u00f3 Brega",
+          "url": "https://open.spotify.com/artist/1Fwo1NcyRIEDraRN1fy495"
+        }
+      ],
+      "duration_ms": 209506,
+      "name": "Cleide",
+      "url": "https://open.spotify.com/track/4vJAhyVQqc08HKmeWwmTWk"
+    },
+    {
+      "added_at": "2024-04-03 03:00:00",
+      "album": {
         "name": "Ao Vivo em Nazar\u00e9 das Farinhas",
         "url": "https://open.spotify.com/album/2ZNIQZydZyHNGUNA9djAD6"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 154426,
       "name": "Bola de Fogo (Que Calor da Porra)",
       "url": "https://open.spotify.com/track/69sfMbcP4UKRoGVqBJcHgs"
-    },
-    {
-      "added_at": "2024-04-03 03:00:00",
-      "album": {
-        "name": "Cleide",
-        "url": "https://open.spotify.com/album/3QY7ydZS435baVDOqu4h8L"
-      },
-      "artists": [
-        {
-          "name": "Marcia Novo",
-          "url": "https://open.spotify.com/artist/33ZYvlC9Qs0gtyBWY6GOik"
-        },
-        {
-          "name": "O Conde S\u00f3 Brega",
-          "url": "https://open.spotify.com/artist/1Fwo1NcyRIEDraRN1fy495"
-        }
-      ],
-      "duration_ms": 209506,
-      "name": "Cleide",
-      "url": "https://open.spotify.com/track/4vJAhyVQqc08HKmeWwmTWk"
     },
     {
       "added_at": "2024-04-03 03:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-04-03 03:00:00",
       "album": {
+        "name": "Muvuca",
+        "url": "https://open.spotify.com/album/53bI27tNxFAmguVRUW1yAd"
+      },
+      "artists": [
+        {
+          "name": "Anna Catarina",
+          "url": "https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "Muvuca",
+      "url": "https://open.spotify.com/track/6CgXbGugDy2XiZm8IwRgwN"
+    },
+    {
+      "added_at": "2024-04-03 03:00:00",
+      "album": {
         "name": "Sofazin Sessions",
         "url": "https://open.spotify.com/album/58lBDiqXhSYW5eGEMu4vgc"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 142990,
       "name": "Vapt Vupt",
       "url": "https://open.spotify.com/track/1Ccih7yKi46g9TK9KQmNGG"
-    },
-    {
-      "added_at": "2024-04-03 03:00:00",
-      "album": {
-        "name": "Muvuca",
-        "url": "https://open.spotify.com/album/53bI27tNxFAmguVRUW1yAd"
-      },
-      "artists": [
-        {
-          "name": "Anna Catarina",
-          "url": "https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow"
-        }
-      ],
-      "duration_ms": 164776,
-      "name": "Muvuca",
-      "url": "https://open.spotify.com/track/6CgXbGugDy2XiZm8IwRgwN"
     }
   ],
   "unique_name": "EQUAL Brasil",

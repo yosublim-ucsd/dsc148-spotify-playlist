@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 9409,
+  "num_followers": 9431,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjE3ODZlNThmOGE1YjA2ZjYzZjNlMGUyZmQ4NDhkMDQ0ZjI1ODY1",
+  "snapshot_id": "MCxmMDQ4MjY5YWY5Y2NkOTcxMGU3OTZlNzU0ZjI1ODJkNmJjYzMxZTI2",
   "tracks": [
     {
       "added_at": "2023-10-10 12:23:51",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Darling Arithmetic",
-        "url": "https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Everything I Am Is Yours",
-      "url": "https://open.spotify.com/track/281ioxkZbJ3p9hCvjD2bon"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Stop All the World Now (Special Edition)",
         "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Darling Arithmetic",
+        "url": "https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Everything I Am Is Yours",
+      "url": "https://open.spotify.com/track/281ioxkZbJ3p9hCvjD2bon"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
-      "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
       },
@@ -503,18 +487,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/0fKvusBkfI3ObQrICo9TwN"
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
       },
       "artists": [
         {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
         }
       ],
-      "duration_ms": 191386,
-      "name": "The One I Love",
-      "url": "https://open.spotify.com/track/7nCkMU8PCIACMpMgvp82JJ"
+      "duration_ms": 228146,
+      "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
+      "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
     },
     {
       "added_at": "2023-02-24 11:06:00",
@@ -531,6 +515,22 @@
       "duration_ms": 281017,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/0fKvusBkfI3ObQrICo9TwN"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 191386,
+      "name": "The One I Love",
+      "url": "https://open.spotify.com/track/7nCkMU8PCIACMpMgvp82JJ"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -583,6 +583,26 @@
       "duration_ms": 192545,
       "name": "It Aint Me",
       "url": "https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT"
+    },
+    {
+      "added_at": "2023-10-10 12:23:51",
+      "album": {
+        "name": "I Was Born To Love You",
+        "url": "https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 265843,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -695,26 +715,6 @@
       "duration_ms": 305160,
       "name": "Can I Be Him - Acoustic Live Version",
       "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
-    },
-    {
-      "added_at": "2023-10-10 12:23:51",
-      "album": {
-        "name": "I Was Born To Love You",
-        "url": "https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 265843,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Hold On (From \"Dear Edward\")",
+        "url": "https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 156826,
+      "name": "Hold On (From \"Dear Edward\")",
+      "url": "https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "honest (feat. moon tang)",
         "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 177818,
       "name": "honest (feat. moon tang)",
       "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Hold On (From \"Dear Edward\")",
-        "url": "https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 156826,
-      "name": "Hold On (From \"Dear Edward\")",
-      "url": "https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Bizarre Love Triangle (Acoustic)",
-        "url": "https://open.spotify.com/album/3a3gzYfRlPhOdTpw8CO4Rb"
-      },
-      "artists": [
-        {
-          "name": "The Macarons Project",
-          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
-        }
-      ],
-      "duration_ms": 131644,
-      "name": "Bizarre Love Triangle - Acoustic",
-      "url": "https://open.spotify.com/track/0PGDrKpe6yHPNRP1eSvCFy"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Most of Us Are Strangers",
         "url": "https://open.spotify.com/album/5ufRr4lWvGLNQsd6caY2bE"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 222586,
       "name": "Most of Us Are Strangers",
       "url": "https://open.spotify.com/track/1xw0dNFXAfu6xJgKMlSUU5"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Bizarre Love Triangle (Acoustic)",
+        "url": "https://open.spotify.com/album/3a3gzYfRlPhOdTpw8CO4Rb"
+      },
+      "artists": [
+        {
+          "name": "The Macarons Project",
+          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
+        }
+      ],
+      "duration_ms": 131644,
+      "name": "Bizarre Love Triangle - Acoustic",
+      "url": "https://open.spotify.com/track/0PGDrKpe6yHPNRP1eSvCFy"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/1Pq2zNeHfbEA4phoHXHG5b"
     },
     {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Clean Eyes",
-        "url": "https://open.spotify.com/album/3uxb4SRPfNoZEwVo4GWK9f"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 222810,
-      "name": "Clean Eyes - Acoustic",
-      "url": "https://open.spotify.com/track/0ixVfs0GvBfLNRA2qgjjk5"
-    },
-    {
       "added_at": "2023-03-14 14:57:00",
       "album": {
         "name": "1979",
@@ -1303,6 +1287,22 @@
       "duration_ms": 290518,
       "name": "1979",
       "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Clean Eyes",
+        "url": "https://open.spotify.com/album/3uxb4SRPfNoZEwVo4GWK9f"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 222810,
+      "name": "Clean Eyes - Acoustic",
+      "url": "https://open.spotify.com/track/0ixVfs0GvBfLNRA2qgjjk5"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Paradise (with Olivia Holt) [Acoustic]",
         "url": "https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 229267,
       "name": "Paradise (with Olivia Holt) - Acoustic",
       "url": "https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Dear Earth, I\u2019m Lost",
+        "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Heaven Knows, Right?",
+      "url": "https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "With Or Without You (Acoustic)",
         "url": "https://open.spotify.com/album/1PSL58r4ZGDdNtJ2MiXclC"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 206666,
       "name": "With Or Without You (Acoustic)",
       "url": "https://open.spotify.com/track/1691RkrJC65WAaLJhJryKS"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Dear Earth, I\u2019m Lost",
-        "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Heaven Knows, Right?",
-      "url": "https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Dancing (Mumbai Wedding)",
-        "url": "https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg"
-      },
-      "artists": [
-        {
-          "name": "NONONO",
-          "url": "https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb"
-        }
-      ],
-      "duration_ms": 217763,
-      "name": "Dancing (Mumbai Wedding) - Acoustic Version",
-      "url": "https://open.spotify.com/track/6VRvSWhwzioeDmxZ6UuaAR"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "God Save The Dream",
         "url": "https://open.spotify.com/album/4OX4R0SPj4MkfLcQqsMcY5"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 222473,
       "name": "Fine On Your Own",
       "url": "https://open.spotify.com/track/5GieMXCbY0rFATTrwyMqS2"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Dancing (Mumbai Wedding)",
+        "url": "https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg"
+      },
+      "artists": [
+        {
+          "name": "NONONO",
+          "url": "https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb"
+        }
+      ],
+      "duration_ms": 217763,
+      "name": "Dancing (Mumbai Wedding) - Acoustic Version",
+      "url": "https://open.spotify.com/track/6VRvSWhwzioeDmxZ6UuaAR"
     }
   ],
   "unique_name": "Soft Morning",

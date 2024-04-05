@@ -1,7 +1,7 @@
 {
-  "2024-04-04": 411003,
+  "2024-04-05": 412274,
   "date_first_scraped": "2022-01-24",
-  "description": "Somos una fusi\u00f3n que nunca termina... MEXCLA somos. Shakira y Grupo Frontera en portada.",
+  "description": "Somos una fusi\u00f3n que nunca termina... MEXCLA somos. Bizarrap y Natanael Cano en portada.",
   "name": "MEXCLA",
   "tracks": [
     {
@@ -5833,6 +5833,28 @@
       "duration_ms": 150000,
       "name": "Nataaoki",
       "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
+    },
+    {
+      "album": {
+        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155888,
+      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
     },
     {
       "album": {

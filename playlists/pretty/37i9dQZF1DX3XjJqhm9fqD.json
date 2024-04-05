@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
-  "num_followers": 86321,
+  "num_followers": 86352,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTBjMWJhMmZiMTIxNDU4NjlhNDA2ZWUxNTFkNmRiZTBhOGE3OTk0",
+  "snapshot_id": "MCw1YzU4MmI2MWRkZDg3ZDUxZTk2YzY2NTI4NzI3MWYyZmJmZDIwY2Qx",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -623,30 +623,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Patron",
-        "url": "https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2"
-      },
-      "artists": [
-        {
-          "name": "Wendyyy",
-          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
-        },
-        {
-          "name": "Alan Cave",
-          "url": "https://open.spotify.com/artist/5pD6DDqepfVzBsg6y7jAv1"
-        },
-        {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
-        }
-      ],
-      "duration_ms": 280383,
-      "name": "Se Pa Pou Dat",
-      "url": "https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Tick Tock Boom",
         "url": "https://open.spotify.com/album/0T7e56yIFCMxvWIrfgLQlD"
       },
@@ -667,6 +643,30 @@
       "duration_ms": 133854,
       "name": "Tick Tock Boom",
       "url": "https://open.spotify.com/track/3tegnAgLGsny5A9F04trQP"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Patron",
+        "url": "https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2"
+      },
+      "artists": [
+        {
+          "name": "Wendyyy",
+          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+        },
+        {
+          "name": "Alan Cave",
+          "url": "https://open.spotify.com/artist/5pD6DDqepfVzBsg6y7jAv1"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 280383,
+      "name": "Se Pa Pou Dat",
+      "url": "https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Se Ou M Chwazi",
-        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
-      },
-      "artists": [
-        {
-          "name": "D-Singer",
-          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
-        },
-        {
-          "name": "Rob Vital",
-          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
-        }
-      ],
-      "duration_ms": 218191,
-      "name": "Se Ou M Chwazi",
-      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "BIDIBAM",
         "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 190143,
       "name": "BIDIBAM",
       "url": "https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Se Ou M Chwazi",
+        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
+      },
+      "artists": [
+        {
+          "name": "D-Singer",
+          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
+        },
+        {
+          "name": "Rob Vital",
+          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
+        }
+      ],
+      "duration_ms": 218191,
+      "name": "Se Ou M Chwazi",
+      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Te revoir",
-        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
-      },
-      "artists": [
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 205030,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "U.F.O.",
         "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 210857,
       "name": "U.F.O.",
       "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Te revoir",
+        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
+      },
+      "artists": [
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 205030,
+      "name": "Te revoir",
+      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
     },
     {
       "added_at": "2024-02-23 05:00:00",

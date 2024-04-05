@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. \nFoto: Lara91k",
-  "num_followers": 40304,
+  "num_followers": 40297,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWI2YjZjYmJjYjc4MTgwM2Y0M2JjMDAzNmE1NzUyYTI4Y2FmN2Nl",
+  "snapshot_id": "MCxhMDFmZGVjOGMwZTc5NDY5NjRlNGY2NTZlNGJmYTJmMjExNTM4Nzk2",
   "tracks": [
     {
       "added_at": "2024-04-03 21:04:18",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-04-03 21:04:18",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 211032,
-      "name": "Desastre",
-      "url": "https://open.spotify.com/track/7KACvg9l3V2HpBqCW5Oxxi"
-    },
-    {
-      "added_at": "2024-04-03 21:04:18",
-      "album": {
         "name": "Bordes",
         "url": "https://open.spotify.com/album/0UWOXpV26q2LYf6ThqQGT5"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 176240,
       "name": "Bordes",
       "url": "https://open.spotify.com/track/0j8KXlqxtQrycQH78GPWw4"
+    },
+    {
+      "added_at": "2024-04-03 21:04:18",
+      "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 211032,
+      "name": "Desastre",
+      "url": "https://open.spotify.com/track/7KACvg9l3V2HpBqCW5Oxxi"
     },
     {
       "added_at": "2024-04-03 21:04:18",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-04-03 21:04:18",
       "album": {
-        "name": "Santa Basura [1]",
-        "url": "https://open.spotify.com/album/5JD5doGcCXgJMZiIYdFTk9"
-      },
-      "artists": [
-        {
-          "name": "Esmeralda Escalante",
-          "url": "https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC"
-        }
-      ],
-      "duration_ms": 79338,
-      "name": "Bruma",
-      "url": "https://open.spotify.com/track/37A1t6zLsxWtqZfb5nE9hf"
-    },
-    {
-      "added_at": "2024-04-03 21:04:18",
-      "album": {
         "name": "Camino Dorado",
         "url": "https://open.spotify.com/album/1jESRLrDw77dVGvIVVeKQl"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 225318,
       "name": "El Rayo",
       "url": "https://open.spotify.com/track/09HCUGNu21tPaJxHrnxgyd"
+    },
+    {
+      "added_at": "2024-04-03 21:04:18",
+      "album": {
+        "name": "Santa Basura [1]",
+        "url": "https://open.spotify.com/album/5JD5doGcCXgJMZiIYdFTk9"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda Escalante",
+          "url": "https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC"
+        }
+      ],
+      "duration_ms": 79338,
+      "name": "Bruma",
+      "url": "https://open.spotify.com/track/37A1t6zLsxWtqZfb5nE9hf"
     },
     {
       "added_at": "2024-04-03 21:04:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap dá o play e aumenta! Foto: L7NNON
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,413,585 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,414,259 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
 | 50 | [De Lala \- Spotify Singles](https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Dj Binho](https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk), [Dj Geh](https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh) | [De Lala \- Spotify Singles](https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX) | 2:40 |
 
-Snapshot ID: `MCwxNjUxMzg1NzUxYjExZGY1NThmMzVmOWVlMTUwYTg3NzExYzI1ZDQw`
+Snapshot ID: `MCxjNDNiMjNhZDUwM2ZkYjI1ZWVkZDY0MDgyZjk2MDJlNDQ1Y2Q3MWE3`

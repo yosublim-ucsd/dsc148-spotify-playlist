@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 43492,
+  "num_followers": 43502,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmJhMDYwNmQ5NjhkYjBjNWRkNzNmNTQwNTRkYTQ5NzY2YWE5YThk",
+  "snapshot_id": "MCxhYjE2NDk3MTEzMjU0ZDg1MWFmYTkwMWY5ZTQ2ZmIxMDdiOGIxNWRm",
   "tracks": [
     {
       "added_at": "2019-10-04 16:01:14",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/1ndQYlSm6jKKAKlQS8vwmd"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "The Individualism Of Gil Evans",
-        "url": "https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms"
-      },
-      "artists": [
-        {
-          "name": "Gil Evans",
-          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
-        }
-      ],
-      "duration_ms": 395293,
-      "name": "Las Vegas Tango",
-      "url": "https://open.spotify.com/track/1IEbtXrHgN37lTQi9Byx6g"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "The Very Best Of Jeff Lorber",
@@ -799,6 +783,22 @@
       "duration_ms": 262146,
       "name": "Reverend Green",
       "url": "https://open.spotify.com/track/58u2WAEAtgOeWSTeTRAPIW"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "The Individualism Of Gil Evans",
+        "url": "https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms"
+      },
+      "artists": [
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        }
+      ],
+      "duration_ms": 395293,
+      "name": "Las Vegas Tango",
+      "url": "https://open.spotify.com/track/1IEbtXrHgN37lTQi9Byx6g"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -875,18 +875,18 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+        "name": "The Argo, Verve And Impulse Big Band Studio Sessions",
+        "url": "https://open.spotify.com/album/55ECoXlUS7fIjkCrAfniS7"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
         }
       ],
-      "duration_ms": 457186,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
+      "duration_ms": 251640,
+      "name": "Miss Fine",
+      "url": "https://open.spotify.com/track/5BlMIbEVcF8JUJ49pRtYKQ"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -907,18 +907,18 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "The Argo, Verve And Impulse Big Band Studio Sessions",
-        "url": "https://open.spotify.com/album/55ECoXlUS7fIjkCrAfniS7"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
       "artists": [
         {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
         }
       ],
-      "duration_ms": 251640,
-      "name": "Miss Fine",
-      "url": "https://open.spotify.com/track/5BlMIbEVcF8JUJ49pRtYKQ"
+      "duration_ms": 457186,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Blues Caravan",
-        "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
-      },
-      "artists": [
-        {
-          "name": "Buddy Rich And His Sextet",
-          "url": "https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "BR Blues",
-      "url": "https://open.spotify.com/track/6xFQq4wY6YODELrMwB2npk"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "The Complete Verve Studio Sessions",
         "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 213133,
       "name": "Somebody Loves Me",
       "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Blues Caravan",
+        "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
+      },
+      "artists": [
+        {
+          "name": "Buddy Rich And His Sextet",
+          "url": "https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "BR Blues",
+      "url": "https://open.spotify.com/track/6xFQq4wY6YODELrMwB2npk"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Samba Para Dos",
-        "url": "https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM"
-      },
-      "artists": [
-        {
-          "name": "Lalo Schifrin",
-          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
-        },
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        }
-      ],
-      "duration_ms": 120813,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/00GTtlXO556jzueCinWmu9"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "Pleasures Of The Night",
         "url": "https://open.spotify.com/album/65jikqU2UvCqjLdI1y8baP"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 439866,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Samba Para Dos",
+        "url": "https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM"
+      },
+      "artists": [
+        {
+          "name": "Lalo Schifrin",
+          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 120813,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/00GTtlXO556jzueCinWmu9"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1413,6 +1413,22 @@
       "url": "https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Lonely One",
+        "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 280053,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Pocket City",
@@ -1443,22 +1459,6 @@
       "duration_ms": 397160,
       "name": "Conversation With A Baby",
       "url": "https://open.spotify.com/track/0cPMVEgQVpm6m4uinaydQE"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Lonely One",
-        "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 280053,
-      "name": "Willow Weep For Me",
-      "url": "https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
-        "url": "https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
-        }
-      ],
-      "duration_ms": 373800,
-      "name": "Bashin'",
-      "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "Birks Works: The Verve Big-Band Sessions",
         "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 175800,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
+        "url": "https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        }
+      ],
+      "duration_ms": 373800,
+      "name": "Bashin'",
+      "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Betty Carter Album",
-        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "You're A Sweetheart",
-      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "The Lonely One",
@@ -1635,26 +1619,18 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "The Complete Verve Singles",
-        "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
+        "name": "The Betty Carter Album",
+        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
       },
       "artists": [
         {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
-        },
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        },
-        {
-          "name": "Grady Tate",
-          "url": "https://open.spotify.com/artist/1T7xYP9ZRJytj25VAAdsB9"
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
         }
       ],
-      "duration_ms": 203653,
-      "name": "I'll Close My Eyes",
-      "url": "https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N"
+      "duration_ms": 237053,
+      "name": "You're A Sweetheart",
+      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1687,6 +1663,30 @@
       "duration_ms": 262706,
       "name": "Jazzery",
       "url": "https://open.spotify.com/track/6rqGgu0tHZUAngnMLkAOt7"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Complete Verve Singles",
+        "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        },
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        },
+        {
+          "name": "Grady Tate",
+          "url": "https://open.spotify.com/artist/1T7xYP9ZRJytj25VAAdsB9"
+        }
+      ],
+      "duration_ms": 203653,
+      "name": "I'll Close My Eyes",
+      "url": "https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N"
     },
     {
       "added_at": "2019-10-04 16:01:14",

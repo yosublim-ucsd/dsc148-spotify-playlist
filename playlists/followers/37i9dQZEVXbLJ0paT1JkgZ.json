@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 22655,
+  "2024-04-05": 22663,
   "date_first_scraped": "2024-01-30",
   "description": "Your weekly update of the most played tracks right now - Chile.",
   "name": "Top Songs - Chile",
@@ -627,6 +627,28 @@
     {
       "album": {
         "name": "Fashion Girl (Remix)",
+        "url": "https://open.spotify.com/album/59DS3dN2FAU5ZcxBi9AXiR"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191020,
+      "name": "Fashion Girl - Remix",
+      "url": "https://open.spotify.com/track/4VHKOThPROw1Qo1a43Am8S"
+    },
+    {
+      "album": {
+        "name": "Fashion Girl (Remix)",
         "url": "https://open.spotify.com/album/21sLFYA7VmVpCadRw7Z1sq"
       },
       "artists": [
@@ -641,7 +663,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 191020,
       "name": "Fashion Girl - Remix",
       "url": "https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP"

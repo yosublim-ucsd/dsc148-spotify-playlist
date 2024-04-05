@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 270456,
+  "num_followers": 270503,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjM2OTI3MDQ3ODZlMDU1ZTFjMzY1Y2QxOWU2MTFlYjlkOTM0NTc3",
+  "snapshot_id": "MCw0YzBlOGU0ZmU1ZjVhOWQ2NWYwNDkzMmNjOTEwNTQ3YjBhNGI2NDk0",
   "tracks": [
     {
       "added_at": "2024-03-22 14:09:16",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-03-22 14:09:16",
       "album": {
-        "name": "Calambre",
-        "url": "https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 240315,
-      "name": "BUENOS AIRES",
-      "url": "https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu"
-    },
-    {
-      "added_at": "2024-03-22 14:09:16",
-      "album": {
         "name": "Si T\u00fa La Quieres",
         "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 224761,
       "name": "Si T\u00fa La Quieres",
       "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
+    },
+    {
+      "added_at": "2024-03-22 14:09:16",
+      "album": {
+        "name": "Calambre",
+        "url": "https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 240315,
+      "name": "BUENOS AIRES",
+      "url": "https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu"
     },
     {
       "added_at": "2024-03-22 14:09:16",
@@ -1179,18 +1179,22 @@
     {
       "added_at": "2024-03-22 14:09:16",
       "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+        "name": "Indios y Vaqueros",
+        "url": "https://open.spotify.com/album/2t9PxUaBK9Jk2G9vPOaqy5"
       },
       "artists": [
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Sinsinati",
+          "url": "https://open.spotify.com/artist/2rGri7YZ2eiCS58zgvmlQb"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 214527,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
+      "duration_ms": 184000,
+      "name": "Indios y Vaqueros",
+      "url": "https://open.spotify.com/track/3u5GmyJP2MU3tEJgyiAG2T"
     },
     {
       "added_at": "2024-03-22 14:09:16",
@@ -1227,22 +1231,18 @@
     {
       "added_at": "2024-03-22 14:09:16",
       "album": {
-        "name": "Indios y Vaqueros",
-        "url": "https://open.spotify.com/album/2t9PxUaBK9Jk2G9vPOaqy5"
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
       "artists": [
         {
-          "name": "Sinsinati",
-          "url": "https://open.spotify.com/artist/2rGri7YZ2eiCS58zgvmlQb"
-        },
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Indios y Vaqueros",
-      "url": "https://open.spotify.com/track/3u5GmyJP2MU3tEJgyiAG2T"
+      "duration_ms": 214527,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
     },
     {
       "added_at": "2024-03-22 14:09:16",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-03-22 14:09:16",
       "album": {
-        "name": "BAIL\u00c9 CON MI EX",
-        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "BAIL\u00c9 CON MI EX",
-      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
-    },
-    {
-      "added_at": "2024-03-22 14:09:16",
-      "album": {
         "name": "T\u00fa Me Dejaste De Querer",
         "url": "https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 198499,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971"
+    },
+    {
+      "added_at": "2024-03-22 14:09:16",
+      "album": {
+        "name": "BAIL\u00c9 CON MI EX",
+        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
     },
     {
       "added_at": "2024-03-22 14:09:16",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2024-03-22 14:09:16",
       "album": {
-        "name": "ENCHASTRE",
-        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "AYER TE VI (feat. Zoe Gotusso)",
-      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
-    },
-    {
-      "added_at": "2024-03-22 14:09:16",
-      "album": {
         "name": "Tres",
         "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 188086,
       "name": "Imposible Amor",
       "url": "https://open.spotify.com/track/5zRusJsWuFeLu2sICWvVDF"
+    },
+    {
+      "added_at": "2024-03-22 14:09:16",
+      "album": {
+        "name": "ENCHASTRE",
+        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "AYER TE VI (feat. Zoe Gotusso)",
+      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
     },
     {
       "added_at": "2024-03-22 14:09:16",

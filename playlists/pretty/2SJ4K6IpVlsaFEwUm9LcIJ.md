@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 18,645 likes - 42 songs - 2 hr 11 min
+[margeaux](https://open.spotify.com/user/1220511975) - 18,870 likes - 45 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 40 | [Extended Stay](https://open.spotify.com/track/2McIIeblzOucJCdqKUCeZ7) | [African\-American Sound Recordings](https://open.spotify.com/artist/3tzzHTt8wbTTdfOcf8amgz) | [Tamika's Lodge](https://open.spotify.com/album/3hrGKo1YpKMkaTGHWkhLhj) | 1:46 |
 | 41 | [Hey, Hey Girl](https://open.spotify.com/track/0yKDswdkUhrD1FlI7OaXfe) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:15 |
 | 42 | [Choke Throat](https://open.spotify.com/track/77DKMP47yasQNFfz1dadNA) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Choke Throat](https://open.spotify.com/album/6RqQubyNGzX6lsNfeFaiVn) | 2:02 |
+| 43 | [Punk as Fuck](https://open.spotify.com/track/6FcGBRTiMQMAY7g6xquoxg) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 4:09 |
+| 44 | [The Kindness of Strangers](https://open.spotify.com/track/3oKX2xnyyWbkXFPWkL7ncF) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:26 |
+| 45 | [Signs](https://open.spotify.com/track/7epmAvoQHWEXQKkESieryn) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [Cardinal](https://open.spotify.com/album/5j2btF2YP9WdNBo7ZKPEtH) | 2:19 |
 
-Snapshot ID: `MjYxMiw3ZDE5NDk2MGU0NDRjNzJmMTZlZGIzNjQyZjA0NWRmZWM5MjcwNDYz`
+Snapshot ID: `MjYxNiw0MWNlNmE1MWQyNzQ2Yjk1YjE3MTVjZDMyNjNhZWFkMzY0NTc0NTcz`

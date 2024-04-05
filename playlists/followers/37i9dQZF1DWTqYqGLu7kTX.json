@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 464298,
+  "2024-04-05": 464547,
   "date_first_scraped": "2023-03-30",
   "description": "This is how we do it, This is our style.\nCover: Sidhu Moose Wala",
   "name": "Hip Te Hop",
@@ -935,7 +935,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 141176,
       "name": "Droptop",
       "url": "https://open.spotify.com/track/7AW4g4I9fPfUIyqtbsuAkM"
@@ -2053,6 +2053,24 @@
       "duration_ms": 218142,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK"
+    },
+    {
+      "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/6KRRQoVmR0BMZn90t4i0m4"
+      },
+      "artists": [
+        {
+          "name": "Sunny Malton",
+          "url": "https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155573,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/2aAM91sTMQ81KdwYLXPiwM"
     },
     {
       "album": {

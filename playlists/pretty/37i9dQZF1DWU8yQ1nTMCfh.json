@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Viniloversus",
-  "num_followers": 280689,
+  "num_followers": 280698,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjM5NTkxYTk4NDA1NGRhOGM3ZDBiNDAwZmUwZWU5OGIzNTI2MDcx",
+  "snapshot_id": "MCw4NWIwMDU4OWUxYWY1OTVmOGQ3YWU3NDhjODJjYjUxMDQzOTYwOGMy",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Noviembre",
-        "url": "https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Noviembre",
-      "url": "https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "PORTARSE MAL",
         "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 192126,
       "name": "PORTARSE MAL",
       "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Noviembre",
+        "url": "https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Noviembre",
+      "url": "https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Escombros",
+        "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "Todo Se Detiene Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Una sensaci\u00f3n",
         "url": "https://open.spotify.com/album/0znxwDMFXNgcBtqBABfryR"
       },
@@ -1003,34 +1019,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Escombros",
-        "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
       },
       "artists": [
         {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 228880,
-      "name": "Todo Se Detiene Aqu\u00ed",
-      "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "San Saltar\u00edn",
-        "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 258765,
-      "name": "San Saltar\u00edn",
-      "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
+      "duration_ms": 150773,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+        "name": "San Saltar\u00edn",
+        "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 150773,
-      "name": "Algo Bien",
-      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
+      "duration_ms": 258765,
+      "name": "San Saltar\u00edn",
+      "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Ocho",
+        "url": "https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP"
+      },
+      "artists": [
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Toda Mi Fe",
+      "url": "https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Su\u00e9ltate el pelo",
         "url": "https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 171904,
       "name": "Su\u00e9ltate el pelo",
       "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Ocho",
-        "url": "https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP"
-      },
-      "artists": [
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Toda Mi Fe",
-      "url": "https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ"
     },
     {
       "added_at": "2024-03-15 04:00:00",

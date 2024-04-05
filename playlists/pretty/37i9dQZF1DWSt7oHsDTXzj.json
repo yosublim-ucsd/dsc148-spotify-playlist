@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 181717,
+  "num_followers": 181703,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTIxZjc1MDE4MDg4MWUxYjQ4MjUzNzIyM2NhMjA2YmM1OWY0OTJi",
+  "snapshot_id": "MCxjMTk5NDI1NjMzNjdkODBkNTI3Njc2ZDI5ZDY2NzBkN2VmODA3YjBh",
   "tracks": [
     {
       "added_at": "2023-10-16 19:34:42",
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 260786,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
+      "duration_ms": 198026,
+      "name": "That Was the Worst Christmas Ever!",
+      "url": "https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -892,25 +892,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 198026,
-      "name": "That Was the Worst Christmas Ever!",
-      "url": "https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Christmas Caller",
-        "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 135020,
-      "name": "Christmas Caller",
-      "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
+      "duration_ms": 260786,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -927,6 +911,22 @@
       "duration_ms": 257842,
       "name": "Walking in the Air",
       "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Christmas Caller",
+        "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 135020,
+      "name": "Christmas Caller",
+      "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Christmas Special",
-        "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Christmas Special",
-      "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "baby jesus is nobody\u2019s baby now",
         "url": "https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 215065,
       "name": "baby jesus is nobody\u2019s baby now",
       "url": "https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Christmas Special",
+        "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Christmas Special",
+      "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1105,6 +1105,22 @@
       "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
     },
     {
+      "added_at": "2023-12-08 17:43:39",
+      "album": {
+        "name": "December '04",
+        "url": "https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY"
+      },
+      "artists": [
+        {
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "duration_ms": 206798,
+      "name": "December '04",
+      "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
+    },
+    {
       "added_at": "2023-10-16 19:34:42",
       "album": {
         "name": "Alone on Christmas Day",
@@ -1137,20 +1153,24 @@
       "url": "https://open.spotify.com/track/4ZkkqhQl0KQzvvNfuhznAm"
     },
     {
-      "added_at": "2023-12-08 17:43:39",
+      "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "December '04",
-        "url": "https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY"
+        "name": "till christmas day",
+        "url": "https://open.spotify.com/album/5Rs8yhcgqXAZmzWpM4e7nO"
       },
       "artists": [
         {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+          "name": "Forrest.",
+          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 206798,
-      "name": "December '04",
-      "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
+      "duration_ms": 169235,
+      "name": "till christmas day",
+      "url": "https://open.spotify.com/track/07uIDRgLGpRG4ro77Chm5p"
     },
     {
       "added_at": "2023-12-08 17:43:39",
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "till christmas day",
-        "url": "https://open.spotify.com/album/5Rs8yhcgqXAZmzWpM4e7nO"
-      },
-      "artists": [
-        {
-          "name": "Forrest.",
-          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 169235,
-      "name": "till christmas day",
-      "url": "https://open.spotify.com/track/07uIDRgLGpRG4ro77Chm5p"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "We Should Be Together",
         "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 211946,
       "name": "We Should Be Together",
       "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
+    },
+    {
+      "added_at": "2024-01-03 20:06:55",
+      "album": {
+        "name": "Snowing In LA",
+        "url": "https://open.spotify.com/album/0bAnJbVxDC5DMCSCyf4SOV"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Snowing In LA",
+      "url": "https://open.spotify.com/track/3I6TZhBLFUVLWl1vM4I0t6"
     },
     {
       "added_at": "2023-12-08 17:43:39",
@@ -1233,36 +1249,20 @@
       "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
     },
     {
-      "added_at": "2024-01-03 20:06:55",
-      "album": {
-        "name": "Snowing In LA",
-        "url": "https://open.spotify.com/album/0bAnJbVxDC5DMCSCyf4SOV"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Snowing In LA",
-      "url": "https://open.spotify.com/track/3I6TZhBLFUVLWl1vM4I0t6"
-    },
-    {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Here We Come A-Caroling",
-        "url": "https://open.spotify.com/album/4nnBzX1vhCQpHqw1AbFU27"
+        "name": "Creatures of an Hour",
+        "url": "https://open.spotify.com/album/7jD6Vz4DvhpjJ6x16oWv1y"
       },
       "artists": [
         {
-          "name": "Pomplamoose",
-          "url": "https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c"
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
         }
       ],
-      "duration_ms": 167837,
-      "name": "Here We Come A-Caroling",
-      "url": "https://open.spotify.com/track/3iaFIr7VSe1bp0M2wVFdE6"
+      "duration_ms": 171293,
+      "name": "The White Season",
+      "url": "https://open.spotify.com/track/4xyJEjyU84bFQXmrYN3hGc"
     }
   ],
   "unique_name": "Indie Christmas",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 
 > Check out these hip\-hop classics that are great for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,483 likes - 40 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,540 likes - 40 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 | 32 | [It's a Shame \(My Sister\)](https://open.spotify.com/track/6ir6C7AHGMVLGQN7hv7gTA) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu), [True Image](https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj) | [Down to Earth](https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT) | 3:42 |
 | 33 | [The Breaks](https://open.spotify.com/track/5TvcggVu3s2P1fMAS8BupX) | [Kurtis Blow](https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9) | [Kurtis Blow](https://open.spotify.com/album/1ZcUKK3nnmuYVGEUBxXSXt) | 7:43 |
 | 34 | [Slow Jamz](https://open.spotify.com/track/6lxyoqQJXYpUXM3hc46zX4) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [The College Dropout](https://open.spotify.com/album/3lQePoIm6iNQIiZkCYxCy0) | 5:16 |
-| 35 | [I Go To Work](https://open.spotify.com/track/6tGtBvK6DezcjbtUxXGyxe) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [Knowledge Is King](https://open.spotify.com/album/31WVLciVB5ffpco1dZ9vHz) | 4:42 |
+| 35 | [I Can't Live Without My Radio](https://open.spotify.com/track/2qfTGzETefwtBWKDThZjnU) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 5:27 |
 | 36 | [Rock Box](https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 5:30 |
-| 37 | [I Can't Live Without My Radio](https://open.spotify.com/track/2qfTGzETefwtBWKDThZjnU) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 5:27 |
+| 37 | [I Go To Work](https://open.spotify.com/track/6tGtBvK6DezcjbtUxXGyxe) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [Knowledge Is King](https://open.spotify.com/album/31WVLciVB5ffpco1dZ9vHz) | 4:42 |
 | 38 | [We Got Our Own Thang](https://open.spotify.com/track/0yndiszlOMgxOu3y2vKZvB) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3) | [Big Tyme](https://open.spotify.com/album/2RDUJixbxpkSdNdDLR4LL8) | 3:52 |
 | 39 | [Nuthin’ But A "G" Thang](https://open.spotify.com/track/2eBjbrAXdb5WETSm6RNZ6X) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Very Best of Death Row](https://open.spotify.com/album/1lqD5GnInmcLPiRMfRVS22) | 3:58 |
 | 40 | [Rock Dis Funky Joint](https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK) | [Poor Righteous Teachers](https://open.spotify.com/artist/1j6sK1bUYK36UNfLjdOfFy) | [Holy Intellect \(Expanded Edition\)](https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm) | 5:11 |
 
-Snapshot ID: `MCwxMTQzYTljZTk3OGM0ZjU5MDYyZjUyYjE3YzAzZDIxMmU2Yjg4ZWY3`
+Snapshot ID: `MCw4NjFiMmFhNjk1Yzk1ODQxNGQ1YmJlYjljYjU1YmVkY2M3OGRmYzMz`

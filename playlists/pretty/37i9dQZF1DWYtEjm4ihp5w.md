@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Stormy
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,810 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,853 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 15 | [3ADI JIDAN](https://open.spotify.com/track/2wNNXprT139bOoaBGmc12V) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:52 |
 | 16 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 |
 | 17 | [LILA](https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LILA](https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx) | 2:44 |
-| 18 | [SULTAN](https://open.spotify.com/track/7AghOMSZrtR7DkfWxLuRDs) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:24 |
-| 19 | [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 |
+| 18 | [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 |
+| 19 | [SULTAN](https://open.spotify.com/track/7AghOMSZrtR7DkfWxLuRDs) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:24 |
 | 20 | [SWEETCHY](https://open.spotify.com/track/0c3oj5HJnYj2bbMEoabmiY) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:31 |
 | 21 | [Lyam](https://open.spotify.com/track/2k46XpoEmXFj8s0TAcb1Bh) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Metamorphose](https://open.spotify.com/album/36tEw2LCtzCcHT4ATz7fy6) | 3:36 |
 | 22 | [TODO BENÉ \- Spotify Singles](https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [TODO BENÉ \(Spotify Singles\)](https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [VISA](https://open.spotify.com/track/4oajGi0Wd33IL0LzjiU6Si) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc) | [VISA](https://open.spotify.com/album/3wxWPfLUzoFHLOTaMadDly) | 2:04 |
 | 50 | [Cabeza](https://open.spotify.com/track/6HncaaVulbe96New1KaT6C) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [Cabeza](https://open.spotify.com/album/1bZcXMltsvN7OaGVdXqPZO) | 2:48 |
 
-Snapshot ID: `MCxjYTNjNmUzOTA2MGM5YzA5MzM3OWQ2M2UwYzg2OGM0NGZiOTUzN2Ux`
+Snapshot ID: `MCxkNzg5NjZiZmU0YWE2ZTYwYzQwN2NlNDY1ZmFmMmQzZTBiODlkNmQ4`

@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Warda
+> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
 
-163 songs - 12 hr 36 min
+164 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [MILIK ORANG](https://open.spotify.com/track/4eV2IIMNfS8SO5nvmsMZ37) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [MILIK ORANG](https://open.spotify.com/album/42JxMwHI7LXX9a6q8gNV1O) | 4:34 | 2021-08-23 | 2022-07-29 |
 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 | 2021-08-23 | 2023-11-04 |
 | [Nabi Al\-Rahma](https://open.spotify.com/track/5WTrVpfTtTWbf6qTSK66uz) | [Cici Faramida](https://open.spotify.com/artist/0v8CnbaMT0JN6DHYkGLvee), [Siti Rahmawati](https://open.spotify.com/artist/1BJ8zCKlrCsxehDeKUABgi) | [Nabi Al\-Rahma](https://open.spotify.com/album/1D6VkBs8TSfpZr6t0MjE8c) | 4:10 | 2023-03-02 | 2023-07-14 |
+| [Nakal](https://open.spotify.com/track/3dUoIME5qIXtiYExd2934T) | [Trio Macan](https://open.spotify.com/artist/2AGgCwZcIbShC78asA0loE) | [Nakal](https://open.spotify.com/album/2jPHAgghQUcDta7JEhWerl) | 4:00 | 2024-04-04 |  |
 | [Nostalgia](https://open.spotify.com/track/31JvGZJBhZWUijQvLBqwCG) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Nostalgia](https://open.spotify.com/album/5I3UANRadKoF3ZuXXwjFD0) | 4:19 | 2023-01-26 | 2023-09-15 |
 | [Ojo Dibandingke](https://open.spotify.com/track/2BIQGFkSLWl0SPRxaPR48Z) | [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Ojo Dibandingke](https://open.spotify.com/album/1R0NoljKSKaY6Pc025aRam) | 5:18 | 2022-10-13 |  |
 | [Ojo Dumeh](https://open.spotify.com/track/5ZXe46rT8IRuuVsKlTPrtt) | [Ligea](https://open.spotify.com/artist/7hLgy5SoxWG2nYanRBiouX) | [Ojo Dumeh](https://open.spotify.com/album/0rEJIDYgNL6j5u7Or3omIC) | 3:31 | 2024-02-02 |  |
@@ -153,7 +154,7 @@
 | [Tak Punya Hati](https://open.spotify.com/track/5GDPHPrTe5NwtQKKZASCT5) | [Cut Rani Auliza](https://open.spotify.com/artist/56MsGGbdOtGbcSoOKc5N7V) | [Tak Punya Hati](https://open.spotify.com/album/1s4YQT0dv9lhPJWjd3hA3s) | 5:46 | 2023-11-03 |  |
 | [Tanya Hatimu](https://open.spotify.com/track/22mwaQkDEwU2W1y99VazbD) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Tanya Hatimu](https://open.spotify.com/album/1gAg60OyhZl1W7VjmfjrXL) | 4:30 | 2023-10-12 |  |
 | [Tatu](https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/2u8kGA8Duva5Dxruf7NyxH) | 4:46 | 2021-08-23 | 2023-02-05 |
-| [Tatu](https://open.spotify.com/track/55XnOFlzoXBcx1Ov0UvzeL) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/45mzuK7vN3XolfmyyEoOh3) | 4:54 | 2023-02-02 |  |
+| [Tatu](https://open.spotify.com/track/55XnOFlzoXBcx1Ov0UvzeL) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/45mzuK7vN3XolfmyyEoOh3) | 4:54 | 2023-02-02 | 2024-04-05 |
 | [Teman Rasa Pacar](https://open.spotify.com/track/5YKKjMpfYK8cJTjgZGR7uo) | [Lyia](https://open.spotify.com/artist/2w8C6RExCnRBZJfxHZFKhV) | [Teman Rasa Pacar](https://open.spotify.com/album/3UTEm6Sl8r3dDiNFmZmDNq) | 3:50 | 2023-11-30 |  |
 | [Terbuai Asmara](https://open.spotify.com/track/6OvS9FpU0AhP5Z1TdTuo8J) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Terbuai Asmara](https://open.spotify.com/album/22PIY9l1gFVrTIiTp3h5L9) | 4:52 | 2024-02-22 |  |
 | [Terbuai Cinta Palsu \- Live Ska Reggae](https://open.spotify.com/track/3zb04SuRpCGf9U45hcaDdZ) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Terbuai Cinta Palsu \(Live Ska Reggae\)](https://open.spotify.com/album/0WznoxDQEe7I64PQTKsswJ) | 4:58 | 2023-02-02 | 2023-11-04 |

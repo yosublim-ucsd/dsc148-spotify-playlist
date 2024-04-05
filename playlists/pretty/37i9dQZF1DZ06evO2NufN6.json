@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 859791,
+  "num_followers": 859989,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzJjNTcxNjc0NmQ2YjQxMGNiMGFhMDI0YTIzOGViNjY5N2M4ZjFj",
+  "snapshot_id": "MCw5NDlmODg1YjM2OTdkODc1MDJkOTk5YTZlNDBkMWI1N2U5MjE0NDcy",
   "tracks": [
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buttons",
-        "url": "https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp"
+        "name": "Watching Movies with the Sound Off",
+        "url": "https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 228440,
-      "name": "Buttons",
-      "url": "https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp"
+      "duration_ms": 259143,
+      "name": "Objects in the Mirror",
+      "url": "https://open.spotify.com/track/4O0xktTx6zrClJ7OPzMpDT"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watching Movies with the Sound Off",
-        "url": "https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS"
+        "name": "Buttons",
+        "url": "https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 259143,
-      "name": "Objects in the Mirror",
-      "url": "https://open.spotify.com/track/4O0xktTx6zrClJ7OPzMpDT"
+      "duration_ms": 228440,
+      "name": "Buttons",
+      "url": "https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Camila Cabello
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,304 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,357 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 34 | [Non Believer](https://open.spotify.com/track/3FRYmCRHCavq3Y6aCj11Px) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Non Believer](https://open.spotify.com/album/4lQxLqMHEEFXlhcnZKEjcF) | 3:27 |
 | 35 | [AMAMA](https://open.spotify.com/track/6rI8nhxfPes1TpaxOKQj0D) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/5FqxuOKOkFjjkawp7bf4NA) | 3:10 |
 | 36 | [Digital slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [GAMMA](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
-| 37 | [I Don't Have The Heart](https://open.spotify.com/track/14SnMMqIl8K3JMdZTXSIUb) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Flicker + I Don’t Have The Heart](https://open.spotify.com/album/3WGNUmtTsMR3sDWRJaCkyp) | 3:38 |
+| 37 | [I Don't Have The Heart](https://open.spotify.com/track/14SnMMqIl8K3JMdZTXSIUb) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Flicker + I Don’t Have The Heart](https://open.spotify.com/album/3WGNUmtTsMR3sDWRJaCkyp) | 3:37 |
 | 38 | [Superficial](https://open.spotify.com/track/1inzz3waRDnnVF9p8eXisd) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Superficial](https://open.spotify.com/album/1lkeQCH9WokW8GQDJ6guea) | 2:44 |
 | 39 | [last dance](https://open.spotify.com/track/0vwA6PxCt8Bs0Ltl9ZTbVU) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [SECRET LETTERS](https://open.spotify.com/album/18tFENio227dGEi85FL6Ko) | 2:07 |
 | 40 | [20 something](https://open.spotify.com/track/3xpuHGQZMXiR8j9aCIOO8C) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [20 something](https://open.spotify.com/album/5xoHpRnnxIH33pFgPXtYTf) | 2:40 |
 
-Snapshot ID: `MCwwYWUwN2M5NzdiM2M1MDc3M2VkN2NhYWEyOWYwMDY3OTMxZTY5ZGI3`
+Snapshot ID: `MCxiNWJhY2E1ZmIzODA0NWFhMGQ2OGYzNzc1MWJhMDNkMGRlZmQ1YWVj`

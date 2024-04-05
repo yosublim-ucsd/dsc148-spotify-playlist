@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126648,
+  "num_followers": 126649,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDY0MSw3M2I3MTA0Nzk5YTUyZThmN2U0Nzc0YjAxYjkzNTdmMDZlNWY0OGE2",
+  "snapshot_id": "NDY0MywzY2U4MTFkMmViODZlZjBkMzg5YWM0NmZjM2E2M2RkZmQyY2NhNjQz",
   "tracks": [
+    {
+      "added_at": "2024-04-04 17:09:02",
+      "album": {
+        "name": "Nothin On You",
+        "url": "https://open.spotify.com/album/1Nu4WHbLLaD6jbvV4G2BSs"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        },
+        {
+          "name": "Haris",
+          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
+        }
+      ],
+      "duration_ms": 183375,
+      "name": "Nothin On You",
+      "url": "https://open.spotify.com/track/1yhjOPo2WSZHL32MrTxk4B"
+    },
     {
       "added_at": "2024-04-03 17:12:56",
       "album": {
@@ -1143,26 +1163,6 @@
       "duration_ms": 193170,
       "name": "Sun",
       "url": "https://open.spotify.com/track/0Oa3fJvhtLXc6RGkcRVHVT"
-    },
-    {
-      "added_at": "2024-01-15 19:42:32",
-      "album": {
-        "name": "The Epic Octopus Song",
-        "url": "https://open.spotify.com/album/3VsNiMSWEAc2QkhJjigBSf"
-      },
-      "artists": [
-        {
-          "name": "Skybreak",
-          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
-        },
-        {
-          "name": "Dani Demand",
-          "url": "https://open.spotify.com/artist/4AUz9m5EecusjVSBw0FylH"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "The Epic Octopus Song",
-      "url": "https://open.spotify.com/track/5l3InJmd0xxUvyj1eBb1d1"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

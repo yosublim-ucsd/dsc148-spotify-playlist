@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: LE SSERAFIM\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-667 songs - 1 day 12 hr 19 min
+668 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [Serious](https://open.spotify.com/track/59RTmOmr6G0Ly0MIJqKn1f) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [HOT&COLD](https://open.spotify.com/album/58ExAS9X4jUAtZLBGoBfOJ) | 3:14 | 2022-03-24 | 2022-04-17 |
 | [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-27 |  |
 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-08-16 |  |
+| [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 | 2024-04-04 |  |
 | [Show Your Love](https://open.spotify.com/track/1VG2YcjPA6XQtiJOoCx9zu) | [BTOB 4U](https://open.spotify.com/artist/29txRD4cY4geQXKUZvmseW) | [INSIDE](https://open.spotify.com/album/4hqp6ROKgjybbv6zsDkcwb) | 3:11 | 2022-03-31 | 2022-04-15 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 | 2023-09-16 |
 | [Side Effect \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/4bEQRIAxd6pRg4t32yzdge) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 2:56 | 2022-04-05 | 2022-04-14 |

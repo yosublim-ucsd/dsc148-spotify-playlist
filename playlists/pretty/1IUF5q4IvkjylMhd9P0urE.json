@@ -1,13 +1,29 @@
 {
   "description": "Our favourite new music, updated monthly by the XL team. ",
-  "num_followers": 15663,
+  "num_followers": 15666,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "NjI2OCw3YTE4M2YwMzRmOTExOWExNDFhOTZlZDY3MjkyZDBlMDZlZGZjMzUy",
+  "snapshot_id": "NjI3MCxlMjZlNzAxY2Q1OGRmMzg0OTFhZjkxMTkzMTM0NzA5NjVhOGI4YzEx",
   "tracks": [
+    {
+      "added_at": "2024-04-04 12:41:43",
+      "album": {
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 190644,
+      "name": "1+1=11 - Edit",
+      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
+    },
     {
       "added_at": "2024-03-28 13:18:42",
       "album": {

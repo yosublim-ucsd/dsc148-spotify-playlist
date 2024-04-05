@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Future & Metro Boomin, Moneybagg Yo and A Boogie Wit da Hoodie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,899 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,911 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 74 | [LiGhT rAiLs \*ੈ✩‧₊˚](https://open.spotify.com/track/2CKjPJ59ihAjVro074hFmW) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [LiGhT rAiLs \*ੈ✩‧₊˚](https://open.spotify.com/album/0Sl4hjNHwOrVq6rnexErGu) | 2:25 |
 | 75 | [Go To Hell](https://open.spotify.com/track/2Yd5D02hVICrlpMvd4JOqc) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Go To Hell](https://open.spotify.com/album/0lVsaUVTURhkRAOEv6hwhI) | 3:39 |
 
-Snapshot ID: `MCw1YzlmMWI2NDI2ZWZjZDBjMmQ5M2ViZGZjMmE0NWYwZGE0N2Q3MjNk`
+Snapshot ID: `MCwxNjI2MjFkM2I2M2VjOTg3NWU1MjU5MDY5NWFlYjc1OTEzM2Y1ZDBh`

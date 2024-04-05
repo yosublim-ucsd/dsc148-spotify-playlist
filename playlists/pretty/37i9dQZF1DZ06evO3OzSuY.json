@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 23599,
+  "num_followers": 23604,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjEzMzkxYWFhZDRhM2ZlYzhkYjkzMjgxMTQyOTY1MDcwZmQxMTI5",
+  "snapshot_id": "MCxmZGVlYWMzZTgzMDIwZmYxNTc2YTIyYjlmMDExYjU4OWE0YjAyMzRm",
   "tracks": [
     {
       "added_at": null,
@@ -119,38 +119,6 @@
       "duration_ms": 187943,
       "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
       "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
-      },
-      "artists": [
-        {
-          "name": "Hugh Jackman",
-          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
-        },
-        {
-          "name": "Keala Settle",
-          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
-        },
-        {
-          "name": "Daniel Everidge",
-          "url": "https://open.spotify.com/artist/2Rimf9z3oYDBeszSXFACRR"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "The Greatest Showman Ensemble",
-          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/5xNUR50KxswPRAvx7S163g"
     },
     {
       "added_at": null,
@@ -535,22 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake It Up: Made in Japan",
-        "url": "https://open.spotify.com/album/5DIqbh258UC1oG6Lgerrv4"
+        "name": "Piano Acoustic Covers Vol 1",
+        "url": "https://open.spotify.com/album/4qHAgErNddHMr88Uc30hSb"
       },
       "artists": [
         {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+          "name": "Kurt Hugo Schneider",
+          "url": "https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm"
         },
         {
-          "name": "Bella Thorne",
-          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 214973,
-      "name": "The Same Heart",
-      "url": "https://open.spotify.com/track/4wPNMGse5Ra97qPDK0NRlW"
+      "duration_ms": 233375,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/1r5f90h75wkkd0eQYMWiqL"
     },
     {
       "added_at": null,
@@ -587,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shake It Up: Made in Japan",
+        "url": "https://open.spotify.com/album/5DIqbh258UC1oG6Lgerrv4"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "Bella Thorne",
+          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "The Same Heart",
+      "url": "https://open.spotify.com/track/4wPNMGse5Ra97qPDK0NRlW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dig Down Deeper (From the film \"Pixie Hollow Games'')",
         "url": "https://open.spotify.com/album/52l8ah8G648dsKnBMRRYr9"
       },
@@ -599,26 +587,6 @@
       "duration_ms": 181506,
       "name": "Dig Down Deeper",
       "url": "https://open.spotify.com/track/67sdRAA6JzTA0pJxLzNR5g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Silver Soul",
-        "url": "https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 268973,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH"
     },
     {
       "added_at": null,
@@ -639,6 +607,26 @@
       "duration_ms": 187813,
       "name": "This is My Dance Floor",
       "url": "https://open.spotify.com/track/6A4t0Qss5Azkt2D7n0XbFJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silver Soul",
+        "url": "https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 268973,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH"
     },
     {
       "added_at": null,

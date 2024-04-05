@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Future & Metro Boomin
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,645 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,668 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 59 | [100 MILLION \(feat\. Tiwa Savage\)](https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [100 MILLION](https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju) | 2:16 |
 | 60 | [Konongo Zongo](https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:41 |
 
-Snapshot ID: `MCw4NjFjNjJhNjc5OGJmNjFmNmNiM2M0YzExZDViMzYyYjU3ZjAyNzU5`
+Snapshot ID: `MCwzNTEzY2ZmNGY4NDUxN2EzNTMzNGFiN2U5MWZlMjQwODE2NzM5ODk4`

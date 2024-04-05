@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > A Spotify program to promote exciting artists! RADAR BNLX: <a href="spotify:artist:1M6DAgCuvRE1Ct0Tsq74Lb">The Indien</a> \(cover\), Roxy Dekker, Kids With Buns en Siggy & D1ns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,433 likes - 33 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,437 likes - 33 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [How Many Nights](https://open.spotify.com/track/0Nj0v1zGvDLgvhjLLzMzom) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [How Many Nights](https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9) | 3:20 |
-| 2 | [16](https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:01 |
+| 2 | [Sugardaddy](https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Sugardaddy](https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf) | 2:11 |
 | 3 | [Laatste Trein](https://open.spotify.com/track/0unjn7rOpEnCvpaviiXYxc) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Laatste Trein](https://open.spotify.com/album/3jeLXcKNuJuYeKKb43TnEG) | 2:48 |
-| 4 | [Wil Je Dat Ik Blijf](https://open.spotify.com/track/1OHmMT2JfYPqKJs6NAq8PY) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Wil Je Dat Ik Blijf](https://open.spotify.com/album/7l16ZGPtMRoVMwAJPxFI1o) | 2:58 |
-| 5 | [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 |
-| 6 | [Motown Philly](https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Motown Philly](https://open.spotify.com/album/2Rb5KdeDt7P1WASorfVR46) | 2:38 |
-| 7 | [Monster](https://open.spotify.com/track/6w67kek3AnRI83HMnDWxpB) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/3m9wXZj0Je2axtnF0fXNYy) | 2:54 |
-| 8 | [stubborn mind](https://open.spotify.com/track/7CCG7aIeTh3HRHfjz3SxQR) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [out of place](https://open.spotify.com/album/3v5oBoElWXugqDj7gCd1eO) | 3:00 |
-| 9 | [how bad could it be](https://open.spotify.com/track/5R85xX9Vl6GAvNkaCIDARF) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [how bad could it be](https://open.spotify.com/album/5IerYtedPaWMjgMNb4qdpM) | 3:08 |
-| 10 | [clutter](https://open.spotify.com/track/7aqLykWVESt4fuwX05tzmE) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [clutter](https://open.spotify.com/album/4YCV5lQcuCZGVaJUqm6Uk6) | 2:47 |
+| 4 | [16](https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:01 |
+| 5 | [Wil Je Dat Ik Blijf](https://open.spotify.com/track/1OHmMT2JfYPqKJs6NAq8PY) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Wil Je Dat Ik Blijf](https://open.spotify.com/album/7l16ZGPtMRoVMwAJPxFI1o) | 2:58 |
+| 6 | [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 |
+| 7 | [Motown Philly](https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Motown Philly](https://open.spotify.com/album/2Rb5KdeDt7P1WASorfVR46) | 2:38 |
+| 8 | [Monster](https://open.spotify.com/track/6w67kek3AnRI83HMnDWxpB) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/3m9wXZj0Je2axtnF0fXNYy) | 2:54 |
+| 9 | [stubborn mind](https://open.spotify.com/track/7CCG7aIeTh3HRHfjz3SxQR) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [out of place](https://open.spotify.com/album/3v5oBoElWXugqDj7gCd1eO) | 3:00 |
+| 10 | [how bad could it be](https://open.spotify.com/track/5R85xX9Vl6GAvNkaCIDARF) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [how bad could it be](https://open.spotify.com/album/5IerYtedPaWMjgMNb4qdpM) | 3:08 |
 | 11 | [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 |
 | 12 | [ChouChou](https://open.spotify.com/track/4CPWhSxDp6N4p8YWj43mpy) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [ChouChou](https://open.spotify.com/album/1RGI0NzcvbOEAvkuHqVXv6) | 2:03 |
 | 13 | [180](https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [180](https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj) | 3:31 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 32 | [Grow](https://open.spotify.com/track/2VkQOOtMhEkd2KF2AAGVKD) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Grow](https://open.spotify.com/album/7n1mEyOkjx2HUeW43vBRMH) | 2:59 |
 | 33 | [mind games](https://open.spotify.com/track/4UpvfveHlxiH4QQuf8V7Wj) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [mind games](https://open.spotify.com/album/5Dx5DV0R1o7rugHiZaur0X) | 3:30 |
 
-Snapshot ID: `MCw3NTdkNGYxNDZkZDIxZDhkYzdiN2VkMDFiYzMwOWMyOWRmMmNhYzRh`
+Snapshot ID: `MCw0OTk0NjU0NTU1MWJmOTYxMzQzN2Y2OGRjZTYwN2VmOTBkY2Y3Njc0`

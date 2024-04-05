@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Caleb Hearn
 
-1,597 songs - 3 day 12 hr 1 min
+1,599 songs - 3 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -974,7 +974,7 @@
 | [Movie](https://open.spotify.com/track/2XY8SEXGvex4UzC8tL3UMH) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Movie](https://open.spotify.com/album/7fZoiNqVuJsXFth6SvvBYZ) | 4:07 | 2021-09-11 | 2021-10-23 |
 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 | 2022-03-04 | 2022-09-24 |
 | [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 | 2022-05-13 | 2022-08-27 |
-| [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 4:03 | 2024-03-08 |  |
+| [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 3:59 | 2024-03-08 |  |
 | [Muscle Memory](https://open.spotify.com/track/4Us0e0GX2jMpoLxIMXMvAX) | [Rajiv Dhall](https://open.spotify.com/artist/5vZ5k7ySgoaLpLdZB98nfo) | [Muscle Memory](https://open.spotify.com/album/08kn3LxvdNMVWfpxUPNqMj) | 2:28 | 2021-04-30 | 2021-05-29 |
 | [MUST BE NICE](https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [MUST BE NICE](https://open.spotify.com/album/3Pb9pa9lDVmmxdP8nvKP7c) | 2:55 | 2023-01-27 | 2023-04-15 |
 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 | 2022-03-18 | 2022-04-09 |
@@ -1329,7 +1329,8 @@
 | [Stupid Face](https://open.spotify.com/track/0SwwojruOothk9wxUNCPC6) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Stupid Face](https://open.spotify.com/album/4WLA6i7vWZhj1SzxHmupRg) | 2:47 | 2021-12-04 | 2022-02-26 |
 | [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 | 2023-03-03 | 2023-05-27 |
 | [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 | 2022-04-08 | 2022-11-26 |
-| [Sunday](https://open.spotify.com/track/7xxmW8ieHp9YnACGc0PfNz) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sunday](https://open.spotify.com/album/34Pax5tBAPlhxGXfmfypNO) | 2:58 | 2023-10-20 |  |
+| [Sunday](https://open.spotify.com/track/04zdjWewHa4UZ8ZePm5QSK) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/5mjWgYQYxutEyJEKe3Fmqx) | 2:58 | 2023-12-01 |  |
+| [Sunday](https://open.spotify.com/track/7xxmW8ieHp9YnACGc0PfNz) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sunday](https://open.spotify.com/album/34Pax5tBAPlhxGXfmfypNO) | 2:58 | 2023-10-20 | 2024-04-05 |
 | [Sunday Crossword](https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Sunday Crossword](https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR) | 3:04 | 2022-08-19 | 2022-11-18 |
 | [SunKissing](https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [SunKissing](https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A) | 2:57 | 2023-03-24 | 2023-05-27 |
 | [sunny day](https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [summer camp](https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi) | 2:52 | 2023-05-19 | 2023-08-19 |
@@ -1454,7 +1455,8 @@
 | [Turbulence](https://open.spotify.com/track/2Xc7OQIxS4Hn9p0DnLpUb2) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Turbulence](https://open.spotify.com/album/2A6b9NvbSmfPVDm6iEbCbJ) | 2:52 | 2022-03-18 | 2022-05-07 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 | 2022-12-10 |
 | [twentyfive](https://open.spotify.com/track/0z1DE4g9ft8ZvSpyCenVUJ) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [twentyfive](https://open.spotify.com/album/3LHTfz6HqBEAEo0w2objGl) | 2:54 | 2021-02-06 | 2021-02-26 |
-| [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-17 |  |
+| [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-17 | 2024-04-05 |
+| [Two Hearts](https://open.spotify.com/track/6NwseBBU7N5ng39DvnSAdA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 4:06 | 2023-12-01 |  |
 | [Two Places at Once](https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Two Places at Once \(Part I\)](https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v) | 3:19 | 2022-09-02 | 2022-12-31 |
 | [Two Weeks Ago](https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Two Weeks Ago](https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF) | 2:59 | 2023-05-26 | 2023-07-29 |
 | [u love u \(feat\. JVKE\)](https://open.spotify.com/track/1Wu5ERJDVhEUDKSim34CnP) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [u love u \(feat\. JVKE\)](https://open.spotify.com/album/6tqmxYtdp7MZS9hcqoA5AM) | 2:03 | 2022-04-29 | 2022-11-05 |

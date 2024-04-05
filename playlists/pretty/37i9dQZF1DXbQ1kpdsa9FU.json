@@ -1,12 +1,12 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always.",
-  "num_followers": 604450,
+  "num_followers": 604531,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGUwMjMxOGViYzk3NGExYTljMDMzOTNhYzBkNmRjZjczOTAyNTdi",
+  "snapshot_id": "MCw0ZmIzNzlhYmYwMDA3YmMwZjRjMDBiYzdmMzk1NDJjNjk3NDUzODhj",
   "tracks": [
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "Keep Me In The Moment (Radio Version)",
+        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 207432,
+      "name": "Keep Me In The Moment - Radio Version",
+      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Passion: Let The Future Begin",
         "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 339493,
       "name": "In Christ Alone - Live",
       "url": "https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Keep Me In The Moment (Radio Version)",
-        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 207432,
-      "name": "Keep Me In The Moment - Radio Version",
-      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1287,8 +1287,8 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "I Will Follow",
-        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
+        "name": "Speaking Louder Than Before",
+        "url": "https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt"
       },
       "artists": [
         {
@@ -1296,9 +1296,9 @@
           "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
         }
       ],
-      "duration_ms": 211600,
-      "name": "Christ In Me",
-      "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
+      "duration_ms": 279440,
+      "name": "There Will Be A Day",
+      "url": "https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1323,6 +1323,38 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "The Story Of Your Life",
+        "url": "https://open.spotify.com/album/53FZR7fpE4NarQjLLB6h39"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 243360,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/3b6yQRfPf0wPiEKCTA46ZO"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "You",
+      "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "God Is on the Move",
         "url": "https://open.spotify.com/album/717joDA6v1pvhMq13mCSfV"
       },
@@ -1335,38 +1367,6 @@
       "duration_ms": 176615,
       "name": "God Is on the Move",
       "url": "https://open.spotify.com/track/72aVbNngCMhTFl31ydjHCG"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "God's Not Done with You",
-        "url": "https://open.spotify.com/album/0nRPLiemiLe0yZlKco6Dtk"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 195617,
-      "name": "God's Not Done with You - Single Version",
-      "url": "https://open.spotify.com/track/1ukgUa4KECeFM8ta0nwuWq"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Listen To The Sound",
-        "url": "https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Where I Belong",
-      "url": "https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1387,24 +1387,24 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "The Story Of Your Life",
-        "url": "https://open.spotify.com/album/53FZR7fpE4NarQjLLB6h39"
+        "name": "Listen To The Sound",
+        "url": "https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD"
       },
       "artists": [
         {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
         }
       ],
-      "duration_ms": 243360,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/3b6yQRfPf0wPiEKCTA46ZO"
+      "duration_ms": 200373,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP"
     },
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Speaking Louder Than Before",
-        "url": "https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt"
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
       },
       "artists": [
         {
@@ -1412,25 +1412,25 @@
           "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
         }
       ],
-      "duration_ms": 279440,
-      "name": "There Will Be A Day",
-      "url": "https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK"
+      "duration_ms": 211600,
+      "name": "Christ In Me",
+      "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
     },
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+        "name": "God's Not Done with You",
+        "url": "https://open.spotify.com/album/0nRPLiemiLe0yZlKco6Dtk"
       },
       "artists": [
         {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 226293,
-      "name": "You",
-      "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
+      "duration_ms": 195617,
+      "name": "God's Not Done with You - Single Version",
+      "url": "https://open.spotify.com/track/1ukgUa4KECeFM8ta0nwuWq"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Hope In Front of Me",
-        "url": "https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 217655,
-      "name": "Hope in Front of Me",
-      "url": "https://open.spotify.com/track/520DLGbk0HtjYAkcTVjuaq"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Everything And Nothing Less (Live)",
         "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "You Deliver Me",
-        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M"
       },
       "artists": [
         {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         }
       ],
-      "duration_ms": 204133,
-      "name": "How Deep The Father's Love For Us",
-      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
+      "duration_ms": 217655,
+      "name": "Hope in Front of Me",
+      "url": "https://open.spotify.com/track/520DLGbk0HtjYAkcTVjuaq"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1535,22 +1519,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Saints and Sinners",
-        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Because He Lives (Amen)",
-      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Anything Worth Saying",
         "url": "https://open.spotify.com/album/5DVEKAMgnuDTdY1A0iRJJz"
       },
@@ -1563,6 +1531,38 @@
       "duration_ms": 291986,
       "name": "My Savior My God",
       "url": "https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "You Deliver Me",
+        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "How Deep The Father's Love For Us",
+      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Because He Lives (Amen)",
+      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
     },
     {
       "added_at": "2023-02-18 03:29:19",

@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 583442,
+  "num_followers": 583517,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmUxMjQ5ZTU5ZjJlMmM0MzRmOTQyYjVhNjY4Yzc5OGY0NWQxNTQw",
+  "snapshot_id": "MCwwMTk5ZDgwYWM4MWVlYzY4MGRlNzAyODE0ZTU0YzFjYzdjNjQxZGJj",
   "tracks": [
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Selena",
-        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 585080,
-      "name": "Como La FLor/Baila Esta Cumbia - Live",
-      "url": "https://open.spotify.com/track/4wfvNgvx7QVSquNnbAYCC8"
+      "duration_ms": 194960,
+      "name": "Techno Cumbia 2012",
+      "url": "https://open.spotify.com/track/4dsxlK3ju4g1g15Z7PM6XX"
     }
   ],
   "unique_name": "This Is Selena",

@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 7939,
+  "num_followers": 7943,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTdlNDZmOGY4ZmMxNTJkY2IxODYwYTYyZWU4NjQ3NWVmZTc1NTdh",
+  "snapshot_id": "MCxmZmNhNGVmY2U2MjZhNWQzMjAxZWExNzhmOTNmZjZjZDk5ZTM5ZDEz",
   "tracks": [
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 238277,
+      "name": "Renter's Anthem",
+      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ija (TOKiMONSTA Remix)",
         "url": "https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 190822,
       "name": "Ija - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 238277,
-      "name": "Renter's Anthem",
-      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 186708,
-      "name": "Sa Mo Jung",
-      "url": "https://open.spotify.com/track/0hzDTl4D0iK3VUqcQ2rBIB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FOVERE",
         "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 186708,
+      "name": "Sa Mo Jung",
+      "url": "https://open.spotify.com/track/0hzDTl4D0iK3VUqcQ2rBIB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
       },
@@ -947,18 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+        "name": "FOVERE",
+        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
         }
       ],
-      "duration_ms": 266345,
-      "name": "House of Dal",
-      "url": "https://open.spotify.com/track/0QppVcTeM2ZQlxKbHhs3pf"
+      "duration_ms": 185945,
+      "name": "Penny",
+      "url": "https://open.spotify.com/track/7HK2Wxzxn7PIDTpYRJbkh1"
     }
   ],
   "unique_name": "This Is TOKiMONSTA",

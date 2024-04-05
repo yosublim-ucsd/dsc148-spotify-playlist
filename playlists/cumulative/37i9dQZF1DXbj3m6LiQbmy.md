@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Giolì & Assia in cover! ✨
 
-345 songs - 20 hr 23 min
+346 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Blush Beat \(Jerry Bouthier Remix\)](https://open.spotify.com/track/2RPnepLVtZ7UxvQu5oF68e) | [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8), [Stephanie Glitter](https://open.spotify.com/artist/5BDKqi6ps6jHrpvY8wL1MI), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5), [Jerry Bouthier](https://open.spotify.com/artist/0odCQ1NOW9JfbEKDE2FaAb) | [Blush Beat \- The Remixes](https://open.spotify.com/album/6PnzeNea8JTfMSNYRWfOYg) | 5:54 | 2022-06-26 | 2023-06-09 |
 | [Blush Beat \(RIVA Remix\)](https://open.spotify.com/track/1hWX30XcjA9AxOQpbI8Vmy) | [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8), [Stephanie Glitter](https://open.spotify.com/artist/5BDKqi6ps6jHrpvY8wL1MI), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5), [RIVA](https://open.spotify.com/artist/2XDxxRIdkv0BotNB3Pd9uS) | [Blush Beat \- The Remixes](https://open.spotify.com/album/6PnzeNea8JTfMSNYRWfOYg) | 4:35 | 2021-11-19 | 2022-07-28 |
 | [Body](https://open.spotify.com/track/4Fgx3fnvRodDpdCgBwsH6P) | [Fucksia](https://open.spotify.com/artist/78zGiRnNQVpLCK3Fz29J0P) | [Body](https://open.spotify.com/album/03J2QoSQQLpKi8IXlApSkE) | 3:22 | 2024-02-12 | 2024-03-31 |
-| [BODY](https://open.spotify.com/track/1AVxwEGZupwnrxX9KjnovY) | [Fucksia](https://open.spotify.com/artist/78zGiRnNQVpLCK3Fz29J0P) | [BODY](https://open.spotify.com/album/1fVxaKD3wlxlGLnSN0BWUF) | 3:28 | 2023-09-29 |  |
+| [BODY](https://open.spotify.com/track/1AVxwEGZupwnrxX9KjnovY) | [Fucksia](https://open.spotify.com/artist/78zGiRnNQVpLCK3Fz29J0P) | [BODY](https://open.spotify.com/album/1fVxaKD3wlxlGLnSN0BWUF) | 3:28 | 2023-09-29 | 2024-04-05 |
+| [Body](https://open.spotify.com/track/1Fi8lmYNVvP7BgoH4ACytK) | [Fucksia](https://open.spotify.com/artist/78zGiRnNQVpLCK3Fz29J0P) | [BODY](https://open.spotify.com/album/52ODdOGIsNq64G1uoJz1CG) | 3:28 | 2024-03-11 |  |
 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 | 2022-06-26 | 2023-06-09 |
 | [BOLGIA](https://open.spotify.com/track/5EXVEm0is8jXg3GP2eM0vS) | [Gaston](https://open.spotify.com/artist/5OkHXYrTFTNNVmyyStTJ6n) | [BOLGIA](https://open.spotify.com/album/2wtGFfBjgTYbc5jbJwM8py) | 3:01 | 2022-07-04 | 2022-07-25 |
 | [buco nero](https://open.spotify.com/track/63anjGNBcpKXtLE1sjhG12) | [Voodoo Kid](https://open.spotify.com/artist/14xtAzXyxJS2s44nVHMCbk) | [buco nero](https://open.spotify.com/album/0RU1Jc50Cwn6xXdzOSxHY6) | 2:24 | 2022-06-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > Cárgate de energia con el eclipse solar
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,808 likes - 45 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,856 likes - 45 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 44 | [Sale el Sol](https://open.spotify.com/track/1DJxR9NMQ14fv1WK0pHodt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 3:20 |
 | 45 | [Claridad](https://open.spotify.com/track/5iLAU648CgzEupYdWuWdp5) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/4dWLbIe5qAFIP3GFnbTTXL) | 4:10 |
 
-Snapshot ID: `MCwzNTQ4NmM4Njg5ZmJlZTRkZGNjMWE2ZDBhZTMzYzcyODE1MWNlZThm`
+Snapshot ID: `MCxlYzVhM2JiMjQ4MDUyMTQ5OGMyYWRhNWEyZjFiM2FiMjVkYzg4Zjli`

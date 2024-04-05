@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy rock & alt songs for your workout.",
-  "num_followers": 613855,
+  "num_followers": 613865,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWY3MDgzNDJkYWMwMzhlMTEwNDBiYzM1NzdiY2QxYzZlZDhlNzli",
+  "snapshot_id": "MCw1YjNkYzliNzE1MTgxOWQxNzhlNjdiODUxZmUzNjRhMTk2Y2NhZTk5",
   "tracks": [
     {
       "added_at": "2024-03-06 15:41:44",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
-        "name": "Normal People Things",
-        "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 164844,
-      "name": "Normal People Things",
-      "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
-    },
-    {
-      "added_at": "2024-03-06 15:41:44",
-      "album": {
         "name": "Costello Music",
         "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 215173,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
+    },
+    {
+      "added_at": "2024-03-06 15:41:44",
+      "album": {
+        "name": "Normal People Things",
+        "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 164844,
+      "name": "Normal People Things",
+      "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
     },
     {
       "added_at": "2024-03-06 15:41:44",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
+    },
+    {
+      "added_at": "2024-03-06 15:41:44",
+      "album": {
         "name": "Supernatural",
         "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
-    },
-    {
-      "added_at": "2024-03-06 15:41:44",
-      "album": {
         "name": "Welcome to the DCC",
         "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 222738,
-      "name": "Planet Zero",
-      "url": "https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl"
-    },
-    {
-      "added_at": "2024-03-06 15:41:44",
-      "album": {
         "name": "Not The 1975",
         "url": "https://open.spotify.com/album/1HVxIc8XOtdFhuIQZdTPx9"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd"
+    },
+    {
+      "added_at": "2024-03-06 15:41:44",
+      "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 222738,
+      "name": "Planet Zero",
+      "url": "https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl"
     },
     {
       "added_at": "2024-03-06 15:41:44",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
-        "name": "The Matrix",
-        "url": "https://open.spotify.com/album/6gqw69YjxD8oXGZ2rp1pPd"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 201722,
-      "name": "The Matrix",
-      "url": "https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG"
-    },
-    {
-      "added_at": "2024-03-06 15:41:44",
-      "album": {
         "name": "Angel Miners & The Lightning Riders",
         "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 196135,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
+    },
+    {
+      "added_at": "2024-03-06 15:41:44",
+      "album": {
+        "name": "The Matrix",
+        "url": "https://open.spotify.com/album/6gqw69YjxD8oXGZ2rp1pPd"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 201722,
+      "name": "The Matrix",
+      "url": "https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG"
     },
     {
       "added_at": "2024-03-06 15:41:44",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-03-06 15:41:44",
       "album": {
+        "name": "Mister Asylum",
+        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Bloodfeather",
+      "url": "https://open.spotify.com/track/66Avcq6c51vcMGXLzHH5d7"
+    },
+    {
+      "added_at": "2024-03-06 15:41:44",
+      "album": {
         "name": "Won\u2019t Stand Down",
         "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 134252,
       "name": "Never Going Under",
       "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
-    },
-    {
-      "added_at": "2024-03-06 15:41:44",
-      "album": {
-        "name": "Mister Asylum",
-        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Bloodfeather",
-      "url": "https://open.spotify.com/track/66Avcq6c51vcMGXLzHH5d7"
     },
     {
       "added_at": "2024-03-06 15:41:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Hamilton De Holanda
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,905 likes - 99 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,041 likes - 99 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 6 | [Coin's Edge](https://open.spotify.com/track/3FPvYya5ferqqnVVIpIbxS) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Joe Cleveland](https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg), [Stixx Taylor](https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg) | [Coin’s Edge](https://open.spotify.com/album/0HsDJ1f7aa1QX6ftbFp5LX) | 2:35 |
 | 7 | [Exoplanet](https://open.spotify.com/track/6j1ChNSkJNqz8xgbXCS2xW) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI), [Bubby Lewis](https://open.spotify.com/artist/2foDHsfpet3NNYdYhfK8Fc), [Ian Roller](https://open.spotify.com/artist/2U1QLrd5GARYpZtPbHbAAn) | [Natural Resolve](https://open.spotify.com/album/3Cx9pTCk3Mif9TGYCXM1k2) | 2:16 |
 | 8 | [De Quebrada](https://open.spotify.com/track/0emWo87AFkcP1kSif4uK5g) | [Jogo Duro](https://open.spotify.com/artist/3kvrluYG46ZHWoRP79XOmx), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Jogo Duro](https://open.spotify.com/album/4QMewZ45VWxChlrUeO5DbG) | 5:40 |
-| 9 | [Outer Sea](https://open.spotify.com/track/1XIgbKMs3Jf9n5QCuT7QTf) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Uniri](https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA) | [Infinite Reflections](https://open.spotify.com/album/0meFGx9eWzacSifnRoxwf0) | 4:17 |
+| 9 | [Outer Sea](https://open.spotify.com/track/1XIgbKMs3Jf9n5QCuT7QTf) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Uniri](https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA), [Amané Suganami](https://open.spotify.com/artist/6oUpfsBBLUsGlpMZng9QbT), [Al MacSween](https://open.spotify.com/artist/2zEEuFzo9LepOkkCtGnCbu), [Luke Wynter](https://open.spotify.com/artist/2n5NBtzyUBpq0LuWXyknFk) | [Infinite Reflections](https://open.spotify.com/album/0meFGx9eWzacSifnRoxwf0) | 4:17 |
 | 10 | [Save My Soul](https://open.spotify.com/track/2MZAwZ12Dl642ZuOeZljXM) | [Rachel Z](https://open.spotify.com/artist/6pUSMIMkWhKJFSK6YwmB0P), [Omar Hakim](https://open.spotify.com/artist/6jJcdCcI6czvcCnM1D1lWg) | [Save My Soul](https://open.spotify.com/album/19AEtL2nAaWK9pkph4nvmq) | 6:02 |
 | 11 | [Moving Through](https://open.spotify.com/track/7HzgszlXmrnOMa4cL41DKu) | [Claudio Suriano](https://open.spotify.com/artist/0De3Dvr1ay9ZwNeIbpX0c8), [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb), [Johannes Bohn](https://open.spotify.com/artist/15T9XvfSxGG4PLCOzbw3XL) | [Moving Through](https://open.spotify.com/album/2kRKKSj5Ro3bP8jNDjNLDH) | 5:40 |
 | 12 | [Piece of Mind](https://open.spotify.com/track/44CdPwoPxNt8JV80dKqMnh) | [Simon Denizart](https://open.spotify.com/artist/1dFQ2v1uSzlTVLwfHQWgJk) | [Piece of Mind](https://open.spotify.com/album/7tuIHvQNLrzizQXlh34KPq) | 5:51 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 98 | [early](https://open.spotify.com/track/6e69KdNCu2QQ4wkWL1zWgY) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [nublues](https://open.spotify.com/album/25Dgs9rR8ETpGCwD0wUv0q) | 3:56 |
 | 99 | [Sun Streak](https://open.spotify.com/track/0g82AK31NDtvkFpsE50hY8) | [Adam Ratner](https://open.spotify.com/artist/4TqrWqGb9OUbR3ZGx23W4K), [David Binney](https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Luca Mendoza](https://open.spotify.com/artist/0MlFh2Z71UaY9oeWx2peKq), [Benjamin Ring](https://open.spotify.com/artist/3p7Y0v6WeIkL3wO2xn2Dv8) | [Sun Streak](https://open.spotify.com/album/0xe3vp3OjTfSdfJvqp3Lc4) | 7:15 |
 
-Snapshot ID: `MCwxOGFhNGE0YWZkMGVhZjUzN2JlMTIwMjQ2YWE1YjcwODUzOGU3NjQ1`
+Snapshot ID: `MCxjZTcwNWM3N2I1MDBmMzY4ZjcxNTRlOWVmYTg1YzVhZGNmZjNlMzU2`

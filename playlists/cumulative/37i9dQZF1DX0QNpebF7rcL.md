@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-361 songs - 1 day 0 hr 18 min
+363 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,8 @@
 | [Mischief Man](https://open.spotify.com/track/4nrNyJMtc6i9uvHnXy3cRT) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Ten Thousand Watts](https://open.spotify.com/album/3ItR2zuQVdk1tO16cz2GFl) | 3:18 | 2020-12-14 | 2022-02-26 |
 | [Miss Information](https://open.spotify.com/track/53u2pCR5M1BsZM3CiWyAfw) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Miss Information](https://open.spotify.com/album/7lRTdwCjqb6i22watL4REp) | 3:47 | 2021-09-10 | 2023-07-15 |
 | [Mortgage on My Soul](https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Mortgage on My Soul](https://open.spotify.com/album/7sRLEMULCuwp1xYxHj5SFa) | 7:04 | 2022-09-23 |  |
-| [Mount up on the Wings of the King](https://open.spotify.com/track/30Hrgpp6gqufsaSY7F7txp) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Straight from the Heart](https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ) | 3:19 | 2022-05-20 |  |
+| [Mount up on the Wings of the King](https://open.spotify.com/track/30Hrgpp6gqufsaSY7F7txp) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Straight from the Heart](https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ) | 3:19 | 2022-05-20 | 2024-04-05 |
+| [Mount up on the Wings of the King](https://open.spotify.com/track/3oIkw0Owj1V0LH5EExbQKY) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5gM9h1Ksjiu1iy3wLy42dt) | [Straight from the Heart](https://open.spotify.com/album/4gN7CmqNauA6dTrBYOfVMe) | 3:19 | 2022-05-20 |  |
 | [Move Into The Light](https://open.spotify.com/track/2ndX8xxdVrgFn698rfqao5) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Move Into The Light](https://open.spotify.com/album/3C35eldU8vnhAa8UTUFX1Q) | 3:03 | 2021-07-09 | 2022-06-25 |
 | [Need Somebody](https://open.spotify.com/track/3PidRjCoEGt8sDKicC0GhX) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Need Somebody](https://open.spotify.com/album/6C4AxHzymaKYTXER51I7xG) | 2:59 | 2022-02-18 | 2022-04-23 |
 | [Never Get out of These Blues Alive](https://open.spotify.com/track/0o9xEUuJ5dd0zLT4n2PLTM) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Never Get out of These Blues Alive](https://open.spotify.com/album/1u0vvSVEFQhWll188GmMFY) | 5:43 | 2022-01-14 | 2023-02-11 |
@@ -331,7 +332,8 @@
 | [Two Steps From The Blues](https://open.spotify.com/track/6ehBcXu26w7KT5ZMUHnEBj) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [Two Steps From The Blues](https://open.spotify.com/album/1BHB22TjTZOivmUqVXg9zV) | 2:37 | 2022-09-02 | 2023-02-11 |
 | [Under Your Spell](https://open.spotify.com/track/1n4OzgYj9CwubUx7vhf1uD) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Under Your Spell](https://open.spotify.com/album/5k0hBiaEUAwqu54TauMa4T) | 2:53 | 2021-08-06 | 2023-05-20 |
 | [Under Your Spell](https://open.spotify.com/track/6cq0Q5NdeKfO6jjCrAnIov) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Under Your Spell](https://open.spotify.com/album/18U447Ip4CM4yoQc26DJ1i) | 2:53 | 2021-08-06 | 2023-03-04 |
-| [Undertow](https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4) | 3:22 | 2023-07-28 |  |
+| [Undertow](https://open.spotify.com/track/0EbZNGeKLzAqYuYuNOCack) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep and the Dirty](https://open.spotify.com/album/67KkHhNmrpt1NkoiRW1cXc) | 3:22 | 2023-07-28 |  |
+| [Undertow](https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4) | 3:22 | 2023-07-28 | 2024-04-05 |
 | [Unhinged](https://open.spotify.com/track/41N74tDfqzG242pQe16lSE) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [Unhinged](https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR) | 3:23 | 2023-06-30 |  |
 | [Up and Rolling](https://open.spotify.com/track/1Wg6dLYXgqxs0YtQS6ifco) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 5:03 | 2020-12-14 | 2022-02-26 |
 | [Virginia Soil](https://open.spotify.com/track/2BabLfYnJvdWrDvgzNVYqE) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:10 | 2022-06-03 |  |

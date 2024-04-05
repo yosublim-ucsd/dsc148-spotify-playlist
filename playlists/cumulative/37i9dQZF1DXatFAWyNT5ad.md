@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Royal & the Serpent + GAYLE
 
-728 songs - 1 day 13 hr 40 min
+729 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [BETTER OFF ALONE](https://open.spotify.com/track/6xfB27s52SkC9c78zzILrD) | [BOXBOY](https://open.spotify.com/artist/2fqFwtlZfeARcbEVdXSwoM) | [BETTER OFF ALONE](https://open.spotify.com/album/0DXTf1tGHs01BQ8pw98syx) | 2:26 | 2022-03-24 | 2022-04-16 |
 | [BETTER OFF DEAD](https://open.spotify.com/track/4ih3Y0t86lfK8m8pTgEx4I) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [BETTER OFF DEAD](https://open.spotify.com/album/3E1tSM6TIdeVmjDXZ0Xtsq) | 2:35 | 2022-03-17 | 2022-07-29 |
 | [BETTER OFF DEAD](https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:35 | 2022-07-07 | 2023-03-18 |
+| [better than this](https://open.spotify.com/track/53HsQKvda5AREIgqeCujU9) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [better than this](https://open.spotify.com/album/2VaKXOJ6RcIHwsYyWF6nlK) | 2:58 | 2024-03-08 |  |
 | [Betterman](https://open.spotify.com/track/1OJX5Rkvu0NfzIywy4Re9U) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Internet Killed The Rockstar](https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO) | 2:59 | 2022-03-17 | 2022-07-13 |
 | [Big City Thing](https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Big City Thing](https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn) | 3:23 | 2023-04-07 |  |
 | [Big Vibe](https://open.spotify.com/track/2PngCwZWLZNCu7c0hXc4jm) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Big Vibe](https://open.spotify.com/album/0gUxDoPxN62xIQrtbWeCCS) | 3:38 | 2022-03-24 | 2022-07-19 |
@@ -296,7 +297,7 @@
 | [Half My Heart](https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 2:44 | 2023-05-05 |  |
 | [Half Your Age](https://open.spotify.com/track/0yTlrnue3pJTJd7h7d43mk) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Half Your Age](https://open.spotify.com/album/6iOJJNrHS1pPSPjcTQC3Xr) | 3:29 | 2022-03-24 | 2022-04-07 |
 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 | 2023-11-17 |  |
-| [Happy](https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Happy](https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2) | 2:42 | 2024-02-20 |  |
+| [Happy](https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Happy](https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2) | 2:42 | 2024-02-20 | 2024-04-05 |
 | [Happy Again](https://open.spotify.com/track/6wSXqExVRDg4BgJf7zooC4) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Happy Again](https://open.spotify.com/album/0hcoDAsIEi5LIVe5AKNJ6b) | 3:17 | 2023-03-24 | 2023-03-26 |
 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 | 2022-03-24 | 2022-04-18 |
 | [He Can't Control You](https://open.spotify.com/track/7gfwdRTbXpDYBvwzJ8ZRWP) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [BANG](https://open.spotify.com/album/082FexUZSPr5QLnP9ZNkYk) | 3:42 | 2022-03-24 | 2022-04-12 |

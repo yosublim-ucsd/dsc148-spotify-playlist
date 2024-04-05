@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-1,887 songs - 4 day 5 hr 32 min
+1,888 songs - 4 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2023-08-02 | 2023-08-04 |
 | [Auntie Diaries](https://open.spotify.com/track/19Fg3WrTfo35Ji3PtfZE6J) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:41 | 2022-05-14 | 2022-05-16 |
 | [Ausländer](https://open.spotify.com/track/7j43FohbLVulScL7S9sQZk) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 3:51 | 2022-07-21 | 2022-07-26 |
+| [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-04-04 |  |
 | [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 | 2023-08-03 | 2023-09-29 |
 | [avokaado \(leidsin ta\)](https://open.spotify.com/track/6HtFG40G9snJdzfSCQFnqJ) | [Pitsa](https://open.spotify.com/artist/5rr7mN0kRk6dsm1DVwRBFx), [Reket](https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN), [kohver](https://open.spotify.com/artist/1LsT8mVsiQAq4d4OmYaxxh), [boipepperoni](https://open.spotify.com/artist/0MjPNmazpZOmBH1nOMaeQY) | [calzone](https://open.spotify.com/album/3vjZwaXDztZJgRQvKSUbMk) | 3:36 | 2021-04-03 | 2021-04-04 |
 | [Aw Man](https://open.spotify.com/track/51mnDmga8hrMmdJnlP52xi) | [Just Juice](https://open.spotify.com/artist/4s0K7Gh1qCZCXB5OuMF1VT), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Aw Man](https://open.spotify.com/album/7ru2b3ytjFv6qFRdgSoM3L) | 3:11 | 2023-01-01 | 2023-01-12 |
@@ -490,7 +491,7 @@
 | [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 | 2024-04-02 | 2024-04-04 |
 | [Father Stretch My Hands Pt\. 1](https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 2:15 | 2023-12-29 | 2024-02-15 |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-05-14 | 2022-05-22 |
-| [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-04-01 |  |
+| [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-04-01 | 2024-04-05 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 |  |
 | [Fear Of Heights](https://open.spotify.com/track/53KaP77tkliz36LPxWGlWK) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:35 | 2023-10-07 | 2023-10-13 |
 | [Feline \(with Polo G & Trippie Redd\)](https://open.spotify.com/track/5R4Yrc2j4jw1itr4hKcN26) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:32 | 2021-12-12 | 2021-12-13 |

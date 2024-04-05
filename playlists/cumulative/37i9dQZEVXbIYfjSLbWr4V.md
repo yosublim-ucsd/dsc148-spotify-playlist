@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-113 songs - 5 hr 1 min
+114 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Dayang](https://open.spotify.com/track/5oJICQvO6ZkPPZPwsvPLBs) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [VARSKVA](https://open.spotify.com/album/1Qk2lItE5KiD5DqKZpd31w) | 2:47 | 2024-01-29 | 2024-02-20 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-03-13 |  |
 | [F\*CK OFF](https://open.spotify.com/track/0w9ZBj1sdjzemjX2E8WONY) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [NIGHT FOR EVER](https://open.spotify.com/album/3iGmfrdym4uPxjWa82zWrS) | 1:43 | 2024-01-29 |  |
-| [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 | 2024-03-12 |  |
+| [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 | 2024-03-12 | 2024-04-05 |
+| [Faster n Harder](https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Internet Famous](https://open.spotify.com/album/2yEBsWRowuo5FRa0Q4b5D6) | 2:03 | 2024-04-04 |  |
 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-16 |  |
 | [FUK SUMN](https://open.spotify.com/track/5rlXuCLnMdfo85079qXHoz) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:29 | 2024-02-12 | 2024-02-16 |
 | [FUK SUMN](https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:29 | 2024-02-15 | 2024-02-17 |
@@ -49,7 +50,7 @@
 | [Ангел](https://open.spotify.com/track/01J7Q2QyqNX2gFEqfoSNju) | [Юпи](https://open.spotify.com/artist/19ycuZUQaZvT46uJscip1s), [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [Ангел](https://open.spotify.com/album/3OD1DuTZ0s1Rzmo60A32SP) | 2:30 | 2024-03-03 |  |
 | [Антидепрессант](https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 2:00 | 2024-01-29 |  |
 | [АФТЕРПАТИ](https://open.spotify.com/track/2trIptvItNErAkJBJnJ3j9) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [xxxmanera](https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr) | [2007, Ч.1](https://open.spotify.com/album/3X6mGWf1bB8pwtcHDdRvNo) | 3:18 | 2024-01-29 |  |
-| [БАС](https://open.spotify.com/track/43vEJEFIUdbxNOJehmIMLu) | [White Queen](https://open.spotify.com/artist/5p7nalNcqxK0NfexzkjTvs) | [БАС](https://open.spotify.com/album/1VLg4eFVRi8mxaSO0i06W9) | 1:52 | 2024-03-28 |  |
+| [БАС](https://open.spotify.com/track/43vEJEFIUdbxNOJehmIMLu) | [White Queen](https://open.spotify.com/artist/5p7nalNcqxK0NfexzkjTvs) | [БАС](https://open.spotify.com/album/1VLg4eFVRi8mxaSO0i06W9) | 1:52 | 2024-03-28 | 2024-04-05 |
 | [БРАТ](https://open.spotify.com/track/5998AmqMB04aCyNe92B0I7) | [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [БРАТ](https://open.spotify.com/album/0D0jRtbsXBdq5lBbgHwox7) | 1:36 | 2024-03-30 | 2024-04-01 |
 | [В этой траве](https://open.spotify.com/track/4FC3B2ogUmH7TJVo9gHNZC) | [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [В этой траве](https://open.spotify.com/album/0LAPvszu3cMDMY4pfbsBFJ) | 2:11 | 2024-03-15 |  |
 | [Ворую алкоголь](https://open.spotify.com/track/0pcApW2mSPlkjBEbX3OMOs) | [ЭВСЭ](https://open.spotify.com/artist/51SL7oheJDglSid1IlFRVM), [FLOKI](https://open.spotify.com/artist/11F0zmakkhI0gw4l3PEiyM) | [Ворую алкоголь](https://open.spotify.com/album/0qdMwFrbaCqUvhq8L6dGvy) | 2:36 | 2024-03-30 | 2024-04-03 |
@@ -104,7 +105,7 @@
 | [Таро](https://open.spotify.com/track/4M4zuhpRODqsfRJcdySb00) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [Tenderlybae](https://open.spotify.com/artist/1Z4CxuvNuVKnKrGQfRcEFl), [Егорик](https://open.spotify.com/artist/16nlHRcQVC5W9X8Mr0iTnY) | [Таро](https://open.spotify.com/album/07si0ibZYD3rpaLcoFToEj) | 3:20 | 2024-01-29 | 2024-02-05 |
 | [Тебя нежно грубо](https://open.spotify.com/track/5TyFmKLRSsTjlEewvAvb14) | [TARAS](https://open.spotify.com/artist/352kVcEfNAyzZbUdevybLp) | [В режиме полёта](https://open.spotify.com/album/0S5salUtx21hXEhjiqcQXO) | 3:39 | 2024-02-23 | 2024-03-10 |
 | [Температура](https://open.spotify.com/track/2BzKk0GMWtW5dfkOb62mJc) | [Три дня дождя](https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ), [polnalyubvi](https://open.spotify.com/artist/3cmfyZ8hRHaN2CO9Qo4j35) | [Температура](https://open.spotify.com/album/43ynnUZcVgUuOVe4wYhEzd) | 3:17 | 2024-03-02 | 2024-03-21 |
-| [Тесно](https://open.spotify.com/track/4oHEJ5KPf9hW1pDyQYIRIw) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [ANIKV](https://open.spotify.com/artist/4uWhcZCwuPopf6JGvwsN2B) | [AA LANGUAGE](https://open.spotify.com/album/5FU5AT1bUt4YrkrNI8eZ9q) | 2:12 | 2024-03-30 | 2024-04-02 |
+| [Тесно](https://open.spotify.com/track/4oHEJ5KPf9hW1pDyQYIRIw) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [ANIKV](https://open.spotify.com/artist/4uWhcZCwuPopf6JGvwsN2B) | [AA LANGUAGE](https://open.spotify.com/album/5FU5AT1bUt4YrkrNI8eZ9q) | 2:12 | 2024-03-30 |  |
 | [толстовка](https://open.spotify.com/track/79CYW9mDBGmCW4icaV4ITL) | [Mary Gu](https://open.spotify.com/artist/5w98ILth0uq2xi2am1vu5g), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [толстовка](https://open.spotify.com/album/6QlWE7hU9pIL4VrsSqvA0X) | 2:16 | 2024-02-03 | 2024-02-05 |
 | [Ты так красива](https://open.spotify.com/track/73O5XIJJGhN7oFqkhffMi1) | [Quest Pistols](https://open.spotify.com/artist/21bKsZrHsq3UcdHgeaKH2l) | [The Best](https://open.spotify.com/album/10xHh7UDj8iGDNIMeurr4l) | 2:53 | 2024-01-29 | 2024-03-11 |
 | [У мамы есть секрет](https://open.spotify.com/track/2d14PCvGkNZQ9oWzj27iBt) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [У мамы есть секрет](https://open.spotify.com/album/0d4DGxYF0uDiK2kl8BAnyC) | 2:44 | 2024-03-12 | 2024-03-15 |

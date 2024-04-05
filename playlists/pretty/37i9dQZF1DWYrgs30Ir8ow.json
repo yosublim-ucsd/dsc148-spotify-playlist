@@ -1,15 +1,47 @@
 {
-  "description": "Altijd fris in Fresh Hits. Cover: Goldband",
-  "num_followers": 25240,
+  "description": "Altijd fris in Fresh Hits. Cover: Roxy Dekker",
+  "num_followers": 25281,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDYzYzIwNGVhYjM0MzBmYzJjZTQyMDhmODRiZWU3ZDI1YjM5ZDFl",
+  "snapshot_id": "MCw5MmQwMDEzNTc2ZTRjMDhjNjI1Nzg2M2MwMWMxYWZiZGU4ZDQzYjUx",
   "tracks": [
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
+      "album": {
+        "name": "Sugardaddy",
+        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "duration_ms": 131796,
+      "name": "Sugardaddy",
+      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
+    },
+    {
+      "added_at": "2024-04-04 15:15:00",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 189638,
+      "name": "JOLENE",
+      "url": "https://open.spotify.com/track/2PmMh2t7jAtN6cqFooA0Xy"
+    },
+    {
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ"
@@ -25,43 +57,23 @@
       "url": "https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 208521,
-      "name": "II MOST WANTED",
-      "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
-      "album": {
-        "name": "What I Am",
-        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 211280,
-      "name": "What I Am",
-      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
-    },
-    {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "Laatste Trein",
         "url": "https://open.spotify.com/album/3jeLXcKNuJuYeKKb43TnEG"
@@ -81,7 +93,143 @@
       "url": "https://open.spotify.com/track/0unjn7rOpEnCvpaviiXYxc"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
+      "album": {
+        "name": "Ratata",
+        "url": "https://open.spotify.com/album/1PGUc5o85RbeXfvvgfhYIU"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "duration_ms": 148446,
+      "name": "Ratata",
+      "url": "https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP"
+    },
+    {
+      "added_at": "2024-04-04 15:15:00",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "added_at": "2024-04-04 15:15:00",
+      "album": {
+        "name": "What I Am",
+        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "What I Am",
+      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
+    },
+    {
+      "added_at": "2024-04-04 15:15:00",
+      "album": {
+        "name": "Perdiste",
+        "url": "https://open.spotify.com/album/7kViNXWBbOD3RahNpEZMr3"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 119285,
+      "name": "Perdiste",
+      "url": "https://open.spotify.com/track/2A7ZjaERtQStEmMhSU1BU3"
+    },
+    {
+      "added_at": "2024-04-04 15:15:00",
+      "album": {
+        "name": "Outside Of Love",
+        "url": "https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 175628,
+      "name": "Outside Of Love",
+      "url": "https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5"
+    },
+    {
+      "added_at": "2024-04-04 15:15:00",
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
+    },
+    {
+      "added_at": "2024-04-04 15:15:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+    },
+    {
+      "added_at": "2024-04-04 15:15:00",
+      "album": {
+        "name": "Beetje Fout (feat. Yssi SB)",
+        "url": "https://open.spotify.com/album/7JDX9KJ4Z28MDVK8FXUSmT"
+      },
+      "artists": [
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        }
+      ],
+      "duration_ms": 132272,
+      "name": "Beetje Fout (feat. Yssi SB)",
+      "url": "https://open.spotify.com/track/5l4UcCjgarB4LvLuXQ2RlN"
+    },
+    {
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -97,7 +245,43 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 208521,
+      "name": "II MOST WANTED",
+      "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
+    },
+    {
+      "added_at": "2024-04-04 15:15:00",
+      "album": {
+        "name": "Beetje Verliefd",
+        "url": "https://open.spotify.com/album/0OQRHgSyI54chxRlwZHyW1"
+      },
+      "artists": [
+        {
+          "name": "Alessio",
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+        }
+      ],
+      "duration_ms": 136804,
+      "name": "Beetje Verliefd",
+      "url": "https://open.spotify.com/track/1LOimwvdlTnvOqkFJOaD0g"
+    },
+    {
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "Love Doesn't Exist",
         "url": "https://open.spotify.com/album/4A2PB1hCtF2tcmUsaa9jYO"
@@ -121,87 +305,7 @@
       "url": "https://open.spotify.com/track/7CqWn1gA0R9tCFTpTOcLLZ"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
-      "album": {
-        "name": "Brommers Kieken",
-        "url": "https://open.spotify.com/album/3AryJg88r4Hr8mSj74KaVP"
-      },
-      "artists": [
-        {
-          "name": "Boer Harm",
-          "url": "https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os"
-        }
-      ],
-      "duration_ms": 146764,
-      "name": "Brommers Kieken",
-      "url": "https://open.spotify.com/track/1sFOo3OyMgonEYdi4bTXHd"
-    },
-    {
-      "added_at": "2024-04-01 12:06:49",
-      "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
-    },
-    {
-      "added_at": "2024-04-01 12:06:49",
-      "album": {
-        "name": "Ratata",
-        "url": "https://open.spotify.com/album/1PGUc5o85RbeXfvvgfhYIU"
-      },
-      "artists": [
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
-        }
-      ],
-      "duration_ms": 148446,
-      "name": "Ratata",
-      "url": "https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP"
-    },
-    {
-      "added_at": "2024-04-01 12:06:49",
-      "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
-    },
-    {
-      "added_at": "2024-04-01 12:06:49",
-      "album": {
-        "name": "Slow It Down",
-        "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 161831,
-      "name": "Slow It Down",
-      "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
-    },
-    {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
@@ -225,39 +329,7 @@
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
-      "album": {
-        "name": "Entourage",
-        "url": "https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 129433,
-      "name": "Entourage",
-      "url": "https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7"
-    },
-    {
-      "added_at": "2024-04-01 12:06:49",
-      "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
-    },
-    {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "Belong Together",
         "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
@@ -273,7 +345,7 @@
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "How Many Nights",
         "url": "https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9"
@@ -289,23 +361,7 @@
       "url": "https://open.spotify.com/track/0Nj0v1zGvDLgvhjLLzMzom"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
-    },
-    {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "Been Like This",
         "url": "https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic"
@@ -325,23 +381,7 @@
       "url": "https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
-      "album": {
-        "name": "Perdiste",
-        "url": "https://open.spotify.com/album/7kViNXWBbOD3RahNpEZMr3"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 119285,
-      "name": "Perdiste",
-      "url": "https://open.spotify.com/track/2A7ZjaERtQStEmMhSU1BU3"
-    },
-    {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
@@ -361,7 +401,23 @@
       "url": "https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
+      "album": {
+        "name": "Brommers Kieken",
+        "url": "https://open.spotify.com/album/3AryJg88r4Hr8mSj74KaVP"
+      },
+      "artists": [
+        {
+          "name": "Boer Harm",
+          "url": "https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os"
+        }
+      ],
+      "duration_ms": 146764,
+      "name": "Brommers Kieken",
+      "url": "https://open.spotify.com/track/1sFOo3OyMgonEYdi4bTXHd"
+    },
+    {
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
@@ -385,39 +441,7 @@
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
-      "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 246813,
-      "name": "Worth It.",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
-    },
-    {
-      "added_at": "2024-04-01 12:06:49",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
-    },
-    {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "I SAID NO SIR",
         "url": "https://open.spotify.com/album/0RhlRhIryEZPRbyYaLf1lA"
@@ -433,27 +457,55 @@
       "url": "https://open.spotify.com/track/4M9dTGcJFaoDJN7Sopqsk2"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
-        "name": "Bonus",
-        "url": "https://open.spotify.com/album/78BcIlHd26IcfnBgOKK2jQ"
+        "name": "Verder Gaan",
+        "url": "https://open.spotify.com/album/0r77Nr0uGa2s6LjUhUn8nu"
       },
       "artists": [
         {
-          "name": "Young Dylan",
-          "url": "https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc"
-        },
-        {
-          "name": "Jantje",
-          "url": "https://open.spotify.com/artist/4qkXUou0EQ56wmcais8uwJ"
+          "name": "FLEUR",
+          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
         }
       ],
-      "duration_ms": 130241,
-      "name": "Bonus",
-      "url": "https://open.spotify.com/track/3KXeTMIdec8G6rclrOFKTL"
+      "duration_ms": 179482,
+      "name": "Verder Gaan",
+      "url": "https://open.spotify.com/track/6UmHcP85c9ithN6491OqGB"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 246813,
+      "name": "Worth It.",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
+    },
+    {
+      "added_at": "2024-04-04 15:15:00",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "Saturn",
         "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
@@ -469,7 +521,7 @@
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "Streken",
         "url": "https://open.spotify.com/album/6NWyKQDS1bvfOpHvcZ0YdV"
@@ -489,51 +541,7 @@
       "url": "https://open.spotify.com/track/5KXZnw9AK9H2zLqykIvUIZ"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
-      "album": {
-        "name": "Love Doesn't Exist",
-        "url": "https://open.spotify.com/album/4A2PB1hCtF2tcmUsaa9jYO"
-      },
-      "artists": [
-        {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        },
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        },
-        {
-          "name": "KA",
-          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        }
-      ],
-      "duration_ms": 161058,
-      "name": "Emilie",
-      "url": "https://open.spotify.com/track/6ipBOO3Iq9J8y9ZnYFW2m9"
-    },
-    {
-      "added_at": "2024-04-01 12:06:49",
-      "album": {
-        "name": "Verder Gaan",
-        "url": "https://open.spotify.com/album/0r77Nr0uGa2s6LjUhUn8nu"
-      },
-      "artists": [
-        {
-          "name": "FLEUR",
-          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
-        }
-      ],
-      "duration_ms": 179482,
-      "name": "Verder Gaan",
-      "url": "https://open.spotify.com/track/6UmHcP85c9ithN6491OqGB"
-    },
-    {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
@@ -549,27 +557,23 @@
       "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
-        "name": "The Sound of Silence (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+        "name": "Entourage",
+        "url": "https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
         }
       ],
-      "duration_ms": 185238,
-      "name": "The Sound of Silence - CYRIL Remix",
-      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
+      "duration_ms": 129433,
+      "name": "Entourage",
+      "url": "https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU"
@@ -589,7 +593,7 @@
       "url": "https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
@@ -613,7 +617,7 @@
       "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "CONTIGO (with Ti\u00ebsto)",
         "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
@@ -633,23 +637,7 @@
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
-      "album": {
-        "name": "Zoet, Zout, Zuur",
-        "url": "https://open.spotify.com/album/6FrJb3MtWlu4EQNbXZsN1P"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        }
-      ],
-      "duration_ms": 180778,
-      "name": "Zoet, Zout, Zuur",
-      "url": "https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao"
-    },
-    {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
@@ -665,7 +653,7 @@
       "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "The Confession",
         "url": "https://open.spotify.com/album/0xCBjfaeK0phUn47yMHHyP"
@@ -681,7 +669,7 @@
       "url": "https://open.spotify.com/track/0k63pQiWvEeyYdV3XJKwCg"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj"
@@ -697,7 +685,7 @@
       "url": "https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/5hTm1YiaWDgGDJdGroOKqI"
@@ -713,7 +701,7 @@
       "url": "https://open.spotify.com/track/005k50cKNdWjOitdP6Y6jz"
     },
     {
-      "added_at": "2024-04-01 12:06:49",
+      "added_at": "2024-04-04 15:15:00",
       "album": {
         "name": "Zij Wil Mij",
         "url": "https://open.spotify.com/album/6zOsCl08IfBgNa0ZA2ayEH"

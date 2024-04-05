@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > lowkey crying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,982 likes - 167 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,076 likes - 167 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 166 | [Dunkel](https://open.spotify.com/track/4y5m6mGSXzVZArFSm4YnYK) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Dunkel](https://open.spotify.com/album/62Wg9F1bDreyAWx9gp1IXx) | 2:20 |
 | 167 | [Home](https://open.spotify.com/track/7xYFoMTtdlx2GmK0sopL0T) | [Adrian Kuipers](https://open.spotify.com/artist/4qA8zZoA4L4YLpJTjgpIwi) | [Home](https://open.spotify.com/album/0v8ArMlSc9QCkB9rTfKPOs) | 3:57 |
 
-Snapshot ID: `MCxmNzhlMWQwNWJiNjg0Y2ExODU2YmVjNDNlNzEyMjUwNmI1MDRhNTBk`
+Snapshot ID: `MCw0ZjYyNDMwMDk3N2VmMDg1ODdkYzMyODAzY2U2NWJiMmY4ZTBmMjQz`

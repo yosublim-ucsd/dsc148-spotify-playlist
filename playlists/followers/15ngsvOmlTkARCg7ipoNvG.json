@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 18939,
+  "2024-04-05": 18938,
   "date_first_scraped": "2022-10-03",
   "description": "Beautiful instrumental music to keep you in the flow as you code or study. An ideal playlist for programming during stressful times --- | program | programmer | software | software engineer | computer science | concentrate | concentration | focusing |",
   "name": "CODING FOCUS",
@@ -669,6 +669,24 @@
       "duration_ms": 62380,
       "name": "Afternoon Glory",
       "url": "https://open.spotify.com/track/601pR2fAkD9Oil1Uoe5H5j"
+    },
+    {
+      "album": {
+        "name": "Afternoon Glow",
+        "url": "https://open.spotify.com/album/60lNOgDDlL85ztliH94QlI"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Afternoon Glow",
+      "url": "https://open.spotify.com/track/3ladifvlLT6GG5pWOYwo3x"
     },
     {
       "album": {
@@ -5130,6 +5148,24 @@
     },
     {
       "album": {
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/7AXpy6zqj7FwP6TgKQ2DB4"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Canyon",
+      "url": "https://open.spotify.com/track/1MJz3X5117Bt9Vpe1fW0zr"
+    },
+    {
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/72T026EJN1ZCBM10yJ6Nb8"
       },
@@ -8945,6 +8981,24 @@
       "duration_ms": 60000,
       "name": "Evening",
       "url": "https://open.spotify.com/track/65Ave83Qf1luH6FKecLRbf"
+    },
+    {
+      "album": {
+        "name": "Evening (Ambient Harp Version)",
+        "url": "https://open.spotify.com/album/6tmxePwuL6wsJxJZ9TYCW9"
+      },
+      "artists": [
+        {
+          "name": "Harp Flow",
+          "url": "https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Evening - Ambient Harp Version",
+      "url": "https://open.spotify.com/track/0AfqS1K7rKMVuP95eH5Okn"
     },
     {
       "album": {
@@ -23547,6 +23601,42 @@
       "duration_ms": 60441,
       "name": "Shadows In Dreams Arr. For Strings",
       "url": "https://open.spotify.com/track/58Ylc6oh0YNvQbG44sz7nJ"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/0WkK54PtjRNnzOPnC4dVM6"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60204,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/6onruzvKY75iuYHfIWJZDB"
+    },
+    {
+      "album": {
+        "name": "Shine (Ambient Harp Version)",
+        "url": "https://open.spotify.com/album/4EOCmmEoXL5qVZQvt60a1B"
+      },
+      "artists": [
+        {
+          "name": "Harp Flow",
+          "url": "https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60204,
+      "name": "Shine - Ambient Harp Version",
+      "url": "https://open.spotify.com/track/0GqNZPIW9Cy7qRL0nn3OPw"
     },
     {
       "album": {

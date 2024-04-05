@@ -4,7 +4,7 @@
 
 > This is Autechre\. The essential tracks, all in one playlist.
 
-216 songs - 1 day 1 hr 9 min
+217 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [esc desc](https://open.spotify.com/track/4WOwxNRtErpf5sWuvWvGVu) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 4:55 | 2022-05-30 | 2023-01-22 |
 | [esle 0](https://open.spotify.com/track/4I9ZIyy2jlHb8UEkd3NWCd) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [PLUS](https://open.spotify.com/album/5V9HrJ2u1noLUk0V4HF8uM) | 3:13 | 2022-06-01 | 2022-06-03 |
 | [esle 0](https://open.spotify.com/track/6MHbpG114WfxbmLbIptTcb) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [PLUS](https://open.spotify.com/album/1uFL8idnNTz0CdvLYyCGBC) | 3:13 | 2024-03-10 | 2024-03-19 |
+| [Etchogon\-S](https://open.spotify.com/track/0o5Tr39Y4UDdtam8rnnIx5) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Move Of Ten](https://open.spotify.com/album/0scnICk0PaZCtOKLTHWg6g) | 4:54 | 2024-04-05 |  |
 | [Eutow](https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 4:15 | 2022-05-29 | 2023-02-16 |
 | [Eutow](https://open.spotify.com/track/4uRXAyNL5T4KY7iawdfJBZ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 4:15 | 2023-02-15 |  |
 | [F7](https://open.spotify.com/track/1djSx1nXAb7nekBdshLXjE) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK) | 5:56 | 2023-02-14 |  |
@@ -158,7 +159,7 @@
 | [Pir](https://open.spotify.com/track/7KqchmQ1hlHszPlEiLMGme) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [EP7](https://open.spotify.com/album/2SthTfQKOf6AMzU4QajZfW) | 3:32 | 2023-06-19 | 2024-03-10 |
 | [plyPhon](https://open.spotify.com/track/0yBBQ0YaQGXDXBoJwdDJfN) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/3ZXEJLSFbQ13rhevpc7L0Y) | 2:33 | 2022-07-02 | 2023-02-17 |
 | [plyPhon](https://open.spotify.com/track/2EN4n96Ymb5hDjlfZnzxis) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK) | 2:33 | 2023-02-16 |  |
-| [prac\-f](https://open.spotify.com/track/5yZIqKbCZwMOfokwe1zvwG) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs) | 4:19 | 2024-03-29 |  |
+| [prac\-f](https://open.spotify.com/track/5yZIqKbCZwMOfokwe1zvwG) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs) | 4:19 | 2024-03-29 | 2024-04-05 |
 | [Pro Radii](https://open.spotify.com/track/4ssgkBF25yIxJaER2DiQQW) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Untilted](https://open.spotify.com/album/7bcwwfwkWvYbDW72ooywDQ) | 8:41 | 2022-05-29 | 2022-10-07 |
 | [psin AM](https://open.spotify.com/track/0LUkyyoPeSHPl4z0swAbfX) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 6:20 | 2022-05-29 | 2022-10-13 |
 | [pt2ph8](https://open.spotify.com/track/4qJm6hIBf3UUg9j38cgA5X) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/5iaRpin36ZjaOC6PMAZ02l) | 4:09 | 2022-12-13 | 2023-02-11 |

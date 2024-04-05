@@ -1,32 +1,32 @@
 {
-  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P?si=dZwcyL4NTwS3bnIqUWGHOA\">Delight Munachy</a>",
-  "num_followers": 8180,
+  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn?si=s0FACvsIRauTYAVMvwe3Vw\">KIMAH</a>",
+  "num_followers": 8202,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzE3OThkN2RlMDA5NGVlZTg4MWIzYmZkMGFjYmZlMTg2YjFkZDg0",
+  "snapshot_id": "MCw3MTUzYTRkZjliZTVkNGQyODc4YzM0NmUzODc2MjgzNzkwOTEwNWRj",
   "tracks": [
     {
-      "added_at": "2024-02-02 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Emperor of the Universe",
-        "url": "https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK"
+        "name": "Say",
+        "url": "https://open.spotify.com/album/2yiQBODM4hCjAlUp4yIJiq"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
         },
         {
-          "name": "Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
         }
       ],
-      "duration_ms": 965565,
-      "name": "Emperor of the Universe",
-      "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
+      "duration_ms": 139764,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/5HXD6yjXXItBmHxXx1cCpc"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -165,6 +165,26 @@
       "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
     },
     {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Emperor of the Universe",
+        "url": "https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+        }
+      ],
+      "duration_ms": 965565,
+      "name": "Emperor of the Universe",
+      "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
+    },
+    {
       "added_at": "2024-03-08 00:01:00",
       "album": {
         "name": "Jesus, Lamb Of God (Live)",
@@ -185,22 +205,6 @@
       "url": "https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr"
     },
     {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Aileyipada",
-        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 395555,
-      "name": "Aileyipada",
-      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
-    },
-    {
       "added_at": "2024-03-30 14:53:05",
       "album": {
         "name": "Than Before",
@@ -215,6 +219,22 @@
       "duration_ms": 320280,
       "name": "More",
       "url": "https://open.spotify.com/track/5q4Tz1jwVjpQLU3AJFZ0AR"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Aileyipada",
+        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 395555,
+      "name": "Aileyipada",
+      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -297,22 +317,6 @@
       "url": "https://open.spotify.com/track/7pJJctTJ5LthbfxzIAbseZ"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Blast (tongues)",
-        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 204841,
-      "name": "Blast - tongues",
-      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
-    },
-    {
       "added_at": "2024-03-15 00:01:00",
       "album": {
         "name": "Testimony",
@@ -327,6 +331,22 @@
       "duration_ms": 177255,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Blast (tongues)",
+        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 204841,
+      "name": "Blast - tongues",
+      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -437,6 +457,22 @@
       "url": "https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i"
     },
     {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Na God I Dey Praise (Craze)",
+        "url": "https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz"
+      },
+      "artists": [
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+        }
+      ],
+      "duration_ms": 218644,
+      "name": "Na God I Dey Praise (Craze)",
+      "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
+    },
+    {
       "added_at": "2024-01-12 00:01:00",
       "album": {
         "name": "Amaram Onyewem (Live)",
@@ -473,20 +509,20 @@
       "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
     },
     {
-      "added_at": "2024-02-23 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Na God I Dey Praise (Craze)",
-        "url": "https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz"
+        "name": "Yeshua (Worship Rendition)",
+        "url": "https://open.spotify.com/album/0KTOUGmGuoO81AVc4ro4EO"
       },
       "artists": [
         {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
         }
       ],
-      "duration_ms": 218644,
-      "name": "Na God I Dey Praise (Craze)",
-      "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
+      "duration_ms": 216962,
+      "name": "Yeshua (Worship Rendition)",
+      "url": "https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -579,6 +615,22 @@
       "duration_ms": 172083,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "heaven on earth",
+        "url": "https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "duration_ms": 203235,
+      "name": "heaven on earth",
+      "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -675,18 +727,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "heaven on earth",
-        "url": "https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA"
+        "name": "Diamant",
+        "url": "https://open.spotify.com/album/5MjLBaWtjwapJ17WVNnWUX"
       },
       "artists": [
         {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+          "name": "Isaac M",
+          "url": "https://open.spotify.com/artist/3vyQ5qr9ke8gRA2VqQtg26"
         }
       ],
-      "duration_ms": 203235,
-      "name": "heaven on earth",
-      "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
+      "duration_ms": 178059,
+      "name": "Diamant",
+      "url": "https://open.spotify.com/track/38Eb7bpsTlG6MJ45XLXKAo"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -707,22 +759,6 @@
       "duration_ms": 186239,
       "name": "Mercy (Hlabelela)",
       "url": "https://open.spotify.com/track/03ex4OAmmBM2ci5W0q2kHm"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Diamant",
-        "url": "https://open.spotify.com/album/5MjLBaWtjwapJ17WVNnWUX"
-      },
-      "artists": [
-        {
-          "name": "Isaac M",
-          "url": "https://open.spotify.com/artist/3vyQ5qr9ke8gRA2VqQtg26"
-        }
-      ],
-      "duration_ms": 178059,
-      "name": "Diamant",
-      "url": "https://open.spotify.com/track/38Eb7bpsTlG6MJ45XLXKAo"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -761,22 +797,6 @@
       "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
     },
     {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 168777,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
-    },
-    {
       "added_at": "2023-12-08 00:09:00",
       "album": {
         "name": "Unconditional Love (feat. Niiella)",
@@ -795,6 +815,38 @@
       "duration_ms": 226017,
       "name": "Unconditional Love (feat. Niiella)",
       "url": "https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 168777,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Welenga",
+        "url": "https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ"
+      },
+      "artists": [
+        {
+          "name": "Beracah",
+          "url": "https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i"
+        }
+      ],
+      "duration_ms": 195970,
+      "name": "Welenga",
+      "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -833,6 +885,22 @@
       "url": "https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA"
     },
     {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Good God",
+        "url": "https://open.spotify.com/album/6JHh4CujygAfP8O0KaMPic"
+      },
+      "artists": [
+        {
+          "name": "Ogocity",
+          "url": "https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/4IQWAPHjNX1ovrpFvlT3YZ"
+    },
+    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "BBTNTL",
@@ -847,22 +915,6 @@
       "duration_ms": 169621,
       "name": "BBTNTL",
       "url": "https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Welenga",
-        "url": "https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ"
-      },
-      "artists": [
-        {
-          "name": "Beracah",
-          "url": "https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i"
-        }
-      ],
-      "duration_ms": 195970,
-      "name": "Welenga",
-      "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -881,22 +933,6 @@
       "url": "https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3"
     },
     {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Good God",
-        "url": "https://open.spotify.com/album/6JHh4CujygAfP8O0KaMPic"
-      },
-      "artists": [
-        {
-          "name": "Ogocity",
-          "url": "https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Good God",
-      "url": "https://open.spotify.com/track/4IQWAPHjNX1ovrpFvlT3YZ"
-    },
-    {
       "added_at": "2024-02-23 00:01:00",
       "album": {
         "name": "Mess into a Message",
@@ -911,46 +947,6 @@
       "duration_ms": 197101,
       "name": "Mess into a Message",
       "url": "https://open.spotify.com/track/76aJBXDHpUhWS3xOeqKlSw"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Centre(d)",
-        "url": "https://open.spotify.com/album/1n8WZO8hiBkVAOQnvIjuwo"
-      },
-      "artists": [
-        {
-          "name": "Eri Ife",
-          "url": "https://open.spotify.com/artist/73HQr5WapR3nN1hP2ZTDJg"
-        }
-      ],
-      "duration_ms": 238124,
-      "name": "The Great Romance",
-      "url": "https://open.spotify.com/track/5FWnDevRoFJVdXlfITYhX4"
-    },
-    {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Indumiso yaseStezi",
-        "url": "https://open.spotify.com/album/5Ci8C1GuiWOK5tWQeq2KPd"
-      },
-      "artists": [
-        {
-          "name": "Thinah Zungu",
-          "url": "https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg"
-        },
-        {
-          "name": "NUZ VOJ",
-          "url": "https://open.spotify.com/artist/5UKtBCqzTmnzTsYqcwt18O"
-        },
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/3S4LQkYcseGEqdwXe3MWYN"
-        }
-      ],
-      "duration_ms": 319837,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/0oFuL4quMVGs9Hi3NN7nkM"
     }
   ],
   "unique_name": "Redeemed",

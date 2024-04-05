@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 32659,
+  "2024-04-05": 32708,
   "date_first_scraped": "2022-08-06",
   "description": "Afrobeats love stories have the best beginnings",
   "name": "Lovin' Beats",
@@ -123,6 +123,24 @@
       "duration_ms": 188737,
       "name": "360",
       "url": "https://open.spotify.com/track/1cc0t6E1dXtbiCG36dORhP"
+    },
+    {
+      "album": {
+        "name": "4 Days",
+        "url": "https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154199,
+      "name": "4 Days",
+      "url": "https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74"
     },
     {
       "album": {
@@ -3109,7 +3127,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 153232,
       "name": "For Daddy",
       "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
@@ -7244,6 +7262,24 @@
     },
     {
       "album": {
+        "name": "Puul",
+        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172486,
+      "name": "Puul",
+      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
+    },
+    {
+      "album": {
         "name": "Quick Question",
         "url": "https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5"
       },
@@ -8951,7 +8987,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"

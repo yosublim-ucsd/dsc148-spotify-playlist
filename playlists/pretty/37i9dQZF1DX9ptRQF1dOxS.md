@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,329 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,363 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 19 | [Slugeye](https://open.spotify.com/track/51rSDWdgqtngCZUfzzcvXJ) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH) | 3:35 |
 | 20 | [The Pain](https://open.spotify.com/track/5tvDKkm8Twhq6AzwVyAVvC) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [Beach Day](https://open.spotify.com/album/0C9xqtS8KKoFQVBrUZD8jz) | 3:41 |
 | 21 | [Beautiful Soul](https://open.spotify.com/track/6YSMslNGZJe23ZjCMXUOlx) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Return](https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0) | 3:16 |
-| 22 | [Whatever You Want](https://open.spotify.com/track/5vfbSgUkODCDdaZlKBF5Ji) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Over When It's Over](https://open.spotify.com/album/6jDVKFjMqctoXlhxDl0FyW) | 3:40 |
+| 22 | [Whatever You Want](https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Whatever You Want](https://open.spotify.com/album/3LcMJUKvD40lP4a3AjQVzc) | 3:40 |
 | 23 | [Rent](https://open.spotify.com/track/79z9ZX39sTIk4H6qC0jinU) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 4:42 |
 | 24 | [On Your Side](https://open.spotify.com/track/1HFwvkYsBkmHfjintlYaFZ) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 4:27 |
 | 25 | [All Now](https://open.spotify.com/track/63Q9xNRdq42QZN4f2NgNv8) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [All Now](https://open.spotify.com/album/3N3I408c25BJ3PjmLP5Itg) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 49 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 |
 | 50 | [I Guess](https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [I Guess](https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E) | 3:44 |
 
-Snapshot ID: `MCw3NTc4ZmRlZWJjZjYwNjkxNGU0MTQ0ZjM0ZGYxNjc4ZTUzZmFjNjgz`
+Snapshot ID: `MCwyN2NkZDQyYjZiMTlhOTBkNzI4OTFmNTZkMjQ2YzI2NzA5ODcwZGIw`

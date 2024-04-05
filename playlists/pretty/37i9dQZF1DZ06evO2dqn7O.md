@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,152 likes - 53 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,169 likes - 53 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 52 | [Devastation \(with PAMÉ\)](https://open.spotify.com/track/6oxH7cP0JbbICm8DdVYta9) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [Devastation \(with PAMÉ\)](https://open.spotify.com/album/1yFtcNjSezziWM0lXQAT5h) | 3:22 |
 | 53 | [WASTELAND](https://open.spotify.com/track/1XzzHgGGmul65gGyjlmxBj) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 3:08 |
 
-Snapshot ID: `MCw5ZDA5YWMyM2I2MjBkOGEzM2EwNjBiMDFiYTg3NjkyMTgxMDQ5NWZi`
+Snapshot ID: `MCwwZjcyYmFmYzVkYjc3M2JmYTZhZTBkMzgxOWMxYmQ4MTFkZTkwYTVh`

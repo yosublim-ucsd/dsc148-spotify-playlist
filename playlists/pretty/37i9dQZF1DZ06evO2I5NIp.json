@@ -1,12 +1,12 @@
 {
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
-  "num_followers": 4696,
+  "num_followers": 4704,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjZkOWYyNDgxZWI2ZTBlMTkzMDg2N2FjZDQxYWNjNDQ2MWQ1NDI2",
+  "snapshot_id": "MCwxMjY4OGMyNzU4NzIzMzk1ZTVlYjBhNmRkZWMyMDhlZjdjMWRlN2Ix",
   "tracks": [
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 233866,
-      "name": "The Battle Is Over (But The War Goes On)",
-      "url": "https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9"
+      "duration_ms": 197920,
+      "name": "Isn't That So",
+      "url": "https://open.spotify.com/track/3I0NjntD1g4OVC6zBQjsrT"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 197920,
-      "name": "Isn't That So",
-      "url": "https://open.spotify.com/track/3I0NjntD1g4OVC6zBQjsrT"
+      "duration_ms": 233866,
+      "name": "The Battle Is Over (But The War Goes On)",
+      "url": "https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/0opbokPzAGFGb950SHPzHq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "America's Child",
         "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 271313,
       "name": "Such A Pretty Flame",
       "url": "https://open.spotify.com/track/3LeiPSKvRLcIyzKkdtafrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 279640,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/0opbokPzAGFGb950SHPzHq"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "The Push I Need",
-      "url": "https://open.spotify.com/track/3Ym4ECxUj4HKDBkhflmKFe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "America's Child",
         "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 174374,
       "name": "One I Love",
       "url": "https://open.spotify.com/track/3e4hH7vAzHVqJNcRDKtPMU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "The Push I Need",
+      "url": "https://open.spotify.com/track/3Ym4ECxUj4HKDBkhflmKFe"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 238210,
+  "num_followers": 238255,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzY3OThhM2I2NzI0NGJiOGM1M2M2NmVmZmNmYjVjNzUzMjhhOTBm",
+  "snapshot_id": "MCw0MzRiYjYyYTA4ODBkMzJmNDNmMTQ0NmFiZmY2NDY5ODBiNjJlOWRk",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sixteen Tons (feat. Jeff Beck) [Live From London]",
-        "url": "https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge"
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
       },
       "artists": [
         {
           "name": "ZZ Top",
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        },
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 197734,
-      "name": "Sixteen Tons (feat. Jeff Beck) - Live from London",
-      "url": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu"
+      "duration_ms": 209786,
+      "name": "Master of Sparks (2006 Remaster)",
+      "url": "https://open.spotify.com/track/5Xk45LfYIcQbzH5wqHEFi8"
     },
     {
       "added_at": null,
@@ -655,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+        "name": "Sixteen Tons (feat. Jeff Beck) [Live From London]",
+        "url": "https://open.spotify.com/album/65FLVEvkrT0X2wukXA20ge"
       },
       "artists": [
         {
           "name": "ZZ Top",
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        },
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 209786,
-      "name": "Master of Sparks (2006 Remaster)",
-      "url": "https://open.spotify.com/track/5Xk45LfYIcQbzH5wqHEFi8"
+      "duration_ms": 197734,
+      "name": "Sixteen Tons (feat. Jeff Beck) - Live from London",
+      "url": "https://open.spotify.com/track/1lzngZJeLBOU5pcg663kiu"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Velcro Fly",
-      "url": "https://open.spotify.com/track/0RdncvNPTN9NVX8VffgKsR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tres Hombres (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 151680,
       "name": "Move Me on Down the Line (2005 Remaster)",
       "url": "https://open.spotify.com/track/3wgQ2CHoisj6UWUK1EWBEn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Velcro Fly",
+      "url": "https://open.spotify.com/track/0RdncvNPTN9NVX8VffgKsR"
     },
     {
       "added_at": null,

@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 726203,
+  "2024-04-05": 726286,
   "date_first_scraped": "2021-12-21",
   "description": "Holdin' it down for the westside. Cover: Mozzy",
   "name": "Westside Story",
@@ -5137,6 +5137,24 @@
       "duration_ms": 101616,
       "name": "Fresh Cut Friday",
       "url": "https://open.spotify.com/track/2rVEASLlH39KNZYccDPuqX"
+    },
+    {
+      "album": {
+        "name": "Friendly Fire",
+        "url": "https://open.spotify.com/album/70aAcOj02mHv8lsRC0LxqH"
+      },
+      "artists": [
+        {
+          "name": "ShooterGang Kony",
+          "url": "https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176469,
+      "name": "Friendly Fire",
+      "url": "https://open.spotify.com/track/6P6dejZtZTkTjivoYAHSkf"
     },
     {
       "album": {

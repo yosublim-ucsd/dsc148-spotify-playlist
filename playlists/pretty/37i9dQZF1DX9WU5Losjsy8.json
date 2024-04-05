@@ -1,12 +1,12 @@
 {
   "description": "ist nur einmal im Jahr...",
-  "num_followers": 400431,
+  "num_followers": 400536,
   "original_name": "Malle Party 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYThhMzdkMWNkZjdlN2U2NTlmMWM4MDcwY2FhNDk0NmQwNWI5NGE2",
+  "snapshot_id": "MCwxYmQ0M2RiODI2MjRjOTY0NmZjOGYyZmRhMjVjYjg4MDM4NzkzMWYx",
   "tracks": [
     {
       "added_at": "2024-03-27 06:55:37",
@@ -235,38 +235,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Mountain Man",
-        "url": "https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a"
-      },
-      "artists": [
-        {
-          "name": "Andreas Gabalier",
-          "url": "https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD"
-        }
-      ],
-      "duration_ms": 180252,
-      "name": "Hulapalu",
-      "url": "https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Dicht im Flieger",
-        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Dicht im Flieger",
-      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Mein kleines Herz (Bam Bam)",
         "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
@@ -287,6 +255,38 @@
       "duration_ms": 150090,
       "name": "Mein kleines Herz (Bam Bam)",
       "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Dicht im Flieger",
+        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Dicht im Flieger",
+      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Mountain Man",
+        "url": "https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gabalier",
+          "url": "https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD"
+        }
+      ],
+      "duration_ms": 180252,
+      "name": "Hulapalu",
+      "url": "https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -371,42 +371,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Mama Laudaaa",
-        "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
-      },
-      "artists": [
-        {
-          "name": "Almklausi",
-          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
-        },
-        {
-          "name": "Specktakel",
-          "url": "https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz"
-        }
-      ],
-      "duration_ms": 215976,
-      "name": "Mama Laudaaa",
-      "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Oben ohne",
-        "url": "https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 179565,
-      "name": "Oben ohne",
-      "url": "https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Ein bisschen Aroma (Stereoact Remix)",
         "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
       },
@@ -427,6 +391,22 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "Oben ohne",
+        "url": "https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 179565,
+      "name": "Oben ohne",
+      "url": "https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "Helene Fischer (Deluxe Version)",
         "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 205653,
       "name": "Herzbeben",
       "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Mama Laudaaa",
+        "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
+      },
+      "artists": [
+        {
+          "name": "Almklausi",
+          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
+        },
+        {
+          "name": "Specktakel",
+          "url": "https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz"
+        }
+      ],
+      "duration_ms": 215976,
+      "name": "Mama Laudaaa",
+      "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Herzfrequenz",
-        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00fcmchen",
-          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "Herz an Herz",
-      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Midnight Lady",
         "url": "https://open.spotify.com/album/68DOa8MyHEElxIOhatDQJN"
       },
@@ -535,22 +519,18 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Layla",
-        "url": "https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4"
+        "name": "Herzfrequenz",
+        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
       },
       "artists": [
         {
-          "name": "DJ Robin",
-          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
-        },
-        {
-          "name": "Sch\u00fcrze",
-          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+          "name": "Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
         }
       ],
-      "duration_ms": 185437,
-      "name": "Layla",
-      "url": "https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK"
+      "duration_ms": 227040,
+      "name": "Herz an Herz",
+      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -567,6 +547,26 @@
       "duration_ms": 128713,
       "name": "MDMA",
       "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Layla",
+        "url": "https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4"
+      },
+      "artists": [
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        }
+      ],
+      "duration_ms": 185437,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Auf dem Besen an den Tresen",
-        "url": "https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH"
-      },
-      "artists": [
-        {
-          "name": "Milla Pink",
-          "url": "https://open.spotify.com/artist/3SPz8uSbGWbwUF6zWGUpJ5"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Auf dem Besen an den Tresen",
-      "url": "https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Zeig mir den Platz an der Sonne",
         "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 244640,
       "name": "Griechischer Wein",
       "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Auf dem Besen an den Tresen",
+        "url": "https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH"
+      },
+      "artists": [
+        {
+          "name": "Milla Pink",
+          "url": "https://open.spotify.com/artist/3SPz8uSbGWbwUF6zWGUpJ5"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Auf dem Besen an den Tresen",
+      "url": "https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU"
     },
     {
       "added_at": "2024-03-27 06:55:37",

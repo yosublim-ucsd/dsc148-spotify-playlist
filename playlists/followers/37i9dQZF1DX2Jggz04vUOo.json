@@ -1,5 +1,5 @@
 {
-  "2024-04-04": 10590,
+  "2024-04-05": 10613,
   "date_first_scraped": "2022-07-27",
   "description": "<a href=\"spotify:artist:3iT6d90Vy630068736OgW8\">Foxall</a>'s favorite tracks. Updated regularly. Curated by Foxall. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
   "name": "Foxall's track IDs",
@@ -2017,10 +2017,28 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 438967,
       "name": "Spacehall",
       "url": "https://open.spotify.com/track/2qXWBjO9BNVURgc9tDJwmS"
+    },
+    {
+      "album": {
+        "name": "Moodfamily Compilation I",
+        "url": "https://open.spotify.com/album/0mBJ44IRxHyPPJgpPcM7R1"
+      },
+      "artists": [
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/7l9DjVOhlzTmBhCLW8Q2we"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438967,
+      "name": "Spacehall",
+      "url": "https://open.spotify.com/track/5OJ0wA7NmsFb69dlbPcfUh"
     },
     {
       "album": {

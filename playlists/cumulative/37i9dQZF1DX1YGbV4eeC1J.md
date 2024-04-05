@@ -4,11 +4,11 @@
 
 > Exceptionally vivid Swahili love stories for you and yours\.  Cover: Phina
 
-182 songs - 10 hr 27 min
+183 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abee](https://open.spotify.com/track/3Io6cTgNdEkXF4PFo8VqxP) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [Abee](https://open.spotify.com/album/18OAT8jNZdz7nSru10QwSn) | 3:09 | 2023-11-30 |  |
+| [Abee](https://open.spotify.com/track/3Io6cTgNdEkXF4PFo8VqxP) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [Abee](https://open.spotify.com/album/18OAT8jNZdz7nSru10QwSn) | 3:09 | 2023-11-30 | 2024-04-05 |
 | [African Girl](https://open.spotify.com/track/43jov3soAgRlQtC8mfKM58) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3), [Joh Marley](https://open.spotify.com/artist/6IVRhkrCpt2PQxqY5Y39yz) | [African Girl](https://open.spotify.com/album/2NvEWfNVQnbq3eX3td3z1k) | 3:35 | 2024-01-25 |  |
 | [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 | 2022-05-26 | 2022-10-28 |
 | [All I Need](https://open.spotify.com/track/7wsTFtax8COrbO5BYRD3Dh) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [All I Need](https://open.spotify.com/album/0FkKqxcA1miGb9IkW2Vbgp) | 3:07 | 2023-10-26 | 2024-02-23 |
@@ -168,6 +168,7 @@
 | [Tajiri](https://open.spotify.com/track/4m6fKxNk1aJG8qY7eSX5CG) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Tajiri](https://open.spotify.com/album/3NfSoXOGS1wtJAXgM1Mjwd) | 2:55 | 2024-03-14 | 2024-03-22 |
 | [Tamu](https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:36 | 2022-05-26 | 2023-06-16 |
 | [This Love](https://open.spotify.com/track/2qMwrsE1QFVCHlKGgs49Y0) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [This Love](https://open.spotify.com/album/5QBvP8LsJEAVTp4dohusx2) | 3:09 | 2023-12-22 |  |
+| [Till I Die](https://open.spotify.com/track/5q5kRdpB5sNYXuvTbCZUZR) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi) | [Till I Die](https://open.spotify.com/album/5gPQrFRHCI19mzvfzCJlYL) | 1:58 | 2024-04-04 |  |
 | [Tiririka](https://open.spotify.com/track/0cjQ4PR7bYMXl2GWMIRlAm) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Tiririka](https://open.spotify.com/album/2KQwOdsGxPTILQpk5ny7nB) | 3:47 | 2024-03-14 | 2024-03-22 |
 | [Trouble](https://open.spotify.com/track/2a8GmionOwrvrA0239jkNd) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Trouble](https://open.spotify.com/album/5bJS2FXo94QPkxisEt15kS) | 3:25 | 2023-06-15 | 2023-11-07 |
 | [Two](https://open.spotify.com/track/7L2rH4sJ94uom7MZxNybzr) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Two](https://open.spotify.com/album/1STmmjFUVBLJx2OcAvT5CX) | 3:33 | 2023-03-09 | 2023-09-22 |

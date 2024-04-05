@@ -1,9 +1,27 @@
 {
-  "2024-04-04": 938149,
+  "2024-04-05": 938535,
   "date_first_scraped": "2022-05-12",
   "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Elmatadormc7",
   "name": "Plus Ultra",
   "tracks": [
+    {
+      "album": {
+        "name": "00",
+        "url": "https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134347,
+      "name": "00",
+      "url": "https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W"
+    },
     {
       "album": {
         "name": "07:34",
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-04",
       "duration_ms": 210541,
       "name": "Casa Mia",
       "url": "https://open.spotify.com/track/4cWrKV5SN7AknqPy4ryBDG"
