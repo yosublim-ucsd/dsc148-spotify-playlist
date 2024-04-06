@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 225791,
+  "2024-04-06": 225783,
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Tony 2Milli in cover \ud83d\udc0d \ud83c\udfd2",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Silent Bob in cover.",
   "name": "Raptopia",
   "tracks": [
     {
@@ -4185,7 +4185,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 226115,
       "name": "Chicago Freestyle",
       "url": "https://open.spotify.com/track/4PyJpuibdpUIjPFbMKw4sH"
@@ -11609,7 +11609,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 209261,
       "name": "MAMMA",
       "url": "https://open.spotify.com/track/28tVShuhCShyChDFHXEzFL"
@@ -12351,6 +12351,24 @@
       "duration_ms": 140505,
       "name": "Merce",
       "url": "https://open.spotify.com/track/07E65Obut2yA4w5QwjdVbK"
+    },
+    {
+      "album": {
+        "name": "MERCOLED\u00cc",
+        "url": "https://open.spotify.com/album/3Az1k3g9oasddvMM5umLe2"
+      },
+      "artists": [
+        {
+          "name": "ALDA",
+          "url": "https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225128,
+      "name": "MERCOLED\u00cc",
+      "url": "https://open.spotify.com/track/3us3mAJQ3FHF7f5VvqMVCi"
     },
     {
       "album": {
@@ -14013,6 +14031,24 @@
       "duration_ms": 129908,
       "name": "NON TI SEI MAI DIVERTITA COS\u00cc",
       "url": "https://open.spotify.com/track/5OPX34gJT9DgYl2C9jgHZF"
+    },
+    {
+      "album": {
+        "name": "NON \u00c8 FACILE",
+        "url": "https://open.spotify.com/album/2VIBOlpbBVZ5bn1vKJRJsf"
+      },
+      "artists": [
+        {
+          "name": "Red Roses",
+          "url": "https://open.spotify.com/artist/3dA6K34y5FCgngffHJTjpY"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "NON \u00c8 FACILE",
+      "url": "https://open.spotify.com/track/37NB4kJlOnf8BGjDUIMJF0"
     },
     {
       "album": {
@@ -15784,6 +15820,28 @@
     },
     {
       "album": {
+        "name": "Welcome To CS Nord",
+        "url": "https://open.spotify.com/album/6xjyRhsVX5LYAf92xE7YGP"
+      },
+      "artists": [
+        {
+          "name": "Glasond",
+          "url": "https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq"
+        },
+        {
+          "name": "Hammon",
+          "url": "https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147735,
+      "name": "Prima Ci Prendiamo Roma",
+      "url": "https://open.spotify.com/track/5CP4uqaXaVVNdwS6DphiJN"
+    },
+    {
+      "album": {
         "name": "CANTERA MACHETE, VOL. II",
         "url": "https://open.spotify.com/album/41nzTTUD0063x7Te16AYau"
       },
@@ -16574,6 +16632,28 @@
     },
     {
       "album": {
+        "name": "Ridendo Nella Banca",
+        "url": "https://open.spotify.com/album/7AkaleUxdBo73UPbULTx6m"
+      },
+      "artists": [
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        },
+        {
+          "name": "Luchetto",
+          "url": "https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Ridendo Nella Banca",
+      "url": "https://open.spotify.com/track/59wVqn7bVIAgwDTvoSIj9m"
+    },
+    {
+      "album": {
         "name": "Right",
         "url": "https://open.spotify.com/album/129iazxnemeWUspTWcvHg3"
       },
@@ -17084,6 +17164,28 @@
     },
     {
       "album": {
+        "name": "SAB",
+        "url": "https://open.spotify.com/album/53OXeIn2SNDGOYmrYAchK7"
+      },
+      "artists": [
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "SAB",
+      "url": "https://open.spotify.com/track/2feRGIQMsbAiaREBKD5Jpl"
+    },
+    {
+      "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh"
       },
@@ -17259,6 +17361,32 @@
       "duration_ms": 125151,
       "name": "SANGUE CALDO",
       "url": "https://open.spotify.com/track/0G9LVojrr4a6heAOEmoaBX"
+    },
+    {
+      "album": {
+        "name": "Real Talk - 5/6 feat. Tony Boy",
+        "url": "https://open.spotify.com/album/70xzri4dvGeP1pU5i9awfo"
+      },
+      "artists": [
+        {
+          "name": "Real Talk",
+          "url": "https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/6c3y5GxfMe6dWgUtTLnnCE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82343,
+      "name": "SANTO (feat. Tony Boy & Swan)",
+      "url": "https://open.spotify.com/track/6dToetZB2vW270C9QvdAdO"
     },
     {
       "album": {
@@ -17477,7 +17605,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 185736,
       "name": "Sei del Mattino",
       "url": "https://open.spotify.com/track/0SeoeFL0XM5YpTag15SX9n"
@@ -17717,6 +17845,28 @@
       "duration_ms": 136666,
       "name": "Settembre",
       "url": "https://open.spotify.com/track/4hUS2xbkB22ErKwVi8PyCg"
+    },
+    {
+      "album": {
+        "name": "4ever Young (Deluxe)",
+        "url": "https://open.spotify.com/album/0gm6fM3b5HrfV306e20I5l"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148023,
+      "name": "Sex Drugs Money",
+      "url": "https://open.spotify.com/track/7wIPI84dqSrD7bgPPgHygA"
     },
     {
       "album": {
@@ -21079,7 +21229,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 112941,
       "name": "Wemby Freestyle",
       "url": "https://open.spotify.com/track/0nCjE1Hr2ErEEAzg1W18T4"

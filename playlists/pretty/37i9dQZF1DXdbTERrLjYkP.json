@@ -1,13 +1,77 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Sabrina Sterling",
-  "num_followers": 95026,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Eva Snyder",
+  "num_followers": 95041,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTEyOGI0MDYxNDY3YzYwZWUyYmFlZGUyNjk2MDcyNWQ5YTU5YjZh",
+  "snapshot_id": "MCwxNWQ2MzM0NTg3NjNjMjQ3MTBkNzllMDZlYzhiNWE3NzZjYjEzOTU4",
   "tracks": [
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "cape cod",
+        "url": "https://open.spotify.com/album/5T8mQXWW0lTpfy4M9diWU1"
+      },
+      "artists": [
+        {
+          "name": "Eva Snyder",
+          "url": "https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l"
+        }
+      ],
+      "duration_ms": 180946,
+      "name": "cape cod",
+      "url": "https://open.spotify.com/track/6WtjO8jDFxMRiixTCKbHyF"
+    },
+    {
+      "added_at": "2024-04-05 20:18:44",
+      "album": {
+        "name": "The Favorite",
+        "url": "https://open.spotify.com/album/42zSMFzegNPqbs8roRvI43"
+      },
+      "artists": [
+        {
+          "name": "India Thieriot",
+          "url": "https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg"
+        }
+      ],
+      "duration_ms": 185975,
+      "name": "The Favorite",
+      "url": "https://open.spotify.com/track/5fOJ2ER7TB9DNjFchr9m3P"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Let It Burn",
+        "url": "https://open.spotify.com/album/7JW7Kt0eVdp5rcOe9dBPfZ"
+      },
+      "artists": [
+        {
+          "name": "Jared Benjamin",
+          "url": "https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne"
+        }
+      ],
+      "duration_ms": 154469,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/2gipHbAjxMrggRmKEP7Qic"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Queen of Hollywood",
+        "url": "https://open.spotify.com/album/1KqfJ8A0XHIPWmFxObJB49"
+      },
+      "artists": [
+        {
+          "name": "Caity Krone",
+          "url": "https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs"
+        }
+      ],
+      "duration_ms": 296819,
+      "name": "Queen of Hollywood",
+      "url": "https://open.spotify.com/track/6gSA54ZcMahgDve60MlqJC"
+    },
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
@@ -57,22 +121,6 @@
       "url": "https://open.spotify.com/track/6vTzONIAVZMzG9UGAtv7Xv"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "I'm The Sinner",
-        "url": "https://open.spotify.com/album/47r9vuxBzDCn7oENWLPBlr"
-      },
-      "artists": [
-        {
-          "name": "Jared Benjamin",
-          "url": "https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne"
-        }
-      ],
-      "duration_ms": 132821,
-      "name": "I'm The Sinner",
-      "url": "https://open.spotify.com/track/24abicT0hYd3pdJufYNI1b"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Let's Talk",
@@ -103,6 +151,38 @@
       "duration_ms": 194741,
       "name": "Losing By A Landslide",
       "url": "https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Tippy Toes",
+        "url": "https://open.spotify.com/album/3nXahun45P81Hbx8Pyow2v"
+      },
+      "artists": [
+        {
+          "name": "Sophie Holohan",
+          "url": "https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw"
+        }
+      ],
+      "duration_ms": 249500,
+      "name": "Tippy Toes",
+      "url": "https://open.spotify.com/track/6krUyrHwGzkaF2nC6PlCSe"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "I'm The Sinner",
+        "url": "https://open.spotify.com/album/47r9vuxBzDCn7oENWLPBlr"
+      },
+      "artists": [
+        {
+          "name": "Jared Benjamin",
+          "url": "https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne"
+        }
+      ],
+      "duration_ms": 132821,
+      "name": "I'm The Sinner",
+      "url": "https://open.spotify.com/track/24abicT0hYd3pdJufYNI1b"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -815,22 +895,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/7kAXVka5jf1LjLnbK0GTfm"
-      },
-      "artists": [
-        {
-          "name": "Mariah Rose Faith",
-          "url": "https://open.spotify.com/artist/2Q2Z74Il8tZHMtfFcmz5fh"
-        }
-      ],
-      "duration_ms": 253368,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/4UMVMjGUK9mij06jp2gO3Z"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Looking For",
         "url": "https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM"
       },
@@ -843,22 +907,6 @@
       "duration_ms": 246000,
       "name": "Looking For",
       "url": "https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/2bx5KKxt6vrWVZXMIWDXZY"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 198688,
-      "name": "Behind",
-      "url": "https://open.spotify.com/track/3l3Zi7uotwaynXHtawz3C9"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -911,22 +959,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "when the time is right, you\u2019ll find me again",
-        "url": "https://open.spotify.com/album/1ZCQUEJrtwp4kJZ2Qcqzh1"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "came to the party for you (demo)",
-      "url": "https://open.spotify.com/track/1hl7wtlGV8fsRodnIjISRi"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Trustfall",
         "url": "https://open.spotify.com/album/2whIOqiGvtYyy2SA67pElo"
       },
@@ -943,22 +975,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "NEVER REALLY THE END",
-        "url": "https://open.spotify.com/album/0m8rinQENV3VFp8fud5gaD"
-      },
-      "artists": [
-        {
-          "name": "ILIRA",
-          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
-        }
-      ],
-      "duration_ms": 218220,
-      "name": "New Friend",
-      "url": "https://open.spotify.com/track/6ypdHshYFvRKxwvk3gV2TC"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "The Long Breath / The Willows",
         "url": "https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 288597,
       "name": "The Long Breath",
       "url": "https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Stay Or Surrender",
-        "url": "https://open.spotify.com/album/0ABFSXpuEMN6ggYfgHURYN"
-      },
-      "artists": [
-        {
-          "name": "Jessica Doolan",
-          "url": "https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Stay Or Surrender",
-      "url": "https://open.spotify.com/track/0amJK8Hyb5e3Or5aGJpfI1"
     },
     {
       "added_at": "2024-03-22 04:00:00",

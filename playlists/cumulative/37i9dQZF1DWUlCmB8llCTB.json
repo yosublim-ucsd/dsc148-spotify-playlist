@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con El Jordan 23 & Fuego.",
+  "description": "Perreando toda la noche con Peso Pluma y Chencho Corleone.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -6747,6 +6747,28 @@
     },
     {
       "album": {
+        "name": "HUMO",
+        "url": "https://open.spotify.com/album/4IZNJql8GcknfP0DYAsZtE"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198081,
+      "name": "HUMO",
+      "url": "https://open.spotify.com/track/6j3PRPNWLutE3CutDzH4uI"
+    },
+    {
+      "album": {
         "name": "ID",
         "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
       },
@@ -7612,7 +7634,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 206256,
       "name": "la nena de un gang$ter",
       "url": "https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk"
@@ -13936,7 +13958,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 186812,
       "name": "Se Va (feat. Noriega, Leinvd & La Mafia del Perreo)",
       "url": "https://open.spotify.com/track/2SawobaOVqqrLfcvJVpTb9"
@@ -13958,6 +13980,24 @@
       "duration_ms": 176241,
       "name": "Se Vuelve Loca",
       "url": "https://open.spotify.com/track/4DLbHF8lYhpW7QBFROWxel"
+    },
+    {
+      "album": {
+        "name": "Recap (LV Edition)",
+        "url": "https://open.spotify.com/album/6CzdtIpxl08xpF1smdISXq"
+      },
+      "artists": [
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177534,
+      "name": "Selectiva",
+      "url": "https://open.spotify.com/track/208DqEdROg3MhTMmqEyfQA"
     },
     {
       "album": {

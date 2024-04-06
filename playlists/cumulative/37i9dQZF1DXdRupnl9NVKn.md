@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-114 songs - 6 hr 6 min
+115 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bonnie & Clyde](https://open.spotify.com/track/21aIsunB7PfZI0vlIoaJPh) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [A Page](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) | 2:54 | 2022-05-22 |  |
 | [Cart](https://open.spotify.com/track/4WYLU0MgHng8t8yjtT2m2S) | [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Cart](https://open.spotify.com/album/1v3aPnfORtp7JETc4uPrwp) | 3:13 | 2022-05-22 |  |
 | [Change](https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 3:24 | 2022-10-17 |  |
+| [Could It Be](https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Could It Be](https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI) | 3:09 | 2024-04-05 |  |
 | [DAHLIA](https://open.spotify.com/track/2CxgY4VvTNA0bG2nVtmgPg) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:10 | 2022-05-22 |  |
 | [DARK \(X\-file\)](https://open.spotify.com/track/4xc3JpkI8kxLwk1SJafjzh) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:45 | 2022-10-17 |  |
 | [Doll](https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:33 | 2024-02-27 |  |

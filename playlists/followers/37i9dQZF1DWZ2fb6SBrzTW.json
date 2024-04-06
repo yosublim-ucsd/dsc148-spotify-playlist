@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 30360,
+  "2024-04-06": 30394,
   "date_first_scraped": "2022-07-19",
   "description": "Your go to Afrobeats workout playlist ",
   "name": "Keep Fit Club ",
@@ -355,6 +355,28 @@
       "duration_ms": 146364,
       "name": "Amapiano Breakfast",
       "url": "https://open.spotify.com/track/0gmOq5XKYzf2qSIGNxXiYn"
+    },
+    {
+      "album": {
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/6kfirirfpHequnP9iMRHA1"
+      },
+      "artists": [
+        {
+          "name": "Tooslim",
+          "url": "https://open.spotify.com/artist/1u84jZFjE4XgwG0HJ43WZR"
+        },
+        {
+          "name": "Terri",
+          "url": "https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148688,
+      "name": "Ammunition",
+      "url": "https://open.spotify.com/track/2krh7DGcbKuJ2Z0KdkONgv"
     },
     {
       "album": {
@@ -1843,7 +1865,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 133322,
       "name": "Dicey Baba",
       "url": "https://open.spotify.com/track/647AHuHXU7jtjJyiaIrc3w"
@@ -2373,6 +2395,24 @@
       "duration_ms": 130477,
       "name": "Faya",
       "url": "https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF"
+    },
+    {
+      "album": {
+        "name": "Fear Woman",
+        "url": "https://open.spotify.com/album/5eX0CdlONNLvROVea1nH9y"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197214,
+      "name": "Fear Woman",
+      "url": "https://open.spotify.com/track/5o9IvEm2kULFG3MRoVCVkZ"
     },
     {
       "album": {
@@ -4289,7 +4329,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 177915,
       "name": "Kpe Paso",
       "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"

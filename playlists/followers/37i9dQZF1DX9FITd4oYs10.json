@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 17952,
+  "2024-04-06": 17957,
   "date_first_scraped": "2022-03-24",
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
   "name": "Cole\u00e7\u00e3o Hip Hop",
@@ -1381,7 +1381,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 300200,
       "name": "Estilo Vagabundo",
       "url": "https://open.spotify.com/track/4gOg1djXQH0rZ78ObIQJWX"
@@ -2123,6 +2123,28 @@
       "duration_ms": 116419,
       "name": "Lembran\u00e7as",
       "url": "https://open.spotify.com/track/11z7XjeEvCV4b2xWdnQbon"
+    },
+    {
+      "album": {
+        "name": "Lembran\u00e7as",
+        "url": "https://open.spotify.com/album/3CFp1zw3UdCYvkryNuV9z8"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116419,
+      "name": "Lembran\u00e7as",
+      "url": "https://open.spotify.com/track/7cAOhHm4k2mUYcQBPaLeZa"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=nCZWvUgkRzK0a8-A9t8qEg\">Jemma Catherine</a>  ",
-  "num_followers": 21881,
+  "num_followers": 21909,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjY5MjI3NjJjZThmMzA1NmY5NDc0OGNjNTU4NjFlNjUzZDk0MjA5",
+  "snapshot_id": "MCw1Y2U0Njg1OTc2YTA3NmJiNGJmODkzOWU5YWQ2NDhjZDg2ZjhmMWUz",
   "tracks": [
     {
       "added_at": "2024-04-04 22:00:00",
@@ -455,6 +455,22 @@
       "duration_ms": 203834,
       "name": "Verlore Seun",
       "url": "https://open.spotify.com/track/14FXSq2GesUVBYb9A7BPaI"
+    },
+    {
+      "added_at": "2024-04-05 09:27:19",
+      "album": {
+        "name": "Een Keer",
+        "url": "https://open.spotify.com/album/0unTBwPsTtA99H46DljBTL"
+      },
+      "artists": [
+        {
+          "name": "Sharoney",
+          "url": "https://open.spotify.com/artist/5V8Agw2X5P5Z2HPhSPvZkZ"
+        }
+      ],
+      "duration_ms": 234330,
+      "name": "Een Keer",
+      "url": "https://open.spotify.com/track/78X8d12bgeD3RCQXlS1vEX"
     },
     {
       "added_at": "2024-03-14 22:00:00",
@@ -1011,22 +1027,6 @@
       "duration_ms": 176750,
       "name": "Buffel Van Buffelsfontein",
       "url": "https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU"
-    },
-    {
-      "added_at": "2024-02-27 09:53:02",
-      "album": {
-        "name": "Ons Sal Jonk Bly",
-        "url": "https://open.spotify.com/album/4VT7eCzFTDo2iXaEDREPVP"
-      },
-      "artists": [
-        {
-          "name": "Nicholis Louw",
-          "url": "https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI"
-        }
-      ],
-      "duration_ms": 265321,
-      "name": "Ons Sal Jonk Bly",
-      "url": "https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r"
     }
   ],
   "unique_name": "Nuwe Afrikaans",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4KuhKX5BfxcftWvCAVk1Vu.md) - [plain]
 
 > I love my girlfriend
 
-[ella <3](https://open.spotify.com/user/x_schmidt_x) - 1 like - 66 songs - 3 hr 39 min
+[ella <3](https://open.spotify.com/user/x_schmidt_x) - 1 like - 67 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,5 +74,6 @@ pretty - [cumulative](/playlists/cumulative/4KuhKX5BfxcftWvCAVk1Vu.md) - [plain]
 | 64 | [Give It All to Me](https://open.spotify.com/track/4f1MOhX1eEls7hVsEEPKIO) | [Black Pool](https://open.spotify.com/artist/4lglBegCfNnjzAqs9DBQXm) | [Here for Now](https://open.spotify.com/album/48SqeF1Cfirl9st6jO5Yck) | 4:26 |
 | 65 | [Sagittarius Superstar](https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Rainbow Mixtape](https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL) | 2:53 |
 | 66 | [All Your'n](https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:38 |
+| 67 | [Strawberries](https://open.spotify.com/track/0ESvfrHfNuAtkZp8SMJBOY) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Boys \(Side B\)](https://open.spotify.com/album/0FpgHDHjnDWxVk48Eff0wE) | 3:39 |
 
-Snapshot ID: `OTQsNDQ0NmNkNmNlNmQ0ZWQxNTNjYjRmMzlmMzBkNTgyNDQzZTVmNDEzNQ==`
+Snapshot ID: `OTUsNWE4YzI5ZDU0ZTQwMDI1OWEyNzlkM2U3NThlZDJlMjZkNGMyZmY0NA==`

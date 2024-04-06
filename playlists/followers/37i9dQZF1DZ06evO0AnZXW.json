@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 2928968,
+  "2024-04-06": 2929100,
   "date_first_scraped": "2023-06-08",
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
   "name": "This Is XXXTENTACION",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 104600,
       "name": "A GHETTO CHRISTMAS CAROL",
       "url": "https://open.spotify.com/track/5aZhp4FuKlrLz7gfJlBtcR"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 219560,
       "name": "King Of The Dead",
       "url": "https://open.spotify.com/track/46OkOaarmTsAQQFfZSsruW"

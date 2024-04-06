@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Glass Animals (pictured), Benson Boone, Griff and more!",
-  "num_followers": 849727,
+  "num_followers": 849920,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjAxODEzZWU1YTQ5Nzk1Njk1ZmQ0Y2Y2NjkwODRlNmU5MjExZDQ1",
+  "snapshot_id": "MCxjZmU3ZDI3MDBlYjc1OTZhNTQ5ZDJlYzAxNWNhYWVmNTJmNzE0OTUw",
   "tracks": [
     {
       "added_at": "2024-04-04 23:01:57",
@@ -177,6 +177,26 @@
       "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
     },
     {
+      "added_at": "2024-04-05 08:15:42",
+      "album": {
+        "name": "Scarlet 2 CLAUDE",
+        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "MASC (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/0FdW7MEbDKdz8v5TXqcFkG"
+    },
+    {
       "added_at": "2024-04-04 23:01:57",
       "album": {
         "name": "House",
@@ -243,6 +263,22 @@
       "duration_ms": 228546,
       "name": "Prep-School Gangsters",
       "url": "https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS"
+    },
+    {
+      "added_at": "2024-04-05 08:27:18",
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 229186,
+      "name": "Crocodile Tearz",
+      "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
     },
     {
       "added_at": "2024-04-04 23:01:57",
@@ -471,6 +507,26 @@
     {
       "added_at": "2024-04-04 23:01:57",
       "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "Wanna Be (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"
+    },
+    {
+      "added_at": "2024-04-04 23:01:57",
+      "album": {
         "name": "Found Heaven",
         "url": "https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5"
       },
@@ -619,6 +675,22 @@
       "duration_ms": 200010,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
+    },
+    {
+      "added_at": "2024-04-05 09:13:12",
+      "album": {
+        "name": "MADONNA & RIHANNA",
+        "url": "https://open.spotify.com/album/0r81t0FQLIyyAytNSLUbqy"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "duration_ms": 122482,
+      "name": "MADONNA & RIHANNA",
+      "url": "https://open.spotify.com/track/704qSGogleVeb46KLsMl2e"
     },
     {
       "added_at": "2024-04-04 23:01:57",
@@ -1105,6 +1177,26 @@
       "url": "https://open.spotify.com/track/2o2nTbQ1LV0yycDLykgIHx"
     },
     {
+      "added_at": "2024-04-05 09:13:12",
+      "album": {
+        "name": "Special Feeling",
+        "url": "https://open.spotify.com/album/5CuVwOalisvrfvgvgvFAgx"
+      },
+      "artists": [
+        {
+          "name": "Noxz",
+          "url": "https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2"
+        },
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Special Feeling",
+      "url": "https://open.spotify.com/track/5PFwsxWhzsjb3Yfi8U9XdM"
+    },
+    {
       "added_at": "2024-04-04 23:01:57",
       "album": {
         "name": "Jail Call",
@@ -1404,7 +1496,7 @@
       "added_at": "2024-04-04 23:01:57",
       "album": {
         "name": "Losing You",
-        "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
+        "url": "https://open.spotify.com/album/68DihqcGNgTJ4zul6L0mDi"
       },
       "artists": [
         {
@@ -1414,7 +1506,7 @@
       ],
       "duration_ms": 215331,
       "name": "Losing You",
-      "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
+      "url": "https://open.spotify.com/track/3RLIYxIHq18yBdpcoYW4lu"
     },
     {
       "added_at": "2024-04-04 23:01:57",
@@ -1599,8 +1691,8 @@
     {
       "added_at": "2024-04-04 23:01:57",
       "album": {
-        "name": "Lights Go Down",
-        "url": "https://open.spotify.com/album/68mdMXan9EfrwPs3lYyMc7"
+        "name": "I Wonder If The World Knows? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5dR8cTk0CUrkPQ1cEDPtmN"
       },
       "artists": [
         {
@@ -1610,7 +1702,7 @@
       ],
       "duration_ms": 262360,
       "name": "Lights Go Down",
-      "url": "https://open.spotify.com/track/5TH2EoYfljGZy0JXnLkb5J"
+      "url": "https://open.spotify.com/track/0P9U7WlRGmwxk9tBKU46Nb"
     },
     {
       "added_at": "2024-04-04 23:01:57",

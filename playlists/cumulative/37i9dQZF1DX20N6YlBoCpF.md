@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=nCZWvUgkRzK0a8\-A9t8qEg">Jemma Catherine</a>
 
-870 songs - 2 day 1 hr 9 min
+871 songs - 2 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Drome Skilder](https://open.spotify.com/track/0eEOuaFWRrm1nd5XBz8TV3) | [Juan Bester](https://open.spotify.com/artist/4HJKWV58OFtAAGQlkzH1ws) | [Drome Skilder](https://open.spotify.com/album/3pHiFIFFyVeMFMZQgmgCKp) | 3:02 | 2023-02-09 | 2023-03-03 |
 | [DROOMSINDROOM \- lil sadddyz Remix](https://open.spotify.com/track/5tQiVarPCcNylzDPZ5xOvl) | [X\_C\_Xreece](https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ), [lil sadddyz](https://open.spotify.com/artist/3vAfmEHFFkV2aBeyR7EfJz) | [DROOMSINDROOM](https://open.spotify.com/album/61McyYzaWujRWwZZL6PKYL) | 2:47 | 2023-06-16 | 2023-06-30 |
 | [Duisend Jaar Van Nou](https://open.spotify.com/track/1RbOEd9Jzi5NPy8tKZ5RJX) | [Jaid River](https://open.spotify.com/artist/0LHMlMzHr9yQwDk7VuKFzk) | [Duisend Jaar Van Nou](https://open.spotify.com/album/1gp2uTg7cFmYlgz5VOhE1q) | 3:08 | 2023-02-16 | 2023-03-03 |
+| [Een Keer](https://open.spotify.com/track/78X8d12bgeD3RCQXlS1vEX) | [Sharoney](https://open.spotify.com/artist/5V8Agw2X5P5Z2HPhSPvZkZ) | [Een Keer](https://open.spotify.com/album/0unTBwPsTtA99H46DljBTL) | 3:54 | 2024-04-05 |  |
 | [EEN TWEE](https://open.spotify.com/track/55OBFEGwJ1cR3aaEsSocB2) | [JohnJ](https://open.spotify.com/artist/5TzLGHF0k3Vev4SGCxq9jT), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [EEN TWEE](https://open.spotify.com/album/3MO3xOBykVnnbqOCXzg1JB) | 2:25 | 2022-08-11 | 2022-10-21 |
 | [Eerlik Heerlik](https://open.spotify.com/track/0g2VePgZe4UMuiqF3GWhKv) | [Emil Paul](https://open.spotify.com/artist/1eLGnVNTlowcmg1Hhjv8os) | [Eerlik Heerlik](https://open.spotify.com/album/77A8cjVDHHyqJACmdgo8Br) | 2:46 | 2024-02-01 | 2024-03-01 |
 | [Ek Is Daar](https://open.spotify.com/track/43t3KXhjckS3XWoglELKfx) | [Legkaart](https://open.spotify.com/artist/6q148JlUofOrUfcf7Dmac6) | [Ek Is Daar](https://open.spotify.com/album/2vVmvc6mx1a8Qme5By7nEK) | 2:51 | 2022-09-01 | 2022-10-14 |
@@ -573,7 +574,7 @@
 | [Ons Gaan Laag](https://open.spotify.com/track/1ZIGOZIrqJdnVkJcMDApw2) | [Die Twaalf](https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [SKAPIE](https://open.spotify.com/album/2BVe4234t1zBmk4OL2frnu) | 3:24 | 2023-10-19 | 2023-10-27 |
 | [Ons Is Die Vuur](https://open.spotify.com/track/39qWtrJIMKpKVbAIrbXViw) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Ons Is Die Vuur](https://open.spotify.com/album/3YBiwDnBgMk7d31Y815Ili) | 2:58 | 2023-08-10 | 2023-09-01 |
 | [Ons Sal Dans](https://open.spotify.com/track/1tXBAXCekOEaM4FF5LtpBC) | [Giselle](https://open.spotify.com/artist/3q6m6kxjSndfgNlbd315ur) | [Ons Sal Dans](https://open.spotify.com/album/0gWmxUrDaLiH7DMXEifWmT) | 3:31 | 2024-02-01 | 2024-02-23 |
-| [Ons Sal Jonk Bly](https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/4VT7eCzFTDo2iXaEDREPVP) | 4:25 | 2023-11-16 |  |
+| [Ons Sal Jonk Bly](https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/4VT7eCzFTDo2iXaEDREPVP) | 4:25 | 2023-11-16 | 2024-04-06 |
 | [Ons Sal Jonk Bly](https://open.spotify.com/track/5kmedYH2KGOpqYcjhkut2f) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/6kgghUTYltx1TaKHamBWOe) | 4:25 | 2023-08-24 | 2023-11-24 |
 | [Ons Skild](https://open.spotify.com/track/3PLc8Si5Nsrnzd5zuVjVi2) | [Leon\-Ben Lamprecht](https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB) | [Die Son Kom Op En Die Son Sak Oor Ons Almal](https://open.spotify.com/album/09Z3lKVOFTSS74CtaW7KC8) | 2:44 | 2023-12-21 | 2023-12-30 |
 | [Ons Trein het vertrek](https://open.spotify.com/track/6zenfV5qEtnsGys6HaCkO8) | [Inspirasie Veelvoud](https://open.spotify.com/artist/3r1BRjgeZHFN40DD6aWMMo) | [Ons Trein het vertrek](https://open.spotify.com/album/77d9GpJr99fj5RNnu5mCyf) | 3:21 | 2023-06-08 | 2023-06-23 |

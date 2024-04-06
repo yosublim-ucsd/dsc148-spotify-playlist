@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Terminal Nation
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,497 likes - 77 songs - 4 hr 48 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,496 likes - 77 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 76 | [Shame and its Afterbirth](https://open.spotify.com/track/70tCzTXSThhKWtk1njrMOm) | [Vitriol](https://open.spotify.com/artist/7E4LULB8UkUOTEBbpTbLma) | [Shame and its Afterbirth](https://open.spotify.com/album/6tgUVPW5ncqIDCJGnDHh6S) | 6:43 |
 | 77 | [Paranoia](https://open.spotify.com/track/5WQOU9N0eVbFP448Mw7fhn) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7) | [Paranoia](https://open.spotify.com/album/7be4xm8QKyrU69PnkD3XTF) | 1:30 |
 
-Snapshot ID: `MzA0Niw0ODg1NzE5MTBkNmQ0ZTU2YzYwOWRjZDcxMzczMzc0NGM1N2U3YTk2`
+Snapshot ID: `MzA0NywzMzY4ZGI3NmVkODc4ZWJmYzNjMTA1ZTQ2MzcwYmE5NzJjMDQ2Mjk4`

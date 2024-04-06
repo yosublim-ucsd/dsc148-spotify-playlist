@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 56948,
+  "2024-04-06": 56965,
   "date_first_scraped": "2022-12-01",
   "description": "Soft instrumental Blues for any activity. ",
   "name": "Blues in the Background",
@@ -472,6 +472,24 @@
     },
     {
       "album": {
+        "name": "Jammin' In Swingville",
+        "url": "https://open.spotify.com/album/0Q8BDLG4lx0QUQjdcJpeIh"
+      },
+      "artists": [
+        {
+          "name": "Tiny Grimes",
+          "url": "https://open.spotify.com/artist/2SJ9t86XCfdJnyoMgAtPU1"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405427,
+      "name": "Blues Wail",
+      "url": "https://open.spotify.com/track/3wyWxsmfYrH3CH1P9HPJLK"
+    },
+    {
+      "album": {
         "name": "Blues Wail: Coleman Hawkins Plays The Blues",
         "url": "https://open.spotify.com/album/21NYOM1XZhCPaLDX8CkvOc"
       },
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 403906,
       "name": "Blues Wail - Shared ISRC",
       "url": "https://open.spotify.com/track/39W3NjHlj7MSFS9q5D46zN"

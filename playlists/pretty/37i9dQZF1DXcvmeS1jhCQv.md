@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: TraviS, Elzzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,199 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,206 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [33s](https://open.spotify.com/track/6Xib9snQv0CJ2NmY8SV4vW) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [33s](https://open.spotify.com/album/2lJOSCuyYCXf9HTgAhUhK0) | 3:44 |
 | 80 | [London.](https://open.spotify.com/track/7xhvE7y8DDcAwruz7TyiFN) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [London.](https://open.spotify.com/album/0hmqXVRrup7VUGdK8xFq7J) | 3:37 |
 
-Snapshot ID: `MCw2MGU5NjQyYWQyZjhlMDk4MWU3ZjljNGE3YjI3MjE3ODczNWRkYTJm`
+Snapshot ID: `MCwxZTlkMzM5NWQzODBmMzI2NTFkM2ZmZmJlODM3ODdjY2FhZDEyMzMw`

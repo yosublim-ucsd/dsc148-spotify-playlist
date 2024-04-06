@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Doja Cat",
-  "num_followers": 61691,
+  "num_followers": 61700,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjZjYTYyZmU1NzY1OTQ2ZDkyYjI2MTkxMDUwYjk5NWZhOWMzNjJh",
+  "snapshot_id": "MCxkYjkyODUxMzA1OTIzYjdjYzcxMDA4YWRmOWQwMGQzZmUwODg2Mjk1",
   "tracks": [
     {
       "added_at": "2024-04-04 16:11:08",
@@ -149,6 +149,22 @@
       "url": "https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS"
     },
     {
+      "added_at": "2024-04-05 02:00:00",
+      "album": {
+        "name": "Sujud Aidilfitri",
+        "url": "https://open.spotify.com/album/4extL1zlzKkjjrF2opuSs4"
+      },
+      "artists": [
+        {
+          "name": "Search",
+          "url": "https://open.spotify.com/artist/4LADVWbGgajvchOHelqZv2"
+        }
+      ],
+      "duration_ms": 271145,
+      "name": "Sujud Aidilfitri",
+      "url": "https://open.spotify.com/track/1enlyyDon1CS9d6HFNQ2Qe"
+    },
+    {
       "added_at": "2024-04-04 16:11:08",
       "album": {
         "name": "Found Heaven",
@@ -195,6 +211,22 @@
       "duration_ms": 245720,
       "name": "Drunk, Running",
       "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
+      "added_at": "2024-04-05 06:33:00",
+      "album": {
+        "name": "Aku Ada",
+        "url": "https://open.spotify.com/album/3nEcXrYMBLnXfAumOk6yTa"
+      },
+      "artists": [
+        {
+          "name": "Adrianna Cinta",
+          "url": "https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG"
+        }
+      ],
+      "duration_ms": 186807,
+      "name": "Aku Ada",
+      "url": "https://open.spotify.com/track/4ZurJR1BsX2m4f5rEy402F"
     },
     {
       "added_at": "2024-04-04 16:11:08",
@@ -537,6 +569,22 @@
       "url": "https://open.spotify.com/track/5om9MS3yRKxRrt9FSMBq4w"
     },
     {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 229186,
+      "name": "Crocodile Tearz",
+      "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
+    },
+    {
       "added_at": "2024-04-04 16:11:08",
       "album": {
         "name": "Bryson Tiller",
@@ -607,6 +655,22 @@
     {
       "added_at": "2024-04-04 16:11:08",
       "album": {
+        "name": "Could It Be",
+        "url": "https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI"
+      },
+      "artists": [
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "duration_ms": 189786,
+      "name": "Could It Be",
+      "url": "https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8"
+    },
+    {
+      "added_at": "2024-04-04 16:11:08",
+      "album": {
         "name": "Siren",
         "url": "https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO"
       },
@@ -635,6 +699,38 @@
       "duration_ms": 162880,
       "name": "Midas Touch",
       "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
+    },
+    {
+      "added_at": "2024-04-04 16:11:08",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/37FotBNUfhWIHHX0BVCYw7"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "lobonabeat!",
+          "url": "https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva"
+        },
+        {
+          "name": "Shyboiitobii",
+          "url": "https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "SMUGGLERS",
+          "url": "https://open.spotify.com/artist/0brXIqiS2RuhcFnwLqMx9p"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "No Tomorrow - Spotify Singles",
+      "url": "https://open.spotify.com/track/5eC84hN3UbRhSfnJLdUNLv"
     },
     {
       "added_at": "2024-04-04 16:11:08",
@@ -811,6 +907,22 @@
     {
       "added_at": "2024-04-04 16:11:08",
       "album": {
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/62WunAAG8GLtsWGMr3JMDu"
+      },
+      "artists": [
+        {
+          "name": "Sasha M",
+          "url": "https://open.spotify.com/artist/3Rg4OQYmAMECf2x1KUeHnd"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Good Intentions",
+      "url": "https://open.spotify.com/track/0um6fVEdntg3JyO2A4M4la"
+    },
+    {
+      "added_at": "2024-04-04 16:11:08",
+      "album": {
         "name": "As Long As I'm With You",
         "url": "https://open.spotify.com/album/3uJ3FW5QbATo508nkCFYF8"
       },
@@ -903,6 +1015,26 @@
     {
       "added_at": "2024-04-04 16:11:08",
       "album": {
+        "name": "Lifeline (Reborn)",
+        "url": "https://open.spotify.com/album/0KWR2tv5EErpvqTEWOTriI"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        },
+        {
+          "name": "Transparent Arts",
+          "url": "https://open.spotify.com/artist/1F9TDeezTpFqrwPkn1S8qW"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Lifeline (Reborn)",
+      "url": "https://open.spotify.com/track/0Gt9HuvYiNb3WbGsZl97h7"
+    },
+    {
+      "added_at": "2024-04-04 16:11:08",
+      "album": {
         "name": "Officially Cool",
         "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
       },
@@ -989,7 +1121,7 @@
         }
       ],
       "duration_ms": 219598,
-      "name": "Im Rich",
+      "name": "I'm Rich",
       "url": "https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b"
     },
     {

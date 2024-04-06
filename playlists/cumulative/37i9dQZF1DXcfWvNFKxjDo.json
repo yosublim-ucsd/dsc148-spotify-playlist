@@ -24190,7 +24190,7 @@
     {
       "album": {
         "name": "Think About The Way",
-        "url": "https://open.spotify.com/album/1zk1LmKfreJ48IbZZdAje1"
+        "url": "https://open.spotify.com/album/3SpHHuYNB1OqkupIrmWuMi"
       },
       "artists": [
         {
@@ -24209,6 +24209,32 @@
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 150736,
+      "name": "Think About The Way",
+      "url": "https://open.spotify.com/track/4lHacAc1D1roQi1tMvC8Na"
+    },
+    {
+      "album": {
+        "name": "Think About The Way",
+        "url": "https://open.spotify.com/album/1zk1LmKfreJ48IbZZdAje1"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        },
+        {
+          "name": "URBANO",
+          "url": "https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-06",
       "duration_ms": 150736,
       "name": "Think About The Way",
       "url": "https://open.spotify.com/track/6ytFEsnazqki7XN2yXOev9"

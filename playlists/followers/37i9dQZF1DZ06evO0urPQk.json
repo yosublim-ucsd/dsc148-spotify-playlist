@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 27068,
+  "2024-04-06": 27064,
   "date_first_scraped": "2022-06-10",
   "description": "This is \u6c34\u6a39\u5948\u3005. The essential tracks, all in one playlist.",
   "name": "This Is \u6c34\u6a39\u5948\u3005",
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 230269,
       "name": "Go Live\uff01",
       "url": "https://open.spotify.com/track/6fPmnIyjD5Gq9G4IVJ8ThE"
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 251333,
       "name": "\u30b9\u30d1\u30a4\u30e9\u30eb",
       "url": "https://open.spotify.com/track/2inMCpVHIQMTVwYLHz15A0"

@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 305498,
+  "2024-04-06": 305587,
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Sum 41",
+  "description": "The best new music from the wide world of punk. Cover: Four Year Strong",
   "name": "All New Punk",
   "tracks": [
     {
@@ -2405,7 +2405,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 293362,
       "name": "Badlands",
       "url": "https://open.spotify.com/track/3Gccxg5pQQQsAQddATbCE1"
@@ -2495,7 +2495,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 144259,
       "name": "Be Better",
       "url": "https://open.spotify.com/track/5vSXV3dlts6javSJCZH2iT"
@@ -6502,6 +6502,24 @@
     },
     {
       "album": {
+        "name": "daddy of mine",
+        "url": "https://open.spotify.com/album/7jqa2zm2jYb1pt9ry4pJtN"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144773,
+      "name": "daddy of mine",
+      "url": "https://open.spotify.com/track/07eIxhkUIXeg0ch11rqCBE"
+    },
+    {
+      "album": {
         "name": "Daddy's Boy",
         "url": "https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM"
       },
@@ -6791,7 +6809,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 76605,
       "name": "DAYTRIP!",
       "url": "https://open.spotify.com/track/483jYFAUB6wjeGpGv2HcdL"
@@ -7683,6 +7701,24 @@
       "duration_ms": 229032,
       "name": "Distress",
       "url": "https://open.spotify.com/track/1wCuMWf82GOrwm7vRakjIm"
+    },
+    {
+      "album": {
+        "name": "Disturb The Peace",
+        "url": "https://open.spotify.com/album/6x3Z4xT9F4uyqQjjgSRTwO"
+      },
+      "artists": [
+        {
+          "name": "Death Lens",
+          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105556,
+      "name": "Disturb The Peace",
+      "url": "https://open.spotify.com/track/3E4a4lwG05VJCgB8A3m1hI"
     },
     {
       "album": {
@@ -11541,7 +11577,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 143413,
       "name": "Hall & Oates",
       "url": "https://open.spotify.com/track/771CBX3SgJLH2yAmi6E8DV"
@@ -14946,6 +14982,28 @@
     },
     {
       "album": {
+        "name": "Kill My Vibe",
+        "url": "https://open.spotify.com/album/2cHTrXqBuuyUNEfwxpoy5A"
+      },
+      "artists": [
+        {
+          "name": "Between You & Me",
+          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
+        },
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165961,
+      "name": "Kill My Vibe",
+      "url": "https://open.spotify.com/track/7rEna9icPrPPFf9sde2wK4"
+    },
+    {
+      "album": {
         "name": "Kill to Be Heard",
         "url": "https://open.spotify.com/album/5U6WPf9eTW0ImDXqzDNNWJ"
       },
@@ -15503,6 +15561,24 @@
       "duration_ms": 310594,
       "name": "Leech",
       "url": "https://open.spotify.com/track/4PJYzWsL4EjU9s15owchBD"
+    },
+    {
+      "album": {
+        "name": "Left Off",
+        "url": "https://open.spotify.com/album/125ROOxxg7yBtVrSoKAHWV"
+      },
+      "artists": [
+        {
+          "name": "happydaze",
+          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212647,
+      "name": "Left Off",
+      "url": "https://open.spotify.com/track/0bdyWwmNeQMIaN7G8R7ZLU"
     },
     {
       "album": {
@@ -22657,7 +22733,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 174150,
       "name": "Roll Back",
       "url": "https://open.spotify.com/track/5eiJreehQGQYmO96WKfqD3"
@@ -23105,6 +23181,24 @@
       "duration_ms": 161186,
       "name": "Say It To My Face",
       "url": "https://open.spotify.com/track/2cPoeRmv4METe4ud4T451Z"
+    },
+    {
+      "album": {
+        "name": "There Are Worse Things Than Being Alive",
+        "url": "https://open.spotify.com/album/7dqcKOZKfL0P4HzxNTdHFT"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181173,
+      "name": "Say So Long",
+      "url": "https://open.spotify.com/track/45COGBQ3UpoYp7Sru6TCIz"
     },
     {
       "album": {
@@ -24231,6 +24325,24 @@
       "duration_ms": 196394,
       "name": "Sign Of The Times",
       "url": "https://open.spotify.com/track/6tWjzLE4Pw9U1nitxAjHCt"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/4HuWPNql0cToFvqJP0E5ci"
+      },
+      "artists": [
+        {
+          "name": "Cloud Nothings",
+          "url": "https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166949,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/3F25vTmoR5PnK8N0nZi91b"
     },
     {
       "album": {
@@ -25494,6 +25606,24 @@
     },
     {
       "album": {
+        "name": "Super Mega Ultra",
+        "url": "https://open.spotify.com/album/7fKUwgjl9LeKyqaY9hoUgJ"
+      },
+      "artists": [
+        {
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184031,
+      "name": "Stimulation",
+      "url": "https://open.spotify.com/track/5YLoFqeK7ARjYYXzxA3whX"
+    },
+    {
+      "album": {
         "name": "Common Grief",
         "url": "https://open.spotify.com/album/74P1BOFZGOxKgtaXnO7NJw"
       },
@@ -26464,6 +26594,24 @@
     },
     {
       "album": {
+        "name": "angeltape",
+        "url": "https://open.spotify.com/album/1husQjsVpw1H0cuZhmGdrR"
+      },
+      "artists": [
+        {
+          "name": "Drahla",
+          "url": "https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278826,
+      "name": "Talking Radiance",
+      "url": "https://open.spotify.com/track/6xAz6yFeOS2EdWVcfXX0lF"
+    },
+    {
+      "album": {
         "name": "Talking To Myself",
         "url": "https://open.spotify.com/album/6JSEuzJCBvazkD8Ewi7Yxt"
       },
@@ -26605,7 +26753,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 129146,
       "name": "Tear 'Em To Bits",
       "url": "https://open.spotify.com/track/6nHZGXUYKxaErnmDSpUBgX"
@@ -29491,7 +29639,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 161919,
       "name": "UVAV",
       "url": "https://open.spotify.com/track/3ITX88jON31K6TiJrNRN3T"
@@ -29967,7 +30115,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 158175,
       "name": "WARZ0NE",
       "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"

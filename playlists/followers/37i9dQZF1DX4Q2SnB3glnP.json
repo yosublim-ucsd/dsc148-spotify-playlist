@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 493827,
+  "2024-04-06": 493866,
   "date_first_scraped": "2021-12-21",
   "description": "Music wellness for your soul.",
   "name": "SPA Treatment",
@@ -941,6 +941,24 @@
       "duration_ms": 205485,
       "name": "Cosmic Bliss",
       "url": "https://open.spotify.com/track/2yf19OMz4MKWGBOIBbwa6F"
+    },
+    {
+      "album": {
+        "name": "Cotton Hill",
+        "url": "https://open.spotify.com/album/0snGWgnXrnFz5p3FAgiBjo"
+      },
+      "artists": [
+        {
+          "name": "Harmony of Zither",
+          "url": "https://open.spotify.com/artist/0HuH3ibculvSvybbJWkCfe"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189430,
+      "name": "Cotton Hill",
+      "url": "https://open.spotify.com/track/5dxfnAf1Ajz2Ruce0h3VQj"
     },
     {
       "album": {
@@ -2492,6 +2510,24 @@
     },
     {
       "album": {
+        "name": "Luminary",
+        "url": "https://open.spotify.com/album/1iw5ptwcS1Yp92WCsJQRmJ"
+      },
+      "artists": [
+        {
+          "name": "Gulminya",
+          "url": "https://open.spotify.com/artist/60OXiiKVILw7mjGg6M6x1v"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170608,
+      "name": "Luminary",
+      "url": "https://open.spotify.com/track/2VlgygnoOKj66UkZFddMpz"
+    },
+    {
+      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/7GcnCnJe3p1hOUE2lpgVHS"
       },
@@ -3932,6 +3968,24 @@
     },
     {
       "album": {
+        "name": "Serene Coral",
+        "url": "https://open.spotify.com/album/021wOudOPBwaigBCPEpdvL"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Serene Coral",
+      "url": "https://open.spotify.com/track/6VaYL78Y4nStQLPPnpetnM"
+    },
+    {
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
       },
@@ -3968,6 +4022,24 @@
     },
     {
       "album": {
+        "name": "Shadowgrove",
+        "url": "https://open.spotify.com/album/7ALLZh2JbXYuLHWFSPxnxn"
+      },
+      "artists": [
+        {
+          "name": "Vincent Novaes",
+          "url": "https://open.spotify.com/artist/1bWtods7s54SaWI5MyYTFA"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169043,
+      "name": "Shadowgrove",
+      "url": "https://open.spotify.com/track/3jm9ib4UgjONt4tuhp6KD8"
+    },
+    {
+      "album": {
         "name": "Shaman Dreams",
         "url": "https://open.spotify.com/album/02TnwoWJCcqxX4CSI9528L"
       },
@@ -4001,6 +4073,24 @@
       "duration_ms": 181411,
       "name": "Shasta - Meditation Mix",
       "url": "https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y"
+    },
+    {
+      "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/0ptAKUT3vnG0Tx4U7Egm2a"
+      },
+      "artists": [
+        {
+          "name": "Infinite Field",
+          "url": "https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Sheet Music",
+      "url": "https://open.spotify.com/track/4RJjvH6i3XyXfBQ9jeJzCo"
     },
     {
       "album": {

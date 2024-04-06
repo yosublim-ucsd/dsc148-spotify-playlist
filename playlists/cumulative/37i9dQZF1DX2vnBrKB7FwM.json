@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Porque Colombia es tierra de MCs, Rap y Hip-Hop. Foto: Luis7Lunes & Sison Beats/Nemesis",
+  "description": "Porque Colombia es tierra de MCs, Rap y Hip-Hop. Foto: N. Hardem",
   "name": "RAP\u00fablica de Colombia",
   "tracks": [
     {
@@ -1161,6 +1161,32 @@
     },
     {
       "album": {
+        "name": "MAL DE ALTURA",
+        "url": "https://open.spotify.com/album/75OUQCSkk96gwjHEfrIQEJ"
+      },
+      "artists": [
+        {
+          "name": "N. Hardem",
+          "url": "https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL"
+        },
+        {
+          "name": "L'Xuasma",
+          "url": "https://open.spotify.com/artist/4lEh3rt391Jzx3edimVSBO"
+        },
+        {
+          "name": "Hi-Kymon",
+          "url": "https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "INTERNACIONAL WELTER",
+      "url": "https://open.spotify.com/track/1yaar52W1nAFGm0GS7moE4"
+    },
+    {
+      "album": {
         "name": "La Caza de Nari\u00f1o",
         "url": "https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW"
       },
@@ -1994,7 +2020,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 209715,
       "name": "Pulsaciones (Espa\u00f1ol)",
       "url": "https://open.spotify.com/track/0OZW4Dn1N4boisg8eJ3cOT"

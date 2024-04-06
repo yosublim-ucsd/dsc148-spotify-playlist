@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 189618,
       "name": "AKRAPO 7",
       "url": "https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 186071,
       "name": "Avec classe (feat. Aya Nakamura & Trinix)",
       "url": "https://open.spotify.com/track/2RqZ8JUBXP4C0nzttGnTL1"
@@ -2029,6 +2029,24 @@
     },
     {
       "album": {
+        "name": "Doggy",
+        "url": "https://open.spotify.com/album/5cSq4ThXJUx5kyFZePn5go"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132676,
+      "name": "Doggy",
+      "url": "https://open.spotify.com/track/5S1ianZQLvtoL2A7rUETlq"
+    },
+    {
+      "album": {
         "name": "Mandat de D\u00e9p\u00f4t",
         "url": "https://open.spotify.com/album/41HNUXTQtfRTKZdcxD3qH6"
       },
@@ -2258,6 +2276,24 @@
       "duration_ms": 180025,
       "name": "Est-ce que tu regrettes ?",
       "url": "https://open.spotify.com/track/68QlpGOAApokhQ3wcRpGpO"
+    },
+    {
+      "album": {
+        "name": "Fatigu\u00e9",
+        "url": "https://open.spotify.com/album/6ua3siioK5BmuAFMvuUdDp"
+      },
+      "artists": [
+        {
+          "name": "Louzio",
+          "url": "https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144005,
+      "name": "Fatigu\u00e9 - Speed Up",
+      "url": "https://open.spotify.com/track/1DDo206GWOkANENV5gjZdX"
     },
     {
       "album": {
@@ -2846,7 +2882,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 337560,
       "name": "Instant Crush (feat. Julian Casablancas)",
       "url": "https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6"
@@ -2894,6 +2930,24 @@
       "duration_ms": 173858,
       "name": "J'ai Pay\u00e9",
       "url": "https://open.spotify.com/track/3Vu3obbIZnC91x4BRK38qQ"
+    },
+    {
+      "album": {
+        "name": "Vie d'artiste",
+        "url": "https://open.spotify.com/album/2tdbsStQ8lnOzwBKZU2stJ"
+      },
+      "artists": [
+        {
+          "name": "4Keus",
+          "url": "https://open.spotify.com/artist/2LUi4eKMEFKFM4awgurcSs"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236400,
+      "name": "J'te hais",
+      "url": "https://open.spotify.com/track/4RHL1ZNHIE5O5FcRjkmtUV"
     },
     {
       "album": {
@@ -3768,7 +3822,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 222573,
       "name": "Ma m\u00e9lodie (feat. Ma\u00eetre Gims)",
       "url": "https://open.spotify.com/track/0BU5e8rDml803bp7mbouC0"
@@ -4982,7 +5036,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 156500,
       "name": "Posa na bina",
       "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
@@ -5623,6 +5677,24 @@
     },
     {
       "album": {
+        "name": "Skalape",
+        "url": "https://open.spotify.com/album/0PS4jNR8LDKjMi10072S9d"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185782,
+      "name": "Skalape",
+      "url": "https://open.spotify.com/track/2LF6R4ykQnc4sSwS64npRQ"
+    },
+    {
+      "album": {
         "name": "SKEU SKEU (feat. wilsko) [Speed Up]",
         "url": "https://open.spotify.com/album/0CYCJc1xZYhd9BIaKXCdn7"
       },
@@ -5994,7 +6066,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 163506,
       "name": "Tatiana",
       "url": "https://open.spotify.com/track/41SMLBWXZM2qCenx23mPSh"

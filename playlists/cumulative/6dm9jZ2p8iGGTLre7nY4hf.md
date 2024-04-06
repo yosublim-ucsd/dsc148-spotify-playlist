@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-334 songs - 18 hr 21 min
+335 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Don't Say](https://open.spotify.com/track/6rHC7eMaQDDpbm29WuuJbe) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Don't Say](https://open.spotify.com/album/6yYmVFP4TaBffBvA604Ney) | 3:32 | 2023-09-15 |  |
 | [Dreamer](https://open.spotify.com/track/34xIl1GxyVk5RvknkMcbpb) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [I'm A Failure Part 2](https://open.spotify.com/album/7aswo6s8CSUohGqV0NU5PR) | 3:02 | 2023-09-15 |  |
 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 | 2023-09-15 |  |
+| [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 | 2024-04-05 |  |
 | [Due Vite](https://open.spotify.com/track/5htUUUBlgHZ9fztWTTDEFm) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Due Vite](https://open.spotify.com/album/5rLrnpQAVeBYEw6tH6PUKj) | 3:45 | 2023-09-15 |  |
 | [Dumb Love](https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Dumb Love](https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8) | 3:27 | 2023-09-15 |  |
 | [Dunno](https://open.spotify.com/track/0v5cHrifMPkhqHkV02ddMq) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dunno](https://open.spotify.com/album/7otBn9X8Gpl0KCbGS4GILI) | 4:00 | 2023-09-15 |  |

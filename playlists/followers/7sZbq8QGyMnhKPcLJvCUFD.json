@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 742138,
+  "2024-04-06": 742134,
   "date_first_scraped": "2022-10-06",
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
   "name": "NCS Releases",
@@ -419,6 +419,28 @@
       "duration_ms": 214545,
       "name": "Alone",
       "url": "https://open.spotify.com/track/4kvIwyqoAVaho3Ea7feClh"
+    },
+    {
+      "album": {
+        "name": "Along Your Way",
+        "url": "https://open.spotify.com/album/632FZyDyOX2WScV3RK5bWd"
+      },
+      "artists": [
+        {
+          "name": "Dust of Apollon",
+          "url": "https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc"
+        },
+        {
+          "name": "Pala Chrome",
+          "url": "https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260689,
+      "name": "Along Your Way",
+      "url": "https://open.spotify.com/track/2djlVRaQK1zPwUBYFoTOgl"
     },
     {
       "album": {

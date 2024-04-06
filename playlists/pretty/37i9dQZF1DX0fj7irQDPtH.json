@@ -1,15 +1,15 @@
 {
   "description": "The biggest songs in Latin America in 2014. Cover: Romeo Santos",
-  "num_followers": 33300,
+  "num_followers": 33363,
   "original_name": "Latin Hits 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDA1OTBlMGE4Zjc2YThhZGVjNTc4NjBlZWI4NzQzYTIzMWVjZGFh",
+  "snapshot_id": "MCxhODMzM2ZhMjBjYWQ5MWI0MTA2YzlmMWMyZjc4YWE2MjBjNWNkM2Vi",
   "tracks": [
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "The Last Don II",
         "url": "https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "No Me Pidas Perd\u00f3n",
         "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "HA-ASH Primera Fila - Hecho Realidad",
         "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/3xrpI0GqWNMjMDOdXUOnK3"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "La Familia B Sides",
         "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Golpe Avisa",
         "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Globalization",
         "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
@@ -129,23 +129,7 @@
       "url": "https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
-        "name": "El Karma (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Te Metiste",
-      "url": "https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Love And Sex",
         "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
@@ -161,7 +145,23 @@
       "url": "https://open.spotify.com/track/5ZFpEsxK5VlLkJi3v7ar2Y"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
+      "album": {
+        "name": "El Karma (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Te Metiste",
+      "url": "https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt"
+    },
+    {
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Farruko Presents Los Menores",
         "url": "https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/2QAwkI8L0UVBpjHJ6PwBzn"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "HA-ASH Primera Fila - Hecho Realidad",
         "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/6bcdiJvYNX115yvbh3wASz"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Golpe Avisa",
         "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/2MJVc9F85EPNiSfD1KKhC9"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "En Todo Estar\u00e9 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/1iLv1ieT9BZ3qsti9yTCnG"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Creo en Mi",
         "url": "https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/4fSar1liXyxCK3lOcWHUE1"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "MultiViral",
         "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/1RIhd7jjWDQwSKsbxxGArN"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Un alumno m\u00e1s",
         "url": "https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/2GJyBJWPmnM7pK961cB6iV"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Otra Vida",
         "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Travesuras",
         "url": "https://open.spotify.com/album/0bHiWhnjri1A0PSLEQE0He"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/2t7LjWmKWJV1X59zYaCsvy"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Manuel Medrano",
         "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "M\u00e1s + Coraz\u00f3n Profundo",
         "url": "https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
@@ -449,23 +449,7 @@
       "url": "https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
-        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "Madre Tierra (Oye)",
-      "url": "https://open.spotify.com/track/2wlptOJ1g5fvLdu6ruKCKU"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Elypse",
         "url": "https://open.spotify.com/album/65GSNuB0XD97S7Xea0ppAC"
@@ -481,7 +465,23 @@
       "url": "https://open.spotify.com/track/2LgGkK27qwPG4ls3OsNmuj"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
+      "album": {
+        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "Madre Tierra (Oye)",
+      "url": "https://open.spotify.com/track/2wlptOJ1g5fvLdu6ruKCKU"
+    },
+    {
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Love And Sex",
         "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/18DmZ510OB9XATcFbQ8vDZ"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "En el Sendero",
         "url": "https://open.spotify.com/album/4ywP8NavqBobYqGbbY6QWb"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/0K93vBqSbCePIqOm3MiZuX"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Terral",
         "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Golpe Avisa",
         "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/3qTatqQ0vzzztgYdaQGEmV"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
@@ -581,7 +581,23 @@
       "url": "https://open.spotify.com/track/6CKlQHQIxhWtq7MnEJ6QCz"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
+      "album": {
+        "name": "Elypse",
+        "url": "https://open.spotify.com/album/65GSNuB0XD97S7Xea0ppAC"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Decidiste Dejarme",
+      "url": "https://open.spotify.com/track/1q9GlEop4xv2B8KzeuZqLz"
+    },
+    {
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Alta Jerarquia (El Patr\u00f3n)",
         "url": "https://open.spotify.com/album/0hTSs8AKjoZH8oGJdfJPmJ"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/3H7UaBpIlxh6gCC9LBDzsM"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Dale",
         "url": "https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/1LbGorB0xOfpiXQJFKB2Nd"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Farruko Presents Los Menores",
         "url": "https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf"
@@ -641,23 +657,7 @@
       "url": "https://open.spotify.com/track/7fzErW0dRVRaTWjNLPFwUn"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
-        "name": "Elypse",
-        "url": "https://open.spotify.com/album/65GSNuB0XD97S7Xea0ppAC"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Decidiste Dejarme",
-      "url": "https://open.spotify.com/track/1q9GlEop4xv2B8KzeuZqLz"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Love And Sex",
         "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/1hiKRqR0jox7OI7aweq7Sj"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Creo en Mi",
         "url": "https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1"
@@ -705,39 +705,27 @@
       "url": "https://open.spotify.com/track/0BTBoi7AeMBrMP6cwOLNR0"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
-        "name": "Banda do Mar",
-        "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
+        "name": "Dale",
+        "url": "https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm"
       },
       "artists": [
         {
-          "name": "Banda do Mar",
-          "url": "https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Mais Ningu\u00e9m",
-      "url": "https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
-        "name": "Golpe Avisa",
-        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
-      },
-      "artists": [
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
         {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
         }
       ],
-      "duration_ms": 194786,
-      "name": "A Ti Te da Besitos",
-      "url": "https://open.spotify.com/track/5128c82TGs88ump3YwCBdc"
+      "duration_ms": 262706,
+      "name": "Como Yo Le Doy - Spanglish Version",
+      "url": "https://open.spotify.com/track/5PnEBmCk56RQphcMe7EqhG"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Travesuras (Remix)",
         "url": "https://open.spotify.com/album/4kk9vyGNaye8S9Oi3o8MM3"
@@ -769,7 +757,7 @@
       "url": "https://open.spotify.com/track/2a87ec23uKFtHk0kaM47B2"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "El Vuelo del Pez",
         "url": "https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD"
@@ -789,27 +777,7 @@
       "url": "https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
-        "name": "Dale",
-        "url": "https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 262706,
-      "name": "Como Yo Le Doy - Spanglish Version",
-      "url": "https://open.spotify.com/track/5PnEBmCk56RQphcMe7EqhG"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Terral",
         "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
@@ -825,23 +793,7 @@
       "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
-        "name": "Habla Tu Espejo",
-        "url": "https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf"
-      },
-      "artists": [
-        {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
-        }
-      ],
-      "duration_ms": 259839,
-      "name": "No llora",
-      "url": "https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Pierdo la Cabeza",
         "url": "https://open.spotify.com/album/112XtnaLZmod0pVVaYJWwG"
@@ -857,7 +809,7 @@
       "url": "https://open.spotify.com/track/53LxOQIcSZe71SF9IS0Z7b"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
         "name": "Un alumno m\u00e1s",
         "url": "https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo"
@@ -873,24 +825,76 @@
       "url": "https://open.spotify.com/track/4lN533ecUjcnqTkdxaYoP2"
     },
     {
-      "added_at": "2021-12-16 01:15:04",
+      "added_at": "2024-04-06 00:41:46",
       "album": {
-        "name": "Golpe Avisa",
-        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/1sBA4WniS6cBvvSDAsCgrV"
       },
       "artists": [
         {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
         },
         {
-          "name": "bigman",
-          "url": "https://open.spotify.com/artist/5H36onzdowfUUqlGdVX3Kk"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 266466,
-      "name": "Doctor Marihuana",
-      "url": "https://open.spotify.com/track/4jzUIyAeosr1rNU9vlBDOv"
+      "duration_ms": 216000,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/4HLGAcqh05iAqsCCs8ayrq"
+    },
+    {
+      "added_at": "2024-04-06 00:41:46",
+      "album": {
+        "name": "Vamo a Busal",
+        "url": "https://open.spotify.com/album/2Te8t6pWaQhGxeYJeOFGLV"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Vamo a Busal",
+      "url": "https://open.spotify.com/track/0ySExWMtzlVKO70rPYEz84"
+    },
+    {
+      "added_at": "2024-04-06 00:41:46",
+      "album": {
+        "name": "MultiViral",
+        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 288746,
+      "name": "El Aguante",
+      "url": "https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z"
+    },
+    {
+      "added_at": "2024-04-06 00:41:46",
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/0amNwDcNVIINDp6zXfjxSg"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 218540,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2pDODfTQlKUvlq2lc83Whl"
     }
   ],
   "unique_name": "Latin Hits 2014",

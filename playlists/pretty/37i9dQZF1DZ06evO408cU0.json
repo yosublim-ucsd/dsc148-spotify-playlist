@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 55195,
+  "num_followers": 55221,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmQyODY0OGU4ZTk0NjY1OGMxM2ZiODNhMzM3NmJjODRmMmRlODQ0",
+  "snapshot_id": "MCxhOTA0MTYwYzc2YmUzYWQwZTM2MDI0MDYyZWFjOGY0YmI1MDBiMzRh",
   "tracks": [
     {
       "added_at": null,
@@ -135,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Vueltas De La Vida",
-        "url": "https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Y Te Vas",
-      "url": "https://open.spotify.com/track/1kOA9u9k9l2LzCn8jmbkhg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te So\u00f1\u00e9 (En Vivo)",
         "url": "https://open.spotify.com/album/7DIYjfFkFIAfMBQF66NqKX"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 223566,
       "name": "Te So\u00f1\u00e9 (En Vivo)",
       "url": "https://open.spotify.com/track/2RGQaFUjKxEVBEFzma54YN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Y Te Vas",
+      "url": "https://open.spotify.com/track/1kOA9u9k9l2LzCn8jmbkhg"
     },
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El N\u00famero 1",
-        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Olvidarte No Ser\u00e1 Sencillo",
-      "url": "https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 237626,
       "name": "Vas A Estar Bien",
       "url": "https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El N\u00famero 1",
+        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Olvidarte No Ser\u00e1 Sencillo",
+      "url": "https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 102840,
+      "name": "Caballo De Patas Blancas",
+      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Guerra De Poder",
         "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 138760,
       "name": "De Buen Perfil",
       "url": "https://open.spotify.com/track/6CphAFnRSF0N0Otke4uCBO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros Corridos",
-        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 102840,
-      "name": "Caballo De Patas Blancas",
-      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confieso",
-        "url": "https://open.spotify.com/album/62cNdvz0c0wDqgp4imMhpI"
+        "name": "Profundamente",
+        "url": "https://open.spotify.com/album/6PjcA0YN8Tz9JcVjOeWid0"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 242786,
-      "name": "Confieso",
-      "url": "https://open.spotify.com/track/5A5M4GH24OwRGtSbaIDLPU"
+      "duration_ms": 191773,
+      "name": "Profundamente",
+      "url": "https://open.spotify.com/track/0aI1wUPVSvg8MKQAPL0baz"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confieso",
+        "url": "https://open.spotify.com/album/62cNdvz0c0wDqgp4imMhpI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 242786,
+      "name": "Confieso",
+      "url": "https://open.spotify.com/track/5A5M4GH24OwRGtSbaIDLPU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos De Alto Calibre (Vol. II)",
         "url": "https://open.spotify.com/album/7wqVdv2T7Z7b1vDyRSjcIk"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 186280,
       "name": "Joaqu\u00edn",
       "url": "https://open.spotify.com/track/6iO3I852AXG3gZj5AdRxyX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 153640,
-      "name": "Porque As\u00ed Ten\u00eda Que Ser",
-      "url": "https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ"
     }
   ],
   "unique_name": "This Is Banda Carnaval",

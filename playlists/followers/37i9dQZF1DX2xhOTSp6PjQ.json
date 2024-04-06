@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 78527,
+  "2024-04-06": 78856,
   "date_first_scraped": "2021-12-28",
   "description": "Khuphuka lapho\u2026 seku-late! Cover: <a href=\"https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A?si=q6P6fyMqR3mluO5n9Q8CVg\">Big Zulu</a>",
   "name": "Bhinca Nation",
@@ -419,6 +419,28 @@
       "duration_ms": 272404,
       "name": "BAMPHAMBANISELA",
       "url": "https://open.spotify.com/track/293R0EgKi4hLD8EUF5kFRj"
+    },
+    {
+      "album": {
+        "name": "Bathi Unyiswa Umjolo (Lihle Xhakaza - 2024)",
+        "url": "https://open.spotify.com/album/49UJnOKFLY1zapc3W8v7OD"
+      },
+      "artists": [
+        {
+          "name": "uMaphoyisa",
+          "url": "https://open.spotify.com/artist/7qHgq8cS8tsxFuuVZx3hS4"
+        },
+        {
+          "name": "Umagumede Wenu",
+          "url": "https://open.spotify.com/artist/6iyj3Q36rbiyNCwwIzm7ly"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232889,
+      "name": "Bathi Unyiswa Umjolo - Lihle Xhakaza - 2024",
+      "url": "https://open.spotify.com/track/5kmATruTplLxAMiTKoL103"
     },
     {
       "album": {
@@ -2261,7 +2283,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 281240,
       "name": "Ngiyeza",
       "url": "https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu"

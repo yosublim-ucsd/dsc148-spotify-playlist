@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "New releases for the kids. Cover: Jack Black",
+  "description": "New releases for the kids. Cover: Sam Tsui & Casey Breves",
   "name": "New Kids Music",
   "tracks": [
     {
@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "Brunch Munch",
+        "url": "https://open.spotify.com/album/0ppcsJqllBj7XiORpYOtP0"
+      },
+      "artists": [
+        {
+          "name": "Jeremy and Jazzy",
+          "url": "https://open.spotify.com/artist/5frliimrTsYf5GyuXQ7WPQ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124190,
+      "name": "Brunch Munch",
+      "url": "https://open.spotify.com/track/5nYJUHUJNSwVMfU5wyTq7M"
+    },
+    {
+      "album": {
         "name": "Small But Mighty - Hearty Hits For Living Large",
         "url": "https://open.spotify.com/album/1Jyc07zrfXG9kGKQQLJf3a"
       },
@@ -802,6 +820,24 @@
       "duration_ms": 243630,
       "name": "Can I Have This Dance",
       "url": "https://open.spotify.com/track/5NILdwF8RA28VxOeqPpEcg"
+    },
+    {
+      "album": {
+        "name": "Can't Stop Us",
+        "url": "https://open.spotify.com/album/6Fj9n5m0mQGECnhPNxZ3Hf"
+      },
+      "artists": [
+        {
+          "name": "Imitator Tots",
+          "url": "https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149443,
+      "name": "Can't Stop Us",
+      "url": "https://open.spotify.com/track/4hrZbNx0WysTDzupI1LJx6"
     },
     {
       "album": {
@@ -1022,6 +1058,24 @@
       "duration_ms": 90306,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/1kuDlVx8egmivA6oRFEdVs"
+    },
+    {
+      "album": {
+        "name": "Days of the Week (Songs for Teachers)",
+        "url": "https://open.spotify.com/album/1NYh8oBSvfBiinrGPfTmeB"
+      },
+      "artists": [
+        {
+          "name": "Go Fish",
+          "url": "https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80071,
+      "name": "Days of the Week (Songs for Teachers)",
+      "url": "https://open.spotify.com/track/1t0vq7Oml9seMmiTmauT9z"
     },
     {
       "album": {
@@ -1605,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "Fire Truck",
+        "url": "https://open.spotify.com/album/0duOJCEVDodd3JmPFW88sz"
+      },
+      "artists": [
+        {
+          "name": "The Quokkas",
+          "url": "https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117120,
+      "name": "Fire Truck",
+      "url": "https://open.spotify.com/track/3SoJzVHAWLr08rQerBHB9H"
+    },
+    {
+      "album": {
         "name": "Mini Pop Kids 19",
         "url": "https://open.spotify.com/album/4tl5DTMWtWNNQkuFHyV3LU"
       },
@@ -1856,6 +1928,24 @@
       "duration_ms": 221253,
       "name": "Good Tonight (from The Bad Guys)",
       "url": "https://open.spotify.com/track/5XYNCCkYoFLegWZcQU9ecn"
+    },
+    {
+      "album": {
+        "name": "Got the Magic Touch",
+        "url": "https://open.spotify.com/album/31OXZp4vAdUXQbc8rRtiWO"
+      },
+      "artists": [
+        {
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134855,
+      "name": "Got the Magic Touch",
+      "url": "https://open.spotify.com/track/4gAqR8ulhtLb3djEghY6us"
     },
     {
       "album": {
@@ -2601,6 +2691,28 @@
     },
     {
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/33lzBchLB4ljXBgMfiu1xn"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129882,
+      "name": "I'm Happy",
+      "url": "https://open.spotify.com/track/6r6o3KFnIjHq5oHh3KxEyo"
+    },
+    {
+      "album": {
         "name": "Life's Little Lessons: I've Got Confidence!",
         "url": "https://open.spotify.com/album/4xUcAwvqvVzj1cO1Fi3wAX"
       },
@@ -2818,6 +2930,28 @@
       "duration_ms": 97906,
       "name": "It's You I Like",
       "url": "https://open.spotify.com/track/3fwCUXBe36JmB8AP89KFd0"
+    },
+    {
+      "album": {
+        "name": "JIMBO",
+        "url": "https://open.spotify.com/album/2bg8hZsDJB51qoPegbGckH"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        },
+        {
+          "name": "Good Lovelies",
+          "url": "https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139360,
+      "name": "JIMBO",
+      "url": "https://open.spotify.com/track/0ssG7DvqeIFzPDj4G6HZbl"
     },
     {
       "album": {
@@ -3610,6 +3744,24 @@
       "duration_ms": 146229,
       "name": "Muffin Man",
       "url": "https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya"
+    },
+    {
+      "album": {
+        "name": "My Glasses",
+        "url": "https://open.spotify.com/album/46oM8rVMVtzwTbxu5BA78a"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195633,
+      "name": "My Glasses",
+      "url": "https://open.spotify.com/track/2XeoRvyAtdzhrBsPE7erU2"
     },
     {
       "album": {
@@ -4507,6 +4659,24 @@
     },
     {
       "album": {
+        "name": "Soccer Rocker",
+        "url": "https://open.spotify.com/album/6CSyvOQ2e1KeCWEdPCzFxi"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103677,
+      "name": "Soccer Rocker",
+      "url": "https://open.spotify.com/track/4wHe3Rd59UDAmebosrnC5i"
+    },
+    {
+      "album": {
         "name": "Space Shuttle",
         "url": "https://open.spotify.com/album/70LcL2PWtfJyJGT2EbzOGX"
       },
@@ -4530,6 +4700,24 @@
       "duration_ms": 195483,
       "name": "Space Shuttle",
       "url": "https://open.spotify.com/track/7lMeJ4p2j2kGucx6Qzen0q"
+    },
+    {
+      "album": {
+        "name": "Sparkle Shoelaces",
+        "url": "https://open.spotify.com/album/0LZoRlosKWZoiv2VmtMuK7"
+      },
+      "artists": [
+        {
+          "name": "Jessie Baylin",
+          "url": "https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235224,
+      "name": "Sparkle Shoelaces",
+      "url": "https://open.spotify.com/track/6z0ILT30xQj7UYnW6IVxmS"
     },
     {
       "album": {
@@ -5819,6 +6007,28 @@
     },
     {
       "album": {
+        "name": "We're Walking Down the Street",
+        "url": "https://open.spotify.com/album/7gCDTrMnGiBXAPIkFzQj1i"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126122,
+      "name": "We're Walking Down the Street",
+      "url": "https://open.spotify.com/track/1XyqGhtgZBGzZrRcIm9gaV"
+    },
+    {
+      "album": {
         "name": "What Can I Make Out of Clay",
         "url": "https://open.spotify.com/album/7MRlWlnvQsWjKjcT4NLrqG"
       },
@@ -5928,6 +6138,28 @@
       "duration_ms": 105704,
       "name": "When We Work Together",
       "url": "https://open.spotify.com/track/274L3hEEvLZMhMEHUGlJ1P"
+    },
+    {
+      "album": {
+        "name": "Why Do We Sing? (The Official Soundtrack)",
+        "url": "https://open.spotify.com/album/3W2eSspksMacyMqKOc1lTS"
+      },
+      "artists": [
+        {
+          "name": "Sam Tsui",
+          "url": "https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0"
+        },
+        {
+          "name": "Casey Breves",
+          "url": "https://open.spotify.com/artist/5Mbw0q0VWmUbNrqqmQrSN0"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195296,
+      "name": "Why Do We Sing?",
+      "url": "https://open.spotify.com/track/5rLyfu4AnRcGoL4N6BM4hx"
     },
     {
       "album": {

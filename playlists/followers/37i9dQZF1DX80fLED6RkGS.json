@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 25763,
+  "2024-04-06": 25770,
   "date_first_scraped": "2021-12-29",
   "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV?si=mMyzJUpIQgGQip215_7lfg\"> Ethic Entertainment </a> ",
   "name": "Gengetone Fire",
@@ -939,6 +939,32 @@
     {
       "album": {
         "name": "Body Count",
+        "url": "https://open.spotify.com/album/798i7QTJdmFMqhMOHkpuep"
+      },
+      "artists": [
+        {
+          "name": "Heavy Cane",
+          "url": "https://open.spotify.com/artist/4QU2tUvCM07X05YlZpwJiY"
+        },
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184980,
+      "name": "Body Count",
+      "url": "https://open.spotify.com/track/6SNFzvJzeA0FFBm94l1CfR"
+    },
+    {
+      "album": {
+        "name": "Body Count",
         "url": "https://open.spotify.com/album/0Vr9Kp5Rb2kHwD3Eji29r7"
       },
       "artists": [
@@ -957,7 +983,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 185279,
       "name": "Body Count",
       "url": "https://open.spotify.com/track/1pBVsYNb3NiijlRyy1JxD3"

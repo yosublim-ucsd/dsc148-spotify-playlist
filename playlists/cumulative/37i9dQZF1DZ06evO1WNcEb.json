@@ -351,6 +351,28 @@
     },
     {
       "album": {
+        "name": "Ele Vem",
+        "url": "https://open.spotify.com/album/6gjRM3VHMVsfmCropNjAg0"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403586,
+      "name": "Ele Vem",
+      "url": "https://open.spotify.com/track/7DaTsKtZb7JwH9aYV2ZSbb"
+    },
+    {
+      "album": {
         "name": "Em Tua Presen\u00e7a / Vai Amanhecer",
         "url": "https://open.spotify.com/album/4drXBiKtDTXb2EmloXbDnp"
       },
@@ -402,7 +424,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 264000,
       "name": "Eu Ainda Vou Sonhar",
       "url": "https://open.spotify.com/track/3y8V1S0UPTBXgZZYXyzxpF"

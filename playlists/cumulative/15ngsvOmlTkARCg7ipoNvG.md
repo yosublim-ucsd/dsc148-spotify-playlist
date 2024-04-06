@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,738 songs - 1 day 12 hr 3 min
+1,740 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1373,6 +1373,7 @@
 | [Soft Vitality \- Cello Version](https://open.spotify.com/track/25QQQqU1RaXPXAxNAesgCe) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wonderment](https://open.spotify.com/album/5xvoEnKYHlb2kBfkcE6i0k) | 1:02 | 2022-03-02 |  |
 | [Soft Waves Arr\. For Felt Piano](https://open.spotify.com/track/1sDrkPu0uL96SZb84ATTCg) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Felt Piano Lullabies](https://open.spotify.com/album/32PpJ7q4DdWKYEiy0EtRLw) | 1:00 | 2023-07-06 | 2024-01-30 |
 | [Soft Waves Arr\. For Piano](https://open.spotify.com/track/2yQlIVNhe1tZzU62IdTH0Y) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Soft Piano Lullabies](https://open.spotify.com/album/1L1EO9QolDutpzDKVRK3t8) | 1:01 | 2023-01-25 | 2024-01-30 |
+| [Soften](https://open.spotify.com/track/4kibMcibhtId8yZon153AX) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Soften](https://open.spotify.com/album/6bCdkq4rIdIyKqRfSVMYx0) | 1:00 | 2024-04-05 |  |
 | [Softening Once Again](https://open.spotify.com/track/2kxNayMoa5msvitWO90xiR) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Calming Moments](https://open.spotify.com/album/4yz3qOY8SkpbzyUarrx00Z) | 1:01 | 2022-05-15 |  |
 | [Softly Pierced](https://open.spotify.com/track/1qP4CRu80KxAqUfgqXclCr) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [January Reflections](https://open.spotify.com/album/27vMc2xjMVYrtcu2WsbZPz) | 1:06 | 2022-02-11 | 2024-01-30 |
 | [Softly Softly](https://open.spotify.com/track/1ZiackJELO9OcQHExv08XP) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Ambient Strings](https://open.spotify.com/album/4V4CPYWrLhhCCkAbX6B2sy) | 1:30 | 2024-01-29 |  |
@@ -1401,6 +1402,7 @@
 | [Spaces Between Us](https://open.spotify.com/track/6zMolp2Ybc1YSih28w8Acs) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Twin](https://open.spotify.com/album/08alG4ZQrDZj6mq77Jj7AJ) | 1:53 | 2022-01-12 | 2024-01-30 |
 | [Speak Life](https://open.spotify.com/track/6637oQY5vqAidJeg9228N6) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Speak Life](https://open.spotify.com/album/5X2qKfLFvWzsFMpepFxqyw) | 3:25 | 2022-01-12 | 2024-02-13 |
 | [Spirit](https://open.spotify.com/track/4I6ts0ghZ7I5dKdLZxHklw) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Spirit](https://open.spotify.com/album/5AJv4aKXe8OJjHtGvEVTFI) | 1:00 | 2024-04-04 |  |
+| [Spirit \- Cello Version](https://open.spotify.com/track/4QBFqswsm4Jb6KjbieVACR) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Spirit \(Cello Version\)](https://open.spotify.com/album/41IKM9tEI65IHMlUJkdfhD) | 1:00 | 2024-04-05 |  |
 | [Spiritual Sounds](https://open.spotify.com/track/0PSDMsMSzJ7695gjmc86RZ) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Autumn Rain](https://open.spotify.com/album/0JsMeQCTqpoV07HsE6QVC0) | 1:46 | 2022-01-20 |  |
 | [Spring Breeze](https://open.spotify.com/track/50Qj8udzdckL2mZmEksME5) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios, Vol\. 2](https://open.spotify.com/album/61EfeMvitQ0F6lSdE4ILT2) | 1:14 | 2024-01-29 |  |
 | [Spring Meadows](https://open.spotify.com/track/6mdX2ewmW0gh1Rj9wBJqXf) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Seasons](https://open.spotify.com/album/336oLXBbHOoXUMlolO0knz) | 2:06 | 2022-01-12 | 2024-01-30 |

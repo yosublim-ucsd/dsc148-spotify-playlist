@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,523 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,538 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,17 +35,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 25 | [Leaving Safe Places](https://open.spotify.com/track/5atbh6Zl7HLrtu50KNEjAc) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Awakening](https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm) | 4:06 |
 | 26 | [Jump](https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Jump](https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH) | 3:33 |
 | 27 | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF) | 4:21 |
-| 28 | [Like a Fire \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/67CPUTw6oKStnmrIc0En6p) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [The Things We Did at First](https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh) | 6:32 |
-| 29 | [Dawn](https://open.spotify.com/track/6Qq9sLJvJhDjwoRMZSLHuP) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes of Wonder](https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV) | 2:31 |
+| 28 | [Dawn](https://open.spotify.com/track/6Qq9sLJvJhDjwoRMZSLHuP) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes of Wonder](https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV) | 2:31 |
+| 29 | [Like a Fire \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/67CPUTw6oKStnmrIc0En6p) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [The Things We Did at First](https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh) | 6:32 |
 | 30 | [I Could Sing Of Your Love Forever \- Instrumental](https://open.spotify.com/track/2Lb8tCvwV9CVSEjO9uTWWI) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Rivers & Robots Presents: Still, Vol\. 1 \(Instrumentals\)](https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM) | 3:43 |
-| 31 | [GO BACK](https://open.spotify.com/track/3RuK88EzkleaL2bIpUmVEP) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [GO BACK](https://open.spotify.com/album/0IpCBFsEPn1CO9Fxkfauo1) | 2:37 |
-| 32 | [Greater Than All Other Names \- Instrumental](https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk) | 5:36 |
+| 31 | [Greater Than All Other Names \- Instrumental](https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk) | 5:36 |
+| 32 | [GO BACK](https://open.spotify.com/track/3RuK88EzkleaL2bIpUmVEP) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [GO BACK](https://open.spotify.com/album/0IpCBFsEPn1CO9Fxkfauo1) | 2:37 |
 | 33 | [\* Consecrate \*](https://open.spotify.com/track/36yXoh8itnI8XhHmKYfhUK) | [Parachute Band](https://open.spotify.com/artist/32vh2QQNm1zEgZHFREPiUk) | [Matins : Vespers](https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv) | 3:56 |
 | 34 | [\(73\) the Nearness of You](https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7) | [Loud Harp](https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu) | [Asaph](https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5) | 5:42 |
 | 35 | [wearing thin \(alt\. version\)](https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv) | [Paul Whitacre](https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO), [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [features](https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz) | 2:52 |
-| 36 | [The Sun Will Rise](https://open.spotify.com/track/6dQh3ivvGZqQh42B5avolF) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [The Sun Will Rise](https://open.spotify.com/album/1bwaS6JvUGRErJYUCWsWXP) | 3:30 |
-| 37 | [Jesus Is\_\_\_.](https://open.spotify.com/track/1ilsVjIPYIxPyjunBeDFLP) | [The City Church](https://open.spotify.com/artist/6HWUXnbMgWLWzkQAiTb4MZ) | [Jesus Is\_\_\_\. Music Project](https://open.spotify.com/album/05hvkkM29nIor7aT515II2) | 4:37 |
-| 38 | [Nearer My God to Thee \- Eventide Mix](https://open.spotify.com/track/5dsnVbeWMJCp4T3HNYZwZa) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Hymns for Eventide](https://open.spotify.com/album/77zIuv0Pxuvsn1QSPpAuRp) | 3:33 |
+| 36 | [Nearer My God to Thee \- Eventide Mix](https://open.spotify.com/track/5dsnVbeWMJCp4T3HNYZwZa) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Hymns for Eventide](https://open.spotify.com/album/77zIuv0Pxuvsn1QSPpAuRp) | 3:33 |
+| 37 | [The Sun Will Rise](https://open.spotify.com/track/6dQh3ivvGZqQh42B5avolF) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [The Sun Will Rise](https://open.spotify.com/album/1bwaS6JvUGRErJYUCWsWXP) | 3:30 |
+| 38 | [Jesus Is\_\_\_.](https://open.spotify.com/track/1ilsVjIPYIxPyjunBeDFLP) | [The City Church](https://open.spotify.com/artist/6HWUXnbMgWLWzkQAiTb4MZ) | [Jesus Is\_\_\_\. Music Project](https://open.spotify.com/album/05hvkkM29nIor7aT515II2) | 4:37 |
 | 39 | [Water Harp](https://open.spotify.com/track/0uQIzIuNMfzCZCtRGSr4l9) | [Yoga Music](https://open.spotify.com/artist/6ppQ1vjjme5Jtz2ceBFcWY), [Yoga Workout Music](https://open.spotify.com/artist/6RVXIMP9f30jw4rBAn9RfW), [Internal Yoga](https://open.spotify.com/artist/01KhCk3LxZ60TnXjqdY5VI) | [Yoga Practice & Mindfulness Music](https://open.spotify.com/album/7ucUV4KGsEi5kYxZvRDMJj) | 2:45 |
 | 40 | [I Will Remember](https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [I Will Remember](https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB) | 5:51 |
 | 41 | [Rest with Me](https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Attention \(a Devotional Project\)](https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 99 | [out of my grave \(undone\)](https://open.spotify.com/track/3cFqLVWoYecLckMx87c6UK) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [out of my grave \(undone\)](https://open.spotify.com/album/7ncTox7CgAbMDDjXRVG8DD) | 4:31 |
 | 100 | [Smile](https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju) | [Sarah Hawkyard](https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr) | [Smile](https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar) | 3:39 |
 
-Snapshot ID: `MCwxOTljMzU2YjA4MGRhYWQ1NTAyZjc0NjFlNDkxN2ZjMjM1MGE4MDU0`
+Snapshot ID: `MCw0OWExMjY0MzQ2ZWZjODRkYTRlYWRhMzAyM2ExMmIyZThlYTk4ZTY1`

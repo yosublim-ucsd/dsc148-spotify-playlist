@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Novità rock, indie e punk dall'Italia! Real Timpani in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,314 likes - 90 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,321 likes - 90 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 12 | [Go catch 'em](https://open.spotify.com/track/2HkT6v7XVIdYizYyJ6jy8e) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Go catch 'em](https://open.spotify.com/album/2KT9S4I1YuF7AxLC2EnQFg) | 2:35 |
 | 13 | [Labirinto](https://open.spotify.com/track/51BUYyFMqfMEJZBfEmRMtA) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Labirinto](https://open.spotify.com/album/5tOUjr8okysSFcpySHZU6L) | 2:01 |
 | 14 | [Showu](https://open.spotify.com/track/6HGRFffsqctjlRyZX6JxzQ) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [Showu](https://open.spotify.com/album/13luLECarR62ppW5Eou17m) | 2:08 |
-| 15 | [Fireman](https://open.spotify.com/track/4xXZEpNHiELTz2U0OUVOSE) | [Puà](https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq) | [Animali](https://open.spotify.com/album/65alDqJpTa21lO9WUYinUh) | 2:50 |
+| 15 | [Fireman](https://open.spotify.com/track/6XHtTgqiLy41X6iVFfIny2) | [Puà](https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq) | [Animali](https://open.spotify.com/album/1mT5aR3ibZesnA9nB0uVRe) | 2:50 |
 | 16 | [Raha](https://open.spotify.com/track/2lnJEZh2IopfJ6YCeDqrGU) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG), [Gaudi](https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP) | [Raha](https://open.spotify.com/album/7tJgc7FBSJQZ3yIP1J76gf) | 5:06 |
 | 17 | [graffiti](https://open.spotify.com/track/7Bzdahi5I5usMMLSVvB9Qp) | [Aida](https://open.spotify.com/artist/5uyVp3NFeumolvASoIWWXp) | [sotto i sanpietrini il mare](https://open.spotify.com/album/0kLqOzjKBNYxsTK04GDQfI) | 3:07 |
 | 18 | [Back in town](https://open.spotify.com/track/5zTruAvOar0H7PW6g82m1j) | [MADDAM](https://open.spotify.com/artist/3vYFIXSHzx3x9yXvmHf1VC) | [MADDAM](https://open.spotify.com/album/0mH4CHMfWvCmjagae688X7) | 2:37 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 89 | [insecure](https://open.spotify.com/track/2o6MjJ3Ilwy6HATqI7IK0M) | [Voorpret](https://open.spotify.com/artist/1LvKEeM2ZLRbXA6TRgl1nI) | [insecure](https://open.spotify.com/album/31SuG69Dgv7qTN6cfAaYan) | 3:17 |
 | 90 | [Nervous](https://open.spotify.com/track/4oszQVZnaqk4kbmmfZVfez) | [Etta](https://open.spotify.com/artist/2U2hbzE2tUhswaUQipbQVB) | [Nervous](https://open.spotify.com/album/6RD1K1TtGVHhdXlTn6L89h) | 2:22 |
 
-Snapshot ID: `MCxlYzM4MTkwMTI3OTE4NGFiNGI2YWY3MjM3ODU5OTEyZjQ4YTI4ZDg4`
+Snapshot ID: `MCxiOTg3MmVjNzMyMDE3MTg1MmUwZjhkMWQ3YmM2OWZjZmY2MjY2YzMy`

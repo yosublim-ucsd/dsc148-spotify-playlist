@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 7840284,
+  "num_followers": 7847173,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzE5MWY5MDdjMGM4OGJhNTRkMjJiMDFjYTZhY2E3M2JjMjZiMjI0",
+  "snapshot_id": "MCw0NDUxM2Q4NWYyNTM2NDJhNmU4MDcxMmI0NmJlN2NmNjBhNmQzZTZi",
   "tracks": [
     {
       "added_at": "2024-02-09 15:25:18",
@@ -45,30 +45,6 @@
       "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
     },
     {
-      "added_at": "2023-10-20 10:30:53",
-      "album": {
-        "name": "Memphis Cult Vol. 6",
-        "url": "https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB"
-      },
-      "artists": [
-        {
-          "name": "Memphis Cult",
-          "url": "https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ"
-        },
-        {
-          "name": "Groove Dealers",
-          "url": "https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z"
-        },
-        {
-          "name": "SPLYXER",
-          "url": "https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j"
-        }
-      ],
-      "duration_ms": 86709,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
-    },
-    {
       "added_at": "2023-12-08 15:15:57",
       "album": {
         "name": "Montagem Mysterious Game",
@@ -103,6 +79,30 @@
       "duration_ms": 116104,
       "name": "LOVELY BASTARDS",
       "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
+    },
+    {
+      "added_at": "2023-10-20 10:30:53",
+      "album": {
+        "name": "Memphis Cult Vol. 6",
+        "url": "https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB"
+      },
+      "artists": [
+        {
+          "name": "Memphis Cult",
+          "url": "https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ"
+        },
+        {
+          "name": "Groove Dealers",
+          "url": "https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z"
+        },
+        {
+          "name": "SPLYXER",
+          "url": "https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j"
+        }
+      ],
+      "duration_ms": 86709,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
     },
     {
       "added_at": "2022-05-20 10:12:52",
@@ -181,30 +181,6 @@
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
     },
     {
-      "added_at": "2023-07-21 09:05:00",
-      "album": {
-        "name": "Automotivo Bibi Fogosa",
-        "url": "https://open.spotify.com/album/5YHGz0NvgBlhKefmyhP9zO"
-      },
-      "artists": [
-        {
-          "name": "Bibi Babydoll",
-          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
-        },
-        {
-          "name": "Dj Brunin XM",
-          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
-        },
-        {
-          "name": "KZA Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax"
-        }
-      ],
-      "duration_ms": 129798,
-      "name": "Automotivo Bibi Fogosa",
-      "url": "https://open.spotify.com/track/2JIzOc3HHo4MhiyZzhpBUV"
-    },
-    {
       "added_at": "2023-08-04 15:24:45",
       "album": {
         "name": "Memory Reboot",
@@ -261,6 +237,30 @@
       "url": "https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2"
     },
     {
+      "added_at": "2023-07-21 09:05:00",
+      "album": {
+        "name": "Automotivo Bibi Fogosa",
+        "url": "https://open.spotify.com/album/5YHGz0NvgBlhKefmyhP9zO"
+      },
+      "artists": [
+        {
+          "name": "Bibi Babydoll",
+          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
+        },
+        {
+          "name": "Dj Brunin XM",
+          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
+        },
+        {
+          "name": "KZA Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax"
+        }
+      ],
+      "duration_ms": 129798,
+      "name": "Automotivo Bibi Fogosa",
+      "url": "https://open.spotify.com/track/2JIzOc3HHo4MhiyZzhpBUV"
+    },
+    {
       "added_at": "2024-02-23 12:00:00",
       "album": {
         "name": "MONTAGEM DIAMANTE ROSA",
@@ -303,6 +303,22 @@
       "duration_ms": 75692,
       "name": "TUCA DONKA",
       "url": "https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD"
+    },
+    {
+      "added_at": "2024-03-29 15:57:27",
+      "album": {
+        "name": "SLAY!",
+        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 107076,
+      "name": "SLAY!",
+      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
       "added_at": "2024-02-02 10:00:00",
@@ -557,22 +573,6 @@
       "url": "https://open.spotify.com/track/0R902FnwJO8kBZYvtpQLrL"
     },
     {
-      "added_at": "2024-03-29 15:57:27",
-      "album": {
-        "name": "SLAY!",
-        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 107076,
-      "name": "SLAY!",
-      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
-    },
-    {
       "added_at": "2023-02-10 16:54:18",
       "album": {
         "name": "RAPTURE",
@@ -665,6 +665,30 @@
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
+      "added_at": "2024-04-05 14:00:00",
+      "album": {
+        "name": "KRUSH GIRL",
+        "url": "https://open.spotify.com/album/5DeYeVhTwmm35ICdwIPluJ"
+      },
+      "artists": [
+        {
+          "name": "KUTE",
+          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
+        },
+        {
+          "name": "killanoia",
+          "url": "https://open.spotify.com/artist/4Xwsb6LzVsThO9PJIJb4EE"
+        },
+        {
+          "name": "Tokyomane",
+          "url": "https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH"
+        }
+      ],
+      "duration_ms": 109615,
+      "name": "KRUSH GIRL",
+      "url": "https://open.spotify.com/track/2m8EJE78SOqsN7YPxNNnZm"
+    },
+    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "SUNRISE (Slowed + Reverb)",
@@ -699,6 +723,22 @@
       "duration_ms": 144019,
       "name": "PLANETA DESCONHECIDO",
       "url": "https://open.spotify.com/track/1bGCQoaz734Y5jeZ6GiUZ1"
+    },
+    {
+      "added_at": "2024-03-22 16:01:00",
+      "album": {
+        "name": "CUTE DEPRESSED",
+        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "duration_ms": 96946,
+      "name": "CUTE DEPRESSED",
+      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
       "added_at": "2024-03-22 16:01:00",
@@ -855,22 +895,6 @@
       "duration_ms": 98067,
       "name": "Mexican Phonk Eki",
       "url": "https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM"
-    },
-    {
-      "added_at": "2024-03-22 16:01:00",
-      "album": {
-        "name": "CUTE DEPRESSED",
-        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
-      },
-      "artists": [
-        {
-          "name": "Dyan Dxddy",
-          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
-        }
-      ],
-      "duration_ms": 96946,
-      "name": "CUTE DEPRESSED",
-      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
       "added_at": "2022-09-02 08:01:31",
@@ -1225,6 +1249,22 @@
       "url": "https://open.spotify.com/track/6cDMNTlXoInwCg5Jo0Nd4F"
     },
     {
+      "added_at": "2023-12-08 15:15:57",
+      "album": {
+        "name": "Funk of Suffering",
+        "url": "https://open.spotify.com/album/2B8qo6AA5g6iPR0DpkjrbB"
+      },
+      "artists": [
+        {
+          "name": "SXID",
+          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
+        }
+      ],
+      "duration_ms": 77424,
+      "name": "Funk of Suffering",
+      "url": "https://open.spotify.com/track/3GbFWANaWI8VZf1AxqFeaN"
+    },
+    {
       "added_at": "2022-11-18 07:52:46",
       "album": {
         "name": "PSYCHO CRUISE",
@@ -1259,6 +1299,22 @@
       "duration_ms": 126857,
       "name": "MURDER PLOT",
       "url": "https://open.spotify.com/track/62ZAFyVwbc9f2M8qCW1qJr"
+    },
+    {
+      "added_at": "2024-04-05 14:00:00",
+      "album": {
+        "name": "FUNK ESTRANHO",
+        "url": "https://open.spotify.com/album/71m7v6UCb6PldBrt5AYJ0I"
+      },
+      "artists": [
+        {
+          "name": "ALXIKE",
+          "url": "https://open.spotify.com/artist/4SbtvEgtu7QsmFjjBzyV8F"
+        }
+      ],
+      "duration_ms": 106400,
+      "name": "FUNK ESTRANHO",
+      "url": "https://open.spotify.com/track/3uFuQuXyUpYOlVkPdVeCCh"
     },
     {
       "added_at": "2024-01-26 16:38:23",
@@ -1323,22 +1379,6 @@
       "duration_ms": 123692,
       "name": "Broken Trust",
       "url": "https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte"
-    },
-    {
-      "added_at": "2023-12-08 15:15:57",
-      "album": {
-        "name": "Funk of Suffering",
-        "url": "https://open.spotify.com/album/2B8qo6AA5g6iPR0DpkjrbB"
-      },
-      "artists": [
-        {
-          "name": "SXID",
-          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
-        }
-      ],
-      "duration_ms": 77424,
-      "name": "Funk of Suffering",
-      "url": "https://open.spotify.com/track/3GbFWANaWI8VZf1AxqFeaN"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1443,26 +1483,6 @@
       "duration_ms": 153529,
       "name": "Robot Rock (Funk)",
       "url": "https://open.spotify.com/track/3R3zF6Y5fnimYRXuBTrp9D"
-    },
-    {
-      "added_at": "2022-12-09 08:15:38",
-      "album": {
-        "name": "classical phonk",
-        "url": "https://open.spotify.com/album/0Ol07P6QUMgXjBlunBCFok"
-      },
-      "artists": [
-        {
-          "name": "0to8",
-          "url": "https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g"
-        },
-        {
-          "name": "madeinnline",
-          "url": "https://open.spotify.com/artist/5Uf6QGQDs3EqsxgiGR4O4f"
-        }
-      ],
-      "duration_ms": 86160,
-      "name": "classical phonk",
-      "url": "https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl"
     },
     {
       "added_at": "2022-09-02 08:01:31",
@@ -1641,6 +1661,22 @@
       "url": "https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS"
     },
     {
+      "added_at": "2024-03-08 15:34:20",
+      "album": {
+        "name": "JUJALARIM FUNK",
+        "url": "https://open.spotify.com/album/0w7rzFrOSsiGvChfXdpCjz"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "JUJALARIM FUNK",
+      "url": "https://open.spotify.com/track/7A9G0xZfgNVM17TvBysVzl"
+    },
+    {
       "added_at": "2022-02-04 20:08:15",
       "album": {
         "name": "Twilight",
@@ -1675,26 +1711,6 @@
       "duration_ms": 132794,
       "name": "Beat das Trevas [Slowed + Reverb]",
       "url": "https://open.spotify.com/track/3bzkdI9iT7ygXbHMzl4rkB"
-    },
-    {
-      "added_at": "2022-08-26 10:49:32",
-      "album": {
-        "name": "ANUBIS",
-        "url": "https://open.spotify.com/album/32ZaJnILSwK9EKayZbZMmr"
-      },
-      "artists": [
-        {
-          "name": "KUTE",
-          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
-        },
-        {
-          "name": "RAIZHELL",
-          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
-        }
-      ],
-      "duration_ms": 131454,
-      "name": "ANUBIS",
-      "url": "https://open.spotify.com/track/1aqP9g3lLR8bpFtkCTm41N"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1747,22 +1763,6 @@
       "duration_ms": 165000,
       "name": "Why Not",
       "url": "https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP"
-    },
-    {
-      "added_at": "2024-03-08 15:34:20",
-      "album": {
-        "name": "JUJALARIM FUNK",
-        "url": "https://open.spotify.com/album/0w7rzFrOSsiGvChfXdpCjz"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 121846,
-      "name": "JUJALARIM FUNK",
-      "url": "https://open.spotify.com/track/7A9G0xZfgNVM17TvBysVzl"
     },
     {
       "added_at": "2023-03-31 15:56:27",

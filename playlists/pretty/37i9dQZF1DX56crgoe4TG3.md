@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Wyatt Flores
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,572 likes - 119 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,621 likes - 119 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 118 | [Little Piece of My Heart](https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA) | [John Hartford](https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6) | [Gum Tree Canoe](https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv) | 3:10 |
 | 119 | [No Diggity](https://open.spotify.com/track/2X2mue7uhDOCEgA3ewrB2l) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU) | 5:51 |
 
-Snapshot ID: `MCxkM2VkMWZiMzFmM2Q4NDhiOWE3OWMwZjhkMTQ1ZTc3ZTE5ZDlmOTVi`
+Snapshot ID: `MCw3MmRmZTJmYjYzNDFmYTFkOWJjZjM3YTM1YmRjM2Q3YzhlNGY0Y2Nl`

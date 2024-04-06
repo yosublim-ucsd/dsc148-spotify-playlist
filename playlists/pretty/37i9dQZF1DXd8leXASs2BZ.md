@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: MIKADO
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,229 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,239 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Anthem](https://open.spotify.com/track/0MBzNOhfoa8U32LuXw34f2) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [ISSUES DELUXE](https://open.spotify.com/album/6RwZHwh768vKLfDgAxhsbJ) | 2:50 |
 | 100 | [Karate](https://open.spotify.com/track/5WVG5gcr3IYucGjTAJtKp9) | [Sh0ta](https://open.spotify.com/artist/0DPwzajAlCTDhhq1jgNcW2) | [Karate](https://open.spotify.com/album/7djQ0wgXOnhbVPvmzCeKbH) | 2:08 |
 
-Snapshot ID: `MCxjZjc4NTllYzdhYzA1NjAwNDc0YmQyZTM1ZTk0ZmQ1ZTk1YmM2ZDNi`
+Snapshot ID: `MCwzYjIzNTNjMjdlOTU2NTZlOTIxMmI1MTY3YmNiZWMzNTA3MzAxMzQ0`

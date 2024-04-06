@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,135 songs - 2 day 11 hr 33 min
+1,136 songs - 2 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Beroendeframkallande](https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Beroendeframkallande](https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4) | 3:02 | 2023-01-12 | 2023-10-06 |
 | [Besvikelsens melodi](https://open.spotify.com/track/2vMkLWQPmHXDy9vBD06KuP) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Besvikelsens melodi](https://open.spotify.com/album/1vQFs8ArZg3Gh8OrbGrW14) | 2:41 | 2022-04-01 | 2022-10-16 |
 | [Better Clothes](https://open.spotify.com/track/32zQ6Vett2aO9VT0UNiJSz) | [SYLVE](https://open.spotify.com/artist/0PAAsgLKmFX9PFn3HMb7pW) | [Better Clothes](https://open.spotify.com/album/5Oj1H9ZLW7ZrDDlD2qSeSm) | 2:57 | 2022-06-16 | 2022-07-15 |
-| [Better Than Her](https://open.spotify.com/track/4NykJNyAnlVH4Awb15eTpa) | [SINNAH](https://open.spotify.com/artist/4sA5M3lc1U8npQb77sMhxh) | [Better Than Her](https://open.spotify.com/album/377ZKoD3Tb6JUFsmQocPRJ) | 2:54 | 2024-03-14 | 2024-03-17 |
+| [Better Days](https://open.spotify.com/track/7E1kK0D0goo85p02ZAoa8Y) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Better Days](https://open.spotify.com/album/64OLfOz30pmwGnjngRodRT) | 3:38 | 2024-04-04 |  |
+| [Better Than Her](https://open.spotify.com/track/4NykJNyAnlVH4Awb15eTpa) | [SINNAH](https://open.spotify.com/artist/4sA5M3lc1U8npQb77sMhxh) | [Better Than Her](https://open.spotify.com/album/377ZKoD3Tb6JUFsmQocPRJ) | 2:54 | 2024-03-14 |  |
 | [Betyder ingenting](https://open.spotify.com/track/1oqlZtu7OBwu81conDTu30) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Mattias Andréasson](https://open.spotify.com/artist/0gFk1Wd2yws9WIB6dqaO4b) | [Betyder ingenting](https://open.spotify.com/album/1PF7HO7Smc7raUZY0B03VJ) | 2:29 | 2021-12-16 | 2022-01-10 |
 | [Bigger Than The Universe](https://open.spotify.com/track/2A5qivViPNykdAiRLXrxUF) | [Anders Bagge](https://open.spotify.com/artist/7MgeBZ2pgnnkISLd8wsn0T) | [Bigger Than The Universe](https://open.spotify.com/album/0FLkjiFbRwGs5X2SnII6Oq) | 3:02 | 2022-03-03 | 2022-07-29 |
 | [Bigger Than The Universe](https://open.spotify.com/track/4O1FGUf2xndvsmtMQtHZNp) | [Anders Bagge](https://open.spotify.com/artist/7MgeBZ2pgnnkISLd8wsn0T) | [Bigger Than The Universe](https://open.spotify.com/album/0jnA15McQjMuXilDq9w2BW) | 3:02 | 2022-07-28 | 2022-09-16 |
@@ -647,7 +648,7 @@
 | [Metal Firecracker](https://open.spotify.com/track/7tzifC2bbcUfLz1RoH2zeR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Metal Firecracker](https://open.spotify.com/album/3v8exQFqsuCKKi1nWHgJND) | 3:03 | 2022-08-11 | 2022-10-05 |
 | [Midnatt](https://open.spotify.com/track/2WbFll5FxW0JEKIyijHNcb) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Midnatt](https://open.spotify.com/album/3suLV5WJS3L9v7kG3IKAbM) | 3:04 | 2022-09-29 | 2022-12-16 |
 | [Mildest High](https://open.spotify.com/track/6YCe7aJVBWDEkJklrjVwmy) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Mildest High](https://open.spotify.com/album/5V7zY5PJ0sl5hgT7Jow9pQ) | 3:03 | 2022-06-23 | 2022-07-23 |
-| [Miles away](https://open.spotify.com/track/3F222sKuqRhPDVWX3zFrsF) | [Carl :Cries](https://open.spotify.com/artist/6B1HBD8SBFMKAimyjUFesP) | [Miles away](https://open.spotify.com/album/1IJ0AewQmGV57xx81FMF1B) | 2:34 | 2024-02-24 |  |
+| [Miles away](https://open.spotify.com/track/3F222sKuqRhPDVWX3zFrsF) | [Carl :Cries](https://open.spotify.com/artist/6B1HBD8SBFMKAimyjUFesP) | [Miles away](https://open.spotify.com/album/1IJ0AewQmGV57xx81FMF1B) | 2:34 | 2024-02-24 | 2024-04-06 |
 | [MIN MARIE](https://open.spotify.com/track/5ZyZnWoQiMk2qoNt2HyDdN) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [MIN MARIE](https://open.spotify.com/album/1R0rgizcdTQsGbWTMokGa0) | 2:33 | 2024-02-22 |  |
 | [Minimum](https://open.spotify.com/track/4JkY9nv1oRlj9OYfOlOVna) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Minimum](https://open.spotify.com/album/7ntbKzzrRi4jgxNoPCKMjb) | 2:13 | 2024-01-04 | 2024-02-23 |
 | [Minnet Av Ett Hav](https://open.spotify.com/track/17xpeHftsvBZRt9OYfNZ00) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Minnet Av Ett Hav](https://open.spotify.com/album/7KWH3xa5MMcXvqW4CgnxMd) | 3:46 | 2021-12-16 | 2022-04-02 |
@@ -1017,7 +1018,7 @@
 | [TRENCH](https://open.spotify.com/track/3eYJ0WYNccALQAYoTZyidU) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [TRENCH](https://open.spotify.com/album/1nKbVqSp1GqpI3ggyihitK) | 3:13 | 2023-11-23 | 2024-02-04 |
 | [TRENCH](https://open.spotify.com/track/5btPCzSpdxxnxuGuHhcD35) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [TROLL](https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx) | 3:13 | 2024-02-02 | 2024-02-23 |
 | [Trip](https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Trip](https://open.spotify.com/album/5qirpX94upVMrdr43t4HYC) | 2:58 | 2022-04-01 | 2022-04-21 |
-| [Tristessens patrioter](https://open.spotify.com/track/6gi3R2qmkbE75wtAMNzlyO) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [Tristessens patrioter](https://open.spotify.com/album/2bLqr293858FS8EXzAI6Go) | 3:03 | 2024-02-24 |  |
+| [Tristessens patrioter](https://open.spotify.com/track/6gi3R2qmkbE75wtAMNzlyO) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [Tristessens patrioter](https://open.spotify.com/album/2bLqr293858FS8EXzAI6Go) | 3:03 | 2024-02-24 | 2024-04-06 |
 | [Träffa andra](https://open.spotify.com/track/12xfklEh742AncfxxkSIzY) | [Sebbe Hauta](https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z) | [Träffa andra](https://open.spotify.com/album/3dVduJktcL11MXUDkH6I9I) | 2:43 | 2023-10-20 | 2024-01-26 |
 | [trött på det](https://open.spotify.com/track/4AyU1dA0MJN7nyWHgFwfak) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [trött på det](https://open.spotify.com/album/66IhgUUfX0mE9TmNnxRouz) | 2:24 | 2024-01-25 | 2024-03-15 |
 | [tsm <3 \(pantamera!!\)](https://open.spotify.com/track/2TfMaAeUJHRbkBlkWcXYzG) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [tsm <3 \(pantamera!!\)](https://open.spotify.com/album/5sWvww2pt3kTYU8d4HP6NV) | 2:21 | 2024-03-28 |  |

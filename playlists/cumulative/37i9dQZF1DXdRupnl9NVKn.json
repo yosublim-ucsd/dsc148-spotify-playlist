@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Could It Be",
+        "url": "https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI"
+      },
+      "artists": [
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "Could It Be",
+      "url": "https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8"
+    },
+    {
+      "album": {
         "name": "I burn",
         "url": "https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe"
       },

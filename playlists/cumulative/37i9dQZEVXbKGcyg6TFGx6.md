@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Luxembourg.
 
-1,814 songs - 4 day 0 hr 25 min
+1,815 songs - 4 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Auntie Diaries](https://open.spotify.com/track/19Fg3WrTfo35Ji3PtfZE6J) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:41 | 2022-05-14 | 2022-05-16 |
 | [AURA](https://open.spotify.com/track/5345G7vEjOT2CvaECkqJiS) | [Adil C](https://open.spotify.com/artist/7x3MbA2lRnl8xXFc9A9uUq) | [AURA](https://open.spotify.com/album/1pCT0io3SFeP6eW228ovUs) | 2:25 | 2023-06-09 | 2023-06-18 |
 | [AUSMACHT](https://open.spotify.com/track/5EqNQy5SQgXIRQ86oYvUlf) | [Emilio](https://open.spotify.com/artist/1HFnM3rs2ZJWVL9q273DYF) | [AUSMACHT](https://open.spotify.com/album/1l35wpORDxzKGwnsfWQnWv) | 2:28 | 2022-06-04 | 2022-06-07 |
+| [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-04-05 |  |
 | [Avalanche](https://open.spotify.com/track/4KD0lLJ4OGonZhBeKtct9I) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:26 | 2021-06-13 | 2021-06-14 |
 | [Away](https://open.spotify.com/track/58XDaOVTilqYx3l0hImdSZ) | [Erd1](https://open.spotify.com/artist/3LszmpddOPySljVKFSmKl2) | [Away](https://open.spotify.com/album/3oG2PC7idtns1WCvtC3YpF) | 2:40 | 2023-04-22 | 2023-04-25 |
 | [Awé](https://open.spotify.com/track/05a90M1kZwe4oQm9e9wc0h) | [Chineur](https://open.spotify.com/artist/0x7kCGAtSNcUFZ9BW4tdPc) | [Awé](https://open.spotify.com/album/06VkGpPl2077Z5JCCld11O) | 4:19 | 2023-02-26 | 2023-02-28 |
@@ -1305,7 +1306,7 @@
 | [Reality](https://open.spotify.com/track/6rHROoXjEfuxYVw1nd7plQ) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck Devy](https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON) | [Less Is More](https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH) | 2:38 | 2023-06-23 | 2023-06-25 |
 | [Realität](https://open.spotify.com/track/4aCtiux4NfWF0Kx88YAA5e) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 3:04 | 2021-07-18 | 2021-09-05 |
 | [Red Bottoms](https://open.spotify.com/track/4C8ZEqyNYz52Wx3SiwF0wG) | [Ricotrap](https://open.spotify.com/artist/1dxEKWOOlQzD9grjt7skVA), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Red Bottoms](https://open.spotify.com/album/6CxV30hnz59T7jqXrBuCTj) | 2:46 | 2024-01-09 | 2024-01-15 |
-| [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-13 |  |
+| [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-13 | 2024-04-06 |
 | [Reggae & Calypso \(Russ Millions x Buni x YV x CH \(GMD\) x SwitchOTR x Gazo x RoseReal\) \- Remix](https://open.spotify.com/track/2cQyipGn0DEXYLgoeIwRFe) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [YV](https://open.spotify.com/artist/5A7HNCq6t0xNDOjZIUZDRk), [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv), [CH \(GMD\)](https://open.spotify.com/artist/0GB9JwyieSfl4FONkheT6k), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [RoseReal](https://open.spotify.com/artist/5E3fSZkMvWLvANJtyFoNRH) | [One Of A Kind Music Presents: Reggae & Calypso \(Remix\)](https://open.spotify.com/album/6aDC4yKehLucDd52xhLdPw) | 3:12 | 2022-04-02 | 2022-04-04 |
 | [Reinvented](https://open.spotify.com/track/6uzxlXvbxxVRZo23kZZLUU) | [YUNGGREEDY TRIPLED](https://open.spotify.com/artist/5FxM2ZIeawRPpFnmtByeI0), [SouthDallas KeKe](https://open.spotify.com/artist/2lgdsRK9YiaM2zDvh94jDg) | [Reinvented](https://open.spotify.com/album/19pRk58dX0GrEEZ0rQsKUi) | 2:46 | 2023-09-25 | 2023-09-29 |
 | [RENN RENN](https://open.spotify.com/track/5dYA3DGibUvGlEmTmariSy) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [RENN RENN](https://open.spotify.com/album/3CYIlp65qThM8xkS97nbZR) | 3:19 | 2022-06-25 | 2022-06-27 |

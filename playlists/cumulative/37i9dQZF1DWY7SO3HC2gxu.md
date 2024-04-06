@@ -4,7 +4,7 @@
 
 > Best blends of Electronic music Across East Africa
 
-132 songs - 10 hr 40 min
+133 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Down to Me \- Davis B Remix](https://open.spotify.com/track/6qAlulFqO10Bn06eGpa9tB) | [KAMUSHEZ](https://open.spotify.com/artist/45IuInsqovfU1Xg1a5YZdS), [Dattie Capelli](https://open.spotify.com/artist/7n0IL4h59BSGNAwPjAI5E9), [Davis B](https://open.spotify.com/artist/2eE77mWsLL4m0d9w3OWVws) | [Down To Me \(Davis B Remix\)](https://open.spotify.com/album/5ycXRLiOjsA2g8NaeFHesJ) | 6:33 | 2023-07-07 |  |
 | [Dunguni feat Idd Aziz](https://open.spotify.com/track/3vIah0m7Mxv4BSk0LVpX6M) | [SIL3NTKILL](https://open.spotify.com/artist/4FB27lfrCEGXTjrgs3zeFC), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Dunguni feat Idd Aziz](https://open.spotify.com/album/0wtiHPGJQpCbcAUA4xfhGF) | 5:25 | 2023-05-18 |  |
 | [Fire](https://open.spotify.com/track/4ubZszrzbW32EIfQlfwBgW) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Fire](https://open.spotify.com/album/4X68mxc76NPAd7Bch56JWl) | 3:47 | 2022-08-01 |  |
-| [Flames](https://open.spotify.com/track/6X0p3vgL8JMyUTLHDm8taS) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod) | [Flames](https://open.spotify.com/album/6CXfE7vb0Nl5ZFthPzdn2U) | 2:21 | 2023-03-31 |  |
+| [Flames](https://open.spotify.com/track/6S1mY4W4ZXK17myBKwoXp4) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod) | [Flames](https://open.spotify.com/album/70tE4mp6AUYmsZhh3lOqeQ) | 2:21 | 2024-02-15 |  |
+| [Flames](https://open.spotify.com/track/6X0p3vgL8JMyUTLHDm8taS) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod) | [Flames](https://open.spotify.com/album/6CXfE7vb0Nl5ZFthPzdn2U) | 2:21 | 2023-03-31 | 2024-04-06 |
 | [Forever \- &Lez Remix](https://open.spotify.com/track/3TFhBDI23s6lCFOvtu6o5b) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1), [&lez](https://open.spotify.com/artist/2qYXvmcOMvQOnCBcvh8erq) | [Forever \(&Lez Remix\)](https://open.spotify.com/album/4uhoVqDV7IFDbwgs2U2EvZ) | 7:33 | 2023-11-16 |  |
 | [Gongo](https://open.spotify.com/track/55UCq8K2C8Tf1zJ4CIhta0) | [Anrey](https://open.spotify.com/artist/7a2a36QkRDDOhyHWkDXYGw), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Gongo](https://open.spotify.com/album/2dqi90Af77LxU3O88JY7F9) | 3:13 | 2023-03-03 |  |
 | [Heart & Home](https://open.spotify.com/track/2CCeJrNHjfCPPbAgbxfZeG) | [Lauwz](https://open.spotify.com/artist/3Ve5wOwJP6ERWAukCZXbKb), [Bapti](https://open.spotify.com/artist/7c7xyyjqZ4ZUZ84wIMUYbB) | [Heart & Home](https://open.spotify.com/album/3TqLZFi5ebWxFiT4l0ralM) | 2:30 | 2022-12-09 | 2023-07-28 |

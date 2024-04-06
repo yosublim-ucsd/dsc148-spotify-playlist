@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny summer vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,227 likes - 65 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,595 likes - 65 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 33 | [You Around](https://open.spotify.com/track/5NKczeJLKz66nTdOHijsfu) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [You Around](https://open.spotify.com/album/21txSCsQwETAsGisDjxT3y) | 2:43 |
 | 34 | [Sorry Seems to Be the Hardest Word](https://open.spotify.com/track/5igaKt1NT2dLq2BGbKO1nz) | [Pinky Dread](https://open.spotify.com/artist/0Y876qrI6O3kItxH3ycwaQ) | [Sunset Vibes](https://open.spotify.com/album/2Uarc007On3dQRXg3SIxiW) | 3:31 |
 | 35 | [Things You Can't Control](https://open.spotify.com/track/389BGaLv0BIG8hcIY1a0im) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Trevor Young](https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:04 |
-| 36 | [I Want You](https://open.spotify.com/track/3SdQ1jTn9D7CGNkL1iFJ27) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs), [Lila Ike](https://open.spotify.com/artist/2H0xdSbNwUkQH1AT6YwoxJ), [XTM.Nation](https://open.spotify.com/artist/7CqX24mRJOxqVULY9YNxra) | [I Want You](https://open.spotify.com/album/2zDNnQjPez18OkGJoGlvMd) | 3:47 |
+| 36 | [I Want You](https://open.spotify.com/track/3SdQ1jTn9D7CGNkL1iFJ27) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [XTM.Nation](https://open.spotify.com/artist/7CqX24mRJOxqVULY9YNxra) | [I Want You](https://open.spotify.com/album/2zDNnQjPez18OkGJoGlvMd) | 3:47 |
 | 37 | [Magic Potion \(with Lion Rezz\)](https://open.spotify.com/track/2J3SINtTF2idrk1SwXsFtC) | [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Feels & Groove EP](https://open.spotify.com/album/7oRRh1N2z8ZWFogGfIVgsM) | 4:12 |
 | 38 | [Three Little Birds](https://open.spotify.com/track/19L8E51SOAjb0DdA349YuW) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Three Little Birds](https://open.spotify.com/album/3S04DPo3bvwkHQBTAigDIa) | 3:21 |
 | 39 | [Old School Feeling](https://open.spotify.com/track/4CP5zdy0pLR5Q3IeLeY1qU) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [In the Moment](https://open.spotify.com/album/4ZO52CTQ2EzwDmAIrFjHaW) | 3:56 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 64 | [I Wonder](https://open.spotify.com/track/5ZCNcQRCQfqdE9gAJir3Hg) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [I Wonder](https://open.spotify.com/album/7yHdGR9ZJLR7Gm56tWdKh8) | 2:39 |
 | 65 | [Still Go a Dance](https://open.spotify.com/track/4clUohoKu1S7YGM8SuCMrs) | [Christopher Ellis](https://open.spotify.com/artist/1CEhqTYXYpWeVLCCZE0LEs) | [Still Go a Dance](https://open.spotify.com/album/6yN83NixfyLv59uj635Ccx) | 3:11 |
 
-Snapshot ID: `MCxjYmQ5M2ZlMGMxMjFmODNlYTRjZWVmMmE0YzViYmUyN2U0MzM4NTJh`
+Snapshot ID: `MCwwNTYwNDlkM2IzZDg2MzI4MzdjNTRjZWUyNWZjZTc4MTUxMzhiNTQ1`

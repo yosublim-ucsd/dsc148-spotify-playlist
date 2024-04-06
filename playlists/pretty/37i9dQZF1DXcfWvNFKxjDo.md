@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Robin Schulz, Timmy Trumpet, KOPPY
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,776 likes - 79 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,909 likes - 79 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 2 | [I Love It](https://open.spotify.com/track/5VG6MONs7BkKKjO65vZYMm) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs) | [I Love It](https://open.spotify.com/album/539fmAbtb0njedW5AkMjxK) | 2:09 |
 | 3 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
 | 4 | [Body](https://open.spotify.com/track/1nk18tNMS3nNWutUXGicMb) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0) | [Body](https://open.spotify.com/album/3kjxjnNjxrMK8vdiy7Mpfo) | 2:27 |
-| 5 | [Think About The Way](https://open.spotify.com/track/6ytFEsnazqki7XN2yXOev9) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Think About The Way](https://open.spotify.com/album/1zk1LmKfreJ48IbZZdAje1) | 2:30 |
+| 5 | [Think About The Way](https://open.spotify.com/track/4lHacAc1D1roQi1tMvC8Na) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Think About The Way](https://open.spotify.com/album/3SpHHuYNB1OqkupIrmWuMi) | 2:30 |
 | 6 | [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 |
 | 7 | [Shadows Of The Night \- GIGI DAG Mix](https://open.spotify.com/track/5n3jPpWweeAWjSEIONrcXS) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ), [GIGI DAG](https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0) | [Shadows Of The Night \(GIGI DAG Mix\)](https://open.spotify.com/album/5X1zTvAgAce4WDfP2vRBbi) | 2:42 |
 | 8 | [Drive It Like You Stole It](https://open.spotify.com/track/67zkYicxp78FdBhe8ATgDA) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Drive It Like You Stole It](https://open.spotify.com/album/52Il2Qf7b3tpqTl4VYo6Ce) | 2:19 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 78 | [Lose My Breath](https://open.spotify.com/track/12Uewf1PMZIZ5E5SgXg2ZO) | [Nik Taylor](https://open.spotify.com/artist/3UiZcHG7Qsb6jermYL8Jzt) | [Lose My Breath](https://open.spotify.com/album/5cuIlJPsp7jhJ28j7ZhBuV) | 2:57 |
 | 79 | [with or without](https://open.spotify.com/track/7is0EzwMMPG9gLeDa79v0W) | [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [with or without](https://open.spotify.com/album/240N9nY4TedDVetqUBhjni) | 2:02 |
 
-Snapshot ID: `MCw0NzQ5ZTU2YjRlOTNiYWIyZTM4MmE5ODViNTY2YzhhMzQ2MjhkYTQ3`
+Snapshot ID: `MCwxOGNjM2EyMGRkYTA2YmM1NTJhZmIzYjFiNjIzNWFhOWE4MDFhMzk1`

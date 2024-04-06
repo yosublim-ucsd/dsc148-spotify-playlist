@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Dale! Hit the dance floor with Dolly Parton and Pitbull!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,542 likes - 161 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,609 likes - 161 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 40 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 |
 | 41 | [Giddy Up! \- Malibu Babie Remix](https://open.spotify.com/track/4A2CY9ZLMQe4PDUbQ48lVM) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Giddy Up! \(Malibu Babie Remix\)](https://open.spotify.com/album/6mIpPFIWUHCU1dG0dMprBo) | 2:44 |
 | 42 | [Die From A Broken Heart \- Dave Audé Remix](https://open.spotify.com/track/67nJhl2mm7G67KSkgtfo3m) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Die From A Broken Heart \(Dave Audé Remix\)](https://open.spotify.com/album/747uK0GZr84NDWrfrlhWvI) | 3:07 |
-| 43 | [When It Rains It Pours](https://open.spotify.com/track/3hKjUWneThtWscAoDLwvfT) | [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [Different Hits](https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK), [Luke Borchelt](https://open.spotify.com/artist/2O6xZPq4ER6q6xwdW3sLfQ) | [When It Rains It Pours](https://open.spotify.com/album/1AWyoDW2cHPNx50Hs6uHpC) | 4:00 |
+| 43 | [When It Rains It Pours](https://open.spotify.com/track/3hKjUWneThtWscAoDLwvfT) | [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [Different Hits](https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK) | [When It Rains It Pours](https://open.spotify.com/album/1AWyoDW2cHPNx50Hs6uHpC) | 4:00 |
 | 44 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/0poKbTUdYz7lXFd15XuHiC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/album/1Wp9ImrDqyqMGfZVohAfw1) | 3:22 |
 | 45 | [Better Than Gold](https://open.spotify.com/track/5cxskQNZLSxEkEhqdi5ad6) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996), [Andrew Hellier](https://open.spotify.com/artist/5UAiCq7VKP2MrMG2RAkPl8) | [Better Than Gold](https://open.spotify.com/album/5A3WkvUJOGBMYpruWmySBh) | 5:20 |
 | 46 | [My Bar \- VAVO Remix](https://open.spotify.com/track/4NYFbAU5P7pfEeFe6H2187) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [Spring Break '23 Remixes](https://open.spotify.com/album/60Z7QokUtvM3SqQNBbNeuo) | 2:01 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 160 | [Someday](https://open.spotify.com/track/73h6Ma5QhBFrshEN2CTevS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:43 |
 | 161 | [Two Black Cadillacs / Jolene \(Dee Jay Silver Edit\) \(feat\. Dolly Parton\)](https://open.spotify.com/track/3H0JQLCfWoVvPGfQvzDT42) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Country Club](https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt) | 4:12 |
 
-Snapshot ID: `MCw2NTAyZDI4ZjgwMGIyNTFjOTMwNWYwOWY3YzlhMjMwZWFiMDE0OTI5`
+Snapshot ID: `MCw4NWY2MDkyZmExMzFjMmE1MWZkNTQwZmQwOTE1OGQ5YmQ0NDY5Njli`

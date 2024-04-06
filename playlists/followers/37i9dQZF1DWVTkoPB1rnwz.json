@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 205380,
+  "2024-04-06": 205405,
   "date_first_scraped": "2022-05-30",
   "description": "Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.",
   "name": "Quiet Hours",
@@ -729,7 +729,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 97104,
       "name": "Bass.int",
       "url": "https://open.spotify.com/track/1BrPqq3B6WxfpB3c9HU15k"
@@ -5485,7 +5485,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 175623,
       "name": "tears (is this even real?)",
       "url": "https://open.spotify.com/track/6ig6L5YZmiASmRlXmVPMP1"

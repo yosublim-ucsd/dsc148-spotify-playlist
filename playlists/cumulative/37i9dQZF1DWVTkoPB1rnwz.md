@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-344 songs - 20 hr 8 min
+345 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Blue Surround](https://open.spotify.com/track/5ja2D6G7nq2rC3xCeFaMBH) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Infinite Echo](https://open.spotify.com/album/3hxC9wqR62FRcQGR2jcOh4) | 3:08 | 2022-11-10 | 2024-01-02 |
 | [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 | 2021-10-16 | 2022-07-13 |
 | [Borren](https://open.spotify.com/track/1FLskas14MnoxOj3nyPL5i) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2), [Underbelly](https://open.spotify.com/artist/0sRH4nJGFNV1pu9cutNw5O) | [Chillhop Daydreams](https://open.spotify.com/album/5Tv8LWNku2lmWXxAy4xYhI) | 2:51 | 2021-10-16 | 2022-10-01 |
-| [Botanique](https://open.spotify.com/track/0QkELk070t8htErnXyCguw) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Habitat](https://open.spotify.com/album/6c3fg9k7oV8ShswoX0OifT) | 9:10 | 2021-10-16 |  |
+| [Botanique](https://open.spotify.com/track/0QkELk070t8htErnXyCguw) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Habitat](https://open.spotify.com/album/6c3fg9k7oV8ShswoX0OifT) | 9:10 | 2021-10-16 | 2024-04-06 |
 | [Botanique](https://open.spotify.com/track/1pWIPbmvcqy9N06Bmasdfa) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Habitat](https://open.spotify.com/album/784eJcaYZn3cQXHkpQuqLN) | 9:10 | 2021-10-16 | 2023-08-20 |
 | [Breathing Flute 88](https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Kalma Meli Melo](https://open.spotify.com/album/4U3bpg7JAD4k6hnORaIDRq) | 20:02 | 2024-03-12 |  |
 | [Brockley](https://open.spotify.com/track/0uMD0CaCxiTwgVZhN5paQf) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 4:48 | 2021-10-16 | 2022-07-27 |
@@ -259,6 +259,7 @@
 | [Seals](https://open.spotify.com/track/6AlFSBiCpW73fOQUWDJ3q5) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/1vGxp3fYpDr1weKcyLzvSK) | 2:18 | 2021-10-16 | 2023-01-27 |
 | [Seaside](https://open.spotify.com/track/6gYVKVLsz5hMURG0A42MUE) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ) | [Seaside](https://open.spotify.com/album/4pX3op6h4EQl3MPV28ffxr) | 3:10 | 2021-10-16 | 2022-07-19 |
 | [She Brought the Sun \- Donna Lewis Remix](https://open.spotify.com/track/6DLteOyb98BgjzLPFdVGul) | [Delia Derbyshire Appreciation Society](https://open.spotify.com/artist/7tftZY77A5wi6W5wngbBxu), [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [She Brought the Sun \(The Remixes\)](https://open.spotify.com/album/1Rzzk0pyZ6Gr2AjA5udesm) | 5:17 | 2021-10-16 | 2022-07-26 |
+| [Shuswap Lake](https://open.spotify.com/track/114fCj49GKyPSgJCLwUDWH) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/4H1nqluuMY1dOHLPDXh1OE) | 2:53 | 2022-11-25 |  |
 | [Shuswap Lake](https://open.spotify.com/track/65QjGjNoFbSEza40LZbgYW) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/2ZhUnjUD0SS43j555ve3VO) | 2:53 | 2022-11-25 | 2023-03-29 |
 | [Silent, Again](https://open.spotify.com/track/1y2VUlqdTglajvnqfWlTNr) | [bonsai2004](https://open.spotify.com/artist/4dadbZwGXdRXe17zBigfoO) | [Silent, Again](https://open.spotify.com/album/61wpNCObeDn2KQimfYGtR4) | 2:04 | 2021-10-16 | 2022-07-27 |
 | [simbiosis](https://open.spotify.com/track/50oogoHC2e9HDCFxw1oB7G) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [simbiosis](https://open.spotify.com/album/3RK6NpoByT63TvTZO1k9RY) | 3:36 | 2021-10-16 | 2022-07-29 |

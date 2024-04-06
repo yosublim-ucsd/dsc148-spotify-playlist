@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3raoUbvEnt0.md) - [plain]
 
 > Music from "GOLDEN KAMUY"! /アニメ「ゴールデンカムイ」の楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,831 likes - 43 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,838 likes - 43 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3raoUbvEnt0.md) - [plain]
 | 42 | [Sogeki](https://open.spotify.com/track/1uA6JO5BzM4O3PgqWpcxhf) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY Original Soundtrack](https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv) | 2:39 |
 | 43 | [Karafuto e](https://open.spotify.com/track/3B4dGp0vE44rB06olaPfBT) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY Original Soundtrack](https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv) | 2:41 |
 
-Snapshot ID: `MCxmNjAwM2ZiZjMxOWQxOTJmYWQ4YjIwYzY0YTMxNjcyY2ZhYjY0ZDhl`
+Snapshot ID: `MCxiMzIyNzE5ZGNlN2M1YWNiODlmNTFmYmU3MDM0ZGNiYTFkNGQzY2Rm`

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 55 min 2 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 47 min 18 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Millonaria](https://open.spotify.com/track/3OhyaxZpxzo6umGhq36G5t) | [La Fixapilar](https://open.spotify.com/artist/7xoejOm41TzsFey5bcHFCm) | [Millonaria](https://open.spotify.com/album/3TPXNVvJ0qyqUki0TqDGbM) | 2:12 |
-| 2 | [Can't Get Enough \- 2015 Remaster](https://open.spotify.com/track/6n5lHdpuBDdA7pYDpiKzEI) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Bad Company \(Deluxe\)](https://open.spotify.com/album/4fuDpBLCt9ChDlqw48bj7p) | 4:16 |
-| 3 | [Wild Dub \- 2002 Remaster](https://open.spotify.com/track/4DFlGnx94vp5YkOnF0WL2j) | [Generation X](https://open.spotify.com/artist/1inWec2E2UgfzMAhwjgTXe) | [Generation X \(2002 Remaster\)](https://open.spotify.com/album/4O4sXIYGAxA7hrC6tAnyl0) | 3:48 |
-| 4 | [Earth Song \- Hani's Extended Radio Experience](https://open.spotify.com/track/4Uw7RAKTS31MDUJ9KSxmCz) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [BLOOD ON THE DANCE FLOOR/ HIStory In The Mix](https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ) | 7:55 |
-| 5 | [Helpless](https://open.spotify.com/track/3bhs9FdO43IOmoaegJ7bvB) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage, Inc.](https://open.spotify.com/album/4qDiQwJ7UEuJsGLWL078nQ) | 6:38 |
-| 6 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
-| 7 | [Partita in D Major: Ritournelle \- lentement](https://open.spotify.com/track/1YeItJ7MoHsNpsLRNt8EZe) | [Tyler Hawkins](https://open.spotify.com/artist/6UVaQ6rZvJoKnDMlEXyonx), [Christopher Irvine](https://open.spotify.com/artist/4h0HfIayKkogqCic5PUKrx) | [Georg Philipp Telemann Lute Duets for Classical Guitar](https://open.spotify.com/album/233eqIMGit9gAegpmLg7r6) | 6:57 |
-| 8 | [Gingervitus](https://open.spotify.com/track/2jXhXqOgVTNtxHyv0BgPEd) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Between The Lies](https://open.spotify.com/album/5u4wOGpnlaGSz9b9rHMETR) | 4:09 |
-| 9 | [King Nothing](https://open.spotify.com/track/4Ovpv1Z98LERzogBUa8MzH) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/2MD9zkmkFbrVyWy23nnAZQ) | 5:28 |
-| 10 | [Angels \- Acoustic](https://open.spotify.com/track/1XXAEzRFi0cs0Zh2R42jG1) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Angels](https://open.spotify.com/album/15lwLTwByJddohg3GvxICy) | 4:28 |
-| 11 | [Like You Boy](https://open.spotify.com/track/6cHV4imunCJXCd3iT40Tm5) | [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Like You Boy](https://open.spotify.com/album/4lbJpv9py0nbWfRQ09VRDe) | 2:49 |
-| 12 | [Pocket](https://open.spotify.com/track/4tEbhflVi5PzSl2om3C3so) | [Margot Liotta](https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM) | [Pocket](https://open.spotify.com/album/2cy9UiKp4m5TuYTQD5rg3E) | 2:42 |
+| 1 | [Prelude \(Demo\) \- Bonus Track](https://open.spotify.com/track/4JoIwRJvEmVml9vkR0cgga) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Killswitch Engage \(Expanded Edition\) \[2004 Remaster\]](https://open.spotify.com/album/1MgyBHsiad6REK9veCUATT) | 2:03 |
+| 2 | [Summer Died In Connersville \- Instrumental Version](https://open.spotify.com/track/5PtniEoXt3tALHCu6azNHB) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [Digital Renegade \[Instrumental Version\]](https://open.spotify.com/album/2EGx88OVWH7a0BQXpfvP6M) | 3:18 |
+| 3 | [El Travieso](https://open.spotify.com/track/2pGuyTYdZ4tUbYtjNHc9zv) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 3:10 |
+| 4 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 |
+| 5 | [NZT48 \[Razihel Remix\]](https://open.spotify.com/track/6uaBcmytUwrs2fCld6rkpM) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [Renegades Forever](https://open.spotify.com/album/4umO9auiv91JhDUQfzQfKz) | 5:49 |
+| 6 | [Keep You Around](https://open.spotify.com/track/4Kp1NMyG6MZzbGtmNnTbXq) | [Ashlie Amber](https://open.spotify.com/artist/10uZfqpZrD77s8GhJyEaEA) | [Keep You Around](https://open.spotify.com/album/1KIPnoqKZIfMqNjqpeMJqr) | 3:10 |
+| 7 | [Ramble On \- 1990 Remaster](https://open.spotify.com/track/3MODES4TNtygekLl146Dxd) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:23 |
+| 8 | [To the River](https://open.spotify.com/track/0vyFjhfJ9DNLPX7vl3qc73) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Restless Years \(Bonus Track Version\)](https://open.spotify.com/album/7bKpo64AXgj2T9MEISV3X1) | 4:37 |
+| 9 | [The Flow](https://open.spotify.com/track/4qKN1tcFLmAJP7ZURRTl5k) | [From Indian Lakes](https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9) | [The Flow](https://open.spotify.com/album/4v4EJ3JDlrGSVZDeq51Btd) | 4:04 |
+| 10 | [Los 5 Pesos](https://open.spotify.com/track/2rv7odMbWI4Hn9h3COlMUA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [No Ando Solo](https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0) | 4:05 |
+| 11 | [Crazy](https://open.spotify.com/track/6FKAY8ff6Ea9YnPEStq8QI) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Tough Love: Best Of The Ballads \(International Version\)](https://open.spotify.com/album/2UhyWgiFb1ZDB1p0Uyljd4) | 5:16 |
+| 12 | [Sunday Morning](https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:04 |
 
-Snapshot ID: `NzYsMDBjMTUzNTNkZjkxMmIyNjkwNjllNGI0MTU0ZjA1NzE1MjNlYjVmMA==`
+Snapshot ID: `NzcsMmEyYmQ2OGJjZTk5ZWEyMDZkMDI3OWJhODNlNTMzMDE3NDk0MjRjOQ==`

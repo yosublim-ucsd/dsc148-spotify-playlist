@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 10804,
+  "2024-04-06": 10857,
   "date_first_scraped": "2023-10-18",
   "description": "Only the best in South African and international RnB. Cover: <a href=\"https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf?si=-K7t4-FuSmK22E74drnYrQ>Mikhal\u00e9 Jones</a>",
   "name": "R&Beats",
@@ -3354,6 +3354,28 @@
     },
     {
       "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/2Eenldjdnm9OpQXSBSp19T"
+      },
+      "artists": [
+        {
+          "name": "Daveny",
+          "url": "https://open.spotify.com/artist/6Aw4KeEvY6cyNUz7IIyPe3"
+        },
+        {
+          "name": "tugi ndichu",
+          "url": "https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252017,
+      "name": "Take Your Time",
+      "url": "https://open.spotify.com/track/5FIFjUVWBIihte8cXpj11Z"
+    },
+    {
+      "album": {
         "name": "Talk 2 Me (feat. BGRZ)",
         "url": "https://open.spotify.com/album/11JX0v0Diz3q0FUpB12Q1b"
       },
@@ -3493,6 +3515,24 @@
       "duration_ms": 200571,
       "name": "TIME",
       "url": "https://open.spotify.com/track/4abv3ao51qRblxKxkYfw56"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1xTXtXOgV8leQWJkWjjjNA"
+      },
+      "artists": [
+        {
+          "name": "Mary Jane",
+          "url": "https://open.spotify.com/artist/6N2ZOBipWXmuFn5uzXoVpr"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201331,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2GBfPNvZqNmIG8lgF8p9tU"
     },
     {
       "album": {
@@ -3815,7 +3855,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 158677,
       "name": "Whatchu Say ?",
       "url": "https://open.spotify.com/track/38Myszu0cRqEwZbzUWE80J"

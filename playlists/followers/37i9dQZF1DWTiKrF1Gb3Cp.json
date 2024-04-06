@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 200130,
+  "2024-04-06": 200239,
   "date_first_scraped": "2023-04-07",
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
   "name": "Gaming Belic\u00f3n",
@@ -673,7 +673,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 228995,
       "name": "Bendita Vida",
       "url": "https://open.spotify.com/track/5xZTPEfZTDS5AE3PGLyAYn"
@@ -3077,7 +3077,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 141904,
       "name": "Modo Bestia",
       "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"

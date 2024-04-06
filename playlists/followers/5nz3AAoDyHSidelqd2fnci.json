@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 0,
+  "2024-04-06": 0,
   "date_first_scraped": "2023-03-07",
   "description": "",
   "name": "import of The daily dozen (@pipemanuel10)",
@@ -562,6 +562,24 @@
     },
     {
       "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/15lwLTwByJddohg3GvxICy"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268986,
+      "name": "Angels - Acoustic",
+      "url": "https://open.spotify.com/track/1XXAEzRFi0cs0Zh2R42jG1"
+    },
+    {
+      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -613,7 +631,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 322133,
       "name": "Another Day in Paradise - 2016 Remaster",
       "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 310000,
       "name": "Aria Math",
       "url": "https://open.spotify.com/track/4K0odcECsBvgzv9Lr9z4kd"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 449160,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"
@@ -1407,6 +1425,24 @@
       "duration_ms": 278226,
       "name": "Cameltosis",
       "url": "https://open.spotify.com/track/2m8LCHj7Yf03jb7Se2RUmA"
+    },
+    {
+      "album": {
+        "name": "Bad Company (Deluxe)",
+        "url": "https://open.spotify.com/album/4fuDpBLCt9ChDlqw48bj7p"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256360,
+      "name": "Can't Get Enough - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6n5lHdpuBDdA7pYDpiKzEI"
     },
     {
       "album": {
@@ -2394,6 +2430,24 @@
     },
     {
       "album": {
+        "name": "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
+        "url": "https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475133,
+      "name": "Earth Song - Hani's Extended Radio Experience",
+      "url": "https://open.spotify.com/track/4Uw7RAKTS31MDUJ9KSxmCz"
+    },
+    {
+      "album": {
         "name": "Los Tres MTV Unplugged",
         "url": "https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW"
       },
@@ -2423,7 +2477,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 259440,
       "name": "El Es Mi Idolo",
       "url": "https://open.spotify.com/track/1Hm7NfFyUUlcRRsozsSTkQ"
@@ -2719,7 +2773,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 162600,
       "name": "Faint",
       "url": "https://open.spotify.com/track/2uxL6E8Yq0Psc1V9uBtC4F"
@@ -2791,7 +2845,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 263973,
       "name": "Faster",
       "url": "https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl"
@@ -2885,7 +2939,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 252546,
       "name": "Final Episode (Let's Change The Channel) - Borgore Remix",
       "url": "https://open.spotify.com/track/1sU702jhyNr8bA4Gxhbcic"
@@ -3167,6 +3221,24 @@
       "duration_ms": 224360,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/5bWcHqWcvffvkjD6fKDKzY"
+    },
+    {
+      "album": {
+        "name": "Between The Lies",
+        "url": "https://open.spotify.com/album/5u4wOGpnlaGSz9b9rHMETR"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249226,
+      "name": "Gingervitus",
+      "url": "https://open.spotify.com/track/2jXhXqOgVTNtxHyv0BgPEd"
     },
     {
       "album": {
@@ -3512,6 +3584,24 @@
     },
     {
       "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/4qDiQwJ7UEuJsGLWL078nQ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398333,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/3bhs9FdO43IOmoaegJ7bvB"
+    },
+    {
+      "album": {
         "name": "We Are the Void",
         "url": "https://open.spotify.com/album/36dEkcuRN9bt1GWyY9OCjk"
       },
@@ -3836,6 +3926,24 @@
     },
     {
       "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+    },
+    {
+      "album": {
         "name": "An Eye For An Eye",
         "url": "https://open.spotify.com/album/6vH6Ou2Cw05WdEcWQqejV4"
       },
@@ -3901,7 +4009,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 191226,
       "name": "I Want You to Want Me",
       "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
@@ -3941,7 +4049,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 120375,
       "name": "i'll be fine'",
       "url": "https://open.spotify.com/track/3JdQ3LToili2ajempvrwCD"
@@ -4396,6 +4504,24 @@
     },
     {
       "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/2MD9zkmkFbrVyWy23nnAZQ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328133,
+      "name": "King Nothing",
+      "url": "https://open.spotify.com/track/4Ovpv1Z98LERzogBUa8MzH"
+    },
+    {
+      "album": {
         "name": "Shogun (Special Edition)",
         "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
       },
@@ -4681,6 +4807,24 @@
       "duration_ms": 340866,
       "name": "Like a Prayer",
       "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
+    },
+    {
+      "album": {
+        "name": "Like You Boy",
+        "url": "https://open.spotify.com/album/4lbJpv9py0nbWfRQ09VRDe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Shay",
+          "url": "https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169021,
+      "name": "Like You Boy",
+      "url": "https://open.spotify.com/track/6cHV4imunCJXCd3iT40Tm5"
     },
     {
       "album": {
@@ -5077,6 +5221,24 @@
       "duration_ms": 512106,
       "name": "Midwintertears",
       "url": "https://open.spotify.com/track/1Xg9lWAIPhPXa8MOScC7oa"
+    },
+    {
+      "album": {
+        "name": "Millonaria",
+        "url": "https://open.spotify.com/album/3TPXNVvJ0qyqUki0TqDGbM"
+      },
+      "artists": [
+        {
+          "name": "La Fixapilar",
+          "url": "https://open.spotify.com/artist/7xoejOm41TzsFey5bcHFCm"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132604,
+      "name": "Millonaria",
+      "url": "https://open.spotify.com/track/3OhyaxZpxzo6umGhq36G5t"
     },
     {
       "album": {
@@ -5960,6 +6122,28 @@
     },
     {
       "album": {
+        "name": "Georg Philipp Telemann Lute Duets for Classical Guitar",
+        "url": "https://open.spotify.com/album/233eqIMGit9gAegpmLg7r6"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hawkins",
+          "url": "https://open.spotify.com/artist/6UVaQ6rZvJoKnDMlEXyonx"
+        },
+        {
+          "name": "Christopher Irvine",
+          "url": "https://open.spotify.com/artist/4h0HfIayKkogqCic5PUKrx"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417253,
+      "name": "Partita in D Major: Ritournelle - lentement",
+      "url": "https://open.spotify.com/track/1YeItJ7MoHsNpsLRNt8EZe"
+    },
+    {
+      "album": {
         "name": "Infinito",
         "url": "https://open.spotify.com/album/1saYfZwr5b7Gad73hp41ue"
       },
@@ -6203,6 +6387,24 @@
       "duration_ms": 269533,
       "name": "Planet Caravan",
       "url": "https://open.spotify.com/track/2Hnxw7pp2qRDDBwHYnHhu5"
+    },
+    {
+      "album": {
+        "name": "Pocket",
+        "url": "https://open.spotify.com/album/2cy9UiKp4m5TuYTQD5rg3E"
+      },
+      "artists": [
+        {
+          "name": "Margot Liotta",
+          "url": "https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Pocket",
+      "url": "https://open.spotify.com/track/4tEbhflVi5PzSl2om3C3so"
     },
     {
       "album": {
@@ -6765,7 +6967,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 344066,
       "name": "Rust In Peace...Polaris - 2004 Remix",
       "url": "https://open.spotify.com/track/0803SWqmIJGvZ15B8zsewn"
@@ -8555,7 +8757,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 367026,
       "name": "Venice Queen",
       "url": "https://open.spotify.com/track/3ZIw7nCYObqthuWCuDrCu0"
@@ -8573,7 +8775,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 188800,
       "name": "Venus",
       "url": "https://open.spotify.com/track/44YpdyMbfzZngsdQLOXWke"
@@ -9169,6 +9371,24 @@
       "duration_ms": 120000,
       "name": "Why Walk On Water When We've Got Boats - Live at the Capitol",
       "url": "https://open.spotify.com/track/4Urbb9u3jP5cn5vR1TJiWD"
+    },
+    {
+      "album": {
+        "name": "Generation X (2002 Remaster)",
+        "url": "https://open.spotify.com/album/4O4sXIYGAxA7hrC6tAnyl0"
+      },
+      "artists": [
+        {
+          "name": "Generation X",
+          "url": "https://open.spotify.com/artist/1inWec2E2UgfzMAhwjgTXe"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228933,
+      "name": "Wild Dub - 2002 Remaster",
+      "url": "https://open.spotify.com/track/4DFlGnx94vp5YkOnF0WL2j"
     },
     {
       "album": {

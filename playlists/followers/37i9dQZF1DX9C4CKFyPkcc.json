@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 76843,
+  "2024-04-06": 76830,
   "date_first_scraped": "2022-11-25",
   "description": "Enjoy the holidays with this fresh mix of new and classic Christmas songs!",
   "name": "Merry & Bright",
@@ -779,6 +779,32 @@
       "duration_ms": 147969,
       "name": "Christmas Wish",
       "url": "https://open.spotify.com/track/1sKh3XHyI5sqa6qP2h6qMy"
+    },
+    {
+      "album": {
+        "name": "come thou long expected Jesus.",
+        "url": "https://open.spotify.com/album/4y0k7nuYMek4bWVgxeRKH7"
+      },
+      "artists": [
+        {
+          "name": "Spencer Boliou",
+          "url": "https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx"
+        },
+        {
+          "name": "Lofi Hymns.",
+          "url": "https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW"
+        },
+        {
+          "name": "Gloria Black",
+          "url": "https://open.spotify.com/artist/5M8WBGXMI3XFjpeA62aV5L"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178309,
+      "name": "come thou long expected Jesus.",
+      "url": "https://open.spotify.com/track/4coEuADusrlUFhCuRlZcfb"
     },
     {
       "album": {
@@ -2997,7 +3023,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 234478,
       "name": "Mothers And Shepherds",
       "url": "https://open.spotify.com/track/4dNp6tEx0fcbiFGwF40h3k"

@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Intense & G.Sidhu
 
-105 songs - 5 hr 31 min
+106 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Morni](https://open.spotify.com/track/1VOgz5axYh26Nh3oS6hkXj) | [Jimmy Kaler](https://open.spotify.com/artist/2IAyVsAofx5cXN3NKetayj), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Morni](https://open.spotify.com/album/0naDyG2uWzFfuy6bwkbo8C) | 3:30 | 2021-12-18 | 2022-01-11 |
 | [Na Na](https://open.spotify.com/track/2Ce8Kyv2yNJ061LQhRpB27) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Na Na](https://open.spotify.com/album/5bc8FMXhrMZD4VFQNPOtWH) | 3:53 | 2021-12-18 | 2022-01-11 |
 | [Na Puch Ke](https://open.spotify.com/track/6XlBhzskvfRIQiFv18mgBV) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Na Puch Ke](https://open.spotify.com/album/6HnEXj7JFr5CzfImyp0Mmn) | 3:26 | 2021-12-18 | 2022-01-11 |
-| [NachLai Goriye](https://open.spotify.com/track/4QrBpxWTjXHj7oYTO2EBBY) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Frenzy](https://open.spotify.com/artist/50FBY7deOzEIM580Ui6SzA) | [NachLai Goriye](https://open.spotify.com/album/06oJfyr9qICC85o6zkYEff) | 3:50 | 2021-12-18 |  |
+| [NachLai Goriye](https://open.spotify.com/track/4QrBpxWTjXHj7oYTO2EBBY) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Frenzy](https://open.spotify.com/artist/50FBY7deOzEIM580Ui6SzA) | [NachLai Goriye](https://open.spotify.com/album/06oJfyr9qICC85o6zkYEff) | 3:50 | 2021-12-18 | 2024-04-06 |
 | [Necklace](https://open.spotify.com/track/4QxtPnup1D3WbwTW2SvNr4) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Judaa 3 Chapter 1](https://open.spotify.com/album/1bad04WweZQ3f1BWaIHmqf) | 3:35 | 2021-12-18 | 2022-01-11 |
 | [Number 5](https://open.spotify.com/track/2WucLX3feWudkrM2MBtN3I) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Honsla Rakh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LqKRnd8VRJazkkjv8bl81) | 2:54 | 2023-07-31 | 2024-03-02 |
 | [Number 5 \(From "Honsla Rakh"\)](https://open.spotify.com/track/0hCy5T6jrYksYIsCK6YZ4z) | [Intense](https://open.spotify.com/artist/4RoQtkwhuRs1MivL5XuB4E), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Honsla Rakh](https://open.spotify.com/album/1EaqN5XE5dodm8BinBlKkl) | 2:54 | 2024-01-31 | 2024-03-05 |
@@ -95,6 +95,7 @@
 | [Star](https://open.spotify.com/track/41i79wo8uVSA74MUD1CbVZ) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Munda Sidhua Da](https://open.spotify.com/album/4Q4oPqoWHnWuRPIqMb0ohS) | 4:05 | 2021-12-18 | 2022-01-11 |
 | [Still Standing](https://open.spotify.com/track/6qJwdPK0bMWyX2ys3lZ23y) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [Underrated](https://open.spotify.com/album/2k3QwEDSQHgQLclE3Cvcov) | 2:38 | 2021-12-18 | 2023-09-02 |
 | [Surma](https://open.spotify.com/track/2EKPi0tqWGoCMRUm0OimC1) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Raj Shoker](https://open.spotify.com/artist/1Na1S8hKokfgUHipxLLx59) | [Surma](https://open.spotify.com/album/0mynneCJOCqAWYEW8Eg6JM) | 3:38 | 2021-12-18 | 2022-01-11 |
+| [Talent](https://open.spotify.com/track/0EeKOCYS9jaOLaqYyWvq9N) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Mahi](https://open.spotify.com/artist/2d8qE6GstnxgGtOd36VVrs) | [Talent](https://open.spotify.com/album/5dismcE2Q67SiWDKJegivO) | 3:12 | 2024-04-05 |  |
 | [Talja](https://open.spotify.com/track/1E4BrvZRKjcrfCkQS1iDfj) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:12 | 2021-12-18 |  |
 | [Taur](https://open.spotify.com/track/36rHMZtn1m5BsBkOOCf7l0) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Taur](https://open.spotify.com/album/4qT64NdvLkejlbqsJvZs5T) | 2:46 | 2023-07-26 |  |
 | [Tera Canada](https://open.spotify.com/track/7ghypi2mLGlUPzwbcfPTNe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Tera Canada](https://open.spotify.com/album/01bK2JE8QRNyNA6Tb79j3Z) | 3:20 | 2023-09-01 | 2024-02-01 |

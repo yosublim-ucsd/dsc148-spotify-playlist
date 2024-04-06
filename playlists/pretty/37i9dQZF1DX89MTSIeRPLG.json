@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 16460,
+  "num_followers": 16487,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjkxOGY2YTdmNDRjMmM1ODY1MjgzZDA4NGQ0NzZmMDZhYzg3ZTVj",
+  "snapshot_id": "MCw3MGUxYjZjZGEwZGEwYWRjOWVkODQ0NWE4OGQ0MjllMDIzZmI4YTAz",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Preaching from the Projects",
-        "url": "https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49"
-      },
-      "artists": [
-        {
-          "name": "GANG51E JUNE",
-          "url": "https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe"
-        }
-      ],
-      "duration_ms": 150047,
-      "name": "Base' Body",
-      "url": "https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 148330,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Preaching from the Projects",
+        "url": "https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49"
+      },
+      "artists": [
+        {
+          "name": "GANG51E JUNE",
+          "url": "https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe"
+        }
+      ],
+      "duration_ms": 150047,
+      "name": "Base' Body",
+      "url": "https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6"
     },
     {
       "added_at": "2022-10-01 20:31:11",

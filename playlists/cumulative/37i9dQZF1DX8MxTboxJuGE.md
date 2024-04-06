@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: ANGRA
 
-99 songs - 7 hr 27 min
+100 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Tainted Love](https://open.spotify.com/track/0i8Tfa791mCIJAXVwc9NEf) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Tainted Love](https://open.spotify.com/album/3AQfYezv6vSxiWrnMyWere) | 3:02 | 2023-07-14 |  |
 | [Ted Jack](https://open.spotify.com/track/4CyvFtF2H7O7AXJm3boacu) | [King in the Belly](https://open.spotify.com/artist/1W9gBSPeYWtOy4Kbgud1R1) | [Ted Jack](https://open.spotify.com/album/0pZVvJd1Du4VocLZ1qbttu) | 3:31 | 2023-07-14 |  |
 | [Tenochtitlán](https://open.spotify.com/track/44tzuEVC6p9ldFBNC497vX) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz) | [Tenochtitlán](https://open.spotify.com/album/2uTIg4jj9u7EQslGtvHhqw) | 7:12 | 2023-08-18 |  |
-| [The Beast and the Hunter](https://open.spotify.com/track/0vIYNPI7tuF5O57tu78Yss) | [RF Force](https://open.spotify.com/artist/1WyKcR1yYW6iV27yZLDLvi) | [The Beast and the Hunter](https://open.spotify.com/album/4pwvhjNmHkSOHVql8PqXEC) | 4:36 | 2023-07-14 |  |
+| [The Beast and the Hunter](https://open.spotify.com/track/0vIYNPI7tuF5O57tu78Yss) | [RF Force](https://open.spotify.com/artist/1WyKcR1yYW6iV27yZLDLvi) | [The Beast and the Hunter](https://open.spotify.com/album/4pwvhjNmHkSOHVql8PqXEC) | 4:36 | 2023-07-14 | 2024-04-06 |
 | [The Doctor \- Jacksons Studio Demos \- October 1981](https://open.spotify.com/track/4uEkNKrTju3mBgJwkq4UQz) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Iron Fist \(Deluxe 40th Anniversary Edition\)](https://open.spotify.com/album/2tkYl59Gdw4kLSXGCkEgN8) | 3:10 | 2023-07-14 | 2023-11-04 |
 | [The Essence of Being Human](https://open.spotify.com/track/6iwwJmekGU5s17xwCSAEJP) | [United For Distortion](https://open.spotify.com/artist/3DUCTnzBpcCgbNOAewbwSQ) | [The Essence of Being Human](https://open.spotify.com/album/25zJkatGEUwzg33mpAIrDp) | 5:41 | 2023-07-14 | 2023-09-16 |
 | [The Gang's All Here](https://open.spotify.com/track/4fvyexikP6xn7wHdsg1sGc) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 3:38 | 2023-07-14 |  |
@@ -96,6 +96,7 @@
 | [The Trooper \- Live at Estadio Jorge Magico Gonzalez, San Salvador, El Salvador \- 6th March 2016](https://open.spotify.com/track/0CfsFGFh9omOH8qNkxwjUc) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls: The Live Chapter](https://open.spotify.com/album/0h63qX1zO0DAJLacVY3I7x) | 4:05 | 2023-07-14 | 2023-11-04 |
 | [The Writing on the Wall](https://open.spotify.com/track/4a66HnjRw3kBeQnIGcc8v9) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Writing on the Wall](https://open.spotify.com/album/1YnwDXwv54rOtLwzzGVZ9N) | 6:13 | 2023-07-14 | 2023-11-04 |
 | [The Writing on the Wall](https://open.spotify.com/track/1U8WGXzEz48BDAw8RxtRmu) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/2eS8TWeAeQcWNffxpOiabt) | 6:13 | 2023-11-03 |  |
+| [Tide Of Changes \- Part I & II \(JSS Version\)](https://open.spotify.com/track/4ZGICk9Y94ZH8dIE38lB18) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y), [Jeff Scott Soto](https://open.spotify.com/artist/7afXgYjtXG2zD69Asm5q1Z), [Vanessa Moreno](https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4) | [Tide Of Changes \- Part I & II \(JSS Version\)](https://open.spotify.com/album/3GpHrLAjLbwcRnmoKvnFBv) | 6:48 | 2024-04-05 |  |
 | [Time Bomb](https://open.spotify.com/track/0DS97YTu4Y9CRCDLQfGkAh) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 4:14 | 2023-07-14 |  |
 | [Timeless](https://open.spotify.com/track/45jaiSaW2xry3gGcXc9Vsb) | [Viper](https://open.spotify.com/artist/6ywWIQgZrAOTcmA3XxGIk7) | [Timeless](https://open.spotify.com/album/6Qoc8V96K4AD2bzcaY0YsB) | 6:15 | 2023-07-14 |  |
 | [Torn Apart](https://open.spotify.com/track/4LM2zp6DJaKQfN0Gyi8Z5f) | [NervoChaos](https://open.spotify.com/artist/79Zxs7jzzD0sCwnYOUCKGx) | [Torn Apart](https://open.spotify.com/album/3jRfBgD7F6J9AhrNMiNbD4) | 3:51 | 2023-07-14 |  |

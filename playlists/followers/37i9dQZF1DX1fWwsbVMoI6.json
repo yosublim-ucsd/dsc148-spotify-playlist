@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 112792,
+  "2024-04-06": 112818,
   "date_first_scraped": "2022-05-26",
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Corazon Serrano, Axel",
   "name": "Cumbias de Oro",
@@ -47,6 +47,32 @@
       "duration_ms": 215344,
       "name": "Amor a Primera Vista",
       "url": "https://open.spotify.com/track/3HdmvjU85zNE1vgrzy3pPp"
+    },
+    {
+      "album": {
+        "name": "Amor a Primera Vista (Versi\u00f3n Cumbia)",
+        "url": "https://open.spotify.com/album/4GV7yLMM1dWoWslw91BTZP"
+      },
+      "artists": [
+        {
+          "name": "Deyvis Orosco",
+          "url": "https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV"
+        },
+        {
+          "name": "Jota Benz",
+          "url": "https://open.spotify.com/artist/1kiw9LJMc7dzqa76fmY9Sv"
+        },
+        {
+          "name": "Corazon Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215344,
+      "name": "Amor a Primera Vista - Versi\u00f3n Cumbia",
+      "url": "https://open.spotify.com/track/6cgRWMGvr7PcLGgOp8epSj"
     },
     {
       "album": {
@@ -115,7 +141,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 213826,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd"
@@ -2428,6 +2454,24 @@
     },
     {
       "album": {
+        "name": "Tu amor fue una mentira, Vol. 11",
+        "url": "https://open.spotify.com/album/60ACHv38pSB3uqpT0PlEmw"
+      },
+      "artists": [
+        {
+          "name": "Agua Marina",
+          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216866,
+      "name": "Tu Amor fue una Mentira",
+      "url": "https://open.spotify.com/track/4nKbepD60xJrGoHLkT95DW"
+    },
+    {
+      "album": {
         "name": "Vol.11 Tu amor fu\u00e9 una mentira",
         "url": "https://open.spotify.com/album/01MVw4qCCfafHo3k894gHT"
       },
@@ -2457,7 +2501,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 216866,
       "name": "Tu Amor Fue una Mentira",
       "url": "https://open.spotify.com/track/6BnqTZLQNh3bLSuGOHqLoa"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Petit
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,054 likes - 55 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,078 likes - 55 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 54 | [La rabbia non ti basta](https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [La rabbia non ti basta](https://open.spotify.com/album/7rex9i7hSRRzJAlRdm3xle) | 3:09 |
 | 55 | [Padova](https://open.spotify.com/track/7lacTm7XdUshSIzWLemBDj) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Padova](https://open.spotify.com/album/0IhkJpTu85p3aSmjzmBaDf) | 2:56 |
 
-Snapshot ID: `MCwxYmZkZWFmNGEzMTI2NjNhMTJlZWI1ZWZmMjhkMjc3OTEwNzZhNWJm`
+Snapshot ID: `MCwzNjA5NTBlOTVmZjBlODRiMTRmYWMyM2U5NGE5M2YwMjMyNjJkYTBh`

@@ -4,7 +4,7 @@
 
 > Music from "Laid\-Back Camp"! /音楽で辿る「ゆるキャン△」の世界。©あfろ・芳文社／野外活動委員会
 
-83 songs - 4 hr 19 min
+86 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,10 +13,12 @@
 | [Imadakara dekirukoto](https://open.spotify.com/track/1lq51zC4rFAtaQVWzV0IED) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 2:39 | 2022-07-05 |  |
 | [Isn't It Fun?](https://open.spotify.com/track/4HzlcsZwiQ5JJVaYrREgrK) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [The Sunshower](https://open.spotify.com/album/21WidAbDB2jXy2FmMzEGJ7) | 4:41 | 2022-07-05 | 2022-07-29 |
 | [Isn‘t It Fun?](https://open.spotify.com/track/1BxH5nn4iV7l6nqHDYyf5O) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Pontoon](https://open.spotify.com/album/3IqT5PMCjApxtrnxJxLbBD) | 4:43 | 2022-07-05 |  |
+| [Kinkyusyutudou 24 hour! Mizuiro bike no solocamp girl](https://open.spotify.com/track/2knDoOE3zphL10Q58i3rKN) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 1:38 | 2024-04-05 |  |
 | [Koko ga watashi no shintenchi](https://open.spotify.com/track/62Zn49o7p2SxsGWHUgLGJW) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 2:58 | 2022-07-05 |  |
 | [Konobasyode](https://open.spotify.com/track/6ZfGaKBm2qGaVPc3qLxCAd) | [屋内活動サークル\(立山秋航、佐々木恵梨、亜咲花\)](https://open.spotify.com/artist/0khjN6aAVJszju1hovxoB5) | [TV Animation ”Laid\-back Camp Season2” Original Soundtrack](https://open.spotify.com/album/3GTjnJhIoRsTVoIvhyX0t0) | 4:07 | 2022-07-05 |  |
 | [Kyanpujou no theme fumoto](https://open.spotify.com/track/3xBmk2aC7rRLuCVLQKNOcv) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [TV anime “Yurukyan△”original sound track](https://open.spotify.com/album/04fr3cTBvVOa3FQPtZQCyg) | 5:41 | 2022-07-05 |  |
 | [Kyanpujou no theme motosuko](https://open.spotify.com/track/6lGuj4kx91qsnLXcXWGqsb) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [TV anime “Yurukyan△”original sound track](https://open.spotify.com/album/04fr3cTBvVOa3FQPtZQCyg) | 5:48 | 2022-07-05 |  |
+| [Laid Back Journey](https://open.spotify.com/track/3eY3Hvvbkq3QPjBy6J2Kjm) | [キミのね](https://open.spotify.com/artist/28La3YWZze3hrTAStA8g1k) | [Laid Back Journey](https://open.spotify.com/album/4iXf3d9jkT9HtkzIP4gfBq) | 3:26 | 2024-04-05 |  |
 | [Meguru natsukashi no campjyo](https://open.spotify.com/track/3Ed8PEfwochl0cU4zREmMt) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 2:21 | 2022-07-05 |  |
 | [Mimosa](https://open.spotify.com/track/3oWzRxN7qFqjeoMgfZkgRE) | [佐々木恵梨](https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf) | [Mimosa](https://open.spotify.com/album/5M0BERj5L8qIRfxU4Emjdg) | 4:19 | 2022-07-05 |  |
 | [Nadeshiko](https://open.spotify.com/track/6pvY7Wz41c8kkkhB8Rv9GU) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [TV Animation ”Laid\-back Camp Season2” Original Soundtrack](https://open.spotify.com/album/3GTjnJhIoRsTVoIvhyX0t0) | 2:22 | 2022-07-05 |  |
@@ -31,7 +33,8 @@
 | [SHINY DAYS](https://open.spotify.com/track/3V7mWY7bwabSRPOOuJ7rcN) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [SHINY DAYS\(TVアニメ「ゆるキャン△」OPテーマ\)](https://open.spotify.com/album/799UkSmpzMBG2Ni6PO3zDc) | 4:21 | 2022-07-05 |  |
 | [Slow air na kisetsu](https://open.spotify.com/track/3bghWYK0Bs48xmDnquA9DQ) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Heya Camp Original Soundtrack](https://open.spotify.com/album/25AH7MvyN3We1bYtlGAkzH) | 3:12 | 2022-07-05 |  |
 | [SlowAirな季節](https://open.spotify.com/track/4Mu3gBs0jGtN3RNMXBgOrw) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [ショートアニメ『へやキャン△』オリジナル・サウンドトラック](https://open.spotify.com/album/4t7hTYcuWHZELqLhK6yICM) | 3:12 | 2022-07-05 | 2022-07-29 |
-| [So Precious](https://open.spotify.com/track/1xq5OxDUGhqBFXgjC9TGPK) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [So Precious](https://open.spotify.com/album/6LexuWYpwKbdy00OH8l9Xk) | 3:29 | 2024-04-04 |  |
+| [So Precious](https://open.spotify.com/track/1xq5OxDUGhqBFXgjC9TGPK) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [So Precious](https://open.spotify.com/album/6LexuWYpwKbdy00OH8l9Xk) | 3:29 | 2024-04-04 | 2024-04-06 |
+| [So Precious](https://open.spotify.com/track/6apVanen4xNhOipSav71hX) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [So Precious](https://open.spotify.com/album/0NeQnk6t4tRFgVHKPg8CMw) | 3:29 | 2024-04-05 |  |
 | [Solocamp girl=Office girl](https://open.spotify.com/track/1NokdTTU2Ysn27WyX0r2rJ) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 2:30 | 2022-07-05 |  |
 | [Solocamp no tashinami](https://open.spotify.com/track/1MxA4kkdieg2klzRC6ds0I) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [TV Animation ”Laid\-back Camp Season2” Original Soundtrack](https://open.spotify.com/album/3GTjnJhIoRsTVoIvhyX0t0) | 2:56 | 2022-07-05 |  |
 | [Sorokyanpu no susume](https://open.spotify.com/track/5FblIDq5dkGzXNuIKC1iPX) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [TV anime “Yurukyan△”original sound track](https://open.spotify.com/album/04fr3cTBvVOa3FQPtZQCyg) | 2:13 | 2022-07-05 |  |
@@ -73,7 +76,7 @@
 | [ソロキャンガール=オフィスガール](https://open.spotify.com/track/1WxV9AE3tPsJ9bXY59Iqxc) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [映画『ゆるキャン△』オリジナル・サウンドトラック](https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC) | 2:30 | 2022-07-05 | 2022-07-29 |
 | [ペンディングの胸騒ぎ](https://open.spotify.com/track/16guhmgQE9K6cTv9S4IXtO) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [映画『ゆるキャン△』オリジナル・サウンドトラック](https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC) | 2:14 | 2022-07-05 | 2022-07-29 |
 | [ミモザ](https://open.spotify.com/track/7oSvz1fNg3dcm5JVN4irN8) | [佐々木恵梨](https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf) | [ミモザ](https://open.spotify.com/album/2ESFPcPX5RoduZwvSoByyI) | 4:19 | 2022-07-05 | 2022-07-29 |
-| [レイドバックジャーニー](https://open.spotify.com/track/7gAXePaogDXebFVcmN8DEU) | [キミのね](https://open.spotify.com/artist/28La3YWZze3hrTAStA8g1k) | [レイドバックジャーニー](https://open.spotify.com/album/3zoy7kb2Rko2brzwK2PbSW) | 3:26 | 2024-04-04 |  |
+| [レイドバックジャーニー](https://open.spotify.com/track/7gAXePaogDXebFVcmN8DEU) | [キミのね](https://open.spotify.com/artist/28La3YWZze3hrTAStA8g1k) | [レイドバックジャーニー](https://open.spotify.com/album/3zoy7kb2Rko2brzwK2PbSW) | 3:26 | 2024-04-04 | 2024-04-06 |
 | [今だから出来る事](https://open.spotify.com/track/7plmlR2COAA074Se7CA58q) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [映画『ゆるキャン△』オリジナル・サウンドトラック](https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC) | 2:39 | 2022-07-05 | 2022-07-29 |
 | [夏の夜空に大輪咲いて](https://open.spotify.com/track/1BYFc2amjWyfvwU2GURxzZ) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [映画『ゆるキャン△』オリジナル・サウンドトラック](https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC) | 3:02 | 2022-07-05 | 2022-07-29 |
 | [大ハシャギROUTE136](https://open.spotify.com/track/6UrxHaT5Cdr4JX4nEVXG5A) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [TVアニメ『ゆるキャン△ SEASON2』オリジナル・サウンドトラック](https://open.spotify.com/album/6fk0IBRQjfp97nVeEDicjN) | 2:10 | 2022-07-05 | 2022-07-29 |

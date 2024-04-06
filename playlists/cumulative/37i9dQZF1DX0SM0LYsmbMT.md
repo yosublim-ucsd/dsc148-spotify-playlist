@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,068 songs - 6 day 11 hr 27 min
+4,069 songs - 6 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1747,7 +1747,7 @@
 | [Jonfidence](https://open.spotify.com/track/2gTpjgb1NbvPViDHJUPJov) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32), [3pmbeatz](https://open.spotify.com/artist/4a3EaoH3UoVXC5Kt68AeMe) | [Space Maneuvers EP](https://open.spotify.com/album/2AFzAsp7OXwL7VZASRvWDJ) | 2:49 | 2021-11-12 | 2022-06-24 |
 | [Joni \- Live](https://open.spotify.com/track/3nKwfmras6MEfT9KfqFIfP) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Zijon](https://open.spotify.com/artist/56qVy7UZpdS4QSze8e3ZXA) | [Joni / Dirty Brass](https://open.spotify.com/album/5dUjbX3FmBiNnGdzTXjYDP) | 1:51 | 2019-05-26\* | 2019-08-13 |
 | [Jordans](https://open.spotify.com/track/6vJ4Z2Hc5Bmm0sdqf9CtTR) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Jordans](https://open.spotify.com/album/6GZT9DaFCdjvdy16esFGcA) | 2:58 | 2022-02-24 | 2022-04-22 |
-| [Joshua aime les myrtilles](https://open.spotify.com/track/2KUR6TQJ2aCQf6BNZytUoW) | [Quentin Elmi](https://open.spotify.com/artist/1rzvnLU6QzGQZFeCcsR5VE), [Valentine Morell](https://open.spotify.com/artist/3l8NLw6POkjXQps81nd7mT) | [Joshua aime les myrtilles](https://open.spotify.com/album/5EnyCX9fVaqwKnu01nznxS) | 2:11 | 2024-02-08 |  |
+| [Joshua aime les myrtilles](https://open.spotify.com/track/2KUR6TQJ2aCQf6BNZytUoW) | [Quentin Elmi](https://open.spotify.com/artist/1rzvnLU6QzGQZFeCcsR5VE), [Valentine Morell](https://open.spotify.com/artist/3l8NLw6POkjXQps81nd7mT) | [Joshua aime les myrtilles](https://open.spotify.com/album/5EnyCX9fVaqwKnu01nznxS) | 2:11 | 2024-02-08 | 2024-04-06 |
 | [Journey](https://open.spotify.com/track/0YYVvpHHqQ2eIhOvDwuaM3) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4) | [Journey](https://open.spotify.com/album/46DkLM24GRtWS6mw8jLVwT) | 2:03 | 2022-12-01 | 2023-06-02 |
 | [Journey](https://open.spotify.com/track/1vZUtM8CkOcfdmGJJDSDcM) | [pastels](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR) | [Out of Office](https://open.spotify.com/album/7p3u62N1aOmrTQ95VuPrYI) | 1:30 | 2021-06-05 | 2021-11-26 |
 | [Journey](https://open.spotify.com/track/4d76t4Be2X4TK8nFaY0z52) | [Ylluw](https://open.spotify.com/artist/6dJeCAbZEvbpbUZyN7OeBh) | [Journey](https://open.spotify.com/album/4Fsu8pPE83dm2kEhO86Tsr) | 1:45 | 2023-11-13 | 2023-12-02 |
@@ -2515,6 +2515,7 @@
 | [Okisi](https://open.spotify.com/track/30m4V5XmeIy9q1UEz6XQIz) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Okisi](https://open.spotify.com/album/0DMQPpwujL53uTLC4ISzUs) | 1:15 | 2019-10-11 | 2020-03-20 |
 | [Old Friends](https://open.spotify.com/track/1wcQC3Ef0xBvwGh0YXplb3) | [mell\-ø](https://open.spotify.com/artist/6bA2OonnJsG1tN9yClu2aC) | [Old Friends](https://open.spotify.com/album/36r8sxdEirSKCQCKo2M6sJ) | 2:04 | 2022-11-17 | 2022-12-16 |
 | [Old Landmark](https://open.spotify.com/track/1Axz9xnqlBmXgMfVv1AUyC) | [No Mic](https://open.spotify.com/artist/1Y3A1PoGXSWW6nmI1DNMoT), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Old Landmark](https://open.spotify.com/album/5DpbGp6ZiiAyPIg285QKtG) | 1:33 | 2021-09-19 | 2022-01-28 |
+| [old telephone](https://open.spotify.com/track/04C6I5xQYJAjc0mOCIVAz4) | [Howiewonder](https://open.spotify.com/artist/6tLB3u0PouAAwQXDRFuiSk), [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [old telephone](https://open.spotify.com/album/5V6PwTmwrT99dBMko3xBDK) | 1:58 | 2024-04-04 |  |
 | [Old Town](https://open.spotify.com/track/6kybVpseO2K3jmGWPIcVrx) | [DIRTYTHREE](https://open.spotify.com/artist/4FBSXEaE4sG5WlTgfzIx51) | [Street Sketches](https://open.spotify.com/album/27ltsgAlrg6eEZlYOC35MY) | 3:21 | 2021-05-21 | 2021-08-20 |
 | [Olhos](https://open.spotify.com/track/0enFvzbMXc4tCvOVSty8St) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Garbeo](https://open.spotify.com/album/1oHBL1O7WyrV00akOHpEZz) | 1:49 | 2020-10-23 | 2021-02-20 |
 | [Olinda](https://open.spotify.com/track/1yFR64Bq9V0mGo7hpinmj1) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Nait Aul](https://open.spotify.com/artist/1UxQ605Patl3nOCJzsQVWb) | [Olinda](https://open.spotify.com/album/2GmCVJ5pOdMcn1WRlk8q5J) | 2:12 | 2024-02-08 |  |

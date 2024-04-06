@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 127671,
+  "num_followers": 127681,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTdlZjIwOTE1NDEyYmEzOGZlMjc0NTJmN2QwMjg4YjYwOTBhZmQ5",
+  "snapshot_id": "MCxkNWY5YWE0YWZjNmUxMmY5NmVjMTg1MTk4ZDE5YmMwODdmOWU0MTM2",
   "tracks": [
     {
       "added_at": "2023-09-29 18:58:26",
@@ -291,22 +291,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Luzmila Carpio Remixed (Luzmila Carpio Meets ZZK)",
-        "url": "https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj"
+        "name": "Viajante",
+        "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
       },
       "artists": [
         {
-          "name": "Luzmila Carpio",
-          "url": "https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
         }
       ],
-      "duration_ms": 260504,
-      "name": "Tarpuricusum Sarata - Captain Planet Remix",
-      "url": "https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV"
+      "duration_ms": 248941,
+      "name": "Caracol",
+      "url": "https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -327,18 +323,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Viajante",
-        "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
+        "name": "Luzmila Carpio Remixed (Luzmila Carpio Meets ZZK)",
+        "url": "https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj"
       },
       "artists": [
         {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+          "name": "Luzmila Carpio",
+          "url": "https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 248941,
-      "name": "Caracol",
-      "url": "https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn"
+      "duration_ms": 260504,
+      "name": "Tarpuricusum Sarata - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Lo Mejor de Savia Andina (M\u00fasica Boliviana)",
-        "url": "https://open.spotify.com/album/3TThUIkeWMC62bZdIdYeV9"
-      },
-      "artists": [
-        {
-          "name": "Savia Andina",
-          "url": "https://open.spotify.com/artist/0hkFv9719WLJ2uupZTn0ru"
-        }
-      ],
-      "duration_ms": 214906,
-      "name": "Boquer\u00f3n Abandonado",
-      "url": "https://open.spotify.com/track/0ECth7Ix1HakMkZVOWDALf"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Land of the Incas (Music of the Andes)",
         "url": "https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 308880,
       "name": "Wipala",
       "url": "https://open.spotify.com/track/7uxmsieVovltullEN2B8QU"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Lo Mejor de Savia Andina (M\u00fasica Boliviana)",
+        "url": "https://open.spotify.com/album/3TThUIkeWMC62bZdIdYeV9"
+      },
+      "artists": [
+        {
+          "name": "Savia Andina",
+          "url": "https://open.spotify.com/artist/0hkFv9719WLJ2uupZTn0ru"
+        }
+      ],
+      "duration_ms": 214906,
+      "name": "Boquer\u00f3n Abandonado",
+      "url": "https://open.spotify.com/track/0ECth7Ix1HakMkZVOWDALf"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Encuentros (Meetings)",
-        "url": "https://open.spotify.com/album/5mkXtYO19LdPQ1mzpvODQL"
-      },
-      "artists": [
-        {
-          "name": "Sukay",
-          "url": "https://open.spotify.com/artist/45MEz7t5DAOmX0o8fFKA3B"
-        }
-      ],
-      "duration_ms": 272840,
-      "name": "Baila Caporal",
-      "url": "https://open.spotify.com/track/1YjjXAP3cWS3qWB1ijPMVJ"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Hoja de Coca",
         "url": "https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 266066,
       "name": "Hoja de Coca",
       "url": "https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Encuentros (Meetings)",
+        "url": "https://open.spotify.com/album/5mkXtYO19LdPQ1mzpvODQL"
+      },
+      "artists": [
+        {
+          "name": "Sukay",
+          "url": "https://open.spotify.com/artist/45MEz7t5DAOmX0o8fFKA3B"
+        }
+      ],
+      "duration_ms": 272840,
+      "name": "Baila Caporal",
+      "url": "https://open.spotify.com/track/1YjjXAP3cWS3qWB1ijPMVJ"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Altamar",
-        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
-      },
-      "artists": [
-        {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
-        }
-      ],
-      "duration_ms": 289186,
-      "name": "Altamar",
-      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "A Journey To The Andes",
         "url": "https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 296560,
       "name": "Cacharpaya Del Indio",
       "url": "https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Altamar",
+        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
+      },
+      "artists": [
+        {
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
+        }
+      ],
+      "duration_ms": 289186,
+      "name": "Altamar",
+      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
     },
     {
       "added_at": "2023-09-29 18:58:26",

@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 11543,
+  "2024-04-06": 11585,
   "date_first_scraped": "2021-12-21",
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
   "name": "Peppl\u00e5tar till tr\u00e4ningspasset",
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 132682,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/0EmRpbJRA31htpY92zd8uA"
@@ -1493,7 +1493,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 171265,
       "name": "FEMININE ENERGY",
       "url": "https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x"
@@ -2169,6 +2169,28 @@
       "duration_ms": 168216,
       "name": "How Can I Forget Her",
       "url": "https://open.spotify.com/track/4IfArE62kl6LifwebDZkCe"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149667,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
       "album": {
@@ -3020,7 +3042,7 @@
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 144198,
+      "duration_ms": 144197,
       "name": "Loose Ends",
       "url": "https://open.spotify.com/track/1IAGVO9a3LDO5VttJ96DtA"
     },
@@ -4033,7 +4055,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 147656,
       "name": "Peru",
       "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"

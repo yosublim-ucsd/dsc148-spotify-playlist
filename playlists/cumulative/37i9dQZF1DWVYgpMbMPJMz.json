@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:5d1JhBfyb58upMXCZOdbQu\">Phil Wickham</a> ",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:7iETGaxJ4crz3qaljDPCKC\">Brooke Ligertwood</a> ",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -1082,10 +1082,40 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 292261,
       "name": "Bless God",
       "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
+    },
+    {
+      "album": {
+        "name": "Bless God",
+        "url": "https://open.spotify.com/album/074Y58Kfks4iXnPCGWlo0O"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314535,
+      "name": "Bless God - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/55891kIDHcEGReUrpD461w"
     },
     {
       "album": {
@@ -4131,6 +4161,24 @@
     },
     {
       "album": {
+        "name": "Rejoice (Live)",
+        "url": "https://open.spotify.com/album/56EbeHM2nKCxBdePuJZfRE"
+      },
+      "artists": [
+        {
+          "name": "Charity Gayle",
+          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362222,
+      "name": "I Believe - Live",
+      "url": "https://open.spotify.com/track/5yGqicSYTfzMijkD6Qu35O"
+    },
+    {
+      "album": {
         "name": "I Believe (Live At Shepherd Church)",
         "url": "https://open.spotify.com/album/55TjmmV2j8S0WFRnGWpt4q"
       },
@@ -5075,6 +5123,24 @@
     },
     {
       "album": {
+        "name": "Jesus Jesus (Live)",
+        "url": "https://open.spotify.com/album/4ZjrPej99FG58t5FQmXfQ6"
+      },
+      "artists": [
+        {
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454989,
+      "name": "Jesus Jesus - Live",
+      "url": "https://open.spotify.com/track/6A5TJ6kNECjdj35TUscEHZ"
+    },
+    {
+      "album": {
         "name": "Jesus Made A Way",
         "url": "https://open.spotify.com/album/3WSnpDR1GGZD6JZPSxP8xM"
       },
@@ -5230,7 +5296,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 350400,
       "name": "Jesus, My Brother - Live",
       "url": "https://open.spotify.com/track/4R8CKooOuClTgDj6G89EAL"
@@ -7421,6 +7487,28 @@
     },
     {
       "album": {
+        "name": "Power In Your Name",
+        "url": "https://open.spotify.com/album/07aeQsKkWJLyTia4bAJLPY"
+      },
+      "artists": [
+        {
+          "name": "ICF Worship",
+          "url": "https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW"
+        },
+        {
+          "name": "Tamara Fontijn",
+          "url": "https://open.spotify.com/artist/2t1YVqm4E6w3CsEDw2Zasi"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258750,
+      "name": "Power In Your Name",
+      "url": "https://open.spotify.com/track/3bQ5B0k1kxDc9F6976VQxt"
+    },
+    {
+      "album": {
         "name": "Praise Opens Prison Doors (Live)",
         "url": "https://open.spotify.com/album/58XlLMgCX56JVfNJnaZfHt"
       },
@@ -7740,7 +7828,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 333989,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/7EV5YGeMxguEhWFZZJi21V"
@@ -10298,7 +10386,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 291000,
       "name": "Undeserving (Ready For You)",
       "url": "https://open.spotify.com/track/7zMzRCGESIFqRxWFl51O0J"

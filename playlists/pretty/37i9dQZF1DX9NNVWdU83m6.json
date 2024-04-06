@@ -1,13 +1,37 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 51230,
+  "num_followers": 51254,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWVlYzMwNGYxNmU5YmVlYmMyNWJkNjgzZDgwOGVkYjMwNjViNDU1",
+  "snapshot_id": "MCw2ZmMyMmQzM2Q0ZDliYzAwYTlmOGM4ZjJmZGFmMDVmMmE5M2I4YWE5",
   "tracks": [
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Tiny Desk Submission",
+        "url": "https://open.spotify.com/album/0oJ8BwJ4oKO6cUCfagE0jH"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "TyC",
+          "url": "https://open.spotify.com/artist/2VjJ70ddXIbIGaeR5h35Ry"
+        },
+        {
+          "name": "Gabe Jones",
+          "url": "https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP"
+        }
+      ],
+      "duration_ms": 225391,
+      "name": "Tiny Desk Submission",
+      "url": "https://open.spotify.com/track/1r6KSq9LLJa6b25AJNTDyc"
+    },
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {

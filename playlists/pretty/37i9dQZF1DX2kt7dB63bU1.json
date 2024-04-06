@@ -1,13 +1,29 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 138519,
+  "num_followers": 138570,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzAyMTE5Zjg0MjBiZDFlMTViOTgxNmNmNTFmZmVkZjgyNDQ5MDFh",
+  "snapshot_id": "MCw5MDI0ZWY3ZDI2YTA0YmY1YzM0YzMwMjQ1Yzg1ZDE1OTY1MWEzYWUx",
   "tracks": [
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Run Your Race",
+        "url": "https://open.spotify.com/album/13092Bs8jIFLW1bekwRpa2"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 252470,
+      "name": "Closer To Me",
+      "url": "https://open.spotify.com/track/3yITpbC4M82v7kltuzIqE0"
+    },
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
@@ -219,22 +235,6 @@
       "duration_ms": 242222,
       "name": "Death in My Dreams",
       "url": "https://open.spotify.com/track/0PvE4WhqyDQ3yNbG5moaZR"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "What Was I Made For?",
-        "url": "https://open.spotify.com/album/5AMPERlVBeDjW4AlhfycDq"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 232642,
-      "name": "What Was I Made For?",
-      "url": "https://open.spotify.com/track/0uL2HIcJPwUARpbbE3nEtL"
     },
     {
       "added_at": "2024-02-23 05:01:00",

@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Rony Fuego e Loony Johnson.
 
-582 songs - 1 day 7 hr 5 min
+583 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [On](https://open.spotify.com/track/2JObCqRoZnh3wr3BLmAGix) | [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [On](https://open.spotify.com/album/2g5xGxyYo9RnLPvcm2nyI0) | 3:29 | 2023-11-10 | 2023-12-09 |
 | [On My Mind](https://open.spotify.com/track/1ihz7Lhk9M5IjKJN4Ofz0A) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Rosa Negra](https://open.spotify.com/album/3E8EybslEXDt6Yl1oxSI9C) | 2:27 | 2023-05-11 | 2023-06-23 |
 | [OQCQZR](https://open.spotify.com/track/5y2ZiYQjzY0dpWPYctp72c) | [Mvza](https://open.spotify.com/artist/4XVI8cWzKF53dOj2QE0z2O), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [OQCQZR](https://open.spotify.com/album/6MAMENT38JHlex9qNufnYI) | 3:02 | 2023-03-01 | 2023-05-12 |
+| [Orgulho](https://open.spotify.com/track/76dnUs1YTIIGCUBiTWIbY4) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf), [Dji Tafinha](https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS) | [Orgulho](https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX) | 4:24 | 2024-04-05 |  |
 | [osciLAR](https://open.spotify.com/track/4LKpP7kf74byC2i25NThVS) | [Santos, Só](https://open.spotify.com/artist/1o2g31CSRtHMGcma7TneY0) | [osciLAR](https://open.spotify.com/album/58GajZ2rwYs38CFECnDfHr) | 4:05 | 2024-03-29 |  |
 | [Outono](https://open.spotify.com/track/01DyRyMOPecrfZdVZQvdqJ) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [Djenga](https://open.spotify.com/artist/2eMReurbaZ9DrN632vlbae) | [Outono](https://open.spotify.com/album/7FfkXkOVmdEDVp9Y6hWIn7) | 3:56 | 2023-04-20 | 2023-05-12 |
 | [Outra X](https://open.spotify.com/track/2cvVTn6IZQH2CtJNRNIH7b) | [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [2](https://open.spotify.com/album/0MkqOHbny4RkabeHsIaVsp) | 3:26 | 2022-09-08 | 2022-09-30 |
@@ -449,7 +450,7 @@
 | [Rollercoaster](https://open.spotify.com/track/48uh3bC8i1GZRnKuEJiCUP) | [Davinci 1500](https://open.spotify.com/artist/65lRmloGCkHY5yhjtzaXH1) | [Rollercoaster](https://open.spotify.com/album/2BMTQuPI3GeDg3LKV01Vdu) | 3:35 | 2024-01-19 | 2024-02-09 |
 | [Room](https://open.spotify.com/track/6O4nV6rmc1oJtDvk39OogI) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Room](https://open.spotify.com/album/2AjIqnf2M8gc8zcrO5xQht) | 2:34 | 2023-02-10 | 2023-02-12 |
 | [Rosa](https://open.spotify.com/track/6pK1CAuGhitqP65KqoH2XA) | [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST) | [Rosa](https://open.spotify.com/album/1iTGKobhKkFNgDgHnpj6ho) | 3:30 | 2022-12-02 | 2022-12-21 |
-| [Rosalia](https://open.spotify.com/track/0UohedXCHetZXOiz2nnKpT) | [Puto X](https://open.spotify.com/artist/4nqjLdvE92ONNAFE68jE2N) | [Rosalia](https://open.spotify.com/album/0HUYB1ScJcUarBVDOkGI1Y) | 2:47 | 2024-04-05 |  |
+| [Rosalia](https://open.spotify.com/track/0UohedXCHetZXOiz2nnKpT) | [Puto X](https://open.spotify.com/artist/4nqjLdvE92ONNAFE68jE2N) | [Rosalia](https://open.spotify.com/album/0HUYB1ScJcUarBVDOkGI1Y) | 2:47 | 2024-04-05 | 2024-04-06 |
 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 | 2022-07-07 |  |
 | [Rosé](https://open.spotify.com/track/72bRHyV4lbyH52SoDdnESG) | [Walter 4reignr](https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt) | [Rosé](https://open.spotify.com/album/6Zx2HE5kAE5xiA5hPLbyOH) | 2:57 | 2023-09-14 | 2023-09-29 |
 | [Rubi](https://open.spotify.com/track/4aStXzYiJWQvdspHEn6GJN) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Midas](https://open.spotify.com/artist/6bLqHfd3myOdJyC4z6Blhj) | [Rubi](https://open.spotify.com/album/5GZRN9j6B5N7Gk5jtvaRtM) | 3:43 | 2022-09-29 | 2022-11-25 |

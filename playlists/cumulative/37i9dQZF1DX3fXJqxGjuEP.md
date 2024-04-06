@@ -4,7 +4,7 @@
 
 > Give your day a warm and fruity vibe with Latin music! 🌞🌴🍍🍉
 
-503 songs - 1 day 6 hr 8 min
+504 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Caramelo](https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Caramelo](https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi) | 3:18 | 2021-10-20 | 2023-05-20 |
 | [Caribeña](https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Caribeña](https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM) | 3:11 | 2021-10-20 | 2022-07-05 |
 | [Cariñito](https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cariñito](https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ) | 3:41 | 2021-10-20 |  |
+| [Cartagena](https://open.spotify.com/track/0d9Ec1WjsdAqs2LmB3nk3o) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 3:32 | 2024-04-05 |  |
 | [Cenizas y Miel](https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Cenizas y Miel](https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt) | 3:11 | 2021-10-20 | 2022-07-06 |
 | [Cereza \(feat\. Uku Trío Bs\)](https://open.spotify.com/track/0YkiJubevyQZHkv5ujoIqm) | [Sara Valenzuela](https://open.spotify.com/artist/2f0Ur2QXNCjpeGEqXZxOYc), [Uku Trío Bs](https://open.spotify.com/artist/1v0JdoB8SdjzVUS76pZ0Bj) | [En La Cocina](https://open.spotify.com/album/3wVGKwyKkhkkWhqbvfMll0) | 3:53 | 2021-10-20 | 2022-04-07 |
 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 | 2021-10-20 |  |
@@ -220,7 +221,7 @@
 | [Guacamayas](https://open.spotify.com/track/0gbLzgitWw2Jujq90lCv4K) | [Patiño](https://open.spotify.com/artist/4eepaYCA8Byw10I7CuXhgx), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Guacamayas](https://open.spotify.com/album/5bkm5qG5sEvluuFIs1GLZT) | 3:41 | 2021-10-20 | 2022-07-29 |
 | [Guaracha Vegana](https://open.spotify.com/track/5VeuIfEw3Le7T2Hs8lO3PV) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:33 | 2021-10-20 | 2022-07-26 |
 | [Guayaba](https://open.spotify.com/track/4tVCzrJgmTKvCQznIkEPAb) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Anakena](https://open.spotify.com/album/2GMfd88hNA0lmcu95exajw) | 3:32 | 2021-10-20 | 2022-07-23 |
-| [Guayaba](https://open.spotify.com/track/6Po685xMKAviFTftDPyEkk) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Anakena](https://open.spotify.com/album/6ck1uJ9NESkBlk3qCAWVtd) | 3:32 | 2021-10-20 |  |
+| [Guayaba](https://open.spotify.com/track/6Po685xMKAviFTftDPyEkk) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Anakena](https://open.spotify.com/album/6ck1uJ9NESkBlk3qCAWVtd) | 3:32 | 2021-10-20 | 2024-04-06 |
 | [Guayabas y Flores](https://open.spotify.com/track/6SCtRnXBnJypWrU67y8BGM) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:36 | 2021-10-20 | 2022-04-18 |
 | [Habits \(Stay High\)](https://open.spotify.com/track/2hBBgJaaRkCrMuqWp63uUb) | [Stereo Dub](https://open.spotify.com/artist/0qaq7Wbz8frkQzqBCops0p) | [Vintage Reggae Café, Vol\. 6](https://open.spotify.com/album/6Ic5SrmxHJtxa1Is4XGZ88) | 3:44 | 2022-04-01 | 2022-04-21 |
 | [Hacer El Amor](https://open.spotify.com/track/7sTfYml9yjGn17WufZWfno) | [Maria Rodés Y La Estrella de David](https://open.spotify.com/artist/0kZImMJ3rBoEa9Bd3pekoE), [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [La Estrella de David](https://open.spotify.com/artist/4RDILcwzht7ytmigDk9ySj) | [Hacer El Amor](https://open.spotify.com/album/43O16vPPFHQHq2fWWivzPu) | 2:58 | 2021-10-20 | 2022-04-20 |

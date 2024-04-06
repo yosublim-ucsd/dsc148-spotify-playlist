@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-190 songs - 10 hr 31 min
+191 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,10 +166,11 @@
 | [The Remedy](https://open.spotify.com/track/6cvjpsHCih5fVlKTuuZFCH) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [The Remedy](https://open.spotify.com/album/79ypf6AEAJrqpcxOY4hhrC) | 3:11 | 2023-09-07 | 2023-10-13 |
 | [The Ruling](https://open.spotify.com/track/0Z1y6vZ41GJOr59KFKfmuM) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [The Ruling](https://open.spotify.com/album/55RIZIkca0grTJTbB8WWVj) | 3:50 | 2022-12-08 | 2023-02-28 |
 | [The Same Blood \- Official EPIK 2023 Anthem](https://open.spotify.com/track/3q2XAEa5btQAbgIha0I8JW) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [The Same Blood \(Official EPIK 2023 Anthem\)](https://open.spotify.com/album/3R54Xa2tvyNnQL63vGSizR) | 3:29 | 2024-03-07 |  |
+| [Thundercloud](https://open.spotify.com/track/5hLhFvN7riIUdv5guZu0Zh) | [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Thundercloud](https://open.spotify.com/album/6xPNvfCQCVkGThUU95eVVn) | 4:09 | 2024-03-27 |  |
 | [Thundercloud \(Not Alone\)](https://open.spotify.com/track/5ESMY4YltkVVt6fgCPNOPn) | [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Thundercloud \(Not Alone\)](https://open.spotify.com/album/6AWo8m1dChoaCJUzIicpZw) | 4:09 | 2022-12-15 | 2023-06-02 |
 | [Time Machine](https://open.spotify.com/track/24Yh9vNFl3CXhdiRVRNZ7E) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [MC Stretch](https://open.spotify.com/artist/6oIpax63yT9ajyekkcqv0L) | [Time Machine](https://open.spotify.com/album/6poLhdSD49CU6bNffCUFKF) | 3:53 | 2022-12-08 | 2023-02-23 |
 | [Together We Grow](https://open.spotify.com/track/0Q9oI3atBARDyEWRr1C2H6) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Together We Grow](https://open.spotify.com/album/6LrvsgRIi1Hy1LBsrrt6rw) | 2:45 | 2022-12-08 | 2023-02-10 |
-| [Tonight](https://open.spotify.com/track/3boSIX0nw5AGdoo7LjAKEQ) | [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du), [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD) | [Tonight](https://open.spotify.com/album/716C8P7rj8KkwE7yZ6pSea) | 4:00 | 2023-06-01 |  |
+| [Tonight](https://open.spotify.com/track/3boSIX0nw5AGdoo7LjAKEQ) | [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du), [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD) | [Tonight](https://open.spotify.com/album/716C8P7rj8KkwE7yZ6pSea) | 4:00 | 2023-06-01 | 2024-04-06 |
 | [TOUCH IT \(Don't Stop\)](https://open.spotify.com/track/2G5hIhJ61ENNcqUW1n1oTn) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Dynamite](https://open.spotify.com/artist/4yCk57xvx6iOnHerejzV9c), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [TOUCH IT \(Don't Stop\)](https://open.spotify.com/album/0736rP0PqNdxlnJ9khJ55P) | 2:56 | 2022-12-22 | 2023-02-10 |
 | [Tricky Melody](https://open.spotify.com/track/1G6S3IxD5oapB1SDqUyg2h) | [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk), [Phil Praise](https://open.spotify.com/artist/615J5STey0JuUHF6Z2ReEv) | [Tricky Melody](https://open.spotify.com/album/0HelzdneLo2LOOuQr9X4Xx) | 2:45 | 2023-05-10 |  |
 | [Trip To Mars \(Astronauts\)](https://open.spotify.com/track/7kUBocchlTtTZVNplR9ZJI) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Trip To Mars \(Astronauts\)](https://open.spotify.com/album/29wNHESljXnFzohiGMCRMs) | 3:02 | 2023-03-23 | 2023-07-01 |

@@ -1,13 +1,29 @@
 {
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Kany Garc\u00eda en portada.\n",
-  "num_followers": 1703179,
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Matisse en portada.\n",
+  "num_followers": 1703710,
   "original_name": "S\u00f3lo Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTY0MWY4ZDRiZDM4ZmU3MGU5ZGVhOWY0NjRlYTg1N2M2MzFmZTg5",
+  "snapshot_id": "MCxmYjc0MjZmMTVlYjdmNDQ0YWE4ZWYzMGM0MTc4NDI1MjIxYjM0MTQ5",
   "tracks": [
+    {
+      "added_at": "2024-04-05 15:07:03",
+      "album": {
+        "name": "Luis Miguel",
+        "url": "https://open.spotify.com/album/22AGeMVdDQdfAPSNJEJIqt"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 212849,
+      "name": "Luis Miguel",
+      "url": "https://open.spotify.com/track/1DGI8N7EJRegRvFN6V7u8j"
+    },
     {
       "added_at": "2024-03-22 06:00:00",
       "album": {

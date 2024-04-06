@@ -2,7 +2,7 @@
 
 ### [Country Worldwide](https://open.spotify.com/playlist/37i9dQZF1DX7hnECllVaUq)
 
-> The biggest hits from country artists around the globe\. Cover: Kaylee Bell
+> The biggest hits from country artists around the globe\. Cover: Owen Riegling
 
 157 songs - 8 hr 49 min
 

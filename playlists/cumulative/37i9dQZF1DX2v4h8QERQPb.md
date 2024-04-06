@@ -2,9 +2,9 @@
 
 ### [Hip Hop Argento](https://open.spotify.com/playlist/37i9dQZF1DX2v4h8QERQPb)
 
-> Rimas argentinas\. Foto: Trueno.
+> Rimas argentinas\. Foto: Prok & C.R.O.
 
-250 songs - 12 hr 48 min
+251 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/track/6TNuRFdNazLbbVQTRE8pZg) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/album/6tKzkBXT4H4991ZHErDdbB) | 2:53 | 2021-11-26 | 2022-10-02 |
 | [Delirio](https://open.spotify.com/track/6DlyZxhPa617E2yAnC2rC6) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [Delirio](https://open.spotify.com/album/4FwTjWGjaVgyDbHCwY6G18) | 3:43 | 2021-11-26 | 2022-07-29 |
 | [Delirio](https://open.spotify.com/track/1wNvWt83hP0lnlIYxohlAU) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [Delirio](https://open.spotify.com/album/5ZitIhgIzAQ6Q2YBywRx2U) | 3:51 | 2022-06-10 | 2023-06-10 |
+| [Demenciales](https://open.spotify.com/track/0UJPAOOmj7KGoQgv1ytKuu) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31) | [Demenciales](https://open.spotify.com/album/5Yy4rwXZXN8sWRCfE0V5xn) | 2:01 | 2024-04-05 |  |
 | [Demonio](https://open.spotify.com/track/7IDJdXLiEDKW3cG41vqZhE) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Demonio](https://open.spotify.com/album/7zWmthUc2FUoNalblzLd1S) | 2:13 | 2022-06-10 | 2023-01-07 |
 | [Demonio](https://open.spotify.com/track/34K2jtmYkGnicpR7fnOdxW) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm), [Alan Escobar](https://open.spotify.com/artist/3VCCXzM23StRTfxowf5S9B) | [Demonio](https://open.spotify.com/album/15wErgTl6tdKdTRdgIEVX9) | 2:13 | 2021-11-26 | 2023-01-28 |
 | [Detenido](https://open.spotify.com/track/5W6445TK7A4ZU0WR6iGKZz) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Detenido](https://open.spotify.com/album/33oLczPO3ksopKsT4M6DPM) | 2:20 | 2021-11-26 | 2022-04-12 |
@@ -128,7 +129,7 @@
 | [I'm Sexy](https://open.spotify.com/track/7a5JG6ll35Hz12TmDeMhsJ) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [I'm Sexy](https://open.spotify.com/album/27kcEjGB3vMMNLVkjMjzKF) | 3:13 | 2021-11-26 | 2022-07-29 |
 | [Ideas En Mi Cabeza](https://open.spotify.com/track/5Vh2tE1Bx8UoYLBgL4n07V) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [ILL](https://open.spotify.com/album/7zr7be3J7DNFsZPw1m1BtY) | 2:53 | 2023-09-01 |  |
 | [Imposible](https://open.spotify.com/track/0et5kHSyE7vNPbysINU6vy) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [Imposible](https://open.spotify.com/album/0WHVZ4w8mOWhbBDOi3DSks) | 2:49 | 2023-09-01 |  |
-| [JOSEAR](https://open.spotify.com/track/6Lyh9aeQ4Rf9ssfUlUZB1A) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [EL DON](https://open.spotify.com/album/4LGUFTOOvXX8fl5yrAHUxj) | 3:43 | 2024-02-16 |  |
+| [JOSEAR](https://open.spotify.com/track/6Lyh9aeQ4Rf9ssfUlUZB1A) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [EL DON](https://open.spotify.com/album/4LGUFTOOvXX8fl5yrAHUxj) | 3:43 | 2024-02-16 | 2024-04-06 |
 | [JOSEAR](https://open.spotify.com/track/0kqVbc8GrAUQo6zAee7CP1) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [JOSEAR](https://open.spotify.com/album/2agTC7zjgkT8yAxZ9F9ceG) | 3:47 | 2023-06-09 | 2024-02-17 |
 | [Jueves 15](https://open.spotify.com/track/3iho8kP4fRLItE4brZVJ3E) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [Fiucher](https://open.spotify.com/artist/6txlBT165HMOl0ADNhT8zj), [Naiky](https://open.spotify.com/artist/5wvXhHO0YuY1GeDMivQJVs) | [Jueves 15](https://open.spotify.com/album/2dXEj7OPS6s3hLBLzEsT6x) | 3:18 | 2021-11-26 |  |
 | [Jugador del Año](https://open.spotify.com/track/0egDphqMcXZ9YeqvSBVRu3) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [Jugador del Año](https://open.spotify.com/album/2kURVRcOIyPsWcoaN4zbz3) | 2:34 | 2021-11-26 | 2022-02-26 |
@@ -242,7 +243,7 @@
 | [THROW UP SESSION \#3](https://open.spotify.com/track/01UQtSmwS81vFhFIYssL3X) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [THROW UP SESSION \#3](https://open.spotify.com/album/27owiW0lkPzBp29osg0VWZ) | 3:51 | 2021-11-26 | 2023-06-10 |
 | [Tiki Tiki](https://open.spotify.com/track/3rgB1ONEntmwiQmdgYjTlL) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [Dionni6x](https://open.spotify.com/artist/4EGrrCV9oQud0iuTekbUhr) | [Tiki Tiki](https://open.spotify.com/album/4i9DE82wZ7AIbIQ3ZNapgX) | 3:15 | 2021-11-26 | 2022-07-30 |
 | [Tiro de Gracia](https://open.spotify.com/track/01zR0xLjDBmzdg5rADeinp) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY) | [Tiro de Gracia](https://open.spotify.com/album/1FeSej0INTejbdQZYJT2am) | 3:27 | 2022-07-29 | 2022-10-28 |
-| [TODO PAGO](https://open.spotify.com/track/4IDRYddYWDSt4OTKOo6P0t) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 3:53 | 2022-11-11 |  |
+| [TODO PAGO](https://open.spotify.com/track/4IDRYddYWDSt4OTKOo6P0t) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 3:53 | 2022-11-11 | 2024-04-06 |
 | [Todo va a seguir igual](https://open.spotify.com/track/3tdGm2kGNMSbKC7Xwmkset) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [Todo va a seguir igual](https://open.spotify.com/album/1xvukhClHNVj4jAgXba5kO) | 2:18 | 2024-02-23 |  |
 | [Traición](https://open.spotify.com/track/6dInG46eWdpZkjOpD0Na3x) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [Traición](https://open.spotify.com/album/1Lir5TBeNDAVUq1mDATIOz) | 3:23 | 2023-04-28 | 2023-10-28 |
 | [TRANKY FUNKY](https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TRANKY FUNKY](https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD) | 2:38 | 2023-08-11 |  |

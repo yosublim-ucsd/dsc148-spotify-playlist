@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-363 songs - 1 day 0 hr 25 min
+365 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Can't Take No More](https://open.spotify.com/track/40ytn62ocVWKqwktVNo9Fs) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Can't Take No More](https://open.spotify.com/album/3ukHMBQUuVEbX3Nrphqdf8) | 3:45 | 2021-12-17 | 2022-01-29 |
 | [Catfish Blues](https://open.spotify.com/track/22AC1MxK4QD3RiS7BeTIXt) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/6fgTw3IgOwR0YN0YyRhAws) | 4:11 | 2020-12-14 | 2022-02-26 |
 | [Chocolate Samurai](https://open.spotify.com/track/0Tnt1pxkoNdX1ZWkRTW8f6) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Have You Lost Your Mind yet?](https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy) | 4:55 | 2021-10-22 | 2022-02-26 |
-| [Closer](https://open.spotify.com/track/5PRCKNOjJjpvqZyPQOrspK) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Closer](https://open.spotify.com/album/2pJfPlDG4xvJmOKixsrISC) | 2:40 | 2024-03-01 |  |
+| [Closer](https://open.spotify.com/track/5PRCKNOjJjpvqZyPQOrspK) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Closer](https://open.spotify.com/album/2pJfPlDG4xvJmOKixsrISC) | 2:40 | 2024-03-01 | 2024-04-06 |
 | [Coal Black Mattie](https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn) | [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2) | [Coal Black Mattie](https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1) | 3:49 | 2023-05-19 |  |
 | [Cornbread, Peas, Black Molasses](https://open.spotify.com/track/3nRr46yu7zDTd8ly3PZNXn) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 3:43 | 2022-04-22 |  |
 | [Count Your Chickens](https://open.spotify.com/track/7JwSmQPWQCm6MlPZndoQNz) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Weight of the World](https://open.spotify.com/album/2upuqUhXRGi2J1P8KIgGdv) | 3:50 | 2023-02-17 |  |
@@ -176,6 +176,7 @@
 | [Is It Safe To Go Home](https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 6:22 | 2023-10-06 |  |
 | [I’m Yours And I’m Hers](https://open.spotify.com/track/1CvB0rh0CgCi4ixnbVE6Zh) | [The Blue Quarantinos](https://open.spotify.com/artist/74IHkbIwZfF1D0bH6Usfyd), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Vince Fossett Jr.](https://open.spotify.com/artist/1jV1E6qOXs9NJLH5CPk3mM) | [Phoning It In](https://open.spotify.com/album/5pGCCCUVVmfUGAZ2tz60Rd) | 3:24 | 2021-04-23 | 2022-04-23 |
 | [Judicator Blues](https://open.spotify.com/track/4jlsa0OLIsdu1ETRpkX6QD) | [Micki Free](https://open.spotify.com/artist/5aH6fiMaVOktSbo2CBcK5l), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Turquoise Blue](https://open.spotify.com/album/4QBaAT90iqQxoR9TS2izPF) | 3:43 | 2022-02-04 | 2023-12-02 |
+| [Juke Joint](https://open.spotify.com/track/3wdI9KWEqn7uXIaM1pj1L6) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hill Country Love](https://open.spotify.com/album/6nziuDYeLmZtW4BdypRzfH) | 2:51 | 2024-04-05 |  |
 | [Just No Getting Over You \(Dream Cruise\)](https://open.spotify.com/track/0QCa6CGQJvYs5190mDePQP) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Just No Getting Over You \(Dream Cruise\)](https://open.spotify.com/album/5nAs2igKGjEshXErFX2CQe) | 4:40 | 2022-09-09 | 2023-02-11 |
 | [Keep The Faith](https://open.spotify.com/track/1c222ktMzR82Y3gfuwBx9e) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Satisfied](https://open.spotify.com/album/1WtvHtBCtrmoN3DdrEZvgM) | 3:28 | 2022-04-05 |  |
 | [Keep The Faith](https://open.spotify.com/track/2AfGLVa5rzRqnPm23bPMLk) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Keep The Faith](https://open.spotify.com/album/6pSAFmBfO36ji39xuYu10r) | 3:28 | 2022-04-05 | 2023-04-30 |
@@ -279,7 +280,8 @@
 | [Spirit](https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 3:38 | 2020-12-14 | 2022-02-26 |
 | [Stagger Lee](https://open.spotify.com/track/64H0CzxFjc1Dz3F3E1oWi5) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Stagger Lee](https://open.spotify.com/album/66JuQbdaWi0wnFJtayoIW0) | 2:35 | 2022-04-22 |  |
 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 | 2022-01-28 | 2022-02-26 |
-| [Star](https://open.spotify.com/track/5s9JvslFpJGbApkKXi3MjU) | [Dana Fuchs](https://open.spotify.com/artist/1LOUhKsq65kzRCfV00GUcB) | [Borrowed Time](https://open.spotify.com/album/68ZhKv7M3s5NGqIsdVQfQC) | 5:28 | 2022-04-29 |  |
+| [Star](https://open.spotify.com/track/5qZu8hIt448f5atYLUzanN) | [Dana Fuchs](https://open.spotify.com/artist/1LOUhKsq65kzRCfV00GUcB) | [Borrowed Time](https://open.spotify.com/album/4oLR6mi6ibTaRDIUEV4cAC) | 5:28 | 2022-04-29 |  |
+| [Star](https://open.spotify.com/track/5s9JvslFpJGbApkKXi3MjU) | [Dana Fuchs](https://open.spotify.com/artist/1LOUhKsq65kzRCfV00GUcB) | [Borrowed Time](https://open.spotify.com/album/68ZhKv7M3s5NGqIsdVQfQC) | 5:28 | 2022-04-29 | 2024-04-06 |
 | [Still The World Goes Round](https://open.spotify.com/track/6NC8TahwAZKURe6EolCBOv) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Bitches Blues](https://open.spotify.com/album/1Dm1iro6Z5Hjv6USdF2NXY) | 4:01 | 2022-06-03 |  |
 | [Stones](https://open.spotify.com/track/3WCu21jYrADpRuoPcQ7onA) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Stones](https://open.spotify.com/album/1kcBgQaYOSCO8G2D6Kk8KT) | 3:25 | 2021-12-10 | 2022-02-26 |
 | [Stop Draggin' That Chain Around](https://open.spotify.com/track/2J1fKycjwpQvxJHQMcyOoL) | [John Primer](https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP) | [The Real Deal](https://open.spotify.com/album/1aI7k455fkWA6fKq0UrUGV) | 4:14 | 2021-12-10 | 2023-08-19 |

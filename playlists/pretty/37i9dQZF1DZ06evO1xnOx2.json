@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 466901,
+  "num_followers": 467694,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2IzZjkxYzc4MWEzNDI1NjViOGVhYWMzY2RjNWEzM2EzYjEzNThi",
+  "snapshot_id": "MCxiMDM2MmFiMzBjN2M2YmZmNWVjZGNiOTE5MTQxOTZjNjcwYjIxMjcz",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+        "name": "Be (Acoustic)",
+        "url": "https://open.spotify.com/album/1HkykM5BnuW8KLN3QVoZ2f"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 188454,
-      "name": "Fare Well",
-      "url": "https://open.spotify.com/track/2VB6TOrUH8suLLiHIisrKT"
+      "duration_ms": 235346,
+      "name": "Be - Acoustic",
+      "url": "https://open.spotify.com/track/6qHRE7BuCC1SarVEmS7pLa"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be (Acoustic)",
-        "url": "https://open.spotify.com/album/1HkykM5BnuW8KLN3QVoZ2f"
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 235346,
-      "name": "Be - Acoustic",
-      "url": "https://open.spotify.com/track/6qHRE7BuCC1SarVEmS7pLa"
+      "duration_ms": 188454,
+      "name": "Fare Well",
+      "url": "https://open.spotify.com/track/2VB6TOrUH8suLLiHIisrKT"
     },
     {
       "added_at": null,

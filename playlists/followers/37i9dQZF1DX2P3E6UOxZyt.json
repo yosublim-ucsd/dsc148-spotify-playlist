@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 28073,
+  "2024-04-06": 28085,
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6d3e\u5049\u4fca (Patrick Brasca)",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: LIU KOI",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -1988,6 +1988,24 @@
     },
     {
       "album": {
+        "name": "LosE tO yOu",
+        "url": "https://open.spotify.com/album/2MooXNaTRtM9XNfajmvdcs"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201176,
+      "name": "LosE tO yOu",
+      "url": "https://open.spotify.com/track/6lTJOAfoSWVgRpCPiztujD"
+    },
+    {
+      "album": {
         "name": "Love?",
         "url": "https://open.spotify.com/album/5lqhwTPBfumlIQjJXUStTL"
       },
@@ -2503,6 +2521,28 @@
       "duration_ms": 166500,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/5TYMy4967EFk7FyBFTNt4y"
+    },
+    {
+      "album": {
+        "name": "Pretense",
+        "url": "https://open.spotify.com/album/64Ucc9nGoY5gpfh86alRVm"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267986,
+      "name": "Pretense",
+      "url": "https://open.spotify.com/track/1iGilBtLO9t5Wm6hs4I7pj"
     },
     {
       "album": {
@@ -3185,7 +3225,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 136000,
       "name": "To My Queen",
       "url": "https://open.spotify.com/track/7Kk4RaZM3p7hnypFrMhvpf"
@@ -3349,6 +3389,24 @@
       "duration_ms": 69041,
       "name": "Watch me!",
       "url": "https://open.spotify.com/track/16hFT7Hp0eHUlFP5LLHmcH"
+    },
+    {
+      "album": {
+        "name": "week by week",
+        "url": "https://open.spotify.com/album/0VVxbUd44wpxpWFtvtxfH0"
+      },
+      "artists": [
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180689,
+      "name": "week by week",
+      "url": "https://open.spotify.com/track/51bPv2VzuFbGXkthHzx30I"
     },
     {
       "album": {
@@ -8389,7 +8447,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 159097,
       "name": "\u7aa9\u56ca\u5ee2",
       "url": "https://open.spotify.com/track/5aipGUxvifWyhwJ8i1UPfF"
@@ -8609,7 +8667,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 170014,
       "name": "\u812b\u4fd7",
       "url": "https://open.spotify.com/track/7vdGyajh36go3Qyc58R7Kf"

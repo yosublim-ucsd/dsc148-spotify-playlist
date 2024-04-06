@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha?si=ThEtLhEJS\-C9MyvOxUl4fA">Kujenga</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO?si=eS9sZMWET0uuzX78eLNfMg">Steve Dyer</a>
 
-203 songs - 21 hr 47 min
+205 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Emlilweni](https://open.spotify.com/track/6nq4iL5FqVg5b1xXqTTsSg) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [Emlilweni](https://open.spotify.com/album/0dWHPV6VdVYUZiY9ma0XKQ) | 6:33 | 2022-05-12 | 2024-01-26 |
 | [Endless Possibillities](https://open.spotify.com/track/0uoL6cU9Cf7ieZBa92SNiC) | [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Tefiti \- Goddess of Creation](https://open.spotify.com/album/7GAp6bCSVu0dbV5scjOa5M) | 3:36 | 2023-11-01 | 2023-11-17 |
 | [Ester And James](https://open.spotify.com/track/1kLla7JH07BHnnrSK4Ch3O) | [BandaBanda & The Crocodiles](https://open.spotify.com/artist/4fGYO2jfAKQYa4gyjMrRhH), [Keke Lingo](https://open.spotify.com/artist/4lNqNcn2uyYAQDP8Enan65) | [Africado](https://open.spotify.com/album/1wvYqD2mU6U0dRsjvfVpvf) | 5:46 | 2022-04-28 | 2023-03-18 |
+| [Ezilalini](https://open.spotify.com/track/4b5ka6UvhGACUHFE4QEzM5) | [McCoy Mrubata](https://open.spotify.com/artist/1s3Cp2bZrnzP9rOFeIJvw5) | [McCoy Mrubata & Siyabulela](https://open.spotify.com/album/7kjT2dbEf7fXgoNuc5coI6) | 8:11 | 2024-04-05 |  |
 | [Falling Apart](https://open.spotify.com/track/3tgyFGshU5wxP4pEvlPCDv) | [Luh'ra](https://open.spotify.com/artist/0iXElExInTSMZ3DRWE7lpD) | [Falling Apart](https://open.spotify.com/album/0Bcxklu4BFgRY812BZfNEX) | 4:16 | 2022-06-23 | 2023-02-10 |
 | [Feels Like Sunday](https://open.spotify.com/track/6KC3HEkSSnmr8tby99jJ3J) | [Eccentric King](https://open.spotify.com/artist/5CYCc5XQbVPRC3kadV7dzp) | [Feels Like Sunday](https://open.spotify.com/album/4Sm01sDw1n2cbfdypMQeJ1) | 3:14 | 2022-04-28 | 2023-03-18 |
 | [Find the Path](https://open.spotify.com/track/3zVCTPOk874tBgmUN6ee3m) | [Tutu Puoane](https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH) | [Find the Path](https://open.spotify.com/album/3KoFbcGb4hjuT50jC25s7M) | 5:28 | 2024-02-16 |  |
@@ -186,6 +187,7 @@
 | [Thongo Lam \(Iyeza\)](https://open.spotify.com/track/2udpeFRqsPPWLpWqXP7hW0) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 4:38 | 2023-11-01 | 2023-11-17 |
 | [Tiya Mowa](https://open.spotify.com/track/6t6mUpSFj0AeLJuTSuAfud) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Tiya Mowa](https://open.spotify.com/album/41VmcZQLMt06F7UVVQ5zUd) | 4:35 | 2023-03-17 |  |
 | [Together](https://open.spotify.com/track/1m3FOsWgYb3bSdWTT7ts2a) | [Tutu Puoane](https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH) | [Wrapped in Rhythm, Vol\. 1](https://open.spotify.com/album/1QkGdyJI5qlYxUcwTTna8i) | 3:30 | 2024-03-14 |  |
+| [TransAtlantic](https://open.spotify.com/track/4MYix6DTtXSfGXiU3zZl2s) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Enhlizweni \- song stories from my heartland](https://open.spotify.com/album/5RU6d9EUUKKvNzpBVlUcgK) | 7:22 | 2024-04-05 |  |
 | [Tuang Guru](https://open.spotify.com/track/3fD3q7GFWb25lCB19AMnub) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Ekaya](https://open.spotify.com/artist/0DatFccWNlM002HiZD9vOR) | [The Balance](https://open.spotify.com/album/7wV98ytkf55BxvrzQIbzNg) | 5:10 | 2022-04-28 | 2023-05-26 |
 | [Ubombo](https://open.spotify.com/track/3hjhYk8EeQnYtcGqeTcaQU) | [Madala Kunene](https://open.spotify.com/artist/1X3SghwLJ3KExhUsrZhM2S) | [Freedom Countdown](https://open.spotify.com/album/62utMxHbKdLAax3CPSxP44) | 6:30 | 2023-11-01 | 2023-11-17 |
 | [Umbhedesho](https://open.spotify.com/track/1Wd1DmQuO4qWDrPs04mEZJ) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Isambulo](https://open.spotify.com/album/0SPsHKZyf7VGSjeyquxccs) | 1:43 | 2023-08-25 |  |

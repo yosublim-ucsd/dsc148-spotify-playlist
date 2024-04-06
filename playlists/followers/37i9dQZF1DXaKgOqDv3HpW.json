@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 706449,
+  "2024-04-06": 706435,
   "date_first_scraped": "2022-03-02",
   "description": "Respira, inspira... Uma sele\u00e7\u00e3o musical ideal para voc\u00ea relaxar.",
   "name": "Medita\u00e7\u00e3o e Relaxamento",
@@ -75,6 +75,24 @@
       "duration_ms": 169352,
       "name": "A Neutral Place",
       "url": "https://open.spotify.com/track/6Db6Cz42MGCRkM28KHivIy"
+    },
+    {
+      "album": {
+        "name": "A New Dawn",
+        "url": "https://open.spotify.com/album/309k958kB40RDKRlQLmSTs"
+      },
+      "artists": [
+        {
+          "name": "Fred Russ",
+          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113708,
+      "name": "A New Dawn",
+      "url": "https://open.spotify.com/track/6Qloblu6wPyXRxalwUe5X8"
     },
     {
       "album": {
@@ -453,6 +471,24 @@
       "duration_ms": 168353,
       "name": "At Last",
       "url": "https://open.spotify.com/track/3l8ILux1wF7VJt8MJXmLyN"
+    },
+    {
+      "album": {
+        "name": "Atlantis Child",
+        "url": "https://open.spotify.com/album/7w1FoTMjaVFa762LhNCqnL"
+      },
+      "artists": [
+        {
+          "name": "Metagalactic Chords",
+          "url": "https://open.spotify.com/artist/2YvYBsjUjJSSj5KUYfZRhS"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174917,
+      "name": "Atlantis Child",
+      "url": "https://open.spotify.com/track/352umwVFzwBvpP5ptUHZYS"
     },
     {
       "album": {
@@ -957,6 +993,24 @@
       "duration_ms": 159632,
       "name": "Cloudy Mountains",
       "url": "https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl"
+    },
+    {
+      "album": {
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/6kWzecmlppwsVpGy30AJ1n"
+      },
+      "artists": [
+        {
+          "name": "Fred Russ",
+          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/7c6v8ww6DkbOuB02o2x7OP"
     },
     {
       "album": {
@@ -2800,6 +2854,28 @@
     },
     {
       "album": {
+        "name": "Peace in Waves",
+        "url": "https://open.spotify.com/album/3wTLeuvoIThzfOAInZfIaq"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        },
+        {
+          "name": "Softly Drift",
+          "url": "https://open.spotify.com/artist/59PkxjxtOeVVOBK47vR4Or"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Peace in Waves",
+      "url": "https://open.spotify.com/track/7wpSb31qDjRsCI105s01a3"
+    },
+    {
+      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/58R9PTSSIpYohBQHqXwSFs"
       },
@@ -3571,6 +3647,24 @@
       "duration_ms": 147089,
       "name": "Sotto La Superficie",
       "url": "https://open.spotify.com/track/1YvgFUa5OxOw8z9GZQQLHR"
+    },
+    {
+      "album": {
+        "name": "Soulless",
+        "url": "https://open.spotify.com/album/7f5EbL7CRDXjlxUFus0VTM"
+      },
+      "artists": [
+        {
+          "name": "Marta Delgado",
+          "url": "https://open.spotify.com/artist/0B8IFmmZxB0JtGg29Qzat2"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185892,
+      "name": "Soulless",
+      "url": "https://open.spotify.com/track/46KPIWh1Al8DsFptr5JUSS"
     },
     {
       "album": {

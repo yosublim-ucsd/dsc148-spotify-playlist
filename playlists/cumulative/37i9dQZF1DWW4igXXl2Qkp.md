@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: Chris Patrick
 
-1,137 songs - 2 day 1 hr 22 min
+1,138 songs - 2 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -964,6 +964,7 @@
 | [Stop The Rain](https://open.spotify.com/track/6ng5m6PFWXjKJTTaaqM38B) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [The Biggest 6](https://open.spotify.com/album/3IfzYLYuf4ilq1zeBy6z9O) | 1:49 | 2022-04-27 | 2022-06-09 |
 | [stussy converse](https://open.spotify.com/track/4kBNZIlZQiK7tFaIo24s4A) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [stussy converse](https://open.spotify.com/album/3hPyhdyp6uL1nUAcKa3JQj) | 2:14 | 2024-01-10 | 2024-02-29 |
 | [Suburban Dude](https://open.spotify.com/track/2pBl9Pc7HwdTeTTvQH6MNd) | [Mugzz](https://open.spotify.com/artist/2F7DLB19HgjcPZuPXRD48f) | [Suburban Dude](https://open.spotify.com/album/2mijPJpe964ib8N8adAtGm) | 2:10 | 2022-03-02 | 2022-03-31 |
+| [Sumbodie](https://open.spotify.com/track/4J0t3Cbz7D3uEkSVlqqe3Q) | [Grey Gotti](https://open.spotify.com/artist/66bg2cITpGPlQctWouXVf4) | [Sumbodie](https://open.spotify.com/album/2yzjgXw8tlKfot5jpTFwnr) | 3:18 | 2024-04-03 |  |
 | [summer heat](https://open.spotify.com/track/7lQiTriCtJYEXaK3Lz1foK) | [SSJ Daki](https://open.spotify.com/artist/3LQGKxbHBSjkqT11IpByEb) | [summer heat](https://open.spotify.com/album/7en0cUmmNysiD3saoVNHKK) | 2:10 | 2023-05-17 | 2023-08-17 |
 | [SUMMER SUPERSTARS](https://open.spotify.com/track/6n72cRmfRz0y8aQxineuze) | [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SUMMER SUPERSTARS](https://open.spotify.com/album/5USNNy8ctbAlFS3PfsHOTy) | 3:33 | 2023-08-23 | 2023-09-14 |
 | [Sunday](https://open.spotify.com/track/4pg7v1l4E54OSfojSVa6RL) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Sunday](https://open.spotify.com/album/2m7woQW8imyUenD0BQyoyn) | 2:36 | 2023-02-15 | 2024-01-25 |

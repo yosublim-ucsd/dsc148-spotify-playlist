@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DKm9RA9zpe.md) - [plain]
 
 > This is the official playlist of JTBC Superband, an audition program for musical geniuses for global superbands\. \(글로벌 슈퍼밴드를 위한 음악 천재들의 오디션 프로그램 JTBC 슈퍼밴드의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,698 likes - 91 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,703 likes - 91 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DKm9RA9zpe.md) - [plain]
 | 21 | [It's Rainning](https://open.spotify.com/track/0wSHcU83igiijEZxPFMbTr) | [황린](https://open.spotify.com/artist/0lG4UaNoETC2meBRncQnvM), [전성배](https://open.spotify.com/artist/46CVPqsofr892ZWaNVo77T), [황인규](https://open.spotify.com/artist/6MPSEYhiwhF4KTam8Z68z8) | [SuperBand2 \- Episode.6](https://open.spotify.com/album/27vjZvFRnTd7dOoZ9KmRwd) | 4:34 |
 | 22 | [나의 외로움이 널 부를 때](https://open.spotify.com/track/7jTPtuazGbgFcZNdVpgDMw) | [김한겸](https://open.spotify.com/artist/01qikWSwB9BtwXkxXyBcWJ), [양장세민](https://open.spotify.com/artist/1Cv1KhRE7IwBk8TGMaMozE), [유빈](https://open.spotify.com/artist/4ocrfAOQigRPnkVrznHiiv), [김준서](https://open.spotify.com/artist/2rdvUnWDS3d4H2waFdVzFz) | [SuperBand2 \- Episode.6](https://open.spotify.com/album/27vjZvFRnTd7dOoZ9KmRwd) | 5:28 |
 | 23 | [청개구리](https://open.spotify.com/track/22YuSwz2e2CfyEgik80QWF) | [박다울](https://open.spotify.com/artist/2nHQE7gMrZ6yyTTPhIsCd4), [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc), [장하은](https://open.spotify.com/artist/3LfxjFJmUHPDsexCDnUTt0), [김솔다니엘](https://open.spotify.com/artist/4GjecCskQ3tvEumppfS2e3) | [SuperBand2 \- Episode.6](https://open.spotify.com/album/27vjZvFRnTd7dOoZ9KmRwd) | 5:07 |
-| 24 | [여름 꽃](https://open.spotify.com/track/0sp0tgeB9irsoPUEYFXALF) | [이동헌](https://open.spotify.com/artist/6kPDr9t5FoV9ekHxNtWiQd), [손진욱](https://open.spotify.com/artist/3XNhEom3SbSx7UoJlduOsz), [정민혁](https://open.spotify.com/artist/4i2Lq4vxmtR8l9jqwVO8vZ) | [SuperBand2 \- Episode.7](https://open.spotify.com/album/0qsAYtrZvAg9jc1cSReTGY) | 5:04 |
+| 24 | [여름 꽃](https://open.spotify.com/track/0sp0tgeB9irsoPUEYFXALF) | [이동헌](https://open.spotify.com/artist/6kPDr9t5FoV9ekHxNtWiQd), [Son Jinwook](https://open.spotify.com/artist/3XNhEom3SbSx7UoJlduOsz), [정민혁](https://open.spotify.com/artist/4i2Lq4vxmtR8l9jqwVO8vZ) | [SuperBand2 \- Episode.7](https://open.spotify.com/album/0qsAYtrZvAg9jc1cSReTGY) | 5:04 |
 | 25 | [박하사탕](https://open.spotify.com/track/3EjZWx0xgcXGIoP9EZFTte) | [제이유나](https://open.spotify.com/artist/4MNs8JtBgHwwxXPX1EvWcE), [유병욱](https://open.spotify.com/artist/1XbsJj7v5EhJaNyrhNaQhD), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [SuperBand2 \- Episode.6](https://open.spotify.com/album/27vjZvFRnTd7dOoZ9KmRwd) | 5:32 |
 | 26 | [달팽이](https://open.spotify.com/track/1cC0gbflfpAJK0FficEuZ8) | [기탁](https://open.spotify.com/artist/2kySjQBUfFgP7GosSG4Awn), [문성혁](https://open.spotify.com/artist/5rh0YWhJKz4Jlegnnv7noP), [쵸프라 까야](https://open.spotify.com/artist/6Kz5CA7vAZo7vsfSqE8hEk) | [SuperBand2 \- Episode.6](https://open.spotify.com/album/27vjZvFRnTd7dOoZ9KmRwd) | 5:32 |
 | 27 | [BOOM](https://open.spotify.com/track/2H6xjrSHrDCZNmt7gi7nJr) | [데미안](https://open.spotify.com/artist/0ydzbwNKgweYZFKLsxPXCq), [조혁진](https://open.spotify.com/artist/5gKkcTtWIXln98wLDJWShP), [유환주](https://open.spotify.com/artist/1tSEku3FIGjfUdVRj5MzHn) | [SuperBand2 \- Episode.5](https://open.spotify.com/album/7i81cRicANGQp85hGed9ML) | 3:06 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DKm9RA9zpe.md) - [plain]
 | 90 | [idc](https://open.spotify.com/track/6IU8twBc7WiYDqO8lMZLeA) | [모네](https://open.spotify.com/artist/4jMeOXUZAEgBTbLvUUBjYT) | [JTBC SuperBand Episode 14](https://open.spotify.com/album/1DOuRgzLdUyVnWCCq8I0NX) | 5:52 |
 | 91 | [Old And Wise](https://open.spotify.com/track/6e52HxhRigSvi5765MYZH6) | [퍼플레인](https://open.spotify.com/artist/71jEz3UZwGPwxxauCz931C) | [JTBC SuperBand Episode 14](https://open.spotify.com/album/1DOuRgzLdUyVnWCCq8I0NX) | 7:51 |
 
-Snapshot ID: `MCxhYTUzYmJkY2VhOTI3ZTJiNjM0YmQ4NjU5NmEyNjA1ZTJiYzY4Mjkx`
+Snapshot ID: `MCw0MDk2NGYyODE1MDNiOTg3YTllYjdiZDQ2MGIwZGI0Zjc1NDM0OTY0`

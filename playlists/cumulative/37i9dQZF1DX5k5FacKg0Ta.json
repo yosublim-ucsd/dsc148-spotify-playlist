@@ -489,6 +489,44 @@
     },
     {
       "album": {
+        "name": "Blues For Ray",
+        "url": "https://open.spotify.com/album/2H1FN4mdX8FTvsKyEWc1bl"
+      },
+      "artists": [
+        {
+          "name": "D\u00c0IEN5",
+          "url": "https://open.spotify.com/artist/4ca4uX5H5uWPxdZhcYTtIg"
+        },
+        {
+          "name": "Cesare Mecca",
+          "url": "https://open.spotify.com/artist/2n1QP75kbCOoxl1gPi8cs3"
+        },
+        {
+          "name": "Casimir Ekman",
+          "url": "https://open.spotify.com/artist/7KnCkEJGSk4lnNed1LOUt6"
+        },
+        {
+          "name": "Giuseppe Blanco",
+          "url": "https://open.spotify.com/artist/7yrVkK5R5EeRuTe65F2BKf"
+        },
+        {
+          "name": "Matteo Padoin",
+          "url": "https://open.spotify.com/artist/4YDLtb7T89CE8067aydlZZ"
+        },
+        {
+          "name": "Daniele Patton",
+          "url": "https://open.spotify.com/artist/4idHzamEp7mkVgjhDiC3sE"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366500,
+      "name": "Blues For Ray",
+      "url": "https://open.spotify.com/track/11cbI17lmTvO9J3jhUpg0l"
+    },
+    {
+      "album": {
         "name": "Brand New Games",
         "url": "https://open.spotify.com/album/73Yk3EqWeBP7MhHKRQohEL"
       },
@@ -2325,6 +2363,28 @@
     },
     {
       "album": {
+        "name": "More from Her",
+        "url": "https://open.spotify.com/album/0dEOv7WHeFq5nRa2UqYAlb"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Rifflet",
+          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
+        },
+        {
+          "name": "Verneri Pohjola",
+          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220895,
+      "name": "More from Her",
+      "url": "https://open.spotify.com/track/3IAcrSQpmuOHMd672Zi5Ac"
+    },
+    {
+      "album": {
         "name": "Mortality, Pt. II",
         "url": "https://open.spotify.com/album/3vVCiB4LlNd0Cgb2OwafrN"
       },
@@ -3121,6 +3181,24 @@
     },
     {
       "album": {
+        "name": "Rhythm and Rhymes",
+        "url": "https://open.spotify.com/album/0BXOiqvpJvUgwdwQ1JcE6N"
+      },
+      "artists": [
+        {
+          "name": "Olli Ahvenlahti",
+          "url": "https://open.spotify.com/artist/67Ab9p2xTxwNzuTZJfAO48"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302020,
+      "name": "Rhythm and Rhymes",
+      "url": "https://open.spotify.com/track/3u1l3jkmcZe5wHTYIe7wi0"
+    },
+    {
+      "album": {
         "name": "Rise By Descent",
         "url": "https://open.spotify.com/album/5ig5UwNFmil6iEwMpxQKAp"
       },
@@ -3264,6 +3342,24 @@
       "duration_ms": 308773,
       "name": "Save This One for When You Need It",
       "url": "https://open.spotify.com/track/0U8dPLAIsUIWK5Aty2jByw"
+    },
+    {
+      "album": {
+        "name": "Sax Guy",
+        "url": "https://open.spotify.com/album/7hexYWXoVzTPxqZqF2AU29"
+      },
+      "artists": [
+        {
+          "name": "JAF Trio",
+          "url": "https://open.spotify.com/artist/4jFFUMZ8s8EWxbK4XVjVVD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231848,
+      "name": "Sax Guy",
+      "url": "https://open.spotify.com/track/4LX6JMEbcpxRdU5vLZoQWf"
     },
     {
       "album": {
@@ -4281,6 +4377,32 @@
     },
     {
       "album": {
+        "name": "Waiting Room",
+        "url": "https://open.spotify.com/album/0SGFwMnVr5dWVPDDKxmR1n"
+      },
+      "artists": [
+        {
+          "name": "Tuomo & Markus",
+          "url": "https://open.spotify.com/artist/5Ab1JRVcEcWR0VqwID9IO5"
+        },
+        {
+          "name": "Verneri Pohjola",
+          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
+        },
+        {
+          "name": "Marc Ribot",
+          "url": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303437,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/0NumBgJjHT7sTQwvUNpIeB"
+    },
+    {
+      "album": {
         "name": "Waiting That Life",
         "url": "https://open.spotify.com/album/1bZ6a3FMyCqgaQ9PiqlHbg"
       },
@@ -4412,6 +4534,24 @@
       "duration_ms": 584616,
       "name": "When Leaving It",
       "url": "https://open.spotify.com/track/0br6wYAgcRZZ09gpWAVo2k"
+    },
+    {
+      "album": {
+        "name": "Oddarrang",
+        "url": "https://open.spotify.com/album/4D4GY3J7QCspmJbnDo5lwz"
+      },
+      "artists": [
+        {
+          "name": "Oddarrang",
+          "url": "https://open.spotify.com/artist/0gS6uGPBcz4l9JKbpth6o8"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511746,
+      "name": "White Wall Pt. 2",
+      "url": "https://open.spotify.com/track/0sZBbqcujHC7vZ0hFrcFIj"
     },
     {
       "album": {

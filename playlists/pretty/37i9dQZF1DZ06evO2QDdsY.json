@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 14850,
+  "num_followers": 14849,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODdmNjhhYTA5OGEzNzYyMmNjNDZhYTdhOTc2ZjdiZmY5NDk0NmJk",
+  "snapshot_id": "MCxkYjJhNmU3ZjU1MzY3YmQwNzU3MTczMjg2OTk3OWRlMmU2M2I0NTJl",
   "tracks": [
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
-        "url": "https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh"
+        "name": "Mountain of Rose Quartz",
+        "url": "https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 209424,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/4XEJxDDGvxgAAUXJGMWg0h"
+      "duration_ms": 187653,
+      "name": "Twas Twined & Twisted",
+      "url": "https://open.spotify.com/track/2EOSxTbMe1kvl9d89mBzVE"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mountain of Rose Quartz",
-        "url": "https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH"
+        "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
+        "url": "https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 187653,
-      "name": "Twas Twined & Twisted",
-      "url": "https://open.spotify.com/track/2EOSxTbMe1kvl9d89mBzVE"
+      "duration_ms": 209424,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/4XEJxDDGvxgAAUXJGMWg0h"
     },
     {
       "added_at": null,
@@ -819,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Handsome Molly",
-        "url": "https://open.spotify.com/album/4RAEIeZKGylODSY74M4wNs"
+        "name": "Mountain of Rose Quartz",
+        "url": "https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH"
       },
       "artists": [
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
         }
       ],
-      "duration_ms": 171720,
-      "name": "Handsome Molly",
-      "url": "https://open.spotify.com/track/3VYpe6swUI2XOOZLU8MbKZ"
+      "duration_ms": 144280,
+      "name": "The No Draws Blues",
+      "url": "https://open.spotify.com/track/77d2KoKcQwq41CBStkXpCp"
     },
     {
       "added_at": null,
@@ -855,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mountain of Rose Quartz",
-        "url": "https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH"
+        "name": "Handsome Molly",
+        "url": "https://open.spotify.com/album/4RAEIeZKGylODSY74M4wNs"
       },
       "artists": [
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
         }
       ],
-      "duration_ms": 144280,
-      "name": "The No Draws Blues",
-      "url": "https://open.spotify.com/track/77d2KoKcQwq41CBStkXpCp"
+      "duration_ms": 171720,
+      "name": "Handsome Molly",
+      "url": "https://open.spotify.com/track/3VYpe6swUI2XOOZLU8MbKZ"
     },
     {
       "added_at": null,

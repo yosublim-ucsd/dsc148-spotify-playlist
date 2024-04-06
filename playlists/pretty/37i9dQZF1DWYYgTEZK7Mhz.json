@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 27710,
+  "num_followers": 27723,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODNiZjYyYzc3YWZmNDQ1N2IyMjJmNzI4ZWY5M2RlNjcwNzIyMThj",
+  "snapshot_id": "MCxmODE5ZDc1NmUwZTIwOWRmNTBiNTA3ZDU2OWNlNmU2MjYwMTg3ODg1",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Gruppo Italiano",
-        "url": "https://open.spotify.com/album/4qGJn9ggCnF2YMh3q7pVfD"
-      },
-      "artists": [
-        {
-          "name": "Gruppo Italiano",
-          "url": "https://open.spotify.com/artist/7sai3Jr74gYNxLfDnAW6ft"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Tropicana",
-      "url": "https://open.spotify.com/track/4Ak0UaodK4JW3B8rHIEv3R"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "La Partita",
         "url": "https://open.spotify.com/album/473hYq2PWRq2Q4Trt4ZVPs"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 135560,
       "name": "La Partita Di Pallone",
       "url": "https://open.spotify.com/track/6RVKSp5e4jOY8sQklLa297"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Gruppo Italiano",
+        "url": "https://open.spotify.com/album/4qGJn9ggCnF2YMh3q7pVfD"
+      },
+      "artists": [
+        {
+          "name": "Gruppo Italiano",
+          "url": "https://open.spotify.com/artist/7sai3Jr74gYNxLfDnAW6ft"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Tropicana",
+      "url": "https://open.spotify.com/track/4Ak0UaodK4JW3B8rHIEv3R"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Rita Pavone (Gli Indimenticabili)",
+        "url": "https://open.spotify.com/album/6yHABRmP5ITAONhmzIJ2vt"
+      },
+      "artists": [
+        {
+          "name": "Rita Pavone",
+          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+        }
+      ],
+      "duration_ms": 137573,
+      "name": "Il ballo del mattone",
+      "url": "https://open.spotify.com/track/3E41PlrWGcfROQIH5scjXd"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Rocco: Zijn Story In 21 Liedjes",
         "url": "https://open.spotify.com/album/0rD6ZFWRpMdZqAnvcIv66g"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 135720,
       "name": "Saint-Tropez Twist",
       "url": "https://open.spotify.com/track/4xtYHxx1Gzb5vxlY3sVICD"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Rita Pavone (Gli Indimenticabili)",
-        "url": "https://open.spotify.com/album/6yHABRmP5ITAONhmzIJ2vt"
-      },
-      "artists": [
-        {
-          "name": "Rita Pavone",
-          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
-        }
-      ],
-      "duration_ms": 137573,
-      "name": "Il ballo del mattone",
-      "url": "https://open.spotify.com/track/3E41PlrWGcfROQIH5scjXd"
     },
     {
       "added_at": "2023-06-05 07:42:38",

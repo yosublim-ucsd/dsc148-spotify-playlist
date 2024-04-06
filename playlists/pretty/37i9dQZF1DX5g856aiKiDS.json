@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 484399,
+  "num_followers": 484427,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTAyZDdkMzQyZDI4YTNjZTA1OWRjMDA4ODUxODU5ZWMxMmQwNGIz",
+  "snapshot_id": "MCxhOTU2OGQxYTE4YTNhZDBlNjg0MDZkNDgwZjllMzhjYTk1MDUwZjJj",
   "tracks": [
     {
       "added_at": "2024-03-21 12:57:00",
@@ -919,18 +919,22 @@
     {
       "added_at": "2024-03-21 12:57:00",
       "album": {
-        "name": "her",
-        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/6J8ozqrMlo6p3PmcTwFM6Y"
       },
       "artists": [
         {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+          "name": "DOWOON",
+          "url": "https://open.spotify.com/artist/1iKz9HvP5KMYgjky7mNNZs"
+        },
+        {
+          "name": "Song Heejin",
+          "url": "https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl"
         }
       ],
-      "duration_ms": 155546,
-      "name": "her",
-      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
+      "duration_ms": 196661,
+      "name": "Out of the Blue (Duet with Song Heejin)",
+      "url": "https://open.spotify.com/track/2tsqYaAoyvZ53hUKXTrBfq"
     }
   ],
   "unique_name": "Dalkom Cafe",

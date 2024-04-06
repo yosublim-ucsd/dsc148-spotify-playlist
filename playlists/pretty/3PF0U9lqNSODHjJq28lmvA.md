@@ -4,24 +4,26 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,314 likes - 15 songs - 1 hr 3 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,315 likes - 17 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [is it weird? or is it me?](https://open.spotify.com/track/0NBAaL0Rp1cTjzzsz9VA1s) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [is it weird? or is it me?](https://open.spotify.com/album/7FVXJFylQtN2vCQcJmZu98) | 4:12 |
-| 2 | [Through The Motions \- Branded James Remix](https://open.spotify.com/track/7D1Ptb2cQaF6IHwRbhxnLB) | [Heartracer](https://open.spotify.com/artist/0aJJxKQmV9ALSM6kPWzBS4), [Branded James](https://open.spotify.com/artist/2OHPiqiDzkcI4uPQdOOmRm) | [Through The Motions \(Branded James Remix\)](https://open.spotify.com/album/5V7G4CaYAQfC6HtwfzCgSW) | 4:16 |
-| 3 | [När Alla Har Gått Hem](https://open.spotify.com/track/3w9tK78piJ7nPwwwQz9yaF) | [Adam Englund](https://open.spotify.com/artist/2pRdhZWccsEj0SPf0eHvdo) | [När Alla Har Gått Hem](https://open.spotify.com/album/0pah3hAEErqNhYUIzmEGyH) | 2:12 |
-| 4 | [Home](https://open.spotify.com/track/22y2UrtogXTojWEAotw03L) | [Synthetik Blonde](https://open.spotify.com/artist/21RqrCPQcyKkjQfX9UsgFD) | [Home](https://open.spotify.com/album/2TJRmLHtRJO1kgKHcdyd5q) | 5:23 |
-| 5 | [Setting In](https://open.spotify.com/track/09pgQKhwgUvUCaeclvdjsc) | [Brenton](https://open.spotify.com/artist/51kngJ1RTNgIvFfbV9bQEv) | [Setting In](https://open.spotify.com/album/38CQLWvc2qVuFyMM0E69rW) | 3:46 |
-| 6 | [Det Stora Oväsendet](https://open.spotify.com/track/6OYHpGbyOkPqRpplTOOD5D) | [DRÖÖG](https://open.spotify.com/artist/7eRcVh608qJnnIiYzbUYQv) | [Det Stora Oväsendet](https://open.spotify.com/album/5WLm1NawdYC2vCSzXSmp5P) | 6:30 |
-| 7 | [Flippa Ur](https://open.spotify.com/track/76JfklMy3xosbpTWTuDtDa) | [Videovåld](https://open.spotify.com/artist/1CdNrPt086j8wJ0PVNWb61) | [Flippa Ur](https://open.spotify.com/album/1UVFwrP0xBrwSss7CxAZa6) | 3:25 |
-| 8 | [Push Forward](https://open.spotify.com/track/3O71wEZJWds3NtuqZ0oq5O) | [commuter](https://open.spotify.com/artist/5nwD9VBfiq4HYFpPEC2y6b) | [Push Forward](https://open.spotify.com/album/4vnG4hzGVaeIi9bZWGgAwq) | 4:16 |
-| 9 | [Svag](https://open.spotify.com/track/69Pn89KwVvMjr17qZoSQiw) | [Dra en banjo](https://open.spotify.com/artist/61zcTZ9WrWmmQYL86z4nA1) | [Svag](https://open.spotify.com/album/2j1ITjZw0GlsW6tSvi8Cpj) | 4:16 |
-| 10 | [Buzzkill](https://open.spotify.com/track/2Z4SmAYLk6zOQyDZPJAMX4) | [Thermate](https://open.spotify.com/artist/685hjZFXJCEh3vDlLmKgZz) | [Buzzkill](https://open.spotify.com/album/385UxbbSBpT63EgVvH1Cbl) | 5:22 |
-| 11 | [Maiyario \- Zulu Mageba Remix](https://open.spotify.com/track/6pdDEVSwfEEMSPzF92cgMe) | [the YONA](https://open.spotify.com/artist/4wMvFWVKuMnnddvaMsGquv), [Zulu Mageba](https://open.spotify.com/artist/2oWStpJ5ThCzjyF9TyrRgA) | [Maiyario](https://open.spotify.com/album/6pd2dCuHqfd5GPV78BsuEO) | 6:40 |
-| 12 | [Emma](https://open.spotify.com/track/4znjOY3DZZnpJUU5fN4rys) | [Behind The Lions](https://open.spotify.com/artist/2MAVONfYrWZY3pYhEY1keZ) | [Emma](https://open.spotify.com/album/1iZbst6CBhsbZMk2PvtFU0) | 4:00 |
-| 13 | [I sköna maj vill jag va naiv](https://open.spotify.com/track/14oZTQXGSuOqcgcc31qVQG) | [Jonas Tegnér](https://open.spotify.com/artist/2WOouZH4O5FGgrM0PypZIy) | [I sköna maj vill jag va naiv](https://open.spotify.com/album/65hpjd6ylhT3EbzwfoGLw0) | 3:32 |
-| 14 | [Neon nights](https://open.spotify.com/track/1CZ3rdzV1udXxecT4FH5GT) | [The Rochits](https://open.spotify.com/artist/59d6B6bCAsxzero17YkBA8) | [Neon nights](https://open.spotify.com/album/4MwewtVZcOQr2m0OBbPVen) | 3:18 |
-| 15 | [Know Better](https://open.spotify.com/track/5o6o0WHqUmRiW3xLEFQjHL) | [Tessa Joy](https://open.spotify.com/artist/3WSZEZTfIFRO6TfPIHJ5aJ) | [Know Better](https://open.spotify.com/album/7qaXekHg3Q8KwWXuaeae9p) | 2:43 |
+| 1 | [Wasted](https://open.spotify.com/track/6PA4LL6g9HxAa9lfBl1Ttp) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Wasted](https://open.spotify.com/album/2v4S2oaNDQ15PVNAkFRXqz) | 3:26 |
+| 2 | [One Small Day \- Radio Edit](https://open.spotify.com/track/6YDn4SKggRpQa14zpjzNXt) | [Wild Women Of Wongo](https://open.spotify.com/artist/1fiOQUjxT2JS4LJvSGdKVZ) | [One Small Day \(Radio Edit\)](https://open.spotify.com/album/39X8dnFW7YZwlDeHjTPINa) | 3:39 |
+| 3 | [Terminal Exit](https://open.spotify.com/track/0EuNKxiu3OSQIuxhN33WrP) | [Grand Cadaver](https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC) | [Terminal Exit](https://open.spotify.com/album/47WmE8T3EGYVjG5HcM2iVd) | 3:54 |
+| 4 | [Going Home](https://open.spotify.com/track/6wovPLuEd8qPciQr0qyeyJ) | [Trainman Blues](https://open.spotify.com/artist/4EtygfoYbLDpe9eKy25sUH) | [Going Home](https://open.spotify.com/album/3CCxjHxEHW0VPiprSXNXq6) | 3:23 |
+| 5 | [Ting som aldri blei](https://open.spotify.com/track/2w3GbV7Xqs3bIODdWvSJym) | [Moillrock](https://open.spotify.com/artist/444fH5AiqWJ5fCEec28VkD) | [Ting som aldri blei](https://open.spotify.com/album/2Mgl3oRXTkiXy2DQ2P2wpY) | 4:43 |
+| 6 | [Feathered](https://open.spotify.com/track/5Vq6XVubYD7WTuebtBgIzT) | [Slim Loris](https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu) | [Feathered](https://open.spotify.com/album/5LZTQVl2KISUju2kptkM8C) | 3:06 |
+| 7 | [Seuraava aalto](https://open.spotify.com/track/1aDcJeGH38Nuk31bwFrEO9) | [Lenni Paarma](https://open.spotify.com/artist/58pOIfSljNDWiXz9iogCGj) | [Seuraava aalto](https://open.spotify.com/album/31Lxnw38O1D50H5fMkXiR2) | 3:48 |
+| 8 | [Bisschen Beides](https://open.spotify.com/track/2r3vygr5cuQfljWqkC9lIK) | [Luka Blau](https://open.spotify.com/artist/4i8TtzoLe7gzu0E06yA5wG) | [Bisschen Beides](https://open.spotify.com/album/3iGXkoO0bHMLs9EZXii2Z3) | 3:47 |
+| 9 | [The Blacklist](https://open.spotify.com/track/1qKAM709fbXVb9644A0XNP) | [EFVA](https://open.spotify.com/artist/5bUuJS1a504H4qpCuUGrqs) | [The Blacklist](https://open.spotify.com/album/2Kx2qyRWjAhCX6hqbj4yge) | 4:05 |
+| 10 | [GASLJUS](https://open.spotify.com/track/6hgcjgFp6U0RrX4u6C4pKc) | [Caroline Leander](https://open.spotify.com/artist/1kOCTXCa1FVJCuzNmOI86V) | [GASLJUS](https://open.spotify.com/album/2j986TqRfcrhoJk3B7pugP) | 4:24 |
+| 11 | [Bad Moon Rising](https://open.spotify.com/track/7lccvCCUptbfPmK3sk8BuD) | [Citizend](https://open.spotify.com/artist/0OhqqpbbhfA0D6ESQ6M0Qy) | [Bad Moon Rising](https://open.spotify.com/album/30hYkHzysIF78f2GI0FNjg) | 4:53 |
+| 12 | [En himmel och ett hav](https://open.spotify.com/track/5DRTki07LWUWT3ghTpdk3j) | [Thomas Nyström](https://open.spotify.com/artist/4rp1Tgflev5tip7rTASkFS) | [En himmel och ett hav](https://open.spotify.com/album/01B2az1760znhra9pUUa8L) | 3:33 |
+| 13 | [Spaceship](https://open.spotify.com/track/5yo0x7kzGhrU41fTx3Z1Y5) | [Sebastian Luke](https://open.spotify.com/artist/69dCK77pMzQY2Gy65fj4Yo) | [Spaceship](https://open.spotify.com/album/4PwLBAPbPOIl4S3aLZWXn7) | 2:50 |
+| 14 | [Oudot Linnut](https://open.spotify.com/track/0LHJDw5pLRKFg0abObnojC) | [EspooBoy](https://open.spotify.com/artist/4xVZrAnMmo02yV9mwsna6t) | [Oudot Linnut](https://open.spotify.com/album/1lH9S7vNndJ7FZNpGw9JYt) | 2:45 |
+| 15 | [Old Bones](https://open.spotify.com/track/6Utv6ftd0VUEjJi9ITRFJX) | [Riggings](https://open.spotify.com/artist/5xRIbebae0HvlIwEnH3LTD), [Libby Rodenbough](https://open.spotify.com/artist/3ZDFswjQ5rBdZcqXGRcTJ7) | [Old Bones](https://open.spotify.com/album/6cuzYyjevKC5AdPHnlInSt) | 4:39 |
+| 16 | [A Few Simple Words](https://open.spotify.com/track/51dG1dbE0xsLjoNkqu64e6) | [Joe McCarry](https://open.spotify.com/artist/3ODWOSJ0mn5qgot7Om7zzh) | [A Few Simple Words](https://open.spotify.com/album/4lhzDHQGJBxrJXuQYLkkHG) | 3:17 |
+| 17 | [bootedup \(ROUGH\)](https://open.spotify.com/track/24GUZVrapz7mNCtabPqebn) | [gabe zoolie](https://open.spotify.com/artist/75AL1LN0fZfuyZosFjng3E) | [bootedup \(ROUGH\)](https://open.spotify.com/album/4PvGIS31LN6i73hgxo3Fgy) | 2:42 |
 
-Snapshot ID: `OTI3LDEyZmFlNDg3ODM3NDQxZWJlMDE1Y2IzYjVhYmMzYTQyNTYyNGFhNjA=`
+Snapshot ID: `OTMxLDUyM2I4OGMyZTRiNGNlYTkxZDZmM2YxNzIyYzFlNmYwMWY3Nzg4M2M=`

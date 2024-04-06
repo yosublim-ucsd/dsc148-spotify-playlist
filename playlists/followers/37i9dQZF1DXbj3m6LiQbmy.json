@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 6279,
+  "2024-04-06": 6280,
   "date_first_scraped": "2021-12-28",
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana. Giol\u00ec & Assia in cover! \u2728",
   "name": "GLOW Italia",
@@ -739,10 +739,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 208894,
       "name": "BODY",
       "url": "https://open.spotify.com/track/1AVxwEGZupwnrxX9KjnovY"
+    },
+    {
+      "album": {
+        "name": "BODY",
+        "url": "https://open.spotify.com/album/52ODdOGIsNq64G1uoJz1CG"
+      },
+      "artists": [
+        {
+          "name": "Fucksia",
+          "url": "https://open.spotify.com/artist/78zGiRnNQVpLCK3Fz29J0P"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208894,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/1Fi8lmYNVvP7BgoH4ACytK"
     },
     {
       "album": {

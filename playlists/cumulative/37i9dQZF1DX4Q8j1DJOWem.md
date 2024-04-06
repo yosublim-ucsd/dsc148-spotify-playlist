@@ -2,9 +2,9 @@
 
 ### [RADAR Thailand 2024](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: Newery
+> สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: sarah salola
 
-179 songs - 11 hr 12 min
+180 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [ขี้แง \(Loser\)](https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [ขี้แง \(Loser\)](https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj) | 3:40 | 2022-09-15 | 2023-07-03 |
 | [คนขี้โกหก](https://open.spotify.com/track/4bUZTqifPh6luvo28NS52L) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [คนขี้โกหก](https://open.spotify.com/album/3AsIUcQ6pfk3J7FlwEj0fy) | 4:05 | 2023-03-20 | 2023-08-26 |
 | [คนข้าง ๆ](https://open.spotify.com/track/74bHsRVcV8VWPb8iYP8XNe) | [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [คนข้าง ๆ](https://open.spotify.com/album/4fYWhMamVJtKj6zg5NLS9A) | 2:55 | 2023-03-20 | 2023-04-14 |
-| [คนที่รู้สึกไปแล้ว](https://open.spotify.com/track/1sJXbMJRe7kK9ysf7w29T9) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [คนที่รู้สึกไปแล้ว](https://open.spotify.com/album/1cLKpaFcJGgmDSfgXmnyOu) | 3:35 | 2024-03-28 |  |
+| [คนที่รู้สึกไปแล้ว](https://open.spotify.com/track/1sJXbMJRe7kK9ysf7w29T9) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [คนที่รู้สึกไปแล้ว](https://open.spotify.com/album/1cLKpaFcJGgmDSfgXmnyOu) | 3:35 | 2024-03-28 | 2024-04-06 |
 | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/track/21KoXyILr1IdLA0tak64Uw) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/album/1xQzfgbjfqnnZ2xWss9NvZ) | 3:27 | 2022-09-15 | 2024-03-29 |
 | [คนใกล้ที่คิดไกล \(Far Too Close\)](https://open.spotify.com/track/7cPbDYvleayRU4zcGp82mT) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [คนใกล้ที่คิดไกล \(Far Too Close\) \- Single](https://open.spotify.com/album/4KfMHVdYnhm5rAeLjaO1Oj) | 3:33 | 2024-03-28 |  |
 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 | 2022-09-15 | 2024-03-29 |
@@ -152,6 +152,7 @@
 | [อกหักแต่บอกแฟนไม่ได้ \(Shhhh!\)](https://open.spotify.com/track/1BhiR1qlAMzWhi0AgEPilB) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [อกหักแต่บอกแฟนไม่ได้ \(Shhhh!\)](https://open.spotify.com/album/3VnwBDrzS0Ly8e3Q7nmOzy) | 3:42 | 2022-09-15 | 2023-04-14 |
 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 | 2023-04-13 | 2024-03-29 |
 | [อาบน้ำตา](https://open.spotify.com/track/6GWjK0rBQScvGI5fiw4NP4) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [อาบน้ำตา](https://open.spotify.com/album/2OitjfqfGzFLpPHP5gNeps) | 3:15 | 2023-03-23 | 2023-08-26 |
+| [เก่งไม่พอ](https://open.spotify.com/track/2ByaD5xzVHFQyOv5CHUUZ5) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [เก่งไม่พอ](https://open.spotify.com/album/32d3fXG3QNzy8Eh2u2PsPX) | 4:59 | 2024-04-05 |  |
 | [เขตก่อสร้างหัวใจ](https://open.spotify.com/track/796OGJlPA49xMfPVLxgZI5) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SURE](https://open.spotify.com/artist/4VDgBH42C8INx6Oqw6WuPB), [SIMON](https://open.spotify.com/artist/6gL6AwaRQKqK9VGBqi5zDo) | [Life is Love](https://open.spotify.com/album/3tHyVcO5AtllOZnKboJuh6) | 4:20 | 2024-01-11 | 2024-02-19 |
 | [เค้าว่า](https://open.spotify.com/track/3vgVKUta7uffJmjq5Vnrk2) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [เค้าว่า](https://open.spotify.com/album/23hZGZbO7D3oiGp0Db1V4r) | 3:41 | 2023-10-21 | 2024-03-29 |
 | [เดินมาส่ง \- BYE](https://open.spotify.com/track/7jq0O5rfrzEIqNOsc7v9JT) | [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [เดินมาส่ง \(BYE\)](https://open.spotify.com/album/0gHWs2N0DKlZHGcJpvpeCA) | 3:25 | 2023-06-22 | 2023-11-30 |

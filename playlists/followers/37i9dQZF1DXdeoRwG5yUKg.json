@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 89968,
+  "2024-04-06": 90003,
   "date_first_scraped": "2021-12-21",
   "description": "Soulful, bluesy ballads. Cover: The War and Treaty",
   "name": "Blue Ballads",
@@ -1209,7 +1209,7 @@
     {
       "album": {
         "name": "Try Me",
-        "url": "https://open.spotify.com/album/7fEch4BxgISBtcklzK1Xex"
+        "url": "https://open.spotify.com/album/20m1ng48JtN2TiODHLyH65"
       },
       "artists": [
         {
@@ -1220,6 +1220,24 @@
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 383946,
+      "name": "Just as I Am",
+      "url": "https://open.spotify.com/track/1ySF874duyvjE9qQ6AOlzg"
+    },
+    {
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/7fEch4BxgISBtcklzK1Xex"
+      },
+      "artists": [
+        {
+          "name": "Meena",
+          "url": "https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui"
+        }
+      ],
+      "date_added": "2020-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-05",
       "duration_ms": 383946,
       "name": "Just As I Am",
       "url": "https://open.spotify.com/track/265GyouACrBchvNoHHkkuu"

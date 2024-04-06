@@ -1,18 +1,18 @@
 {
   "description": "The best and finest 00s Funk. Cover: Prince",
-  "num_followers": 51615,
+  "num_followers": 51682,
   "original_name": "I Love My 00s Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzBjMjlkOWJmZTdlNjI4YzRmYzFiMzUxZDYwODYxNmNhYzYyYzcz",
+  "snapshot_id": "MCxjOTZiNzY0YzA1OTZlZGQyNzhlYmMxNDk1OGU4MjM2OWUzM2I0MzI0",
   "tracks": [
     {
-      "added_at": "2024-04-02 16:22:39",
+      "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Musicology",
-        "url": "https://open.spotify.com/album/1jy9Nciz47PNHiUB7FxAjK"
+        "name": "United States Of Division",
+        "url": "https://open.spotify.com/album/2SCgxaMeSnN22J653SEp6Q"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 264253,
-      "name": "Musicology",
-      "url": "https://open.spotify.com/track/3kiKvrMonNxyh8nzkhCrbU"
+      "duration_ms": 378806,
+      "name": "United States Of Division",
+      "url": "https://open.spotify.com/track/42IywCSd29OYc49Nfpxzcb"
     },
     {
       "added_at": "2020-12-01 11:32:12",
@@ -95,6 +95,22 @@
       "duration_ms": 278266,
       "name": "Strength",
       "url": "https://open.spotify.com/track/4MTmD97M3KIAWLnwJbVwbp"
+    },
+    {
+      "added_at": "2024-04-02 16:22:39",
+      "album": {
+        "name": "Musicology",
+        "url": "https://open.spotify.com/album/1jy9Nciz47PNHiUB7FxAjK"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "Musicology",
+      "url": "https://open.spotify.com/track/3kiKvrMonNxyh8nzkhCrbU"
     },
     {
       "added_at": "2020-12-01 11:32:12",
@@ -1167,22 +1183,6 @@
       "duration_ms": 257106,
       "name": "MRG",
       "url": "https://open.spotify.com/track/6sh7wSqZL1xDKWvo20qcYl"
-    },
-    {
-      "added_at": "2020-12-01 11:32:12",
-      "album": {
-        "name": "Marc Mac presents Visioneers - Dirty Old Hip Hop",
-        "url": "https://open.spotify.com/album/7ytasfSaRrQtKyjkiiYibW"
-      },
-      "artists": [
-        {
-          "name": "Visioneers",
-          "url": "https://open.spotify.com/artist/1PjrwJuTm8jNItVJ1GDrrD"
-        }
-      ],
-      "duration_ms": 246280,
-      "name": "Runnin' - Extended",
-      "url": "https://open.spotify.com/track/6x0fMgsxvhpiOspnhykuF2"
     }
   ],
   "unique_name": "I Love My 00s Funk",

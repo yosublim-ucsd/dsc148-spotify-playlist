@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 137461,
+  "2024-04-06": 137562,
   "date_first_scraped": "2023-10-23",
   "description": "Adormecer ao som relaxante da chuva.",
   "name": "Chuva para Dormir",
@@ -701,7 +701,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 147696,
       "name": "Constant Heavy Rain",
       "url": "https://open.spotify.com/track/0T6g62X91GsCWDuHwl4LHe"
@@ -4031,7 +4031,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 167183,
       "name": "Pluie l\u00e9g\u00e8re",
       "url": "https://open.spotify.com/track/1tQIg93C2Vq70UTa50vUE3"
@@ -6047,7 +6047,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 122431,
       "name": "Soft Rain",
       "url": "https://open.spotify.com/track/7uhhqbiteyUoklYOyVnxQM"
@@ -6677,7 +6677,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 176329,
       "name": "Stormy Rain",
       "url": "https://open.spotify.com/track/2ovzsu0useW9oyDCoDPxKe"

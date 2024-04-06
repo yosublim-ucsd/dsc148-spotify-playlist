@@ -980,7 +980,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 205400,
       "name": "Endukala (Lovers No More)",
       "url": "https://open.spotify.com/track/6WavcWZXgeh0cvGvkh5tS6"
@@ -3156,6 +3156,32 @@
       "duration_ms": 201045,
       "name": "O Pilla (TELUGU)",
       "url": "https://open.spotify.com/track/1hmHzSfyVerXSYiY1Qq4Vx"
+    },
+    {
+      "album": {
+        "name": "O Seliya",
+        "url": "https://open.spotify.com/album/1Iub4oCI9zRZwUSdNRrI4h"
+      },
+      "artists": [
+        {
+          "name": "Ganesh Krovvidi",
+          "url": "https://open.spotify.com/artist/2raRqQL2ij740h5lHjng4V"
+        },
+        {
+          "name": "Ricky B",
+          "url": "https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc"
+        },
+        {
+          "name": "Feroz Israel",
+          "url": "https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209400,
+      "name": "O Seliya",
+      "url": "https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c"
     },
     {
       "album": {

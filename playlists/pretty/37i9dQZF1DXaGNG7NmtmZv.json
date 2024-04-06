@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 213301,
+  "num_followers": 213402,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTIwN2VlMjdiYmFlODk2ZTg1ODIwMDYzNjBlZWI1ODA2OGQ3Njk3",
+  "snapshot_id": "MCxmYzc5NThjMTgyMjM4M2UyM2JmYjI1NGJmZTM3NGI1ZDE5ZDJkZTQx",
   "tracks": [
     {
       "added_at": "2024-02-07 16:33:52",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "The Current Will Carry Us",
-        "url": "https://open.spotify.com/album/3bJtSVsqSsqmVtfvtnisbU"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "The Disconnect",
-      "url": "https://open.spotify.com/track/5KX5fs2yfRPZ2E2SYYA4lD"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Progression Through Unlearning",
         "url": "https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 153586,
       "name": "Caboose",
       "url": "https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "The Current Will Carry Us",
+        "url": "https://open.spotify.com/album/3bJtSVsqSsqmVtfvtnisbU"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "The Disconnect",
+      "url": "https://open.spotify.com/track/5KX5fs2yfRPZ2E2SYYA4lD"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Count Me In",
-        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
-      },
-      "artists": [
-        {
-          "name": "Death Before Dishonor",
-          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
-        }
-      ],
-      "duration_ms": 181226,
-      "name": "Break Through It All",
-      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Friendship Loyalty Commitment",
         "url": "https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 125746,
       "name": "Over the Years",
       "url": "https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Count Me In",
+        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
+      },
+      "artists": [
+        {
+          "name": "Death Before Dishonor",
+          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
+        }
+      ],
+      "duration_ms": 181226,
+      "name": "Break Through It All",
+      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
     },
     {
       "added_at": "2024-02-07 16:33:52",

@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 75382,
+  "2024-04-06": 75379,
   "date_first_scraped": "2022-09-15",
   "description": "Tunes for sun drenched days and balmy nights.",
   "name": "Summer Daze",
@@ -749,10 +749,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 211145,
       "name": "Find Our Way",
       "url": "https://open.spotify.com/track/2OLab4G373tu39KBrJ50sg"
+    },
+    {
+      "album": {
+        "name": "Find Our Way",
+        "url": "https://open.spotify.com/album/3McxYRPPlSHCHOgUAYntyf"
+      },
+      "artists": [
+        {
+          "name": "Salt Tree",
+          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211145,
+      "name": "Find Our Way",
+      "url": "https://open.spotify.com/track/6AnfMLy1PUABObY0PTzLIe"
     },
     {
       "album": {

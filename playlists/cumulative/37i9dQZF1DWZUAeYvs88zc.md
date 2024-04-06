@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-519 songs - 1 day 5 hr 9 min
+520 songs - 1 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Hailey](https://open.spotify.com/track/1bQ5gQOyzWbPl6TXFuvi8z) | [WRENN](https://open.spotify.com/artist/1mUvCFjlnNilmIebNqKYo8) | [Hailey](https://open.spotify.com/album/1ZJA6YpalHfiMeNIjFKDmo) | 2:47 | 2021-04-15 | 2021-10-23 |
 | [Halfway](https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Seven Shades of Heartbreak](https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r) | 3:17 | 2021-10-23 | 2023-05-23 |
 | [Happy](https://open.spotify.com/track/0rdE01utHXxJuJ9Zbsmf82) | [Stay Over](https://open.spotify.com/artist/2WYklsnVBJ99Jhou8xbu6m) | [Happy](https://open.spotify.com/album/3b4TarizaktXmuCVDwf3WQ) | 2:06 | 2020-04-15 | 2021-10-27 |
-| [Happy & Sad](https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:03 | 2022-01-27 |  |
+| [Happy & Sad](https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:03 | 2022-01-27 | 2024-04-06 |
 | [Happy Anymore](https://open.spotify.com/track/2t9ZK3i4cxA9WZkpvf5up2) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Phobia](https://open.spotify.com/album/1aRThupMAXji2AuQIlsIM1) | 3:18 | 2019-06-25 | 2021-10-01 |
 | [happy for you](https://open.spotify.com/track/4vBefXybmvZ8uWzjxOvZP4) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [happy for you](https://open.spotify.com/album/0dcKqcHFGWZvOGMwKmiObl) | 3:00 | 2020-08-07 | 2022-07-29 |
 | [happy for you](https://open.spotify.com/track/27KDaaYxMJgJcyixSP7oHO) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [happy for you](https://open.spotify.com/album/7ICy7rPZmqu9weXb8j5LrB) | 2:45 | 2021-08-09 | 2023-04-13 |
@@ -360,6 +360,7 @@
 | [Personal](https://open.spotify.com/track/1n6wVsDU6A4wWx5EMXfdn3) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Personal](https://open.spotify.com/album/6jtiqMXyXnV0v03r0wLE1e) | 3:25 | 2023-12-08 | 2024-01-27 |
 | [Photograph \- Felix Jaehn Remix](https://open.spotify.com/track/4bFmYoDdKT3HqSroMmRbGV) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Photograph \(Felix Jaehn Remix\)](https://open.spotify.com/album/5jBBJP31P5ZMdWxo2OKaYt) | 3:22 | 2019-07-27 | 2019-08-10 |
 | [Pieces of Us \(feat\. King Princess\)](https://open.spotify.com/track/0fQf209axFXyMsV5pAhfzf) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:26 | 2019-06-24 | 2022-04-19 |
+| [Pillow In My Arms](https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [ver2igo vol\. 2](https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav) | 3:16 | 2024-04-05 |  |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-10-27 | 2022-04-21 |
 | [Plastic Hearts](https://open.spotify.com/track/6qCsKKS7Ol63SJW3LOIX5R) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:25 | 2023-02-07 | 2023-02-25 |
 | [Please Don't Leave Me](https://open.spotify.com/track/3BaEK0XWsJ4Ss9qODrpdTz) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse](https://open.spotify.com/album/7lrj1NTTnc22UG6IY2hDGW) | 3:51 | 2019-07-27 | 2020-08-07 |

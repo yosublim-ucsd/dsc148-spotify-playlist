@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week! Cover: Empire Of The Sun",
-  "num_followers": 372690,
+  "num_followers": 372778,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDk3YjlmYjg2ODYxZWJkMzc5ZjQyNmRmOGQyZWM3ZDVjODBmNDRm",
+  "snapshot_id": "MCw1YzY2NThlNWEyOTQxMGI1MDMyMTMyMWFjMTAzYjNjNDNhOTBiOGQz",
   "tracks": [
     {
       "added_at": "2024-04-04 13:00:01",
@@ -39,6 +39,22 @@
       "duration_ms": 186359,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
+    },
+    {
+      "added_at": "2024-04-05 08:37:14",
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 229186,
+      "name": "Crocodile Tearz",
+      "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
     },
     {
       "added_at": "2024-04-04 13:00:01",
@@ -96,7 +112,7 @@
       "added_at": "2024-04-04 13:00:01",
       "album": {
         "name": "Losing You",
-        "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
+        "url": "https://open.spotify.com/album/68DihqcGNgTJ4zul6L0mDi"
       },
       "artists": [
         {
@@ -106,7 +122,7 @@
       ],
       "duration_ms": 215331,
       "name": "Losing You",
-      "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
+      "url": "https://open.spotify.com/track/3RLIYxIHq18yBdpcoYW4lu"
     },
     {
       "added_at": "2024-04-04 13:00:01",
@@ -208,7 +224,7 @@
       "added_at": "2024-04-04 13:00:01",
       "album": {
         "name": "Down Under",
-        "url": "https://open.spotify.com/album/7rJ5pjak4J4Gy8pRvjJnhw"
+        "url": "https://open.spotify.com/album/4oqRX1yLyouwNe2sriRjkE"
       },
       "artists": [
         {
@@ -218,7 +234,7 @@
       ],
       "duration_ms": 147457,
       "name": "Down Under",
-      "url": "https://open.spotify.com/track/3pEUuobMzDIChsMbDtBqxv"
+      "url": "https://open.spotify.com/track/7Kpqw1UNndTQjwtYKbWPuA"
     },
     {
       "added_at": "2024-04-04 13:00:01",
@@ -272,7 +288,7 @@
       "added_at": "2024-04-04 13:00:01",
       "album": {
         "name": "The Second Act",
-        "url": "https://open.spotify.com/album/4hVQwE4HbQWok3dOz2CZVs"
+        "url": "https://open.spotify.com/album/1ZcQMRWdtngrP9YuAayQcG"
       },
       "artists": [
         {
@@ -282,7 +298,7 @@
       ],
       "duration_ms": 219316,
       "name": "The Second Act",
-      "url": "https://open.spotify.com/track/5RcWnnP5TMszVvarhYaoqa"
+      "url": "https://open.spotify.com/track/1TQt6A6Ox6HgD81k2CZZPJ"
     },
     {
       "added_at": "2024-04-04 13:00:01",
@@ -747,6 +763,26 @@
     {
       "added_at": "2024-04-04 13:00:01",
       "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "Wanna Be (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"
+    },
+    {
+      "added_at": "2024-04-04 13:00:01",
+      "album": {
         "name": "Eastend Confessions",
         "url": "https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ"
       },
@@ -915,8 +951,8 @@
     {
       "added_at": "2024-04-04 13:00:01",
       "album": {
-        "name": "Sabrina",
-        "url": "https://open.spotify.com/album/7FminfvyJ8F5ytohurOA9D"
+        "name": "DEATH WOBBLES",
+        "url": "https://open.spotify.com/album/2u8cg1AiXAlZmUqsmUqG5S"
       },
       "artists": [
         {
@@ -926,7 +962,7 @@
       ],
       "duration_ms": 133509,
       "name": "Sabrina",
-      "url": "https://open.spotify.com/track/55uNNOwHRL3K5p7NyEywoR"
+      "url": "https://open.spotify.com/track/7yOar7IBHJzDfUy6drSJla"
     },
     {
       "added_at": "2024-04-04 13:00:01",

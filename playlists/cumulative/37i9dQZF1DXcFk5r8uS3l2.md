@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Lizz Wright
 
-358 songs - 22 hr 30 min
+359 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Eastham Prison Farm Blues \- Stripped Back](https://open.spotify.com/track/749IyqWQSErX4dT4pmcDOH) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [stripped back](https://open.spotify.com/album/2SJZOQy7R0fEgMRtexjZL3) | 3:00 | 2022-06-17 | 2023-02-25 |
 | [Empire State Express](https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Empire State Express](https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh) | 4:30 | 2022-01-28 | 2023-03-11 |
 | [Empty Me Out](https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [There's a Light](https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6) | 4:37 | 2021-12-17 | 2023-09-16 |
+| [Enjoy the Ride](https://open.spotify.com/track/6dqhw83H9eKMb0qTCv17k3) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Enjoy the Ride](https://open.spotify.com/album/67A2C0Zy9gvtUPdh6BtJNE) | 3:39 | 2024-04-05 |  |
 | [Everybody Wants To Be My Friend](https://open.spotify.com/track/2dHohxPASrUNxY5NDKWZ1e) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [Everybody Wants To Be My Friend](https://open.spotify.com/album/1YTz5RAgMEKkSavrQAg3yN) | 3:37 | 2022-04-15 | 2022-06-12 |
 | [F\*ck My Life Up Again](https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [F\*ck My Life Up Again](https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g) | 4:18 | 2024-01-19 | 2024-02-10 |
 | [Fast](https://open.spotify.com/track/4lldt4nIrEzASVTCgQHAmC) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fast](https://open.spotify.com/album/2pDvPsNV0z3QTxXO1A7qxL) | 3:29 | 2024-02-16 |  |
@@ -222,7 +223,7 @@
 | [No Wrong](https://open.spotify.com/track/6j3ltnb3g4RQRt8azR7Yf5) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/5Pe4lj6pfNgR0ZXeZ1altv) | 3:49 | 2021-12-17 | 2022-04-16 |
 | [Nobody's Wrong](https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Nobody's Wrong](https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp) | 3:55 | 2022-03-11 |  |
 | [Not Ready To Let Go](https://open.spotify.com/track/4nXIogA01ib6VLHPPKZPxt) | [BAYWUD](https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz) | [Not Ready To Let Go](https://open.spotify.com/album/1q1jyVZyIQwzq3DG8z9qVR) | 3:58 | 2022-10-28 |  |
-| [Nothing Without You](https://open.spotify.com/track/4tWTkbx3mO8izydaLLh4oR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [The Night Owl and The Lark](https://open.spotify.com/album/5fEek3kbOzbwDtKLKlJCR7) | 3:25 | 2024-02-09 |  |
+| [Nothing Without You](https://open.spotify.com/track/4tWTkbx3mO8izydaLLh4oR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [The Night Owl and The Lark](https://open.spotify.com/album/5fEek3kbOzbwDtKLKlJCR7) | 3:25 | 2024-02-09 | 2024-04-06 |
 | [Nothing's Gonna Stop Me Feeling Good](https://open.spotify.com/track/3578ilBVTJbZFgJH8z8lxn) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [Nothing's Gonna Stop Me Feeling Good](https://open.spotify.com/album/3vgjJRc8CkEp5LbCwYdfVf) | 3:00 | 2023-06-23 | 2024-02-23 |
 | [Nothing's Gonna Stop Me Feeling Good](https://open.spotify.com/track/4rmOzQCwbGIiukTKmpRHlC) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [Nothing's Gonna Stop Me Feeling Good](https://open.spotify.com/album/1JHZ601aiZH8AexrDLnxbp) | 3:00 | 2023-10-06 |  |
 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 | 2022-05-27 | 2023-02-25 |

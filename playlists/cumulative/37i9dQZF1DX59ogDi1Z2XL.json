@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: NorthSideBenji",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Eva Shaw, Haviah Mighty, Friyie",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -256,7 +256,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 156610,
       "name": "24/7",
       "url": "https://open.spotify.com/track/6G9AryFV1qXBmH3UC6d6Al"
@@ -548,6 +548,24 @@
       "duration_ms": 119971,
       "name": "4AM On Dupont",
       "url": "https://open.spotify.com/track/4vxTQp84vJKaHZI0lNbtzP"
+    },
+    {
+      "album": {
+        "name": "4th Quarter",
+        "url": "https://open.spotify.com/album/36p4WkVI7ibTNqOnzph6sy"
+      },
+      "artists": [
+        {
+          "name": "PARIS.",
+          "url": "https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152125,
+      "name": "4th Quarter",
+      "url": "https://open.spotify.com/track/3lwxlvXfLP6rrBfbIzedk8"
     },
     {
       "album": {
@@ -6511,6 +6529,24 @@
     },
     {
       "album": {
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/6edAFmiXPrQQ0tM1Gvemc0"
+      },
+      "artists": [
+        {
+          "name": "Zach Zoya",
+          "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Don Juan",
+      "url": "https://open.spotify.com/track/0JYd1FqNnrVKDmXLjLV080"
+    },
+    {
+      "album": {
         "name": "Don't Care Didn't Ask",
         "url": "https://open.spotify.com/album/2bS25a2Bme6RkFAozL5ggK"
       },
@@ -7435,6 +7471,24 @@
     },
     {
       "album": {
+        "name": "Every State",
+        "url": "https://open.spotify.com/album/4woQoun60z5KRLAdp1eZqh"
+      },
+      "artists": [
+        {
+          "name": "Swagger Rite",
+          "url": "https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142992,
+      "name": "Every State",
+      "url": "https://open.spotify.com/track/37mbQAJYS7vbxJO9qs3Que"
+    },
+    {
+      "album": {
         "name": "EVERY WEEK",
         "url": "https://open.spotify.com/album/0YLpQMnuvDlTCcooF1WdBX"
       },
@@ -7490,7 +7544,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 227692,
       "name": "Evil Ways (feat. J. Cole)",
       "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
@@ -7887,6 +7941,24 @@
     },
     {
       "album": {
+        "name": "FATHER X3",
+        "url": "https://open.spotify.com/album/1eu1Mxb5DWJk588wagQd2u"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87266,
+      "name": "FATHER X3",
+      "url": "https://open.spotify.com/track/5Ov0sVPbVaYDbi3BMljESf"
+    },
+    {
+      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/4Iyjj2yiUErKn9i0wgLFne"
       },
@@ -8218,7 +8290,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 247444,
       "name": "First Person Shooter (feat. J. Cole)",
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
@@ -8586,6 +8658,32 @@
       "duration_ms": 194430,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/073y3yGyBGWiUvHHRtsmrN"
+    },
+    {
+      "album": {
+        "name": "FORKS ON THE ROAD",
+        "url": "https://open.spotify.com/album/3qJgxb1JvphDW7ghbaMeVs"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Daniel Son",
+          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
+        },
+        {
+          "name": "Faiza",
+          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183887,
+      "name": "FORKS ON THE ROAD",
+      "url": "https://open.spotify.com/track/593vjuHVQRH19Mwyt1HBst"
     },
     {
       "album": {
@@ -9804,7 +9902,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 183466,
       "name": "Good Kid",
       "url": "https://open.spotify.com/track/7CXtko4co5UNe51FVioLyX"
@@ -13274,7 +13372,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 178216,
       "name": "La Vie Qu'on M\u00e8ne",
       "url": "https://open.spotify.com/track/7GfY0L7uQV3ECjzbjTG1Re"
@@ -13470,6 +13568,24 @@
       "duration_ms": 173641,
       "name": "Learn As I Go",
       "url": "https://open.spotify.com/track/71UndZWWsJtMRoelzUgNIA"
+    },
+    {
+      "album": {
+        "name": "Leaving",
+        "url": "https://open.spotify.com/album/5N8iOFE0LAjPZfJaJ5DJnH"
+      },
+      "artists": [
+        {
+          "name": "Kwazii",
+          "url": "https://open.spotify.com/artist/6pL2YwV6bUmB8wxbfkvUoa"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146227,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/24lWnExkSihkIfH6OCCaiT"
     },
     {
       "album": {
@@ -13784,7 +13900,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 168978,
       "name": "Life Lessons",
       "url": "https://open.spotify.com/track/3Tepsl8CqNWu5N8lqHvYdH"
@@ -13810,6 +13926,28 @@
       "duration_ms": 121666,
       "name": "LIFE SUCKS SO WE FUCK (feat. ZillaKami)",
       "url": "https://open.spotify.com/track/3ykD76bDGfeLUaCiQ7GtJE"
+    },
+    {
+      "album": {
+        "name": "Lights Camera Action",
+        "url": "https://open.spotify.com/album/1JK928Y8q6zsB1wlOnhjvb"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
+        {
+          "name": "C-Lance",
+          "url": "https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208515,
+      "name": "Lights Camera Action",
+      "url": "https://open.spotify.com/track/4BocqjY97UCEiPcLD4GtV3"
     },
     {
       "album": {
@@ -15002,7 +15140,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 246133,
       "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
@@ -16218,7 +16356,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 238335,
       "name": "Naomi Campbell",
       "url": "https://open.spotify.com/track/6ZyqRXAxHB8E4W84gcarOe"
@@ -16522,7 +16660,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 176551,
       "name": "NIGHT WE MET (feat. Veronica Elizabeth)",
       "url": "https://open.spotify.com/track/4zEacEOMttSocwk0HkP7yK"
@@ -18262,7 +18400,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 146000,
       "name": "Organic",
       "url": "https://open.spotify.com/track/4CTZL2R4fy8tvo1g9ia3Io"
@@ -19385,6 +19523,32 @@
     },
     {
       "album": {
+        "name": "please.",
+        "url": "https://open.spotify.com/album/6g17yirpwHrYcrflIiGxzd"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        },
+        {
+          "name": "Friyie",
+          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164507,
+      "name": "please.",
+      "url": "https://open.spotify.com/track/2804oZAOB3Ulb97Yg3dclc"
+    },
+    {
+      "album": {
         "name": "Pleasure",
         "url": "https://open.spotify.com/album/42bTZNENLihgDs0u61QI61"
       },
@@ -19711,6 +19875,24 @@
     },
     {
       "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/2T1Fegtgpa1rrve60p4s1Y"
+      },
+      "artists": [
+        {
+          "name": "TARiiiQ",
+          "url": "https://open.spotify.com/artist/2ALwFi4e5UaTvVMddicA4g"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208571,
+      "name": "PRESSURE",
+      "url": "https://open.spotify.com/track/47M8dvlkQQcSV7IbjvK31V"
+    },
+    {
+      "album": {
         "name": "Gangsta Grillz: We Set the Trends",
         "url": "https://open.spotify.com/album/1iIiRb8lGx4sWT6cBkwRes"
       },
@@ -19770,7 +19952,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 178520,
       "name": "Prime",
       "url": "https://open.spotify.com/track/7E9hKUhfpbm4CNnlSdP407"
@@ -19836,6 +20018,28 @@
       "duration_ms": 162656,
       "name": "Problems",
       "url": "https://open.spotify.com/track/6NGy4ggUImgt0pdVUbVqvi"
+    },
+    {
+      "album": {
+        "name": "Problems Over Peace",
+        "url": "https://open.spotify.com/album/7hXz1jeclKqFSWwl2QjN5w"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158895,
+      "name": "Problems Over Peace",
+      "url": "https://open.spotify.com/track/7ups0PLQ1oiRnkneh3SQSD"
     },
     {
       "album": {
@@ -20414,7 +20618,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 118223,
       "name": "REMEDIES",
       "url": "https://open.spotify.com/track/3YMPzE7yuh6Yph8v7Deofz"
@@ -21442,6 +21646,24 @@
       "duration_ms": 214000,
       "name": "RVPTVRE",
       "url": "https://open.spotify.com/track/72WSC2XLOc4Etb3BfDxvrY"
+    },
+    {
+      "album": {
+        "name": "S T A R",
+        "url": "https://open.spotify.com/album/6ZleLQFnC4bdAo6tvu2JqW"
+      },
+      "artists": [
+        {
+          "name": "Tara Lord",
+          "url": "https://open.spotify.com/artist/50q2a8AjaqlujP7y9MMdHJ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "S T A R",
+      "url": "https://open.spotify.com/track/667WXZTbxfMio6VJBoNupr"
     },
     {
       "album": {
@@ -23494,7 +23716,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 188906,
       "name": "Sun Goes Down (feat. Cocanina)",
       "url": "https://open.spotify.com/track/2veQKo3uj3pwPQZh4Cvj14"
@@ -26628,7 +26850,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 201379,
       "name": "Watch Your Mouth",
       "url": "https://open.spotify.com/track/6bF3ILAvyZXvla7usFLYjr"
@@ -26950,7 +27172,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 223855,
       "name": "WHAT'S THE MISSION",
       "url": "https://open.spotify.com/track/2rDq2Bsej4hmjIDa9KITsJ"
@@ -27022,7 +27244,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 131735,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/7nVFLsfbZMABvDAwKMIcVg"
@@ -28090,6 +28312,28 @@
       "duration_ms": 127058,
       "name": "You Know Me",
       "url": "https://open.spotify.com/track/5vxOurw8lKrDJzJdlCevUl"
+    },
+    {
+      "album": {
+        "name": "Young & Dumb",
+        "url": "https://open.spotify.com/album/2rmQ9u6qqNOWwce7TGnDMT"
+      },
+      "artists": [
+        {
+          "name": "Kampaign",
+          "url": "https://open.spotify.com/artist/021PSEmPylGATns0ys7XTf"
+        },
+        {
+          "name": "Portion",
+          "url": "https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "Young & Dumb",
+      "url": "https://open.spotify.com/track/389M82vPjkGjQOxOmjElvP"
     },
     {
       "album": {

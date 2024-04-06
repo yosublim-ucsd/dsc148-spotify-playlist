@@ -3058,7 +3058,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 188572,
       "name": "DE LA P*TA",
       "url": "https://open.spotify.com/track/6hcCUm6ZQSVtKhpMBT3CNm"
@@ -4788,7 +4788,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 165000,
       "name": "Fraternidad",
       "url": "https://open.spotify.com/track/1csXmch0iAC6INGXOrblsy"
@@ -7870,7 +7870,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 188265,
       "name": "Mas Oro Mas Put*",
       "url": "https://open.spotify.com/track/0WQQr6LwHy40ee0ew8Bn9P"
@@ -7896,6 +7896,28 @@
       "duration_ms": 180096,
       "name": "Mas Que un Beso",
       "url": "https://open.spotify.com/track/7hwxNDKNwyB4BQqQAmaJpK"
+    },
+    {
+      "album": {
+        "name": "Matona",
+        "url": "https://open.spotify.com/album/4sh3gTrRKAKuwmgNUusrAj"
+      },
+      "artists": [
+        {
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Matona",
+      "url": "https://open.spotify.com/track/30Ss7UUiNMvPSU1m5sYw7x"
     },
     {
       "album": {
@@ -8206,7 +8228,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 164724,
       "name": "Me Veo Rico",
       "url": "https://open.spotify.com/track/7D3Be8tkPLMzWKohmi63hb"
@@ -10179,6 +10201,48 @@
     },
     {
       "album": {
+        "name": "Pa Que Sepa (Remix) [feat. Tunechikidd, Endo, Punto40, Dunkan & Sheru El Leon]",
+        "url": "https://open.spotify.com/album/1xYYEQOlY0wCyH27VSQGQl"
+      },
+      "artists": [
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Sheru \"El Le\u00f3n\"",
+          "url": "https://open.spotify.com/artist/3JLhwN8lF7l9a6asc93O9a"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        },
+        {
+          "name": "Endo",
+          "url": "https://open.spotify.com/artist/47G4aZmzN6mRtKCSoLoNDM"
+        },
+        {
+          "name": "Punto40",
+          "url": "https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO"
+        },
+        {
+          "name": "Dunkan",
+          "url": "https://open.spotify.com/artist/3WPRuzfjcRBf7byiF6pFvE"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443651,
+      "name": "Pa Que Sepa (Remix) [feat. Tunechikidd, Endo, Punto40, Dunkan & Sheru El Leon]",
+      "url": "https://open.spotify.com/track/3YfK5fwyW3B4dPdNPgqyXV"
+    },
+    {
+      "album": {
         "name": "PA' FUMAR",
         "url": "https://open.spotify.com/album/3U7KWRZiEOX4kT9AeXQuGp"
       },
@@ -11537,6 +11601,24 @@
     },
     {
       "album": {
+        "name": "Que Hay Amor",
+        "url": "https://open.spotify.com/album/0X2LGV7tO8XoIca038V56u"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169011,
+      "name": "Que Hay Amor",
+      "url": "https://open.spotify.com/track/3YkpOplxxP5U32K6Eq4irv"
+    },
+    {
+      "album": {
         "name": "Que linda te ves",
         "url": "https://open.spotify.com/album/6eHZSp9pykdrnUNlFmEirH"
       },
@@ -12197,6 +12279,32 @@
     },
     {
       "album": {
+        "name": "ROBARTE (REMIX)",
+        "url": "https://open.spotify.com/album/4OJVWuG91YPHdzC634pzwo"
+      },
+      "artists": [
+        {
+          "name": "El Joan",
+          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+        },
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177965,
+      "name": "ROBARTE - REMIX",
+      "url": "https://open.spotify.com/track/3NE1RQxfolHntyjtYA7dTF"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2zwMwKlVHSgdNZuENtSNYc"
       },
@@ -12230,7 +12338,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 174089,
       "name": "Roll Royce",
       "url": "https://open.spotify.com/track/24iXuKsb2nPPZR6uj50hRu"
@@ -13297,6 +13405,32 @@
     },
     {
       "album": {
+        "name": "Somos Positivo",
+        "url": "https://open.spotify.com/album/29aVh4JUekbYTh6aYo2hHm"
+      },
+      "artists": [
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "lokate",
+          "url": "https://open.spotify.com/artist/1A2ygx3G6GR96LVXJitbEv"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Somos Positivo",
+      "url": "https://open.spotify.com/track/6Y214JsXwWYG7m01YIfdDJ"
+    },
+    {
+      "album": {
         "name": "La Gata enamora de la Luna",
         "url": "https://open.spotify.com/album/7xmB9B5XfpmqxLlqxiYI2j"
       },
@@ -13634,6 +13768,28 @@
       "duration_ms": 214776,
       "name": "Tarzan de la Selva",
       "url": "https://open.spotify.com/track/71mu3d6zn6UYfSJkOAbrPK"
+    },
+    {
+      "album": {
+        "name": "Tas Clara",
+        "url": "https://open.spotify.com/album/0XFOCIVIzBEVfKZHCOZiBL"
+      },
+      "artists": [
+        {
+          "name": "Benji Gramitos",
+          "url": "https://open.spotify.com/artist/0qo0qirBort7v7IMWHVC3c"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/2h3vGzEnHE3ZkEDHgpLgaj"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181225,
+      "name": "Tas Clara",
+      "url": "https://open.spotify.com/track/6oN7JqJ69g1pSU2F9k7uji"
     },
     {
       "album": {
@@ -14146,7 +14302,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 155275,
       "name": "Toda Guapa",
       "url": "https://open.spotify.com/track/6XLOKUNpCZRkWAKfEDeArF"

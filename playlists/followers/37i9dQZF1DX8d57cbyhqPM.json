@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 36979,
+  "2024-04-06": 37019,
   "date_first_scraped": "2022-07-01",
   "description": "Du Congo, au monde. \ud83c\udf0d Photo: SenSey'",
   "name": "Biso Na Biso",
@@ -293,6 +293,46 @@
       "duration_ms": 287346,
       "name": "Afsana",
       "url": "https://open.spotify.com/track/0Ms0rronIijW3ngbCOtRlB"
+    },
+    {
+      "album": {
+        "name": "Allo",
+        "url": "https://open.spotify.com/album/5gnoiVpxA1Y4bJIZ2oNpYL"
+      },
+      "artists": [
+        {
+          "name": "Rockia Chelle",
+          "url": "https://open.spotify.com/artist/1ZrT53sSLbDhxz7QVnisBo"
+        },
+        {
+          "name": "Fanicko",
+          "url": "https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199704,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/2aOCcxLfLXUvDra9KuDkaa"
+    },
+    {
+      "album": {
+        "name": "ALWAYS",
+        "url": "https://open.spotify.com/album/5M3zUxFgRlneZtiEXGuKYe"
+      },
+      "artists": [
+        {
+          "name": "Mopao Mumu",
+          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172713,
+      "name": "ALWAYS",
+      "url": "https://open.spotify.com/track/6Wkoz5kAWOTIHewXzn9srF"
     },
     {
       "album": {
@@ -2915,7 +2955,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 177017,
       "name": "Je t'aime",
       "url": "https://open.spotify.com/track/5J9dOEHLNPwfbFlWPTkm8S"
@@ -4209,7 +4249,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 348473,
       "name": "Mon bonheur",
       "url": "https://open.spotify.com/track/7FdHNzHJKCmNlmGZS9owvx"

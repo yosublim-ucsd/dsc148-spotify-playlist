@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 137980,
+  "num_followers": 138026,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTkwMzk5NmMxMGUxZDMwNzFhZGU3NjIwNjZlNDljMWRhNzJmYzI5",
+  "snapshot_id": "MCwyNjMxMTE4Y2E3OTFhMTMwMzg2YmU5Y2RmY2Q3NjllMWQzNzcxNmUw",
   "tracks": [
     {
       "added_at": "2023-10-06 04:04:27",
@@ -151,18 +151,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
+        "name": "Oceans (Where Feet May Fail)",
+        "url": "https://open.spotify.com/album/4kRftqxEYbHFCsWIJ8qKSk"
       },
       "artists": [
         {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+          "name": "Analaga",
+          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 230792,
-      "name": "Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
+      "duration_ms": 312873,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/1QUEVvbXjEYytdZLmO58uI"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -183,22 +187,18 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Oceans (Where Feet May Fail)",
-        "url": "https://open.spotify.com/album/4kRftqxEYbHFCsWIJ8qKSk"
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
       },
       "artists": [
         {
-          "name": "Analaga",
-          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
         }
       ],
-      "duration_ms": 312873,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/1QUEVvbXjEYytdZLmO58uI"
+      "duration_ms": 230792,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Cuide",
-        "url": "https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Cuide",
-      "url": "https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "N\u00e3o Sou T\u00e3o Forte",
         "url": "https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 235309,
       "name": "Botas Velhas",
       "url": "https://open.spotify.com/track/2epzwYTWNv0KfGSiQs0com"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Cuide",
+        "url": "https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Cuide",
+      "url": "https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Vai Ficar Tudo Bem",
-        "url": "https://open.spotify.com/album/6Jn1wSFx0bo4GYCc66mslN"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Vai Ficar Tudo Bem",
-      "url": "https://open.spotify.com/track/2CYlC1aTQZW5YuXz5xIXAJ"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Todos Um",
         "url": "https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Vai Ficar Tudo Bem",
+        "url": "https://open.spotify.com/album/6Jn1wSFx0bo4GYCc66mslN"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Vai Ficar Tudo Bem",
+      "url": "https://open.spotify.com/track/2CYlC1aTQZW5YuXz5xIXAJ"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "Tua Presen\u00e7a Vale Mais",
         "url": "https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 360000,
       "name": "Tua Presen\u00e7a Vale Mais",
       "url": "https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Sonhadora (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 236199,
+      "name": "Sonhadora (Vers\u00e3o Alternativa) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -735,22 +751,6 @@
       "duration_ms": 279989,
       "name": "Eu, Poema: Releitura",
       "url": "https://open.spotify.com/track/16Bum18plc6ET7bEvEOq3Z"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Sonhadora (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 236199,
-      "name": "Sonhadora (Vers\u00e3o Alternativa) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Raridade (Releitura)",
+        "url": "https://open.spotify.com/album/2iVGtuWpmNtP5Az2SUXAcj"
+      },
+      "artists": [
+        {
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+        }
+      ],
+      "duration_ms": 256161,
+      "name": "Raridade (Releitura)",
+      "url": "https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "S\u00f3 Penso Em Voc\u00ea (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1Zhps2KL1tFWr17ognMDJ1"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 201282,
       "name": "Mais Perto Quero Estar",
       "url": "https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Raridade (Releitura)",
-        "url": "https://open.spotify.com/album/2iVGtuWpmNtP5Az2SUXAcj"
-      },
-      "artists": [
-        {
-          "name": "Bea Rodrigues",
-          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
-        }
-      ],
-      "duration_ms": 256161,
-      "name": "Raridade (Releitura)",
-      "url": "https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th"
     },
     {
       "added_at": "2023-10-06 04:04:27",

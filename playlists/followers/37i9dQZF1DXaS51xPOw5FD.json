@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 51810,
+  "2024-04-06": 51906,
   "date_first_scraped": "2022-09-15",
   "description": "Euphoric drum & bass tracks for raving in the sunshine!\n",
   "name": "Sunny dnb",
@@ -43,7 +43,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 225172,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6LW3Z1GqbL78TIjfDyg4zp"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 233666,
       "name": "Blind Faith",
       "url": "https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 306678,
       "name": "Dahlia",
       "url": "https://open.spotify.com/track/3v76fnrYSYA8OVqxzjWIPJ"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 217931,
       "name": "Drowning In You",
       "url": "https://open.spotify.com/track/0bqJDrb7zRLOiCnUm7MXZW"
@@ -1322,6 +1322,36 @@
     },
     {
       "album": {
+        "name": "Green & Gold (feat. Charlotte Plank & Riko Dan)",
+        "url": "https://open.spotify.com/album/5USMLXcmyO4BdAeQaOEql2"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160602,
+      "name": "Green & Gold (feat. Charlotte Plank & Riko Dan)",
+      "url": "https://open.spotify.com/track/0JI8koDoC5crQbIjhSty59"
+    },
+    {
+      "album": {
         "name": "head",
         "url": "https://open.spotify.com/album/3gWgeoCR8SjrLj714KSx6p"
       },
@@ -1447,6 +1477,36 @@
       "duration_ms": 226206,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/2qxiyScLvjCMb9gg1hTl5F"
+    },
+    {
+      "album": {
+        "name": "Hey Hey Hey",
+        "url": "https://open.spotify.com/album/1jD05fGR05M8ze5bRQ1H0e"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        },
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        },
+        {
+          "name": "Nadia Rose",
+          "url": "https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO"
+        },
+        {
+          "name": "LEVi",
+          "url": "https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173873,
+      "name": "Hey Hey Hey",
+      "url": "https://open.spotify.com/track/1lsgebKJsXBAgp45vsyPit"
     },
     {
       "album": {
@@ -1625,7 +1685,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 314000,
       "name": "Journey Inwards",
       "url": "https://open.spotify.com/track/3iLyAY6mucjT2lxrtincYz"
@@ -1669,6 +1729,28 @@
       "duration_ms": 377840,
       "name": "Just One Second - Apex Remix",
       "url": "https://open.spotify.com/track/18IVOQQ6apJcij5vHgWmEz"
+    },
+    {
+      "album": {
+        "name": "Kites",
+        "url": "https://open.spotify.com/album/6tQleNjbmmM1GxJB9Rka2S"
+      },
+      "artists": [
+        {
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        {
+          "name": "Grace Grundy",
+          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219836,
+      "name": "Kites",
+      "url": "https://open.spotify.com/track/5wngvewYbGMedJ6y86xz0O"
     },
     {
       "album": {
@@ -1735,6 +1817,32 @@
       "duration_ms": 160498,
       "name": "Let U Know (feat. Charlotte Plank)",
       "url": "https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW"
+    },
+    {
+      "album": {
+        "name": "Liquor By The Litre (feat. P Money & Laurena Volant\u00e9)",
+        "url": "https://open.spotify.com/album/5GjPpUvdeZzPxFw8eAueIn"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Laurena Volant\u00e9",
+          "url": "https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162250,
+      "name": "Liquor By The Litre (feat. P Money & Laurena Volant\u00e9)",
+      "url": "https://open.spotify.com/track/2UXmF5eo4HeqMTERZyceQN"
     },
     {
       "album": {
@@ -2066,6 +2174,36 @@
     },
     {
       "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/1cgA9S7KgDpQhG9045suo2"
+      },
+      "artists": [
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        },
+        {
+          "name": "Dux n Bass",
+          "url": "https://open.spotify.com/artist/5LlJwFI0pt18QEmRZMT7EA"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "T-Man",
+          "url": "https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184371,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/0FQU8Y1Ir1YkR6MoMfJjB3"
+    },
+    {
+      "album": {
         "name": "Never Let You Down (feat. Penny Ivy)",
         "url": "https://open.spotify.com/album/4lQIsXVm1uAQH1nYK5yaID"
       },
@@ -2111,7 +2249,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 188920,
       "name": "Never Let You Down (feat. Penny Ivy)",
       "url": "https://open.spotify.com/track/2duupjRLTcPDcbfxV7vVTa"
@@ -2144,6 +2282,28 @@
     },
     {
       "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/4pxWZbrt4xsKP1mpqSu5MI"
+      },
+      "artists": [
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        },
+        {
+          "name": "Slew",
+          "url": "https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146144,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/4Z5LQ4h4lSAPjP5xOPk62c"
+    },
+    {
+      "album": {
         "name": "Nobody To Love",
         "url": "https://open.spotify.com/album/0mRK0BA8DrCUfhFF9Oua5J"
       },
@@ -2155,7 +2315,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 189666,
       "name": "Nobody To Love",
       "url": "https://open.spotify.com/track/5dzHlLBWdxdQySpvZLHcu9"
@@ -2452,6 +2612,28 @@
     },
     {
       "album": {
+        "name": "Raise Di Alarm",
+        "url": "https://open.spotify.com/album/5ThyOWKAUT1wosv9ysDcdG"
+      },
+      "artists": [
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        },
+        {
+          "name": "Benny Page",
+          "url": "https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170198,
+      "name": "Raise Di Alarm",
+      "url": "https://open.spotify.com/track/5xC8aq9kmGCdwF03NThspZ"
+    },
+    {
+      "album": {
         "name": "Rave Out",
         "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
       },
@@ -2672,6 +2854,46 @@
     },
     {
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/69n3qTgvr99gPLX3kW2BVW"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/7davhOXjwqodNIrR5Jt96U"
+    },
+    {
+      "album": {
+        "name": "Sleepwalking (feat. Songer)",
+        "url": "https://open.spotify.com/album/0bkRVje5m0kIefrwE4eY7M"
+      },
+      "artists": [
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178001,
+      "name": "Sleepwalking (feat. Songer)",
+      "url": "https://open.spotify.com/track/160BnJrlHjlswLWBmi8mOz"
+    },
+    {
+      "album": {
         "name": "SUMMER",
         "url": "https://open.spotify.com/album/1o60kkN15pxFqnXmy4Ulv9"
       },
@@ -2785,7 +3007,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 368560,
       "name": "Sweet Harmony",
       "url": "https://open.spotify.com/track/6FmRdZepHOiewtzi0u88Kg"
@@ -3129,7 +3351,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 213111,
       "name": "Walk Through Fire",
       "url": "https://open.spotify.com/track/6GAIFjKSUCb4ndyDwDgKsJ"

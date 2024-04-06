@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: Shye \(Singapore\)
 
-1,240 songs - 3 day 2 hr 33 min
+1,241 songs - 3 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Close To You](https://open.spotify.com/track/6SQJyYv6qZHhneGddKRdT0) | [CHARLES.](https://open.spotify.com/artist/5k9DAxaugi6ANyemUgQrgV), [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh), [Jsdrmns](https://open.spotify.com/artist/5ga5P2bTvSDu4rDRnXI33l) | [Close To You](https://open.spotify.com/album/40FZJu1z9sHJD8qYLqifUm) | 2:44 | 2022-03-24 | 2022-05-20 |
 | [Closer](https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [８](https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m) | 3:36 | 2023-10-19 | 2023-12-10 |
 | [Cloud 9](https://open.spotify.com/track/7HgjuLPrTSunnZIbwwXNHQ) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [UTOPIA](https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02) | 2:46 | 2022-06-09 | 2022-07-15 |
+| [Clouds](https://open.spotify.com/track/2YdFDvMP6S38Q45ugDxKdf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [Clouds](https://open.spotify.com/album/5hTbSIwFjM0qEbHYybjlkL) | 3:43 | 2024-04-04 |  |
 | [Clue](https://open.spotify.com/track/4xdsWRDp3JSKDwmFgabDC6) | [TRPP](https://open.spotify.com/artist/1aBpZ0N9BHa5pVM8oKhT0D) | [Here to stay](https://open.spotify.com/album/5plpge0LesjTYjCacGLl2M) | 3:50 | 2022-09-15 | 2022-11-11 |
 | [cntrl:](https://open.spotify.com/track/1TAbrJpDjryYqi0CktMyho) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [cntrl:](https://open.spotify.com/album/1fHutJ5XpLudEcSzleTZmy) | 3:04 | 2022-07-07 | 2022-08-12 |
 | [Coeur Kamikaze 心與海](https://open.spotify.com/track/1xut6DzmmqwYixQ5xRskZ1) | [The Rodeo](https://open.spotify.com/artist/66g3ybCzTYusaxjoARIBEw), [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [Coeur Kamikaze 心與海](https://open.spotify.com/album/1Wnwt7wHqrZ5nHI9Xa6QyZ) | 3:31 | 2022-03-24 | 2022-04-02 |

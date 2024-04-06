@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 742138,
+  "num_followers": 742134,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "NTYzOCxkOTdmNmYzOWZjZDc1NDQ3YTk3NDQwZjExZWYwYjA3YTgxYjQ3MWRj",
+  "snapshot_id": "NTY0MCwwYjliMjhkZjQ5MTk3MDcwYWRlMjU4Mjc0NjQwMTM0ZTJkOTQzYTQ2",
   "tracks": [
     {
       "added_at": "2024-04-02 08:58:38",
@@ -155,6 +155,38 @@
       "duration_ms": 153557,
       "name": "Burning Wish",
       "url": "https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js"
+    },
+    {
+      "added_at": "2024-04-05 10:12:15",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/6duTRqw2Ld0WnsqABtRCBr"
+      },
+      "artists": [
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        }
+      ],
+      "duration_ms": 134250,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/2labeTrCjxVx7LCtL8xuL4"
+    },
+    {
+      "added_at": "2024-04-05 10:12:15",
+      "album": {
+        "name": "Cybernetic",
+        "url": "https://open.spotify.com/album/0lyxsdwiGOmGy9O9cYqsTE"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        }
+      ],
+      "duration_ms": 244137,
+      "name": "Cybernetic",
+      "url": "https://open.spotify.com/track/5ynKgzOgxcJ8vAM1htgoqq"
     },
     {
       "added_at": "2024-04-04 09:29:25",
@@ -1835,70 +1867,6 @@
       "duration_ms": 213488,
       "name": "All For You",
       "url": "https://open.spotify.com/track/67v9iKzTmtMmLaKgZqHo1n"
-    },
-    {
-      "added_at": "2024-04-02 08:58:38",
-      "album": {
-        "name": "Tidal Wave",
-        "url": "https://open.spotify.com/album/1VFSM94LH8MrNV9AYKjYzH"
-      },
-      "artists": [
-        {
-          "name": "KHEMIS",
-          "url": "https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d"
-        },
-        {
-          "name": "Coopex",
-          "url": "https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO"
-        },
-        {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        }
-      ],
-      "duration_ms": 141190,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/0Y2ql9hjIhpYx2fuYMeeB3"
-    },
-    {
-      "added_at": "2024-04-02 08:58:38",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/6M8MlEiGhdNwCrcqAUS23H"
-      },
-      "artists": [
-        {
-          "name": "Besomorph",
-          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
-        },
-        {
-          "name": "Coopex",
-          "url": "https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO"
-        },
-        {
-          "name": "RIELL",
-          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Redemption",
-      "url": "https://open.spotify.com/track/7N267HKpnzJzqToo5KcaoF"
-    },
-    {
-      "added_at": "2024-04-02 08:58:38",
-      "album": {
-        "name": "Haunted House",
-        "url": "https://open.spotify.com/album/0kPDBpsKB8gnIePmj1pas7"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 181856,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/0lRWCC1H4Ik57AoCDywzPl"
     }
   ],
   "unique_name": "NCS Releases",

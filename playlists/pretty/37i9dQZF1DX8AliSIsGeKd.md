@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Boris Brejcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,862 likes - 89 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,181 likes - 89 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [The Experiment](https://open.spotify.com/track/5ZfFhj4SgsajSJrj7jiz3Q) | [The Checkup](https://open.spotify.com/artist/2W6wcKjaQ6LbOAEOvGnTwv), [DJ Merci](https://open.spotify.com/artist/0aWG9QV2R47xsBMYaDSaPj) | [The Experiment](https://open.spotify.com/album/2VXwNRNOuFKKQJAGdyhCEB) | 7:44 |
 | 89 | [Halo](https://open.spotify.com/track/15DLP2HxLI72Nee7EV6zFF) | [Ludwig A.F.](https://open.spotify.com/artist/3Pxzo6Fhgswi6238OggzO5) | [Halo](https://open.spotify.com/album/3ID2tzqv0d5cDjv7CWxzFl) | 3:56 |
 
-Snapshot ID: `MCxjOWU2MmRhZTFhZGYwMjE0NmRjNmZkODc3ZGM1OWY2YTI3MzlmMDMw`
+Snapshot ID: `MCxkMzlhY2UyZmM1MTE4NGJjZTg0NTUzMGMzM2UzMGUwMzg2ZmMwYjM4`

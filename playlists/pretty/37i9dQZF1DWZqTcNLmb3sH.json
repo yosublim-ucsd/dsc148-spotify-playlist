@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57500,
+  "num_followers": 57508,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDIzZDA2Y2MwNjAyNDQ0MzdhY2EyODA3YjQ2NmY5NmVjYWFlMDVk",
+  "snapshot_id": "MCw4YzViNjE5YTU0MGMwNGUwM2EyMTc2YjQ2NTkwNDQ5NjAzZmZmYTRm",
   "tracks": [
     {
       "added_at": "2024-03-14 12:22:29",
@@ -115,6 +115,30 @@
       "duration_ms": 174404,
       "name": "Manuja Nindyava Ooru (From \"Karataka Damanaka\")",
       "url": "https://open.spotify.com/track/2oKglRvhogf1ysdkprls5I"
+    },
+    {
+      "added_at": "2024-04-05 09:12:21",
+      "album": {
+        "name": "Naguve Nanda Deepa (From \"Appa I Love You\")",
+        "url": "https://open.spotify.com/album/3iMRsCR34ihlwlVy69kEQH"
+      },
+      "artists": [
+        {
+          "name": "Akash Parva",
+          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
+        },
+        {
+          "name": "Madhwesh Bharadwaj",
+          "url": "https://open.spotify.com/artist/1H6i8xrN9PqWTo6u5EbaxH"
+        },
+        {
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
+        }
+      ],
+      "duration_ms": 254754,
+      "name": "Naguve Nanda Deepa (From \"Appa I Love You\")",
+      "url": "https://open.spotify.com/track/1nfXV3TuVZdYkuqcSnAtD9"
     },
     {
       "added_at": "2024-03-26 07:02:46",
@@ -1643,38 +1667,6 @@
       "duration_ms": 205856,
       "name": "Warning Song (From \"Bachelor Party\")",
       "url": "https://open.spotify.com/track/3dOC21UqMoJqIE2rjOGE7W"
-    },
-    {
-      "added_at": "2024-01-31 11:15:15",
-      "album": {
-        "name": "Manegondu Maalige (From \"Appa I Love You\")",
-        "url": "https://open.spotify.com/album/3AW8D4Hs4oBnbHNYL2q1wc"
-      },
-      "artists": [
-        {
-          "name": "Akash Parva",
-          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
-        },
-        {
-          "name": "Kinnal Raj",
-          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
-        },
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Tabla Nani",
-          "url": "https://open.spotify.com/artist/1yA8wjWut0EjIUL1TFIGex"
-        },
-        {
-          "name": "Lovely Star Prem",
-          "url": "https://open.spotify.com/artist/6LRwLkHxRjZWtBHdYUMtLP"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Manegondu Maalige (From \"Appa I Love You\")",
-      "url": "https://open.spotify.com/track/04FxjbgwogKiMyVzgkOjDt"
     },
     {
       "added_at": "2024-01-25 15:08:32",

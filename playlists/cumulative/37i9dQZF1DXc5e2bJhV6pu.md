@@ -4,7 +4,7 @@
 
 > Shake up your wake up with a selection of feel good songs that will get you bouncing out the door.
 
-1,459 songs - 3 day 10 hr 51 min
+1,460 songs - 3 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [Dreams](https://open.spotify.com/track/1fIPygKXkjzBpjRskS0Pmc) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [Dreams](https://open.spotify.com/album/1IMo1qn4dTkVQsnletWLRD) | 3:07 | 2020-06-12 | 2022-04-05 |
 | [Dreams](https://open.spotify.com/track/2J3TcdKkdU42R9zWqWi6LJ) | [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42) | [Dreams](https://open.spotify.com/album/2wvHFdSUM3Q6Dtu7dowYpf) | 3:18 | 2021-11-13 | 2022-07-27 |
 | [Dreams](https://open.spotify.com/track/0md12GKBGH8ZuLG2fTfGUz) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/1pyh6iM7r1lvWgab6BEMMs) | 4:31 | 2022-04-14 | 2022-04-19 |
-| [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 | 2023-12-15 |  |
+| [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 | 2023-12-15 | 2024-04-06 |
 | [Drift Away](https://open.spotify.com/track/4l4dW1br6X5I8PiuoKWQ4H) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Drift Away](https://open.spotify.com/album/3I6JJ37J4J1cpBY59pob1K) | 2:58 | 2019-07-31 | 2021-05-17 |
 | [Drink About](https://open.spotify.com/track/2GGGm4MLQynB3I4E4ycIYC) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Drink About](https://open.spotify.com/album/4qwwcF4H82Pm1UGR8CVtUj) | 3:02 | 2019-08-04 | 2021-03-19 |
 | [Drowning](https://open.spotify.com/track/1GPnYjrkZEI0ysGvch8I8e) | [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Sorana](https://open.spotify.com/artist/2YCfL0ncXSqaq0LraYbVPj) | [Drowning](https://open.spotify.com/album/5FjrHTvuT3hmuBt62Tj0tA) | 2:36 | 2019-08-26 | 2022-04-19 |
@@ -1348,6 +1348,7 @@
 | [Ur So F\*\*kInG cOoL](https://open.spotify.com/track/7A9rdAz2M6AjRwOa34jxIP) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Ur So F\*\*kInG cOoL](https://open.spotify.com/album/0ZrEytwQc2Oj53GcBm8bEB) | 2:52 | 2020-06-12 | 2021-05-26 |
 | [Used To Love \(with Dean Lewis\)](https://open.spotify.com/track/7pWK1kMgHy5lNNiIfuRbkP) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Used To Love \(with Dean Lewis\)](https://open.spotify.com/album/3YD1qyD9KPFzzTK1UC1Gvo) | 3:56 | 2019-11-18 | 2022-04-20 |
 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/4BfRDZLIiznSnwU7DdDL9N) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/0g8bYxIjEojf4hyQlVVn99) | 3:39 | 2019-08-02 | 2022-04-21 |
+| [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 | 2023-12-15 |  |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-07-28 | 2023-07-24 |
 | [Vertigo](https://open.spotify.com/track/1Kn4KYXfD9HVXnL9gjZwcU) | [Paces](https://open.spotify.com/artist/5xO9868Xc1mjAzmaN1efoK), [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [Vertigo \(feat\. Yorke\)](https://open.spotify.com/album/4oVSmm2QVRIDNzgxDCBuow) | 2:26 | 2019-10-25 | 2019-12-20 |
 | [Vibes](https://open.spotify.com/track/6XjiFenta7IS1JbsFFH7Z0) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Vibes](https://open.spotify.com/album/1RcnGAe2eVFi3CdPl0NdRi) | 3:31 | 2021-05-21 | 2022-04-14 |

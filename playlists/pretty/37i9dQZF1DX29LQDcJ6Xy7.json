@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 321896,
+  "num_followers": 322024,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGRmNDQwNTljOGM4ODQzNDI2YTI4ODg4MWMxNDA2NWJiYzYyYWZi",
+  "snapshot_id": "MCwxNzI0Zjc0OWNlNGI5NzhiNjUyMDk5MmIyOTBhNDQxNjAzOGUyOGQw",
   "tracks": [
     {
       "added_at": "2024-01-30 16:12:12",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
+        "name": "Celldweller (Definitive Edition)",
+        "url": "https://open.spotify.com/album/4NvgNR8QhQKNvsjangqMcT"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 302693,
+      "name": "Switchback",
+      "url": "https://open.spotify.com/track/4sKi48OClEyho57D26hJdU"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 215000,
       "name": "A Drug Against War",
       "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
-        "name": "Celldweller (Definitive Edition)",
-        "url": "https://open.spotify.com/album/4NvgNR8QhQKNvsjangqMcT"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 302693,
-      "name": "Switchback",
-      "url": "https://open.spotify.com/track/4sKi48OClEyho57D26hJdU"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "Emigrate",
-        "url": "https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri"
+        "name": "One Fire",
+        "url": "https://open.spotify.com/album/7AxB5F98Vr647vnLNtbYrR"
       },
       "artists": [
         {
-          "name": "Emigrate",
-          "url": "https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1"
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
         }
       ],
-      "duration_ms": 257493,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U"
+      "duration_ms": 255194,
+      "name": "Hate Like Me",
+      "url": "https://open.spotify.com/track/51GIPw8fk0mEg63IEnVHcs"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -803,34 +803,18 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "One Fire",
-        "url": "https://open.spotify.com/album/7AxB5F98Vr647vnLNtbYrR"
+        "name": "Emigrate",
+        "url": "https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri"
       },
       "artists": [
         {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+          "name": "Emigrate",
+          "url": "https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1"
         }
       ],
-      "duration_ms": 255194,
-      "name": "Hate Like Me",
-      "url": "https://open.spotify.com/track/51GIPw8fk0mEg63IEnVHcs"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
-        "name": "Chapter II",
-        "url": "https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC"
-      },
-      "artists": [
-        {
-          "name": "SKYND",
-          "url": "https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M"
-        }
-      ],
-      "duration_ms": 394285,
-      "name": "Jim Jones",
-      "url": "https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d"
+      "duration_ms": 257493,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -851,6 +835,22 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
+        "name": "Chapter II",
+        "url": "https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC"
+      },
+      "artists": [
+        {
+          "name": "SKYND",
+          "url": "https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M"
+        }
+      ],
+      "duration_ms": 394285,
+      "name": "Jim Jones",
+      "url": "https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
         "name": "Dein Helfer in der Not",
         "url": "https://open.spotify.com/album/1p28xpi0caBt3ccAqcK7ZY"
       },
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "HY\u00cbNA",
-        "url": "https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa"
+        "name": "www.pitchshifter.com",
+        "url": "https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun"
       },
       "artists": [
         {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+          "name": "Pitchshifter",
+          "url": "https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i"
         }
       ],
-      "duration_ms": 302940,
-      "name": "HY\u00cbNA",
-      "url": "https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5"
+      "duration_ms": 246506,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
+        "name": "HY\u00cbNA",
+        "url": "https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa"
+      },
+      "artists": [
+        {
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+        }
+      ],
+      "duration_ms": 302940,
+      "name": "HY\u00cbNA",
+      "url": "https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
         "name": "Merchant of the Void",
         "url": "https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 212814,
       "name": "Merchant of the Void",
       "url": "https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
-        "name": "www.pitchshifter.com",
-        "url": "https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun"
-      },
-      "artists": [
-        {
-          "name": "Pitchshifter",
-          "url": "https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "TILL THE END",
-        "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
-      },
-      "artists": [
-        {
-          "name": "NA CHUI",
-          "url": "https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "TILL THE END",
-      "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
         "name": "Omen X",
         "url": "https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "PUMPED UP KICKS",
-        "url": "https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO"
+        "name": "TILL THE END",
+        "url": "https://open.spotify.com/album/38KsykfZ2memylz4uwThC6"
       },
       "artists": [
         {
-          "name": "3TEETH",
-          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
+          "name": "NA CHUI",
+          "url": "https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh"
         }
       ],
-      "duration_ms": 271666,
-      "name": "PUMPED UP KICKS",
-      "url": "https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU"
+      "duration_ms": 314000,
+      "name": "TILL THE END",
+      "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1091,6 +1075,22 @@
       "duration_ms": 238590,
       "name": "Many Thanks",
       "url": "https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
+        "name": "PUMPED UP KICKS",
+        "url": "https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO"
+      },
+      "artists": [
+        {
+          "name": "3TEETH",
+          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
+        }
+      ],
+      "duration_ms": 271666,
+      "name": "PUMPED UP KICKS",
+      "url": "https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "Killer Quinn",
-        "url": "https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd"
-      },
-      "artists": [
-        {
-          "name": "SCARLET",
-          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
-        }
-      ],
-      "duration_ms": 179178,
-      "name": "Killer Quinn",
-      "url": "https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
         "name": "Termination Bliss",
         "url": "https://open.spotify.com/album/4Ag57DqawdZcI8m6ns0zR7"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 246160,
       "name": "Blitzkrieg",
       "url": "https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
+        "name": "Killer Quinn",
+        "url": "https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd"
+      },
+      "artists": [
+        {
+          "name": "SCARLET",
+          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
+        }
+      ],
+      "duration_ms": 179178,
+      "name": "Killer Quinn",
+      "url": "https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "Satellites",
-        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 380885,
-      "name": "My Disintegration",
-      "url": "https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
         "name": "Chasing Ghosts",
         "url": "https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 243814,
       "name": "I Am Nothing",
       "url": "https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 380885,
+      "name": "My Disintegration",
+      "url": "https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
+        "name": "The Algorithm",
+        "url": "https://open.spotify.com/album/4K3EGyXF7wdfaR4fGPlOXg"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 217071,
+      "name": "Obliteration",
+      "url": "https://open.spotify.com/track/3juffqyuhqPTonmbbi4tDs"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
         "name": "Helheim (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4CNkdDYpJS2lfg3kqf2mTY"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 192859,
       "name": "Rabenherz",
       "url": "https://open.spotify.com/track/0ZGY8Yisqno96s7RDIs2GU"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM"
-      },
-      "artists": [
-        {
-          "name": "CueStack",
-          "url": "https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG"
-        }
-      ],
-      "duration_ms": 264750,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9"
     }
   ],
   "unique_name": "Industrial Metal",

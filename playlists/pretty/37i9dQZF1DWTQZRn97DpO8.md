@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Arma Jackson
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,074 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,116 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Honey Glazed](https://open.spotify.com/track/2BQ9kr7iW8M3GY5GKn19jv) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [Chick & Dips](https://open.spotify.com/album/7wr1oxPx5FU5c7ll4Ca6FO) | 3:12 |
 | 50 | [Mienne](https://open.spotify.com/track/5GFYyEJYUQrG4q3URRtT4B) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [Mienne](https://open.spotify.com/album/0X0mA4fLAGZJLbTHFfu8Nb) | 3:00 |
 
-Snapshot ID: `MCw3YTgwMTA2ZDRhY2Y1MjIwZjk2MWIxZGVmYTA4YmQxNGVlYzg4YjVi`
+Snapshot ID: `MCw0MWUzZmIxN2Y4YmM1NDdlZTJhMWJjODFiNTAyN2Y2NTkxNWQ0Zjgw`

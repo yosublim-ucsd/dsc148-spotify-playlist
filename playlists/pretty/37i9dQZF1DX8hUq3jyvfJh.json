@@ -1,12 +1,12 @@
 {
   "description": "Escute Manu e mais mulheres no volume m\u00e1ximo! Co-curadoria com ",
-  "num_followers": 177042,
+  "num_followers": 177027,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDFlOWNlNDljNWM0ZmU5M2M1ZjhiYjY3OGI2MzYxZTA3M2RjN2Ew",
+  "snapshot_id": "MCxjMjU1MDgxODdkMjE1ZjBmMWY3ZTFiNGJiYjc1ODMwNjhlN2E1NzFj",
   "tracks": [
     {
       "added_at": "2024-04-03 03:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-04-03 03:00:00",
       "album": {
-        "name": "Cintilante (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK"
-      },
-      "artists": [
-        {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "Amn\u00e9sia Do Beijo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6YJzvSZzfrd1UDaLFIRHQY"
-    },
-    {
-      "added_at": "2024-04-03 03:00:00",
-      "album": {
         "name": "Apaixonada",
         "url": "https://open.spotify.com/album/0cRcvbevYUF3owFrbywXIN"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 188084,
       "name": "Apaixonada",
       "url": "https://open.spotify.com/track/6PPtpSPkzvXUpmXbfnNupr"
+    },
+    {
+      "added_at": "2024-04-03 03:00:00",
+      "album": {
+        "name": "Cintilante (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "Amn\u00e9sia Do Beijo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6YJzvSZzfrd1UDaLFIRHQY"
     },
     {
       "added_at": "2024-04-03 03:00:00",
@@ -687,18 +687,22 @@
     {
       "added_at": "2024-04-03 03:00:00",
       "album": {
-        "name": "Rotina",
-        "url": "https://open.spotify.com/album/52ISbgYoLz0QAKb0sOpCbv"
+        "name": "Cleide",
+        "url": "https://open.spotify.com/album/3QY7ydZS435baVDOqu4h8L"
       },
       "artists": [
         {
-          "name": "Danieze Santiago",
-          "url": "https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g"
+          "name": "Marcia Novo",
+          "url": "https://open.spotify.com/artist/33ZYvlC9Qs0gtyBWY6GOik"
+        },
+        {
+          "name": "O Conde S\u00f3 Brega",
+          "url": "https://open.spotify.com/artist/1Fwo1NcyRIEDraRN1fy495"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Rotina",
-      "url": "https://open.spotify.com/track/4ZFnEp8aL93ucQsawiyiwA"
+      "duration_ms": 209506,
+      "name": "Cleide",
+      "url": "https://open.spotify.com/track/4vJAhyVQqc08HKmeWwmTWk"
     },
     {
       "added_at": "2024-04-03 03:00:00",
@@ -719,22 +723,18 @@
     {
       "added_at": "2024-04-03 03:00:00",
       "album": {
-        "name": "Cleide",
-        "url": "https://open.spotify.com/album/3QY7ydZS435baVDOqu4h8L"
+        "name": "Rotina",
+        "url": "https://open.spotify.com/album/52ISbgYoLz0QAKb0sOpCbv"
       },
       "artists": [
         {
-          "name": "Marcia Novo",
-          "url": "https://open.spotify.com/artist/33ZYvlC9Qs0gtyBWY6GOik"
-        },
-        {
-          "name": "O Conde S\u00f3 Brega",
-          "url": "https://open.spotify.com/artist/1Fwo1NcyRIEDraRN1fy495"
+          "name": "Danieze Santiago",
+          "url": "https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g"
         }
       ],
-      "duration_ms": 209506,
-      "name": "Cleide",
-      "url": "https://open.spotify.com/track/4vJAhyVQqc08HKmeWwmTWk"
+      "duration_ms": 188000,
+      "name": "Rotina",
+      "url": "https://open.spotify.com/track/4ZFnEp8aL93ucQsawiyiwA"
     },
     {
       "added_at": "2024-04-03 03:00:00",

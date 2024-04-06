@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: George Henrique & Rodrigo, Guilherme & Benuto
 
-207 songs - 9 hr 50 min
+208 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [CHEIRO NA CAMISETA](https://open.spotify.com/track/6qYTjIEgne0leltNnvpSIM) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [CHEIRO NA CAMISETA](https://open.spotify.com/album/4KtTqtXRtTk6tfozdYmgNv) | 2:35 | 2024-01-12 |  |
 | [CHEIRO NA CAMISETA](https://open.spotify.com/track/6Td7nVeAOUz13zhDlUY8jv) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [CHEIRO NA CAMISETA](https://open.spotify.com/album/1eJ0snHdRSAo3OgpwultI6) | 2:36 | 2023-11-17 | 2024-01-14 |
 | [Chá De Casa Nova \- Ao Vivo](https://open.spotify.com/track/6wrkP23fHC8KDHCfs8MpJ9) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau) | 2:56 | 2021-12-31 | 2022-03-05 |
+| [Ciumentalmente \- Ao Vivo](https://open.spotify.com/track/3TjIlPeN80uNPLe42XaiGa) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv) | [Resolve Seus B.O \(Ao Vivo\)](https://open.spotify.com/album/6h5XIRAL67YuON2bQ7iYi0) | 2:16 | 2024-04-05 |  |
 | [CORAÇÃO CIGANO \- Ao Vivo](https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 3:29 | 2022-08-12 | 2022-11-19 |
 | [Coração de Isca](https://open.spotify.com/track/2Nlf97QqqcZ2x9Qb4h1Qt2) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Último Beijo](https://open.spotify.com/album/4dI1v0jzbH7DsaxcfhEYpf) | 2:27 | 2021-12-31 | 2022-03-26 |
 | [Coração Na Cama \- Ao Vivo](https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [No Pelo 3, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb) | 2:53 | 2021-12-31 | 2022-03-05 |
@@ -118,7 +119,7 @@
 | [Me Ame Mais](https://open.spotify.com/track/4iavXH4dDUMA8yAabnUhSI) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Tudo Em Paz](https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL) | 3:49 | 2021-12-31 | 2022-01-17 |
 | [Me Leva Pra Casa / Escrito Nas Estrelas / Saudade \- Ao Vivo](https://open.spotify.com/track/2sYFUcurlISdHlAsnYCEgD) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz Goiânia \(Ao Vivo\)](https://open.spotify.com/album/6v9Ul1m0zyx9G3uwv8jRhu) | 4:25 | 2023-12-14 |  |
 | [Meio Fio \- Ao Vivo](https://open.spotify.com/track/1t5dhHyXMwdbAcI3EQRqFV) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo Em São Paulo Vol\. 2](https://open.spotify.com/album/0V3ZGohMB2SF82xhUEN8QC) | 2:33 | 2022-08-12 | 2023-07-15 |
-| [MEIO TERMO \- Ao Vivo](https://open.spotify.com/track/23IebZSNZ8VzwUr4rJNGRG) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY 2.0 \(Ao Vivo\)](https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD) | 2:55 | 2023-12-08 |  |
+| [MEIO TERMO \- Ao Vivo](https://open.spotify.com/track/23IebZSNZ8VzwUr4rJNGRG) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY 2.0 \(Ao Vivo\)](https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD) | 2:55 | 2023-12-08 | 2024-04-06 |
 | [MEIO TERMO \- Ao Vivo](https://open.spotify.com/track/4zUFA8l78k4tCmoVuGtV8z) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY 2.0 \- FASE 1](https://open.spotify.com/album/4dQAevCwvaHURvvM1ddXwM) | 2:55 | 2023-06-16 | 2023-12-11 |
 | [Melhor Ser uma Saudade](https://open.spotify.com/track/5IcPYzR2bkS4W3MabMpi4Z) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Tarja Preta](https://open.spotify.com/album/5QBgkxSxKSL0miMmONVo8a) | 2:38 | 2022-11-08 | 2023-05-06 |
 | [Melhor Ser uma Saudade](https://open.spotify.com/track/6Lk3kU7JcQ5dZ7jbmhJzQN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Tarja Preta, Ep\. 1](https://open.spotify.com/album/5BDWrnqQRfs2wSre2V7GbY) | 2:38 | 2022-02-04 | 2022-11-10 |

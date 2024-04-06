@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 437309,
+  "2024-04-06": 437442,
   "date_first_scraped": "2020-10-20",
   "description": "<a href=\"spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z\">Ti\u00ebsto</a>'s best songs, remixes and compilations.",
   "name": "This Is Ti\u00ebsto",
@@ -4233,6 +4233,28 @@
       "duration_ms": 306573,
       "name": "Knock You Out (feat. Emily Haines)",
       "url": "https://open.spotify.com/track/3TZYbWw6rZ8XJlsL8wQ8fc"
+    },
+    {
+      "album": {
+        "name": "LA FALDA (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/6nkUCUZ4vT2z074AjCbr2s"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "LA FALDA - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/3mnH4IGAoxIh5sRY8N8NS0"
     },
     {
       "album": {

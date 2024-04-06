@@ -4,7 +4,7 @@
 
 > If you're driving a car, flying a plane, or riding a bus \- these songs about transportation are for you.
 
-111 songs - 3 hr 54 min
+112 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Fiona Fire Truck](https://open.spotify.com/track/0WuKjQYAoTRaAQFHu0iVHc) | [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q), [Gecko's Garage](https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7) | [Gecko's Truck Songs for Children](https://open.spotify.com/album/4Id7UWpebesuBYQen93UNY) | 2:00 | 2020-04-13 | 2022-07-29 |
 | [Fiona Fire Truck](https://open.spotify.com/track/6PwTKjilj5aLnAclaGtrzK) | [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q), [Gecko's Garage](https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7) | [Gecko's Truck Songs for Children](https://open.spotify.com/album/3URrK6lBjPliA34LkQL1hH) | 2:00 | 2020-04-13 |  |
 | [Fiona Fire Truck](https://open.spotify.com/track/7AM0FxBwHdoH2trAhpqS5m) | [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q), [Gecko's Garage](https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7) | [Gecko's Garage Kids Stories Season 1](https://open.spotify.com/album/2QdXr1Zzig4LCMhnLE94t4) | 2:00 | 2020-04-13 | 2022-11-13 |
+| [Fire Truck](https://open.spotify.com/track/3SoJzVHAWLr08rQerBHB9H) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [Fire Truck](https://open.spotify.com/album/0duOJCEVDodd3JmPFW88sz) | 1:57 | 2024-04-05 |  |
 | [Firefighting Helicopter Song](https://open.spotify.com/track/51EEZhz3QjjOOsBNJRUuVn) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 4: Vehicles](https://open.spotify.com/album/27S5LgtyQbiX0EQFfhBFFl) | 2:21 | 2020-09-25 |  |
 | [Firefighting Helicopter Song](https://open.spotify.com/track/5a9JRYXw1QL2lqrwyIjkzR) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 4: Vehicles](https://open.spotify.com/album/1TbfXoVpPCMDp9PoBTm2an) | 2:21 | 2020-09-25 | 2022-07-29 |
 | [Five Big Dump Trucks](https://open.spotify.com/track/0fHRcfMMCSSMoKUW9BHmXp) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing In the Car](https://open.spotify.com/album/35WDq0szwSvGFQtJ6oOmLM) | 1:34 | 2019-10-29 |  |

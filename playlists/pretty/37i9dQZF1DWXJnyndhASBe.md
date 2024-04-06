@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Popkillery 2024 rozdane! Posłuchaj największych zwycięzców oraz najważniejszych rapowych kawałków w tej chwili\. Cover: bambi, Łona, Oki, Szpaku
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,699 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,058 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 59 | [Osobowości Dwie](https://open.spotify.com/track/3T49zcFvZaEgJK8bAOJwCb) | [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8) | [Osobowości Dwie](https://open.spotify.com/album/2SVlS4bupwamLaoeEig71t) | 2:00 |
 | 60 | [O WŁOS](https://open.spotify.com/track/4JdfdZZyqU24NRkPSZKm7t) | [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [O WŁOS](https://open.spotify.com/album/1DBndAsbCJjmhIP6aDy50z) | 2:27 |
 
-Snapshot ID: `MCw0ZTVmNDQzMzllMWQ3MDU0MTI1YzdjZjcyNGM0OWZjZmFjZTk4MDc3`
+Snapshot ID: `MCxhZDY2OTE3MDQ5OGZmZGY3ZjA5MmVmOTQ2OTc1M2YzYmU0NGMxNDAy`

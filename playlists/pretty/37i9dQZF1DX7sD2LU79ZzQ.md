@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Derai, Feby Putri
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,281 likes - 91 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,312 likes - 91 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 90 | [Take Me](https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 3:38 |
 | 91 | [Your Favorite Food](https://open.spotify.com/track/4yWaGVdcT6VhMyUY7kjV3d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Your Favorite Food](https://open.spotify.com/album/6XsHlUuJB9vrOVwflRFoOp) | 4:30 |
 
-Snapshot ID: `MCw2NzQzNjZhMGE3MzU5MmY2NDU4MTI4Mzg4ZjMwNTA1MmM2MDAyNTc3`
+Snapshot ID: `MCwxNjRiZmU1OTQ5YTQzNmVkYzZlNzRlNzM3YjA1MTk0ZTBkZTViM2Jh`

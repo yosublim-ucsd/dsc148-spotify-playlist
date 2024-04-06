@@ -1,12 +1,12 @@
 {
   "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=CEXFG5fgQZK_MEQ_CmLGvQ\"> Khaligraph Jones </a> ",
-  "num_followers": 12232,
+  "num_followers": 12244,
   "original_name": "254 Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjEzNmI3MTJkMzY1ZjQ0MjVjZjBiZDRhOWUyN2M0ZGIzNGM1Njk4",
+  "snapshot_id": "MCxjMGJjZTA1MzQ5ZWU3MDUxMzU3NjEwYWFiZTdiYjE4ZTkyNGZjOWEz",
   "tracks": [
     {
       "added_at": "2024-04-04 23:59:00",
@@ -107,6 +107,26 @@
       "duration_ms": 247693,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/6FkrTePPtL8kAC9lBsITK1"
+    },
+    {
+      "added_at": "2024-04-05 05:01:41",
+      "album": {
+        "name": "Kichwa Mbaya",
+        "url": "https://open.spotify.com/album/3WYQ2LyDVgXphaqeHeXOx0"
+      },
+      "artists": [
+        {
+          "name": "Masterpiece King",
+          "url": "https://open.spotify.com/artist/4JVrLMd2BhgXFwrNCOmHsF"
+        },
+        {
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        }
+      ],
+      "duration_ms": 245960,
+      "name": "Kichwa Mbaya",
+      "url": "https://open.spotify.com/track/3XaOCbF3QzjcZwpmXNNmcX"
     },
     {
       "added_at": "2024-04-04 23:59:00",
@@ -1091,22 +1111,6 @@
       "duration_ms": 267493,
       "name": "Minimal Pressure",
       "url": "https://open.spotify.com/track/0CPf4M3kS1dVAGkLgtXPwR"
-    },
-    {
-      "added_at": "2024-04-04 23:59:00",
-      "album": {
-        "name": "Well Known Bandit",
-        "url": "https://open.spotify.com/album/1E2vfyRJjMEawuf6TByJFa"
-      },
-      "artists": [
-        {
-          "name": "Alwyne Thuggerson",
-          "url": "https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm"
-        }
-      ],
-      "duration_ms": 178665,
-      "name": "Well Known Bandit",
-      "url": "https://open.spotify.com/track/0AU5alukDdk2Z8pWKPzTUV"
     },
     {
       "added_at": "2024-04-04 23:59:00",

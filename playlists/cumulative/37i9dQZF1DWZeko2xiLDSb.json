@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 239093,
       "name": "LOVE IN THE DARK",
       "url": "https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P"
@@ -2148,6 +2148,24 @@
       "duration_ms": 58929,
       "name": "Wish on an Eyelash",
       "url": "https://open.spotify.com/track/3vLByi1CdmNJPpTtOdKqAQ"
+    },
+    {
+      "album": {
+        "name": "Within You, Within Me (Stripped)",
+        "url": "https://open.spotify.com/album/5JCR9hamDOshLa7oyee0bn"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202020,
+      "name": "Within You, Within Me - Stripped",
+      "url": "https://open.spotify.com/track/2arVb84ogbOKUombRV6frA"
     },
     {
       "album": {

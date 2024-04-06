@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 56,705 likes - 186 songs - 8 hr 11 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 56,762 likes - 191 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,5 +194,10 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 184 | [Feels Like Paradise](https://open.spotify.com/track/1kUoZXVgTMT9TakkZY6DZf) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Madeline Megery](https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD) | [Feels Like Paradise](https://open.spotify.com/album/7JSKRM0cz2AQlv69KVsQQD) | 3:14 |
 | 185 | [Almost a Lover](https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [scanta rose](https://open.spotify.com/artist/4CkbkeeBv3D8E6p5o1aJiW) | [Almost a Lover](https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD) | 2:01 |
 | 186 | [I'll Be Alright](https://open.spotify.com/track/6kJPj0Z5a7XWsio8PXTbLY) | [Magnus Gunn](https://open.spotify.com/artist/4CgaDc9IaWz2tHRO8T8lgi) | [I'll Be Alright](https://open.spotify.com/album/621vQENf53N8IYGxFashcT) | 3:02 |
+| 187 | [Sway](https://open.spotify.com/track/5Pc8U1ZGppEX31TgRXwXPy) | [LoudNæss](https://open.spotify.com/artist/3oRaVv5ml3NIVotlPXVl9w) | [Sway](https://open.spotify.com/album/0Qew6K1WYpTg5v7Mysfzrd) | 2:45 |
+| 188 | [Next To You](https://open.spotify.com/track/3yOxr8Rx5pvvv8M8KO8xXU) | [Will Knight](https://open.spotify.com/artist/2J3OI67dfjkaijI0FB2Ysr) | [Next To You](https://open.spotify.com/album/1ydKseDSmqmQ2fT5sNwvER) | 2:18 |
+| 189 | [In My Dreams](https://open.spotify.com/track/5fcsXkwywOqIpQBDOlaLH2) | [ItsLee](https://open.spotify.com/artist/1dq0GAzGi7vIwvcREuVKiZ), [Patrick Aretz](https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6) | [In My Dreams](https://open.spotify.com/album/0CBgHoqep6A9LpledmXVAx) | 2:25 |
+| 190 | [Let It Go](https://open.spotify.com/track/5Q98t2O13BBRUYqPN5QH0N) | [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Let It Go](https://open.spotify.com/album/2DKLToEfVNOoGGkHqCjp5H) | 2:51 |
+| 191 | [Rise Up](https://open.spotify.com/track/5hcXsGwLkgTjvYQXU1oTjL) | [People on TV](https://open.spotify.com/artist/192bFdXnjY1fDgwCRKc12U) | [Rise Up](https://open.spotify.com/album/2BD51VSzmZEzHpdxMKtdwi) | 2:15 |
 
-Snapshot ID: `MTY0NTgsZTdjNjg0YjNiM2RkMGY4MGYwOWI5OGM0OWU0MmViMjE1OWNhODEwMg==`
+Snapshot ID: `MTY0NjMsMDBlMTNiMTNhMTZkZjBlMGQyMTg0ZmFhNzU3MTUxYWUxN2ZhZGU1OQ==`

@@ -717,6 +717,24 @@
     },
     {
       "album": {
+        "name": "Fire Truck",
+        "url": "https://open.spotify.com/album/0duOJCEVDodd3JmPFW88sz"
+      },
+      "artists": [
+        {
+          "name": "The Quokkas",
+          "url": "https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117120,
+      "name": "Fire Truck",
+      "url": "https://open.spotify.com/track/3SoJzVHAWLr08rQerBHB9H"
+    },
+    {
+      "album": {
         "name": "Blippi Tunes, Vol. 4: Vehicles",
         "url": "https://open.spotify.com/album/27S5LgtyQbiX0EQFfhBFFl"
       },

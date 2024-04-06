@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > The biggest Japanese rock hits right now\.  Cover: THE BAWDIES　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,574 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,631 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 26 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
 | 27 | [冬と春](https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [冬と春](https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN) | 4:16 |
 | 28 | [Kimi Ni Koi Shita Anohikara](https://open.spotify.com/track/3RtQYLZrGxj5SKoNqQxAIB) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Kimi Ni Koi Shita Anohikara](https://open.spotify.com/album/3UzNyoW0AMREybXEpVlCgw) | 4:31 |
-| 29 | [ソナタの暗闇](https://open.spotify.com/track/18rQoOco3JpMG5ALvI5KqE) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [ソナタの暗闇](https://open.spotify.com/album/5vuV6tPPzhv0JMJ7sEx87W) | 3:09 |
+| 29 | [Sonata's Darkness](https://open.spotify.com/track/0RXWUKoYwBSftAYgR0nKNC) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [Sonata's Darkness](https://open.spotify.com/album/6AVnMkwWRf4m7JQpraVhRW) | 3:09 |
 | 30 | [サイダー](https://open.spotify.com/track/1DXCe9HX5L4SjhhRQ8nmlZ) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [April](https://open.spotify.com/album/1nzN8sZwqOiMQPnxb2EAN3) | 5:03 |
 | 31 | [最高速度](https://open.spotify.com/track/22PDXKDnBNEejFZkWzETQE) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [最高速度](https://open.spotify.com/album/70HIn4TXNsSPybodDDMxqI) | 3:50 |
 | 32 | [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [まるで駄目な女子高生はバンドマンになった](https://open.spotify.com/track/34evbKY1tcjSoxZXFIX8wo) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [まるで駄目な女子高生はバンドマンになった](https://open.spotify.com/album/6YbQhkfJPRCWcoqQ7yphIX) | 4:29 |
 | 100 | [ファンファーレ](https://open.spotify.com/track/42IZvenX9kmevVWxjZLNwV) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [LUMINOUS](https://open.spotify.com/album/7aJkW9YMx2gzLTMQcEqeR0) | 3:48 |
 
-Snapshot ID: `MCw2OGQ1Y2QzZTZjMGE0OTYwNWVkODc0OTcxZjI3OWYxYTY1NDExMjZm`
+Snapshot ID: `MCw0M2U5NjFhNzE2ZDIyNjdjOTI5Y2UxMzMxMWFmZTg4YjgxM2M3ODll`

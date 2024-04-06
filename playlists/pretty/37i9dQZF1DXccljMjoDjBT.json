@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: Tina Turner",
-  "num_followers": 279118,
+  "num_followers": 279225,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTNkMTI4OTE1MWIzYzUxMzI3YzcxYjBiNDExMmNjMjUxOGVhNmY3",
+  "snapshot_id": "MCw3OTliZGFmOTYxYjc1YTgwNWMxMDY1MDY4NGEwMGQwZjY1NDdkMzc0",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Throwing It All Away",
-      "url": "https://open.spotify.com/track/6Tl40NMUnrFqhQssrW0TYB"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Once In a Lifetime",
         "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 264680,
       "name": "Once In a Lifetime",
       "url": "https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Throwing It All Away",
+      "url": "https://open.spotify.com/track/6Tl40NMUnrFqhQssrW0TYB"
     },
     {
       "added_at": "2023-03-30 14:38:10",

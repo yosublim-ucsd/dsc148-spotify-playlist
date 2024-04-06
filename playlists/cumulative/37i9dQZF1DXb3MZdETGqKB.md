@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Gary Clark Jr.
 
-275 songs - 16 hr 7 min
+277 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bitter Taste](https://open.spotify.com/track/0S88eFYO7gSJKxdwGHGKrs) | [Jordan Run](https://open.spotify.com/artist/77n5FV29Cq5bbukhovCofj) | [Bitter Taste](https://open.spotify.com/album/0BZOtVXIS9jshHxwLXVJhS) | 3:06 | 2021-05-14 | 2022-05-07 |
 | [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 | 2022-01-07 | 2023-08-19 |
 | [Black Myself \- Moby Remix](https://open.spotify.com/track/2lqhbXBX8XZujQLHZBHd3b) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Black Myself \(Moby Remix\)](https://open.spotify.com/album/2oGUlPd9ApyNUoMbJReSBR) | 3:40 | 2021-09-10 | 2023-02-14 |
+| [Black Widow](https://open.spotify.com/track/12NlxknhSHjbb1ojZ7oNTe) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Black Widow](https://open.spotify.com/album/5sQZFdNz2FIH5ASU2AZAEw) | 5:14 | 2024-04-05 |  |
 | [Blood Red River](https://open.spotify.com/track/616pu8ULCu4L2FTMXUxi6S) | [Rī Wolf](https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n), [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [Blood Red River](https://open.spotify.com/album/3RanJ97dq8CzpeJ2rIvlWz) | 3:54 | 2022-01-14 | 2023-08-19 |
 | [Blues Funky Like Dat](https://open.spotify.com/track/6ZRUSMo4fKCk7bLKhE31lJ) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 3:25 | 2023-03-24 |  |
 | [Boom Boom](https://open.spotify.com/track/1tRztGP1nj2Vdn3wGaRtkq) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Jon](https://open.spotify.com/artist/2QJKrWBci7NRXIFDe1zo6p), [Bri Bryant](https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR) | [Boom Boom](https://open.spotify.com/album/1u48epo8DIoUdTxL5EfE3B) | 2:52 | 2021-02-05 | 2022-03-26 |
@@ -79,7 +80,7 @@
 | [Find Somebody New](https://open.spotify.com/track/29PfxQh5YAZ0d1dT4ufRxY) | [Jason Weaver](https://open.spotify.com/artist/6n0cnqQD5b9L0dpqQ3wOOq) | [Find Somebody New](https://open.spotify.com/album/7yia02IejFb97Uv85hLddH) | 2:50 | 2022-09-02 |  |
 | [Fire with Fire](https://open.spotify.com/track/31u0ZyzyYRKM4Efocv3EvH) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Fire with Fire](https://open.spotify.com/album/0gq8osOs3xs4bvQ57rw1sr) | 2:57 | 2022-05-20 | 2022-07-02 |
 | [First Time Blues](https://open.spotify.com/track/0BA9QD9iMfPVlfsgRAvMna) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [First Time Blues](https://open.spotify.com/album/3xc1iFmzlD2aadxs5gBG4l) | 3:47 | 2024-02-23 |  |
-| [Flame](https://open.spotify.com/track/1rVioJqDKEf1ZQHOu4IepF) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Flame](https://open.spotify.com/album/5tDWharfBCeJX2ncXwdMKJ) | 3:47 | 2024-01-26 |  |
+| [Flame](https://open.spotify.com/track/1rVioJqDKEf1ZQHOu4IepF) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Flame](https://open.spotify.com/album/5tDWharfBCeJX2ncXwdMKJ) | 3:47 | 2024-01-26 | 2024-04-06 |
 | [FLorida Man](https://open.spotify.com/track/2oN86MTxnHp1ST30tDL4h0) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [FLorida Man](https://open.spotify.com/album/4CsAr4hOUgzB4IOKtnbJxn) | 3:39 | 2023-05-12 |  |
 | [Flying \#evolution](https://open.spotify.com/track/6TeYhYbvXXVarx5XXD4l1G) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Evolution of Joy](https://open.spotify.com/album/3ZbnbSZwJooq41MPNH3iEC) | 4:17 | 2023-01-27 |  |
 | [Follow Me](https://open.spotify.com/track/0sgSnT7ltGmbtDk6oYCORs) | [Jessarae](https://open.spotify.com/artist/6g09G6rt0abMMLVp4xyKx6) | [Follow Me](https://open.spotify.com/album/1PGDSkZS0LldDjD74gj96M) | 3:54 | 2021-04-09 | 2022-05-07 |
@@ -212,11 +213,12 @@
 | [Stay away from me](https://open.spotify.com/track/16JoACcI9bpk65WeZdJaU9) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/1RfLFbc81I36sfI4KI0fy2) | 2:42 | 2022-04-08 | 2023-10-08 |
 | [Stay away from me](https://open.spotify.com/track/77iBCaVqdOSmXtHk5OcwUg) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/443tvXMsfPqlt82b5VmyzT) | 2:42 | 2022-04-08 | 2023-08-21 |
 | [Stay away from me](https://open.spotify.com/track/7EaZMdAtVy23yoa8HELJgF) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/2B1YbPhjd2tp1KAcwM26Ra) | 2:42 | 2022-04-08 | 2022-08-05 |
-| [Stay away from me](https://open.spotify.com/track/4FOGtKxxRYSPXDc9zqtmuI) | [Xerts](https://open.spotify.com/artist/0o6Qu4jP243MCBTMyODXOQ) | [Stay away from me](https://open.spotify.com/album/6F1sfezZ5OV9EXIvYaDj74) | 2:42 | 2022-04-08 |  |
+| [Stay away from me](https://open.spotify.com/track/4FOGtKxxRYSPXDc9zqtmuI) | [Xerts](https://open.spotify.com/artist/0o6Qu4jP243MCBTMyODXOQ) | [Stay away from me](https://open.spotify.com/album/6F1sfezZ5OV9EXIvYaDj74) | 2:42 | 2022-04-08 | 2024-04-06 |
 | [Stealing A Kiss](https://open.spotify.com/track/5kdZiJ0KIPEyQ42xLj61Gt) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stealing A Kiss](https://open.spotify.com/album/5i9nk8WvKRe0d78UaCba9u) | 4:55 | 2024-03-22 |  |
 | [Storms from My Eyes](https://open.spotify.com/track/5ZWk8lQd6PHrJUCEQJkFGj) | [Angelique Francis](https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene) | [Long River](https://open.spotify.com/album/5i3kWvr8Yj4iETRXlrQNVN) | 4:54 | 2022-03-11 | 2024-02-03 |
 | [Strike Gold](https://open.spotify.com/track/3g3vayoe4Y10leAHdrvTnM) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Strike Gold](https://open.spotify.com/album/5M6sqKBlKeBTACwzWexteZ) | 3:20 | 2022-10-07 | 2022-11-14 |
 | [Strike Gold](https://open.spotify.com/track/4vuqP2NPI5QaxvBJll1kCO) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:20 | 2022-10-07 |  |
+| [Sugar](https://open.spotify.com/track/0iDxRzwE0EeV24jWkxg2Kx) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Sugar](https://open.spotify.com/album/6BvARv37XBzBaZB848IREa) | 3:00 | 2024-04-05 |  |
 | [Sugar Man](https://open.spotify.com/track/0fxPI5BMCQYo0nPV7ysef4) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Sugar Man](https://open.spotify.com/album/2EzBNH4CaSRJRL8fUjovip) | 3:29 | 2023-12-01 |  |
 | [Sundress Season](https://open.spotify.com/track/2UCJ0tbxu54jEgU48YmAff) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Sundress Season](https://open.spotify.com/album/1mNHEGbZUdWu89QMma3bym) | 2:38 | 2023-05-05 |  |
 | [Sunlight Lover \(Moonshine Lover\)](https://open.spotify.com/track/55xFE3JPlWpKoqRGg9j4L0) | [Soldier Story](https://open.spotify.com/artist/6xUcGgLH1IwXKSoYe2EMr0) | [Sunlight Lover \(Moonshine Lover\)](https://open.spotify.com/album/20qgm11dR7wDnfauXFeuMx) | 2:13 | 2022-09-02 |  |

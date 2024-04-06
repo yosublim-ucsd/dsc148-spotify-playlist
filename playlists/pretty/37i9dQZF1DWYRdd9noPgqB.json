@@ -1,12 +1,12 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 285303,
+  "num_followers": 285307,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjZlNjdhNTI5NGU5NjMzNjE2NzZjODdkNDk5YTY4ZTQyZTg0N2M3",
+  "snapshot_id": "MCxiY2Q4NjBiY2Q3ODg3MGNjMmZmNmJiNTdjYWE5YzUxOTQ5NGEyYTgw",
   "tracks": [
     {
       "added_at": "2024-03-29 18:16:17",
@@ -134,6 +134,10 @@
         {
           "name": "Kazy Lambist",
           "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        },
+        {
+          "name": "Glasses",
+          "url": "https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g"
         }
       ],
       "duration_ms": 199773,

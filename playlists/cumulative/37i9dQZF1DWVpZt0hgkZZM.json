@@ -739,6 +739,28 @@
     },
     {
       "album": {
+        "name": "Fruko el Bueno \"ayunando\"",
+        "url": "https://open.spotify.com/album/02D7tAZfwwecg2kx5m66jW"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243693,
+      "name": "El Ausente",
+      "url": "https://open.spotify.com/track/2bmlo7ze2SmrVooKmSYbDm"
+    },
+    {
+      "album": {
         "name": "The Reventon: 30 Pegaditas",
         "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
       },
@@ -1046,7 +1068,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 233038,
       "name": "Entre Rejas",
       "url": "https://open.spotify.com/track/1jBGM9PNMIZCe46WQ3i4ZB"
@@ -1532,7 +1554,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 286173,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf"
@@ -1550,7 +1572,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 286466,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
@@ -1735,6 +1757,24 @@
     },
     {
       "album": {
+        "name": "Colecci\u00f3n De Oro",
+        "url": "https://open.spotify.com/album/6KSLiEl48G935lj6cW4NJ0"
+      },
+      "artists": [
+        {
+          "name": "Pecos Kanvas",
+          "url": "https://open.spotify.com/artist/2pg6yxVpoNN8yJSKHUgRw8"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256920,
+      "name": "Mar Y Luna",
+      "url": "https://open.spotify.com/track/49Es10LfY1GL6sCw2BrMah"
+    },
+    {
+      "album": {
         "name": "Mar y Luna",
         "url": "https://open.spotify.com/album/1YZPTBbRDZKhSlLbXjbjhp"
       },
@@ -1746,7 +1786,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 260466,
       "name": "Mar y Luna",
       "url": "https://open.spotify.com/track/004uWjBm1cOgxJAwQb6X8P"
@@ -1938,7 +1978,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 193221,
       "name": "MORENA",
       "url": "https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd"
@@ -2014,7 +2054,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 249685,
       "name": "Muri\u00f3 el Amor",
       "url": "https://open.spotify.com/track/3IBHk98QXBCC7Zv8mbOD4G"

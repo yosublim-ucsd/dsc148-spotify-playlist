@@ -4,7 +4,7 @@
 
 > Have the loveliest little day.
 
-425 songs - 1 day 1 hr 44 min
+426 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Once Around The Block](https://open.spotify.com/track/3FGxCAbXTpPqvnXrsj7s6W) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [Once Around The Block](https://open.spotify.com/album/0rmU6WApCmV0jssBwoNi4h) | 4:04 | 2022-03-19 | 2022-04-14 |
 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 | 2022-06-22 |  |
 | [Once Twice Melody](https://open.spotify.com/track/44RsKGDmlPsKp7On9eTV1R) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/2LZd8GonmbwBvs9YI7NPsc) | 4:44 | 2021-11-12 | 2022-07-29 |
-| [One Year Stand](https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 2:35 | 2023-02-03 |  |
+| [One Year Stand](https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 2:35 | 2023-02-03 | 2024-04-06 |
 | [Only The Strong](https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:20 | 2021-11-12 | 2022-11-13 |
 | [Opaque](https://open.spotify.com/track/0dNm9rS8VMlP1ZhnGPAEuh) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [Opaque](https://open.spotify.com/album/54QKs6GR3fhmcabY3i4oHW) | 3:36 | 2022-03-19 | 2022-06-23 |
 | [Orange Yellow Orange](https://open.spotify.com/track/17jfYLXe142NlABSFWJpl3) | [Nancy](https://open.spotify.com/artist/6HN4w8eC0IVDYprG41CKh9), [The Mysterious Visions](https://open.spotify.com/artist/6rw8GQErqnz03nkFJsSmPp) | [Orange Yellow Orange](https://open.spotify.com/album/3YroNnL5MKTJukgtVuyAaV) | 3:20 | 2021-11-12 | 2022-07-24 |
@@ -292,6 +292,7 @@
 | [Picture of You](https://open.spotify.com/track/2vdI1NcClTNqaH1E8mEvgn) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Picture of You](https://open.spotify.com/album/396mqjz4yrShxMmGdT12S6) | 4:03 | 2021-11-12 | 2022-07-20 |
 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 | 2021-11-12 | 2022-06-20 |
 | [pink dress](https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [pink dress](https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s) | 2:53 | 2024-02-21 | 2024-03-25 |
+| [pink dress](https://open.spotify.com/track/4UYMPoAzPFMkWUYa5t5Fpb) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 2:53 | 2024-02-21 |  |
 | [Pink Pools](https://open.spotify.com/track/2RR5kSUsSzde2ybCa2VOhP) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Pink Pools](https://open.spotify.com/album/3hwL7txBctOFSiWmIaOofH) | 3:18 | 2021-11-12 | 2022-07-27 |
 | [Plumes](https://open.spotify.com/track/6VowD9ukL0ia22ivY2MvTH) | [Ed Nash](https://open.spotify.com/artist/4XQbatF1exGRw7gdiYMhsH) | [Plumes](https://open.spotify.com/album/6tSCtGGfSThaE7xz82XDvC) | 3:11 | 2022-03-19 | 2022-05-09 |
 | [Pretty Pimpin](https://open.spotify.com/track/3l9eg9RtisizG12a1D6nZl) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/2uRTsStAmo7Z2UwCIvuwMv) | 4:58 | 2022-03-19 | 2022-04-15 |

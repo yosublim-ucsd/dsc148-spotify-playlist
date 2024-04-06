@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 222629,
+  "num_followers": 222742,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMThmNmRlMzY2MGIxOWQ4OTc0YTY4N2M3MzYyMmJiZDZkNWVhYzc2",
+  "snapshot_id": "MCw2ZDdiNjQ3NmYwNTdiZWYwNDVkNjUxNjZkMGJmYzRhMmE0ZmQwNmVi",
   "tracks": [
     {
       "added_at": "2023-07-18 20:06:10",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71"
+        "name": "morrigan",
+        "url": "https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3"
       },
       "artists": [
         {
-          "name": "Drive45",
-          "url": "https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB"
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
         }
       ],
-      "duration_ms": 175624,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx"
+      "duration_ms": 142839,
+      "name": "morrigan",
+      "url": "https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1"
     }
   ],
   "unique_name": "webcore",

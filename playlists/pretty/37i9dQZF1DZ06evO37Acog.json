@@ -1,29 +1,13 @@
 {
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 74614,
+  "num_followers": 74629,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDhhNjE2NDRhNzI0NTk4YjE2MDZkYTJlMjU1MTQ5Yzg0NDZiYjg2",
+  "snapshot_id": "MCxiNzI2YzM5ODQzNmFjODkzM2NkMmRiZDBkMjVjMWY1MWVlNTc5MjRk",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Ret\u00e9n",
-        "url": "https://open.spotify.com/album/6POuZHyrJbMslvhuFwprTF"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 220501,
-      "name": "El Ret\u00e9n",
-      "url": "https://open.spotify.com/track/1YWy4nUHysy7EhTbldcMmH"
-    },
     {
       "added_at": null,
       "album": {
@@ -219,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Y Tragedias De La Frontera",
-        "url": "https://open.spotify.com/album/2jBFdIcdBMztm4pXMrsIxM"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 221719,
-      "name": "Corrido de Macario Leyva",
-      "url": "https://open.spotify.com/track/1wWkXyBQGnmAua5LKPXWv3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MI PIQUITO DE ORO (Grabaci\u00f3n Original Remasterizada)",
         "url": "https://open.spotify.com/album/5K7VhZJ9ZgC97mkNxuiLCr"
       },
@@ -247,6 +215,22 @@
       "duration_ms": 128773,
       "name": "Mi Piquito De Oro",
       "url": "https://open.spotify.com/track/3GhDnfO7J3zLTswYYrQFnP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Y Tragedias De La Frontera",
+        "url": "https://open.spotify.com/album/2jBFdIcdBMztm4pXMrsIxM"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 221719,
+      "name": "Corrido de Macario Leyva",
+      "url": "https://open.spotify.com/track/1wWkXyBQGnmAua5LKPXWv3"
     },
     {
       "added_at": null,
@@ -315,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos Pesados De La Cantina",
-        "url": "https://open.spotify.com/album/6e5tTNCr3N7p2gjyyN2Kwo"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 203689,
-      "name": "Recu\u00e9rdame Y Ven A M\u00ed",
-      "url": "https://open.spotify.com/track/1P75JJKulGQaF4Xeeab8oa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo...El Hombre Y Su Musica",
         "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
       },
@@ -343,6 +311,22 @@
       "duration_ms": 230200,
       "name": "La Vecina Me Puso El Dedo - (En Vivo)",
       "url": "https://open.spotify.com/track/48WxZIQmHcE8spvOV78bih"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos Pesados De La Cantina",
+        "url": "https://open.spotify.com/album/6e5tTNCr3N7p2gjyyN2Kwo"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 203689,
+      "name": "Recu\u00e9rdame Y Ven A M\u00ed",
+      "url": "https://open.spotify.com/track/1P75JJKulGQaF4Xeeab8oa"
     },
     {
       "added_at": null,
@@ -363,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Ret\u00e9n",
+        "url": "https://open.spotify.com/album/6POuZHyrJbMslvhuFwprTF"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 220501,
+      "name": "El Ret\u00e9n",
+      "url": "https://open.spotify.com/track/1YWy4nUHysy7EhTbldcMmH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "40 \u00c9xitos",
         "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pu\u00f1o De Tierra",
-        "url": "https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Pu\u00f1o De Tierra Aka Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo...El Hombre Y Su Musica",
         "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 218306,
       "name": "Qu\u00e9 Casualidad - En Vivo",
       "url": "https://open.spotify.com/track/6lZCAX3knOgcY1Qul2wHJu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pu\u00f1o De Tierra",
+        "url": "https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "Pu\u00f1o De Tierra Aka Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(DE LA PELICULA) DINASTIA DE LA MUERTE (Grabaci\u00f3n Original Remasterizada)",
-        "url": "https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 156079,
-      "name": "Gerardo Gonzalez",
-      "url": "https://open.spotify.com/track/2aipeBHbFwBtPNDyOVxpta"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES",
         "url": "https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 167133,
       "name": "Te Traigo Estas Flores A Dueto Con Freddie Martinez",
       "url": "https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(DE LA PELICULA) DINASTIA DE LA MUERTE (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 156079,
+      "name": "Gerardo Gonzalez",
+      "url": "https://open.spotify.com/track/2aipeBHbFwBtPNDyOVxpta"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
       "duration_ms": 235706,
       "name": "M\u00e1ndame A La Tumba",
       "url": "https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Mejor De Los Rel\u00e1mpagos Con",
-        "url": "https://open.spotify.com/album/5Alc676cqJGN5rqCWY4tl1"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 146920,
-      "name": "El Disgusto",
-      "url": "https://open.spotify.com/track/6vFceYiO9H6rsW5pLKF3Tv"
     }
   ],
   "unique_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",

@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=CEXFG5fgQZK\_MEQ\_CmLGvQ"> Khaligraph Jones </a>
 
-215 songs - 11 hr 5 min
+216 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Jomo](https://open.spotify.com/track/4yJfiuzjUkkoIKDhdg1cEf) | [LOOORD PIRATES](https://open.spotify.com/artist/3DanNVxKjCuw8TFxqyS8SV), [ANARCHY](https://open.spotify.com/artist/6RMxR7pd9gScWLqbbTHYrn) | [Jomo](https://open.spotify.com/album/1VrDqJJSVQVy6IWZn84eq7) | 4:13 | 2024-01-26 |  |
 | [Judgment Day](https://open.spotify.com/track/7M358bpZKqYEf2kkvvo7n7) | [Alwyne Thuggerson](https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm) | [Judgment Day](https://open.spotify.com/album/5kvLli7isTzsrWG5hNac8O) | 1:46 | 2023-10-11 | 2023-12-01 |
 | [Kalesa na Leather](https://open.spotify.com/track/0YETEpBObtWQAAlrEBL5VK) | [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl) | [Kalesa na Leather](https://open.spotify.com/album/2BmdCBVfeopAna7jznaQOM) | 2:42 | 2022-06-02 | 2023-04-14 |
+| [Kichwa Mbaya](https://open.spotify.com/track/3XaOCbF3QzjcZwpmXNNmcX) | [Masterpiece King](https://open.spotify.com/artist/4JVrLMd2BhgXFwrNCOmHsF), [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Kichwa Mbaya](https://open.spotify.com/album/3WYQ2LyDVgXphaqeHeXOx0) | 4:05 | 2024-04-05 |  |
 | [KILIPESA](https://open.spotify.com/track/00A3bHHQCJv00B8rRItbkh) | [Juicee Mann](https://open.spotify.com/artist/6pAujzqyffMZaJT2YG7RvQ), [CKO](https://open.spotify.com/artist/5hHYpYq45vccZHhSElKvXO), [Nare](https://open.spotify.com/artist/5kFiVU6yw6OkpKHuJmG8UX) | [KILIPESA](https://open.spotify.com/album/26Y0kUKYndeY7UNxq5tZXl) | 2:40 | 2022-06-02 | 2022-10-14 |
 | [Kuja](https://open.spotify.com/track/5gI9yDOEUJCFvm6KNBihBR) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [SKYE THE PRESENCE](https://open.spotify.com/artist/0AzAKlN81Ot7DFCBZyyOzq) | [KUJA](https://open.spotify.com/album/4FMdqZSXmhYDDYYyODXtqJ) | 2:18 | 2024-02-22 |  |
 | [Kuwa Strong](https://open.spotify.com/track/0QM3gpqToq417bchLwu85C) | [Kahu$h](https://open.spotify.com/artist/5XRsIBzy6ampDaZvPzRxxr) | [Kuwa Strong](https://open.spotify.com/album/2QpOPczp4woACSct0s87Gv) | 2:58 | 2024-01-26 |  |
@@ -216,7 +217,7 @@
 | [Wasp](https://open.spotify.com/track/0u5448uqc3COjMjBdKQ7A0) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs \(Deluxe\)](https://open.spotify.com/album/0YLs1izGnml8piMRUGJhN7) | 3:22 | 2023-06-08 | 2023-11-24 |
 | [Wasp](https://open.spotify.com/track/76TeUkPnBIKQuj3aNgSvNn) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs](https://open.spotify.com/album/5jSHZN2vS2gvYySlQfUQBD) | 3:22 | 2022-07-07 | 2022-11-14 |
 | [Wasp](https://open.spotify.com/track/79hqcl7Dniw9I7WXxXMnCr) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 3:22 | 2022-07-07 | 2023-06-12 |
-| [Well Known Bandit](https://open.spotify.com/track/0AU5alukDdk2Z8pWKPzTUV) | [Alwyne Thuggerson](https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm) | [Well Known Bandit](https://open.spotify.com/album/1E2vfyRJjMEawuf6TByJFa) | 2:58 | 2023-10-26 |  |
+| [Well Known Bandit](https://open.spotify.com/track/0AU5alukDdk2Z8pWKPzTUV) | [Alwyne Thuggerson](https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm) | [Well Known Bandit](https://open.spotify.com/album/1E2vfyRJjMEawuf6TByJFa) | 2:58 | 2023-10-26 | 2024-04-06 |
 | [What's Up???](https://open.spotify.com/track/47KGlT9pxHVpgvgNIXKmLT) | [Jasper](https://open.spotify.com/artist/34zcIBHO9EgymeaaOioUic) | [What's Up???](https://open.spotify.com/album/5pjoAWI1XGg7W54fEOM1N1) | 2:35 | 2024-04-04 |  |
 | [Who Else Would It Be](https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Who Else Would It Be](https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm) | 1:31 | 2022-11-10 | 2023-06-03 |
 | [WHO?](https://open.spotify.com/track/4qgRm4l0ns4cClQyIsOJ1c) | [R.I.Z.E](https://open.spotify.com/artist/4eW4BZAP0bK32vgLIe1IqO), [Amaz](https://open.spotify.com/artist/3wtVJS5a0IunELhRRHubXr) | [WHO?](https://open.spotify.com/album/1utTBCnNVBfUea8ZpP99NZ) | 3:30 | 2022-06-23 | 2023-04-14 |

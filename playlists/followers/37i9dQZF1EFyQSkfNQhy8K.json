@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 3690,
+  "2024-04-06": 3690,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm\">ELENA ROSE</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By ELENA ROSE",
@@ -2191,6 +2191,24 @@
       "duration_ms": 265280,
       "name": "Otro D\u00eda Lluvioso (with Lenny Tavarez & Becky G feat. Dalex)",
       "url": "https://open.spotify.com/track/1TwSySLk24VxFyly1iqW9h"
+    },
+    {
+      "album": {
+        "name": "pa",
+        "url": "https://open.spotify.com/album/4bjgFGmRrC04tRlwz5i6op"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190649,
+      "name": "pa",
+      "url": "https://open.spotify.com/track/28ZVFl4CQhyRmBFpJXOpUY"
     },
     {
       "album": {

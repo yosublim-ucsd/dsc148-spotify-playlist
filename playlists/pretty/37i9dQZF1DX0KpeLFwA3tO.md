@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Four Year Strong
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,498 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,587 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [No News Is Good News](https://open.spotify.com/track/6cZntUHzJ0shH0wq7mEKUg) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [No News Is Good News](https://open.spotify.com/album/7sLi0samb6YmLrHzVa94Ei) | 3:29 |
 | 100 | [Wither](https://open.spotify.com/track/7i4bIhuiGfWxWVzKcAlQyb) | [Grumpster](https://open.spotify.com/artist/6aUzts6HmxY9CVr6U5hILq) | [Wither](https://open.spotify.com/album/7rT684tXzAmX1Qacyg2iLg) | 2:38 |
 
-Snapshot ID: `MCw1YTA2YTdhOGI2MDBkM2NmZjRkNWI0MzQwZjkzMWJhZjZiOWUxNGM5`
+Snapshot ID: `MCxiYjMzYzQ1ZTdmY2RkZTRlNDI4M2Y2MTUyN2IyMDNlZmFjM2ZlY2Y0`

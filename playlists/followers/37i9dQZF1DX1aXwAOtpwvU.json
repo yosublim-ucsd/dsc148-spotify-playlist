@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 17696,
+  "2024-04-06": 17706,
   "date_first_scraped": "2022-09-17",
-  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover: <a href=\"spotify:artist:3VKQYnCpM6ofG8QUmlnW6d\">Zalia</a>",
+  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover: <a href=\"spotify:artist:5RwiBwEEW5dOXGUlEVA0LT\">stickxr</a>",
   "name": "RADAR Polska",
   "tracks": [
     {
@@ -1859,7 +1859,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 106515,
       "name": "Poker",
       "url": "https://open.spotify.com/track/6B9KKY7xNGeyO1KV69wKMA"
@@ -2409,6 +2409,32 @@
       "duration_ms": 183716,
       "name": "TO JEST LOVEEE",
       "url": "https://open.spotify.com/track/44zqk0oN098y0hUTfwlyoR"
+    },
+    {
+      "album": {
+        "name": "Uczucia",
+        "url": "https://open.spotify.com/album/5OXM3lcdxWN406CT9FZEan"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        },
+        {
+          "name": "ERRBITS",
+          "url": "https://open.spotify.com/artist/3R4lfbnS9kvMe9VB99VgDL"
+        },
+        {
+          "name": "Kacezet",
+          "url": "https://open.spotify.com/artist/0UtonDPYQQEx6BFqVQfw4u"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Uczucia",
+      "url": "https://open.spotify.com/track/1ay25zXov7yoR2D8ZAjxKZ"
     },
     {
       "album": {

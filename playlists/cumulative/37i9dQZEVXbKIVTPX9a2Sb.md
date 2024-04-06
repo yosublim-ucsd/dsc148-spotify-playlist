@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-1,696 songs - 3 day 16 hr 16 min
+1,697 songs - 3 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-03-25 | 2023-03-29 |
 | [Eyes Closed](https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:14 | 2023-05-06 | 2023-05-08 |
 | [Eyes Closed](https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 | 2023-03-28 | 2023-04-02 |
+| [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-04-05 |  |
 | [Ešte jednu](https://open.spotify.com/track/2VGhrF42Eu0yTZgIkNZPe5) | [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI), [Nia](https://open.spotify.com/artist/4Z1CxJhs6F9RGY84vEHpeJ) | [Bengoro II](https://open.spotify.com/album/77ay6hjwXyrxwnmuvM0RKJ) | 4:01 | 2023-12-16 | 2023-12-18 |
 | [Fae](https://open.spotify.com/track/2YI9kRNofNgk10329xfWhV) | [Kiddly Puff](https://open.spotify.com/artist/3ESkqEj80684oHA5B0VGDN) | [Mozzaretta](https://open.spotify.com/album/7DkndBZWpKAcxYSwbHfZJE) | 1:06 | 2021-11-08 | 2021-11-10 |
 | [Fair Play](https://open.spotify.com/track/4WCbcrJgQk8zfKZhkGyzzX) | [Miro Žbirka](https://open.spotify.com/artist/38vf1Wys8uNYdbZQwtGpmr) | [Miro](https://open.spotify.com/album/4LuleaCdCGO47wTvdXlldq) | 3:13 | 2021-11-13 | 2021-11-14 |
@@ -762,7 +763,7 @@
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2021-11-28 | 2023-12-30 |
 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 | 2021-11-30 | 2023-12-27 |
 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 | 2021-10-17 | 2021-10-18 |
-| [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2024-01-06 |  |
+| [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2024-01-06 | 2024-04-06 |
 | [LETO FREESTYLE](https://open.spotify.com/track/3xTCRQPWgKBT1imY1oUGKF) | [Zayo](https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q) | [WASSUP](https://open.spotify.com/album/4mbHfqJ2ke7QiEV1e8Xkty) | 2:52 | 2021-05-23 | 2021-05-24 |
 | [LETS GO](https://open.spotify.com/track/4sP7OEtk9AbrnF2JUA8JYZ) | [Zayo](https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [PARTY WEEK](https://open.spotify.com/album/6Si6nukH7gBjtMXi8CzacP) | 2:39 | 2022-12-17 | 2022-12-19 |
 | [LETSGOOO !!!](https://open.spotify.com/track/6bsIDxTL0gzu6khV2PlKkA) | [Shimmi](https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck) | [YO](https://open.spotify.com/album/7wXd6hDP4E0Jx3wZxigayH) | 2:33 | 2022-06-11 | 2022-06-13 |

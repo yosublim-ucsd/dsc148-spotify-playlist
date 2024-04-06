@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: TINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,118 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,260 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [Emocionalmente Tuya](https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Emocionalmente Tuya](https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni) | 4:10 |
 | 100 | [FANATICO](https://open.spotify.com/track/65dfIYrwiZFtmgT1ATP970) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [FANATICO](https://open.spotify.com/album/5rl2oR6sW3aYDc5hdCWlqm) | 2:59 |
 
-Snapshot ID: `MCw0MTlmOGVkOTJjMDg1MjU1MmRiY2JiZjBmNzkwMmU4MDJmNGY0MDZk`
+Snapshot ID: `MCw4OGVjNTQwZTI0ZWNjNjIyODhmNzAxYzA5MTBiYjE4NmU4ZGU1YTg2`

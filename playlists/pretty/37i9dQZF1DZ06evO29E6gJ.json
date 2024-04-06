@@ -1,12 +1,12 @@
 {
   "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
-  "num_followers": 11160,
+  "num_followers": 11168,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODRhOTM5NDA3YWUyN2NiNDZjMGNmZTljZGIxYTAxOWYyNTU1ZTY0",
+  "snapshot_id": "MCw4M2U1OGYzOWE5MTQ2MzYzZWZkYWM5YzhkMWFiYzdmMTA4NmJjYThj",
   "tracks": [
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/76Wi64t9RIQEkhnCUSD1tn"
         }
       ],
-      "duration_ms": 167800,
-      "name": "La Mosca",
-      "url": "https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa"
+      "duration_ms": 170266,
+      "name": "La Martina",
+      "url": "https://open.spotify.com/track/2h7YyAPzP2MGveT4XxbO9w"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/76Wi64t9RIQEkhnCUSD1tn"
         }
       ],
-      "duration_ms": 170266,
-      "name": "La Martina",
-      "url": "https://open.spotify.com/track/2h7YyAPzP2MGveT4XxbO9w"
+      "duration_ms": 167800,
+      "name": "La Mosca",
+      "url": "https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte\u00f1as de Oro",
-        "url": "https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "Nocturno a Rosario",
-      "url": "https://open.spotify.com/track/5P9KFF9UpaPmA49QJO7huL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
         "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 245000,
       "name": "La Tumba de Villa",
       "url": "https://open.spotify.com/track/5HitQXXbYmjUZwQraMjV1n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norte\u00f1as de Oro",
+        "url": "https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "Nocturno a Rosario",
+      "url": "https://open.spotify.com/track/5P9KFF9UpaPmA49QJO7huL"
     },
     {
       "added_at": null,

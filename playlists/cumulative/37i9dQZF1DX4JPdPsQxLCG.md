@@ -4,7 +4,7 @@
 
 > Classic tunes for the open road.
 
-364 songs - 23 hr 54 min
+366 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Honky Cat](https://open.spotify.com/track/1plcM0XlbKdjND7Ufokuzb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:13 | 2022-09-10 | 2022-09-15 |
 | [Hot Girls In Love](https://open.spotify.com/track/1pB5Y2BPLez1J49KKKewUE) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [KEEP IT UP](https://open.spotify.com/album/5n81anOT1X7UnSHtq4PL2i) | 3:59 | 2022-05-02 | 2022-11-13 |
 | [I Am A Wild Party \- Live](https://open.spotify.com/track/7wXgWUpMhPyUEBR8heuwxb) | [Kim Mitchell](https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma) | [I Am A Wild Party \(Live\)](https://open.spotify.com/album/5AJqtKejk5hkMOoWS5lqz1) | 4:25 | 2022-05-02 | 2022-07-29 |
-| [I Don't Know \- EP Version](https://open.spotify.com/track/4A4DPAyhXSTzehnBstdAnt) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Five Easy Pieces](https://open.spotify.com/album/7nTSvte842Pv7j5x5pyyqr) | 3:10 | 2023-05-18 |  |
+| [I Don't Know \- EP Version](https://open.spotify.com/track/4A4DPAyhXSTzehnBstdAnt) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Five Easy Pieces](https://open.spotify.com/album/7nTSvte842Pv7j5x5pyyqr) | 3:10 | 2023-05-18 | 2024-04-06 |
 | [I Go Blind](https://open.spotify.com/track/4kCkM03LZT86vCOdoTlFe5) | [54\-40](https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N) | [54.40](https://open.spotify.com/album/3VGp455Jdig99Vojxy2H5H) | 2:46 | 2022-05-02 | 2022-07-29 |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2022-09-10 | 2022-09-15 |
 | [I Hear You Calling](https://open.spotify.com/track/1MQEUAGuWlnZGrpXmCqJDU) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [The World According To Gob](https://open.spotify.com/album/4HCYs4L0UB5I60TpQ6hZ0i) | 3:11 | 2022-05-02 | 2022-07-28 |
@@ -210,7 +210,7 @@
 | [Northern Lights](https://open.spotify.com/track/3U1Asd3xoWUejF66hHHgCP) | [The Jerry Cans](https://open.spotify.com/artist/2KRbj0uDbY56wTORJiY229) | [Inuusiq](https://open.spotify.com/album/5ujNr7kKTye0IfxiDlVIHG) | 3:34 | 2022-09-10 | 2022-09-15 |
 | [Northern Touch \(feat\. Kardinal Offishall, Thrust, Choclair & Checkmate\)](https://open.spotify.com/track/4IfK0yQdVsWVoQO44DedEG) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Thrust](https://open.spotify.com/artist/38tN2aiWTtY8lhwXPKbIYk), [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS), [Checkmate](https://open.spotify.com/artist/6nfguy4Wxd0sQ8Bq7O3zYT) | [Cash Crop + Bonus Track](https://open.spotify.com/album/5mJHJ4ycYgFtNK5mEF68MM) | 4:07 | 2023-05-18 | 2023-10-28 |
 | [Not Necessary](https://open.spotify.com/track/5pffKlF4vFdE97wNxhcNWW) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Saskadelphia](https://open.spotify.com/album/4K4TmKxqAJLQfsIuwb7per) | 3:01 | 2022-05-02 | 2022-07-29 |
-| [Not Ready to Go](https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [House of Ill Fame \(Bonus Live Cut Edition\)](https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd) | 3:03 | 2022-05-02 |  |
+| [Not Ready to Go](https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [House of Ill Fame \(Bonus Live Cut Edition\)](https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd) | 3:03 | 2022-05-02 | 2024-04-06 |
 | [Not Ready To Go](https://open.spotify.com/track/6TAIjNdGCB4rJ8eS90Vd8t) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [House Of Ill Fame \(Bonus Live Cut Edition\)](https://open.spotify.com/album/0mq5DrQk05zTR8qU4zIuTH) | 3:03 | 2022-05-02 | 2022-07-29 |
 | [Nothing Special](https://open.spotify.com/track/50fi5G747RJ6vKmX886eX1) | [illScarlett](https://open.spotify.com/artist/7wifMhiQRkNVGDL3habHha) | [All Day With It](https://open.spotify.com/album/7oL96ynXqzzf5BfzhqbtOH) | 3:28 | 2022-05-02 | 2022-07-20 |
 | [Nowhere With You](https://open.spotify.com/track/7JUGIQLHiPvCUBKp3988fR) | [Joel Plaskett Emergency](https://open.spotify.com/artist/64WWINLIAzJ2CgzZWkywB3) | [Make A Little Noise DVD](https://open.spotify.com/album/65T0ZdRN1SKeBu6MmsQhTU) | 3:01 | 2023-05-18 | 2023-06-10 |
@@ -297,6 +297,7 @@
 | [Superconnected](https://open.spotify.com/track/2bxBLUIJhTHavO2FKP23Qb) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Broken Social Scene](https://open.spotify.com/album/0y7KfUbof07yf2bHFYdPJZ) | 5:39 | 2023-05-18 | 2023-09-30 |
 | [Superman's Dead](https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC) | 4:15 | 2022-05-02 | 2022-11-27 |
 | [Superman's Dead](https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M) | 4:15 | 2022-05-02 |  |
+| [Supernatural](https://open.spotify.com/track/5uwlYbJ8xovXnbTL0TaItp) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Supernatural](https://open.spotify.com/album/0NIqLdZS16xSe11Tk1gabP) | 4:01 | 2024-04-05 |  |
 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 | 2022-05-02 |  |
 | [Sweet City Woman](https://open.spotify.com/track/52SCT6ImFklqEhH21lgErO) | [Stampeders](https://open.spotify.com/artist/39uv7qSNwIoaAtWNioWnxp) | [Against the Grain](https://open.spotify.com/album/31HTyjLaXPAb2xq3qe83Qd) | 3:27 | 2022-05-02 |  |
 | [Sweet Mountain River](https://open.spotify.com/track/2g2st70xvu7DYGlfVircnf) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Furiosity](https://open.spotify.com/album/671q4kHo2y178Q6VvDd6ER) | 3:49 | 2022-05-02 | 2023-08-19 |
@@ -356,6 +357,7 @@
 | [When the Night Feels My Song](https://open.spotify.com/track/5qMc9XB0lALs9VnQmY5qFv) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh) | [Sounding a Mosaic](https://open.spotify.com/album/0AhsJ8sWpUbBJUQRXtR1NE) | 3:07 | 2022-05-02 |  |
 | [Where Have All The Good People Gone?](https://open.spotify.com/track/2eLkQvmXz51UKmBIKlFPWb) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9) | 4:22 | 2022-05-02 | 2022-07-29 |
 | [Where Have All The Good People Gone?](https://open.spotify.com/track/0T4TdNQ93GEXKtfkCx9zYF) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/7iyRJ3WSW2y2LbIPUYJhgS) | 4:24 | 2023-05-18 | 2023-11-25 |
+| [While My Guitar Gently Weeps](https://open.spotify.com/track/1T94tcUfe2X74nriMCAWQa) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Hell To Pay](https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1) | 5:15 | 2024-04-05 |  |
 | [Wondering Where The Lions Are](https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Waiting For A Miracle](https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2) | 3:43 | 2022-05-02 |  |
 | [Wondering Where The Lions Are](https://open.spotify.com/track/0Nn4H46gZGsc5agUTWcaiY) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Dancing In The Dragon's Jaws \(Deluxe Edition\)](https://open.spotify.com/album/6S11OTFA43xOYJoORsUyCu) | 3:47 | 2022-05-02 | 2022-07-29 |
 | [Working for the Weekend](https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Get Lucky](https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE) | 3:41 | 2022-05-02 |  |

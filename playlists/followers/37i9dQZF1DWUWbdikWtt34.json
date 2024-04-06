@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 193716,
+  "2024-04-06": 193759,
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Warda",
+  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -1816,6 +1816,24 @@
     },
     {
       "album": {
+        "name": "Nakal",
+        "url": "https://open.spotify.com/album/2jPHAgghQUcDta7JEhWerl"
+      },
+      "artists": [
+        {
+          "name": "Trio Macan",
+          "url": "https://open.spotify.com/artist/2AGgCwZcIbShC78asA0loE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240652,
+      "name": "Nakal",
+      "url": "https://open.spotify.com/track/3dUoIME5qIXtiYExd2934T"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/5I3UANRadKoF3ZuXXwjFD0"
       },
@@ -2711,7 +2729,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 294144,
       "name": "Tatu",
       "url": "https://open.spotify.com/track/55XnOFlzoXBcx1Ov0UvzeL"

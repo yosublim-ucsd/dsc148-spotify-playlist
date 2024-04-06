@@ -1,12 +1,12 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 99296,
+  "num_followers": 99471,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWZlNzRlMmUyMGI0ZjM3ZDQ2ZDBkZWM1ZDM3MmI5NTU3Mjg0NDJh",
+  "snapshot_id": "MCwzMThjMjNhYzI4MGNlZDIyNTIzM2E2MzhiNzJkZjQxNDVhOWJlNWQ4",
   "tracks": [
     {
       "added_at": "2023-04-10 22:49:54",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Las Rom\u00e1nticas de Cuisillos, Vol. 2",
-        "url": "https://open.spotify.com/album/0HyVOgHfsFUl6XFu2ZDXmd"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 176237,
-      "name": "Hasta Que Amanezca",
-      "url": "https://open.spotify.com/track/5X7wauGH8wlaU4XLNb8ERv"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Homenaje a Joan Sebastian",
         "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 138083,
       "name": "Un Carino Como Tu",
       "url": "https://open.spotify.com/track/3Jgpbe7rXleRDdOJzsWCzJ"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Las Rom\u00e1nticas de Cuisillos, Vol. 2",
+        "url": "https://open.spotify.com/album/0HyVOgHfsFUl6XFu2ZDXmd"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 176237,
+      "name": "Hasta Que Amanezca",
+      "url": "https://open.spotify.com/track/5X7wauGH8wlaU4XLNb8ERv"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Joyas Musicales: Lo Ranchero de Cuisillos de Arturo Mac\u00edas, Vol. 1",
-        "url": "https://open.spotify.com/album/1IymVjJhDpdibw7S4dPho9"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 135964,
-      "name": "Ojitos De Golondrina",
-      "url": "https://open.spotify.com/track/0Gwv52FGhlkE9P2tLCaCmy"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Dos Mundos Tradici\u00f3n",
         "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 186040,
       "name": "Nada De Ti",
       "url": "https://open.spotify.com/track/1iIIyMbWDfMLyufjX3N80U"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Homenaje a Joan Sebastian",
+        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos Del Norte",
+          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
+        }
+      ],
+      "duration_ms": 205191,
+      "name": "El Peor De Tus Antojos",
+      "url": "https://open.spotify.com/track/1ZOvUILZcLWdNXYar5MvVy"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
+        "name": "Joyas Musicales: Lo Ranchero de Cuisillos de Arturo Mac\u00edas, Vol. 1",
+        "url": "https://open.spotify.com/album/1IymVjJhDpdibw7S4dPho9"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 135964,
+      "name": "Ojitos De Golondrina",
+      "url": "https://open.spotify.com/track/0Gwv52FGhlkE9P2tLCaCmy"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
         "name": "Homenaje a Joan Sebastian",
         "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
       },
@@ -1052,25 +1068,9 @@
           "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
         }
       ],
-      "duration_ms": 205191,
-      "name": "El Peor De Tus Antojos",
-      "url": "https://open.spotify.com/track/1ZOvUILZcLWdNXYar5MvVy"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
-        "name": "Dos Mundos Tradici\u00f3n",
-        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 205880,
-      "name": "La Historia Que No",
-      "url": "https://open.spotify.com/track/237HTVPRaOx5Q8Yo7Zyay4"
+      "duration_ms": 182099,
+      "name": "Aunque Me Duela El Alma",
+      "url": "https://open.spotify.com/track/52FBjQoUnKggtPo5Z54axX"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Joyas Musicales: Lo Ranchero De Cuisillos De Arturo Mac\u00edas, Vol. 2",
-        "url": "https://open.spotify.com/album/3eQMPyj1pDRSlLoF1TA7K5"
+        "name": "Dos Mundos Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 158476,
-      "name": "Ahora Si Va En Serio",
-      "url": "https://open.spotify.com/track/4JN3IkAjaa0J3sPNXsbWWh"
+      "duration_ms": 205880,
+      "name": "La Historia Que No",
+      "url": "https://open.spotify.com/track/237HTVPRaOx5Q8Yo7Zyay4"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
+        "name": "Joyas Musicales: Lo Ranchero De Cuisillos De Arturo Mac\u00edas, Vol. 2",
+        "url": "https://open.spotify.com/album/3eQMPyj1pDRSlLoF1TA7K5"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 158476,
+      "name": "Ahora Si Va En Serio",
+      "url": "https://open.spotify.com/track/4JN3IkAjaa0J3sPNXsbWWh"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
         "name": "Homenaje a Joan Sebastian",
         "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
       },
@@ -1180,9 +1196,9 @@
           "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
         }
       ],
-      "duration_ms": 182099,
-      "name": "Aunque Me Duela El Alma",
-      "url": "https://open.spotify.com/track/52FBjQoUnKggtPo5Z54axX"
+      "duration_ms": 164440,
+      "name": "Contando Penas",
+      "url": "https://open.spotify.com/track/7a37gfqE5ax5abZdPOiwAe"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1215,22 +1231,6 @@
       "duration_ms": 185295,
       "name": "Que Ya No Estas",
       "url": "https://open.spotify.com/track/7H4VG0Gh5P9dj6zS4A03iR"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
-        "name": "Homenaje a Joan Sebastian",
-        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos Del Norte",
-          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Contando Penas",
-      "url": "https://open.spotify.com/track/7a37gfqE5ax5abZdPOiwAe"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "Afortunado",
-        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 167514,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Rumores",
         "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 222476,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 167514,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
     },
     {
       "added_at": "2023-04-10 22:49:54",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-04-10 22:49:54",
       "album": {
-        "name": "20 \u00c9xitos Con Orquesta/Grupo",
-        "url": "https://open.spotify.com/album/28imweMDfB3oyByj6MySDQ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Lobo Domesticado",
-      "url": "https://open.spotify.com/track/7g4RwwhSrmX9iuNFE8wk2G"
-    },
-    {
-      "added_at": "2023-04-10 22:49:54",
-      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 137573,
       "name": "El Chofer",
       "url": "https://open.spotify.com/track/5BfXMlw8lQQGojmyNFZiB3"
+    },
+    {
+      "added_at": "2023-04-10 22:49:54",
+      "album": {
+        "name": "20 \u00c9xitos Con Orquesta/Grupo",
+        "url": "https://open.spotify.com/album/28imweMDfB3oyByj6MySDQ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Lobo Domesticado",
+      "url": "https://open.spotify.com/track/7g4RwwhSrmX9iuNFE8wk2G"
     },
     {
       "added_at": "2023-04-10 22:49:54",

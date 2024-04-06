@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 16547,
+  "num_followers": 16588,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTVmNTA4NDAzNTU5OWViMTIzMGFkZDBiM2FmMjI2YWM0Y2ZlOTQ0",
+  "snapshot_id": "MCw3M2Y1NGZhNzU1YzgwNDkxMzYwOTkyZDEzNzBkNGNlOTZkYjBlMDZm",
   "tracks": [
     {
       "added_at": "2024-03-29 03:01:00",
@@ -123,6 +123,26 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Proveito",
+        "url": "https://open.spotify.com/album/6oFCxp73Skel2DgCzPQAH6"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Proveito",
+      "url": "https://open.spotify.com/track/5N3znAB19oFAkGNrcBTPeD"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Escuro Brilhante, \u00daltimo Dia no Orfanato Tia Guga",
         "url": "https://open.spotify.com/album/5Y2p1OcAawojX5XstCxJob"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 196383,
       "name": "Jovinho",
       "url": "https://open.spotify.com/track/03sHFROBP18Wr2NayNAj6Q"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Proveito",
-        "url": "https://open.spotify.com/album/6oFCxp73Skel2DgCzPQAH6"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Proveito",
-      "url": "https://open.spotify.com/track/5N3znAB19oFAkGNrcBTPeD"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -399,26 +399,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "YEY\u00ca",
-        "url": "https://open.spotify.com/album/3MvzSKmhx9dx2wzKP48nMT"
-      },
-      "artists": [
-        {
-          "name": "Ally Akin",
-          "url": "https://open.spotify.com/artist/1BcFdQaRLbfN6nzhUIPalx"
-        },
-        {
-          "name": "BM Ally",
-          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "YEY\u00ca",
-      "url": "https://open.spotify.com/track/5K99hrcPJLnVBQg15v6UYq"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Farol",
         "url": "https://open.spotify.com/album/2mlddzWgsslOC8nyUsNaLH"
       },
@@ -443,30 +423,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "J\u00e9 Ka S\u00f3r\u00f3",
-        "url": "https://open.spotify.com/album/3TkDRjv287cJL9Y7UEnUsL"
+        "name": "YEY\u00ca",
+        "url": "https://open.spotify.com/album/3MvzSKmhx9dx2wzKP48nMT"
       },
       "artists": [
         {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+          "name": "Ally Akin",
+          "url": "https://open.spotify.com/artist/1BcFdQaRLbfN6nzhUIPalx"
         },
         {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Moikas",
-          "url": "https://open.spotify.com/artist/2iKmQwzpWTpQ98t84WZ73C"
-        },
-        {
-          "name": "Tunde Sparrow",
-          "url": "https://open.spotify.com/artist/0j6qf5oiRTM5yejXE1ZJVH"
+          "name": "BM Ally",
+          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
         }
       ],
-      "duration_ms": 160000,
-      "name": "J\u00e9 Ka S\u00f3r\u00f3",
-      "url": "https://open.spotify.com/track/4R4sLlLQ1Spt62pe8ce0fj"
+      "duration_ms": 195400,
+      "name": "YEY\u00ca",
+      "url": "https://open.spotify.com/track/5K99hrcPJLnVBQg15v6UYq"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -615,26 +587,34 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Do Nada",
-        "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
+        "name": "Perigo",
+        "url": "https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT"
       },
       "artists": [
         {
+          "name": "Peninha'",
+          "url": "https://open.spotify.com/artist/02e9lRqB5AyDxWiLhakLu7"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "JovemBlues",
+          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        },
+        {
           "name": "Liu Beatz",
           "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "Stanley Castro",
-          "url": "https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah"
         }
       ],
-      "duration_ms": 205531,
-      "name": "Do Nada",
-      "url": "https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF"
+      "duration_ms": 160000,
+      "name": "Perigo",
+      "url": "https://open.spotify.com/track/5hFhHT6WwgT6u7uiX3zlFQ"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -675,38 +655,6 @@
       "duration_ms": 214193,
       "name": "VER\u00c3O",
       "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Perigo",
-        "url": "https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT"
-      },
-      "artists": [
-        {
-          "name": "Peninha'",
-          "url": "https://open.spotify.com/artist/02e9lRqB5AyDxWiLhakLu7"
-        },
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "JovemBlues",
-          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Perigo",
-      "url": "https://open.spotify.com/track/5hFhHT6WwgT6u7uiX3zlFQ"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -811,30 +759,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "N\u00e3o Prometeu Nada",
-        "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
-      },
-      "artists": [
-        {
-          "name": "Victor sant's",
-          "url": "https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp"
-        },
-        {
-          "name": "Pivet Panda",
-          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "N\u00e3o Prometeu Nada",
-      "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "T\u00f4 Aqui de Novo",
         "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
       },
@@ -875,6 +799,30 @@
       "duration_ms": 162338,
       "name": "Me Diz",
       "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "N\u00e3o Prometeu Nada",
+        "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
+      },
+      "artists": [
+        {
+          "name": "Victor sant's",
+          "url": "https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp"
+        },
+        {
+          "name": "Pivet Panda",
+          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "N\u00e3o Prometeu Nada",
+      "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -951,26 +899,6 @@
       "duration_ms": 208000,
       "name": "MAIS VERDE",
       "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Enquanto o tempo passa",
-        "url": "https://open.spotify.com/album/3Z25lZgzdpM0Zd1LE3g6u0"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 131320,
-      "name": "Enquanto o tempo passa",
-      "url": "https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1067,6 +995,66 @@
       "duration_ms": 146526,
       "name": "Teimosa e Ciumenta",
       "url": "https://open.spotify.com/track/5Xgbiv7vaRjKPq8PhXZcdd"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Atitude",
+        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
+      },
+      "artists": [
+        {
+          "name": "RUBY",
+          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
+        },
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 185741,
+      "name": "Brinca Comigo",
+      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "B\u00f3ra",
+        "url": "https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW"
+        },
+        {
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "B\u00f3ra",
+      "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Fala Comigo",
+        "url": "https://open.spotify.com/album/7HdRWz0dgVDL4GPctATG1T"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9co Oficial",
+          "url": "https://open.spotify.com/artist/0ptHTBxVRPbo2qNsOaFRrx"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Fala Comigo",
+      "url": "https://open.spotify.com/track/5ZR2TRnxpq47Tp7a4FUHNi"
     },
     {
       "added_at": "2024-03-29 03:01:00",

@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 131987,
+  "2024-04-06": 132020,
   "date_first_scraped": "2023-10-23",
   "description": "",
   "name": "Sons da Natureza",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 128918,
       "name": "Ambient Woods",
       "url": "https://open.spotify.com/track/3UaXmGGrnybMEdNe5rh941"
@@ -789,6 +789,24 @@
       "duration_ms": 145500,
       "name": "Soul Healing Birds",
       "url": "https://open.spotify.com/track/2xDAhRpg274IdUlSwrUKeG"
+    },
+    {
+      "album": {
+        "name": "Song Birds",
+        "url": "https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU"
+      },
+      "artists": [
+        {
+          "name": "Zen Master",
+          "url": "https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Spring Shower Bird Songs",
+      "url": "https://open.spotify.com/track/7GQ7Rg1yQPawBeXAlsef7A"
     },
     {
       "album": {

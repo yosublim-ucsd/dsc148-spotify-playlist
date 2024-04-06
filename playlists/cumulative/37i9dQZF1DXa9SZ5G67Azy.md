@@ -4,7 +4,7 @@
 
 > un poquito de esto, un poquito de lo otro.
 
-88 songs - 5 hr 11 min
+89 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [I SEE U LATER](https://open.spotify.com/track/4wEnEUyAyluBTAskEb96YU) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [I SEE U LATER](https://open.spotify.com/album/7qhmOz5dZGhmcRfB0izeNl) | 3:25 | 2024-01-18 |  |
 | [Jordan \(Tech House\)](https://open.spotify.com/track/2DA4eJlbSddsqVoxuattBV) | [Gabi Mujica](https://open.spotify.com/artist/6JdsOBqypQzdYEYO8mtlDL) | [Jordan \(Tech House\)](https://open.spotify.com/album/6HawJ3fyYbpoTAu7XBWFPl) | 4:05 | 2023-11-29 |  |
 | [La Bebe \- David Guetta Remix](https://open.spotify.com/track/2OOmObvtYKotf1WwcqRwe4) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [La Bebe \(David Guetta Remix\)](https://open.spotify.com/album/1BFVfHT9ScguUQTXT4ef63) | 2:38 | 2023-11-29 |  |
+| [LA FALDA \- Tiësto Remix](https://open.spotify.com/track/3mnH4IGAoxIh5sRY8N8NS0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [LA FALDA \(Tiësto Remix\)](https://open.spotify.com/album/6nkUCUZ4vT2z074AjCbr2s) | 2:54 | 2024-04-05 |  |
 | [La Jeepeta \(Techengue\)](https://open.spotify.com/track/05yLR6qCaXZPPBjUvV7Ake) | [Delirio Mix](https://open.spotify.com/artist/7fiUtSeEYMX5lZZkKoiX77), [FRVNKK](https://open.spotify.com/artist/73ZUVJpRyRACS9qUSGVpWC) | [La Jeepeta \(Techengue\)](https://open.spotify.com/album/6CohdpmWnvdZX8Hu7jDyxY) | 3:58 | 2023-11-29 |  |
 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 | 2023-11-29 |  |
 | [Lala \(House\) \- Remix](https://open.spotify.com/track/2EHqKXixNhF2jbeEwMqL43) | [Manu Rg](https://open.spotify.com/artist/4BYjb5lZPyqyEJgSCkxXuH), [Bull Beats](https://open.spotify.com/artist/1mIqiRD1b8fQAMQyLJEawN) | [Lala \(House Remix\)](https://open.spotify.com/album/6gPkBYusZumEycC7vBK9Qz) | 2:20 | 2023-11-29 |  |
@@ -65,7 +66,7 @@
 | [MalbecT](https://open.spotify.com/track/5bmYyT38hrnGkCQXXX4Moi) | [Valen Rosemblat](https://open.spotify.com/artist/1BNdMTiXZhxh939oSeAwfP) | [MalbecT](https://open.spotify.com/album/79TVs4xSqpXrjDwpj93kiU) | 2:46 | 2023-11-29 |  |
 | [Marianela \(Que Pasa\)](https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela \(Que Pasa\)](https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0) | 2:25 | 2023-11-29 |  |
 | [MERCHO TECH](https://open.spotify.com/track/32wMdTmsXeI68tuJJs7zWd) | [AGA](https://open.spotify.com/artist/4BnabFEl44SPh57IDk5h5j) | [MERCHO TECH](https://open.spotify.com/album/36tpUXPyWZHAWog4gZFgfj) | 2:32 | 2023-11-29 |  |
-| [Mix Techengue 1 \- Remix](https://open.spotify.com/track/4JPXCGg7chUPogd1zXKsIP) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Mix Techengue 1 \(Remix\)](https://open.spotify.com/album/21Wr17DwPwHRsGjAULHemz) | 46:04 | 2023-11-29 |  |
+| [Mix Techengue 1 \- Remix](https://open.spotify.com/track/4JPXCGg7chUPogd1zXKsIP) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Mix Techengue 1 \(Remix\)](https://open.spotify.com/album/21Wr17DwPwHRsGjAULHemz) | 46:04 | 2023-11-29 | 2024-04-06 |
 | [Monaco \- Pyura Remix](https://open.spotify.com/track/3wHtiTdrZkj5aYFnCeZcn0) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Monaco \(Pyura Remix\)](https://open.spotify.com/album/4QBrLN1AcqoQCmFUit2sWv) | 3:56 | 2024-01-18 |  |
 | [Muñecas \- Tech House](https://open.spotify.com/track/4OsISYY0zznS5AJmwjWbwT) | [Gabi Mujica](https://open.spotify.com/artist/6JdsOBqypQzdYEYO8mtlDL) | [Muñecas \- Tech House](https://open.spotify.com/album/7AUsQ81QJEgiCA9K84Arjf) | 2:51 | 2023-11-29 |  |
 | [NENA SAD \- Techengue Edit](https://open.spotify.com/track/3IAOnemu8O4r2OUwKALsp6) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [NENA SAD \(Techengue Edit\)](https://open.spotify.com/album/5hTRsTBPjSSdlT6ida7Snn) | 3:22 | 2024-03-22 |  |

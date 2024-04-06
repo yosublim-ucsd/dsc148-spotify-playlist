@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 85446,
+  "2024-04-06": 85452,
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Logic1000",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Peggy Gou",
   "name": "Altar JP",
   "tracks": [
     {
@@ -39,6 +39,24 @@
       "duration_ms": 366056,
       "name": "(It Goes Like) Nanana - Nanadub",
       "url": "https://open.spotify.com/track/6vQuuzzYy6Kko6MDFGVndC"
+    },
+    {
+      "album": {
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190644,
+      "name": "1+1=11 - Edit",
+      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
     },
     {
       "album": {
@@ -710,6 +728,24 @@
     },
     {
       "album": {
+        "name": "TRACKER",
+        "url": "https://open.spotify.com/album/7Jd8BFJbmI6DTcmyOX7R16"
+      },
+      "artists": [
+        {
+          "name": "SYCLES",
+          "url": "https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308060,
+      "name": "ARTIFACT",
+      "url": "https://open.spotify.com/track/4FIlbZJyd2kOrSB6jx2SR8"
+    },
+    {
+      "album": {
         "name": "As We Step",
         "url": "https://open.spotify.com/album/41qUZw948nSEWIF3XScgfc"
       },
@@ -721,7 +757,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 361270,
       "name": "As We Step",
       "url": "https://open.spotify.com/track/08no2olcJnD0cyFQiJEOAz"
@@ -2141,7 +2177,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 517977,
       "name": "CYGNUS - Another Take",
       "url": "https://open.spotify.com/track/5z32XED6Qp2ed7xZRIEKZ4"
@@ -2546,6 +2582,28 @@
     },
     {
       "album": {
+        "name": "Did I (Peaches Remix)",
+        "url": "https://open.spotify.com/album/3BqnPyBlh9nYZDwtJ0EMel"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214919,
+      "name": "Did I - Peaches Remix",
+      "url": "https://open.spotify.com/track/4AW85nhkcAkTVBPDkmGnMq"
+    },
+    {
+      "album": {
         "name": "Rascal",
         "url": "https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y"
       },
@@ -2833,6 +2891,24 @@
       "duration_ms": 172613,
       "name": "Done (Let\u2019s Get It)",
       "url": "https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD"
+    },
+    {
+      "album": {
+        "name": "DPCT 5",
+        "url": "https://open.spotify.com/album/5SHrGcwKWoEtEsviT0OTiD"
+      },
+      "artists": [
+        {
+          "name": "Masaki Morii",
+          "url": "https://open.spotify.com/artist/3wumvz83FrtgSBu4Ijjz9s"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409756,
+      "name": "DPCT 5",
+      "url": "https://open.spotify.com/track/1e1aztzbMADtbuZrqDNBCe"
     },
     {
       "album": {
@@ -3535,7 +3611,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 355738,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/0rFEnMc3sD4FGlDVIlpkI7"
@@ -4830,6 +4906,24 @@
     },
     {
       "album": {
+        "name": "Hekdb Product 001",
+        "url": "https://open.spotify.com/album/0ZYzuNFAiOT1l27hU9htPE"
+      },
+      "artists": [
+        {
+          "name": "Yukio Nohara",
+          "url": "https://open.spotify.com/artist/1TmlY6IesLUBi6RhLuuOFU"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241846,
+      "name": "Hana Oto",
+      "url": "https://open.spotify.com/track/44vSeWWtTTJN3BLol5Dps3"
+    },
+    {
+      "album": {
         "name": "Hands (DJ-Kicks)",
         "url": "https://open.spotify.com/album/7cdtA63N0AxdTjubtX6h38"
       },
@@ -5041,6 +5135,28 @@
       "duration_ms": 328434,
       "name": "Highway",
       "url": "https://open.spotify.com/track/3r92wWb9B6CkLx5rIOoD16"
+    },
+    {
+      "album": {
+        "name": "Soul Quake (Remixes, Vol. 2)",
+        "url": "https://open.spotify.com/album/16gPX7CDxO8ySd3HqSqNhI"
+      },
+      "artists": [
+        {
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+        },
+        {
+          "name": "Seimei",
+          "url": "https://open.spotify.com/artist/7zZ9WviThpO5AVYmigIf3V"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242826,
+      "name": "Hokori - Seimei Remix",
+      "url": "https://open.spotify.com/track/5jN6p5Zxj2KghbkvkE7VS1"
     },
     {
       "album": {
@@ -7034,6 +7150,24 @@
     },
     {
       "album": {
+        "name": "Making The Beast",
+        "url": "https://open.spotify.com/album/3DhI1gzM2t6dzfaMbrPsXq"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134960,
+      "name": "Making The Beast - Edit",
+      "url": "https://open.spotify.com/track/1oCbNTOmA43TArd9PVTfft"
+    },
+    {
+      "album": {
         "name": "A Mixtape by Anish Kumar",
         "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
       },
@@ -7155,7 +7289,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
@@ -7778,6 +7912,24 @@
     },
     {
       "album": {
+        "name": "Neo Tantric Parts",
+        "url": "https://open.spotify.com/album/7gNQRS7yNdUa1bhSXzAlZR"
+      },
+      "artists": [
+        {
+          "name": "Jeff Mills",
+          "url": "https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241836,
+      "name": "Neptunian Landing",
+      "url": "https://open.spotify.com/track/3GPrbsxDmOMhrk6LBYjQ9U"
+    },
+    {
+      "album": {
         "name": "Monnaka",
         "url": "https://open.spotify.com/album/7fQYIJUcAWOZ8MA6LfTHXU"
       },
@@ -8265,7 +8417,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 206884,
       "name": "Other Side",
       "url": "https://open.spotify.com/track/74qKLdiiTnXNqh2Co21RlJ"
@@ -9149,7 +9301,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 437004,
       "name": "Renda",
       "url": "https://open.spotify.com/track/6XaP4W8k6iXHAlbSLahtsJ"
@@ -9692,6 +9844,32 @@
     },
     {
       "album": {
+        "name": "She's Drunk",
+        "url": "https://open.spotify.com/album/50o8DT2Z9jrHuQvwCx1D60"
+      },
+      "artists": [
+        {
+          "name": "Sloppy Disk",
+          "url": "https://open.spotify.com/artist/5IEl2TsgM9jO0kkapS5RtB"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+        },
+        {
+          "name": "TJO",
+          "url": "https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256406,
+      "name": "She's Drunk",
+      "url": "https://open.spotify.com/track/70bTyESFFybyixexSt1vuE"
+    },
+    {
+      "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
       },
@@ -9765,7 +9943,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 357904,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/0lbLhmnhpIEV6iHvAn6D9P"
@@ -10019,7 +10197,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 252187,
       "name": "Small Sanctuary - nimino Remix",
       "url": "https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa"
@@ -11543,7 +11721,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 222000,
       "name": "TR Smooth",
       "url": "https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD"
@@ -11637,7 +11815,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 416818,
       "name": "Turquois",
       "url": "https://open.spotify.com/track/4a1yNWfc7JMijO1HyBLD44"
@@ -11961,6 +12139,24 @@
       "duration_ms": 271947,
       "name": "Vesta",
       "url": "https://open.spotify.com/track/04B0Ufpp6kZOkVHW7GCwOM"
+    },
+    {
+      "album": {
+        "name": "Hekdb Product 001",
+        "url": "https://open.spotify.com/album/0ZYzuNFAiOT1l27hU9htPE"
+      },
+      "artists": [
+        {
+          "name": "Saturn",
+          "url": "https://open.spotify.com/artist/2WHbmgdSHU9FfdHIZByyAB"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455593,
+      "name": "Voodoo Lounge",
+      "url": "https://open.spotify.com/track/1ZJQB7oEacQAZgp23YbXb8"
     },
     {
       "album": {

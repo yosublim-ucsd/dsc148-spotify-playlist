@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: Canicule
 
-631 songs - 1 day 8 hr 22 min
+633 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Avalon](https://open.spotify.com/track/5WP7fIhGPXgf4bx4uipzAr) | [JuicemanSF](https://open.spotify.com/artist/7lmOPad5dsOfryNQB2sDay), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [STILL 24](https://open.spotify.com/album/7JjSXuEKJREw2zDwI3iOb7) | 2:51 | 2022-01-07 | 2022-03-05 |
 | [Ayenne](https://open.spotify.com/track/0SS8kqR1B5nw2XldAKOoiz) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Ayenne](https://open.spotify.com/album/15UWoGQBrHIVSb8fWRihZd) | 2:36 | 2023-12-08 | 2024-03-02 |
 | [B.E.C\. \#1](https://open.spotify.com/track/6WFSb72vg84uIJRO9HrBA1) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9), [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [B.E.C\. \#1](https://open.spotify.com/album/455m0pT555O6PaVpMYRN9h) | 2:40 | 2022-04-15 | 2022-09-03 |
+| [BACKLASH](https://open.spotify.com/track/1GuFjQbO3isg7vUPxdtm3N) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [DÉCROISSANCE PERSONNELLE](https://open.spotify.com/album/5CxuhD698gqnpkrX4Sdik6) | 2:51 | 2024-04-05 |  |
 | [BAD B\*TCH II](https://open.spotify.com/track/6vMe7n4qJ9hXfMGE1ruDNF) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [LESBIENNE WOKE SUR L'AUTOTUNE](https://open.spotify.com/album/7KKSE5s8ljSYyq4Xt6siQF) | 3:16 | 2022-07-08 | 2022-09-17 |
 | [Bad Boy](https://open.spotify.com/track/63Fj5pGKXNSRdj8yw1YxVD) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Resilience](https://open.spotify.com/album/2jX65KhXfrKbwJk8dy6Zcr) | 3:08 | 2022-03-25 | 2022-09-17 |
 | [BAD JAZZ](https://open.spotify.com/track/7ittTYPZNiwNpoAOTHgbcr) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk), [Tori](https://open.spotify.com/artist/2ZjoJeE2uUyXvcW52ym783) | [BAD JAZZ](https://open.spotify.com/album/5ZN9KLtdqUQ4GwAEcIUSPa) | 1:50 | 2023-10-27 | 2023-11-25 |
@@ -291,6 +292,7 @@
 | [Infréquentable](https://open.spotify.com/track/0ia2udJLezbOmjorQpK6el) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Infréquentable](https://open.spotify.com/album/4nDCSy5NZBecRnBWr1LYiV) | 2:44 | 2023-05-19 | 2023-12-02 |
 | [Instable](https://open.spotify.com/track/0qU0zMPwr74UR5eKtGrIaT) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Instable](https://open.spotify.com/album/1NGUzRGlK6MXt1BAhVRdEy) | 4:02 | 2024-03-01 | 2024-03-23 |
 | [Intemporel](https://open.spotify.com/track/14OiYmRva1c3B3mISSC7Qq) | [Le Snake](https://open.spotify.com/artist/3TRNKLRrNrZlb4HGNwgOUL) | [Intemporel](https://open.spotify.com/album/4ZA0qt6TJpYKgEJ5lxVgsi) | 2:24 | 2022-01-07 | 2022-03-05 |
+| [Interdit meilleur](https://open.spotify.com/track/1iAGP7PrIkXjCbQ1Qv1xML) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Interdit meilleur](https://open.spotify.com/album/6QDiyXRVK8SdFxLHpzd05F) | 3:22 | 2024-04-05 |  |
 | [Intro](https://open.spotify.com/track/6uqkrRopGG4wmbOG8ZTxos) | [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb) | [OUVERT 24H](https://open.spotify.com/album/7EqcDXSFsZso51h1g7cBAM) | 1:45 | 2022-10-28 | 2022-12-17 |
 | [Irrécupérable](https://open.spotify.com/track/5K4m80Xn13NyQ7WzfircJI) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Silence radio](https://open.spotify.com/album/5bWFQPO40nmvQsATkILkPj) | 4:07 | 2023-11-03 | 2023-11-13 |
 | [J'ai mon blick](https://open.spotify.com/track/59DFpv1yqfIb32uz8swkqL) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [J'ai mon blick](https://open.spotify.com/album/4fdDkt3jpOBjEqpKEMt150) | 3:32 | 2022-05-20 | 2022-07-23 |
@@ -324,7 +326,7 @@
 | [L'argent fait le bonheur](https://open.spotify.com/track/5Z2OcOObLRf6oJcDmyfSyP) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [L'argent fait le bonheur](https://open.spotify.com/album/1ZlGuLWCqyihvFKcCIhy9P) | 2:53 | 2022-08-12 | 2022-10-29 |
 | [L'histoire d'une vie](https://open.spotify.com/track/2QFo7cUdpFrH5d0lddT9a3) | [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh) | [Filature](https://open.spotify.com/album/71FzFQ1VjAH1jqiCT1IC6u) | 3:16 | 2022-01-07 | 2022-02-19 |
 | [L'oubli](https://open.spotify.com/track/2hbVVrEVx8N8f0DmLwF85q) | [Dramatik](https://open.spotify.com/artist/5emIiPIHrSU5eP2dOd8Ksi) | [La boîte noire](https://open.spotify.com/album/5kIzKZ0NsK9XXhWsP3szHf) | 3:31 | 2023-11-03 | 2023-11-13 |
-| [La faille](https://open.spotify.com/track/3K7NtnyDx90mw7tq6dFIRD) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3) | [La faille](https://open.spotify.com/album/60Mk9xTw6x9DfmJ8Mjlaxl) | 3:17 | 2023-10-13 |  |
+| [La faille](https://open.spotify.com/track/3K7NtnyDx90mw7tq6dFIRD) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3) | [La faille](https://open.spotify.com/album/60Mk9xTw6x9DfmJ8Mjlaxl) | 3:17 | 2023-10-13 | 2024-04-06 |
 | [La fessée](https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [La fessée](https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet) | 3:57 | 2023-10-27 |  |
 | [La mort de Manu \- Garde ta job](https://open.spotify.com/track/6ONJKSAjQUXEtMfhcq9U5z) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Petites Victoires](https://open.spotify.com/album/4fPi0fipmBM4yTr1kGqXrs) | 3:09 | 2023-11-03 | 2023-11-13 |
 | [LA PLUIE](https://open.spotify.com/track/7uwSn8hfkVaXqp9UdRvUsj) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [BAD JAZZ](https://open.spotify.com/album/6MuDbEDzWZe4CNXc6GqeC7) | 1:21 | 2023-11-24 |  |
@@ -605,7 +607,7 @@
 | [Validé](https://open.spotify.com/track/7qABSVRa8kvEdgeMuI5Oaa) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Validé](https://open.spotify.com/album/2EwEMw0rf3hmoyI4ztCkzD) | 3:53 | 2023-01-20 | 2023-04-09 |
 | [Vertige](https://open.spotify.com/track/31xvYaTkRzTzTpqhODv0mP) | [PCL](https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg), [E.Santana](https://open.spotify.com/artist/4xuP5XVUJPwlw7iP7eY0gQ) | [Vertige](https://open.spotify.com/album/2LebCxSWEz7BT2QvgKDutH) | 2:56 | 2023-06-02 | 2024-01-27 |
 | [Vertige](https://open.spotify.com/track/1ImplX8y9L2iv53JX2NkCy) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Vertige](https://open.spotify.com/album/2yoSmS2boP6CbLhUlZPciN) | 3:45 | 2022-07-01 | 2023-04-09 |
-| [VIAUVILLE](https://open.spotify.com/track/30g0IU3gMdc2hF7v09G5pG) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [VIAUVILLE](https://open.spotify.com/album/6sKwsxSZk7W17bbYE7jwf6) | 4:28 | 2023-12-01 |  |
+| [VIAUVILLE](https://open.spotify.com/track/30g0IU3gMdc2hF7v09G5pG) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [VIAUVILLE](https://open.spotify.com/album/6sKwsxSZk7W17bbYE7jwf6) | 4:28 | 2023-12-01 | 2024-04-06 |
 | [Vibe](https://open.spotify.com/track/7jEXxhZQ57fVKiYErtaTqV) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr), [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Vibe](https://open.spotify.com/album/6RyzurbjqKEOjsEXcKK7Ok) | 3:16 | 2022-10-21 | 2022-12-10 |
 | [Victory lap](https://open.spotify.com/track/2sGRVzSHwvjDJPe7bnSyNu) | [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Royauté](https://open.spotify.com/album/2G5o5u1tPRBbHG0zK3H3dn) | 2:54 | 2023-11-03 | 2023-11-13 |
 | [Vilain](https://open.spotify.com/track/2oZtcoMK8mr22MK7IdiiR0) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Backstage](https://open.spotify.com/album/49ar9sLxIGvyuACExV498g) | 3:32 | 2023-11-03 | 2023-11-13 |

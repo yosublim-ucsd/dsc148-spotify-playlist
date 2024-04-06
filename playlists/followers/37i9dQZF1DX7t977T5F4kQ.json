@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 20489,
+  "2024-04-06": 20506,
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Fameye",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Banzy Banero ",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -175,7 +175,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 196955,
       "name": "911",
       "url": "https://open.spotify.com/track/3ID7lddXvHicabgvswiVhT"
@@ -1795,7 +1795,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 110769,
       "name": "Diin",
       "url": "https://open.spotify.com/track/6AeZAnCDzuqJm6iYgzMs1l"
@@ -1915,6 +1915,28 @@
       "duration_ms": 186666,
       "name": "Eboso",
       "url": "https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI"
+    },
+    {
+      "album": {
+        "name": "Efie Nsem (Kwahu)",
+        "url": "https://open.spotify.com/album/26wvRavO5UoCMqk5IoKMvD"
+      },
+      "artists": [
+        {
+          "name": "Epixode",
+          "url": "https://open.spotify.com/artist/4W5GvdMaNMlr78lbnaW2P3"
+        },
+        {
+          "name": "Krus Band",
+          "url": "https://open.spotify.com/artist/59a1QKnIJfRtaa4GAfNvQT"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191556,
+      "name": "Efie Nsem - Kwahu",
+      "url": "https://open.spotify.com/track/5Dx57lE6nNVjLBmO8Iny1I"
     },
     {
       "album": {
@@ -2207,6 +2229,24 @@
       "duration_ms": 178105,
       "name": "Fate",
       "url": "https://open.spotify.com/track/1QCV9ndrHVnqtMcqXszEN6"
+    },
+    {
+      "album": {
+        "name": "Fear Woman",
+        "url": "https://open.spotify.com/album/5eX0CdlONNLvROVea1nH9y"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197214,
+      "name": "Fear Woman",
+      "url": "https://open.spotify.com/track/5o9IvEm2kULFG3MRoVCVkZ"
     },
     {
       "album": {
@@ -3153,6 +3193,24 @@
       "duration_ms": 163467,
       "name": "Joo",
       "url": "https://open.spotify.com/track/0gsUEvfyck7i7cZknquaD6"
+    },
+    {
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/6TBtnRStzuKt8He1SfeOlY"
+      },
+      "artists": [
+        {
+          "name": "Banzy Banero",
+          "url": "https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205774,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/6wCcutlZ6e5ZqGRHT90gTH"
     },
     {
       "album": {
@@ -5465,7 +5523,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 205087,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/4kturYXEBIp8526xEQ3z67"

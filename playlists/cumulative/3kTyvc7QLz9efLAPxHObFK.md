@@ -4,7 +4,7 @@
 
 > 
 
-1,232 songs - 2 day 20 hr 29 min
+1,235 songs - 2 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Anything](https://open.spotify.com/track/6Ppy7M8ue0iaVrEy7149aB) | [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH) | [Fascination of Melody EP](https://open.spotify.com/album/5ug0NXUHzba0FskKJh1CAx) | 2:11 | 2022-09-30 |  |
 | [Armageddon \- Noxiouz Remix](https://open.spotify.com/track/3dG65iBK18eyggmHfVdCfM) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Armageddon \(Noxiouz Remix\)](https://open.spotify.com/album/00QlryN6MeGXvja8Z5diFR) | 3:02 | 2023-12-02 |  |
 | [Armageddon Of The Mind](https://open.spotify.com/track/787sAtQKf4MjW9Nmzby94F) | [Zero Decay](https://open.spotify.com/artist/6jeIVSYtovQyTuskys78hD), [Eggedd](https://open.spotify.com/artist/0c41gp29ZkkV0ty4CGZ5SL), [MC Prime](https://open.spotify.com/artist/41E3AGIWTIVpYAHqMWkmYf) | [Armageddon Of The Mind](https://open.spotify.com/album/0Fcdx0OotNmGwUno1oGEUA) | 2:39 | 2022-12-02 |  |
+| [AROUND THE WORLD](https://open.spotify.com/track/3mgQBnxRvpOVZ2dsYzxmsh) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l), [Michelle Barth](https://open.spotify.com/artist/4ypSIxnbDQtY4LjdzLS9DO) | [AROUND THE WORLD](https://open.spotify.com/album/7ecd07HBfKzESTmmRP18eG) | 2:55 | 2024-04-05 |  |
 | [As It Was \- Hardstyle Mix](https://open.spotify.com/track/1ZJw273I4EbJCXsaChJLDA) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [As It Was \(Hardstyle Mix\)](https://open.spotify.com/album/0kDjioV0UoDp22cQZ0dz8h) | 2:51 | 2023-04-10 |  |
 | [Astronaut](https://open.spotify.com/track/3lmKEkj8uAnau5DXUdy2lh) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7), [Aksys](https://open.spotify.com/artist/2WkAW4OVlB8a8Lg7Ih0vlq) | [As The World Burns EP](https://open.spotify.com/album/4rels057ME85KTDJRGdJH8) | 4:12 | 2023-09-22 |  |
 | [Astronaut](https://open.spotify.com/track/0YdbIv7sZ4aWHE8gcgV00u) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Astronaut](https://open.spotify.com/album/6ZsBBSA5K5FqCHRj4uukYg) | 3:01 | 2022-12-02 |  |
@@ -799,6 +800,7 @@
 | [ONOMATO Pairing!!! \- SSLong ver.](https://open.spotify.com/track/5qpdju3IpfHQIMjLeFdNqs) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt), [Nanahira](https://open.spotify.com/artist/0bkkiFN0ghGl4j9aLi3oQx) | [Screamin' Showcase](https://open.spotify.com/album/1N1ynCOqZxE1PNc1oBsUqB) | 3:13 | 2022-08-11 |  |
 | [Onslaught](https://open.spotify.com/track/4H7xDFzHBFw9AeRkB549gM) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [Onslaught](https://open.spotify.com/album/0ScfxHBLENnu3Sf7tAFYJv) | 2:19 | 2022-08-11 |  |
 | [OOH LALA](https://open.spotify.com/track/0iSLjblXsl7VgS47ApVzZw) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [OOH LALA](https://open.spotify.com/album/04BjLtS6qyfbRXOIm2zjHI) | 2:24 | 2022-09-21 |  |
+| [OUR DESTRUCTION](https://open.spotify.com/track/5YwRFrawW6m3gQnnnbL5CO) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [OUR DESTRUCTION](https://open.spotify.com/album/1IiRHjrQnS8mkEbNSXo35H) | 3:16 | 2024-04-05 |  |
 | [Our Kingdom](https://open.spotify.com/track/1v0Nqnir1eJc7QTWo8t5nt) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [Our Kingdom](https://open.spotify.com/album/6x3Vwunw5rmltcSIYPEFC3) | 4:43 | 2022-08-23 |  |
 | [Our Memories](https://open.spotify.com/track/6HQwQv4rAacqVlGLCBLrqI) | [REDALiCE](https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK), [kors k](https://open.spotify.com/artist/667AP6niAXUnJkkum46TvZ), [Kotori Koiwai](https://open.spotify.com/artist/12q1go3q8W7t3PTSSX2peL) | [Our Memories](https://open.spotify.com/album/3xXmrtnzGqrEv4wK5KXziA) | 3:19 | 2023-10-20 |  |
 | [Out Of Control](https://open.spotify.com/track/2EPj1VLwNycb9Q4TeXJVIp) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [Out Of Control](https://open.spotify.com/album/4C09267QB07CdzJqXLWi4f) | 3:00 | 2023-06-30 |  |
@@ -1000,6 +1002,7 @@
 | [Sugar Daddy](https://open.spotify.com/track/562wxG0VqBaQdjwTNi24Lu) | [Mr\. Bassmeister](https://open.spotify.com/artist/5aT7fqsgVA5IKJHtkfpPDw) | [Sugar Daddy](https://open.spotify.com/album/233cyjdSMcF37MNJ038Sv5) | 4:28 | 2022-11-29 |  |
 | [suki.](https://open.spotify.com/track/369NWAhSd63ZsjB7J3Otjo) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB), [Haruno](https://open.spotify.com/artist/0mVFbXDUq3IzLcmWUIMzY3) | [MiraclePop Adventure!!!!!](https://open.spotify.com/album/6mQrXsjzpgMyGIg5KSHU7T) | 2:58 | 2023-05-20 |  |
 | [Summer Secrets](https://open.spotify.com/track/47EcxNsrHWXozZeAzuEfjN) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [RXBY](https://open.spotify.com/artist/1XpF2jsRjXNS7PXMfbOn0z) | [Summer Secrets](https://open.spotify.com/album/3dJXsDviKg5vCw87ovcji6) | 3:17 | 2023-04-21 |  |
+| [Summer SZN](https://open.spotify.com/track/4UtWFn5sFfQUT8xbYbjTwU) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [Summer SZN](https://open.spotify.com/album/7LkbdAPrjF6WZocfiVxqCm) | 2:53 | 2024-04-05 |  |
 | [Sunrise](https://open.spotify.com/track/2J9ttXlJoW4yo0eSH8asIf) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Sunrise](https://open.spotify.com/album/0Epjh2uppKZdPz2ooy7svA) | 3:34 | 2024-04-01 |  |
 | [Sunset](https://open.spotify.com/track/08a3cM7fEDeNawtydaxuOi) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh) | [Sunset](https://open.spotify.com/album/7irIrFNmusLs4zBtAImJe4) | 3:08 | 2023-06-02 |  |
 | [SUPER LIBRARIES](https://open.spotify.com/track/20LhBIsrznZeBUwJ3eqeRu) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb), [HiTNEX\-X](https://open.spotify.com/artist/6gtzMTR0gRV6BYYyo0z7AN) | [SUPER KEY GENERATOR](https://open.spotify.com/album/0QQVwPaGD5Vr33bYXy60lY) | 3:08 | 2023-05-02 |  |

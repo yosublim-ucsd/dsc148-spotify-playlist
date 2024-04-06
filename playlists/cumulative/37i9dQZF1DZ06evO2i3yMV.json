@@ -24,7 +24,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 68233,
       "name": "1st Boom",
       "url": "https://open.spotify.com/track/0ZQaDaNwhVqAuCWY98mXQY"
@@ -406,6 +406,28 @@
       "duration_ms": 237357,
       "name": "Death by Disco",
       "url": "https://open.spotify.com/track/4QRs1M6DYXbNkHHWlhvYvk"
+    },
+    {
+      "album": {
+        "name": "Die Trying",
+        "url": "https://open.spotify.com/album/2Ov7bn3HyDgvAxtYPLosUR"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175680,
+      "name": "Die Trying",
+      "url": "https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS"
     },
     {
       "album": {
@@ -964,7 +986,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 266345,
       "name": "House of Dal",
       "url": "https://open.spotify.com/track/0QppVcTeM2ZQlxKbHhs3pf"
@@ -1470,7 +1492,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 231639,
       "name": "Nxt Msg - Deletion Mix",
       "url": "https://open.spotify.com/track/04I7GkdacPUoq91OCjoyPe"
@@ -1540,7 +1562,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 185945,
       "name": "Penny",
       "url": "https://open.spotify.com/track/7HK2Wxzxn7PIDTpYRJbkh1"

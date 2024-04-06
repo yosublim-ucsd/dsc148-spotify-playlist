@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 189137,
+  "2024-04-06": 189335,
   "date_first_scraped": "2021-12-30",
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
   "name": "Feel Good Jazz",
@@ -2350,6 +2350,32 @@
     },
     {
       "album": {
+        "name": "Yesterdays",
+        "url": "https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Gary Peacock",
+          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497973,
+      "name": "Sleepin' Bee - Live",
+      "url": "https://open.spotify.com/track/2JHZAzNRrbZb2XV7UoJy8t"
+    },
+    {
+      "album": {
         "name": "Big Band Bossa Nova",
         "url": "https://open.spotify.com/album/1KSOL1jvue2lfcdsNZ7YN8"
       },
@@ -2617,7 +2643,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 144840,
       "name": "The Best Things In Life Are Free",
       "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"

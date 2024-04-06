@@ -1537,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "Firstu Benchina",
+        "url": "https://open.spotify.com/album/2rtCcDhlKwm8yCgmkKJspY"
+      },
+      "artists": [
+        {
+          "name": "Arfaz Ullal",
+          "url": "https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180192,
+      "name": "Firstu Benchina",
+      "url": "https://open.spotify.com/track/6Ic9ArrNBDAVwRHRxkF6BV"
+    },
+    {
+      "album": {
         "name": "FLYHIGH - Kannada",
         "url": "https://open.spotify.com/album/5I7FRC3Hy9Eg6CqKE29fvL"
       },
@@ -2786,7 +2804,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 166593,
       "name": "Kannada Balso",
       "url": "https://open.spotify.com/track/5XoGUpJ2Q7u2lBfpgznbxG"
@@ -2910,7 +2928,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 142608,
       "name": "Kelilli",
       "url": "https://open.spotify.com/track/7oVFj9kWbTuHbNafpcLqbi"

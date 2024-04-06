@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Dhvani Bhanushali",
+  "description": "New music from popular Hindi artists. Cover- Stebin Ben",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 156521,
       "name": "Akele Hum Akele Tum",
       "url": "https://open.spotify.com/track/4XamYarI5UCJPK2iKGqviu"
@@ -2135,6 +2135,28 @@
     },
     {
       "album": {
+        "name": "Baithe Raho",
+        "url": "https://open.spotify.com/album/1WNZD6MM8iscCVCt0tNLPr"
+      },
+      "artists": [
+        {
+          "name": "Shubham Srivastava",
+          "url": "https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc"
+        },
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204868,
+      "name": "Baithe Raho",
+      "url": "https://open.spotify.com/track/6Mol1TAaxvqUbVNntNHoo7"
+    },
+    {
+      "album": {
         "name": "Bana Hi Nahi Tha",
         "url": "https://open.spotify.com/album/47tdU90RtfE3Kmz8Ocqvd9"
       },
@@ -2150,7 +2172,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 194142,
       "name": "Bana Hi Nahi Tha",
       "url": "https://open.spotify.com/track/6hEDk4meQkfuUB4MVMCsMP"
@@ -5833,6 +5855,28 @@
     },
     {
       "album": {
+        "name": "Galti (feat. MxRZI)",
+        "url": "https://open.spotify.com/album/6xKcG6vHS4MJjNFEpqYdKs"
+      },
+      "artists": [
+        {
+          "name": "W.i.S.H.",
+          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
+        },
+        {
+          "name": "MxRZI",
+          "url": "https://open.spotify.com/artist/5xtJsbtEJXs2VpRBShJa1E"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211962,
+      "name": "Galti (feat. MxRZI)",
+      "url": "https://open.spotify.com/track/6x4XXWgys2J3FmuguwVyPP"
+    },
+    {
+      "album": {
         "name": "gande ilaake se",
         "url": "https://open.spotify.com/album/0MxPczG9E5HXSJXdLET8Rv"
       },
@@ -5892,7 +5936,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 140437,
       "name": "Ghabraye",
       "url": "https://open.spotify.com/track/4WaGtwSOWl5iECs36N27VC"
@@ -6158,7 +6202,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 262897,
       "name": "Gulaab Tum",
       "url": "https://open.spotify.com/track/1yFYVPFQZfRPPvPlVFF71s"
@@ -6526,7 +6570,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 205733,
       "name": "Halka Halka Sa",
       "url": "https://open.spotify.com/track/2ZNLjSD4JEOsVppqoEZDV2"
@@ -8907,6 +8951,32 @@
     },
     {
       "album": {
+        "name": "Kaabil",
+        "url": "https://open.spotify.com/album/5UQEprPnyNJfYiQ3bN3FR6"
+      },
+      "artists": [
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        },
+        {
+          "name": "Gurmeet Singh",
+          "url": "https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF"
+        },
+        {
+          "name": "Eemaan",
+          "url": "https://open.spotify.com/artist/5LolCWDYhmwWp7mfmbF4XX"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258368,
+      "name": "Kaabil",
+      "url": "https://open.spotify.com/track/4ixdqWRYP7kQykfHlMV1FF"
+    },
+    {
+      "album": {
         "name": "Kaafi Nahi",
         "url": "https://open.spotify.com/album/2NcPIGrXzAYCDRTKx19zcv"
       },
@@ -11132,7 +11202,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 144666,
       "name": "Kyun?",
       "url": "https://open.spotify.com/track/7JBn7exshAhc7V4TI6SYqR"
@@ -13876,7 +13946,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 192299,
       "name": "Nirmohi",
       "url": "https://open.spotify.com/track/2aOUEwMJ3AjE0iiv81AUkx"
@@ -14576,6 +14646,32 @@
       "duration_ms": 205543,
       "name": "Pehchaan",
       "url": "https://open.spotify.com/track/3ff9s6bbI3Vsv5aWAf9WNe"
+    },
+    {
+      "album": {
+        "name": "Pehla Ishq (From \"Ruslaan\")",
+        "url": "https://open.spotify.com/album/3DT0uYOkJ2HROxQEgNXsGE"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168038,
+      "name": "Pehla Ishq (From \"Ruslaan\")",
+      "url": "https://open.spotify.com/track/0P1aF7RFHvUSQcE75ZE2t1"
     },
     {
       "album": {
@@ -16451,6 +16547,32 @@
     },
     {
       "album": {
+        "name": "Sataya Gya",
+        "url": "https://open.spotify.com/album/6IqlPb3vOTXo6pc5s9On4I"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        },
+        {
+          "name": "Arjit Srivastava",
+          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302400,
+      "name": "Sataya Gya",
+      "url": "https://open.spotify.com/track/30HIyYiKlyGiwReaVd2q8D"
+    },
+    {
+      "album": {
         "name": "Sataya Na Karo",
         "url": "https://open.spotify.com/album/4By6bHCEWk8MXZEOmQjRUc"
       },
@@ -16684,7 +16806,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 175743,
       "name": "Shaamo Subah",
       "url": "https://open.spotify.com/track/3ewClNTDWp5hDfrYo0muDI"
@@ -18923,6 +19045,46 @@
     },
     {
       "album": {
+        "name": "Intezaar Tera",
+        "url": "https://open.spotify.com/album/0Ft2inptW4EOkOIks6DBqC"
+      },
+      "artists": [
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163024,
+      "name": "Tu Hai",
+      "url": "https://open.spotify.com/track/3l66ys6wEI5DPmvwgl0ak1"
+    },
+    {
+      "album": {
+        "name": "Tu Hai Kahaan (From \"Do Aur Do Pyaar\")",
+        "url": "https://open.spotify.com/album/2xkyBtiU8rMkow6ymV9cUe"
+      },
+      "artists": [
+        {
+          "name": "The Local Train",
+          "url": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0"
+        },
+        {
+          "name": "Lucky Ali",
+          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219153,
+      "name": "Tu Hai Kahaan - From \"Do Aur Do Pyaar\"",
+      "url": "https://open.spotify.com/track/5qu00elDJgCJMlbCLlTsvD"
+    },
+    {
+      "album": {
         "name": "Tu Hai Meri Zindagi",
         "url": "https://open.spotify.com/album/0DRvGzLxgwBM5UuGHfZDHv"
       },
@@ -20876,7 +21038,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 177272,
       "name": "Zahir",
       "url": "https://open.spotify.com/track/1J86cSSBnwaYRnkfg8TmeS"
@@ -20920,6 +21082,36 @@
       "duration_ms": 253513,
       "name": "Zaroori Tha - Acoustic",
       "url": "https://open.spotify.com/track/5OSYTJTR2geTLBWuR4IKkV"
+    },
+    {
+      "album": {
+        "name": "Zehnaseeb",
+        "url": "https://open.spotify.com/album/56m1MtNP6lnghtASMg0Ejb"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        },
+        {
+          "name": "KASYAP",
+          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195243,
+      "name": "Zehnaseeb",
+      "url": "https://open.spotify.com/track/60qCUp3iLVIVCiZWpOIy0e"
     },
     {
       "album": {

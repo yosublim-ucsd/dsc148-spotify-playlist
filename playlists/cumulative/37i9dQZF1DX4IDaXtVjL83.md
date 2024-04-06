@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Jennifer Lopez, \(G\)I\-DLE\)
 
-168 songs - 8 hr 58 min
+169 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Darling](https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Darling](https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm) | 3:02 | 2022-05-30 |  |
 | [Day by day](https://open.spotify.com/track/7mvy2MRpKoyOjjEFRUp9CC) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Day by day](https://open.spotify.com/album/4eBOodfhDjoNCsPLzj3OHz) | 3:08 | 2021-12-20 | 2022-01-22 |
 | [Delicious](https://open.spotify.com/track/53gU09JrGtZfXTPBFpukKr) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Delicious](https://open.spotify.com/album/315iKfEODZns5S32HhcapU) | 3:17 | 2023-06-08 |  |
+| [Die Trying](https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Die Trying](https://open.spotify.com/album/2Ov7bn3HyDgvAxtYPLosUR) | 2:55 | 2024-04-05 |  |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-07 |  |
 | [Dreamers](https://open.spotify.com/track/3rpJA5YqsZKIh1Wb71pR20) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Dreamers](https://open.spotify.com/album/32xNTIA4avuQXwY9jLzIrH) | 3:33 | 2021-12-20 | 2022-02-24 |
 | [Dumb \(feat\. Sonnet\) \- Remix](https://open.spotify.com/track/3YWWj0sze9RqfHlhdYWg6Z) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B) | [Dumb \(feat\. Sonnet\) \[Remix\]](https://open.spotify.com/album/6A7Fi2YTBwaXAedyWpltOk) | 3:12 | 2021-12-20 | 2022-02-25 |

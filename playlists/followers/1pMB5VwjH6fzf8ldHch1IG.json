@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 46128,
+  "2024-04-06": 46126,
   "date_first_scraped": "2023-11-08",
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.",
   "name": "Trending Now",
@@ -2803,7 +2803,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 157241,
       "name": "lavender",
       "url": "https://open.spotify.com/track/7LHVrlM6Eqeiw9kLBrMbeP"
@@ -5145,6 +5145,24 @@
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
+    },
+    {
+      "album": {
+        "name": "TEXAS HOLD 'EM (PONY UP) REMIX",
+        "url": "https://open.spotify.com/album/1X75jBTdqVxa8tOs15yPoi"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200737,
+      "name": "TEXAS HOLD 'EM (PONY UP) REMIX",
+      "url": "https://open.spotify.com/track/5vrUXAD0UfFIVCrBkJ8Kq7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Haller, soffie
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,494 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,565 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [kenn ich auch](https://open.spotify.com/track/4R612vH0xIrZS89mPpX6hp) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [kenn ich auch](https://open.spotify.com/album/0NiRFXZYyBHNsTdFjXsepw) | 2:43 |
 | 75 | [VERLIEREN](https://open.spotify.com/track/4bKEoSGhVarLobfnBQ5615) | [Fullax](https://open.spotify.com/artist/6ODqkJhXHZhY4PpqGqou7A) | [VERLIEREN](https://open.spotify.com/album/69Hk90ekT8Lypnk2dE0mrb) | 3:11 |
 
-Snapshot ID: `MCw3Y2YxNjg3MTlhY2JjYmQxODlkN2RhODdhNmZjMTBmNTUxZGY4MGMy`
+Snapshot ID: `MCwzZjllMzVmZTU5ZjBiZGQxMTFjY2Q1MGQ2YTI2MmM5YzIyMzY1ZGQ0`

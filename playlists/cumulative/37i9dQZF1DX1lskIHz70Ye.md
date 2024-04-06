@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-156 songs - 7 hr 52 min
+157 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [La Sete D'Amore](https://open.spotify.com/track/4wLcJj4nrjiYGn3iRaDAmq) | [Elmer Soulé](https://open.spotify.com/artist/4lpow0wYafRp1sMMyCbOe2) | [La Sete D'Amore](https://open.spotify.com/album/3n5FEuPpGPkDhnG4jWJb8V) | 1:34 | 2022-06-10 | 2023-09-15 |
 | [La Ultima Vez](https://open.spotify.com/track/4ohd4Soqh0KVuT3c5wVNs5) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Alma Azul](https://open.spotify.com/album/573aR866i22zkC8OTWKOVU) | 2:10 | 2022-03-03 |  |
 | [Lake Tahoe](https://open.spotify.com/track/1WzAwlgMrKrbImVPK7nxHY) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 3:02 | 2022-03-03 |  |
+| [Lascia Fare A Me](https://open.spotify.com/track/6w9aMtE5ZxHnOrfzSkDuTs) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Lascia Fare A Me](https://open.spotify.com/album/293fwp3wtlduTDJxkRVUOv) | 3:05 | 2024-04-05 |  |
 | [Lembrei de Você](https://open.spotify.com/track/2qXVRAwRPbnPOTQv9ov0Zq) | [João Callado](https://open.spotify.com/artist/6eDeimOkEXaz1QkTkRuGjB), [Maurício Massunaga](https://open.spotify.com/artist/66CvqABI3thHckYwuwxk6i) | [Lembrei de Você](https://open.spotify.com/album/7qyVZP9PsptfF9ERJe7OpL) | 4:08 | 2022-07-15 |  |
 | [Life As We Knew It](https://open.spotify.com/track/2GMPd1Imsdm4l9nQAdLKEe) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Life As We Knew It](https://open.spotify.com/album/3F8Wf8zgwhjhisqdpTGcG5) | 3:37 | 2022-10-07 |  |
 | [Longing For Some Sunshine](https://open.spotify.com/track/2th2s4TDymYISksJgJCyT4) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Longing For Some Sunshine](https://open.spotify.com/album/0KPkh56c8ctM3Z6pcwMPpw) | 3:12 | 2023-06-02 | 2023-08-17 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 1415703,
+  "2024-04-06": 1416111,
   "date_first_scraped": "2021-12-28",
   "description": "Sleep with sounds of pouring rain and occasional rolling thunder.",
   "name": "Night Rain",
@@ -305,7 +305,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 177350,
       "name": "Balcony Rain",
       "url": "https://open.spotify.com/track/2hQW9bQ8dU69juNx98Kqw4"
@@ -7113,6 +7113,24 @@
       "duration_ms": 220000,
       "name": "Strike of Lightning",
       "url": "https://open.spotify.com/track/16sx5xwm1gENlnG4HaKR3X"
+    },
+    {
+      "album": {
+        "name": "Strong Rain",
+        "url": "https://open.spotify.com/album/2HmENem14B3nlOrKgHRskI"
+      },
+      "artists": [
+        {
+          "name": "Organic Nature",
+          "url": "https://open.spotify.com/artist/51pWYHXlT0KXM8zYZ6IhRa"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Strong Rain",
+      "url": "https://open.spotify.com/track/5WCKWlR0uNc6SxBlSqh5zj"
     },
     {
       "album": {

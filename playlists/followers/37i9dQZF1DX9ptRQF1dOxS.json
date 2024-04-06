@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 23363,
+  "2024-04-06": 23704,
   "date_first_scraped": "2021-12-28",
   "description": "Listen to women at full volume. Cover: Paris Paloma",
   "name": "EQUAL UK & Ireland ",
@@ -19818,6 +19818,24 @@
     },
     {
       "album": {
+        "name": "Whatever You Want",
+        "url": "https://open.spotify.com/album/3LcMJUKvD40lP4a3AjQVzc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220552,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty"
+    },
+    {
+      "album": {
         "name": "Over When It's Over",
         "url": "https://open.spotify.com/album/6jDVKFjMqctoXlhxDl0FyW"
       },
@@ -19829,7 +19847,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 220552,
       "name": "Whatever You Want",
       "url": "https://open.spotify.com/track/5vfbSgUkODCDdaZlKBF5Ji"

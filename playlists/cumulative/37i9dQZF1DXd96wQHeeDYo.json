@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Bad Manners",
+        "url": "https://open.spotify.com/album/63qvetDwo0g9pxKYPkXWN4"
+      },
+      "artists": [
+        {
+          "name": "ANGEL22",
+          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134212,
+      "name": "Bad Manners",
+      "url": "https://open.spotify.com/track/6HK0zQ7P9pqBW5yZLB82JS"
+    },
+    {
+      "album": {
         "name": "Baila (dan\u00e7a) [feat. D-Lex]",
         "url": "https://open.spotify.com/album/4h2IbOvQ8bZHPEvHW1lkW6"
       },
@@ -1066,7 +1084,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 129714,
       "name": "LALA",
       "url": "https://open.spotify.com/track/4cnsPDehVLtnwm4xnjMCDy"
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 194604,
       "name": "Pasitos Jaguari",
       "url": "https://open.spotify.com/track/5ARbsW2nxaIH8CQT5X0xdk"
@@ -1630,6 +1648,32 @@
       "duration_ms": 187153,
       "name": "Sou Musa do Ver\u00e3o",
       "url": "https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc"
+    },
+    {
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Linda Martell",
+          "url": "https://open.spotify.com/artist/78adFi9EyRkMh3CTIatrV9"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158477,
+      "name": "SPAGHETTII",
+      "url": "https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI"
     },
     {
       "album": {

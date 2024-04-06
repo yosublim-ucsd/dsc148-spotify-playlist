@@ -1,13 +1,37 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
-  "num_followers": 63662,
+  "num_followers": 63659,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "MTgxNyxmNjI2ZmYyOTczODc5Y2Y5MTk4NGZjM2U5NWYwNWQyZWM4YmM0ZmRl",
+  "snapshot_id": "MTgxOSxhNGFmNGY2ZDBkNGY0Mzg4MDVkNTcxYmJmMGViNmMwZjc3NWU1YzAx",
   "tracks": [
+    {
+      "added_at": "2024-04-05 11:44:05",
+      "album": {
+        "name": "Nocturnes, Op. 55: I. Andante (Arr. for Cello & Piano by Julian Riem)",
+        "url": "https://open.spotify.com/album/19URJzQHLZGf3TbfKSsN3D"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Olga Scheps",
+          "url": "https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        }
+      ],
+      "duration_ms": 317676,
+      "name": "Nocturnes, Op. 55: I. Andante (Arr. for Cello & Piano by Julian Riem)",
+      "url": "https://open.spotify.com/track/25UvpN42Ghr4OdUcDmytqU"
+    },
     {
       "added_at": "2024-04-01 14:05:02",
       "album": {
@@ -67,6 +91,26 @@
       "duration_ms": 281688,
       "name": "Sibyl",
       "url": "https://open.spotify.com/track/5e7ZqygmgjXopvIjJmWOES"
+    },
+    {
+      "added_at": "2024-04-05 11:44:26",
+      "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/7wGanYu9hC4Psgbqll3XL3"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "duration_ms": 344880,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/5tGGaozQBrq2TuVG6RqJtj"
     },
     {
       "added_at": "2024-02-05 13:34:58",

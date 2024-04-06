@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover:  Yaw Tog
 
-474 songs - 23 hr 52 min
+476 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Balotteli X](https://open.spotify.com/track/7DDk2zW6zAZto4uHlSMTiH) | [Kreptismenace](https://open.spotify.com/artist/7hfJIAZM4bU4kqRHikQvOz) | [Balotteli X](https://open.spotify.com/album/7zBdUgAHyT2Hpu6ktioxtD) | 1:44 | 2024-02-16 | 2024-03-08 |
 | [Banana](https://open.spotify.com/track/3hAivMNpJoEXtKFJF7PRZ7) | [Kid Kwesi](https://open.spotify.com/artist/2k5bJbEP7zZz1vK1p7jRPj) | [Banana](https://open.spotify.com/album/0uJAflveTHwoNBX7ydKeH1) | 2:39 | 2024-03-08 | 2024-03-22 |
 | [Bang](https://open.spotify.com/track/6tihOaexrFJpNs1WfhN7Dg) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Joey B](https://open.spotify.com/artist/4yd9pnjGwTVh3azJCoJrzT) | [Acheampong Boys](https://open.spotify.com/album/0XdOVWE2y2A5XOGpTdr6pZ) | 2:46 | 2022-06-24 | 2023-04-15 |
+| [BarCode 10](https://open.spotify.com/track/7KMeiRyx9ScLp99MP0N3VN) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [BarCode 10](https://open.spotify.com/album/6ds4FFIlSzLNc62A9i861T) | 3:36 | 2024-04-05 |  |
 | [BarCode 9](https://open.spotify.com/track/1nL0u9ct9D4C8YhmyV4g5W) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [Kevin Beats](https://open.spotify.com/artist/1xNTcmdxZlrVvWbLgn745m) | [BarCode 9](https://open.spotify.com/album/52q7G1CJMkyzlab4Bfi8jT) | 3:08 | 2023-11-24 | 2024-01-05 |
 | [Benz \(Garri\)](https://open.spotify.com/track/3a9WcZmIjrQUZuqXQexjfQ) | [Tega Starr](https://open.spotify.com/artist/7eMEsvFtjB98DoqU8tzACb) | [Benz \(Garri\)](https://open.spotify.com/album/32VQcY1YlbfTDDtr4LjPE3) | 3:12 | 2023-03-02 | 2023-03-18 |
 | [Benzo](https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw) | [Dj Adwoa](https://open.spotify.com/artist/3JfFJpaSpXYHQKivBzJhZ1), [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Benzo](https://open.spotify.com/album/0Aci22BAMAs616RwXIVSk1) | 2:47 | 2022-06-24 | 2024-01-05 |
@@ -387,6 +388,7 @@
 | [Shamor Diamonds](https://open.spotify.com/track/1s1QDXGn7vEB3ewnQg9ux2) | [Kev the Topic](https://open.spotify.com/artist/4MahedKXMQXH2Dt0nKyN8s), [Nana Grenade](https://open.spotify.com/artist/1UsLliECctwMwm75LCYU9K) | [Shamor Diamonds](https://open.spotify.com/album/5GzLmYkpQbtzOGIKjh1tzw) | 2:20 | 2024-02-23 | 2024-03-08 |
 | [Shine Your Eye](https://open.spotify.com/track/2Yln2fcUp5y3C1igJaPuWB) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [Shine Your Eye](https://open.spotify.com/album/6fG3vEiH8iF4mdmCLBpB5U) | 2:23 | 2023-08-10 | 2023-09-15 |
 | [Show Working](https://open.spotify.com/track/2mwqFfDi6vQCI5QFUp1g1I) | [st Lennon](https://open.spotify.com/artist/1EwRNWlGnMEf3K515NAPvB) | [Show Working](https://open.spotify.com/album/6EP7oNJfif0bUl2AFxWWSn) | 2:08 | 2024-01-12 | 2024-03-08 |
+| [Shut Up](https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Shut Up](https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j) | 3:12 | 2024-04-05 |  |
 | [SHUT UP](https://open.spotify.com/track/371cXO3R3YSHWZB4HqNd5h) | [Supa Gaeta](https://open.spotify.com/artist/7icmABGIHlSbuTXU206Obz), [Yung Pabi](https://open.spotify.com/artist/0JpqpPBdb4jg4mswm0CdFj), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [SHUT UP](https://open.spotify.com/album/0Vy9oEDqvIlQFovz7ozQA8) | 3:41 | 2022-09-08 | 2022-10-22 |
 | [Sika](https://open.spotify.com/track/5lV4Y37uIq7RkmDhLvIsJr) | [Okyeame Kwame](https://open.spotify.com/artist/03PFnT5fu6TcuZMu1ZBvz4), [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Sika](https://open.spotify.com/album/350x7UlHy9nSUhCAAmMCqL) | 3:25 | 2024-03-01 |  |
 | [Sika Aba Fie](https://open.spotify.com/track/49funs5AE0mA3ojLUm6OhG) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Sika Aba Fie](https://open.spotify.com/album/7DOlvUNAeNvw086kCRACta) | 3:18 | 2023-11-10 | 2024-01-05 |

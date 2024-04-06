@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "poetisas no topo (com ctz) \u00e9 AULAS ",
+  "description": "bivolt xis e o maestro do can\u00e3o \u00e9 (smp ser\u00e1) AULAS",
   "name": "AULAS",
   "tracks": [
     {
@@ -112,6 +112,28 @@
       "duration_ms": 180000,
       "name": "22",
       "url": "https://open.spotify.com/track/5dUBA8qXLPcw3TqDoINuMg"
+    },
+    {
+      "album": {
+        "name": "26 de Janeiro",
+        "url": "https://open.spotify.com/album/3aWlbpjLMzofrqMA72EMPn"
+      },
+      "artists": [
+        {
+          "name": "Arnaldo Tifu",
+          "url": "https://open.spotify.com/artist/2C1NxCWJbCkONI77zMisTx"
+        },
+        {
+          "name": "DJ B8",
+          "url": "https://open.spotify.com/artist/3PH6x2yZ6Gb0iPIYj6XQAB"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73411,
+      "name": "26 de Janeiro",
+      "url": "https://open.spotify.com/track/689NkHDWeJ8U534oLUOF1F"
     },
     {
       "album": {
@@ -766,7 +788,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 157586,
       "name": "As Preta Primeiro",
       "url": "https://open.spotify.com/track/7L1JQv9Lg1QFMmiGvUmQDq"
@@ -970,6 +992,32 @@
       "duration_ms": 162000,
       "name": "Beira Mar",
       "url": "https://open.spotify.com/track/3D4H9CEYCjP7KuHQ8JZVtv"
+    },
+    {
+      "album": {
+        "name": "Eu Ainda Tenho Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184863,
+      "name": "Besteiras",
+      "url": "https://open.spotify.com/track/5K4HRJIIr39tHJBpD0YeyC"
     },
     {
       "album": {
@@ -1240,6 +1288,40 @@
       "duration_ms": 155454,
       "name": "Caminho pro Seu Ouvido - Remix",
       "url": "https://open.spotify.com/track/4oBoAlKwocOTOyKJWiYuJC"
+    },
+    {
+      "album": {
+        "name": "Sabotage 50",
+        "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
+      },
+      "artists": [
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        },
+        {
+          "name": "Chor\u00e3o",
+          "url": "https://open.spotify.com/artist/5u3nOqtEJfhFUuPR9EjnkC"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Klean",
+          "url": "https://open.spotify.com/artist/6BDwa2IOkZ2Hr4OBeTloE2"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219811,
+      "name": "Cantando Pro Santo - Sabotage 50",
+      "url": "https://open.spotify.com/track/2JnVsVmzL1ckqIirBznMKo"
     },
     {
       "album": {
@@ -2116,7 +2198,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 86473,
       "name": "Document\u00e1rio",
       "url": "https://open.spotify.com/track/2ndTkGWb7m80kMNNfQUq1e"
@@ -3132,7 +3214,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 243032,
       "name": "J\u00e1 \u00c9 Tarde",
       "url": "https://open.spotify.com/track/2Et0DMAf1syfTEazKYcA7d"
@@ -3628,7 +3710,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 194400,
       "name": "Mais Um Voo",
       "url": "https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU"
@@ -3954,7 +4036,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 143381,
       "name": "Momentos",
       "url": "https://open.spotify.com/track/4gXbu96gGyRM52KFYGBge5"
@@ -4210,6 +4292,36 @@
       "duration_ms": 152375,
       "name": "Negr\u00e3o Demais",
       "url": "https://open.spotify.com/track/7AGJTioC8QBnGWJlhxHXuq"
+    },
+    {
+      "album": {
+        "name": "Sabotage 50",
+        "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
+      },
+      "artists": [
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Xis",
+          "url": "https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222351,
+      "name": "No Brooklin - Sabotage 50",
+      "url": "https://open.spotify.com/track/7qe83eUTv4IbvMYCYCOAbu"
     },
     {
       "album": {
@@ -4844,6 +4956,32 @@
       "duration_ms": 143448,
       "name": "Passageiro",
       "url": "https://open.spotify.com/track/3bIwxQiKV8AT6BYUYK241m"
+    },
+    {
+      "album": {
+        "name": "Viv\u00eancias Freestyle",
+        "url": "https://open.spotify.com/album/6fR0HPPi0TkvmBo00xRFAi"
+      },
+      "artists": [
+        {
+          "name": "Gyylo",
+          "url": "https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS"
+        },
+        {
+          "name": "Elleven",
+          "url": "https://open.spotify.com/artist/6FerfPxCj95ySUPXJUbWUW"
+        },
+        {
+          "name": "gustxn",
+          "url": "https://open.spotify.com/artist/2p4v0G1XuRSieW1G2KrDKc"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109718,
+      "name": "Pelo Centro",
+      "url": "https://open.spotify.com/track/5ZrvRNAciCEIlBE16oDeCq"
     },
     {
       "album": {
@@ -5742,7 +5880,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 160000,
       "name": "Ra\u00fal",
       "url": "https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp"
@@ -5764,7 +5902,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 101333,
       "name": "Reduto de Malandro",
       "url": "https://open.spotify.com/track/6AIOAo6lOe9qvoy76LH17j"
@@ -5802,6 +5940,24 @@
       "duration_ms": 221653,
       "name": "Reflexo",
       "url": "https://open.spotify.com/track/6TjdoPPor1t4gajeMNQMBE"
+    },
+    {
+      "album": {
+        "name": "Regress\u00e3o de Pensamentos",
+        "url": "https://open.spotify.com/album/7E7xToJdp8EVIfwO8TmHU8"
+      },
+      "artists": [
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "Regress\u00e3o de Pensamentos",
+      "url": "https://open.spotify.com/track/0yHwruNJwzJCoHBZhprCTX"
     },
     {
       "album": {
@@ -6186,6 +6342,28 @@
       "duration_ms": 147326,
       "name": "Sei L\u00e1 (Papatracks#7)",
       "url": "https://open.spotify.com/track/7DDTnzUzUiynlMQwGqWuJz"
+    },
+    {
+      "album": {
+        "name": "Sem Bala Contada",
+        "url": "https://open.spotify.com/album/4WlO7hqFv8sn7QYJ6Dm03S"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167516,
+      "name": "Sem Bala Contada",
+      "url": "https://open.spotify.com/track/2yTuoDzpNuo2hiQvxFrD4f"
     },
     {
       "album": {

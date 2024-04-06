@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV?si=mMyzJUpIQgGQip215_7lfg\"> Ethic Entertainment </a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz?si=XXV_jXQVQkSGDRAmSK-IrA\"> Chris Kaiga </a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 146654,
       "name": "Genge Banger",
       "url": "https://open.spotify.com/track/6TiMhtf3KMsoSWL16dBzxB"
@@ -2660,6 +2660,28 @@
       "duration_ms": 211764,
       "name": "Huu Mwaka - Remix",
       "url": "https://open.spotify.com/track/0BLC66BuaecDwB6IAwBQLt"
+    },
+    {
+      "album": {
+        "name": "Adventures of Chris Kaiga",
+        "url": "https://open.spotify.com/album/1lib5N5QFDOCOWloEQ6vZP"
+      },
+      "artists": [
+        {
+          "name": "Chris Kaiga",
+          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
+        },
+        {
+          "name": "Mutoriah",
+          "url": "https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191797,
+      "name": "I Want",
+      "url": "https://open.spotify.com/track/4QCjaBCCFbJmbwjRzt36Y2"
     },
     {
       "album": {
@@ -6938,7 +6960,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 151719,
       "name": "Summer Bunny",
       "url": "https://open.spotify.com/track/20wywVO84oJscsnS41xRwB"
@@ -7268,6 +7290,32 @@
       "duration_ms": 209684,
       "name": "Toto La Kanairo",
       "url": "https://open.spotify.com/track/0LIOVRKJOYmzgC3MbYfYrN"
+    },
+    {
+      "album": {
+        "name": "Tumerudiana",
+        "url": "https://open.spotify.com/album/7h4bdZpmtVNN4xPgy0sjTE"
+      },
+      "artists": [
+        {
+          "name": "Vic West",
+          "url": "https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184147,
+      "name": "Tumerudiana",
+      "url": "https://open.spotify.com/track/54XeFjxAWsp6RiKB52uVHF"
     },
     {
       "album": {

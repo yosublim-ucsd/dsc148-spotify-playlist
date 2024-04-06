@@ -4,7 +4,7 @@
 
 > Rest in peace Cola Boyy.
 
-952 songs - 2 day 14 hr 9 min
+954 songs - 2 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,8 +85,9 @@
 | [Bang, Bang](https://open.spotify.com/track/4bsIkm7Cs5TVyNkQCLsZtY) | [Cheerleader](https://open.spotify.com/artist/40kHkqamhwCMOaQtiaPDiX) | [Bang, Bang](https://open.spotify.com/album/4y50cmoj2o9hBEoeGnD9lD) | 3:53 | 2021-04-02 | 2022-04-21 |
 | [Be Cool](https://open.spotify.com/track/4TN1EDQ5WRwgxr8d09KFYB) | [j\. pastel](https://open.spotify.com/artist/4e0F3Bqyp0BpE3VmNh4qKS) | [Waiting Days](https://open.spotify.com/album/5yGt0bFfz9IV0z8XXjaO8H) | 3:38 | 2021-11-05 | 2022-07-29 |
 | [Be Yourself](https://open.spotify.com/track/2GV1Oif2Y3jDk380qfgsz8) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1) | [Be Yourself](https://open.spotify.com/album/4uQjXmaXCFSdrVDqOPKelo) | 2:58 | 2023-01-27 | 2023-03-25 |
-| [Beanie](https://open.spotify.com/track/0NOaEisILvRznCAco87cpI) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ) | 2:12 | 2024-02-16 |  |
+| [Beanie](https://open.spotify.com/track/0NOaEisILvRznCAco87cpI) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ) | 2:12 | 2024-02-16 | 2024-04-06 |
 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 | 2024-02-16 | 2024-03-11 |
+| [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2024-02-16 |  |
 | [Beige 70](https://open.spotify.com/track/5iOJEhb7tfOAdE0EY2sO9J) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8) | [Black Boogie Neon](https://open.spotify.com/album/7bwDhwT2h6szBjdV5AJ1NO) | 3:28 | 2024-03-19 |  |
 | [Believe It All](https://open.spotify.com/track/18g0dbNld1sghMgOofVq6N) | [Sunfruits](https://open.spotify.com/artist/0ihk9wQDn5mHeCYTkgj6gy) | [Believe It All](https://open.spotify.com/album/6wlVXIT3BuEGCYsj6a1GOu) | 4:07 | 2022-11-10 | 2023-01-28 |
 | [Bellyache](https://open.spotify.com/track/62e4OXEaBAIx246KNSwezM) | [Yak](https://open.spotify.com/artist/2EVlbKnHoS3sRVmm4gPf3x) | [Bellyache](https://open.spotify.com/album/4dp1C1s51Z5RkWZXwAWoxm) | 3:41 | 2021-04-02 | 2022-04-20 |
@@ -647,6 +648,7 @@
 | [Planet Express](https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Hitchhiker](https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe) | 4:20 | 2024-01-02 |  |
 | [Poisoned](https://open.spotify.com/track/4QsDdmKODqrc9vr6Yb3jlZ) | [Cousin Kula](https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd) | [Poisoned](https://open.spotify.com/album/4GV7zlEZ8pxZ4uQEz9alvz) | 4:05 | 2023-12-01 |  |
 | [Polvo de diamantes](https://open.spotify.com/track/1nin943ESpUGkceZE0hueD) | [Rufus T\. Firefly](https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1) | [Polvo de diamantes](https://open.spotify.com/album/2rJcykZe2isoW44xBKjynM) | 5:16 | 2021-09-10 | 2022-04-18 |
+| [Poppies](https://open.spotify.com/track/09mdfY9whnrcj5bkPJSoj2) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Poppies](https://open.spotify.com/album/3CaDI5YJRgCA2gaogiOXkF) | 3:32 | 2024-04-05 |  |
 | [Portia](https://open.spotify.com/track/5BudjBzFyPFpHfgLkKqja1) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Portia](https://open.spotify.com/album/6L2ktalG95PWiI7BpB9YcV) | 3:20 | 2023-05-05 | 2023-09-30 |
 | [Possibilities](https://open.spotify.com/track/02sCcp0dfMOZ644LDcDUZF) | [The Great Escape](https://open.spotify.com/artist/1kPPXyGPHwbZGsnuxFtjYg) | [Possibilities](https://open.spotify.com/album/3AvsHikvd4mLWgLkchQv8n) | 4:12 | 2023-07-13 |  |
 | [Post Mortem Debugging](https://open.spotify.com/track/6QjieXJmF0K9GdpREPxUl9) | [Cactus?](https://open.spotify.com/artist/5Hi8a6gHwKemLmHVXMkCif) | [Post Mortem Debugging](https://open.spotify.com/album/7Bb8M9dPhPr4mjINqs0fm4) | 2:49 | 2021-04-02 | 2022-04-20 |

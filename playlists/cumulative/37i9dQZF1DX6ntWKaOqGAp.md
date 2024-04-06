@@ -4,7 +4,7 @@
 
 > The biggest Japanese rock hits right now\.  Cover: THE BAWDIES　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-1,416 songs - 3 day 16 hr 42 min
+1,417 songs - 3 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,6 +617,7 @@
 | [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 | 2023-07-04 | 2023-07-06 |
 | [sober](https://open.spotify.com/track/4NtUaT4zPdsTJZdpalhDtk) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [sober](https://open.spotify.com/album/4it2euGFHyEt4jQjaiCSKu) | 2:52 | 2023-07-04 | 2023-07-19 |
 | [Soft](https://open.spotify.com/track/46kf0DQPAwyhDd23ZM2JEf) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [DOG](https://open.spotify.com/album/64DCWgSH8r5a4l2Irav3fh) | 3:51 | 2023-05-23 | 2023-07-05 |
+| [Sonata's Darkness](https://open.spotify.com/track/0RXWUKoYwBSftAYgR0nKNC) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [Sonata's Darkness](https://open.spotify.com/album/6AVnMkwWRf4m7JQpraVhRW) | 3:09 | 2024-04-04 |  |
 | [SONG](https://open.spotify.com/track/2ymS78X5VTuW7aWlULYn6C) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [be with you](https://open.spotify.com/album/6A2VRRwE1H5yEykoN8T1Zs) | 3:57 | 2024-01-23 |  |
 | [Song for you](https://open.spotify.com/track/72v02xOSWuDQphZPZTqxzp) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BUDDY CLUB](https://open.spotify.com/album/0nNF3J9mHGy8v07hWoBLiI) | 2:18 | 2023-04-25 | 2023-05-10 |
 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 | 2024-02-20 |  |
@@ -955,7 +956,7 @@
 | [スワイプ](https://open.spotify.com/track/5XSthsJw3wv8mddwrIeUPP) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [スワイプ](https://open.spotify.com/album/7yYagnUne0gmaJT4nM0BmR) | 5:46 | 2023-04-25 | 2023-06-09 |
 | [スーパーソニックガール](https://open.spotify.com/track/7rwKeQuNEAvVGXhWthB0Wq) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [スーパーソニックガール](https://open.spotify.com/album/7oIk2e89EVOFFeKqtsz1IX) | 3:01 | 2024-02-06 | 2024-02-08 |
 | [センスレス・ワンダー\[ReREC\]](https://open.spotify.com/track/0vxB49O2ae1Hf3LWw3xoXq) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [10年後のセンスレス・ワンダー](https://open.spotify.com/album/4DhpPwIwj55p5Wbvi6mb53) | 4:18 | 2024-01-23 | 2024-03-13 |
-| [ソナタの暗闇](https://open.spotify.com/track/18rQoOco3JpMG5ALvI5KqE) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [ソナタの暗闇](https://open.spotify.com/album/5vuV6tPPzhv0JMJ7sEx87W) | 3:09 | 2024-04-02 |  |
+| [ソナタの暗闇](https://open.spotify.com/track/18rQoOco3JpMG5ALvI5KqE) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [ソナタの暗闇](https://open.spotify.com/album/5vuV6tPPzhv0JMJ7sEx87W) | 3:09 | 2024-04-02 | 2024-04-06 |
 | [ソニックムーブ](https://open.spotify.com/track/2SRFdavgZclceAugBxoM13) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [ソニックムーブ](https://open.spotify.com/album/67Ab1P3S8heq8cinjEDhbj) | 4:03 | 2024-03-19 |  |
 | [ソングオブザデッド](https://open.spotify.com/track/3GPFWYiSU3CVJLqxiRt31n) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/1djd2IEnvJiVpcaP4d9Xsk) | 3:15 | 2023-07-11 | 2023-09-20 |
 | [ソングオブザデッド 2](https://open.spotify.com/track/1PYIyU3CfApIifbaUl4PN6) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/06vrKo270aXhoXtN6DURUA) | 3:29 | 2023-09-20 | 2023-10-25 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWosUgW8r4Gq.md) - [plain]
 
 > Music from "Laid\-Back Camp"! /音楽で辿る「ゆるキャン△」の世界。©あfろ・芳文社／野外活動委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,325 likes - 42 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,378 likes - 43 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [レイドバックジャーニー](https://open.spotify.com/track/7gAXePaogDXebFVcmN8DEU) | [キミのね](https://open.spotify.com/artist/28La3YWZze3hrTAStA8g1k) | [レイドバックジャーニー](https://open.spotify.com/album/3zoy7kb2Rko2brzwK2PbSW) | 3:26 |
-| 2 | [So Precious](https://open.spotify.com/track/1xq5OxDUGhqBFXgjC9TGPK) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [So Precious](https://open.spotify.com/album/6LexuWYpwKbdy00OH8l9Xk) | 3:29 |
+| 1 | [Laid Back Journey](https://open.spotify.com/track/3eY3Hvvbkq3QPjBy6J2Kjm) | [キミのね](https://open.spotify.com/artist/28La3YWZze3hrTAStA8g1k) | [Laid Back Journey](https://open.spotify.com/album/4iXf3d9jkT9HtkzIP4gfBq) | 3:26 |
+| 2 | [So Precious](https://open.spotify.com/track/6apVanen4xNhOipSav71hX) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [So Precious](https://open.spotify.com/album/0NeQnk6t4tRFgVHKPg8CMw) | 3:29 |
 | 3 | [Sun is coming up](https://open.spotify.com/track/4lJh5osg5IhxYdD2WbnFYh) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Who’s Me?](https://open.spotify.com/album/0Rkxo1b5OMjDR3II0flvm4) | 4:15 |
 | 4 | [Mimosa](https://open.spotify.com/track/3oWzRxN7qFqjeoMgfZkgRE) | [佐々木恵梨](https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf) | [Mimosa](https://open.spotify.com/album/5M0BERj5L8qIRfxU4Emjdg) | 4:19 |
 | 5 | [SHINY DAYS](https://open.spotify.com/track/3V7mWY7bwabSRPOOuJ7rcN) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [SHINY DAYS\(TVアニメ「ゆるキャン△」OPテーマ\)](https://open.spotify.com/album/799UkSmpzMBG2Ni6PO3zDc) | 4:21 |
@@ -50,5 +50,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWosUgW8r4Gq.md) - [plain]
 | 40 | [Imadakara dekirukoto](https://open.spotify.com/track/1lq51zC4rFAtaQVWzV0IED) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 2:39 |
 | 41 | [Suite ”Matsubokkuri” \-Funki saichousen!\-](https://open.spotify.com/track/4VSE6IQVNCSaA7ZJgghMFY) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 2:14 |
 | 42 | [Suite ”Matsubokkuri” \-Natsuzora to daikeikaku\-](https://open.spotify.com/track/1VLABP6DxPB7CbWqYDLiLC) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 2:37 |
+| 43 | [Kinkyusyutudou 24 hour! Mizuiro bike no solocamp girl](https://open.spotify.com/track/2knDoOE3zphL10Q58i3rKN) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 1:38 |
 
-Snapshot ID: `MCw4NTQ1MjZkM2NlNTYxMWI2MmY3NTQ0YjJmOGY2NDE0MWUyNDE2MzE0`
+Snapshot ID: `MCwzZGQ5Yzk2NGE2YWQ3YTRlOGNlMDczMmZjOWVjYTRjNmE3ZjA5ZDYx`

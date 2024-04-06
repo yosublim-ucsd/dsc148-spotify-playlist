@@ -1007,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "D\u00c9CROISSANCE PERSONNELLE",
+        "url": "https://open.spotify.com/album/5CxuhD698gqnpkrX4Sdik6"
+      },
+      "artists": [
+        {
+          "name": "Calamine",
+          "url": "https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171705,
+      "name": "BACKLASH",
+      "url": "https://open.spotify.com/track/1GuFjQbO3isg7vUPxdtm3N"
+    },
+    {
+      "album": {
         "name": "LESBIENNE WOKE SUR L'AUTOTUNE",
         "url": "https://open.spotify.com/album/7KKSE5s8ljSYyq4Xt6siQF"
       },
@@ -5755,6 +5773,28 @@
     },
     {
       "album": {
+        "name": "Interdit meilleur",
+        "url": "https://open.spotify.com/album/6QDiyXRVK8SdFxLHpzd05F"
+      },
+      "artists": [
+        {
+          "name": "Die-On",
+          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202959,
+      "name": "Interdit meilleur",
+      "url": "https://open.spotify.com/track/1iAGP7PrIkXjCbQ1Qv1xML"
+    },
+    {
+      "album": {
         "name": "OUVERT 24H",
         "url": "https://open.spotify.com/album/7EqcDXSFsZso51h1g7cBAM"
       },
@@ -6412,7 +6452,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 197493,
       "name": "La faille",
       "url": "https://open.spotify.com/track/3K7NtnyDx90mw7tq6dFIRD"
@@ -12094,7 +12134,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 268037,
       "name": "VIAUVILLE",
       "url": "https://open.spotify.com/track/30g0IU3gMdc2hF7v09G5pG"

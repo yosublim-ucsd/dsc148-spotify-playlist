@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/7bsL267tEx3J9YRuwlNjIR"
+      },
+      "artists": [
+        {
+          "name": "\u6765\u6816\u308a\u3093",
+          "url": "https://open.spotify.com/artist/6xiHykZdET5Tp1SAC7luIA"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190960,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/2SSYy8BmVJrfAs0OwKkTfd"
+    },
+    {
+      "album": {
         "name": "Brand new diary",
         "url": "https://open.spotify.com/album/6mHldINrJuMkqF9uGRTOsA"
       },

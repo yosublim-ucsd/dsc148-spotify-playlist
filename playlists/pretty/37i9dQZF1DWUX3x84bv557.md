@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Kraantje Pappie
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,003 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,022 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Wat Als De Storm Komt](https://open.spotify.com/track/1gEBvpvyyQmDeG6Lpo7cwN) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW), [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Wat Als De Storm Komt](https://open.spotify.com/album/2lLQEEFu8bzGmhqpYQ3F8Q) | 3:03 |
 | 60 | [Dezelfde Maan](https://open.spotify.com/track/2whP8MoeFeJE7olMwdv1rL) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Dezelfde Maan](https://open.spotify.com/album/1900kIZlwAIYxmGSosvfnR) | 3:05 |
 
-Snapshot ID: `MCxjNTgyM2RkNTdlOTI5NGE1MGNiNWM5ZWEzZWRkZjdkZmMzOTM2YTBl`
+Snapshot ID: `MCw2OTYwMTM3YmEzODgwMjkzMzRlM2VkZTk3MjA1NDFkN2NkMzMzOTcw`

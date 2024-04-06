@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > pra te causar arrepio \#MeuSpotify por DUDA BEAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,823 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,725 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 | 49 | [Drumenbêis](https://open.spotify.com/track/63m70fi4FUQcTJaKfyJGpW) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Pet Shop Mundo Cão](https://open.spotify.com/album/4H4LNYMi3NTbHGgsUWdR8g) | 4:01 |
 | 50 | [Tangerina \- Ao Vivo](https://open.spotify.com/track/6TDPTk5c9r1aAaLEILqNmA) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Acústico MTV Tiago Iorc \(Ao Vivo\)](https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV) | 4:41 |
 
-Snapshot ID: `MCxkMjNjODFjYmRiYjY0MWJjNWZjOGE3YjU1OTEzOWE3ZTI4YzRkZmU0`
+Snapshot ID: `MCxjODk3ODRkZTUzNThiMGFmMThmN2U3M2ExMWQzN2JkZWQwNjc5ZDI1`

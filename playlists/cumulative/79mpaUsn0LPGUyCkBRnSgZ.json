@@ -311,6 +311,28 @@
     },
     {
       "album": {
+        "name": "The Road To Hell Is Paved With Good Intentions",
+        "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279170,
+      "name": "A Dream Goes On Forever",
+      "url": "https://open.spotify.com/track/1CGT5LV74SNzXFnVmTdAE8"
+    },
+    {
+      "album": {
         "name": "Sons Of",
         "url": "https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a"
       },

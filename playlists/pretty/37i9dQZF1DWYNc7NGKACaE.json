@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 79166,
+  "num_followers": 79208,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2M4NDE0ZDQzN2M5ODJiMmE2N2JmMWJiOTk5ZWRkYTI1YmEyMmJi",
+  "snapshot_id": "MCwzMzRhNTRhMjg1MjljNGY5MGU1NmZmN2IzMmYzYWFlOGQ1MmI4MjJi",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Agora que eu estou sozinho nesse mal caminho speed up",
+        "url": "https://open.spotify.com/album/5GCBeMjrGOegor93rvS7q3"
+      },
+      "artists": [
+        {
+          "name": "Koke",
+          "url": "https://open.spotify.com/artist/59qKvQjxbwovrGHZjO5hgN"
+        }
+      ],
+      "duration_ms": 96548,
+      "name": "Agora que eu estou sozinho nesse mal caminho speed up",
+      "url": "https://open.spotify.com/track/1kdn6uBhMG1vnJB68HqoOj"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Ela T\u00e1 Querendo (Remix)",
         "url": "https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 75971,
       "name": "Ela T\u00e1 Querendo - Remix",
       "url": "https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Agora que eu estou sozinho nesse mal caminho speed up",
-        "url": "https://open.spotify.com/album/5GCBeMjrGOegor93rvS7q3"
-      },
-      "artists": [
-        {
-          "name": "Koke",
-          "url": "https://open.spotify.com/artist/59qKvQjxbwovrGHZjO5hgN"
-        }
-      ],
-      "duration_ms": 96548,
-      "name": "Agora que eu estou sozinho nesse mal caminho speed up",
-      "url": "https://open.spotify.com/track/1kdn6uBhMG1vnJB68HqoOj"
     },
     {
       "added_at": "2023-12-27 14:18:14",

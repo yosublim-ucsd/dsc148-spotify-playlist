@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 3503390,
+  "2024-04-06": 3503822,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Brazil.",
   "name": "Top 50 - Brazil",
@@ -5637,7 +5637,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 195748,
       "name": "Digitando",
       "url": "https://open.spotify.com/track/3QpDKVHmf9RDQkJbAUNWzI"
@@ -18611,7 +18611,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 158122,
       "name": "Tem Caf\u00e9",
       "url": "https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b"

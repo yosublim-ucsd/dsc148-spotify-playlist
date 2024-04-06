@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-401 songs - 1 day 3 hr 28 min
+402 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Searching For Joy In The Season of Sorrow](https://open.spotify.com/track/03kU6xt9ejon33VJyn0hEH) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [Searching For Joy In The Season of Sorrow](https://open.spotify.com/album/4NYVu5j2Wyw4hsMvAlFwiC) | 4:06 | 2021-11-27 | 2022-07-29 |
 | [Shadows \(The Light of Light\)](https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [Shadows \(The Light of Light\)](https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2) | 4:34 | 2021-10-20 | 2022-07-23 |
 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 | 2021-10-20 |  |
+| [Shuswap Lake](https://open.spotify.com/track/114fCj49GKyPSgJCLwUDWH) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/4H1nqluuMY1dOHLPDXh1OE) | 2:53 | 2022-11-25 |  |
 | [Shuswap Lake](https://open.spotify.com/track/65QjGjNoFbSEza40LZbgYW) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/2ZhUnjUD0SS43j555ve3VO) | 2:53 | 2022-11-25 | 2023-03-14 |
 | [Silken Pt\. 2.1](https://open.spotify.com/track/6rzDeRJStPBNFRho5sduJG) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:52 | 2021-12-01 | 2022-07-29 |
 | [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 | 2021-10-20 |  |
@@ -356,7 +357,7 @@
 | [The Sounds of Nature](https://open.spotify.com/track/2pnF9tTiEf4kxKD81scld8) | [Forest Walks](https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW) | [The Sounds of Nature](https://open.spotify.com/album/2FFBrD5XOhYuWvgcjkp9Rp) | 3:04 | 2021-10-20 |  |
 | [The Trees Are Old](https://open.spotify.com/track/5AYlgifpNaLLe6imlA0ZOk) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Enchanted Forest](https://open.spotify.com/album/3kcolDW9yeCbWHFrChY3gJ) | 8:27 | 2021-10-20 | 2022-04-18 |
 | [Therapy for Plants](https://open.spotify.com/track/25dNvN92p8z2wrEOnIilow) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:25 | 2021-10-20 | 2022-04-20 |
-| [Thus](https://open.spotify.com/track/3zYbmJ5O9g3fgIni2B0Wh1) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Rena Jones](https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6), [Flowerpulse](https://open.spotify.com/artist/2r954nnXRVwwleWpnScEoP) | [Xylem](https://open.spotify.com/album/71CubrxJW16Hgxu8HBKd32) | 3:31 | 2021-10-20 |  |
+| [Thus](https://open.spotify.com/track/3zYbmJ5O9g3fgIni2B0Wh1) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Rena Jones](https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6), [Flowerpulse](https://open.spotify.com/artist/2r954nnXRVwwleWpnScEoP) | [Xylem](https://open.spotify.com/album/71CubrxJW16Hgxu8HBKd32) | 3:31 | 2021-10-20 | 2024-04-06 |
 | [Thus](https://open.spotify.com/track/6Kuue6voczzBMIbSBSinJ0) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Rena Jones](https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6), [Flowerpulse](https://open.spotify.com/artist/2r954nnXRVwwleWpnScEoP) | [Thus](https://open.spotify.com/album/5Uc6SeZfeDHPwbbyfbMOEv) | 3:31 | 2021-10-20 | 2022-11-13 |
 | [Time Changes](https://open.spotify.com/track/5hGQQu04tYHWt0zzDpYA1D) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Henrik Jespersen](https://open.spotify.com/artist/6ec9qybPAfeFylOZWEkbPy) | [Skyline \- Instant Composition Vol\. 2](https://open.spotify.com/album/6XB7R05FqrtyCLQBQOw00K) | 4:17 | 2022-03-17 | 2022-07-28 |
 | [Time Dilation](https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf) | [Fredrik Jonasson](https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd) | [Aether](https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0) | 4:20 | 2022-02-18 | 2022-04-19 |

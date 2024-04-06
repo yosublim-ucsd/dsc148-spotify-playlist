@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 80404,
+  "num_followers": 80480,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGE3MGVkYzY0ZTIxOTViNTFjY2NjMDkyOGE1MzQwNWMwMDI3OGZi",
+  "snapshot_id": "MCxkYzgzYWFhYWU1MmM4MDdlZjcwYTNmYzFiMjRkNWZkZTExYThjOTcx",
   "tracks": [
     {
       "added_at": "2024-04-01 18:18:25",
@@ -480,7 +480,7 @@
           "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
         }
       ],
-      "duration_ms": 191039,
+      "duration_ms": 193053,
       "name": "La liste",
       "url": "https://open.spotify.com/track/0GIRUl3YJAGBauaqe10oWm"
     },
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-04-01 18:18:25",
       "album": {
-        "name": "Jamais Content",
-        "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "All\u00f4 maman bobo",
-      "url": "https://open.spotify.com/track/6feRXBskplLVuNov74Rep3"
-    },
-    {
-      "added_at": "2024-04-01 18:18:25",
-      "album": {
         "name": "Beau (feat. Julien Dor\u00e9) [Version acoustique]",
         "url": "https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 153866,
       "name": "Beau (feat. Julien Dor\u00e9) - Version acoustique",
       "url": "https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU"
+    },
+    {
+      "added_at": "2024-04-01 18:18:25",
+      "album": {
+        "name": "Jamais Content",
+        "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "All\u00f4 maman bobo",
+      "url": "https://open.spotify.com/track/6feRXBskplLVuNov74Rep3"
     },
     {
       "added_at": "2024-04-01 18:18:25",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-04-01 18:18:25",
       "album": {
-        "name": "Femmes, indiscr\u00e9tion, blasph\u00e8me",
-        "url": "https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f"
-      },
-      "artists": [
-        {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-        }
-      ],
-      "duration_ms": 263066,
-      "name": "Femmes... Je vous aime",
-      "url": "https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR"
-    },
-    {
-      "added_at": "2024-04-01 18:18:25",
-      "album": {
         "name": "En amont",
         "url": "https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 264720,
       "name": "Immortels",
       "url": "https://open.spotify.com/track/64XJOksESduPbepHxmW2rT"
+    },
+    {
+      "added_at": "2024-04-01 18:18:25",
+      "album": {
+        "name": "Femmes, indiscr\u00e9tion, blasph\u00e8me",
+        "url": "https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        }
+      ],
+      "duration_ms": 263066,
+      "name": "Femmes... Je vous aime",
+      "url": "https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR"
     },
     {
       "added_at": "2024-04-01 18:18:25",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-04-01 18:18:25",
       "album": {
+        "name": "Au Nom D'Une Femme",
+        "url": "https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9l\u00e8ne S\u00e9gara",
+          "url": "https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX"
+        }
+      ],
+      "duration_ms": 305493,
+      "name": "Elle, tu l'aimes",
+      "url": "https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7"
+    },
+    {
+      "added_at": "2024-04-01 18:18:25",
+      "album": {
         "name": "Je ne chante pas pour passer le temps",
         "url": "https://open.spotify.com/album/7N1p95delnJ0Rqn7vndbjD"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 280840,
       "name": "En attendant",
       "url": "https://open.spotify.com/track/5mOU0uqJsqx2XVTvcGgMfD"
-    },
-    {
-      "added_at": "2024-04-01 18:18:25",
-      "album": {
-        "name": "Au Nom D'Une Femme",
-        "url": "https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9l\u00e8ne S\u00e9gara",
-          "url": "https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX"
-        }
-      ],
-      "duration_ms": 305493,
-      "name": "Elle, tu l'aimes",
-      "url": "https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7"
     },
     {
       "added_at": "2024-04-01 18:18:25",

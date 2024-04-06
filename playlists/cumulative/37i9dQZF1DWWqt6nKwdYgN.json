@@ -503,6 +503,36 @@
     },
     {
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/3g278nbiWZi8eHx5iRAxlD"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        },
+        {
+          "name": "ZPU",
+          "url": "https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb"
+        },
+        {
+          "name": "Morodo",
+          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
+        },
+        {
+          "name": "El Santo",
+          "url": "https://open.spotify.com/artist/0X0o5wsXqn6uunus02kGvF"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285333,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/5JVkOvgb7pvRyIn6bwMxfH"
+    },
+    {
+      "album": {
         "name": "Ahora Me Llamas?",
         "url": "https://open.spotify.com/album/5ADHbGU6bCmQFPclXYzEqN"
       },
@@ -594,10 +624,36 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 219374,
       "name": "Alcatraz",
       "url": "https://open.spotify.com/track/4SvYTCLX6aQWWrK3wTJ2QN"
+    },
+    {
+      "album": {
+        "name": "Alcatraz",
+        "url": "https://open.spotify.com/album/0mZcpftskXcLvpn1JBhese"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219374,
+      "name": "Alcatraz",
+      "url": "https://open.spotify.com/track/76XjcqjKTyZcuAeRGP1Svr"
     },
     {
       "album": {
@@ -3007,6 +3063,32 @@
     },
     {
       "album": {
+        "name": "Disparo",
+        "url": "https://open.spotify.com/album/2oZiqCM9HqOVYLEKHTdEqg"
+      },
+      "artists": [
+        {
+          "name": "Flowker Slick",
+          "url": "https://open.spotify.com/artist/08Jl77YAzZDOfkM3OY4OrN"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Eslok Diaz",
+          "url": "https://open.spotify.com/artist/4aw8yIxecib0iVGD4WHb7a"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222053,
+      "name": "Disparo",
+      "url": "https://open.spotify.com/track/48WIOq6Rji75sRruneWI7X"
+    },
+    {
+      "album": {
         "name": "Dodotis",
         "url": "https://open.spotify.com/album/2mYj1lnX8MKYAfrIHvCIfH"
       },
@@ -3264,7 +3346,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 256049,
       "name": "El Callej\u00f3n",
       "url": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
@@ -3304,6 +3386,24 @@
       "duration_ms": 150000,
       "name": "El Fr\u00edo Ac\u00e1",
       "url": "https://open.spotify.com/track/4xi2La7fysov46A6T9CrHH"
+    },
+    {
+      "album": {
+        "name": "El Humito",
+        "url": "https://open.spotify.com/album/5c5k6nnUtp4W0ZkJm755yA"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "El Humito",
+      "url": "https://open.spotify.com/track/4fixXL6hrrB4yRzaPtOasF"
     },
     {
       "album": {
@@ -3945,6 +4045,32 @@
     },
     {
       "album": {
+        "name": "Eyes On The Prize",
+        "url": "https://open.spotify.com/album/3MCruYqKfStP4fd0CDab2a"
+      },
+      "artists": [
+        {
+          "name": "BMF Squad",
+          "url": "https://open.spotify.com/artist/6NGIhWQNSCQv07Y3L8fRnE"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        },
+        {
+          "name": "Lua Lacruz",
+          "url": "https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212466,
+      "name": "Eyes On The Prize",
+      "url": "https://open.spotify.com/track/4tuubvvEWkgmEWkxg2Dqti"
+    },
+    {
+      "album": {
         "name": "Fam",
         "url": "https://open.spotify.com/album/79jiDdUh4fHgZD6Nc8BTtG"
       },
@@ -4446,7 +4572,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 125952,
       "name": "Hija De P",
       "url": "https://open.spotify.com/track/6JJOE8YrmGN7N9y9yDuEVz"
@@ -4676,7 +4802,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 162866,
       "name": "Imaginando Voy",
       "url": "https://open.spotify.com/track/2woVDlN4GzCB2LUQSd4QAA"
@@ -6354,7 +6480,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 248546,
       "name": "MALDITO",
       "url": "https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A"
@@ -8106,7 +8232,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 163910,
       "name": "Ol\u00e9",
       "url": "https://open.spotify.com/track/6AAGQWXAB7MQhbZBsvfJEh"
@@ -9812,6 +9938,28 @@
       "duration_ms": 198666,
       "name": "Session 1 (Mucho Bla Bla)",
       "url": "https://open.spotify.com/track/5eMRlGxzc6Ffg2aGt1Epn3"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1ales de Humo",
+        "url": "https://open.spotify.com/album/1525dAl7d9a6LOmTfsh6BE"
+      },
+      "artists": [
+        {
+          "name": "Canto Quetzal",
+          "url": "https://open.spotify.com/artist/5q2JMx13gkrD62aHfBgoUa"
+        },
+        {
+          "name": "Lengualerta",
+          "url": "https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247741,
+      "name": "Se\u00f1ales de Humo",
+      "url": "https://open.spotify.com/track/4fKB4aYQsMDfQjZQ2NskwW"
     },
     {
       "album": {

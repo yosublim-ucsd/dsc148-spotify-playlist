@@ -1065,6 +1065,36 @@
     },
     {
       "album": {
+        "name": "Bless God",
+        "url": "https://open.spotify.com/album/074Y58Kfks4iXnPCGWlo0O"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314535,
+      "name": "Bless God - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/55891kIDHcEGReUrpD461w"
+    },
+    {
+      "album": {
         "name": "Bless The Lord",
         "url": "https://open.spotify.com/album/5FvCXd6ct6lMybM7BoVTzs"
       },
@@ -4802,6 +4832,28 @@
       "duration_ms": 265133,
       "name": "King Of Kings",
       "url": "https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF"
+    },
+    {
+      "album": {
+        "name": "Kingdom Is Coming (Live)",
+        "url": "https://open.spotify.com/album/2cDFQIMmkaRfuJOLf9b9yy"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
+        },
+        {
+          "name": "Bradley Riddle",
+          "url": "https://open.spotify.com/artist/52dEgQZjyA9H9YPAgQo2eD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289580,
+      "name": "Kingdom Is Coming - Live",
+      "url": "https://open.spotify.com/track/2bE582D6srOGjJjP14sCyW"
     },
     {
       "album": {

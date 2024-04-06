@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 28541,
+  "2024-04-06": 28563,
   "date_first_scraped": "2022-09-09",
   "description": "La playlist del jazz italiano, passato e presente. Cover: 72-HOUR POST-FIGHT",
   "name": "Jazz Italia",
@@ -4024,6 +4024,24 @@
     },
     {
       "album": {
+        "name": "M\u0100Y\u0100",
+        "url": "https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487573,
+      "name": "IL VELO DI M\u0100Y\u0100 \u109f",
+      "url": "https://open.spotify.com/track/5eOKasgnQVQzmEdhtArSn6"
+    },
+    {
+      "album": {
         "name": "WadiruM",
         "url": "https://open.spotify.com/album/0qawFDai3sHHcNF8E6woJO"
       },
@@ -5712,6 +5730,24 @@
     },
     {
       "album": {
+        "name": "New Things",
+        "url": "https://open.spotify.com/album/4Zaqenbbg0nmUGRTxqHCPX"
+      },
+      "artists": [
+        {
+          "name": "Franco D'Andrea",
+          "url": "https://open.spotify.com/artist/7d3yjuXATtfpkDIk1bUp4M"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 624400,
+      "name": "M2 + M7 / Livery Stable Blues",
+      "url": "https://open.spotify.com/track/2sGKafoZUUtm7nG0VQrXPr"
+    },
+    {
+      "album": {
         "name": "Ma Gnossienne",
         "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
       },
@@ -6177,7 +6213,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 203545,
       "name": "My Abstract Monkey",
       "url": "https://open.spotify.com/track/151H6RkyTGT8Ly2rXqk9hI"
@@ -9539,7 +9575,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 254773,
       "name": "Vibrare",
       "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"

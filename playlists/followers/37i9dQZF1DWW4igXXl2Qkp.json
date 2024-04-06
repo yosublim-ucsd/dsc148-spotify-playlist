@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 237585,
+  "2024-04-06": 237683,
   "date_first_scraped": "2021-12-21",
   "description": "The best new hip-hop music by independent artists and labels. Cover: Chris Patrick\n",
   "name": "Fresh Finds Hip-Hop",
@@ -9057,6 +9057,28 @@
       "duration_ms": 153117,
       "name": "How It Feels (feat. YNW BSlime)",
       "url": "https://open.spotify.com/track/1kTUHCB8NPqAPSnI5D1YIG"
+    },
+    {
+      "album": {
+        "name": "Triple Digits [112]",
+        "url": "https://open.spotify.com/album/37XRzcFMZ91g9TrYKRUpcg"
+      },
+      "artists": [
+        {
+          "name": "RiTchie",
+          "url": "https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z"
+        },
+        {
+          "name": "Niontay",
+          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "How?! (feat. Niontay)",
+      "url": "https://open.spotify.com/track/5IPSlwgpJskSg5i7m2JAmr"
     },
     {
       "album": {

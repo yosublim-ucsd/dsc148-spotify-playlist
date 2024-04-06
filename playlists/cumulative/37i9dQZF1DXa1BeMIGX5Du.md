@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-245 songs - 15 hr 8 min
+246 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,8 @@
 | [The Night We Met \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [13 Reasons Why \(Season 2\)](https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN) | 3:28 | 2022-03-25 |  |
 | [The Place](https://open.spotify.com/track/7dSqkh6ga2uw7TlmSeeN9x) | [Jess Locke](https://open.spotify.com/artist/1Ck46b7PKDf9z3QwrWiUOf) | [The Place](https://open.spotify.com/album/1OJt8Hf9hpPIl9WC6X0rYy) | 3:51 | 2024-02-29 |  |
 | [The Quiet Ways](https://open.spotify.com/track/104S55pJWLXdksSCy6ZHjW) | [Emily Barker](https://open.spotify.com/artist/25uHIpsCWoj8wEHFOEhbuV) | [The Quiet Ways](https://open.spotify.com/album/6zaJ8cw3qgSGoBhcVX3iJm) | 3:19 | 2024-03-21 |  |
-| [The Second Act](https://open.spotify.com/track/5RcWnnP5TMszVvarhYaoqa) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Second Act](https://open.spotify.com/album/4hVQwE4HbQWok3dOz2CZVs) | 3:39 | 2024-04-04 |  |
+| [The Second Act](https://open.spotify.com/track/1TQt6A6Ox6HgD81k2CZZPJ) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Second Act](https://open.spotify.com/album/1ZcQMRWdtngrP9YuAayQcG) | 3:39 | 2024-04-04 |  |
+| [The Second Act](https://open.spotify.com/track/5RcWnnP5TMszVvarhYaoqa) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Second Act](https://open.spotify.com/album/4hVQwE4HbQWok3dOz2CZVs) | 3:39 | 2024-04-04 | 2024-04-06 |
 | [The Sweet Sound of You](https://open.spotify.com/track/09uY5LeSXSPKKH4LxI7byG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:57 | 2023-09-22 |  |
 | [The Wedding Song](https://open.spotify.com/track/2mwY1C4oCxPFy2A3UQIcEu) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Wedding Song](https://open.spotify.com/album/1k0rqhjZ18zvF6dKMoVnjj) | 3:16 | 2024-02-16 |  |
 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 | 2022-03-25 | 2024-04-05 |

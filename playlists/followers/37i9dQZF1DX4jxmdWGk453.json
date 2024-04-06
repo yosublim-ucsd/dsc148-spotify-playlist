@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 162281,
+  "2024-04-06": 162265,
   "date_first_scraped": "2021-12-28",
   "description": "All your favourite Christmas carols sung for you by a vocal ensemble.",
   "name": "Christmas Carols",
@@ -119,6 +119,24 @@
     {
       "album": {
         "name": "Vocal Spectrum IV",
+        "url": "https://open.spotify.com/album/5ys5bqIjUjd8x4r9I2Wr8B"
+      },
+      "artists": [
+        {
+          "name": "Vocal Spectrum",
+          "url": "https://open.spotify.com/artist/20nWuvMfCct9xv73hRYO7O"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188765,
+      "name": "Away in a Manger",
+      "url": "https://open.spotify.com/track/22xGbEM5zid8cmvBOH7G1X"
+    },
+    {
+      "album": {
+        "name": "Vocal Spectrum IV",
         "url": "https://open.spotify.com/album/0E21cs5wAEjqUINJtaJPKn"
       },
       "artists": [
@@ -129,7 +147,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 188773,
       "name": "Away in a Manger",
       "url": "https://open.spotify.com/track/4MzxDz2ZfG0cDgVvpQoCo8"

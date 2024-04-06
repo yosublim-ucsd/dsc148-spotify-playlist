@@ -4,7 +4,7 @@
 
 > The Finest In Jazz Since 1939
 
-127 songs - 13 hr 37 min
+128 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [The Moontrane \- Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998](https://open.spotify.com/track/4ZAcQgIlpV5z7k7evEF0MJ) | [Larry Young](https://open.spotify.com/artist/6Y6kAZs0W9NNsxNbpImPvq) | [Unity \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5a8cjdV55tR5l2noku0vVv) | 7:21 | 2023-01-06 |  |
 | [The Sidewinder](https://open.spotify.com/track/3DeSfcOZOa7DUhLB4LVrpd) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [ARTEMIS](https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP) | 5:05 | 2023-01-06 |  |
 | [The Sidewinder \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 10:25 | 2023-01-06 |  |
-| [The Solitary Seeker](https://open.spotify.com/track/5D80smFJsFlbCSpJr60sad) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [The Solitary Seeker](https://open.spotify.com/album/1cCmnTlv1Nj9ENL0i5mwUN) | 6:08 | 2024-02-16 |  |
+| [The Solitary Seeker](https://open.spotify.com/track/0L2naOS6D4kKI3DiNhmru5) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [Echoes Of The Inner Prophet](https://open.spotify.com/album/3nJsyrcJShA6wyjSPvAwEg) | 6:08 | 2024-04-05 |  |
+| [The Solitary Seeker](https://open.spotify.com/track/5D80smFJsFlbCSpJr60sad) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [The Solitary Seeker](https://open.spotify.com/album/1cCmnTlv1Nj9ENL0i5mwUN) | 6:08 | 2024-02-16 | 2024-04-06 |
 | [The Windjammer](https://open.spotify.com/track/2YqY5cZyFA4G1F8Ni1PL1Q) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Green Is Beautiful](https://open.spotify.com/album/6ZeCLbP7BArydb5ueOPysy) | 5:42 | 2023-01-06 |  |
 | [These Are Soulful Days](https://open.spotify.com/track/77w5ciHOxfV1CyTIoE1iWw) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ) | [These Are Soulful Days](https://open.spotify.com/album/1yDQ8iFIOquXATNe0hztWi) | 6:50 | 2023-01-06 |  |
 | [This Is Always](https://open.spotify.com/track/37RVr9isAH1Db2RY7nqu0f) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Universal Language](https://open.spotify.com/album/6skdDJMig9VdEzPixTtXXJ) | 5:19 | 2023-01-06 |  |

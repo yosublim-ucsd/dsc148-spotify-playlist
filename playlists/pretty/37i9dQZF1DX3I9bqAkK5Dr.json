@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi",
-  "num_followers": 32285,
+  "num_followers": 32290,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGYwODA0OWZmNTYxNmIwNzBkNzAwMGI5MDQ1MjZlOGU4ZWY2YWRl",
+  "snapshot_id": "MCw5NjFkOGEyNzdkYjM5MGIwNDEzYjk0YTcyM2JhMTg5NzBjNGYwMWJm",
   "tracks": [
     {
       "added_at": "2024-02-19 08:51:27",
@@ -23,6 +23,30 @@
       "duration_ms": 162206,
       "name": "Aata Gaani Aata",
       "url": "https://open.spotify.com/track/6mN6G6IetQns6xMtkxznVZ"
+    },
+    {
+      "added_at": "2024-04-05 05:02:44",
+      "album": {
+        "name": "O Seliya",
+        "url": "https://open.spotify.com/album/1Iub4oCI9zRZwUSdNRrI4h"
+      },
+      "artists": [
+        {
+          "name": "Ganesh Krovvidi",
+          "url": "https://open.spotify.com/artist/2raRqQL2ij740h5lHjng4V"
+        },
+        {
+          "name": "Ricky B",
+          "url": "https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc"
+        },
+        {
+          "name": "Feroz Israel",
+          "url": "https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "O Seliya",
+      "url": "https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c"
     },
     {
       "added_at": "2024-04-01 14:02:16",
@@ -571,22 +595,6 @@
       "duration_ms": 262857,
       "name": "Mounam",
       "url": "https://open.spotify.com/track/1OKlwdTKmEmwN2ETdJRa0H"
-    },
-    {
-      "added_at": "2024-02-02 08:24:15",
-      "album": {
-        "name": "O Katha",
-        "url": "https://open.spotify.com/album/4mj1O1w8H5TjhoYWzyKxYC"
-      },
-      "artists": [
-        {
-          "name": "Alluri",
-          "url": "https://open.spotify.com/artist/1MJd59IWbIWtj6CdlJhWG8"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Endukala (Lovers No More)",
-      "url": "https://open.spotify.com/track/6WavcWZXgeh0cvGvkh5tS6"
     },
     {
       "added_at": "2024-02-09 12:03:58",

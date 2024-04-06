@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 421494,
+  "2024-04-06": 421565,
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Levin Liam",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Haller, soffie",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -609,7 +609,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 320973,
       "name": "Alles Gute",
       "url": "https://open.spotify.com/track/6OPecDCYJRmWil0Hci3bLj"
@@ -1015,6 +1015,24 @@
       "duration_ms": 206314,
       "name": "Balladen",
       "url": "https://open.spotify.com/track/2Sww227sDMO4volJHpOval"
+    },
+    {
+      "album": {
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/3zg6tepif8shhKlhHysOjd"
+      },
+      "artists": [
+        {
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147202,
+      "name": "Banger",
+      "url": "https://open.spotify.com/track/1HqWJ5O1q9IG4OtYiaQbuT"
     },
     {
       "album": {
@@ -1657,6 +1675,28 @@
       "duration_ms": 236647,
       "name": "Cold Brew (Kaffee Warm 4)",
       "url": "https://open.spotify.com/track/7yGxLsh0X7FLYpExiDFzeX"
+    },
+    {
+      "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/0WXofhhWkaD6NmI5Dwj9pw"
+      },
+      "artists": [
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        },
+        {
+          "name": "soffie",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145623,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/6lUbb9wnaz2lo9sczbfpss"
     },
     {
       "album": {
@@ -2383,6 +2423,24 @@
       "duration_ms": 191511,
       "name": "echt von unten / zo\u00e9 freestyle",
       "url": "https://open.spotify.com/track/5Y5F8yjB2ZnCS0E9kCFR2Y"
+    },
+    {
+      "album": {
+        "name": "Egal",
+        "url": "https://open.spotify.com/album/1O3aDjWnICWkla1AzdWQBt"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136777,
+      "name": "Egal",
+      "url": "https://open.spotify.com/track/08XKxLjXwHtgD9cQjpkQI5"
     },
     {
       "album": {
@@ -4676,6 +4734,28 @@
     },
     {
       "album": {
+        "name": "In Der Zeit Verlieren",
+        "url": "https://open.spotify.com/album/131JPd43brI7u4ad651rj8"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        },
+        {
+          "name": "alfons.",
+          "url": "https://open.spotify.com/artist/6Y44iZaaZDPqrztfH9dcin"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158437,
+      "name": "In Der Zeit Verlieren",
+      "url": "https://open.spotify.com/track/3uF7HxZy1DTZOeMLhZSPbH"
+    },
+    {
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/2cbAgiynVNUCo4vO9PsZao"
       },
@@ -5176,6 +5256,24 @@
     },
     {
       "album": {
+        "name": "Keine Ahnung",
+        "url": "https://open.spotify.com/album/6JjNfhRXOgqbeIByk4TU22"
+      },
+      "artists": [
+        {
+          "name": "katlix",
+          "url": "https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136402,
+      "name": "Keine Ahnung",
+      "url": "https://open.spotify.com/track/35riGdFOw3iO4FcRKnL42W"
+    },
+    {
+      "album": {
         "name": "Keine Freunde",
         "url": "https://open.spotify.com/album/1kvJUXYWqm5FT3o1tRVsP6"
       },
@@ -5277,7 +5375,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 145125,
       "name": "kinder der nacht",
       "url": "https://open.spotify.com/track/3uxG06gDBW1An1QO5tIlQ1"
@@ -5874,6 +5972,24 @@
     },
     {
       "album": {
+        "name": "lippenblau",
+        "url": "https://open.spotify.com/album/4Bizq80zTpmpwNmkkcyaO6"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116726,
+      "name": "lippenblau",
+      "url": "https://open.spotify.com/track/2mDJNAEekeLiMoHHtaRP7Y"
+    },
+    {
+      "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/3fRxRBKmVba4eZw72sM5Dc"
       },
@@ -6105,7 +6221,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 160813,
       "name": "Mann vom Fach",
       "url": "https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY"
@@ -6723,7 +6839,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 139880,
       "name": "Nie Alleine",
       "url": "https://open.spotify.com/track/1xDGU2uFva0NWwQwjabhzR"
@@ -7894,6 +8010,24 @@
     },
     {
       "album": {
+        "name": "aus meiner haut",
+        "url": "https://open.spotify.com/album/4TNQ3Pw48XFyARr4VxirAE"
+      },
+      "artists": [
+        {
+          "name": "Trille",
+          "url": "https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214020,
+      "name": "rumpelstilzchen",
+      "url": "https://open.spotify.com/track/6dyGPZ3X6fV2uxZEhbeOz0"
+    },
+    {
+      "album": {
         "name": "sag was",
         "url": "https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs"
       },
@@ -8163,6 +8297,24 @@
       "duration_ms": 145150,
       "name": "Sch\u00f6n/Scheisse",
       "url": "https://open.spotify.com/track/0EcO8AnnMVDQYL7T8RzG1R"
+    },
+    {
+      "album": {
+        "name": "Sch\u00f6nheit / Irrtum",
+        "url": "https://open.spotify.com/album/3jSzccBpaqeDF9p2cfITKJ"
+      },
+      "artists": [
+        {
+          "name": "diggidaniel",
+          "url": "https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Sch\u00f6nheit / Irrtum",
+      "url": "https://open.spotify.com/track/1eZ431fENDVXFaV9SwWsja"
     },
     {
       "album": {
@@ -8739,7 +8891,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 196000,
       "name": "Sonntag",
       "url": "https://open.spotify.com/track/2AAluQZ7Um10Vpg3SHmWHv"
@@ -8775,7 +8927,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 127206,
       "name": "Spaghetti (bitte k\u00fcss mich)",
       "url": "https://open.spotify.com/track/14a2h2TpfHk3wj7WZBH91W"
@@ -10395,7 +10547,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 183670,
       "name": "Wie ich es sag",
       "url": "https://open.spotify.com/track/6FtJu1XmUSjRtlUAugl1Qu"
@@ -10835,7 +10987,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 137122,
       "name": "ZUKUNFTSMUSIK",
       "url": "https://open.spotify.com/track/0CSBizBZqN6GP6W0OTcY3m"

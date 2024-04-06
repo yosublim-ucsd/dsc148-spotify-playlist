@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: TWRP
 
-407 songs - 23 hr 58 min
+408 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Pick Up](https://open.spotify.com/track/40zIrmsbbjNBLm8s2bCUx3) | [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Pick Up](https://open.spotify.com/album/0fOPYWlHgWRi8caKaiy30y) | 3:30 | 2022-07-15 | 2022-09-17 |
 | [Picky](https://open.spotify.com/track/2AnRsU93Frlz2tSipATdCf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Picky](https://open.spotify.com/album/0Fg4s2vE0u9TOwVLWb3OVV) | 3:18 | 2020-11-20 | 2022-04-09 |
 | [Pipe Dream](https://open.spotify.com/track/2VvA02bUmNmZvxsexippXM) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Prince Street Bodega](https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS) | [Pipe Dream](https://open.spotify.com/album/2wbdNXoe1bTA66vkblLPiS) | 3:06 | 2023-06-30 | 2023-08-26 |
+| [Planet Nine](https://open.spotify.com/track/7fVt2s9EQVuqxTaB4UscpI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [1978](https://open.spotify.com/album/7uid7xXNdaEHU9AMOQpcwj) | 4:50 | 2024-04-05 |  |
 | [Pocket](https://open.spotify.com/track/7a4uiLnvLP33EPvGDn5YXA) | [KONL](https://open.spotify.com/artist/4GqeovkUhMsSvFkHVshwS0) | [Pocket](https://open.spotify.com/album/4wwpEMqsM5iiNcvAi3kVZi) | 3:20 | 2021-06-25 | 2022-01-29 |
 | [Power Station](https://open.spotify.com/track/1z7PHD8GeatMCzuBY3SUsB) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Power Station](https://open.spotify.com/album/4hGwNNlT72jpOJFWIatuEk) | 3:22 | 2022-04-08 | 2023-04-01 |
 | [Pressure](https://open.spotify.com/track/6R8q5huZOkxRUdbq3JsTDp) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Pressure](https://open.spotify.com/album/0tIlSRHdKJQ1ABFNClsglz) | 3:23 | 2022-03-04 | 2023-04-15 |
@@ -312,7 +313,7 @@
 | [Same Song](https://open.spotify.com/track/0XcJgUBTAm81tqB7SxafPS) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz), [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Same Song](https://open.spotify.com/album/4EJYHrZ1FEdIcadrIO449B) | 2:31 | 2023-03-31 | 2024-02-02 |
 | [Same Song](https://open.spotify.com/track/6xBanShy5nCqzDj8Rk8QmJ) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz), [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Same Song](https://open.spotify.com/album/0HLt7MDAA0mZLuLktz5npe) | 2:31 | 2023-03-31 |  |
 | [Sankofa Song](https://open.spotify.com/track/1KJ15sDM1TVsTdLuV6pL4U) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Song](https://open.spotify.com/album/23tozi7NYHGQkjgH7URU8U) | 5:25 | 2020-11-20 | 2022-01-29 |
-| [Saturday Night \(Need You Now\)](https://open.spotify.com/track/5HYNZhR70lfA1dzvQoXCBM) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Saturday Night \(Need You Now\)](https://open.spotify.com/album/22ZdsViHpBmUCQqxzQxPov) | 4:13 | 2024-01-19 |  |
+| [Saturday Night \(Need You Now\)](https://open.spotify.com/track/5HYNZhR70lfA1dzvQoXCBM) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Saturday Night \(Need You Now\)](https://open.spotify.com/album/22ZdsViHpBmUCQqxzQxPov) | 4:13 | 2024-01-19 | 2024-04-06 |
 | [Say Your Name](https://open.spotify.com/track/46H4hZk0WHNC4fmVJaLfr6) | [Osquello](https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr), [Akin Soul](https://open.spotify.com/artist/2tU7aVBZIXzsKTPhm56266) | [Say Your Name](https://open.spotify.com/album/5SzR4ahdi6DTBn3vevmw0j) | 3:35 | 2022-06-17 | 2023-12-02 |
 | [Scorpio](https://open.spotify.com/track/6gD4AWNqv0ek0YV6CZRmDk) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM), [Gustavo Celis](https://open.spotify.com/artist/3QfafF1S7GGMIsVilQ9Z9q) | [Scorpio](https://open.spotify.com/album/3A7vRQIuCJeQRey5PMvC5m) | 2:52 | 2023-04-14 | 2024-01-13 |
 | [Sepricon](https://open.spotify.com/track/2FG43kVwZ84Q4o8mbJ2DhC) | [Brittany Davis](https://open.spotify.com/artist/3sRxyZAJO726wjCXfXZYuB) | [Sepricon](https://open.spotify.com/album/7E49Txc4y7PCfbjDPl5Ctp) | 3:14 | 2023-12-08 |  |

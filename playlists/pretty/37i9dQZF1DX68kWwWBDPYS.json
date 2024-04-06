@@ -1,13 +1,29 @@
 {
-  "description": "morrxs chidos haciendo m\u00fasica chida. Carlos Colosio en portada.",
-  "num_followers": 160526,
+  "description": "morrxs chidos haciendo m\u00fasica chida. Pau Laggies en portada.",
+  "num_followers": 160529,
   "original_name": "indie fresco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWI3NGE5ZjY0MDExOGI3Mjc0OTY3YTZiNWM2YWRiMGQyN2U0MjY5",
+  "snapshot_id": "MCxhMGRkMWExODM2NWFjMTQ4ZTZlY2Y4NTZlMDM2ZGZlNGFlNDBkZDZm",
   "tracks": [
+    {
+      "added_at": "2024-04-05 15:32:17",
+      "album": {
+        "name": "ni\u00f1o azul",
+        "url": "https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "ni\u00f1o azul",
+      "url": "https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O"
+    },
     {
       "added_at": "2023-12-08 20:18:07",
       "album": {

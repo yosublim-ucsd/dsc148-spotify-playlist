@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 85777,
+  "2024-04-06": 85772,
   "date_first_scraped": "2022-08-16",
   "description": "Festival Music 2024 - Tomorrowland 2024 - Festival Songs - EDM Music - Electronic Music - Rave Music - EDM Songs - best festival music - best festival songs",
   "name": "Festival Songs 2024 \ud83c\udf87 Festival Music - Tomorrowland 2024",
@@ -1381,6 +1381,32 @@
       "duration_ms": 175337,
       "name": "Catching Fire",
       "url": "https://open.spotify.com/track/0gpJMwZeHBz4TmjWXjax6k"
+    },
+    {
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/3aDsky9uABrOWVmjgwLfAb"
+      },
+      "artists": [
+        {
+          "name": "Mike Bond",
+          "url": "https://open.spotify.com/artist/4yroY1dUWxiROWLei7Mude"
+        },
+        {
+          "name": "Sesco",
+          "url": "https://open.spotify.com/artist/0pP0ClsQK7FgtbwuUcVrQV"
+        },
+        {
+          "name": "Richie Loop",
+          "url": "https://open.spotify.com/artist/0fwGtEcJ4v3H0btcbM0KWc"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138471,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/50GVy9jKhOOycBJ7gTI12I"
     },
     {
       "album": {

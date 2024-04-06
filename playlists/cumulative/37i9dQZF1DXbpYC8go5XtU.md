@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-225 songs - 17 hr 47 min
+227 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Biodome](https://open.spotify.com/track/2sVHOerrbSQYZgEZJqVhWt) | [尾島由郎](https://open.spotify.com/artist/5GekbhuyDcYViZ0BhZc9Iw) | [ハンサム](https://open.spotify.com/album/2Msru7zQbJovRIAuRSTrun) | 6:53 | 2021-12-22 | 2022-03-11 |
 | [Bird Canyons](https://open.spotify.com/track/7aHZncwoXvG1uudkZXghQn) | [John Serrie](https://open.spotify.com/artist/0wa407BBItqXt1SqfyhMEc), [Gary Stroutsos](https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re) | [Hidden World](https://open.spotify.com/album/32RJs9ul4l3ZrfCNKvU8Hl) | 4:36 | 2021-12-22 | 2022-08-13 |
 | [Breathing Earth I](https://open.spotify.com/track/5jmzCPIz8C3q6wpRoxb4Hc) | [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Winds](https://open.spotify.com/album/0Jdg6XhCRiBbOKwvxnIF5b) | 5:55 | 2021-12-22 | 2023-04-14 |
-| [Catchacoma Lake](https://open.spotify.com/track/0KBDOOB3rmySzqcqIet1wp) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Catchacoma Lake](https://open.spotify.com/album/7fTupqeF42aDgxnwxZ4XAj) | 2:59 | 2022-09-30 |  |
+| [Catchacoma Lake](https://open.spotify.com/track/0KBDOOB3rmySzqcqIet1wp) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Catchacoma Lake](https://open.spotify.com/album/7fTupqeF42aDgxnwxZ4XAj) | 2:59 | 2022-09-30 | 2024-04-06 |
+| [Catchacoma Lake](https://open.spotify.com/track/7DUTQsvXqh1q5Ogjlchlpz) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Catchacoma Lake](https://open.spotify.com/album/0up8XXP7Au6yoeooZAGFjO) | 2:59 | 2024-02-22 |  |
 | [Celista](https://open.spotify.com/track/56pZYZqvW1LxTO2Zy2OI3j) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/4H1nqluuMY1dOHLPDXh1OE) | 2:41 | 2023-01-20 |  |
 | [Clearing](https://open.spotify.com/track/4zFgXfvzNt7Nj7ccOGQEab) | [dYb](https://open.spotify.com/artist/5J2i1y9d9QrAVdBi92SX3r) | [Clearing](https://open.spotify.com/album/7twiHDo5Hf1DJPsWGHERTw) | 3:46 | 2023-01-20 |  |
 | [Coast](https://open.spotify.com/track/2ZXZA0n1Bfo8H2Tg3KpqB8) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Coast](https://open.spotify.com/album/2cV90JgRQmnI8eAm5mGwr0) | 7:14 | 2022-05-18 |  |
@@ -159,7 +160,8 @@
 | [Self Empathy 2](https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Self Empathy 2](https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53) | 3:52 | 2022-09-23 |  |
 | [Severia](https://open.spotify.com/track/2S04d3ml7kEmy7jebqJQa3) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY) | [Severia](https://open.spotify.com/album/6TfLDIkN36UlY6eCQd0bYF) | 5:49 | 2023-03-03 |  |
 | [Shape of a Dream \- Sound Bath](https://open.spotify.com/track/3h58Vv1UpPgP88s0zh4OTs) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Shape of a Dream](https://open.spotify.com/album/4wJXcvFwAEyMVWIW08znpO) | 4:04 | 2022-03-10 |  |
-| [Shuswap Lake](https://open.spotify.com/track/65QjGjNoFbSEza40LZbgYW) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/2ZhUnjUD0SS43j555ve3VO) | 2:53 | 2022-12-20 |  |
+| [Shuswap Lake](https://open.spotify.com/track/114fCj49GKyPSgJCLwUDWH) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/4H1nqluuMY1dOHLPDXh1OE) | 2:53 | 2024-02-22 |  |
+| [Shuswap Lake](https://open.spotify.com/track/65QjGjNoFbSEza40LZbgYW) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/2ZhUnjUD0SS43j555ve3VO) | 2:53 | 2022-12-20 | 2024-04-06 |
 | [Signals](https://open.spotify.com/track/3dmgdlknLnVte97AURFYyf) | [Marcus Woods](https://open.spotify.com/artist/4qCRpU52vK7JBpObHgKkH4) | [Signals](https://open.spotify.com/album/7C7WpnmXw6RufxybdZbZlS) | 2:46 | 2021-12-22 | 2023-01-09 |
 | [Signals](https://open.spotify.com/track/5MsLvwiqNKBYeO4pmM4hDA) | [Marcus Woods](https://open.spotify.com/artist/4qCRpU52vK7JBpObHgKkH4) | [Signals](https://open.spotify.com/album/7y9o7HbkbMlrxg0GnHMByP) | 2:46 | 2023-01-06 |  |
 | [Silent Lake](https://open.spotify.com/track/6pZ5qQo50eOzxikg1xSvzh) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Silent Lake](https://open.spotify.com/album/6X3gMefUTyakZ9WigRsPo3) | 5:09 | 2021-12-22 | 2022-07-29 |

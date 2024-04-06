@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: Goldielocks
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,554 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,663 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 38 | [forget](https://open.spotify.com/track/1kCsiB5D8494ea2vkbHjni) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [forget](https://open.spotify.com/album/71MdG1dYvFQEnOZqfCmYzj) | 2:45 |
 | 39 | [Did It Make You Feel Like a Man](https://open.spotify.com/track/5cnkGhztZtEiAzZQcQ6lBy) | [bby ivy](https://open.spotify.com/artist/17aZjZK0Dqx0xGd05Ooo0R) | [Did It Make You Feel Like a Man](https://open.spotify.com/album/21QhudCvLFPqldoMRY7uP1) | 2:54 |
 | 40 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 |
-| 41 | [Ghosts](https://open.spotify.com/track/3w6dkcgoHdRrSUlkH0w8T7) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Psykos](https://open.spotify.com/album/3Prj5ncKli5arNTmILU6aV) | 3:00 |
+| 41 | [Ghosts](https://open.spotify.com/track/7hwDYSEPIrr5GO9Loxuk7E) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Psykos](https://open.spotify.com/album/6aLnXrlksffrrHRb6ktBF9) | 3:00 |
 | 42 | [Ring of Fire \(from the Netflix Film "Damsel"\)](https://open.spotify.com/track/1bAwVRqd28dUD5ha8M0l67) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Ring of Fire \(from the Netflix Film "Damsel"\)](https://open.spotify.com/album/1dYYvoY4Wx7WvxFF5ntYm7) | 3:13 |
 | 43 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 |
 | 44 | [Test It](https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 2:46 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 53 | [Atlantis](https://open.spotify.com/track/7cSWxKJOYcIj7orwt0pUsW) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN) | [Atlantis / Drift](https://open.spotify.com/album/0PrL6tpjj9q7IcBveZjrCf) | 3:33 |
 | 54 | [ROOM IS ON FIRE \(feat\. AG Club\)](https://open.spotify.com/track/1LgfBZnwX0IDLNrVbMZbzV) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [ROOM IS ON FIRE \(feat\. AG Club\)](https://open.spotify.com/album/7m5a2dvnmwnce97spFC8Fy) | 3:09 |
 | 55 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 |
-| 56 | [Beanie](https://open.spotify.com/track/0NOaEisILvRznCAco87cpI) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ) | 2:12 |
+| 56 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 |
 | 57 | [Cold](https://open.spotify.com/track/5yX4QzBRbOTdjsw4SjYmiF) | [Mopiano](https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ) | [Cold](https://open.spotify.com/album/6RtfmpvVAzcFO5b5bSXEvT) | 3:26 |
 | 58 | [Boy, Empty](https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be) | 2:49 |
 | 59 | [Taking Care of You](https://open.spotify.com/track/0cbysxAOyCbv6g5tOMXC0m) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Strange Motions](https://open.spotify.com/album/7KtRO9Htcv5RWIYYDcxlNm) | 2:56 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 98 | [All 4 One](https://open.spotify.com/track/0T2xAaVPUiEfe6c7RMmpcF) | [VAIN](https://open.spotify.com/artist/2YYQsfuJDgBdYHNJMZA1BS), [Glayden](https://open.spotify.com/artist/5GsNEQd9Q8J3Yi721r1Tsj), [Niko Demus](https://open.spotify.com/artist/1tzCwHckFepdUWpH3WxFXD), [MFM](https://open.spotify.com/artist/5xvA0mjmeF1CxB12bjWR8l), [inter alia](https://open.spotify.com/artist/4XxygEqjEzswVq93XqGv77) | [From HEL With Love](https://open.spotify.com/album/5EDrg0lAWiSoZ7SEcAH0wt) | 3:47 |
 | 99 | [Gold Rush \- Primum Mobile Mix](https://open.spotify.com/track/5dAtzYqP0L1WKwrBmM4xhv) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Absolute Music 2/5](https://open.spotify.com/album/25bS2Xce1Dsjl2yaewiRhP) | 4:09 |
 
-Snapshot ID: `MCxhODhkZTljM2RmZGIzZDM1YTkzMmMxNzQyYjk3ODMyZGY4MmUyZDNi`
+Snapshot ID: `MCw4YzAyN2U3MWM5MDcyZDRiNzM5ZmY1ZTBjMTgwZThhYWJhOTcwY2Nh`

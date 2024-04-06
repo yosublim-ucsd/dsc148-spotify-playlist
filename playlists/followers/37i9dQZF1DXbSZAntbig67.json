@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 17147,
+  "2024-04-06": 17143,
   "date_first_scraped": "2022-12-26",
   "description": "Canciones para celebrar la Navidad para toda la familia.",
   "name": "Navidad Para Ni\u00f1os",
@@ -1223,13 +1223,17 @@
         {
           "name": "Juana",
           "url": "https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek"
+        },
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
         }
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 165537,
-      "name": "Luces En Las Calles",
+      "duration_ms": 165485,
+      "name": "Luces en las Calles",
       "url": "https://open.spotify.com/track/0FWY6Qa8RSGeaJlyczwbBh"
     },
     {

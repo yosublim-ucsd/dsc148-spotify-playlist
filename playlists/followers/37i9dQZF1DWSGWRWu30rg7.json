@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 63585,
+  "2024-04-06": 63595,
   "date_first_scraped": "2022-01-09",
-  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Maira",
+  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Incircle",
   "name": "Fresh Finds Indonesia",
   "tracks": [
     {
@@ -1707,6 +1707,24 @@
       "duration_ms": 231808,
       "name": "Ajarkanku Melepasnya",
       "url": "https://open.spotify.com/track/414KS4hspKt7RwyOQJJBOb"
+    },
+    {
+      "album": {
+        "name": "Akan Kutitipkan Hatiku Di Udara Kelak Kau akan Menghirupnya",
+        "url": "https://open.spotify.com/album/2yUwSuYcg5sy1hFr5bgJ7H"
+      },
+      "artists": [
+        {
+          "name": "The Dramma",
+          "url": "https://open.spotify.com/artist/6kRIeObyMjqaWUeff6uM0v"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217288,
+      "name": "Akan Kutitipkan Hatiku Di Udara Kelak Kau akan Menghirupnya",
+      "url": "https://open.spotify.com/track/4Awvvhdha2YoYIv7qZjMzz"
     },
     {
       "album": {
@@ -8418,6 +8436,24 @@
     },
     {
       "album": {
+        "name": "Bunga Asmara",
+        "url": "https://open.spotify.com/album/7kYpkjKyiYFRzYcB3ewjrJ"
+      },
+      "artists": [
+        {
+          "name": "Defri Juliant",
+          "url": "https://open.spotify.com/artist/1uRIMEjOLiWJ5LZDL8Ta9b"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266538,
+      "name": "Bunga Asmara",
+      "url": "https://open.spotify.com/track/4B4t7Fw1VRKHKpGnemXkoA"
+    },
+    {
+      "album": {
         "name": "Bunuh, hidupkan kembali",
         "url": "https://open.spotify.com/album/1SlU3FtKBRDlJZANkpYJsH"
       },
@@ -13401,7 +13437,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 182510,
       "name": "Do You Really?",
       "url": "https://open.spotify.com/track/3N6B7hTbvhAH5EX0V50ceg"
@@ -13579,7 +13615,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 169095,
       "name": "Don't Give It Up!",
       "url": "https://open.spotify.com/track/1POysye4LiQvmpdYLtl0ji"
@@ -15135,6 +15171,24 @@
       "duration_ms": 219595,
       "name": "Esok Hari Hujan",
       "url": "https://open.spotify.com/track/13Db5NQnjfTVq8ZiXhPbd3"
+    },
+    {
+      "album": {
+        "name": "Euforia",
+        "url": "https://open.spotify.com/album/4fHzN1Yg6SLFTotnfCQ1KY"
+      },
+      "artists": [
+        {
+          "name": "Reaksi",
+          "url": "https://open.spotify.com/artist/0b0aCmBDVr0uEaisB6wLYm"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233798,
+      "name": "Euforia",
+      "url": "https://open.spotify.com/track/6JF7unk0ipZzs6xrvbMjB7"
     },
     {
       "album": {
@@ -17897,7 +17951,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 240896,
       "name": "Ghosting",
       "url": "https://open.spotify.com/track/26CgdwlCWhb40UHQjKUEK3"
@@ -18967,7 +19021,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 203460,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/4so084KAl7FTLcXgfmqvY3"
@@ -19463,6 +19517,24 @@
       "duration_ms": 237013,
       "name": "Hanya Untuk Dirimu (First Rhythm Version)",
       "url": "https://open.spotify.com/track/40d1gG2TXlGmjq9M59GuBS"
+    },
+    {
+      "album": {
+        "name": "Hanyalah Misteri",
+        "url": "https://open.spotify.com/album/48ykkS4K0gjyfGnulwEale"
+      },
+      "artists": [
+        {
+          "name": "Nanz",
+          "url": "https://open.spotify.com/artist/4JYLCC6MQHEjm3ufSzkN7a"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232008,
+      "name": "Hanyalah Misteri",
+      "url": "https://open.spotify.com/track/5k8kVHd8BslBg3jWK0CyTJ"
     },
     {
       "album": {
@@ -20405,6 +20477,24 @@
       "duration_ms": 244014,
       "name": "Hiatus",
       "url": "https://open.spotify.com/track/7ftlEibIPeMj48VGLQCC22"
+    },
+    {
+      "album": {
+        "name": "HIATUS",
+        "url": "https://open.spotify.com/album/3OpPygxIbikoGkbVDdvD4b"
+      },
+      "artists": [
+        {
+          "name": "Thursday Evening",
+          "url": "https://open.spotify.com/artist/4WGpJy71fz9FTCngFhB7fh"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293333,
+      "name": "HIATUS",
+      "url": "https://open.spotify.com/track/4XfyzpTwVlEtZv949tcJ2m"
     },
     {
       "album": {
@@ -21661,7 +21751,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 136746,
       "name": "I Don't Like It",
       "url": "https://open.spotify.com/track/0bdWO1vQwSMvHwlDLJ41XE"
@@ -24395,6 +24485,24 @@
       "duration_ms": 244235,
       "name": "It's April",
       "url": "https://open.spotify.com/track/0aVVPcqIfjIzjf0DEVa3jh"
+    },
+    {
+      "album": {
+        "name": "It's Gonna Be Okay",
+        "url": "https://open.spotify.com/album/36xPEDejdugyZ5ZdQ9cvWI"
+      },
+      "artists": [
+        {
+          "name": "Out Of The Blue",
+          "url": "https://open.spotify.com/artist/1g66zY849hcIRxCZsNRu5t"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222994,
+      "name": "It's Gonna Be Okay",
+      "url": "https://open.spotify.com/track/13v2QprykmAWC3jZTtc8C4"
     },
     {
       "album": {
@@ -31284,6 +31392,24 @@
     },
     {
       "album": {
+        "name": "Lost In A Maze",
+        "url": "https://open.spotify.com/album/60eBVoIjdn8xemWPWFSljj"
+      },
+      "artists": [
+        {
+          "name": "Incircle.",
+          "url": "https://open.spotify.com/artist/6N1cdKDau7Es37PJzDcBiI"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Lost In A Maze",
+      "url": "https://open.spotify.com/track/6kvAnBR8HBGIG73ASyhF5Z"
+    },
+    {
+      "album": {
         "name": "Lost Without You",
         "url": "https://open.spotify.com/album/3z90KkLICHFQSsMnRjBNKD"
       },
@@ -32299,7 +32425,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 262000,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2QSnC6mlJbGMXxwtJ6fHCq"
@@ -32577,6 +32703,24 @@
       "duration_ms": 189512,
       "name": "Malam Tak Berjudul",
       "url": "https://open.spotify.com/track/72G8Le8BhpTKe5abDqZQEE"
+    },
+    {
+      "album": {
+        "name": "Malam Yang Berisik Di Kenangan",
+        "url": "https://open.spotify.com/album/5n4APLYFgGkUwOH5YiyPVW"
+      },
+      "artists": [
+        {
+          "name": "Didin Marlin",
+          "url": "https://open.spotify.com/artist/5HmV6WP4nWIeY3S63ssgdx"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258762,
+      "name": "Malam Yang Berisik Di Kenangan",
+      "url": "https://open.spotify.com/track/52XHgKaBPT62Z3fy5IT4Mr"
     },
     {
       "album": {
@@ -36643,7 +36787,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 214082,
       "name": "Nefarious",
       "url": "https://open.spotify.com/track/5jpeebPEKWnYDOguULjTpD"
@@ -38064,6 +38208,24 @@
     },
     {
       "album": {
+        "name": "Oh, Bella",
+        "url": "https://open.spotify.com/album/3ZCKxcbKws1ZGvYHXMJf2t"
+      },
+      "artists": [
+        {
+          "name": "The Doctrines",
+          "url": "https://open.spotify.com/artist/2GHmLS8Lv5gKwnJIZLQhJn"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198686,
+      "name": "Oh, Bella",
+      "url": "https://open.spotify.com/track/5E7eht03Fvp0i1ffTD6wH6"
+    },
+    {
+      "album": {
         "name": "Oh, Love.",
         "url": "https://open.spotify.com/album/0czgi5ODblDnm69LG3o4sg"
       },
@@ -39147,7 +39309,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 145500,
       "name": "PAIN AND SORROW",
       "url": "https://open.spotify.com/track/5U60belEgnj70lHNhyg2TQ"
@@ -40777,7 +40939,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 192000,
       "name": "Pertempuran Yang Tak Terlihat",
       "url": "https://open.spotify.com/track/6GjP1kJ3IHrTByytLoV4M9"
@@ -41755,6 +41917,24 @@
       "duration_ms": 205769,
       "name": "Promise",
       "url": "https://open.spotify.com/track/7yyytj0XITWnrfP4nD5tHk"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/7DfjzmrLGod6RAYElnWMXJ"
+      },
+      "artists": [
+        {
+          "name": "Serayu",
+          "url": "https://open.spotify.com/artist/4T6DZs1MeTfAGtO5egp1eJ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292682,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/6KDImQdBBIqyb9C2LxZ2Ht"
     },
     {
       "album": {
@@ -43865,7 +44045,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 277864,
       "name": "Rock N' Rolla",
       "url": "https://open.spotify.com/track/6D1yuW0CCKPR1IshvwM8qw"
@@ -49516,6 +49696,24 @@
     },
     {
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/6fG77Z9OSGonjpT5MiHLUF"
+      },
+      "artists": [
+        {
+          "name": "NAUC",
+          "url": "https://open.spotify.com/artist/6Ij0k9raTSYgnHCYkOaaub"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226750,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/6VEkAzeKFws8AygsTHmOdD"
+    },
+    {
+      "album": {
         "name": "Song for Mama",
         "url": "https://open.spotify.com/album/6cuzCxbOZuXcGJWSvtbBM2"
       },
@@ -50029,6 +50227,24 @@
       "duration_ms": 250434,
       "name": "Starstruck",
       "url": "https://open.spotify.com/track/5fIo0ilbjMyaKhnUA8jh3g"
+    },
+    {
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/5Rq7IaSWbl7FZpV5fFspuN"
+      },
+      "artists": [
+        {
+          "name": "Puff Punch",
+          "url": "https://open.spotify.com/artist/0ZF8FUprTy8x4eAJO8Jtyx"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159104,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/2RDlLsL33ROyqdOl7gBvxR"
     },
     {
       "album": {
@@ -51346,6 +51562,24 @@
     },
     {
       "album": {
+        "name": "Sungguh",
+        "url": "https://open.spotify.com/album/6JTimY0OR8J5XMov3yvk8l"
+      },
+      "artists": [
+        {
+          "name": "Jims Wong",
+          "url": "https://open.spotify.com/artist/0PhwXdWPBimWQVG65v9KiF"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234043,
+      "name": "Sungguh",
+      "url": "https://open.spotify.com/track/4qSLzw8Fk5N5okLGzJZuRK"
+    },
+    {
+      "album": {
         "name": "Sungguh? (with Thavita)",
         "url": "https://open.spotify.com/album/1powNQvRxplSW3wrNu1QXX"
       },
@@ -51487,7 +51721,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 236000,
       "name": "Superheroes",
       "url": "https://open.spotify.com/track/7CQVQ9gS7YD7hBNPqlQdiJ"
@@ -56065,7 +56299,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 206516,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/73sen8NCPhTatDNMUqs2Vj"
@@ -57645,6 +57879,28 @@
       "duration_ms": 163842,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/1CKhZyS4R09lHn0RmjWypy"
+    },
+    {
+      "album": {
+        "name": "VAIN",
+        "url": "https://open.spotify.com/album/2khAO9DfFEaANmDXsmqezU"
+      },
+      "artists": [
+        {
+          "name": "Dylan Pearce",
+          "url": "https://open.spotify.com/artist/7KKvQnTOtvJJITks84EYjx"
+        },
+        {
+          "name": "Xyanu",
+          "url": "https://open.spotify.com/artist/06dzWNEeA2LYjFwJSZ4iOl"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231187,
+      "name": "VAIN",
+      "url": "https://open.spotify.com/track/1JpQCtR3TSYuGPSLy7pOro"
     },
     {
       "album": {

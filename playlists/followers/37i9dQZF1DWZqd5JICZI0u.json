@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 1996440,
+  "2024-04-06": 1997281,
   "date_first_scraped": "2020-09-30",
   "description": "Breathe. Sense. Feel. Transcend.",
   "name": "Peaceful Meditation",
@@ -3705,7 +3705,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 166996,
       "name": "In Harmony",
       "url": "https://open.spotify.com/track/58Dz8Beq1CIwMUM80P7wee"
@@ -4576,6 +4576,24 @@
     },
     {
       "album": {
+        "name": "Luna Tone",
+        "url": "https://open.spotify.com/album/3KXNnK8CyCnIjMk3fKof2t"
+      },
+      "artists": [
+        {
+          "name": "Unstable Alf",
+          "url": "https://open.spotify.com/artist/1LqllEygIHTUZlaIZXBzzd"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194333,
+      "name": "Luna Tone",
+      "url": "https://open.spotify.com/track/2BwpDyUVC4oRDZ4U1zZGj7"
+    },
+    {
+      "album": {
         "name": "Lyrae",
         "url": "https://open.spotify.com/album/2LdgV7loCwJ99NyWlIOi1C"
       },
@@ -5314,6 +5332,24 @@
     },
     {
       "album": {
+        "name": "Nexus",
+        "url": "https://open.spotify.com/album/3qUv1Kaf3daxRH1zc65nel"
+      },
+      "artists": [
+        {
+          "name": "\u00d6gonblick",
+          "url": "https://open.spotify.com/artist/7lI51rVxjXEtquwOI7v04L"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189767,
+      "name": "Nexus",
+      "url": "https://open.spotify.com/track/5H4qaUJsnLUwlMq8EjIMVk"
+    },
+    {
+      "album": {
         "name": "Flow State",
         "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
       },
@@ -5365,6 +5401,24 @@
       "duration_ms": 157261,
       "name": "Night Traveller",
       "url": "https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB"
+    },
+    {
+      "album": {
+        "name": "Nights Shining",
+        "url": "https://open.spotify.com/album/3qlmZd1suoqPjmJ8P2lUcV"
+      },
+      "artists": [
+        {
+          "name": "Dyfi Francis",
+          "url": "https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Nights Shining",
+      "url": "https://open.spotify.com/track/4ntDp0FMEDnTxGF6GlLYiO"
     },
     {
       "album": {
@@ -7028,6 +7082,24 @@
     },
     {
       "album": {
+        "name": "Self Restore",
+        "url": "https://open.spotify.com/album/3hgYz79E6GEic54YZVR8v8"
+      },
+      "artists": [
+        {
+          "name": "Mountainlake Individual",
+          "url": "https://open.spotify.com/artist/0Kq17D6L4miAuMsbnyH1PH"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197561,
+      "name": "Self Restore",
+      "url": "https://open.spotify.com/track/6cjyZPz3EBwCIprOttjj1W"
+    },
+    {
+      "album": {
         "name": "Senses",
         "url": "https://open.spotify.com/album/4SX3SzgRT4CPF2fDXwFFBF"
       },
@@ -8451,6 +8523,24 @@
       "duration_ms": 149047,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/3hEugJ3cU9p9gN5b6imbvX"
+    },
+    {
+      "album": {
+        "name": "Tranquillum",
+        "url": "https://open.spotify.com/album/3fLwWqZsen1NxMP1zPteNN"
+      },
+      "artists": [
+        {
+          "name": "Isolde Rivera",
+          "url": "https://open.spotify.com/artist/3zYHG2fwtLOQI2SYgXChOI"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Tranquillum",
+      "url": "https://open.spotify.com/track/4cgSQv1ejdzsVbHf6HRpJ4"
     },
     {
       "album": {

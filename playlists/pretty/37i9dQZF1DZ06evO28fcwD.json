@@ -1,12 +1,12 @@
 {
   "description": "This is Ladysmith Black Mambazo. The essential tracks, all in one playlist.",
-  "num_followers": 27661,
+  "num_followers": 27666,
   "original_name": "This Is Ladysmith Black Mambazo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTM2NTVkMjhlZGE5OGY1YTlkNGZhOTg5ZjUxZWEyYmY0YjBkOWIz",
+  "snapshot_id": "MCwwNzNkOWRmZjZmYzQ2ODU3NjE1ZTVmNGEyNjI0ZDM3ZDI5ZGMxNzg1",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un autre blanc",
-        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 368184,
-      "name": "Gnamale",
-      "url": "https://open.spotify.com/track/7ry3Gw24g4C9BEm6MIQlN3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Star and the Wiseman",
         "url": "https://open.spotify.com/album/6ua556UHIvk1qNJBw6kDng"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 238346,
       "name": "Lift Me Up (feat. Nico & Vinz, Ladysmith Black Mambazo)",
       "url": "https://open.spotify.com/track/2YgD8aDme4OP5kPIp7PCZy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un autre blanc",
+        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 368184,
+      "name": "Gnamale",
+      "url": "https://open.spotify.com/track/7ry3Gw24g4C9BEm6MIQlN3"
     },
     {
       "added_at": null,
@@ -1007,22 +1007,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ANCESTRAL CALL",
-        "url": "https://open.spotify.com/album/3HFjhGuXbIuZIML0Q49h0l"
+        "name": "Lihl' Ixhiba Likagogo (My Grandmother's Kitchen)",
+        "url": "https://open.spotify.com/album/2mTxloMTnWHXML3dGLyiDt"
       },
       "artists": [
-        {
-          "name": "ANATII",
-          "url": "https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55"
-        },
         {
           "name": "Ladysmith Black Mambazo",
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 166368,
-      "name": "ANCESTRAL CALL",
-      "url": "https://open.spotify.com/track/5HowYlbTc3sSkpqj1mhcZ7"
+      "duration_ms": 256946,
+      "name": "Dlondlobala Njalo",
+      "url": "https://open.spotify.com/track/67Ey8t5US5jijGZZnfOfeZ"
     },
     {
       "added_at": null,

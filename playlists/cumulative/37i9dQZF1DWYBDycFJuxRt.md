@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Furui Riho \*👉 <a href="https://spice.eplus.jp/articles/327650?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-5,728 songs - 14 day 11 hr 24 min
+5,729 songs - 14 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1987,7 +1987,7 @@
 | [Lovely \- uin Remix](https://open.spotify.com/track/6uDKsxuq3Bw5jmDqjCy7cS) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [Lovely \(uin Remix\)](https://open.spotify.com/album/7LDv1ZIJRWL3MJGQj0CxBt) | 2:58 | 2024-03-05 | 2024-03-13 |
 | [Lovely Day, Lovely Place.](https://open.spotify.com/track/53PNdyacMlicwrlb3JCcJd) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [SURF & TURF](https://open.spotify.com/album/3JQPj1uNk62oTh8oB1qsNQ) | 3:53 | 2023-06-27 | 2023-07-05 |
 | [LOVELY DESTRUCTION](https://open.spotify.com/track/5IvzUopWfEOxa1wGdI1PMX) | [THIS IS JAPAN](https://open.spotify.com/artist/753OhFtxllDpBJvOmxh6CD) | [LOVELY DESTRUCTION](https://open.spotify.com/album/3wAc9pRpgeaM4zSGKbiutl) | 2:52 | 2024-03-12 | 2024-03-20 |
-| [Loverboy](https://open.spotify.com/track/78xxf2z3mM6c0WghJEV3Bz) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0) | [Loverboy](https://open.spotify.com/album/2ApUSiM43jJGWBwhYxPlok) | 2:55 | 2024-04-02 |  |
+| [Loverboy](https://open.spotify.com/track/78xxf2z3mM6c0WghJEV3Bz) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg) | [Loverboy](https://open.spotify.com/album/2ApUSiM43jJGWBwhYxPlok) | 2:55 | 2024-04-02 |  |
 | [Lovers](https://open.spotify.com/track/1wfS1gd8k7o9ohCXPU4tYU) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Lovers](https://open.spotify.com/album/6RG3DZjvTcbnhNmIVqy771) | 5:13 | 2023-06-06 | 2023-06-14 |
 | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B) | 2:40 | 2024-02-20 | 2024-02-28 |
 | [LOVESICK](https://open.spotify.com/track/6yIufrUS29JZvg9wJkjg3H) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [LOVESICK](https://open.spotify.com/album/4Lzh9AFYarUOMPO6vVs8XD) | 2:45 | 2024-02-06 | 2024-02-14 |
@@ -3070,6 +3070,7 @@
 | [Sometimes \- Japanese Version](https://open.spotify.com/track/2eidpEU0z0adLL3l0cxWsh) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Sometimes \(Japanese Version\)](https://open.spotify.com/album/1IVZonSHa5osQ8hexgUrZH) | 2:28 | 2024-01-16 | 2024-01-24 |
 | [Somewhere Near Marseilles ーマルセイユ辺りー \(Sci\-Fi Edit\)](https://open.spotify.com/track/4GUY0onClFq7BrdSJMQ4Vw) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Somewhere Near Marseilles ーマルセイユ辺りー \(Sci\-Fi Edit\)](https://open.spotify.com/album/26ygzT2K5HKFnhsGxJPSuD) | 4:12 | 2024-04-02 |  |
 | [Sonata](https://open.spotify.com/track/2EHS0Ib39XjnsjpykEMKt5) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [SOUSYUNHEN](https://open.spotify.com/album/0VPZiWfoYZRScNfDYm09YV) | 5:18 | 2023-03-29 | 2023-04-05 |
+| [Sonata's Darkness](https://open.spotify.com/track/0RXWUKoYwBSftAYgR0nKNC) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [Sonata's Darkness](https://open.spotify.com/album/6AVnMkwWRf4m7JQpraVhRW) | 3:09 | 2024-04-03 |  |
 | [SONG](https://open.spotify.com/track/2ymS78X5VTuW7aWlULYn6C) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [be with you](https://open.spotify.com/album/6A2VRRwE1H5yEykoN8T1Zs) | 3:57 | 2024-01-23 | 2024-01-31 |
 | [Song for you](https://open.spotify.com/track/72v02xOSWuDQphZPZTqxzp) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BUDDY CLUB](https://open.spotify.com/album/0nNF3J9mHGy8v07hWoBLiI) | 2:18 | 2023-04-25 | 2023-05-03 |
 | [song of spaghetti](https://open.spotify.com/track/7aJNnrW6en39Bh6PYVwJgx) | [DJ Misoshiru & MC Gohan](https://open.spotify.com/artist/2WjARQEE1UdXbTr2fflviw) | [song of spaghetti](https://open.spotify.com/album/4ksSlGTwa51NAX0BPIROiG) | 4:28 | 2024-03-12 | 2024-03-20 |
@@ -4414,7 +4415,7 @@
 | [センスレス・ワンダー\[ReREC\]](https://open.spotify.com/track/0vxB49O2ae1Hf3LWw3xoXq) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [10年後のセンスレス・ワンダー](https://open.spotify.com/album/4DhpPwIwj55p5Wbvi6mb53) | 4:18 | 2024-01-23 | 2024-01-31 |
 | [ゼロセンチ](https://open.spotify.com/track/0pvz5g4GcCopErCLj8QxUk) | [竹内唯人](https://open.spotify.com/artist/2OpX0FyI9sULjE7pmpT0eh), [VILLSHANA](https://open.spotify.com/artist/57weAzpeaELcDcAuqngdDo), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [ゼロセンチ](https://open.spotify.com/album/1Sr75focWFbkIzat4Uqvqa) | 4:13 | 2023-10-24 | 2023-11-01 |
 | [ソウル・ギャラクシー](https://open.spotify.com/track/5HxPCVn0Nc0K3brkmDuVsg) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [ソウル・ギャラクシー](https://open.spotify.com/album/73Fcgog02ZmJvx9JBZpm2a) | 3:36 | 2023-04-18 | 2023-04-26 |
-| [ソナタの暗闇](https://open.spotify.com/track/18rQoOco3JpMG5ALvI5KqE) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [ソナタの暗闇](https://open.spotify.com/album/5vuV6tPPzhv0JMJ7sEx87W) | 3:09 | 2024-04-02 |  |
+| [ソナタの暗闇](https://open.spotify.com/track/18rQoOco3JpMG5ALvI5KqE) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [ソナタの暗闇](https://open.spotify.com/album/5vuV6tPPzhv0JMJ7sEx87W) | 3:09 | 2024-04-02 | 2024-04-06 |
 | [ソニックムーブ](https://open.spotify.com/track/2SRFdavgZclceAugBxoM13) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [ソニックムーブ](https://open.spotify.com/album/67Ab1P3S8heq8cinjEDhbj) | 4:03 | 2024-03-19 | 2024-03-27 |
 | [ソングオブザデッド](https://open.spotify.com/track/3GPFWYiSU3CVJLqxiRt31n) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/1djd2IEnvJiVpcaP4d9Xsk) | 3:15 | 2023-07-11 | 2023-07-19 |
 | [ソングオブザデッド 2](https://open.spotify.com/track/1PYIyU3CfApIifbaUl4PN6) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/06vrKo270aXhoXtN6DURUA) | 3:29 | 2023-09-19 | 2023-09-27 |

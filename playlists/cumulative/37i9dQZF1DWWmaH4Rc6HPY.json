@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Y regresaron las guitarras! Jay de la Cueva en portada.",
+  "description": "\u00a1Y regresaron las guitarras! Chetes en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
     {
@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Faltas T\u00fa",
+        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201836,
+      "name": "Faltas T\u00fa",
+      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
+    },
+    {
+      "album": {
         "name": "FBI",
         "url": "https://open.spotify.com/album/7nISyqRwUIfAYATsvHgdgS"
       },
@@ -722,6 +740,24 @@
       "duration_ms": 178000,
       "name": "La Radio",
       "url": "https://open.spotify.com/track/7u5dWxjBLUGLZqYLwtvGPE"
+    },
+    {
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
     },
     {
       "album": {
@@ -1067,6 +1103,28 @@
     },
     {
       "album": {
+        "name": "No Me Hace Bien (Remix)",
+        "url": "https://open.spotify.com/album/5Bwk0rxpAKcS1QWOTaInIE"
+      },
+      "artists": [
+        {
+          "name": "Kerigma",
+          "url": "https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB"
+        },
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231813,
+      "name": "No Me Hace Bien - Remix",
+      "url": "https://open.spotify.com/track/5s0D9G9SZYQBeFd7rdWhtW"
+    },
+    {
+      "album": {
         "name": "NO ME QUIERO PEGAR",
         "url": "https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0"
       },
@@ -1132,7 +1190,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 178178,
       "name": "NO VUELVAS",
       "url": "https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2"
@@ -1302,7 +1360,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 216440,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/4B8nYFNBkksyZiiiT9PfwP"
@@ -1324,6 +1382,28 @@
       "duration_ms": 178202,
       "name": "Plan A",
       "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
+    },
+    {
+      "album": {
+        "name": "Polvo De Estrellas",
+        "url": "https://open.spotify.com/album/1dp8qyTLNa95cJE09TBOxR"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        },
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239533,
+      "name": "Polvo De Estrellas",
+      "url": "https://open.spotify.com/track/0tjqKnpDhZ7cjj8I0Gd2SX"
     },
     {
       "album": {
@@ -1832,7 +1912,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 222074,
       "name": "T\u00fa y yo (feat. Anni B Sweet)",
       "url": "https://open.spotify.com/track/3nP5l62C8gQrjsSlj93Xyv"

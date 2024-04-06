@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 466168,
+  "2024-04-06": 466149,
   "date_first_scraped": "2021-12-21",
   "description": "Positive and uplifting ambient instrumental tracks.",
   "name": "Rise",
@@ -2318,6 +2318,24 @@
     },
     {
       "album": {
+        "name": "Higher Purpose",
+        "url": "https://open.spotify.com/album/1qYHvNQU8VhFFaDMcVYgAx"
+      },
+      "artists": [
+        {
+          "name": "Aya Morata",
+          "url": "https://open.spotify.com/artist/6ryTZyH1Vnxas1vzYPzE0L"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Higher Purpose",
+      "url": "https://open.spotify.com/track/2Dgx9VOdgzeVjD4aNmkH0l"
+    },
+    {
+      "album": {
         "name": "Home Tales",
         "url": "https://open.spotify.com/album/6w6dhpG5hetNvPpe2lBIzh"
       },
@@ -3200,6 +3218,24 @@
     },
     {
       "album": {
+        "name": "nydelig",
+        "url": "https://open.spotify.com/album/066Naapq4MiEoXEpajLSyK"
+      },
+      "artists": [
+        {
+          "name": "Map Of My Mind",
+          "url": "https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "nydelig",
+      "url": "https://open.spotify.com/track/6YfJVtcMC4T0qYXp2mD9Ck"
+    },
+    {
+      "album": {
         "name": "Water Island",
         "url": "https://open.spotify.com/album/0G5QJUB8uyYEbMABwBc1db"
       },
@@ -3467,6 +3503,24 @@
       "duration_ms": 107734,
       "name": "Pre",
       "url": "https://open.spotify.com/track/6CQoENYuGo2GAoj2Gh6XmA"
+    },
+    {
+      "album": {
+        "name": "Progression",
+        "url": "https://open.spotify.com/album/0CiBtxaubHulNurkBdaiXb"
+      },
+      "artists": [
+        {
+          "name": "Loe Vida",
+          "url": "https://open.spotify.com/artist/4VP55atE7tT1o1C8xSPStS"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167178,
+      "name": "Progression",
+      "url": "https://open.spotify.com/track/2ZIpv6AyW6oxltFukHNcUq"
     },
     {
       "album": {
@@ -3917,6 +3971,42 @@
       "duration_ms": 160000,
       "name": "Sleep Spirits",
       "url": "https://open.spotify.com/track/2LW5RfktXIpGmLcnQq8HLM"
+    },
+    {
+      "album": {
+        "name": "Sofna",
+        "url": "https://open.spotify.com/album/0f6cW81qyPOIjFqp5634kp"
+      },
+      "artists": [
+        {
+          "name": "Toninn",
+          "url": "https://open.spotify.com/artist/5K7zhN8cue1f54j0vVFsZR"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192303,
+      "name": "Sofna",
+      "url": "https://open.spotify.com/track/5gvjqeIINNvUaEI4lWh4ee"
+    },
+    {
+      "album": {
+        "name": "Soft Feather",
+        "url": "https://open.spotify.com/album/0xC25BRAXPZWyqm5DI1p5H"
+      },
+      "artists": [
+        {
+          "name": "Siljann",
+          "url": "https://open.spotify.com/artist/0AvPkMDg6bdQlUQ3Nn07cF"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205909,
+      "name": "Soft Feather",
+      "url": "https://open.spotify.com/track/6AwNPeCte9bFMEmIC0ZbNT"
     },
     {
       "album": {
@@ -4781,6 +4871,24 @@
       "duration_ms": 134210,
       "name": "We Are Forever",
       "url": "https://open.spotify.com/track/2ralu13lkIdpY1ynZTpVJO"
+    },
+    {
+      "album": {
+        "name": "Weightless Moments",
+        "url": "https://open.spotify.com/album/0hlW6PxO25DJR95MLLWxFd"
+      },
+      "artists": [
+        {
+          "name": "Matt van Stern",
+          "url": "https://open.spotify.com/artist/6R18bmvwvBLIz0r9XsIOza"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161874,
+      "name": "Weightless Moments",
+      "url": "https://open.spotify.com/track/430S5jXFtVzLvDY14M8UiM"
     },
     {
       "album": {

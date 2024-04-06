@@ -4,7 +4,7 @@
 
 > A dark new chapter begins...Listen to the music from and inspired by Call of Duty, featuring music from Modern Warfare III.
 
-67 songs - 4 hr 35 min
+67 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

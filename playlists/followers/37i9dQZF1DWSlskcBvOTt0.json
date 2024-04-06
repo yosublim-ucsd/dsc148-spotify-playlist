@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 457569,
+  "2024-04-06": 457778,
   "date_first_scraped": "2022-04-20",
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
   "name": "Tantra",
@@ -4603,6 +4603,24 @@
       "duration_ms": 238003,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu"
+    },
+    {
+      "album": {
+        "name": "Holmen",
+        "url": "https://open.spotify.com/album/4WHi9n6BQ1o6qbyUJONOWh"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265522,
+      "name": "Holmen",
+      "url": "https://open.spotify.com/track/6BSe0z7siNCq6qbkPJm6CJ"
     },
     {
       "album": {
@@ -11715,7 +11733,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 180814,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/4VdTPiVynDPgumUwyq72Yj"

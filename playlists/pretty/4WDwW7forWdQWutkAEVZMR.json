@@ -1,13 +1,141 @@
 {
-  "description": "Your go-to playlist for this week's hottest music featuring Beyonc\u00e9, Vampire Weekend, Harry Styles &amp; more! Cover: Beyonc\u00e9",
-  "num_followers": 8236,
+  "description": "Your go-to playlist for this week's hottest music featuring Vampire Weekend, Beyonc\u00e9, Harry Styles &amp; more! Cover: Vampire Weekend",
+  "num_followers": 8237,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "Njg2OSwwNmI0NzMzMDNiOWQ3MmVmYjk4NTRhMWM3NjkwYjAyYjRhNDk1ZjY2",
+  "snapshot_id": "Njg3NixlMzg5NmEwYjYyODdlMjRmMjAzNzE2NGQxMjNlODhlMDk0ZGRhZWYx",
   "tracks": [
+    {
+      "added_at": "2024-04-05 18:54:29",
+      "album": {
+        "name": "Only God Was Above Us",
+        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "Prep-School Gangsters",
+      "url": "https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS"
+    },
+    {
+      "added_at": "2024-04-05 18:54:59",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP"
+        }
+      ],
+      "duration_ms": 187711,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln"
+    },
+    {
+      "added_at": "2024-04-05 18:55:20",
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
+      "added_at": "2024-04-05 18:55:58",
+      "album": {
+        "name": "Cowboy Songs",
+        "url": "https://open.spotify.com/album/4StCHyQ1HelsMkssFAjTei"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "duration_ms": 208560,
+      "name": "Damn Right I Do",
+      "url": "https://open.spotify.com/track/0WQFsJfZRH4jQAknuMPD9e"
+    },
+    {
+      "added_at": "2024-04-05 19:08:06",
+      "album": {
+        "name": "Dear Alcohol (feat. Atlus, Kelsie Watts, Carly Pearl, ERV ELLO, Skydxddy, Trippz, Kayla Rae, Common Tribe, TROY, Phix, KC Makes Music & Official DJ Aaron) [Mega Remix]",
+        "url": "https://open.spotify.com/album/2mI15wQaLQgqgfMgQGGvEl"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        },
+        {
+          "name": "Atlus",
+          "url": "https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp"
+        },
+        {
+          "name": "Kelsie Watts",
+          "url": "https://open.spotify.com/artist/5yAh5wDiseQhWhh0Z2QY27"
+        },
+        {
+          "name": "Carly Pearl",
+          "url": "https://open.spotify.com/artist/3tp2PruET9DsrEfnovsJXn"
+        },
+        {
+          "name": "ERV ELLO",
+          "url": "https://open.spotify.com/artist/6uCQQAHmh8iINfwg98z6zn"
+        },
+        {
+          "name": "SkyDxddy",
+          "url": "https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx"
+        },
+        {
+          "name": "Trippz",
+          "url": "https://open.spotify.com/artist/4KlMKJlN3I5fFG0Xl7UsOq"
+        },
+        {
+          "name": "Kayla Rae",
+          "url": "https://open.spotify.com/artist/0cz0uZX8a30POuEC2hDL9j"
+        },
+        {
+          "name": "Common Tribe",
+          "url": "https://open.spotify.com/artist/40pTT6YuuFhVUmNRBgYKjb"
+        },
+        {
+          "name": "TROY",
+          "url": "https://open.spotify.com/artist/72rBhryT48xN1YJ1ygEWrj"
+        },
+        {
+          "name": "Phix",
+          "url": "https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT"
+        },
+        {
+          "name": "KC Makes Music",
+          "url": "https://open.spotify.com/artist/3aphx96S4Rrcu172esVGGh"
+        },
+        {
+          "name": "Officialdjaaron",
+          "url": "https://open.spotify.com/artist/3FUA9oKRFd7UivBRBBUar0"
+        }
+      ],
+      "duration_ms": 605538,
+      "name": "Dear Alcohol (feat. Atlus, Kelsie Watts, Carly Pearl, ERV ELLO, Skydxddy, Trippz, Kayla Rae, Common Tribe, TROY, Phix, KC Makes Music & Official DJ Aaron) - Mega Remix",
+      "url": "https://open.spotify.com/track/3Lh0CewWRTS4PSzMrwC3fa"
+    },
     {
       "added_at": "2024-03-29 04:38:40",
       "album": {

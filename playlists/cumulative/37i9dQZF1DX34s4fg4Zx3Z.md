@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Tuấn Võ
 
-1,576 songs - 3 day 20 hr 14 min
+1,577 songs - 3 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Bác Sĩ Tâm Lý \(feat\. Zury\)](https://open.spotify.com/track/6yPQP5wi1RpRN5cpMsl1Ji) | [Groovie Lã Thắng](https://open.spotify.com/artist/1yx4rYyjUYupI7Ji1YvXRh), [Zury](https://open.spotify.com/artist/6trcC12iSMcsT5qalkoDZt) | [Bác Sĩ Tâm Lý \(feat\. Zury\)](https://open.spotify.com/album/6wr0qrBCAX0YoCw0MZ6UgQ) | 4:07 | 2022-01-06 | 2022-02-11 |
 | [Bão Trong Tim](https://open.spotify.com/track/2VUYb93eU3Byq4GwLqB3QF) | [Hạnh Sino](https://open.spotify.com/artist/3f7Dr7qtAJutrBV8mjozhh) | [Bão Trong Tim](https://open.spotify.com/album/7zN9jWMMo8N5UZyV9p5qz0) | 4:03 | 2022-09-18 | 2022-11-01 |
 | [Bé Ơi, Yêu Không](https://open.spotify.com/track/23eUSrVQqicjDyWNS2rzJk) | [DIY](https://open.spotify.com/artist/5R6ZWyXZyqhafn4vneQ4vj), [Kiyoshi Phan](https://open.spotify.com/artist/68NSOMlOaNbs7eYe42qaAc), [ZeoMusic](https://open.spotify.com/artist/5O6HVDKin747dImPXntypg) | [Bé Ơi, Yêu Không](https://open.spotify.com/album/4LLfrd8YzHrOpytwkF87OZ) | 2:12 | 2023-10-17 | 2023-11-17 |
+| [Bên dưới ánh trăng](https://open.spotify.com/track/6Ya9cvlwI44RVBComaVSOb) | [Weeza](https://open.spotify.com/artist/3KCwCM9okdx5d2iDbIxQ9l) | [NHUNG DUA TRE](https://open.spotify.com/album/2ivD1txUAxPhgiYq1vjeKY) | 4:18 | 2024-04-04 |  |
 | [Bên Em Nhẹ Nhàng Thôi](https://open.spotify.com/track/3cJdxUxZX4SO7xOqJiwyd8) | [Riown](https://open.spotify.com/artist/1vvDwGd3z0eywYay5NPMyG) | [Bên Em Nhẹ Nhàng Thôi](https://open.spotify.com/album/1bJbzL7BVZfyCrjekVaA1w) | 3:39 | 2022-11-10 | 2023-12-14 |
 | [Bên Em Nhẹ Nhàng Thôi \- R&B](https://open.spotify.com/track/3k4EFIDxAR42B5G4pnVful) | [Riown](https://open.spotify.com/artist/1vvDwGd3z0eywYay5NPMyG) | [Bên Em Nhẹ Nhàng Thôi \(R&B\)](https://open.spotify.com/album/53KyM5jfhTMlCMWX73SGmE) | 3:47 | 2023-11-29 | 2023-12-05 |
 | [Bên Em Tonight](https://open.spotify.com/track/2XUTyMSpJFRIwSzk8LQ4NY) | [Koo](https://open.spotify.com/artist/32bN36S2HiZzGVsfxhvb4E), [Wang](https://open.spotify.com/artist/0HqNIZwtUtRM5FEuXrdZWf), [So Hi](https://open.spotify.com/artist/4xY9VlSeEtEM6y42hpuxvU) | [Bên Em Tonight](https://open.spotify.com/album/5KYZF0jptu542gUr1FrtlT) | 3:29 | 2022-01-14 | 2022-03-01 |

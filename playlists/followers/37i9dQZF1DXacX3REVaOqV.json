@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 499046,
+  "2024-04-06": 499053,
   "date_first_scraped": "2022-04-20",
   "description": "The best in house music",
   "name": "House Supreme",
@@ -3044,6 +3044,28 @@
     },
     {
       "album": {
+        "name": "Highly Recommended",
+        "url": "https://open.spotify.com/album/7l3DslmV0uxeWut1lpgaNf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343413,
+      "name": "Highly Recommended",
+      "url": "https://open.spotify.com/track/2kyhGp9Okt2kYzgFBxDed6"
+    },
+    {
+      "album": {
         "name": "Hipcats",
         "url": "https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ"
       },
@@ -3407,6 +3429,24 @@
       "duration_ms": 206299,
       "name": "In Arms",
       "url": "https://open.spotify.com/track/0mqDNdnkSOTKqsUIsAEfW2"
+    },
+    {
+      "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/0zTGtc0HuqblFuXpBLZXyc"
+      },
+      "artists": [
+        {
+          "name": "Musumeci",
+          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303739,
+      "name": "In Da House",
+      "url": "https://open.spotify.com/track/3TqQKlQS8jjBCQenh0jRhS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,186 songs - 2 day 12 hr 53 min
+1,188 songs - 2 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Bloom](https://open.spotify.com/track/1afsbzgZmEP4hVRyGrmIOv) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Bloom](https://open.spotify.com/album/1hFATkkw8ibvIwUQkWpWER) | 2:51 | 2021-07-24 | 2021-09-18 |
 | [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 | 2021-06-12 | 2021-07-31 |
 | [Blue Banisters](https://open.spotify.com/track/6FpdEqPmZ9aXIXiDi0Ke0f) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/1C5RVpJJ2IAn92JeZwFF8j) | 4:52 | 2021-05-22 | 2021-05-29 |
-| [Blue Eyed Boy](https://open.spotify.com/track/2Pa3wJwBskgjo3CXz5y0n1) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Blue Eyed Boy](https://open.spotify.com/album/5NhlbhBmjU4q0BPTf4J47V) | 2:43 | 2023-07-08 |  |
+| [Blue Eyed Boy](https://open.spotify.com/track/2Pa3wJwBskgjo3CXz5y0n1) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Blue Eyed Boy](https://open.spotify.com/album/5NhlbhBmjU4q0BPTf4J47V) | 2:43 | 2023-07-08 | 2024-04-06 |
 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 | 2021-06-05 | 2021-07-04 |
 | [BLUEBLUEBLUE](https://open.spotify.com/track/3c8joelJQd6Ae7vEIhme97) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C), [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [BLUEBLUEBLUE](https://open.spotify.com/album/3dOqYtutrXgjShT82NgDZu) | 2:11 | 2021-10-16 | 2022-02-05 |
 | [Body And Mind](https://open.spotify.com/track/2dAHKe37uyUrB0v0PJrDDj) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp) | 3:06 | 2021-05-03 | 2021-09-18 |
@@ -287,6 +287,7 @@
 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 | 2021-07-10 | 2021-10-16 |
 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 | 2023-12-15 |  |
 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 | 2021-10-30 | 2022-02-19 |
+| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2024-04-05 |  |
 | [Easier Said Than Done](https://open.spotify.com/track/6oAD3YoVRl1RsNfVsBTmM9) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Easier Said Than Done](https://open.spotify.com/album/2jQYIG9wE9pArx2ZQUXnvn) | 3:45 | 2021-02-06 | 2021-02-13 |
 | [Easy](https://open.spotify.com/track/4VHd2JFgcpgYOvJWP2D1aX) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Easy](https://open.spotify.com/album/2NjGLwVlQxVHSHNGSJMTMh) | 3:23 | 2020-10-29\* | 2021-02-19 |
 | [Eckhaus Latta](https://open.spotify.com/track/6eREarnGP0ESQPQAtzx66p) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Eckhaus Latta](https://open.spotify.com/album/581K715k3W1jz1LqgmOKKz) | 2:49 | 2024-03-29 |  |
@@ -466,7 +467,7 @@
 | [Honey](https://open.spotify.com/track/658qcSLPvoU4IZJhjxPHRo) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Honey](https://open.spotify.com/album/2erYmQSfrlmfOdktVdUcE3) | 2:28 | 2020-11-07 | 2021-01-06 |
 | [Honeymoon](https://open.spotify.com/track/6lbV4fjdidtNPvjo0sGDZr) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeymoon](https://open.spotify.com/album/1Ux3c9n4YtI45ZvBZmllhs) | 3:17 | 2024-01-19 |  |
 | [hope ur ok](https://open.spotify.com/track/1zejeOnykpCoyVSit6Bwp3) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:29 | 2021-05-22 | 2021-09-18 |
-| [Hot in NY](https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Hot in NY](https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8) | 1:58 | 2023-09-15 |  |
+| [Hot in NY](https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Hot in NY](https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8) | 1:58 | 2023-09-15 | 2024-04-06 |
 | [Hotel](https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [6 Of A Billion](https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV) | 2:14 | 2021-07-10 | 2022-01-15 |
 | [Hotel Lobby](https://open.spotify.com/track/6iDOz3Eiq0LucNf2eHKoxt) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t), [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Together Alone](https://open.spotify.com/album/1sPejSJ9oRQu72BBEmLjZo) | 3:15 | 2021-06-27 | 2021-08-14 |
 | [Hotmail](https://open.spotify.com/track/2MAARIzSi5c1A7XgeG3qX7) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Hotmail](https://open.spotify.com/album/1irlxT7n8Fgh1s93imxOiw) | 3:33 | 2021-07-31 | 2021-08-14 |
@@ -909,6 +910,7 @@
 | [Silver Lining](https://open.spotify.com/track/4tw3eWyL5mzal4LbQUCjkB) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Wish](https://open.spotify.com/album/1Qoflw9wKOPA9FLF1BBaFL) | 3:39 | 2022-11-18 | 2023-01-28 |
 | [Since I Met You](https://open.spotify.com/track/2V5rvUTRORhRqRIamSO5ZW) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Since I Met You](https://open.spotify.com/album/0wctdcNAm9vZGtGwRLYRa2) | 4:30 | 2022-03-04 | 2022-04-02 |
 | [Sit on Your Hands](https://open.spotify.com/track/1AUl49yGgselgHvW6DKQpx) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Sit on Your Hands](https://open.spotify.com/album/6MwVFr8VucrU2kVVAI3xqQ) | 2:55 | 2021-02-27 | 2021-05-03 |
+| [Sleep it Off](https://open.spotify.com/track/1slsHonIGXvJZZWPoNxYXW) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Sleep it Off](https://open.spotify.com/album/5IZvjCISbH1d0Pg9j3xY5n) | 3:02 | 2024-04-05 |  |
 | [sleeping on the floor](https://open.spotify.com/track/2SaMMF3gwdwTjWuR44LETg) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [sleeping on the floor](https://open.spotify.com/album/4MQRdmpYmA0GZx8XoUJLYi) | 2:33 | 2022-03-04 | 2022-04-09 |
 | [Sleepwalker](https://open.spotify.com/track/6GsHmYdV3mZZA1poF3hEuO) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Sleepwalker](https://open.spotify.com/album/5LpxCSKfeBH5lsn3R6U5bE) | 3:17 | 2021-07-17 | 2021-10-09 |
 | [Slip Away](https://open.spotify.com/track/5MRQTVKZkDu4vYGRSpq6wM) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Mystic I.](https://open.spotify.com/artist/47FZ69r6ttcVTmVAQa1nOT) | [Slip Away](https://open.spotify.com/album/675mGNtA8j1G2FtrsCB6zb) | 3:33 | 2021-06-19 | 2021-07-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,833 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,958 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 | 2 | [Dernière danse](https://open.spotify.com/track/7mNErWes3YegbRLgZuILl5) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:47 |
 | 3 | [La Boulette \(Génération Nan Nan\)](https://open.spotify.com/track/1Vf09Cxf2jqSkU6sfueYAq) | [Diam's](https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM) | [Dans Ma Bulle](https://open.spotify.com/album/1ZlqqgXvzlq8kZBKsY0hWO) | 3:51 |
 | 4 | [Toutes les femmes de ta vie](https://open.spotify.com/track/0ZpCuFfUUgGNGvMVN5kjhc) | [L5](https://open.spotify.com/artist/5riPm9K3FssJpYLJnDGzOn) | [Lipsyncs Legendarios Volumen 2](https://open.spotify.com/album/1XuJpBdzHn81l2duw8TR4y) | 3:14 |
-| 5 | [Je fais de toi mon essentiel \(avec Anne\-Laure Girbal\)](https://open.spotify.com/track/6H4TH5ntp7KzYePysRBcuT) | [Emmanuel Moire](https://open.spotify.com/artist/5YIaZ0ICxZyNEsATQRsxRk), [Anne\-Laure Girbal](https://open.spotify.com/artist/3FM0IXK9lSh0crQZ8oG9CL) | [Je fais de toi mon essentiel](https://open.spotify.com/album/57zABxgnCQxZRCaLY1RAIH) | 3:19 |
+| 5 | [Je fais de toi mon essentiel \(avec Anne\-Laure Girbal\)](https://open.spotify.com/track/6H4TH5ntp7KzYePysRBcuT) | [Emmanuel Moire](https://open.spotify.com/artist/5YIaZ0ICxZyNEsATQRsxRk), [Anne\-Laure Girbal](https://open.spotify.com/artist/3FM0IXK9lSh0crQZ8oG9CL) | [Je fais de toi mon essentiel](https://open.spotify.com/album/57zABxgnCQxZRCaLY1RAIH) | 3:18 |
 | 6 | [Ma philosophie](https://open.spotify.com/track/1HOtCYTuOCISpTn9cW6fcz) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Un Jour D'été](https://open.spotify.com/album/6MFXFliONetu0nByEb7d4w) | 3:23 |
 | 7 | [Lady Mélody](https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd) | [Tom Frager](https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq) | [Better Days](https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1) | 3:11 |
 | 8 | [Il avait les mots](https://open.spotify.com/track/1ulV7wgYNWhulcnMrgwOuG) | [Sheryfa Luna](https://open.spotify.com/artist/5BPQfQJaq5Hx0636gwk4uA) | [Sheryfa Luna](https://open.spotify.com/album/0I1iezuwcQDATLumFtVjpX) | 3:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 | 59 | [Mon coeur, mon amour](https://open.spotify.com/track/0oWAz88alrwkNvnfaRokhn) | [Anaïs](https://open.spotify.com/artist/6uwKWDKLDlM0PXvXQ97sRT) | [The Cheap Show](https://open.spotify.com/album/3JnzpVc0Wx4c46enGLAHi7) | 4:23 |
 | 60 | [Les voyages en train](https://open.spotify.com/track/1fhKFixA1BKke1I2evNUxQ) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Midi 20](https://open.spotify.com/album/3KLf3aJPySlGsTYGdkWPbP) | 2:51 |
 
-Snapshot ID: `MCw2MTc2ODZiOWE3YTI2MThiZTBiNTc3ZjQ3Zjc3MmZiNTY4ZjhkNTRh`
+Snapshot ID: `MCw4M2Y4YTY4MjU0NTVkMjc4YTljNWM1MGFmMDg0MTY5MzVmZTUxNGQy`

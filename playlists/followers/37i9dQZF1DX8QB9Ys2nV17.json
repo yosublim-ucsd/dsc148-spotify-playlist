@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 175197,
+  "2024-04-06": 175218,
   "date_first_scraped": "2021-12-28",
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
   "name": "EQUAL Blues",
@@ -849,10 +849,28 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 338586,
       "name": "Later On",
       "url": "https://open.spotify.com/track/2GnsJUt8AcHJDrt0zxcQAk"
+    },
+    {
+      "album": {
+        "name": "Spiritus",
+        "url": "https://open.spotify.com/album/3Oeo5IS0N11eN9t1YyoVoF"
+      },
+      "artists": [
+        {
+          "name": "Jane Lee Hooker",
+          "url": "https://open.spotify.com/artist/1fFEQ9r3l2ApZ1EOEcwreH"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338586,
+      "name": "Later On",
+      "url": "https://open.spotify.com/track/4JywqZZWjdpreyAjQzQEzG"
     },
     {
       "album": {
@@ -1217,10 +1235,28 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 214049,
       "name": "My Man Called Me",
       "url": "https://open.spotify.com/track/2FqLyyGqLM5KWRkWs4c39D"
+    },
+    {
+      "album": {
+        "name": "Groovin' at the Crosse Roads",
+        "url": "https://open.spotify.com/album/2XCnZDKGMpFyv5oJd1yMAQ"
+      },
+      "artists": [
+        {
+          "name": "Heather Crosse",
+          "url": "https://open.spotify.com/artist/0OdyBBQn3J8hwZN1oMSEQT"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214049,
+      "name": "My Man Called Me",
+      "url": "https://open.spotify.com/track/36X90M19rmpoqvhk2QMasB"
     },
     {
       "album": {
@@ -1343,10 +1379,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 285369,
       "name": "Played the Game",
       "url": "https://open.spotify.com/track/04Y0ON4aAZgzbJdzu504SI"
+    },
+    {
+      "album": {
+        "name": "Heart of Fire",
+        "url": "https://open.spotify.com/album/1gtR85ENadeOX8oXCAr8yM"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285369,
+      "name": "Played the Game",
+      "url": "https://open.spotify.com/track/5TW2JPyiQ3HZEzSkce30uL"
     },
     {
       "album": {
@@ -1859,6 +1913,24 @@
     {
       "album": {
         "name": "Tell Me",
+        "url": "https://open.spotify.com/album/4BLWL6O89dRfvYbVfg30gd"
+      },
+      "artists": [
+        {
+          "name": "Meena",
+          "url": "https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311800,
+      "name": "This Is My Will",
+      "url": "https://open.spotify.com/track/2TvfZaLnad4s9zX6wDly8N"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
         "url": "https://open.spotify.com/album/4XSyd1dqmvO4SX4xh7tvru"
       },
       "artists": [
@@ -1869,7 +1941,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 311800,
       "name": "This Is My Will",
       "url": "https://open.spotify.com/track/6LOo0imVNkr9CFr6Cg6dkD"

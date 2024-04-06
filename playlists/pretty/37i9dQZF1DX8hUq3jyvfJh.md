@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Manu e mais mulheres no volume máximo! Co\-curadoria com
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,042 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,027 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 15 | [Quase Não Namoro](https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Quase Não Namoro](https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC) | 2:15 |
 | 16 | [Agora Estou Sofrendo](https://open.spotify.com/track/6MXWnt6UnVkmg6NCPTkOAR) | [Raquel dos Teclados](https://open.spotify.com/artist/6AZMMl0OWhhybvX6q8FXhq) | [VOL 1](https://open.spotify.com/album/0yfXQFjXzsWM8bqgwaDqvL) | 3:07 |
 | 17 | [Bêbado e Apaixonado](https://open.spotify.com/track/3gBTaR5wzBuDfcCEDT0C56) | [Mariana Pimenta](https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn) | [Bêbado e Apaixonado](https://open.spotify.com/album/7r5oNea325sqeTZD5mHlEd) | 2:55 |
-| 18 | [Amnésia Do Beijo \- Ao Vivo](https://open.spotify.com/track/6YJzvSZzfrd1UDaLFIRHQY) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo\)](https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK) | 3:00 |
-| 19 | [Apaixonada](https://open.spotify.com/track/6PPtpSPkzvXUpmXbfnNupr) | [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX), [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Apaixonada](https://open.spotify.com/album/0cRcvbevYUF3owFrbywXIN) | 3:08 |
+| 18 | [Apaixonada](https://open.spotify.com/track/6PPtpSPkzvXUpmXbfnNupr) | [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX), [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Apaixonada](https://open.spotify.com/album/0cRcvbevYUF3owFrbywXIN) | 3:08 |
+| 19 | [Amnésia Do Beijo \- Ao Vivo](https://open.spotify.com/track/6YJzvSZzfrd1UDaLFIRHQY) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo\)](https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK) | 3:00 |
 | 20 | [Sem Usar As Mãos](https://open.spotify.com/track/57kFKoulgzOD9pHZckFHGJ) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Sem Usar As Mãos](https://open.spotify.com/album/1NgTq6gAfIE20JZSMSzgF0) | 2:29 |
 | 21 | [Xuxu](https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Xuxu](https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O) | 2:52 |
 | 22 | [Deixa Eu Viver \- Ao Vivo](https://open.spotify.com/track/1vHWl4CiItYFf8X9Mrpcxy) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Deixa Eu Viver \(Ao Vivo\)](https://open.spotify.com/album/2CeQU70wcB0vYGaKI2GB4B) | 3:21 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 35 | [Um Ex Amor](https://open.spotify.com/track/3BcJ4bfuH7vWoYl235McAe) | [Klessinha A baronesa](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Um Ex Amor](https://open.spotify.com/album/5jMfkmURBl2PWFCXf1lmSL) | 3:00 |
 | 36 | [Carinho E Respeito](https://open.spotify.com/track/4zfd2DA0X6juAIIUHbnbIZ) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [A culpa é do meu SIGNO](https://open.spotify.com/album/7JjEHekB15sJmSy23SO0Cd) | 2:40 |
 | 37 | [Paracetamal \- Ao Vivo](https://open.spotify.com/track/67xNafdAPTbpPN1rxmA5DM) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q), [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Paracetamal \(Ao Vivo\)](https://open.spotify.com/album/7FHzD8nwNRLAccMkllpQb8) | 2:50 |
-| 38 | [Rotina](https://open.spotify.com/track/4ZFnEp8aL93ucQsawiyiwA) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [Rotina](https://open.spotify.com/album/52ISbgYoLz0QAKb0sOpCbv) | 3:08 |
+| 38 | [Cleide](https://open.spotify.com/track/4vJAhyVQqc08HKmeWwmTWk) | [Marcia Novo](https://open.spotify.com/artist/33ZYvlC9Qs0gtyBWY6GOik), [O Conde Só Brega](https://open.spotify.com/artist/1Fwo1NcyRIEDraRN1fy495) | [Cleide](https://open.spotify.com/album/3QY7ydZS435baVDOqu4h8L) | 3:29 |
 | 39 | [Whisky Vagabund0 / Viva Voz / Cobaia \- Ao Vivo](https://open.spotify.com/track/125cKwQiNBVqpAHmDRmbfl) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz Goiânia \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/25jNsrO9DHmCnQ6vQ4vVTL) | 5:00 |
-| 40 | [Cleide](https://open.spotify.com/track/4vJAhyVQqc08HKmeWwmTWk) | [Marcia Novo](https://open.spotify.com/artist/33ZYvlC9Qs0gtyBWY6GOik), [O Conde Só Brega](https://open.spotify.com/artist/1Fwo1NcyRIEDraRN1fy495) | [Cleide](https://open.spotify.com/album/3QY7ydZS435baVDOqu4h8L) | 3:29 |
+| 40 | [Rotina](https://open.spotify.com/track/4ZFnEp8aL93ucQsawiyiwA) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [Rotina](https://open.spotify.com/album/52ISbgYoLz0QAKb0sOpCbv) | 3:08 |
 | 41 | [A Prova de Ex](https://open.spotify.com/track/0RnGEYHURSUAgii5QS7lcx) | [Anna Catarina](https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow) | [Ao Vivo em Nazaré das Farinhas](https://open.spotify.com/album/2ZNIQZydZyHNGUNA9djAD6) | 2:27 |
 | 42 | [Bola de Fogo \(Que Calor da Porra\)](https://open.spotify.com/track/69sfMbcP4UKRoGVqBJcHgs) | [Alinne Rosa](https://open.spotify.com/artist/6jrXjOgvZxar7qULTgJ9xd) | [Bola de Fogo \(Que Calor da Porra\)](https://open.spotify.com/album/0NmkkblhEj0f8mNprfmsX6) | 2:34 |
 | 43 | [Total Solidão \(Total Eclipse Of The Heart\)](https://open.spotify.com/track/3hFNyCI09fIhHjcGSbcvRa) | [Lari Ferreira](https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Total Solidão \(Total Eclipse Of The Heart\)](https://open.spotify.com/album/1ORNkfyJadCeX7Lzma3GSz) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Garota](https://open.spotify.com/track/1GPpTfjZtYdCcrwBVVpyuV) | [Maria Clara](https://open.spotify.com/artist/2f7WgZUIxWzg5KRU5y0fVc) | [Garota](https://open.spotify.com/album/6XonAhian0PAQ0DWRkQY6Y) | 3:28 |
 | 50 | [Vapt Vupt](https://open.spotify.com/track/1Ccih7yKi46g9TK9KQmNGG) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Sobre Nós Dois, Vol.1](https://open.spotify.com/album/1LZgTRSFgdjSj0HrnWS1ZP) | 2:22 |
 
-Snapshot ID: `MCxkZDFlOWNlNDljNWM0ZmU5M2M1ZjhiYjY3OGI2MzYxZTA3M2RjN2Ew`
+Snapshot ID: `MCxjMjU1MDgxODdkMjE1ZjBmMWY3ZTFiNGJiYjc1ODMwNjhlN2E1NzFj`

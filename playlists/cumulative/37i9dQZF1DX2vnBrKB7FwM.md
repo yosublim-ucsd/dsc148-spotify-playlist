@@ -2,9 +2,9 @@
 
 ### [RAPública de Colombia](https://open.spotify.com/playlist/37i9dQZF1DX2vnBrKB7FwM)
 
-> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Luis7Lunes & Sison Beats/Nemesis
+> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: N\. Hardem
 
-131 songs - 7 hr 15 min
+132 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Inmortal](https://open.spotify.com/track/0SuDASVJre5ibvn7FWhr2f) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Ónix](https://open.spotify.com/album/2VNQz46SGDNQVRxGa0zY0J) | 2:58 | 2022-02-25 | 2022-07-16 |
 | [Inmune](https://open.spotify.com/track/2xrv8ar2mYYwmXPoCZY9se) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi) | [Verdor](https://open.spotify.com/album/3y6yqzgtEBTRShhEC7mRTN) | 4:32 | 2022-07-15 |  |
 | [Inmune](https://open.spotify.com/track/637uiYNp6YmhmYJaCxmEHE) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi) | [Verdor](https://open.spotify.com/album/58ucyDAKyLvEXL3M8YSzgF) | 4:32 | 2022-02-25 | 2022-11-13 |
+| [INTERNACIONAL WELTER](https://open.spotify.com/track/1yaar52W1nAFGm0GS7moE4) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [L'Xuasma](https://open.spotify.com/artist/4lEh3rt391Jzx3edimVSBO), [Hi\-Kymon](https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb) | [MAL DE ALTURA](https://open.spotify.com/album/75OUQCSkk96gwjHEfrIQEJ) | 4:10 | 2024-04-05 |  |
 | [La Caza de Nariño](https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [La Caza de Nariño](https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW) | 3:41 | 2022-02-25 |  |
 | [La Junta](https://open.spotify.com/track/33XO9zynI5v4lS2bxYbpc7) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [La Junta](https://open.spotify.com/album/4tmlpeh4UeaZPxyEblnAzV) | 3:54 | 2022-12-16 | 2023-08-26 |
 | [La Nada](https://open.spotify.com/track/1RqeXjIirY9nD9rypTvU2G) | [Tsh Sudaca](https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO) | [La Nada](https://open.spotify.com/album/5ziIa95wsIA1lUiDEpm2ad) | 3:06 | 2022-07-15 |  |
@@ -101,7 +102,7 @@
 | [Parpadeos](https://open.spotify.com/track/7jeTgr89idzEp8uv111bPN) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Vergüenza Propia](https://open.spotify.com/album/6G7bf3U6XL6Fo0E2yh8MXD) | 3:02 | 2022-07-15 |  |
 | [Perro Juan](https://open.spotify.com/track/5cl4qEH0TWy22V75VTXRJB) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Perro Juan](https://open.spotify.com/album/7G1nzx1H4kp8Rc4qUp0qcz) | 2:07 | 2023-04-14 |  |
 | [Perro Juan](https://open.spotify.com/track/4gESe0aw8NIybCS6mFVx9P) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Perro Juan](https://open.spotify.com/album/114p6iuem4oWYj3BhZiA7y) | 2:07 | 2022-02-25 | 2023-06-18 |
-| [Pulsaciones \(Español\)](https://open.spotify.com/track/0OZW4Dn1N4boisg8eJ3cOT) | [Rocca](https://open.spotify.com/artist/7yz7tVF8i1Jr6roiq5CUuD), [DJ Duke](https://open.spotify.com/artist/7qdvmZOJvj3209H1aLBWn4) | [Pulsaciones \(Español\)](https://open.spotify.com/album/31zy3v53VGZlfGPefHkSI7) | 3:29 | 2023-11-24 |  |
+| [Pulsaciones \(Español\)](https://open.spotify.com/track/0OZW4Dn1N4boisg8eJ3cOT) | [Rocca](https://open.spotify.com/artist/7yz7tVF8i1Jr6roiq5CUuD), [DJ Duke](https://open.spotify.com/artist/7qdvmZOJvj3209H1aLBWn4) | [Pulsaciones \(Español\)](https://open.spotify.com/album/31zy3v53VGZlfGPefHkSI7) | 3:29 | 2023-11-24 | 2024-04-06 |
 | [Pulso & Sudor](https://open.spotify.com/track/7uD7zOaghFbdV9bRz7SNAO) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Pulso & Sudor](https://open.spotify.com/album/7MNIx7mV2OVCvO7ltXMFkl) | 3:21 | 2022-02-25 | 2023-08-26 |
 | [Quien Va](https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Alcolirykoz](https://open.spotify.com/artist/6zK4l1uHkF2cvOJLcdOShB), [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre) | [Pantone](https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX) | 4:25 | 2022-02-25 |  |
 | [Quién Pidió Pollo](https://open.spotify.com/track/3eg52bwJ7r5Ma9ZmLOGAts) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Círculo Vicioso](https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1) | 3:52 | 2022-02-25 |  |

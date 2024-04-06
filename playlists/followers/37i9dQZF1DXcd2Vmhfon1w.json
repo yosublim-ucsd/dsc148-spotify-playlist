@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 522239,
+  "2024-04-06": 522322,
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Ayax y Prok",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Foyone",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -371,6 +371,36 @@
       "duration_ms": 138501,
       "name": "Agua y Vino",
       "url": "https://open.spotify.com/track/0jJurSM7swEY7IKtyYuDDs"
+    },
+    {
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/3g278nbiWZi8eHx5iRAxlD"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        },
+        {
+          "name": "ZPU",
+          "url": "https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb"
+        },
+        {
+          "name": "Morodo",
+          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
+        },
+        {
+          "name": "El Santo",
+          "url": "https://open.spotify.com/artist/0X0o5wsXqn6uunus02kGvF"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285333,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/5JVkOvgb7pvRyIn6bwMxfH"
     },
     {
       "album": {
@@ -1529,7 +1559,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 184598,
       "name": "DE ABAJO DEL TODO",
       "url": "https://open.spotify.com/track/4MNhHBJfDMw0KTbI9PE5Ob"
@@ -2739,7 +2769,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 134655,
       "name": "JURAME",
       "url": "https://open.spotify.com/track/7EwDTkzr2M4TkSkWFCb5u6"
@@ -3354,6 +3384,24 @@
     },
     {
       "album": {
+        "name": "loca",
+        "url": "https://open.spotify.com/album/7L4PkBeVyXWeQ7T1wXfgUf"
+      },
+      "artists": [
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181621,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/3MrWbBl9WB14QDb62hYIe3"
+    },
+    {
+      "album": {
         "name": "Lollypop",
         "url": "https://open.spotify.com/album/1BTOi1Ido10cMMM7i9MCCp"
       },
@@ -3961,6 +4009,28 @@
       "duration_ms": 164370,
       "name": "Mi Condena",
       "url": "https://open.spotify.com/track/0RSpDN3ywn433Ax7AEmciT"
+    },
+    {
+      "album": {
+        "name": "Mi Hogar",
+        "url": "https://open.spotify.com/album/5z9L4sf0YXaIDipnj3RMSV"
+      },
+      "artists": [
+        {
+          "name": "Denom",
+          "url": "https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y"
+        },
+        {
+          "name": "el alquimista",
+          "url": "https://open.spotify.com/artist/1KvXPlXGNHzpVizy6ZdUac"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "Mi Hogar",
+      "url": "https://open.spotify.com/track/5Ql8AOpejq3Xad32vE1FjF"
     },
     {
       "album": {
@@ -4707,7 +4777,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 169725,
       "name": "Old G's & New G's",
       "url": "https://open.spotify.com/track/0AHAxGwslsz8RZowsSPBXj"
@@ -4916,6 +4986,24 @@
     },
     {
       "album": {
+        "name": "Par\u00e9ntesis",
+        "url": "https://open.spotify.com/album/4Rq2Vuw08cqp74BqAS4QH9"
+      },
+      "artists": [
+        {
+          "name": "EZVIT 810",
+          "url": "https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Par\u00e9ntesis",
+      "url": "https://open.spotify.com/track/27vJ4YNgBj8gd73Ie12A4q"
+    },
+    {
+      "album": {
         "name": "PINK FLOYD",
         "url": "https://open.spotify.com/album/2UkicL9GQDYs1LvSURTelG"
       },
@@ -5063,7 +5151,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 172000,
       "name": "Real OG",
       "url": "https://open.spotify.com/track/71LviRdtskrlVVsoiluH2o"
@@ -5125,6 +5213,24 @@
       "duration_ms": 273548,
       "name": "Reproches",
       "url": "https://open.spotify.com/track/7aKXQCV7TaA56bnhXTxJFn"
+    },
+    {
+      "album": {
+        "name": "DEMONI",
+        "url": "https://open.spotify.com/album/579QwAdy8vNKS8oA9saZNt"
+      },
+      "artists": [
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102578,
+      "name": "RIP MICKEY",
+      "url": "https://open.spotify.com/track/64Q13bF5Dj394cXDB8DyOc"
     },
     {
       "album": {
@@ -6195,7 +6301,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 201701,
       "name": "Tridente Dorado",
       "url": "https://open.spotify.com/track/3mfkFNikm2SZfAqCxXOwKg"

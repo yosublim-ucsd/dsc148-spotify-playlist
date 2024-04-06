@@ -4,7 +4,7 @@
 
 > O trap nacional pra qualquer hora, daquele jeitão
 
-357 songs - 18 hr 29 min
+358 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Acabou](https://open.spotify.com/track/3vKC9XgC15H3Mta2MUdBvC) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Rickweek 2](https://open.spotify.com/album/5JqhiCn7JBxgKgYoLEjr6W) | 3:33 | 2021-09-02 | 2022-07-18 |
 | [Acima da Média](https://open.spotify.com/track/6M6PAlOMqHnQXnyrSe5c4k) | [Shoy](https://open.spotify.com/artist/3qGnDZ8BHEsA9Go8ui3RUJ), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [Acima da Média](https://open.spotify.com/album/5y6SRUOncpoS8SXjMXEJZr) | 2:27 | 2021-09-02 | 2022-07-28 |
 | [Ai Calica](https://open.spotify.com/track/2krYeohcAmuJxIwDrztwyT) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [Ai Calica](https://open.spotify.com/album/6f1Az3Ccybo9Txms4DoMff) | 2:14 | 2021-09-02 | 2022-07-03 |
-| [Ak Forty Seven](https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Ak Forty Seven](https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3) | 2:52 | 2021-09-02 |  |
+| [Ak Forty Seven](https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Ak Forty Seven](https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3) | 2:52 | 2021-09-02 | 2024-04-06 |
 | [Antigolpe](https://open.spotify.com/track/4o9RbfyhanDFbT0vKc4h73) | [Xaga](https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Antigolpe](https://open.spotify.com/album/32BpbaukPvEWLVnJQ7mp6a) | 3:34 | 2021-09-02 | 2023-10-18 |
 | [Aquela](https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Aquela](https://open.spotify.com/album/7nfk0v1E5ioLL9cSlABxqs) | 2:01 | 2021-09-02 | 2023-09-02 |
 | [Aqui É Brasil](https://open.spotify.com/track/2HOPVphKbMhq1wqZWKHz51) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Aqui É Brasil](https://open.spotify.com/album/0wnLgqVXAUMGKgVc4DvzbC) | 2:31 | 2021-09-02 | 2022-07-23 |
@@ -262,6 +262,7 @@
 | [Patati Patata](https://open.spotify.com/track/3pFNrV8e8mFNzIfSSVC4xG) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [VN Vinte](https://open.spotify.com/artist/6sKmBVVRt06DUHZW0X732j), [Nobru Black](https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7) | [Patati Patata](https://open.spotify.com/album/5ZDnK8UdGXTtKdwd2eRHFh) | 3:18 | 2021-09-02 | 2022-06-29 |
 | [Paypal](https://open.spotify.com/track/6x1FttETfbRLerumlTn0ZH) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [previas.zip](https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4) | 2:46 | 2021-09-02 |  |
 | [Pedro Bala](https://open.spotify.com/track/2Dh5R6Jhlhu6C9FtgV1XQF) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Esculpido a Machado](https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh) | 2:25 | 2021-09-02 | 2023-10-18 |
+| [Pepp@ 2](https://open.spotify.com/track/4Yrs6DDP7GRTZIj9oJ4SPS) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [prodmelo!](https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ) | [2 L3Trinha](https://open.spotify.com/album/4cbEBTjZqyqvjADtg2mgBN) | 2:10 | 2024-04-05 |  |
 | [Perfil \#84 \- Eu Vim de Lá](https://open.spotify.com/track/543Yg40LdcfkZkoxCR0kY9) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Perfil \#84 \- Eu Vim de Lá](https://open.spotify.com/album/1JjmIotWoVrQ8i8ZI1if1R) | 3:10 | 2021-09-02 | 2023-12-09 |
 | [PERSONNALITE](https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [PERSONNALITE](https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj) | 3:28 | 2023-09-22 |  |
 | [Pique Matrix](https://open.spotify.com/track/4vA1eZaH9Dlf7ZcdOL3eXK) | [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Pep Starling](https://open.spotify.com/artist/2OKT3UlyCvDefb14iq4E71) | [Pique Matrix](https://open.spotify.com/album/3TAL8QsRqpT7vQjudc0qnh) | 2:04 | 2021-09-02 | 2022-07-19 |

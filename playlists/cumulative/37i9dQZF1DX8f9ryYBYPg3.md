@@ -4,7 +4,7 @@
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-226 songs - 1 day 18 hr 23 min
+228 songs - 1 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Hoodstar](https://open.spotify.com/track/3XLr6lXufrhpLNldwFJpk5) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [Enter the Hypnosis Microphone](https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j) | 6:01 | 2022-06-09 |  |
 | [Hoodstar +](https://open.spotify.com/track/2QDeMHHj7zeYlEPvRBZL83) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B Final Battle 『Buster Bros!!! VS 麻天狼 VS Fling Posse』](https://open.spotify.com/album/4sOGExLCKvW0ZVFqGVwjeQ) | 8:29 | 2022-06-09 |  |
 | [HUNTING CHARM](https://open.spotify.com/track/7gHOquXrM5dv5IiOlRL4zs) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B『Fling Posse VS MAD TRIGGER CREW』](https://open.spotify.com/album/3ZIswKcDqU5JCaJdEKp3QO) | 3:25 | 2022-06-09 |  |
+| [Hypnotic Summer](https://open.spotify.com/track/2INQuxVHSWS3bEjtIwQE0L) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [Hypnotic Summer](https://open.spotify.com/album/3uDkeftKSqT9gE9uI9ciIm) | 4:31 | 2024-04-05 |  |
 | [If I Follow My Heart](https://open.spotify.com/track/1FDv1HNDoVfAy0rUUmJv7j) | [ヒプノシスマイク \-D.R.B\- \(Bad Ass Temple\)](https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup), [ヒプノシスマイク \-D.R.B\- \(天国 獄\)](https://open.spotify.com/artist/7enXzm6pH9M0rAA7FzdWqP) | [Bad Ass Temple \-戒定慧\-](https://open.spotify.com/album/2uQtOIKEuUWsy2HVt270Zy) | 4:33 | 2022-09-01 |  |
 | [IKEBUKURO WEST BLOCK PARTY](https://open.spotify.com/track/6rEwv2ITLJ7B8xBjc95rG1) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G) | [CROSS A LINE](https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV) | 4:24 | 2022-06-14 |  |
 | [IKEBUKURO WEST GAME PARK](https://open.spotify.com/track/5Kbbwlu9mV8KyeM45KqLrj) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G) | [Buster Bros!!! VS MAD TRIGGER CREW](https://open.spotify.com/album/3xMnTQo1dCY5gnx7k2V1dR) | 4:50 | 2022-06-09 |  |
@@ -180,6 +181,7 @@
 | [We go with the flow](https://open.spotify.com/track/2W28N8Wj7QpXIbMNXqw1l4) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima \(Buster Bros!!!\)](https://open.spotify.com/artist/1RDPmfyvTcqaPEPJY4Q7C5), [ヒプノシスマイク \-D.R.B\- Rhyme Anima \(Bad Ass Temple\)](https://open.spotify.com/artist/5ZYuI8qIdbD9dsdr08RUf7) | [Welcome 2 Rhyme Anima +](https://open.spotify.com/album/3tPtU624XkezQPnn83vGun) | 3:31 | 2024-01-10 |  |
 | [WELCOME U](https://open.spotify.com/track/4kVGu2ehrBlFg2AucOk3T5) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima\(麻天狼\)](https://open.spotify.com/artist/2AT6gFE6PkBts8KDBzGpZy) | [Straight Outta Rhyme Anima](https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV) | 3:33 | 2022-06-09 |  |
 | [What's My Name?](https://open.spotify.com/track/1Ok0nFVnNGTNl7lgbEL5y3) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g), [ヒプノシスマイク \-D.R.B\- \(毒島メイソン理鶯\)](https://open.spotify.com/artist/1HgU7kZOYS995O1n9BSKGQ) | [BAYSIDE M.T.C](https://open.spotify.com/album/6qEjMyfSTCsx5QdkLZu6vQ) | 3:14 | 2022-06-09 |  |
+| [WINK](https://open.spotify.com/track/3dAwG01IK5c1iOLhKiVYAf) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV) | [WINK](https://open.spotify.com/album/5F67X3KTGtJQ396qZyJxEM) | 3:25 | 2024-04-05 |  |
 | [Yokohama Walker](https://open.spotify.com/track/6rHgqwAjuFY1k0l6V7ZbE7) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g) | [Buster Bros!!! VS MAD TRIGGER CREW](https://open.spotify.com/album/3xMnTQo1dCY5gnx7k2V1dR) | 4:11 | 2022-06-09 |  |
 | [Yokohama Walker\(Triple Trippin' remix\)/MAD TRIGGER CREW](https://open.spotify.com/track/4SBfVISNH3pb5SqOE0lVXc) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g) | [MAD TRIGGER CREW VS 麻天狼](https://open.spotify.com/album/3iEo8lSsvHmE5eHMwi5eg1) | 3:49 | 2022-06-09 |  |
 | [Young Gun of The Sun](https://open.spotify.com/track/1FvOJYT3Q7JI4HvAekiEW8) | [ヒプノシスマイク \-D.R.B\- \(Bad Ass Temple\)](https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup), [ヒプノシスマイク \-D.R.B\- \(波羅夷 空却\)](https://open.spotify.com/artist/6c1w45xLPDcBpx1O1I1h8t) | [Bad Ass Temple \-戒定慧\-](https://open.spotify.com/album/2uQtOIKEuUWsy2HVt270Zy) | 3:02 | 2022-09-01 |  |

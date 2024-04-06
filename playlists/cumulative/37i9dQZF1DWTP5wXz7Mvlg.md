@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1rd51IrbtX9DqoU0Zxu4TV">DJ Marky</a>'s favourite tracks\. Updated regularly\. Curated by DJ Marky\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-113 songs - 8 hr 38 min
+114 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [The Guillotine](https://open.spotify.com/track/4Z7JifYoK6cQOEmJ1rXxMu) | [Marcus Intalex](https://open.spotify.com/artist/1LUyPCV4OiooCwffEq5ftD) | [Sell Your Soul](https://open.spotify.com/album/6HOm06oFJxRZyM8wUKXnYy) | 5:09 | 2023-07-21 | 2023-09-10 |
 | [Unconditional](https://open.spotify.com/track/3mDNzIjc9h57KX4ozoGo4Q) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Unconditional](https://open.spotify.com/album/1RW5DwuUNyidhAPOjBpifM) | 3:44 | 2023-07-21 |  |
 | [Underdog](https://open.spotify.com/track/1Tbc5Jy5vBmLBTzBNP6eWD) | [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM), [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV) | [Smile & Wave](https://open.spotify.com/album/2RgBhzyPXj9n1ocwkO0UdF) | 4:34 | 2022-07-11 | 2023-07-22 |
-| [Vices \- Bladerunner Remix](https://open.spotify.com/track/5bqfrXlfvuQHDznFhHSb2C) | [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb), [Collette Warren](https://open.spotify.com/artist/2pzGbNf0oadczuFlVAxZC3), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Bladerunner](https://open.spotify.com/artist/4yvREhViCsrwclRdBAdlOl) | [Vices](https://open.spotify.com/album/6Pi8S5hFpj4qoCtoIvEDTM) | 4:28 | 2023-07-21 |  |
+| [Vices \- Bladerunner Remix](https://open.spotify.com/track/5bqfrXlfvuQHDznFhHSb2C) | [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb), [Collette Warren](https://open.spotify.com/artist/2pzGbNf0oadczuFlVAxZC3), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Bladerunner](https://open.spotify.com/artist/4yvREhViCsrwclRdBAdlOl) | [Vices](https://open.spotify.com/album/6Pi8S5hFpj4qoCtoIvEDTM) | 4:28 | 2023-07-21 | 2024-04-06 |
+| [Vices \- Bladerunner Remix](https://open.spotify.com/track/4Hxv7cyCQ2ebWwaLvmf8Qg) | [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb), [Collette Warren](https://open.spotify.com/artist/2pzGbNf0oadczuFlVAxZC3), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Bladerunner](https://open.spotify.com/artist/4yvREhViCsrwclRdBAdlOl) | [More Sides of Everything](https://open.spotify.com/album/6N0SBrvQhHlVRWIFqu0zBi) | 4:29 | 2023-07-21 |  |
 | [Walk Out](https://open.spotify.com/track/2MFj0olTpePUW4anoFNhqi) | [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS), [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Walk Out](https://open.spotify.com/album/0UMLlnAg0suZ2XcySr0WEc) | 4:13 | 2022-07-11 | 2023-07-22 |
 | [Wanna Dance](https://open.spotify.com/track/1samliMn0vL45QOXrLJ06I) | [Mark System](https://open.spotify.com/artist/5Vh1QWS1XnZ11qdK4scuFx) | [25 Years of Metalheadz – Part 4](https://open.spotify.com/album/4uksmmaM7rKorqTJTo6eyL) | 6:57 | 2022-07-11 | 2023-07-22 |
 | [Watch Your Step](https://open.spotify.com/track/0wSOhVP5nT9zre0SoyWqlF) | [Levela](https://open.spotify.com/artist/0sDeXbVK3kNuzYQlVib9ib) | [Watch Your Step](https://open.spotify.com/album/5Pvce46RSAcTb1lod2kYs9) | 3:49 | 2022-07-11 | 2023-07-22 |

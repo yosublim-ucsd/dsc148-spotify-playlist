@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 30879,
+  "2024-04-06": 30890,
   "date_first_scraped": "2021-12-28",
   "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Hasan Raheem",
   "name": "Pakistani Indie 101",
@@ -2717,10 +2717,28 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 288298,
       "name": "Lamha",
       "url": "https://open.spotify.com/track/2dCrvLPU36Iv8p7Tq1Vy6V"
+    },
+    {
+      "album": {
+        "name": "Chaar Dinon Ka Khwaab",
+        "url": "https://open.spotify.com/album/6nV3b2qvy5aAk33JoVrvHu"
+      },
+      "artists": [
+        {
+          "name": "Hassan & Roshaan",
+          "url": "https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288298,
+      "name": "Lamha",
+      "url": "https://open.spotify.com/track/3FI4xMdyLRTTEcmxl17cEn"
     },
     {
       "album": {

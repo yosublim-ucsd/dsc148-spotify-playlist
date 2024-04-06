@@ -4,7 +4,7 @@
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Nebrugg
 
-173 songs - 8 hr 12 min
+174 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Concreto](https://open.spotify.com/track/0j3wFKPtHef1d6ode3mzKk) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [Concreto](https://open.spotify.com/album/0484Oh2IFxPJEyEQfdxg5g) | 2:16 | 2023-06-16 |  |
 | [Contar](https://open.spotify.com/track/6hWt28DuuWFXj8DEi9Gm1C) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Aguida Beats](https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1) | [Da Lama ao Topo](https://open.spotify.com/album/7IGtw0TWJc1PnSeGf2jp5m) | 3:32 | 2022-10-28 | 2022-11-12 |
 | [Coração Frio](https://open.spotify.com/track/6TVycrFApu732EWkGSBtZv) | [VN Vinte](https://open.spotify.com/artist/6sKmBVVRt06DUHZW0X732j) | [Coração Frio](https://open.spotify.com/album/7oRzNXTvAfZbQtDzUwlDiS) | 2:21 | 2022-11-04 | 2022-11-26 |
-| [Corpo São Mente Muito](https://open.spotify.com/track/66XaDTshTk8weMHTH7MV2G) | [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54), [P.L.K](https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf), [Ruas Mc](https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [Picaretas de Fachada: Summer Hits](https://open.spotify.com/album/6brpKTMNNrLpy9IvijBcwu) | 3:35 | 2024-02-16 |  |
+| [Corpo São Mente Muito](https://open.spotify.com/track/66XaDTshTk8weMHTH7MV2G) | [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54), [P.L.K](https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf), [Ruas Mc](https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [Picaretas de Fachada: Summer Hits](https://open.spotify.com/album/6brpKTMNNrLpy9IvijBcwu) | 3:35 | 2024-02-16 | 2024-04-06 |
 | [COSTA QUENTE](https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [COSTA QUENTE](https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8) | 2:46 | 2023-04-21 |  |
 | [CRIME](https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [JOVEM OG](https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ) | 3:08 | 2022-03-11 | 2023-11-25 |
 | [Crime](https://open.spotify.com/track/2cSeEJQLuAa7tsAQjlOYEQ) | [Grone](https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Crime](https://open.spotify.com/album/4QQ7dtNOdN3py7ukZdBEWO) | 2:46 | 2022-06-10 | 2022-07-09 |
@@ -174,6 +174,7 @@
 | [Toque no Radinho](https://open.spotify.com/track/4KCz6JYsOCIJ90O7Zw19Ul) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Toque no Radinho](https://open.spotify.com/album/0jUF2y324k3JkjotbjyM8Z) | 1:54 | 2022-11-11 | 2023-01-10 |
 | [Tudo Normal](https://open.spotify.com/track/4sz8h0kSMFmZ9NLQi74sL0) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [$aint GR](https://open.spotify.com/artist/4efJxp2bt5eBfZAvUeFANX) | [Tudo Normal](https://open.spotify.com/album/0cKG3KX7J1dav336uX2rG2) | 2:45 | 2023-01-27 | 2023-04-29 |
 | [Tudo Real](https://open.spotify.com/track/4822dRpsXupwAMAm9aEoAb) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [Atura ou Surta](https://open.spotify.com/album/54RH85tTcYsg1ao4HkDZKQ) | 2:01 | 2024-01-05 |  |
+| [Tuned Air](https://open.spotify.com/track/1B6wycPGhMvdwAcElMx8rr) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Tuned Air](https://open.spotify.com/album/5kGv8GPUiYaEKO1MA8zxVf) | 3:22 | 2024-04-05 |  |
 | [um quebrada inteligente!](https://open.spotify.com/track/6uBfSJZQ27gCDVne6xhDmO) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [UM Quebrada Inteligente](https://open.spotify.com/album/3LLqFXeZt4AdVe9GdBes9y) | 1:56 | 2023-07-14 |  |
 | [Uma Fase](https://open.spotify.com/track/6xkKyZinrWXX4FVUuuBeSD) | [Afree](https://open.spotify.com/artist/218HbunxGqD47MTClAmg6s), [Volpato](https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl) | [Uma Fase](https://open.spotify.com/album/1B56BdIqTZvCMk0UOhkDbY) | 3:18 | 2023-08-18 | 2023-10-28 |
 | [Underdog](https://open.spotify.com/track/7wtPXyuaLkcYJDGYy9MrME) | [Well](https://open.spotify.com/artist/2JCYooigSy6wfahpfssCCp) | [Underdog](https://open.spotify.com/album/5I8gLJU4MAPWmc6hazfd27) | 2:04 | 2022-03-11 | 2022-04-02 |

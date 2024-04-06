@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX9lHz01BIpXP)
 
-> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=000QE8w3TOigD6pbhwU2\-A">Ziggy4x</a>
+> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC?si=0xn0w0l4Ry25AXy2NFJmFQ">Benjamen</a>
 
-132 songs - 6 hr 56 min
+135 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Capeflets](https://open.spotify.com/track/1gcpYFHHLKDXefNHRqPOpg) | [Cream](https://open.spotify.com/artist/3juzOjpaVU73kK8WdtkGB4) | [Bruin Brood](https://open.spotify.com/album/3fFmIN3E1RFCel6vvmN2s5) | 2:11 | 2022-09-08 | 2023-08-18 |
 | [Cerebellum](https://open.spotify.com/track/0RITqRIAaeqTkH69haD3SN) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Aangename Kennis](https://open.spotify.com/album/3rSgGMWq1S2Xipr0kKYfq4) | 3:07 | 2022-09-08 | 2023-08-05 |
 | [Chy?s](https://open.spotify.com/track/5MFCBXjKecUCoHXu03Zfzu) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Jay Em](https://open.spotify.com/artist/0zIl4civXJUhG3jlhyrcOw) | [The Republic Of Ghamstad](https://open.spotify.com/album/4ClKDh5FGeE9trmJyQFw3i) | 3:54 | 2022-09-08 | 2023-12-01 |
+| [Consistent](https://open.spotify.com/track/0GxNPXSZMmJ6bUm1Xkv0Yo) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Consistent](https://open.spotify.com/album/6WcqsfGIEelzpkHXDaUTAy) | 2:08 | 2024-04-05 |  |
 | [Da Money](https://open.spotify.com/track/2PpXTeSSxwZ3CfqI1or0wM) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a) | [Da Money](https://open.spotify.com/album/3adAOGcOj3SiDgZcExb9bN) | 3:44 | 2024-02-01 |  |
 | [Dala wat jy moet \- Radio Edit](https://open.spotify.com/track/4e3bju60JhI6KWRTsagoAB) | [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Irshaad](https://open.spotify.com/artist/3n8uAgnScYtwFHIkfnxj10), [Ameen Harron](https://open.spotify.com/artist/4ZgCTMu7jGyxieADZA0Jam) | [Dala wat jy moet](https://open.spotify.com/album/1G0WLpHnyXzTtfV62BSmo3) | 3:50 | 2022-09-08 | 2023-09-16 |
 | [Deh!](https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ) | [Epidemi](https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K) | [Deh!](https://open.spotify.com/album/38J1BiT27OyRsI60572LsP) | 2:39 | 2024-01-18 |  |
@@ -38,6 +39,7 @@
 | [Dinge](https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Dinge](https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB) | 2:12 | 2024-02-22 |  |
 | [Dis Jou Wyfie \(Remix\)](https://open.spotify.com/track/5S50YUkum96QOyjy08EFF9) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Dis Jou Wyfie \(Remix\)](https://open.spotify.com/album/6AeXo59JDG0JoJOppnOJxw) | 3:12 | 2022-09-08 | 2023-07-14 |
 | [Doen Jou Ding \(feat\. Early B & Justin Vega\)](https://open.spotify.com/track/0gWseyvxR8h0bAf1YjPBru) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Justin Vega](https://open.spotify.com/artist/2IzKTL47yQLnbkl5IvBhuU) | [Doen Jou Ding \(feat\. Early B & Justin Vega\)](https://open.spotify.com/album/1vqDxxjiPE1WfbSF8wfPsa) | 2:58 | 2022-09-08 | 2023-12-08 |
+| [Doen Net Jou Ding](https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Doen Net Jou Ding](https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe) | 3:05 | 2024-04-05 |  |
 | [Dubbel of Niks](https://open.spotify.com/track/7fnEBmFyCoqJKtDyLBCd4s) | [RoYal King](https://open.spotify.com/artist/25ebsUtKejuWF9RW98C81q), [Wanie](https://open.spotify.com/artist/6Foq05rhSXH00XxLrvt6yn) | [Dubbel of Niks](https://open.spotify.com/album/4XpDHOUerLd2EokLmdAhO8) | 3:18 | 2023-07-20 | 2023-10-07 |
 | [Duidelik](https://open.spotify.com/track/0fzhyU8gk2lYMAzzyd2dg9) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Duidelik](https://open.spotify.com/album/7iZV2Pb6drsJNfwxwUgHDh) | 2:02 | 2023-07-13 |  |
 | [Dus Okay](https://open.spotify.com/track/2ySsXPwpuDV1SMyZ68JYUs) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr), [Jovie](https://open.spotify.com/artist/0vK7SrJ0Xm55soTAi4DE37), [EmGee](https://open.spotify.com/artist/7tztZahujREhfsctTM4czq) | [Dus Okay](https://open.spotify.com/album/4b47ILddnlUFGMyhSvvuZt) | 3:19 | 2023-12-08 |  |
@@ -71,6 +73,7 @@
 | [KAPTEIN \- Drill Cover](https://open.spotify.com/track/6g3hWDArIHJgWZYvcG142K) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [KAPTEIN \(Drill Cover\)](https://open.spotify.com/album/0DY95ayoc3Te7uv1UABA3q) | 1:45 | 2023-05-05 | 2023-06-03 |
 | [Klaar Praat](https://open.spotify.com/track/6knLuTcyJUQHrQCM74FqQI) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [G\-BONE](https://open.spotify.com/artist/0e0QFpFodxO9NMBJnWdfBi) | [Klaar Praat](https://open.spotify.com/album/7gbz82FKLF2FPRBGKiyBI5) | 2:08 | 2023-08-17 |  |
 | [Koue Bier](https://open.spotify.com/track/76jO6pxWKg26cKQUPpyH3c) | [KUIERKOORS](https://open.spotify.com/artist/7DVnGxt0tHeDtdj4vNttOw) | [Koue Bier](https://open.spotify.com/album/3VbBHp0FaHEyBTyQfskFvK) | 3:59 | 2022-09-08 | 2023-02-17 |
+| [Laaste Hond](https://open.spotify.com/track/6m54uxr3viaN4w6NfSj3YR) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Laaste Hond](https://open.spotify.com/album/1wbXY8vdl8zqVPqyr4L4RK) | 3:01 | 2024-04-05 |  |
 | [Lavis](https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Bishop Lavis](https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF) | 3:18 | 2023-10-06 |  |
 | [Letterkundig \- 7785 oordrom remix](https://open.spotify.com/track/792Q46TaZHAJWvto8A99vu) | [DJ Azuhl](https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF), [Niko10long](https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v) | [Letterkundig \(7785 oordrom remix\)](https://open.spotify.com/album/5wjaUP6kmi3l4PkADryNx1) | 4:03 | 2023-07-06 |  |
 | [Level Up](https://open.spotify.com/track/5cSoFnlKff1cC7IU1tOLq8) | [Jodas OwnWorld](https://open.spotify.com/artist/7DVvbmpw08wrjCXD8fsi1P) | [Own World III](https://open.spotify.com/album/7wOATZwAI4XFYHEuwoRXnj) | 3:03 | 2022-09-08 | 2023-01-28 |

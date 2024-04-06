@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1685722,
+  "num_followers": 1686206,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGMwNmZhMGI1YTdjNmQ4YmRhNjAzYTlhOWFlMWU5ZjA4YzI3OWVj",
+  "snapshot_id": "MCxkYTE1ODFjMGMyMjkyZWIzZGU1ODY1NmU2OTM4YzQ1OTZjMTgyMGE0",
   "tracks": [
     {
       "added_at": "2024-01-26 17:11:01",
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+      "duration_ms": 225786,
+      "name": "All I Wanted",
+      "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 225786,
-      "name": "All I Wanted",
-      "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "A Mark, A Mission, A Brand, A Scar",
-        "url": "https://open.spotify.com/album/3I4DmkyMBifLVwrCT3eQ82"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Hands Down",
-      "url": "https://open.spotify.com/track/6yVSp9H2STyLeOs7pjy2w4"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Best Buds",
         "url": "https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 276000,
       "name": "Death Cup",
       "url": "https://open.spotify.com/track/19aUuDd6udp1ACNo9t3IuZ"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "A Mark, A Mission, A Brand, A Scar",
+        "url": "https://open.spotify.com/album/3I4DmkyMBifLVwrCT3eQ82"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Hands Down",
+      "url": "https://open.spotify.com/track/6yVSp9H2STyLeOs7pjy2w4"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Still Searching",
-        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Can't Be Saved",
-      "url": "https://open.spotify.com/track/3PHhctErNOXWqevrZDUyNy"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 193920,
       "name": "Smile In Your Sleep",
       "url": "https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Can't Be Saved",
+      "url": "https://open.spotify.com/track/3PHhctErNOXWqevrZDUyNy"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Deja Entendu",
-        "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
-      },
-      "artists": [
-        {
-          "name": "Brand New",
-          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Sic Transit Gloria ... Glory Fades",
-      "url": "https://open.spotify.com/track/42A4dSYBf0g9OHreccqU5o"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "The Same Old Blood Rush With A New Touch",
         "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 203626,
       "name": "The Curse of Curves",
       "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Deja Entendu",
+        "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
+      },
+      "artists": [
+        {
+          "name": "Brand New",
+          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Sic Transit Gloria ... Glory Fades",
+      "url": "https://open.spotify.com/track/42A4dSYBf0g9OHreccqU5o"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Scary Kids Scaring Kids",
-        "url": "https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar"
-      },
-      "artists": [
-        {
-          "name": "Scary Kids Scaring Kids",
-          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
-        }
-      ],
-      "duration_ms": 261240,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "breathe",
         "url": "https://open.spotify.com/album/1JMg02mQ5nmVKBWWoDUIeo"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 191294,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/0uqTwEKTbkuhrn8yGSO6b5"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Scary Kids Scaring Kids",
+        "url": "https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar"
+      },
+      "artists": [
+        {
+          "name": "Scary Kids Scaring Kids",
+          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
+        }
+      ],
+      "duration_ms": 261240,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Summer Bones",
-        "url": "https://open.spotify.com/album/6ZTAETZwzG1FSerf0xY0gh"
-      },
-      "artists": [
-        {
-          "name": "Hit The Lights",
-          "url": "https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C"
-        }
-      ],
-      "duration_ms": 151911,
-      "name": "Fucked up Kids",
-      "url": "https://open.spotify.com/track/0X0Sce0TWkuYnT8PdNgcB1"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "New Medicines",
         "url": "https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 242040,
       "name": "New Medicines",
       "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Summer Bones",
+        "url": "https://open.spotify.com/album/6ZTAETZwzG1FSerf0xY0gh"
+      },
+      "artists": [
+        {
+          "name": "Hit The Lights",
+          "url": "https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C"
+        }
+      ],
+      "duration_ms": 151911,
+      "name": "Fucked up Kids",
+      "url": "https://open.spotify.com/track/0X0Sce0TWkuYnT8PdNgcB1"
     },
     {
       "added_at": "2024-01-26 17:11:01",

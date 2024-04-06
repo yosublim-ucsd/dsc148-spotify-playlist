@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only",
+  "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN, RAMON EL BRABO",
   "name": "Gospel Flow",
   "tracks": [
     {
@@ -806,6 +806,28 @@
       "duration_ms": 179154,
       "name": "BNGS 01",
       "url": "https://open.spotify.com/track/5gbpgCkz5cKWDnW8Qq2hex"
+    },
+    {
+      "album": {
+        "name": "Boaz e Rute",
+        "url": "https://open.spotify.com/album/6P5wzuo9oWlAl6QWswi157"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        },
+        {
+          "name": "RAMON EL BRABO",
+          "url": "https://open.spotify.com/artist/6pbgRRt11Pm25bOUugtzhI"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Boaz e Rute",
+      "url": "https://open.spotify.com/track/2VW0QXMRuK4gLnJw94gt00"
     },
     {
       "album": {
@@ -4459,6 +4481,28 @@
     },
     {
       "album": {
+        "name": "Nemo",
+        "url": "https://open.spotify.com/album/4l3o6tjbPzEeOpxmBDs55i"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Novidade Urbana",
+          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115140,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/4jfDVP8MynmWbMkzFAyKRc"
+    },
+    {
+      "album": {
         "name": "Nessa Guerra Aqui Ningu\u00e9m Ganha",
         "url": "https://open.spotify.com/album/2blQM5I7JF1xHtjQeyI7ID"
       },
@@ -5628,7 +5672,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 158400,
       "name": "Prova de Amor",
       "url": "https://open.spotify.com/track/6bgB5B1Ak8wR22z58TNkuK"
@@ -7906,7 +7950,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 169846,
       "name": "\u00d3bvio",
       "url": "https://open.spotify.com/track/30jBlVVcTR1cw9qV0tc46H"

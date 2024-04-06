@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 241452,
+  "num_followers": 241546,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjNjYjVjOGZiYWQ1OTRjYWI5OTcyODk3M2ZmZWE2YTc0MjIwNzVm",
+  "snapshot_id": "MCxlZjA0ZDk4M2JmZWUyNjI5NWQ2MWI4Yjg4MmM1YWRiOTYwZTNlMzlk",
   "tracks": [
     {
       "added_at": "2024-03-19 14:46:33",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
-        "name": "Me Quedo Contigo",
-        "url": "https://open.spotify.com/album/2R24fOX8OXzoY89stUCl7i"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        }
-      ],
-      "duration_ms": 201231,
-      "name": "Me Quedo Contigo",
-      "url": "https://open.spotify.com/track/1IbNTo4gpxfFt3lM0Is4sF"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
         "name": "Suma y Resta",
         "url": "https://open.spotify.com/album/2TLHgTwpVZbKZXt4WmcCKK"
       },
@@ -247,22 +231,6 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
         "name": "De la Habana a Per\u00fa",
         "url": "https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0"
       },
@@ -275,6 +243,22 @@
       "duration_ms": 302746,
       "name": "El Cuchi Cuchi",
       "url": "https://open.spotify.com/track/6wH6KePkBihLwj6R82d2FL"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
     },
     {
       "added_at": "2024-03-19 14:46:33",
@@ -331,22 +315,6 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 284053,
-      "name": "Luna Negra",
-      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
         "name": "Los Creadores Del Sonido",
         "url": "https://open.spotify.com/album/2tFZT8FiXb8GjEhTI03vCl"
       },
@@ -363,18 +331,18 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
-        "name": "GUACHINEO (Cubaton - Cuban Reggaeton 2015 - Lo Que Mas Suena En Cuba)",
-        "url": "https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
       },
       "artists": [
         {
-          "name": "Chocolate Mc",
-          "url": "https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb"
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Guachineo",
-      "url": "https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on"
+      "duration_ms": 284053,
+      "name": "Luna Negra",
+      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
     },
     {
       "added_at": "2024-03-19 14:46:33",
@@ -391,6 +359,22 @@
       "duration_ms": 392106,
       "name": "Tu Me Recordar\u00e1s",
       "url": "https://open.spotify.com/track/1FWsQmSjs8www0PjwXDb2f"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
+        "name": "GUACHINEO (Cubaton - Cuban Reggaeton 2015 - Lo Que Mas Suena En Cuba)",
+        "url": "https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc"
+      },
+      "artists": [
+        {
+          "name": "Chocolate Mc",
+          "url": "https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Guachineo",
+      "url": "https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on"
     },
     {
       "added_at": "2024-03-19 14:46:33",
@@ -475,6 +459,26 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
+        "name": "Me Dicen Cuba / Rosa la Peligrosa",
+        "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+        }
+      ],
+      "duration_ms": 298374,
+      "name": "Me Dicen Cuba",
+      "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
         "name": "Pa'lante",
         "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
       },
@@ -507,26 +511,6 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
-        "name": "Me Dicen Cuba / Rosa la Peligrosa",
-        "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 298374,
-      "name": "Me Dicen Cuba",
-      "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
         "name": "Con La Musica Cubana No!",
         "url": "https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy"
       },
@@ -543,22 +527,6 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
-        "name": "Fiestas de Cuba (Remasterizado)",
-        "url": "https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Alfonso y su Dan Den",
-          "url": "https://open.spotify.com/artist/25pI6o2nQxbMc6lLXiIGQM"
-        }
-      ],
-      "duration_ms": 282920,
-      "name": "\u00c1mame con Tu Experiencia - Remasterizado",
-      "url": "https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 326720,
       "name": "La Boda de Bel\u00e9n",
       "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
+        "name": "Fiestas de Cuba (Remasterizado)",
+        "url": "https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Alfonso y su Dan Den",
+          "url": "https://open.spotify.com/artist/25pI6o2nQxbMc6lLXiIGQM"
+        }
+      ],
+      "duration_ms": 282920,
+      "name": "\u00c1mame con Tu Experiencia - Remasterizado",
+      "url": "https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst"
     },
     {
       "added_at": "2024-03-19 14:46:33",
@@ -595,22 +579,6 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
-        "name": "EN LETRAS DE OTROS",
-        "url": "https://open.spotify.com/album/3nAC4AClBOoBxGzhSyyqil"
-      },
-      "artists": [
-        {
-          "name": "Los 4",
-          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
-        }
-      ],
-      "duration_ms": 233979,
-      "name": "No Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/726bxM7rwE4bhJGPPaawQP"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
         "name": "Latino 59 presenta: Bailando (Salsa Bachata Merengue Urbano Reggaeton Dembow Fitness)",
         "url": "https://open.spotify.com/album/3lHRgY0YptnHbpFjysFb7S"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 273853,
       "name": "Bailando - Official Salsa Version",
       "url": "https://open.spotify.com/track/60rfRiqSdX2allhe9Qs4Qy"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
+        "name": "EN LETRAS DE OTROS",
+        "url": "https://open.spotify.com/album/3nAC4AClBOoBxGzhSyyqil"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "duration_ms": 233979,
+      "name": "No Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/726bxM7rwE4bhJGPPaawQP"
     },
     {
       "added_at": "2024-03-19 14:46:33",
@@ -699,22 +683,6 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
-        "name": "Contra Todos los Pron\u00f3sticos",
-        "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
-      },
-      "artists": [
-        {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
-        }
-      ],
-      "duration_ms": 387973,
-      "name": "El Aguila",
-      "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
         "name": "Reina de la Canci\u00f3n Latina",
         "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
       },
@@ -727,6 +695,22 @@
       "duration_ms": 165213,
       "name": "Fever",
       "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
+        "name": "Contra Todos los Pron\u00f3sticos",
+        "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
+      },
+      "artists": [
+        {
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+        }
+      ],
+      "duration_ms": 387973,
+      "name": "El Aguila",
+      "url": "https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW"
     },
     {
       "added_at": "2024-03-19 14:46:33",
@@ -855,6 +839,26 @@
       "duration_ms": 378013,
       "name": "Qu\u00e9 Pasa Loco",
       "url": "https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
+        "name": "Pero Me Acuerdo De Ti",
+        "url": "https://open.spotify.com/album/23DlBVK1TYSvJ6JYHIV53T"
+      },
+      "artists": [
+        {
+          "name": "LARITZA BACALLAO",
+          "url": "https://open.spotify.com/artist/61EgOa3zlnkzFNj2Xegxsu"
+        },
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "duration_ms": 233947,
+      "name": "Pero Me Acuerdo De Ti",
+      "url": "https://open.spotify.com/track/7HumocNn7PasLHHfodVUU4"
     }
   ],
   "unique_name": "Salsa Cubana",

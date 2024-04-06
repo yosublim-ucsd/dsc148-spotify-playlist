@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-20",
-  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover: <a href=\"https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=O-4j6NxkS-aYvon7eAoaHg\">Malcolm Rue</a> ",
+  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover: <a href=\"https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=5o83aVOURSKr1KHKQczERA\">Marizu</a> ",
   "name": "Praise and Chill",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 268365,
       "name": "After All These Years",
       "url": "https://open.spotify.com/track/3ruNtWNKVsgAZ4YF9ybSl6"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 157500,
       "name": "Answer Prayer - Remix",
       "url": "https://open.spotify.com/track/30jNPt68KphCCwDpPPVw3u"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 129802,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/0yxtQVuKDXqpZRhsQCS6sV"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 219000,
       "name": "Good God",
       "url": "https://open.spotify.com/track/4IQWAPHjNX1ovrpFvlT3YZ"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 182400,
       "name": "Grace",
       "url": "https://open.spotify.com/track/545wkwUovk2jPQ6qk6yLv3"
@@ -1592,7 +1592,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 188540,
       "name": "Greatest",
       "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
@@ -1768,7 +1768,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 196169,
       "name": "I Thank the Lord",
       "url": "https://open.spotify.com/track/1vHb7ovFeTKo031f6WSIIA"
@@ -2165,6 +2165,32 @@
     },
     {
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/1ymA7wzWukJVMFC0sUnX5f"
+      },
+      "artists": [
+        {
+          "name": "Giliane",
+          "url": "https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t"
+        },
+        {
+          "name": "Naem",
+          "url": "https://open.spotify.com/artist/2OCzKgKZzN30diUNr3IvWO"
+        },
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136343,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/53YsxPfny6Z3fiTBqvzlxQ"
+    },
+    {
+      "album": {
         "name": "Love Me So",
         "url": "https://open.spotify.com/album/3Eil8mJ7L80ULdDnRVU9Hp"
       },
@@ -2206,7 +2232,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 188628,
       "name": "Loved",
       "url": "https://open.spotify.com/track/6MG67vKhgT79hSKS9PHPuY"
@@ -2232,7 +2258,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 197333,
       "name": "Majesty",
       "url": "https://open.spotify.com/track/3E9U2sZ8cqCCVrPzJ6KGDq"
@@ -2254,7 +2280,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 179670,
       "name": "Master - Special Version",
       "url": "https://open.spotify.com/track/4rRXj13pMwPz3ZAlN4KDpa"
@@ -2276,7 +2302,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 130000,
       "name": "Mayo",
       "url": "https://open.spotify.com/track/0FjalQZo0G4xiLh0weUZ9x"
@@ -2436,7 +2462,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 175320,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/6OGlcMVlHteIpnT6M27pzT"
@@ -2702,7 +2728,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 211791,
       "name": "Never Late",
       "url": "https://open.spotify.com/track/5hjmjT8hSCkX6NoduqAQay"
@@ -2742,7 +2768,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 170019,
       "name": "No Trouble",
       "url": "https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX"
@@ -2826,6 +2852,32 @@
       "duration_ms": 552855,
       "name": "Obinigwe",
       "url": "https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l"
+    },
+    {
+      "album": {
+        "name": "Off My Feet",
+        "url": "https://open.spotify.com/album/1lP1Isnzfqi717ZoqG2T0O"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "KIMAH",
+          "url": "https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn"
+        },
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "Off My Feet",
+      "url": "https://open.spotify.com/track/3HHautxyzcZIoW1ky10Sc0"
     },
     {
       "album": {
@@ -3114,7 +3166,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 175255,
       "name": "Play",
       "url": "https://open.spotify.com/track/2DgWCbFj8aqPxJ7UdEoa0o"
@@ -3154,7 +3206,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 197647,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6Toiq8ZjdvUlFR6I9Pz0Qw"
@@ -3202,7 +3254,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 169565,
       "name": "Purify (Create in Me)",
       "url": "https://open.spotify.com/track/0Bu3JFTl6NsxfixIhDjo4n"
@@ -3405,6 +3457,28 @@
     },
     {
       "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/2yiQBODM4hCjAlUp4yIJiq"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139764,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/5HXD6yjXXItBmHxXx1cCpc"
+    },
+    {
+      "album": {
         "name": "Sempe",
         "url": "https://open.spotify.com/album/2O6M5mV8abijFpICFoymWW"
       },
@@ -3556,7 +3630,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 152450,
       "name": "Supa",
       "url": "https://open.spotify.com/track/0GZkn1i4yKLegfPXAjxmQw"
@@ -3626,7 +3700,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 177011,
       "name": "Take Over",
       "url": "https://open.spotify.com/track/17M2ibLo2cqF1Mh8NWxPez"
@@ -3808,7 +3882,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 172208,
       "name": "The Word",
       "url": "https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13"
@@ -3910,7 +3984,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 154094,
       "name": "To me",
       "url": "https://open.spotify.com/track/312MQvrve82qCPpYQP2hbi"
@@ -4136,7 +4210,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 160695,
       "name": "Victory",
       "url": "https://open.spotify.com/track/7jyGhvfzTbwgYPCASt7jaG"
@@ -4166,6 +4240,24 @@
       "duration_ms": 343052,
       "name": "Vuma",
       "url": "https://open.spotify.com/track/6JY4EnkudR3Si4OJQcHGmz"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0niIWAYA59wwk1loWGcboC"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142978,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj"
     },
     {
       "album": {
@@ -4290,7 +4382,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 242256,
       "name": "WE WIN",
       "url": "https://open.spotify.com/track/2TyuOEMOSZf7I523X6ZqYz"
@@ -4488,7 +4580,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 151640,
       "name": "You Know",
       "url": "https://open.spotify.com/track/6US0rhvD5zq5U9EZE7tvmW"

@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 217559,
+  "2024-04-06": 217571,
   "date_first_scraped": "2021-12-21",
   "description": "Get a great night's sleep with these soft acoustic guitar tunes.",
   "name": "Guitar for Sleep",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 137846,
       "name": "A la recherche de l'autre",
       "url": "https://open.spotify.com/track/7tRL2A19PEY7MbLttIL8T8"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 204445,
       "name": "Ave Nocturne",
       "url": "https://open.spotify.com/track/4AyL8u1g3ruazEAlu1bllD"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 174191,
       "name": "Breezy",
       "url": "https://open.spotify.com/track/5ufwUZ3FqWHHWEnjO0wBXf"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 175250,
       "name": "Cadaques",
       "url": "https://open.spotify.com/track/5W3UaSyEgTVZHA7OrGffPH"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 185968,
       "name": "Calvanda",
       "url": "https://open.spotify.com/track/0TTOjbZ7i9aA0zphN18jBu"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 128776,
       "name": "Draumurinn",
       "url": "https://open.spotify.com/track/7cMQbAS4eqmHT1I8cnYplu"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 172328,
       "name": "End Of Us",
       "url": "https://open.spotify.com/track/0HzYFF9wRz7CiVfag6yvi2"
@@ -1446,6 +1446,24 @@
     },
     {
       "album": {
+        "name": "How Can I",
+        "url": "https://open.spotify.com/album/07GAcIemxGblmrul2auuzv"
+      },
+      "artists": [
+        {
+          "name": "Oaktree Melodies",
+          "url": "https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "How Can I",
+      "url": "https://open.spotify.com/track/3PMp2l8y9PZfPhLqH6fFW2"
+    },
+    {
+      "album": {
         "name": "Hush Little Baby",
         "url": "https://open.spotify.com/album/6bETXLIIaW9PNZsU3XRMAF"
       },
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 199961,
       "name": "In Between The Stars",
       "url": "https://open.spotify.com/track/4MIvfDDAclYoXXU90n2GpM"
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 170677,
       "name": "La Storia D'Amor",
       "url": "https://open.spotify.com/track/2FNvWhfz1C20qwZaADbkcz"
@@ -1749,7 +1767,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 143478,
       "name": "Lakes of Covadonga",
       "url": "https://open.spotify.com/track/03Vp5T4fXcsPL0cUTiKDy8"
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 188731,
       "name": "Long Walking Back Home",
       "url": "https://open.spotify.com/track/3rlhZSPaSjM9Xf3R8iInwG"
@@ -2419,7 +2437,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 187000,
       "name": "Olessa",
       "url": "https://open.spotify.com/track/3uWeyoRHCWz52lhK37mYmT"
@@ -2653,7 +2671,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 166983,
       "name": "Quiet State",
       "url": "https://open.spotify.com/track/6ImUVu7qQW4O6t2EhdT7A9"
@@ -2927,6 +2945,24 @@
       "duration_ms": 118384,
       "name": "Settignano",
       "url": "https://open.spotify.com/track/5b1OOTi5NXuFC06YZyuXK3"
+    },
+    {
+      "album": {
+        "name": "Shadows and Sunlight",
+        "url": "https://open.spotify.com/album/48ererOiL22UHujflBgt0r"
+      },
+      "artists": [
+        {
+          "name": "K.C Brown",
+          "url": "https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176929,
+      "name": "Shadows and Sunlight",
+      "url": "https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu"
     },
     {
       "album": {
@@ -3517,7 +3553,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 200981,
       "name": "To The Train",
       "url": "https://open.spotify.com/track/1f8zxyXpm6WkSA0az7Wjry"
@@ -3827,7 +3863,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 140839,
       "name": "Virginia - Acoustic Guitar",
       "url": "https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5"
@@ -3939,6 +3975,24 @@
       "duration_ms": 166279,
       "name": "Why Me",
       "url": "https://open.spotify.com/track/5ea1LyyvBGWH3Hp0f61Pwt"
+    },
+    {
+      "album": {
+        "name": "Wild at Heart",
+        "url": "https://open.spotify.com/album/5k6E0BDsXsVt5E9Qm2qDAB"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155274,
+      "name": "Wild at Heart",
+      "url": "https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV"
     },
     {
       "album": {

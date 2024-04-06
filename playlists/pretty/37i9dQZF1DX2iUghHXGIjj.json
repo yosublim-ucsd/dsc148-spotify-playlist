@@ -1,13 +1,29 @@
 {
   "description": "Raw, emotional, and acoustic. Cover: Charlie Musselwhite",
-  "num_followers": 718997,
+  "num_followers": 719009,
   "original_name": "Acoustic Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODQxZDZjYTA0Zjk2MDFkZTg0MjI3OWY3MGUzMmI2M2U5NzQ1NzY5",
+  "snapshot_id": "MCxiMzgxZDNjNzc0YzUwYzQzMTRhNTg5YTNlNTU5NGVkZTQwOTZkMTc1",
   "tracks": [
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Hill Country Love",
+        "url": "https://open.spotify.com/album/6nziuDYeLmZtW4BdypRzfH"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 175415,
+      "name": "Shake Em On Down",
+      "url": "https://open.spotify.com/track/0UX2Dnexc2TUxj7bYHZyvV"
+    },
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
@@ -1336,7 +1352,7 @@
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
+        "url": "https://open.spotify.com/album/5c0pSc8G1C8RciCf7xHvwY"
       },
       "artists": [
         {
@@ -1344,9 +1360,9 @@
           "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
         }
       ],
-      "duration_ms": 208512,
+      "duration_ms": 208413,
       "name": "Castle",
-      "url": "https://open.spotify.com/track/2QIbD38FhRqXHOeQC3SiYu"
+      "url": "https://open.spotify.com/track/1pWuVdXfdxhfhAr1BFYscW"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -1572,7 +1588,7 @@
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Thumb a Ride",
-        "url": "https://open.spotify.com/album/5RFZCJtz9yiadjhRB5kaof"
+        "url": "https://open.spotify.com/album/1GqL0hJ1WP4C3b52wqOUiF"
       },
       "artists": [
         {
@@ -1582,7 +1598,7 @@
       ],
       "duration_ms": 173613,
       "name": "Thumb a Ride",
-      "url": "https://open.spotify.com/track/6FFQ4nIyeXaDYQLb1zFitB"
+      "url": "https://open.spotify.com/track/16AOTn3W58LmpNA6QG19CE"
     },
     {
       "added_at": "2020-08-11 16:18:31",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmY2N2VjYmY3OWYyMjViMzUyNmM4ZWRkMDBmNWZkZjEwOTVhYTc1",
+  "snapshot_id": "MCw5MTFlMGE3ZTM5MTkyMjVmOTUwMWE2NzE4MzM1OTNhM2ZiYTZkMzA1",
   "tracks": [
     {
       "added_at": "2023-03-06 22:48:04",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Besta \u00e9 Tu",
-      "url": "https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Gal Tropical",
         "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 188666,
       "name": "Balanc\u00ea",
       "url": "https://open.spotify.com/track/2m1G38M0gJuE4aVPh0tmIP"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "Besta \u00e9 Tu",
+      "url": "https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "FESTA DE ADEUS",
-        "url": "https://open.spotify.com/album/7DU9frP5BFaBmA3RpJOInK"
-      },
-      "artists": [
-        {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        }
-      ],
-      "duration_ms": 220206,
-      "name": "QUERO UM CARNAVAL",
-      "url": "https://open.spotify.com/track/2ooeiOnpx96CJfOegfjwA3"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/7CnmrVFElrgMKUSuIvYqgE"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 194866,
       "name": "Festa Do Interior",
       "url": "https://open.spotify.com/track/1T3fc0CRPnVBWWiW9BAiw3"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "FESTA DE ADEUS",
+        "url": "https://open.spotify.com/album/7DU9frP5BFaBmA3RpJOInK"
+      },
+      "artists": [
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        }
+      ],
+      "duration_ms": 220206,
+      "name": "QUERO UM CARNAVAL",
+      "url": "https://open.spotify.com/track/2ooeiOnpx96CJfOegfjwA3"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Minha Voz",
-        "url": "https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY"
+        "name": "Mangueira - a Menina Dos Meus Olhos",
+        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         }
       ],
-      "duration_ms": 183306,
-      "name": "Bloco Do Prazer",
-      "url": "https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w"
+      "duration_ms": 63141,
+      "name": "Maria Beth\u00e2nia, a Menina Dos Olhos de Oy\u00e1 (Samba Enredo 2016)",
+      "url": "https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Mangueira - a Menina Dos Meus Olhos",
-        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
+        "name": "Minha Voz",
+        "url": "https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY"
       },
       "artists": [
         {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 63141,
-      "name": "Maria Beth\u00e2nia, a Menina Dos Olhos de Oy\u00e1 (Samba Enredo 2016)",
-      "url": "https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4"
+      "duration_ms": 183306,
+      "name": "Bloco Do Prazer",
+      "url": "https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w"
     },
     {
       "added_at": "2023-03-06 22:48:04",

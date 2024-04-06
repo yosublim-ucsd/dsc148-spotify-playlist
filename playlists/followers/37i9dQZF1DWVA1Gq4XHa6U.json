@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 3695824,
+  "2024-04-06": 3696303,
   "date_first_scraped": "2021-12-21",
-  "description": "Taking it way back! Cover: Eminem",
+  "description": "Taking it way back! Cover: Rick Ross",
   "name": "Gold School",
   "tracks": [
     {
@@ -343,7 +343,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 226440,
       "name": "Award Tour (feat. Trugoy The Dove)",
       "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 238506,
       "name": "Big Pimpin'",
       "url": "https://open.spotify.com/track/4tlnClDqzaXXwNdcwqOZK7"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 252671,
       "name": "Eye Know",
       "url": "https://open.spotify.com/track/4xQMFoD33vx6stB1UzfA6s"
@@ -2346,6 +2346,24 @@
     },
     {
       "album": {
+        "name": "Asleep In The Bread Aisle",
+        "url": "https://open.spotify.com/album/6QCSrh0eusuJrRpYjnmtTN"
+      },
+      "artists": [
+        {
+          "name": "Asher Roth",
+          "url": "https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241933,
+      "name": "I Love College",
+      "url": "https://open.spotify.com/track/1akgiRM3mN2nxu2AX6ACCW"
+    },
+    {
+      "album": {
         "name": "Diplomatic Immunity",
         "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
       },
@@ -3163,6 +3181,46 @@
       "duration_ms": 203000,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/3qRPc4QpHGNwKFAzCdqwxA"
+    },
+    {
+      "album": {
+        "name": "Deeper Than Rap",
+        "url": "https://open.spotify.com/album/1V7LkBaQoxo0wbd0iKkn5a"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256400,
+      "name": "Mafia Music",
+      "url": "https://open.spotify.com/track/4IgP2sTH5RYOpx9gbHQyMT"
+    },
+    {
+      "album": {
+        "name": "Deeper Than Rap",
+        "url": "https://open.spotify.com/album/1V7LkBaQoxo0wbd0iKkn5a"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257480,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/2rz6VejmNOpW1alXsDERp1"
     },
     {
       "album": {

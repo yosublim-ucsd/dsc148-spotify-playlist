@@ -2,9 +2,9 @@
 
 ### [indie fresco](https://open.spotify.com/playlist/37i9dQZF1DX68kWwWBDPYS)
 
-> morrxs chidos haciendo música chida\. Carlos Colosio en portada.
+> morrxs chidos haciendo música chida\. Pau Laggies en portada.
 
-90 songs - 4 hr 47 min
+91 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Minimalista](https://open.spotify.com/track/3pU2D2MVqV1V4JMBvmwqDc) | [Renee Mooi](https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB) | [Minimalista](https://open.spotify.com/album/0wLp5TaiRKksqWoeIElprg) | 2:21 | 2023-09-01 |  |
 | [Moradiva](https://open.spotify.com/track/4BTVAYvVZUwNDSrB2s1Pj8) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Moradiva](https://open.spotify.com/album/0w72lmf6YBUWcZSJ42imIv) | 3:12 | 2023-07-21 |  |
 | [NADA LLEGA](https://open.spotify.com/track/5YuMTZTZymsUDumC9F448Q) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD) | [NADA LLEGA](https://open.spotify.com/album/5JlOFUtNJin7xNDc9q5buL) | 4:19 | 2023-12-08 |  |
+| [niño azul](https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [niño azul](https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk) | 2:25 | 2024-04-05 |  |
 | [No Puedo Dejar De Decir Que Te Quiero](https://open.spotify.com/track/0H5VvDGOVbHFGuxCTQ41FD) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [La Máquina Persona](https://open.spotify.com/album/4CKMDfvdrGb71J8GoUqDPP) | 5:22 | 2023-12-08 |  |
 | [no quiero estar aquí](https://open.spotify.com/track/2KW4OWqMU780CgocKsMOZ4) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [no quiero estar aquí](https://open.spotify.com/album/6LlvSFzQGRX49aSR2nA0PG) | 3:05 | 2023-07-21 | 2023-09-27 |
 | [Olivia Rodrigo](https://open.spotify.com/track/2jSijYfc6NxLkh1NvmSLCM) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Olivia Rodrigo](https://open.spotify.com/album/793yH9COaJR4F2qAXM0MAu) | 2:21 | 2023-12-08 |  |

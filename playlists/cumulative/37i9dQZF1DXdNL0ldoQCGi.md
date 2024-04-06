@@ -4,7 +4,7 @@
 
 > aquela lá que tá viral no seu feed sabe
 
-515 songs - 1 day 2 hr 28 min
+516 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,8 +78,9 @@
 | [Barbie de Chapéu](https://open.spotify.com/track/3MGgfEpCPrq2DkK5zSeOjK) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS) | [Barbie de Chapéu](https://open.spotify.com/album/1BlOheCJJsO77LKcmDG1XO) | 2:44 | 2023-07-28 | 2023-08-20 |
 | [Barbie de Chapéu](https://open.spotify.com/track/4gPTuFFq4wt2aqAjJzXA5a) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS) | [Barbie de Chapéu](https://open.spotify.com/album/32XxuSbQZrMPxi0Bu84ZFE) | 2:44 | 2023-08-17 | 2023-09-28 |
 | [barbie de chapéu \- funk](https://open.spotify.com/track/4MB8rQqtjrIrQw4ThCPf8e) | [Dj Paiva](https://open.spotify.com/artist/2383IwhdilQ7mXGRSR5VvM) | [barbie de chapéu \(funk\)](https://open.spotify.com/album/2gMfiCskXsisEV7LsqFLaB) | 2:33 | 2023-08-15 | 2024-03-05 |
-| [Beanie](https://open.spotify.com/track/0NOaEisILvRznCAco87cpI) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ) | 2:12 | 2024-03-05 |  |
+| [Beanie](https://open.spotify.com/track/0NOaEisILvRznCAco87cpI) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ) | 2:12 | 2024-03-05 | 2024-04-06 |
 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 | 2024-02-19 | 2024-03-11 |
+| [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2024-03-26 |  |
 | [Beat Snap \(Viral Tiktok\)](https://open.spotify.com/track/0Knr7VNVvi3Y7ODKDkWZQG) | [Sr\. Nescau](https://open.spotify.com/artist/6Tgacqoj19pdr24530Fqjd) | [Beat Snap \(Viral Tiktok\)](https://open.spotify.com/album/4OioZfSJyB6ivP6lNExXhE) | 2:21 | 2022-09-05 | 2022-09-15 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-19 |  |
 | [Bebezinhas da Facul](https://open.spotify.com/track/3571WJGuiFHQkWl1w5qR79) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Bruderr](https://open.spotify.com/artist/0aUnOozGoBOVn8guTaU2qK), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bebezinhas da Facul](https://open.spotify.com/album/6WZ2LVBwfhOqDky5QuN4L0) | 3:56 | 2023-06-19 | 2024-01-09 |

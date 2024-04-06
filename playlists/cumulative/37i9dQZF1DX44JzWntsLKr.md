@@ -4,7 +4,7 @@
 
 > Every Monbebe's HERO.
 
-161 songs - 8 hr 43 min
+162 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [LOVE](https://open.spotify.com/track/6M0njKf2lLXtFwB6XhFUgc) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHAPE OF LOVE](https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu) | 3:35 | 2022-04-28 | 2023-11-04 |
 | [Love Killa](https://open.spotify.com/track/4hxNs73449mNhfLIvAC9zz) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:02 | 2021-12-09 |  |
 | [LOVE U](https://open.spotify.com/track/1RWlEElordcRjV8qNjgKxw) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV \(Extended Version\)](https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI) | 2:40 | 2021-12-09 |  |
+| [LURE](https://open.spotify.com/track/3UFJPOdPj2U6XRDQKZ55l5) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Off The Beat](https://open.spotify.com/album/02UEiA1Gp7KfQD2JxICLiW) | 2:50 | 2024-04-05 |  |
 | [Magnetic](https://open.spotify.com/track/4ZtiN13yPgoDtQB8TkIrv1) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Magnetic](https://open.spotify.com/album/7p7sMoHzbLumNCUaW2mRIu) | 3:06 | 2021-12-09 |  |
 | [Mercy](https://open.spotify.com/track/0dKwCfn6KgQhUkx2EDmtcX) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/1LZMbVQYkhpgVixUv0q7cP) | 3:10 | 2023-06-21 |  |
 | [Mercy](https://open.spotify.com/track/3k9tiwbGNmznma8hCuLMhp) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:10 | 2021-12-09 | 2023-11-05 |

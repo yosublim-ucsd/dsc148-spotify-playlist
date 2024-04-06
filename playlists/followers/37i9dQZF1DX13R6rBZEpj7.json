@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 207468,
+  "2024-04-06": 207574,
   "date_first_scraped": "2022-04-20",
   "description": "Turn up the volume for some filthy bassline! ",
   "name": "Bassline Bangers",
@@ -163,7 +163,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 166015,
       "name": "Aight Boom (feat. Scrufizzer)",
       "url": "https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 174857,
       "name": "Alla Dem Bad",
       "url": "https://open.spotify.com/track/4zYsCeHjJYwXJxWzR8AlNN"
@@ -2951,7 +2951,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 257647,
       "name": "Locked On",
       "url": "https://open.spotify.com/track/6eEcExRelnLP9W7jj7Fdla"
@@ -4015,6 +4015,24 @@
     {
       "album": {
         "name": "Run It",
+        "url": "https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211714,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
+    },
+    {
+      "album": {
+        "name": "Run It",
         "url": "https://open.spotify.com/album/72Q8YF27WdFf70eWC4EtGf"
       },
       "artists": [
@@ -5032,6 +5050,32 @@
     },
     {
       "album": {
+        "name": "We Multiply",
+        "url": "https://open.spotify.com/album/3WxoCgsKhjoRRIgaTfctaO"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "We Multiply",
+      "url": "https://open.spotify.com/track/726EjFaiMKvX34tOpnbqSP"
+    },
+    {
+      "album": {
         "name": "What To Do",
         "url": "https://open.spotify.com/album/1mtVvy7OKWk47B4aZXlBGK"
       },
@@ -5113,6 +5157,28 @@
       "duration_ms": 218823,
       "name": "Wicked Sound",
       "url": "https://open.spotify.com/track/4oNUYCpainiqadXpji3Vsh"
+    },
+    {
+      "album": {
+        "name": "Wild (bullet tooth Remix)",
+        "url": "https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Wild - bullet tooth Remix",
+      "url": "https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-335 songs - 16 hr 46 min
+337 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Rust](https://open.spotify.com/track/3kFFpxeP77KcVUVXZlIEnW) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [Rust](https://open.spotify.com/album/6mxmL9C2Y2BKMlCP2kj1sb) | 2:45 | 2021-12-20 | 2022-07-09 |
 | [San Miguel](https://open.spotify.com/track/2ro1HWV6SK7r6c6PhRSEpj) | [Jordan Seigel](https://open.spotify.com/artist/1s6Tpkmcu82ZnLoRjESUbI) | [Half Brothers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Hvhg2DNn8ECerbfhHpDXe) | 1:34 | 2021-12-20 |  |
 | [Saying Goodbye \- Piano Solo / From ''Cyrano'' Soundtrack](https://open.spotify.com/track/2LttX2qhl2Sr3Hhigw6hRs) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Aaron Dessner](https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Saying Goodbye \(Piano Solo / From ''Cyrano'' Soundtrack\)](https://open.spotify.com/album/2ZCIiItnYB4Ha7tmvLdfuU) | 1:26 | 2021-12-20 |  |
+| [Scoop](https://open.spotify.com/track/49aZEyiIZbbL8Btgh1UhCK) | [Anne Nikitin](https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr), [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Scoop \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/45qRgBjHHp7r65f2xTYKX8) | 1:45 | 2024-04-05 |  |
 | [Searching \(Foundation Track\)](https://open.spotify.com/track/3Xw5J2mgjVQOnbDwD4qDLN) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [The Underground Railroad: Volume 1 \(Amazon Original Series Score\)](https://open.spotify.com/album/2dCTpR2osQnVMvbCeiKPkC) | 3:25 | 2021-12-20 |  |
 | [Searching for Ada](https://open.spotify.com/track/5EUrYdpiK0JNbbBa6v503X) | [Tóti Guðnason](https://open.spotify.com/artist/0kaJrGb5y76paoIX6A8SWc) | [Lamb \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/34mQBYF5JSeX2j9YsJg2xh) | 2:24 | 2021-12-20 |  |
 | [Selling Montage](https://open.spotify.com/track/7y8zvpcVtc3VQXE2V0fyR6) | [Michael Dean Parsons](https://open.spotify.com/artist/0PtgERFoiSK8egVLiNkure) | [Pain Hustlers \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/03WFtOTe7GVyKgzTLxUDny) | 1:57 | 2023-10-27 |  |
@@ -284,6 +285,7 @@
 | [The Mole](https://open.spotify.com/track/6RFRcwWeLBUTuUG3YsHmC5) | [Dave Rowntree](https://open.spotify.com/artist/6ngpbJQLEeHixst1LymC8d), [Ian Arber](https://open.spotify.com/artist/5RvFRZpYvnzsKpOZM9mkKj) | [The Capture \(Original Television Soundtrack\)](https://open.spotify.com/album/26FTC6C2eXcqmPMPyxmE1V) | 3:48 | 2021-12-20 | 2022-07-29 |
 | [The Nevers](https://open.spotify.com/track/5FtJxZboEQDigtTbyMG2A2) | [Mark Isham](https://open.spotify.com/artist/5qlzaXu4riV8YLrL97cwyI) | [The Nevers: Season 1 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/0hwWfrFJ1uuYAjSXx1yWcq) | 1:39 | 2021-12-20 |  |
 | [The New Fraser's Ridge](https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 2:57 | 2021-12-20 | 2022-07-09 |
+| [The Next Chapter](https://open.spotify.com/track/0UXB8mO2Qaa7BqRZEHVNi0) | [John Lunn](https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt) | [Belgravia: The Next Chapter \(Original Series Soundtrack\)](https://open.spotify.com/album/1fmgZnEduLn5PY6XeG2w93) | 1:01 | 2024-04-05 |  |
 | [The Origin of Belief](https://open.spotify.com/track/2OGX1pafcLlcqI0fmVCEjr) | [Francesco Le Metre](https://open.spotify.com/artist/6LhB3BzQTnbX8DVi4GCmrs) | [Unknown: Cave Of Bones \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/40UqG0iP6C6U7bAYnebYtn) | 4:00 | 2023-07-14 |  |
 | [The Outfit](https://open.spotify.com/track/2JiHkNF8d6JBqmxy54WYQw) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Outfit \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7BW9vSuV4tHPcmu5A3G2Rw) | 4:36 | 2022-03-18 |  |
 | [The People's Cry \(Main Theme\) \[From "Avatar: Frontiers of Pandora"\]](https://open.spotify.com/track/1IGh7gLCKtrk39Q2Iyf8Tv) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl) | [The People's Cry \(Main Theme\) \[From "Avatar: Frontiers of Pandora"\]](https://open.spotify.com/album/0kI9bkgVBtNK4q3paGOegK) | 2:18 | 2023-12-01 |  |

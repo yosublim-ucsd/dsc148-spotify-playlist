@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:2b9paaAwb2Xd3iR1LSnCDN\">Brent Jones</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:1q6xQXmuTccwh7gBR7ToUN\">Common Hymnal</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -284,6 +284,32 @@
       "duration_ms": 311077,
       "name": "Ain't No Need Of Crying",
       "url": "https://open.spotify.com/track/01Eh9td5WOYyOsyPd6ONW7"
+    },
+    {
+      "album": {
+        "name": "Alive In You",
+        "url": "https://open.spotify.com/album/2Uz9FoyAn5fQWb035ndZvp"
+      },
+      "artists": [
+        {
+          "name": "Forest City Worship",
+          "url": "https://open.spotify.com/artist/62ljNQ8SnPR741I6DWY8II"
+        },
+        {
+          "name": "Carrington Gaines",
+          "url": "https://open.spotify.com/artist/06KVH7flbJYpynOJ0pcUwZ"
+        },
+        {
+          "name": "Amanda Guillory",
+          "url": "https://open.spotify.com/artist/2d7VYJdhv7eYubqMO7A7eC"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392844,
+      "name": "Alive In You",
+      "url": "https://open.spotify.com/track/449AmoK7bviAqLSfhXiRlz"
     },
     {
       "album": {
@@ -618,7 +644,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 358723,
       "name": "Amazing Grace (Always)",
       "url": "https://open.spotify.com/track/1cQgvWzXSr3VZmWUbrlY3D"
@@ -788,6 +814,32 @@
       "duration_ms": 285275,
       "name": "Back To Love - Live",
       "url": "https://open.spotify.com/track/7lbBtOqYNJipIogmpqMLrI"
+    },
+    {
+      "album": {
+        "name": "Prelude",
+        "url": "https://open.spotify.com/album/4z0FehXygMCLEITDShMYQG"
+      },
+      "artists": [
+        {
+          "name": "Me\u2019Kayla",
+          "url": "https://open.spotify.com/artist/3AKhqrs0V0iRNBOjPKhi5z"
+        },
+        {
+          "name": "Sir the Baptist",
+          "url": "https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg"
+        },
+        {
+          "name": "The HamilTones",
+          "url": "https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134392,
+      "name": "Baptize",
+      "url": "https://open.spotify.com/track/0stdRf8zV7vRZwoZaZ2HIK"
     },
     {
       "album": {
@@ -1370,6 +1422,24 @@
       "duration_ms": 243716,
       "name": "Come See - Radio Edit",
       "url": "https://open.spotify.com/track/2gwTX0LPCBEVy0j6VmaZQx"
+    },
+    {
+      "album": {
+        "name": "Confessions (Live)",
+        "url": "https://open.spotify.com/album/69So72vj1mzoGgOjBqZJse"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444430,
+      "name": "Confessions - Live",
+      "url": "https://open.spotify.com/track/263bKs830B9Ae4UzgtU80Q"
     },
     {
       "album": {
@@ -3616,7 +3686,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 155443,
       "name": "I Found Him",
       "url": "https://open.spotify.com/track/3kovU0yBPUYSMorsfvwd4f"
@@ -6847,6 +6917,32 @@
     },
     {
       "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/5DPXkNdvyNLF1DKxJxAQ3E"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Jonni Mae",
+          "url": "https://open.spotify.com/artist/530VpfY3yZBmxkNCDbwsrt"
+        },
+        {
+          "name": "Ben Hardesty",
+          "url": "https://open.spotify.com/artist/60cMh98R5yqdUQg1wLnHec"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/4QoUYZt5lWoIpWqP9owp2n"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/1zvRvvWd3VHXROLpdUnIux"
       },
@@ -8638,7 +8734,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 444990,
       "name": "Victory Is My Name - Live",
       "url": "https://open.spotify.com/track/3ynj0hnQty6bZWtjVjlqCO"
@@ -9060,7 +9156,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 242256,
       "name": "WE WIN",
       "url": "https://open.spotify.com/track/2TyuOEMOSZf7I523X6ZqYz"

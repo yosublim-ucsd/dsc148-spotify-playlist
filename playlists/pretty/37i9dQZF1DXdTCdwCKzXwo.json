@@ -1,12 +1,12 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: The Smiths",
-  "num_followers": 1233028,
+  "num_followers": 1233169,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Zjg4MTQ4ODhiOTU5MTVmZWQzMzNkNDMyNzZjZTEzYzVjYWVhODE2",
+  "snapshot_id": "MCxlMzkxOTE3NzU0YzY3YWM2MDdiN2M1NGQ4MjAzMGVjZmQzMmVkNTE3",
   "tracks": [
     {
       "added_at": "2024-02-22 18:14:51",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-02-22 18:14:51",
       "album": {
+        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
+        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Ashes to Ashes - 2017 Remaster",
+      "url": "https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t"
+    },
+    {
+      "added_at": "2024-02-22 18:14:51",
+      "album": {
         "name": "The Velvet Underground & Nico 45th Anniversary",
         "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 159000,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/3PG7BAJG9WkmNOJOlc4uAo"
-    },
-    {
-      "added_at": "2024-02-22 18:14:51",
-      "album": {
-        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
-        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "Ashes to Ashes - 2017 Remaster",
-      "url": "https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t"
     },
     {
       "added_at": "2024-02-22 18:14:51",
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
         }
       ],
-      "duration_ms": 283000,
-      "name": "Rock & Roll - Full Length Version; 2015 Remaster",
-      "url": "https://open.spotify.com/track/1o6DclZHw0HomxXEQR1ijX"
+      "duration_ms": 246306,
+      "name": "Sweet Jane - Full Length Version; 2015 Remaster",
+      "url": "https://open.spotify.com/track/3cw3Z7mS55gd3NUjh4k0bL"
     },
     {
       "added_at": "2024-02-22 18:14:51",
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
         }
       ],
-      "duration_ms": 246306,
-      "name": "Sweet Jane - Full Length Version; 2015 Remaster",
-      "url": "https://open.spotify.com/track/3cw3Z7mS55gd3NUjh4k0bL"
+      "duration_ms": 283000,
+      "name": "Rock & Roll - Full Length Version; 2015 Remaster",
+      "url": "https://open.spotify.com/track/1o6DclZHw0HomxXEQR1ijX"
     },
     {
       "added_at": "2024-02-22 18:14:51",

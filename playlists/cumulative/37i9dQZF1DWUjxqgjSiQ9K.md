@@ -2,9 +2,9 @@
 
 ### [Éxitos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K)
 
-> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:202VnAr2CvQpJJrYXK78jk">Sarai Rivera</a> y <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells</a>
+> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:4VMYDCV2IEDYJArk749S6m">Daddy Yankee</a>
 
-562 songs - 1 day 19 hr 23 min
+563 songs - 1 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Dios, Familia & Rap](https://open.spotify.com/track/2Y4iS0tbGlyllgxLf7SCnV) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/4NXzCfxbZIrKTTvs4BgIBb) | 4:17 | 2022-02-25 | 2022-07-29 |
 | [Dios, Familia & Rap](https://open.spotify.com/track/3ppiIqfZjtxmd5ZT1qPluY) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/1lue6TfOPJ4qL1EXkQ2Kne) | 4:17 | 2022-07-22 | 2022-08-13 |
 | [Doble Filo](https://open.spotify.com/track/6AGv5GVeeCGwNr2KeNPhRb) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Doble Filo](https://open.spotify.com/album/5yTsLpw3nxNRFq6eFX59qb) | 2:20 | 2022-08-19 | 2022-10-22 |
+| [Donante de Sangre](https://open.spotify.com/track/1HtO3fFig35Hj12m6luK0u) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Donante de Sangre](https://open.spotify.com/album/2YWkq261ekVyIFsm9LpvB6) | 3:47 | 2024-04-05 |  |
 | [Donde Está El Espíritu de Dios](https://open.spotify.com/track/1fw5FweXpCvzNwCGPk953Q) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Donde Está El Espíritu de Dios](https://open.spotify.com/album/5AnEXozHpJxLcMSQnla1qa) | 4:05 | 2022-02-25 | 2022-04-02 |
 | [DOPAMINA](https://open.spotify.com/track/2fAoXDTucWh63Pi6SADnpy) | [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [DOPAMINA](https://open.spotify.com/album/3uP6mMENaK75PeQvmEzYux) | 3:12 | 2023-10-06 | 2023-10-28 |
 | [Dulce Compañía](https://open.spotify.com/track/0grJmN960jlAECmg8iDXKd) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI), [Omar Herrera](https://open.spotify.com/artist/4xYi3BaHkw5QR854GqM626) | [Dulce Compañía](https://open.spotify.com/album/1HAj6KJN3twwpvXteQBjhl) | 3:10 | 2022-05-06 | 2023-04-09 |

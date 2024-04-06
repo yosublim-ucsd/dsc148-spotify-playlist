@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Mia Wray
 
-873 songs - 1 day 21 hr 7 min
+875 songs - 1 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,7 +480,8 @@
 | [LOLA](https://open.spotify.com/track/1BJ2lgopO4eoBZfLNep6Ds) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [LOLA](https://open.spotify.com/album/6p8cW6vKfjkC9U1drMRipN) | 2:50 | 2023-06-29 | 2023-07-28 |
 | [LOLA](https://open.spotify.com/track/2hUuCNRnmb7ltv99gY3grK) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [LOLA](https://open.spotify.com/album/7lIYRn9WwTCJhQjLyGY6wm) | 2:50 | 2023-06-29 | 2023-07-01 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-06-29 | 2023-08-16 |
-| [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 | 2024-04-04 |  |
+| [Losing You](https://open.spotify.com/track/3RLIYxIHq18yBdpcoYW4lu) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/68DihqcGNgTJ4zul6L0mDi) | 3:35 | 2024-04-04 |  |
+| [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 | 2024-04-04 | 2024-04-06 |
 | [Love A Little Harder](https://open.spotify.com/track/3kOZgGwiAb7grQ26s4vXzG) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Love A Little Harder](https://open.spotify.com/album/5v2QbRsOlELlQiIorUJY0L) | 3:16 | 2023-10-26 | 2023-12-08 |
 | [Love At First Fight](https://open.spotify.com/track/4mSrpsvyDlfDOLjmDX71VE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Love At First Fight](https://open.spotify.com/album/2dPe2myx7weXywXiYY0veL) | 3:12 | 2023-06-15 | 2023-07-21 |
 | [Love in the Open](https://open.spotify.com/track/7bHrageN8GFaQ1jC3G9f4H) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Love in the Open](https://open.spotify.com/album/7favYyfj0YmlHjZNPC3LfE) | 2:02 | 2023-12-07 | 2024-02-02 |
@@ -646,7 +647,8 @@
 | [Running From It](https://open.spotify.com/track/1EWBhffylP2QaNch5A2GS7) | [benison](https://open.spotify.com/artist/6aKBKqmDZu6UHkCmEQ9BTO) | [Running From It](https://open.spotify.com/album/7iOYxi5Z68Lg6IEiC9iXVG) | 2:55 | 2023-11-16 | 2023-12-22 |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-13 | 2023-09-01 |
 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 | 2023-07-13 | 2023-08-11 |
-| [Sabrina](https://open.spotify.com/track/55uNNOwHRL3K5p7NyEywoR) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD) | [Sabrina](https://open.spotify.com/album/7FminfvyJ8F5ytohurOA9D) | 2:13 | 2024-04-04 |  |
+| [Sabrina](https://open.spotify.com/track/55uNNOwHRL3K5p7NyEywoR) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD) | [Sabrina](https://open.spotify.com/album/7FminfvyJ8F5ytohurOA9D) | 2:13 | 2024-04-04 | 2024-04-06 |
+| [Sabrina](https://open.spotify.com/track/7yOar7IBHJzDfUy6drSJla) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD) | [DEATH WOBBLES](https://open.spotify.com/album/2u8cg1AiXAlZmUqsmUqG5S) | 2:13 | 2024-04-04 |  |
 | [Sad Forever](https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror \(Deluxe\)](https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq) | 2:55 | 2023-10-12 | 2023-12-01 |
 | [Sad Girl](https://open.spotify.com/track/1RqKCfxNoZAs6mCnM8CX06) | [YAHYAH](https://open.spotify.com/artist/0ggYTxkFUAl6DmRMBpxM6w) | [Sad Girl](https://open.spotify.com/album/6E9gSfqwOkexGvAzYUbZly) | 2:38 | 2023-08-04 | 2023-09-22 |
 | [Same Old Story](https://open.spotify.com/track/1PsErQJjedELaEXRH3AfNA) | [Dekleyn](https://open.spotify.com/artist/1Vsd976pE4fZP74l3LP3PI) | [Far From Younger](https://open.spotify.com/album/2tUPDYB3xfVHWSxrl9efez) | 3:52 | 2023-10-12 | 2023-12-01 |

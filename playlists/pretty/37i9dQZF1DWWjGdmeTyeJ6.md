@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Maisyn\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,815 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,190,920 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 31 | [Lost in a Dream](https://open.spotify.com/track/0ehGyu9uYhq7M2A9psuPEd) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/4RtRUvZstzZeNfpwHjfPD4) | 3:37 |
 | 32 | [Venus](https://open.spotify.com/track/44YpdyMbfzZngsdQLOXWke) | [Sophie Castillo](https://open.spotify.com/artist/4LoRVyF2R00cUR8q3oatMb) | [Venus](https://open.spotify.com/album/5lpTnlG7QonLGrAkrae0d5) | 3:08 |
 | 33 | [Life is Only a Dream](https://open.spotify.com/track/3bT3IRjQm60sN5EtnwqMmv) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Right Now](https://open.spotify.com/album/5lDWIumwD5CwmOR2PgheB1) | 3:31 |
-| 34 | [crowd pleaser](https://open.spotify.com/track/3g7L6qhsAhZfAAFHfYvnAo) | [TEHYA](https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw) | [crowd pleaser](https://open.spotify.com/album/7s1MWuMTwRKcOLGwAQ9Ezl) | 2:34 |
+| 34 | [crowd pleaser](https://open.spotify.com/track/3g7L6qhsAhZfAAFHfYvnAo) | [TEHYA](https://open.spotify.com/artist/2lsVHmwl9NmHi84ecLnCS8) | [crowd pleaser](https://open.spotify.com/album/7s1MWuMTwRKcOLGwAQ9Ezl) | 2:34 |
 | 35 | [Postcards!](https://open.spotify.com/track/4U3r6U2fY5Q7VurNCeKcTI) | [SKATELAND](https://open.spotify.com/artist/56Ufgy06KtGmwmzBvnMsBc) | [Postcards!](https://open.spotify.com/album/76vRe25qSMtOsyJAlrDroJ) | 3:26 |
 | 36 | [None of My Business Beloved](https://open.spotify.com/track/3O1RSNl5EAowVuhrn1VQt3) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [None of My Business Beloved](https://open.spotify.com/album/3WedJvhKZazYvF7m99g0XJ) | 3:32 |
 | 37 | [Don't Want A Love Song](https://open.spotify.com/track/7LTovppsXm7ncfRF0lA6q8) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Don't Want A Love Song](https://open.spotify.com/album/3s5TTh0Xv3hEthrOKpRZTe) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [evelyn](https://open.spotify.com/track/45M2p6aBW3RuLYV2SLUn0G) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [evelyn](https://open.spotify.com/album/77F9gcTKvqjBvhIR8t0DJY) | 3:50 |
 | 100 | [Last Time Speaking](https://open.spotify.com/track/3qhnypWslWY0hWbXiEi1eW) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [oksurf](https://open.spotify.com/artist/7p6kSroBqiTLRWSd1yBpun) | [Kenny World Deluxe](https://open.spotify.com/album/186G03iM52cPFJdKvgDjRd) | 3:01 |
 
-Snapshot ID: `MCxiNjExYzdjZmJmMDg4MmJlMDgwYzBkOWMzODFkMzdiZWFmMzAyMDY5`
+Snapshot ID: `MCw5NzNlMmUwMzhiY2E0MjJlODkyZDlkMjY5YWM1MTEwYTYwOTMzMTA2`

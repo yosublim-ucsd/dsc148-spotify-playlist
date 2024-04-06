@@ -1033,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Boys (Side B)",
+        "url": "https://open.spotify.com/album/0FpgHDHjnDWxVk48Eff0wE"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219344,
+      "name": "Strawberries",
+      "url": "https://open.spotify.com/track/0ESvfrHfNuAtkZp8SMJBOY"
+    },
+    {
+      "album": {
         "name": "Blood Bunny",
         "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
       },

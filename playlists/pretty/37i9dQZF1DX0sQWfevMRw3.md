@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > VEM FAN E DU!?
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,554 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,670 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 95 | [Över gränsen](https://open.spotify.com/track/3MWFPfsyvLWKceLAPx0hHY) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [Över gränsen](https://open.spotify.com/album/5NmNTHYvTGmVOxRmuEr1YA) | 2:18 |
 | 96 | [Rulla \- JulleMeck Remix](https://open.spotify.com/track/7ylBp2FdcIlkrJSlg1IuJX) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32), [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr) | [Rulla \(JulleMeck Remix\)](https://open.spotify.com/album/39E2muCHB9RcIJu3atUy4C) | 2:06 |
 | 97 | [We Call It A Pilsner Car](https://open.spotify.com/track/13Nl0amQmDiJb2x8I1dAQY) | [Lohmann & Co](https://open.spotify.com/artist/52Bhcaz5r8ZIIuAim0EXRb) | [We Call It A Pilsner Car](https://open.spotify.com/album/6uGupbOzu1hoiW7kFyl1N6) | 2:09 |
-| 98 | [HÄR KOMMER SVINERS](https://open.spotify.com/track/1WuQOUYOsOZNhAfvEU0fIR) | [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr), [SVINERS](https://open.spotify.com/artist/09e2yjoFpNbQSXe2khe7yU) | [HÄR KOMMER SVINERS](https://open.spotify.com/album/6wVCetUK1MWFU6B7Ilk9tC) | 2:07 |
+| 98 | [HÄR KOMMER SVINERS](https://open.spotify.com/track/46AgqdcUExU4jdtJ1kRJkc) | [SVINERS](https://open.spotify.com/artist/09e2yjoFpNbQSXe2khe7yU) | [HÄR KOMMER SVINERS](https://open.spotify.com/album/4Wos6tKkGifiRrsxn3XoWe) | 2:07 |
 | 99 | [Så DUM](https://open.spotify.com/track/2JbzvLQUbimv1H55ylsw9v) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0) | [Så DUM](https://open.spotify.com/album/1H3WUX9M9372LPPOfF9ClG) | 2:31 |
 | 100 | [REPLAY](https://open.spotify.com/track/4KDBLyLyHfmvFgT0OwbKBZ) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [REPLAY](https://open.spotify.com/album/4BKRoBu0CQFHu0bXSM8Uve) | 2:17 |
 
-Snapshot ID: `MCw1MTM1YTQ2ZDZhMTI3MWJiNDYyMDg5MDFhMDI0OWM3NTg2ODI5ZmY3`
+Snapshot ID: `MCxiYzRhNjYwNThlMTRhZmExZmJkY2YxZDgzYzNhYjBmM2U2MGQzZjQ1`

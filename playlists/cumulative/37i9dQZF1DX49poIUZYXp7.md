@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Morgan Wade
 
-361 songs - 19 hr 44 min
+362 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All American](https://open.spotify.com/track/3z610KBfuClGcA7ywI19w8) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [All American](https://open.spotify.com/album/6lhrfOe8aN6TVyl1cynFmV) | 3:02 | 2021-12-01 | 2022-07-29 |
 | [All of These Things](https://open.spotify.com/track/583eJoBk3wdSsO2Mq4W4rJ) | [Crystal McGrath](https://open.spotify.com/artist/6Qsj2YNAI3RNswIB50S0jC) | [All of These Things](https://open.spotify.com/album/1Fh8wW8zzPExWQSg3u5X2U) | 3:24 | 2022-03-25 | 2022-04-21 |
 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 | 2021-12-01 |  |
+| [Anybody But You](https://open.spotify.com/track/12qLkwjMVp1eTvHfjl2M5g) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Introducing: Lauren Watkins](https://open.spotify.com/album/7xZb3Il98QIiag803YmofH) | 3:05 | 2024-04-05 |  |
 | [Are You Still Up](https://open.spotify.com/track/2zFWnw13q3zVzA8uVag1aH) | [Taylor\-Rae](https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8) | [Are You Still Up](https://open.spotify.com/album/3qCXFekOVGnw9uHW3xlhdH) | 2:57 | 2022-03-25 | 2022-07-06 |
 | [Baby Girl \- 3rd Version/Remix/Single Version](https://open.spotify.com/track/6qQIH999KekS3qFWqR5qMO) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [Baby Girl](https://open.spotify.com/album/2KVGwQtqRrMXBYxXNj3Jc8) | 3:59 | 2021-12-01 | 2022-11-13 |
 | [Back Then, Right Now](https://open.spotify.com/track/1AIlY4mVcOY34SNA4CTVbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Back Then, Right Now](https://open.spotify.com/album/2u0a18UWbvHn1shNtkNbJD) | 3:02 | 2021-12-01 | 2023-07-02 |
@@ -49,7 +50,7 @@
 | [Catch & Release](https://open.spotify.com/track/0PmPRgYrBfsr3yae519HvU) | [The Heels](https://open.spotify.com/artist/6RVPa0femL24thwjQe0yr1), [Aaron Pritchett](https://open.spotify.com/artist/5cX6PE94aP77FQP0YVHNPX) | [Catch & Release](https://open.spotify.com/album/7y1ThjTK11mckdmoQ9tNVh) | 3:20 | 2022-03-25 | 2022-04-20 |
 | [Cheap Thrills](https://open.spotify.com/track/7hmNm4msXbykTrRw7YOJgu) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [Cheap Thrills](https://open.spotify.com/album/6nLWRaQyv7SbwUTC1n3Lmg) | 2:35 | 2021-12-01 | 2022-07-28 |
 | [Church Bells](https://open.spotify.com/track/67citk3uzWs5qbaIVKTeg8) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:13 | 2022-03-25 |  |
-| [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-02-11 |  |
+| [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-02-11 | 2024-04-06 |
 | [Clean](https://open.spotify.com/track/4Cs2SaQLxF1FXbMnfJLlfy) | [ALISSA GRIFFITH](https://open.spotify.com/artist/4sH2uBwia6cdHvnvdsA1jX) | [Clean](https://open.spotify.com/album/5Y9g9o0gBrN1FiAc9xDF6i) | 3:03 | 2021-12-01 | 2022-04-20 |
 | [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/track/6W8ip4419k9qTlOAkAU4uN) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/album/2dA4e6yg8TumkbOWZJYunN) | 3:07 | 2021-12-01 | 2022-07-29 |
 | [Cool](https://open.spotify.com/track/44USwYuZ2eckQTYqkoeJEC) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy](https://open.spotify.com/album/0IuKHnuroKmBnaPqIRuxnh) | 3:48 | 2022-03-25 | 2022-04-21 |

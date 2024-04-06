@@ -1,12 +1,12 @@
 {
   "description": "Roll the windows down and take a few risks out on the open, country roads.",
-  "num_followers": 31940,
+  "num_followers": 31944,
   "original_name": "The Road Less Traveled",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTEwYzlmMDNhNjU0NmUxMTA2MGQxYWY1NTgwNTgzOTdiNzlhNzUx",
+  "snapshot_id": "MCwxODYwY2I4NDBiNjI1M2U2ODQ0MTNkNmEwMDdkNzY2ZjFhMjViODA0",
   "tracks": [
     {
       "added_at": "2024-03-25 16:53:27",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Watch the World Die",
-        "url": "https://open.spotify.com/album/3ZAttcYlut56IVsUDSuo7O"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 234984,
-      "name": "Watch the World Die",
-      "url": "https://open.spotify.com/track/0e9EIKj5FCQ1FEHdCHJh8M"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Hey Cowgirl",
         "url": "https://open.spotify.com/album/79hKJQh5ggKdLlGBIV43bD"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 200925,
       "name": "Hey Cowgirl",
       "url": "https://open.spotify.com/track/2P7FJqlrDyV1lSd1MwL26c"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Watch the World Die",
+        "url": "https://open.spotify.com/album/3ZAttcYlut56IVsUDSuo7O"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 234984,
+      "name": "Watch the World Die",
+      "url": "https://open.spotify.com/track/0e9EIKj5FCQ1FEHdCHJh8M"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Neon Cross",
-        "url": "https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ"
-      },
-      "artists": [
-        {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
-        }
-      ],
-      "duration_ms": 264181,
-      "name": "Neon Cross",
-      "url": "https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Weight of the World",
         "url": "https://open.spotify.com/album/2AEiFEuAhmxXnThxQDxBno"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 347106,
       "name": "Off the Shelf",
       "url": "https://open.spotify.com/track/0VovTymtgbuwSL0s56ITWU"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Neon Cross",
+        "url": "https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 264181,
+      "name": "Neon Cross",
+      "url": "https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Solid Gold Sounds (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ijbApenMjsqqWxUtJi1p8"
-      },
-      "artists": [
-        {
-          "name": "Kendell Marvel",
-          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
-        }
-      ],
-      "duration_ms": 251437,
-      "name": "Hard Time With The Truth",
-      "url": "https://open.spotify.com/track/33DgblZnDhuJf9u02q335Z"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Our Mother the Mountain",
         "url": "https://open.spotify.com/album/7832JbG9mCtN2QBzwXOlPF"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 295106,
       "name": "Tecumseh Valley",
       "url": "https://open.spotify.com/track/5KJMVvokqnMn9ribqPQja9"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Solid Gold Sounds (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ijbApenMjsqqWxUtJi1p8"
+      },
+      "artists": [
+        {
+          "name": "Kendell Marvel",
+          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
+        }
+      ],
+      "duration_ms": 251437,
+      "name": "Hard Time With The Truth",
+      "url": "https://open.spotify.com/track/33DgblZnDhuJf9u02q335Z"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "The Balladeer",
-        "url": "https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Good Fight",
-      "url": "https://open.spotify.com/track/0zWEXxAbRfBFkHe0aY1ny2"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 234866,
       "name": "Back Down South (feat. Tyler Bryant)",
       "url": "https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "The Balladeer",
+        "url": "https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Good Fight",
+      "url": "https://open.spotify.com/track/0zWEXxAbRfBFkHe0aY1ny2"
     },
     {
       "added_at": "2024-03-25 16:53:27",

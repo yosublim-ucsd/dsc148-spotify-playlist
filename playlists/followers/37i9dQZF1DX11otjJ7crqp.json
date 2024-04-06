@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 75619,
+  "2024-04-06": 75740,
   "date_first_scraped": "2022-02-06",
   "description": "Essential new pop tracks. Cover: Isabel LaRosa",
   "name": "New Pop Picks",
@@ -40839,6 +40839,28 @@
       "duration_ms": 142800,
       "name": "i don't wanna ruin ur party",
       "url": "https://open.spotify.com/track/1mYEAoHFaq4I5gJV0MvhSa"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149667,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
       "album": {

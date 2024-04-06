@@ -1615,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Ram Mantra",
+        "url": "https://open.spotify.com/album/1quclbQaKMxsQcOWP4FBWf"
+      },
+      "artists": [
+        {
+          "name": "Neeaz",
+          "url": "https://open.spotify.com/artist/4iXaAZ8jrf0naPbLsybt5a"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176713,
+      "name": "Ram Mantra",
+      "url": "https://open.spotify.com/track/0IbaAc6gs5Cgyen3ukuKbv"
+    },
+    {
+      "album": {
         "name": "Ram Naam Chanting",
         "url": "https://open.spotify.com/album/2a3szoALUteejLabQS39M1"
       },
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 302506,
       "name": "Rudrashtakam",
       "url": "https://open.spotify.com/track/3CBzlr1rjztpKFurMbQizE"

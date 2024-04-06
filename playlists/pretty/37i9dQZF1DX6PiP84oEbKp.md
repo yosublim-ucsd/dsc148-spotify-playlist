@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 
 > A pride playlist for the whole family\. Cover: JoJo Siwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,004 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,003 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 | 24 | [Old Town Road](https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 1:53 |
 | 25 | [The Climb](https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:56 |
 | 26 | [OK Not To Be OK](https://open.spotify.com/track/0zzVTGyRrWpQu8Fr28NRAv) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [OK Not To Be OK](https://open.spotify.com/album/3wCtCJ8O6SlGBWYfzAlsb2) | 2:39 |
-| 27 | [Boomerang](https://open.spotify.com/track/79l5JbcB7MVcjmYlvgq9KQ) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Boomerang](https://open.spotify.com/album/4XjsEEC0egjD59vuN93ep5) | 3:27 |
+| 27 | [Boomerang](https://open.spotify.com/track/79l5JbcB7MVcjmYlvgq9KQ) | [JoJo Siwa \(Kids\)](https://open.spotify.com/artist/5lFcoVtVovqYXVHIU4b4Um) | [Boomerang](https://open.spotify.com/album/4XjsEEC0egjD59vuN93ep5) | 3:27 |
 | 28 | [Stronger Than You \(feat\. Estelle\)](https://open.spotify.com/track/4qmT806nB5E33pZSYYqWcU) | [Steven Universe](https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Steven Universe, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5MAx9iJP58ErRpSUdrV1Uk) | 2:52 |
 | 29 | [Love Me for Who I Am](https://open.spotify.com/track/6qaFqV4xpkAT7PuKq1yqqB) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [Love Me for Who I Am](https://open.spotify.com/album/5Xo9zh9RWeBkQFqLFSaL9r) | 2:59 |
 | 30 | [\#100kmasks](https://open.spotify.com/track/1TTTr0h2sj2HlV6eHCap2F) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Tommy Soulati Shepherd](https://open.spotify.com/artist/014sxnbcP5ilDvC2oIQAeZ), [Yaw](https://open.spotify.com/artist/7LRoJKV4UNpWsTiU3HsF2r), [Zion I](https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ) | [The Love](https://open.spotify.com/album/1KXBAJuLCtlby4JpDcvcTt) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 | 49 | [And Mom and Kid](https://open.spotify.com/track/4WImM9b0Fk1SMhwyeRtKh7) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Why?](https://open.spotify.com/album/0aVBughGBxf0tHkUXg0cwK) | 1:22 |
 | 50 | [Go Shine \(Song for Elm\)](https://open.spotify.com/track/4gZcqkqfdKDA6UBn93B7bk) | [Alastair Moock](https://open.spotify.com/artist/5NwLASbIjDj6FUgaEa1NMz), [Heather Mae](https://open.spotify.com/artist/3wdm6k2HSsI6uWkYPuKj7V) | [Be a Pain \- An Album for Young \(and Old\) Leaders](https://open.spotify.com/album/5nDOikFiHs1P1jJUv5YgTk) | 2:58 |
 
-Snapshot ID: `MCwxMjk5NmFmYWE1NDNiOTY5NGEwZTA1MzBkYWFlNWU4NGJmNWRlMjRm`
+Snapshot ID: `MCxjOGY1ZDFiMjI3MjBhYjJjY2U0ZGE5OGZlYjU1MDM5NTE2ZGIyYmE4`

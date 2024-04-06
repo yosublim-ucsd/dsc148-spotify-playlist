@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 9051,
+  "2024-04-06": 9053,
   "date_first_scraped": "2022-03-22",
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Loud",
   "name": "Les nouveaux classiques",
@@ -2107,7 +2107,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 277293,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/1rUTNL7BmKVOALl3iwu9z3"
@@ -2939,7 +2939,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 222200,
       "name": "Over",
       "url": "https://open.spotify.com/track/0Bj3Cph4Aql8xZpAXIiUmi"

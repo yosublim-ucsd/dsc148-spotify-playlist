@@ -4,7 +4,7 @@
 
 > Worship 2024 \| Your favorite praise and worship songs of 2024\. Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-421 songs - 1 day 16 hr 50 min
+423 songs - 1 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Bigger Than Impossible \- Live](https://open.spotify.com/track/5kc5L0PpCJRbEoPUves8F1) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [Bigger Than Impossible \(Live\)](https://open.spotify.com/album/507PuVlEp6f9nbGBXuEjwc) | 5:22 | 2022-04-08 | 2023-01-05 |
 | [Bless God](https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 4:52 | 2023-12-01 |  |
 | [Bless God \- Live](https://open.spotify.com/track/3iIpkJIcgWtAXIjEOXIo7a) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Bless God \(Live\)](https://open.spotify.com/album/4Gq29SPRne0lNf7FZPbJz5) | 6:04 | 2023-07-28 |  |
+| [Bless God \- Live From Passion 2024](https://open.spotify.com/track/55891kIDHcEGReUrpD461w) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Bless God](https://open.spotify.com/album/074Y58Kfks4iXnPCGWlo0O) | 5:14 | 2024-04-05 |  |
 | [Bless The Lord](https://open.spotify.com/track/72kofsjFXx2FaajQOSHbjK) | [Rose Worship](https://open.spotify.com/artist/6SIyNWjA9wTHoHcotZV3Rj), [Julia Damazio](https://open.spotify.com/artist/2pE1zVa1OtCCmO4ufiO7Nl), [Kirk Anderson](https://open.spotify.com/artist/7JMsKiRKiqFgMiWE3PwiTY) | [Bless The Lord](https://open.spotify.com/album/5FvCXd6ct6lMybM7BoVTzs) | 7:54 | 2024-02-23 | 2024-03-02 |
 | [Break Every Chain](https://open.spotify.com/track/1kSQjzusL5j9Vvy67krOjy) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Break Every Chain](https://open.spotify.com/album/0S8VvN9QY0Ivbpm3ZHRLmr) | 8:20 | 2022-04-22 | 2023-01-05 |
 | [Break Every Chain \- Live](https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 8:18 | 2023-03-31 |  |
@@ -234,6 +235,7 @@
 | [King Of All The Nations / We Fall Down \- Live](https://open.spotify.com/track/06PdKGYoayZpkyfvdFln0Q) | [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [King Of All The Nations / We Fall Down \(Live\)](https://open.spotify.com/album/2tsJzxplKBuydKAMhL6LoM) | 5:32 | 2023-12-01 |  |
 | [King Of Kings](https://open.spotify.com/track/0b8hSEwhZKE59lSaT4ZqsA) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake \(Deluxe\)](https://open.spotify.com/album/3845kDbcFRDDUHI0yVd8Km) | 4:25 | 2022-02-17 | 2023-12-14 |
 | [King Of Kings](https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake](https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC) | 4:25 | 2023-12-01 |  |
+| [Kingdom Is Coming \- Live](https://open.spotify.com/track/2bE582D6srOGjJjP14sCyW) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Bradley Riddle](https://open.spotify.com/artist/52dEgQZjyA9H9YPAgQo2eD) | [Kingdom Is Coming \(Live\)](https://open.spotify.com/album/2cDFQIMmkaRfuJOLf9b9yy) | 4:49 | 2024-04-05 |  |
 | [Know You Will](https://open.spotify.com/track/758pVpyAPaFWlZQAoB0UYt) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [Know You Will](https://open.spotify.com/album/1rTs1PbPBCoKPC7PWklo5H) | 3:37 | 2022-02-17 | 2022-04-02 |
 | [Lay It All Down](https://open.spotify.com/track/0d5Qst55vayJAUCs6Sx02i) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Lay It All Down](https://open.spotify.com/album/56wIBe9Y5eD0u5szbFFHP1) | 7:04 | 2022-09-23 | 2023-04-04 |
 | [Lay It All Down](https://open.spotify.com/track/6pk4msiL2Igg3KlRqMYwjo) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Lay It All Down](https://open.spotify.com/album/0NrENMCYUG5l6wAgYiGQxB) | 7:04 | 2022-09-09 | 2023-04-15 |

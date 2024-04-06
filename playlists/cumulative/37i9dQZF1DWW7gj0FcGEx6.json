@@ -4211,6 +4211,28 @@
     },
     {
       "album": {
+        "name": "Scoop (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/45qRgBjHHp7r65f2xTYKX8"
+      },
+      "artists": [
+        {
+          "name": "Anne Nikitin",
+          "url": "https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr"
+        },
+        {
+          "name": "Hannah Peel",
+          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105293,
+      "name": "Scoop",
+      "url": "https://open.spotify.com/track/49aZEyiIZbbL8Btgh1UhCK"
+    },
+    {
+      "album": {
         "name": "The Underground Railroad: Volume 1 (Amazon Original Series Score)",
         "url": "https://open.spotify.com/album/2dCTpR2osQnVMvbCeiKPkC"
       },
@@ -5266,6 +5288,24 @@
       "duration_ms": 177066,
       "name": "The New Fraser's Ridge",
       "url": "https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe"
+    },
+    {
+      "album": {
+        "name": "Belgravia: The Next Chapter (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1fmgZnEduLn5PY6XeG2w93"
+      },
+      "artists": [
+        {
+          "name": "John Lunn",
+          "url": "https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61604,
+      "name": "The Next Chapter",
+      "url": "https://open.spotify.com/track/0UXB8mO2Qaa7BqRZEHVNi0"
     },
     {
       "album": {

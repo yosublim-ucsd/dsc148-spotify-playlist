@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 34717,
+  "2024-04-06": 34716,
   "date_first_scraped": "2022-06-09",
   "description": "\u7d93\u5f97\u8d77\u6642\u9593\u8003\u9a57\u5605\u6b4c\u66f2\uff0c\u7121\u8ad6\u65b0\u7248\u3001\u820a\u6b4c\u4e00\u6a23\u597d\u807d\uff01",
   "name": "\u7ffb\u5531\u6b4c",
@@ -854,6 +854,28 @@
     },
     {
       "album": {
+        "name": "\u4e00\u671f\u4e00\u6703",
+        "url": "https://open.spotify.com/album/5CzYuHAN4K1nxoiiq8U36X"
+      },
+      "artists": [
+        {
+          "name": "Ellen Loo",
+          "url": "https://open.spotify.com/artist/3fzkQF4hAwDkHQhzp5G2uC"
+        },
+        {
+          "name": "Chet Lam",
+          "url": "https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272133,
+      "name": "\u518d\u898b PUPPY LOVE",
+      "url": "https://open.spotify.com/track/4Ate1rLOyiVyi9CQjWmJx2"
+    },
+    {
+      "album": {
         "name": "\u51e1\u661f (\u5929\u661f\u9280\u884cairstar\u97f3\u6a02\u5287\u5834\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/5f1R2DOR0cLJlUmpO1gtjC"
       },
@@ -926,6 +948,24 @@
     },
     {
       "album": {
+        "name": "\u521d\u6200",
+        "url": "https://open.spotify.com/album/5mNIZekIfHHPTYjmJAYe7e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Leung",
+          "url": "https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237923,
+      "name": "\u521d\u6200",
+      "url": "https://open.spotify.com/track/5PXsG3sAAq4NvqKSe4jvSf"
+    },
+    {
+      "album": {
         "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein)",
         "url": "https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2"
       },
@@ -941,6 +981,24 @@
       "duration_ms": 320165,
       "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein) - \u96fb\u5f71<\u523b\u5728\u4f60\u5fc3\u5e95\u7684\u540d\u5b57>\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i"
+    },
+    {
+      "album": {
+        "name": "\u6b77\u4e45\u5690\u65b0II Reborn (\u74b0\u7403\u7cbe\u9078)",
+        "url": "https://open.spotify.com/album/76OhLZYkmy48oEy0bVHwxL"
+      },
+      "artists": [
+        {
+          "name": "Anthony Wong",
+          "url": "https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308960,
+      "name": "\u53cb\u60c5\u6b72\u6708",
+      "url": "https://open.spotify.com/track/1EzjQgHyJL3RoDdQBwIG06"
     },
     {
       "album": {
@@ -977,6 +1035,42 @@
       "duration_ms": 270146,
       "name": "\u559c\u6b61\u6200\u611b",
       "url": "https://open.spotify.com/track/4FzNaixy0Ura2eDmS3217L"
+    },
+    {
+      "album": {
+        "name": "Eason Chan Duo Concert 2010",
+        "url": "https://open.spotify.com/album/07fbAm4G10mTHjzWk8pz62"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267560,
+      "name": "\u56cd\u5e16\u8857",
+      "url": "https://open.spotify.com/track/4Bftk2JcO5Ul017BCmcBL4"
+    },
+    {
+      "album": {
+        "name": "All Time Favourites",
+        "url": "https://open.spotify.com/album/0WpcnKMjK0ovshd1NLiJvp"
+      },
+      "artists": [
+        {
+          "name": "Shirley Kwan",
+          "url": "https://open.spotify.com/artist/14hV8HTKYMZ5nzeaLdLp63"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "\u5922\u4f34",
+      "url": "https://open.spotify.com/track/1CrRwZz4ODSKQhhUIuy27K"
     },
     {
       "album": {
@@ -1106,6 +1200,46 @@
     },
     {
       "album": {
+        "name": "All Time Favourites",
+        "url": "https://open.spotify.com/album/0WpcnKMjK0ovshd1NLiJvp"
+      },
+      "artists": [
+        {
+          "name": "Shirley Kwan",
+          "url": "https://open.spotify.com/artist/14hV8HTKYMZ5nzeaLdLp63"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "\u5fd8\u8a18\u4ed6",
+      "url": "https://open.spotify.com/track/4BMsm71hl8wqqSbfAdgIHV"
+    },
+    {
+      "album": {
+        "name": "\u5341\u516b\u7a2e\u9999\u6e2f Reimagine HK 2015 (LIVE)",
+        "url": "https://open.spotify.com/album/1MU1FyMYaQnjNz6tWK12Ym"
+      },
+      "artists": [
+        {
+          "name": "Denise Ho",
+          "url": "https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U"
+        },
+        {
+          "name": "\u4f55\u79c9\u821c",
+          "url": "https://open.spotify.com/artist/0LkhfZsXSBqDc0y0CwppkY"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390946,
+      "name": "\u60c5\u6df1\u8aaa\u8a71\u672a\u66fe\u8b1b - Live",
+      "url": "https://open.spotify.com/track/3X3MlR0hbNJLY1zlS3L8UU"
+    },
+    {
+      "album": {
         "name": "\u60f3\u77e5\u9053\u4f60\u5728\u60f3\u4ec0\u9ebc (\u300a\u6211\u5403\u4e86\u90a3\u7537\u5b69\u4e00\u6574\u5e74\u7684\u65e9\u9910\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/0bk4Iwkx4kZ66ldOfJGQFn"
       },
@@ -1146,6 +1280,24 @@
     },
     {
       "album": {
+        "name": "101",
+        "url": "https://open.spotify.com/album/3einZWT5Kn6SEDLXiJ70BD"
+      },
+      "artists": [
+        {
+          "name": "Dear Jane",
+          "url": "https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200100,
+      "name": "\u611b\u5f8c\u9918\u751f - Dear Jane Studio Live",
+      "url": "https://open.spotify.com/track/36wCLNl1ZP8srQH77sHzQQ"
+    },
+    {
+      "album": {
         "name": "\u611b\u60c5\u4f60\u6bd4\u6211\u60f3\u7684\u95a3\u8f03\u5049\u5927 -\u300a\u7576\u7537\u4eba\u6200\u611b\u6642\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
         "url": "https://open.spotify.com/album/0VqgheMWJatfAl6njk2DL8"
       },
@@ -1161,6 +1313,42 @@
       "duration_ms": 232400,
       "name": "\u611b\u60c5\u4f60\u6bd4\u6211\u60f3\u7684\u95a3\u8f03\u5049\u5927 -\u300a\u7576\u7537\u4eba\u6200\u611b\u6642\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/4fJlSLYLiu5trFCMZdSQDC"
+    },
+    {
+      "album": {
+        "name": "LMFXXYEARFEST",
+        "url": "https://open.spotify.com/album/4xb2VaWVJCC5da4ZEEmHeb"
+      },
+      "artists": [
+        {
+          "name": "Qiu Hong",
+          "url": "https://open.spotify.com/artist/6ai1TRHwDWWZ71PoNljoTq"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207478,
+      "name": "\u611b\u662f.....",
+      "url": "https://open.spotify.com/track/3h8gXeNOawPxOp78OIP5ka"
+    },
+    {
+      "album": {
+        "name": "\u5531\u8207\u88ab\u5531\uff1a\u5f35\u570b\u69ae\u5728\u74b0\u7403\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/373fpLNHrcRu3FsSdfMZqc"
+      },
+      "artists": [
+        {
+          "name": "Kay Tse",
+          "url": "https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225320,
+      "name": "\u6211",
+      "url": "https://open.spotify.com/track/41UFHG32WkZpDozEPon4Vo"
     },
     {
       "album": {
@@ -1222,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "\u5e78\u798f (\u83ef\u661f40\u7cfb\u5217)",
+        "url": "https://open.spotify.com/album/1i1ISMhespmATpxL9x7yOR"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266920,
+      "name": "\u6539\u9020\u4eba - Live Version",
+      "url": "https://open.spotify.com/track/6cdnqfrCjMg2z8IKan7h4S"
+    },
+    {
+      "album": {
         "name": "\u660e\u3051\u661f",
         "url": "https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY"
       },
@@ -1237,6 +1443,24 @@
       "duration_ms": 269000,
       "name": "\u660e\u3051\u661f",
       "url": "https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12"
+    },
+    {
+      "album": {
+        "name": "Cross Over",
+        "url": "https://open.spotify.com/album/5epxfLiiZq2Q3ou0PL4Xuu"
+      },
+      "artists": [
+        {
+          "name": "Leslie Cheung",
+          "url": "https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228106,
+      "name": "\u6625\u5149\u4e4d\u6d29",
+      "url": "https://open.spotify.com/track/2i5W0vHE6fdx9Sp569wjE8"
     },
     {
       "album": {
@@ -1277,6 +1501,42 @@
       "duration_ms": 229053,
       "name": "\u6697\u6e67 - \u96fb\u5f71\"\u6108\u5feb\u6a02\u6108\u58ae\u843d\"\u6b4c\u66f2",
       "url": "https://open.spotify.com/track/51qJSDTQiyP2BNsAKRcRo2"
+    },
+    {
+      "album": {
+        "name": "Snug In My Arms Live",
+        "url": "https://open.spotify.com/album/0lefvBKopUG6Ip0jvqeVCx"
+      },
+      "artists": [
+        {
+          "name": "Pong Nan",
+          "url": "https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288191,
+      "name": "\u6700\u5f8c\u7684\u4fe1\u4ef0 - Snug In My Arms Live",
+      "url": "https://open.spotify.com/track/3XGVrj8xSClxddeiKbbA3C"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5f8c\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/6obk6R6XuJmp0VFjCGaypj"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u8f1d\u967d x \u5973\u8072\u5408\u5531",
+          "url": "https://open.spotify.com/artist/6t1LRAgmnIc4a1hnjhSDHU"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210722,
+      "name": "\u6700\u5f8c\u7684\u6b4c",
+      "url": "https://open.spotify.com/track/2cSNM2l9koIzxoKoOkPE9m"
     },
     {
       "album": {
@@ -1352,6 +1612,42 @@
     },
     {
       "album": {
+        "name": "\u6bd4\u751f\u547d\u66f4\u5927",
+        "url": "https://open.spotify.com/album/58QiM4it2CLAwlqVnQVECQ"
+      },
+      "artists": [
+        {
+          "name": "Denise Ho",
+          "url": "https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "\u6bd4\u751f\u547d\u66f4\u5927",
+      "url": "https://open.spotify.com/track/2jMhZFeEDB85LwYeo9omz1"
+    },
+    {
+      "album": {
+        "name": "Dahlia II",
+        "url": "https://open.spotify.com/album/4oyUjiSeeBwEfKvsASvMwy"
+      },
+      "artists": [
+        {
+          "name": "Hins Cheung",
+          "url": "https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263430,
+      "name": "\u6d3b\u5f97\u6bd4\u4f60\u597d",
+      "url": "https://open.spotify.com/track/3H0sbSeSHB7lbvknxiHhL4"
+    },
+    {
+      "album": {
         "name": "Blooming",
         "url": "https://open.spotify.com/album/3Qxf3z5G8hMBacGhEzeMjL"
       },
@@ -1385,6 +1681,24 @@
       "duration_ms": 188600,
       "name": "\u6f23\u6f2a (\u97f3\u6a02\u6c38\u7e8c\u4f5c\u54c1)",
       "url": "https://open.spotify.com/track/5agxyN0XnlsRNJXXk2xDYN"
+    },
+    {
+      "album": {
+        "name": "101",
+        "url": "https://open.spotify.com/album/3einZWT5Kn6SEDLXiJ70BD"
+      },
+      "artists": [
+        {
+          "name": "Dear Jane",
+          "url": "https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273121,
+      "name": "\u7246\u7d19 - Dear Jane Studio Live",
+      "url": "https://open.spotify.com/track/7rML5aT5sPdTpiQsc8CVnU"
     },
     {
       "album": {
@@ -1496,6 +1810,24 @@
     },
     {
       "album": {
+        "name": "\u9054\u660e\u4e00\u4ee3",
+        "url": "https://open.spotify.com/album/512ilWYaatApFMRpBoohXl"
+      },
+      "artists": [
+        {
+          "name": "Pong Nan",
+          "url": "https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234533,
+      "name": "\u7981\u8272",
+      "url": "https://open.spotify.com/track/3upZiipbPQ6ewvm0PDyarH"
+    },
+    {
+      "album": {
         "name": "\u7a81\u5982\u5176\u4f86\u7684\u5fc3\u8df3\u611f\u89ba (ViuTv \u5287\u96c6 [\u5927\u53d4\u7684\u611b] \u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/1GtTUDJrBUbRACKrBmmVTC"
       },
@@ -1533,6 +1865,24 @@
       "duration_ms": 213280,
       "name": "\u7b49",
       "url": "https://open.spotify.com/track/27BDiVBs8rcbGZm6UTIBnU"
+    },
+    {
+      "album": {
+        "name": "Eason Chan Duo Concert 2010",
+        "url": "https://open.spotify.com/album/07fbAm4G10mTHjzWk8pz62"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336253,
+      "name": "\u7d04\u5b9a",
+      "url": "https://open.spotify.com/track/55clCVll09oHjttrkShr8x"
     },
     {
       "album": {
@@ -1608,6 +1958,24 @@
     },
     {
       "album": {
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/638h6Jjo6BtVm6vOJKjFbJ"
+      },
+      "artists": [
+        {
+          "name": "Chet Lam",
+          "url": "https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220053,
+      "name": "\u82b1\u885770\u865f",
+      "url": "https://open.spotify.com/track/3zt402DLJ4BmCSGeq6K04K"
+    },
+    {
+      "album": {
         "name": "\u8457\u5730 (\u5287\u96c6\u300a\u7537\u6392\u5973\u5c07\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/1Tes4fMM6e2DMXgp6wqhHL"
       },
@@ -1662,6 +2030,24 @@
     },
     {
       "album": {
+        "name": "\u8ff7\u6e56 (\u97f3\u6a02\u6c38\u7e8c \u4f5c\u54c1)",
+        "url": "https://open.spotify.com/album/4jZnGsjUQP04qfUxPYyslf"
+      },
+      "artists": [
+        {
+          "name": "iii",
+          "url": "https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247403,
+      "name": "\u8ff7\u6e56 (\u97f3\u6a02\u6c38\u7e8c \u4f5c\u54c1)",
+      "url": "https://open.spotify.com/track/0ZGpiiBfbfgKXg7VzTx8fb"
+    },
+    {
+      "album": {
         "name": "\u8ffd",
         "url": "https://open.spotify.com/album/6sGJi4077dMoVi362niYP5"
       },
@@ -1713,6 +2099,42 @@
       "duration_ms": 264183,
       "name": "\u9072\u4e86\u6094\u6539 - ViuTV\u96fb\u8996\u5287\u300a\u592a\u5e73\u7d0b\u8eab\u5e97\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/0Os0RD1apkQsWOeF2cV5w2"
+    },
+    {
+      "album": {
+        "name": "Dear Secret (2nd edition)",
+        "url": "https://open.spotify.com/album/33oSpTnVlOvjODoph9vv3u"
+      },
+      "artists": [
+        {
+          "name": "Gin Lee",
+          "url": "https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "\u9084\u4f60\u9580\u5319 - 2020 Music Suite Live",
+      "url": "https://open.spotify.com/track/6fhiLQP3SHGxV6ptDgguan"
+    },
+    {
+      "album": {
+        "name": "\u611b\uff0e\u79d1\u5b78",
+        "url": "https://open.spotify.com/album/7IK6GFEJ9GawVntkX9zJHe"
+      },
+      "artists": [
+        {
+          "name": "PixelToy",
+          "url": "https://open.spotify.com/artist/4Pf7S8xTCi2PmvlKrubRty"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255920,
+      "name": "\u90a3\u500b\u4e0b\u5348\u6211\u5728\u820a\u5c45\u71d2\u4fe1",
+      "url": "https://open.spotify.com/track/3MhbxjiQhfZUzvEAC6NYQc"
     },
     {
       "album": {

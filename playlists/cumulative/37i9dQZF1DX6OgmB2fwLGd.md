@@ -4,7 +4,7 @@
 
 > Shotgun Willy, born and raised on the internet.
 
-988 songs - 1 day 16 hr 22 min
+989 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 | 2023-05-16 | 2023-09-09 |
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/6PadQidABni2peo3kYKW0M) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5) | 1:42 | 2023-05-16 | 2023-06-17 |
 | [Gotsta Get Paid](https://open.spotify.com/track/6s3x9zSwfzgi1IY9iDXjYh) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 3:17 | 2022-09-20 | 2022-11-23 |
-| [GREEN GOBLIN \- Spotify Singles](https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Spotify Singles](https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp) | 2:09 | 2023-10-20 |  |
+| [GREEN GOBLIN \- Spotify Singles](https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Spotify Singles](https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp) | 2:09 | 2023-10-20 | 2024-04-06 |
 | [GTTM](https://open.spotify.com/track/4aQzgQwLrFSY1ARcF2999k) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [GTTM](https://open.spotify.com/album/0135TgD7aR1sB0l1Ctx8Ic) | 2:22 | 2022-08-06 | 2023-01-26 |
 | [GTTM](https://open.spotify.com/track/5tsmt6wAwjgj5iNID2nATh) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [GTTM](https://open.spotify.com/album/3Q1Q8OxjZCsusRxJrOXCN7) | 2:22 | 2022-08-06 | 2022-08-31 |
 | [Gucci Flip Flops \(feat\. Lil Yachty\)](https://open.spotify.com/track/3hv6ndi7uFT9L9wrhQCsqY) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [15](https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12) | 2:31 | 2023-12-11 |  |
@@ -911,10 +911,11 @@
 | [Turn Your Phone Off](https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Turn Your Phone Off](https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL) | 2:56 | 2023-07-14 | 2023-11-25 |
 | [TWINNEM](https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [TWINNEM](https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr) | 1:57 | 2021-10-06 | 2022-02-05 |
 | [twisted](https://open.spotify.com/track/2eJSp2cHMegpyQpddwnB3o) | [blxty](https://open.spotify.com/artist/6xCkHWTLdUoEckl5YD0S7p) | [twisted](https://open.spotify.com/album/7pQye8vr3i3YbGJmDLFytj) | 2:35 | 2023-05-05 | 2023-06-10 |
-| [two cups \(feat\. Ms\. Tee\)](https://open.spotify.com/track/4kpJhEL1V8pgqz3vJTj5Tu) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Ms\. Tee](https://open.spotify.com/artist/1jCiiLYzfQzEYwTViMhfDP) | [TWO CUPS / RUN](https://open.spotify.com/album/1ojmaTDM119BDyn330YPsm) | 2:31 | 2024-03-01 |  |
+| [two cups \(feat\. Ms\. Tee\)](https://open.spotify.com/track/4kpJhEL1V8pgqz3vJTj5Tu) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Ms\. Tee](https://open.spotify.com/artist/1jCiiLYzfQzEYwTViMhfDP) | [TWO CUPS / RUN](https://open.spotify.com/album/1ojmaTDM119BDyn330YPsm) | 2:31 | 2024-03-01 | 2024-04-06 |
 | [U Neva](https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [U Neva](https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r) | 2:22 | 2023-01-27 | 2023-06-22 |
 | [Ugly](https://open.spotify.com/track/3qDbBtbRv6eBls6q51pAL7) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 2:35 | 2022-09-09 | 2023-03-23 |
 | [Ukraine \- Let Me Talk Afro Drill Mix](https://open.spotify.com/track/1EHkclXJgi9XKP9xbp51hk) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [Slimenese](https://open.spotify.com/artist/0Jau0uelDnejFUq6zK88Ze), [Jay5ive](https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB) | [Ukraine \(Let Me Talk Afro Drill Mix\)](https://open.spotify.com/album/0W5rqpGSQzFT0mkfvuoKII) | 1:55 | 2024-01-15 |  |
+| [UNDERDOG SONG \(feat\. Lil Baby\)](https://open.spotify.com/track/7AJYW0SKABcwCW4HnsDIWh) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [YOUNG GENIUS](https://open.spotify.com/album/1ZSTVGuahoSWHnRjxqmqkJ) | 2:39 | 2024-04-05 |  |
 | [Underrated \(feat\. MoneySign Suede\) \- Remix](https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Underrated \(Remix\) \[feat\. MoneySign Suede\]](https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT) | 4:09 | 2023-09-08 | 2024-01-26 |
 | [UP](https://open.spotify.com/track/7Mkc0cgOKfT6FsdNG5D9A9) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [LAMBDIDDY 2 EP](https://open.spotify.com/album/3gCjy6KiSUHOGszFDrsPJ3) | 1:47 | 2023-12-01 | 2023-12-30 |
 | [VEGAPUNK](https://open.spotify.com/track/2Jh4Ik2VD5Et1J593Vtotp) | [ITSOKTOCRY](https://open.spotify.com/artist/2BUUAEl4BwFRA9NBDgMWSf) | [VEGAPUNK](https://open.spotify.com/album/2vv7kcy8ZfvNHBKtC8btFy) | 2:02 | 2023-02-03 | 2023-04-15 |

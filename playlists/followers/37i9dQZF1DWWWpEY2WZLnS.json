@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 452686,
+  "2024-04-06": 453134,
   "date_first_scraped": "2022-01-02",
   "description": "Los \u00e9xitos del Dembow. Portada: Jey One",
   "name": "Dembow Pegao",
@@ -2412,6 +2412,32 @@
     },
     {
       "album": {
+        "name": "Fulete",
+        "url": "https://open.spotify.com/album/17AXAN9SJJEA0zsF2GPU1S"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147866,
+      "name": "Fulete",
+      "url": "https://open.spotify.com/track/4L6EwdEcRJxqjWOhgtyopO"
+    },
+    {
+      "album": {
         "name": "GALAPIN",
         "url": "https://open.spotify.com/album/34EGyXtxsJbIL5gAFVzcZa"
       },
@@ -3639,7 +3665,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 141176,
       "name": "Lola",
       "url": "https://open.spotify.com/track/5roKfFHOmRVrwgQczq8XKL"
@@ -4535,7 +4561,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 180508,
       "name": "MOLI",
       "url": "https://open.spotify.com/track/4BOxB6wZy7oMEWxyZMkjVv"
@@ -4835,6 +4861,24 @@
       "duration_ms": 207394,
       "name": "No Me Importa",
       "url": "https://open.spotify.com/track/3XrAOTkJU0fnNwld8maKC5"
+    },
+    {
+      "album": {
+        "name": "NO ME LA SUBE",
+        "url": "https://open.spotify.com/album/6JBXkVWmvPggBcK01GaCwK"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99310,
+      "name": "NO ME LA SUBE",
+      "url": "https://open.spotify.com/track/7gFiIf65iKVWUTpzhgK8w2"
     },
     {
       "album": {
@@ -6405,7 +6449,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 122500,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/7B85mIyCYzRnPaOJ6nvc1r"
@@ -7107,6 +7151,24 @@
       "duration_ms": 203098,
       "name": "Teteo - Remix",
       "url": "https://open.spotify.com/track/6wB8FE4JA5UTaKEwZzY7It"
+    },
+    {
+      "album": {
+        "name": "Tetere",
+        "url": "https://open.spotify.com/album/3eE9ricKdDv1I7kDK9Kn5m"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117120,
+      "name": "Tetere",
+      "url": "https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y"
     },
     {
       "album": {

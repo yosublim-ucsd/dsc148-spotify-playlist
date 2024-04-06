@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,045 songs - 2 day 6 hr 35 min
+1,046 songs - 2 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -894,6 +894,7 @@
 | [Tell You What I Did](https://open.spotify.com/track/4cdTUcdzvpbVz9BJazc1ou) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Zitah](https://open.spotify.com/artist/134jXtTPAypiWMWs2OozFJ) | [Tell You What I Did](https://open.spotify.com/album/7dkwus9p5TrJ10AO9hKrO0) | 3:29 | 2022-12-16 | 2022-12-27 |
 | [Tempest](https://open.spotify.com/track/0JjN5GDWzFt6ZY8izlci3m) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab), [Sane Music](https://open.spotify.com/artist/6bdY2YWzlQ6H1gxLB5Pdin), [LeftLukas](https://open.spotify.com/artist/0xDrFDK7IK6kgDAdyYhNeH) | [Tempest](https://open.spotify.com/album/7aHBpzvI962YQf7JmMVpa2) | 2:12 | 2022-08-12 | 2022-09-07 |
 | [Tested](https://open.spotify.com/track/4lUqDI7XESYh7A13MulOjz) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Tested](https://open.spotify.com/album/7jZfZ6DMT9gVnlTsE9JnIK) | 2:57 | 2022-05-17 | 2022-06-18 |
+| [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 | 2024-04-05 |  |
 | [That Feeling](https://open.spotify.com/track/69bRYnIDPZM8IUmBLFVq2u) | [So Dope](https://open.spotify.com/artist/3xEKrMqS4pDGqGvxf7zwSY), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [That Feeling](https://open.spotify.com/album/28DQ29Hukx9FU5C7GdY4Ta) | 2:46 | 2023-02-17 | 2023-09-09 |
 | [The Action](https://open.spotify.com/track/40jqRY00ZBurt1HqDxUOt3) | [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [Sømething](https://open.spotify.com/artist/4w08hE0AqL4sPFCUj5E3gx) | [The Action](https://open.spotify.com/album/0jq2WhY16lMP0B5xljkjZQ) | 3:13 | 2022-01-24 | 2022-09-15 |
 | [The End](https://open.spotify.com/track/2L0uVaHo60hPJXGPxmovHr) | [2 Man Embassy](https://open.spotify.com/artist/6lVxahKP9JvYmOX1jpvny4), [Perrin Xthona](https://open.spotify.com/artist/1bNx6UhsCYSNuoIeL9LcnD) | [Concepts](https://open.spotify.com/album/67ojsQXZr0nf7MQbMEZ0O2) | 3:28 | 2022-01-14 | 2022-02-17 |

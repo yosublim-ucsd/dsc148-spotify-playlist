@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 7481,
+  "num_followers": 7480,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzk1ZTcxZWNlZTc0OWExZGI5MjcxNjM2ZDUzZTkzNGNiNTJlZDkz",
+  "snapshot_id": "MCw2MWY4ZWUzYWNkYzFjNWM3NDBkYjY2NGVhYmU1ZTVmMzBkNzMxYzhh",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Broken Man",
-      "url": "https://open.spotify.com/track/4xAfOFbarKIYjpoQCXAMRP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dead Formats, Vol. 1",
         "url": "https://open.spotify.com/album/6a5P9JdN8QpJr1TuK3JPSn"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 205229,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/2g3HARlhrIwTiVvfRWOkSb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Broken Man",
+      "url": "https://open.spotify.com/track/4xAfOFbarKIYjpoQCXAMRP"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Frequencies",
         "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 219500,
       "name": "The Suicide Mile",
       "url": "https://open.spotify.com/track/6KwxSlvsFeiAe3kDvyAgba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Abandoned Driveways",
-      "url": "https://open.spotify.com/track/0PBhQRL2CdOZhBgIL3dzqK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Frequencies",
         "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 174000,
       "name": "Crimson Sand",
       "url": "https://open.spotify.com/track/3ZBs4rRJjfNpm4KyEw8hgQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "Abandoned Driveways",
+      "url": "https://open.spotify.com/track/0PBhQRL2CdOZhBgIL3dzqK"
     },
     {
       "added_at": null,

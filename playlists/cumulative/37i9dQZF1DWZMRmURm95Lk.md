@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Claver Gold in cover.
 
-374 songs - 21 hr 37 min
+375 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Kyobo ni tsuki](https://open.spotify.com/track/2VuI6BCvsWka7soG7LNrKK) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Mi fist \(Remastered version\)](https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8) | 4:03 | 2024-03-13 | 2024-03-23 |
 | [Kyobo Ni Tsuki](https://open.spotify.com/track/5ROFNjDY8gbmsOwf2i03Xb) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [MI Fist](https://open.spotify.com/album/1pptC6swQ62pyeAQmFlItI) | 4:03 | 2024-03-21 | 2024-03-29 |
 | [L'Anima Giusta](https://open.spotify.com/track/66LvacHJCJWy11UemxShz7) | [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK) | [Riproduzione Vietata](https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0) | 4:13 | 2022-05-05 |  |
-| [L'attimo esatto](https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri) | [Storie d'amore con pioggia e altri racconti di rovesci e temporali \(Deluxe\)](https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa) | 3:45 | 2023-01-19 |  |
+| [L'attimo esatto](https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri) | [Storie d'amore con pioggia e altri racconti di rovesci e temporali \(Deluxe\)](https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa) | 3:45 | 2023-01-19 | 2024-04-06 |
 | [L'avventura di due sposi](https://open.spotify.com/track/5GoPBAe0vccUACENH46cvT) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Carlo Corallo](https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt), [James Logan](https://open.spotify.com/artist/0Murtw7qBtLsRqzV6KHtI1), [Elisa Aramonte](https://open.spotify.com/artist/5Efzydj4oroqNB3yAYBObl) | [L'avventura di due sposi](https://open.spotify.com/album/2NGRzTmycSnDlKqTVh4OVd) | 3:53 | 2023-10-19 |  |
 | [L'ELICOTTERO SUL BOSCO](https://open.spotify.com/track/1OLOiaFk7AdHIlLoCUM74D) | [Pessimo 17](https://open.spotify.com/artist/1yYPg7htKugHfIwVhG7BCn), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [L'ELICOTTERO SUL BOSCO](https://open.spotify.com/album/0q0OFv4Gboexr3bzfJkSxK) | 3:21 | 2022-07-21 | 2022-07-25 |
 | [L'uomo dei sogni](https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k) | [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r), [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [CHIODI](https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9) | 4:08 | 2022-06-14 |  |
@@ -287,6 +287,7 @@
 | [Quelli come noi](https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Questo non è un cane](https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY) | 3:01 | 2022-09-21 |  |
 | [R2R](https://open.spotify.com/track/1qytWBYyu7eNVwoA2AIeko) | [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Brava Gente](https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [BRAVA GENTE](https://open.spotify.com/album/3LnhSMgyYiJ1P6fDeWXx6g) | 2:32 | 2023-06-06 | 2023-11-24 |
 | [R2R](https://open.spotify.com/track/5DE2JPLUIr8MuLSR8eXldn) | [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Brava Gente](https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [BRAVA GENTE](https://open.spotify.com/album/4dgoP7JlqIo0L65M33Df51) | 2:32 | 2023-11-23 |  |
+| [Ragazzi fuori](https://open.spotify.com/track/2QQ3rN78weEKTKBK3Op4dw) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [Johnny Marsiglia](https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Ragazzi fuori](https://open.spotify.com/album/2RgScSlYyVlMPB2KiYnS88) | 3:09 | 2024-04-05 |  |
 | [Rap in vena](https://open.spotify.com/track/7INUbNSkLTxJiqZ1FhNcxa) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Mr\. Simpatia \(Remastered Version\)](https://open.spotify.com/album/5SrVqhNg8cC1ikzLSEnD6r) | 3:47 | 2022-05-05 | 2022-07-29 |
 | [Rap in vena](https://open.spotify.com/track/2i2zlcw92p4WHFkbY2qKjl) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Mr\. Simpatia](https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf) | 3:47 | 2022-07-28 |  |
 | [Real Talk Freestyle](https://open.spotify.com/track/6Sz3x4r7fTQNEAkKxWCMf6) | [Drimer](https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u) | [Scrivo ancora \(Streaming version\)](https://open.spotify.com/album/0lfCZYQCxWcNHG7cl0Zm0o) | 3:04 | 2022-05-12 | 2022-05-15 |

@@ -4,7 +4,7 @@
 
 > Ouça as novidades da cena eletrônica\. Foto: Sterium
 
-205 songs - 11 hr 42 min
+208 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Demons From My Past](https://open.spotify.com/track/0yWoYsYcPJsiNC4mr3crsr) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Demons From My Past](https://open.spotify.com/album/4k1sfjAwz4m2fRY7a8VaTZ) | 5:53 | 2024-03-22 |  |
 | [Desce](https://open.spotify.com/track/6bTlmguryAksEPZSi40KTY) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [Desce](https://open.spotify.com/album/4znhwDlqA9l1Bezbs28IT0) | 2:49 | 2023-10-27 |  |
 | [Destruction \- Original Mix](https://open.spotify.com/track/360lFAnAX81dAHRskAIEfg) | [Melgazzo](https://open.spotify.com/artist/16t0GPAOlD5YHSo8EaabPA) | [Hallucinate EP](https://open.spotify.com/album/7GxcQgAsLEnVOHQ9krI2MV) | 6:27 | 2023-07-21 | 2024-02-17 |
+| [Devotion \- Radio Edit](https://open.spotify.com/track/3MF9pmnT0DrIQfJx16jCFV) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Devotion \(Radio Edit\)](https://open.spotify.com/album/3WNvm2bpEkgw8RmWXV2SB2) | 3:30 | 2024-04-05 |  |
 | [Dirty Mtfk Funk](https://open.spotify.com/track/7pmcOqMgnxOb8RfgNZjJgm) | [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [Dirty Mtfk Funk](https://open.spotify.com/album/7yyk0VuadcVqrlDPXCePAw) | 2:14 | 2023-07-21 | 2023-10-07 |
 | [Don't Call Me](https://open.spotify.com/track/0TdS0abXCuojh4OrrxfbRA) | [Samuel Davis](https://open.spotify.com/artist/3vyvxYznj1IlcfSkdoxT1w), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Mayn](https://open.spotify.com/artist/3Bm2qmss0lQDGCO0NoH2zX) | [Don't Call Me](https://open.spotify.com/album/2JPhRx56x6QAr2kVLPAG5K) | 2:34 | 2023-07-21 | 2023-09-23 |
 | [Don't Forget Me](https://open.spotify.com/track/7cv39ln99vS8TV5yqYg7I1) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Kelly Moreira](https://open.spotify.com/artist/3HV2E92s3B3YhP4JkDncCT) | [Don't Forget Me](https://open.spotify.com/album/4F05bplJU3WVW0j3AWMB4t) | 4:39 | 2023-07-21 | 2023-08-19 |
@@ -74,6 +75,7 @@
 | [Get It Right \- Radio Edit](https://open.spotify.com/track/16YKpHtN3VTTVGx331HJ0J) | [Caique Carvalho](https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW) | [Get It Right](https://open.spotify.com/album/1BfsDHhrqagcEIi8kZaPBP) | 3:33 | 2024-02-16 |  |
 | [Get The F\*\*\* Down](https://open.spotify.com/track/14zDs39mus5oEs4DKZpcz4) | [EME](https://open.spotify.com/artist/004h2uqVUpmOuz4oY6aTqw) | [Get The F\*\*\* Down](https://open.spotify.com/album/2GAkMksQoYhAAm22ZVVQV0) | 2:32 | 2023-07-21 | 2023-10-07 |
 | [Girl](https://open.spotify.com/track/0zRVIO4GWFugJk5taaym0f) | [Phael](https://open.spotify.com/artist/1zWOPmDwXSO50211NJHi0g), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Girl](https://open.spotify.com/album/0P3BWt3FWwy4PCiVo4xO4z) | 3:03 | 2023-10-06 | 2024-03-23 |
+| [Glory](https://open.spotify.com/track/6LkJwi3t2ZeH3Rj1GG7C3G) | [Riro](https://open.spotify.com/artist/4NqnlCPDCBgLdVOY8lDark) | [Glory](https://open.spotify.com/album/29x2BQSoTotdoRyGh7ZmdW) | 2:38 | 2024-04-05 |  |
 | [HALO](https://open.spotify.com/track/7qVhddvtZxC02rmzqwO5Fb) | [Elekfantz](https://open.spotify.com/artist/2qPvJviDwokwrQtNzR1Udv), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0) | [HALO](https://open.spotify.com/album/01G8MH9AZimcasPjp2ZPxQ) | 3:09 | 2023-09-15 | 2024-03-02 |
 | [Haunting Me](https://open.spotify.com/track/1rYSTJRgyGCa5Yl1SXC5sR) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Haunting Me](https://open.spotify.com/album/4xRmlHLvoZ2OEISy3SJ7TC) | 4:51 | 2023-10-20 | 2023-10-23 |
 | [Haunting Me](https://open.spotify.com/track/3OGDGKB1NlZiiU6oJU4l0S) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Haunting Me](https://open.spotify.com/album/6CSYEhL34pO5NLPLRRl8pw) | 4:51 | 2023-12-08 |  |
@@ -111,6 +113,7 @@
 | [Love & War](https://open.spotify.com/track/3Fry2XZgv6rVFPtJqHnh2V) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s) | [Love & War](https://open.spotify.com/album/7ujGtrXYKIqDCMgfKGUafe) | 2:59 | 2023-07-21 | 2023-10-28 |
 | [Love Me](https://open.spotify.com/track/0iv7Ez65HfYHtxfMKhpb0T) | [Gangbang](https://open.spotify.com/artist/4xAlQ5oAnU0WpbN23f9Dkz), [Brown](https://open.spotify.com/artist/552lqS4r6C6xfVbjowqGxY) | [Love Me](https://open.spotify.com/album/2rW1euwmia2MVUxN6Y4U6B) | 4:28 | 2023-08-18 | 2023-09-30 |
 | [Loving You](https://open.spotify.com/track/08icbnSa1ZRDspSi20iXO3) | [Blue Man](https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI), [Smurfy](https://open.spotify.com/artist/04766dHUt8NRpuU4T6ze4O) | [Loving You](https://open.spotify.com/album/1sLbR53b8lugg7yGHEZG0T) | 2:11 | 2023-07-21 | 2023-08-19 |
+| [Loving You](https://open.spotify.com/track/2Tl1gs1Cos2SgHgbxN5cDR) | [Dopelerz](https://open.spotify.com/artist/7vVYsm8yfMKCaXp2nwPIL5) | [Loving You](https://open.spotify.com/album/5tW4SZIOuZ7w3QClDGSo25) | 3:51 | 2024-04-05 |  |
 | [Lullaby](https://open.spotify.com/track/7o99rtPEvsWcjfSlD0xqfk) | [Carol Seubert](https://open.spotify.com/artist/0dGvlJ7IznrpAVfrLmpABQ), [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Lullaby](https://open.spotify.com/album/17YGLN0RuxOndcofUgkI0E) | 3:03 | 2023-09-22 | 2024-03-02 |
 | [Magic Touch](https://open.spotify.com/track/5Y4shJuqQRfXfs1tF8wFXQ) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Magic Touch](https://open.spotify.com/album/7pZplMGBwPoG7hBgyoUWaf) | 2:15 | 2023-07-21 | 2023-09-16 |
 | [Mary Jane](https://open.spotify.com/track/2ufkb3FQTmK8OJpP7dZ5oB) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ), [LLølita](https://open.spotify.com/artist/0fnCSuylj2kNfNzpvmFeM3) | [Mary Jane](https://open.spotify.com/album/0bOPG9YALZ4nbNA9u3I7XU) | 5:10 | 2023-07-21 | 2023-08-26 |

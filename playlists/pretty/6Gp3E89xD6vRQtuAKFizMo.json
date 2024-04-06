@@ -6,8 +6,44 @@
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjQ3MSxmNDM2OThjNjQ2OTExYzgyNTRmNzY1NmZhZGIwZWE4NDllZWNkMmQ0",
+  "snapshot_id": "NjQ3MywxYjBkYWExYjliNzM4Yjg5ZjVlZDI4YTBjNDY2OTE3ZmUwOWYxOTg5",
   "tracks": [
+    {
+      "added_at": "2024-04-05 16:07:29",
+      "album": {
+        "name": "Get Back The Love",
+        "url": "https://open.spotify.com/album/6H5H3AwjsUGUvcAEp9NLI6"
+      },
+      "artists": [
+        {
+          "name": "BRKLYN",
+          "url": "https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw"
+        }
+      ],
+      "duration_ms": 179404,
+      "name": "Get Back The Love",
+      "url": "https://open.spotify.com/track/5r3cmZRUupy2DSX8mhs2cE"
+    },
+    {
+      "added_at": "2024-04-05 16:07:48",
+      "album": {
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/6g3AEpunohq2j4CNSyCYqS"
+      },
+      "artists": [
+        {
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+        },
+        {
+          "name": "MARE",
+          "url": "https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/2tSmQJiBtXPN2Ourf9Q5mv"
+    },
     {
       "added_at": "2024-03-29 14:25:10",
       "album": {

@@ -4,7 +4,7 @@
 
 > Get ready for a full\-body workout
 
-54 songs - 2 hr 52 min
+55 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Baddlan De Kaalje \(From "Chal Mera Putt" Soundtrack\)](https://open.spotify.com/track/4zxFqGMNVDcU6wGSVnveDy) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Baddlan De Kaalje \(From "Chal Mera Putt" Soundtrack\)](https://open.spotify.com/album/0UUv0LvI9q5axEJXTMiNqO) | 3:18 | 2023-06-22 |  |
 | [Birminghamm](https://open.spotify.com/track/1bWlYuEi1vuSEnanONnxKq) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Birminghamm \- Single](https://open.spotify.com/album/6WPhYM5oCb0u0Ydg8TesoR) | 2:22 | 2023-06-22 |  |
 | [Boliyan \- From "Kaake da Viyah"](https://open.spotify.com/track/70SSqFYVzAeWaYEuzNsza0) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Boliyan \(From "Kaake da Viyah"\)](https://open.spotify.com/album/4NOT0DH0n38XbxZpgnMZfs) | 3:24 | 2023-06-22 | 2023-11-19 |
-| [Bulgari](https://open.spotify.com/track/2zkMb6GNsZthtAhOUsO0s0) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Bulgari \- Single](https://open.spotify.com/album/5sr31OK4tlWGEirqlTVBwd) | 3:27 | 2023-06-22 |  |
+| [Bulgari](https://open.spotify.com/track/2zkMb6GNsZthtAhOUsO0s0) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Bulgari \- Single](https://open.spotify.com/album/5sr31OK4tlWGEirqlTVBwd) | 3:27 | 2023-06-22 | 2024-04-06 |
 | [Busy Getting Paid](https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Busy Getting Paid](https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK) | 3:07 | 2023-06-22 |  |
 | [Candle Light](https://open.spotify.com/track/1w5Lsoj4LlUivk3993nzJ3) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c) | [Candle Light](https://open.spotify.com/album/6HvqpwaASSVKk6Mg4swVbn) | 2:38 | 2023-06-22 |  |
 | [Chandigarh](https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf) | [Chandigarh](https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto) | 2:17 | 2023-06-22 |  |
@@ -60,6 +60,7 @@
 | [Thug Life](https://open.spotify.com/track/3UiuBJG8s4euEM6Lqq3aDl) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:30 | 2023-06-22 |  |
 | [Tolla Nachda \(From "Singham"\)](https://open.spotify.com/track/6CsEoVB5MG9AvgNMkHqFk6) | [Goldy Desi Crew](https://open.spotify.com/artist/1aSGpPSoqK592yVQiYfvXP), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Tolla Nachda \(From "Singham"\)](https://open.spotify.com/album/6rzIduVmQzH73iIR2GeNwl) | 3:02 | 2023-06-22 |  |
 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 | 2023-06-22 |  |
+| [Veham](https://open.spotify.com/track/6ib99vHzUNKYLOvdsz45t0) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6) | [Veham](https://open.spotify.com/album/5WKujJU1USgCVXbS1TPvnK) | 2:38 | 2024-04-05 |  |
 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 | 2023-06-22 |  |
 | [Yaari Chandigarh Waliye](https://open.spotify.com/track/2xzuUPOffYMIdOkOG7D0BI) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mitti Da Bawa](https://open.spotify.com/album/0yrvrlpDvPM05MJQyVPKvW) | 3:04 | 2023-06-22 |  |
 

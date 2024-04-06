@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra & Ulises Bueno.
 
-419 songs - 1 day 2 hr 35 min
+420 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Bebe Dame](https://open.spotify.com/track/6BaE9YFxMmXVeo8vm33pdH) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Bebe Dame](https://open.spotify.com/album/5e5fMGbf8nWb0gLok4HZxC) | 2:47 | 2023-04-28 | 2024-02-03 |
 | [Bebé](https://open.spotify.com/track/62fEPchIkRcZYJukmqhLuj) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Bebé](https://open.spotify.com/album/5kp9KP5edbBulAcqClNeLx) | 3:19 | 2021-12-24 | 2022-07-29 |
 | [Beso a beso](https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Hugh Padgham](https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl), [Sergio Oliva](https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM) | [Beso a Beso \(con La Mona\)](https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok) | 5:03 | 2021-12-24 |  |
+| [Buena Vida](https://open.spotify.com/track/4pX3kxNJoNdGRH36OYN6PV) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Buena Vida](https://open.spotify.com/album/0CQ1aqCKrx6aEJGbZnsaJu) | 2:22 | 2024-04-05 |  |
 | [Bésame Bonito \(Cover\) \- En Vivo](https://open.spotify.com/track/59Pu5MCWIYRfF2LSHmtOAc) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Bésame Bonito \(Cover\) \[En Vivo\]](https://open.spotify.com/album/3pjmbJtNGm5Hkk1nvkhQZd) | 3:52 | 2023-01-27 |  |
 | [Cada martes](https://open.spotify.com/track/3Yak6j9IEj9qibjgIUPJHY) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Cada martes](https://open.spotify.com/album/6Q9voKvDeoIne1cEJC8kPR) | 2:38 | 2023-06-21 | 2023-07-29 |
 | [Carne y Hueso](https://open.spotify.com/track/1r1zoTsPGIm20PaY3vkcVn) | [Diego Giannini](https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU) | [Carne y Hueso](https://open.spotify.com/album/79zO4F3krOtJl4NevEku1F) | 3:20 | 2022-07-15 | 2022-09-09 |
@@ -393,7 +394,7 @@
 | [Tu Vas a Volar](https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [A Lo Largo Y A Lo Ancho](https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55) | 3:50 | 2021-12-24 |  |
 | [TU Y YO](https://open.spotify.com/track/5mC5Wby2lTwENYNZuITlwX) | [La Pachanga](https://open.spotify.com/artist/1oexvVCdsajgZN2uxzvngC) | [TU Y YO](https://open.spotify.com/album/4IpzgUYEJGIjxBDVm6N7Uh) | 3:13 | 2023-01-13 | 2023-01-17 |
 | [Tu y Yo](https://open.spotify.com/track/6HmUew7AfyJAV6CujKgN09) | [La Pachanga](https://open.spotify.com/artist/1oexvVCdsajgZN2uxzvngC) | [Tu y Yo](https://open.spotify.com/album/7vIWILcUZgqcMoXBdk1BD0) | 3:13 | 2023-01-13 | 2023-01-18 |
-| [Tututu Tatata](https://open.spotify.com/track/6j6d74YdMpWY2jRGeMzyCs) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Tututu Tatata](https://open.spotify.com/album/18mVwG8HDttyl7uw1YKcRw) | 2:27 | 2023-11-24 |  |
+| [Tututu Tatata](https://open.spotify.com/track/6j6d74YdMpWY2jRGeMzyCs) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Tututu Tatata](https://open.spotify.com/album/18mVwG8HDttyl7uw1YKcRw) | 2:27 | 2023-11-24 | 2024-04-06 |
 | [Tú Eres Ajena](https://open.spotify.com/track/39Bc87Xc5IEGvm4t1od0rm) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Tú Eres Ajena](https://open.spotify.com/album/1ny4UD3E0ZtoxHLBI4CK2b) | 3:44 | 2023-11-24 | 2023-12-14 |
 | [Tú Le Robaste](https://open.spotify.com/track/1LtCzTsY906Ocolgqikh93) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Tú Le Robaste](https://open.spotify.com/album/20n9KSRmtbmFy6m1l91QLp) | 3:56 | 2024-02-23 | 2024-03-01 |
 | [Tú no te Imaginas](https://open.spotify.com/track/6K7ABNdo8uxztJxrBPdmbJ) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [Walter Salinas](https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI) | [Tú no te Imaginas](https://open.spotify.com/album/17HIue6wl9xnB9VLuch9dG) | 2:43 | 2022-05-27 | 2022-06-15 |

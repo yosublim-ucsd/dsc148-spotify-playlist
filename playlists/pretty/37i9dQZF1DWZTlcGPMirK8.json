@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 68192,
+  "num_followers": 68198,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTFiOGQyYWYyMWYzNjNhNDZlMmNmMDgyYjA0NzdmMDBhZDZkYTVl",
+  "snapshot_id": "MCxjZTJhNTk2YmZjMGM2YjYxNmZhN2MyMjczYTRjMzZlMTk5NWM4ZWEz",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -963,18 +963,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Love Monster",
-        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
+        "name": "We Run The Night",
+        "url": "https://open.spotify.com/album/5sXFvaw0RB34LqKvJYQcaI"
       },
       "artists": [
         {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+          "name": "Havana Brown",
+          "url": "https://open.spotify.com/artist/1EVWYRr2obCRDoSoD6KSuM"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 170413,
-      "name": "I Said Hi",
-      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
+      "duration_ms": 228200,
+      "name": "We Run The Night",
+      "url": "https://open.spotify.com/track/0mtPNQl5vePVwiI9Vykp7L"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1011,22 +1015,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "We Run The Night",
-        "url": "https://open.spotify.com/album/5sXFvaw0RB34LqKvJYQcaI"
+        "name": "Love Monster",
+        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
       },
       "artists": [
         {
-          "name": "Havana Brown",
-          "url": "https://open.spotify.com/artist/1EVWYRr2obCRDoSoD6KSuM"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
         }
       ],
-      "duration_ms": 228200,
-      "name": "We Run The Night",
-      "url": "https://open.spotify.com/track/0mtPNQl5vePVwiI9Vykp7L"
+      "duration_ms": 170413,
+      "name": "I Said Hi",
+      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
     },
     {
       "added_at": "2022-04-18 02:03:22",

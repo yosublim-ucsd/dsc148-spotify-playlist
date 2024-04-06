@@ -2,7 +2,7 @@
 
 ### [EQUAL Portugal](https://open.spotify.com/playlist/37i9dQZF1DXa3XvSefBFmb)
 
-> Ouve estas extrarodinárias artistas, como Marisa Liz, com o volume no máximo.
+> Ouve estas extraordinárias artistas, como Marisa Liz, com o volume no máximo.
 
 793 songs - 1 day 19 hr 51 min
 

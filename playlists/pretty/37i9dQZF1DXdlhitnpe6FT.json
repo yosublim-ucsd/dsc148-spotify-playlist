@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 223899,
+  "num_followers": 224060,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWE1MjBlZjQ1NjkzMWNkMWU4MzhjZGZkYTJmZGUzMzc3MmQ2MjEz",
+  "snapshot_id": "MCxmNzY1ZWUzN2UzMjNjMjYxMzBlNWM1MDc1M2ZkMDRiYjRkOTRkNjlm",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 142693,
-      "name": "The Theme from \"A Summer Place\"",
-      "url": "https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "La Legge Dei Gangsters",
         "url": "https://open.spotify.com/album/3j4peilVrbOhAZEIvA3ptr"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 167314,
       "name": "Crepuscolo Sul Mare",
       "url": "https://open.spotify.com/track/3c07yD1n2fRvcD9wY638hg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 142693,
+      "name": "The Theme from \"A Summer Place\"",
+      "url": "https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -871,22 +871,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
-      },
-      "artists": [
-        {
-          "name": "Orchester Anthony Ventura",
-          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
-        }
-      ],
-      "duration_ms": 140573,
-      "name": "Don't Cry for Me, Argentina",
-      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Canciones Inolvidables",
         "url": "https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 220400,
       "name": "Soleado",
       "url": "https://open.spotify.com/track/33D7r5tvQ5bDlzjIdrqUhP"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
+      },
+      "artists": [
+        {
+          "name": "Orchester Anthony Ventura",
+          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
+        }
+      ],
+      "duration_ms": 140573,
+      "name": "Don't Cry for Me, Argentina",
+      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Born Losers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
-      },
-      "artists": [
-        {
-          "name": "The Sidewalk Sounds",
-          "url": "https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60"
-        }
-      ],
-      "duration_ms": 121333,
-      "name": "Billy Jack's Theme",
-      "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Best of Pop Concerto Orchestra",
         "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 156773,
       "name": "Lady Milady",
       "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Born Losers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
+      },
+      "artists": [
+        {
+          "name": "The Sidewalk Sounds",
+          "url": "https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60"
+        }
+      ],
+      "duration_ms": 121333,
+      "name": "Billy Jack's Theme",
+      "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
     },
     {
       "added_at": "2021-12-23 15:47:25",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Sue\u00f1o azul",
-        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
-      },
-      "artists": [
-        {
-          "name": "Robson Miguel y grupo",
-          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "Concierto para una sola voz",
-      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Instrumental History, The Best",
         "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Pablo Beltr\u00e1n Ru\u00edz y Su Orquesta",
-        "url": "https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F"
+        "name": "Sue\u00f1o azul",
+        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
       },
       "artists": [
         {
-          "name": "Pablo Beltran Ruiz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq"
+          "name": "Robson Miguel y grupo",
+          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
         }
       ],
-      "duration_ms": 135613,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg"
+      "duration_ms": 142040,
+      "name": "Concierto para una sola voz",
+      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1271,6 +1255,22 @@
       "duration_ms": 131255,
       "name": "P\u00eddele Al Tiempo Que Vuelva",
       "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Pablo Beltr\u00e1n Ru\u00edz y Su Orquesta",
+        "url": "https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F"
+      },
+      "artists": [
+        {
+          "name": "Pablo Beltran Ruiz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq"
+        }
+      ],
+      "duration_ms": 135613,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg"
     },
     {
       "added_at": "2023-08-10 21:46:24",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Avengers and Other Top Sixties Themes",
-        "url": "https://open.spotify.com/album/1XU7ztjltJ2klhUwFk1z8M"
-      },
-      "artists": [
-        {
-          "name": "Tony Hatch",
-          "url": "https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Memories of Summer",
-      "url": "https://open.spotify.com/track/53d1VYmnh5LUkTG223zjth"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Rain Forest",
         "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "A Regar La Polilla",
-        "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
+        "name": "Avengers and Other Top Sixties Themes",
+        "url": "https://open.spotify.com/album/1XU7ztjltJ2klhUwFk1z8M"
       },
       "artists": [
         {
-          "name": "Gustavo Pimentel",
-          "url": "https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU"
+          "name": "Tony Hatch",
+          "url": "https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj"
         }
       ],
-      "duration_ms": 200411,
-      "name": "Frenesi",
-      "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
+      "duration_ms": 190840,
+      "name": "Memories of Summer",
+      "url": "https://open.spotify.com/track/53d1VYmnh5LUkTG223zjth"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1387,6 +1371,22 @@
       "duration_ms": 233333,
       "name": "Recuerdos De La Alhambra (with The Royal Philharmonic Orchestra)",
       "url": "https://open.spotify.com/track/5fDbDD0sJ8DLzzSzpMKZZL"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "A Regar La Polilla",
+        "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Pimentel",
+          "url": "https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU"
+        }
+      ],
+      "duration_ms": 200411,
+      "name": "Frenesi",
+      "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu"
-      },
-      "artists": [
-        {
-          "name": "The Shadows",
-          "url": "https://open.spotify.com/artist/7n2bs5q3whSUnindQssIGC"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Canciones Inolvidables",
         "url": "https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 189346,
       "name": "Im\u00e1genes",
       "url": "https://open.spotify.com/track/6aRvWvjzsdp5GlNbRr6rRn"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu"
+      },
+      "artists": [
+        {
+          "name": "The Shadows",
+          "url": "https://open.spotify.com/artist/7n2bs5q3whSUnindQssIGC"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Caravelli & His Orchestra",
-        "url": "https://open.spotify.com/album/6fg2yCwbKZ4aCSGAlovkyZ"
-      },
-      "artists": [
-        {
-          "name": "Caravelli",
-          "url": "https://open.spotify.com/artist/4ZELYX7reIsNTmxOWCMcav"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "Over the Rainbow",
-      "url": "https://open.spotify.com/track/68EG7pZ1EvUjp6wbhcItTL"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Wonderland By Night",
         "url": "https://open.spotify.com/album/4NJgRrbHDkPMBMkup98HpB"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 160866,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/2R5uw1Sa7XjU5AcriEeQER"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Caravelli & His Orchestra",
+        "url": "https://open.spotify.com/album/6fg2yCwbKZ4aCSGAlovkyZ"
+      },
+      "artists": [
+        {
+          "name": "Caravelli",
+          "url": "https://open.spotify.com/artist/4ZELYX7reIsNTmxOWCMcav"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/68EG7pZ1EvUjp6wbhcItTL"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Die Zauberwelt der Panfl\u00f6te",
-        "url": "https://open.spotify.com/album/4omSoKmpKlAavCTPIlNYtU"
-      },
-      "artists": [
-        {
-          "name": "Edward Simoni",
-          "url": "https://open.spotify.com/artist/0nCX0OS37qHcF3xP74yRmT"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Gefangenenchor aus \"Nabucco\"",
-      "url": "https://open.spotify.com/track/4FLfAjRMQeNbqgwbdUMja6"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Celebration: A Musical Journey",
         "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 213626,
       "name": "Promise Of A Fisherman (Promessa De Pescador)",
       "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Die Zauberwelt der Panfl\u00f6te",
+        "url": "https://open.spotify.com/album/4omSoKmpKlAavCTPIlNYtU"
+      },
+      "artists": [
+        {
+          "name": "Edward Simoni",
+          "url": "https://open.spotify.com/artist/0nCX0OS37qHcF3xP74yRmT"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Gefangenenchor aus \"Nabucco\"",
+      "url": "https://open.spotify.com/track/4FLfAjRMQeNbqgwbdUMja6"
     },
     {
       "added_at": "2020-12-08 19:02:01",

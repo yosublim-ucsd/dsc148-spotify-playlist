@@ -1823,6 +1823,28 @@
     },
     {
       "album": {
+        "name": "roaming.",
+        "url": "https://open.spotify.com/album/6eLVFuisUwXug4uhRcQosX"
+      },
+      "artists": [
+        {
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
+        },
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "LIFE LOVE LAZY (Feat. CHOILB)",
+      "url": "https://open.spotify.com/track/6elDiM0qVAMqtYa7J4dWNh"
+    },
+    {
+      "album": {
         "name": "Millionaire Poetry",
         "url": "https://open.spotify.com/album/2iqRyGFGVwHsSgKvc6EuDv"
       },
@@ -2440,7 +2462,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 193375,
       "name": "Piss On Me",
       "url": "https://open.spotify.com/track/4GJy4M67insCFuAUhluOza"
@@ -2772,7 +2794,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 191480,
       "name": "SOAP",
       "url": "https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k"
@@ -3186,6 +3208,24 @@
       "duration_ms": 222133,
       "name": "under the ground (feat. Dean)",
       "url": "https://open.spotify.com/track/6EU4Ox9nBAE4BMatsggp8i"
+    },
+    {
+      "album": {
+        "name": "Used To Be",
+        "url": "https://open.spotify.com/album/0fTJlZVOWY9h7hvK7KGH42"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Used To Be",
+      "url": "https://open.spotify.com/track/2lbL9ybEcabfosjaM7tYOr"
     },
     {
       "album": {

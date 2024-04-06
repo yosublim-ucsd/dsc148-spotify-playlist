@@ -4,7 +4,7 @@
 
 > the pearls of an oyster\. Cover: Goldielocks
 
-1,184 songs - 2 day 17 hr 7 min
+1,186 songs - 2 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,8 +111,9 @@
 | [bathroom tears](https://open.spotify.com/track/3GCZrcWQ0DzYA7r02FGyN0) | [Garr](https://open.spotify.com/artist/3EstoZcq6ILPzFbMHvIolA), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [bathroom tears](https://open.spotify.com/album/4RbLs6gCb2N0ho1ftGWbff) | 1:46 | 2023-07-13 | 2023-08-04 |
 | [Be My Summer](https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Be My Summer](https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C) | 3:06 | 2023-07-20 | 2023-09-22 |
 | [Be Somebody](https://open.spotify.com/track/1zN4tWrJ4oGSSCichizR6D) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Be Somebody](https://open.spotify.com/album/5VWx4yKzDD4daztd1gn9D8) | 2:21 | 2023-04-06 | 2023-05-19 |
-| [Beanie](https://open.spotify.com/track/0NOaEisILvRznCAco87cpI) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ) | 2:12 | 2024-03-07 |  |
+| [Beanie](https://open.spotify.com/track/0NOaEisILvRznCAco87cpI) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ) | 2:12 | 2024-03-07 | 2024-04-06 |
 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 | 2024-02-22 | 2024-03-11 |
+| [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2024-04-04 |  |
 | [Beautiful Life](https://open.spotify.com/track/7o0gLCj1uAIkxPtmFx4oFt) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Beautiful Life](https://open.spotify.com/album/5Z2G3UyMU3gboZgTpe0BGL) | 3:56 | 2023-06-22 | 2023-07-07 |
 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 | 2022-10-28 | 2022-11-04 |
 | [Benjamín Carrión](https://open.spotify.com/track/2wJvLzX1W7VQSx0wuTgxCp) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Benjamín Carrión](https://open.spotify.com/album/0UacT2HwlzcN9bnbtqI98k) | 2:57 | 2022-11-10 | 2023-01-27 |
@@ -413,7 +414,8 @@
 | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/track/2afb6GwatIa0DC1u9rd6Fu) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/album/7BIZ9jNR3XG7q6AsNs4z3e) | 2:42 | 2022-10-28 | 2022-11-18 |
 | [ghost house](https://open.spotify.com/track/2qQzFFGQaoJTu7WkVH6H5Q) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [ghost house](https://open.spotify.com/album/2IGVlVjXsvvY4OU5js3jBj) | 3:41 | 2023-06-01 | 2023-08-04 |
 | [Ghost in the Machine \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:38 | 2022-12-15 | 2023-03-18 |
-| [Ghosts](https://open.spotify.com/track/3w6dkcgoHdRrSUlkH0w8T7) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Psykos](https://open.spotify.com/album/3Prj5ncKli5arNTmILU6aV) | 3:00 | 2024-03-14 |  |
+| [Ghosts](https://open.spotify.com/track/3w6dkcgoHdRrSUlkH0w8T7) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Psykos](https://open.spotify.com/album/3Prj5ncKli5arNTmILU6aV) | 3:00 | 2024-03-14 | 2024-04-06 |
+| [Ghosts](https://open.spotify.com/track/7hwDYSEPIrr5GO9Loxuk7E) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Psykos](https://open.spotify.com/album/6aLnXrlksffrrHRb6ktBF9) | 3:00 | 2024-04-04 |  |
 | [Gia](https://open.spotify.com/track/469s8Ekt5RF3IB3uKWSmGO) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Gia](https://open.spotify.com/album/0GAxKrrUvlzxKURCSF9Xfn) | 4:05 | 2023-05-11 | 2023-07-14 |
 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-02-29 | 2024-03-22 |
 | [Give It All You Can](https://open.spotify.com/track/3NP1dSJQ9xZJ0VYBMlu3AE) | [Resa Saffa Park](https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv) | [Give It All You Can](https://open.spotify.com/album/0o9FRmxGGuRg9gAgHbaaRH) | 2:20 | 2022-11-24 | 2022-12-09 |

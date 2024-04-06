@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-175 songs - 11 hr 0 min
+178 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Bumble Bee \(Live\)](https://open.spotify.com/track/4eSv18SwAXoQJF6tPqFIyw) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Live at Brighton Road](https://open.spotify.com/album/4rATgGVN4pPWsmDOFMGywb) | 3:40 | 2020-08-11 | 2022-07-29 |
 | [Bumble Bee \(Live\)](https://open.spotify.com/track/4iS4vGzh365Wg0KutUiWoy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Live at Brighton Road](https://open.spotify.com/album/35HfrF3OsVgByxsWYalUmC) | 3:40 | 2020-08-11 | 2023-04-29 |
 | [Calling Out To You](https://open.spotify.com/track/4NbmBhEdThmGYpiVakws47) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Made Up Mind](https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA) | 3:46 | 2020-08-11 |  |
-| [Castle](https://open.spotify.com/track/2QIbD38FhRqXHOeQC3SiYu) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 3:28 | 2020-08-11 |  |
+| [Castle](https://open.spotify.com/track/1pWuVdXfdxhfhAr1BFYscW) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/5c0pSc8G1C8RciCf7xHvwY) | 3:28 | 2020-08-11 |  |
+| [Castle](https://open.spotify.com/track/2QIbD38FhRqXHOeQC3SiYu) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 3:28 | 2020-08-11 | 2024-04-06 |
 | [Coffee Blues](https://open.spotify.com/track/16GdiwewBf99MhUSVsxUBe) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 3:47 | 2020-08-11 |  |
 | [Cross Creek Road](https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Neckbone Stew](https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb) | 3:01 | 2020-08-11 | 2022-08-20 |
 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 | 2020-08-11 |  |
@@ -147,6 +148,7 @@
 | [See That My Grave Is Kept Clean](https://open.spotify.com/track/7vdcotQVRcTBwNiI4ZFNfz) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Miles To Go](https://open.spotify.com/album/2qYDJzQe2Y0EoV2y4TpVDW) | 3:03 | 2020-08-11 |  |
 | [Seven Hours Of Light](https://open.spotify.com/track/1dsdV2Rjbc69aQKCWvUAjH) | [Otis Taylor](https://open.spotify.com/artist/5Y1mtkFXBCx0dyL93Wt54T) | [Respect the Dead](https://open.spotify.com/album/0ApfREM6XMT4MQpgme6ynU) | 3:35 | 2020-08-11 | 2022-07-29 |
 | [Seven Hours Of Light](https://open.spotify.com/track/67aqYLBHQsN18Y6ifzbXqC) | [Otis Taylor](https://open.spotify.com/artist/5Y1mtkFXBCx0dyL93Wt54T) | [Respect the Dead](https://open.spotify.com/album/6PiyC1fabaZwH9sdnB6nYs) | 3:35 | 2020-08-11 | 2022-07-30 |
+| [Shake Em On Down](https://open.spotify.com/track/0UX2Dnexc2TUxj7bYHZyvV) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hill Country Love](https://open.spotify.com/album/6nziuDYeLmZtW4BdypRzfH) | 2:55 | 2024-04-05 |  |
 | [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 | 2020-08-11 | 2023-03-25 |
 | [Ships in the Night](https://open.spotify.com/track/08pCnq3MdYsbEjubAWBdCt) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Ships in the Night](https://open.spotify.com/album/6m1eIQQFgZx0n5PkM3dKdx) | 3:41 | 2020-08-11 |  |
 | [Should've Learnt My Lesson \- Deuce Album Session / Alternative Acoustic Take / 1971](https://open.spotify.com/track/3TLHIqYpEdtjivr3IN1dMB) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Blues](https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB) | 3:04 | 2020-08-11 |  |
@@ -165,7 +167,8 @@
 | [The World Can Be So Cold](https://open.spotify.com/track/0U1M0MLvbw0ZZQDR2BXELd) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 3:26 | 2021-05-21 |  |
 | [The World Can Be So Cold](https://open.spotify.com/track/1lUN4eNRlpuf3hHJjXf7KG) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [The World Can Be So Cold](https://open.spotify.com/album/7kE0bDyvEtUN1HLK6aHRwC) | 3:26 | 2021-05-21 | 2022-07-29 |
 | [The World Can Be So Cold](https://open.spotify.com/track/5N03Df9IsmsWtHNZbrmTjb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [The World Can Be So Cold](https://open.spotify.com/album/4WA7Zxne8GkMDjnkkZEW1s) | 3:26 | 2021-05-21 | 2022-11-13 |
-| [Thumb a Ride](https://open.spotify.com/track/6FFQ4nIyeXaDYQLb1zFitB) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Thumb a Ride](https://open.spotify.com/album/5RFZCJtz9yiadjhRB5kaof) | 2:53 | 2020-08-11 |  |
+| [Thumb a Ride](https://open.spotify.com/track/16AOTn3W58LmpNA6QG19CE) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Thumb a Ride](https://open.spotify.com/album/1GqL0hJ1WP4C3b52wqOUiF) | 2:53 | 2020-08-11 |  |
+| [Thumb a Ride](https://open.spotify.com/track/6FFQ4nIyeXaDYQLb1zFitB) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Thumb a Ride](https://open.spotify.com/album/5RFZCJtz9yiadjhRB5kaof) | 2:53 | 2020-08-11 | 2024-04-06 |
 | [Turtle Beach](https://open.spotify.com/track/3oXba26C2LfzWFnVXnrunT) | [Eric Von Schmidt](https://open.spotify.com/artist/739hmk6VVud7fbPNmYL7pa) | [2nd Right, 3rd Row](https://open.spotify.com/album/54NcsyWIW9MeKUSqzHCrHW) | 3:53 | 2020-08-11 | 2023-02-18 |
 | [Under His Command](https://open.spotify.com/track/5rO1zJCRkUdypNagJ99Zj0) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mountain](https://open.spotify.com/album/4gcXwCByBlccQEpSRMPPUH) | 3:15 | 2020-08-11 | 2022-05-07 |
 | [Walking Blues](https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Stefan Grossman](https://open.spotify.com/artist/0me2CHAdEKm5MTWHemzRk5) | [Country Blues Guitar](https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO) | 3:45 | 2020-08-11 |  |

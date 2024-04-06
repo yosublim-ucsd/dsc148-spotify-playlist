@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 
 > The sound of summer 2024! Cover: Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,070 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,044 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 | 69 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 |
 | 70 | [Follow You](https://open.spotify.com/track/7M2rD1l5WwqMUXwioGehGD) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Follow You](https://open.spotify.com/album/0dtf2gFUJEFlouA5Yo4fj1) | 2:27 |
 
-Snapshot ID: `MCxkNzczOWNhYzA3YmE4NzA0YjkwYTA1OGIxMjBhYWZkMTY1NWYyZDVj`
+Snapshot ID: `MCxjZDBlYmUxY2YyYTA1NzU0Mjc1OWRiNDM3ZGYwMmFiZmZkMzAxMmI2`

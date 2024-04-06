@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-265 songs - 10 hr 33 min
+266 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Heavenly Peace](https://open.spotify.com/track/6Pyl2jjDC1sUqQoqabdZFv) | [Boyd](https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA), [David S\. Park](https://open.spotify.com/artist/56ktVDec0voYjJtU66J090) | [Heavenly Peace](https://open.spotify.com/album/6lWmnWfVbwHVO60lSz45b8) | 1:28 | 2023-12-17 |  |
 | [Her Blue Eyes](https://open.spotify.com/track/4K8DM0umPafXsYOnQTYWAw) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [Her Blue Eyes](https://open.spotify.com/album/5Nx6GD4bBYEhtkqvsEDdRd) | 2:06 | 2024-02-03 |  |
 | [Home](https://open.spotify.com/track/0iYz3Hv97Pg01fHQhIGTM6) | [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i) | [Home](https://open.spotify.com/album/2HrbVGg6S8khRN1Uwyj9OI) | 1:47 | 2023-10-29 |  |
+| [Home](https://open.spotify.com/track/67iToajMIh32nNilWOTilp) | [Mariposa](https://open.spotify.com/artist/2F7TJTonDywvUL3brkPO7g) | [Home](https://open.spotify.com/album/7mNWCNbHCp12vF2EOXuwQn) | 1:37 | 2024-04-05 |  |
 | [Hope is Not Lost](https://open.spotify.com/track/34Bi6s0sTP6DFR1Iki7M1W) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Gunnar Kemp](https://open.spotify.com/artist/15S1zhM8CFkbicfXEPCT05), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Hope is Not Lost](https://open.spotify.com/album/3UFH0kyg0WpzA2jJouk8ZP) | 1:41 | 2023-10-29 |  |
 | [hopes and dreams](https://open.spotify.com/track/4hXWldGSiSSOruDiLC2lBN) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [hopes and dreams](https://open.spotify.com/album/6XE3q3xNa3wKpFdK0RXmcz) | 2:08 | 2023-10-29 |  |
 | [Horizon](https://open.spotify.com/track/5cyDDOI8VTNwruABo72u1U) | [Eskricke](https://open.spotify.com/artist/1KOUwp1r17iEdhFuYeXaIt) | [Horizon](https://open.spotify.com/album/1VjMZ7Zq9fn4wJlm63hwHe) | 2:18 | 2023-10-29 |  |

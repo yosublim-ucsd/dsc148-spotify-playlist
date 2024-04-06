@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 2201322,
+  "2024-04-06": 2201428,
   "date_first_scraped": "2019-05-26",
   "description": "The original chill instrumental beats playlist.",
   "name": "Jazz Vibes",
@@ -359,7 +359,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 217142,
       "name": "257",
       "url": "https://open.spotify.com/track/6Zv0ZBfBNB91SNHafArGAO"
@@ -2623,7 +2623,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 129076,
       "name": "All Talk No Action",
       "url": "https://open.spotify.com/track/5ShVdYyLbc0Ngok4pJrYRp"
@@ -8735,7 +8735,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 118600,
       "name": "Boulevard of Memories",
       "url": "https://open.spotify.com/track/6CPe1DbBkKPf3L6Te7inKO"
@@ -10227,7 +10227,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 118786,
       "name": "By Now",
       "url": "https://open.spotify.com/track/79UDoyTgfs7s3FTWQ0Iir3"
@@ -16301,6 +16301,24 @@
     {
       "album": {
         "name": "Daydream",
+        "url": "https://open.spotify.com/album/3cdtSGa7DR63Nz0EPMSgC6"
+      },
+      "artists": [
+        {
+          "name": "Josa",
+          "url": "https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/2MR7gvjhbeUGBWaNhBDnGI"
+    },
+    {
+      "album": {
+        "name": "Daydream",
         "url": "https://open.spotify.com/album/4WhM6lk3jXPXHrWdeTl1c2"
       },
       "artists": [
@@ -18037,7 +18055,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 144000,
       "name": "Don't Lie to Me",
       "url": "https://open.spotify.com/track/20fFyaiDFwCp4f0FjTZOc4"
@@ -28843,7 +28861,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 138857,
       "name": "Hazey",
       "url": "https://open.spotify.com/track/2rDxQ4QksLeOwwelctmOLE"
@@ -29325,6 +29343,28 @@
       "duration_ms": 113618,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/3ko8fiPX0re8ZLhferPvLy"
+    },
+    {
+      "album": {
+        "name": "Here to stay",
+        "url": "https://open.spotify.com/album/46rlQB8IJuS6XorgbAMkrn"
+      },
+      "artists": [
+        {
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+        },
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Here To Stay",
+      "url": "https://open.spotify.com/track/2yTFjaAqnVjuuVfiboDlyo"
     },
     {
       "album": {
@@ -35011,7 +35051,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 131294,
       "name": "Joshua aime les myrtilles",
       "url": "https://open.spotify.com/track/2KUR6TQJ2aCQf6BNZytUoW"
@@ -38039,7 +38079,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 176271,
       "name": "Le Prince De Paname",
       "url": "https://open.spotify.com/track/6weGcJuZQa1diJnTbjjMmV"
@@ -44753,7 +44793,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 120375,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/77UeG2VBKxUvOsFAjMJvDz"
@@ -47965,7 +48005,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 88421,
       "name": "New Sneakers",
       "url": "https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg"
@@ -52333,7 +52373,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 103043,
       "name": "P_Optimist",
       "url": "https://open.spotify.com/track/02MFno0s2lpD3rycI7cllL"
@@ -61475,7 +61515,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 186389,
       "name": "She Is One Of A Kind Pt. III",
       "url": "https://open.spotify.com/track/0yq1K68w2o6q67XLkaG45Z"
@@ -61711,7 +61751,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Short Nap",
       "url": "https://open.spotify.com/track/3wpsrPokpTVnWF96tKhiVz"
@@ -68271,7 +68311,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 138214,
       "name": "sunflower",
       "url": "https://open.spotify.com/track/4pmoV05KcsSw2JnGgTxVea"
@@ -73051,7 +73091,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 126451,
       "name": "Tiptoes",
       "url": "https://open.spotify.com/track/71vjpbJNssg9VHQdwIa7O1"
@@ -80909,6 +80949,24 @@
       "duration_ms": 127228,
       "name": "Yama",
       "url": "https://open.spotify.com/track/2t3rjRGEcoN7OG9Dc0CBfy"
+    },
+    {
+      "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/3ZSbErqGOs5yfOjXzDrKhn"
+      },
+      "artists": [
+        {
+          "name": "paris91",
+          "url": "https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105789,
+      "name": "Yard",
+      "url": "https://open.spotify.com/track/7uI9pFWk4XEOzd11mU8iF5"
     },
     {
       "album": {

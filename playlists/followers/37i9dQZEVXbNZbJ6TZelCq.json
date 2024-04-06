@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 32818,
+  "2024-04-06": 32834,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Romania.",
   "name": "Top 50 - Romania",
@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 176699,
       "name": "60 De Zile",
       "url": "https://open.spotify.com/track/6sOyrZvYjDeZ781vZomWXT"
@@ -8429,7 +8429,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 148238,
       "name": "Ebal - From \u201cRomina VTM\u201d The Movie",
       "url": "https://open.spotify.com/track/4vc40DbwS0XjindGtlZkwq"
@@ -9441,7 +9441,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 170400,
       "name": "Femei \u00een Parlament",
       "url": "https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6"
@@ -11695,7 +11695,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 165882,
       "name": "Havana",
       "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
@@ -28342,6 +28342,24 @@
     },
     {
       "album": {
+        "name": "TOTU' GATA",
+        "url": "https://open.spotify.com/album/1Iac2x798M2tkOXsKHa8eZ"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127976,
+      "name": "TOTU' GATA",
+      "url": "https://open.spotify.com/track/52KHk29WdiA2DhI5ijDMZh"
+    },
+    {
+      "album": {
         "name": "Totul meu",
         "url": "https://open.spotify.com/album/5GyH4MjNEXW8WpTvBJGws7"
       },
@@ -28357,7 +28375,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 144800,
       "name": "Totul meu",
       "url": "https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp"

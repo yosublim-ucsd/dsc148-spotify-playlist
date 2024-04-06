@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "andale",
+        "url": "https://open.spotify.com/album/7dtZvyBAw1Tg1FbsKh6a5C"
+      },
+      "artists": [
+        {
+          "name": "josh pan",
+          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185669,
+      "name": "andale",
+      "url": "https://open.spotify.com/track/6knkWNw6xJA1AMKqtMBd29"
+    },
+    {
+      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/4DM2CQxwKHr0JngDDJHPbs"
       },
@@ -1268,7 +1286,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 175969,
       "name": "Bassline Rumble",
       "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
@@ -3114,6 +3132,24 @@
       "duration_ms": 234330,
       "name": "Dancerteria",
       "url": "https://open.spotify.com/track/0LVOxIv7HB4y9llCuUUObS"
+    },
+    {
+      "album": {
+        "name": "Wildlife",
+        "url": "https://open.spotify.com/album/1GRBbMdSctADD6Z0BukCPA"
+      },
+      "artists": [
+        {
+          "name": "Honey & Badger",
+          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/60a6JZEXhjHGXrCgaejEhs"
     },
     {
       "album": {
@@ -5561,6 +5597,24 @@
     },
     {
       "album": {
+        "name": "Gonna Get Back",
+        "url": "https://open.spotify.com/album/48Wz6otqb3iJoVSv03AjXQ"
+      },
+      "artists": [
+        {
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Gonna Get Back",
+      "url": "https://open.spotify.com/track/62aIjxgjsYc4sYBiXzdTTC"
+    },
+    {
+      "album": {
         "name": "Gonna Make That Money",
         "url": "https://open.spotify.com/album/4B0fm5p2ltBYtQVHyAB0Ie"
       },
@@ -6626,7 +6680,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 155520,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
@@ -7316,7 +7370,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 217604,
       "name": "LEFT TO RIGHT - Space Laces Remix",
       "url": "https://open.spotify.com/track/7pcmP5rRN9w145LcpOw9vx"
@@ -8628,7 +8682,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 249523,
       "name": "My Pieces",
       "url": "https://open.spotify.com/track/6MaL9WbKfAgPW9jxmat3ju"
@@ -8890,6 +8944,28 @@
       "duration_ms": 156190,
       "name": "Nightbird",
       "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
+    },
+    {
+      "album": {
+        "name": "NIGHTMARE",
+        "url": "https://open.spotify.com/album/0ckQr4EULt42qIQXxf0N7q"
+      },
+      "artists": [
+        {
+          "name": "Cody Ko",
+          "url": "https://open.spotify.com/artist/51etCwhy3kaQLY5Tj06PW5"
+        },
+        {
+          "name": "Young Nut",
+          "url": "https://open.spotify.com/artist/6Qup2N8UoK6Tn3R8V1HSHC"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159241,
+      "name": "NIGHTMARE",
+      "url": "https://open.spotify.com/track/3II25HAiRQ5dGlcFYpVrHy"
     },
     {
       "album": {
@@ -10978,7 +11054,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 160250,
       "name": "Roll Deep",
       "url": "https://open.spotify.com/track/0aM9pyp7B9aCcuhac1Rmov"
@@ -11164,6 +11240,32 @@
       "duration_ms": 144821,
       "name": "Safari",
       "url": "https://open.spotify.com/track/25wmVH3ytIFnKBDSFUIdxu"
+    },
+    {
+      "album": {
+        "name": "Sara Thing EP",
+        "url": "https://open.spotify.com/album/2W8E3fxu1UA3mMMcBRYfXw"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        },
+        {
+          "name": "zuezeu",
+          "url": "https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ"
+        },
+        {
+          "name": "James Cole",
+          "url": "https://open.spotify.com/artist/1SoAmGFpq2szcIOMpnkQkb"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140624,
+      "name": "Sara Tonin feat. James Cole",
+      "url": "https://open.spotify.com/track/2d1J4wehBvmheclNCk5ts5"
     },
     {
       "album": {
@@ -12740,7 +12842,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 255360,
       "name": "The Freaks",
       "url": "https://open.spotify.com/track/4NoJpQvvjVJ2m8S72eIDaF"
@@ -13715,6 +13817,24 @@
     },
     {
       "album": {
+        "name": "WARP",
+        "url": "https://open.spotify.com/album/0VIzRQd6H9iINS3VeRojqC"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155439,
+      "name": "WARP",
+      "url": "https://open.spotify.com/track/4TJS6YjBbM3P5HFa9Ipg0k"
+    },
+    {
+      "album": {
         "name": "Wat U Want",
         "url": "https://open.spotify.com/album/6i0zG01d98dJPcq6EuFNoi"
       },
@@ -14165,6 +14285,28 @@
     },
     {
       "album": {
+        "name": "Whole Lotta Drugs / Over The Edge",
+        "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208550,
+      "name": "Whole Lotta Drugs",
+      "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
+    },
+    {
+      "album": {
         "name": "Wish He Knew",
         "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
       },
@@ -14442,7 +14584,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 131250,
       "name": "You're All Drunk",
       "url": "https://open.spotify.com/track/53I9ct5lkkNHUDZqsOnlbb"

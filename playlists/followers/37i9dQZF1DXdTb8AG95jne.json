@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 465550,
+  "2024-04-06": 465592,
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Choi Jungyoon(\ucd5c\uc815\uc724)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: dosii(\ub3c4\uc2dc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -1631,6 +1631,24 @@
       "duration_ms": 247318,
       "name": "chocolate trip",
       "url": "https://open.spotify.com/track/0ol6tWu3kZ00ayldBNA0fp"
+    },
+    {
+      "album": {
+        "name": "Chum",
+        "url": "https://open.spotify.com/album/6m36ppwpEQmoLRmvdgBBDh"
+      },
+      "artists": [
+        {
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225160,
+      "name": "Chum",
+      "url": "https://open.spotify.com/track/1hJ2GU2nVI8Rwl5ID2HkST"
     },
     {
       "album": {
@@ -3767,7 +3785,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 199420,
       "name": "Hard to say goodbye",
       "url": "https://open.spotify.com/track/2U7OKfz4JsIQNJo3LuJBiV"

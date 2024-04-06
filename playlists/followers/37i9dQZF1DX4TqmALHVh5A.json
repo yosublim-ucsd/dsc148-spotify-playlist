@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 44489,
+  "2024-04-06": 44501,
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Luther",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Juniore",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -129,7 +129,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 164534,
       "name": "Allo docteur",
       "url": "https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn"
@@ -406,6 +406,24 @@
     },
     {
       "album": {
+        "name": "Calme-toi bouge tes genoux",
+        "url": "https://open.spotify.com/album/4DpOlFFpUpEZj5ODQu48Ba"
+      },
+      "artists": [
+        {
+          "name": "Ast\u00e9r\u00e9otypie",
+          "url": "https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189059,
+      "name": "Calme-toi bouge tes genoux",
+      "url": "https://open.spotify.com/track/5YOjTNyz3YvHeGEbDYiCSB"
+    },
+    {
+      "album": {
         "name": "Lavender",
         "url": "https://open.spotify.com/album/4nCf0hlINNS0mF6LeK0Cmh"
       },
@@ -507,7 +525,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 192426,
       "name": "Chrom\u00e9 total",
       "url": "https://open.spotify.com/track/732rPfESdrlQjJoeqtSOgm"
@@ -835,7 +853,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 238554,
       "name": "Gare \u00e0 la nuit",
       "url": "https://open.spotify.com/track/4G6dlO9xjCklF062LILK7J"
@@ -1354,6 +1372,24 @@
     },
     {
       "album": {
+        "name": "Le silence",
+        "url": "https://open.spotify.com/album/3t6o8bS45YQGnLC5xH3DNU"
+      },
+      "artists": [
+        {
+          "name": "Juniore",
+          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205697,
+      "name": "Le silence",
+      "url": "https://open.spotify.com/track/2HxU432YufOpu8qaJIed2P"
+    },
+    {
+      "album": {
         "name": "Le soleil",
         "url": "https://open.spotify.com/album/6YLBbcCJyHaH8XhQOYr3R8"
       },
@@ -1841,6 +1877,24 @@
       "duration_ms": 184866,
       "name": "Presque un secret",
       "url": "https://open.spotify.com/track/5Xsu89IWIRc3s3WCP4o69p"
+    },
+    {
+      "album": {
+        "name": "Primitivism",
+        "url": "https://open.spotify.com/album/3TO0lDkNsERv08EJlIYmFj"
+      },
+      "artists": [
+        {
+          "name": "The Limi\u00f1anas",
+          "url": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214951,
+      "name": "Primitivism",
+      "url": "https://open.spotify.com/track/6xs3GzoTKtL0f8iYx70BpZ"
     },
     {
       "album": {

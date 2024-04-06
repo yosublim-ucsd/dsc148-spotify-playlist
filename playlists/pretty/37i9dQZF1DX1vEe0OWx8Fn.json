@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 84652,
+  "num_followers": 84685,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjZlODUwYzZkZmJmOGIyZjNiZWI5ZDNhNzAyZDM4MDEwZjRlMGNi",
+  "snapshot_id": "MCxkZmQ5ZjY0N2RmMzY4NGE0ZjQxMzZhNThjNzNmZTYyNDI4ZGFiNDQ1",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
     },
     {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 133678,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
-    },
-    {
       "added_at": "2022-12-08 13:00:09",
       "album": {
         "name": "Backtrack",
@@ -455,6 +439,22 @@
       "duration_ms": 158840,
       "name": "Backtrack",
       "url": "https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 133678,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "drivers license",
-        "url": "https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT"
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/6af3Z9vEogmAowqE0JOIFj"
       },
       "artists": [
         {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
         }
       ],
-      "duration_ms": 237643,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5"
+      "duration_ms": 122998,
+      "name": "Knife Under My Pillow",
+      "url": "https://open.spotify.com/track/3sFW3Wru7nPZkhf4BDTXUf"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -627,18 +627,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "PARANOIA",
-        "url": "https://open.spotify.com/album/6af3Z9vEogmAowqE0JOIFj"
+        "name": "drivers license",
+        "url": "https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT"
       },
       "artists": [
         {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 122998,
-      "name": "Knife Under My Pillow",
-      "url": "https://open.spotify.com/track/3sFW3Wru7nPZkhf4BDTXUf"
+      "duration_ms": 237643,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5"
     },
     {
       "added_at": "2023-05-25 23:00:00",

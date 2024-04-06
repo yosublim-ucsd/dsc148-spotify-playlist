@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 1465755,
+  "2024-04-06": 1466121,
   "date_first_scraped": "2021-12-21",
   "description": "Calm your mind from anxiety with gentle piano and ambient music.",
   "name": "Stress Relief",
@@ -1504,6 +1504,24 @@
     },
     {
       "album": {
+        "name": "Dissolving Time",
+        "url": "https://open.spotify.com/album/1bIiVGTU5hdgf4Vayg6hDE"
+      },
+      "artists": [
+        {
+          "name": "AstroAether",
+          "url": "https://open.spotify.com/artist/1Sy04vJvcc5VSae7QTvFUn"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215336,
+      "name": "Dissolving Time",
+      "url": "https://open.spotify.com/track/58YojDjLFFl3IddgvBwgNp"
+    },
+    {
+      "album": {
         "name": "Traveling Windows",
         "url": "https://open.spotify.com/album/4C9ugRx6etBU29t5694z7m"
       },
@@ -1609,6 +1627,24 @@
       "duration_ms": 182790,
       "name": "Dreams Come True",
       "url": "https://open.spotify.com/track/1eUZnVvwrOptdKQ8vvi3Yh"
+    },
+    {
+      "album": {
+        "name": "Dreamscape",
+        "url": "https://open.spotify.com/album/1nMPLdB4OioygZidt9pCXh"
+      },
+      "artists": [
+        {
+          "name": "Complete Rest",
+          "url": "https://open.spotify.com/artist/2O9ViMiZbzgVQqngtC9nZ1"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157894,
+      "name": "Dreamscape",
+      "url": "https://open.spotify.com/track/6StRiiVVTQnQjlkDMH2uI0"
     },
     {
       "album": {
@@ -4334,6 +4370,24 @@
     },
     {
       "album": {
+        "name": "Oasis of Stillness",
+        "url": "https://open.spotify.com/album/1sx8HA77okp1MVy45u6vkR"
+      },
+      "artists": [
+        {
+          "name": "Saga Lotus",
+          "url": "https://open.spotify.com/artist/5RwXzQeQAqiSEcXHxmhFn9"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Oasis of Stillness",
+      "url": "https://open.spotify.com/track/1CPN7WGamNNxLhZTJVlW89"
+    },
+    {
+      "album": {
         "name": "Old Faro",
         "url": "https://open.spotify.com/album/2dQXdC3Npo8WFidjSikHpH"
       },
@@ -5843,6 +5897,24 @@
       "duration_ms": 152000,
       "name": "Star Light",
       "url": "https://open.spotify.com/track/2z3jtBK8vqwNIVQpN3lO78"
+    },
+    {
+      "album": {
+        "name": "Star Nebula",
+        "url": "https://open.spotify.com/album/1sovGNMgI8ii8qiNxGthjp"
+      },
+      "artists": [
+        {
+          "name": "Ayala Cola",
+          "url": "https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Star Nebula",
+      "url": "https://open.spotify.com/track/2Xf3Bgs0YghPmBITagkKyz"
     },
     {
       "album": {

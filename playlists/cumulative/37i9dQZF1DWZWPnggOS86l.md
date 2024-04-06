@@ -4,7 +4,7 @@
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-69 songs - 4 hr 3 min
+70 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,10 +42,11 @@
 | [Embedded Needs](https://open.spotify.com/track/20h2ad5YtElrLw3oS6BYFV) | [Garage Fuzz](https://open.spotify.com/artist/5CxFdJDDcUDl0oa0DjrqJs) | [Comfortable Moments](https://open.spotify.com/album/5ssNcQbbj40yEBx3PDb8QL) | 3:46 | 2023-03-02 |  |
 | [Entre o Caos e a \(R\)Evolução](https://open.spotify.com/track/6ct49JoiM1g6akHiSuxXmH) | [Black Days](https://open.spotify.com/artist/4KbbbUQ9pZU363ykioVFB0) | [Entre o Caos e a \(R\)Evolução](https://open.spotify.com/album/7CTNki9wsXtQGnnrMt88uX) | 4:46 | 2023-03-02 |  |
 | [Frio](https://open.spotify.com/track/1nmbGvznG5eK87587Ds0dN) | [Vowe](https://open.spotify.com/artist/0mJuCrQOXP4OBV2D6noZ34) | [Nossa Verdade](https://open.spotify.com/album/4OMojP2UtYT3EetynC47Z7) | 3:18 | 2023-03-02 |  |
+| [Fé Acesa \(Ao Vivo em Porto Alegre\)](https://open.spotify.com/track/2ZnyuuRN6tKBieIaQCM1U1) | [Restart](https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T) | [Fé Acesa \(Ao Vivo em Porto Alegre\)](https://open.spotify.com/album/29OIhsHot6kaFaYcbmDq6U) | 3:15 | 2024-04-05 |  |
 | [Hidropônica](https://open.spotify.com/track/41cfAAqVwiPDtiaqkbHJOB) | [Forfun](https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g) | [Ao Vivo No Circo Voador](https://open.spotify.com/album/1rDTkwnb3Md7D8hF7sXEK8) | 3:13 | 2023-03-02 |  |
 | [História de Verão \- Demo](https://open.spotify.com/track/2hwGEeCOUbK9hJn1p7TGt5) | [Forfun](https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g) | [Das Pistas de Skate Às Pistas de Dança \(Demo\)](https://open.spotify.com/album/5vE6uxkDh6extaOJDFyftR) | 3:16 | 2023-03-02 |  |
 | [Horizontes \(feat\. Lucas Silveira\)](https://open.spotify.com/track/2fNMkohK8dGXFxzfQx5M9c) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [\(Re\)Nascido](https://open.spotify.com/album/6KIYqiZRJVFHMNs3bVJJve) | 4:42 | 2023-03-02 |  |
-| [I Never Fell in Love](https://open.spotify.com/track/6558zhXVNbanGgTTPnUU5s) | [Wacky Kids](https://open.spotify.com/artist/6HhtUddZ2YS2ZXbrpeq9Dq) | [Wacky Generation](https://open.spotify.com/album/74gM8jdFi4osw9ExxoZt41) | 2:38 | 2023-03-02 |  |
+| [I Never Fell in Love](https://open.spotify.com/track/6558zhXVNbanGgTTPnUU5s) | [Wacky Kids](https://open.spotify.com/artist/6HhtUddZ2YS2ZXbrpeq9Dq) | [Wacky Generation](https://open.spotify.com/album/74gM8jdFi4osw9ExxoZt41) | 2:38 | 2023-03-02 | 2024-04-06 |
 | [Janeiro](https://open.spotify.com/track/1V07iU8eJLtwfmWOx5W2Md) | [Sugar Kane](https://open.spotify.com/artist/2TbBb2QPTrPEbQ6yacOc7K) | [Continuidade da Máquina](https://open.spotify.com/album/4eV6Sz1w6sKCiGDZByAwnK) | 3:06 | 2023-03-02 |  |
 | [Jeito Livre](https://open.spotify.com/track/31Wi4Vskn51YPzt7YQvXmp) | [Rancore](https://open.spotify.com/artist/3KR4M3bAqWbADfTTDdfMDM) | [Seiva](https://open.spotify.com/album/0wLxnVN8wo9vAC0w28m4Mz) | 3:45 | 2023-03-02 |  |
 | [Lembrar Me Faz Sofrer](https://open.spotify.com/track/6gibLc856RW7O3bL8gcENe) | [Display](https://open.spotify.com/artist/6wK3QnC206lJhV7QtC352T) | [Um Dia Pra Sonhar](https://open.spotify.com/album/3RCvS7nvwuIm7CszP8P7A7) | 2:48 | 2023-03-02 |  |

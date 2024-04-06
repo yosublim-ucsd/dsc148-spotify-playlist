@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-595 songs - 1 day 9 hr 25 min
+597 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Talk \(with Royal & the Serpent\)](https://open.spotify.com/track/0DnA3UhB37Iaq1XwnZwbIZ) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [To Believe \- EP](https://open.spotify.com/album/54meck8D5fOrFRuPTGmXG9) | 3:12 | 2022-06-24 | 2023-01-30 |
 | [Talk To Me](https://open.spotify.com/track/35Us9HQPF88aiWQkR3sG3G) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Talk To Me](https://open.spotify.com/album/57ikyQgMgUUyDQde2uz861) | 3:32 | 2024-02-20 |  |
 | [Tear It to Pieces](https://open.spotify.com/track/1YTuRRXO1J0u2CLngDnlP9) | [Nightly Gatherings](https://open.spotify.com/artist/0e7vmFNTfVsnRr3Laaw4FI) | [Tear It to Pieces](https://open.spotify.com/album/2GkG5QTPZJYNWc2wNVhE8w) | 2:55 | 2023-06-20 |  |
+| [Tear Me Down](https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Tear Me Down](https://open.spotify.com/album/6EWDO4bXbu0d42rmm4ohGW) | 3:05 | 2024-04-06 |  |
 | [TEAR ME UP](https://open.spotify.com/track/5Jsc4Z9MkLB6tfjpByhQzR) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [TEAR ME UP](https://open.spotify.com/album/5uhWQVC6tunHHBBrZD93Xa) | 2:57 | 2022-10-10 |  |
 | [Tears '06](https://open.spotify.com/track/363StpInH8eU79r1ZEmn2F) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Tears '06](https://open.spotify.com/album/3iT6LycWhaHIsb9dslPOtK) | 4:38 | 2022-02-28 | 2022-03-31 |
 | [tellmewhatuwant](https://open.spotify.com/track/2i7zSl7A1kFXVAygESTsDt) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [tellmewhatuwant](https://open.spotify.com/album/6VlPTrrwFR2Z6sEnT9YIMR) | 3:13 | 2022-01-21 | 2022-02-16 |
@@ -562,6 +563,7 @@
 | [Violet](https://open.spotify.com/track/5VLggkhHW1zKYE8uYCPW5D) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Violet](https://open.spotify.com/album/13lB6cbUQUfr2lZkwYJxTk) | 2:43 | 2023-01-20 | 2024-03-23 |
 | [Visions \- SUN/MGNETK Remix](https://open.spotify.com/track/1a40njhjzTInmBNuctG47K) | [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh), [SUN/MGNETK](https://open.spotify.com/artist/5uQ7vzfqVBvCALRIWehL1Y) | [Visions \(SUN/MGNETK Remix\)](https://open.spotify.com/album/5eHvlXvZBrxxU66x8TyKdx) | 2:35 | 2022-03-10 | 2022-03-31 |
 | [void](https://open.spotify.com/track/09RZdc0aGQIj2zyb533nT1) | [VILLA](https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS), [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 3:18 | 2022-09-02 | 2023-07-20 |
+| [Waited 4 U \- Phantoms Remix](https://open.spotify.com/track/4lcZem7ukoYTe16y5Egcrc) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw) | [Waited 4 U \(Phantoms Remix\)](https://open.spotify.com/album/2s0RcgrVDUmIvH74NkvnBl) | 4:58 | 2024-04-05 |  |
 | [Waiting](https://open.spotify.com/track/3q27PHvmQDV2BURl1QaTte) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK) | [Waiting](https://open.spotify.com/album/5Zg9VxMehF1QbCRD2yMESc) | 5:01 | 2023-09-18 | 2023-10-06 |
 | [Waiting...](https://open.spotify.com/track/2RvaQGoRf0aGCrzzITBqpE) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Waiting...](https://open.spotify.com/album/5Tw9rBaxeaAOT5AYisGu9o) | 3:41 | 2023-07-20 |  |
 | [Walls](https://open.spotify.com/track/2jIpk8hOXu0jJsEcAfFx5w) | [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97), [Goodknight.](https://open.spotify.com/artist/2OpbISbq4KfXhSvaDQrUdM) | [Reflections EP](https://open.spotify.com/album/4EomYX70Kjrvf2tUH2L9zR) | 3:30 | 2024-03-22 |  |

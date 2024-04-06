@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > 經得起時間考驗嘅歌曲，無論新版、舊歌一樣好聽！
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,717 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,716 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 59 | [愛是.....](https://open.spotify.com/track/3h8gXeNOawPxOp78OIP5ka) | [Qiu Hong](https://open.spotify.com/artist/6ai1TRHwDWWZ71PoNljoTq) | [LMFXXYEARFEST](https://open.spotify.com/album/4xb2VaWVJCC5da4ZEEmHeb) | 3:27 |
 | 60 | [給自己的信](https://open.spotify.com/track/0Tmkb2BB7M6Jxugz2yHZCU) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [C AllLive 2012](https://open.spotify.com/album/6rvPe6eKm2V6YVw3GzJWAj) | 4:33 |
 
-Snapshot ID: `MCw5OTgwNGExNDc0ZWRmNWI5ODc3YWYzZWFhZWU1ZDcyMjNhMDhlNTcz`
+Snapshot ID: `MCw0ZjdjNTIyYjg5MGVhMTVjYjYwZmYxZjI2NDg3Y2JkYzE4ZjNmYTc1`

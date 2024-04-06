@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 132300,
+  "num_followers": 132329,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTI2MThjZTRiOTkxZmZmMzgyNTY5NDFmZDIyMWNhMThmYjRmYzA4",
+  "snapshot_id": "MCw3NjFlZjdmYzk3MWM0YzcyNTU4ZjZmNWZkYWVkMjJmNTVkYTRhMWU5",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Selma Songs",
+        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 329360,
+      "name": "I\u2019ve Seen It All",
+      "url": "https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ovule (feat. Shygirl) [Sega Bodega Remix]",
         "url": "https://open.spotify.com/album/45HMht7xfaJqcFgS3o6g1m"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 224827,
       "name": "Ovule (feat. Shygirl) [Sega Bodega Remix]",
       "url": "https://open.spotify.com/track/2WMS4GaMShMxX5yl7VVFK0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Selma Songs",
-        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 329360,
-      "name": "I\u2019ve Seen It All",
-      "url": "https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 136360,
-      "name": "Beautiful Mother",
-      "url": "https://open.spotify.com/track/3shbvAgUyh9nhJa53JN8mB"
+      "duration_ms": 168000,
+      "name": "Sharing Orb",
+      "url": "https://open.spotify.com/track/1M4euFTqRYW2xTLhqYGC0C"
     },
     {
       "added_at": null,
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Sharing Orb",
-      "url": "https://open.spotify.com/track/1M4euFTqRYW2xTLhqYGC0C"
+      "duration_ms": 136360,
+      "name": "Beautiful Mother",
+      "url": "https://open.spotify.com/track/3shbvAgUyh9nhJa53JN8mB"
     }
   ],
   "unique_name": "This Is Bj\u00f6rk",

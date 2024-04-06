@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Azzy
 
-179 songs - 7 hr 57 min
+180 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Força Feminina](https://open.spotify.com/track/5YAeh6eIl9MoTOvLF2k2WZ) | [DeaaZ](https://open.spotify.com/artist/6qwsKQVKf0xfhUYBObyfQc), [AmandesNoBeat](https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6) | [Histórias Primas](https://open.spotify.com/album/5ymgayaqTQxiUOJ7kOHlSC) | 3:04 | 2022-04-22 | 2022-09-03 |
 | [Futuro](https://open.spotify.com/track/0JqeNZ9naWlaojoueuwBQg) | [Mc Lucy](https://open.spotify.com/artist/44bzWn6GQs6zVXvnYtqIMa), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c) | [Poder](https://open.spotify.com/album/2Avjohr3TQNOdMaCbw3dOd) | 2:23 | 2022-03-18 |  |
 | [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 | 2023-07-28 |  |
-| [Fôlego](https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Fôlego](https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s) | 2:46 | 2023-09-22 |  |
+| [Fôlego](https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Fôlego](https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s) | 2:46 | 2023-09-22 | 2024-04-06 |
 | [Garota Califórnia](https://open.spotify.com/track/3qVGrdhoNv3xzpga0B8I6S) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Garota California](https://open.spotify.com/album/6tkNx1oadbWZLzYr3kH1Tk) | 3:06 | 2022-06-24 |  |
 | [geada](https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [geada](https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5) | 2:34 | 2022-03-18 |  |
 | [Girassol](https://open.spotify.com/track/26comn1fbkVTg3HuuYU4w3) | [A's Trinca](https://open.spotify.com/artist/1RqfTOSGUR86C7KuDaoU9I) | [Girassol](https://open.spotify.com/album/7poqNacyVe3hPkzyPtugdD) | 2:26 | 2023-01-06 | 2023-02-23 |
@@ -182,6 +182,7 @@
 | [Tô Um Nojo](https://open.spotify.com/track/5z6ndjKq0MRBT4TBiDA382) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Tô Um Nojo](https://open.spotify.com/album/2hMkMV1A949CKqeDbAqAwR) | 1:54 | 2022-03-18 | 2022-10-01 |
 | [Tron](https://open.spotify.com/track/7ysqztAgIpzfdkxGbJVma2) | [Brenda Minni](https://open.spotify.com/artist/4ghtdtCtMlEmNyyTP9bSN9), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Tron](https://open.spotify.com/album/7mk2g6xbRbTy1nt8DAItea) | 2:37 | 2022-09-02 |  |
 | [Tukikis](https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Tukikis](https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n) | 2:54 | 2022-10-14 |  |
+| [Vida Vazia](https://open.spotify.com/track/57VPuGAJvHQtHZfToZOMMI) | [Lu Bauer](https://open.spotify.com/artist/4c8moNfS5RJsBAJFeAJwPR) | [Vida Vazia](https://open.spotify.com/album/5BR38rbe5SOBtLNdlEL2D8) | 2:32 | 2024-04-05 |  |
 | [Vingativa](https://open.spotify.com/track/5sYtsBdGz8TeFYxERi2QTe) | [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Futuro II Dia](https://open.spotify.com/album/6ZIGGpDGt3wkgHtEgmBE1a) | 3:12 | 2022-03-18 |  |
 | [Vinhedo](https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia) | [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Vinhedo](https://open.spotify.com/album/1O8M18t6aiWpNNsQsKx2gh) | 3:02 | 2022-11-11 | 2023-11-11 |
 | [VSFD](https://open.spotify.com/track/7z2JlXkcvVP7pOaRmvwn03) | [Kelly Diaz](https://open.spotify.com/artist/1zwlhUNQfqKmR97CzZHFFz) | [VSFD](https://open.spotify.com/album/2l4aLfhkBOi2qfRFxWK6kC) | 2:33 | 2022-03-18 | 2022-10-15 |

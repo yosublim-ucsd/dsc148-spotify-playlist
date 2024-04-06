@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. Novità rock, indie e punk dall'Italia! Real Timpani in cover.
 
-852 songs - 1 day 23 hr 19 min
+853 songs - 1 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,8 @@
 | [Fiorella Mannoia](https://open.spotify.com/track/4qgpGoI7AOI51jF5JznW0h) | [Mariposa](https://open.spotify.com/artist/15tD0tLByy3DRPvfPMIaCy) | [Fiorella Mannoia](https://open.spotify.com/album/4U9pCqXjim96u5NtzHhLfF) | 3:43 | 2024-02-08 | 2024-03-01 |
 | [Fiori ai mortai](https://open.spotify.com/track/0Lcws78J2icfIs1184tiwY) | [Origami](https://open.spotify.com/artist/2z0MB92U117RLN71TMPolD) | [Origine](https://open.spotify.com/album/0a8prrTpWDjQ4jhPbiQZAw) | 3:23 | 2022-11-17 | 2023-01-06 |
 | [Fiori e baci \(feat\. Edda\)](https://open.spotify.com/track/0fQrwbyF6LohUukwGZ7VuS) | [Manitoba](https://open.spotify.com/artist/5F3k6dasqoyURq6DxItmAZ), [Edda](https://open.spotify.com/artist/0qi7WoeTNK5h4UkIamBiiL) | [Fiori e baci \(feat\. Edda\)](https://open.spotify.com/album/7C8HzugetQxiGTqJvw9kai) | 3:31 | 2024-03-21 |  |
-| [Fireman](https://open.spotify.com/track/4xXZEpNHiELTz2U0OUVOSE) | [Puà](https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq) | [Animali](https://open.spotify.com/album/65alDqJpTa21lO9WUYinUh) | 2:50 | 2024-04-04 |  |
+| [Fireman](https://open.spotify.com/track/4xXZEpNHiELTz2U0OUVOSE) | [Puà](https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq) | [Animali](https://open.spotify.com/album/65alDqJpTa21lO9WUYinUh) | 2:50 | 2024-04-04 | 2024-04-06 |
+| [Fireman](https://open.spotify.com/track/6XHtTgqiLy41X6iVFfIny2) | [Puà](https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq) | [Animali](https://open.spotify.com/album/1mT5aR3ibZesnA9nB0uVRe) | 2:50 | 2024-04-04 |  |
 | [FLOWER POWER](https://open.spotify.com/track/7AJ00s3H7TehVRdPN8ANou) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [FLOWER POWER](https://open.spotify.com/album/64R18cc1rLixwFQvTMKqLW) | 2:32 | 2022-12-15 | 2023-03-10 |
 | [Fogli di carta](https://open.spotify.com/track/1wDrTbJ5lxJVmhtBRfVo7a) | [Gli Occhi Degli Altri](https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ) | [Fogli di carta](https://open.spotify.com/album/2nBfdpY7om4mA2oJ5C9kZ0) | 2:42 | 2023-06-22 | 2023-07-28 |
 | [Follow the Money](https://open.spotify.com/track/7dngVIjn3nbUmOHqiJhTRg) | [Pierpaolo Capovilla e i Cattivi Maestri](https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO) | [Follow the Money](https://open.spotify.com/album/5EmIHTygguJUWXPTACC10D) | 3:33 | 2022-05-09 | 2022-06-24 |

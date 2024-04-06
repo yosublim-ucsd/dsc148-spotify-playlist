@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 195541,
       "name": "Hush",
       "url": "https://open.spotify.com/track/2yCQoW3u8p5d11iXfQO4Ay"
@@ -1882,6 +1882,24 @@
       "duration_ms": 199500,
       "name": "Just At Ease",
       "url": "https://open.spotify.com/track/65ZtqFklHjy0FeScTQTFM2"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/15GShjofLiAv6f1vQOf4qt"
+      },
+      "artists": [
+        {
+          "name": "Aden Cloud",
+          "url": "https://open.spotify.com/artist/1X13YqlCwaDIj1uvC36gln"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178482,
+      "name": "Justice",
+      "url": "https://open.spotify.com/track/5TSyKEnThZBxS8n6T3O6yh"
     },
     {
       "album": {

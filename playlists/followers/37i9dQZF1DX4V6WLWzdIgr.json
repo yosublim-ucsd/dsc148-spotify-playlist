@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 175115,
+  "2024-04-06": 175227,
   "date_first_scraped": "2022-12-15",
   "description": "Sedihe koyo ngene, nggak bahaya ta? \ud83d\ude22",
   "name": "Ambyar",
@@ -21,6 +21,24 @@
       "duration_ms": 278000,
       "name": "Aku Ikhlas",
       "url": "https://open.spotify.com/track/1dZjGhHlaCFHQuSIQrRxJv"
+    },
+    {
+      "album": {
+        "name": "Aku Sing Lungo",
+        "url": "https://open.spotify.com/album/2yTxYLV1Z4QMZYjEX6ctHO"
+      },
+      "artists": [
+        {
+          "name": "Aftershine",
+          "url": "https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356541,
+      "name": "Aku Sing Lungo",
+      "url": "https://open.spotify.com/track/2xk7P9Y2bzsCblzrXnOkBa"
     },
     {
       "album": {
@@ -437,6 +455,50 @@
       "duration_ms": 232322,
       "name": "Jajal Kowe Dadi Aku",
       "url": "https://open.spotify.com/track/0VSNH5XtyjQL8qCurq31Cf"
+    },
+    {
+      "album": {
+        "name": "Kalah",
+        "url": "https://open.spotify.com/album/5BZM4S3KOuVxOr3cfehJaX"
+      },
+      "artists": [
+        {
+          "name": "Shinta Arsinta",
+          "url": "https://open.spotify.com/artist/1NrPlp7STfCyPAoJgc2ZJg"
+        },
+        {
+          "name": "Arya Galih",
+          "url": "https://open.spotify.com/artist/0Wj9YjGnGFIrD6lyThCeZQ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466043,
+      "name": "Kalah",
+      "url": "https://open.spotify.com/track/0KeuJeDhAHnD0nCgbym7vL"
+    },
+    {
+      "album": {
+        "name": "Kalah (Akustik)",
+        "url": "https://open.spotify.com/album/2PzvYLgoAndKB4JFTy9bna"
+      },
+      "artists": [
+        {
+          "name": "Restianade",
+          "url": "https://open.spotify.com/artist/7A9lPm8R65nJT5ujGJzy5I"
+        },
+        {
+          "name": "Surepman",
+          "url": "https://open.spotify.com/artist/2b2nAj7iDQts7X8gaX6AdR"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407150,
+      "name": "Kalah - Akustik",
+      "url": "https://open.spotify.com/track/7wbEmhR9RaC0pv7kfglpOC"
     },
     {
       "album": {
@@ -1399,6 +1461,42 @@
       "duration_ms": 290000,
       "name": "Tresno Liyane",
       "url": "https://open.spotify.com/track/7IWKUR4CrurVIc6BPWwWiR"
+    },
+    {
+      "album": {
+        "name": "Tresnomu Ora Tenanan",
+        "url": "https://open.spotify.com/album/2Ce6hsEKnpg4yhaGeW8wmh"
+      },
+      "artists": [
+        {
+          "name": "Arry Harmoko",
+          "url": "https://open.spotify.com/artist/3EdYNfDh7k5d0sl4R7OXCf"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257538,
+      "name": "Tresnomu Ora Tenanan",
+      "url": "https://open.spotify.com/track/5jrAalCzbIZ5q6BsYdXcNo"
+    },
+    {
+      "album": {
+        "name": "Wegah Pisah",
+        "url": "https://open.spotify.com/album/2BJBjYSdy3bqsvBn6mWlUl"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346444,
+      "name": "Wegah Pisah",
+      "url": "https://open.spotify.com/track/3Wqr2RXL6msDIuJM1m0UNW"
     },
     {
       "album": {

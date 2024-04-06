@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-161 songs - 14 hr 45 min
+162 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [The Life Divine](https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq) | [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Love Devotion Surrender](https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g) | 9:28 | 2021-01-27 |  |
 | [The Noonward Race \- Remastered](https://open.spotify.com/track/4BWrLhJXXYAlVIHOLSPsmN) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [The Inner Mounting Flame](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:27 | 2021-01-27 |  |
 | [Tiger Cubs](https://open.spotify.com/track/5vNiGcOiDRNWP3Fts1AIl1) | [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR), [Jacob Richards](https://open.spotify.com/artist/3TMtcNohC76BTwFwMundAf) | [Tiger Cubs](https://open.spotify.com/album/1BsC9AO6OMRSfISrRBYWUO) | 3:41 | 2022-03-11 |  |
+| [Tiny Desk Submission](https://open.spotify.com/track/1r6KSq9LLJa6b25AJNTDyc) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [TyC](https://open.spotify.com/artist/2VjJ70ddXIbIGaeR5h35Ry), [Gabe Jones](https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP) | [Tiny Desk Submission](https://open.spotify.com/album/0oJ8BwJ4oKO6cUCfagE0jH) | 3:45 | 2024-04-05 |  |
 | [Trail of Thought](https://open.spotify.com/track/2vK4fWEYTYVMJAJ4ZuqpDK) | [Umbra](https://open.spotify.com/artist/4BfC304NqLQht44pZaTLGE) | [Umbra](https://open.spotify.com/album/65nEJHfAyMuUDMwnFq7Q6r) | 6:17 | 2021-01-27 |  |
 | [Triggers](https://open.spotify.com/track/0tyiencXiHn4LBF4OnOPzu) | [Immortal Onion](https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz) | [XD \[Experience Design\]](https://open.spotify.com/album/4W77ety4g4G6bW9HlaE1Rr) | 5:47 | 2021-01-27 |  |
 | [Triggers](https://open.spotify.com/track/3XyNup2HdXLDskqrjRNPrf) | [Immortal Onion](https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz) | [XD \[Experience Design\]](https://open.spotify.com/album/4DqPgAuGDkiPdUFzItY0vW) | 5:47 | 2021-01-27 | 2022-07-29 |

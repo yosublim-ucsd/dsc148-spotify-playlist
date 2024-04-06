@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 12900,
+  "2024-04-06": 12904,
   "date_first_scraped": "2021-12-29",
   "description": "This is Miriam Makeba. The essential tracks, all in one playlist.",
   "name": "This Is Miriam Makeba",
@@ -429,7 +429,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 267240,
       "name": "Chicken - Kikirikiki",
       "url": "https://open.spotify.com/track/1sxsg67QN7K9rusWjGHxfx"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 248640,
       "name": "Djiu de Galinha",
       "url": "https://open.spotify.com/track/6DiHndbg1CcNgZRXjiDUbj"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 144187,
       "name": "Inkomo Zodwa",
       "url": "https://open.spotify.com/track/5MzPPSDVXUqZQh2LbIi53E"
@@ -1691,7 +1691,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 195866,
       "name": "Mas Que Nada",
       "url": "https://open.spotify.com/track/5Eyfond5T9ZcmXCydrAQii"
@@ -1933,7 +1933,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 268866,
       "name": "Ndiarabi",
       "url": "https://open.spotify.com/track/1rcWedOQYluzxH8xr8vQ0U"
@@ -2049,7 +2049,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 165236,
       "name": "Orlando",
       "url": "https://open.spotify.com/track/3062myCqbd64JVkqSYi5qg"
@@ -2143,7 +2143,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 229533,
       "name": "Pata Pata 2000",
       "url": "https://open.spotify.com/track/3Q6teQgxvr6a2qZUvEOglf"
@@ -2371,7 +2371,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 256680,
       "name": "Soweto Blues",
       "url": "https://open.spotify.com/track/7qb0KJZ0iXtS8LMSXCH353"
@@ -2447,7 +2447,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 153373,
       "name": "The Click Song",
       "url": "https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8"
@@ -2765,7 +2765,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 129933,
       "name": "Umqokozo",
       "url": "https://open.spotify.com/track/3ppcz1h6mWD7rKAlBdTRrD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,668 likes - 51 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,731 likes - 51 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 50 | [Awakened](https://open.spotify.com/track/2Q218QT28mAgqnUVDgUOsK) | [LEC](https://open.spotify.com/artist/3pIwN0ERwFjm7yfQQXpfyz), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Awakened](https://open.spotify.com/album/3MnKqpMwBhVhrfN8XTCgPq) | 4:13 |
 | 51 | [Hwei, the Visionary](https://open.spotify.com/track/2D4duiQsK4GJ6b6sl1TC7t) | [Ben Hicks](https://open.spotify.com/artist/3zTYcPDNUMSm7plwLKrH4p), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Hwei, the Visionary](https://open.spotify.com/album/1CNmUDQWcgSdMHm1AAvlCb) | 4:07 |
 
-Snapshot ID: `MCw5MGMwMzljYmVmYWUyNDM1YjA3OTc2ZjMxZDRmOTA0MGU1NGM2OTIw`
+Snapshot ID: `MCwxYTk1ZmNhZDczZTgwNmExMDg0NThkZGI3NGJmMmViN2IyNDg4ZmFh`

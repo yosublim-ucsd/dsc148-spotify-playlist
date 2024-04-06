@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The very best Blues out of the heart of Northern Mississippi. Cover: R.L. Burnside",
+  "description": "<a href=\"spotify:artist:5tuhrLilxNi6N7D6VeQZnc\">Cedric Burnside</a> is taking over",
   "name": "Hill Country Blues",
   "tracks": [
+    {
+      "album": {
+        "name": "Sound Machine Groove",
+        "url": "https://open.spotify.com/album/1uAj7V6rXx8Ryz563qwcTq"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281573,
+      "name": "Bad Luck City",
+      "url": "https://open.spotify.com/track/7xRZSnoqht2mdXtfAQeRlo"
+    },
     {
       "album": {
         "name": "Searching for Odell Harris",
@@ -16,7 +34,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 231733,
       "name": "Before You Accuse Me",
       "url": "https://open.spotify.com/track/669jAiOOlVEcgd40e0C38J"
@@ -34,7 +52,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 346866,
       "name": "Big Momma's Door (Might Return)",
       "url": "https://open.spotify.com/track/1iMgaPr85LcUZmfdeyBBga"
@@ -77,6 +95,24 @@
     },
     {
       "album": {
+        "name": "The George Mitchell Collection Vol. 1",
+        "url": "https://open.spotify.com/album/0iONaUyC8PYN4VaN61hU1D"
+      },
+      "artists": [
+        {
+          "name": "Othar Turner",
+          "url": "https://open.spotify.com/artist/5H7etoKfpUIbHX80e6evWv"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244146,
+      "name": "Bumble Bee",
+      "url": "https://open.spotify.com/track/5UR7h1wjqA1q6s2gUx5LpU"
+    },
+    {
+      "album": {
         "name": "It Must Have Been The Devil",
         "url": "https://open.spotify.com/album/55H4wEobYEm5G4AhpeyT1V"
       },
@@ -92,10 +128,28 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 365426,
       "name": "Can't See, Baby",
       "url": "https://open.spotify.com/track/3emq1lvTCfXAzD1HjuA9xw"
+    },
+    {
+      "album": {
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Can't Stay Here",
+      "url": "https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp"
     },
     {
       "album": {
@@ -110,10 +164,28 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 228612,
       "name": "Catfish Blues, No. 3 (Take 2)",
       "url": "https://open.spotify.com/track/2VOhiaWNPoLsFTdlhTQyNX"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2pJfPlDG4xvJmOKixsrISC"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160093,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5PRCKNOjJjpvqZyPQOrspK"
     },
     {
       "album": {
@@ -128,7 +200,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 283200,
       "name": "Coal Black Mattie",
       "url": "https://open.spotify.com/track/4WRxKKnvqA8ZgPLtAjc4mC"
@@ -164,7 +236,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 182253,
       "name": "Crawlin' King Snake",
       "url": "https://open.spotify.com/track/1trdHaOi0ORDVgJ59hFQ7I"
@@ -182,7 +254,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 290666,
       "name": "Crawling King Snake",
       "url": "https://open.spotify.com/track/54sDLGJbVFD6tpRewZuxJZ"
@@ -200,7 +272,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 232048,
       "name": "Crawling Kingsnake - Edit",
       "url": "https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP"
@@ -236,10 +308,28 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 205906,
       "name": "Cut You Loose",
       "url": "https://open.spotify.com/track/59ColbZ3X09ijVX5awG8jQ"
+    },
+    {
+      "album": {
+        "name": "Benton County Relic",
+        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276533,
+      "name": "Death Bell Blues",
+      "url": "https://open.spotify.com/track/2SKE0t1VG461atbkB163RU"
     },
     {
       "album": {
@@ -290,7 +380,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 165727,
       "name": "Don't Let The Devil Ride",
       "url": "https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn"
@@ -308,10 +398,28 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 344920,
       "name": "Dough Roller Blues",
       "url": "https://open.spotify.com/track/5WASqpXmOdscBihwSp8gHF"
+    },
+    {
+      "album": {
+        "name": "Living Country Blues USA, Vol. 7 - Afro-American Blues Roots",
+        "url": "https://open.spotify.com/album/7jb2Ymd6uTmdWnooiGmE6B"
+      },
+      "artists": [
+        {
+          "name": "Othar Turner",
+          "url": "https://open.spotify.com/artist/5H7etoKfpUIbHX80e6evWv"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121266,
+      "name": "Father, I Stretch My Hands To Thee",
+      "url": "https://open.spotify.com/track/1ZM1ZyfwbyF35pe0mNZWJ8"
     },
     {
       "album": {
@@ -326,7 +434,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 177850,
       "name": "Feelin Good",
       "url": "https://open.spotify.com/track/0sp7gADjHi7rECsGJZSeVr"
@@ -344,10 +452,64 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 172800,
       "name": "Fireman Ring the Bell",
       "url": "https://open.spotify.com/track/3p0EUhkUeCNrBIZwkjmeYe"
+    },
+    {
+      "album": {
+        "name": "Rollin' & Tumblin'",
+        "url": "https://open.spotify.com/album/68qTtBpzDW5H5PpBFDtehz"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228480,
+      "name": "Fireman Ring The Bell",
+      "url": "https://open.spotify.com/track/0HlwihsR6CNGqUJtwBAEDc"
+    },
+    {
+      "album": {
+        "name": "Evolution of Fife and Drum Music",
+        "url": "https://open.spotify.com/album/6rlbCcSJ9gnltGFzJ6uvD3"
+      },
+      "artists": [
+        {
+          "name": "Rising Stars Fife and Drum Band",
+          "url": "https://open.spotify.com/artist/2Cg8AUQ4m4olTS34rTu7Wi"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146416,
+      "name": "Glory, Glory, Hallelujah",
+      "url": "https://open.spotify.com/track/6ZaO8PnZS8uGUGJEcHcANJ"
+    },
+    {
+      "album": {
+        "name": "Sound Machine Groove",
+        "url": "https://open.spotify.com/album/1uAj7V6rXx8Ryz563qwcTq"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204240,
+      "name": "Goin' Down South",
+      "url": "https://open.spotify.com/track/0jnwVxfwJXk9N3mHrNHCA2"
     },
     {
       "album": {
@@ -380,7 +542,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 228972,
       "name": "Going Down South",
       "url": "https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA"
@@ -398,10 +560,36 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 201600,
       "name": "Good Morning Little Schoolgirl",
       "url": "https://open.spotify.com/track/2LtpyfWWnr5V96l3Js7LLX"
+    },
+    {
+      "album": {
+        "name": "Living Country Blues USA, Vol. 7 - Afro-American Blues Roots",
+        "url": "https://open.spotify.com/album/7jb2Ymd6uTmdWnooiGmE6B"
+      },
+      "artists": [
+        {
+          "name": "Othar Turner",
+          "url": "https://open.spotify.com/artist/5H7etoKfpUIbHX80e6evWv"
+        },
+        {
+          "name": "The Rising Star Fife",
+          "url": "https://open.spotify.com/artist/6jt6MjkJ091Ma7FJqpfUAH"
+        },
+        {
+          "name": "Drum Band",
+          "url": "https://open.spotify.com/artist/7cSVIovVZucsqIAcnRnLjY"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "Granny, Will Your Dog Bite",
+      "url": "https://open.spotify.com/track/5m14oLeUbXerUuPcgzjcn6"
     },
     {
       "album": {
@@ -416,10 +604,64 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 166533,
       "name": "Graveyard Blues",
       "url": "https://open.spotify.com/track/1Lj5iw5MbxYQ6Eu44t5hTn"
+    },
+    {
+      "album": {
+        "name": "Hill Country Love",
+        "url": "https://open.spotify.com/album/7MEKlnWzs60JzsxIvhxjon"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184252,
+      "name": "Hill Country Love",
+      "url": "https://open.spotify.com/track/0UPU7pocbCGSLol1h2T87L"
+    },
+    {
+      "album": {
+        "name": "Get Right Blues",
+        "url": "https://open.spotify.com/album/4gDZycqUQEbDchYoVfJNyo"
+      },
+      "artists": [
+        {
+          "name": "Jessie Mae Hemphill",
+          "url": "https://open.spotify.com/artist/75bUlG7zJQWJkRqESmNWsW"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333866,
+      "name": "Honey Bee",
+      "url": "https://open.spotify.com/track/5NH4nteYLti8neW1Ji5UyX"
+    },
+    {
+      "album": {
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "I Be Trying",
+      "url": "https://open.spotify.com/track/2lwVx23dtmqVZvjf1sLsah"
     },
     {
       "album": {
@@ -438,7 +680,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 280786,
       "name": "I Got a Woman",
       "url": "https://open.spotify.com/track/5zoGufi4jSXGe3TTd5r0wE"
@@ -456,7 +698,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 169866,
       "name": "I Know I Done You Wrong",
       "url": "https://open.spotify.com/track/4VpW9tI06wuIzY693ASWOo"
@@ -474,10 +716,46 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 164360,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/1xWNdCOiPHkjAFXGydqrzT"
+    },
+    {
+      "album": {
+        "name": "Message To The Young",
+        "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161760,
+      "name": "I Smell A Rat",
+      "url": "https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh"
+    },
+    {
+      "album": {
+        "name": "Benton County Relic",
+        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "I'm Hurtin",
+      "url": "https://open.spotify.com/track/5oLv3V2t6CMRPHR6la044j"
     },
     {
       "album": {
@@ -510,10 +788,28 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 518720,
       "name": "I'm in Love",
       "url": "https://open.spotify.com/track/7KfDFBUpW8QA2etcR0Og8X"
+    },
+    {
+      "album": {
+        "name": "She-Wolf",
+        "url": "https://open.spotify.com/album/55n3LtVBSuZjRi3tSinxsq"
+      },
+      "artists": [
+        {
+          "name": "Jessie Mae Hemphill",
+          "url": "https://open.spotify.com/artist/75bUlG7zJQWJkRqESmNWsW"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203560,
+      "name": "Jump, Baby, Jump",
+      "url": "https://open.spotify.com/track/5VA2BM9ZrGDlgFtOvEgPiP"
     },
     {
       "album": {
@@ -528,7 +824,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 224786,
       "name": "Laughing to Keep from Crying",
       "url": "https://open.spotify.com/track/2jD32pKSbJfRlmycwMKczq"
@@ -546,7 +842,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 180466,
       "name": "Let My Baby Ride",
       "url": "https://open.spotify.com/track/7tokOMPzSHbLJVZh8an2Nq"
@@ -582,7 +878,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 334026,
       "name": "Levee Camp Blues",
       "url": "https://open.spotify.com/track/2w2qoVTeh5uDOKy1pLMmTp"
@@ -618,7 +914,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 238533,
       "name": "Louise",
       "url": "https://open.spotify.com/track/6tuTSXsYierm7sJbF65QMD"
@@ -636,7 +932,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 228333,
       "name": "Mama, Look at Sis",
       "url": "https://open.spotify.com/track/3GtaAwcdUL5GsEQtoZVUZb"
@@ -654,7 +950,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 151360,
       "name": "Meet Me in the City",
       "url": "https://open.spotify.com/track/5LmmZgxFg1sSfxENxsdtak"
@@ -672,7 +968,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 275266,
       "name": "Miss Maybelle",
       "url": "https://open.spotify.com/track/5qS1KPkQWfNkS3pRI1f1yc"
@@ -690,10 +986,28 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 140426,
       "name": "Miss Maybelle",
       "url": "https://open.spotify.com/track/6JdSXtzz0tukLTfJTB2y6f"
+    },
+    {
+      "album": {
+        "name": "Evolution of Fife and Drum Music",
+        "url": "https://open.spotify.com/album/6rlbCcSJ9gnltGFzJ6uvD3"
+      },
+      "artists": [
+        {
+          "name": "Rising Stars Fife and Drum Band",
+          "url": "https://open.spotify.com/artist/2Cg8AUQ4m4olTS34rTu7Wi"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129750,
+      "name": "Mississippi",
+      "url": "https://open.spotify.com/track/0Kzud7dH4YdC1SQ6PeMAuj"
     },
     {
       "album": {
@@ -708,7 +1022,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 286000,
       "name": "My Baby's Gone",
       "url": "https://open.spotify.com/track/4NgUChfOb62ijpOD8YFAWv"
@@ -726,7 +1040,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 240000,
       "name": "My Daddy's Blues",
       "url": "https://open.spotify.com/track/4xF6LEq3VhCe9fgmZYYfhI"
@@ -744,7 +1058,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 198440,
       "name": "Nobody Gets Me Down",
       "url": "https://open.spotify.com/track/0Cak0ZnnZcQBZaWGtvq6Cg"
@@ -769,6 +1083,42 @@
     },
     {
       "album": {
+        "name": "Benton County Relic",
+        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Please Tell Me Baby",
+      "url": "https://open.spotify.com/track/20OnR0ixXKjhEAecorIvaU"
+    },
+    {
+      "album": {
+        "name": "1st Recordings",
+        "url": "https://open.spotify.com/album/0zs3UQ0u2q4dpvANLqWRLv"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126333,
+      "name": "Poor Black Mattie",
+      "url": "https://open.spotify.com/track/4BIZpevfE9KRsGahLJJuVR"
+    },
+    {
+      "album": {
         "name": "A Ass Pocket of Whiskey",
         "url": "https://open.spotify.com/album/6bBWWTnN4B4wwGJpWlZFkW"
       },
@@ -780,7 +1130,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 218613,
       "name": "Poor Boy",
       "url": "https://open.spotify.com/track/1nzveWJmAph2OKfG26rW3j"
@@ -798,7 +1148,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 248511,
       "name": "Poor Boy a Long Way From Home",
       "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
@@ -816,7 +1166,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 230813,
       "name": "Praise His Name",
       "url": "https://open.spotify.com/track/0ue4jas53w9fPo4pT4w4rZ"
@@ -834,7 +1184,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 233773,
       "name": "Pucker up Buttercup",
       "url": "https://open.spotify.com/track/1n9PirIPFn4PfFLlFHgUrb"
@@ -852,7 +1202,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 274413,
       "name": "Pushin' My Luck",
       "url": "https://open.spotify.com/track/6PXCbASGuI05iojK5OCFzw"
@@ -870,7 +1220,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 242573,
       "name": "Rob & Steal",
       "url": "https://open.spotify.com/track/3ceTi3G0GXEOInOyRb5TVg"
@@ -888,10 +1238,28 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 223706,
       "name": "Roll & Tumble",
       "url": "https://open.spotify.com/track/40H5G01X18kAxNU1YlcgMN"
+    },
+    {
+      "album": {
+        "name": "Sound Machine Groove",
+        "url": "https://open.spotify.com/album/1uAj7V6rXx8Ryz563qwcTq"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176306,
+      "name": "Rolling And Tumbling",
+      "url": "https://open.spotify.com/track/2fygf6wXrXlFJLmGZl9WMI"
     },
     {
       "album": {
@@ -906,10 +1274,28 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 262200,
       "name": "Sad Days, Lonely Nights - Full Band Version",
       "url": "https://open.spotify.com/track/4v7dQNXLQSRPWObaE4itqC"
+    },
+    {
+      "album": {
+        "name": "Shake 'Em on Down",
+        "url": "https://open.spotify.com/album/67fpQTyeKLfD8F4u62N6Eu"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Fred McDowell",
+          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246813,
+      "name": "Shake 'Em on Down",
+      "url": "https://open.spotify.com/track/09CQq9gQkHaeHfWJr0BaIW"
     },
     {
       "album": {
@@ -924,7 +1310,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 350946,
       "name": "Shake 'Em on Down",
       "url": "https://open.spotify.com/track/6nlzQ6K3n5sSyS3Itivf8a"
@@ -942,10 +1328,28 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 281266,
       "name": "She-Wolf",
       "url": "https://open.spotify.com/track/5hY2dAzOUZYyOncGFtHove"
+    },
+    {
+      "album": {
+        "name": "Acoustic Stories",
+        "url": "https://open.spotify.com/album/6UKvwsK0lc0UcUwNFxEEbr"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131573,
+      "name": "Skinny Woman",
+      "url": "https://open.spotify.com/track/18aVlg5uaG190mVLR732cf"
     },
     {
       "album": {
@@ -960,7 +1364,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 202933,
       "name": "Slow Lightning",
       "url": "https://open.spotify.com/track/2xe9JNRPqm7u9NsaoANNMX"
@@ -978,7 +1382,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 196426,
       "name": "Someday Baby",
       "url": "https://open.spotify.com/track/5ZBUC1YafitJgLt8dgZYTW"
@@ -996,7 +1400,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 280800,
       "name": "Standing in My Doorway Crying",
       "url": "https://open.spotify.com/track/4uHjQU61NLb1iWEqF4yVZr"
@@ -1014,7 +1418,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 295920,
       "name": "Station Blues",
       "url": "https://open.spotify.com/track/4UitJ6h1WHDJGHxOieVEIn"
@@ -1075,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175160,
+      "name": "Stop Using Me",
+      "url": "https://open.spotify.com/track/6Sf2fZ9SqkF1shOetY9Qia"
+    },
+    {
+      "album": {
         "name": "Benton County Relic",
         "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
       },
@@ -1111,6 +1533,86 @@
     },
     {
       "album": {
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269253,
+      "name": "What Makes Me Think",
+      "url": "https://open.spotify.com/track/2oN35vtVNl0PvBQwXU98er"
+    },
+    {
+      "album": {
+        "name": "Acoustic Stories",
+        "url": "https://open.spotify.com/album/6UKvwsK0lc0UcUwNFxEEbr"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219760,
+      "name": "When My First Wife Left Me",
+      "url": "https://open.spotify.com/track/4XOhyOAPch1EeHtJPb4zOF"
+    },
+    {
+      "album": {
+        "name": "Living Country Blues USA, Vol. 7 - Afro-American Blues Roots",
+        "url": "https://open.spotify.com/album/7jb2Ymd6uTmdWnooiGmE6B"
+      },
+      "artists": [
+        {
+          "name": "Othar Turner",
+          "url": "https://open.spotify.com/artist/5H7etoKfpUIbHX80e6evWv"
+        },
+        {
+          "name": "The Rising Star Fife",
+          "url": "https://open.spotify.com/artist/6jt6MjkJ091Ma7FJqpfUAH"
+        },
+        {
+          "name": "Drum Band",
+          "url": "https://open.spotify.com/artist/7cSVIovVZucsqIAcnRnLjY"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197973,
+      "name": "When The Saints Go Marchin' In",
+      "url": "https://open.spotify.com/track/30iGL7t5O8baTEgy028bXK"
+    },
+    {
+      "album": {
+        "name": "Sleight of Hand",
+        "url": "https://open.spotify.com/album/7LcY2Eriqg1VfeIVpAZRWa"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Fred McDowell",
+          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131466,
+      "name": "Wished I Was in Heaven Sitting Down",
+      "url": "https://open.spotify.com/track/04MM3OCV09VyC2sxSKefLl"
+    },
+    {
+      "album": {
         "name": "You Gotta Move",
         "url": "https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1"
       },
@@ -1122,10 +1624,28 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 217693,
       "name": "Write Me a Few Lines",
       "url": "https://open.spotify.com/track/7wBkT3b1nMXfPH7OKji5yj"
+    },
+    {
+      "album": {
+        "name": "You Gotta Move",
+        "url": "https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Fred McDowell",
+          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "You Gotta Move",
+      "url": "https://open.spotify.com/track/2En6kxGCjZxXmKJ1IYu4Fp"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5e4G40ZHZd6"

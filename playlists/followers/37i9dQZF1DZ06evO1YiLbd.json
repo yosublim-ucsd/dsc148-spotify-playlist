@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 7169,
+  "2024-04-06": 7170,
   "date_first_scraped": "2022-12-24",
   "description": "This is \u6797\u3086\u3046\u304d. The essential tracks, all in one playlist.",
   "name": "This Is \u6797\u3086\u3046\u304d",
@@ -434,6 +434,28 @@
     },
     {
       "album": {
+        "name": "\u300cSHAMAN KING FLOWERS\u300dORIGINAL SOUNDTRACK VOL.2",
+        "url": "https://open.spotify.com/album/0VZxwysA2KbjwGyigYU1GR"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Jinmenusagi",
+          "url": "https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197560,
+      "name": "ONIKABUTO",
+      "url": "https://open.spotify.com/track/59NFp3ttgar3WuBxDcFq8R"
+    },
+    {
+      "album": {
         "name": "Our Journey (feat. AKKOGORILLA)",
         "url": "https://open.spotify.com/album/1dnWvIAu634Ph0NiOxdCQZ"
       },
@@ -511,7 +533,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 230320,
       "name": "SHAMAN KING FLOWERS",
       "url": "https://open.spotify.com/track/4XHB00UOLfZUiH6kePlHyi"
@@ -1177,7 +1199,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 93896,
       "name": "\u5343\u590f\u306e\u904e\u53bb",
       "url": "https://open.spotify.com/track/2pPVV8dRriiFMDzEsueTVN"
@@ -1321,7 +1343,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 200640,
       "name": "\u5f8c\u6094\u3068\u539f\u52d5\u529b",
       "url": "https://open.spotify.com/track/0C4FFuNGEayRRMtjlYL1wj"
@@ -1739,7 +1761,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 134693,
       "name": "\u8996\u70b9",
       "url": "https://open.spotify.com/track/39wSItJOH200mFDJeClVyq"
@@ -1793,7 +1815,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "\u9032\u5316",
       "url": "https://open.spotify.com/track/4DRekX1RLo64233HPnQzhW"

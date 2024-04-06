@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:1MXcqijfBhhY1WznU6X2er">Kacha</a> / <a href="spotify:artist:6epDO0nPVXpbXBUt4Otiik">Coals</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,935 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,940 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 59 | [Fala Miłości](https://open.spotify.com/track/6iOUsAeqP6muX6lXJOFRmk) | [Anna Hnatowicz](https://open.spotify.com/artist/5ALlUjvCOAnnJvSgiTDg6C) | [Fala Miłości](https://open.spotify.com/album/2HJhCVqaVzzN5GAtBKA8XW) | 3:32 |
 | 60 | [Księżniczka i Żaba](https://open.spotify.com/track/69WKCGnVxHdWpJv2nq6vVf) | [Basia Giewont](https://open.spotify.com/artist/7cxbQTlqES2I9xbf2DErr9) | [Taterki](https://open.spotify.com/album/7aZZZdj8B2gTlu1XhjJxfR) | 3:53 |
 
-Snapshot ID: `MCwxYTc3YWIzOWQwNzc4ODM5MDM0YTE0ZGQzYzRiYTgzNmI5MTk4YTE4`
+Snapshot ID: `MCxhZDA5MWU1ZjI2YTNmNzZhOWM3YjNiOGJlYTU1OTEyZDliYjZmZWQy`

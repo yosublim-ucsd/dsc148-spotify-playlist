@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-642 songs - 1 day 18 hr 9 min
+643 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [953](https://open.spotify.com/track/6TYqetg2GzbwdeDvLBZbZF) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Schlagenheim](https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN) | 5:20 | 2024-01-03 |  |
 | [<2](https://open.spotify.com/track/6b7UmVZAUEdc7cwF52tuBd) | [Sad13](https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg) | [Slugger](https://open.spotify.com/album/4pIfQJoWkRlqdPG4geudEf) | 3:23 | 2024-01-18 |  |
 | [A Beautiful Woman](https://open.spotify.com/track/31NVIwE4edzNpTXAZ7UyB6) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [The Expanding Flower Planet](https://open.spotify.com/album/10e1mx1PykreNOn02pFjIU) | 3:31 | 2023-03-23 |  |
+| [A Dream Goes On Forever](https://open.spotify.com/track/1CGT5LV74SNzXFnVmTdAE8) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [The Road To Hell Is Paved With Good Intentions](https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR) | 4:39 | 2024-04-05 |  |
 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 | 2022-07-31 |  |
 | [A Life of Possibilities](https://open.spotify.com/track/3TKWCQMU7xYEEslFXsj51i) | [Dismemberment Plan](https://open.spotify.com/artist/2JpHk8yju1DH1l3c9sXzOS) | [Emergency & I](https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO) | 4:34 | 2022-04-04 |  |
 | [A Nervous Tic Motion of the Head to the Left](https://open.spotify.com/track/6SjXkEmPg9jP66HsWbK2A0) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [The Mysterious Production of Eggs](https://open.spotify.com/album/1YbPpWqyIoqEgt2QY90yXy) | 4:59 | 2024-03-11 |  |

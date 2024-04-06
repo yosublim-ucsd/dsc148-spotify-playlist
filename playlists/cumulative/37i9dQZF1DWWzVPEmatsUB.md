@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-391 songs - 23 hr 37 min
+392 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Little Time](https://open.spotify.com/track/5p6rWdZ3VjGUXiY6qd7MmI) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 4:54 | 2023-06-23 | 2023-11-05 |
 | [Little Time](https://open.spotify.com/track/6LipdO1S75XaPSa1ejQfeJ) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/4HCUsZGlWSq1GrpgA9167A) | 4:54 | 2023-09-01 |  |
 | [Live With That \(Rework\)](https://open.spotify.com/track/0KD9ft5KyuDBzTyNAXs58V) | [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU) | [Live With That \(Rework\)](https://open.spotify.com/album/3gEfiDjNCKOHobiT0He4Oa) | 2:47 | 2023-06-16 |  |
-| [Look At The Mess I'm In](https://open.spotify.com/track/4wWkQCynfdPWrjIIZZVBOD) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 3:00 | 2022-03-04 |  |
+| [Look At The Mess I'm In](https://open.spotify.com/track/4wWkQCynfdPWrjIIZZVBOD) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 3:00 | 2022-03-04 | 2024-04-06 |
 | [Love & War in Your Twenties](https://open.spotify.com/track/2NU2U0wWzGtZtuu1QsacOb) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/33AW6ZS39DUZZrxl76EyAs) | 4:10 | 2020-10-17 | 2022-07-29 |
 | [Love & War in Your Twenties](https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/0L9K2iqQGwfEhY96aHDiUB) | 4:10 | 2020-10-17 | 2023-02-04 |
 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 | 2024-02-02 |  |
@@ -300,6 +300,7 @@
 | [Regenerate](https://open.spotify.com/track/0MIq5zqSNk6XH4BoinuakO) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Regenerate](https://open.spotify.com/album/1F0penSwQo6C6tEZEID495) | 3:34 | 2020-10-17 | 2022-04-20 |
 | [Reminiscing](https://open.spotify.com/track/2ZIbiTRemxHiYAPg0UqoLY) | [Datsunn](https://open.spotify.com/artist/4zosWP0ung7qeYevTLfuXV) | [Reminiscing](https://open.spotify.com/album/50VMTNsmINXwJGvxgjHxAp) | 2:43 | 2020-10-17 | 2022-07-27 |
 | [Right Now](https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Right Now](https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA) | 3:59 | 2020-10-17 | 2022-07-29 |
+| [Risk It All](https://open.spotify.com/track/0UXQegGGRyU1QXmpnFC9Gp) | [SAHRA](https://open.spotify.com/artist/0afdCvcgScPqyciaOKoAR6) | [Risk It All](https://open.spotify.com/album/07suX8OpgxaBUKBVAmsNyx) | 4:33 | 2024-04-05 |  |
 | [Run Through Fire](https://open.spotify.com/track/4U3Xw68LAgaiJahg8Jtoy9) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Run Through Fire](https://open.spotify.com/album/5ZXRhusicgRkkUuCZILOkE) | 3:04 | 2023-05-12 |  |
 | [Same Sunrise](https://open.spotify.com/track/4geh0YJEYzwhNUn6g5gE2u) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [For Once](https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM) | 3:31 | 2023-03-03 | 2023-05-24 |
 | [Same Sunrise](https://open.spotify.com/track/4pJY4C94npAvpBbRqEh3zA) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Same Sunrise](https://open.spotify.com/album/7DkaKreruueKqkN2IjfHem) | 3:31 | 2023-03-03 | 2023-03-31 |

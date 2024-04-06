@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Jarina De Marco en portada.",
+  "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Chicano Batman en portada.",
   "name": "tropic.alt",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 461000,
       "name": "Alegria Em Movimento",
       "url": "https://open.spotify.com/track/6LzFrazsIFzzqzcFGVJt89"
@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212052,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/0d9Ec1WjsdAqs2LmB3nk3o"
+    },
+    {
+      "album": {
         "name": "Cascabel",
         "url": "https://open.spotify.com/album/4LKr3W9nb0ZAU56TsKgye5"
       },
@@ -920,7 +938,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 162789,
       "name": "Cinema",
       "url": "https://open.spotify.com/track/5hLLjQBT8rWCcJ7LDd4Wru"
@@ -1919,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Notebook Fantasy",
+        "url": "https://open.spotify.com/album/11oAb5VEhTqhiAyfs5AOQX"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251080,
+      "name": "Era Primavera",
+      "url": "https://open.spotify.com/track/7DTH6M5KGouSi6wmz0ZYdz"
+    },
+    {
+      "album": {
         "name": "Stop",
         "url": "https://open.spotify.com/album/5iL6nnsBFGeqsmE9OLN3Y0"
       },
@@ -2266,7 +2302,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 148093,
       "name": "Glorieta",
       "url": "https://open.spotify.com/track/0n0pCIWwd6Fz7ZJWdlWfnH"
@@ -3100,7 +3136,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 326973,
       "name": "Los Halcones",
       "url": "https://open.spotify.com/track/5TdKAGXN0JBooUcGP5jE0j"

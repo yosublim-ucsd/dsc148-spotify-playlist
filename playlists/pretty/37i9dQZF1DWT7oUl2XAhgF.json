@@ -1,18 +1,18 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 214644,
+  "num_followers": 214735,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmIxM2Q4Y2Q1YWQwNWNkZWU3MDlmNWYzN2QyZjI3M2Y5ZDE3Njk1",
+  "snapshot_id": "MCwwMDYxNjljMjY4NDcyMTRmZmU3YzE0ZGQwMTVmMjIxZjRlNmMzZjMy",
   "tracks": [
     {
-      "added_at": "2024-02-23 05:01:00",
+      "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Illusions",
-        "url": "https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz"
+        "name": "Here To Stay",
+        "url": "https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 216573,
-      "name": "Illusions",
-      "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
+      "duration_ms": 202139,
+      "name": "Here To Stay",
+      "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -39,6 +39,26 @@
       "duration_ms": 219256,
       "name": "Don't Wanna Lose You",
       "url": "https://open.spotify.com/track/03Xfnr5nwnz2eiPDeRYJQJ"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "In Limbo",
+        "url": "https://open.spotify.com/album/4VsRC2WqckvyyMSKu4ulYu"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Ironsides",
+          "url": "https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "In Limbo",
+      "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1695,22 +1715,6 @@
       "duration_ms": 180892,
       "name": "You",
       "url": "https://open.spotify.com/track/7y8xMbDt5a5XlcRUAyov8N"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Bewilderment",
-        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 206963,
-      "name": "My Dirty Desire",
-      "url": "https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io"
     }
   ],
   "unique_name": "Retro Soul",

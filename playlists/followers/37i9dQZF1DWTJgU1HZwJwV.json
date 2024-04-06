@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 54639,
+  "2024-04-06": 54700,
   "date_first_scraped": "2022-06-20",
   "description": "Elegant classical guitar to accompany your favourite Italian coffee.",
   "name": "Coffee House Guitar",
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 164452,
       "name": "A quiet storm",
       "url": "https://open.spotify.com/track/3WIsMgOMmIigPtcBU8VXnU"
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 204116,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/6wAqgXF6Ev4V1Fd2EhZ03e"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 141282,
       "name": "Brume Silencieuse",
       "url": "https://open.spotify.com/track/0G4v5eDVkTMUmdn5VWqbEM"
@@ -1397,7 +1397,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 145073,
       "name": "Change",
       "url": "https://open.spotify.com/track/09wXdnNxg0U2owlGzrWghJ"
@@ -3073,7 +3073,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 183951,
       "name": "Grab My Hand",
       "url": "https://open.spotify.com/track/6LhDAXww2xZbw87UmR8KKO"
@@ -3505,7 +3505,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 217762,
       "name": "im Kaisertal",
       "url": "https://open.spotify.com/track/6eV6NSKgbrtlmJf7FiSAUm"
@@ -3955,7 +3955,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 120893,
       "name": "La Mestis",
       "url": "https://open.spotify.com/track/0blt7mXlKmi52DXcYUKiQL"
@@ -4495,7 +4495,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 161501,
       "name": "Mediterranean Rain",
       "url": "https://open.spotify.com/track/43jO5gEX6XVcVdQDF2wsbw"
@@ -6217,7 +6217,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 177725,
       "name": "Romeo",
       "url": "https://open.spotify.com/track/6p6SkdKACD6Yxv4OTF3RRi"
@@ -6581,6 +6581,24 @@
       "duration_ms": 166851,
       "name": "Seresta",
       "url": "https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg"
+    },
+    {
+      "album": {
+        "name": "Shadows and Sunlight",
+        "url": "https://open.spotify.com/album/48ererOiL22UHujflBgt0r"
+      },
+      "artists": [
+        {
+          "name": "K.C Brown",
+          "url": "https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176929,
+      "name": "Shadows and Sunlight",
+      "url": "https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu"
     },
     {
       "album": {
@@ -7063,7 +7081,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 148527,
       "name": "Sweet Sister",
       "url": "https://open.spotify.com/track/76icnulB17alL2H6B8w7Gq"
@@ -7625,7 +7643,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 154751,
       "name": "Toque Suave",
       "url": "https://open.spotify.com/track/1fGMb8mMRfE81obtzM8K8p"

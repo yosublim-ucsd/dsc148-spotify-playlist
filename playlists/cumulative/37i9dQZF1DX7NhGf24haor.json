@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 197471,
       "name": "Adrenaline Overload",
       "url": "https://open.spotify.com/track/1iD09eMQvJIxlT3ZaomPpx"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 164014,
       "name": "All Over Again",
       "url": "https://open.spotify.com/track/20G9QEycg5HZOsJEbB35JW"
@@ -1692,7 +1692,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 207375,
       "name": "Blood Sugar",
       "url": "https://open.spotify.com/track/4PgNET8VJxNSZYl8ywBuc2"
@@ -3744,7 +3744,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 177647,
       "name": "Don't Kill My Vibe",
       "url": "https://open.spotify.com/track/6GBMqAJ1gNNU7e2GztRJuL"
@@ -4302,7 +4302,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 146322,
       "name": "Enjoy The Ride",
       "url": "https://open.spotify.com/track/396eA4jwZELLosUQdhD0bq"
@@ -8088,7 +8088,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 176258,
       "name": "Lay Low (Radical Redemption Remix)",
       "url": "https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O"
@@ -10104,7 +10104,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 207483,
       "name": "My Witness",
       "url": "https://open.spotify.com/track/7Btg1nNz5OuTMY7RTzKz20"
@@ -11510,7 +11510,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 163500,
       "name": "PIECES",
       "url": "https://open.spotify.com/track/3cA6s2sQZ5UeYjSOZA33ZL"
@@ -13562,7 +13562,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 256500,
       "name": "Sleep Awake",
       "url": "https://open.spotify.com/track/2DESaurOqFnR7RXjWnygKW"
@@ -13580,7 +13580,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 200727,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/2VZ1eAKMcrF3eXwYWq2NHQ"
@@ -14866,6 +14866,24 @@
       "duration_ms": 216774,
       "name": "Techno Syndrome (Mortal Kombat)",
       "url": "https://open.spotify.com/track/6oxX7IUFlUGTB3FIcF2ZlL"
+    },
+    {
+      "album": {
+        "name": "TECHNOBOTS",
+        "url": "https://open.spotify.com/album/0ZZ2LSFWHzMNSPAtNkBXAD"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142463,
+      "name": "TECHNOBOTS",
+      "url": "https://open.spotify.com/track/1FpFPb1VH1ZXqT1xrhpeaS"
     },
     {
       "album": {
@@ -17978,7 +17996,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 169500,
       "name": "X (A DECADE)",
       "url": "https://open.spotify.com/track/5hQVCrL0yKJw5Jf7lWnjPY"

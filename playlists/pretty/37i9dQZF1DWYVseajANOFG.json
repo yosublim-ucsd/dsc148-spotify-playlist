@@ -1,29 +1,13 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: BARBEL",
-  "num_followers": 112433,
+  "num_followers": 112473,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWFjMGYzOWI5MDc5YWIwMmYzMDZjMTg2ZjEzYmExYmRjZDUxNTky",
+  "snapshot_id": "MCwwNDU3N2U3NWI3OTdmOTUwY2YxZDBlZDMzNjRmMjE2NzdiODAzOTc0",
   "tracks": [
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "La Mexicana",
-        "url": "https://open.spotify.com/album/25XyXkqIW4W1coLxOTn1k3"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "La Mexicana",
-      "url": "https://open.spotify.com/track/5itg5kaqEcsjzZYzbFs8X5"
-    },
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 153900,
       "name": "Yo Te Llamo",
       "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "La Mexicana",
+        "url": "https://open.spotify.com/album/25XyXkqIW4W1coLxOTn1k3"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "La Mexicana",
+      "url": "https://open.spotify.com/track/5itg5kaqEcsjzZYzbFs8X5"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -67,6 +67,26 @@
       "duration_ms": 238000,
       "name": "SAT\u00c9LITE",
       "url": "https://open.spotify.com/track/6kb23hMyGpTQRApxZDpykX"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "KALI UCHIS",
+        "url": "https://open.spotify.com/album/7HkB5l9xTp38n2NnCMUaQO"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        }
+      ],
+      "duration_ms": 174595,
+      "name": "KALI UCHIS",
+      "url": "https://open.spotify.com/track/2IrbGEpptL9B1tsHNwRxJV"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -103,26 +123,6 @@
       "duration_ms": 159939,
       "name": "Cu\u00e9ntame - Versi\u00f3n Reggaet\u00f3n",
       "url": "https://open.spotify.com/track/47rso7RhYpuvxvx35Y8Oo5"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/2gbu0bCGsWAB17pK661XJb"
-      },
-      "artists": [
-        {
-          "name": "BCA",
-          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
-        },
-        {
-          "name": "CRBRO",
-          "url": "https://open.spotify.com/artist/6guLWnvW76oTo4AdSIMBFe"
-        }
-      ],
-      "duration_ms": 144466,
-      "name": "PLAY",
-      "url": "https://open.spotify.com/track/6SvstSpXKqUTQ8aVjoVxjx"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -179,6 +179,22 @@
       "duration_ms": 375000,
       "name": "Gangster (Remix)",
       "url": "https://open.spotify.com/track/2o6Q6luSjbe06abe3d5gSH"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "El de la 13",
+        "url": "https://open.spotify.com/album/6nsnGe7s1rqHAusbBl683c"
+      },
+      "artists": [
+        {
+          "name": "Macho LXIII",
+          "url": "https://open.spotify.com/artist/1xsgehlnoi9qCRerdbIraD"
+        }
+      ],
+      "duration_ms": 199149,
+      "name": "Mascaras de Gas",
+      "url": "https://open.spotify.com/track/6DKTMxwJVDPQTDFMTmE2AQ"
     },
     {
       "added_at": "2024-02-15 17:30:32",
@@ -239,6 +255,22 @@
       "duration_ms": 171812,
       "name": "Tu Chacal",
       "url": "https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "HLF (H\u00e9ctor Lavoe Freestyle)",
+        "url": "https://open.spotify.com/album/7u3NzmbK9DITNkMFFRkAzr"
+      },
+      "artists": [
+        {
+          "name": "Shyno",
+          "url": "https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm"
+        }
+      ],
+      "duration_ms": 292848,
+      "name": "HLF (H\u00e9ctor Lavoe Freestyle)",
+      "url": "https://open.spotify.com/track/22hQABpEq03SraVcB27lak"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -327,26 +359,6 @@
       "duration_ms": 195000,
       "name": "POSE",
       "url": "https://open.spotify.com/track/4qGgvcNoSLt3Q0ap5wWIuu"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Maldita Envidia",
-        "url": "https://open.spotify.com/album/0sE5OR1i9JpxJTr0gqOTtR"
-      },
-      "artists": [
-        {
-          "name": "Armani G",
-          "url": "https://open.spotify.com/artist/4KEqWCkkut3IlKYlQeyVti"
-        },
-        {
-          "name": "VLA Music Entertainment",
-          "url": "https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Maldita Envidia",
-      "url": "https://open.spotify.com/track/64clTCIU6JkDpu4OaxP5w1"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -563,26 +575,6 @@
       "duration_ms": 192000,
       "name": "La de Rike",
       "url": "https://open.spotify.com/track/0xgJs1JqQRHFfaRKEGM4Zf"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "ROTO",
-        "url": "https://open.spotify.com/album/3ameNWRglFr0H8QctZrhSZ"
-      },
-      "artists": [
-        {
-          "name": "Los Rakas",
-          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
-        },
-        {
-          "name": "Brooklyn",
-          "url": "https://open.spotify.com/artist/5vW3Qrk5NG9B26zSYnDjSQ"
-        }
-      ],
-      "duration_ms": 167703,
-      "name": "ROTO",
-      "url": "https://open.spotify.com/track/4qX6wVJJpIOhAoW1HwZuBB"
     },
     {
       "added_at": "2024-02-02 05:00:00",

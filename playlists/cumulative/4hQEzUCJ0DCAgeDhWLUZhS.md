@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-422 songs - 1 day 0 hr 50 min
+423 songs - 1 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Oh Love \- Otis Big Guitar Mix](https://open.spotify.com/track/5lvwDxlYo15gorOJQvCAOR) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Otis Big Guitar Mix](https://open.spotify.com/album/48mhNIo0YlJQmcpxfW8oYl) | 4:52 | 2020-10-10\* | 2021-05-13 |
 | [Oh Yeah!](https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Oh Yeah!](https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO) | 2:51 | 2020-10-10\* | 2021-05-13 |
 | [Ohms](https://open.spotify.com/track/6mfrK1kvsOjiiH64Ier962) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/3IHClJIXFPxf3xa0BNaQOd) | 4:10 | 2020-10-10\* | 2022-03-18 |
+| [On The Game](https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 4:02 | 2024-04-05 |  |
 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 | 2021-03-25 | 2022-03-18 |
 | [One Little Lie](https://open.spotify.com/track/4y8NnGih7SRWSf7kDMeEqK) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Everything Opposite](https://open.spotify.com/album/4W9hKpdYHa0hcuGh57btOW) | 3:15 | 2020-10-10\* | 2021-02-25 |
 | [Our Love](https://open.spotify.com/track/6j652760j2wctFstQmai4R) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Our Love](https://open.spotify.com/album/7CaFWcgWzWAE8ZwOszn6Og) | 3:09 | 2020-10-10\* | 2021-05-13 |

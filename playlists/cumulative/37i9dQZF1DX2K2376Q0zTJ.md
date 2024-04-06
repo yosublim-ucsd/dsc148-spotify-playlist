@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。今月のアンバサダー: Furui RIho
 
-1,138 songs - 2 day 19 hr 22 min
+1,139 songs - 2 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,7 +391,8 @@
 | [Little Red Riding Hood](https://open.spotify.com/track/1kXSvdQw5GByk7Ut432360) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Little Red Riding Hood](https://open.spotify.com/album/01IOJtpI12E42QyUjjLSL3) | 3:15 | 2023-04-04 | 2023-05-03 |
 | [Living in the city](https://open.spotify.com/track/0cdmmJVUfN4vHx0YFnvUwt) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Living in the city](https://open.spotify.com/album/2ZP9kZo7RmT5zWhY02cOnH) | 5:06 | 2022-03-07 | 2022-04-06 |
 | [Living My Life](https://open.spotify.com/track/0u0QdTGos0mxiNW95OH00b) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [5am](https://open.spotify.com/album/1dLcTY0iMPyX7i6yrz5KjP) | 3:45 | 2023-09-05 | 2023-11-08 |
-| [Loa](https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Loa](https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ) | 3:46 | 2024-02-06 |  |
+| [Loa](https://open.spotify.com/track/1Y9CRlWO9wpEuPgo3yFyOJ) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Love One Another](https://open.spotify.com/album/2BKXSl0ktKpWNHzqdAAy1T) | 3:44 | 2024-04-02 |  |
+| [Loa](https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Loa](https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ) | 3:46 | 2024-02-06 | 2024-04-06 |
 | [Lobby \- feat\. valknee](https://open.spotify.com/track/0DgP5ua5hKwB4dmjDD8n8c) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [Jargon](https://open.spotify.com/album/3UcUdZDAZYD2QnwpyD9FGc) | 3:21 | 2022-10-04 | 2022-11-09 |
 | [Look At Me](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Look At Me](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) | 3:03 | 2023-04-04 | 2023-05-03 |
 | [Looser](https://open.spotify.com/track/7KWCAjG5bfx9FfUqvpefYZ) | [Reichi](https://open.spotify.com/artist/5BQWK2wChHTnJKqmgR9D3D) | [SHIKIBU](https://open.spotify.com/album/2c8PhG02N3d7kYTwIdVqYH) | 1:57 | 2022-08-02 | 2024-04-03 |

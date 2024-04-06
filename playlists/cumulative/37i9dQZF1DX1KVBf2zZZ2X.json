@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 127500,
       "name": "Angelic Birds",
       "url": "https://open.spotify.com/track/4RRSAw83nF2cnrIlmmVAq5"
@@ -1262,6 +1262,24 @@
       "duration_ms": 210541,
       "name": "Lazy Lanta",
       "url": "https://open.spotify.com/track/7BXS7Tp5wZZdkahdfPcHvU"
+    },
+    {
+      "album": {
+        "name": "Light Of Day",
+        "url": "https://open.spotify.com/album/129PEfz7ICa9PzjLfE0lo8"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Salvius",
+          "url": "https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169021,
+      "name": "Light Of Day",
+      "url": "https://open.spotify.com/track/1UoNLlJ3FAWznkO3huAvuh"
     },
     {
       "album": {

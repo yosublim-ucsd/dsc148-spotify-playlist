@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 3290,
+  "2024-04-06": 3350,
   "date_first_scraped": "2024-03-28",
   "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Dunsin Oyekan",
   "name": "Come Alive",
@@ -731,6 +731,28 @@
       "duration_ms": 637823,
       "name": "My Worship - Live",
       "url": "https://open.spotify.com/track/7nwC7KGXARrDEAw3kzP3MK"
+    },
+    {
+      "album": {
+        "name": "Nara",
+        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296320,
+      "name": "Nara",
+      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
     },
     {
       "album": {

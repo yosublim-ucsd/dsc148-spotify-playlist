@@ -2,9 +2,9 @@
 
 ### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Novidades e destaques do indie nacional\. Foto: Tagore
+> Novidades e destaques do indie nacional\. Foto: Bruno Berle
 
-564 songs - 1 day 7 hr 57 min
+565 songs - 1 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [18 Graus](https://open.spotify.com/track/5UxS8MWKqR8C6SdV9z29h1) | [Zé Cafofinho](https://open.spotify.com/artist/1tBxo7zs1XFMIY5xbLn3Px), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [18 Graus](https://open.spotify.com/album/4eltbolPKxeIdiJZ7x6fWZ) | 3:23 | 2022-01-14 | 2022-04-09 |
 | [2 A.M.](https://open.spotify.com/track/34lKWobdEGO69CULhtiREz) | [Versaliz](https://open.spotify.com/artist/6KbgEz6ZShtrAiO5ieUvtK) | [2 A.M.](https://open.spotify.com/album/6Xn86yqgneXDChNJ9rHg49) | 2:45 | 2022-08-12 | 2023-05-13 |
 | [20 Anos e Meio](https://open.spotify.com/track/3QMQqmpesGqVcHuV0vMv2m) | [Aquino e a Orquestra Invisível](https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA) | [20 Anos e Meio](https://open.spotify.com/album/08NkxNDTSEsHlvRpVQPexm) | 3:06 | 2022-01-14 | 2022-06-04 |
-| [30+](https://open.spotify.com/track/2ViNQ8PzS2X6TZdmzxhvQX) | [perdido](https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp) | [30+](https://open.spotify.com/album/3pFDfRC5whVvNQsTnOa1Ej) | 3:17 | 2023-10-27 |  |
+| [30+](https://open.spotify.com/track/2ViNQ8PzS2X6TZdmzxhvQX) | [perdido](https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp) | [30+](https://open.spotify.com/album/3pFDfRC5whVvNQsTnOa1Ej) | 3:17 | 2023-10-27 | 2024-04-06 |
 | [6 Balas \(Ato II\)](https://open.spotify.com/track/1eWQ7LcFqQcrhzzTTVgWOY) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [6 Balas \(Ato II\)](https://open.spotify.com/album/1miphNWftzGLLtfd5HTKPr) | 4:30 | 2023-03-03 | 2023-04-01 |
 | [A Arte de Se Bastar](https://open.spotify.com/track/7dsbEhIpErUsTewANX617F) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [A Arte de Se Bastar](https://open.spotify.com/album/5EgCWm8o7qX0psDEaszJrr) | 2:18 | 2022-07-22 | 2023-03-18 |
 | [A Chegada](https://open.spotify.com/track/6cQfhvK6qQ9eFgIrbZ9bwU) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [A Chegada](https://open.spotify.com/album/1VO0sEuB8Tt4m5Askw5F6N) | 4:05 | 2023-09-01 | 2024-03-30 |
@@ -322,6 +322,7 @@
 | [nem sempre foi assim](https://open.spotify.com/track/00SaOQz2IJCWaxik1UM05P) | [gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [nem sempre foi assim](https://open.spotify.com/album/6qJ4djzuo97V866oqDnkUn) | 3:32 | 2022-06-03 | 2022-08-20 |
 | [nesse verão](https://open.spotify.com/track/2o7Dnb3uCe2NRJhSEAruNv) | [Ente](https://open.spotify.com/artist/2lOXiSPGZ3mm6JpMhmL1bZ) | [nesse verão](https://open.spotify.com/album/51jNv8hQZrxuUg1tGbNU1A) | 2:47 | 2023-08-18 | 2023-12-02 |
 | [Netuno](https://open.spotify.com/track/4txAAaLKHl9ZZGx3Zm0vDy) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl), [Fernando Rischbieter](https://open.spotify.com/artist/5G8onWVn2gx1OL3YuptZ6G) | [Netuno](https://open.spotify.com/album/42JEz98glWhal7Nte70EXS) | 5:50 | 2022-03-18 | 2022-05-07 |
+| [New Hit](https://open.spotify.com/track/70zZZhvy13xMJkWk6XbVdc) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0), [batata boy](https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA) | [No Reino Dos Afetos 2](https://open.spotify.com/album/3rxsQARg1OiAIyDbEmgCy3) | 2:43 | 2024-04-05 |  |
 | [ninguém me perguntou](https://open.spotify.com/track/5f0OwJ1g8pGJqPModI6GBC) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [ninguém me perguntou](https://open.spotify.com/album/1PgEp8TGHXMsxFDWcDqVQV) | 2:36 | 2022-01-28 | 2022-03-12 |
 | [Ninguém Solta A Mão De Ninguém \- Jeff Pierre Remix](https://open.spotify.com/track/5vUkw7XU9iYFzBbacSqSsD) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [Jeff Pierre](https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt) | [Ninguém Solta A Mão De Ninguém \(Jeff Pierre Remix\)](https://open.spotify.com/album/4Y2eWP0Pg4O3nWPFPHgPzi) | 3:21 | 2022-07-15 | 2022-07-23 |
 | [No Escuro](https://open.spotify.com/track/2ZHxQrtMQF5goQyNUWG702) | [Mini Lamers](https://open.spotify.com/artist/4gJTuwBkcgDY6BC2lpYavZ), [Bemti](https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW) | [No Escuro](https://open.spotify.com/album/3SnTf4h0rOS9f6f31wr9P2) | 3:55 | 2022-01-14 | 2022-01-22 |

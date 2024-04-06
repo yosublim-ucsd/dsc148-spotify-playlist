@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:0TAMn2YGFdRgi3odrRdlQG">O quem tem na sua carteira?</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,373 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,372 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCwzNjQ3YjY2MTQ5NWQ1NGZmNzE1OWU1NTk3ZjdlM2NlZWQxNDE4ZDU5`
+Snapshot ID: `MCwwNDQ1OGZkZTY2MWFlYzQ3Mzg5YTA2ZjY4ZWY5ZWIzMmY2MzU3NWZh`

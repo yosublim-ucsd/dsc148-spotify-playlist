@@ -2,7 +2,7 @@
 
 ### [Rock The World](https://open.spotify.com/playlist/37i9dQZF1DWYXBm3qy96SP)
 
-> 話題のロックヒットをVolume上げて爆音で。Cover: YUNGBLUD
+> 話題のロックヒットをVolume上げて爆音で。Cover: Vampire Weekend
 
 1,187 songs - 2 day 20 hr 16 min
 

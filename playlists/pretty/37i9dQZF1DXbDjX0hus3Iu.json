@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 495246,
+  "num_followers": 495333,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzkwNzE5Yzc4N2VmN2QxZmQ3NTA5MjIzMjcxZjgxMjI1ZThjM2Q2",
+  "snapshot_id": "MCxiYTFmMDlhNGVlMWI4ZmVhN2RkNzJkMDVhNDg1MDhkMWViOTczZGI1",
   "tracks": [
     {
       "added_at": "2024-03-19 19:54:29",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "The Deep End Vol. 1",
-        "url": "https://open.spotify.com/album/378K25f02JVVcrMbeL6Pp1"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 467800,
-      "name": "Soulshine",
-      "url": "https://open.spotify.com/track/3lzYx9dpCNw6CkttQe6SlE"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
         "name": "The Whippoorwill",
         "url": "https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 298786,
       "name": "Ain't Much Left of Me",
       "url": "https://open.spotify.com/track/4jKBjyOdVKfmyauxwW8QUs"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "The Deep End Vol. 1",
+        "url": "https://open.spotify.com/album/378K25f02JVVcrMbeL6Pp1"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 467800,
+      "name": "Soulshine",
+      "url": "https://open.spotify.com/track/3lzYx9dpCNw6CkttQe6SlE"
     },
     {
       "added_at": "2024-03-19 19:54:29",

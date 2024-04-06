@@ -602,7 +602,7 @@
     {
       "album": {
         "name": "Juice Me Up",
-        "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
+        "url": "https://open.spotify.com/album/7MFmqMEzQADRE2XBDmeRE4"
       },
       "artists": [
         {
@@ -613,6 +613,24 @@
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 303600,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/18CULvgFLFllHM07Khy6lH"
+    },
+    {
+      "album": {
+        "name": "Juice Me Up",
+        "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "date_added": "2020-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-06",
       "duration_ms": 303600,
       "name": "Falling",
       "url": "https://open.spotify.com/track/30h268bCKmGWxFleXGYATy"
@@ -1576,7 +1594,7 @@
     {
       "album": {
         "name": "Chills & Fever",
-        "url": "https://open.spotify.com/album/23zeW7minvQQfP2XifkF17"
+        "url": "https://open.spotify.com/album/5NZDCNOT2froy17ZVqEM9F"
       },
       "artists": [
         {
@@ -1587,6 +1605,24 @@
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Nearer to You",
+      "url": "https://open.spotify.com/track/4RZpEldGCrBIDdfkFqkAgw"
+    },
+    {
+      "album": {
+        "name": "Chills & Fever",
+        "url": "https://open.spotify.com/album/23zeW7minvQQfP2XifkF17"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "date_added": "2020-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-06",
       "duration_ms": 204000,
       "name": "Nearer to You",
       "url": "https://open.spotify.com/track/4r27op6qF2c6aOvVwiaNrI"

@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90254,
+  "num_followers": 90245,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWVlZjdhZTJhYjBkYzhhY2YwZTVhMzA2ZGE1MWYwZGJjYjc1ZTI1",
+  "snapshot_id": "MCw5MTQzN2RmMWQ4YWY0NmMwNzkxMDdkMzg1YzBkMzFlMDdkZjVjOTc3",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "2:30AM",
-        "url": "https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 182937,
-      "name": "2:30AM",
-      "url": "https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Broken Hearted Crook",
         "url": "https://open.spotify.com/album/7b21OHTHyZynzt1ehAyhSF"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 168158,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/1ctqXOZ0hbWiLcxRlT1DTx"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "2:30AM",
+        "url": "https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 182937,
+      "name": "2:30AM",
+      "url": "https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx"
     },
     {
       "added_at": "2023-08-01 17:14:44",

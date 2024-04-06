@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 74592,
+  "2024-04-06": 74601,
   "date_first_scraped": "2022-09-15",
   "description": "Funky & groovy tunes for poolside chilling.",
   "name": "Poolside Grooves",
@@ -716,6 +716,32 @@
     },
     {
       "album": {
+        "name": "Been Thinkin' Bout You",
+        "url": "https://open.spotify.com/album/6M9QsxnttNHnijwyGf9OBR"
+      },
+      "artists": [
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        },
+        {
+          "name": "Wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        },
+        {
+          "name": "Worthington Callihan",
+          "url": "https://open.spotify.com/artist/7fKXIeACOtgACUIiTbhdbc"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130810,
+      "name": "Been Thinkin' Bout You",
+      "url": "https://open.spotify.com/track/7d9qw2DDMrqkufHeokZ80g"
+    },
+    {
+      "album": {
         "name": "Bend The Rules (Full Crate Remix)",
         "url": "https://open.spotify.com/album/6cqm4baMze3aMs3skx9u6r"
       },
@@ -1351,6 +1377,24 @@
       "duration_ms": 174213,
       "name": "dancing",
       "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
+    },
+    {
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/1gAoBaLZU6QUS7ZEDRVMp0"
+      },
+      "artists": [
+        {
+          "name": "SAYGRACE",
+          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199416,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/1CgcOhJhoEBfQ5rlyhkacQ"
     },
     {
       "album": {
@@ -5049,6 +5093,32 @@
       "duration_ms": 242654,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/4oHghaXlFoXhq8SZHjvIYr"
+    },
+    {
+      "album": {
+        "name": "Say Wow",
+        "url": "https://open.spotify.com/album/3mH4zZR8kzXE9tQSYnMV2b"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Jay Prince",
+          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177873,
+      "name": "Say Wow",
+      "url": "https://open.spotify.com/track/27BXc7zVWqSTiWHSdOlJch"
     },
     {
       "album": {

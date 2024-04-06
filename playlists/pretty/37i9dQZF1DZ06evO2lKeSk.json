@@ -1,29 +1,13 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 317989,
+  "num_followers": 318151,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzU5YjMxODlhZjQ2NmNjNjU3ZWIyYjk3YjE4NjFiNjdmMTdlZWU2",
+  "snapshot_id": "MCxhYzZkODQzZjg2NDcyN2YwZGRlNjViMmQzZjYwODUwOGI0ZDg4YWEy",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Me Digas (En Vivo)",
-        "url": "https://open.spotify.com/album/6NMQo0oesPRr3kDik5wdIH"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 264085,
-      "name": "No Me Digas - En Vivo",
-      "url": "https://open.spotify.com/track/5qtEihIGUr0HmIcE4I5aL5"
-    },
     {
       "added_at": null,
       "album": {
@@ -967,8 +951,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ana Gabriel En La Plaza De Toros M\u00e9xico",
-        "url": "https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy"
+        "name": "No Me Digas (En Vivo)",
+        "url": "https://open.spotify.com/album/6NMQo0oesPRr3kDik5wdIH"
       },
       "artists": [
         {
@@ -976,9 +960,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 352160,
-      "name": "M\u00e9xico Lindo y Querido / Cielito Lindo - En Vivo",
-      "url": "https://open.spotify.com/track/1CqfnWRVcguK6k8qOORJpu"
+      "duration_ms": 264085,
+      "name": "No Me Digas - En Vivo",
+      "url": "https://open.spotify.com/track/5qtEihIGUr0HmIcE4I5aL5"
     },
     {
       "added_at": null,

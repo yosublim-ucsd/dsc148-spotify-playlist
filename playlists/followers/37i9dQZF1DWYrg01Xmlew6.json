@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 189937,
+  "2024-04-06": 190047,
   "date_first_scraped": "2022-05-12",
   "description": "Rap napoletano e il meglio della scena campana. Vale Lambo e Geolier in cover. ",
   "name": "Int 'o Rione",
@@ -1607,7 +1607,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 161104,
       "name": "FAMM SAPE",
       "url": "https://open.spotify.com/track/5H77TWyf3zFMxZFNYeayQ1"
@@ -2198,6 +2198,28 @@
     },
     {
       "album": {
+        "name": "Edo - Ultimo Atto",
+        "url": "https://open.spotify.com/album/04pYMVGJMSk58Ew6QqZCay"
+      },
+      "artists": [
+        {
+          "name": "Matteo Paolillo",
+          "url": "https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Il Malessere (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2QY4kWgGeTMVkHPQXevNaS"
+    },
+    {
+      "album": {
         "name": "PIAZZA NOIA",
         "url": "https://open.spotify.com/album/1R5ZIS1zYkFptbn69V9vaa"
       },
@@ -2759,7 +2781,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 155698,
       "name": "MAGLIARO",
       "url": "https://open.spotify.com/track/2sDyiR7gYAlSVCbHx1kqrL"
@@ -4050,6 +4072,24 @@
     },
     {
       "album": {
+        "name": "PACTO",
+        "url": "https://open.spotify.com/album/69PGHUPMp7FPMND7IMZKnm"
+      },
+      "artists": [
+        {
+          "name": "VMonster",
+          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121963,
+      "name": "PACTO",
+      "url": "https://open.spotify.com/track/1iYAxtlitQm6FNRH2HkIln"
+    },
+    {
+      "album": {
         "name": "Pane e miseria",
         "url": "https://open.spotify.com/album/2QGUAAI0ygmYQ6nBjqlydS"
       },
@@ -4511,7 +4551,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 204851,
       "name": "Primma",
       "url": "https://open.spotify.com/track/7GY5uK8LtZGIA4IiGg5Li2"
@@ -4789,6 +4829,24 @@
       "duration_ms": 184000,
       "name": "RICCHEZZA",
       "url": "https://open.spotify.com/track/1ZtubpenKBRE4ACrynt0MA"
+    },
+    {
+      "album": {
+        "name": "RINCELL",
+        "url": "https://open.spotify.com/album/4OWZxHL6TAVfYmJXMZXZwr"
+      },
+      "artists": [
+        {
+          "name": "Hosawa",
+          "url": "https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "RINCELL",
+      "url": "https://open.spotify.com/track/0MpD4CbRRc7dd0UBAHxypb"
     },
     {
       "album": {

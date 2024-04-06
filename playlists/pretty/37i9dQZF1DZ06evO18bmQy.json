@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 194929,
+  "num_followers": 194971,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTE3NDE5Y2E4YWQ3MDhiOTI3MTY4ZGNkODc3NDM2OWJlODVlMjk2",
+  "snapshot_id": "MCw0MWQ2MThmNDViOWFhOTFlNGZlZTc5NDNjMjhkZjA3ZTYzODExMzky",
   "tracks": [
     {
       "added_at": null,
@@ -947,6 +947,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "P\u00f3dio",
+        "url": "https://open.spotify.com/album/7APauEMJTjJ92yVrCoa16T"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 292881,
+      "name": "P\u00f3dio",
+      "url": "https://open.spotify.com/track/3HbwiEXq3qP1fxF34knmnV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qual Calcinha",
         "url": "https://open.spotify.com/album/19TYuGXRoOVcWLcfQInn6M"
       },
@@ -979,54 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "Sintoniza",
-      "url": "https://open.spotify.com/track/52aonA32y0YYt1NfnZNvWv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00f3dio",
-        "url": "https://open.spotify.com/album/7APauEMJTjJ92yVrCoa16T"
-      },
-      "artists": [
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 292881,
-      "name": "P\u00f3dio",
-      "url": "https://open.spotify.com/track/3HbwiEXq3qP1fxF34knmnV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Pior M\u00fasica do Ano",
         "url": "https://open.spotify.com/album/2Ff61nFXs7yOOhHMHJFEVV"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 219103,
       "name": "A Pior M\u00fasica do Ano",
       "url": "https://open.spotify.com/track/4jT1MGqV0EHR9AGis0L4CG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "Sintoniza",
+      "url": "https://open.spotify.com/track/52aonA32y0YYt1NfnZNvWv"
     },
     {
       "added_at": null,

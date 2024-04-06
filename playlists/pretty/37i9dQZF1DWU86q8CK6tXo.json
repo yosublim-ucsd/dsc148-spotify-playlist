@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Maren Morris",
-  "num_followers": 52569,
+  "num_followers": 52597,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWRjZTEzZGVmYTE4MDRlNTdiZmYyYTZmZGE4Mzg2YmNlNzU3MGYy",
+  "snapshot_id": "MCwzMDdjZmI1MzdkODJiZmQ5ODM4MmQ2MTRhYmMxY2E0MjRjZGI3NTgz",
   "tracks": [
     {
       "added_at": "2024-04-01 04:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-04-01 04:00:00",
       "album": {
-        "name": "Free Treasure",
-        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 215514,
-      "name": "Free Treasure",
-      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
-    },
-    {
-      "added_at": "2024-04-01 04:00:00",
-      "album": {
         "name": "nicotine",
         "url": "https://open.spotify.com/album/2v0JLejYwSc81UPDU1cI4v"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 216440,
       "name": "nicotine",
       "url": "https://open.spotify.com/track/0fKAYdwDXbyhHnveCLxHxR"
+    },
+    {
+      "added_at": "2024-04-01 04:00:00",
+      "album": {
+        "name": "Free Treasure",
+        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
     },
     {
       "added_at": "2024-04-01 04:00:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-04-01 04:00:00",
       "album": {
-        "name": "hummingbird",
-        "url": "https://open.spotify.com/album/7uWRQGtSciziEDFxqcWNkS"
+        "name": "Me Lo Merezco",
+        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
       },
       "artists": [
         {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         }
       ],
-      "duration_ms": 267149,
-      "name": "hummingbird",
-      "url": "https://open.spotify.com/track/5HAff5WrHbF6Z5OQ87xMYY"
+      "duration_ms": 172125,
+      "name": "Me Lo Merezco",
+      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
     },
     {
       "added_at": "2024-04-01 04:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-04-01 04:00:00",
       "album": {
-        "name": "Me Lo Merezco",
-        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
+        "name": "hummingbird",
+        "url": "https://open.spotify.com/album/7uWRQGtSciziEDFxqcWNkS"
       },
       "artists": [
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         }
       ],
-      "duration_ms": 172125,
-      "name": "Me Lo Merezco",
-      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
+      "duration_ms": 267149,
+      "name": "hummingbird",
+      "url": "https://open.spotify.com/track/5HAff5WrHbF6Z5OQ87xMYY"
     },
     {
       "added_at": "2024-04-01 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-04-01 04:00:00",
       "album": {
-        "name": "DIRT",
-        "url": "https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD"
-      },
-      "artists": [
-        {
-          "name": "Zoe Ko",
-          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "DIRT",
-      "url": "https://open.spotify.com/track/4yecHdRmT62mztymihKxYK"
-    },
-    {
-      "added_at": "2024-04-01 04:00:00",
-      "album": {
         "name": "All I Ever Want Is Everything",
         "url": "https://open.spotify.com/album/1U2atfLjw1MKte54JUjcQR"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 200366,
       "name": "Disappearing (feat. Magdalena Bay)",
       "url": "https://open.spotify.com/track/0nxPeolI7FlljJ3SnNYDmj"
+    },
+    {
+      "added_at": "2024-04-01 04:00:00",
+      "album": {
+        "name": "DIRT",
+        "url": "https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "DIRT",
+      "url": "https://open.spotify.com/track/4yecHdRmT62mztymihKxYK"
     },
     {
       "added_at": "2024-04-01 04:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-04-01 04:00:00",
       "album": {
-        "name": "Someone to Follow",
-        "url": "https://open.spotify.com/album/6YeSuJSCR7M1BQXM59o0h5"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 286146,
-      "name": "Someone to Follow",
-      "url": "https://open.spotify.com/track/66quf0gB7ZRU9Dgdbhpoy9"
-    },
-    {
-      "added_at": "2024-04-01 04:00:00",
-      "album": {
         "name": "Right Spot",
         "url": "https://open.spotify.com/album/2hOXLBMjHBJZNT1WMmwjp0"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 170629,
       "name": "Right Spot",
       "url": "https://open.spotify.com/track/2pgCADpQ8xzPTRt2YwmJue"
+    },
+    {
+      "added_at": "2024-04-01 04:00:00",
+      "album": {
+        "name": "Someone to Follow",
+        "url": "https://open.spotify.com/album/6YeSuJSCR7M1BQXM59o0h5"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 286146,
+      "name": "Someone to Follow",
+      "url": "https://open.spotify.com/track/66quf0gB7ZRU9Dgdbhpoy9"
     },
     {
       "added_at": "2024-04-01 04:00:00",

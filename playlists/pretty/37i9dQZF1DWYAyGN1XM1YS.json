@@ -1,12 +1,12 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: Weezer",
-  "num_followers": 126456,
+  "num_followers": 126476,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWI4Mzk4ZjgwMDQ1OWJjZTNjNzBiNzljMGY3MGUwMTEyZWVhNWJj",
+  "snapshot_id": "MCwzOGVkYjE5M2YzNmJmZDE5MzJjM2E1ODk1OTU4MzU3ODcxYzlhNzQy",
   "tracks": [
     {
       "added_at": "2023-03-28 15:58:25",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Your Favorite Weapon",
-        "url": "https://open.spotify.com/album/1kRnFF71UTGdHmSrRDllKj"
-      },
-      "artists": [
-        {
-          "name": "Brand New",
-          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "Jude Law And A Semester Abroad",
-      "url": "https://open.spotify.com/track/4w7hIjpuEfvMPiyEgdqlf6"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "Translating the Name",
         "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 158360,
       "name": "3rd Measurement in C",
       "url": "https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Your Favorite Weapon",
+        "url": "https://open.spotify.com/album/1kRnFF71UTGdHmSrRDllKj"
+      },
+      "artists": [
+        {
+          "name": "Brand New",
+          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "Jude Law And A Semester Abroad",
+      "url": "https://open.spotify.com/track/4w7hIjpuEfvMPiyEgdqlf6"
     },
     {
       "added_at": "2023-03-28 15:58:25",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Magnified",
-        "url": "https://open.spotify.com/album/5LTiLtGa8g0TWWcjL2ymnR"
-      },
-      "artists": [
-        {
-          "name": "Failure",
-          "url": "https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/6k7TQSB0vW7EuSJs9vEvNl"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "The Shape Of Punk To Come (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 250520,
       "name": "Liberation Frequency",
       "url": "https://open.spotify.com/track/6aM4iOuWyRQShk8uRaLNqN"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Magnified",
+        "url": "https://open.spotify.com/album/5LTiLtGa8g0TWWcjL2ymnR"
+      },
+      "artists": [
+        {
+          "name": "Failure",
+          "url": "https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/6k7TQSB0vW7EuSJs9vEvNl"
     },
     {
       "added_at": "2023-03-28 15:58:25",

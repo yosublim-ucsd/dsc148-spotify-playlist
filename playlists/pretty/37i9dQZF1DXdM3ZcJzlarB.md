@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Mariano Mellino
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,120 likes - 80 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,122 likes - 80 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 79 | [Tantanbo \- Mauro Augugliaro Remix](https://open.spotify.com/track/0vPcPZjbwh7kUvaTTu23ir) | [Monojoke](https://open.spotify.com/artist/6WtncXp78N12hQFMe0e2fm), [Mauro Augugliaro](https://open.spotify.com/artist/3csrOIvyyUQ6oZCbeublbj) | [Tantanbo \(Mauro Augugliaro Remix\)](https://open.spotify.com/album/3eMuIBpHfCAHsE1NFcAyKt) | 7:38 |
 | 80 | [My Love \(Soul\)](https://open.spotify.com/track/2CDGL4qBBR3E2UaFaRLCB8) | [Sol Vietto](https://open.spotify.com/artist/19NMbL7lyVMUILzd1GAtWL) | [My Love](https://open.spotify.com/album/3i27h5xJ1lwMMdFigWvoVD) | 4:11 |
 
-Snapshot ID: `MCw3NGI1Nzc3MTAxNzZiNGRmMzYxMjU1OTE0YzAzZDM2ZDBiYTIwYzZh`
+Snapshot ID: `MCxiZTE0MTc4MWIwNWY5ZTI3M2MyMzBhMmQ3MDAxMjJjZjU3ODNiMmY0`

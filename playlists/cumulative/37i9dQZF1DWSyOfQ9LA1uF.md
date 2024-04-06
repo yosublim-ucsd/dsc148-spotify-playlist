@@ -4,7 +4,7 @@
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-169 songs - 13 hr 1 min
+170 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [D.A.N.C.E.](https://open.spotify.com/track/2hQCzcb3qyZirWzOD5Yzoj) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Cross](https://open.spotify.com/album/3CWD6k4rJIG72OXkSk98tf) | 3:29 | 2021-01-12 | 2022-07-29 |
 | [Day 'N' Nite \- Crookers Remix](https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Day 'N' Nite \(Crookers Remix\)](https://open.spotify.com/album/6tisDlBrOOltEsFFq2vy6F) | 4:41 | 2021-01-12 |  |
 | [Disco Shoes \- Electrixx Mix](https://open.spotify.com/track/43BRvTH97W9jPjJYTjV1bo) | [Acid Jacks](https://open.spotify.com/artist/3Gcp6oFkW9YAQxE6XgWU1w) | [Disco Shoes](https://open.spotify.com/album/2eLBlmbqw2mkYYGP7a76aT) | 5:41 | 2022-02-03 | 2022-07-26 |
-| [Discotirso](https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B) | [Knightlife](https://open.spotify.com/artist/5NteBfpzjcVerc1OK9XelJ) | [II](https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf) | 4:17 | 2022-02-03 |  |
+| [Discotirso](https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B) | [Knightlife](https://open.spotify.com/artist/5NteBfpzjcVerc1OK9XelJ) | [II](https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf) | 4:17 | 2022-02-03 | 2024-04-06 |
 | [Divine Gosa \- Switch Remix](https://open.spotify.com/track/129dJun5a4EQkHHyeBaXzK) | [Radioclit](https://open.spotify.com/artist/0WEKC3ONQljn5OPW3oc2Qz), [Switch](https://open.spotify.com/artist/5QIvu1WkpulTpOG9qz9nap) | [Switch \- The Remixes](https://open.spotify.com/album/626KZKzf2EQdVllMILIVPp) | 5:55 | 2021-01-12 | 2022-07-19 |
 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 | 2022-02-03 |  |
 | [Drop Down](https://open.spotify.com/track/6PsPqzP898zrkIWTDnaOEw) | [Designer Drugs](https://open.spotify.com/artist/57cAxOmmlpgjNDQovRUuXA) | [Hardcore/Softcore](https://open.spotify.com/album/4L6Jl6anOBJW6pMFocdjp4) | 3:47 | 2022-02-03 | 2022-07-28 |
@@ -126,6 +126,7 @@
 | [Rainbow Man](https://open.spotify.com/track/3ZutS6kzYIHQknkuuHtpUP) | [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [Rainbow Man 2.0](https://open.spotify.com/album/4RunDtINJwyxkCsIGuRErt) | 3:34 | 2022-02-03 |  |
 | [Rapture](https://open.spotify.com/track/0ljqsKHYQHnxGC6s5BAhlS) | [Data](https://open.spotify.com/artist/75QkeG5yBHVCybZurCrMa8) | [Skywriter](https://open.spotify.com/album/0uqh1FSdgvKmYMFkZTLyYb) | 3:38 | 2021-01-12 | 2024-01-03 |
 | [Raven](https://open.spotify.com/track/1a1uwEcHNQO23gn697YC7u) | [Proxy](https://open.spotify.com/artist/3KOzW9NF2ZGwYRo0KfID1R) | [Music from the East Block Jungles, Pt\. 1](https://open.spotify.com/album/0NCDCxptTQECftY5cL2uSg) | 5:54 | 2021-01-12 | 2022-07-29 |
+| [Raven](https://open.spotify.com/track/5A1HPEGajIacszMaOdbMxe) | [Proxy](https://open.spotify.com/artist/3KOzW9NF2ZGwYRo0KfID1R) | [Raven](https://open.spotify.com/album/2WGMiH7PUqQazj2dSAK4jw) | 5:54 | 2022-08-24 |  |
 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 | 2021-01-12 |  |
 | [Roman](https://open.spotify.com/track/1yb35WfP1wdOnSfSGDxWUY) | [Housse de Racket](https://open.spotify.com/artist/3YklpiasaBYuNuVfKdJ9Mj) | [Roman](https://open.spotify.com/album/26MSI1T3XBBRW1l6dN16ig) | 3:05 | 2022-02-03 | 2022-07-29 |
 | [Roman](https://open.spotify.com/track/1YVXSfWLzPtOaMyZhbDRN9) | [Housse de Racket](https://open.spotify.com/artist/3YklpiasaBYuNuVfKdJ9Mj) | [Alésia](https://open.spotify.com/album/3IMcoVivtk0v83rK4j72km) | 3:07 | 2022-02-03 |  |

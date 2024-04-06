@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2tS0v7814se.md) - [plain]
 
 > Disfruta con los dulces y tradicionales sonidos de la marimba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,959 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,966 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2tS0v7814se.md) - [plain]
 | 9 | [Las Morenas](https://open.spotify.com/track/5qxIUBqG6wnhmrvWDCGoc8) | [Fidel Funes Y Su Marimba Orquesta](https://open.spotify.com/artist/1xcedy1ZFkXIQcobLl0S6t) | [Los Mejores Exitos Bailables Vol\. 2\. Música de Guatemala para los Latinos](https://open.spotify.com/album/4WmKl5Vu0UVQ0xa1osHlZw) | 3:17 |
 | 10 | [Son Tus Perjúmenes Mujer](https://open.spotify.com/track/5ugkh4WYcSGeaBEENv09WS) | [Marimba Orquesta Corona De Tapachula](https://open.spotify.com/artist/5A49aknVU0AJMFRYMOvYYb) | [Camarón Pelao](https://open.spotify.com/album/4HnYiXe7LL0uZCIyHrltZm) | 3:01 |
 | 11 | [Cumbia En Sax](https://open.spotify.com/track/36VxbHKjQtvcbcbjpxBYsV) | [Marimba Orquesta Perla De Chiapas](https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP) | [Cumbia en Sax](https://open.spotify.com/album/6odoG3ksfKUBbe4Se8GFXA) | 2:42 |
-| 12 | [Cobanerita](https://open.spotify.com/track/7G2jpDYsYymA0KMrTipx61) | [Maria Concepcion](https://open.spotify.com/artist/13h5HsotnBVAMnYkJwHlOc) | [100 Melodías de Guatemala Con las Mejores Marimbas](https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL) | 3:39 |
-| 13 | [Mananitas Oaxaquenas](https://open.spotify.com/track/0BGbCGj64JXjK44dTHvhow) | [La Marimba Del Estado De Oaxaca](https://open.spotify.com/artist/0Ck35azLqcQ0Bvbu9rNcOr) | [Musica Folklorica](https://open.spotify.com/album/6nmZc3BHL7iCKbUec7YxrZ) | 2:49 |
+| 12 | [Mananitas Oaxaquenas](https://open.spotify.com/track/0BGbCGj64JXjK44dTHvhow) | [La Marimba Del Estado De Oaxaca](https://open.spotify.com/artist/0Ck35azLqcQ0Bvbu9rNcOr) | [Musica Folklorica](https://open.spotify.com/album/6nmZc3BHL7iCKbUec7YxrZ) | 2:49 |
+| 13 | [Cobanerita](https://open.spotify.com/track/7G2jpDYsYymA0KMrTipx61) | [Maria Concepcion](https://open.spotify.com/artist/13h5HsotnBVAMnYkJwHlOc) | [100 Melodías de Guatemala Con las Mejores Marimbas](https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL) | 3:39 |
 | 14 | [Musica de Mi Tierra Chiapaneca: La Tortuga de la Arenal, El Rascapetate, Chiapas, Las Chiapanecas, Los Parachicos, Aunque me Lleve el Diablo, El Sapo \- Mix](https://open.spotify.com/track/0t2eoNUaPirQWmcVNyUsOz) | [Marimba Alma de Chiapas de Juan Palacios](https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm) | [Marimba Alma de Chiapas de Juan Palacios](https://open.spotify.com/album/4kVXVvfWMUzSiYQtTnv3BB) | 6:07 |
 | 15 | [Chichicastenango](https://open.spotify.com/track/1rwlKOsgQrEGesRVYvfaV5) | [Marimba Chapinlandia](https://open.spotify.com/artist/4QPuhZw8xXaXXvFMmpzV5S) | [Chapinlandia \- Marimba Music of Guatemala](https://open.spotify.com/album/6zHrFAUEzDr6ePD4YgqekG) | 4:19 |
 | 16 | [Linda Kelly](https://open.spotify.com/track/4EtUJ9yFoNehGggP3OgKtK) | [Internacionales Conejos](https://open.spotify.com/artist/60rvB6FcgAca5rMqSWDfSf) | [Tradición de 100 Años en Marimba Pura\. Música de Guatemala para los Latinos](https://open.spotify.com/album/2mZDqconWPyMujWlnLE2ux) | 4:51 |
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2tS0v7814se.md) - [plain]
 | 59 | [La Marciana](https://open.spotify.com/track/0S2AX13PKaNddTBUZi5Hif) | [Marimba Orquesta Corona De Chiapas](https://open.spotify.com/artist/5nTY0W9QPvOABMJ8B6a3Cu) | [Marinbanda](https://open.spotify.com/album/4JvzDBqoWI1CGVdtjHlYZG) | 3:45 |
 | 60 | [Las Mañanitas](https://open.spotify.com/track/4PelarhQJOESpMFTunAoNV) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Marimbas Clasicas](https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX) | 1:37 |
 | 61 | [Mambo No\. 5](https://open.spotify.com/track/2SxY5ATUpTUSowmQclPhTm) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Danzones, Mambos y Cha Cha Chas](https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL) | 3:13 |
-| 62 | [Sabor a Mi](https://open.spotify.com/track/6V94Oxsr2RPI82dF9jAZmo) | [Marimba Orquesta Reyna Tuxtleca](https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO) | [Exitos Con Marimba](https://open.spotify.com/album/0guJCJ5ggdnWxl2C9Ejzi9) | 4:27 |
+| 62 | [Yo No Fui](https://open.spotify.com/track/7G5YcICaR0V8DO1bih6X9s) | [Marimba Orquesta Reyna Tuxtleca](https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO) | [Exitos Con Marimba](https://open.spotify.com/album/0guJCJ5ggdnWxl2C9Ejzi9) | 5:22 |
 | 63 | [El baile de la princesa](https://open.spotify.com/track/47MhagmDxnVzAvvQoRCZcD) | [Marimba Sonora GC](https://open.spotify.com/artist/1f1CzvHnAWZaOgYDP4qdSM) | [Luna De Plata](https://open.spotify.com/album/5uqxycnvcPcni1HxiXyB03) | 4:01 |
 | 64 | [Al son de la marimba](https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh) | [Na'rimbo](https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt) | [...un poco mas.](https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM) | 6:10 |
 | 65 | [Lamento Borincano](https://open.spotify.com/track/6friGZJwG8rdCZMo7HGb0O) | [Marimba Águilas de Chiapas](https://open.spotify.com/artist/2DJhojqYByMMfsQXTDGr0U) | [Danzones Clásicos](https://open.spotify.com/album/4cMoH0T5ErUfWa4DDwIqsG) | 3:12 |
 | 66 | [El Grito, Marimba de Guatemala](https://open.spotify.com/track/1oW8bNLGJU5uZArvEpLm5m) | [Shigualita](https://open.spotify.com/artist/6Ur4SvFxoRPB0jUzdHZg7a) | [World Music Guatemala, Danzas Mayas, Mayan Dances](https://open.spotify.com/album/0dKCmV0ACWcV5JqebK6ibq) | 2:47 |
 | 67 | [El Vuelo del Abejorro](https://open.spotify.com/track/4MaT5mpCJ5DvipUR0uQAEw) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [En Concierto](https://open.spotify.com/album/2lfTr5gFbW8j6PzZUXa3nw) | 1:09 |
-| 68 | [Yo No Fui](https://open.spotify.com/track/7G5YcICaR0V8DO1bih6X9s) | [Marimba Orquesta Reyna Tuxtleca](https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO) | [Exitos Con Marimba](https://open.spotify.com/album/0guJCJ5ggdnWxl2C9Ejzi9) | 5:22 |
+| 68 | [Sabor a Mi](https://open.spotify.com/track/6V94Oxsr2RPI82dF9jAZmo) | [Marimba Orquesta Reyna Tuxtleca](https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO) | [Exitos Con Marimba](https://open.spotify.com/album/0guJCJ5ggdnWxl2C9Ejzi9) | 4:27 |
 | 69 | [Obertura indigena \(Marimba version\)](https://open.spotify.com/track/2m3b8k1jZSPQgWsXn9ltUw) | [Marimba de Concierto de Chichicastenango](https://open.spotify.com/artist/4RLtu3vMR2RJi4OGXV7ABV) | [Música de Guatemala en Marimba](https://open.spotify.com/album/4jJIhOVAFGrbpnyb4SYBVC) | 7:24 |
 | 70 | [20 de Enero](https://open.spotify.com/track/68dfC4E9fkr5Eh75Ga7rK3) | [Flor del Manzano](https://open.spotify.com/artist/0E3OrgxKZ6i95hfGtEeJYm) | [100 Melodías de Guatemala Con las Mejores Marimbas](https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL) | 3:42 |
 | 71 | [Marcha Alla Turca](https://open.spotify.com/track/5FtkyaM1DPkN8jbss587DM) | [Zeferino Nandayapa Y Su Marimba Clásica](https://open.spotify.com/artist/63q0X2TZShQKjNlnkgdSWO) | [De Lo Selecto a Lo Clásico Vol\. 2 \- Zeferino Nandayapa y Su Marimba Clásica](https://open.spotify.com/album/17rdCxwUeZAepz8sagX7YN) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2tS0v7814se.md) - [plain]
 | 99 | [La Niña Popoff](https://open.spotify.com/track/2qlryAB5I1brraqiCVBuBF) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Danzones, Mambos y Cha Cha Chas](https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL) | 2:23 |
 | 100 | [Caballo Negro](https://open.spotify.com/track/1BDQIqtflr6e00qXSUqpW0) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Danzones, Mambos y Cha Cha Chas](https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL) | 2:19 |
 
-Snapshot ID: `MCw4ZmFiMjdjMWU0ODBiN2NjYTg1Mzc4MGZjOTQwNGM3ZWMyNTg5ODQ1`
+Snapshot ID: `MCw0OWFkOTc0Nzk1NWMxMTYzYTY3OWIzZmI0NDQxMjIxZGQwM2I4ZDg2`

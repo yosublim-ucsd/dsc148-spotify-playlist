@@ -1,12 +1,12 @@
 {
   "description": "to the people who look at the stars and wish \ud83e\uddda\u200d\u2640\ufe0f",
-  "num_followers": 13226,
+  "num_followers": 13242,
   "original_name": "Faerie Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGE2NDQ3MTZkYjU5Y2RhNGFhZjAzZjAwMzMwZDJlZWJlNDRkNzZl",
+  "snapshot_id": "MCxkMDc4N2VhMTNkM2MxMjlkNGNlNDc3YWQ1ODg4MzExMzA3YmFiM2Jj",
   "tracks": [
     {
       "added_at": "2024-03-25 20:44:21",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-25 20:15:23",
       "album": {
-        "name": "Howl's Moving Castle Soundtrack",
-        "url": "https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl"
-      },
-      "artists": [
-        {
-          "name": "Joe Hisaishi",
-          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
-        }
-      ],
-      "duration_ms": 178506,
-      "name": "The Flower Garden",
-      "url": "https://open.spotify.com/track/6IZF8hi9J6EtFDLQqOlSbu"
-    },
-    {
-      "added_at": "2024-03-25 20:15:23",
-      "album": {
         "name": "Woodland",
         "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 229626,
       "name": "Featherstone",
       "url": "https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6"
+    },
+    {
+      "added_at": "2024-03-25 20:15:23",
+      "album": {
+        "name": "Howl's Moving Castle Soundtrack",
+        "url": "https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "duration_ms": 178506,
+      "name": "The Flower Garden",
+      "url": "https://open.spotify.com/track/6IZF8hi9J6EtFDLQqOlSbu"
     },
     {
       "added_at": "2024-03-25 20:15:23",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-03-25 20:15:23",
       "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "Woodland",
-      "url": "https://open.spotify.com/track/2dm13KtTfScU9ObCzYzGyS"
-    },
-    {
-      "added_at": "2024-03-25 20:15:23",
-      "album": {
         "name": "Souvlaki",
         "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 155938,
       "name": "Velvet Ring - 2023 Remaster",
       "url": "https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP"
+    },
+    {
+      "added_at": "2024-03-25 20:15:23",
+      "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "Woodland",
+      "url": "https://open.spotify.com/track/2dm13KtTfScU9ObCzYzGyS"
     },
     {
       "added_at": "2024-03-25 20:15:23",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-03-25 20:15:23",
       "album": {
-        "name": "Illuminaughty",
-        "url": "https://open.spotify.com/album/6KiGqzmBh6yV7QOwFjA1sk"
-      },
-      "artists": [
-        {
-          "name": "Dreamgirl",
-          "url": "https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR"
-        }
-      ],
-      "duration_ms": 234968,
-      "name": "Teenage Blue",
-      "url": "https://open.spotify.com/track/6oWXWkwHKREYlBNuBCitFP"
-    },
-    {
-      "added_at": "2024-03-25 20:15:23",
-      "album": {
         "name": "LSD and the Search for God",
         "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 304240,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
+    },
+    {
+      "added_at": "2024-03-25 20:15:23",
+      "album": {
+        "name": "Illuminaughty",
+        "url": "https://open.spotify.com/album/6KiGqzmBh6yV7QOwFjA1sk"
+      },
+      "artists": [
+        {
+          "name": "Dreamgirl",
+          "url": "https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR"
+        }
+      ],
+      "duration_ms": 234968,
+      "name": "Teenage Blue",
+      "url": "https://open.spotify.com/track/6oWXWkwHKREYlBNuBCitFP"
     },
     {
       "added_at": "2024-03-25 20:15:23",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-03-25 20:15:23",
       "album": {
-        "name": "Five Leaves Left",
-        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "River Man",
-      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
-    },
-    {
-      "added_at": "2024-03-25 20:15:23",
-      "album": {
         "name": "Projections",
         "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 149422,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
+    },
+    {
+      "added_at": "2024-03-25 20:15:23",
+      "album": {
+        "name": "Five Leaves Left",
+        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "River Man",
+      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
     }
   ],
   "unique_name": "Faerie Core",

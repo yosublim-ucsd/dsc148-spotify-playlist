@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 163602,
+  "2024-04-06": 163696,
   "date_first_scraped": "2023-02-01",
   "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Furui Riho *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/327650?utm_source=spotify.com&utm_medium=referral\">SPICE\u9023\u52d5\u8a18\u4e8b</a>\u304b\u3089\u65b0\u7740\u60c5\u5831\u3092\u30ad\u30e3\u30c3\u30c1! ",
   "name": "New Music Wednesday",
@@ -48143,8 +48143,8 @@
           "url": "https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3"
         },
         {
-          "name": "Kiwako Ashimine",
-          "url": "https://open.spotify.com/artist/0YZQHsiYTU4sUWbzyzS5Ie"
+          "name": "\u5b89\u6b21\u5dba\u5e0c\u548c\u5b50",
+          "url": "https://open.spotify.com/artist/7HWHuHcMtIAPdh2oSZNt58"
         }
       ],
       "date_added": "2024-04-02",
@@ -74959,24 +74959,6 @@
     {
       "album": {
         "name": "Love One Another",
-        "url": "https://open.spotify.com/album/2BKXSl0ktKpWNHzqdAAy1T"
-      },
-      "artists": [
-        {
-          "name": "Furui Riho",
-          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
-        }
-      ],
-      "date_added": "2024-04-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 225149,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/4V79L8tRqdgQLT1og54hN6"
-    },
-    {
-      "album": {
-        "name": "Love One Another",
         "url": "https://open.spotify.com/album/47MmxhLmTn7W91dxYCHvT9"
       },
       "artists": [
@@ -74991,6 +74973,28 @@
       "duration_ms": 225149,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/7Bek5MohEgCbfAs91H3Di1"
+    },
+    {
+      "album": {
+        "name": "Love One Another",
+        "url": "https://open.spotify.com/album/2BKXSl0ktKpWNHzqdAAy1T"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        },
+        {
+          "name": "knoak",
+          "url": "https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225149,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/4V79L8tRqdgQLT1og54hN6"
     },
     {
       "album": {

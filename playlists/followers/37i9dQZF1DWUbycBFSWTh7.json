@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 189424,
+  "2024-04-06": 189451,
   "date_first_scraped": "2022-09-17",
   "description": "get into the groove",
   "name": "Deep House Grooves",
@@ -555,7 +555,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 299540,
       "name": "Bonzai",
       "url": "https://open.spotify.com/track/1Cwjy8hde63XjJfulolyYi"
@@ -780,6 +780,24 @@
     },
     {
       "album": {
+        "name": "Cloudin",
+        "url": "https://open.spotify.com/album/7dM7oCHQepDzrGKep0Ee4j"
+      },
+      "artists": [
+        {
+          "name": "Retromigration",
+          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411490,
+      "name": "Cloudin",
+      "url": "https://open.spotify.com/track/2PKmF5pEgXB2fl9xJVANlw"
+    },
+    {
+      "album": {
         "name": "CODA",
         "url": "https://open.spotify.com/album/6umHyT3BNbM0no1jnd98Fh"
       },
@@ -835,7 +853,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 253233,
       "name": "Come Too Far",
       "url": "https://open.spotify.com/track/3otrrqE6sLMxpbr7QRh5ak"
@@ -875,6 +893,24 @@
       "duration_ms": 311338,
       "name": "Craving Crew",
       "url": "https://open.spotify.com/track/5tKtyc5xbc9dXjavBIEMPp"
+    },
+    {
+      "album": {
+        "name": "Dance To The Rhythm EP",
+        "url": "https://open.spotify.com/album/6GZM06lOdwvBliFRD2BB0y"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330001,
+      "name": "Dance To The Rhythm",
+      "url": "https://open.spotify.com/track/5k4dDheG0CcrII4jrWUDZo"
     },
     {
       "album": {
@@ -1356,6 +1392,24 @@
     },
     {
       "album": {
+        "name": "Connected Through Music",
+        "url": "https://open.spotify.com/album/76KyUnSvNvTKy2Qw6yhydc"
+      },
+      "artists": [
+        {
+          "name": "Easttown",
+          "url": "https://open.spotify.com/artist/60BcxlrIyqHOIjd9dBvld3"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389538,
+      "name": "Enhance",
+      "url": "https://open.spotify.com/track/0mRaoeszNweez18HNwBFpJ"
+    },
+    {
+      "album": {
         "name": "Broadcite 100 Sampler #2",
         "url": "https://open.spotify.com/album/1FBnW1mCH7a8fDo7qgy74O"
       },
@@ -1367,7 +1421,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 387096,
       "name": "Erotic Tonic",
       "url": "https://open.spotify.com/track/66cAl7tcwJT9UQtRxW4Qfc"
@@ -1537,7 +1591,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 301935,
       "name": "Feel So",
       "url": "https://open.spotify.com/track/4oP57A4ZDBL5Z5q2l5UJ9c"
@@ -1883,7 +1937,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 389305,
       "name": "Gary's Dreamland",
       "url": "https://open.spotify.com/track/0Ad4GdnzZZCIZrH5IvIXYa"
@@ -2025,7 +2079,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 235142,
       "name": "Half Pure - Da Poet Remix",
       "url": "https://open.spotify.com/track/4bEmk2J9qhIlj0yJa8S8qN"
@@ -2211,6 +2265,24 @@
       "duration_ms": 314115,
       "name": "How He Works (feat. Nico Vega) - Coflo Remix",
       "url": "https://open.spotify.com/track/5tkum4je0gg1WaLKx9OI2Y"
+    },
+    {
+      "album": {
+        "name": "How I Feel",
+        "url": "https://open.spotify.com/album/24dDMPMYRguIBsTctAyBpq"
+      },
+      "artists": [
+        {
+          "name": "Slow Motion",
+          "url": "https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "How I Feel",
+      "url": "https://open.spotify.com/track/4jkeFaDXwcsdv39cXL2wf1"
     },
     {
       "album": {
@@ -3420,6 +3492,24 @@
     },
     {
       "album": {
+        "name": "Offside",
+        "url": "https://open.spotify.com/album/1Fi2zMTF7fHkV8eMKROqub"
+      },
+      "artists": [
+        {
+          "name": "Ben Van Kuringen",
+          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230697,
+      "name": "Offside",
+      "url": "https://open.spotify.com/track/2oNamOYQd7RvSo13byqyjN"
+    },
+    {
+      "album": {
         "name": "krypt. vol2",
         "url": "https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq"
       },
@@ -3695,7 +3785,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 330204,
       "name": "Posidonia Oceanica",
       "url": "https://open.spotify.com/track/48BdffXoucRGKS9Hq6wuDF"
@@ -4091,7 +4181,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 233846,
       "name": "Seein You - Felipe Gordon Remix Edit",
       "url": "https://open.spotify.com/track/01BtgJG1IPiGAeV6EclEcD"
@@ -4135,7 +4225,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 249806,
       "name": "Serene",
       "url": "https://open.spotify.com/track/0KNrPsq3ny0d7pfI4Ujl2s"
@@ -4328,6 +4418,24 @@
     },
     {
       "album": {
+        "name": "Spiritual Basslines",
+        "url": "https://open.spotify.com/album/3EuskySAqMvv0o7nJiZjR6"
+      },
+      "artists": [
+        {
+          "name": "Frits Wentink",
+          "url": "https://open.spotify.com/artist/6RU8a6xLRtKJckACb5wf5D"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366809,
+      "name": "Spiritual Basslines - Club Mix",
+      "url": "https://open.spotify.com/track/57lT6Wi7X9OyASYUSpyOOz"
+    },
+    {
+      "album": {
         "name": "Daybreak (Remixes)",
         "url": "https://open.spotify.com/album/3AnjOfNe0zMzRLgItEIK1J"
       },
@@ -4431,7 +4539,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 311974,
       "name": "Strobe Queen",
       "url": "https://open.spotify.com/track/57Y0ex9NYhcCbM5dpGrM0o"
@@ -4703,7 +4811,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 320875,
       "name": "The Music",
       "url": "https://open.spotify.com/track/0ZVWMeEz5X0edQ1LTomuTw"
@@ -5265,12 +5373,8 @@
       },
       "artists": [
         {
-          "name": "Milion (NL)",
-          "url": "https://open.spotify.com/artist/6aEZk5JB4srSWr4Pz7MagD"
-        },
-        {
-          "name": "Job De Jong",
-          "url": "https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI"
+          "name": "Milion, Job de Jong",
+          "url": "https://open.spotify.com/artist/4sTtPUzjFh2toZvKQsykds"
         }
       ],
       "date_added": "2023-10-12",
@@ -5383,7 +5487,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 347600,
       "name": "Vibe Like This",
       "url": "https://open.spotify.com/track/50gJfnhHjZVjs2S5aPfZlF"
@@ -5593,7 +5697,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 248697,
       "name": "Won't U Take Me - Edit",
       "url": "https://open.spotify.com/track/0XkEX6VKa9TgkwhhnbvB7l"

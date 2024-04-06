@@ -4,7 +4,7 @@
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-64 songs - 5 hr 41 min
+65 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,9 +25,10 @@
 | [Deus se Lembra](https://open.spotify.com/track/7qZKCnKz71JiDf51s4McIz) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 5:21 | 2023-11-10 |  |
 | [Ele Se Move](https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Ele Se Move](https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ) | 5:41 | 2023-07-09 |  |
 | [Ele Vem](https://open.spotify.com/track/0sSWmtnfKfNrbS3U9TM3q3) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Ele Vem](https://open.spotify.com/album/2pdoa7juTWSNe7grySHEnQ) | 6:43 | 2023-07-09 | 2023-10-11 |
+| [Ele Vem](https://open.spotify.com/track/7DaTsKtZb7JwH9aYV2ZSbb) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Ele Vem](https://open.spotify.com/album/6gjRM3VHMVsfmCropNjAg0) | 6:43 | 2024-04-06 |  |
 | [Em Tua Presença](https://open.spotify.com/track/5otYJnOZCNRsLKtxcn2DE3) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Em Tua Presença / Vai Amanhecer](https://open.spotify.com/album/4drXBiKtDTXb2EmloXbDnp) | 5:42 | 2023-07-09 | 2023-08-07 |
 | [Espírito Santo](https://open.spotify.com/track/4iznng5u9df8eqllNmoRp4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 4:22 | 2023-07-09 |  |
-| [Eu Ainda Vou Sonhar](https://open.spotify.com/track/3y8V1S0UPTBXgZZYXyzxpF) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eu Ainda Vou Sonhar](https://open.spotify.com/album/6VwzItDBlPjnzMDApGAzU1) | 4:24 | 2023-07-09 |  |
+| [Eu Ainda Vou Sonhar](https://open.spotify.com/track/3y8V1S0UPTBXgZZYXyzxpF) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eu Ainda Vou Sonhar](https://open.spotify.com/album/6VwzItDBlPjnzMDApGAzU1) | 4:24 | 2023-07-09 | 2024-04-06 |
 | [Eu Me Arrependo](https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Jesus, o Brasil Te Adora](https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC) | 5:53 | 2023-07-09 |  |
 | [Eu Quero Ser Santo](https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 6:20 | 2023-07-09 |  |
 | [Existe Um Nome \- Ao Vivo](https://open.spotify.com/track/0pwAY9EOGY8QjGwaXZuDJG) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Existe Um Nome \(Ao Vivo\)](https://open.spotify.com/album/4gfqFsEIrYyTJasmmfMq5E) | 5:26 | 2023-07-09 | 2023-12-18 |

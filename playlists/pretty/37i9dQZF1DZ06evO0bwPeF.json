@@ -1,12 +1,12 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 7779,
+  "num_followers": 7781,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzcxNjBhODVhNjg5N2I1ODU4YmUyMjY4Yzk4NWFmNDc2MWRlM2E1",
+  "snapshot_id": "MCwyNjNjYWIzMjdiYzEzZjJmMjUzNWU0NmQ0NWQyNDkwMDk2ZThiMGYz",
   "tracks": [
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 133733,
-      "name": "Bad Mood",
-      "url": "https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ"
+      "duration_ms": 179226,
+      "name": "Repetition",
+      "url": "https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 179226,
-      "name": "Repetition",
-      "url": "https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El"
+      "duration_ms": 133733,
+      "name": "Bad Mood",
+      "url": "https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Left",
-        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
+        "name": "LEFT",
+        "url": "https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 163808,
-      "name": "Tell Me Again",
-      "url": "https://open.spotify.com/track/5e5X4a7JK1wUVivxxMZB0G"
+      "duration_ms": 191184,
+      "name": "Bombastic",
+      "url": "https://open.spotify.com/track/6SKPx7WKPUopbvfQXKnfPR"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 191184,
-      "name": "Bombastic",
-      "url": "https://open.spotify.com/track/6SKPx7WKPUopbvfQXKnfPR"
+      "duration_ms": 154214,
+      "name": "NYC Tough Guy",
+      "url": "https://open.spotify.com/track/12nKYUkNsMWduwCLYhotLa"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEFT",
-        "url": "https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH"
+        "name": "Left",
+        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 154214,
-      "name": "NYC Tough Guy",
-      "url": "https://open.spotify.com/track/12nKYUkNsMWduwCLYhotLa"
+      "duration_ms": 163808,
+      "name": "Tell Me Again",
+      "url": "https://open.spotify.com/track/5e5X4a7JK1wUVivxxMZB0G"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Top Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
 
-> The best mix of today's Christian music, all genres, worldwide\. <br/> Cover:  <a href="spotify:artist:0SLXOHoqcGPOsH9RZETtp1">7 Hills Worship</a>
+> The best mix of today's Christian music, all genres, worldwide\. <br/> Cover:  <a href="spotify:artist:5WcisvYoq6332gCUX039Jd">We Are Messengers</a>
 
-763 songs - 2 day 5 hr 11 min
+765 songs - 2 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [Grace To Grace \(Staring Out Into The Old City\) \- Live](https://open.spotify.com/track/7FqbZmbhvGeKu0E0V5cumF) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Of Dirt And Grace: Live From The Land \(Expanded Edition\)](https://open.spotify.com/album/1GUEempDMheicK14bjCtv0) | 6:05 | 2023-03-31 | 2023-12-09 |
 | [Grateful](https://open.spotify.com/track/7ICNXE7zp182uWnUE0wZr7) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Grateful](https://open.spotify.com/album/4GT48NVYrNcbtX7f6ce2P4) | 3:12 | 2022-02-11 | 2022-02-26 |
 | [Gratitude \- Radio Version](https://open.spotify.com/track/6ujcANrreKP6PMXE9vGalA) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Gratitude \(Radio Version\)](https://open.spotify.com/album/0wiU7QehvsvZye4j644YX3) | 3:55 | 2023-03-03 | 2023-06-10 |
-| [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 | 2023-11-10 |  |
+| [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 | 2023-11-10 | 2024-04-06 |
 | [Graves](https://open.spotify.com/track/1CEYsFOS0hAoVxuqtRmaLz) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves](https://open.spotify.com/album/7IyWwzTZC4NAGp9Sg0UAKM) | 4:20 | 2022-10-28 | 2023-01-14 |
 | [Graves \- Acoustic](https://open.spotify.com/track/0yMxVz4bq58UKTRVaBt2ub) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves \(Acoustic\)](https://open.spotify.com/album/6yp8tnxFB1gXNUHpF52iqP) | 4:18 | 2023-01-13 | 2023-03-11 |
 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 | 2023-10-20 |  |
@@ -299,6 +299,7 @@
 | [Hymn Of Heaven](https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:27 | 2022-04-08 | 2023-01-06 |
 | [I Am Yours](https://open.spotify.com/track/5nUzRHDvRYqRcOlVWg67Di) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X) | 4:36 | 2021-12-17 | 2022-03-12 |
 | [I Believe](https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 5:02 | 2023-11-17 | 2024-02-24 |
+| [I Believe \- Live](https://open.spotify.com/track/5yGqicSYTfzMijkD6Qu35O) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [Rejoice \(Live\)](https://open.spotify.com/album/56EbeHM2nKCxBdePuJZfRE) | 6:02 | 2024-04-05 |  |
 | [I Believe God](https://open.spotify.com/track/33VfUGMjszgfYoUT301B9F) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I Believe God](https://open.spotify.com/album/33GxwGNiIBJX4uKSzzvPrG) | 4:56 | 2023-02-10 | 2023-10-24 |
 | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj) | 3:45 | 2023-01-13 | 2023-05-20 |
 | [I Believe It Now](https://open.spotify.com/track/1tfjjxTZZhNeiAAsgWtlNe) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U), [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [I Believe It Now](https://open.spotify.com/album/4jiACLAncMZpfDbGuMkYkk) | 3:48 | 2022-02-18 | 2022-07-02 |
@@ -762,7 +763,7 @@
 | [You Changed My Name](https://open.spotify.com/track/5DMb7E6IvIs1fdtgvaRqCL) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [You Changed My Name](https://open.spotify.com/album/40vNN016TmNSzdjhl8UvWv) | 3:56 | 2023-02-17 | 2023-10-07 |
 | [You Changed My Name \- Jon Reddick Collab Version](https://open.spotify.com/track/5EQSJElOqQQwiVFvgIqkKh) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [You Changed My Name \(Jon Reddick Collab Version\)](https://open.spotify.com/album/1hGZNecvgaMDhRHpdB9y9C) | 3:56 | 2023-10-06 |  |
 | [You Have My Yes](https://open.spotify.com/track/4qiVh3U2Qgd5RPOWjZcbLU) | [Victory Worship](https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs), [Paul Daugherty](https://open.spotify.com/artist/4QU4v85xepqUOPZzHP6Cwc) | [both the night and day are the same to You](https://open.spotify.com/album/30FSDbzkZGcUciU1hCKK0x) | 5:54 | 2022-08-26 | 2022-12-10 |
-| [You Keep Your Promises \- Live](https://open.spotify.com/track/0QgO8EeFMktU1vQUCduzFJ) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq), [Ryan Kennedy](https://open.spotify.com/artist/79GBRmCCcohvXbXLvsv3nO) | [You Keep Your Promises \(Live\)](https://open.spotify.com/album/2MAjwkjMoI5T1mohul4DDn) | 5:04 | 2024-03-22 |  |
+| [You Keep Your Promises \- Live](https://open.spotify.com/track/0QgO8EeFMktU1vQUCduzFJ) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq), [Ryan Kennedy](https://open.spotify.com/artist/79GBRmCCcohvXbXLvsv3nO) | [You Keep Your Promises \(Live\)](https://open.spotify.com/album/2MAjwkjMoI5T1mohul4DDn) | 5:04 | 2024-03-22 | 2024-04-06 |
 | [You Will Be Found](https://open.spotify.com/track/37JSM2sf79iQfvpBQx1W3L) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [You Will Be Found](https://open.spotify.com/album/2pTMEwEKSdrr7tBsLbROrz) | 3:41 | 2022-12-16 | 2023-06-24 |
 | [You're Not Done \- Radio Version](https://open.spotify.com/track/6ruE0pOgoVrwg8q3tuYyNm) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [You're Not Done \(Radio Version\)](https://open.spotify.com/album/32oyESt0GHKLC9ZXxbtFm9) | 3:53 | 2024-02-09 |  |
 | [Young Love](https://open.spotify.com/track/2j85h5KZCPzIH5toHo42kd) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Young Love](https://open.spotify.com/album/2eviPVL3x8z0RBqV3YGQwg) | 4:23 | 2022-05-13 | 2023-01-21 |
@@ -771,5 +772,6 @@
 | [Your Power](https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Your Power](https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh) | 3:42 | 2023-05-05 | 2024-03-02 |
 | [Your World](https://open.spotify.com/track/2tgk4RT1YiWKiuWMmDLhf3) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Your World](https://open.spotify.com/album/2qaz1wPf35kHxD8q572mtS) | 3:16 | 2022-08-05 | 2023-02-18 |
 | [Yours To Use](https://open.spotify.com/track/5mSNr3VTEa0JuILanLXLTp) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Yours To Use](https://open.spotify.com/album/55aVf2zLzytvTYuhlSsXYH) | 3:26 | 2022-12-02 | 2023-07-01 |
+| [— \[DASH\]](https://open.spotify.com/track/18m4zA9001ngkgo3sau9aO) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [— \[DASH\]](https://open.spotify.com/album/5xdnf2Q7SRhqsSejRlvZaT) | 2:58 | 2024-04-05 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

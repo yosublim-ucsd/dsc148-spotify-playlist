@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,878 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,921 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Thunderbird](https://open.spotify.com/track/304JLq9u9DrvO0rw7u9Yq1) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B) | [Thunderbird](https://open.spotify.com/album/6TQPU0JjKFlTL9H5EMJfSa) | 3:51 |
-| 2 | [Whiskey Got Me Married](https://open.spotify.com/track/1LlJhzftKCr4SVRfOgIYXN) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Testifyin'](https://open.spotify.com/album/0zNY2rhuQ5b3MLYFjqfNtp) | 3:51 |
-| 3 | [So Sad \(The World's in a Tangle\)](https://open.spotify.com/track/2lGG0ypdFl6MYccu3PEPJ1) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [So Sad \(The World's in a Tangle\)](https://open.spotify.com/album/02nG6wsgYkbS5Uj4alFnlI) | 5:51 |
-| 4 | [Ain't That A Man](https://open.spotify.com/track/5K1zCqvd3rcvAEMdGgJjeg) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Ain't That A Man](https://open.spotify.com/album/0Avhru66QhXAyP9N8xfP30) | 4:58 |
-| 5 | [Mama Said](https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Girl Friends](https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0) | 3:17 |
-| 6 | [Funky Music](https://open.spotify.com/track/640wmLH8Gum9QbtadiRL1H) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Funky Music](https://open.spotify.com/album/596i4DpXq6GdoZnFGZp0hp) | 4:10 |
-| 7 | [Try A Little Hound Dog](https://open.spotify.com/track/4JLAMd4e50ko2bSHIz7Ric) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Try A Little Hound Dog](https://open.spotify.com/album/6yRwzs70BHWTtGX2i9fQHD) | 2:40 |
-| 8 | [Closer](https://open.spotify.com/track/5PRCKNOjJjpvqZyPQOrspK) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Closer](https://open.spotify.com/album/2pJfPlDG4xvJmOKixsrISC) | 2:40 |
+| 1 | [Juke Joint](https://open.spotify.com/track/3wdI9KWEqn7uXIaM1pj1L6) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hill Country Love](https://open.spotify.com/album/6nziuDYeLmZtW4BdypRzfH) | 2:51 |
+| 2 | [Thunderbird](https://open.spotify.com/track/304JLq9u9DrvO0rw7u9Yq1) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B) | [Thunderbird](https://open.spotify.com/album/6TQPU0JjKFlTL9H5EMJfSa) | 3:51 |
+| 3 | [Whiskey Got Me Married](https://open.spotify.com/track/1LlJhzftKCr4SVRfOgIYXN) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Testifyin'](https://open.spotify.com/album/0zNY2rhuQ5b3MLYFjqfNtp) | 3:51 |
+| 4 | [So Sad \(The World's in a Tangle\)](https://open.spotify.com/track/2lGG0ypdFl6MYccu3PEPJ1) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [So Sad \(The World's in a Tangle\)](https://open.spotify.com/album/02nG6wsgYkbS5Uj4alFnlI) | 5:51 |
+| 5 | [Ain't That A Man](https://open.spotify.com/track/5K1zCqvd3rcvAEMdGgJjeg) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Ain't That A Man](https://open.spotify.com/album/0Avhru66QhXAyP9N8xfP30) | 4:58 |
+| 6 | [Mama Said](https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Girl Friends](https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0) | 3:17 |
+| 7 | [Funky Music](https://open.spotify.com/track/640wmLH8Gum9QbtadiRL1H) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Funky Music](https://open.spotify.com/album/596i4DpXq6GdoZnFGZp0hp) | 4:10 |
+| 8 | [Try A Little Hound Dog](https://open.spotify.com/track/4JLAMd4e50ko2bSHIz7Ric) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Try A Little Hound Dog](https://open.spotify.com/album/6yRwzs70BHWTtGX2i9fQHD) | 2:40 |
 | 9 | [Talkin' To Myself](https://open.spotify.com/track/3EaXr0cXcIDgjjzXNGt7Bs) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Broken](https://open.spotify.com/album/3XXt7jo30yi07AseATCdby) | 4:15 |
 | 10 | [These Eyes](https://open.spotify.com/track/0OmQOtewFFJX5Mmnu3siNk) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Life Is Hard](https://open.spotify.com/album/3fmvPlosqu7RMW0GkVx3KO) | 5:09 |
 | 11 | [Heavy Soul](https://open.spotify.com/track/3aZtRvQ7PvcquxVGjNYJDZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Heavy Soul](https://open.spotify.com/album/3ErX87cvZzUDipGiJsoepu) | 5:08 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 85 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 |
 | 86 | [Sitting On Top Of The World](https://open.spotify.com/track/4UXEchrcvlBwJgXzlYf7Fr) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [Sitting on Top of the World / Love Will Never Say Goodbye](https://open.spotify.com/album/5pDNlo70gsJgTs8YX1FTjp) | 3:53 |
 | 87 | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/track/6w23sxZepVSmRiTLDsP5ou) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [Carry Me Home](https://open.spotify.com/album/39JLsOUFJjzvKIIXEB8IsJ) | 3:42 |
-| 88 | [Star](https://open.spotify.com/track/5s9JvslFpJGbApkKXi3MjU) | [Dana Fuchs](https://open.spotify.com/artist/1LOUhKsq65kzRCfV00GUcB) | [Borrowed Time](https://open.spotify.com/album/68ZhKv7M3s5NGqIsdVQfQC) | 5:28 |
+| 88 | [Star](https://open.spotify.com/track/5qZu8hIt448f5atYLUzanN) | [Dana Fuchs](https://open.spotify.com/artist/1LOUhKsq65kzRCfV00GUcB) | [Borrowed Time](https://open.spotify.com/album/4oLR6mi6ibTaRDIUEV4cAC) | 5:28 |
 | 89 | [Livin' for the Ones](https://open.spotify.com/track/0OY3sKkXVVbp7foCuHPNZt) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Livin' for the Ones](https://open.spotify.com/album/3Flcwo2dVHmmmLc4NUdxR7) | 3:04 |
 | 90 | [Healing Time](https://open.spotify.com/track/7rbR9lSAPRhAtXeQ7ovhzz) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/5n4rd614E0RVAuZNCtojLW) | 4:35 |
 | 91 | [Cornbread, Peas, Black Molasses](https://open.spotify.com/track/3nRr46yu7zDTd8ly3PZNXn) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Here I'm Is](https://open.spotify.com/track/45DxmdLBAjYelavuazYJhg) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Here I'm Is](https://open.spotify.com/album/2FwkQp2elO2xN3MOs2XJL9) | 2:27 |
 | 100 | [The Future Ain't What It Used to Be](https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [The Future Ain't What It Used to Be](https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035) | 3:20 |
 
-Snapshot ID: `MCw0ZGQ4NjRkYWRmMzI5ZDAzNGMyNjFiZmU5YWVkMjJhZDA0MDRhMGE0`
+Snapshot ID: `MCwyNjY3NDg3MGMzYzk2NjY5Yjc1MzQyOWZlN2VhZmQ1Y2U4YzQ4MDYx`

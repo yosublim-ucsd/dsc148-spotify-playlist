@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Christone \"Kingfish\" Ingram",
-  "num_followers": 170649,
+  "num_followers": 170689,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTIxNWUwYTIxNGM1YzljMzkyMGU3NDZlMjc2MzcyYTdkZmVjMTY0",
+  "snapshot_id": "MCwxODExODYzYmJkYjRlNjgwYTQxMGY1ZjIyZmZlM2Y5ZjMxYmVlZmZh",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:00",
@@ -896,7 +896,7 @@
       "added_at": "2020-10-30 17:47:12",
       "album": {
         "name": "Songs from the Road",
-        "url": "https://open.spotify.com/album/7HriuGrlYdLiubO6XQGbkt"
+        "url": "https://open.spotify.com/album/1qlAQUQBLKNLDM8z41n4BR"
       },
       "artists": [
         {
@@ -905,8 +905,8 @@
         }
       ],
       "duration_ms": 437358,
-      "name": "Judgment Day",
-      "url": "https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU"
+      "name": "Judgment Day - Songs from the Road [Live]",
+      "url": "https://open.spotify.com/track/7h72DcU0qIsRo1zpjQzIAF"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -1096,17 +1096,25 @@
       "added_at": "2020-10-30 17:47:12",
       "album": {
         "name": "Ina Forsman, Layla Zoe, Tasha Taylor",
-        "url": "https://open.spotify.com/album/4SnOh8hWz3RH4CEb31wXh3"
+        "url": "https://open.spotify.com/album/7iWYET5piM1Ce2NyhXuLYn"
       },
       "artists": [
         {
           "name": "Tasha Taylor",
           "url": "https://open.spotify.com/artist/5FvwlIaI3vlml6cqXW4Lcq"
+        },
+        {
+          "name": "Ina Forsman",
+          "url": "https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b"
+        },
+        {
+          "name": "Layla Zoe",
+          "url": "https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU"
         }
       ],
       "duration_ms": 218026,
       "name": "Weatherman",
-      "url": "https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY"
+      "url": "https://open.spotify.com/track/2CEXOlk2cd8CRErc5mDpHU"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -1404,7 +1412,7 @@
       "added_at": "2020-10-30 17:47:12",
       "album": {
         "name": "Blues Caravan Live 2018",
-        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
+        "url": "https://open.spotify.com/album/6EAdTKkcfgNNm7EtokY6cv"
       },
       "artists": [
         {
@@ -1413,8 +1421,8 @@
         }
       ],
       "duration_ms": 275033,
-      "name": "Keep Coming Back - Live",
-      "url": "https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw"
+      "name": "Keep Coming Back - Blues Caravan Live 2018",
+      "url": "https://open.spotify.com/track/1jdkJhPKSGOsOAvN3yjbse"
     },
     {
       "added_at": "2020-10-30 17:47:12",

@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-240 songs - 14 hr 39 min
+241 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Ee Reyi Paadindi](https://open.spotify.com/track/53draxwLuyB3NzfCDmIRBv) | [Tarun Donipati](https://open.spotify.com/artist/5qH5z0A355cf42Z0dhw6NI) | [Ee Reyi Paadindi](https://open.spotify.com/album/5z0MyArgL7EF3WgGr9JAKf) | 5:46 | 2024-01-02 | 2024-02-15 |
 | [Em Mantramo](https://open.spotify.com/track/5bPh0qRKt19LMSz3YN6G1V) | [Arviz](https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf), [Sherni](https://open.spotify.com/artist/4Zw7oOYwz6P9NHJP5NGnWS) | [Em Mantramo](https://open.spotify.com/album/4TcOrl0eAyJTtCMqHIcxFh) | 2:53 | 2023-12-19 |  |
 | [Emone](https://open.spotify.com/track/1AKX0Ru582qT5rUG2FYCUh) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Emone](https://open.spotify.com/album/2WcXXGGJiY1ID6JsVx2c1f) | 5:28 | 2023-02-02 |  |
-| [Endukala \(Lovers No More\)](https://open.spotify.com/track/6WavcWZXgeh0cvGvkh5tS6) | [Alluri](https://open.spotify.com/artist/1MJd59IWbIWtj6CdlJhWG8) | [O Katha](https://open.spotify.com/album/4mj1O1w8H5TjhoYWzyKxYC) | 3:25 | 2024-02-02 |  |
+| [Endukala \(Lovers No More\)](https://open.spotify.com/track/6WavcWZXgeh0cvGvkh5tS6) | [Alluri](https://open.spotify.com/artist/1MJd59IWbIWtj6CdlJhWG8) | [O Katha](https://open.spotify.com/album/4mj1O1w8H5TjhoYWzyKxYC) | 3:25 | 2024-02-02 | 2024-04-06 |
 | [Eruvaka Sagalantey](https://open.spotify.com/track/5kMC9Aqzxn5NPCsFqNezIM) | [Pavan Cherukumilli](https://open.spotify.com/artist/29aXKnUQ2PdTgNstCIsHGo), [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU) | [Eruvaka Sagalantey](https://open.spotify.com/album/04iY4I4kLfrytTgH362Axn) | 2:47 | 2024-02-21 |  |
 | [FLYHIGH](https://open.spotify.com/track/0U0iKIRF1TlNbl12VulMN5) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [FLYHIGH](https://open.spotify.com/album/5ZId7XjlQ5Wh8PpgfVLrVR) | 3:55 | 2023-06-29 | 2023-08-06 |
 | [Friendship Song \- Idhi Sneham, From "Ginna"](https://open.spotify.com/track/3jkbTIzLRyeFzBE5B0L1xK) | [Ariaana Manchu](https://open.spotify.com/artist/6NgAnOgY6uNLCWEdghi7jZ), [Viviana Manchu](https://open.spotify.com/artist/4qJ2VRqBg8YHSURZcx0QuS), [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp) | [Friendship Song \(Idhi Sneham, From "Ginna"\)](https://open.spotify.com/album/7njwrgvR9JWSzB0rv56g5U) | 3:55 | 2022-07-26 | 2023-05-23 |
@@ -157,6 +157,7 @@
 | [Nuvvunte Acoustic](https://open.spotify.com/track/3YfCpxpyXviMwEmrvSkzqx) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J) | [Nuvvunte Acoustic](https://open.spotify.com/album/1rUB6pntj9LVvjrH8f9pZR) | 3:12 | 2023-04-17 | 2023-05-23 |
 | [O Mayya](https://open.spotify.com/track/1H9R0AWj5cxVdRA6JGx2ZI) | [Sai Madhav Rella](https://open.spotify.com/artist/7J2eKWSknBCCkwQEK5rDpw) | [O Mayya](https://open.spotify.com/album/5jXOvuqz6iFThLiUxMdbdx) | 4:14 | 2023-07-10 | 2023-10-14 |
 | [O Pilla \(TELUGU\)](https://open.spotify.com/track/1hmHzSfyVerXSYiY1Qq4Vx) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [O Pilla \(TELUGU\)](https://open.spotify.com/album/0lCTbSr2qTIXfRTHy2cWXp) | 3:21 | 2022-10-11 | 2023-05-23 |
+| [O Seliya](https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c) | [Ganesh Krovvidi](https://open.spotify.com/artist/2raRqQL2ij740h5lHjng4V), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc), [Feroz Israel](https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ) | [O Seliya](https://open.spotify.com/album/1Iub4oCI9zRZwUSdNRrI4h) | 3:29 | 2024-04-05 |  |
 | [Oggesi Ponadhe Nanu Oggesi Ponadhe](https://open.spotify.com/track/29uZ19VV4GQyS8mKdyavOf) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [RAM](https://open.spotify.com/artist/4wxme1noavrvUnP6Is0ajq), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Layilo](https://open.spotify.com/album/4xy4FT93ivcqANeyvZxEuh) | 3:13 | 2022-07-18 | 2024-01-20 |
 | [Oggesi Ponadhe Nanu Oggesi Ponadhe](https://open.spotify.com/track/4vFm3dGHcpeuBAcn0mCNyi) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [RAM](https://open.spotify.com/artist/4wxme1noavrvUnP6Is0ajq), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Layilo](https://open.spotify.com/album/2XDzMJ73yjD3ffYyWCGcbP) | 3:13 | 2022-07-18 | 2023-11-01 |
 | [Oh Cheli](https://open.spotify.com/track/7xQuTzWxHFncW6mBEvXegI) | [Praneeth Muzic](https://open.spotify.com/artist/4fJQkBLnzJM725l64C07Bh), [Kavya Chandana](https://open.spotify.com/artist/742OuEIIrGCAVqVD4SX2YE), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Oh Cheli](https://open.spotify.com/album/2of8a03mnIa3LQo9hptHoM) | 3:36 | 2023-05-16 | 2023-05-26 |

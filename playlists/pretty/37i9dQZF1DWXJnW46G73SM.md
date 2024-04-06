@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: رامي صبري
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,878 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,899 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 72 | [Leh Heya From El System Movie](https://open.spotify.com/track/2ymAcojnsUN9b4uMU3uV64) | [Abdalla Ashour](https://open.spotify.com/artist/1HETMuZUKCWlcOEY43A7SV) | [Leh Heya From El System Movie](https://open.spotify.com/album/3fTF3ewxWUXlNxVHqL7MZy) | 2:47 |
 | 73 | [Kol El Habiba](https://open.spotify.com/track/5E75d0gLJzysLedwDQeWIR) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Kol El Habiba](https://open.spotify.com/album/1k485w1wXZn2AM4BCXe6iA) | 4:47 |
 | 74 | [ولا يهمك](https://open.spotify.com/track/1dwGantu2uucmi2Ht4HzB5) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [ولا يهمك](https://open.spotify.com/album/55pWLIo9oq0nw2V8pRdxnB) | 3:51 |
-| 75 | [موقف ضعف](https://open.spotify.com/track/683g45sVP0yUW6AeGIOw7U) | [Zeyad Wael](https://open.spotify.com/artist/36dyNqgtGxVcwcWlCRYLOl), [Omar Shaaban](https://open.spotify.com/artist/2mqfT4zskEW4k2u5m3xnyh) | [موقف ضعف](https://open.spotify.com/album/7cv0uPatxnZpT0VbUPdzVi) | 4:02 |
 
-Snapshot ID: `MCxkYTZhMzZkNDIyYjU4YzMwY2U5NzlmN2NlM2JmOTQzY2I0NzY4MjU4`
+Snapshot ID: `MCwwYTIzNDQ4YWNiOTE1MTIyMzBmNzQ4YjYwM2YyODYxYzJjZjA3ZmM1`

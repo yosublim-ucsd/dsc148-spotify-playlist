@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2024\. Cover: Hev Abi
 
-197 songs - 12 hr 12 min
+198 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bangin](https://open.spotify.com/track/0ZVXBU8LCG0HutT5Oa8eI4) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Bangin](https://open.spotify.com/album/1v0xYbW5NagAzjMeBWIM5A) | 3:47 | 2022-03-24 | 2023-04-14 |
 | [Bazinga](https://open.spotify.com/track/5QZw4F3N3PvuKNKHm9L20b) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pagsibol](https://open.spotify.com/album/4bieHSYaRSMRAoDF47qfSf) | 3:22 | 2021-11-25 | 2022-03-25 |
 | [Best Time](https://open.spotify.com/track/0EUhMQB6Ct1AT0mBBOZsTp) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Best Time](https://open.spotify.com/album/3HQ1Ns14lMczw62mIU36h3) | 3:35 | 2022-04-21 | 2022-12-01 |
+| [bet](https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bet](https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9) | 3:08 | 2024-04-05 |  |
 | [BETTERMAN](https://open.spotify.com/track/60jYOyxr1FHGFnofoIXPCq) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [GARUDA](https://open.spotify.com/album/4xyf45M38hJVUA0esmu7ks) | 4:50 | 2021-11-25 | 2023-04-14 |
 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2021-11-25 | 2022-03-25 |
 | [Blah Blah](https://open.spotify.com/track/3keEpyhWEE4FCAEHXZDcPb) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [Blah Blah](https://open.spotify.com/album/31kpkJ759PVIOlUOZEONrR) | 3:27 | 2022-04-27 | 2022-12-01 |

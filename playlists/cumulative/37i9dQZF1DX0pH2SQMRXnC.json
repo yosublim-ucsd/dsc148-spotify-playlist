@@ -4278,7 +4278,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 185806,
       "name": "Fight For You",
       "url": "https://open.spotify.com/track/5GCL6u4hSfHrGUZPLyJBfZ"
@@ -7320,6 +7320,28 @@
       "duration_ms": 148040,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/070aNLQoUgiyRIUS4I721F"
+    },
+    {
+      "album": {
+        "name": "Lay Low (Radical Redemption Remix)",
+        "url": "https://open.spotify.com/album/6towXPOqUs32hg4Aosmhvp"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176258,
+      "name": "Lay Low (Radical Redemption Remix)",
+      "url": "https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O"
     },
     {
       "album": {

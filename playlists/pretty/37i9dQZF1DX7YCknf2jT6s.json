@@ -1,13 +1,65 @@
 {
-  "description": "New jazz for open minds. Cover: Hamilton De Holanda",
-  "num_followers": 922041,
+  "description": "New jazz for open minds. Cover: Kamasi Washington",
+  "num_followers": 922328,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTcwNWM3N2I1MDBmMzY4ZjcxNTRlOWVmYTg1YzVhZGNmZjNlMzU2",
+  "snapshot_id": "MCw5MTJkYzljNTI3N2NlMWUyMmY1ZjYyM2Q0MmMzZGQ3YTlhNjhkZDY2",
   "tracks": [
+    {
+      "added_at": "2024-04-05 04:35:11",
+      "album": {
+        "name": "Dream State",
+        "url": "https://open.spotify.com/album/6KYn1PrwI7cV9BLiv6rBBK"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 519603,
+      "name": "Dream State",
+      "url": "https://open.spotify.com/track/1nLU0aUyHaza8hZm1Jp6lu"
+    },
+    {
+      "added_at": "2024-04-05 04:35:11",
+      "album": {
+        "name": "Echoes Of The Inner Prophet",
+        "url": "https://open.spotify.com/album/3nJsyrcJShA6wyjSPvAwEg"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "duration_ms": 409594,
+      "name": "Unconscious Whispers",
+      "url": "https://open.spotify.com/track/7vs0QT0b8gSp18FB8VG9hx"
+    },
+    {
+      "added_at": "2024-04-05 04:35:11",
+      "album": {
+        "name": "joycelyn's dance",
+        "url": "https://open.spotify.com/album/1ZmhzQQWURtuF9K7yPcAoJ"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "joycelyn's dance",
+      "url": "https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4"
+    },
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
@@ -33,6 +85,62 @@
       "url": "https://open.spotify.com/track/4r3tvfkc2r0gawvdtvBtIV"
     },
     {
+      "added_at": "2024-04-05 04:35:11",
+      "album": {
+        "name": "1978",
+        "url": "https://open.spotify.com/album/7uid7xXNdaEHU9AMOQpcwj"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 290693,
+      "name": "Planet Nine",
+      "url": "https://open.spotify.com/track/7fVt2s9EQVuqxTaB4UscpI"
+    },
+    {
+      "added_at": "2024-04-05 04:35:11",
+      "album": {
+        "name": "15K A SHOW",
+        "url": "https://open.spotify.com/album/7Dp9ZmZUaJ95FviGCLIBgZ"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Joe Cleveland",
+          "url": "https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg"
+        },
+        {
+          "name": "Stixx Taylor",
+          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
+        }
+      ],
+      "duration_ms": 154594,
+      "name": "15k a show",
+      "url": "https://open.spotify.com/track/6GqVr10OBa2dm9EbZiSb8n"
+    },
+    {
+      "added_at": "2024-04-05 04:35:11",
+      "album": {
+        "name": "For Only You",
+        "url": "https://open.spotify.com/album/6XHnnnVwQS1wQ2l1WFzHzq"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "duration_ms": 240480,
+      "name": "For Only You",
+      "url": "https://open.spotify.com/track/7H9T6SnwnhOtdgnaym7zdX"
+    },
+    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Tomorrow's Another Day",
@@ -47,6 +155,146 @@
       "duration_ms": 315386,
       "name": "Tomorrow's Another Day",
       "url": "https://open.spotify.com/track/6dRCnD9DGXTqlIsgjyz3wf"
+    },
+    {
+      "added_at": "2024-04-05 04:35:11",
+      "album": {
+        "name": "From the North - GoGo Penguin Live in Manchester",
+        "url": "https://open.spotify.com/album/4AHcIEmL1rY1lfz6y2vJlF"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 307674,
+      "name": "Wave Decay",
+      "url": "https://open.spotify.com/track/7rE5bopDSCT6dltTT8WPH9"
+    },
+    {
+      "added_at": "2024-04-05 04:35:11",
+      "album": {
+        "name": "Small Things",
+        "url": "https://open.spotify.com/album/0UhF4O50JAeMv9pOnhhPw3"
+      },
+      "artists": [
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        },
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        },
+        {
+          "name": "Efajemue",
+          "url": "https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1"
+        },
+        {
+          "name": "Lytmus",
+          "url": "https://open.spotify.com/artist/3elSNWFEqrOArFscSKfQn9"
+        }
+      ],
+      "duration_ms": 179184,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/4a9FVG639jsRd9JoH3xhcZ"
+    },
+    {
+      "added_at": "2024-04-05 04:35:11",
+      "album": {
+        "name": "Grapes (feat. Randy Brecker, John Patitucci & Marcus Gilmore)",
+        "url": "https://open.spotify.com/album/3CfvK1S5Od3ZXWMdsEV8FJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Ezrin",
+          "url": "https://open.spotify.com/artist/0yy7ThMTEwuK6838qetpXj"
+        },
+        {
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        }
+      ],
+      "duration_ms": 438520,
+      "name": "Grapes (feat. Randy Brecker, John Patitucci & Marcus Gilmore)",
+      "url": "https://open.spotify.com/track/0RmFJFPAoB5cCSgnSNvqH5"
+    },
+    {
+      "added_at": "2024-04-05 04:35:11",
+      "album": {
+        "name": "\u6708\u520a\u914d\u4fe1\u91ce\u90ce",
+        "url": "https://open.spotify.com/album/0v7UHezk6yvbSXptBElqBA"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "\u6708\u520a\u914d\u4fe1\u91ce\u90ce",
+      "url": "https://open.spotify.com/track/6HVOTmmMttcKUSsnKk8c4V"
+    },
+    {
+      "added_at": "2024-04-05 04:35:11",
+      "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/2htZZH7a1L5zlgwpDOEwMh"
+      },
+      "artists": [
+        {
+          "name": "Niklouds",
+          "url": "https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ"
+        }
+      ],
+      "duration_ms": 488435,
+      "name": "Elho 67",
+      "url": "https://open.spotify.com/track/0dgXRh3B4dDlm7zXRRB5aO"
+    },
+    {
+      "added_at": "2024-04-05 04:35:11",
+      "album": {
+        "name": "Unusual Object",
+        "url": "https://open.spotify.com/album/4fRgDwDwRmTwK7s0PhI9DA"
+      },
+      "artists": [
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "duration_ms": 425211,
+      "name": "Marvis",
+      "url": "https://open.spotify.com/track/2JG4CQN8w1sayRwwqoBMcs"
+    },
+    {
+      "added_at": "2024-04-05 04:35:11",
+      "album": {
+        "name": "Look at Us",
+        "url": "https://open.spotify.com/album/5qjxIl52EeXU4HQO95KrvW"
+      },
+      "artists": [
+        {
+          "name": "Addict Ameba",
+          "url": "https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb"
+        },
+        {
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+        }
+      ],
+      "duration_ms": 300040,
+      "name": "Look at Us",
+      "url": "https://open.spotify.com/track/4doSYqBNDg3bZWlOJhiVYT"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -99,30 +347,6 @@
       "duration_ms": 306714,
       "name": "All Black Everything",
       "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Coin\u2019s Edge",
-        "url": "https://open.spotify.com/album/0HsDJ1f7aa1QX6ftbFp5LX"
-      },
-      "artists": [
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        },
-        {
-          "name": "Joe Cleveland",
-          "url": "https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg"
-        },
-        {
-          "name": "Stixx Taylor",
-          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
-        }
-      ],
-      "duration_ms": 155383,
-      "name": "Coin's Edge",
-      "url": "https://open.spotify.com/track/3FPvYya5ferqqnVVIpIbxS"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -369,22 +593,6 @@
       "url": "https://open.spotify.com/track/3sn5gqosgrs0y1ljACKUCt"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/3wDXUtAudXDc6dgy2mAqZ2"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 499234,
-      "name": "Prologue",
-      "url": "https://open.spotify.com/track/4Kh0yUcMyxVENH4lgtcuHX"
-    },
-    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Liberation",
@@ -533,22 +741,6 @@
       "url": "https://open.spotify.com/track/1SqfaarqpHcceW6eMc2luH"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "jazz is for ordinary people",
-        "url": "https://open.spotify.com/album/0EZTn2obuqMf9AbBG2PUKp"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "jazz is for ordinary people",
-      "url": "https://open.spotify.com/track/12BaQt9aYdTlEtKreqB5V4"
-    },
-    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "RASTA PASTA (ft. Masego)",
@@ -567,22 +759,6 @@
       "duration_ms": 250769,
       "name": "RASTA PASTA (ft. Masego)",
       "url": "https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "Quince",
-        "url": "https://open.spotify.com/album/3PcjndAafwNTf0y5NcuZsO"
-      },
-      "artists": [
-        {
-          "name": "Josh Johnson",
-          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
-        }
-      ],
-      "duration_ms": 386991,
-      "name": "Quince",
-      "url": "https://open.spotify.com/track/7MFdf5GHVfHbeTBbrDTvOJ"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -651,22 +827,6 @@
       "duration_ms": 266714,
       "name": "Nubya's Side of Town (feat. Nubya Garcia)",
       "url": "https://open.spotify.com/track/2JMADksYAUPTQqQGX3ACzF"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/76N4BVMak5BIL1w3HvLZRX"
-      },
-      "artists": [
-        {
-          "name": "Melissa Aldana",
-          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
-        }
-      ],
-      "duration_ms": 242106,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/5U36mzwyFUZYiDTdRc0dqb"
     },
     {
       "added_at": "2023-11-10 05:01:00",
@@ -799,22 +959,6 @@
       "duration_ms": 236112,
       "name": "Take Time",
       "url": "https://open.spotify.com/track/64jc8TDPmYkrO93D7Q7QTz"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/7sD4UjyuDSS2vcdMGT1YH6"
-      },
-      "artists": [
-        {
-          "name": "Al Di Meola",
-          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
-        }
-      ],
-      "duration_ms": 430973,
-      "name": "Fandango",
-      "url": "https://open.spotify.com/track/2rLN8vZ2d9HGeljlmZFhTx"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1031,22 +1175,6 @@
       "duration_ms": 244271,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "\u591c\u306b\u98db\u3093\u3067\u3044\u304f",
-        "url": "https://open.spotify.com/album/3oIZBMmFZAEOuyPxQWG1zQ"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "\u591c\u306b\u98db\u3093\u3067\u3044\u304f",
-      "url": "https://open.spotify.com/track/67rD8uQal0J4yRLA5K5RGO"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -1657,46 +1785,6 @@
       "url": "https://open.spotify.com/track/5tBbxTvjJ2e1gc4vLnRzEF"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Auntie Mabel",
-        "url": "https://open.spotify.com/album/5m2IkW41GgNYLSjN0b7oqf"
-      },
-      "artists": [
-        {
-          "name": "Anatole Muster",
-          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
-        },
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        }
-      ],
-      "duration_ms": 202373,
-      "name": "Auntie Mabel",
-      "url": "https://open.spotify.com/track/0Ysu2rPehZDiLohbVVw2gH"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Plot Armor",
-        "url": "https://open.spotify.com/album/7Cs5RVkL2D9j9pQfVgBRxq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Eigsti",
-          "url": "https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp"
-        },
-        {
-          "name": "Becca Stevens",
-          "url": "https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk"
-        }
-      ],
-      "duration_ms": 249150,
-      "name": "Look Around You",
-      "url": "https://open.spotify.com/track/7q8wKEUCNW2lJcDGqBgDQS"
-    },
-    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "I'm A Bird / Friends",
@@ -1837,26 +1925,6 @@
       "url": "https://open.spotify.com/track/3e2cdlozr0ZKut6dWOer3q"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Bucket of F's",
-        "url": "https://open.spotify.com/album/6AmXGSTkNnKoBBblTQyd0t"
-      },
-      "artists": [
-        {
-          "name": "Taylor Eigsti",
-          "url": "https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp"
-        },
-        {
-          "name": "Ben Wendel",
-          "url": "https://open.spotify.com/artist/0gaASCUAMqvXxGFDYaNFca"
-        }
-      ],
-      "duration_ms": 290725,
-      "name": "Bucket of F's",
-      "url": "https://open.spotify.com/track/5yBdcdmA0RuzMC4uu2a8Xt"
-    },
-    {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Crisis & Opportunity, Vol.4 - Meditations",
@@ -1899,34 +1967,6 @@
     {
       "added_at": "2024-01-26 05:01:00",
       "album": {
-        "name": "Bacon Lettuce and Tmrw",
-        "url": "https://open.spotify.com/album/5pDjGqgJs7py0qA95b4H3c"
-      },
-      "artists": [
-        {
-          "name": "Ted Taforo",
-          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
-        },
-        {
-          "name": "Emiliano Lasansky",
-          "url": "https://open.spotify.com/artist/5H9mRyNtdbnJ9L0mAD2egh"
-        },
-        {
-          "name": "Efajemue",
-          "url": "https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1"
-        },
-        {
-          "name": "Jacob Dupre",
-          "url": "https://open.spotify.com/artist/27vbYMQq6Sq2rJltjX7Xj8"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Bacon Lettuce and Tmrw",
-      "url": "https://open.spotify.com/track/5izpsM3fbB1oF7yNnJO69x"
-    },
-    {
-      "added_at": "2024-01-26 05:01:00",
-      "album": {
         "name": "Fortify",
         "url": "https://open.spotify.com/album/74mZzqkL5nvDDyBGbyMX0g"
       },
@@ -1955,38 +1995,6 @@
       "duration_ms": 236985,
       "name": "early",
       "url": "https://open.spotify.com/track/6e69KdNCu2QQ4wkWL1zWgY"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Sun Streak",
-        "url": "https://open.spotify.com/album/0xe3vp3OjTfSdfJvqp3Lc4"
-      },
-      "artists": [
-        {
-          "name": "Adam Ratner",
-          "url": "https://open.spotify.com/artist/4TqrWqGb9OUbR3ZGx23W4K"
-        },
-        {
-          "name": "David Binney",
-          "url": "https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf"
-        },
-        {
-          "name": "Logan Kane",
-          "url": "https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ"
-        },
-        {
-          "name": "Luca Mendoza",
-          "url": "https://open.spotify.com/artist/0MlFh2Z71UaY9oeWx2peKq"
-        },
-        {
-          "name": "Benjamin Ring",
-          "url": "https://open.spotify.com/artist/3p7Y0v6WeIkL3wO2xn2Dv8"
-        }
-      ],
-      "duration_ms": 435280,
-      "name": "Sun Streak",
-      "url": "https://open.spotify.com/track/0g82AK31NDtvkFpsE50hY8"
     }
   ],
   "unique_name": "State of Jazz",

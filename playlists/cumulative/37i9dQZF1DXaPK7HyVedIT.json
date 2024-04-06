@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Sevek",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Mojjo",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Avisa",
+        "url": "https://open.spotify.com/album/7DL95cjVWyocZRIWmgaZB6"
+      },
+      "artists": [
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Avisa",
+      "url": "https://open.spotify.com/track/2iXhwztFvWP8zNVGHaDIs3"
+    },
+    {
+      "album": {
         "name": "B2 The Old School",
         "url": "https://open.spotify.com/album/2jmTRiQ84llE9R56NIPde7"
       },
@@ -706,7 +724,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 171147,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4l3oc6geC2DGxqt4G1KvQQ"
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 207373,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/1pe2jATGX8qxh2rwg1HEa8"
@@ -2623,6 +2641,24 @@
     },
     {
       "album": {
+        "name": "How I Feel",
+        "url": "https://open.spotify.com/album/24dDMPMYRguIBsTctAyBpq"
+      },
+      "artists": [
+        {
+          "name": "Slow Motion",
+          "url": "https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "How I Feel",
+      "url": "https://open.spotify.com/track/4jkeFaDXwcsdv39cXL2wf1"
+    },
+    {
+      "album": {
         "name": "I Can Feel It",
         "url": "https://open.spotify.com/album/6Y80nrIwbNnJKAsRjhe7jV"
       },
@@ -2754,7 +2790,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 179999,
       "name": "If U Need It",
       "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
@@ -2780,6 +2816,32 @@
       "duration_ms": 200314,
       "name": "In Your Life",
       "url": "https://open.spotify.com/track/6IX9PeBeUXYqFJbBxCdBQ5"
+    },
+    {
+      "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/1Mss70p4SsVGvj6N4bkkwM"
+      },
+      "artists": [
+        {
+          "name": "Sharam Jey",
+          "url": "https://open.spotify.com/artist/0k4tYg6N84bhZcd6tfNWXt"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Amazondas",
+          "url": "https://open.spotify.com/artist/0kCVx9wT8OVupc7rvLzo3Y"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218489,
+      "name": "Inside - Edit",
+      "url": "https://open.spotify.com/track/0tLyDJaFJchA95KqqHcCZ9"
     },
     {
       "album": {
@@ -2937,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "Kalimba Dreams",
+        "url": "https://open.spotify.com/album/3O54lg07TdDOrQVjezoZpQ"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395805,
+      "name": "Kalimba Dreams",
+      "url": "https://open.spotify.com/track/6KYs8kAb83oHmyZxFOlURe"
+    },
+    {
+      "album": {
         "name": "Kanyes",
         "url": "https://open.spotify.com/album/6ePpI5BPsyDdFR3XpjESP2"
       },
@@ -2952,6 +3032,28 @@
       "duration_ms": 232380,
       "name": "Kanyes",
       "url": "https://open.spotify.com/track/11ZzJ9gbawFjRqnbjtFl4q"
+    },
+    {
+      "album": {
+        "name": "Keep On Dancing (Illusionize, Ashibah Rework)",
+        "url": "https://open.spotify.com/album/1DWv97Rdz768zNdlViCDJg"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Keep On Dancing - Illusionize, Ashibah Rework",
+      "url": "https://open.spotify.com/track/249jhkMIJ6TWBUqrYMvgIG"
     },
     {
       "album": {
@@ -3213,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/2d02o3jAuy4Rnyd7bdy8PO"
+      },
+      "artists": [
+        {
+          "name": "Flux Zone",
+          "url": "https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215238,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/2iw3LpeCoQnsz8Ip9KZFuW"
+    },
+    {
+      "album": {
         "name": "Mami Mami",
         "url": "https://open.spotify.com/album/6v136RUEpdzC5ixs6AoR85"
       },
@@ -3231,6 +3351,24 @@
     },
     {
       "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/51IkyfVbr5CJZUYVKbLiNs"
+      },
+      "artists": [
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153984,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/1pF7bwOHo1nowRAS2Zqe4z"
+    },
+    {
+      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/7wxrEVuniVPtZTGdV7SpEE"
       },
@@ -3246,7 +3384,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 133315,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/4rGuSRFq1IE8We7Cii6GEb"
@@ -3316,7 +3454,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 283337,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0G5Lb2yYO6OgGLKOEiGJoE"
@@ -3681,6 +3819,28 @@
     },
     {
       "album": {
+        "name": "Nothing Ever Changes",
+        "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226048,
+      "name": "Nothing Ever Changes",
+      "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Sei Parar",
         "url": "https://open.spotify.com/album/3DH0NYxAi5Mw8YpmHXgAMb"
       },
@@ -3872,7 +4032,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 203809,
       "name": "Out Of Time",
       "url": "https://open.spotify.com/track/3aTL9YroCEJ1em7VVOm9bK"
@@ -4197,6 +4357,32 @@
     },
     {
       "album": {
+        "name": "Rapunsel",
+        "url": "https://open.spotify.com/album/6C144mTGmkTwFDC6mzPrz8"
+      },
+      "artists": [
+        {
+          "name": "ZAC",
+          "url": "https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv"
+        },
+        {
+          "name": "BAKKA (BR)",
+          "url": "https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8"
+        },
+        {
+          "name": "OFIER",
+          "url": "https://open.spotify.com/artist/4TxdzbuWT5v4ZAfyRuxbuv"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273170,
+      "name": "Rapunsel",
+      "url": "https://open.spotify.com/track/5kCI4HJm9nMiccsTkaeLca"
+    },
+    {
+      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/11L6VBSHib3rjEo7PQbJib"
       },
@@ -4472,7 +4658,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 160012,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/6trCZ6N85DUUn7NfEcbqih"
@@ -4674,7 +4860,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 172615,
       "name": "She Calls Me Love - Steve Aoki Remix",
       "url": "https://open.spotify.com/track/0deDBJXbids6gfrg47mOLX"
@@ -5042,7 +5228,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 170890,
       "name": "The Hook",
       "url": "https://open.spotify.com/track/6MAegmeDnQb3wNOoxtKJRS"

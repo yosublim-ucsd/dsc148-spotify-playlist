@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 
 > <a href="spotify:artist:1rd51IrbtX9DqoU0Zxu4TV">DJ Marky</a>'s favourite tracks\. Updated regularly\. Curated by DJ Marky\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,655 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,672 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 | 19 | [Bury a Sound](https://open.spotify.com/track/6LreXH3k2XCc9eHRHhKTXC) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM) | [Digital World](https://open.spotify.com/album/0rI8ZkRMVFFOh0u22nDISy) | 4:59 |
 | 20 | [Ace of Spades](https://open.spotify.com/track/4jcBk9cihGIYVy44sopGBv) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL), [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ) | [Ace of Spades](https://open.spotify.com/album/3ykFxRjdBStO48Qh6HxaNV) | 4:24 |
 | 21 | [Afraid of Love](https://open.spotify.com/track/2m57M6Hjm1gGbu0LXRlywI) | [Charli Brix](https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8), [En:vy](https://open.spotify.com/artist/00YRVhQFlwO1OhSyWyT9pU) | [The Art of Change](https://open.spotify.com/album/12Vki3P91ze8Gba8EOGqFQ) | 4:20 |
-| 22 | [Vices \- Bladerunner Remix](https://open.spotify.com/track/5bqfrXlfvuQHDznFhHSb2C) | [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb), [Collette Warren](https://open.spotify.com/artist/2pzGbNf0oadczuFlVAxZC3), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Bladerunner](https://open.spotify.com/artist/4yvREhViCsrwclRdBAdlOl) | [Vices](https://open.spotify.com/album/6Pi8S5hFpj4qoCtoIvEDTM) | 4:28 |
+| 22 | [Vices \- Bladerunner Remix](https://open.spotify.com/track/4Hxv7cyCQ2ebWwaLvmf8Qg) | [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb), [Collette Warren](https://open.spotify.com/artist/2pzGbNf0oadczuFlVAxZC3), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Bladerunner](https://open.spotify.com/artist/4yvREhViCsrwclRdBAdlOl) | [More Sides of Everything](https://open.spotify.com/album/6N0SBrvQhHlVRWIFqu0zBi) | 4:29 |
 | 23 | [CHICA](https://open.spotify.com/track/4Bg8cLW1mKbLmag6WcN0zM) | [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [CHICA](https://open.spotify.com/album/2qyjqgcVZIFkPMyYD5PFc6) | 3:19 |
 | 24 | [Five Nines](https://open.spotify.com/track/4M2MNVPz9V9KKzkXC7I2dJ) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu) | [Five Nines / Choppy](https://open.spotify.com/album/3k4Ec6RWPYiaaXOx0ZgfK6) | 4:35 |
 | 25 | [Getting Hot](https://open.spotify.com/track/6v1bVEs8AdUUIm8geyvDww) | [Beeson](https://open.spotify.com/artist/2Bz33Qcq5GYQK0Cfk2YT9I) | [Getting Hot / Come To Mind](https://open.spotify.com/album/7lNMy911thnBKt0Pe2BCKw) | 4:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 | 49 | [All Night](https://open.spotify.com/track/0MQyfSkAFO27Ki90MKnkcs) | [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [All Night](https://open.spotify.com/album/5WGeVk6PF7WZ9kWeN4xfCL) | 3:37 |
 | 50 | [Here Comes](https://open.spotify.com/track/2FlFInnKJTaP5YBMf6dax6) | [Melinki](https://open.spotify.com/artist/71BxfcyzIwRxmdx2BRYDVD) | [Here Comes](https://open.spotify.com/album/1ppwK870Dyp5CTKK94f11w) | 4:55 |
 
-Snapshot ID: `MCwyMmNjOTIwNGExZWFiNDcxZDBjOTRhZDVjNzFkMTYyOTk5Y2Y2MTAx`
+Snapshot ID: `MCxmZWFhMmFlZTBmNTQ5NjViNjA3MzI0MjQ1MjMzYjQ1ZTBhNjY4M2Qz`

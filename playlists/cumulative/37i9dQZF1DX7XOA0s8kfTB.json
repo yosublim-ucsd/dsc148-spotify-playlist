@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 61833,
       "name": "Ba. \u30eb\u30d1 \u30dc\u30a4\u30b9\u30e1\u30c3\u30bb\u30fc\u30b8",
       "url": "https://open.spotify.com/track/0SFw1KwH6ltFqzrhST2hGs"
@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "VOID (Nina Iseri, Momoka Kawaragi)",
+        "url": "https://open.spotify.com/album/3faZBe29qPvq3dBoTpMJND"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30b2\u30ca\u30b7\u30c8\u30b2\u30a2\u30ea",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184510,
+      "name": "VOID - Nina Iseri, Momoka Kawaragi",
+      "url": "https://open.spotify.com/track/2mDNci8EmCus4yVygfRXZJ"
+    },
+    {
+      "album": {
         "name": "white drizzle in gloom",
         "url": "https://open.spotify.com/album/7q2ujU4Yi2ck5b1Z8GgkAQ"
       },
@@ -272,6 +290,24 @@
       "duration_ms": 185171,
       "name": "white drizzle in gloom",
       "url": "https://open.spotify.com/track/0ge5dtz12gXTMquou8xVKL"
+    },
+    {
+      "album": {
+        "name": "Wrong World",
+        "url": "https://open.spotify.com/album/3QdDjNx9PAJ9LPSgtfUTNX"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30b2\u30ca\u30b7\u30c8\u30b2\u30a2\u30ea",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184243,
+      "name": "Wrong World",
+      "url": "https://open.spotify.com/track/3oydLYmU23bex9OQDwjxCz"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7XOA0s8kfTB"

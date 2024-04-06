@@ -302,7 +302,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 232826,
       "name": "2 TIMES",
       "url": "https://open.spotify.com/track/2jHw6mJ6MyoZkkXRaKeTwb"
@@ -1912,7 +1912,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 124160,
       "name": "Baby Death",
       "url": "https://open.spotify.com/track/3lvYpkddCWmtMO2kA3Phab"
@@ -3739,6 +3739,24 @@
     },
     {
       "album": {
+        "name": "BEEN HIM",
+        "url": "https://open.spotify.com/album/5T5Azi2UWEHfF9MkC2rmBI"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197459,
+      "name": "Call My Bluff",
+      "url": "https://open.spotify.com/track/00olXrQEfU7KxWywvzfMlS"
+    },
+    {
+      "album": {
         "name": "Can't Blame Em",
         "url": "https://open.spotify.com/album/2R3oMQcBBjhgsUl843bxnE"
       },
@@ -4651,6 +4669,24 @@
     },
     {
       "album": {
+        "name": "The X Tape (Deluxe)",
+        "url": "https://open.spotify.com/album/1OhznYXcpOhfoWIdUgsNW4"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135202,
+      "name": "County Time",
+      "url": "https://open.spotify.com/track/7mFrZ8jhWtnUBUrKuKPMmp"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/4EuLfyccnCy7H0sF6pG6M7"
       },
@@ -5142,6 +5178,24 @@
       "duration_ms": 114580,
       "name": "Deep Fried",
       "url": "https://open.spotify.com/track/7241Ph5AKZlpCzORdWoBoq"
+    },
+    {
+      "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/2d0Xr48jlUFn19m68gb4Er"
+      },
+      "artists": [
+        {
+          "name": "Foolio",
+          "url": "https://open.spotify.com/artist/79mgHJytm385Muv7GfaneD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156264,
+      "name": "Deeper Den Rap",
+      "url": "https://open.spotify.com/track/7Clx7nirFAdXmme8ot75dH"
     },
     {
       "album": {
@@ -5824,7 +5878,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 123500,
       "name": "Dopeman",
       "url": "https://open.spotify.com/track/4bJbcPwBLjpypE3SSUJMfX"
@@ -8059,6 +8113,24 @@
     },
     {
       "album": {
+        "name": "BEEN HIM",
+        "url": "https://open.spotify.com/album/5T5Azi2UWEHfF9MkC2rmBI"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160703,
+      "name": "Get Like Dat",
+      "url": "https://open.spotify.com/track/5OZDc8aVGpqmk2kJ2Rs276"
+    },
+    {
+      "album": {
         "name": "Ganger (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn"
       },
@@ -9360,7 +9432,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 163249,
       "name": "Hell Yeah (feat. Tee Grizzley)",
       "url": "https://open.spotify.com/track/0ioOlQyJQKHMyi4OGPOEYf"
@@ -9554,6 +9626,24 @@
       "duration_ms": 171254,
       "name": "Hitta (feat. Bobby Shmurda)",
       "url": "https://open.spotify.com/track/4kTdlruEELvYnvMX6XotML"
+    },
+    {
+      "album": {
+        "name": "Hold of Me",
+        "url": "https://open.spotify.com/album/2Wp9LxnipPxkPItfSgeEex"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156528,
+      "name": "Hold of Me",
+      "url": "https://open.spotify.com/track/6xbwjBWas8CPK0E612Qy4z"
     },
     {
       "album": {
@@ -10889,6 +10979,24 @@
     },
     {
       "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/2d0Xr48jlUFn19m68gb4Er"
+      },
+      "artists": [
+        {
+          "name": "Foolio",
+          "url": "https://open.spotify.com/artist/79mgHJytm385Muv7GfaneD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200960,
+      "name": "Ion Need Love",
+      "url": "https://open.spotify.com/track/1HOU6fmZ7AHiGzE2teztu4"
+    },
+    {
+      "album": {
         "name": "ISSA PARTY (feat. BabyDrill)",
         "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
       },
@@ -11535,6 +11643,24 @@
     },
     {
       "album": {
+        "name": "BEEN HIM",
+        "url": "https://open.spotify.com/album/5T5Azi2UWEHfF9MkC2rmBI"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135336,
+      "name": "Keep It Gangsta",
+      "url": "https://open.spotify.com/track/4I8R9y3p8WsbIIdXQe8hoj"
+    },
+    {
+      "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
       },
@@ -12166,7 +12292,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 140106,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
@@ -12944,6 +13070,24 @@
       "duration_ms": 180186,
       "name": "Made Me (feat. NoCap)",
       "url": "https://open.spotify.com/track/3Vgihc6vWAzDroeW43oB6O"
+    },
+    {
+      "album": {
+        "name": "MADONNA & RIHANNA",
+        "url": "https://open.spotify.com/album/0r81t0FQLIyyAytNSLUbqy"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122482,
+      "name": "MADONNA & RIHANNA",
+      "url": "https://open.spotify.com/track/704qSGogleVeb46KLsMl2e"
     },
     {
       "album": {
@@ -15252,7 +15396,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 207337,
       "name": "Non Believer",
       "url": "https://open.spotify.com/track/3FRYmCRHCavq3Y6aCj11Px"
@@ -16029,6 +16173,28 @@
     },
     {
       "album": {
+        "name": "On The Flo",
+        "url": "https://open.spotify.com/album/4vtN9d7p7Me0AeZJyrR0Kd"
+      },
+      "artists": [
+        {
+          "name": "Wacotron",
+          "url": "https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz"
+        },
+        {
+          "name": "Lil Double 0",
+          "url": "https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179210,
+      "name": "On The Flo",
+      "url": "https://open.spotify.com/track/34U7kANnMBDjwoGMK3kM4r"
+    },
+    {
+      "album": {
         "name": "Life of Me",
         "url": "https://open.spotify.com/album/7DSlbKV1ISsztwYNVN1B75"
       },
@@ -16267,6 +16433,24 @@
     },
     {
       "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "Opp Shit",
+      "url": "https://open.spotify.com/track/2lynIxLBNW2SrBeDOVpxyB"
+    },
+    {
+      "album": {
         "name": "Out of State",
         "url": "https://open.spotify.com/album/0Cy2QYq6hBh1Y5R21xmlpm"
       },
@@ -16490,7 +16674,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 194784,
       "name": "Pain",
       "url": "https://open.spotify.com/track/1IhH4zWZRwHZimPE6v8RM8"
@@ -16986,7 +17170,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 123267,
       "name": "Pink Panther (feat. Lil Gotit)",
       "url": "https://open.spotify.com/track/7doNmOV0adtKYPHkznWr2o"
@@ -17319,6 +17503,28 @@
     },
     {
       "album": {
+        "name": "Potato Loaded (feat. Destroy Lonely)",
+        "url": "https://open.spotify.com/album/0bHndITXf6STlJZ2rrk8UK"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138017,
+      "name": "Potato Loaded (feat. Destroy Lonely)",
+      "url": "https://open.spotify.com/track/79GhK8ZAUQxGFfr6rEpdms"
+    },
+    {
+      "album": {
         "name": "Pound Town (and Tay Keith)",
         "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
       },
@@ -17338,6 +17544,24 @@
       "duration_ms": 129429,
       "name": "Pound Town (and Tay Keith)",
       "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
+    },
+    {
+      "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/2d0Xr48jlUFn19m68gb4Er"
+      },
+      "artists": [
+        {
+          "name": "Foolio",
+          "url": "https://open.spotify.com/artist/79mgHJytm385Muv7GfaneD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136584,
+      "name": "Prayers",
+      "url": "https://open.spotify.com/track/3nBcEtTQ244A1Opm78a96y"
     },
     {
       "album": {
@@ -18114,7 +18338,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 203679,
       "name": "Real Type (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/0iy3qv2NVOglVSz3w95QfT"
@@ -19150,7 +19374,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 175587,
       "name": "Run",
       "url": "https://open.spotify.com/track/7bwflXK0lc225Ir1SlkptS"
@@ -19386,7 +19610,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 179562,
       "name": "Saxk Shit",
       "url": "https://open.spotify.com/track/0AgsEtRstRuxUC87JJZXOG"
@@ -25620,7 +25844,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 117934,
       "name": "\ufeffMurdah Man",
       "url": "https://open.spotify.com/track/0CQfxGSoHb8HSZYejo4FlL"

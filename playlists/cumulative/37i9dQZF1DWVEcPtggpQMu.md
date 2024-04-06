@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb?si=ZXqGyRHTQY2VCnM6FwepgQ">Mark Akol</a>, <a href="https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8?si=Rk3WycIzTcO5bsOMhdziEg">Sipho The Gift</a>
 
-716 songs - 1 day 14 hr 36 min
+717 songs - 1 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Call Me Up](https://open.spotify.com/track/7cSlFpcnrIDsmwVw3QFoJA) | [DJ Capital](https://open.spotify.com/artist/1Z2lV83lH6bNPLr0c0ofsL), [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz), [Thabiso Lavish](https://open.spotify.com/artist/31gaX166pm8kfjpM9yujDA) | [Call Me Up](https://open.spotify.com/album/0Dsh8VOYvRMQPe3hco5TpI) | 3:28 | 2022-03-24 | 2022-04-15 |
 | [CALLING FOR YOU](https://open.spotify.com/track/0ktPQbm5bTtSBKjdpk6uXl) | [DYLAN](https://open.spotify.com/artist/0MiK2GCTKCn7okire8MtHu) | [CALLING FOR YOU](https://open.spotify.com/album/2NbNT1yKWjHgQ4a2Ytv8vV) | 2:01 | 2023-10-20 | 2023-11-07 |
 | [Calls On Me](https://open.spotify.com/track/3HsdEh6AiLR4OM8fuTBdZ9) | [Sgi\_Magalela](https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE) | [Calls On Me](https://open.spotify.com/album/5OSzG9Pfyrj4AcBVYz9bo5) | 2:38 | 2022-03-24 | 2022-07-29 |
+| [Calm Down](https://open.spotify.com/track/1fDC4IXBlkHuAPugpCDqOo) | [Roiii](https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V) | [Calm Down](https://open.spotify.com/album/1a1UUMwJ6IafQNQo9I7qDB) | 2:42 | 2024-04-05 |  |
 | [CAN'T GET ENOUGH \(feat\. Moozlie\)](https://open.spotify.com/track/3Y49VbQ1rQoLzIHgZ9MPFk) | [NOTBENJAMIN](https://open.spotify.com/artist/303bUa4VDUe6fAPIM5vzvN), [XXC Legacy](https://open.spotify.com/artist/2NTfvgbSma5efyg5iyLG43), [Moozlie](https://open.spotify.com/artist/4TvEx3QxTDbOBf5XgfNPiU) | [NOSTALGIA](https://open.spotify.com/album/4jtjmA5MBU3wk2NJHiA7D5) | 3:13 | 2023-11-23 | 2023-11-25 |
 | [Can't See You](https://open.spotify.com/track/1M32j82T22uoGhzl7QIjGm) | [Suhn](https://open.spotify.com/artist/21FjHoi27TUaIuUSYxdOwf) | [Can't See You](https://open.spotify.com/album/5Movtv8Ug6FAqqTqIU9XXZ) | 2:55 | 2022-09-09 | 2022-09-23 |
 | [Can't Wait](https://open.spotify.com/track/4ARfnWxjN6vb1QLDl1yuKA) | [Mo$hpit Cindy](https://open.spotify.com/artist/7mlXK93aYpGSbRPaEqdLYU) | [Can't Wait](https://open.spotify.com/album/7IiykOHeyG8Mhx6Bo033N1) | 2:42 | 2022-02-17 | 2022-03-04 |

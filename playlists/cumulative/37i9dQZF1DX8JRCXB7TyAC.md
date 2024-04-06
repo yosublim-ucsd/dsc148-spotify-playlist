@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-93 songs - 4 hr 38 min
+94 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Desi](https://open.spotify.com/track/4PdZM5PoGGLIFWfPquRnEd) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD](https://open.spotify.com/artist/30Bev10vDi5uByGqVky2MX) | [Desi](https://open.spotify.com/album/5I0yk3Qb3CaTM12ijQ0Z1U) | 3:33 | 2023-07-24 |  |
 | [Desi Katta](https://open.spotify.com/track/48iAFIz2vYMJH8eqAyctJW) | [Mohit Sharma](https://open.spotify.com/artist/6Nzqi199UwJFiHQ6Rgc3j1), [Ved Dhanania](https://open.spotify.com/artist/6qZ5dlvCpcLQeiizBkyIGA), [Sweta Chauhan](https://open.spotify.com/artist/7c4ZmsnxBHkspjgZeWpeFP), [R K Crew](https://open.spotify.com/artist/6QQcSyntyILnDWvSZmnoVT) | [Desi Katta](https://open.spotify.com/album/093STonA4bpAjQyzWt4WgR) | 2:52 | 2023-07-24 | 2023-11-10 |
 | [Dole Laadle](https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dole Laadle](https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq) | 3:01 | 2023-07-24 |  |
-| [Don Dada](https://open.spotify.com/track/74pqHiISH1jCZcNTJrI5Qe) | [Vinod Sorkhi](https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob) | [Don Dada](https://open.spotify.com/album/5FVvpRqfz1mp3mRnv1zpgh) | 2:48 | 2023-07-24 |  |
+| [Don Dada](https://open.spotify.com/track/74pqHiISH1jCZcNTJrI5Qe) | [Vinod Sorkhi](https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob) | [Don Dada](https://open.spotify.com/album/5FVvpRqfz1mp3mRnv1zpgh) | 2:48 | 2023-07-24 | 2024-04-06 |
 | [Farraar](https://open.spotify.com/track/6PohXw5DibZpkgPxd7dwwD) | [Addy B](https://open.spotify.com/artist/2AbdUtRz66AR1qNWEDnKhD), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob) | [Farraar](https://open.spotify.com/album/160URWYJYPC9W5VDj25Hoc) | 3:30 | 2023-08-30 | 2024-03-02 |
 | [Fitness](https://open.spotify.com/track/1HzObZPrlMd5qZuTVm2VND) | [Gagan Haryanvi](https://open.spotify.com/artist/4ytVJDy173fPLx97Ww84JW), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [Fitness \- Single](https://open.spotify.com/album/6tJpPIreOaW2MNeo3zwq0U) | 4:00 | 2023-10-03 | 2023-12-23 |
 | [Gaadi Desiyan Ki](https://open.spotify.com/track/1bi3ume3cSnvQssluzdLG8) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Gaadi Desiyan Ki](https://open.spotify.com/album/2pq8qaJMYuQI7VJqqHP7hD) | 2:37 | 2023-07-24 |  |
@@ -47,6 +47,7 @@
 | [Gunda Tera Yaar](https://open.spotify.com/track/6LUcNhzw90fgkNfGIng6Y8) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5) | [Gunda Tera Yaar](https://open.spotify.com/album/2Q0hMm4quCqIkJdtF8eW61) | 2:38 | 2023-07-31 | 2023-11-10 |
 | [Gunday](https://open.spotify.com/track/0HdMNvCZPuUWgyv3PSES4V) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [Anjali 99](https://open.spotify.com/artist/4QirDUwZFIIRDP3tL7gB6E), [Rao Inderjeet Singh](https://open.spotify.com/artist/1UUxLQuphE7XL3EOQga1yk), [Sweta Chauhan](https://open.spotify.com/artist/4TsNgxbxmdUsKIFtqvzRPa) | [Gunday](https://open.spotify.com/album/73DYc8xnjVLEzxAqdBx7Y0) | 2:56 | 2023-07-24 |  |
 | [Gunde Te Pyaar](https://open.spotify.com/track/3AaInQgz5j9wLN9PR87pqy) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Sweta Chauhan](https://open.spotify.com/artist/4TsNgxbxmdUsKIFtqvzRPa), [Zameer Siddiqui](https://open.spotify.com/artist/0MOHjZdv3gfJbXu4Lt7NL0) | [Gunde Te Pyaar](https://open.spotify.com/album/2M6uGncIcmy5hpjlLqoQos) | 3:28 | 2023-07-24 |  |
+| [Gurjar Gang](https://open.spotify.com/track/0Suya0KkIIaqvnXtXyGMpJ) | [Jassi Kirarkot](https://open.spotify.com/artist/2MrTNaowqRRDiTj0FKHvZP), [Dc](https://open.spotify.com/artist/2FOKZV8ZRTKsJ9v90qIxoU), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Gurjar Gang](https://open.spotify.com/album/0LcekT7wnn60wsizvduMhe) | 2:28 | 2024-04-05 |  |
 | [Gym](https://open.spotify.com/track/57UMuOrnuEohn3TR6ZfJ0j) | [Armaan Malik](https://open.spotify.com/artist/3pibkVeMCi8twOlUWQGieI) | [Gym](https://open.spotify.com/album/6Txxy3cBUhTAoCJOxv7r5b) | 2:16 | 2023-10-03 | 2023-11-10 |
 | [Gym De Shokeen](https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [Gym De Shokeen](https://open.spotify.com/album/4NXiyOVXNQ6HwGBpNGDF8b) | 3:45 | 2023-10-03 |  |
 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 | 2023-07-24 |  |

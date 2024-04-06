@@ -24647,6 +24647,24 @@
     },
     {
       "album": {
+        "name": "Soften",
+        "url": "https://open.spotify.com/album/6bCdkq4rIdIyKqRfSVMYx0"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60408,
+      "name": "Soften",
+      "url": "https://open.spotify.com/track/4kibMcibhtId8yZon153AX"
+    },
+    {
+      "album": {
         "name": "Calming Moments",
         "url": "https://open.spotify.com/album/4yz3qOY8SkpbzyUarrx00Z"
       },
@@ -25152,6 +25170,24 @@
       "duration_ms": 60000,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/4I6ts0ghZ7I5dKdLZxHklw"
+    },
+    {
+      "album": {
+        "name": "Spirit (Cello Version)",
+        "url": "https://open.spotify.com/album/41IKM9tEI65IHMlUJkdfhD"
+      },
+      "artists": [
+        {
+          "name": "Poella",
+          "url": "https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60508,
+      "name": "Spirit - Cello Version",
+      "url": "https://open.spotify.com/track/4QBFqswsm4Jb6KjbieVACR"
     },
     {
       "album": {

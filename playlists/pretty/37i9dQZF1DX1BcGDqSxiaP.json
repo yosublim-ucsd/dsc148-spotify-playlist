@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 22721,
+  "num_followers": 22728,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTZmZDVlY2U4ZWZlZjFlMmZlN2NhNzVlNTRiYTUyNDBmOWUyNThk",
+  "snapshot_id": "MCw4ZjRmOWMzZjA3Mzg2NTQ2ZmU2NDA0MGQ5ZDliYmI4YzAxZDRkYTJk",
   "tracks": [
     {
       "added_at": "2023-05-17 15:52:13",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "Winning Hand",
+        "url": "https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "Sound Of A Broken Man",
+      "url": "https://open.spotify.com/track/7BOqaAr7LvvujogwSOlsdT"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Lucky Guy!",
         "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 189213,
       "name": "312 Blood",
       "url": "https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Winning Hand",
-        "url": "https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA"
-      },
-      "artists": [
-        {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "Sound Of A Broken Man",
-      "url": "https://open.spotify.com/track/7BOqaAr7LvvujogwSOlsdT"
     },
     {
       "added_at": "2023-05-17 15:52:13",

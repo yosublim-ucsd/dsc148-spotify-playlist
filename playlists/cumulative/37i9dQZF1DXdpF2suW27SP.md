@@ -4,7 +4,7 @@
 
 > Ivandro e Slow J entram na zona.
 
-520 songs - 1 day 3 hr 51 min
+521 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Owner \- Remix](https://open.spotify.com/track/3Am5orspH6gBgJqk5SgEJv) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Beatoven](https://open.spotify.com/artist/5KPaJqjZ6Ta1dDO47eSQKa) | [Owner \(Remix\)](https://open.spotify.com/album/5j7020cANfwmGekttGakkv) | 2:22 | 2023-06-29 | 2023-09-09 |
 | [Oxigénio \(feat\. LON3R JOHNY & Piri\_bxd\)](https://open.spotify.com/track/1xZAXX6f4odgAXtd1zLvmo) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [D'ay](https://open.spotify.com/artist/65pBw5z7QlvhAGZvlzjmWA), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Piri\_bxd](https://open.spotify.com/artist/3ZS6P4TT29hji0nd1UM8pR) | [Oxigénio \(feat\. LON3R JOHNY & Piri\_bxd\)](https://open.spotify.com/album/1S0YjdOZZYAgwCz66yMQ8N) | 4:39 | 2022-07-16 | 2022-11-25 |
 | [P'TRÁS](https://open.spotify.com/track/3qcTW13B4fnaD9GkyiuMDN) | [PiMP WiLLIAM](https://open.spotify.com/artist/5oZcIrge17ygyt5U7ZxhA9) | [P'TRÁS](https://open.spotify.com/album/4MaBicD3TZQZmQWqjZGH52) | 2:00 | 2023-07-27 | 2023-08-18 |
+| [Pain](https://open.spotify.com/track/2LhPmI9zmj6V9kKr48xcqr) | [Dezinho](https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA) | [Pain](https://open.spotify.com/album/54J13b5GudIcDSsewgQB5Q) | 3:44 | 2024-04-05 |  |
 | [Paname](https://open.spotify.com/track/4yLbgYPH38Wch2tBnAqyuX) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Pilax](https://open.spotify.com/artist/6CxMJ6L0DQR8GDFlkmYTth) | [Paname](https://open.spotify.com/album/0ynJhAp61I2Lsn6pli85WU) | 3:17 | 2022-10-20 | 2023-01-27 |
 | [Papaia](https://open.spotify.com/track/17MPtgaJHgr2WlJVyhA6kw) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Oitavo Céu](https://open.spotify.com/album/0Hm4SvANwPDIBdDPnN97rf) | 3:02 | 2022-07-16 | 2023-04-21 |
 | [Paper](https://open.spotify.com/track/2eSHRVgM4kA1KcEzfSQaeA) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Carlito Lagangzz](https://open.spotify.com/artist/4gXs0G5ETeS6eTOMRCiSdL) | [Paper](https://open.spotify.com/album/1idwx450GZN7DYPcB5KcQA) | 3:12 | 2023-06-22 | 2023-07-21 |
@@ -436,7 +437,7 @@
 | [sem pé](https://open.spotify.com/track/2MO8cXrJ8B72x6n9z7yKGm) | [João Tamura](https://open.spotify.com/artist/3sPu1TUK3Sg53uMqMBvNzT), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn), [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [sem pé](https://open.spotify.com/album/5Yl6lEPMGik9TgXxdIpVWo) | 2:55 | 2023-12-08 | 2023-12-15 |
 | [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 | 2023-06-29 |  |
 | [Senta](https://open.spotify.com/track/1BMCRtyxpM7LEbEsI7QWMc) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Senta](https://open.spotify.com/album/1BLpB1sXHsOk8YkoJy9FRy) | 2:22 | 2023-08-03 | 2023-09-09 |
-| [Senti Tanto](https://open.spotify.com/track/45xlwCyuZGswXaqm9sUGnQ) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Senti Tanto](https://open.spotify.com/album/0SexRbV9z4iuJJeoDmTJp3) | 2:42 | 2023-04-20 |  |
+| [Senti Tanto](https://open.spotify.com/track/45xlwCyuZGswXaqm9sUGnQ) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Senti Tanto](https://open.spotify.com/album/0SexRbV9z4iuJJeoDmTJp3) | 2:42 | 2023-04-20 | 2024-04-06 |
 | [Serenata](https://open.spotify.com/track/1HokVALLDjwqdtVpuP8Vwv) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd), [Nuno Aparício](https://open.spotify.com/artist/1sOpRdQ6OosMS6sUC03ToW) | [Serenata](https://open.spotify.com/album/5ClLZLsv5yt8JFY2pT1BrR) | 3:15 | 2024-03-29 |  |
 | [SEXTOU](https://open.spotify.com/track/4U7ucVkz1f1XrNMw2bXe1e) | [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx), [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [Submundo](https://open.spotify.com/artist/6yEOdmt4VKSEFu3smHvuaw) | [SEXTOU](https://open.spotify.com/album/0DJWUuanSg10boh1qpNs5i) | 2:38 | 2023-05-11 | 2023-06-02 |
 | [Shin Chan](https://open.spotify.com/track/5RD8mlX4m6jRGgiW1BYU6h) | [PAULELSON](https://open.spotify.com/artist/2eAoYU1GFYA7zDRIALrJfq) | [Shin Chan](https://open.spotify.com/album/3dE59HkocFHQh031wtJE7o) | 2:58 | 2022-08-25 | 2022-10-01 |

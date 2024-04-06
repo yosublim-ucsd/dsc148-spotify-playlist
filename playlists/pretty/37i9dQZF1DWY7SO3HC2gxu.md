@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,225 likes - 80 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,232 likes - 80 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 41 | [Take A Chance](https://open.spotify.com/track/7t56z9S82lwRdqCsArOnZ0) | [Olivia Ambani](https://open.spotify.com/artist/2ZvuDMMGloNFnH6Bhm67jG) | [Take A Chance](https://open.spotify.com/album/5L3ZDYPpWNnxjST6k8pq8O) | 4:51 |
 | 42 | [Dunguni feat Idd Aziz](https://open.spotify.com/track/3vIah0m7Mxv4BSk0LVpX6M) | [SIL3NTKILL](https://open.spotify.com/artist/4FB27lfrCEGXTjrgs3zeFC), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Dunguni feat Idd Aziz](https://open.spotify.com/album/0wtiHPGJQpCbcAUA4xfhGF) | 5:25 |
 | 43 | [Chuki](https://open.spotify.com/track/1i9pxVfeE7JLJRIgvWIIJp) | [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [TekniQ](https://open.spotify.com/artist/2bStEVhFVPtYOzOxP58xeq), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Chuki](https://open.spotify.com/album/5IzLQJEynAMDV6DGfzfkr6) | 6:26 |
-| 44 | [Flames](https://open.spotify.com/track/6X0p3vgL8JMyUTLHDm8taS) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod) | [Flames](https://open.spotify.com/album/6CXfE7vb0Nl5ZFthPzdn2U) | 2:21 |
+| 44 | [Flames](https://open.spotify.com/track/6S1mY4W4ZXK17myBKwoXp4) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod) | [Flames](https://open.spotify.com/album/70tE4mp6AUYmsZhh3lOqeQ) | 2:21 |
 | 45 | [Oroboto](https://open.spotify.com/track/6R6VmDIn0gu32DvwBurW5Z) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Oroboto](https://open.spotify.com/album/4yr5dLUribiANAFDzjlUAZ) | 2:50 |
 | 46 | [Touche \- Coco Em Remix](https://open.spotify.com/track/4p8OE6lz0v0E22ZeLmFnaC) | [O'o](https://open.spotify.com/artist/1DtsFylHx6XtgBVITFouan), [Coco Em](https://open.spotify.com/artist/3FahF8OhHNaw7OJRfEPy9x) | [Touche \(Coco Em Remix\)](https://open.spotify.com/album/6MZvMtngHxy9DbatIghC2w) | 6:18 |
 | 47 | [The System](https://open.spotify.com/track/7dfY4o5xu1Okdeu1L4yDTb) | [DJ Fita](https://open.spotify.com/artist/3JZjnPldr5tbimjkX4kz49) | [The System](https://open.spotify.com/album/608IJoZ0bEA3qMyPl2a7gz) | 4:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 79 | [Kiti \- Original Mix](https://open.spotify.com/track/3tXI0KZSLrAGhhU9CUftTZ) | [Nawfel](https://open.spotify.com/artist/6GOC5kFP9ItbuvthbJIZH5), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kiti](https://open.spotify.com/album/0hAFNjxCsakZQUbT4oCMn6) | 6:26 |
 | 80 | [Weche \- Radio Edit](https://open.spotify.com/track/1Auk0gMNtlgOlw6MiI5u6m) | [Punk Mbedzi](https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi), [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Weche \(Radio Edit\)](https://open.spotify.com/album/6L3HIE5eRD73FNzp4JMSdX) | 3:37 |
 
-Snapshot ID: `MCw2OGVmY2QxYzg3MzE0NDQzZGQ2YTFlYjA1ZjM3YjgwMGYwNDU4OTNm`
+Snapshot ID: `MCxjZjlhOTgzMzA3OGZmOGFiNTM5MWI5YzgyOGRmYzk1MTk1NDQ2ODQ3`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie. Cover: Conociendo Rusia",
+  "description": "Fresh Latin Indie you should know. Cover: The Mar\u00edas",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -4666,7 +4666,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 188992,
       "name": "La Vida Sin Ti Apesta",
       "url": "https://open.spotify.com/track/3MOT7l7lFwecHZdtvPnoAY"
@@ -4866,6 +4866,24 @@
       "duration_ms": 256545,
       "name": "Le hablo al agua",
       "url": "https://open.spotify.com/track/03tx7WIGxOlPt0TFLKKY6y"
+    },
+    {
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
     },
     {
       "album": {
@@ -6792,7 +6810,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 161392,
       "name": "NO HAY SE\u00d1AL",
       "url": "https://open.spotify.com/track/7MhNUNjHVMjCK4kzY610Iu"
@@ -10334,6 +10352,28 @@
       "duration_ms": 227018,
       "name": "Tu Labial",
       "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
+    },
+    {
+      "album": {
+        "name": "tu mejor pesadilla",
+        "url": "https://open.spotify.com/album/7pbiOJEL2JVAhGjIy5Czsa"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        },
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "tu mejor pesadilla",
+      "url": "https://open.spotify.com/track/3fT1P7V7xQinkPKgGSORRe"
     },
     {
       "album": {

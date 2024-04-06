@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "Betrayal",
+        "url": "https://open.spotify.com/album/4QTWadvF8SLwDbnwMJ7DSR"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366614,
+      "name": "Betrayal",
+      "url": "https://open.spotify.com/track/6a25inJpWjDP9WwKgO8gFI"
+    },
+    {
+      "album": {
         "name": "Better Mind",
         "url": "https://open.spotify.com/album/5Bycx3sLWBt2bHhamjlDY9"
       },
@@ -1827,6 +1845,28 @@
     },
     {
       "album": {
+        "name": "Delete Time",
+        "url": "https://open.spotify.com/album/3Rn97fqjZ6Nj5ECntOaDJB"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Delete Time",
+      "url": "https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt"
+    },
+    {
+      "album": {
         "name": "Delilah (pull me out of this)",
         "url": "https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW"
       },
@@ -2504,7 +2544,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 226249,
       "name": "Fly With Me",
       "url": "https://open.spotify.com/track/6ZbczOUKEUWZLxchgKbk9p"
@@ -2522,7 +2562,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 348815,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt"
@@ -2736,7 +2776,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 426520,
       "name": "Golden Child",
       "url": "https://open.spotify.com/track/7zly5twd2G3tWW7facoUQB"
@@ -3632,7 +3672,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 440655,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/5dhrGi8mhNpT8949MbgW9v"
@@ -4805,6 +4845,28 @@
     },
     {
       "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Weekend Heroes",
+          "url": "https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "No One\u2019s Coming",
+      "url": "https://open.spotify.com/track/5yKh1r5JXYKjUS4QHeoixs"
+    },
+    {
+      "album": {
         "name": "Nosara",
         "url": "https://open.spotify.com/album/3S32phAJPXvFM1jbq9fKF5"
       },
@@ -4838,6 +4900,24 @@
       "duration_ms": 326400,
       "name": "Nova Two",
       "url": "https://open.spotify.com/track/2Pc744GTIafPnZrNGNdPUJ"
+    },
+    {
+      "album": {
+        "name": "Genesys II",
+        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239475,
+      "name": "Now Or Never",
+      "url": "https://open.spotify.com/track/5ODOZBqS9a6bRmyWtsBsRt"
     },
     {
       "album": {
@@ -5254,6 +5334,28 @@
       "duration_ms": 338295,
       "name": "Picnic",
       "url": "https://open.spotify.com/track/4LV2WO47KmDcjOBii078Df"
+    },
+    {
+      "album": {
+        "name": "Genesys II",
+        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243838,
+      "name": "Pictures Of You - Cassian Remix",
+      "url": "https://open.spotify.com/track/7KxCyR3pCUqH136EvCDMun"
     },
     {
       "album": {
@@ -6034,7 +6136,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 424332,
       "name": "She Could!",
       "url": "https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d"

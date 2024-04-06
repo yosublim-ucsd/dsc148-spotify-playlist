@@ -1,13 +1,209 @@
 {
-  "description": "music from the underworld",
-  "num_followers": 400057,
+  "description": "music from the underworld. featuring a 10 track co-curation from <a href=\"spotify:artist:0I7VmE5LkRmWoHltutTUh9\">asteria</a>. ",
+  "num_followers": 401405,
   "original_name": "hexxed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmIzYjcxNmYxMTJiYTAyMmY2NWVjYzIyNmQ1M2VjYmQ2YmUzOGRj",
+  "snapshot_id": "MCw1N2MzODM1MTczZDgyODRkZjRiY2M3YTNiMjdlYzkyOWJjMDhiMmY1",
   "tracks": [
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "EYES ON ME",
+        "url": "https://open.spotify.com/album/4wnuFlOfdXNSEsHt7V65wq"
+      },
+      "artists": [
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        }
+      ],
+      "duration_ms": 116643,
+      "name": "EYES ON ME",
+      "url": "https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Internet Famous",
+        "url": "https://open.spotify.com/album/2yEBsWRowuo5FRa0Q4b5D6"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        }
+      ],
+      "duration_ms": 118177,
+      "name": "Take A Pic (w/ asteria)",
+      "url": "https://open.spotify.com/track/31DMk9v2hVFRItOF2lJuoc"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "WHAT YOU WANT!",
+        "url": "https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd"
+      },
+      "artists": [
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        }
+      ],
+      "duration_ms": 122414,
+      "name": "WHAT YOU WANT!",
+      "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "BFM (w/ Britney Manson & kets4eki)",
+        "url": "https://open.spotify.com/album/19iAjvRqUO9NQrsO4jVMKl"
+      },
+      "artists": [
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Britney Manson",
+          "url": "https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf"
+        }
+      ],
+      "duration_ms": 148474,
+      "name": "BFM (w/ Britney Manson & kets4eki)",
+      "url": "https://open.spotify.com/track/5ZwMjCsprna6nM8D86dv6e"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "PROJECT X",
+        "url": "https://open.spotify.com/album/0MqIdzr2Fp88ju0IREEzJX"
+      },
+      "artists": [
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "PROJECT X",
+      "url": "https://open.spotify.com/track/0jMuuABfFQuARURU74MzSi"
+    },
+    {
+      "added_at": "2024-03-08 16:57:59",
+      "album": {
+        "name": "Rock Your Body",
+        "url": "https://open.spotify.com/album/1bL31qYzTMyihNFR91mgFt"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "duration_ms": 133361,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1LKk576aw3RM47MNytUtrD"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "TOO MANY LINES!",
+        "url": "https://open.spotify.com/album/0exOlHAprrTlkJ110QPfui"
+      },
+      "artists": [
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        }
+      ],
+      "duration_ms": 144490,
+      "name": "TOO MANY LINES!",
+      "url": "https://open.spotify.com/track/7bQMD4pot56isH55H60bla"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "AMERICAN DREAM",
+        "url": "https://open.spotify.com/album/4ZrCIa7KOUvCfuB10rIDgf"
+      },
+      "artists": [
+        {
+          "name": "Britney Manson",
+          "url": "https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf"
+        }
+      ],
+      "duration_ms": 160624,
+      "name": "AMERICAN DREAM",
+      "url": "https://open.spotify.com/track/4gxEAJpFbGX9iI7SPSn88z"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "fuck with me (1273)",
+        "url": "https://open.spotify.com/album/72BVsoMpmff569VDMuqMJb"
+      },
+      "artists": [
+        {
+          "name": "Lytra",
+          "url": "https://open.spotify.com/artist/765caWhYCY7Yiw5F6jZZHg"
+        },
+        {
+          "name": "WASTY",
+          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        }
+      ],
+      "duration_ms": 106765,
+      "name": "fuck with me (1273)",
+      "url": "https://open.spotify.com/track/4YvNM4CyQ1Ls0OHTi44jIv"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "FCKNSTR",
+        "url": "https://open.spotify.com/album/1LXC62pD9hPjQaMWT4wKuD"
+      },
+      "artists": [
+        {
+          "name": "Britney Manson",
+          "url": "https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 154372,
+      "name": "FCKNSTR",
+      "url": "https://open.spotify.com/track/4hFlAmJ6zJ53nZNRbsNpTn"
+    },
     {
       "added_at": "2024-03-05 18:42:51",
       "album": {
@@ -59,22 +255,6 @@
       "duration_ms": 120165,
       "name": "DICE AND ROLL",
       "url": "https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "WHAT YOU WANT!",
-        "url": "https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd"
-      },
-      "artists": [
-        {
-          "name": "asteria",
-          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
-        }
-      ],
-      "duration_ms": 122414,
-      "name": "WHAT YOU WANT!",
-      "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"
     },
     {
       "added_at": "2024-02-13 14:24:02",
@@ -195,22 +375,6 @@
       "duration_ms": 116567,
       "name": "YOU'RE TOO SLOW (Bonus)",
       "url": "https://open.spotify.com/track/3QV4m1LpUixah1Ab2woVxl"
-    },
-    {
-      "added_at": "2024-03-13 04:00:00",
-      "album": {
-        "name": "EYES ON ME",
-        "url": "https://open.spotify.com/album/4wnuFlOfdXNSEsHt7V65wq"
-      },
-      "artists": [
-        {
-          "name": "asteria",
-          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
-        }
-      ],
-      "duration_ms": 116643,
-      "name": "EYES ON ME",
-      "url": "https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK"
     },
     {
       "added_at": "2024-02-13 14:24:02",
@@ -593,26 +757,6 @@
       "url": "https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R"
     },
     {
-      "added_at": "2024-03-08 16:57:59",
-      "album": {
-        "name": "Rock Your Body",
-        "url": "https://open.spotify.com/album/1bL31qYzTMyihNFR91mgFt"
-      },
-      "artists": [
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        },
-        {
-          "name": "Ayesha Erotica",
-          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
-        }
-      ],
-      "duration_ms": 133361,
-      "name": "Rock Your Body",
-      "url": "https://open.spotify.com/track/1LKk576aw3RM47MNytUtrD"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Sassy Scene",
@@ -951,26 +1095,6 @@
       "duration_ms": 114703,
       "name": "NALGOTICA!",
       "url": "https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "TOO MANY LINES!",
-        "url": "https://open.spotify.com/album/0exOlHAprrTlkJ110QPfui"
-      },
-      "artists": [
-        {
-          "name": "asteria",
-          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
-        },
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        }
-      ],
-      "duration_ms": 144490,
-      "name": "TOO MANY LINES!",
-      "url": "https://open.spotify.com/track/7bQMD4pot56isH55H60bla"
     },
     {
       "added_at": "2024-03-08 16:57:59",
@@ -1743,126 +1867,6 @@
       "duration_ms": 134237,
       "name": "Just A Hint",
       "url": "https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "4ever (feat. Universe)",
-        "url": "https://open.spotify.com/album/3QxEUjtcqaKHos7arMaVcz"
-      },
-      "artists": [
-        {
-          "name": "removeface",
-          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
-        },
-        {
-          "name": "Universe",
-          "url": "https://open.spotify.com/artist/30RtxAnENaOe9XNqA4UxZW"
-        }
-      ],
-      "duration_ms": 148363,
-      "name": "4ever (feat. Universe)",
-      "url": "https://open.spotify.com/track/1iNZsRg2WI437aWBsQdGaS"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "BREAKING BAD (feat. 9lives)",
-        "url": "https://open.spotify.com/album/6Zm6n9JULZtKsl2csQ8Emz"
-      },
-      "artists": [
-        {
-          "name": "removeface",
-          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        }
-      ],
-      "duration_ms": 124735,
-      "name": "BREAKING BAD (feat. 9lives)",
-      "url": "https://open.spotify.com/track/0ntFxM0eD0OMz4rCgRSoLO"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "ESSENCE",
-        "url": "https://open.spotify.com/album/1DduJ6kIDWQP2mtN4xiWzs"
-      },
-      "artists": [
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        },
-        {
-          "name": "Marluxiam",
-          "url": "https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU"
-        }
-      ],
-      "duration_ms": 147517,
-      "name": "ESSENCE",
-      "url": "https://open.spotify.com/track/0rsENxgWZFX7hsRDXXlLcp"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "INVINCIBLE",
-        "url": "https://open.spotify.com/album/3pKMJN25tbBk9YV76EHnMj"
-      },
-      "artists": [
-        {
-          "name": "Marluxiam",
-          "url": "https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU"
-        },
-        {
-          "name": "kyszenn",
-          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
-        }
-      ],
-      "duration_ms": 130565,
-      "name": "INVINCIBLE",
-      "url": "https://open.spotify.com/track/4Uz07xPAEDFQcjY9vXZmXn"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "melancholy",
-        "url": "https://open.spotify.com/album/57BCZOUocCzqyBStq7kAb3"
-      },
-      "artists": [
-        {
-          "name": "Eternal Raijin",
-          "url": "https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe"
-        },
-        {
-          "name": "Fidi",
-          "url": "https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL"
-        }
-      ],
-      "duration_ms": 122460,
-      "name": "melancholy",
-      "url": "https://open.spotify.com/track/4J7ctWPhgFErjdeWyKLkiA"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "DREAMSCAPE",
-        "url": "https://open.spotify.com/album/6lIObPGguCyVTQf8f1RVag"
-      },
-      "artists": [
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        },
-        {
-          "name": "cyberia",
-          "url": "https://open.spotify.com/artist/0HZkYrBotoNqUyH6B9aDaE"
-        }
-      ],
-      "duration_ms": 120004,
-      "name": "DREAMSCAPE",
-      "url": "https://open.spotify.com/track/4KXtgsfFfjLWCiyqdwUwQh"
     }
   ],
   "unique_name": "hexxed",

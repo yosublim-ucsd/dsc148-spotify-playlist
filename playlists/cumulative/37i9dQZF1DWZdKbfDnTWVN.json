@@ -1689,6 +1689,28 @@
     },
     {
       "album": {
+        "name": "Kichwa Mbaya",
+        "url": "https://open.spotify.com/album/3WYQ2LyDVgXphaqeHeXOx0"
+      },
+      "artists": [
+        {
+          "name": "Masterpiece King",
+          "url": "https://open.spotify.com/artist/4JVrLMd2BhgXFwrNCOmHsF"
+        },
+        {
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245960,
+      "name": "Kichwa Mbaya",
+      "url": "https://open.spotify.com/track/3XaOCbF3QzjcZwpmXNNmcX"
+    },
+    {
+      "album": {
         "name": "KILIPESA",
         "url": "https://open.spotify.com/album/26Y0kUKYndeY7UNxq5tZXl"
       },
@@ -4468,7 +4490,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 178665,
       "name": "Well Known Bandit",
       "url": "https://open.spotify.com/track/0AU5alukDdk2Z8pWKPzTUV"

@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee
 
-156 songs - 11 hr 10 min
+157 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Falling](https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I) | [Road Kahan](https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs) | [Falling](https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL) | 3:02 | 2022-09-15 |  |
 | [Falling Upwards](https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Falling Upwards](https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj) | 5:43 | 2022-09-15 |  |
 | [Fleur d'Hiver](https://open.spotify.com/track/6vr5tDOUOTgtRHWCLrTEtX) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [Fleur d'Hiver](https://open.spotify.com/album/4sBW2Pcr7KlMa28FxpAf6e) | 3:51 | 2024-03-08 |  |
-| [Float](https://open.spotify.com/track/1LDUJjR8IZtd48eCTA3J2Q) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [The Island](https://open.spotify.com/album/5Wwp4BwxOYhgBNyw9f1xJ1) | 4:07 | 2024-03-08 |  |
+| [Float](https://open.spotify.com/track/1LDUJjR8IZtd48eCTA3J2Q) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [The Island](https://open.spotify.com/album/5Wwp4BwxOYhgBNyw9f1xJ1) | 4:07 | 2024-03-08 | 2024-04-06 |
 | [Float](https://open.spotify.com/track/2U6OKVqexxZKLwQe7purlV) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [The Island](https://open.spotify.com/album/7Lq4U7ZWU1Xm7u9OKoHKU9) | 4:07 | 2022-10-13 | 2024-03-21 |
 | [Float](https://open.spotify.com/track/7mj2TROxaQSpRH1IKaTeMO) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Float](https://open.spotify.com/album/0VT6v6yIjICbZRsqJJ9LLO) | 4:07 | 2022-10-13 | 2022-11-14 |
 | [Float](https://open.spotify.com/track/7omCw0COR7xdEqGdAo15Qs) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Float](https://open.spotify.com/album/7wNrgLd06nnEGKmN41nXYI) | 4:07 | 2022-09-15 | 2022-10-14 |
@@ -77,6 +77,7 @@
 | [I Need You to Hear Me](https://open.spotify.com/track/329rKlFCy5U6H9U7AtSAvP) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Space Logic](https://open.spotify.com/album/6ZIh3hjRNV4ViM9EmZ8CGF) | 3:31 | 2023-02-02 |  |
 | [Infinity \(SLCT Remix\) \- Instrumental Version](https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM) | [Bluma Petersen](https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h), [SLCT](https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM) | [Infinity \(The Remixes\)](https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD) | 2:56 | 2022-09-15 |  |
 | [Into The Sun](https://open.spotify.com/track/7IOfpG6bLNSqz2KfDDvbt0) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [STRNGE](https://open.spotify.com/artist/4ZagUV2adLPb7zSoUWYpyr) | [Into The Sun](https://open.spotify.com/album/0cg0ZZjG0sxfyXnMb5xBYx) | 4:47 | 2024-01-24 |  |
+| [joycelyn's dance](https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [joycelyn's dance](https://open.spotify.com/album/1ZmhzQQWURtuF9K7yPcAoJ) | 3:18 | 2024-04-04 |  |
 | [Just for a Moment](https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO) | [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T) | [Just for a Moment](https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO) | 3:13 | 2022-09-15 |  |
 | [Keep Me Satisfied](https://open.spotify.com/track/47uHKBfsct67tjtU4cXn8o) | [Toolate Groove](https://open.spotify.com/artist/2ztp3GKsaGp6ZWLzs12OEN), [Reda](https://open.spotify.com/artist/7AMjhm36Dqr1OFtXE8vR6N) | [Cosmic Breeze 003](https://open.spotify.com/album/6bUogvjiiFSrk6syDMF0P0) | 7:46 | 2022-09-15 | 2022-10-15 |
 | [Keep Me Satisfied](https://open.spotify.com/track/4YNHbvr4RfxsAWXIwSxyYs) | [Toolate Groove](https://open.spotify.com/artist/2ztp3GKsaGp6ZWLzs12OEN), [Reda](https://open.spotify.com/artist/73gK6cuWHbh5kUPwvKd4im) | [Cosmic Breeze 003](https://open.spotify.com/album/7j6WWLDq1XvZX4LJmhwlYq) | 7:46 | 2022-10-13 | 2022-11-19 |

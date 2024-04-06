@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 310789,
+  "2024-04-06": 310949,
   "date_first_scraped": "2020-10-18",
   "description": "Electronic music with Mediterranean and Eastern influences.",
   "name": "mosaic",
@@ -2647,7 +2647,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 245161,
       "name": "Jawi",
       "url": "https://open.spotify.com/track/0oyXfaKxMo82IbAzAC2BMb"
@@ -3027,7 +3027,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 355886,
       "name": "Lbechra",
       "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
@@ -5043,6 +5043,10 @@
         {
           "name": "Jugurtha",
           "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
         },
         {
           "name": "Sahal\u00e9",

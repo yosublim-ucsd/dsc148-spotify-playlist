@@ -4,12 +4,13 @@
 
 > Timeless Pakistani hits, all in one place\. Cover \- Junoon
 
-212 songs - 17 hr 11 min
+213 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aa Jana](https://open.spotify.com/track/07bqsfUgjDqzi67EVsa6r8) | [Najam Sheraz](https://open.spotify.com/artist/66SvSqaZI1DtUpbwxUHNhP) | [Menu Tere Naal](https://open.spotify.com/album/0s20HviKOwDOdPauXzpvrm) | 4:57 | 2021-08-16 | 2022-07-29 |
-| [Aadat](https://open.spotify.com/track/6KUlOsfQ6N72BIu1Yl1q9y) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Kalyug \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3z8LjM95Ft3bWoT9BfEo6G) | 5:33 | 2021-08-16 |  |
+| [Aadat](https://open.spotify.com/track/6KUlOsfQ6N72BIu1Yl1q9y) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Kalyug \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3z8LjM95Ft3bWoT9BfEo6G) | 5:33 | 2021-08-16 | 2024-04-06 |
+| [Aadat \- From "Kalyug"](https://open.spotify.com/track/5VrLz2NUTLbPzgjuVOjxUx) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Jal](https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU), [Mithun Sharma](https://open.spotify.com/artist/0enXKnGlBCHSoWgC92umTP) | [Kalyug \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5NHOGuFSC9lqfkp54IMWVn) | 5:33 | 2024-03-26 |  |
 | [Aap Ki Yaad](https://open.spotify.com/track/5fc9Jer5jSPSPBPE4xgnqd) | [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Parastish](https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT) | 5:11 | 2021-08-16 |  |
 | [Adhoora](https://open.spotify.com/track/6J3VpTaMblKPuDNKAudaUE) | [Rushk](https://open.spotify.com/artist/0M12q0sYgM4yYWBAf7rqME) | [Sawal](https://open.spotify.com/album/1maNCNkafMkUNxRVvt5iqW) | 5:32 | 2021-08-16 | 2022-07-27 |
 | [Aicha](https://open.spotify.com/track/1cRuI7DN1z2FO3boRPmagR) | [Outlandish](https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy) | [Bread & Barrels Of Water](https://open.spotify.com/album/3cowfTrvTm7ZBJhBO0ZYPU) | 4:35 | 2021-08-16 |  |

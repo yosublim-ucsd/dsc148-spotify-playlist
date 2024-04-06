@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 478342,
+  "2024-04-06": 478498,
   "date_first_scraped": "2021-12-30",
   "description": "100% good vibes.",
   "name": "Serotonin",
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 229743,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq"
@@ -3411,6 +3411,24 @@
       "duration_ms": 217556,
       "name": "Get Close",
       "url": "https://open.spotify.com/track/1OmTOm3sl7YAe8fJSVCtrK"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/20B86iJjjECtzJ77XlfHsn"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195001,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2x11PsxYwanGMVjfXtmoQa"
     },
     {
       "album": {

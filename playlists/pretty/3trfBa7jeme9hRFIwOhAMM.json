@@ -6,7 +6,7 @@
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "MTY5OSw5Y2EwNjU1OGFiYzc3Mjc0ODA2ZjM1ZDcyY2E1M2Q0YjM5ZTk2MWZl",
+  "snapshot_id": "MTcwOCxkZGM1ODY1OWIwMmJkZjE1NjA3NDI0MzRkMmEwOGU1NWI1ZTNjMDYx",
   "tracks": [
     {
       "added_at": "2024-04-04 22:39:46",
@@ -189,6 +189,22 @@
       "url": "https://open.spotify.com/track/1NNzj3Ausx2vjGf8WBHhwF"
     },
     {
+      "added_at": "2024-04-05 10:27:32",
+      "album": {
+        "name": "Toxic 4 Me",
+        "url": "https://open.spotify.com/album/4xkYg287m1gTImxhiFwMFO"
+      },
+      "artists": [
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        }
+      ],
+      "duration_ms": 148346,
+      "name": "Toxic 4 Me",
+      "url": "https://open.spotify.com/track/42rKk0fwnMTAKgwWyuvldO"
+    },
+    {
       "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "I Don't Wanna Rush",
@@ -227,6 +243,22 @@
       "duration_ms": 150937,
       "name": "All Day, All Night",
       "url": "https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j"
+    },
+    {
+      "added_at": "2024-04-05 10:17:37",
+      "album": {
+        "name": "BASSLINE",
+        "url": "https://open.spotify.com/album/1xD08oikiattfNZGhnredw"
+      },
+      "artists": [
+        {
+          "name": "NAATE",
+          "url": "https://open.spotify.com/artist/7gvemPrPIvURHCsWx4ZyRM"
+        }
+      ],
+      "duration_ms": 173594,
+      "name": "BASSLINE",
+      "url": "https://open.spotify.com/track/2GkpVKX7IxjFiVDiYULluh"
     },
     {
       "added_at": "2024-04-04 22:39:46",
@@ -325,6 +357,26 @@
       "url": "https://open.spotify.com/track/59Up9bvTzye1JE1fueCjER"
     },
     {
+      "added_at": "2024-04-05 10:23:34",
+      "album": {
+        "name": "Do It",
+        "url": "https://open.spotify.com/album/23aykMLu7mJKY3TgKHuOL5"
+      },
+      "artists": [
+        {
+          "name": "R-CHY",
+          "url": "https://open.spotify.com/artist/4VaW6tpYOl0ld3X54wRZsd"
+        },
+        {
+          "name": "BoweD",
+          "url": "https://open.spotify.com/artist/7jPzDrZccXGN5lIrlSB950"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/71vTjiwwzFDNlS6V4A5qGa"
+    },
+    {
       "added_at": "2024-04-04 22:39:46",
       "album": {
         "name": "Get Down",
@@ -339,26 +391,6 @@
       "duration_ms": 255029,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/1TuSdRRhFDISLBx1PlHeGK"
-    },
-    {
-      "added_at": "2024-04-04 22:39:46",
-      "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/0rIMrd4kixZrTdielNS0xO"
-      },
-      "artists": [
-        {
-          "name": "DJEAU",
-          "url": "https://open.spotify.com/artist/6lgOrCkQMcx7hEW0FxZ2rA"
-        },
-        {
-          "name": "Alleck",
-          "url": "https://open.spotify.com/artist/78147I8H3BkadozjPsWbu9"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "More Life",
-      "url": "https://open.spotify.com/track/6j3cKIuwYzxWmfADBhIVG1"
     },
     {
       "added_at": "2024-04-04 22:39:46",
@@ -423,30 +455,6 @@
     {
       "added_at": "2024-04-04 22:39:46",
       "album": {
-        "name": "Ain't No Mountain",
-        "url": "https://open.spotify.com/album/71ODnsWScGKqVcMLaVpskY"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Thousand Kids",
-          "url": "https://open.spotify.com/artist/5pAaSIooaMTPOhCu7J4dRU"
-        },
-        {
-          "name": "MERAKI",
-          "url": "https://open.spotify.com/artist/3qREC2G2u5sUK9M0NDxEWp"
-        }
-      ],
-      "duration_ms": 167040,
-      "name": "Ain't No Mountain",
-      "url": "https://open.spotify.com/track/6pYInbFNcmHrUhQr1NKowc"
-    },
-    {
-      "added_at": "2024-04-04 22:39:46",
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/5c6Murua9v7wCYdw8AYrHg"
       },
@@ -459,26 +467,6 @@
       "duration_ms": 177142,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/2jIbHF7gHq6N8ymyemruIm"
-    },
-    {
-      "added_at": "2024-04-04 22:39:46",
-      "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 192755,
-      "name": "365",
-      "url": "https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2"
     },
     {
       "added_at": "2024-04-04 22:39:46",

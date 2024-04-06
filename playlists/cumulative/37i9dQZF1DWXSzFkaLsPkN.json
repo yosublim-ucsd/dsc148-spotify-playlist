@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Hindi hai, Indie hai! Cover- Chaar Diwaari",
+  "description": "Hindi hai, Indie hai! Cover- W.i.S.H",
   "name": "hIndies",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 252000,
       "name": "Aise Ho Tum",
       "url": "https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0"
@@ -698,6 +698,28 @@
       "duration_ms": 172564,
       "name": "Fida",
       "url": "https://open.spotify.com/track/1RnGyOqCbgpfmSh423M4t1"
+    },
+    {
+      "album": {
+        "name": "Galti (feat. MxRZI)",
+        "url": "https://open.spotify.com/album/6xKcG6vHS4MJjNFEpqYdKs"
+      },
+      "artists": [
+        {
+          "name": "W.i.S.H.",
+          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
+        },
+        {
+          "name": "MxRZI",
+          "url": "https://open.spotify.com/artist/5xtJsbtEJXs2VpRBShJa1E"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211962,
+      "name": "Galti (feat. MxRZI)",
+      "url": "https://open.spotify.com/track/6x4XXWgys2J3FmuguwVyPP"
     },
     {
       "album": {

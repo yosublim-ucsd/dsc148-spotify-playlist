@@ -4,12 +4,12 @@
 
 > Music from “Girls Band Cry” / アニメ『<a href="https://girls\-band\-cry.com/">ガールズバンドクライ</a>』を彩る数々の楽曲達がここに。怒りも喜びも哀しさも全部ぶちこめ。  ©東映アニメーション
 
-15 songs - 36 min 50 sec
+17 songs - 42 min 59 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Answer to Extreme](https://open.spotify.com/track/5dPzG4Qv2hAPV60adG25UC) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Answer to Extreme](https://open.spotify.com/album/4OpXV7tSWTnMRwNlLInW6R) | 2:33 | 2024-04-04 |  |
-| [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/track/0SFw1KwH6ltFqzrhST2hGs) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/album/0IxVu1A7uA7WTCHJcOuHAm) | 1:01 | 2024-04-04 |  |
+| [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/track/0SFw1KwH6ltFqzrhST2hGs) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/album/0IxVu1A7uA7WTCHJcOuHAm) | 1:01 | 2024-04-04 | 2024-04-06 |
 | [Bleeding Hearts](https://open.spotify.com/track/6XjjysW84F31LxB5GDVbZ8) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Bleeding Hearts](https://open.spotify.com/album/55YkdMjpfnqPo2zIFux1BJ) | 3:41 | 2024-04-04 |  |
 | [Dr\. 安和 すばる ボイスメッセージ](https://open.spotify.com/track/4AWPsoNGuc7tKwIRKIBGog) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Dr\. 安和 すばる ボイスメッセージ](https://open.spotify.com/album/4yoHtdI2CP1VspPyjiElfg) | 0:52 | 2024-04-04 |  |
 | [Gt\. 河原木 桃香 ボイスメッセージ](https://open.spotify.com/track/1rJ6e59hoGbP02eDTWIy1B) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Gt\. 河原木 桃香 ボイスメッセージ](https://open.spotify.com/album/1GqmnFpcDw0XsWXY5gJwPf) | 1:10 | 2024-04-04 |  |
@@ -22,6 +22,8 @@
 | [Piercing the dawn of time](https://open.spotify.com/track/0xcgxihAa7z24vM0W8YZab) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Piercing the dawn of time](https://open.spotify.com/album/2MOH4POoX7n28RsM4EPhcG) | 3:09 | 2024-04-04 |  |
 | [Underneath](https://open.spotify.com/track/4Kbd1Osxirz8fsRSSWdl4L) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Underneath](https://open.spotify.com/album/0RQe4x2NZxjdBXRQ5r89cp) | 2:35 | 2024-04-04 |  |
 | [Vo\. 井芹 仁菜 ボイスメッセージ](https://open.spotify.com/track/3TXOno2ekRTwZR39KrmvSF) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Vo\. 井芹 仁菜 ボイスメッセージ](https://open.spotify.com/album/0Ir9TfyqxdDeIXDnYszTUh) | 1:10 | 2024-04-04 |  |
+| [VOID \- Nina Iseri, Momoka Kawaragi](https://open.spotify.com/track/2mDNci8EmCus4yVygfRXZJ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [VOID \(Nina Iseri, Momoka Kawaragi\)](https://open.spotify.com/album/3faZBe29qPvq3dBoTpMJND) | 3:04 | 2024-04-04 |  |
 | [white drizzle in gloom](https://open.spotify.com/track/0ge5dtz12gXTMquou8xVKL) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [white drizzle in gloom](https://open.spotify.com/album/7q2ujU4Yi2ck5b1Z8GgkAQ) | 3:05 | 2024-04-04 |  |
+| [Wrong World](https://open.spotify.com/track/3oydLYmU23bex9OQDwjxCz) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Wrong World](https://open.spotify.com/album/3QdDjNx9PAJ9LPSgtfUTNX) | 3:04 | 2024-04-04 |  |
 
 \*This playlist was first scraped on 2024-04-05. Prior content cannot be recovered.

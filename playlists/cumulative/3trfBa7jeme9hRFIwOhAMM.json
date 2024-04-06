@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 192755,
       "name": "365",
       "url": "https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2"
@@ -112,7 +112,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 167040,
       "name": "Ain't No Mountain",
       "url": "https://open.spotify.com/track/6pYInbFNcmHrUhQr1NKowc"
@@ -248,6 +248,24 @@
       "duration_ms": 198094,
       "name": "Back It Up (feat. Young Lyxx)",
       "url": "https://open.spotify.com/track/5vS1v4LQpq89CUgCbTYHld"
+    },
+    {
+      "album": {
+        "name": "BASSLINE",
+        "url": "https://open.spotify.com/album/1xD08oikiattfNZGhnredw"
+      },
+      "artists": [
+        {
+          "name": "NAATE",
+          "url": "https://open.spotify.com/artist/7gvemPrPIvURHCsWx4ZyRM"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173594,
+      "name": "BASSLINE",
+      "url": "https://open.spotify.com/track/2GkpVKX7IxjFiVDiYULluh"
     },
     {
       "album": {
@@ -686,6 +704,28 @@
       "duration_ms": 173976,
       "name": "Deepest Desire",
       "url": "https://open.spotify.com/track/6Hr2KZ6JXV8QwCrJ4f72Pi"
+    },
+    {
+      "album": {
+        "name": "Do It",
+        "url": "https://open.spotify.com/album/23aykMLu7mJKY3TgKHuOL5"
+      },
+      "artists": [
+        {
+          "name": "R-CHY",
+          "url": "https://open.spotify.com/artist/4VaW6tpYOl0ld3X54wRZsd"
+        },
+        {
+          "name": "BoweD",
+          "url": "https://open.spotify.com/artist/7jPzDrZccXGN5lIrlSB950"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/71vTjiwwzFDNlS6V4A5qGa"
     },
     {
       "album": {
@@ -2018,7 +2058,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 156190,
       "name": "More Life",
       "url": "https://open.spotify.com/track/6j3cKIuwYzxWmfADBhIVG1"
@@ -3224,6 +3264,24 @@
       "duration_ms": 272640,
       "name": "Ticket To You",
       "url": "https://open.spotify.com/track/1iqJrH48f6u62hk2aL1iI8"
+    },
+    {
+      "album": {
+        "name": "Toxic 4 Me",
+        "url": "https://open.spotify.com/album/4xkYg287m1gTImxhiFwMFO"
+      },
+      "artists": [
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148346,
+      "name": "Toxic 4 Me",
+      "url": "https://open.spotify.com/track/42rKk0fwnMTAKgwWyuvldO"
     },
     {
       "album": {

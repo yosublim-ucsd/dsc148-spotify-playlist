@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126649,
+  "num_followers": 126645,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDY0MywzY2U4MTFkMmViODZlZjBkMzg5YWM0NmZjM2E2M2RkZmQyY2NhNjQz",
+  "snapshot_id": "NDY0NixhOWVlYTQ5MDNhMzhmNzgxZTNhNDc1YWJlYmI3MzgzNWVhYzliZTk4",
   "tracks": [
+    {
+      "added_at": "2024-04-05 16:22:31",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/0UnU5fsuL8C0mPPzUeAagL"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "SpaceMan Zack",
+          "url": "https://open.spotify.com/artist/53dPePMlci6GqJXISlntSK"
+        }
+      ],
+      "duration_ms": 176516,
+      "name": "Only the Good Die Young",
+      "url": "https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc"
+    },
     {
       "added_at": "2024-04-04 17:09:02",
       "album": {
@@ -1143,26 +1163,6 @@
       "duration_ms": 154153,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/7x6WyCtfWVMSzY7BtvSlbs"
-    },
-    {
-      "added_at": "2024-01-16 18:19:48",
-      "album": {
-        "name": "Sun",
-        "url": "https://open.spotify.com/album/1TVA7epk6ZpEuqvTtdWfZb"
-      },
-      "artists": [
-        {
-          "name": "Angara",
-          "url": "https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3"
-        },
-        {
-          "name": "Gregory Esayan",
-          "url": "https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy"
-        }
-      ],
-      "duration_ms": 193170,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/0Oa3fJvhtLXc6RGkcRVHVT"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

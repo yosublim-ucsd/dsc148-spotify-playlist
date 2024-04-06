@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 327,
+  "2024-04-06": 327,
   "date_first_scraped": "2023-12-31",
   "description": "This is Bivolt. The essential tracks, all in one playlist.",
   "name": "This Is Bivolt",
@@ -629,6 +629,36 @@
       "duration_ms": 153600,
       "name": "M\u00fasica Vai Transmitir",
       "url": "https://open.spotify.com/track/5WNR6tGxA59UanPZ7Yc2ZD"
+    },
+    {
+      "album": {
+        "name": "Sabotage 50",
+        "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
+      },
+      "artists": [
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Xis",
+          "url": "https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222351,
+      "name": "No Brooklin - Sabotage 50",
+      "url": "https://open.spotify.com/track/7qe83eUTv4IbvMYCYCOAbu"
     },
     {
       "album": {

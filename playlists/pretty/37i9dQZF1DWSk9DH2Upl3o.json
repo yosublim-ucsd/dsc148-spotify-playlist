@@ -1,13 +1,29 @@
 {
   "description": "The jam scene is alive and well. Cover: SunSquabi",
-  "num_followers": 29829,
+  "num_followers": 29859,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2YzYjAzYzg4ZDZjYmE3NDg2YjY1YTE0YzNjMTJkMzRiYTcxZjIz",
+  "snapshot_id": "MCw4ZjQwYzk3MmQ1YjA4Yzg5ZmY0MWFhZWFiZGNjM2U5YjQ3YTI3OWY0",
   "tracks": [
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "The Funk",
+        "url": "https://open.spotify.com/album/3xJCoX4DmruRsiDK1E8r8k"
+      },
+      "artists": [
+        {
+          "name": "Hot Like Mars",
+          "url": "https://open.spotify.com/artist/26JLN9tc9p730kRILV3mvh"
+        }
+      ],
+      "duration_ms": 529500,
+      "name": "The Funk",
+      "url": "https://open.spotify.com/track/0WeCFdC599NfSLEYF4DhIK"
+    },
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
@@ -911,22 +927,6 @@
       "duration_ms": 270562,
       "name": "Staircase",
       "url": "https://open.spotify.com/track/4L5BJVlGVFCnd79kRxo2lH"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/5XGhSLj9gm7t7SygAbGk5S"
-      },
-      "artists": [
-        {
-          "name": "Tommy Kaelin",
-          "url": "https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p"
-        }
-      ],
-      "duration_ms": 290150,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/5ju62GuABsAvpTtoAkM9Zy"
     },
     {
       "added_at": "2022-07-01 04:02:00",

@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 77184,
+  "2024-04-06": 77225,
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr?si=HVJiC65LT9G55BYETfe6ow\">Emtee</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb?si=ZXqGyRHTQY2VCnM6FwepgQ\">Mark Akol</a>, <a href=\"https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8?si=Rk3WycIzTcO5bsOMhdziEg\">Sipho The Gift</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -561,7 +561,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 217959,
       "name": "Again",
       "url": "https://open.spotify.com/track/4tKb1Si7aVoV4EeTRA9wnI"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 278187,
       "name": "Amaqwa",
       "url": "https://open.spotify.com/track/7kAeTiWtrqnKdzDKx4JTPm"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 224651,
       "name": "APEX",
       "url": "https://open.spotify.com/track/6kQOvhPMJkEfG9TOPbrmMX"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 280888,
       "name": "ARE YOU ALRiGHT?",
       "url": "https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF"
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 208416,
       "name": "Back Like I Never Left",
       "url": "https://open.spotify.com/track/71jc8iXYM0B9QM1HP16Wxf"
@@ -1703,6 +1703,28 @@
       "duration_ms": 198214,
       "name": "Big Booty Bitch",
       "url": "https://open.spotify.com/track/23kvA1XZhBvP3tfcLh7aa9"
+    },
+    {
+      "album": {
+        "name": "THE HEIST",
+        "url": "https://open.spotify.com/album/4WX5zJBwQAvWqNFjjpkgh0"
+      },
+      "artists": [
+        {
+          "name": "Mark Akol",
+          "url": "https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb"
+        },
+        {
+          "name": "Sipho the Gift",
+          "url": "https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128267,
+      "name": "BIG DAWG",
+      "url": "https://open.spotify.com/track/7pTBMsn72jgNhvpOCsJfST"
     },
     {
       "album": {
@@ -2601,7 +2623,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 161495,
       "name": "Cape Town",
       "url": "https://open.spotify.com/track/5SgdmfnKvwzFfFuNNlm8M1"
@@ -2733,6 +2755,24 @@
       "duration_ms": 186357,
       "name": "Changed",
       "url": "https://open.spotify.com/track/2xZxcQ9wAqiaBvjNCXlnk9"
+    },
+    {
+      "album": {
+        "name": "Cheque",
+        "url": "https://open.spotify.com/album/3SB8b7gP6rd0LBcAvW3PLr"
+      },
+      "artists": [
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Cheque",
+      "url": "https://open.spotify.com/track/1ALpjc1x4V8dX43kJyps3v"
     },
     {
       "album": {
@@ -5261,7 +5301,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 198095,
       "name": "Guap Runner",
       "url": "https://open.spotify.com/track/0WUPwNdxUa2PZl8sO10d8M"
@@ -5561,7 +5601,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 166419,
       "name": "HIM (feat. Lucasraps)",
       "url": "https://open.spotify.com/track/2uYPV8d0bzJMfJZ55eOXJs"
@@ -5775,7 +5815,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 181301,
       "name": "HOT PURSUIT",
       "url": "https://open.spotify.com/track/5ZWq5CluqGCUa9gIH6vL1p"
@@ -6079,7 +6119,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 197333,
       "name": "Incomplete",
       "url": "https://open.spotify.com/track/2zhCM6EhSYhIYYYxfqyXic"
@@ -6721,7 +6761,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 333600,
       "name": "Khuliyano",
       "url": "https://open.spotify.com/track/1t1mn3h0PHrBoMuoYYJfBW"
@@ -7909,7 +7949,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 224189,
       "name": "MAJITA - Original",
       "url": "https://open.spotify.com/track/61IaDelkfu4zA5dZ8Ide1j"
@@ -9049,7 +9089,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 224175,
       "name": "Nkalakatha (feat. Emtee)",
       "url": "https://open.spotify.com/track/7vgCQjOx8srjA2Uia28ebq"
@@ -9412,6 +9452,28 @@
     },
     {
       "album": {
+        "name": "Ntwana Whateva",
+        "url": "https://open.spotify.com/album/1hXFN5HvtQEU1eP1InBBiN"
+      },
+      "artists": [
+        {
+          "name": "Breeze Zulu Bass King",
+          "url": "https://open.spotify.com/artist/6iZAD8LOEDd5fluTDkIU4q"
+        },
+        {
+          "name": "808RSA",
+          "url": "https://open.spotify.com/artist/5sIbt07rSAUcgbNWjSZOSz"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Ntwana Whateva",
+      "url": "https://open.spotify.com/track/61VUTkpTNINznrTYbOGKZO"
+    },
+    {
+      "album": {
         "name": "Number One",
         "url": "https://open.spotify.com/album/1H41xWTOL57tp3oGSzNsKK"
       },
@@ -9649,7 +9711,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 98115,
       "name": "ON GOD ( Freestyle )",
       "url": "https://open.spotify.com/track/1rUGL6UimoXNYm8tvBX3nk"
@@ -10255,7 +10317,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 263785,
       "name": "PROBLEMZ",
       "url": "https://open.spotify.com/track/4kzJuA1VCgbAUz8N8K2bk8"
@@ -11237,7 +11299,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 203924,
       "name": "SENSITIVE",
       "url": "https://open.spotify.com/track/1TjQKLxHUpAuhB25y9LCkm"
@@ -11263,6 +11325,24 @@
       "duration_ms": 182085,
       "name": "Senyeha",
       "url": "https://open.spotify.com/track/3yqV0Dt2IFxzTOb2edCbNr"
+    },
+    {
+      "album": {
+        "name": "Separate the Rams",
+        "url": "https://open.spotify.com/album/7drCT7zg78Bajn6GjMvVUd"
+      },
+      "artists": [
+        {
+          "name": "Solo Ntsizwa Ka Mthimkhulu",
+          "url": "https://open.spotify.com/artist/5YW48kOOBcUUOpXgAI1KYY"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155413,
+      "name": "Separate the Rams",
+      "url": "https://open.spotify.com/track/5yBmeokqzmbawwhpgdWmBG"
     },
     {
       "album": {
@@ -13927,7 +14007,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 170704,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/1zKx4rr9mCXxnY0vALiAjf"
@@ -14345,7 +14425,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 163333,
       "name": "uSANELEIGHOST",
       "url": "https://open.spotify.com/track/0fSYV7Fu6icGmEuX9f2Ywy"
@@ -14735,7 +14815,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 162500,
       "name": "WAY UP",
       "url": "https://open.spotify.com/track/3ceDXT4uhr0wHQTtjzvgZd"

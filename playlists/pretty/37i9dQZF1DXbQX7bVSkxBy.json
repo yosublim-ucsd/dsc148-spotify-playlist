@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC?si=Ov9F1KTFTY6jpv7w92oxLA>Omojo</a>",
-  "num_followers": 25003,
+  "num_followers": 25096,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTg5NjUyZTU2OThlMjU3YTVhMjk0ODA5NDEyODc1N2FkMjIwZDUz",
+  "snapshot_id": "MCw3NjRlMGY5YTVkY2EyZDUwMGNiMTk0MGQ3MzA0NGEzYjFlZTY3Y2Y1",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -921,24 +921,20 @@
       "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "Put It On God",
-        "url": "https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9"
+        "name": "God Be The Glory",
+        "url": "https://open.spotify.com/album/3j2ymNszeFauxvBIMPeHvK"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
         }
       ],
-      "duration_ms": 157189,
-      "name": "Put it On God",
-      "url": "https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV"
+      "duration_ms": 215604,
+      "name": "God Be The Glory",
+      "url": "https://open.spotify.com/track/2O75KOWDHDcsy3uifzJIPU"
     }
   ],
   "unique_name": "Testify",

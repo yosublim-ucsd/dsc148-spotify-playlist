@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 385054,
+  "2024-04-06": 385078,
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Olly",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Petit",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -635,7 +635,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 153893,
       "name": "Avaria",
       "url": "https://open.spotify.com/track/25d0v0TOdM0KS99R4uK6bd"
@@ -741,6 +741,24 @@
       "duration_ms": 181386,
       "name": "Bella",
       "url": "https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM"
+    },
+    {
+      "album": {
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/27GpI3zmiIvkETQKirKqXJ"
+      },
+      "artists": [
+        {
+          "name": "Urano",
+          "url": "https://open.spotify.com/artist/4boc9WGDp4rS4bObD8WtlU"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131603,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/5ahyDnrhuLYEKtjZ61iF00"
     },
     {
       "album": {
@@ -2341,7 +2359,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 191629,
       "name": "finiscimi",
       "url": "https://open.spotify.com/track/2c0lqanQ7Yz8f7VaAfgqqt"
@@ -5629,6 +5647,24 @@
       "duration_ms": 146666,
       "name": "Sei la fine del mondo",
       "url": "https://open.spotify.com/track/2T3XBmvTu8vD4kByVzvLil"
+    },
+    {
+      "album": {
+        "name": "SEI NELL'ARIA",
+        "url": "https://open.spotify.com/album/38TazBV9Xx0Ptj1e1VoFC8"
+      },
+      "artists": [
+        {
+          "name": "Berna",
+          "url": "https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135384,
+      "name": "SEI NELL'ARIA",
+      "url": "https://open.spotify.com/track/2klE3JOlRzSvvbf61r064C"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 97549,
+  "2024-04-06": 97567,
   "date_first_scraped": "2023-05-19",
   "description": "Chai, Baarish and some Indie tunes to accompany you!",
   "name": "Rain On Indie",
@@ -1037,6 +1037,24 @@
     {
       "album": {
         "name": "Pehli Baarish",
+        "url": "https://open.spotify.com/album/5S0vlS3fgGUEDcdEZIACYr"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157103,
+      "name": "Pehli Baarish",
+      "url": "https://open.spotify.com/track/7LjntjLognntHjSRC6B9rc"
+    },
+    {
+      "album": {
+        "name": "Pehli Baarish",
         "url": "https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww"
       },
       "artists": [
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 157826,
       "name": "Pehli Baarish",
       "url": "https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0"

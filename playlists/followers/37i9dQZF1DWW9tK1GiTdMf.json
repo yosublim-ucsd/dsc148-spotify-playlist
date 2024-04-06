@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 36205,
+  "2024-04-06": 36221,
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0)\u256f\ufe35 \u253b\u2501\u253b olivia rodrigo in cover. ",
+  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0)\u256f\ufe35 \u253b\u2501\u253b LA SAD in cover. ",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 144605,
       "name": "ALTALENA",
       "url": "https://open.spotify.com/track/5DMuQ5oYNrcIGSEodNJKMU"
@@ -1463,7 +1463,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 213191,
       "name": "ANTHEM PART 3",
       "url": "https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG"
@@ -2995,7 +2995,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 186815,
       "name": "Ciao 2.0",
       "url": "https://open.spotify.com/track/2kqF68HfP5IDZ1y1tMzT9C"
@@ -3021,7 +3021,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 217317,
       "name": "Ciao Bella (feat. PSICOLOGI)",
       "url": "https://open.spotify.com/track/7b8z8LTumJpkfQWBJbmJTu"
@@ -3501,6 +3501,24 @@
       "duration_ms": 160615,
       "name": "CONCERTO",
       "url": "https://open.spotify.com/track/6U90OOM0ghEcyzJYVOr8uQ"
+    },
+    {
+      "album": {
+        "name": "CONTROMANO",
+        "url": "https://open.spotify.com/album/2UYHc2lDT8OHnOyp4VQU2k"
+      },
+      "artists": [
+        {
+          "name": "pablo murphy",
+          "url": "https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "CONTROMANO",
+      "url": "https://open.spotify.com/track/7HJJTFPgHyai0jmwHEayMI"
     },
     {
       "album": {
@@ -5973,7 +5991,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 133200,
       "name": "Figli Di Puttana",
       "url": "https://open.spotify.com/track/6LcCFhsX2QjDD1lILjdBnv"
@@ -6467,7 +6485,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 185505,
       "name": "Game over",
       "url": "https://open.spotify.com/track/4B4jBVcqLnFcDRcz9Xr1Iz"
@@ -7717,7 +7735,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 174084,
       "name": "IL TUO NOME",
       "url": "https://open.spotify.com/track/06EPMnqTKs55qGoprXYAxz"
@@ -7909,7 +7927,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 166970,
       "name": "IO CONTRO TE",
       "url": "https://open.spotify.com/track/6nkbaI2eVTj1z942P2RuJp"
@@ -8437,7 +8455,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 138462,
       "name": "La Musica \u00c8 Morta (feat. Loomy)",
       "url": "https://open.spotify.com/track/4oHCHhPPm1odadJEAZQk2Z"
@@ -9089,7 +9107,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 165400,
       "name": "Londra",
       "url": "https://open.spotify.com/track/7zLEKHYJPiFFrpCPsFLOuL"
@@ -9129,7 +9147,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 159512,
       "name": "Lontano",
       "url": "https://open.spotify.com/track/2kMP05gNWc3y1dzS3zDHkk"
@@ -9757,7 +9775,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 178969,
       "name": "MAYDAY (feat. VillaBanks)",
       "url": "https://open.spotify.com/track/3OXQqhbch5uALz1FdCKvWT"
@@ -10435,7 +10453,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 209128,
       "name": "NERO MASCARA",
       "url": "https://open.spotify.com/track/34XpVQyYbTZb5hmldVrlvl"
@@ -10687,6 +10705,28 @@
       "duration_ms": 139078,
       "name": "Non ironicamente",
       "url": "https://open.spotify.com/track/67h6Vo9zvGSVrxPmXR9WBh"
+    },
+    {
+      "album": {
+        "name": "ODIO LA SAD",
+        "url": "https://open.spotify.com/album/2bKT4j63K9goJmoMac8ltg"
+      },
+      "artists": [
+        {
+          "name": "LA SAD",
+          "url": "https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178427,
+      "name": "NON LO SAI",
+      "url": "https://open.spotify.com/track/3Uq9Ev3UM8X1LfsMjZcZxd"
     },
     {
       "album": {
@@ -11165,7 +11205,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 187700,
       "name": "occhi di gatto!",
       "url": "https://open.spotify.com/track/1pzTJHwYITopthcoBXtalZ"
@@ -11253,6 +11293,24 @@
       "duration_ms": 170909,
       "name": "Odio = Amore = Odio",
       "url": "https://open.spotify.com/track/3MfvnEIuliMldEn77dey1e"
+    },
+    {
+      "album": {
+        "name": "ODIO LA SAD",
+        "url": "https://open.spotify.com/album/2bKT4j63K9goJmoMac8ltg"
+      },
+      "artists": [
+        {
+          "name": "LA SAD",
+          "url": "https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152251,
+      "name": "ODIO LA SAD",
+      "url": "https://open.spotify.com/track/6jt2r3feKwe8mC5W1u1Ijv"
     },
     {
       "album": {
@@ -12643,7 +12701,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 146602,
       "name": "PSICOLOGO",
       "url": "https://open.spotify.com/track/0V9NKgE7dO0bJCWNF7dqDf"
@@ -13271,7 +13329,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 158724,
       "name": "Rotto#1",
       "url": "https://open.spotify.com/track/3swVvF5V461kUD3POV1YeL"
@@ -13763,6 +13821,24 @@
       "duration_ms": 155003,
       "name": "seiore",
       "url": "https://open.spotify.com/track/2OWZDqOr4NgKGAMItCUAt0"
+    },
+    {
+      "album": {
+        "name": "Sempre pi\u00f9 buia",
+        "url": "https://open.spotify.com/album/3stovOuaEcI1LGuDibKyzP"
+      },
+      "artists": [
+        {
+          "name": "chaze",
+          "url": "https://open.spotify.com/artist/7bgFap2WFAW0nHGbmUVn4Y"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157705,
+      "name": "Sempre pi\u00f9 buia",
+      "url": "https://open.spotify.com/track/7oaIdLf33upBcb3GbvOJI0"
     },
     {
       "album": {
@@ -15383,7 +15459,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 189586,
       "name": "symptom of life",
       "url": "https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO"
@@ -15652,6 +15728,24 @@
     },
     {
       "album": {
+        "name": "that b*tch don't even kno my name...",
+        "url": "https://open.spotify.com/album/2fzAi6TqQrDhv6heenILWU"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138384,
+      "name": "that b*tch don't even kno my name...",
+      "url": "https://open.spotify.com/track/5RgGQDoWdFGPRUxbb4olwx"
+    },
+    {
+      "album": {
         "name": "The American Dream Is Killing Me",
         "url": "https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC"
       },
@@ -15847,7 +15941,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 171206,
       "name": "TI HO PORTATO LA LUNA",
       "url": "https://open.spotify.com/track/07xoC8VuSn5ExWMuHsAV6h"
@@ -16059,7 +16153,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 165749,
       "name": "TOSSICO",
       "url": "https://open.spotify.com/track/32KsXFpnJogRAGkTsau4Cl"
@@ -16211,7 +16305,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 159397,
       "name": "Tranquillo mai",
       "url": "https://open.spotify.com/track/0fhTCQPc8uFQGQY3iWb0sU"
@@ -16475,7 +16569,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 191428,
       "name": "TUTTO UBRIACO",
       "url": "https://open.spotify.com/track/4KTXjt5n740GquPV4apcgH"
@@ -17246,6 +17340,28 @@
     },
     {
       "album": {
+        "name": "VOGLIO PIANGERE PER SEMPRE",
+        "url": "https://open.spotify.com/album/6guGlpniJGc9fZGRhAGmzj"
+      },
+      "artists": [
+        {
+          "name": "Piccola kappa",
+          "url": "https://open.spotify.com/artist/1OtNgQFoP2nnK8dxxTcLhN"
+        },
+        {
+          "name": "Giast",
+          "url": "https://open.spotify.com/artist/1Sms2Hz4kX49kNnzNW9MKT"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164814,
+      "name": "VOGLIO PIANGERE PER SEMPRE",
+      "url": "https://open.spotify.com/track/45Blml5XLbGlBcaR2ToFiP"
+    },
+    {
+      "album": {
         "name": "VORREI",
         "url": "https://open.spotify.com/album/4uIq0aWXOsgbWjS5rqwcb1"
       },
@@ -17533,6 +17649,32 @@
       "duration_ms": 140733,
       "name": "whiskey&miele",
       "url": "https://open.spotify.com/track/1Arx2Qkb1kUry3xOt1emNJ"
+    },
+    {
+      "album": {
+        "name": "WOW (feat. Bedini)",
+        "url": "https://open.spotify.com/album/3G8u4i2t05fbFUbL0ZJCeY"
+      },
+      "artists": [
+        {
+          "name": "Decrow",
+          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+        },
+        {
+          "name": "Troyamaki",
+          "url": "https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG"
+        },
+        {
+          "name": "Bedini",
+          "url": "https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166466,
+      "name": "WOW (feat. Bedini)",
+      "url": "https://open.spotify.com/track/4CaQm9FxPolY4eJGKpp1s3"
     },
     {
       "album": {

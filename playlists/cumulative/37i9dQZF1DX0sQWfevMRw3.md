@@ -4,7 +4,7 @@
 
 > VEM FAN E DU!?
 
-1,043 songs - 1 day 20 hr 7 min
+1,044 songs - 1 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,7 +450,8 @@
 | [Hälsa Gud](https://open.spotify.com/track/4owtkzhI4uCeagbsgTajFg) | [JENTAN](https://open.spotify.com/artist/4MEouD4sJ7R7RS4AWPmLH8), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [Hälsa Gud](https://open.spotify.com/album/7imYelkBM9wWrcy8syQgDd) | 2:30 | 2022-12-22 | 2023-06-30 |
 | [HÄLTA HÄLTA](https://open.spotify.com/track/0fZx4EAMKG92Bgyj3Tt7pR) | [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud), [Cowboy Lars](https://open.spotify.com/artist/4US3Z7MSp3YB9QmnbokqOx) | [HÄLTA HÄLTA](https://open.spotify.com/album/3MoPpuegy6luLKNlgEMgoB) | 1:58 | 2024-02-29 | 2024-03-08 |
 | [Häng med till klubben](https://open.spotify.com/track/7wzUo6qaFpbVzu8vmaXDVE) | [Mixkey](https://open.spotify.com/artist/3cVke0V72E6FQALgHI99He), [BJØRNES](https://open.spotify.com/artist/0oSU27mh8UZ25AbZ3eC7YB), [Kenneth Svensson](https://open.spotify.com/artist/4ChUBIVdqsR82ZDAjdUvy6) | [Häng med till klubben](https://open.spotify.com/album/5twT6CSYJzVzwgXJjBj6Xi) | 2:10 | 2024-01-01 | 2024-03-08 |
-| [HÄR KOMMER SVINERS](https://open.spotify.com/track/1WuQOUYOsOZNhAfvEU0fIR) | [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr), [SVINERS](https://open.spotify.com/artist/09e2yjoFpNbQSXe2khe7yU) | [HÄR KOMMER SVINERS](https://open.spotify.com/album/6wVCetUK1MWFU6B7Ilk9tC) | 2:07 | 2024-03-07 |  |
+| [HÄR KOMMER SVINERS](https://open.spotify.com/track/1WuQOUYOsOZNhAfvEU0fIR) | [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr), [SVINERS](https://open.spotify.com/artist/09e2yjoFpNbQSXe2khe7yU) | [HÄR KOMMER SVINERS](https://open.spotify.com/album/6wVCetUK1MWFU6B7Ilk9tC) | 2:07 | 2024-03-07 | 2024-04-06 |
+| [HÄR KOMMER SVINERS](https://open.spotify.com/track/46AgqdcUExU4jdtJ1kRJkc) | [SVINERS](https://open.spotify.com/artist/09e2yjoFpNbQSXe2khe7yU) | [HÄR KOMMER SVINERS](https://open.spotify.com/album/4Wos6tKkGifiRrsxn3XoWe) | 2:07 | 2024-04-04 |  |
 | [HÅLL I MIG](https://open.spotify.com/track/4t1gb4HWRftwDw7ds5q1KP) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [NESS](https://open.spotify.com/artist/6oFrMdEZ9S3vGF7Cl83qE3) | [HÅLL I MIG](https://open.spotify.com/album/7jVPfXAHQydf4SchRz77QS) | 2:24 | 2023-10-19 | 2023-11-24 |
 | [Håll min hand \- EPA RMX](https://open.spotify.com/track/4x4b5ijPiQ7W50t8bnRjAi) | [Runa](https://open.spotify.com/artist/1aJLo4blLIrzjT9VmTW9qn) | [Håll min hand \(EPA RMX\)](https://open.spotify.com/album/2NhPQMhZRzOf3PDYdimlgi) | 2:13 | 2023-04-20 | 2023-08-04 |
 | [HÅLLA MIG TILLBAKA](https://open.spotify.com/track/6XCqV5uOvxVTGVfGFZaZlC) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [LABAN](https://open.spotify.com/artist/3VVAtS94nepMXJNX6cccSE) | [HÅLLA MIG TILLBAKA](https://open.spotify.com/album/7GDquL3JBDitAEK4o9hXAW) | 2:25 | 2024-02-15 | 2024-02-23 |

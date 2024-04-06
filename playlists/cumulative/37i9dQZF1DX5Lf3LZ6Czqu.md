@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-137 songs - 10 hr 26 min
+138 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Tempest Pulse](https://open.spotify.com/track/73i8HclsPcSmyXwwLmVTFp) | [Greg Howe](https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV) | [Wheelhouse](https://open.spotify.com/album/1JkBVjeznFK9Bb3xasp6un) | 5:20 | 2021-05-04 |  |
 | [The 12th Hour](https://open.spotify.com/track/1S7LDIJFVGYDZVuuU5IbD7) | [Marco Sfogli](https://open.spotify.com/artist/3DH5T3XE9zij8BRWAxW6SF) | [Homeland](https://open.spotify.com/album/3qpPGP9Zmkab4GEMSLyWLl) | 4:43 | 2021-05-04 |  |
 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 | 2021-05-04 |  |
+| [The Boy From Beckenham](https://open.spotify.com/track/2tYZOtgQxJF8sxR3kpeqyR) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj), [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [The Boy From Beckenham](https://open.spotify.com/album/66kcU4aFyNz43AK71YbRBT) | 3:14 | 2024-04-05 |  |
 | [The Roaring Twenties](https://open.spotify.com/track/59WxaLSXFGTh2WzNdPivDf) | [Maarten Ouweneel](https://open.spotify.com/artist/4tZfjyeyjqlORFxtCYJdjG) | [Ebb & Flow](https://open.spotify.com/album/5vcC3uWAui0WNr3P1HWhUx) | 4:58 | 2022-04-08 |  |
 | [The Roaring Twenties](https://open.spotify.com/track/7jrR6S8gfJyVrWZ8K5FmsB) | [Maarten Ouweneel](https://open.spotify.com/artist/4tZfjyeyjqlORFxtCYJdjG) | [The Roaring Twenties](https://open.spotify.com/album/6Sy81CHsix5Idl3jkXs5sw) | 4:58 | 2022-04-08 | 2024-03-24 |
 | [Theme from a Perfect World](https://open.spotify.com/track/5s25dl6bXuRn6nyGJMgwe5) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Theme from a Perfect World](https://open.spotify.com/album/62bvGtckemXfkTyTs0sFbi) | 7:26 | 2021-05-04 | 2024-01-05 |
@@ -140,7 +141,7 @@
 | [What Really Matters](https://open.spotify.com/track/4dIOwzpO6MVitMIDtm5UHC) | [Loida Liuzzi](https://open.spotify.com/artist/4jgaSs1mcow0wJuSXccH9U) | [The Journey](https://open.spotify.com/album/0NPxrtK8Z8vZzEirkcdOMb) | 4:22 | 2022-05-27 |  |
 | [When I Met You](https://open.spotify.com/track/0qLSej5O1b7IviLseDChHk) | [Martin Gonzalez](https://open.spotify.com/artist/5JM8caNvIgCqRWYtLYxxNg), [Lechuga](https://open.spotify.com/artist/2SDcND6iKTDeQtHYV7OmoB) | [Blossoms](https://open.spotify.com/album/2JeTEgwVR74F3OUd1QPhCE) | 3:33 | 2022-11-11 |  |
 | [When She Leaves](https://open.spotify.com/track/2Z29IIOq6xaec3uwJj84Uq) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 1:20 | 2022-09-23 |  |
-| [When Words Fail...](https://open.spotify.com/track/3mQ06QA9KD996YAAjb8TBe) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Electric Truth](https://open.spotify.com/album/3jL5Ne8atGXQfBlabEibHE) | 5:09 | 2022-04-01 |  |
+| [When Words Fail...](https://open.spotify.com/track/3mQ06QA9KD996YAAjb8TBe) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Electric Truth](https://open.spotify.com/album/3jL5Ne8atGXQfBlabEibHE) | 5:09 | 2022-04-01 | 2024-04-06 |
 | [XXXphobia](https://open.spotify.com/track/6kDHSMUvrnRyiRjo6axbb1) | [Marmalade butcher](https://open.spotify.com/artist/0NqMZ0EDrPSG9ysXDiWkSi) | [Onomatomani\[a\]kus](https://open.spotify.com/album/674sTwV33EPpt0WC5zlI21) | 2:59 | 2022-11-25 |  |
 | [You Know I’m No Good](https://open.spotify.com/track/4GTj8Qz1nVtB4miu8Bu8ll) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj) | [Krasno/Moore Project: Book of Queens](https://open.spotify.com/album/6RwGvHFkks31pCeLlto8Dy) | 4:54 | 2023-03-17 |  |
 | [Zig Zag](https://open.spotify.com/track/4Sz7cjZ85xjcgrZ82WsbVW) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Jimmy Haslip](https://open.spotify.com/artist/5ngGllFz8UMTMeazVphrPb) | [Triple Play](https://open.spotify.com/album/3dDU3PWrXlMHW5C9eJebpu) | 8:23 | 2024-02-07 |  |

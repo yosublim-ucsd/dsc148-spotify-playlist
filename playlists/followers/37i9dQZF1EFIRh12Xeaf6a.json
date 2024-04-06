@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 3674,
+  "2024-04-06": 3674,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9\">Carole King</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Carole King",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 138240,
       "name": "(If You Cry) True Love, True Love - Single Version",
       "url": "https://open.spotify.com/track/70uRVIOlkJAR0LQ7zvLxxb"
@@ -4327,6 +4327,24 @@
       "duration_ms": 216400,
       "name": "To Love",
       "url": "https://open.spotify.com/track/15c2qpqoagc2GxNvCaYlte"
+    },
+    {
+      "album": {
+        "name": "Save the Last Dance for Me",
+        "url": "https://open.spotify.com/album/1aLCACK63j3wSqGr5FvfDu"
+      },
+      "artists": [
+        {
+          "name": "Ben King",
+          "url": "https://open.spotify.com/artist/3oyChKXh8fpsLj65HfXs8E"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135333,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/49K8v4qRymtDd15Uyg577I"
     },
     {
       "album": {

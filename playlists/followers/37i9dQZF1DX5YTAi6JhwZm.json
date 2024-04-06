@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 180901,
+  "2024-04-06": 180943,
   "date_first_scraped": "2021-12-30",
   "description": "Uplifting and upbeat Jazz to get you in a good mood.",
   "name": "Happy Jazz!",
@@ -1816,24 +1816,6 @@
     },
     {
       "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "date_added": "2022-02-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205506,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/1m6xA6Yvt2miUOJtLLlviD"
-    },
-    {
-      "album": {
         "name": "Blues Walk",
         "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
       },
@@ -1849,6 +1831,24 @@
       "duration_ms": 353106,
       "name": "Move",
       "url": "https://open.spotify.com/track/2wo3fkK3ZtUZrm9MvElyhv"
+    },
+    {
+      "album": {
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205506,
+      "name": "Move - Remastered 2002",
+      "url": "https://open.spotify.com/track/1m6xA6Yvt2miUOJtLLlviD"
     },
     {
       "album": {

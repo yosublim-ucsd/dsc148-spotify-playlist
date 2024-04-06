@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Robin Schulz, Timmy Trumpet, KOPPY
 
-1,228 songs - 2 day 8 hr 29 min
+1,229 songs - 2 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1086,7 +1086,8 @@
 | [There For You](https://open.spotify.com/track/0ZxWp3Tfnetp9kJLWmI8Nt) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [James French](https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues), [Daniel De Bourg](https://open.spotify.com/artist/24ykUrPaMcWMlCFCSEtrpK) | [There For You](https://open.spotify.com/album/50kVqptlF1M1BZoiGyZeZj) | 2:28 | 2023-12-21 | 2024-01-12 |
 | [They Not Us](https://open.spotify.com/track/7lmyru1csct3dKD6KD8cpa) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [They Not Us](https://open.spotify.com/album/1jaBnYJ6vkb8iNIPNjetTu) | 3:24 | 2024-02-01 | 2024-02-09 |
 | [Thieves](https://open.spotify.com/track/6Af3ncYlnMUubDYKcoHZIF) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [Thieves](https://open.spotify.com/album/2jxT4u5M7wykbnYp46RYkd) | 2:25 | 2023-12-14 | 2024-01-05 |
-| [Think About The Way](https://open.spotify.com/track/6ytFEsnazqki7XN2yXOev9) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Think About The Way](https://open.spotify.com/album/1zk1LmKfreJ48IbZZdAje1) | 2:30 | 2024-04-04 |  |
+| [Think About The Way](https://open.spotify.com/track/4lHacAc1D1roQi1tMvC8Na) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Think About The Way](https://open.spotify.com/album/3SpHHuYNB1OqkupIrmWuMi) | 2:30 | 2024-04-04 |  |
+| [Think About The Way](https://open.spotify.com/track/6ytFEsnazqki7XN2yXOev9) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Think About The Way](https://open.spotify.com/album/1zk1LmKfreJ48IbZZdAje1) | 2:30 | 2024-04-04 | 2024-04-06 |
 | [THINK OF YOU \- TC/TC](https://open.spotify.com/track/4T4UT8kzcbjmlc4MZplwJ1) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [TC/TC Edition 002](https://open.spotify.com/album/1iChvUPYOkTxzxPuUifErT) | 3:47 | 2023-10-19 | 2023-11-11 |
 | [This Girl \- KIMMIC Terrace Remix](https://open.spotify.com/track/2HxLSOWK0UBxYEqhe91TrL) | [KIMMIC](https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [This Girl \(KIMMIC Terrace Remix\)](https://open.spotify.com/album/20wZJDfKYRjPSkd6PNGhcP) | 2:15 | 2023-09-22 | 2023-10-13 |
 | [This Is It](https://open.spotify.com/track/1RmdXgrkvOYnHrXbz2A8WC) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [This Is It](https://open.spotify.com/album/0XI1OLkA9VGYzzK5lNPu0z) | 4:23 | 2024-03-21 | 2024-04-05 |

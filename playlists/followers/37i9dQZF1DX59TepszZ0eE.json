@@ -1,8 +1,8 @@
 {
-  "2024-04-05": 60530,
+  "2024-04-06": 60639,
   "date_first_scraped": "2022-10-01",
-  "description": "As we celebrate Easter, <a href=https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=K4Vgk5DQS5WPaEbyPxTCRw>Xolly Mncwango</a> takes over Sunday Praise to celebrate her new album 'Unusual.'",
-  "name": "Sunday Praise: Xolly Mncwango Takeover",
+  "description": "Celebrate 10 years of \"<a href=https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr?si=8G1-Ky4QS9anz0EYqFS44A>Joyous Celebration</a>, Vol. 18: One Purpose\" with us!",
+  "name": "Sunday Praise",
   "tracks": [
     {
       "album": {
@@ -29,7 +29,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 372741,
       "name": "A Wonderful Saviour - Live",
       "url": "https://open.spotify.com/track/2J7YHUq2NmKTtOikTejtGf"
@@ -51,7 +51,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 455300,
       "name": "Africa For Jesus (Live at Worship House Church Limpopo, 2023) (feat. Mish Mahendere)",
       "url": "https://open.spotify.com/track/5YtFXVeXtEvSAKDAoYcNZk"
@@ -69,7 +69,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 532026,
       "name": "Akukho Okungenzeki - Live",
       "url": "https://open.spotify.com/track/6IMcyIMBK1sVOcooqsALrv"
@@ -87,7 +87,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 577213,
       "name": "Alikho Igama Medley - Live",
       "url": "https://open.spotify.com/track/0PUEg4WnXAvDRrAf8UH2kP"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 319837,
       "name": "Amen",
       "url": "https://open.spotify.com/track/0oFuL4quMVGs9Hi3NN7nkM"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 439511,
       "name": "Apha\u2019Kum (Live at Mosaiek Theatre, 2023)",
       "url": "https://open.spotify.com/track/5XMRW2JA70QNg11AOftT2V"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 556346,
       "name": "Bamba Mzalwane (Live)",
       "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 328360,
       "name": "Banaka Nako Ea Me E Haufi",
       "url": "https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 300714,
       "name": "Bayazibuza",
       "url": "https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 367174,
       "name": "Bayede",
       "url": "https://open.spotify.com/track/7LzqOAcpoYyON5lE3tLn4y"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 369919,
       "name": "Bayede (Live at Worship House Church Limpopo , 2023) (feat. Khangeziwe Sdudla)",
       "url": "https://open.spotify.com/track/05kKU4RHDouwVkh3mJUTKu"
@@ -387,10 +387,28 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 398000,
       "name": "Bengingazi",
       "url": "https://open.spotify.com/track/3zwHHb7DBJxEZwreHjhuLu"
+    },
+    {
+      "album": {
+        "name": "Joyous Celebration, Vol. 18: One Purpose (Live at CityHill Church, Durban 2014)",
+        "url": "https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433640,
+      "name": "Bhekani UJehova - Live",
+      "url": "https://open.spotify.com/track/5FZNzkJ9Csk4m9XegJRahx"
     },
     {
       "album": {
@@ -489,7 +507,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 655253,
       "name": "Bow Down and Worship - Live",
       "url": "https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ"
@@ -507,7 +525,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 143409,
       "name": "Consistent God - Live At Cedarwoods of Sandton, 2023 / Reprise",
       "url": "https://open.spotify.com/track/5B4t3Oj13oo2bZ86w92ZCg"
@@ -547,7 +565,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 272672,
       "name": "Dwala (Live)",
       "url": "https://open.spotify.com/track/3lShukInQB3CKdTtLGM76x"
@@ -565,7 +583,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 531240,
       "name": "Ebenezer",
       "url": "https://open.spotify.com/track/6i4kz0kfnBYlA0HkU015tk"
@@ -605,7 +623,7 @@
       ],
       "date_added": "2018-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 331484,
       "name": "Ekugcineni - Live",
       "url": "https://open.spotify.com/track/73TDScJYYrLlUBjuve3fQc"
@@ -653,7 +671,7 @@
       ],
       "date_added": "2020-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 420160,
       "name": "Elshadai Adonai Medley (Live)",
       "url": "https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS"
@@ -697,7 +715,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 303439,
       "name": "Emmanuel - Recorded at Studio",
       "url": "https://open.spotify.com/track/4aAbmhOtG5pQT3tBXYKHQN"
@@ -759,7 +777,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 383038,
       "name": "Esphambanweni",
       "url": "https://open.spotify.com/track/77DmEnGFpPvTDq6XHV2p3E"
@@ -803,7 +821,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 346435,
       "name": "Ewe Jesu - Medley 1",
       "url": "https://open.spotify.com/track/3MRnsyexVvjPm6Kxti26wV"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 274360,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2acynY8oyA2XAG5FZJGIjb"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 243106,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4r0UUdiQOF6alyduVuEvP6"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 202360,
       "name": "Gcobani - Live",
       "url": "https://open.spotify.com/track/1fizmf573Xu3uC0bJwjVMO"
@@ -887,10 +905,36 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 485826,
       "name": "Glory to God - Live",
       "url": "https://open.spotify.com/track/1FWYKPJ3dahZrQZg7DyUtU"
+    },
+    {
+      "album": {
+        "name": "Good Life (Remixes)",
+        "url": "https://open.spotify.com/album/2SzPbcOmiDbVcXiL5UD1bx"
+      },
+      "artists": [
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        },
+        {
+          "name": "Groove Terminator",
+          "url": "https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02"
+        },
+        {
+          "name": "Drumetic Boyz",
+          "url": "https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284745,
+      "name": "Good Life (Impilo Emnande) (Drumetic Boyz Remix)",
+      "url": "https://open.spotify.com/track/23snllF8CMSehxyDrTAGhA"
     },
     {
       "album": {
@@ -905,7 +949,7 @@
       ],
       "date_added": "2019-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 433773,
       "name": "Haleluyah Mdumiseni (Live)",
       "url": "https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl"
@@ -923,7 +967,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 336213,
       "name": "Hallelujah Nkateko (Lihle's Version) - Live",
       "url": "https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ"
@@ -941,7 +985,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 532040,
       "name": "Hallowed - Live",
       "url": "https://open.spotify.com/track/1xzAdUhS83nIBApcb5P0y4"
@@ -995,7 +1039,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 231906,
       "name": "He Lifted Me Up - Live",
       "url": "https://open.spotify.com/track/5iztfcwNruFZ4niVQ2ajMM"
@@ -1013,7 +1057,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 427800,
       "name": "Healing Power",
       "url": "https://open.spotify.com/track/1PrDPNPRhZvHyXaM2UxGea"
@@ -1057,7 +1101,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 522843,
       "name": "Hlala Kimi Jesu (Live)",
       "url": "https://open.spotify.com/track/1mSNKKV9AnVTrLotvDQWu6"
@@ -1083,10 +1127,28 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 397800,
       "name": "Hlala Nami",
       "url": "https://open.spotify.com/track/4k6skd7Ptkq24UKyWFvgnT"
+    },
+    {
+      "album": {
+        "name": "Hlala nami Jesu (Live at Goshen City Church 2023)",
+        "url": "https://open.spotify.com/album/4vET4sXpDK2XZpSTzBqm2V"
+      },
+      "artists": [
+        {
+          "name": "SbuNoah",
+          "url": "https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316096,
+      "name": "Hlala nami Jesu (Live at Goshen City Church 2023)",
+      "url": "https://open.spotify.com/track/7IfLc4ghOUY1MgGfM0vk0m"
     },
     {
       "album": {
@@ -1123,7 +1185,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 253558,
       "name": "Holy (Most High)",
       "url": "https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3"
@@ -1195,7 +1257,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 316666,
       "name": "IMTHANDAZO YAMI",
       "url": "https://open.spotify.com/track/2PTqfW2JIhX1Rw4VykTbg4"
@@ -1221,7 +1283,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 373932,
       "name": "Incredible (Live)",
       "url": "https://open.spotify.com/track/3t6mWgpY1Sli9G4Ch7tja4"
@@ -1239,7 +1301,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 294954,
       "name": "Indodana",
       "url": "https://open.spotify.com/track/4jnH5sr7A3hoTmDc6P8Mu2"
@@ -1257,7 +1319,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 318101,
       "name": "Ingoma",
       "url": "https://open.spotify.com/track/3mtMlm1meJtVVL2GGiYliC"
@@ -1275,7 +1337,7 @@
       ],
       "date_added": "2019-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 314960,
       "name": "Ingumlilo (Lento) - Live",
       "url": "https://open.spotify.com/track/4oWA2rEDhWrSOeS61szIIM"
@@ -1311,7 +1373,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 502068,
       "name": "Interlude - Zulu Worship Medley - Live",
       "url": "https://open.spotify.com/track/6VoUZWhtAT4H8zH9VDqSf3"
@@ -1365,7 +1427,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 305783,
       "name": "Izandla Zethu Ziyakubanjwa",
       "url": "https://open.spotify.com/track/3l8KixA9Yzo4WlGSSkmFQ2"
@@ -1383,7 +1445,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 411811,
       "name": "Izindlela Zakhe",
       "url": "https://open.spotify.com/track/1rNykgPiUeIbxGVzDXL6t3"
@@ -1401,7 +1463,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 319334,
       "name": "iZono Zami",
       "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
@@ -1509,7 +1571,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 458083,
       "name": "Jehovah Is Your Name - Live",
       "url": "https://open.spotify.com/track/1HTKLiju70vqy48PSoouCN"
@@ -1531,7 +1593,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 331289,
       "name": "Jeso Ke Jeso (Live at Worship House Church Limpopo, 2023) (feat. Marc Sathekge)",
       "url": "https://open.spotify.com/track/0buwNSVYhWmF5OJB5yGoGG"
@@ -1549,7 +1611,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 186480,
       "name": "Jeso O Ntekane (Reprise) - Live",
       "url": "https://open.spotify.com/track/2snbZ33cTV6xQ5c42d6LST"
@@ -1571,7 +1633,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 634000,
       "name": "Jesu Msindisi (Live)",
       "url": "https://open.spotify.com/track/7yhNkDhOv8tZmqQKZyRnhM"
@@ -1593,7 +1655,7 @@
       ],
       "date_added": "2018-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 419053,
       "name": "Jesu Ufik'ekuseni (feat. Thinah Zungu) [Live]",
       "url": "https://open.spotify.com/track/0Md6sFVsOn5rUMrUoX922l"
@@ -1611,7 +1673,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 279937,
       "name": "Jesu Uyi Nkosi",
       "url": "https://open.spotify.com/track/0AcxpSjr50ixt53BrWvyLb"
@@ -1629,7 +1691,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 580826,
       "name": "Jesu \u2018Lidwala",
       "url": "https://open.spotify.com/track/2LzE0NjnRkCnWUceB7bGiD"
@@ -1647,7 +1709,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 444773,
       "name": "Jesus Do It",
       "url": "https://open.spotify.com/track/6wvHwSYehkGeYjetnIMczj"
@@ -1665,7 +1727,7 @@
       ],
       "date_added": "2020-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 339440,
       "name": "Jesus Is Enough",
       "url": "https://open.spotify.com/track/3mnkSqpC8veeCS9arqB0yV"
@@ -1755,7 +1817,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 237819,
       "name": "Ke le hole",
       "url": "https://open.spotify.com/track/6QVVWizgLUNkzAED09ljo4"
@@ -1795,7 +1857,7 @@
       ],
       "date_added": "2018-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 407973,
       "name": "Ke Mang - Live",
       "url": "https://open.spotify.com/track/4PhX4M2Ahh14sqthX6PSt1"
@@ -1948,6 +2010,54 @@
     },
     {
       "album": {
+        "name": "Kukhon' Igama (Live in Bryanston 2022) (feat. Sibongiseni Ndlovu & Thembelihle Mthethwa)",
+        "url": "https://open.spotify.com/album/0zUMdTHLXk0QQHTpjGsXWj"
+      },
+      "artists": [
+        {
+          "name": "The Fellowship",
+          "url": "https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga"
+        },
+        {
+          "name": "Mthunzi Namba",
+          "url": "https://open.spotify.com/artist/1MukIJ87BL0zO3LusoV8hv"
+        },
+        {
+          "name": "Sibongiseni Ndlovu",
+          "url": "https://open.spotify.com/artist/794clGVKYY9cKv7IPlWnb6"
+        },
+        {
+          "name": "Thembelihle Mthethwa",
+          "url": "https://open.spotify.com/artist/1AScIJ4Yly7SLBfpuIF6Gu"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462173,
+      "name": "Kukhon' Igama (Live in Bryanston 2022) (feat. Sibongiseni Ndlovu & Thembelihle Mthethwa)",
+      "url": "https://open.spotify.com/track/03ETrbJ4DCvi1Pos6OFOfj"
+    },
+    {
+      "album": {
+        "name": "Joyous Celebration, Vol. 18: One Purpose (Live at CityHill Church, Durban 2014)",
+        "url": "https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514893,
+      "name": "Kuligugu Kimi - Live",
+      "url": "https://open.spotify.com/track/1HUE7OwElBeDZVtkm5MDXX"
+    },
+    {
+      "album": {
         "name": "Kulungile Baba",
         "url": "https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb"
       },
@@ -1959,7 +2069,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 284853,
       "name": "Kulungile Baba",
       "url": "https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i"
@@ -1977,7 +2087,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 259320,
       "name": "Kungenxa Yakho",
       "url": "https://open.spotify.com/track/13ulA98c975c1CkT251MNq"
@@ -1995,7 +2105,7 @@
       ],
       "date_added": "2018-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 309693,
       "name": "Lion of Judah (Live)",
       "url": "https://open.spotify.com/track/4C9RGcQVNS6bLhSXsvkwAO"
@@ -2017,7 +2127,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 401250,
       "name": "Living Word",
       "url": "https://open.spotify.com/track/4NxHPiydhSEy8Sy8xUdmzO"
@@ -2075,7 +2185,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 302453,
       "name": "Lona Baratang - Live",
       "url": "https://open.spotify.com/track/032DTgyqTtIxIZESeY6fAB"
@@ -2093,7 +2203,7 @@
       ],
       "date_added": "2019-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 381966,
       "name": "lona baratang ho Phela (Live)",
       "url": "https://open.spotify.com/track/6lgAf5YMMFzEcpXONtEfVf"
@@ -2111,7 +2221,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 330000,
       "name": "Makabongwe",
       "url": "https://open.spotify.com/track/73SU2EvbO4pBD4wlNzzU0V"
@@ -2129,7 +2239,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 301579,
       "name": "Makabongwe - Live",
       "url": "https://open.spotify.com/track/0w1h3AKUanXXgMan3GlHh4"
@@ -2151,7 +2261,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 278886,
       "name": "Make a Way - Live",
       "url": "https://open.spotify.com/track/6pyXckwhvsn3o8ITLymLDU"
@@ -2235,7 +2345,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 186239,
       "name": "Mercy (Hlabelela)",
       "url": "https://open.spotify.com/track/03ex4OAmmBM2ci5W0q2kHm"
@@ -2253,7 +2363,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 246252,
       "name": "Messiah - Live",
       "url": "https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u"
@@ -2275,7 +2385,7 @@
       ],
       "date_added": "2019-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 301400,
       "name": "Mkhulumsebenzi",
       "url": "https://open.spotify.com/track/49kdVsVi2XuVxEnPHdwxnk"
@@ -2311,10 +2421,28 @@
       ],
       "date_added": "2018-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 416946,
       "name": "Moya Ka Jehovah - Live",
       "url": "https://open.spotify.com/track/4Y2RXhp12YudM5bRtdw4rY"
+    },
+    {
+      "album": {
+        "name": "Moyongcwele",
+        "url": "https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC"
+      },
+      "artists": [
+        {
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309473,
+      "name": "Moyongcwele",
+      "url": "https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc"
     },
     {
       "album": {
@@ -2333,7 +2461,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 500087,
       "name": "Moy\u2019 Oyingcwele (Live)",
       "url": "https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME"
@@ -2355,7 +2483,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 646407,
       "name": "Nang'Mthokozisi (Live)",
       "url": "https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU"
@@ -2391,7 +2519,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 388866,
       "name": "Ndenzel' Uncedo Hymn 377 - Live",
       "url": "https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc"
@@ -2409,7 +2537,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 212069,
       "name": "Ndikhokhele Bawo",
       "url": "https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW"
@@ -2427,7 +2555,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 643103,
       "name": "Ngeke Ng'suke Kuwe",
       "url": "https://open.spotify.com/track/2qMpi2KOaaE95OVSuFA3OA"
@@ -2445,7 +2573,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 271622,
       "name": "Ngena Noah",
       "url": "https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7"
@@ -2539,7 +2667,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 239506,
       "name": "Ngiyamazi Umhlengi Wami - Live At Cedarwoods of Sandton, 2023",
       "url": "https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG"
@@ -2557,7 +2685,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 561254,
       "name": "Ngiyazi uMhlengi Wami (Deluxe) - Live",
       "url": "https://open.spotify.com/track/7kZjl6ZYdTgZ8rJ0a7a1RM"
@@ -2575,7 +2703,7 @@
       ],
       "date_added": "2019-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 167213,
       "name": "Ngobekezela - Live at Durban ICC RSA",
       "url": "https://open.spotify.com/track/7cbzm3WHC4J30wwQ3BVELA"
@@ -2619,7 +2747,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 668687,
       "name": "Nguna Phakade (Live)",
       "url": "https://open.spotify.com/track/0oSn99YO48dZWxNox6oHYF"
@@ -2644,6 +2772,40 @@
     },
     {
       "album": {
+        "name": "Njalo",
+        "url": "https://open.spotify.com/album/3hBh2CltLi3ULKedOF7Y0m"
+      },
+      "artists": [
+        {
+          "name": "Mneshmane Blr",
+          "url": "https://open.spotify.com/artist/4KnyqrllEsGhKrYAtW4q3C"
+        },
+        {
+          "name": "Nomakhuze Ndabula",
+          "url": "https://open.spotify.com/artist/5V8tWlChyzmA3CtMgn1beJ"
+        },
+        {
+          "name": "Dr Dope",
+          "url": "https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT"
+        },
+        {
+          "name": "Ab Central",
+          "url": "https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0"
+        },
+        {
+          "name": "Boyzin Bee",
+          "url": "https://open.spotify.com/artist/0RU8XphQbWwo1jxy1QCOiE"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317651,
+      "name": "Njalo",
+      "url": "https://open.spotify.com/track/2gwFsGTXCpKErG0TcgMSN4"
+    },
+    {
+      "album": {
         "name": "The Rehearsal - Chapter One",
         "url": "https://open.spotify.com/album/1QlX6xlMSMik3x2bxrB8mo"
       },
@@ -2655,7 +2817,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 154782,
       "name": "NjengoJesu",
       "url": "https://open.spotify.com/track/6MZZvee3gkQAapMcLHdU2u"
@@ -2673,7 +2835,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 283512,
       "name": "Nkosi Jesu Ngiyakuthanda - Live",
       "url": "https://open.spotify.com/track/0btfdkzseFBLHfOLKdoocp"
@@ -2789,7 +2951,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 488664,
       "name": "Nne Ndi Shumela (Live)",
       "url": "https://open.spotify.com/track/1h80HKqjegsny8lawquT4C"
@@ -2807,7 +2969,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 470600,
       "name": "Nothing Without You - Live",
       "url": "https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf"
@@ -2829,7 +2991,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 269253,
       "name": "Ntate Kemang - Live",
       "url": "https://open.spotify.com/track/3Gf0vZL1EqayR8su1FlSXd"
@@ -2847,7 +3009,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 360280,
       "name": "Ntho ke ena (Live)",
       "url": "https://open.spotify.com/track/2NHFL8FpxYGJ1ovE4uIuWs"
@@ -2865,7 +3027,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 363706,
       "name": "Nxa Ngimbona - Live",
       "url": "https://open.spotify.com/track/2JWpFdGDHflpiRpfoRilNL"
@@ -2883,7 +3045,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 431023,
       "name": "O Mohau Messiah - Live At The Emperors Palace",
       "url": "https://open.spotify.com/track/5kX2Q80IlCS8wGVriBYaIN"
@@ -2901,7 +3063,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 521844,
       "name": "Pela Hao / Jehovah o Lefika - Live",
       "url": "https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd"
@@ -2941,7 +3103,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 302916,
       "name": "Prayer (Live)",
       "url": "https://open.spotify.com/track/6Vyu1Ov6fj5yTySId6lJQr"
@@ -3007,7 +3169,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 616454,
       "name": "Re Bone Ka Naledi (feat. Kago, Given, Paul) - (Live At The State Theatre)",
       "url": "https://open.spotify.com/track/0x7UIcJatp5HBuSGYpA1DW"
@@ -3043,7 +3205,7 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 375146,
       "name": "Sengiyacela - Live",
       "url": "https://open.spotify.com/track/3UMgV8iwG3h3zOAi5dPNMc"
@@ -3065,7 +3227,7 @@
       ],
       "date_added": "2018-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 230238,
       "name": "Settle for Less (Live)",
       "url": "https://open.spotify.com/track/4Xo9grcw19YyxmpHzTbML4"
@@ -3141,7 +3303,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 303647,
       "name": "Silifuze Elobandla(Acts 2:42-47)",
       "url": "https://open.spotify.com/track/0Fyt8lAORpZJqPRciHHa0Y"
@@ -3159,7 +3321,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 342911,
       "name": "Simbona Ngothando Lwakhe - Medley 5",
       "url": "https://open.spotify.com/track/172mC4BMtR3eLkAU9BVWuT"
@@ -3181,7 +3343,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 319793,
       "name": "Simbonga Ngothando",
       "url": "https://open.spotify.com/track/0AIxiKh3tOVohb2Zy3aUVB"
@@ -3217,7 +3379,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 650186,
       "name": "Song of Breakthrough - Live",
       "url": "https://open.spotify.com/track/6SrbZuCMDscTp9aVwfNewN"
@@ -3289,7 +3451,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 317120,
       "name": "Thank You Jesus",
       "url": "https://open.spotify.com/track/6utEvcm67S8VizLddlAmMD"
@@ -3477,7 +3639,7 @@
       ],
       "date_added": "2019-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 464117,
       "name": "Thina Ngemihla (Live)",
       "url": "https://open.spotify.com/track/1tNsMLoMNn06Qf37fcDfwH"
@@ -3531,7 +3693,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 589875,
       "name": "Thixo Wamadinga Ethu (Live)",
       "url": "https://open.spotify.com/track/67NHjEvUTfqyKqNZF0tSMh"
@@ -3549,7 +3711,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 123632,
       "name": "Thula Interlude",
       "url": "https://open.spotify.com/track/7uqfbyDg0dYr2pk8gnj3Gd"
@@ -3571,7 +3733,7 @@
       ],
       "date_added": "2020-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 346331,
       "name": "Thulungakhali",
       "url": "https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M"
@@ -3659,7 +3821,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "Ukholo Lwam (A Song of Hope)",
       "url": "https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy"
@@ -3681,7 +3843,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 521000,
       "name": "Ukubonga (Live)",
       "url": "https://open.spotify.com/track/3unVOzRhnT4N8m5BMpeIER"
@@ -3717,7 +3879,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 309984,
       "name": "Ukuhlala Kuye - Live",
       "url": "https://open.spotify.com/track/0iqVqe4mwM9DE54MIYXfvj"
@@ -3753,7 +3915,7 @@
       ],
       "date_added": "2019-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 256746,
       "name": "Ulwandle",
       "url": "https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ"
@@ -3771,7 +3933,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 272640,
       "name": "Umbhedesho - Live",
       "url": "https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9"
@@ -3789,7 +3951,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 708738,
       "name": "Umhlatshelo (The Sacrifice)",
       "url": "https://open.spotify.com/track/7gt15H6CRr94YljSVLK8H3"
@@ -3825,10 +3987,28 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 582608,
       "name": "Umkhulu Simakade",
       "url": "https://open.spotify.com/track/2OTsc3vlxgQZeNFhp6JW50"
+    },
+    {
+      "album": {
+        "name": "Joyous Celebration, Vol. 18: One Purpose (Live at CityHill Church, Durban 2014)",
+        "url": "https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598053,
+      "name": "Umoya Praise Medley - Live",
+      "url": "https://open.spotify.com/track/2Y8Nh5gZpcMl9Uh0NGszhC"
     },
     {
       "album": {
@@ -3843,7 +4023,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 414747,
       "name": "Umuhle (Live)",
       "url": "https://open.spotify.com/track/6qMYfriQOG2alYAWFTKBiq"
@@ -3861,7 +4041,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 547153,
       "name": "Umuhle Baba - Live At Cedarwoods of Sandton, 2023",
       "url": "https://open.spotify.com/track/5qrjNU3cNBonvH0voYVkK3"
@@ -3879,7 +4059,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 171629,
       "name": "Umuhle Baba - Live At Cedarwoods of Sandton, 2023 / Reprise",
       "url": "https://open.spotify.com/track/4N2BsTLoKTUaGwX0aZ9CrY"
@@ -3897,7 +4077,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 245813,
       "name": "Umzuzu",
       "url": "https://open.spotify.com/track/5c8W9i3TBqc5drR0bO1XKD"
@@ -4009,7 +4189,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 375625,
       "name": "UnguThixo Onomusa (Live)",
       "url": "https://open.spotify.com/track/1CKjWM9UvF5aemROunyZLi"
@@ -4045,7 +4225,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 416242,
       "name": "Unkulunkulu Emuhle (Live)",
       "url": "https://open.spotify.com/track/24H0F6gQ45Pvco4WYE0lCc"
@@ -4063,7 +4243,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 383320,
       "name": "Unusual - Live At Cedarwoods of Sandton, 2023",
       "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
@@ -4085,7 +4265,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 438857,
       "name": "Upperroom (Live)",
       "url": "https://open.spotify.com/track/0RXc2Lc2wdaPRGVhPYqxU8"
@@ -4103,7 +4283,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 444812,
       "name": "Usibonile",
       "url": "https://open.spotify.com/track/7nA2rLPo11Xlz435ChhhCs"
@@ -4121,7 +4301,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 268512,
       "name": "Uthando Lwakho Luyangengama",
       "url": "https://open.spotify.com/track/3Epue4IrmtoN8KB4O2wF6R"
@@ -4157,7 +4337,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 429226,
       "name": "Uyababazeka - Live At The Emperors Palace / 2023",
       "url": "https://open.spotify.com/track/0MpjhG8rrfTfk2QNi3Q7wg"
@@ -4175,7 +4355,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 370853,
       "name": "Uyalalelwa - Live",
       "url": "https://open.spotify.com/track/79RgrJnjNbFEsb6VfD8ZXr"
@@ -4233,7 +4413,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 375693,
       "name": "Uzugcin'impilo Yam'",
       "url": "https://open.spotify.com/track/56gSo5GFHsRTYmmLAETouv"
@@ -4299,7 +4479,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 909280,
       "name": "Vumb'elimnandi",
       "url": "https://open.spotify.com/track/6pcRvNs4JB5XJKzVCEzxkB"
@@ -4317,7 +4497,7 @@
       ],
       "date_added": "2018-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 513718,
       "name": "Wafika",
       "url": "https://open.spotify.com/track/4d2ImkfJWALwIAi373Dt7N"
@@ -4335,7 +4515,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 487650,
       "name": "Wakhazimula - Live",
       "url": "https://open.spotify.com/track/7FfwSYKinjefexPoH8XSrm"
@@ -4371,7 +4551,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 370365,
       "name": "Wash'Umlilo - Live",
       "url": "https://open.spotify.com/track/3ii6csjSvjYGrQhYkR5YNY"
@@ -4411,7 +4591,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 322853,
       "name": "Watswaneleha",
       "url": "https://open.spotify.com/track/0KNJDyqdICczf4T2TYyQPY"
@@ -4433,7 +4613,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 451999,
       "name": "We Are Your Children (Live)",
       "url": "https://open.spotify.com/track/3qQidBXH8FtZ1MvINgjbwp"
@@ -4539,7 +4719,7 @@
       ],
       "date_added": "2020-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 406600,
       "name": "Xa Ndiyekelelwa (Live)",
       "url": "https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI"
@@ -4575,7 +4755,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 523106,
       "name": "Yebo Nkosi",
       "url": "https://open.spotify.com/track/7Ij954u8aQq1Jp1LNb3UL7"
@@ -4593,7 +4773,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 367306,
       "name": "Yebo Nkosi Yami",
       "url": "https://open.spotify.com/track/3RFsQEu3pL5aGw9YG1gCLV"
@@ -4611,7 +4791,7 @@
       ],
       "date_added": "2019-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 349973,
       "name": "Yesu Wena UnguMhlobo - Live",
       "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"
@@ -4633,7 +4813,7 @@
       ],
       "date_added": "2020-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 307510,
       "name": "Yibanathi",
       "url": "https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK"
@@ -4681,7 +4861,7 @@
       ],
       "date_added": "2019-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 508653,
       "name": "Yiwo Lawa Amandla - Live",
       "url": "https://open.spotify.com/track/1mWlPrcAYTvCh6VDMojZzd"
@@ -4877,7 +5057,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 292911,
       "name": "Ziphozenkosi",
       "url": "https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt"

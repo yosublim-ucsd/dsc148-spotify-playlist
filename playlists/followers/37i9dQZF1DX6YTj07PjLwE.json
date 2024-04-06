@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 192096,
+  "2024-04-06": 192266,
   "date_first_scraped": "2022-05-09",
   "description": "Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.",
   "name": "Deep Dive: 90s Rock",
@@ -5850,6 +5850,24 @@
     },
     {
       "album": {
+        "name": "In The Heart Of The Young",
+        "url": "https://open.spotify.com/album/1ww9dziy6w0U2uS88aX6zN"
+      },
+      "artists": [
+        {
+          "name": "Winger",
+          "url": "https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255333,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6Hp98J9Z9hRE100nivqg86"
+    },
+    {
+      "album": {
         "name": "In Utero - 20th Anniversary Remaster",
         "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },
@@ -8439,7 +8457,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 175293,
       "name": "Shitlist",
       "url": "https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w"
@@ -10815,7 +10833,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 278480,
       "name": "Until The End Of The World",
       "url": "https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5"
@@ -11571,7 +11589,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 169773,
       "name": "You And Me Song",
       "url": "https://open.spotify.com/track/6WShAtk9Ju7YiaCPBQNqeK"

@@ -9245,6 +9245,24 @@
     },
     {
       "album": {
+        "name": "Pouli\u010dn\u00ed Ekonomick\u00e1 3: L\u00e1ska & Loyalita",
+        "url": "https://open.spotify.com/album/0HVIBIPikXB5y3e3gzhj9t"
+      },
+      "artists": [
+        {
+          "name": "Sergei Barracuda",
+          "url": "https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229194,
+      "name": "D\u016fm Nen\u00ed Domov",
+      "url": "https://open.spotify.com/track/11bCL4rjCwWMv9RSlN0LMv"
+    },
+    {
+      "album": {
         "name": "D\u017eanum",
         "url": "https://open.spotify.com/album/7sac6tKZQBSIkOC9f0zVvA"
       },
@@ -9536,7 +9554,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 183093,
       "name": "Eli",
       "url": "https://open.spotify.com/track/3tT1RSLCBcsaPOXOiC3Tft"
@@ -23588,7 +23606,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 169853,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy"
@@ -30024,7 +30042,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 133722,
       "name": "She Know What She Wanted - Jersey Club Remix Slowed",
       "url": "https://open.spotify.com/track/17j94KZ4XMNM599wComGDG"
@@ -30514,7 +30532,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 211395,
       "name": "SKLO",
       "url": "https://open.spotify.com/track/2Y6GZQMenNx2pZMJhgl3QE"
@@ -35714,6 +35732,32 @@
       "duration_ms": 305993,
       "name": "Vasko Zabata",
       "url": "https://open.spotify.com/track/7p8vsbK5P7sUBmJJeA0dwT"
+    },
+    {
+      "album": {
+        "name": "VATA",
+        "url": "https://open.spotify.com/album/5sIKd6SQ4gFQkKmcHrJUkC"
+      },
+      "artists": [
+        {
+          "name": "Petroff",
+          "url": "https://open.spotify.com/artist/32xYjJDfxODvUFVXW2Ovqb"
+        },
+        {
+          "name": "LueCash",
+          "url": "https://open.spotify.com/artist/1yC71LNEt1xoEJzaexSkZX"
+        },
+        {
+          "name": "Wagmi",
+          "url": "https://open.spotify.com/artist/0RK0XcDMHR5BSewrokosdz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "VATA",
+      "url": "https://open.spotify.com/track/2DFeq0jzRspwrUtxvB1Kzm"
     },
     {
       "album": {

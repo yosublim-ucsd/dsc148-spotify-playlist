@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,906 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,946 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 65 | [All Along \- Kaytranada Remix](https://open.spotify.com/track/7wFcrixaohlV2kn5iDGORv) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/1SFh4fpWMEThFiNnSAXLsg) | 4:44 |
 | 66 | [FIND YOUR WAY BACK \- MELO\-X Remix](https://open.spotify.com/track/1g0k1bFcLKyIrdsdUkF3eW) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Melo\-X](https://open.spotify.com/artist/6AxHPycFTjxDROqK1pzsAE) | [The Lion King: The Gift \[Deluxe Edition\]](https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ) | 3:36 |
 | 67 | [Say Yes \(feat\. TOKiMONSTA\)](https://open.spotify.com/track/2pBVR6cD0ClaSNByNKeN8T) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Homegrown \(Deluxe\)](https://open.spotify.com/album/1g8c7UXl9odDwOpdoPJsWa) | 3:53 |
-| 68 | [There Is A Light](https://open.spotify.com/track/1oGX6s0SjBSMz1Z4I9a8zN) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Zak Leever](https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU) | [There Is A Light](https://open.spotify.com/album/0auzANiBBPA11WMLoLbl81) | 3:01 |
-| 69 | [TITO'S](https://open.spotify.com/track/3KtJc97wstkCvrRLs10epl) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:52 |
+| 68 | [TITO'S](https://open.spotify.com/track/3KtJc97wstkCvrRLs10epl) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:52 |
+| 69 | [There Is A Light](https://open.spotify.com/track/1oGX6s0SjBSMz1Z4I9a8zN) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Zak Leever](https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU) | [There Is A Light](https://open.spotify.com/album/0auzANiBBPA11WMLoLbl81) | 3:01 |
 | 70 | [Good Love 2.0](https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [damnshestamil](https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm) | 2:54 |
 | 71 | [Interstellar.](https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Interstellar.](https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F) | 3:55 |
 | 72 | [Freeway \(with Estelle\)](https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Freeway \(with Estelle\)](https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 99 | [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 |
 | 100 | [Boundaries \- DRAMA Remix](https://open.spotify.com/track/7olP7S3e0XDQ08eisCHVgp) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Boundaries \(DRAMA Remix\)](https://open.spotify.com/album/0KFOUugVRJwr9pnevuIrtl) | 3:40 |
 
-Snapshot ID: `MCwyYjdhNWEyYjc4YWI1OGNiMDliYjYxYjhhNDQ4ZmI2MjUwYThiMjY0`
+Snapshot ID: `MCw3MjU0MDRlYTNjOTUwMGEzMmRlODRlNzJhZjUwMmJlOWY4Mjk0Mzll`

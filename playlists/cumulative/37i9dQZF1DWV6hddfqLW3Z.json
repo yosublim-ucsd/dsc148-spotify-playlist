@@ -345,6 +345,32 @@
     },
     {
       "album": {
+        "name": "Mariana e Mestrinho",
+        "url": "https://open.spotify.com/album/0rX7s9GkjyarNCdGUpjGz8"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249554,
+      "name": "At\u00e9 o fim",
+      "url": "https://open.spotify.com/track/4vNwoGBuu6IFYUBOPWBG3R"
+    },
+    {
+      "album": {
         "name": "Mais",
         "url": "https://open.spotify.com/album/3hPEISGlVahSAoFUDE5m7M"
       },
@@ -1366,7 +1392,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 261642,
       "name": "N\u00e3o \u00c9 um Bolero",
       "url": "https://open.spotify.com/track/25D9YD6JDfQnWzPqgM9osJ"
@@ -1436,7 +1462,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 176562,
       "name": "O Le\u00e3ozinho - Ao Vivo Em S\u00e3o Paulo / 2017",
       "url": "https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL"
@@ -1838,7 +1864,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 216842,
       "name": "Quase Sem Querer",
       "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"

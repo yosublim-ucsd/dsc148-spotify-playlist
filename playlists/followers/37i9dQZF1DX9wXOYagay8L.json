@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 138403,
+  "2024-04-06": 138530,
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby?si=7gMdc4znRe-FsvrV9ncWSg\">The Joy</a>",
+  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=vM-n17pZQIiQLZxllmtI7A\">Nomfundo Moh</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -2333,7 +2333,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 176325,
       "name": "Forever Yena",
       "url": "https://open.spotify.com/track/0Nz8E9XQGIrbYLzfLxfezE"
@@ -3749,6 +3749,28 @@
       "duration_ms": 179936,
       "name": "Iqiniso",
       "url": "https://open.spotify.com/track/7kU1FOddAQbqFKT6uVumg6"
+    },
+    {
+      "album": {
+        "name": "Isandla Ska Baba (feat. Glen Makhafula)",
+        "url": "https://open.spotify.com/album/28cW6X0OuDmH8rMuMFFTBV"
+      },
+      "artists": [
+        {
+          "name": "Mlindo The Vocalist",
+          "url": "https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI"
+        },
+        {
+          "name": "Glen Makhafula",
+          "url": "https://open.spotify.com/artist/3H3Ztn6w3QNolUB9NzFy5i"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314482,
+      "name": "Isandla Ska Baba (feat. Glen Makhafula)",
+      "url": "https://open.spotify.com/track/2UOmBrjoLKBs5NSUTZclX7"
     },
     {
       "album": {
@@ -6437,7 +6459,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 209580,
       "name": "Never The Same",
       "url": "https://open.spotify.com/track/713rW02qnWn4NozBlqjf3s"
@@ -6701,7 +6723,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 246189,
       "name": "Ngifuna Wena",
       "url": "https://open.spotify.com/track/3L1C4QUtu4O3rmwegqC4yy"
@@ -7211,7 +7233,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 222000,
       "name": "Nje (feat. Just Bheki)",
       "url": "https://open.spotify.com/track/06viTbnwNomeFvy7GWu0IQ"
@@ -7377,6 +7399,32 @@
       "duration_ms": 231086,
       "name": "Notification",
       "url": "https://open.spotify.com/track/4lV0XRU1Y4kfgFOjqOdmUq"
+    },
+    {
+      "album": {
+        "name": "Noxolo",
+        "url": "https://open.spotify.com/album/4YNkcU3KtC6F0OiRN9LySy"
+      },
+      "artists": [
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Noxolo",
+      "url": "https://open.spotify.com/track/4D8bE2btP5ZAygcZyRKPcT"
     },
     {
       "album": {
@@ -8053,6 +8101,24 @@
       "duration_ms": 270769,
       "name": "Qoma",
       "url": "https://open.spotify.com/track/7tJRECMBZbgGUh83C48NB0"
+    },
+    {
+      "album": {
+        "name": "Qongqotha (live) [Demo]",
+        "url": "https://open.spotify.com/album/1OgbwEsTKgf3FnHXjQha8h"
+      },
+      "artists": [
+        {
+          "name": "Mishy Kope",
+          "url": "https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171031,
+      "name": "Qongqotha (live) - Demo",
+      "url": "https://open.spotify.com/track/72bqWnVS3F7C06i64dvDny"
     },
     {
       "album": {
@@ -9193,7 +9259,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 262008,
       "name": "Soze Ndixole",
       "url": "https://open.spotify.com/track/5IE6y5Vqx6bjSws7ZhuCUe"
@@ -9413,7 +9479,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 365309,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/6vR8F8fp42rA8ecAlimsuw"
@@ -10596,6 +10662,32 @@
     },
     {
       "album": {
+        "name": "Umusa",
+        "url": "https://open.spotify.com/album/3ZLmsaExafleH4UoXP4FNB"
+      },
+      "artists": [
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227380,
+      "name": "Umusa",
+      "url": "https://open.spotify.com/track/1rS6j6K3cxY4PEXLleEUia"
+    },
+    {
+      "album": {
         "name": "Wam",
         "url": "https://open.spotify.com/album/3Ob96QPttduONODAgtmSFO"
       },
@@ -11393,7 +11485,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 358956,
       "name": "Woza Mntana",
       "url": "https://open.spotify.com/track/486lU2BE0ZY75sAOWViR6p"

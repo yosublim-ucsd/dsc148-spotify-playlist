@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Adam Melchor
 
-1,452 songs - 3 day 15 hr 45 min
+1,453 songs - 3 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Close To You](https://open.spotify.com/track/6SQJyYv6qZHhneGddKRdT0) | [CHARLES.](https://open.spotify.com/artist/5k9DAxaugi6ANyemUgQrgV), [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh), [Jsdrmns](https://open.spotify.com/artist/5ga5P2bTvSDu4rDRnXI33l) | [Close To You](https://open.spotify.com/album/40FZJu1z9sHJD8qYLqifUm) | 2:44 | 2022-02-10 | 2022-04-08 |
 | [Closer](https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [８](https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m) | 3:36 | 2023-10-20 | 2024-03-08 |
 | [Cloud 9](https://open.spotify.com/track/64r1GDVyD3nR1Doimp4pcW) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9), [Kepatime](https://open.spotify.com/artist/3iy22x5OmyJo3fR8C830u4) | [Cloud 9](https://open.spotify.com/album/2WbV33yIUttsYS4sk5Zcom) | 5:05 | 2022-01-13 | 2022-01-21 |
+| [Clouds](https://open.spotify.com/track/2YdFDvMP6S38Q45ugDxKdf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [Clouds](https://open.spotify.com/album/5hTbSIwFjM0qEbHYybjlkL) | 3:43 | 2024-04-04 |  |
 | [Co\-Pathetic](https://open.spotify.com/track/6eI1uc8HMy4SYp133fF94C) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Collapse List](https://open.spotify.com/album/1hh3GhyscEuCplQQL31RtB) | 3:55 | 2024-04-04 |  |
 | [Coeur Kamikaze 心與海](https://open.spotify.com/track/1xut6DzmmqwYixQ5xRskZ1) | [The Rodeo](https://open.spotify.com/artist/66g3ybCzTYusaxjoARIBEw), [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [Coeur Kamikaze 心與海](https://open.spotify.com/album/1Wnwt7wHqrZ5nHI9Xa6QyZ) | 3:31 | 2022-03-17 | 2022-04-08 |
 | [Cold](https://open.spotify.com/track/0VAkYFfY6PLyEGFpq7ie6P) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW) | 4:36 | 2022-08-26 | 2022-09-30 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 62165,
+  "2024-04-06": 62241,
   "date_first_scraped": "2022-10-28",
   "description": "Gentle, soft Ambient music for focus and concentration. ",
   "name": "Ambient Study",
@@ -554,6 +554,24 @@
     },
     {
       "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/6ljX7J9ydYpuP1mjpIVlBQ"
+      },
+      "artists": [
+        {
+          "name": "New Lab",
+          "url": "https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Connected",
+      "url": "https://open.spotify.com/track/1vQ3tw9wuBOOezgkRH8lw2"
+    },
+    {
+      "album": {
         "name": "Consider",
         "url": "https://open.spotify.com/album/7cpmL0bFhUkvuBM8cpGWeg"
       },
@@ -911,6 +929,24 @@
       "duration_ms": 135751,
       "name": "Etoile",
       "url": "https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS"
+    },
+    {
+      "album": {
+        "name": "Expired Thoughts",
+        "url": "https://open.spotify.com/album/43fkNRsNLSGji8aC8TwZPE"
+      },
+      "artists": [
+        {
+          "name": "Santino Dunleaf",
+          "url": "https://open.spotify.com/artist/6UmU6V7Nh76CSxujJEBEja"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Expired Thoughts",
+      "url": "https://open.spotify.com/track/16tv70QfvbOzdpPrjt0MKP"
     },
     {
       "album": {
@@ -2030,6 +2066,24 @@
     },
     {
       "album": {
+        "name": "Ramus",
+        "url": "https://open.spotify.com/album/63784z6zoLHJk7d4kgv9Aq"
+      },
+      "artists": [
+        {
+          "name": "Skye Saraswati",
+          "url": "https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Ramus",
+      "url": "https://open.spotify.com/track/6I661pmM6IANKvfZgDnwbL"
+    },
+    {
+      "album": {
         "name": "Redamancy",
         "url": "https://open.spotify.com/album/3zOIJ6Ke62DFZYdXMMtrnQ"
       },
@@ -2297,6 +2351,24 @@
       "duration_ms": 127728,
       "name": "Simplistica",
       "url": "https://open.spotify.com/track/6ZOmpmAGA1nM53YEvq8eLk"
+    },
+    {
+      "album": {
+        "name": "Sisu",
+        "url": "https://open.spotify.com/album/6nHNJaECiZWuuZ2O8A8j1l"
+      },
+      "artists": [
+        {
+          "name": "Asajj Sadie",
+          "url": "https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151538,
+      "name": "Sisu",
+      "url": "https://open.spotify.com/track/12UNTCcyT4WEQfDHVrt94I"
     },
     {
       "album": {

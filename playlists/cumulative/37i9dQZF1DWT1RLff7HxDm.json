@@ -1098,10 +1098,28 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 437358,
       "name": "Judgment Day",
       "url": "https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU"
+    },
+    {
+      "album": {
+        "name": "Songs from the Road",
+        "url": "https://open.spotify.com/album/1qlAQUQBLKNLDM8z41n4BR"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437358,
+      "name": "Judgment Day - Songs from the Road [Live]",
+      "url": "https://open.spotify.com/track/7h72DcU0qIsRo1zpjQzIAF"
     },
     {
       "album": {
@@ -1128,7 +1146,7 @@
     {
       "album": {
         "name": "Blues Caravan Live 2018",
-        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
+        "url": "https://open.spotify.com/album/6EAdTKkcfgNNm7EtokY6cv"
       },
       "artists": [
         {
@@ -1139,6 +1157,24 @@
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 275033,
+      "name": "Keep Coming Back - Blues Caravan Live 2018",
+      "url": "https://open.spotify.com/track/1jdkJhPKSGOsOAvN3yjbse"
+    },
+    {
+      "album": {
+        "name": "Blues Caravan Live 2018",
+        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-06",
       "duration_ms": 275033,
       "name": "Keep Coming Back - Live",
       "url": "https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw"
@@ -2852,10 +2888,36 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 218026,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY"
+    },
+    {
+      "album": {
+        "name": "Ina Forsman, Layla Zoe, Tasha Taylor",
+        "url": "https://open.spotify.com/album/7iWYET5piM1Ce2NyhXuLYn"
+      },
+      "artists": [
+        {
+          "name": "Tasha Taylor",
+          "url": "https://open.spotify.com/artist/5FvwlIaI3vlml6cqXW4Lcq"
+        },
+        {
+          "name": "Ina Forsman",
+          "url": "https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b"
+        },
+        {
+          "name": "Layla Zoe",
+          "url": "https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218026,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/2CEXOlk2cd8CRErc5mDpHU"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 8486,
+  "2024-04-06": 8484,
   "date_first_scraped": "2024-02-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz\">Justin Tranter</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Justin Tranter",
@@ -1698,6 +1698,28 @@
     },
     {
       "album": {
+        "name": "Grease: Rise of the Pink Ladies (Music from the Paramount+ Original Series)",
+        "url": "https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz"
+      },
+      "artists": [
+        {
+          "name": "Marisa Davila",
+          "url": "https://open.spotify.com/artist/7vMeCYcjhAA7yaoyf1MWJy"
+        },
+        {
+          "name": "The Cast of Grease: Rise of the Pink Ladies",
+          "url": "https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78885,
+      "name": "Different This Year - From the Paramount+ Series \u2018Grease: Rise of the Pink Ladies'",
+      "url": "https://open.spotify.com/track/2tRjFhUilgpebiBAjZfYaK"
+    },
+    {
+      "album": {
         "name": "Disco",
         "url": "https://open.spotify.com/album/3OLkHq4ckTvyH1NG0dek2S"
       },
@@ -2285,7 +2307,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 102060,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/3HqvvZJdmNOLGZZitJsMDh"
@@ -7219,7 +7241,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 317333,
       "name": "Room Service",
       "url": "https://open.spotify.com/track/53bwArVbvrLDhIQTKboA5W"

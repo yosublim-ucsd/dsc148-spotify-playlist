@@ -1,7 +1,7 @@
 {
-  "2024-04-05": 175581,
+  "2024-04-06": 175660,
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Dadju x Tayc",
   "name": "R&Bae",
   "tracks": [
     {
@@ -21,6 +21,24 @@
       "duration_ms": 135000,
       "name": "20\u00e8me symphonie",
       "url": "https://open.spotify.com/track/2DQOu0QGjeRPJ8NzyUO4l2"
+    },
+    {
+      "album": {
+        "name": "4 \u00c9toiles",
+        "url": "https://open.spotify.com/album/1FiqmjXMWU1ArwwzlGhtcR"
+      },
+      "artists": [
+        {
+          "name": "pkc",
+          "url": "https://open.spotify.com/artist/0giIPo49HnTdeIT6cMPB8W"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150703,
+      "name": "4 \u00c9toiles",
+      "url": "https://open.spotify.com/track/47CDhaY1rg0DS1d0MZXfRZ"
     },
     {
       "album": {
@@ -1340,6 +1358,28 @@
     },
     {
       "album": {
+        "name": "Drunk & Luv",
+        "url": "https://open.spotify.com/album/58kXDhxfQUF3Yv132I96Zx"
+      },
+      "artists": [
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Drunk & Luv",
+      "url": "https://open.spotify.com/track/0BI4i1Cj46datq4HLf7g7b"
+    },
+    {
+      "album": {
         "name": "D\u00e9chirer",
         "url": "https://open.spotify.com/album/7EjSTlxv8BlPWR8hoUhfAL"
       },
@@ -1909,7 +1949,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 184253,
       "name": "Insomnie",
       "url": "https://open.spotify.com/track/3ypiHf02YeypiBtwwfg1Dz"
@@ -2742,6 +2782,24 @@
     },
     {
       "album": {
+        "name": "Trilogie",
+        "url": "https://open.spotify.com/album/4TFoYMdgwNRY9pr5prd98r"
+      },
+      "artists": [
+        {
+          "name": "Oskoow",
+          "url": "https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "M'Hood",
+      "url": "https://open.spotify.com/track/7CGEtadwkWyNCmOSQUcTXr"
+    },
+    {
+      "album": {
         "name": "Ma Lova",
         "url": "https://open.spotify.com/album/69VpibECOEtYba9gZTn36O"
       },
@@ -2825,7 +2883,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 183013,
       "name": "Ma s\u0153ur",
       "url": "https://open.spotify.com/track/3iaYet67ATkGUD3CAOyYZ2"
@@ -3639,7 +3697,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 193103,
       "name": "Parler de nous",
       "url": "https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9"

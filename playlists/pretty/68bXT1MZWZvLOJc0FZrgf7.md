@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Gesaffelstein
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 104,724 likes - 158 songs - 8 hr 2 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 104,723 likes - 158 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Digital slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [GAMMA](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
-| 2 | [Pangea \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Pangea](https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o) | 4:01 |
-| 3 | [New Madonna](https://open.spotify.com/track/456QkXYfOSZrxBjZzfp3dk) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [New Madonna](https://open.spotify.com/album/5r6GBoCOCrhSOGFfjDxPmr) | 2:55 |
-| 4 | [Different Worlds](https://open.spotify.com/track/0gn9MeXvXeCW9XjaUoRPO9) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Different Worlds](https://open.spotify.com/album/68X6n6zNWQtHzJfSmMb64k) | 3:35 |
-| 5 | [Thinking About You](https://open.spotify.com/track/1plwk3UFlq3P4SW5PVAFKh) | [WAVES](https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ) | [Thinking About You](https://open.spotify.com/album/1rf3GUpNhGp9cLq2BvKg0J) | 2:45 |
+| 1 | [Pangea \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Pangea](https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o) | 4:01 |
+| 2 | [New Madonna](https://open.spotify.com/track/456QkXYfOSZrxBjZzfp3dk) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [New Madonna](https://open.spotify.com/album/5r6GBoCOCrhSOGFfjDxPmr) | 2:55 |
+| 3 | [Different Worlds](https://open.spotify.com/track/0gn9MeXvXeCW9XjaUoRPO9) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Different Worlds](https://open.spotify.com/album/68X6n6zNWQtHzJfSmMb64k) | 3:35 |
+| 4 | [Thinking About You](https://open.spotify.com/track/1plwk3UFlq3P4SW5PVAFKh) | [WAVES](https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ) | [Thinking About You](https://open.spotify.com/album/1rf3GUpNhGp9cLq2BvKg0J) | 2:45 |
+| 5 | [Digital slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [GAMMA](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 |
 | 6 | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip) | 4:33 |
 | 7 | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/track/5ScpTvVlLoTG9pEJiO1LZF) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/album/0WEHkvTwLphaOKZMM1kpok) | 3:17 |
 | 8 | [Take My Chance](https://open.spotify.com/track/3uD3HzG6tO8lWUIKtJKcxA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/3xaAySZDsBeu2k12tDaLsZ) | 3:18 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 157 | [UNAVAILABLE \(feat\. Musa Keys\) \- Major Lazer Remix](https://open.spotify.com/track/4oIhpa8oYIxlADCRq5Zc3g) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [UNAVAILABLE \(feat\. Musa Keys\) \[Major Lazer Remix\]](https://open.spotify.com/album/5hCoRG8VEHUOsZ55sQWYEs) | 3:52 |
 | 158 | [Beautiful Together \- Genix Remix](https://open.spotify.com/track/14tdsaZLtW9WqHJJFO3ZWn) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [OceanLab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT), [Genix](https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w) | [Beautiful Together \(Genix Remix\)](https://open.spotify.com/album/2JMQN2Xopd7ORafrvqhgPP) | 4:00 |
 
-Snapshot ID: `NDEyMCwwNDNjOGM3NTBiZTZjOTE1NWZmZTdlODQ4YWJlZWFjNWQ5Zjk5OWFm`
+Snapshot ID: `NDEyMyw3MTU3YzZkMzJmMjRjYTRkNjVkNTk3NjhmMGRkMDU4ZDM5NTkzZTU1`

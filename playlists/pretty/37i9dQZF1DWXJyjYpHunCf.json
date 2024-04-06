@@ -1,12 +1,12 @@
 {
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: Benson Boone",
-  "num_followers": 902051,
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: Mark Ambor",
+  "num_followers": 902628,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDc5NDdmMDJlM2EyMjQ0MDQ0MGQ3OTY5NDczNTcxYmIzMDE5Njc1",
+  "snapshot_id": "MCw1NmM5ZmY4ODRiODI3Y2E3NWM5OWJiMjUzNTMxNDNhNjdmZTU1NTU1",
   "tracks": [
     {
       "added_at": "2024-03-29 17:12:39",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
     },
     {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Floating in the Night",
+        "url": "https://open.spotify.com/album/460chVvDygcJD9jvu0FKkl"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 221054,
+      "name": "Floating in the Night",
+      "url": "https://open.spotify.com/track/6zaoI9cxWGAyozvMU5HLeG"
+    },
+    {
       "added_at": "2024-03-29 17:12:39",
       "album": {
         "name": "Scared To Start",
@@ -105,6 +121,22 @@
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Say I",
+        "url": "https://open.spotify.com/album/5YMxs5DlTKY6ayKp6mFegb"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "duration_ms": 165097,
+      "name": "Say I",
+      "url": "https://open.spotify.com/track/0Ce1uvHTCRazNpIj6JVbO6"
+    },
+    {
       "added_at": "2024-03-29 17:12:39",
       "album": {
         "name": "So Sick Of Dreaming",
@@ -119,6 +151,22 @@
       "duration_ms": 232080,
       "name": "So Sick Of Dreaming",
       "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Glad You Did",
+        "url": "https://open.spotify.com/album/7q9stc9skBvyNLron7OBLR"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 191613,
+      "name": "Glad You Did",
+      "url": "https://open.spotify.com/track/1DKLLuYIHZsI2uqrT1WjRZ"
     },
     {
       "added_at": "2024-03-29 17:12:39",
@@ -183,6 +231,22 @@
       "duration_ms": 124503,
       "name": "Liar",
       "url": "https://open.spotify.com/track/0jHnEevYYvE7B2YJoBwz1S"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/4DwT6hfMRqWEghV4HHK7UI"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "duration_ms": 192860,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/4DiGpFIA8ja7wyAap7kCxX"
     },
     {
       "added_at": "2024-03-29 17:12:39",

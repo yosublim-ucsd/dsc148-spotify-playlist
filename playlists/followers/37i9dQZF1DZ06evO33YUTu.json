@@ -1,5 +1,5 @@
 {
-  "2024-04-05": 117915,
+  "2024-04-06": 117941,
   "date_first_scraped": "2023-03-20",
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
   "name": "This Is Greeicy",
@@ -193,7 +193,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 115781,
       "name": "Cartagena (Madism Remix)",
       "url": "https://open.spotify.com/track/1lju2OPEC0SqwKxvpAUmRv"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 202333,
       "name": "Los Besos",
       "url": "https://open.spotify.com/track/50SFVefoyzWnJy1oQWfRtr"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 102586,
       "name": "Si te hubiera",
       "url": "https://open.spotify.com/track/5d7IxEBgNeHsJaR3IO4DQV"
@@ -1371,7 +1371,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-05",
       "duration_ms": 198413,
       "name": "T\u00f3xico",
       "url": "https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm"

@@ -3297,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "NHUNG DUA TRE",
+        "url": "https://open.spotify.com/album/2ivD1txUAxPhgiYq1vjeKY"
+      },
+      "artists": [
+        {
+          "name": "Weeza",
+          "url": "https://open.spotify.com/artist/3KCwCM9okdx5d2iDbIxQ9l"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "B\u00ean d\u01b0\u1edbi \u00e1nh tr\u0103ng",
+      "url": "https://open.spotify.com/track/6Ya9cvlwI44RVBComaVSOb"
+    },
+    {
+      "album": {
         "name": "B\u00ean Em Nh\u1eb9 Nh\u00e0ng Th\u00f4i",
         "url": "https://open.spotify.com/album/1bJbzL7BVZfyCrjekVaA1w"
       },

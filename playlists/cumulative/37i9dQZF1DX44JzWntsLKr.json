@@ -1491,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "Off The Beat",
+        "url": "https://open.spotify.com/album/02UEiA1Gp7KfQD2JxICLiW"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170453,
+      "name": "LURE",
+      "url": "https://open.spotify.com/track/3UFJPOdPj2U6XRDQKZ55l5"
+    },
+    {
+      "album": {
         "name": "Magnetic",
         "url": "https://open.spotify.com/album/7p7sMoHzbLumNCUaW2mRIu"
       },

@@ -4,12 +4,13 @@
 
 > Music from "That Time I Got Reincarnated as a Slime"! /アニメ「転生したらスライムだった件」の世界を彩る楽曲をプレイリストで。©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-65 songs - 3 hr 8 min
+66 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Another colony](https://open.spotify.com/track/3pJIBjrTwknFm7orJJM3YH) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Another colony](https://open.spotify.com/album/5xOCxkJEcFfIE0qTXm4CYp) | 4:11 | 2022-11-25 |  |
 | [Another colony \- Tender mix](https://open.spotify.com/track/2G46oZmPTnZwjLd1IYcwuO) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 1:54 | 2022-11-25 |  |
+| [Believer](https://open.spotify.com/track/2SSYy8BmVJrfAs0OwKkTfd) | [来栖りん](https://open.spotify.com/artist/6xiHykZdET5Tp1SAC7luIA) | [Believer](https://open.spotify.com/album/7bsL267tEx3J9YRuwlNjIR) | 3:10 | 2024-04-05 |  |
 | [Brand new diary](https://open.spotify.com/track/4aSzSvyXczlaKMxQs3rbGh) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb) | [Brand new diary](https://open.spotify.com/album/6mHldINrJuMkqF9uGRTOsA) | 4:08 | 2022-11-25 |  |
 | [CALL YOUR NAME](https://open.spotify.com/track/074pO3kz9J4Gg6MtreeXQX) | [Rimuru \(CV: Miho Okasaki\)](https://open.spotify.com/artist/7fGxo8dxQ6SdVXPmcTZsHH), [Satoru Mikami \(CV: Takuma Terashima\)](https://open.spotify.com/artist/58gJSLmnWvAAAg0mP132p2) | [永遠の絆 \(『劇場版 転生したらスライムだった件 紅蓮の絆編』主題歌・挿入歌アルバム\)](https://open.spotify.com/album/1boGPa9j67ZkY8C7u0a9G5) | 4:25 | 2022-11-25 |  |
 | [Christmas Festa](https://open.spotify.com/track/2u9ZkOqabUWo3l40GZzHsJ) | [エレン \(CV.熊田茜音\)](https://open.spotify.com/artist/3i81AuhpyO1tp12Il9CyWg) | [TVアニメ『転生したらスライムだった件 転スラ日記』オリジナルサウンドトラック「転生したら日記の音楽だった件」](https://open.spotify.com/album/6wgKf4HmPJf7uD4s77p0xw) | 4:25 | 2022-11-25 |  |

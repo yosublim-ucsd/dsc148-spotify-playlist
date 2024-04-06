@@ -2,9 +2,9 @@
 
 ### [Femcees](https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad)
 
-> Mujeres raperas rompiéndola en toda Latinoamérica\. Ximbo en Portada
+> Mujeres raperas rompiéndola en toda Latinoamérica\. La Esmeralda en Portada
 
-274 songs - 13 hr 49 min
+275 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Riri](https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:14 | 2022-08-01 | 2023-02-18 |
 | [Rolando](https://open.spotify.com/track/4rODt7fDMvdpE4QvdXUOD7) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Rolando](https://open.spotify.com/album/62kdPZ9zo8710MDO212buq) | 3:04 | 2023-07-28 |  |
 | [Rompiendo Esquemas](https://open.spotify.com/track/39AsaL5KiC1qW3OTrmEBnM) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Dj Kaizen \(Chile\)](https://open.spotify.com/artist/3zRSeoE7Udey1Ggleah4VH) | [Verso… Luego Existo \(The NYC Version\)](https://open.spotify.com/album/2TejLZ73MuwhR4dQMNVAGZ) | 2:59 | 2021-12-13 | 2023-07-01 |
+| [rookie of the year](https://open.spotify.com/track/52efxkazJPLF9SeuUuuX0u) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:49 | 2024-04-05 |  |
 | [Roothoppas \- Remix](https://open.spotify.com/track/5aTi6IgFwAMy6asFuihGN3) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Roothoppas \(Remix\)](https://open.spotify.com/album/5NK0JHRdH9O1w2CWaUzKNL) | 3:01 | 2023-06-16 |  |
 | [Samuleto](https://open.spotify.com/track/0T0VYY4LsTHNPqs5BtPdD7) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC) | 2:13 | 2023-06-16 |  |
 | [SANA SANA](https://open.spotify.com/track/6ZzjeYAIHkIbh6VhYsMSIg) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [SANA SANA](https://open.spotify.com/album/6I94uMnDMEFe8EHX2QiQES) | 2:58 | 2021-12-13 | 2022-07-29 |
@@ -253,7 +254,7 @@
 | [Tenochtitlán](https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tenochtitlán](https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf) | 4:13 | 2023-09-01 |  |
 | [The Wave](https://open.spotify.com/track/3qdtPhFUPKEwOzgcoQg5z4) | [Las Ninyas del Corro](https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh) | [The Wave](https://open.spotify.com/album/4mnAwRH9rHUHCeiVKgpdaO) | 3:07 | 2024-02-09 |  |
 | [Thug Love](https://open.spotify.com/track/3UzvM5oPrOJXshAJOSUUar) | [Vitz Music](https://open.spotify.com/artist/6dEJkQwezGsQdWJyLGEjDf), [Phyzh Eye](https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01) | [Thug Love](https://open.spotify.com/album/4i8kWHlG8oMVp9yc7z666C) | 3:14 | 2023-02-10 |  |
-| [Tiempos Felices](https://open.spotify.com/track/4lS1HxKXFMinRnsz6PqywA) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Nax](https://open.spotify.com/artist/2tywCc8kh9RzR0XY8HYekn) | [Tiempos Felices](https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L) | 3:21 | 2023-12-15 |  |
+| [Tiempos Felices](https://open.spotify.com/track/4lS1HxKXFMinRnsz6PqywA) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Nax](https://open.spotify.com/artist/2tywCc8kh9RzR0XY8HYekn) | [Tiempos Felices](https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L) | 3:21 | 2023-12-15 | 2024-04-06 |
 | [TIKI TAKA](https://open.spotify.com/track/731NNSNXS57BuFlBWyUuuH) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6), [TALE$](https://open.spotify.com/artist/5w9YZfwWPTeCQn6QEGieIU) | [7Z7](https://open.spotify.com/album/3RtE5spt4kZB1Q8nHB3tWD) | 2:34 | 2023-03-03 |  |
 | [Toda La Noche](https://open.spotify.com/track/6G2moJDXjY6T1sV1rvVdOO) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Toda La Noche](https://open.spotify.com/album/1rkHVLrH6Rf8t1RuHZ74sH) | 2:42 | 2023-02-24 | 2024-03-16 |
 | [Toda Perra Mugrosa](https://open.spotify.com/track/2no18yKAUmqkJG2fxUZ7bz) | [La Gallo 3:20](https://open.spotify.com/artist/3vMfBXxAZ9iG2u0VjNZ0IA), [norek](https://open.spotify.com/artist/1FmEWwOZLr0u0PWHVUXL0j) | [Toda Perra Mugrosa](https://open.spotify.com/album/6Ep14yIKFjYEP0J6yTJWnO) | 2:09 | 2023-09-15 |  |
