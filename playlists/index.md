@@ -1,4 +1,4 @@
-## Playlists \(7696\)
+## Playlists \(7697\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -5366,6 +5366,7 @@
 - [The Summer I Turned Pretty Official Playlist](/playlists/pretty/37i9dQZF1DWVEaynofUD86.md)
 - [The Sweet Suite](/playlists/pretty/37i9dQZF1DX2Ma8k80RiMN.md)
 - [The Tale of Pluto](/playlists/pretty/5Nmz1aWniEZaTx6lfSrChX.md)
+- [The True Benny Mix](/playlists/pretty/1WbjnZYjrqJtumqrSBwlMb.md)
 - [The Ultimate Hit Mix](/playlists/pretty/37i9dQZF1DWUZMtnnlvJ9p.md)
 - [The Umbrella Academy Official Playlist](/playlists/pretty/37i9dQZF1DWUMu4FjR9Tt6.md)
 - [The Victorians](/playlists/pretty/37i9dQZF1DWZxkZk4wnQ5T.md)
