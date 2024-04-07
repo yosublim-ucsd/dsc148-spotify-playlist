@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly rock update\. Cover: Gustaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,122 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,116 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 55 | [Let Me Stay Dead](https://open.spotify.com/track/27jgaGApvVMeIY2RHzA1c8) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Let Me Stay Dead](https://open.spotify.com/album/6BDklmu4HKHTYtmpHxqmz8) | 2:31 |
 | 56 | [Things I've Been Telling Myself for Years](https://open.spotify.com/track/0ZmtGhT8Iyih7dlscccung) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [AUDIO VERTIGO](https://open.spotify.com/album/7EpaPuPMFIwVLkEWz3gvSK) | 3:33 |
 | 57 | [LEAVE ME ALONE](https://open.spotify.com/track/6rpP8yjaUFXW85basqmW3s) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [LEAVE ME ALONE](https://open.spotify.com/album/4Vg8DFy3xrNpXXPiPremXH) | 3:35 |
-| 58 | [Am I The Menace?](https://open.spotify.com/track/7HVJD6Kjsrje6ivaXDblY0) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Am I The Menace?](https://open.spotify.com/album/3dTZbo9tPa7Ms5rcRbxDP2) | 3:01 |
+| 58 | [Am I The Menace?](https://open.spotify.com/track/7KTu2e9HlZI8NtYMW2EzAY) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Free Rein to Passions \(Deluxe\)](https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk) | 3:01 |
 | 59 | [In My Room](https://open.spotify.com/track/6fjK2QHqJybDsUpx0RSPHV) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/47XJwitSW0IxMx1n2jtSbD) | 2:43 |
 | 60 | [In Real Life](https://open.spotify.com/track/4Zm79UYiYJDRNpccg3DZKx) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [In Real Life](https://open.spotify.com/album/16Ccy5QKKJZ238uk9S9DzQ) | 3:15 |
 | 61 | [We Don't Wanna Talk](https://open.spotify.com/track/0DpAom4SDZKwTJ4q48AapD) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [We Don't Wanna Talk](https://open.spotify.com/album/7D1VbhHo0WIsmsgkxcX3io) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Hate That I Love Your Love](https://open.spotify.com/track/1Bx2fRCPbNMf8AFgasOT3i) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Razzle](https://open.spotify.com/album/76jhxPZPgnxpfmK9EGoYEc) | 2:20 |
 | 100 | [you're the one to blame](https://open.spotify.com/track/1jmQZK2rhRyFuXSoWHY955) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [you're the one to blame](https://open.spotify.com/album/3P8MUep1suyTtd4WI0pQft) | 2:31 |
 
-Snapshot ID: `MCxjYmUxZmFkZDZiZmMwMzczNGNiNjY5ODUzYWJiNzAyZmNmYjc4YzUy`
+Snapshot ID: `MCw3MDgyM2FmZGI0NjhjYzVlYjc3ZTFmZDdkODMxMjVmZWM0ZDI2MzM1`

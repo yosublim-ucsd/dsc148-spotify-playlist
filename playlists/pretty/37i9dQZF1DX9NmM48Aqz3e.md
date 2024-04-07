@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Favourites from Canadians who dominated the 1990s\. Cover: Alanis Morissette
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,911 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,932 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 99 | [If I Fall](https://open.spotify.com/track/5PAz50Dy3KT9vUlnZEpETG) | [Tara MacLean](https://open.spotify.com/artist/1It4wk41Lhrspxd3awN9FJ) | [Passenger](https://open.spotify.com/album/5ATi55lQ2cXPiSG0yyWuZ2) | 4:09 |
 | 100 | [apparitions](https://open.spotify.com/track/6H7bfOGDhdJB5ejjFMWUTz) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Beautiful Midnight](https://open.spotify.com/album/7ljqmefDOpPyqYswrk6Uc4) | 5:12 |
 
-Snapshot ID: `MCwxYmQ1ODY1OTk5ODg5YzUyY2Q3MDE1Y2MwNmM0MDM5N2Y5NWY2MGMy`
+Snapshot ID: `MCw5NzkwZGJkMTU5OWVlNmNjYjBiN2U5ZTM1MTJiMjZkMTE0ZjA2MDZm`

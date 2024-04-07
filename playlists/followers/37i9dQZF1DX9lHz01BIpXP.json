@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 1481,
+  "2024-04-07": 1483,
   "date_first_scraped": "2022-10-01",
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=000QE8w3TOigD6pbhwU2-A\">Ziggy4x</a> ",
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC?si=0xn0w0l4Ry25AXy2NFJmFQ\">Benjamen</a> ",
   "name": "Afrikaanse Hip Hop",
   "tracks": [
     {
@@ -452,6 +452,24 @@
     },
     {
       "album": {
+        "name": "Consistent",
+        "url": "https://open.spotify.com/album/6WcqsfGIEelzpkHXDaUTAy"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128026,
+      "name": "Consistent",
+      "url": "https://open.spotify.com/track/0GxNPXSZMmJ6bUm1Xkv0Yo"
+    },
+    {
+      "album": {
         "name": "Da Money",
         "url": "https://open.spotify.com/album/3adAOGcOj3SiDgZcExb9bN"
       },
@@ -647,6 +665,24 @@
       "duration_ms": 178506,
       "name": "Doen Jou Ding (feat. Early B & Justin Vega)",
       "url": "https://open.spotify.com/track/0gWseyvxR8h0bAf1YjPBru"
+    },
+    {
+      "album": {
+        "name": "Doen Net Jou Ding",
+        "url": "https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe"
+      },
+      "artists": [
+        {
+          "name": "Benjamen",
+          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185395,
+      "name": "Doen Net Jou Ding",
+      "url": "https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2"
     },
     {
       "album": {
@@ -1337,6 +1373,24 @@
       "duration_ms": 239989,
       "name": "Koue Bier",
       "url": "https://open.spotify.com/track/76jO6pxWKg26cKQUPpyH3c"
+    },
+    {
+      "album": {
+        "name": "Laaste Hond",
+        "url": "https://open.spotify.com/album/1wbXY8vdl8zqVPqyr4L4RK"
+      },
+      "artists": [
+        {
+          "name": "C.M.T",
+          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181812,
+      "name": "Laaste Hond",
+      "url": "https://open.spotify.com/track/6m54uxr3viaN4w6NfSj3YR"
     },
     {
       "album": {

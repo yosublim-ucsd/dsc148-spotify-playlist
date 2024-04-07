@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 28563,
+  "2024-04-07": 28573,
   "date_first_scraped": "2022-09-09",
-  "description": "La playlist del jazz italiano, passato e presente. Cover: 72-HOUR POST-FIGHT",
+  "description": "La playlist del jazz italiano, passato e presente. Cover: Studio Murena",
   "name": "Jazz Italia",
   "tracks": [
     {
@@ -7387,7 +7387,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 242645,
       "name": "Randagio",
       "url": "https://open.spotify.com/track/5w4Hm7e56SFJP1bMPB029u"
@@ -8803,6 +8803,32 @@
       "duration_ms": 271952,
       "name": "The Path",
       "url": "https://open.spotify.com/track/52q4UWhfwUEsPUuHbyLnhG"
+    },
+    {
+      "album": {
+        "name": "Piranha",
+        "url": "https://open.spotify.com/album/7ClVqTxXtauvva3EFc6Hg8"
+      },
+      "artists": [
+        {
+          "name": "Federico Calcagno",
+          "url": "https://open.spotify.com/artist/6fejDlo0knbJLVEMCDDQzh"
+        },
+        {
+          "name": "Filippo Rinaldo",
+          "url": "https://open.spotify.com/artist/2rYvD7HhexcdgeN92sPu84"
+        },
+        {
+          "name": "Stefano Grasso",
+          "url": "https://open.spotify.com/artist/6blOBQD8ZfIQVde5P06brX"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312752,
+      "name": "The Rite of Strings",
+      "url": "https://open.spotify.com/track/3A4MpJPyfqNeO7Wm4y1NNP"
     },
     {
       "album": {

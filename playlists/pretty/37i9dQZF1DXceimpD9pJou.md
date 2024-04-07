@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:45ofU8JjddtvjfP1UXV7um">Ayrton Day</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,743 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,911 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 26 | [Tu Amor por Mí](https://open.spotify.com/track/5tmoa1UpQiTlC1gFSpFxvc) | [Emi Cantú](https://open.spotify.com/artist/0ylFwnceqgOCxLj84Iiv1T) | [Gracia Sobre Gracia](https://open.spotify.com/album/3eZRYHChaQQsQu1F18xEla) | 4:58 |
 | 27 | [No Todo Terminó en la Cruz](https://open.spotify.com/track/06ssKx6DfazYuQzXtNp3Z2) | [Semillas De Vida](https://open.spotify.com/artist/5wzQXPEWdkh3PCkxoceoP2) | [No Todo Terminó en la Cruz](https://open.spotify.com/album/09yzhVaJdL4gBcnhKgayhv) | 5:04 |
 | 28 | [Compasión](https://open.spotify.com/track/6v9FpgfRCaRuklqnIVJkZM) | [Fernando Durso](https://open.spotify.com/artist/6YVjcjeMD6ljmqBfo6L6vC) | [Compasión](https://open.spotify.com/album/3BI8ExcG0XqaSvlEWIpWgw) | 3:57 |
-| 29 | [Suelto \(I give you my dreams\)](https://open.spotify.com/track/0vrKtAUNi7cyaWmYlcm41O) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Suelto \(I give you my dreams\)](https://open.spotify.com/album/1xrugty1f3HPpYITsbHatD) | 3:48 |
+| 29 | [Suelto \(I give you my dreams\)](https://open.spotify.com/track/0vrKtAUNi7cyaWmYlcm41O) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Suelto \(I give you my dreams\)](https://open.spotify.com/album/1xrugty1f3HPpYITsbHatD) | 3:48 |
 | 30 | [El Dios De Lo Imposible \- Live](https://open.spotify.com/track/4MNQonR3jV5gp70KqWu3d3) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [El Dios de lo imposible \(Live\)](https://open.spotify.com/album/160ozK0qNJp7JPXzkvxvG7) | 6:01 |
 | 31 | [Apuestas](https://open.spotify.com/track/63MzOQMNemHoTQ13JJmlOJ) | [Barajas](https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw), [Jaime Barceló](https://open.spotify.com/artist/28UO8tynmvF8KvZWBa0iI1), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Apuestas](https://open.spotify.com/album/4eXCDIH2oZ9hk8sNg6IYWA) | 5:24 |
 | 32 | [El Pecador](https://open.spotify.com/track/7bOKAg14G73JrpAmoKOWLg) | [Gpo El Tiempo](https://open.spotify.com/artist/40A7N1vaaoVjQkTMukUAYn), [El Tiempo](https://open.spotify.com/artist/4mKF9sU49S24j9spalTw4y) | [El Pecador](https://open.spotify.com/album/3zAU3t2Tpy9NuiBLt2diKo) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Eres Hermoso \- Live](https://open.spotify.com/track/1BMkurQozHjdS39qHMWAyF) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Dame A Cristo \(Live\)](https://open.spotify.com/album/3nHY9HT1qs3GZlweqB7wbF) | 10:41 |
 | 100 | [Digno Es El Cordero \- Live](https://open.spotify.com/track/51Lh6dO9lUHFtwSWFj8Rkr) | [Humillé](https://open.spotify.com/artist/2j15s5SPI9yS6X7YGPhd22), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Digno Es El Cordero \(Live\)](https://open.spotify.com/album/4FxldtLoiWoifDgHxN0wCr) | 16:05 |
 
-Snapshot ID: `MCxjNTRkNmMwMDQ1OWVjNTYzY2EyMDA5ZWUzZTRmY2Q3NGZjOWVhYTlh`
+Snapshot ID: `MCw3ODZiNDNlMWIwODllOThmNmM3Mzc4Y2E3NTJjODU3MjhiZmI0ZTc1`

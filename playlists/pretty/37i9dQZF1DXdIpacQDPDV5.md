@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: David Guetta and OneRepublic
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,037 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,059 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 69 | [You Know](https://open.spotify.com/track/60xgrlVs9s2PVnnde7MzKy) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Kiinjo](https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ) | [You Know](https://open.spotify.com/album/0j7nNDOyfkzumsr9EJ9SHx) | 3:09 |
 | 70 | [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 |
 
-Snapshot ID: `MCwyNDlkNmZkOTAxMmE3Zjg0ZjFjMzZkOTUwNWJjZWM4MTJjY2I3NjNk`
+Snapshot ID: `MCxmNWQ0MGJlYWMwYWQzYWI3Y2JhZTRlNjFhMjgyZDQzZjViNTFlZTE0`

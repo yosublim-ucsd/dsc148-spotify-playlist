@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 701914,
+  "2024-04-07": 702397,
   "date_first_scraped": "2022-01-02",
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra & Ulises Bueno.",
   "name": "100% Cuarteto",
@@ -883,6 +883,28 @@
       "duration_ms": 303253,
       "name": "Beso a beso",
       "url": "https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS"
+    },
+    {
+      "album": {
+        "name": "Buena Vida",
+        "url": "https://open.spotify.com/album/0CQ1aqCKrx6aEJGbZnsaJu"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142463,
+      "name": "Buena Vida",
+      "url": "https://open.spotify.com/track/4pX3kxNJoNdGRH36OYN6PV"
     },
     {
       "album": {
@@ -7527,7 +7549,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 147096,
       "name": "Tututu Tatata",
       "url": "https://open.spotify.com/track/6j6d74YdMpWY2jRGeMzyCs"

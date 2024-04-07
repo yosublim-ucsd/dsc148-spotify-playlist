@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring J\. Cole, Doja Cat, GloRilla and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,936 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,068 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 33 | [Johnnie Talkin'](https://open.spotify.com/track/7dXqP6x5t36YyQx9IJ8hsE) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [u r not alone](https://open.spotify.com/album/11vXzqsd1aSaEBcZvd7BhQ) | 3:15 |
 | 34 | [Beautiful Life \(feat\. 38 Spesh & Jay Worthy\)](https://open.spotify.com/track/6lKRzRSizlPqAnHSAALuqG) | [Jay Exodus](https://open.spotify.com/artist/5dgpDskNSWSGt4CfF3uEmA), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q) | [Beautiful Life \(feat\. 38 Spesh & Jay Worthy\)](https://open.spotify.com/album/5FpBZuKzH03Q38TG6crrB4) | 4:13 |
 | 35 | [WHAT SHE LIKE](https://open.spotify.com/track/0udoD0HmyR5N9Si4Wmn0FM) | [EliWTF](https://open.spotify.com/artist/2mD9arUCF7DL6O9ITxyyBN), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [WHAT SHE LIKE](https://open.spotify.com/album/1RX9exE0QgsMCm2x7EfaNM) | 1:51 |
-| 36 | [Mental \(feat\. Fivio Foreign\)](https://open.spotify.com/track/0cyCEPUHmqDkH0YTN4AI13) | [Gino Mondana](https://open.spotify.com/artist/2vsRoBbScJXFoPggL3co4M), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Mental \(feat\. Fivio Foreign\)](https://open.spotify.com/album/1vO5oSqKgwoCGkaigTNHtA) | 3:59 |
+| 36 | [Mental \(feat\. Fivio Foreign\)](https://open.spotify.com/track/0cyCEPUHmqDkH0YTN4AI13) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Gino Mondana](https://open.spotify.com/artist/2vsRoBbScJXFoPggL3co4M) | [Mental \(feat\. Fivio Foreign\)](https://open.spotify.com/album/1vO5oSqKgwoCGkaigTNHtA) | 3:59 |
 | 37 | [IJWSM](https://open.spotify.com/track/71Vmg0nRrXGUwQfvd8ndKs) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR) | [Money Power Respect](https://open.spotify.com/album/5ERmx0FEWvDNAejDgUi37W) | 3:00 |
 | 38 | [Dexter's Laboratory](https://open.spotify.com/track/7vBR4aZj82YkOwiTPIAaHq) | [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Dexter's Laboratory](https://open.spotify.com/album/5NVfsyoUeqWDpgvyzbUvkh) | 2:09 |
 | 39 | [Beautiful Madness](https://open.spotify.com/track/3ztxnRagH23y9W5J1jdjUY) | [Wale the Sage](https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD) | [Beautiful Madness](https://open.spotify.com/album/50vg1WAgdsvSdGfqydIqlm) | 2:59 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [how many?](https://open.spotify.com/track/6fLU1fYLAemn8sBqIfNEB0) | [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [everything is obvious](https://open.spotify.com/album/00o4niYKMz7fC6yB45tWRt) | 1:26 |
 | 49 | [Kill The Static](https://open.spotify.com/track/3fbi5mSUuu0rRme7W4BQxl) | [Tino Szn](https://open.spotify.com/artist/5aQ4epm9xnqB7ZKfnEILCB) | [Kill The Static](https://open.spotify.com/album/4dzqasRu3oivUGAKtM8dXQ) | 3:25 |
 
-Snapshot ID: `MCxlY2JkMjQ3YThkYjI0YTljODlkYzBkYjRiYjUxMzA5MDAxY2ZmOGJk`
+Snapshot ID: `MCw3MDRiMTRiODA2N2ZiODMzNGZhODI4NDEwMWMxNGExNjU3MjYxNjVk`

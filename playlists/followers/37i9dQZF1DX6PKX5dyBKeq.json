@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 1362197,
+  "2024-04-07": 1362324,
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Jimmy",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Aystar, Skrapz & Potter Payper",
   "name": "Rap UK",
   "tracks": [
     {
@@ -4639,6 +4639,24 @@
       "duration_ms": 160000,
       "name": "Black Beatles",
       "url": "https://open.spotify.com/track/5NSMTglRdvEU96yrUuj6Mc"
+    },
+    {
+      "album": {
+        "name": "Black Joy",
+        "url": "https://open.spotify.com/album/5yEOjQ0C0lpam1A2aDzCCh"
+      },
+      "artists": [
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233406,
+      "name": "Black Joy",
+      "url": "https://open.spotify.com/track/730EN7hE2PKSnYsvD22Dje"
     },
     {
       "album": {
@@ -14002,6 +14020,32 @@
     },
     {
       "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234586,
+      "name": "H.Y.B. (feat. Bas & Central Cee)",
+      "url": "https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6"
+    },
+    {
+      "album": {
         "name": "Haaland",
         "url": "https://open.spotify.com/album/0r9mdB0FDi5kbcX5ktzbNK"
       },
@@ -14171,6 +14215,24 @@
       "duration_ms": 156000,
       "name": "Hate You, I Love You",
       "url": "https://open.spotify.com/track/6ZLc2SAYbyqXTH4pZOfYVL"
+    },
+    {
+      "album": {
+        "name": "He Called Me",
+        "url": "https://open.spotify.com/album/01dvDV3i7uXgclshiTge2G"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222172,
+      "name": "He Called Me",
+      "url": "https://open.spotify.com/track/5YREdtC6Yaj7chOrfEHt0n"
     },
     {
       "album": {
@@ -16436,6 +16498,24 @@
     },
     {
       "album": {
+        "name": "Jail Call",
+        "url": "https://open.spotify.com/album/29RxxEHZchaxyZQKbZrRAA"
+      },
+      "artists": [
+        {
+          "name": "E1 (3x3)",
+          "url": "https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185160,
+      "name": "Jail Call",
+      "url": "https://open.spotify.com/track/19wSR6AbcbTLXNEGJqqlmF"
+    },
+    {
+      "album": {
         "name": "Jayda Wayda",
         "url": "https://open.spotify.com/album/3E7Ew2TNInCgygf3XA9pGs"
       },
@@ -17285,10 +17365,36 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 222000,
       "name": "Kop That Shit",
       "url": "https://open.spotify.com/track/0CLjza4QVBvks2DS5TCGpm"
+    },
+    {
+      "album": {
+        "name": "Kop That Shit (Remix)",
+        "url": "https://open.spotify.com/album/3ssxgR4LGUGxhQ7Q7YFV1Z"
+      },
+      "artists": [
+        {
+          "name": "Aystar",
+          "url": "https://open.spotify.com/artist/4HpnjNnqIjwItltmZJliMy"
+        },
+        {
+          "name": "Skrapz",
+          "url": "https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY"
+        },
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223746,
+      "name": "Kop That Shit - Remix",
+      "url": "https://open.spotify.com/track/4qYJXpNF9LZqawy9JjEiVm"
     },
     {
       "album": {
@@ -18249,7 +18355,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 188526,
       "name": "Like Magic",
       "url": "https://open.spotify.com/track/2r3usZIRwyBbn8pQEbu4tg"
@@ -19013,6 +19119,24 @@
       "duration_ms": 167172,
       "name": "Louis Vuitton/Lost Hope",
       "url": "https://open.spotify.com/track/2UVVeXn59BIiBtgnYeygG7"
+    },
+    {
+      "album": {
+        "name": "Love Don't Live Here",
+        "url": "https://open.spotify.com/album/0obUJFiKbvXFY9BygOIATx"
+      },
+      "artists": [
+        {
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149895,
+      "name": "Love Don't Live Here",
+      "url": "https://open.spotify.com/track/3BAk0wbzxqCsL1IXg8Lpgg"
     },
     {
       "album": {
@@ -32595,7 +32719,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 207454,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
@@ -35235,7 +35359,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 133280,
       "name": "Who's Realer?",
       "url": "https://open.spotify.com/track/0LnRayhy7VQylz04hhQV0P"

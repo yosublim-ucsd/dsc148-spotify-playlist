@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 189270,
+  "2024-04-07": 189459,
   "date_first_scraped": "2022-05-22",
   "description": "Taking it back to the 2000s. Cover: Drake",
   "name": "I Love My 2000s Hip-Hop",
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 313400,
       "name": "EveryGirl In The World",
       "url": "https://open.spotify.com/track/1EjzkhMFJgl08Qkn2uDV1d"
@@ -1941,8 +1941,8 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
-      "duration_ms": 256399,
+      "date_removed": null,
+      "duration_ms": 256400,
       "name": "Mafia Music",
       "url": "https://open.spotify.com/track/4IgP2sTH5RYOpx9gbHQyMT"
     },
@@ -1963,6 +1963,28 @@
       "duration_ms": 334773,
       "name": "Magic Stick",
       "url": "https://open.spotify.com/track/4SVLlDIeY6w5axpMVhy0qH"
+    },
+    {
+      "album": {
+        "name": "Deeper Than Rap",
+        "url": "https://open.spotify.com/album/1V7LkBaQoxo0wbd0iKkn5a"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257480,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/2rz6VejmNOpW1alXsDERp1"
     },
     {
       "album": {
@@ -2763,7 +2785,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 228933,
       "name": "Sittin' Sidewayz (feat. Big Pokey)",
       "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"

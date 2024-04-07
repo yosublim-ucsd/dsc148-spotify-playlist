@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:19TPpTWkgX13Qc2stbqVoP">Terrian</a>
 
-519 songs - 1 day 6 hr 51 min
+520 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Coming Back](https://open.spotify.com/track/2wNRIrTy0HPWNziz0S4qp4) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl) | [Coming Back](https://open.spotify.com/album/0ZMC35dN3tfvrgD19tA3mt) | 4:04 | 2023-03-16 |  |
 | [Communion](https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Fractioned Heart](https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL) | 4:58 | 2020-12-18 | 2023-02-19 |
 | [confession](https://open.spotify.com/track/5Qz5MH0tnp5Hu1WNc7ZC13) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl), [bamblume](https://open.spotify.com/artist/3ksErgBScGFWxtkUADzJPv) | [confession](https://open.spotify.com/album/0p4tXSrdjADZe81kIprf8i) | 3:21 | 2023-02-24 | 2023-04-09 |
+| [Conversations](https://open.spotify.com/track/2M346INkn9O8aiIjbvaeSe) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [Conversations](https://open.spotify.com/album/1L6zwURHsBkNY1d5InJNjk) | 3:06 | 2024-01-26 |  |
 | [Cover Me](https://open.spotify.com/track/0kgaxUdgR0wOgVxnpyllLY) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9) | [Kingdom Come](https://open.spotify.com/album/22NJqbQbKWrHhi3gyPZeeb) | 4:41 | 2023-02-24 | 2023-04-09 |
 | [Crane Lake](https://open.spotify.com/track/2NiXrSahkXwPb30oHDEo25) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Before Our Time](https://open.spotify.com/album/4Iapc5RLmgiXzUy9k44YBc) | 3:20 | 2020-12-18 | 2022-07-29 |
 | [Daffodil Floors](https://open.spotify.com/track/3FKs8DcaMPhltqeueu94GT) | [Mandi Mapes](https://open.spotify.com/artist/4VIZatfDlVCKdndcziajoA) | [Daffodil Floors](https://open.spotify.com/album/0wdAvZLNJMOBTSmjwUVspn) | 4:26 | 2023-02-19 | 2023-04-09 |
@@ -399,7 +400,7 @@
 | [Somebody Else](https://open.spotify.com/track/5EaDQlO1mSdyDhgmmV3ECo) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n), [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [Somebody Else](https://open.spotify.com/album/3qSl2EUB9MHWNZ7blQVOL4) | 3:09 | 2023-04-21 |  |
 | [Something You Once Knew](https://open.spotify.com/track/5Nbim16j7SNmatgnUmA8D7) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A) | [Something You Once Knew](https://open.spotify.com/album/45a35sVDNqX5DpTEAwisRl) | 1:38 | 2023-02-24 | 2023-03-11 |
 | [Somewhere between](https://open.spotify.com/track/5aVklpCL6bUVQcGQgOuIH5) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Somewhere between](https://open.spotify.com/album/2lFKtJILpor4Z7DN0XNKS1) | 3:53 | 2023-04-07 |  |
-| [Song Of Victory](https://open.spotify.com/track/0SpUmGswitajAi8UBshRqD) | [Jack Cassidy](https://open.spotify.com/artist/4mkHQk6HAQc82NESFcw4bs) | [Song Of Victory](https://open.spotify.com/album/2eXAQQqcOQXzk53Q4qT8Ti) | 4:10 | 2024-01-26 |  |
+| [Song Of Victory](https://open.spotify.com/track/0SpUmGswitajAi8UBshRqD) | [Jack Cassidy](https://open.spotify.com/artist/4mkHQk6HAQc82NESFcw4bs) | [Song Of Victory](https://open.spotify.com/album/2eXAQQqcOQXzk53Q4qT8Ti) | 4:10 | 2024-01-26 | 2024-04-07 |
 | [Springtime](https://open.spotify.com/track/3u3wIwedK7lT55qBqZ1M1s) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Springtime](https://open.spotify.com/album/62xXWkJPnP0bFdwEspp0CT) | 4:14 | 2020-12-18 | 2022-07-29 |
 | [Springtime](https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let the Ground Rest](https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7) | 4:14 | 2020-12-18 | 2023-02-19 |
 | [Stained Glass](https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Stained Glass](https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN) | 5:17 | 2020-12-18 | 2023-02-19 |

@@ -4,7 +4,7 @@
 
 > R&B of the moment by the artists of the future\. Cover: Tanerélle
 
-856 songs - 1 day 19 hr 53 min
+857 songs - 1 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,7 +616,8 @@
 | [Racing Home](https://open.spotify.com/track/0iUtGIaO5gGI10zPD5qkh4) | [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Racing Home](https://open.spotify.com/album/3hQBmJ9haqOVdp0xt7xCHi) | 2:23 | 2022-10-28 | 2023-01-21 |
 | [Raining Tomorrow](https://open.spotify.com/track/54Zc1szRq7C2TdI9bDtht9) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Sorrow At Sunrise](https://open.spotify.com/album/0rRIa6j19dKRwvAo9Oxe23) | 3:48 | 2023-10-06 | 2024-01-11 |
 | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm) | 4:10 | 2024-02-16 |  |
-| [Real](https://open.spotify.com/track/7cIjKWHZvMaDFmSUaUdN7W) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [6.9.4.2](https://open.spotify.com/album/5o1xMeUQ9cLNq9rX5ftrrx) | 2:20 | 2023-06-30 |  |
+| [Real](https://open.spotify.com/track/5hNcK0jMByYyD3cc6h9KmM) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [6.9.4.2](https://open.spotify.com/album/4uF2fu9lFgrFNjTVxLTAxT) | 2:20 | 2024-01-10 |  |
+| [Real](https://open.spotify.com/track/7cIjKWHZvMaDFmSUaUdN7W) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [6.9.4.2](https://open.spotify.com/album/5o1xMeUQ9cLNq9rX5ftrrx) | 2:20 | 2023-06-30 | 2024-04-07 |
 | [Real](https://open.spotify.com/track/0cgIQxMjFoxP2lpV21f4RO) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Real](https://open.spotify.com/album/1gyzgy5h5zBL4KlcKDTyX2) | 4:07 | 2022-03-05 | 2022-04-09 |
 | [Real Love](https://open.spotify.com/track/1de0B7PogPYdil6GbJNC5y) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [We're Gonna Be Just Fine](https://open.spotify.com/album/4n0an2l1BBvhFglpv1JTkM) | 3:09 | 2022-07-15 | 2022-10-08 |
 | [Real Onez](https://open.spotify.com/track/3M7hnKHK5MQggNdRI6Auyo) | [Ej Jackson](https://open.spotify.com/artist/0fC3nAXn0jAPHn0rVMqxsw), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Real Onez](https://open.spotify.com/album/1JARn4qr09JepGPLoirw7L) | 3:39 | 2022-07-01 | 2022-07-16 |

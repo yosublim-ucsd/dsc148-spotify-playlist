@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 71330,
+  "2024-04-07": 74755,
   "date_first_scraped": "2024-03-30",
   "description": "A playlist for the eclipse. Photo credits: NASA",
   "name": "sonder",
@@ -101,6 +101,24 @@
       "duration_ms": 116013,
       "name": "All We Can't See",
       "url": "https://open.spotify.com/track/7MQxjq3mF74zRFUVx3C4K5"
+    },
+    {
+      "album": {
+        "name": "apathy",
+        "url": "https://open.spotify.com/album/1N99dokdMWpcIDa9r6BqYk"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117073,
+      "name": "apathy",
+      "url": "https://open.spotify.com/track/6WUgqFZhbNRaeBuzG2ahfJ"
     },
     {
       "album": {
@@ -349,7 +367,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 83621,
       "name": "Fe\u0301e - Just Piano Version",
       "url": "https://open.spotify.com/track/56dYf2cZ2HNeyVN3Tuwj5l"
@@ -403,7 +421,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 118560,
       "name": "Gods creation",
       "url": "https://open.spotify.com/track/5QOB9GCEKefsHUO2SdH3hw"
@@ -551,10 +569,32 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 163783,
       "name": "i tried to make it work for weeks",
       "url": "https://open.spotify.com/track/1cGGhOlAhGp7spONIhU6HJ"
+    },
+    {
+      "album": {
+        "name": "Instrumental Relics",
+        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
+      },
+      "artists": [
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277710,
+      "name": "I'm God",
+      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
     },
     {
       "album": {
@@ -573,6 +613,24 @@
       "duration_ms": 124830,
       "name": "I'm Going Insane",
       "url": "https://open.spotify.com/track/7k7OnHjIds0DI1utuzrEIT"
+    },
+    {
+      "album": {
+        "name": "Idea 15",
+        "url": "https://open.spotify.com/album/3wUrxJDVqMv50SEfvTsHHA"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Idea 15",
+      "url": "https://open.spotify.com/track/7MJ8g0egEkhvGu44IamrDE"
     },
     {
       "album": {
@@ -785,7 +843,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 147096,
       "name": "Killswitch Lullaby",
       "url": "https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE"
@@ -1052,6 +1110,24 @@
     },
     {
       "album": {
+        "name": "hurry up mixtape",
+        "url": "https://open.spotify.com/album/3fCTiizAiiH3S9cBn5Gad6"
+      },
+      "artists": [
+        {
+          "name": "Alvedon",
+          "url": "https://open.spotify.com/artist/6nFwmnSA3mMtoePROXi5LT"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214588,
+      "name": "retire (final)",
+      "url": "https://open.spotify.com/track/1hwX5UMu9aUV44INM8GdPv"
+    },
+    {
+      "album": {
         "name": "Seconds / H\u00f3lar",
         "url": "https://open.spotify.com/album/4uVGQKa9PFkytxLsLDkLJ6"
       },
@@ -1092,6 +1168,24 @@
     },
     {
       "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
+      "album": {
         "name": "Shelly",
         "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
       },
@@ -1103,7 +1197,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 170892,
       "name": "Steeeam",
       "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
@@ -1161,6 +1255,24 @@
       "duration_ms": 77612,
       "name": "The Sound of Myself",
       "url": "https://open.spotify.com/track/78RlUHcdk8KpGb257KXFFa"
+    },
+    {
+      "album": {
+        "name": "Inception (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275556,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown"
     },
     {
       "album": {
@@ -1247,7 +1359,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 254116,
       "name": "Warsh_Tippy and Zelda",
       "url": "https://open.spotify.com/track/3R0jMlEvot7UYLeulRfl8E"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,569 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,633 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 40 | [Midnight Sunset](https://open.spotify.com/track/02tkWCsZuGHuvvW0rGTROf) | [Massimo Varini](https://open.spotify.com/artist/7fNVddYBEaAXTKg4lwRJiz) | [Midnight Sunset](https://open.spotify.com/album/0qluTNOPcqmRBZDvVBoHiX) | 3:33 |
 | 41 | [Earthguest](https://open.spotify.com/track/7wVAS3INpT4el1p6FJpY3x) | [Steroid Puppets](https://open.spotify.com/artist/1v39hJJ604GsEZWEqhrTko), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Earthguest](https://open.spotify.com/album/42bzv7lW3nN0jxt9ZG1ZVR) | 8:59 |
 | 42 | [Primal Feels](https://open.spotify.com/track/32Yc8905BkRVOKhBpHhuK3) | [Nili Brosh](https://open.spotify.com/artist/0ODUQ3W9ljLNLJELvO5ysk) | [Primal Feels](https://open.spotify.com/album/6Vn52SWI9Ymftd9Ml6nWYV) | 4:46 |
-| 43 | [Same Sun Shines](https://open.spotify.com/track/3PcM0Wc601FYPjLNhbfUme) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Soul Shifter](https://open.spotify.com/album/2kkD4GgJc9OxQ0vheXnCNL) | 4:44 |
+| 43 | [Same Sun Shines](https://open.spotify.com/track/36bYlpdbPfwne3ISGdC0P8) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Soul Shifter](https://open.spotify.com/album/4UwAo136F4TE0qPp8imI77) | 4:44 |
 | 44 | [The 12th Hour](https://open.spotify.com/track/1S7LDIJFVGYDZVuuU5IbD7) | [Marco Sfogli](https://open.spotify.com/artist/3DH5T3XE9zij8BRWAxW6SF) | [Homeland](https://open.spotify.com/album/3qpPGP9Zmkab4GEMSLyWLl) | 4:43 |
 | 45 | [Dunia Duara](https://open.spotify.com/track/0LwSB5KbwWcDu1HbFip27U) | [Chris Buck](https://open.spotify.com/artist/6MKMSAadRiC0CB5D2vEtDn) | [3 Crows](https://open.spotify.com/album/7uGPN9GefcM4WEMhWAMcms) | 5:33 |
 | 46 | [Crispy](https://open.spotify.com/track/2vk1jBINwK3jVquZ9RW84W) | [Prashant Aswani](https://open.spotify.com/artist/6SU64uhdQiF86cThcWLXy2) | [Visions](https://open.spotify.com/album/2sYv87uNv8EKyo3x5MFiIp) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 99 | [Tumescent](https://open.spotify.com/track/47XVn2ciuhWqHorHdWn89D) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/37Ge505lCbErq9PAjkKEyd) | 4:02 |
 | 100 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 |
 
-Snapshot ID: `MCwzYjk3NTMyNDYzZjYxY2E0ODU0ZTFhODA5NGNlOTk2OGY5NzAzYmJj`
+Snapshot ID: `MCw4NzY1MWYyNTlhNThiNWI3ZjUzMTQ5MTIxMDdiZjY0ZTNlN2I1ZjJk`

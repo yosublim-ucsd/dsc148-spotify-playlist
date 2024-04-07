@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Pony Bravo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,847 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,866 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 46 | [CYA](https://open.spotify.com/track/35oXt4LFYI83b9Qrin0kcL) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Springs Eternal](https://open.spotify.com/album/0uJRNa7jNGJhZLCFDDo44B) | 3:25 |
 | 47 | [Cosas de la edad \- Aniversario](https://open.spotify.com/track/7DGblEJrq5Lkd7Ml5YOQMq) | [Modestia Aparte](https://open.spotify.com/artist/6yPTzaskdKAAlLMdnw9IkM), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR), [Conchita](https://open.spotify.com/artist/0TPv1jIhKn4d0boGDxy4LI) | [Cosas de la edad \(Aniversario\)](https://open.spotify.com/album/1K4fZ8pX7hvMj2FOQx1KsS) | 2:27 |
 | 48 | [Demoliendo Hoteles \- En Vivo](https://open.spotify.com/track/3qjU5q5CJzhVFWz4K1Bfly) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En Vivo Estadio Obras](https://open.spotify.com/album/7yoIFZZ7ilOycR23bQQLse) | 3:13 |
-| 49 | [Vida de locos](https://open.spotify.com/track/0iOA58UWDwq5jilLLOhR30) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Adrià Salas](https://open.spotify.com/artist/1c7dIKNsUH2LZ998pvirXH) | [Baile Infinito](https://open.spotify.com/album/1zmmya1G0UWUrDVyZ2MssT) | 3:15 |
+| 49 | [Vida de locos](https://open.spotify.com/track/4Hb9R572ZZntBXJFLk1oou) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Adrià Salas](https://open.spotify.com/artist/1c7dIKNsUH2LZ998pvirXH) | [Vida de locos](https://open.spotify.com/album/4MNcfvhB5uKmor2POyfIqY) | 3:15 |
 | 50 | [Maldito](https://open.spotify.com/track/01S2FhxrnSBavSoDb5NH6p) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT), [Bulberizer](https://open.spotify.com/artist/1EfQ2xkvSqlF2e86zK0xQc) | [Bulberizer / Bulbo Raquídeo](https://open.spotify.com/album/6cD7ZctaLWVlsN8eUfxEmD) | 3:12 |
 
-Snapshot ID: `MCw1NjY0ZThiZTdlYzEzYjAzZTBjZGViNGYzMjI2OTE2ODJjODE5OWY2`
+Snapshot ID: `MCw0ZjBlZTJiYmIyODgxMzk3M2NjYzY1YWQ5YTU3OThlOGEyMDljODVh`

@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 7847173,
+  "2024-04-07": 7853388,
   "date_first_scraped": "2022-01-10",
   "description": "the beat of your drift",
   "name": "phonk",
@@ -793,7 +793,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 131454,
       "name": "ANUBIS",
       "url": "https://open.spotify.com/track/1aqP9g3lLR8bpFtkCTm41N"
@@ -2503,7 +2503,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 86160,
       "name": "classical phonk",
       "url": "https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl"
@@ -4912,6 +4912,24 @@
     },
     {
       "album": {
+        "name": "FUNK ESTRANHO",
+        "url": "https://open.spotify.com/album/71m7v6UCb6PldBrt5AYJ0I"
+      },
+      "artists": [
+        {
+          "name": "ALXIKE",
+          "url": "https://open.spotify.com/artist/4SbtvEgtu7QsmFjjBzyV8F"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106400,
+      "name": "FUNK ESTRANHO",
+      "url": "https://open.spotify.com/track/3uFuQuXyUpYOlVkPdVeCCh"
+    },
+    {
+      "album": {
         "name": "Funk of Suffering",
         "url": "https://open.spotify.com/album/2B8qo6AA5g6iPR0DpkjrbB"
       },
@@ -6523,6 +6541,32 @@
       "duration_ms": 146086,
       "name": "Komarovo (DVRST Phonk Remix)",
       "url": "https://open.spotify.com/track/1yqaea9PLO8rttUlcNTlcB"
+    },
+    {
+      "album": {
+        "name": "KRUSH GIRL",
+        "url": "https://open.spotify.com/album/5DeYeVhTwmm35ICdwIPluJ"
+      },
+      "artists": [
+        {
+          "name": "KUTE",
+          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
+        },
+        {
+          "name": "killanoia",
+          "url": "https://open.spotify.com/artist/4Xwsb6LzVsThO9PJIJb4EE"
+        },
+        {
+          "name": "Tokyomane",
+          "url": "https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109615,
+      "name": "KRUSH GIRL",
+      "url": "https://open.spotify.com/track/2m8EJE78SOqsN7YPxNNnZm"
     },
     {
       "album": {

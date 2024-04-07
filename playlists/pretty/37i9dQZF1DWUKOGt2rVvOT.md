@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！已經有兩三年了？高人氣金曲讓你一路聽下去！Cover: 徐佳瑩 \(Lala Hsu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,847 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,947 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [都是你害的](https://open.spotify.com/track/7nxZw7iNneS761fFiN6BMn) | [Fran](https://open.spotify.com/artist/153IGWBrtnwq4YxIvg3zeO), [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [逞強的溫柔](https://open.spotify.com/album/7HYdCAdMsv37uSuQwsNMRo) | 4:29 |
 | 50 | [藍色的你 \(《比悲傷更悲傷的故事》 影集版 插曲\)](https://open.spotify.com/track/0Gxc9ycu9OKcDRrxehcjNm) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 3:57 |
 
-Snapshot ID: `MCxmMjdhODI1NTc3MDU3ZDBhNjM4YmRlMjhlY2E5ODIxOTcyMzM4MmFk`
+Snapshot ID: `MCwyNTYxODNiYzJhZTNmYzZhNjA4MGQ1MjNjNDRmYTExMTUxMGE5ODEz`

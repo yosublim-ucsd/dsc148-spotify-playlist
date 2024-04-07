@@ -1,12 +1,12 @@
 {
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
-  "num_followers": 132687,
+  "num_followers": 132722,
   "original_name": "Retro Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODFjZDI1NTIzYTdhMDZlMzk4Yjc4ZGEyZGIzMWZlM2RkYmRhZDI2",
+  "snapshot_id": "MCw3NjY0Y2RiYzMyMDFhZWM3MGFiZDFlOWVkNmMwMDM4NjlkNmY1MTRh",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -207,8 +207,8 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "The Dip Delivers",
-        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
+        "name": "The Dip",
+        "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
         }
       ],
-      "duration_ms": 174520,
-      "name": "Sure Don't Miss You",
-      "url": "https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2"
+      "duration_ms": 172400,
+      "name": "State Line",
+      "url": "https://open.spotify.com/track/6vDH7DeS588qqrbxDuj6MU"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -235,38 +235,6 @@
       "duration_ms": 197081,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/0loJyuSFr6vVPBQSmLLrrQ"
-    },
-    {
-      "added_at": "2023-07-11 18:58:28",
-      "album": {
-        "name": "Highroad",
-        "url": "https://open.spotify.com/album/70gYt9g5sdmG00ArLq5eIY"
-      },
-      "artists": [
-        {
-          "name": "Sir Woman",
-          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
-        }
-      ],
-      "duration_ms": 230656,
-      "name": "Highroad",
-      "url": "https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Beacon",
-        "url": "https://open.spotify.com/album/4LM0yqf8JFZM0znpmZ3N2x"
-      },
-      "artists": [
-        {
-          "name": "Matt Duncan",
-          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Beacon",
-      "url": "https://open.spotify.com/track/4BzL0gi5iQAEoXvISn95Md"
     },
     {
       "added_at": "2022-12-13 18:45:33",
@@ -287,6 +255,38 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "Beacon",
+        "url": "https://open.spotify.com/album/4LM0yqf8JFZM0znpmZ3N2x"
+      },
+      "artists": [
+        {
+          "name": "Matt Duncan",
+          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Beacon",
+      "url": "https://open.spotify.com/track/4BzL0gi5iQAEoXvISn95Md"
+    },
+    {
+      "added_at": "2023-07-11 18:58:28",
+      "album": {
+        "name": "Highroad",
+        "url": "https://open.spotify.com/album/70gYt9g5sdmG00ArLq5eIY"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "duration_ms": 230656,
+      "name": "Highroad",
+      "url": "https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "Queen Alone",
         "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
       },
@@ -303,8 +303,8 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "The Dip",
-        "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
+        "name": "The Dip Delivers",
+        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
         }
       ],
-      "duration_ms": 172400,
-      "name": "State Line",
-      "url": "https://open.spotify.com/track/6vDH7DeS588qqrbxDuj6MU"
+      "duration_ms": 174520,
+      "name": "Sure Don't Miss You",
+      "url": "https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -855,22 +855,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Healing Tide",
-        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Are You Ready to Love Me?",
-      "url": "https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Nothin Is Easy",
         "url": "https://open.spotify.com/album/5UN24QhVWByLtVW5Wotv5y"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "Healing Tide",
+        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Are You Ready to Love Me?",
+      "url": "https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "The Dip Delivers",
         "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 172863,
-      "name": "O Me O My",
-      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Uncommon Good",
         "url": "https://open.spotify.com/album/29r3Vl3AHVHiYIQB3mwkW7"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 277550,
       "name": "Up Top",
       "url": "https://open.spotify.com/track/1AgKm1bLfkByxpONHlaLLk"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 172863,
+      "name": "O Me O My",
+      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg"
     },
     {
-      "added_at": "2023-12-13 17:43:50",
-      "album": {
-        "name": "Love Lines",
-        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
-      },
-      "artists": [
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "duration_ms": 263297,
-      "name": "Long Goodbye",
-      "url": "https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Wolf Den",
@@ -987,6 +971,22 @@
       "duration_ms": 177906,
       "name": "Take It All",
       "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
+    },
+    {
+      "added_at": "2023-12-13 17:43:50",
+      "album": {
+        "name": "Love Lines",
+        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "duration_ms": 263297,
+      "name": "Long Goodbye",
+      "url": "https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
-      },
-      "artists": [
-        {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
-        }
-      ],
-      "duration_ms": 248526,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
-    },
-    {
       "added_at": "2023-07-11 18:58:28",
       "album": {
         "name": "Look Closer",
@@ -1067,6 +1051,22 @@
       "duration_ms": 211413,
       "name": "Hot Shot",
       "url": "https://open.spotify.com/track/39DKVXSa1NaJXo9Ud4G4Io"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
+      },
+      "artists": [
+        {
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+        }
+      ],
+      "duration_ms": 248526,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/419J8whWlrbG1sA0ezN0IV"
     },
     {
-      "added_at": "2023-07-11 18:58:28",
-      "album": {
-        "name": "A River's Invitation",
-        "url": "https://open.spotify.com/album/6VgqRIhVmPYJwgacWQqhFU"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "When It Was Wrong",
-      "url": "https://open.spotify.com/track/07idVCxylGXwdspLpgxkf7"
-    },
-    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "The Shapes I'm In",
@@ -1187,6 +1171,22 @@
       "duration_ms": 146897,
       "name": "All This Space",
       "url": "https://open.spotify.com/track/0Y36El0k8fS2myogTVGXKP"
+    },
+    {
+      "added_at": "2023-07-11 18:58:28",
+      "album": {
+        "name": "A River's Invitation",
+        "url": "https://open.spotify.com/album/6VgqRIhVmPYJwgacWQqhFU"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 214306,
+      "name": "When It Was Wrong",
+      "url": "https://open.spotify.com/track/07idVCxylGXwdspLpgxkf7"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX"
     },
     {
+      "added_at": "2023-12-13 17:43:50",
+      "album": {
+        "name": "If You Don't Want My Love",
+        "url": "https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 146813,
+      "name": "If You Don't Want My Love",
+      "url": "https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0"
+    },
+    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Underneath the Surface",
@@ -1617,20 +1633,20 @@
       "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
     },
     {
-      "added_at": "2023-12-13 17:43:50",
+      "added_at": "2022-12-13 18:45:33",
       "album": {
-        "name": "If You Don't Want My Love",
-        "url": "https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6"
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
       },
       "artists": [
         {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
         }
       ],
-      "duration_ms": 146813,
-      "name": "If You Don't Want My Love",
-      "url": "https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0"
+      "duration_ms": 204747,
+      "name": "Through It All",
+      "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -1647,22 +1663,6 @@
       "duration_ms": 192745,
       "name": "Written All over My Heart",
       "url": "https://open.spotify.com/track/7BYaW4xBFqsReDyV3KUfDU"
-    },
-    {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 204747,
-      "name": "Through It All",
-      "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
     },
     {
       "added_at": "2021-07-13 21:11:09",

@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-477 songs - 1 day 15 hr 21 min
+478 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [Stuck In Melodies](https://open.spotify.com/track/1wITnMoMLpXEeQOXOjvm37) | [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1) | [Stuck In Melodies](https://open.spotify.com/album/0jwW2bXdLRcRadnRYIws3D) | 3:31 | 2023-08-04 | 2023-08-17 |
 | [Sweet Lies](https://open.spotify.com/track/68wm1ARrXuMYBelE7WnLJw) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR), [SILVELA](https://open.spotify.com/artist/2eA2KAV2sk1RIZe1mbEiFA), [Watt:Silla](https://open.spotify.com/artist/07Nc2L6VqlCXX0vk5pW8ea) | [Sweet Lies](https://open.spotify.com/album/1h1Jejw55iIJa7rBScu6tP) | 3:29 | 2024-02-29 | 2024-03-22 |
 | [Sweet Moment](https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Sweet Moment](https://open.spotify.com/album/56BDudw4Ep7daFvo9tsd10) | 2:54 | 2023-03-03 | 2023-12-01 |
+| [Sweet Moment \- CamelPhat Edit](https://open.spotify.com/track/7mt01juLvUigAvjsCxhN3n) | [Snirco](https://open.spotify.com/artist/4rxN5kgVXRuAICYJoJeajL), [Millero](https://open.spotify.com/artist/1g3D0SFLbUx6nuGgLSuegX), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Sweet Moment](https://open.spotify.com/album/1LWFT40HDxPlJrDLDhGQ7q) | 4:41 | 2024-04-04 |  |
 | [Sweet Surrender](https://open.spotify.com/track/6AYnqhQQeRdLErjV4X999K) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Sweet Surrender](https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W) | 3:11 | 2023-02-04 | 2023-06-01 |
 | [Syren](https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:17 | 2023-08-11 | 2023-11-25 |
 | [Syren](https://open.spotify.com/track/7nj50KCxnSOUGNOvLP0gEn) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Syren](https://open.spotify.com/album/5A7NPffONvtKvxAg91iuEP) | 3:17 | 2023-07-28 | 2023-08-14 |
@@ -414,7 +415,7 @@
 | [Tatanka](https://open.spotify.com/track/7F6B3zGnultHVnJXdNo66j) | [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tatanka](https://open.spotify.com/album/3N5NIDmGT4ZMtqyiOA9okM) | 6:22 | 2023-03-22 | 2023-03-25 |
 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2022-12-28 | 2023-01-06 |
 | [Tension \(feat\. MERYLL\)](https://open.spotify.com/track/0QBQuBJf1xowOhV7lLldc7) | [Maison Ware](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Tension \(feat\. MERYLL\)](https://open.spotify.com/album/5oucec1kxcsbBTE13wQfoJ) | 4:22 | 2023-08-04 | 2023-09-08 |
-| [Termination \- Radio\-Edit](https://open.spotify.com/track/7j6mghgIJz1FYXe9Gw8kqb) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Termination \(Radio\-Edit\)](https://open.spotify.com/album/6GxQv9hlNVAB2G0SpbjQpK) | 4:07 | 2024-01-05 |  |
+| [Termination \- Radio\-Edit](https://open.spotify.com/track/7j6mghgIJz1FYXe9Gw8kqb) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Termination \(Radio\-Edit\)](https://open.spotify.com/album/6GxQv9hlNVAB2G0SpbjQpK) | 4:07 | 2024-01-05 | 2024-04-07 |
 | [Thade](https://open.spotify.com/track/0wMOfxxAqGex1Mf0d4HyPO) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Thade](https://open.spotify.com/album/66T4JSExNeXeVUHg3WCstT) | 4:45 | 2023-10-20 | 2023-11-30 |
 | [The Chase \- Rebūke Remix](https://open.spotify.com/track/2cwfGkfp1XWdfCuPcMjWnK) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [The Chase \(Rebūke Remix\)](https://open.spotify.com/album/28uhTIgM1VgRPfRPoCMtqu) | 3:08 | 2024-01-12 |  |
 | [The Dark Sun](https://open.spotify.com/track/5PYCuH5qC1cUO7vhjw2yFh) | [Passenger 10](https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT) | [The Dark Sun](https://open.spotify.com/album/7iwjcAiaiCmfdSqyKGjMGY) | 3:42 | 2023-10-06 | 2023-12-01 |

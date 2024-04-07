@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que está subiendo en RD\. Foto: Yaisel LM
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,019 likes - 60 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,117 likes - 60 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 48 | [Tu Vera Lío](https://open.spotify.com/track/0GTJfuNoImFQKTRE5zJkYz) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Tu Vera Lío](https://open.spotify.com/album/5l76qsgKpFbVSbvwLQiOgZ) | 1:52 |
 | 49 | [Pok Pok](https://open.spotify.com/track/3naEyuhMhK1fnEVWeWSQsn) | [Wander Love](https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd), [Pio el titoki](https://open.spotify.com/artist/2yIqmykK6KOTqpqg0kLS6y) | [Pok Pok](https://open.spotify.com/album/5rHYYRmHfgJFeGK7Q6inW5) | 2:00 |
 | 50 | [Rikiry Goldito](https://open.spotify.com/track/2RROMdodb9DLWy0FuWgVoM) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Rikiry Goldito](https://open.spotify.com/album/4Nnh6el31NKhVp3YaMuLox) | 2:23 |
-| 51 | [Pa Arriba Pa Abajo](https://open.spotify.com/track/1VqMFrStKS9TMBx33MLuOS) | [LA BABY](https://open.spotify.com/artist/20IoxvON98RdIAusjOeSe6) | [Pa Arriba Pa Abajo](https://open.spotify.com/album/4CVn73EnEAQ60pqJHUSthU) | 1:51 |
+| 51 | [Pa Arriba Pa Abajo](https://open.spotify.com/track/0H5L77CsfQEKqDDGxu3H45) | [La Baby](https://open.spotify.com/artist/4nK6aAl64JMOJs0jBJV3b2), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [Pa Arriba Pa Abajo](https://open.spotify.com/album/0erCCUlDacQZlaTT3HG4wE) | 1:51 |
 | 52 | [Frisa](https://open.spotify.com/track/7f3S36TfLiQcLfiva9rWeq) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Diente 27](https://open.spotify.com/artist/6xd0K53X7gTj4dQAkwgnUf), [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW) | [Frisa](https://open.spotify.com/album/4XKEvAGn1O2pi1xX2y5HSq) | 2:57 |
 | 53 | [Los Pasos Disponible](https://open.spotify.com/track/2eY4TmcggU8T0LBm9FVGHK) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [Los Pasos Disponible](https://open.spotify.com/album/7vLZjtIaEsXtCSTrLczoAX) | 3:22 |
 | 54 | [Se Puede Repetí](https://open.spotify.com/track/5v1ncHJGnN4ONlPx63zjTU) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH) | [Se Puede Repetí](https://open.spotify.com/album/2A8MlLQtNfwcA9uHVEmG6q) | 2:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 59 | [Peligroso](https://open.spotify.com/track/6JW8gnL90HaPyOfsVXDFsv) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Peligroso](https://open.spotify.com/album/2EEmVpRA0Q60viHH3BYBKW) | 2:03 |
 | 60 | [Mala De Verdad \(Tik Tak\)](https://open.spotify.com/track/4Q8gwcvgyDo1dbxxETrsYE) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Mala De Verdad \(Tik Tak\)](https://open.spotify.com/album/7K70x95rpKdWPWaVDxdRZF) | 2:37 |
 
-Snapshot ID: `MCw5M2Q2ZDZmNTdkZWMyODk4ZjRjYWQ3MzRiZjA2MjkwYjA0NzJlMzI4`
+Snapshot ID: `MCw0NjBjNGMwZDNkMzc0YWU1YzFlNjkzZjM5ZGVmOWQwZmVhNTIxMzMw`

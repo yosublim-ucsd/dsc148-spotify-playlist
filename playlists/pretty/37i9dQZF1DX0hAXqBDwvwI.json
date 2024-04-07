@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 576316,
+  "num_followers": 576823,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTU2YjI2ZTk2ZGFiMmFlODEzOTMzM2M4MTkzMTU2ZTU2ZDQwMjgw",
+  "snapshot_id": "MCw5MjllNDZlZGZkMmY4ZjY4MDM3MmQyNWU1OTFlN2E0NDZiZmQ3YzYx",
   "tracks": [
     {
       "added_at": "2024-01-25 15:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "\u30ab\u30ef\u30ad\u30f2\u30a2\u30e1\u30af",
+        "url": "https://open.spotify.com/album/6R5yCaIbIwK9IQJErCb0FV"
+      },
+      "artists": [
+        {
+          "name": "\u7f8e\u6ce2",
+          "url": "https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "\u30ab\u30ef\u30ad\u30f2\u30a2\u30e1\u30af",
+      "url": "https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "\u6ab8\u6aac",
         "url": "https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 236426,
       "name": "Sign",
       "url": "https://open.spotify.com/track/0xmWQKzc5m9rLv2ucDWxwD"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "\u30ab\u30ef\u30ad\u30f2\u30a2\u30e1\u30af",
-        "url": "https://open.spotify.com/album/6R5yCaIbIwK9IQJErCb0FV"
-      },
-      "artists": [
-        {
-          "name": "\u7f8e\u6ce2",
-          "url": "https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "\u30ab\u30ef\u30ad\u30f2\u30a2\u30e1\u30af",
-      "url": "https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "hikari",
-        "url": "https://open.spotify.com/album/201JmzIdtXjfIM1mhgqSfK"
-      },
-      "artists": [
-        {
-          "name": "SID",
-          "url": "https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE"
-        }
-      ],
-      "duration_ms": 205973,
-      "name": "\u5618",
-      "url": "https://open.spotify.com/track/5hyuqT3PwqSKtH1EUSST20"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "FLOW THE BEST \u301cSingle Collection\u301c",
         "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 218493,
       "name": "COLORS",
       "url": "https://open.spotify.com/track/6bPPyigCphBBQ9781j6eKM"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "hikari",
+        "url": "https://open.spotify.com/album/201JmzIdtXjfIM1mhgqSfK"
+      },
+      "artists": [
+        {
+          "name": "SID",
+          "url": "https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE"
+        }
+      ],
+      "duration_ms": 205973,
+      "name": "\u5618",
+      "url": "https://open.spotify.com/track/5hyuqT3PwqSKtH1EUSST20"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
-        "url": "https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x"
-      },
-      "artists": [
-        {
-          "name": "ano",
-          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
-        }
-      ],
-      "duration_ms": 185752,
-      "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
-      "url": "https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "VIVID VICE",
         "url": "https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 185173,
       "name": "VIVID VICE",
       "url": "https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
+        "url": "https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "duration_ms": 185752,
+      "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
+      "url": "https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "\u6b8b\u6a5f",
-        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "\u6b8b\u6a5f",
-      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "THE SIDE EFFECTS",
         "url": "https://open.spotify.com/album/1BGWyz8x5J2qChX1X0r60e"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 227011,
       "name": "MAYDAY (feat. Ryo from Crystal Lake)",
       "url": "https://open.spotify.com/track/2wJJNgD6GrKoQ435VxTRv6"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "PERSONA5 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX"
+        }
+      ],
+      "duration_ms": 277826,
+      "name": "Wake Up, Get Up, Get Out There",
+      "url": "https://open.spotify.com/track/4AuZBIN4aeFL9egQldQfRn"
     },
     {
       "added_at": "2024-01-25 15:00:00",

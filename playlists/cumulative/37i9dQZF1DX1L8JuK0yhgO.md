@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-3,457 songs - 7 day 22 hr 26 min
+3,458 songs - 7 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2973,7 +2973,8 @@
 | [WEEKEND](https://open.spotify.com/track/4dk59mFR4yFz9WeEJubv7d) | [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM), [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [WEEKEND](https://open.spotify.com/album/1bgGcEgADrHAAPHa0oKhhd) | 3:14 | 2023-05-29 | 2023-06-06 |
 | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/track/6qVqWJxIpsabUKBILG7d6N) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/album/2o35lokKrBVG73xWFDEVsX) | 3:26 | 2023-05-15 | 2023-05-23 |
 | [Welcome to the sky over Himeji](https://open.spotify.com/track/1Ab87r5d4oqyuPwe91hfj1) | [Minchanbaby](https://open.spotify.com/artist/1gbTvzWZ32tJXVmjgYPK2f), [vio moon](https://open.spotify.com/artist/7cYPGQ10qB3PklTzhhrms1) | [Welcome to the sky over Himeji](https://open.spotify.com/album/0L0WpLbn5xaLa9spm8LHjA) | 3:02 | 2023-11-27 | 2023-12-05 |
-| [Werewolf](https://open.spotify.com/track/4vioTNB97lD9LzoALX5RTI) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [Werewolf](https://open.spotify.com/album/5XnnNCdUccsfujYYCKG3bE) | 3:23 | 2024-03-31 |  |
+| [Werewolf](https://open.spotify.com/track/4vioTNB97lD9LzoALX5RTI) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [Werewolf](https://open.spotify.com/album/5XnnNCdUccsfujYYCKG3bE) | 3:23 | 2024-03-31 | 2024-04-07 |
+| [Werewolf](https://open.spotify.com/track/4xipEWePd3K4GSHrjTjfZU) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [DANCE](https://open.spotify.com/album/1A1yMVgOJlvlO8pkia9ThB) | 3:25 | 2024-03-31 |  |
 | [west la](https://open.spotify.com/track/54DjVrBlBtH00VTdXlqZxX) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [west la](https://open.spotify.com/album/3uejvF0vbT3lZE1Zj2LU9T) | 4:46 | 2024-01-28 | 2024-02-05 |
 | [West side](https://open.spotify.com/track/2ZHSyaeMTK7P9JReiqnriw) | [91wine](https://open.spotify.com/artist/7FOgrrQSMEgN22MbzdqTdD), [green osa](https://open.spotify.com/artist/6e2CtSNejMooHiIgCL20Dl) | [Life is Dayoff](https://open.spotify.com/album/0KCFQCBLQ2nx05ykSfkARO) | 2:55 | 2023-07-31 | 2023-08-07 |
 | [Wet Skin](https://open.spotify.com/track/2lAokmlF4rCE7FaUVtrcRJ) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Rich or Die 2](https://open.spotify.com/album/54vmmk5kfeTr572qk4dmkp) | 3:48 | 2023-05-07 | 2023-05-16 |

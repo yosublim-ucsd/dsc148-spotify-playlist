@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 510190,
+  "2024-04-07": 510209,
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: iZaak, Jhayco & Anuel AA",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Renn y Yexel ",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -901,7 +901,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 286754,
       "name": "Al Otro Nivel",
       "url": "https://open.spotify.com/track/2WJXba0CALXqWk8ghw2RiR"
@@ -3551,7 +3551,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 133641,
       "name": "CAYEY",
       "url": "https://open.spotify.com/track/3y3CesszdBhWgwXad9v0oD"
@@ -7093,7 +7093,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 145174,
       "name": "escribiendo TKM",
       "url": "https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w"
@@ -7735,7 +7735,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 165000,
       "name": "Fraternidad",
       "url": "https://open.spotify.com/track/1csXmch0iAC6INGXOrblsy"
@@ -9232,6 +9232,28 @@
     },
     {
       "album": {
+        "name": "HUMO",
+        "url": "https://open.spotify.com/album/4IZNJql8GcknfP0DYAsZtE"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198081,
+      "name": "HUMO",
+      "url": "https://open.spotify.com/track/6j3PRPNWLutE3CutDzH4uI"
+    },
+    {
+      "album": {
         "name": "Ibiza",
         "url": "https://open.spotify.com/album/7nnxK28W7MA5Pe6ptn8mQ3"
       },
@@ -9953,7 +9975,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 179586,
       "name": "Ke onda mami",
       "url": "https://open.spotify.com/track/3YAaX53OAo2FUCUANHXge4"
@@ -12050,6 +12072,28 @@
     },
     {
       "album": {
+        "name": "MAQUINAS DE DEALER",
+        "url": "https://open.spotify.com/album/0YgbleLePl42veocQOlBVq"
+      },
+      "artists": [
+        {
+          "name": "Chris Tamayo",
+          "url": "https://open.spotify.com/artist/3E6iMhi3fvbMBSwZk8aeeJ"
+        },
+        {
+          "name": "El Chulo",
+          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175482,
+      "name": "MAQUINAS DE DEALER",
+      "url": "https://open.spotify.com/track/3iBRz1X7PYX3Nnvg52sHkJ"
+    },
+    {
+      "album": {
         "name": "Los Piratas",
         "url": "https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY"
       },
@@ -12837,7 +12881,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 194885,
       "name": "Mi Otra Mitad (Remix)",
       "url": "https://open.spotify.com/track/5nkVhLA1qnWbH1QN1aR6lG"
@@ -13045,7 +13089,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 198560,
       "name": "Mis Amigas",
       "url": "https://open.spotify.com/track/3UFQS4N8U8BvmfBB7O2Xzj"
@@ -14694,6 +14738,28 @@
     },
     {
       "album": {
+        "name": "Nympho",
+        "url": "https://open.spotify.com/album/1iqw9OVN51cDkbLzguFbdB"
+      },
+      "artists": [
+        {
+          "name": "DoXXis",
+          "url": "https://open.spotify.com/artist/4fT1Ast8Qpp05Y2qpJXDqM"
+        },
+        {
+          "name": "Rapeton Approved",
+          "url": "https://open.spotify.com/artist/2Tdsb1uIuHJrG5SllTLyCw"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180120,
+      "name": "Nympho",
+      "url": "https://open.spotify.com/track/4HJu5AxIfrIrtraCgQmcsQ"
+    },
+    {
+      "album": {
         "name": "OA",
         "url": "https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet"
       },
@@ -14809,6 +14875,28 @@
       "duration_ms": 242240,
       "name": "ODISEA",
       "url": "https://open.spotify.com/track/6xf7EMkgOnsdkwtLj524Gr"
+    },
+    {
+      "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201935,
+      "name": "offline",
+      "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
     },
     {
       "album": {
@@ -18440,6 +18528,24 @@
     },
     {
       "album": {
+        "name": "Recap (LV Edition)",
+        "url": "https://open.spotify.com/album/6CzdtIpxl08xpF1smdISXq"
+      },
+      "artists": [
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177534,
+      "name": "Selectiva",
+      "url": "https://open.spotify.com/track/208DqEdROg3MhTMmqEyfQA"
+    },
+    {
+      "album": {
         "name": "La Calle y El Club",
         "url": "https://open.spotify.com/album/56PM6l4J0Zq0UuPvEMTIH2"
       },
@@ -18671,6 +18777,28 @@
       "duration_ms": 240000,
       "name": "Si La Calle Llama - Remix",
       "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
+    },
+    {
+      "album": {
+        "name": "Si La Mami",
+        "url": "https://open.spotify.com/album/79uKrGBtEMy9IhnbH3sM5c"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Brand Randall",
+          "url": "https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Si La Mami",
+      "url": "https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg"
     },
     {
       "album": {
@@ -19364,6 +19492,36 @@
     },
     {
       "album": {
+        "name": "Stripper",
+        "url": "https://open.spotify.com/album/1Ip8ywDTWKAZudr0yw6En9"
+      },
+      "artists": [
+        {
+          "name": "DJ Blass",
+          "url": "https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "Mista Greenzz",
+          "url": "https://open.spotify.com/artist/3ez0IrscepIifqnM1VuwqQ"
+        },
+        {
+          "name": "JS Beatz",
+          "url": "https://open.spotify.com/artist/2n448HRkEYTXxlqFlW24G5"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Stripper",
+      "url": "https://open.spotify.com/track/0cRfaNSIZBp6tLwZy4g5R3"
+    },
+    {
+      "album": {
         "name": "Su Altura",
         "url": "https://open.spotify.com/album/01Q6s2xUyvHYC2SAW1spjs"
       },
@@ -19803,6 +19961,32 @@
       "duration_ms": 191628,
       "name": "Tapate (with Ak4:20)",
       "url": "https://open.spotify.com/track/4tckYfU2DJXdCqBlLWdiEX"
+    },
+    {
+      "album": {
+        "name": "Tarzan",
+        "url": "https://open.spotify.com/album/3vhqthzJQx6ZF1AQsyprGD"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Milly",
+          "url": "https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp"
+        },
+        {
+          "name": "La Kikada",
+          "url": "https://open.spotify.com/artist/7Fpb4yEAPfiQfY0Bx0uLm5"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195761,
+      "name": "Tarzan",
+      "url": "https://open.spotify.com/track/2WuIvu6jnM0a6qho8bL4h3"
     },
     {
       "album": {
@@ -22819,7 +23003,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 187172,
       "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
       "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"

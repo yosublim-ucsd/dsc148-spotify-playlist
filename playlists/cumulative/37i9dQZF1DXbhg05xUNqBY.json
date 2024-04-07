@@ -314,7 +314,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 254813,
       "name": "Dreaming of Eden",
       "url": "https://open.spotify.com/track/7Moo8abBatLMNr3rq2MmJh"
@@ -1190,6 +1190,24 @@
       "duration_ms": 168000,
       "name": "Quiet Talk",
       "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
+    },
+    {
+      "album": {
+        "name": "Raise a Hallelujah",
+        "url": "https://open.spotify.com/album/4ffzIhEXSxyagekHE9wIm7"
+      },
+      "artists": [
+        {
+          "name": "Union Creative",
+          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343245,
+      "name": "Raise a Hallelujah",
+      "url": "https://open.spotify.com/track/5i0a1Vdu2sIacKMNZZabRM"
     },
     {
       "album": {

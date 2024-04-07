@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,859 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,863 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 19 | [Sayonee \- Sartek Remix](https://open.spotify.com/track/4H9XYpaxiCOOmDLS2zBW2G) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [Sartek](https://open.spotify.com/artist/7twKy3fK03wqUCnHDCL6Qc) | [Sayonee \(Sartek Remix\)](https://open.spotify.com/album/0BvLTzENzNKdkqurIMVIX0) | 3:04 |
 | 20 | [OK Not To Be OK \- Lost Stories Remix](https://open.spotify.com/track/4Uxcm6gWvxoqUdgnxKw41H) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi) | [OK Not To Be OK \(Lost Stories Remix\)](https://open.spotify.com/album/2VOJnLf3bfcUbJ7nCTRd4y) | 3:05 |
 | 21 | [Jeena Chahun](https://open.spotify.com/track/01AwohzqShtjlhyjYoWKHM) | [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Jeena Chahun](https://open.spotify.com/album/4OXmB2Q2LXeyWJV67dtfRw) | 3:30 |
-| 22 | [Turiya Turiya](https://open.spotify.com/track/1F6QRDyVmsTu3rBdeo78mY) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Kahani](https://open.spotify.com/album/1WqUCvqJAnYhFOVoRl9zXO) | 2:46 |
+| 22 | [Turiya Turiya](https://open.spotify.com/track/1F6QRDyVmsTu3rBdeo78mY) | [Asad Khan](https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q) | [Kahani](https://open.spotify.com/album/1WqUCvqJAnYhFOVoRl9zXO) | 2:46 |
 | 23 | [Mantrah](https://open.spotify.com/track/0aq7hOP81yTb9E9cXdlT63) | [Ishan Majee](https://open.spotify.com/artist/6ov51eeD29HZd2uA3wGk6S) | [Mantrah](https://open.spotify.com/album/1UfBit4VHYP1bSKdbmRQ3d) | 2:43 |
 | 24 | [Umang](https://open.spotify.com/track/3XHvNtpFNFJSJG2ZY7JOq5) | [Shak Attack Music](https://open.spotify.com/artist/55hFQMGx9ryWaWL4B97PtD) | [Umang](https://open.spotify.com/album/6NEgJjPgsFroLbEOJBOIJB) | 3:22 |
 | 25 | [Tere Bina](https://open.spotify.com/track/7im7el3l35lOejnrYCjKVO) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Tere Bina](https://open.spotify.com/album/0ghHOc0zCmHZn93zGlhuNs) | 2:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 59 | [A Dream](https://open.spotify.com/track/52E7qutei1inKrIAcBYp89) | [Enine](https://open.spotify.com/artist/6BsL2HkIj6DBL1tYuswybL) | [A Dream](https://open.spotify.com/album/7mqGNYCngh5JwyjySJLHTL) | 2:49 |
 | 60 | [Time \- Radio Edit](https://open.spotify.com/track/2D19JpvlOaVSCleOUhBPzl) | [Vetonit](https://open.spotify.com/artist/1WRcXXVWTxLaG93Z8uQo4E) | [Time \(Radio Edit\)](https://open.spotify.com/album/2HxJ3nx0ZrseX5sr7ZpEgw) | 3:32 |
 
-Snapshot ID: `MCxjNjYzMzVkYmQ1OTU1NjQwMmI3NTFkZWI5OTk0YWI2NjdmMjc1YjRh`
+Snapshot ID: `MCxiMWM1ZDQ3Y2Y1YzI3YzZkNzY5M2Y3ODJkZTY1ODBiMmQ1M2Q3NWUx`

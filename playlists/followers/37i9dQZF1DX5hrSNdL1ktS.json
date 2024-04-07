@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 153722,
+  "2024-04-07": 154349,
   "date_first_scraped": "2022-01-09",
   "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 El Booooo en portada ",
   "name": "Reggaet\u00f3n Mexa ",
@@ -4013,7 +4013,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 188649,
       "name": "Hola (feat. BEATS PER MINUTES)",
       "url": "https://open.spotify.com/track/0F5zxhhdUF6ODvY1ANZg5S"
@@ -4079,6 +4079,28 @@
       "duration_ms": 182034,
       "name": "hoy se bebe",
       "url": "https://open.spotify.com/track/23lzX3xbBFHhdhb7CHLjRI"
+    },
+    {
+      "album": {
+        "name": "HUMO",
+        "url": "https://open.spotify.com/album/4IZNJql8GcknfP0DYAsZtE"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198081,
+      "name": "HUMO",
+      "url": "https://open.spotify.com/track/6j3PRPNWLutE3CutDzH4uI"
     },
     {
       "album": {
@@ -6472,6 +6494,24 @@
     },
     {
       "album": {
+        "name": "S\u00cdSIFO / NADIE M\u00c1S!",
+        "url": "https://open.spotify.com/album/6p8AhSbmlsrAaqqV1BnBGD"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "NADIE M\u00c1S!",
+      "url": "https://open.spotify.com/track/5DtnCKnQ8nmRX1JL8N90Ua"
+    },
+    {
+      "album": {
         "name": "necesito un break de tanta pendejad*",
         "url": "https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT"
       },
@@ -7623,7 +7663,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 151800,
       "name": "Pikete",
       "url": "https://open.spotify.com/track/5rwk2EbBZZCpa3iJZuoyDW"
@@ -10373,6 +10413,28 @@
       "duration_ms": 184632,
       "name": "UNA GATA",
       "url": "https://open.spotify.com/track/2ZsBl5LVGMYuxOuK6uCqmf"
+    },
+    {
+      "album": {
+        "name": "UNA RAYA M\u00c1S",
+        "url": "https://open.spotify.com/album/2dR6j7w98qJLlzEHRuQKOh"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "UNA RAYA M\u00c1S",
+      "url": "https://open.spotify.com/track/6xXbyR2OEM4GlnvKH1t45Z"
     },
     {
       "album": {

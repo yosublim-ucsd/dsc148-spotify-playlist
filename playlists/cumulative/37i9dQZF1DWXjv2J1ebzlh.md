@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,226 songs - 6 day 5 hr 36 min
+2,227 songs - 6 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2085,7 +2085,8 @@
 | [Viejos Tiempos](https://open.spotify.com/track/1LRo9wZ0rvCk6VmIr5fY4s) | [Rufo Garrido Y Su Banda](https://open.spotify.com/artist/1TFrtkP5626HcDmpXJqSqi) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/0UbcmD65kthpuyIIYajOYY) | 2:42 | 2023-03-17 |  |
 | [Viejos Tiempos](https://open.spotify.com/track/6CInZDTvDR6SlI6tc7Ymd4) | [Rufo Garrido Y Su Banda](https://open.spotify.com/artist/1TFrtkP5626HcDmpXJqSqi) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/2f2jyRaOT92BCf49yjyRbz) | 2:42 | 2022-07-27 | 2023-05-01 |
 | [Viento](https://open.spotify.com/track/3Mbp68w7qRpkbPX9cdkJAZ) | [Grupo Celeste](https://open.spotify.com/artist/34UKlYNjRGEZF8Xzbga81s) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 3:42 | 2022-06-09 | 2024-02-22 |
-| [Viento](https://open.spotify.com/track/7zL4CNqsvUfRaQhf7umIpR) | [Grupo Celeste](https://open.spotify.com/artist/34UKlYNjRGEZF8Xzbga81s) | [...El Fabuloso!](https://open.spotify.com/album/4G1IedTXpiFxfgc8YcIRyC) | 3:49 | 2023-11-29 |  |
+| [Viento](https://open.spotify.com/track/7zL4CNqsvUfRaQhf7umIpR) | [Grupo Celeste](https://open.spotify.com/artist/34UKlYNjRGEZF8Xzbga81s) | [...El Fabuloso!](https://open.spotify.com/album/4G1IedTXpiFxfgc8YcIRyC) | 3:49 | 2023-11-29 | 2024-04-07 |
+| [Viento \- Original Master Tapes](https://open.spotify.com/track/5T7sDNFZYdCGQfuEyikNNP) | [Grupo Celeste](https://open.spotify.com/artist/34UKlYNjRGEZF8Xzbga81s) | [...El Fabuloso! \(Original Master Tapes\)](https://open.spotify.com/album/3hibYFnC3qZ7FyHUJ6KnuR) | 3:49 | 2024-03-21 |  |
 | [Viola Fora De Moda](https://open.spotify.com/track/2gOwA32FKNEPrV4Gf2AULE) | [Edu Lobo](https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO) | [Missa Breve](https://open.spotify.com/album/25P9ANRNnjvVAwCJVOPT4A) | 2:50 | 2022-06-09 |  |
 | [Você Fica Melhor Assim](https://open.spotify.com/track/2fslXV7PlX2XiQHtu5MTIj) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Lô Borges](https://open.spotify.com/album/0fXZAZ5XejnxhgRV38SH5I) | 2:08 | 2022-06-09 |  |
 | [Vou Morar no Teu Sorriso](https://open.spotify.com/track/1Y2FZI67wVCjFBL7OW0OcF) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Série Samba Soul](https://open.spotify.com/album/1pxr5QAAEWuWAdGVKA1cDd) | 2:30 | 2023-05-17 |  |

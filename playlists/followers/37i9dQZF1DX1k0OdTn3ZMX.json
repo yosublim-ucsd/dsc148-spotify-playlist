@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 38256,
+  "2024-04-07": 38388,
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Alpha Wolf and ICE-T.",
+  "description": "n\u00fc-metal revival is happening here and now with Kittie.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 294080,
       "name": "A Devil More Damned",
       "url": "https://open.spotify.com/track/5y77tjYeVedKukqwsS3xx0"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 195145,
       "name": "Cut Loose",
       "url": "https://open.spotify.com/track/4Gv2T3L4aozxQqg0jCKSN4"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 188859,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/3XDP2NR8lCbyU2mohcsZXq"
@@ -1059,10 +1059,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 188557,
       "name": "Kaneda",
       "url": "https://open.spotify.com/track/40CtKggBylHY7G3yUBYPyU"
+    },
+    {
+      "album": {
+        "name": "Kill Me",
+        "url": "https://open.spotify.com/album/0gyB2i9eqGckT6G3hGPeOf"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108560,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/2KtmPuGbIHDGMZN16x9LG9"
     },
     {
       "album": {
@@ -1120,6 +1138,24 @@
     },
     {
       "album": {
+        "name": "Learning How To Be Human",
+        "url": "https://open.spotify.com/album/5CUMwKLT0Ic6pRNCxtlWHS"
+      },
+      "artists": [
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194346,
+      "name": "Learning How To Be Human",
+      "url": "https://open.spotify.com/track/4ZOREvpqSJGmD61YAMNoJU"
+    },
+    {
+      "album": {
         "name": "Riot Music",
         "url": "https://open.spotify.com/album/22nPVkqtpPnQMXb9R2QUJ5"
       },
@@ -1153,7 +1189,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 217363,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/7D1liRVqgIYfj9CXAV9Ygw"
@@ -1308,6 +1344,24 @@
     },
     {
       "album": {
+        "name": "One Chance",
+        "url": "https://open.spotify.com/album/2MheuKWB6STo8lJ2zyi1nC"
+      },
+      "artists": [
+        {
+          "name": "BLACKGOLD",
+          "url": "https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226874,
+      "name": "One Chance",
+      "url": "https://open.spotify.com/track/49daGksZza7w4YQPn7aeRV"
+    },
+    {
+      "album": {
         "name": "Operator",
         "url": "https://open.spotify.com/album/2Im99EnQocuboPDHectxjS"
       },
@@ -1429,6 +1483,24 @@
       "duration_ms": 132705,
       "name": "Pink Push-Up Bra",
       "url": "https://open.spotify.com/track/6QbpIejpFu4dpnyHdGJ0fX"
+    },
+    {
+      "album": {
+        "name": "Push",
+        "url": "https://open.spotify.com/album/1NRQveipkyJm0myrLWHsLG"
+      },
+      "artists": [
+        {
+          "name": "Silent Vice",
+          "url": "https://open.spotify.com/artist/5MCUjqJTNFcvvAZsuVmUFT"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236476,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/0rFc5oSEYXS1oUAMZOwMHg"
     },
     {
       "album": {
@@ -1880,6 +1952,28 @@
     },
     {
       "album": {
+        "name": "AfterLife (Deluxe)",
+        "url": "https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167264,
+      "name": "This Is The Way (feat. DMX)",
+      "url": "https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK"
+    },
+    {
+      "album": {
         "name": "Today's My Day",
         "url": "https://open.spotify.com/album/3sMegfJ3u6Uj9ZhYs01aNV"
       },
@@ -1891,7 +1985,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 215833,
       "name": "Today's My Day",
       "url": "https://open.spotify.com/track/4nAMZBsMJNxRT9SKs3bOOr"
@@ -2133,6 +2227,24 @@
       "duration_ms": 280826,
       "name": "Wavery",
       "url": "https://open.spotify.com/track/2THCSs7C9BxHuD9yBfJvnU"
+    },
+    {
+      "album": {
+        "name": "We Are Shadows",
+        "url": "https://open.spotify.com/album/66HvNHY2hAekIj2vByK1a3"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215823,
+      "name": "We Are Shadows",
+      "url": "https://open.spotify.com/track/6ykA2AhyjoTLOr3NGPrx1J"
     },
     {
       "album": {

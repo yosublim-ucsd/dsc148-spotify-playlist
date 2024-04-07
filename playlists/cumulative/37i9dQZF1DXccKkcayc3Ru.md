@@ -4,7 +4,7 @@
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-25 songs - 1 hr 41 min
+26 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [From Me To You](https://open.spotify.com/track/2uvwFXISvfrm2v7DKiuV5J) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [After the chaos](https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H) | 5:42 | 2024-04-01 |  |
 | [hanashi](https://open.spotify.com/track/1B3d52exw8bkJFB9V1Y9Bo) | [YOOKs](https://open.spotify.com/artist/6vYpkbuf0haDeCdzsAhO1C) | [Newtownage](https://open.spotify.com/album/0SE06MlQwHvPN3kl2DkBUa) | 4:24 | 2024-04-01 |  |
 | [It's Who We Are](https://open.spotify.com/track/1cAkiUgNaCYF7Y5pc2S73d) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [H.O.T](https://open.spotify.com/album/7hsa4N91owE1h5y1jGEcST) | 5:02 | 2024-04-01 |  |
+| [Junior Sweet](https://open.spotify.com/track/0iSpQPgX7orFgBZ3atrqZA) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Junior Sweet](https://open.spotify.com/album/6mOQ8WkcSPoIk8w3zA6ZuG) | 6:27 | 2024-04-06 |  |
 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 | 2024-04-01 |  |
 | [modify Youth](https://open.spotify.com/track/3BcceWQDoclXyOmOH5eZ8I) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [evergreen/modify Youth](https://open.spotify.com/album/3rfcMKe4vOugZxhJxYv6lf) | 3:11 | 2024-04-01 |  |
 | [MOOD](https://open.spotify.com/track/39dvNiqFBQ1OG27fCCOZe7) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [dressing](https://open.spotify.com/album/4su8ZjNhqpIl4sZApycz63) | 4:26 | 2024-04-02 |  |

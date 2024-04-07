@@ -4,7 +4,7 @@
 
 > Benson Boone op de cover van Fresh Pop!
 
-538 songs - 1 day 3 hr 11 min
+539 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,8 @@
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-09 | 2024-03-01 |
 | [How Am I](https://open.spotify.com/track/0ieVrURqx9V4m1iw1VN2MJ) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [+11 Hours](https://open.spotify.com/album/7wgl5WVBnve1ZWfvzBLfls) | 3:29 | 2023-06-15 | 2023-09-22 |
 | [How Does It Feel](https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [How Does It Feel](https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU) | 2:23 | 2023-05-04 | 2023-08-26 |
-| [How Many Nights](https://open.spotify.com/track/0Nj0v1zGvDLgvhjLLzMzom) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [How Many Nights](https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9) | 3:20 | 2024-03-14 |  |
+| [How Many Nights](https://open.spotify.com/track/0Nj0v1zGvDLgvhjLLzMzom) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [How Many Nights](https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9) | 3:20 | 2024-03-14 | 2024-04-07 |
+| [How Many Nights](https://open.spotify.com/track/565PkWWdrqFITixrqoNSRi) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:20 | 2024-04-06 |  |
 | [Hush Hush](https://open.spotify.com/track/0rrX7GQDPe9ldXSz6dRyUI) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Hush Hush](https://open.spotify.com/album/1WfDg3nWWNCF79qK0kTlmB) | 2:12 | 2023-07-10 | 2023-10-06 |
 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 | 2023-08-25 | 2023-10-13 |
 | [hypocrite](https://open.spotify.com/track/0I4Ou4fz6Gz53B3wFlXv7H) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [hypocrite](https://open.spotify.com/album/7iG26zkOZuRaOHKiqVwwSs) | 2:31 | 2023-10-19 | 2024-01-30 |

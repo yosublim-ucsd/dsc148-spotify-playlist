@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 68608,
+  "num_followers": 68648,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWIyZWRkN2MxNzc5YWE2MjJmODUxZjZkZDdmYmU1ZmE3ZTBlZTlk",
+  "snapshot_id": "MCwxMjJmYTNlMzY0M2Q0MDNjZjcwNmJiNjQ0NTZiMDY2NjllZTM4ZTVl",
   "tracks": [
     {
       "added_at": "2024-03-23 16:15:14",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "\u681e",
-        "url": "https://open.spotify.com/album/5nH0B2HxbulmQt1gpT5ji4"
+        "name": "\u3075\u305f\u3064\u306e\u6708 ~Deep Into The Forest~",
+        "url": "https://open.spotify.com/album/0NeJSlobmsgcpuV34ZogUl"
       },
       "artists": [
         {
-          "name": "MyGO!!!!!",
-          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
         }
       ],
-      "duration_ms": 266413,
-      "name": "\u681e",
-      "url": "https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR"
+      "duration_ms": 295813,
+      "name": "\u3075\u305f\u3064\u306e\u6708 ~Deep Into The Forest~",
+      "url": "https://open.spotify.com/track/4tj5fNbEfMjDRodJwRGEOG"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "\u3075\u305f\u3064\u306e\u6708 ~Deep Into The Forest~",
-        "url": "https://open.spotify.com/album/0NeJSlobmsgcpuV34ZogUl"
+        "name": "\u681e",
+        "url": "https://open.spotify.com/album/5nH0B2HxbulmQt1gpT5ji4"
       },
       "artists": [
         {
-          "name": "Ave Mujica",
-          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
         }
       ],
-      "duration_ms": 295813,
-      "name": "\u3075\u305f\u3064\u306e\u6708 ~Deep Into The Forest~",
-      "url": "https://open.spotify.com/track/4tj5fNbEfMjDRodJwRGEOG"
+      "duration_ms": 266413,
+      "name": "\u681e",
+      "url": "https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 270868,
-      "name": "Y.O.L.O\uff01\uff01\uff01\uff01\uff01",
-      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "\u8ff7\u8def\u65e5\u3005",
         "url": "https://open.spotify.com/album/3uBopzA0VxW4Widg7Ymeg0"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 215453,
       "name": "\u8ff7\u8def\u65e5\u3005",
       "url": "https://open.spotify.com/track/5Zpt3HBbdLjdcy4GoLDrEk"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 270868,
+      "name": "Y.O.L.O\uff01\uff01\uff01\uff01\uff01",
+      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-03-23 16:15:14",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044\uff01\u300d",
-        "url": "https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA"
-      },
-      "artists": [
-        {
-          "name": "\u5e02\u30f6\u8c37\u6709\u54b2(CV.\u4f0a\u85e4\u5f69\u6c99)",
-          "url": "https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry"
-        }
-      ],
-      "duration_ms": 236938,
-      "name": "\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044\uff01",
-      "url": "https://open.spotify.com/track/50lLGQbFwJUHuIsXJzsBpw"
-    },
-    {
-      "added_at": "2024-03-23 16:15:14",
-      "album": {
         "name": "QUINTET",
         "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 255000,
       "name": "\u8a93\u3044\u306eWingbeat",
       "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"
+    },
+    {
+      "added_at": "2024-03-23 16:15:14",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044\uff01\u300d",
+        "url": "https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA"
+      },
+      "artists": [
+        {
+          "name": "\u5e02\u30f6\u8c37\u6709\u54b2(CV.\u4f0a\u85e4\u5f69\u6c99)",
+          "url": "https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry"
+        }
+      ],
+      "duration_ms": 236938,
+      "name": "\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044\uff01",
+      "url": "https://open.spotify.com/track/50lLGQbFwJUHuIsXJzsBpw"
     },
     {
       "added_at": "2024-03-23 16:15:14",
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 276300,
-      "name": "\u72ec\u5275\u53ce\u5dee",
-      "url": "https://open.spotify.com/track/5qs2hDCiRA3fZcCnEwDf3Y"
+      "duration_ms": 250200,
+      "name": "Butter-Fly",
+      "url": "https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk"
     },
     {
       "added_at": "2024-03-23 16:15:14",

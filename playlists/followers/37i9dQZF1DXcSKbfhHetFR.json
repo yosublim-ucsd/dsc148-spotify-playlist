@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 10042,
+  "2024-04-07": 10047,
   "date_first_scraped": "2022-05-14",
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
   "name": "Je me souviens: alternatif",
@@ -636,6 +636,28 @@
     },
     {
       "album": {
+        "name": "Rita-Rita",
+        "url": "https://open.spotify.com/album/69nBD9BtGBVLXnRFFYY7Wz"
+      },
+      "artists": [
+        {
+          "name": "Rita-Rita",
+          "url": "https://open.spotify.com/artist/4DwJbmadQKIU9IXTGBLhse"
+        },
+        {
+          "name": "Maryse Letarte",
+          "url": "https://open.spotify.com/artist/526r8qKsRfi46SMfj1Vu5n"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "Je suis down",
+      "url": "https://open.spotify.com/track/1JymbaEcZCTQlFMkdlbN02"
+    },
+    {
+      "album": {
         "name": "Le Trashy Saloon",
         "url": "https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3"
       },
@@ -737,7 +759,7 @@
       ],
       "date_added": "2020-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 175480,
       "name": "La ch\u00e8vre",
       "url": "https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi"

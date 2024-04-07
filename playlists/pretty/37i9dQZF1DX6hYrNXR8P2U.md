@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas\.  <br/>📷 LoLo
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,155 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,186 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [Lento Remix \(feat\. Shoda Monkas\)](https://open.spotify.com/track/5N003YTjBFjf6hOmObVIMZ) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Shoda Monkas](https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe) | [Lento Remix \(feat\. Shoda Monkas\)](https://open.spotify.com/album/4pwegNA3NTZZnTAl043d28) | 3:50 |
 | 100 | [Bar de Playa](https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [Bar de Playa](https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU) | 2:09 |
 
-Snapshot ID: `MCw0NTZlNjgxMTc4YjUxYTczODFiYzA3MzQ0NDRlNWZmYzk4MTY0OTJi`
+Snapshot ID: `MCxmYjI5NTFhNjFmZjhmODgwNjQwNzBlODUyMjQyYjZhZDdhOTIwMTA4`

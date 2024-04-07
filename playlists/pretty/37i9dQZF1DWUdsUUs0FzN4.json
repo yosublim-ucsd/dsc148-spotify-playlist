@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Bellakath en portada ",
-  "num_followers": 18496,
+  "num_followers": 18516,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDRmNmQxZmZhZmExNjlhNGM1MjIwM2RjMjk3YmVkNGU4MmE1NGYy",
+  "snapshot_id": "MCxlNzczYzdhMjUyMDg5Mjk2NWFiNGY1NTA5YzI4ZTZhZTQ2NmJkMDNk",
   "tracks": [
     {
       "added_at": "2024-04-01 16:24:40",
@@ -803,30 +803,6 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
-        "name": "DDD (Don Dimadon)",
-        "url": "https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe"
-      },
-      "artists": [
-        {
-          "name": "TUNDER",
-          "url": "https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        },
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        }
-      ],
-      "duration_ms": 185281,
-      "name": "DDD (Don Dimadon)",
-      "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
         "name": "G Low Kitty",
         "url": "https://open.spotify.com/album/6IvwdLnra2eCGtQnCYIXTN"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 214897,
       "name": "G Low Kitty",
       "url": "https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
+        "name": "DDD (Don Dimadon)",
+        "url": "https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe"
+      },
+      "artists": [
+        {
+          "name": "TUNDER",
+          "url": "https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "duration_ms": 185281,
+      "name": "DDD (Don Dimadon)",
+      "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -1075,30 +1075,6 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
-        "name": "333 (Remix)",
-        "url": "https://open.spotify.com/album/6pMyrunmSvMxKIDS4eERZh"
-      },
-      "artists": [
-        {
-          "name": "Go Golden Junk",
-          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 155930,
-      "name": "333 - Remix",
-      "url": "https://open.spotify.com/track/2THG5JnwWDXABaf3APvUr8"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
         "name": "La B Es de Bellaka",
         "url": "https://open.spotify.com/album/0cd0WR5vvoleRlvjdygUrs"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 146328,
       "name": "La B Es de Bellaka",
       "url": "https://open.spotify.com/track/0ArhUN6zFdmFn5l7q6CO23"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
+        "name": "333 (Remix)",
+        "url": "https://open.spotify.com/album/6pMyrunmSvMxKIDS4eERZh"
+      },
+      "artists": [
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 155930,
+      "name": "333 - Remix",
+      "url": "https://open.spotify.com/track/2THG5JnwWDXABaf3APvUr8"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
+        "name": "HAGAN CA$0",
+        "url": "https://open.spotify.com/album/3jOl0OoDF5DQiWDawReB0I"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 138839,
+      "name": "EN LA CHATA",
+      "url": "https://open.spotify.com/track/63xhzDBP3FO6azIjH7DOvD"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
         "name": "Perreo Sayayin",
         "url": "https://open.spotify.com/album/1qrH5OQu539WRe9dRVTyeX"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 110412,
       "name": "Perreo Sayayin",
       "url": "https://open.spotify.com/track/70UWCayDDTHobS9NbRrvMA"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
-        "name": "HAGAN CA$0",
-        "url": "https://open.spotify.com/album/3jOl0OoDF5DQiWDawReB0I"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 138839,
-      "name": "EN LA CHATA",
-      "url": "https://open.spotify.com/track/63xhzDBP3FO6azIjH7DOvD"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -2155,42 +2155,6 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
-        "name": "El Que Resuelve",
-        "url": "https://open.spotify.com/album/1PMRGdRKgG9nRwlX8XfasE"
-      },
-      "artists": [
-        {
-          "name": "Michael G",
-          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
-        },
-        {
-          "name": "El Gudi",
-          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
-        }
-      ],
-      "duration_ms": 188862,
-      "name": "El Que Resuelve",
-      "url": "https://open.spotify.com/track/56Br9FPB36z1qf8gnu2Zib"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
-        "name": "Ubi",
-        "url": "https://open.spotify.com/album/1T7eoAJmQkDVxPWYQuyEUM"
-      },
-      "artists": [
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        }
-      ],
-      "duration_ms": 186487,
-      "name": "Ubi",
-      "url": "https://open.spotify.com/track/0FwCxicKn0FYSDZ8c9gVG1"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
         "name": "Lopa Lopa",
         "url": "https://open.spotify.com/album/3sZWtxmRdPNyd15r7XyoI8"
       },
@@ -2211,6 +2175,42 @@
       "duration_ms": 142895,
       "name": "Lopa Lopa",
       "url": "https://open.spotify.com/track/3wN2LYSmcj80zzXkHfbmTd"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
+        "name": "Ubi",
+        "url": "https://open.spotify.com/album/1T7eoAJmQkDVxPWYQuyEUM"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "duration_ms": 186487,
+      "name": "Ubi",
+      "url": "https://open.spotify.com/track/0FwCxicKn0FYSDZ8c9gVG1"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
+        "name": "El Que Resuelve",
+        "url": "https://open.spotify.com/album/1PMRGdRKgG9nRwlX8XfasE"
+      },
+      "artists": [
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+        },
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        }
+      ],
+      "duration_ms": 188862,
+      "name": "El Que Resuelve",
+      "url": "https://open.spotify.com/track/56Br9FPB36z1qf8gnu2Zib"
     }
   ],
   "unique_name": "CHAKAL\u00d3N ",

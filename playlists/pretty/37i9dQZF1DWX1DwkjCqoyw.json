@@ -1,12 +1,12 @@
 {
   "description": "The biggest crossover songs from the islands all in one place. Cover: Shaggy",
-  "num_followers": 647996,
+  "num_followers": 648024,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzM1ZGY4MGQ3ZmUwZjQ3ODQyZDU1MTc4NWRkOTlhODIxYjk2ZjUx",
+  "snapshot_id": "MCxmMTZkMzc4YWNjODFiYTJmNGMxMDBhMzZkMGRiODYxZGE5MWIyNTI5",
   "tracks": [
     {
       "added_at": "2023-05-16 15:57:09",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-05-16 15:57:09",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/6eYxm1llvPLQe5oW3d5tba"
-      },
-      "artists": [
-        {
-          "name": "Prince Swanny",
-          "url": "https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm"
-        }
-      ],
-      "duration_ms": 250357,
-      "name": "Catch 22",
-      "url": "https://open.spotify.com/track/4ZYs6suTVIJPg5vxibOyIw"
-    },
-    {
-      "added_at": "2023-05-16 15:57:09",
-      "album": {
         "name": "Verified Choppa 2",
         "url": "https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE"
       },
@@ -683,38 +667,18 @@
     {
       "added_at": "2023-05-16 15:57:09",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/6eYxm1llvPLQe5oW3d5tba"
       },
       "artists": [
         {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "Prince Swanny",
+          "url": "https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm"
         }
       ],
-      "duration_ms": 195829,
-      "name": "Vibe (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
-    },
-    {
-      "added_at": "2023-05-16 15:57:09",
-      "album": {
-        "name": "Gifted",
-        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 237458,
-      "name": "West Indies",
-      "url": "https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX"
+      "duration_ms": 250357,
+      "name": "Catch 22",
+      "url": "https://open.spotify.com/track/4ZYs6suTVIJPg5vxibOyIw"
     },
     {
       "added_at": "2023-05-16 15:57:09",
@@ -739,6 +703,42 @@
       "duration_ms": 195476,
       "name": "GYALIS (Remix) [feat. Chris Brown & Popcaan]",
       "url": "https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba"
+    },
+    {
+      "added_at": "2023-05-16 15:57:09",
+      "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 237458,
+      "name": "West Indies",
+      "url": "https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX"
+    },
+    {
+      "added_at": "2023-05-16 15:57:09",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 195829,
+      "name": "Vibe (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
     },
     {
       "added_at": "2023-05-16 15:57:09",

@@ -1,12 +1,12 @@
 {
   "description": "All the New Joints featuring J. Cole, Doja Cat, GloRilla and more!",
-  "num_followers": 264936,
+  "num_followers": 265068,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2JkMjQ3YThkYjI0YTljODlkYzBkYjRiYjUxMzA5MDAxY2ZmOGJk",
+  "snapshot_id": "MCw3MDRiMTRiODA2N2ZiODMzNGZhODI4NDEwMWMxNGExNjU3MjYxNjVk",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -704,12 +704,12 @@
       },
       "artists": [
         {
-          "name": "Gino Mondana",
-          "url": "https://open.spotify.com/artist/2vsRoBbScJXFoPggL3co4M"
-        },
-        {
           "name": "Fivio Foreign",
           "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Gino Mondana",
+          "url": "https://open.spotify.com/artist/2vsRoBbScJXFoPggL3co4M"
         }
       ],
       "duration_ms": 239604,

@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 34675,
+  "2024-04-07": 34712,
   "date_first_scraped": "2022-06-05",
   "description": "Dive into the deep end of the tech house spectrum.",
   "name": "Minimal Tech",
@@ -4068,6 +4068,24 @@
     },
     {
       "album": {
+        "name": "Seeder",
+        "url": "https://open.spotify.com/album/6YAkUQpPCA991mLigg7Dqk"
+      },
+      "artists": [
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Seeder",
+      "url": "https://open.spotify.com/track/4f6daDw6qcTuk2VFFDIltN"
+    },
+    {
+      "album": {
         "name": "Sete (Carlita Remix)",
         "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
       },
@@ -5505,7 +5523,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 315721,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/4etgCTIbvjFIJn4KpXjn75"
@@ -5527,7 +5545,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 368372,
       "name": "We Bring It",
       "url": "https://open.spotify.com/track/5klBsW9tLISCWfwJ82jI1l"
@@ -5679,6 +5697,28 @@
       "duration_ms": 344186,
       "name": "Wish Star",
       "url": "https://open.spotify.com/track/2PAw1tXuyFtvxYwIJonSd0"
+    },
+    {
+      "album": {
+        "name": "without you",
+        "url": "https://open.spotify.com/album/05maWYabu665iJoxUOxDHB"
+      },
+      "artists": [
+        {
+          "name": "QRTR",
+          "url": "https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj"
+        },
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336350,
+      "name": "without you",
+      "url": "https://open.spotify.com/track/7H42rYILst7JUooiGyqz9u"
     },
     {
       "album": {

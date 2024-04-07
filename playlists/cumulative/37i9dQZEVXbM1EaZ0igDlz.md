@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-121 songs - 6 hr 9 min
+122 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Koka Shem](https://open.spotify.com/track/2sj5vf9ss7eUxSIVUp50EW) | [MADE](https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj), [Bayor](https://open.spotify.com/artist/4fLyO8nvEon8gLjwvoRYne), [Rasa](https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4), [Skandal](https://open.spotify.com/artist/6a4F3jPvr13nmI6JsPCRFV), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO), [BARÉ](https://open.spotify.com/artist/1EhlCHNvUGcs4bi60tXXoB) | [Koka Shem](https://open.spotify.com/album/5yD7vbluNE2kizY0gU8hS3) | 2:53 | 2024-01-26 | 2024-02-03 |
 | [Komet](https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu) | [Udo Lindenberg](https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Komet](https://open.spotify.com/album/2XWoQ5VUcmGYL1025mZ5dO) | 2:47 | 2024-01-26 |  |
 | [Küssen](https://open.spotify.com/track/2FbTZrdW0KGqH7TOdZRHiP) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Küssen](https://open.spotify.com/album/4B2Ne3gGGMnP9zd3PdyuF1) | 2:19 | 2024-03-29 |  |
-| [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1) | 4:57 | 2024-04-05 |  |
+| [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1) | 4:57 | 2024-04-05 | 2024-04-07 |
+| [Lady Killers II \- Christoph Andersson Remix](https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/08JECZoQNpeSledQtNZp6H) | 4:57 | 2024-04-05 |  |
 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2024-01-26 |  |
 | [Lieb mich](https://open.spotify.com/track/4C9bsG159VjOQe0g1RgMi9) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Lieb mich](https://open.spotify.com/album/4274V2AE7IA8tSkhpEGNip) | 3:05 | 2024-02-16 | 2024-03-02 |
 | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [DORFDiSKO ZWEi](https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ) | 3:08 | 2024-01-26 | 2024-02-24 |

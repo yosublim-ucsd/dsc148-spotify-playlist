@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuiFJj5T7Ii.md) - [plain]
 
 > Our editor’s picks for best country songs of the year\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,166 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,501 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuiFJj5T7Ii.md) - [plain]
 | 74 | [Trouble](https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble](https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp) | 3:34 |
 | 75 | [Dance With You](https://open.spotify.com/track/5waGccg9kVLjBsaaqJNaRP) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Across The Sheets](https://open.spotify.com/album/7nWjFzbfY7W4FxTAzKfhMu) | 3:04 |
 
-Snapshot ID: `MCxkM2MyYTUwN2YxNDdiMGQ0Nzc5ZmE1ZGM3MzZkNjRmYjlmYWMyNGQ0`
+Snapshot ID: `MCw2MWZmY2MwYjY0Njk1Y2ZiMDAyNWIyOWNmMjZmNTc5NTllOGZmNDI4`

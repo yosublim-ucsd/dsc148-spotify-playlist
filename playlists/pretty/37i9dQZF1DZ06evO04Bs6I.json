@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 104671,
+  "num_followers": 104685,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTgxOGNmNGNjZWYyYmU5ZGE5ZjEzMmJkYjkxOGQxYjRkMmQxM2U0",
+  "snapshot_id": "MCxiZThlMGE0MGM2NjhmZDBkN2RkZWQ1MjI4MDE2NjU0ODVhOGExMmUz",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
-        "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
-      "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ela Brilha",
         "url": "https://open.spotify.com/album/3GHxmt33mCzl9JDww1zsEY"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 161838,
       "name": "Ela Brilha",
       "url": "https://open.spotify.com/track/1pqjV5tkr6KwMtKvcYcH2r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
+        "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
+      "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
     },
     {
       "added_at": null,

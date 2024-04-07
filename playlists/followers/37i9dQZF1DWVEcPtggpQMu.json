@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 77225,
+  "2024-04-07": 77266,
   "date_first_scraped": "2021-12-29",
   "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb?si=ZXqGyRHTQY2VCnM6FwepgQ\">Mark Akol</a>, <a href=\"https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8?si=Rk3WycIzTcO5bsOMhdziEg\">Sipho The Gift</a>",
   "name": "Mzansi Raps",
@@ -2521,6 +2521,24 @@
       "duration_ms": 158312,
       "name": "Calls On Me",
       "url": "https://open.spotify.com/track/3HsdEh6AiLR4OM8fuTBdZ9"
+    },
+    {
+      "album": {
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/1a1UUMwJ6IafQNQo9I7qDB"
+      },
+      "artists": [
+        {
+          "name": "Roiii",
+          "url": "https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162471,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/1fDC4IXBlkHuAPugpCDqOo"
     },
     {
       "album": {

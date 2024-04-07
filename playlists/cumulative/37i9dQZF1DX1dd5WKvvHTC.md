@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1dd5WKvvHTC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1dd5WKvvHTC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1dd5WKvvHTC)
 
-### [Noteable Releases](https://open.spotify.com/playlist/37i9dQZF1DX1dd5WKvvHTC)
+### [Noteable](https://open.spotify.com/playlist/37i9dQZF1DX1dd5WKvvHTC)
 
-> Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:0BCD9XnZVhdY2vojKAPAiT">Bella Mae</a> with collaborator Alex Stacey.
+> Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:0BCD9XnZVhdY2vojKAPAiT">Bellah Mae</a> with collaborator Alex Stacey.
 
 121 songs - 6 hr 39 min
 

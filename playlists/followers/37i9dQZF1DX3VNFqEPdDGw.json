@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 158898,
+  "2024-04-07": 158924,
   "date_first_scraped": "2021-12-28",
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Intense & G.Sidhu",
   "name": "Bhangra Bangers",
@@ -1345,7 +1345,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 230204,
       "name": "NachLai Goriye",
       "url": "https://open.spotify.com/track/4QrBpxWTjXHj7oYTO2EBBY"
@@ -1821,6 +1821,28 @@
       "duration_ms": 218965,
       "name": "Surma",
       "url": "https://open.spotify.com/track/2EKPi0tqWGoCMRUm0OimC1"
+    },
+    {
+      "album": {
+        "name": "Talent",
+        "url": "https://open.spotify.com/album/5dismcE2Q67SiWDKJegivO"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "Mahi",
+          "url": "https://open.spotify.com/artist/2d8qE6GstnxgGtOd36VVrs"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192831,
+      "name": "Talent",
+      "url": "https://open.spotify.com/track/0EeKOCYS9jaOLaqYyWvq9N"
     },
     {
       "album": {

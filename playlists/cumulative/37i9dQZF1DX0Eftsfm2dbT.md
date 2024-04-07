@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: 5lack
 
-596 songs - 1 day 6 hr 39 min
+597 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,8 @@
 | [NARI\-A\-GARI](https://open.spotify.com/track/1qu08a7i7udyKuzl1vN8tY) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [NARI\-A\-GARI](https://open.spotify.com/album/62chPPgbtNWbyCoaU4AsyR) | 2:45 | 2024-01-09 | 2024-01-17 |
 | [Natural Buzz](https://open.spotify.com/track/19fy3JDujAYlCL0f0LZUHx) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [OHZKEY](https://open.spotify.com/artist/71j3AMPO4zOfdTMc7Blt5j), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [castermild](https://open.spotify.com/artist/6gNIKY01gcqrLVU26YJ4RX) | [DAY TIME SNACK](https://open.spotify.com/album/0puKoRo0S118LVlME7ELtp) | 3:01 | 2024-03-21 |  |
 | [Nemo](https://open.spotify.com/track/7pv8pecHsyLltcAIkMgONT) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [SUKI](https://open.spotify.com/album/5FtdjnKZr1DPSFCPQQiQeR) | 3:07 | 2024-02-28 |  |
-| [Neon \- Fully Active Ver.](https://open.spotify.com/track/15FP3rWLIaHSUYK9ueTVZ2) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [SAMI\-T](https://open.spotify.com/artist/4FUGDAUEO5GLcnFANJ25KE) | [Neon \(Fully Active Ver.\)](https://open.spotify.com/album/4Nh33dLPawNhBASd2Q6L0p) | 4:43 | 2024-03-12 |  |
+| [Neon \- Fully Active Ver.](https://open.spotify.com/track/00GoNIoXYLDnm3jMGr5mKE) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [SAMI\-T](https://open.spotify.com/artist/4FUGDAUEO5GLcnFANJ25KE) | [DANCE](https://open.spotify.com/album/1A1yMVgOJlvlO8pkia9ThB) | 4:43 | 2024-04-02 |  |
+| [Neon \- Fully Active Ver.](https://open.spotify.com/track/15FP3rWLIaHSUYK9ueTVZ2) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [SAMI\-T](https://open.spotify.com/artist/4FUGDAUEO5GLcnFANJ25KE) | [Neon \(Fully Active Ver.\)](https://open.spotify.com/album/4Nh33dLPawNhBASd2Q6L0p) | 4:43 | 2024-03-12 | 2024-04-07 |
 | [Neon \- Fully Active Ver.](https://open.spotify.com/track/5N4M51oo4pop3zpB8LWIMI) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [SAMI\-T](https://open.spotify.com/artist/4FUGDAUEO5GLcnFANJ25KE) | [Neon \(Fully Active Ver.\)](https://open.spotify.com/album/1yREloSCNLtuwONK55o90w) | 4:43 | 2024-03-12 | 2024-03-14 |
 | [never4ever](https://open.spotify.com/track/5lEJuqYmCHLXdHIfYJwsEv) | [BBY NABE](https://open.spotify.com/artist/4zb2mUkgFg9NGwAJnzlS8B), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [now that UR gone](https://open.spotify.com/album/4pujOHKtOo25md7rMwnRLE) | 2:48 | 2023-09-28 | 2023-11-16 |
 | [New](https://open.spotify.com/track/2GhyoDmyAJrrxAczVaBNYz) | [OSAMI](https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr) | [New](https://open.spotify.com/album/2uCilGcs4sSm99a3QUXNjO) | 2:13 | 2024-01-30 | 2024-03-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: LEGADO 7 y Codiciado
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,935 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,072 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 11 | [En El Mapa](https://open.spotify.com/track/1dgf1y71lCJzdrkYZbI8jf) | [Grupo El Sistema](https://open.spotify.com/artist/1ZsO0mRu281l2t1eM7Arik), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [En El Mapa](https://open.spotify.com/album/4Rh6LlzC3itBao0yLBhwTR) | 3:00 |
 | 12 | [Tutorial Para Olvidar](https://open.spotify.com/track/3xnwUTX6029BDnDm3UoFnl) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Tutorial Para Olvidar](https://open.spotify.com/album/39v3Q460WaU1ZHMOMgU6UP) | 3:17 |
 | 13 | [Dos Fusilazos](https://open.spotify.com/track/2GunakQJLAg1sB9ZAe0GLe) | [Grupo Roble](https://open.spotify.com/artist/2geZEw80wwqGr0T8GKJHri), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Dos Fusilazos](https://open.spotify.com/album/38w4S9BQJfY9zgZW19WQMG) | 3:11 |
-| 14 | [Sigan Atentos \(En Vivo\)](https://open.spotify.com/track/33dfUEZfNAJhBuMEcnqeGG) | [Luis Alfredo](https://open.spotify.com/artist/53Waeqcmt4b1j00WrdUgbg), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sigan Atentos \(En Vivo\)](https://open.spotify.com/album/5ttSejUtJ2WApuzHvNX4O7) | 3:58 |
+| 14 | [Sigan Atentos \(En Vivo\)](https://open.spotify.com/track/33dfUEZfNAJhBuMEcnqeGG) | [Luis Alfredo](https://open.spotify.com/artist/53Waeqcmt4b1j00WrdUgbg) | [Sigan Atentos \(En Vivo\)](https://open.spotify.com/album/5ttSejUtJ2WApuzHvNX4O7) | 3:58 |
 | 15 | [El rápido y la muerte](https://open.spotify.com/track/1IsSTMD9AL0wokF1pfxiyd) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [El rápido y la muerte](https://open.spotify.com/album/4KEAWW8uiHym3lJLk35aKb) | 2:20 |
 | 16 | [Ganas De Ti](https://open.spotify.com/track/6HmqcVpzZrbvec4Tdpn7LB) | [Ismael CM](https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Yahir Tarin](https://open.spotify.com/artist/2YUtlNyQTom6uTK0wV0HMQ) | [Ganas De Ti](https://open.spotify.com/album/3oOyMmhpVUQ0r8BdP1y5ox) | 3:11 |
 | 17 | [El Chargerson](https://open.spotify.com/track/6I9paxSvcPli328O9uEcbj) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [El Chargerson](https://open.spotify.com/album/4ynhOVtRoexg76vEJmoAHW) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Disfrutar](https://open.spotify.com/track/5v31Wf3Bai2eG1ixK3QMQe) | [Mauricio Flores](https://open.spotify.com/artist/1TrsOYuLoKesPD9T231y35), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [Play Boyz 4 Life](https://open.spotify.com/album/3J5meRbwacbOJ0mKwuJPC6) | 2:59 |
 | 50 | [No Me Dolió \- En Vivo](https://open.spotify.com/track/5oivURgqwKtwiHdcBL3NLW) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci), [Bricia](https://open.spotify.com/artist/1AGGma0Bngb67NJKa1RJMS) | [No Me Dolió \(En Vivo\)](https://open.spotify.com/album/0V5FnM0mtQqJ9SE2y72PEx) | 3:18 |
 
-Snapshot ID: `MCxkMWFkZTAzZDg3OWUyNTY2MDA5Y2IzNWNkZjg3YmNiZTAwNjBkOTRm`
+Snapshot ID: `MCw2YmMxNTA2YzI5MDU2OTYwZjg0OGM4MzY5OWU2MGRhYTExODUxZTU2`

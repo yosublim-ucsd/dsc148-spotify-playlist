@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "The Full Moon Project",
+        "url": "https://open.spotify.com/album/0VraDVmjkr0vVjaZqLM7bi"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169584,
+      "name": "Bad News from Home",
+      "url": "https://open.spotify.com/track/0HQ2t0Yl9qYmsSz38a22lW"
+    },
+    {
+      "album": {
         "name": "Bad Religion / A Pair Of Brown Eyes",
         "url": "https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp"
       },
@@ -7356,7 +7374,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 214945,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/3HuDP04EGt9J2aOYMo1cp0"

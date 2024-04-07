@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: <a href="spotify:artist:47TMF0JlFsz01KilGzc5Ly">Kalan.FrFr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,536 likes - 56 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,544 likes - 56 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 25 | [Rusty](https://open.spotify.com/track/06Lb3JRTvTGlfNzOLAKphA) | [Bla$ta](https://open.spotify.com/artist/2bfz6u4hgmuMljhyMPCzoZ), [Hombre](https://open.spotify.com/artist/4U8we6EBUUQLhGXdU7wdja) | [Be Extra Careful](https://open.spotify.com/album/1jCzbZ5jEBimyCpNfbRbXd) | 2:12 |
 | 26 | [Slow It Down \(feat\. 310babii\) \- Remix](https://open.spotify.com/track/3r97LXa3iVLKB6FHUbb0k1) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Slow It Down \(feat\. Heembeezy\) \[Remix\]](https://open.spotify.com/album/5DfduHI6DbY2GX29AhT5qA) | 2:51 |
 | 27 | [Nun Average](https://open.spotify.com/track/1YwT0bOa25mRNyKIg331XH) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Nun Average](https://open.spotify.com/album/5PBKs2mB0CwRrGMFkzGYcN) | 2:59 |
-| 28 | [Summers Around The Corner](https://open.spotify.com/track/19mq0Se4ojoaBn1dAiXGcP) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [California Poppy 3](https://open.spotify.com/album/2rQcJDMTU24dEnylHwZX9q) | 3:48 |
+| 28 | [Summers Around The Corner](https://open.spotify.com/track/19mq0Se4ojoaBn1dAiXGcP) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [California Poppy 3](https://open.spotify.com/album/2rQcJDMTU24dEnylHwZX9q) | 3:48 |
 | 29 | [Closer](https://open.spotify.com/track/2mAMcZ18iCU39tTF0PHvVx) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Closer](https://open.spotify.com/album/5heDsRjgWf63G0F3dzGEji) | 3:33 |
 | 30 | [scrooge xmas](https://open.spotify.com/track/58GdcDyuQEoOR6qNESFDxb) | [Morgan Reese](https://open.spotify.com/artist/4Ro2elWptpQoQOLV1F2JoR) | [scrooge xmas](https://open.spotify.com/album/5WThE42kHN1hinvHsE8Px4) | 3:30 |
 | 31 | [Home \(anaiis Remix\)](https://open.spotify.com/track/2baU4gZ7YltWBxO5kveHCK) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Could We Be More Remixes](https://open.spotify.com/album/1lLEKH0KEbDDW6Wgw4EEDA) | 3:09 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 55 | [Warmer with You](https://open.spotify.com/track/3FIU12rRLkfrHdA0vBIsHN) | [Bee\-B](https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc) | [Warmer with You](https://open.spotify.com/album/5SwM2wVqEX9FmRHgTOfuL5) | 2:17 |
 | 56 | [Amnesia](https://open.spotify.com/track/5epc7WKFAgcqJkfwBidCOM) | [Griff Tyler](https://open.spotify.com/artist/6haDJLArD4GA9AF3YM2EVS) | [When Summer's Over](https://open.spotify.com/album/6r3PvzOCS8xQUfBSmrBd2e) | 3:26 |
 
-Snapshot ID: `MCwxMTcwNGYyYmM4NzVjMjc4Mzc5ODhhMmVhYzE0M2U0NmRjNGIyODk5`
+Snapshot ID: `MCw3OTJlZGU1OGM2ZmQ3MzAwZTE4YzliNTFkMmY4ZjEwY2M2Mjc3NjFi`

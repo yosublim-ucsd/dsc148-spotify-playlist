@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,172 likes - 92 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,203 likes - 92 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 14 | [Yaad](https://open.spotify.com/track/3lDyGOF6PU4jXJIlbEkHR5) | [ZOH](https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU) | [Yaad](https://open.spotify.com/album/1qQB65zqRUkzuSqla06oSg) | 2:45 |
 | 15 | [Kaise](https://open.spotify.com/track/0VycxVlytnXv4pNAWcHKYw) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Sutra](https://open.spotify.com/album/1WJY9xw9KJVtEplbSfn2HU) | 2:40 |
 | 16 | [SAANJH](https://open.spotify.com/track/5OSxU2StODRzKaP6LtpEiH) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [SAANJH](https://open.spotify.com/album/7gtO3PyK8Sb1tRsFrjEAhZ) | 1:51 |
-| 17 | [Turiya Turiya](https://open.spotify.com/track/1F6QRDyVmsTu3rBdeo78mY) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Kahani](https://open.spotify.com/album/1WqUCvqJAnYhFOVoRl9zXO) | 2:46 |
+| 17 | [Turiya Turiya](https://open.spotify.com/track/1F6QRDyVmsTu3rBdeo78mY) | [Asad Khan](https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q) | [Kahani](https://open.spotify.com/album/1WqUCvqJAnYhFOVoRl9zXO) | 2:46 |
 | 18 | [Siachen \[Jog Rework\]](https://open.spotify.com/track/5t91oMePoTBy68Gqx871fp) | [Fake Shamans](https://open.spotify.com/artist/3EI9a3jBhsXHQPFYZXJzQi), [Rakae Jamil](https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa), [Farhan Ali](https://open.spotify.com/artist/1sYPIiSyj5kE6TjQcvEvb1), [Aizaz Sohail](https://open.spotify.com/artist/69jbAALzkYxF5CgdADXfVM) | [Siachen \[Jog Rework\]](https://open.spotify.com/album/0Bj7DWZ4XIazLZHxreHGhJ) | 5:59 |
 | 19 | [Tere Baajo](https://open.spotify.com/track/1Giy9XohjL9TZPGfm90jim) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Tere Baajo](https://open.spotify.com/album/4GKHmod11S1lF33zJH5LIQ) | 3:12 |
 | 20 | [Papi \(Bhabi\)](https://open.spotify.com/track/2jxJzUWxqX2fnQTD9lmi2x) | [Eden Shalev](https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe) | [Papi \(Bhabi\)](https://open.spotify.com/album/3CmWvWiEAkuipFIqyhs5ps) | 5:46 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 91 | [Bop](https://open.spotify.com/track/3YHweGUJ3Qds95EScnZewK) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Bop](https://open.spotify.com/album/4rJKZBpvy22QPs3S5h7cUj) | 5:08 |
 | 92 | [Tripasia](https://open.spotify.com/track/4NqaNXn9bw7PmXjOFW8vmp) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/0WzBEyEM7oj5GqehqqwHlg) | 2:56 |
 
-Snapshot ID: `MCwxMDMyNzgyNmRlOWY5ZjRkYmZkNjU5NjQ0OGQxYjY4MzUxYjc4NjNh`
+Snapshot ID: `MCwwYjQxYTBlNWY0NGViMWUwM2E0OGM2ZTRkOTE5ZWY4Y2Q0NzI2NmFj`

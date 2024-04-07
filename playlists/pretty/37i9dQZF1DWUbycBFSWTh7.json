@@ -1,12 +1,12 @@
 {
   "description": "get into the groove",
-  "num_followers": 189451,
+  "num_followers": 189514,
   "original_name": "Deep House Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWVkYzhiNzhhOTFjNDkxMjY2YzBkNzdlMTg1YTgxYjE4NWU4YzEz",
+  "snapshot_id": "MCxkNTFjMzU2NGFiNWMzZmI4MzMzZDU3MTRkYTZiNzI3NDhmN2QwNTJk",
   "tracks": [
     {
       "added_at": "2024-04-04 22:01:00",
@@ -952,8 +952,12 @@
       },
       "artists": [
         {
-          "name": "Milion, Job de Jong",
-          "url": "https://open.spotify.com/artist/4sTtPUzjFh2toZvKQsykds"
+          "name": "Milion",
+          "url": "https://open.spotify.com/artist/2BpTIA4LzHkN2CO8VbCuxe"
+        },
+        {
+          "name": "Job De Jong",
+          "url": "https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI"
         }
       ],
       "duration_ms": 390697,

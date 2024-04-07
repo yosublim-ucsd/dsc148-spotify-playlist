@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Wiranda johansen en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,164 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,184 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Te conocí](https://open.spotify.com/track/2unxfFBxztipMMnZFFm02a) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Te conocí](https://open.spotify.com/album/2KkOssmITRyGi5FWAUTsx6) | 3:29 |
 | 50 | [Frenos](https://open.spotify.com/track/11yIt1zcPxuzpej8OU1TVh) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [Frenos](https://open.spotify.com/album/5x2bLLQwL74zawwOFU0IYG) | 3:09 |
 
-Snapshot ID: `MCw4ZmE3YmYyZGE1YWZiNWYxZTE5MmMwMzkxMzE4NDYzYmEzZTdkNTY5`
+Snapshot ID: `MCxjMWNjNzQ4NWZmOWExZmEwOWY1NDE5ZDNkM2M1MWU3ZTQ5NzY0ODQ3`

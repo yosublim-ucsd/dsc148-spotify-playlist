@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 601029,
+  "num_followers": 601150,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzcxOTEzNjI3ZTk2MTQ3ZTc0YTRkODIzMTMwMWM5ODc1Yjg1ODc4",
+  "snapshot_id": "MCw0N2JiODQ2ZGNiNDE0NTliNWMzYTFhMWE0OThlOGNlZTg1YzE5OWJj",
   "tracks": [
     {
       "added_at": "2024-02-16 19:57:55",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Spirit's Furnace",
-        "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 169254,
-      "name": "Hammers and Nails",
-      "url": "https://open.spotify.com/track/5QWvi6JbRVpeFm1Db7ZMok"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 277653,
       "name": "It Will Come Back",
       "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Spirit's Furnace",
+        "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 169254,
+      "name": "Hammers and Nails",
+      "url": "https://open.spotify.com/track/5QWvi6JbRVpeFm1Db7ZMok"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Oh, Willie, Please...",
-        "url": "https://open.spotify.com/album/6zAjJYvX7qsgoRPNMAZeN3"
-      },
-      "artists": [
-        {
-          "name": "Vandaveer",
-          "url": "https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A"
-        }
-      ],
-      "duration_ms": 228958,
-      "name": "Pretty Polly",
-      "url": "https://open.spotify.com/track/6XixumK1atNVgBVoqpNvAg"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/1LkiSSGpC70DBh7UsGB0y2"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 111186,
       "name": "Dreamcatchers",
       "url": "https://open.spotify.com/track/66K0gSHdemfDspYgDgPrcf"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Oh, Willie, Please...",
+        "url": "https://open.spotify.com/album/6zAjJYvX7qsgoRPNMAZeN3"
+      },
+      "artists": [
+        {
+          "name": "Vandaveer",
+          "url": "https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A"
+        }
+      ],
+      "duration_ms": 228958,
+      "name": "Pretty Polly",
+      "url": "https://open.spotify.com/track/6XixumK1atNVgBVoqpNvAg"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Bottom of the River",
-        "url": "https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED"
-      },
-      "artists": [
-        {
-          "name": "Delta Rae",
-          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Bottom of the River",
-      "url": "https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Nobody knows.",
         "url": "https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 279733,
       "name": "Too Dry To Cry",
       "url": "https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Bottom of the River",
+        "url": "https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED"
+      },
+      "artists": [
+        {
+          "name": "Delta Rae",
+          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Bottom of the River",
+      "url": "https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Lions And Lambs",
-        "url": "https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ"
-      },
-      "artists": [
-        {
-          "name": "Cary Ann Hearst",
-          "url": "https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "Hell's Bells",
-      "url": "https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 186960,
       "name": "Sharecropper\u2019s Son",
       "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Lions And Lambs",
+        "url": "https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ"
+      },
+      "artists": [
+        {
+          "name": "Cary Ann Hearst",
+          "url": "https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "Hell's Bells",
+      "url": "https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "When the River Took Flight",
-        "url": "https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB"
-      },
-      "artists": [
-        {
-          "name": "Paper Bird",
-          "url": "https://open.spotify.com/artist/3KPP9ZbN4Yu5mEQj2UWRqn"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "Lost Boys",
-      "url": "https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Horehound",
         "url": "https://open.spotify.com/album/1nxECUyuIZF5JCrO9Xo2jO"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 380160,
       "name": "Will There Be Enough Water?",
       "url": "https://open.spotify.com/track/3VYbLgJNS7Jr7YlatA0lNe"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "When the River Took Flight",
+        "url": "https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB"
+      },
+      "artists": [
+        {
+          "name": "Paper Bird",
+          "url": "https://open.spotify.com/artist/3KPP9ZbN4Yu5mEQj2UWRqn"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
-      },
-      "artists": [
-        {
-          "name": "Delta Rae",
-          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
-        }
-      ],
-      "duration_ms": 180920,
-      "name": "The Beast",
-      "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "By The Rule",
         "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 190946,
       "name": "Get What You Give",
       "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
+      },
+      "artists": [
+        {
+          "name": "Delta Rae",
+          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
+        }
+      ],
+      "duration_ms": 180920,
+      "name": "The Beast",
+      "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Anna & Elizabeth",
-        "url": "https://open.spotify.com/album/5yajiidmeTtXWvsz0MZIlJ"
-      },
-      "artists": [
-        {
-          "name": "Anna & Elizabeth",
-          "url": "https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7"
-        }
-      ],
-      "duration_ms": 88293,
-      "name": "Long Time Travelin'",
-      "url": "https://open.spotify.com/track/40Z0RlvQXnw1Lil59ueR1g"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Hell Among The Yearlings",
         "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 270893,
       "name": "The Devil Had A Hold Of Me",
       "url": "https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Anna & Elizabeth",
+        "url": "https://open.spotify.com/album/5yajiidmeTtXWvsz0MZIlJ"
+      },
+      "artists": [
+        {
+          "name": "Anna & Elizabeth",
+          "url": "https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7"
+        }
+      ],
+      "duration_ms": 88293,
+      "name": "Long Time Travelin'",
+      "url": "https://open.spotify.com/track/40Z0RlvQXnw1Lil59ueR1g"
     },
     {
       "added_at": "2024-02-16 19:57:55",

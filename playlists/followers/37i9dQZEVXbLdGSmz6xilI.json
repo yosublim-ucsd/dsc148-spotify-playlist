@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 91245,
+  "2024-04-07": 91258,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Vietnam.",
   "name": "Top 50 - Vietnam",
@@ -4829,7 +4829,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 148880,
       "name": "Don't C\u00f4i",
       "url": "https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy"
@@ -5549,7 +5549,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 183236,
       "name": "Em Xinh",
       "url": "https://open.spotify.com/track/6IHLOkgZftkcqS3fM0jMCT"
@@ -14039,7 +14039,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 170356,
       "name": "SHEESH",
       "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
@@ -18967,6 +18967,24 @@
       "duration_ms": 192000,
       "name": "\u0110\u1ec3 Anh M\u1ed9t M\u00ecnh (feat. Quang Anh Rhyder)",
       "url": "https://open.spotify.com/track/5Wgify5hhk544rP3bSp38q"
+    },
+    {
+      "album": {
+        "name": "\u0110\u1ec3 N\u00f3 \u0110\u1ebfn",
+        "url": "https://open.spotify.com/album/4i8YeSRnK4jfQ1WCFPzTDV"
+      },
+      "artists": [
+        {
+          "name": "Th\u1eafng",
+          "url": "https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268148,
+      "name": "\u0110\u1ec3 N\u00f3 \u0110\u1ebfn",
+      "url": "https://open.spotify.com/track/6mg6biMH1unKldegMb84SB"
     },
     {
       "album": {

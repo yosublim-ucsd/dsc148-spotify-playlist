@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET?si=k\-FfLSpCRzafA\-Qf9Eta2g">Benson Boone</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,951 likes - 67 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,984 likes - 67 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 54 | [BIG DAWG](https://open.spotify.com/track/7pTBMsn72jgNhvpOCsJfST) | [Mark Akol](https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb), [Sipho the Gift](https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8) | [THE HEIST](https://open.spotify.com/album/4WX5zJBwQAvWqNFjjpkgh0) | 2:08 |
 | 55 | [Dream State](https://open.spotify.com/track/1nLU0aUyHaza8hZm1Jp6lu) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Dream State](https://open.spotify.com/album/6KYn1PrwI7cV9BLiv6rBBK) | 8:39 |
 | 56 | [TransAtlantic](https://open.spotify.com/track/4MYix6DTtXSfGXiU3zZl2s) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Enhlizweni \- song stories from my heartland](https://open.spotify.com/album/5RU6d9EUUKKvNzpBVlUcgK) | 7:22 |
-| 57 | [Ezilalini](https://open.spotify.com/track/4b5ka6UvhGACUHFE4QEzM5) | [McCoy Mrubata](https://open.spotify.com/artist/1s3Cp2bZrnzP9rOFeIJvw5) | [McCoy Mrubata & Siyabulela](https://open.spotify.com/album/7kjT2dbEf7fXgoNuc5coI6) | 8:11 |
+| 57 | [Ezilalini](https://open.spotify.com/track/4b5ka6UvhGACUHFE4QEzM5) | [McCoy Mrubata](https://open.spotify.com/artist/1s3Cp2bZrnzP9rOFeIJvw5) | [Lullaby For Khayoyo](https://open.spotify.com/album/7kjT2dbEf7fXgoNuc5coI6) | 8:11 |
 | 58 | [Double Trouble](https://open.spotify.com/track/1Ew5OGJVIk6LlaaROAh1A4) | [Teemza](https://open.spotify.com/artist/2tWWbox2be8aKKmqVGIPh8), [DJ Pre\_Tedzo](https://open.spotify.com/artist/400t5TF613nIQZtSopkVgZ) | [Double Trouble](https://open.spotify.com/album/3mt2gKh6JQwlMkNjSu8zXI) | 7:13 |
 | 59 | [Yesterdays \(feat\. The Joy\)](https://open.spotify.com/track/1okuNL7KUMVcsyQYP4opgS) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Yesterdays \(feat\. The Joy\)](https://open.spotify.com/album/3CzyMfuiSHJnFunWMMAyhy) | 3:36 |
 | 60 | [Be The One](https://open.spotify.com/track/1UUuxm4IdF4eKrKnWz1A8E) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Be The One](https://open.spotify.com/album/1iw0ZK3YudlgGU6k8xi2Tm) | 2:39 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 66 | [Tonight](https://open.spotify.com/track/2GBfPNvZqNmIG8lgF8p9tU) | [Mary Jane](https://open.spotify.com/artist/6N2ZOBipWXmuFn5uzXoVpr) | [Tonight](https://open.spotify.com/album/1xTXtXOgV8leQWJkWjjjNA) | 3:21 |
 | 67 | [Molo sisi](https://open.spotify.com/track/6LLN5PlzmkzzS5zFnCsTQ7) | [Thabo Krouwkam](https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54), [zee@eez](https://open.spotify.com/artist/6oDWtx8trbunM8zKdwbw2e) | [Molo sisi](https://open.spotify.com/album/1gCMH1hIiQK18K3RE8BiAp) | 4:11 |
 
-Snapshot ID: `MCw3OWZiMjg2NTM5YjIzNDhjZWRmY2I0NzViZjk1ZDBiMTM0MzQ1NWI3`
+Snapshot ID: `MCwxYjc0NTRmZjZkOTQ4Y2EyYWQ2ZmE2NzEyYzU1ZmFjMzI5ODNhYWRh`

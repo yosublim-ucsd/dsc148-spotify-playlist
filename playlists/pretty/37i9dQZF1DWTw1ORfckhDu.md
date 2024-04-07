@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Averagekidluke.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,800 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,808 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Sun puolesta](https://open.spotify.com/track/6vQsDGaqm6A0qpydE2GL9z) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Sun puolesta](https://open.spotify.com/album/400wyoAJHxbFJvJXGBcz4K) | 2:59 |
 | 60 | [MURDV](https://open.spotify.com/track/1AWpTnYMAIyuENulfwT0j4) | [MJ](https://open.spotify.com/artist/6DuYuCr5tT6QMfDVjjivcj) | [MURDV](https://open.spotify.com/album/4Ht1Eiy3hAjV1RJ53486Sq) | 2:01 |
 
-Snapshot ID: `MCw1N2VlODQ4ZjNjZDA1NTZjOWM0NGQyYjZjYmIxMGNlMDhhNjYwMWZi`
+Snapshot ID: `MCwzNTllYjFlN2Q3NzA3MTU3OGU4NjZjYjQ3YjViMDQzMGNlZDc4YjUy`

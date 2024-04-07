@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 170407,
+  "2024-04-07": 170479,
   "date_first_scraped": "2022-05-11",
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: LITE",
   "name": "Math Rock",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 209971,
       "name": "Andes",
       "url": "https://open.spotify.com/track/0RqMmK2Cf5TuSekASvzxwL"
@@ -2399,6 +2399,24 @@
       "duration_ms": 284413,
       "name": "Voces iluminadas por sonrientes",
       "url": "https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8"
+    },
+    {
+      "album": {
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/1Ik8CQhqiqQ2Z2Rm0ovN4Y"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284413,
+      "name": "Voces Iluminadas Por Sonrientes",
+      "url": "https://open.spotify.com/track/5iTyb3SRN7rqXH9qjRlMUI"
     },
     {
       "album": {

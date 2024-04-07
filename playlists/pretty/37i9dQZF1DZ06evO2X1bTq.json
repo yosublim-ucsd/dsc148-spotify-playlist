@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1205220,
+  "num_followers": 1205322,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTlhN2JmYjg0ODkxOGNhMTMyYmQ5MjA4OGI0MmJjOTNiNzYwYjE3",
+  "snapshot_id": "MCxmMmM3YzAyMjljYTlkZGY5YzBmMDc5MTVkMjlmNzcwNzVmZTZiNmI4",
   "tracks": [
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 330506,
-      "name": "Ultra Violet (Light My Way)",
-      "url": "https://open.spotify.com/track/5WCtoomAl0y1mgVh1Yuj0a"
+      "duration_ms": 316426,
+      "name": "Who's Gonna Ride Your Wild Horses",
+      "url": "https://open.spotify.com/track/4SzIZFruLhiAzhuMtAhIRt"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 316426,
-      "name": "Who's Gonna Ride Your Wild Horses",
-      "url": "https://open.spotify.com/track/4SzIZFruLhiAzhuMtAhIRt"
+      "duration_ms": 330506,
+      "name": "Ultra Violet (Light My Way)",
+      "url": "https://open.spotify.com/track/5WCtoomAl0y1mgVh1Yuj0a"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop",
-        "url": "https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3"
+        "name": "Songs Of Surrender",
+        "url": "https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 318666,
-      "name": "Discotheque",
-      "url": "https://open.spotify.com/track/3IrhUrZKAkJ8LsFtH71fOT"
+      "duration_ms": 263919,
+      "name": "Invisible - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw"
     }
   ],
   "unique_name": "This Is U2",

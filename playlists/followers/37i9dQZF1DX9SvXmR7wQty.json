@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 40261,
+  "2024-04-07": 40274,
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Laurence Nerbonne",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ariane Roy",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -1109,7 +1109,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 254773,
       "name": "_mar le temps des fleurs",
       "url": "https://open.spotify.com/track/18vjlV9mj6tYB6dPxPozuS"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 158990,
       "name": "Accros au danger",
       "url": "https://open.spotify.com/track/3lND2zJZoRWVMGf64mlXVQ"
@@ -2109,7 +2109,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 179280,
       "name": "Amiri jeans",
       "url": "https://open.spotify.com/track/4YCvIRnKeOQfKbJXNWKZw5"
@@ -3249,7 +3249,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 186071,
       "name": "Avec classe (feat. Aya Nakamura & Trinix)",
       "url": "https://open.spotify.com/track/2RqZ8JUBXP4C0nzttGnTL1"
@@ -3479,6 +3479,24 @@
       "duration_ms": 156933,
       "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
       "url": "https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg"
+    },
+    {
+      "album": {
+        "name": "D\u00c9CROISSANCE PERSONNELLE",
+        "url": "https://open.spotify.com/album/5CxuhD698gqnpkrX4Sdik6"
+      },
+      "artists": [
+        {
+          "name": "Calamine",
+          "url": "https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171705,
+      "name": "BACKLASH",
+      "url": "https://open.spotify.com/track/1GuFjQbO3isg7vUPxdtm3N"
     },
     {
       "album": {
@@ -6998,6 +7016,24 @@
     },
     {
       "album": {
+        "name": "Cha cha",
+        "url": "https://open.spotify.com/album/5Z1docFNst7CuItaTQmyWd"
+      },
+      "artists": [
+        {
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163240,
+      "name": "Cha cha",
+      "url": "https://open.spotify.com/track/1YyrlP0MgMKq4CKEaURuDN"
+    },
+    {
+      "album": {
         "name": "Chaise pliante, pt. 10",
         "url": "https://open.spotify.com/album/1tIGJ9Z67o0udH2OFSbep0"
       },
@@ -7691,6 +7727,24 @@
       "duration_ms": 215826,
       "name": "CIT\u00c9S DE FRANCE",
       "url": "https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2"
+    },
+    {
+      "album": {
+        "name": "Clair-obscur",
+        "url": "https://open.spotify.com/album/2LjMKk3L8nwesuU0TfaoeQ"
+      },
+      "artists": [
+        {
+          "name": "En St\u00e9r\u00e9o",
+          "url": "https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "Clair-obscur",
+      "url": "https://open.spotify.com/track/2ygsVMFAHpxVIbNpssBpnT"
     },
     {
       "album": {
@@ -10575,7 +10629,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 197142,
       "name": "Derni\u00e8re danse - Techno Mix",
       "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
@@ -11229,6 +11283,24 @@
       "duration_ms": 167573,
       "name": "Djo",
       "url": "https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO"
+    },
+    {
+      "album": {
+        "name": "Doggy",
+        "url": "https://open.spotify.com/album/5cSq4ThXJUx5kyFZePn5go"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132676,
+      "name": "Doggy",
+      "url": "https://open.spotify.com/track/5S1ianZQLvtoL2A7rUETlq"
     },
     {
       "album": {
@@ -12864,6 +12936,24 @@
     },
     {
       "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/4VWzcrgzEzJdGVsonFBVKy"
+      },
+      "artists": [
+        {
+          "name": "Roch Voisine",
+          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295213,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/3SdSxeLGGBlsvRrWsYtYxj"
+    },
+    {
+      "album": {
         "name": "Encore ben amoureux",
         "url": "https://open.spotify.com/album/4Xw8JlSme5o3LYJIDx5JqC"
       },
@@ -13867,7 +13957,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 181266,
       "name": "Facile",
       "url": "https://open.spotify.com/track/5eBvtV7vtYOOjXWq80YcQ6"
@@ -14749,7 +14839,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 188946,
       "name": "Fio Maravilha",
       "url": "https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh"
@@ -18232,6 +18322,28 @@
     },
     {
       "album": {
+        "name": "Interdit meilleur",
+        "url": "https://open.spotify.com/album/6QDiyXRVK8SdFxLHpzd05F"
+      },
+      "artists": [
+        {
+          "name": "Die-On",
+          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202959,
+      "name": "Interdit meilleur",
+      "url": "https://open.spotify.com/track/1iAGP7PrIkXjCbQ1Qv1xML"
+    },
+    {
+      "album": {
         "name": "Pr\u00e9sence d'esprit",
         "url": "https://open.spotify.com/album/2l642fbBnGoi2872LHn9Yl"
       },
@@ -19777,7 +19889,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 172263,
       "name": "Je pense \u00e0 vous",
       "url": "https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX"
@@ -22260,6 +22372,24 @@
     },
     {
       "album": {
+        "name": "La libert\u00e9 (c'est de suivre le plan)",
+        "url": "https://open.spotify.com/album/6RHi78N5mfS1tnCzZmCnCQ"
+      },
+      "artists": [
+        {
+          "name": "Tire Le Coyote",
+          "url": "https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236680,
+      "name": "La libert\u00e9 (c'est de suivre le plan)",
+      "url": "https://open.spotify.com/track/4kNA1PnPZKrcmKItCEjSoE"
+    },
+    {
+      "album": {
         "name": "La lumi\u00e8re",
         "url": "https://open.spotify.com/album/4F67XAkYHejIw0m1XVGf7m"
       },
@@ -22431,7 +22561,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 404876,
       "name": "La montagne et l\u2019art\u00e9fact",
       "url": "https://open.spotify.com/track/1SFZKIfalL70xQCMGgudqM"
@@ -28373,7 +28503,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 144933,
       "name": "Mignon tout plein",
       "url": "https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC"
@@ -29407,7 +29537,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Multicolore",
       "url": "https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq"
@@ -30307,7 +30437,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 242869,
       "name": "Noise",
       "url": "https://open.spotify.com/track/1VaEcnh2GuY5JXrJNhJiFe"
@@ -37371,7 +37501,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 196128,
       "name": "R\u00eave le fun",
       "url": "https://open.spotify.com/track/2Vz21NV1mAx9dbIUJcUTEu"
@@ -38810,6 +38940,24 @@
     },
     {
       "album": {
+        "name": "Si je rampe",
+        "url": "https://open.spotify.com/album/6juYcRp6bkkorf1MwbI7ss"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177253,
+      "name": "Si je rampe",
+      "url": "https://open.spotify.com/track/0URJzuHMZC8sywrbSYXVAn"
+    },
+    {
+      "album": {
         "name": "postcard from Paris",
         "url": "https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr"
       },
@@ -38843,7 +38991,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 197000,
       "name": "Si t'es pas l\u00e0",
       "url": "https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU"
@@ -39717,7 +39865,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 166751,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/6a20iVTnMEjuLKtOFSUms1"
@@ -40175,7 +40323,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 222746,
       "name": "Sumerset",
       "url": "https://open.spotify.com/track/6MZUZERNxJdxGrktKIy8lQ"
@@ -40811,7 +40959,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 164479,
       "name": "Ta peine",
       "url": "https://open.spotify.com/track/0qp0G8VtnYHmLnbCu6lUUQ"
@@ -41073,6 +41221,24 @@
       "duration_ms": 233306,
       "name": "Taxiphone",
       "url": "https://open.spotify.com/track/01hjcPZM9cjwelSoM9JZQh"
+    },
+    {
+      "album": {
+        "name": "Te laisser des mots",
+        "url": "https://open.spotify.com/album/3URQg0WGqKUHWueRYx3vs7"
+      },
+      "artists": [
+        {
+          "name": "Meghan Oak",
+          "url": "https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193323,
+      "name": "Te laisser des mots",
+      "url": "https://open.spotify.com/track/6SBNQ5uSrr07iOngFUy0mT"
     },
     {
       "album": {
@@ -45839,7 +46005,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 149932,
       "name": "Yebisa Bango",
       "url": "https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO"
@@ -46183,6 +46349,24 @@
       "duration_ms": 183487,
       "name": "\u00c0 l'aube",
       "url": "https://open.spotify.com/track/6TCqAnjf9GpTIeGIthLZg0"
+    },
+    {
+      "album": {
+        "name": "\u00c0 l'envers",
+        "url": "https://open.spotify.com/album/4jMPq40oVFbvtZIl5GWoRT"
+      },
+      "artists": [
+        {
+          "name": "Sophie Grenier",
+          "url": "https://open.spotify.com/artist/3JMrRREEeixveAxloDEuNS"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164503,
+      "name": "\u00c0 l'envers",
+      "url": "https://open.spotify.com/track/0f3acPxu7bt8ukIWqUZJAE"
     },
     {
       "album": {

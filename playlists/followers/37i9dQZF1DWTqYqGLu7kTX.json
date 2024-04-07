@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 464772,
+  "2024-04-07": 464968,
   "date_first_scraped": "2023-03-30",
   "description": "This is how we do it, This is our style.\nCover: Sidhu Moose Wala",
   "name": "Hip Te Hop",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 208378,
       "name": "2 Raflaan (feat. Gurlej Akhtar)",
       "url": "https://open.spotify.com/track/76TcsS8szd8ZQjwnz78xg9"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 215333,
       "name": "25-25",
       "url": "https://open.spotify.com/track/4aObqXLku7XQqfVQ8azYGo"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 166956,
       "name": "Aloof",
       "url": "https://open.spotify.com/track/1CqkvBoq1vYh0TVX67aVFe"
@@ -348,6 +348,28 @@
     },
     {
       "album": {
+        "name": "BAD-DUA",
+        "url": "https://open.spotify.com/album/2aYGdxPtJjhU1hjquTWPw4"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "YAS the Underdog",
+          "url": "https://open.spotify.com/artist/3gBTnOJvbcIKiDJPylSlcZ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256551,
+      "name": "BAD-DUA",
+      "url": "https://open.spotify.com/track/1tdfzRdcrv2SlEfmGXev8N"
+    },
+    {
+      "album": {
         "name": "Baller",
         "url": "https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p"
       },
@@ -363,7 +385,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 148188,
       "name": "Baller",
       "url": "https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ"
@@ -953,7 +975,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 200658,
       "name": "Elevated",
       "url": "https://open.spotify.com/track/2AilvPt1AQ8PixlCKqkjfj"
@@ -1257,6 +1279,28 @@
       "duration_ms": 162524,
       "name": "Heart Attack",
       "url": "https://open.spotify.com/track/2Ycj9XXWp6cASuSA5UJ2Wo"
+    },
+    {
+      "album": {
+        "name": "Heartless feat. Ikky",
+        "url": "https://open.spotify.com/album/12HrMxdfaD0qq2PM2Gzklr"
+      },
+      "artists": [
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129114,
+      "name": "Heartless feat. Ikky",
+      "url": "https://open.spotify.com/track/7cMYN4HXfJGyVy6zQ6mga6"
     },
     {
       "album": {
@@ -1942,6 +1986,32 @@
     },
     {
       "album": {
+        "name": "No Chance",
+        "url": "https://open.spotify.com/album/09orbd2fmuhCVtN3CgNuts"
+      },
+      "artists": [
+        {
+          "name": "The Landers",
+          "url": "https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp"
+        },
+        {
+          "name": "Davi Singh",
+          "url": "https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135472,
+      "name": "No Chance",
+      "url": "https://open.spotify.com/track/0LIf9t9IkJmAqg3V7RmxFk"
+    },
+    {
+      "album": {
         "name": "No Competition",
         "url": "https://open.spotify.com/album/68t62rh4vZdIErvhqQG4kq"
       },
@@ -2074,6 +2144,28 @@
     },
     {
       "album": {
+        "name": "Not Again",
+        "url": "https://open.spotify.com/album/4YoP0DeqCUpl8GtJSYIkxZ"
+      },
+      "artists": [
+        {
+          "name": "Hemmy",
+          "url": "https://open.spotify.com/artist/4MET84hruIiQ3Z05lLDNO6"
+        },
+        {
+          "name": "Bekhauf",
+          "url": "https://open.spotify.com/artist/11TNfhP5pMAgWbDwPhvdg0"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "Not Again",
+      "url": "https://open.spotify.com/track/1GeYg8ZmnjUezVhIzdfRmd"
+    },
+    {
+      "album": {
         "name": "Not Allowed",
         "url": "https://open.spotify.com/album/28YNr2IZpS6LcpBfOfvYWq"
       },
@@ -2151,6 +2243,24 @@
       "duration_ms": 180000,
       "name": "Notorious",
       "url": "https://open.spotify.com/track/0n34awvLFvIayNC43L9JYw"
+    },
+    {
+      "album": {
+        "name": "Nowadays",
+        "url": "https://open.spotify.com/album/79KRr86XxvGkfHHiW3bdDd"
+      },
+      "artists": [
+        {
+          "name": "Khan Bhaini",
+          "url": "https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Nowadays",
+      "url": "https://open.spotify.com/track/1wQMbE9V6MgcAhEak7ZaUe"
     },
     {
       "album": {
@@ -2281,6 +2391,28 @@
       "duration_ms": 188181,
       "name": "Pind Da Riwaaz",
       "url": "https://open.spotify.com/track/0OvC1QkWdBI3ORrp2lEhNO"
+    },
+    {
+      "album": {
+        "name": "Problems Over Peace",
+        "url": "https://open.spotify.com/album/7hXz1jeclKqFSWwl2QjN5w"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158895,
+      "name": "Problems Over Peace",
+      "url": "https://open.spotify.com/track/7ups0PLQ1oiRnkneh3SQSD"
     },
     {
       "album": {
@@ -2459,7 +2591,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 219065,
       "name": "Score",
       "url": "https://open.spotify.com/track/4FKLi2H8nNxLWwVk9nvzwy"
@@ -2670,6 +2802,28 @@
     },
     {
       "album": {
+        "name": "Syllabus",
+        "url": "https://open.spotify.com/album/6duqyNPlV7WV8xosuDP3vk"
+      },
+      "artists": [
+        {
+          "name": "Guri Lahoria",
+          "url": "https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3"
+        },
+        {
+          "name": "Devilo",
+          "url": "https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202013,
+      "name": "Syllabus",
+      "url": "https://open.spotify.com/track/58E08Q6KvrLuzMU88nZQxy"
+    },
+    {
+      "album": {
         "name": "Four You",
         "url": "https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w"
       },
@@ -2781,7 +2935,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 262247,
       "name": "The Last Ride",
       "url": "https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann"

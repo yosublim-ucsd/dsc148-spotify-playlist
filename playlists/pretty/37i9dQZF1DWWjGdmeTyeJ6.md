@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Maisyn\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,920 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,005 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [evelyn](https://open.spotify.com/track/45M2p6aBW3RuLYV2SLUn0G) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [evelyn](https://open.spotify.com/album/77F9gcTKvqjBvhIR8t0DJY) | 3:50 |
 | 100 | [Last Time Speaking](https://open.spotify.com/track/3qhnypWslWY0hWbXiEi1eW) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [oksurf](https://open.spotify.com/artist/7p6kSroBqiTLRWSd1yBpun) | [Kenny World Deluxe](https://open.spotify.com/album/186G03iM52cPFJdKvgDjRd) | 3:01 |
 
-Snapshot ID: `MCw5NzNlMmUwMzhiY2E0MjJlODkyZDlkMjY5YWM1MTEwYTYwOTMzMTA2`
+Snapshot ID: `MCxiNjExYzdjZmJmMDg4MmJlMDgwYzBkOWMzODFkMzdiZWFmMzAyMDY5`

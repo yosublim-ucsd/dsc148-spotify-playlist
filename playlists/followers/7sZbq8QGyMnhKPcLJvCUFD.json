@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 742134,
+  "2024-04-07": 742126,
   "date_first_scraped": "2022-10-06",
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
   "name": "NCS Releases",
@@ -1949,6 +1949,24 @@
       "duration_ms": 90178,
       "name": "Curse",
       "url": "https://open.spotify.com/track/2y2vXCLSpVGhXU501Nw8Ll"
+    },
+    {
+      "album": {
+        "name": "Cybernetic",
+        "url": "https://open.spotify.com/album/0lyxsdwiGOmGy9O9cYqsTE"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244137,
+      "name": "Cybernetic",
+      "url": "https://open.spotify.com/track/5ynKgzOgxcJ8vAM1htgoqq"
     },
     {
       "album": {
@@ -4373,7 +4391,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 181856,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/0lRWCC1H4Ik57AoCDywzPl"
@@ -4759,6 +4777,24 @@
       "duration_ms": 235072,
       "name": "I Like It With You",
       "url": "https://open.spotify.com/track/6rXoFj9Kc3B77t0h3asR5d"
+    },
+    {
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/6duTRqw2Ld0WnsqABtRCBr"
+      },
+      "artists": [
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/2labeTrCjxVx7LCtL8xuL4"
     },
     {
       "album": {
@@ -7953,7 +7989,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 157500,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/7N267HKpnzJzqToo5KcaoF"
@@ -9655,7 +9691,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 141190,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/0Y2ql9hjIhpYx2fuYMeeB3"

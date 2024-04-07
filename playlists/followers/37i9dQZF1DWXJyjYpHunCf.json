@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 902628,
+  "2024-04-07": 903141,
   "date_first_scraped": "2021-12-21",
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: Benson Boone",
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: Mark Ambor",
   "name": "Folk Pop",
   "tracks": [
     {
@@ -2230,6 +2230,24 @@
     },
     {
       "album": {
+        "name": "Floating in the Night",
+        "url": "https://open.spotify.com/album/460chVvDygcJD9jvu0FKkl"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221054,
+      "name": "Floating in the Night",
+      "url": "https://open.spotify.com/track/6zaoI9cxWGAyozvMU5HLeG"
+    },
+    {
+      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/1MzWFaZYAMa9mmQoHocXUD"
       },
@@ -2441,6 +2459,24 @@
       "duration_ms": 205958,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r"
+    },
+    {
+      "album": {
+        "name": "Glad You Did",
+        "url": "https://open.spotify.com/album/7q9stc9skBvyNLron7OBLR"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191613,
+      "name": "Glad You Did",
+      "url": "https://open.spotify.com/track/1DKLLuYIHZsI2uqrT1WjRZ"
     },
     {
       "album": {
@@ -5272,6 +5308,24 @@
     },
     {
       "album": {
+        "name": "Say I",
+        "url": "https://open.spotify.com/album/5YMxs5DlTKY6ayKp6mFegb"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165097,
+      "name": "Say I",
+      "url": "https://open.spotify.com/track/0Ce1uvHTCRazNpIj6JVbO6"
+    },
+    {
+      "album": {
         "name": "Scared To Start",
         "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
@@ -5551,6 +5605,24 @@
       "duration_ms": 183000,
       "name": "Something's Gonna Go Our Way",
       "url": "https://open.spotify.com/track/42h5v4NgHTnrhDyiZPRt3G"
+    },
+    {
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/4DwT6hfMRqWEghV4HHK7UI"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192860,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/4DiGpFIA8ja7wyAap7kCxX"
     },
     {
       "album": {

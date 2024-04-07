@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Tanerélle
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,927 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,974 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 95 | [Girls Like You](https://open.spotify.com/track/2Q2VlgK3KJcuZJUCyX5miq) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Girls Like You](https://open.spotify.com/album/3DqlptGG7VBb3CXxIxHbtz) | 2:53 |
 | 96 | [BAD HABITS](https://open.spotify.com/track/5w4IhAYuDVdUVpkNDL6yg0) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [who's loving you?](https://open.spotify.com/album/6d1d2yNuU2RePNERr1o90S) | 3:05 |
 | 97 | [Right My Wrongs](https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Right My Wrongs](https://open.spotify.com/album/61ecHf31ENhC6xSwKqcw3P) | 2:31 |
-| 98 | [Real](https://open.spotify.com/track/7cIjKWHZvMaDFmSUaUdN7W) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [6.9.4.2](https://open.spotify.com/album/5o1xMeUQ9cLNq9rX5ftrrx) | 2:20 |
+| 98 | [Real](https://open.spotify.com/track/5hNcK0jMByYyD3cc6h9KmM) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [6.9.4.2](https://open.spotify.com/album/4uF2fu9lFgrFNjTVxLTAxT) | 2:20 |
 | 99 | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/track/4lUEgk2Da44ikFhF5TS863) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/album/0t0KTaeuABJBI0XiNM9vyr) | 2:19 |
 | 100 | [Caught Between 2 Worlds](https://open.spotify.com/track/2Aef1eaUQAOu4tDEHL0E0u) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Caught Between 2 Worlds](https://open.spotify.com/album/0fr2yHigw1YG1oAJ2V8whE) | 3:02 |
 
-Snapshot ID: `MCwyYjQ3M2M4M2RiNWE5ZjU3M2QwOGYzMzFhNjI4NTVkZmQ2OWNkNTdm`
+Snapshot ID: `MCw0OTdhMjRkYTRkYTk3MDU3MDk3ZTk4MGRhMDFlZjZlMWJiYjNkZGY5`

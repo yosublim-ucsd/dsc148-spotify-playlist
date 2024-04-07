@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 394890,
+  "2024-04-07": 394896,
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Tagore",
+  "description": "Novidades e destaques do indie nacional. Foto: Bruno Berle",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -93,7 +93,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 197884,
       "name": "30+",
       "url": "https://open.spotify.com/track/2ViNQ8PzS2X6TZdmzxhvQX"
@@ -6103,6 +6103,28 @@
       "duration_ms": 350549,
       "name": "Netuno",
       "url": "https://open.spotify.com/track/4txAAaLKHl9ZZGx3Zm0vDy"
+    },
+    {
+      "album": {
+        "name": "No Reino Dos Afetos 2",
+        "url": "https://open.spotify.com/album/3rxsQARg1OiAIyDbEmgCy3"
+      },
+      "artists": [
+        {
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
+        },
+        {
+          "name": "batata boy",
+          "url": "https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163546,
+      "name": "New Hit",
+      "url": "https://open.spotify.com/track/70zZZhvy13xMJkWk6XbVdc"
     },
     {
       "album": {

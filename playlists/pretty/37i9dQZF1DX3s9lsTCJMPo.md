@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by Lissa Monet
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,586 likes - 83 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,561 likes - 83 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 16 | [Bottom in de Road](https://open.spotify.com/track/5J0SMJd6XvEOeiONci2dXq) | [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Greatest Hits](https://open.spotify.com/album/4DfzbF27kYsHoekRuGTV02) | 3:49 |
 | 17 | [Big Belly Man](https://open.spotify.com/track/552bqW6i9i7oleuikwU7jg) | [Mac Fingal](https://open.spotify.com/artist/0P1AEvcXWmuXvFWXwYGoc4) | [Soca 101 Vol.2](https://open.spotify.com/album/6wDFNajd2I5u29BUehoXIi) | 4:52 |
 | 18 | [Whoa Donkey](https://open.spotify.com/track/38Q3FJpLQpl4KkQARSEZ5Y) | [United Sisters](https://open.spotify.com/artist/7aFZDOPtJdwiUVlQMurip7) | [Soca 101 Vol\. 1](https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa) | 3:47 |
-| 19 | [Paul Yuh Mudder Come](https://open.spotify.com/track/3W9WdM25BlfqbI7Kx4XCnf) | [Crazy](https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5) | [Best of Crazy](https://open.spotify.com/album/5KMdMyX8NJXUoLIJDPx86n) | 6:26 |
+| 19 | [Paul Yuh Mudder Come](https://open.spotify.com/track/3W9WdM25BlfqbI7Kx4XCnf) | [CRAZY](https://open.spotify.com/artist/2gFPGGvyxyAZwwSeUeKBXZ) | [Best of Crazy](https://open.spotify.com/album/5KMdMyX8NJXUoLIJDPx86n) | 6:26 |
 | 20 | [Swing Engine](https://open.spotify.com/track/1tGLCHoPHnRH7VuGx5GJzo) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Klateye](https://open.spotify.com/album/0teLxFa4tEdlKQ0TbGzfio) | 3:50 |
 | 21 | [Get Something and Wave](https://open.spotify.com/track/0qfXpnvNnGozj1YFbxyYUn) | [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [The Very Best of Super Blue](https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI) | 6:33 |
 | 22 | [Ent](https://open.spotify.com/track/3OwdFitCuII4o7mRX5SGUP) | [Ronnie McIntosh](https://open.spotify.com/artist/5kQZG7cSCTZfyfpnajlofH) | [Soca Gold 1997](https://open.spotify.com/album/6gTx1lgT2PCoNQdeNFtP1I) | 5:41 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 82 | [Full Extreme](https://open.spotify.com/track/056rMI3dZnxayijd58GaNf) | [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Full Extreme](https://open.spotify.com/album/5DvUeZrPvke7dtSJThioeA) | 3:52 |
 | 83 | [Engine Room](https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Engine Room](https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO) | 3:21 |
 
-Snapshot ID: `MCw1MGVmYjlhY2M4ZTlkZTlmOGNkOTMxYzhmZjAwNDg1NWU3MTg3ZmFm`
+Snapshot ID: `MCxlNTlmMzk5YWU3N2JmMThhMWUzMDY4MGNkMTU4N2EzM2RlYTRkM2Q0`

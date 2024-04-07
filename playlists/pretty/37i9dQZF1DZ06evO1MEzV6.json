@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 79163,
+  "num_followers": 79185,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTA1Y2Q4MmJiNmM5YjM5ZTU2MDkxOTQ2N2Y0N2FkMWMxMjQ3YzIx",
+  "snapshot_id": "MCxhNjEyYmFhZWYxNWY4OTJjNDM3OGRjZmRlNGIyNzE1MDE1NTU2MDE0",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 140335,
-      "name": "Home Alone",
-      "url": "https://open.spotify.com/track/1TUff6XKeK8DoVxdPIJnT3"
+      "duration_ms": 205176,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/0mW58kig39aueBh99f6yGz"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 205176,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/0mW58kig39aueBh99f6yGz"
+      "duration_ms": 140335,
+      "name": "Home Alone",
+      "url": "https://open.spotify.com/track/1TUff6XKeK8DoVxdPIJnT3"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Susie May",
-        "url": "https://open.spotify.com/album/6xzmdcRuP4SoAJB4gdhjop"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 266756,
-      "name": "Susie May",
-      "url": "https://open.spotify.com/track/3JGhWkxALa6OLMjBv6yz79"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lice",
         "url": "https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 68293,
       "name": "Angry Song",
       "url": "https://open.spotify.com/track/3b8FrA74Tm4y22Zzi01Yk4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Susie May",
+        "url": "https://open.spotify.com/album/6xzmdcRuP4SoAJB4gdhjop"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 266756,
+      "name": "Susie May",
+      "url": "https://open.spotify.com/track/3JGhWkxALa6OLMjBv6yz79"
     },
     {
       "added_at": null,

@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 121634,
+  "2024-04-07": 121652,
   "date_first_scraped": "2023-06-18",
   "description": "Keep your finger on the pulse of pop. Mia Wray",
   "name": "Pop n' Fresh",
@@ -8911,7 +8911,7 @@
     {
       "album": {
         "name": "Losing You",
-        "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
+        "url": "https://open.spotify.com/album/68DihqcGNgTJ4zul6L0mDi"
       },
       "artists": [
         {
@@ -8922,6 +8922,24 @@
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 215331,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/3RLIYxIHq18yBdpcoYW4lu"
+    },
+    {
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-06",
       "duration_ms": 215331,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
@@ -12073,10 +12091,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 133509,
       "name": "Sabrina",
       "url": "https://open.spotify.com/track/55uNNOwHRL3K5p7NyEywoR"
+    },
+    {
+      "album": {
+        "name": "DEATH WOBBLES",
+        "url": "https://open.spotify.com/album/2u8cg1AiXAlZmUqsmUqG5S"
+      },
+      "artists": [
+        {
+          "name": "CODY JON",
+          "url": "https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133509,
+      "name": "Sabrina",
+      "url": "https://open.spotify.com/track/7yOar7IBHJzDfUy6drSJla"
     },
     {
       "album": {

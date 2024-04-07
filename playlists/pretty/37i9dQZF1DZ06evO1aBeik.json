@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2650547,
+  "num_followers": 2650847,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzU1ZGJjYWQ0YTA5MGFmOWM2NzM0NGRkYjZjMWVhOTY4ZTZkZTg5",
+  "snapshot_id": "MCwzZjgxMjAzMTgyZDRjN2IzYzE4YTdjYmFlZjhiOTQ5MzM4NDZjZmEx",
   "tracks": [
     {
       "added_at": null,
@@ -664,12 +664,12 @@
       },
       "artists": [
         {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        },
-        {
           "name": "HIXTAPE",
           "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         },
         {
           "name": "Post Malone",

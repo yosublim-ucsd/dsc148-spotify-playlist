@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 81778,
+  "2024-04-07": 81816,
   "date_first_scraped": "2022-02-25",
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
   "name": "Jersey Club Heat",
@@ -2462,6 +2462,28 @@
     },
     {
       "album": {
+        "name": "GOOD LOVING #jerseyclub",
+        "url": "https://open.spotify.com/album/7Ikhpucqh3CNbfBYXJBmpm"
+      },
+      "artists": [
+        {
+          "name": "Ziahfyah",
+          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
+        },
+        {
+          "name": "Indo2x",
+          "url": "https://open.spotify.com/artist/3WQnwswrc0FaQ6AqenFuFE"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109727,
+      "name": "GOOD LOVING #jerseyclub",
+      "url": "https://open.spotify.com/track/2q1o8E9edYiQrXKAzlx3yu"
+    },
+    {
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/3GnvZEmORtkJoKwaowm7ft"
       },
@@ -4529,7 +4551,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 111304,
       "name": "Orange Soda - Jersey Club Remix",
       "url": "https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ"
@@ -4850,6 +4872,28 @@
     },
     {
       "album": {
+        "name": "Ramen Noodles EP",
+        "url": "https://open.spotify.com/album/1lHev4TyDDEAnXQXYGofKQ"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133044,
+      "name": "Price Going Up - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/3NSphTW6yxfcr1qnUcxDF3"
+    },
+    {
+      "album": {
         "name": "Problem (DJ Sliink Remix)",
         "url": "https://open.spotify.com/album/6r0KZ3EQSjijQu8P0xiTc3"
       },
@@ -4971,7 +5015,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 128955,
       "name": "Put Cha Back In It",
       "url": "https://open.spotify.com/track/5PYxnArK4wlkX5qYENV5Ac"
@@ -5015,6 +5059,28 @@
       "duration_ms": 131868,
       "name": "Q-Pid",
       "url": "https://open.spotify.com/track/0DgSlDcWG9jRlFZOqRyD0L"
+    },
+    {
+      "album": {
+        "name": "Bryson Tiller",
+        "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144112,
+      "name": "Random Access Memory [RAM] (feat. Clara La San)",
+      "url": "https://open.spotify.com/track/6R55Qoa7SRZ744U85UdMVp"
     },
     {
       "album": {
@@ -5391,7 +5457,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 114375,
       "name": "Serbian Dancing Lady",
       "url": "https://open.spotify.com/track/2UA6a86JxflDu8cHJJpnti"

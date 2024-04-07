@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 98385,
+  "2024-04-07": 98376,
   "date_first_scraped": "2022-06-10",
-  "description": "Folk tan dulce como la miel. Sebasti\u00e1n Romero en portada.",
+  "description": "Folk tan dulce como la miel. Walter Esa\u00fa en portada.",
   "name": "madera y miel",
   "tracks": [
     {
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 208177,
       "name": "Dime",
       "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 223578,
       "name": "Herido",
       "url": "https://open.spotify.com/track/1us2vhoPSbi3DHuH4yXmZy"
@@ -1161,6 +1161,24 @@
       "duration_ms": 174000,
       "name": "Hoy Es Hoy",
       "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
+    },
+    {
+      "album": {
+        "name": "Hoy S\u00e9",
+        "url": "https://open.spotify.com/album/03jiqFdgoqblV1SnfkxOAe"
+      },
+      "artists": [
+        {
+          "name": "Walter Esa\u00fa",
+          "url": "https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209946,
+      "name": "Hoy S\u00e9",
+      "url": "https://open.spotify.com/track/13I1jQnQIjXpvmfZJnzTvK"
     },
     {
       "album": {
@@ -2093,6 +2111,32 @@
       "duration_ms": 186748,
       "name": "Que no me encuentre",
       "url": "https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc"
+    },
+    {
+      "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/5HhAqcfY3Vfwaa6YqgFSsI"
+      },
+      "artists": [
+        {
+          "name": "Walter Esa\u00fa",
+          "url": "https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5"
+        },
+        {
+          "name": "Las Nieves de Enero",
+          "url": "https://open.spotify.com/artist/7wejxsQiQxb3EuqdG5XkYA"
+        },
+        {
+          "name": "Jes\u00fas Antonio L\u00f3pez Guerrero",
+          "url": "https://open.spotify.com/artist/6twKUrThGBfDLcHa7KHUui"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233080,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/4A659tyDEUazpnSNENjuV2"
     },
     {
       "album": {

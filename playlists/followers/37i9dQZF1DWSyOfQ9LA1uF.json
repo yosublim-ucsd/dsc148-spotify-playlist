@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 71046,
+  "2024-04-07": 71071,
   "date_first_scraped": "2022-02-20",
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
   "name": "Bloghouse",
@@ -615,7 +615,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 257613,
       "name": "Discotirso",
       "url": "https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B"
@@ -2351,6 +2351,24 @@
       "duration_ms": 354129,
       "name": "Raven",
       "url": "https://open.spotify.com/track/1a1uwEcHNQO23gn697YC7u"
+    },
+    {
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/2WGMiH7PUqQazj2dSAK4jw"
+      },
+      "artists": [
+        {
+          "name": "Proxy",
+          "url": "https://open.spotify.com/artist/3KOzW9NF2ZGwYRo0KfID1R"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354129,
+      "name": "Raven",
+      "url": "https://open.spotify.com/track/5A1HPEGajIacszMaOdbMxe"
     },
     {
       "album": {

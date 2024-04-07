@@ -6,124 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg1MzgxNjAsMDAwMDAwMDAwYWJmOWQ5ZThlNGQ3NjQ2NmEyMDE5YjI5ZGRjZDQzYQ==",
+  "snapshot_id": "Mjg1MzgxNjAsMDAwMDAwMDA0YjUxMjY0NWY3MWFmODNjZDQ2ZWI1YjBmNmE1NDY1ZA==",
   "tracks": [
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "The Unforgiven II",
-        "url": "https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 245274,
-      "name": "The Unforgiven II",
-      "url": "https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "There Is No Tomorrow",
-        "url": "https://open.spotify.com/album/7iaWvTQc5VwQ2JYLgPQuST"
-      },
-      "artists": [
-        {
-          "name": "The Band of the Hawk",
-          "url": "https://open.spotify.com/artist/7kvO0gXOUxmL9Ff2q2L3AU"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 108174,
-      "name": "Jake Snakes (ALT)",
-      "url": "https://open.spotify.com/track/2GR9SMHjCuVHhCNecvuOkN"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "There Is No Tomorrow",
-        "url": "https://open.spotify.com/album/7iaWvTQc5VwQ2JYLgPQuST"
-      },
-      "artists": [
-        {
-          "name": "The Band of the Hawk",
-          "url": "https://open.spotify.com/artist/7kvO0gXOUxmL9Ff2q2L3AU"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 119816,
-      "name": "The Rebels (ALT)",
-      "url": "https://open.spotify.com/track/575RkvVvCqOYVqNviE5nLM"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "P.O.W.",
-        "url": "https://open.spotify.com/album/5sEjbG4vWNOgdMd1Gb9nmr"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne Collabos",
-          "url": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Marley Young",
-          "url": "https://open.spotify.com/artist/3w6NsYwesEyDyr8Ep0yvIr"
-        }
-      ],
-      "duration_ms": 210619,
-      "name": "P.O.W.",
-      "url": "https://open.spotify.com/track/03BHehJeTFvjkIHBx5tks8"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Dream State",
-        "url": "https://open.spotify.com/album/6KYn1PrwI7cV9BLiv6rBBK"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        }
-      ],
-      "duration_ms": 519603,
-      "name": "Dream State",
-      "url": "https://open.spotify.com/track/1nLU0aUyHaza8hZm1Jp6lu"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Loaded Gun",
-        "url": "https://open.spotify.com/album/711LtIzRK3res78Qbvi11j"
-      },
-      "artists": [
-        {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "Loaded Gun",
-      "url": "https://open.spotify.com/track/2kt75Q0nhLQRD3458eN5Mw"
-    },
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
@@ -147,94 +31,6 @@
       "duration_ms": 96009,
       "name": "86Sentra",
       "url": "https://open.spotify.com/track/0CBPxBZNCCBC5k1eBRVgYH"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "WOA!",
-        "url": "https://open.spotify.com/album/2j88F6KY92bczxaMEIdqAL"
-      },
-      "artists": [
-        {
-          "name": "Zelooperz",
-          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
-        },
-        {
-          "name": "Zack Fox",
-          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
-        }
-      ],
-      "duration_ms": 131223,
-      "name": "WOA!",
-      "url": "https://open.spotify.com/track/2fgOQEGSp2Xmh6q7mxGZqT"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "ASCENT",
-        "url": "https://open.spotify.com/album/3HTOnKukMs0RuZwzPryPoY"
-      },
-      "artists": [
-        {
-          "name": "Kapsoul",
-          "url": "https://open.spotify.com/artist/4MfpSSOsKtg5bSBpeXCuP8"
-        },
-        {
-          "name": "Dudley Perkins",
-          "url": "https://open.spotify.com/artist/08xLtQbGdIZfVfk6QTgYIW"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 257966,
-      "name": "SAME THANG",
-      "url": "https://open.spotify.com/track/0HYU2joxo28fVeyCVBhxZW"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Signature",
-        "url": "https://open.spotify.com/album/01FwpQP88PwU2y2LZATUQc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Jean-Louis Rassinfosse",
-          "url": "https://open.spotify.com/artist/50m2KVom2r1LcmDxWWkieg"
-        },
-        {
-          "name": "Philip Catherine",
-          "url": "https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn"
-        }
-      ],
-      "duration_ms": 510767,
-      "name": "Funk in Deep Freeze",
-      "url": "https://open.spotify.com/track/3jp7bWwjb2s7Otyewb1Kc7"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Glass: \u00c9tudes: No. 6",
-        "url": "https://open.spotify.com/album/7dKsKucBcFncmv44cV7kQe"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 166513,
-      "name": "\u00c9tudes: No. 6",
-      "url": "https://open.spotify.com/track/0fat1ldvI9MV88Pj2oSWLW"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -263,6 +59,230 @@
       "duration_ms": 227633,
       "name": "Step into the Unknown",
       "url": "https://open.spotify.com/track/5tjTtO9GInxQd0Gq5ZsZWk"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Dream State",
+        "url": "https://open.spotify.com/album/6KYn1PrwI7cV9BLiv6rBBK"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 519603,
+      "name": "Dream State",
+      "url": "https://open.spotify.com/track/1nLU0aUyHaza8hZm1Jp6lu"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "SHAOLIN LESSONS",
+        "url": "https://open.spotify.com/album/6cxoyK2Sg9MRculrDgX29f"
+      },
+      "artists": [
+        {
+          "name": "Pexxa",
+          "url": "https://open.spotify.com/artist/6MXIASQqWSjWXS2T8whcz3"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "SHAOLIN LESSONS",
+      "url": "https://open.spotify.com/track/2XsaKckedWhjHdXIqfGbnk"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "The Unforgiven II",
+        "url": "https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "duration_ms": 245274,
+      "name": "The Unforgiven II",
+      "url": "https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "ASCENT",
+        "url": "https://open.spotify.com/album/3HTOnKukMs0RuZwzPryPoY"
+      },
+      "artists": [
+        {
+          "name": "Kapsoul",
+          "url": "https://open.spotify.com/artist/4MfpSSOsKtg5bSBpeXCuP8"
+        },
+        {
+          "name": "Dudley Perkins",
+          "url": "https://open.spotify.com/artist/08xLtQbGdIZfVfk6QTgYIW"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 257966,
+      "name": "SAME THANG",
+      "url": "https://open.spotify.com/track/0HYU2joxo28fVeyCVBhxZW"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Loaded Gun",
+        "url": "https://open.spotify.com/album/711LtIzRK3res78Qbvi11j"
+      },
+      "artists": [
+        {
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
+        }
+      ],
+      "duration_ms": 204923,
+      "name": "Loaded Gun",
+      "url": "https://open.spotify.com/track/2kt75Q0nhLQRD3458eN5Mw"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Born Wit It",
+        "url": "https://open.spotify.com/album/4M0f7QOl4fq9hvHMi8H1rQ"
+      },
+      "artists": [
+        {
+          "name": "Messy the Man",
+          "url": "https://open.spotify.com/artist/1RwQN4SNw6anJpkbknEenD"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Hydrosphere",
+          "url": "https://open.spotify.com/artist/0CocOr8XturC447CUmgwTL"
+        }
+      ],
+      "duration_ms": 215248,
+      "name": "Born Wit It",
+      "url": "https://open.spotify.com/track/2shcwDbxLsnEUQKrEXFAcr"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Forever Young (Metal Version)",
+        "url": "https://open.spotify.com/album/0Mjq4iWRavgjK1TVKfx2Yf"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 298143,
+      "name": "Forever Young (Metal Version)",
+      "url": "https://open.spotify.com/track/4uwEnHkoc6Q4wXqKw9NNlB"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "P.O.W.",
+        "url": "https://open.spotify.com/album/5sEjbG4vWNOgdMd1Gb9nmr"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne Collabos",
+          "url": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Marley Young",
+          "url": "https://open.spotify.com/artist/3w6NsYwesEyDyr8Ep0yvIr"
+        }
+      ],
+      "duration_ms": 210619,
+      "name": "P.O.W.",
+      "url": "https://open.spotify.com/track/03BHehJeTFvjkIHBx5tks8"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Glass: \u00c9tudes: No. 6",
+        "url": "https://open.spotify.com/album/7dKsKucBcFncmv44cV7kQe"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 166513,
+      "name": "\u00c9tudes: No. 6",
+      "url": "https://open.spotify.com/track/0fat1ldvI9MV88Pj2oSWLW"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Signature",
+        "url": "https://open.spotify.com/album/01FwpQP88PwU2y2LZATUQc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Jean-Louis Rassinfosse",
+          "url": "https://open.spotify.com/artist/50m2KVom2r1LcmDxWWkieg"
+        },
+        {
+          "name": "Philip Catherine",
+          "url": "https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn"
+        }
+      ],
+      "duration_ms": 510767,
+      "name": "Funk in Deep Freeze",
+      "url": "https://open.spotify.com/track/3jp7bWwjb2s7Otyewb1Kc7"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "WOA!",
+        "url": "https://open.spotify.com/album/2j88F6KY92bczxaMEIdqAL"
+      },
+      "artists": [
+        {
+          "name": "Zelooperz",
+          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
+        },
+        {
+          "name": "Zack Fox",
+          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
+        }
+      ],
+      "duration_ms": 131223,
+      "name": "WOA!",
+      "url": "https://open.spotify.com/track/2fgOQEGSp2Xmh6q7mxGZqT"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -307,6 +327,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Wave That Flag (Demo) [2024 Remaster]",
+        "url": "https://open.spotify.com/album/09NdfSCD0jLX3rUqZse28W"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 299997,
+      "name": "Wave That Flag (Demo) - 2024 Remaster",
+      "url": "https://open.spotify.com/track/5vYr8qt5uRWKOU4A00zLmm"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "In My Zone",
         "url": "https://open.spotify.com/album/19DYYVafnY0fCI9w6CXEGK"
       },
@@ -327,22 +363,6 @@
       "duration_ms": 217931,
       "name": "In My Zone",
       "url": "https://open.spotify.com/track/0ZP3MWJRL1SAjSXVeAsBLz"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Wave That Flag (Demo) [2024 Remaster]",
-        "url": "https://open.spotify.com/album/09NdfSCD0jLX3rUqZse28W"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 299997,
-      "name": "Wave That Flag (Demo) - 2024 Remaster",
-      "url": "https://open.spotify.com/track/5vYr8qt5uRWKOU4A00zLmm"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -456,9 +476,9 @@
           "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         }
       ],
-      "duration_ms": 502271,
-      "name": "Nardis",
-      "url": "https://open.spotify.com/track/1X0fDxUEsfkaOzfztuBCCN"
+      "duration_ms": 179010,
+      "name": "One Finger Snap",
+      "url": "https://open.spotify.com/track/439PR1QLYBLZujThn3TQ0I"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -519,22 +539,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Bulls On Parade (Leo Version)",
-        "url": "https://open.spotify.com/album/0AtTBAtCo2iuBwVoEKlEz8"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 224704,
-      "name": "Bulls On Parade (Leo Version)",
-      "url": "https://open.spotify.com/track/1CBsrQuZndub00LTocecoV"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Lighter (Galantis & Misha K VIP Mix)",
         "url": "https://open.spotify.com/album/1rLu0gC8WKV5CXwmQw1dgN"
       },
@@ -587,62 +591,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Burning Heart",
-        "url": "https://open.spotify.com/album/57kFdGMmAXq9Rt8X1cRx9J"
+        "name": "Warp Speed Warriors",
+        "url": "https://open.spotify.com/album/79pRkVvEcgcHJzjK1DUbdn"
       },
       "artists": [
         {
           "name": "DragonForce",
           "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        }
-      ],
-      "duration_ms": 355778,
-      "name": "Burning Heart",
-      "url": "https://open.spotify.com/track/1edMU2lM1Lp8mgGjfZTXzg"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "LEAVE IT ALL BEHIND",
-        "url": "https://open.spotify.com/album/1MIXnmRStAxYzf7qufHpLR"
-      },
-      "artists": [
-        {
-          "name": "F.HERO",
-          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
         },
         {
-          "name": "Bodyslam",
-          "url": "https://open.spotify.com/artist/76VTagPgPgPlFE7hfjT0Zt"
-        },
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+          "name": "Elize Ryd",
+          "url": "https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55"
         }
       ],
-      "duration_ms": 247500,
-      "name": "LEAVE IT ALL BEHIND",
-      "url": "https://open.spotify.com/track/6OuMeKOWACC0acKVleXvTC"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "One Last Dance",
-        "url": "https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 208741,
-      "name": "One Last Dance",
-      "url": "https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d"
+      "duration_ms": 315964,
+      "name": "Doomsday Party (feat. Elize Ryd)",
+      "url": "https://open.spotify.com/track/7wUfzoq2c98yl3pEfjyGOh"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -659,38 +623,6 @@
       "duration_ms": 129498,
       "name": "Stand Tall",
       "url": "https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Worldwide Saga",
-        "url": "https://open.spotify.com/album/5L7IuGGJcEa4FYnq3ybwps"
-      },
-      "artists": [
-        {
-          "name": "Sekro#8",
-          "url": "https://open.spotify.com/artist/2ajk2iAQVfJ5yrSb6aEj2D"
-        },
-        {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
-        },
-        {
-          "name": "Cappadonna",
-          "url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
-        },
-        {
-          "name": "Masta Killa",
-          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 221744,
-      "name": "Worldwide Saga",
-      "url": "https://open.spotify.com/track/78nD8XwzxoykJY7IQWio2E"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -763,54 +695,6 @@
       "duration_ms": 428360,
       "name": "Piano Trio No. 7 in B-Flat Major, Op. 97, \"Archduke\": II. Scherzo. Allegro",
       "url": "https://open.spotify.com/track/30AQolUR7mQXh2kDM51hKv"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Invincible Shield (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 278067,
-      "name": "Gates of Hell",
-      "url": "https://open.spotify.com/track/2XGcAtlohzN8uDENnWT9k1"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "The Gereg (Instrumentals)",
-        "url": "https://open.spotify.com/album/5DTdVA7UF8xSwbDFiSOZni"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 338000,
-      "name": "Wolf Totem - Instrumental",
-      "url": "https://open.spotify.com/track/26AU00MfWNYKRKOl24wwfG"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Odd Sketches, Vol. 1",
-        "url": "https://open.spotify.com/album/2P0y5zLv9AxKoQXQQrlMq2"
-      },
-      "artists": [
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 285714,
-      "name": "Target Practice 20.06.23.01",
-      "url": "https://open.spotify.com/track/6abXBXeqMIrdSDMap0W1Qg"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

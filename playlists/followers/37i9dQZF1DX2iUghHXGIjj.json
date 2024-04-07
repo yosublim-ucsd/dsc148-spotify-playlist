@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 719009,
+  "2024-04-07": 719010,
   "date_first_scraped": "2021-12-21",
   "description": "Raw, emotional, and acoustic. Cover: Charlie Musselwhite",
   "name": "Acoustic Blues",
@@ -545,7 +545,7 @@
     {
       "album": {
         "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
+        "url": "https://open.spotify.com/album/5c0pSc8G1C8RciCf7xHvwY"
       },
       "artists": [
         {
@@ -556,6 +556,24 @@
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 208413,
+      "name": "Castle",
+      "url": "https://open.spotify.com/track/1pWuVdXfdxhfhAr1BFYscW"
+    },
+    {
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-06",
       "duration_ms": 208512,
       "name": "Castle",
       "url": "https://open.spotify.com/track/2QIbD38FhRqXHOeQC3SiYu"
@@ -2616,6 +2634,24 @@
     },
     {
       "album": {
+        "name": "Hill Country Love",
+        "url": "https://open.spotify.com/album/6nziuDYeLmZtW4BdypRzfH"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175415,
+      "name": "Shake Em On Down",
+      "url": "https://open.spotify.com/track/0UX2Dnexc2TUxj7bYHZyvV"
+    },
+    {
+      "album": {
         "name": "Shake It for Me",
         "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
       },
@@ -2941,7 +2977,7 @@
     {
       "album": {
         "name": "Thumb a Ride",
-        "url": "https://open.spotify.com/album/5RFZCJtz9yiadjhRB5kaof"
+        "url": "https://open.spotify.com/album/1GqL0hJ1WP4C3b52wqOUiF"
       },
       "artists": [
         {
@@ -2952,6 +2988,24 @@
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 173613,
+      "name": "Thumb a Ride",
+      "url": "https://open.spotify.com/track/16AOTn3W58LmpNA6QG19CE"
+    },
+    {
+      "album": {
+        "name": "Thumb a Ride",
+        "url": "https://open.spotify.com/album/5RFZCJtz9yiadjhRB5kaof"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Wilson",
+          "url": "https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-06",
       "duration_ms": 173613,
       "name": "Thumb a Ride",
       "url": "https://open.spotify.com/track/6FFQ4nIyeXaDYQLb1zFitB"

@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 4 | [Flight 22](https://open.spotify.com/track/3iv26BUAWSn83q8rhGKPE8) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:36 |
 | 5 | [Swagger Jagger](https://open.spotify.com/track/5ojIBrEAUKWkI5BSoWGGFu) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sticks & Stones](https://open.spotify.com/album/0z5qKyh9ys3kk9oLEzgG5l) | 3:12 |
 | 6 | [Clay](https://open.spotify.com/track/0BPxCIs9XRWkireH3WzMQE) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Perfectly Imperfect \(Japan Version\)](https://open.spotify.com/album/58CpIUMD6axObdLxxTIGGB) | 3:36 |
-| 7 | [Collide \- Radio Edit](https://open.spotify.com/track/3bxtgzAeAZPdRtKoPL5GG2) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Collide \(Radio Edit\)](https://open.spotify.com/album/3GZwrOSPZpRGFlweFm2x7U) | 3:59 |
-| 8 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 |
+| 7 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 |
+| 8 | [Collide \- Radio Edit](https://open.spotify.com/track/3bxtgzAeAZPdRtKoPL5GG2) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Collide \(Radio Edit\)](https://open.spotify.com/album/3GZwrOSPZpRGFlweFm2x7U) | 3:59 |
 | 9 | [Good to Me](https://open.spotify.com/track/0kELHMzyLThrJN1ZJetQDB) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [After Dark](https://open.spotify.com/album/5nY7Z4vvGxGsnPWaiTQa5y) | 3:01 |
 | 10 | [Christmas C’mon](https://open.spotify.com/track/60fWsdGYfKDNkNitrk1DIW) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Warmer In The Winter \(Deluxe Edition\)](https://open.spotify.com/album/7wfjL0ZBEycLvXzJmHF45g) | 3:49 |
 | 11 | [Hello](https://open.spotify.com/track/7jO1boY6qwRjeu0EBtvDuu) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [Hello](https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK) | 3:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 79 | [Like The First Time](https://open.spotify.com/track/3ILRrgErUM2ffPmT6cJiQW) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Emotional \(Bonus Track Version\)](https://open.spotify.com/album/6OtZ98sd2pn9qaFr5NLUdG) | 3:08 |
 | 80 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 
-Snapshot ID: `Mjg1Mzk1MDAsMDAwMDAwMDBlYjUwMjhhMDEyOGQ5NWExMzMxNzllZjA2Y2Y3YmVjZQ==`
+Snapshot ID: `Mjg1NDA5NDAsMDAwMDAwMDBiM2RlZmU5Mjk3M2M0NTBkOGE5NDI3MzQ1YmE1N2M4ZA==`

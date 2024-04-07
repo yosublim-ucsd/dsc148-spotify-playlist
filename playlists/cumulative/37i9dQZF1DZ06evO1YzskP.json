@@ -1117,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "Se\u00f1or Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/4DRjc62l2MeMib8KOzXqAt"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197986,
+      "name": "Se\u00f1or Guzm\u00e1n",
+      "url": "https://open.spotify.com/track/5EAi0bdw7Dn7Bv9sfJvy8H"
+    },
+    {
+      "album": {
         "name": "Somos Mayiza",
         "url": "https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Aventura. The essential tracks, all in one playlist.",
-  "num_followers": 535603,
+  "num_followers": 535842,
   "original_name": "This Is Aventura",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDY5MGIxNzk1MTI3MTliZDExMzVlZjA3YmM3YTc1ZDk5YzAxYjVj",
+  "snapshot_id": "MCwyYTFlMjZjMGUxNWE2NzQzNzY5ODQ2NTdiOGUzYzk4MDlmMTI2MjA5",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inmortal (Live From MetLife Stadium)",
-        "url": "https://open.spotify.com/album/6N5QFzqqBBMHyZXebyqRnv"
+        "name": "Brindo Con Agua",
+        "url": "https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO"
       },
       "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
         {
           "name": "Aventura",
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 310760,
-      "name": "Inmortal - Live From MetLife Stadium",
-      "url": "https://open.spotify.com/track/3f9SWkabRYCU8jLZdEUpWD"
+      "duration_ms": 281082,
+      "name": "Brindo Con Agua",
+      "url": "https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx"
     },
     {
       "added_at": null,
@@ -595,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brindo Con Agua",
-        "url": "https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO"
+        "name": "Inmortal (Live From MetLife Stadium)",
+        "url": "https://open.spotify.com/album/6N5QFzqqBBMHyZXebyqRnv"
       },
       "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
         {
           "name": "Aventura",
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 281082,
-      "name": "Brindo Con Agua",
-      "url": "https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx"
+      "duration_ms": 310760,
+      "name": "Inmortal - Live From MetLife Stadium",
+      "url": "https://open.spotify.com/track/3f9SWkabRYCU8jLZdEUpWD"
     },
     {
       "added_at": null,

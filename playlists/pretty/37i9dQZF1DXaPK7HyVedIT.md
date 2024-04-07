@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Mojjo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196,182 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,196,202 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 59 | [Dance Is The Answer \(feat\. Raja Ram\)](https://open.spotify.com/track/56rqKeuhAVv2E6RK5BifIS) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1), [Raja Ram](https://open.spotify.com/artist/5jBTxtjj3Y3cDgoqWbFJxy) | [Dance Is The Answer \(feat\. Raja Ram\)](https://open.spotify.com/album/0mdXH0pJA8KKW8abGrS3o8) | 5:29 |
 | 60 | [2 Much 2 Handle \(Cheyenne Giles Remix\)](https://open.spotify.com/track/5RHPVQCHefm78e7yjJRdQP) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [HiROQUEST 2: Double Helix Remixed](https://open.spotify.com/album/73RBjRZjJms5q8X0BHnP9g) | 3:07 |
 
-Snapshot ID: `MCw1Mjg1YmU3N2IxYTU0Nzk1OTAxODEzMzBlYjI2YWNhZDg2NzZiNWNl`
+Snapshot ID: `MCwyNDFmMWI4ZmY3Zjg4ODgzOTAxYWNkYTM1OTI0NWQyYjJiNzcwNWYy`

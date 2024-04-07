@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonitoooo Foto: Anitta, Brrray, Bad Gyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,115 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,165 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 31 | [Fever](https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 1:27 |
 | 32 | [Funk Rave](https://open.spotify.com/track/0DouMZxp99d0AVDQPz6shx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:27 |
 | 33 | [La Joaqui \| Omar Algo Anda Mal \#5](https://open.spotify.com/track/74KSJNT6UcJ6gEElkGousM) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [La Joaqui \| Omar Algo Anda Mal \#5](https://open.spotify.com/album/2HwbbjXrsosQ4NUNz1IDF2) | 2:42 |
-| 34 | [Solterosky](https://open.spotify.com/track/6AS7iD8o56oa2p7TH8COnd) | [Gonza BR](https://open.spotify.com/artist/6vo2878nQ08o3wpZVTXc15), [Dielo 98](https://open.spotify.com/artist/5t3LgF2M4SeEGJzB4ihHNM), [PACOREMIX](https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju), [Nahuell](https://open.spotify.com/artist/24asxbVJal3Vd1kM9rME4U) | [Solterosky](https://open.spotify.com/album/1raeWaD3lzb9vGsV0fRA19) | 2:25 |
+| 34 | [Solterosky](https://open.spotify.com/track/79dowBLlJTBYPkdeh9rpYL) | [Gonza BR](https://open.spotify.com/artist/6vo2878nQ08o3wpZVTXc15), [Dielo 98](https://open.spotify.com/artist/5t3LgF2M4SeEGJzB4ihHNM), [PACOREMIX](https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju), [Nahuell](https://open.spotify.com/artist/24asxbVJal3Vd1kM9rME4U) | [Solterosky](https://open.spotify.com/album/31jC4elFqdDGBB1OlU5TbV) | 2:25 |
 | 35 | [WILLY WONKA](https://open.spotify.com/track/2qCL05QJtrUeuRE7oEklLV) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [WILLY WONKA](https://open.spotify.com/album/2Os3QmxdbApg0ejnSeF8pY) | 2:23 |
 | 36 | [Cuchi Cuchi](https://open.spotify.com/track/42rwnXA394j5b1pdGQUMCn) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Cuchi Cuchi](https://open.spotify.com/album/1wWpYZCZGGxUl3IvvghPFJ) | 2:37 |
 | 37 | [Vai Sentando](https://open.spotify.com/track/4UlkRoC6xPCDXehTyW21BF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Vai Sentando \(FAST X Soundtrack\)](https://open.spotify.com/album/08rwl7AoPbs22LGky7hgdu) | 2:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 69 | [Cacao](https://open.spotify.com/track/2uyhFGxuiQ6X3Xq2UsM48U) | [Crisler](https://open.spotify.com/artist/5OBe8MAUIP1jKQG0rQyDaf), [Reis Belico](https://open.spotify.com/artist/6T8S4zSY1ICYEG50Hgs3QJ) | [Cacao](https://open.spotify.com/album/710wtCXmXkvEZ0AGvdiURa) | 2:51 |
 | 70 | [Wasabi](https://open.spotify.com/track/4fwAOa29QGMou9LM2ErHJ5) | [Dee Mad](https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI), [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [Wasabi](https://open.spotify.com/album/3mzbKCbFEdmZNfbnDdux1t) | 2:10 |
 
-Snapshot ID: `MCxiODRiMmExYTUxYTAwYTEzY2M3OGE0ZWZhMjU5MzY4YjkzNDdlMzAy`
+Snapshot ID: `MCwxODI4MGMxZjRhMTJkZmRiYmY5M2NjMjU0N2NkNjUwM2E1MDM0YWU1`

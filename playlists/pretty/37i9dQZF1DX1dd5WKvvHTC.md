@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain](/playlists/plain/37i9dQZF1DX1dd5WKvvHTC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1dd5WKvvHTC)
 
-### [Noteable Releases](https://open.spotify.com/playlist/37i9dQZF1DX1dd5WKvvHTC)
+### [Noteable](https://open.spotify.com/playlist/37i9dQZF1DX1dd5WKvvHTC)
 
-> Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:0BCD9XnZVhdY2vojKAPAiT">Bella Mae</a> with collaborator Alex Stacey.
+> Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:0BCD9XnZVhdY2vojKAPAiT">Bellah Mae</a> with collaborator Alex Stacey.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,955 likes - 39 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,036 likes - 39 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 38 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 |
 | 39 | [can i see you tonight?](https://open.spotify.com/track/1u7Z47bCx2id2bh8rKEcZg) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [can i see you tonight?](https://open.spotify.com/album/3oW5O2gtfj1BkdB6EiW5ew) | 1:57 |
 
-Snapshot ID: `MCxkMGNlMjQ3OWI1ZDg1NTU0YWY1NjVlMjZkNDliMDYxOTkyZTJmZmE4`
+Snapshot ID: `MCw2YzNmYjdmMzIzMjhiNzBiMGU3ZTVkODVmMDFlMzNiNzgyZmRjYmRh`

@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Fabiana Palladino",
+        "url": "https://open.spotify.com/album/42oaWsdIjvtngWBANg0tux"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Palladino",
+          "url": "https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224374,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/5RyZK49FbAj0DT1rFjBhUb"
+    },
+    {
+      "album": {
         "name": "Dream Alone / Beat Love",
         "url": "https://open.spotify.com/album/4rXWdsIYGhGtqYJpg3xA1b"
       },

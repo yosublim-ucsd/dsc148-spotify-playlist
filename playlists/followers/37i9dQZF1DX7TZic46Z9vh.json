@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 42477,
+  "2024-04-07": 42485,
   "date_first_scraped": "2022-06-30",
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
   "name": "Rock Mexicano Av\u00e1ndaro",
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 154720,
       "name": "Boom! Boom! Boom!",
       "url": "https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 234498,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir"
@@ -1032,6 +1032,28 @@
     },
     {
       "album": {
+        "name": "Los Grandes Exitos de la Division del Norte",
+        "url": "https://open.spotify.com/album/2f3IFCjOVURlq8yhA97Npg"
+      },
+      "artists": [
+        {
+          "name": "La Divisi\u00f3n Del Norte",
+          "url": "https://open.spotify.com/artist/1T2LP4U5mVz5QixNiQh1iR"
+        },
+        {
+          "name": "Citlalli de Noche Abajo",
+          "url": "https://open.spotify.com/artist/6ocy2W6iPan2gbObpTdD66"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304483,
+      "name": "Los Muertos",
+      "url": "https://open.spotify.com/track/3dB6QAMB4qJgQ1faEgKv70"
+    },
+    {
+      "album": {
         "name": "15 \u00c9xitos de los Dug Dug's Rock and Roll",
         "url": "https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC"
       },
@@ -1122,6 +1144,24 @@
     },
     {
       "album": {
+        "name": "\u00c9xitos Rom\u00e1nticos (De Colecci\u00f3n)",
+        "url": "https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL"
+      },
+      "artists": [
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234493,
+      "name": "Mi Forma De Sentir",
+      "url": "https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd"
+    },
+    {
+      "album": {
         "name": "Sirenas Al Ataque",
         "url": "https://open.spotify.com/album/4Yn1pX0PmCE6TtiksEOunF"
       },
@@ -1169,7 +1209,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 163386,
       "name": "Mony Mony",
       "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
@@ -1414,6 +1454,24 @@
     },
     {
       "album": {
+        "name": "Pebbles Vol. 12, Mexico Pt. 1, Originals Artifacts From The Psychedelic Era",
+        "url": "https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Del Sonido",
+          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134229,
+      "name": "Perd\u00ed Mi Nube",
+      "url": "https://open.spotify.com/track/0EG4DmWSOHDChoI5rIQ6vv"
+    },
+    {
+      "album": {
         "name": "Adicto al Rock N Roll",
         "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
       },
@@ -1429,6 +1487,24 @@
       "duration_ms": 185306,
       "name": "Perro Negro y Callejero",
       "url": "https://open.spotify.com/track/7lQVq7S3mqEJnF6mDfKka8"
+    },
+    {
+      "album": {
+        "name": "Nadie Es Mejor Que T\u00fa",
+        "url": "https://open.spotify.com/album/20lZH6t8XZJ5FO7DQTGfwo"
+      },
+      "artists": [
+        {
+          "name": "Tinta Blanca",
+          "url": "https://open.spotify.com/artist/7hTAxPi8RHeCyx9fZImNpF"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176600,
+      "name": "Plaza Vacante",
+      "url": "https://open.spotify.com/track/1WRKugHXe9KX72n9RLkgiO"
     },
     {
       "album": {
@@ -1533,7 +1609,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 237320,
       "name": "Regreso al Origen",
       "url": "https://open.spotify.com/track/27T3luqWg01rUHNaO6RB5X"

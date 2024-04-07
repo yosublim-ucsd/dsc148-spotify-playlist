@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: MOGMusic",
-  "num_followers": 9510,
+  "num_followers": 9524,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWU2NDgwMGI4NDljZmE5NDkzYzg1YTgwYWU4Y2Q4NTMzZmFhZWJj",
+  "snapshot_id": "MCwyZTJmNWM1MzdkNmI1ZDE2ZjU2MDNiNWVhNGNkYTcxNTE1MjdhNjVi",
   "tracks": [
     {
       "added_at": "2024-04-05 14:24:44",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 288990,
-      "name": "Turning Around(Live)",
-      "url": "https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Live in Kumasi",
         "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 280000,
       "name": "Nyame Tumfo (Live)",
       "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 288990,
+      "name": "Turning Around(Live)",
+      "url": "https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0"
     },
     {
       "added_at": "2024-03-29 00:01:00",

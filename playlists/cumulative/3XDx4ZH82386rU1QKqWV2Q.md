@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-533 songs - 22 hr 32 min
+536 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [NOT GOOD ENOUGH](https://open.spotify.com/track/23Mdy78CdfyUYllPtGl3Tf) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [NOT GOOD ENOUGH](https://open.spotify.com/album/7M5sPI76iZflHzyx3YTyXx) | 1:50 | 2023-09-21 | 2023-12-14 |
 | [Nothing That You Think](https://open.spotify.com/track/4hs1clb6ibEdAOPTRoa39b) | [Whispers](https://open.spotify.com/artist/1eC9KosD78Zr1RvZnzsxkO), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Nothing That You Think](https://open.spotify.com/album/3tWFJkR4hZIpjnnoDDmm60) | 4:32 | 2023-06-12 | 2023-08-10 |
 | [NOVINHA FUNK](https://open.spotify.com/track/4aSQJN5Zjt60fY0lWJKfGu) | [7oh2](https://open.spotify.com/artist/4YlEogA5055pLDnRxXUXSm) | [NOVINHA FUNK](https://open.spotify.com/album/1ZKcey6tSK3vm6cgRruDji) | 1:48 | 2023-09-19 | 2023-12-14 |
+| [NX PULSE](https://open.spotify.com/track/6uKDuFi2mCdyze3m25h8xi) | [netwxrld](https://open.spotify.com/artist/2tKVZ6keSMT7TOgodqk4A5) | [SLOW BURN](https://open.spotify.com/album/1xVDnRK9Ij4AcHQSZ0AtZ6) | 1:26 | 2024-04-06 |  |
 | [Odeio](https://open.spotify.com/track/4Pcy0y3RXIcMmV5JVXr6gX) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh), [GXNRC](https://open.spotify.com/artist/1rcSwQYPXRKfRF6HxvfY0s) | [Odeio](https://open.spotify.com/album/2DOom7YIQEZbr7XCOjeb4J) | 1:43 | 2023-08-21 | 2023-09-26 |
 | [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2udAdxSFdILUt3vK12F48I) | 3:12 | 2023-06-12 | 2023-12-14 |
 | [Off The Wall](https://open.spotify.com/track/2iBdAPcTzDufAKLvU0e0ba) | [EMAD](https://open.spotify.com/artist/6Zs48LypDzoPWJdJhfAenh), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Off The Wall](https://open.spotify.com/album/6N2YOdLB0cTLbaIMBfD9rr) | 3:32 | 2023-06-12 |  |
@@ -432,6 +433,7 @@
 | [Shrapnel](https://open.spotify.com/track/4GtRQmv1VgyCKG8NTMSxEn) | [Rok Ali and the Addiction](https://open.spotify.com/artist/2LIBmNEFBvgXxkqVw91tAg) | [Rok Ali and the Addiction](https://open.spotify.com/album/5pVPuas0oCL1piHutkLTST) | 4:16 | 2023-06-12 | 2023-07-04 |
 | [sink into you](https://open.spotify.com/track/0yx6myRdp0otpA2mL4C0EB) | [Salem LaVey](https://open.spotify.com/artist/4WDfbxP0YEM93gubw4SvRL) | [Blackbride](https://open.spotify.com/album/7rixMwAwuxSRCGxNqS2SXL) | 4:20 | 2024-02-05 | 2024-03-26 |
 | [sins](https://open.spotify.com/track/5QCFXhgAwZBzX2szVZ3Xmt) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [sins](https://open.spotify.com/album/5rsH2fYloVrPHJOXv2aDQL) | 1:55 | 2024-03-17 |  |
+| [skrrrrt](https://open.spotify.com/track/1XU6FTjMeyBYNouSkrNVGh) | [OMGUATE](https://open.spotify.com/artist/0CW7RykGbsYx2D89r6Lp2W) | [over 9000](https://open.spotify.com/album/6XNHuVO7WYBCdJ0I84y4Dw) | 1:07 | 2024-04-06 |  |
 | [SKULLcrusher](https://open.spotify.com/track/7fDHtRKuVKXU555SsX8hAc) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [SKULLcrusher](https://open.spotify.com/album/5pcu430nfrb9B4OU7guw3j) | 1:49 | 2023-06-12 | 2024-04-02 |
 | [SKYBRAIN](https://open.spotify.com/track/0hMF9JZmQDneq3U5LAlQ26) | [NIGHTHAVVK](https://open.spotify.com/artist/6xLEm2hwUy19nyzwWPoUNt) | [SKYBRAIN](https://open.spotify.com/album/6lQIMyQGe68OcwCMZyfFBu) | 2:48 | 2023-12-21 | 2024-02-10 |
 | [Skyline](https://open.spotify.com/track/3GTNPbq9ycUnBfIZBq7ko1) | [Astrani](https://open.spotify.com/artist/5qqwQ9tQhy8USkdYB3VE8P) | [Skyline](https://open.spotify.com/album/1OQiTRJVr4aJjJiBZ7Ax81) | 4:10 | 2023-07-03 | 2023-07-19 |
@@ -504,6 +506,7 @@
 | [Type Shit](https://open.spotify.com/track/6XcRMvAhT4Wn20ANxV7rjO) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Type Shit](https://open.spotify.com/album/5o1Mpmb550HyG4Utvzq94D) | 2:00 | 2023-06-12 | 2023-07-07 |
 | [Ukrainian Cossack Phonk](https://open.spotify.com/track/6vOMWakAlVuqaUUA1MMFgE) | [CHASHKAKEFIRA](https://open.spotify.com/artist/4dZlYmIgngIVcPl2qw8qbd) | [Ukrainian Cossack Phonk](https://open.spotify.com/album/7qFKTMZWFMy2MfFTvq097a) | 2:45 | 2023-08-21 | 2023-09-26 |
 | [Undead](https://open.spotify.com/track/3GDRUoekeEGhN1oq3vELoh) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Undead](https://open.spotify.com/album/5jspmhiTaJhY4lJui9P98i) | 2:45 | 2023-06-18 | 2023-07-21 |
+| [unhinged](https://open.spotify.com/track/6zBGVU0ujMxmR9Yh0UPHkt) | [MEMBER](https://open.spotify.com/artist/0ifDzAhf5knfZyaUiG4Deu) | [PHANTXM](https://open.spotify.com/album/3EDDKjhTkIRDks9bTRRIkm) | 1:17 | 2024-04-06 |  |
 | [Unmotivated Friend](https://open.spotify.com/track/5rEuyTLB1g1swZzOyqoWIM) | [PastaYaY](https://open.spotify.com/artist/6LNPQ0O6HXCPhElv5sHwo5), [A Treeager](https://open.spotify.com/artist/3iTxJvwN6emQeiwU5YMF8A) | [Unmotivated Friend](https://open.spotify.com/album/1qIgTTUQwOkPykbYFD0mvZ) | 4:49 | 2023-08-19 | 2023-09-26 |
 | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ) | 3:12 | 2024-01-18 |  |
 | [VAI TOMA TOMA](https://open.spotify.com/track/5ZkuYa8qJ30kE8FHaPcpu6) | [Purpose 115](https://open.spotify.com/artist/5DdqAjdwTxE8d3XHxg0Ro9), [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k) | [VAI TOMA TOMA](https://open.spotify.com/album/7kwSpbhBBUQmEMRD14KnbV) | 2:42 | 2023-09-17 | 2023-12-14 |

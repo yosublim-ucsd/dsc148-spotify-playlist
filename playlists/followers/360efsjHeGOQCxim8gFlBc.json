@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 465,
+  "2024-04-07": 465,
   "date_first_scraped": "2023-11-08",
   "description": "Close your eyes and relax to calm, peaceful piano melodies.",
   "name": "Calming Piano",
@@ -2115,6 +2115,24 @@
       "duration_ms": 107201,
       "name": "Home",
       "url": "https://open.spotify.com/track/0iYz3Hv97Pg01fHQhIGTM6"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7mNWCNbHCp12vF2EOXuwQn"
+      },
+      "artists": [
+        {
+          "name": "Mariposa",
+          "url": "https://open.spotify.com/artist/2F7TJTonDywvUL3brkPO7g"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97500,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/67iToajMIh32nNilWOTilp"
     },
     {
       "album": {

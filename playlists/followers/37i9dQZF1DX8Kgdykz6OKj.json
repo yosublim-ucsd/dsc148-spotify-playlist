@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 1261155,
+  "2024-04-07": 1261566,
   "date_first_scraped": "2021-12-31",
   "description": "Laid back cratedigger hip-hop from around the world.",
   "name": "Jazz Rap",
@@ -460,6 +460,32 @@
     },
     {
       "album": {
+        "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
+        "url": "https://open.spotify.com/album/5FpBZuKzH03Q38TG6crrB4"
+      },
+      "artists": [
+        {
+          "name": "Jay Exodus",
+          "url": "https://open.spotify.com/artist/5dgpDskNSWSGt4CfF3uEmA"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253590,
+      "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
+      "url": "https://open.spotify.com/track/6lKRzRSizlPqAnHSAALuqG"
+    },
+    {
+      "album": {
         "name": "Before It's Over",
         "url": "https://open.spotify.com/album/0nmryJ3Mx4NFUcSfVgfO9O"
       },
@@ -837,7 +863,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 228032,
       "name": "Brain",
       "url": "https://open.spotify.com/track/4bbSk6i5hBlgcKB7bFZS20"
@@ -2618,6 +2644,32 @@
     },
     {
       "album": {
+        "name": "FORKS ON THE ROAD",
+        "url": "https://open.spotify.com/album/3qJgxb1JvphDW7ghbaMeVs"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Daniel Son",
+          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
+        },
+        {
+          "name": "Faiza",
+          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183887,
+      "name": "FORKS ON THE ROAD",
+      "url": "https://open.spotify.com/track/593vjuHVQRH19Mwyt1HBst"
+    },
+    {
+      "album": {
         "name": "Fossils",
         "url": "https://open.spotify.com/album/5Tc9dB08xZSu8OpaF9iBLG"
       },
@@ -2875,7 +2927,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 297990,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/6ITSh7MTLHFFtqJKKZgUA4"
@@ -4541,7 +4593,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 168978,
       "name": "Life Lessons",
       "url": "https://open.spotify.com/track/3Tepsl8CqNWu5N8lqHvYdH"
@@ -5385,6 +5437,24 @@
       "duration_ms": 148255,
       "name": "Once Upon a Time",
       "url": "https://open.spotify.com/track/3Uhsm1JjbKaBpQ4lNg0g7a"
+    },
+    {
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/07xQoYhMMM1fjl3y8eQPTo"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242093,
+      "name": "One",
+      "url": "https://open.spotify.com/track/2jZ7QU2zzb4upMpVXAm1nb"
     },
     {
       "album": {

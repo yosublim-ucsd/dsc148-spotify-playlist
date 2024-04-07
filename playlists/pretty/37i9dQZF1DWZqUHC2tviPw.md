@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,216 likes - 157 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,274 likes - 157 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 103 | [Stocked](https://open.spotify.com/track/4DomI8yMoXvIJCBfOPc7Fa) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Rocket Silence](https://open.spotify.com/album/3L7vFgb7Ihr1I7lbxJ6q0r) | 2:52 |
 | 104 | [First Place](https://open.spotify.com/track/0oJpKkNS2xAok3jwhWfSPe) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [LAX2DUBAI](https://open.spotify.com/album/2ISpqgsjma0X7KXDM7Jxo3) | 2:27 |
 | 105 | [Ghost](https://open.spotify.com/track/0Xb7YTUlcB32tOYazFZ0c7) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Ghost](https://open.spotify.com/album/4X2204B0fGbDQyvrNvIjJD) | 2:36 |
-| 106 | [illest](https://open.spotify.com/track/0WeWBCsBEnOSpFed1c6jEB) | [AbRaw](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [Absolutely Raw, Vol\. 3](https://open.spotify.com/album/6kXplzzREhFsN4m8HHAO8t) | 2:46 |
+| 106 | [illest](https://open.spotify.com/track/0WeWBCsBEnOSpFed1c6jEB) | [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [Absolutely Raw, Vol\. 3](https://open.spotify.com/album/6kXplzzREhFsN4m8HHAO8t) | 2:46 |
 | 107 | [Operation Chaos](https://open.spotify.com/track/0sWKVy4Z3TraqZT3r70TLA) | [4Traks](https://open.spotify.com/artist/5FbfJVwTIC5N1m85sBoil0) | [Operation Chaos](https://open.spotify.com/album/5yBAcO2ny2fw5ayEvAZ9QT) | 2:52 |
 | 108 | [Last to Leave](https://open.spotify.com/track/2775fOrLACHgsbdfJWHhYX) | [Humblebee](https://open.spotify.com/artist/43DaGVXzvghYrfrHK4eP3m) | [Occasus](https://open.spotify.com/album/1ddz02kStcLhxFiizCK1lP) | 2:38 |
 | 109 | [BandMan](https://open.spotify.com/track/6Sbx6Ma3X6YYFavy1UHL7z) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Energizer](https://open.spotify.com/album/04eOFB9yAJwn7bj5MnMFQ3) | 2:20 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 156 | [Theme](https://open.spotify.com/track/6LGzIiVow9pEHzSc7Z2NC5) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Theme](https://open.spotify.com/album/7HWzZzrVY6lIhyoO2V9wL6) | 2:35 |
 | 157 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 |
 
-Snapshot ID: `MCwwZDc4YmFkMzczZWQ3NTgxZmQyNDIyNGI5ZWJjZGU0ZTFjNTU3NjZk`
+Snapshot ID: `MCxiZjMyMTg1NjI3OWE1NmZlZTQ1NWM1ZmQxZjQ0NDhmMWFkOGQ3ZDM2`

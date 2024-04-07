@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccKkcayc3Ru.md) - [plain]
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598 likes - 25 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 628 likes - 26 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,15 +23,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccKkcayc3Ru.md) - [plain]
 | 13 | [Blue in Green](https://open.spotify.com/track/6EiGHN6OX3rPyPdqymU3V7) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Over the Rainbow](https://open.spotify.com/album/550OQP4Yq1H4UQCW2WrLk0) | 4:41 |
 | 14 | [Summer Child](https://open.spotify.com/track/3dDS3c0Xe1kdFC8CYvX7Yp) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [Body](https://open.spotify.com/album/5AMu3q938fvG6sQfTSmf0Q) | 3:48 |
 | 15 | [Final Girl](https://open.spotify.com/track/3mNo6Wh3QfKh8yBymGumBA) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Final Girl](https://open.spotify.com/album/0GZZCnHOMUx134tHJqocIm) | 3:30 |
-| 16 | [STARLIGHT](https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:08 |
-| 17 | [ひとりの夜を抜け](https://open.spotify.com/track/0jKFkKHQWNCvjoBUG751Oq) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [HUG](https://open.spotify.com/album/76DxOsTwHzuGyD27vEYWKJ) | 3:01 |
-| 18 | [modify Youth](https://open.spotify.com/track/3BcceWQDoclXyOmOH5eZ8I) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [evergreen/modify Youth](https://open.spotify.com/album/3rfcMKe4vOugZxhJxYv6lf) | 3:11 |
-| 19 | [Rondo](https://open.spotify.com/track/4El6KySj1S0mkEc0FA5lZC) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [20,Stop it.](https://open.spotify.com/album/7xrqq730qyI2KI8wZIhtU3) | 2:21 |
-| 20 | [Showtime](https://open.spotify.com/track/5oRsF5BicGgALJBYYnAIq6) | [DATS](https://open.spotify.com/artist/7o1cIignks0pUFY0Pe87oz) | [School](https://open.spotify.com/album/2rAxqAo85FUQwKKLotnqJw) | 4:16 |
-| 21 | [teenage club](https://open.spotify.com/track/4ExheCEfCm9TNBbgGYQFz3) | [gato](https://open.spotify.com/artist/4BFHLUOkM2GdeJXy0K0WiN) | [U+H](https://open.spotify.com/album/3o2UEIU10zoYfNmwFCnaD7) | 2:50 |
-| 22 | [Blue Moon](https://open.spotify.com/track/687QMQDiIcU2pFKgtEu4T9) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [EYES](https://open.spotify.com/album/6Oou13FOvc7UOCaQng10sG) | 3:42 |
-| 23 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 |
-| 24 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 |
-| 25 | [Native Dancer](https://open.spotify.com/track/3wr3GLLHcgsQseC6f5KSV5) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [D.A.N.](https://open.spotify.com/album/48BTQAAjPa3bOZOL9QZrms) | 5:58 |
+| 16 | [Junior Sweet](https://open.spotify.com/track/0iSpQPgX7orFgBZ3atrqZA) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Junior Sweet](https://open.spotify.com/album/6mOQ8WkcSPoIk8w3zA6ZuG) | 6:27 |
+| 17 | [STARLIGHT](https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:08 |
+| 18 | [ひとりの夜を抜け](https://open.spotify.com/track/0jKFkKHQWNCvjoBUG751Oq) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [HUG](https://open.spotify.com/album/76DxOsTwHzuGyD27vEYWKJ) | 3:01 |
+| 19 | [modify Youth](https://open.spotify.com/track/3BcceWQDoclXyOmOH5eZ8I) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [evergreen/modify Youth](https://open.spotify.com/album/3rfcMKe4vOugZxhJxYv6lf) | 3:11 |
+| 20 | [Rondo](https://open.spotify.com/track/4El6KySj1S0mkEc0FA5lZC) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [20,Stop it.](https://open.spotify.com/album/7xrqq730qyI2KI8wZIhtU3) | 2:21 |
+| 21 | [Showtime](https://open.spotify.com/track/5oRsF5BicGgALJBYYnAIq6) | [DATS](https://open.spotify.com/artist/7o1cIignks0pUFY0Pe87oz) | [School](https://open.spotify.com/album/2rAxqAo85FUQwKKLotnqJw) | 4:16 |
+| 22 | [teenage club](https://open.spotify.com/track/4ExheCEfCm9TNBbgGYQFz3) | [gato](https://open.spotify.com/artist/4BFHLUOkM2GdeJXy0K0WiN) | [U+H](https://open.spotify.com/album/3o2UEIU10zoYfNmwFCnaD7) | 2:50 |
+| 23 | [Blue Moon](https://open.spotify.com/track/687QMQDiIcU2pFKgtEu4T9) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [EYES](https://open.spotify.com/album/6Oou13FOvc7UOCaQng10sG) | 3:42 |
+| 24 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 |
+| 25 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 |
+| 26 | [Native Dancer](https://open.spotify.com/track/3wr3GLLHcgsQseC6f5KSV5) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [D.A.N.](https://open.spotify.com/album/48BTQAAjPa3bOZOL9QZrms) | 5:58 |
 
-Snapshot ID: `MCxjNGJjNjYzMDRkY2ZiYWYxYzQ2ODA2ZTU4YzYyZTg1NjFiMTBjYWQ5`
+Snapshot ID: `MCw2ODk2MjczN2YzZDkyZDY4ZWQyOTNkYzQ2MjQyMmNmNzFkZjg2NjE2`

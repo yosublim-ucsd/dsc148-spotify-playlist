@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Artemas
 
-1,776 songs - 3 day 11 hr 55 min
+1,777 songs - 3 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -861,7 +861,8 @@
 | [Lachs](https://open.spotify.com/track/0fQO7Eb3E30tdCL4fArWJ0) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Lachs](https://open.spotify.com/album/5NNTIJVjVMxHYlnVNskHKT) | 2:37 | 2023-08-24 | 2023-09-05 |
 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 | 2022-07-28 | 2022-12-16 |
 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/70HxNVlYQ0Hi6XqBtPLw80) | [Modjo Band](https://open.spotify.com/artist/1AdYlfQl6hOOHlVnc02cah) | [Modjo Band \(Remastered\)](https://open.spotify.com/album/5Fvk2oTQGmVkFbhMnB8Qca) | 5:07 | 2022-06-09 | 2022-07-29 |
-| [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1) | 4:57 | 2024-04-04 |  |
+| [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1) | 4:57 | 2024-04-04 | 2024-04-07 |
+| [Lady Killers II \- Christoph Andersson Remix](https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/08JECZoQNpeSledQtNZp6H) | 4:57 | 2024-04-04 |  |
 | [LASS LOS](https://open.spotify.com/track/2YI2wLwy4DqZKyMD0sfYeh) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [LASS LOS](https://open.spotify.com/album/76IWgdnjuSYLlCF7qC6so1) | 2:51 | 2023-08-10 | 2023-09-22 |
 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2023-08-29 | 2023-09-29 |
 | [Late Time](https://open.spotify.com/track/4fPcT9H0iynHtwLhRoFCKZ) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Late Time](https://open.spotify.com/album/48gL4MGQo0ntwUMCgTdl5n) | 2:58 | 2022-12-08 | 2022-12-16 |

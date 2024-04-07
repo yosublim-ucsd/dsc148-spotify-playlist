@@ -1,9 +1,31 @@
 {
-  "2024-04-06": 1296089,
+  "2024-04-07": 1296416,
   "date_first_scraped": "2022-01-13",
   "description": "Timeless Salsa from your favorite legends. Cover: Rub\u00e9n Blades",
   "name": "Salsa Classics",
   "tracks": [
+    {
+      "album": {
+        "name": "Abran Paso! (Remastered 2024)",
+        "url": "https://open.spotify.com/album/4VIYw0JkogPtnZFdFGf9gJ"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        },
+        {
+          "name": "Orchestra Harlow",
+          "url": "https://open.spotify.com/artist/6JW9UcNPmjUsybgF1WFdkR"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207301,
+      "name": "Abran Paso - Remastered 2024",
+      "url": "https://open.spotify.com/track/6Vsk73MArJQeUoNlhRJEbv"
+    },
     {
       "album": {
         "name": "El Juicio",

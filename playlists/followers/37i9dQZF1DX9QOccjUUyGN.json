@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 16638,
+  "2024-04-07": 16636,
   "date_first_scraped": "2022-03-24",
   "description": "tranquilo e calmo, no flow. Foto: Pedro Lotto",
   "name": "tamo flex",
@@ -2318,6 +2318,28 @@
     },
     {
       "album": {
+        "name": "Bruddas",
+        "url": "https://open.spotify.com/album/4AmD573gIqPOUSf1vwYW6e"
+      },
+      "artists": [
+        {
+          "name": "1700LOVATO",
+          "url": "https://open.spotify.com/artist/36z36eVf7C4XyuTbVJv4p7"
+        },
+        {
+          "name": "Shadzurpp",
+          "url": "https://open.spotify.com/artist/0j3gQOhx83JCA9hXTHulMa"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107462,
+      "name": "Bruddas",
+      "url": "https://open.spotify.com/track/66TzAgLgFsoIRC7KZh6mf2"
+    },
+    {
+      "album": {
         "name": "B\u00fassola",
         "url": "https://open.spotify.com/album/5O8c9HZISpC4pvodx1WhYh"
       },
@@ -3187,7 +3209,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 129528,
       "name": "code\u00edna sabor piranha",
       "url": "https://open.spotify.com/track/2hjo0kfaj8DJO7BOnbg8xv"
@@ -3625,6 +3647,28 @@
       "duration_ms": 126315,
       "name": "Dan\u00e7a Menina",
       "url": "https://open.spotify.com/track/0pNsyFV27plpmQvp2x7Vro"
+    },
+    {
+      "album": {
+        "name": "De Base Eu To Tranquil\u00e3o (Speed)",
+        "url": "https://open.spotify.com/album/4ZtM8cAEPpghdkwf8tZuql"
+      },
+      "artists": [
+        {
+          "name": "Falc\u00f8ne",
+          "url": "https://open.spotify.com/artist/6GicIUMm6G89XIImzu9tUO"
+        },
+        {
+          "name": "West Reis",
+          "url": "https://open.spotify.com/artist/5MZ71Xv0o1bOzgC0OYKkRp"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125897,
+      "name": "De Base Eu To Tranquil\u00e3o - Speed",
+      "url": "https://open.spotify.com/track/2JlUIOnEPmKYcZEy6TWLe7"
     },
     {
       "album": {
@@ -4953,6 +4997,40 @@
       "duration_ms": 163974,
       "name": "Espelho Meu",
       "url": "https://open.spotify.com/track/4fCWPeVBRRRZXKUwngXjzg"
+    },
+    {
+      "album": {
+        "name": "Esquema",
+        "url": "https://open.spotify.com/album/17J8HaKW4Xbm0J6XfCwL53"
+      },
+      "artists": [
+        {
+          "name": "100FACE",
+          "url": "https://open.spotify.com/artist/7fwOmpfbpAfTFXT0ZHlxwx"
+        },
+        {
+          "name": "DoisF",
+          "url": "https://open.spotify.com/artist/54ufZkMGGcZtj6P7KTTDPS"
+        },
+        {
+          "name": "DIMSAN",
+          "url": "https://open.spotify.com/artist/3bEViQ8ke4EQ17mgBqb479"
+        },
+        {
+          "name": "47 D'Block",
+          "url": "https://open.spotify.com/artist/4vEgiVulb9fEVD809dqdbf"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131832,
+      "name": "Esquema",
+      "url": "https://open.spotify.com/track/1s8rJaCYRsgZUHdnL9tGR2"
     },
     {
       "album": {
@@ -6591,7 +6669,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 177184,
       "name": "Homens de Neg\u00f3cios - Master Oficial",
       "url": "https://open.spotify.com/track/3KyRDJowWAxL0cEYht2WqS"
@@ -7315,16 +7393,16 @@
           "url": "https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr"
         },
         {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
           "name": "MC GP",
           "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
         },
         {
           "name": "Dj Herculano",
           "url": "https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv"
-        },
-        {
-          "name": "Aaron Modesto",
-          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
         },
         {
           "name": "Mc Dena",
@@ -7885,7 +7963,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 179995,
       "name": "Maloqueiro Chique",
       "url": "https://open.spotify.com/track/2ha9jcZa86JGKa0wDkKD5o"
@@ -9265,7 +9343,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 114285,
       "name": "Na M\u00eddia",
       "url": "https://open.spotify.com/track/3TgpLBsZFo8DAe2JgUd3fV"
@@ -15101,6 +15179,32 @@
       "duration_ms": 171789,
       "name": "Xeque-Mate (feat. Paiva Prod)",
       "url": "https://open.spotify.com/track/2Se6ItuMZiqQ2jZkwXzOO6"
+    },
+    {
+      "album": {
+        "name": "Amor e \u00d3dio",
+        "url": "https://open.spotify.com/album/1JVy0joBUE56wy7glnoaJj"
+      },
+      "artists": [
+        {
+          "name": "MC MENOR SG",
+          "url": "https://open.spotify.com/artist/3hXocXy7cs7SZ1JLZUgKBp"
+        },
+        {
+          "name": "Deg\u00ea Enok",
+          "url": "https://open.spotify.com/artist/2LHpMLykHNLg1jyEaUs75M"
+        },
+        {
+          "name": "MC ANINHA",
+          "url": "https://open.spotify.com/artist/1n508A6kaMUNUK64PLSedX"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193363,
+      "name": "\u00d3dio",
+      "url": "https://open.spotify.com/track/79ReIvLjoeMsm4wnFRUX4e"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9QOccjUUyGN"

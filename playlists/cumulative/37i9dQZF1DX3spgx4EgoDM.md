@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-313 songs - 19 hr 29 min
+314 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [20 Grandes Exitos](https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI) | 3:40 | 2022-07-05 | 2023-03-12 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/3mXLgWxNIbEFXWPppGjc6a) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No me Arrepiento de Este Amor](https://open.spotify.com/album/3Y572iPz6e7ddpowsAffn2) | 3:47 | 2022-07-05 | 2022-07-23 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 | 2023-02-10 |  |
-| [No Me Digas Que No](https://open.spotify.com/track/3DINASfl27t6yqfTwQEJtD) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No Me Digas Que No](https://open.spotify.com/album/6J5Kf8vKFJJlxdnykuLbHq) | 3:23 | 2024-03-07 |  |
+| [No Me Digas Que No](https://open.spotify.com/track/3DINASfl27t6yqfTwQEJtD) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No Me Digas Que No](https://open.spotify.com/album/6J5Kf8vKFJJlxdnykuLbHq) | 3:23 | 2024-03-07 | 2024-04-07 |
 | [No Me Lo Creo](https://open.spotify.com/track/1y5ASkTQugJGPghwyJMEiS) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Como la Gente](https://open.spotify.com/album/4X0Zg0oFkXXqlbSqv4lCX4) | 4:45 | 2022-07-05 | 2022-07-29 |
 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Con La Cumbia En La Sangre](https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp) | 2:51 | 2022-07-05 | 2023-03-16 |
 | [No Podre Olvidarme](https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv) | 3:15 | 2022-09-09 |  |
@@ -249,6 +249,7 @@
 | [Romance Ilegal / Cumbia / Haciendo el Amor / Furia Loca \(Mix Sound 1\)](https://open.spotify.com/track/4VHKAfBCGDmhUxK3pmlUWm) | [Jordan](https://open.spotify.com/artist/4wO1Ld1CKjm4vFMNUn7E7k) | [Éxitos del Sound](https://open.spotify.com/album/63BMcDRF6qDkDZSykBJsBe) | 5:08 | 2022-07-05 | 2022-07-26 |
 | [Rumba Cha\-Cha\-Cha](https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [El Poder De La Cumbia](https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m) | 4:43 | 2022-07-05 |  |
 | [Sabrosón](https://open.spotify.com/track/3O2RDUmiywqchEFgJTd58X) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/6syUUZEnaRDxJ7oh2uRbNz) | 2:54 | 2022-07-05 | 2022-07-27 |
+| [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 | 2024-03-07 |  |
 | [Sakate Uno](https://open.spotify.com/track/7tg2sPCtKf5hLoD0w2Z7Zd) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Le Traigo Cumbia](https://open.spotify.com/album/2jKCTQjsp4MGepUw3E3UlH) | 3:54 | 2022-07-05 | 2022-07-28 |
 | [Se Parece Más A Ti](https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Separece A Ti](https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw) | 4:08 | 2022-07-05 |  |
 | [Serenata cruel](https://open.spotify.com/track/152U4ecGSiYeKm2gnFc4wA) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/1xJWcP3LsQkDu0lh5jjhAM) | 4:32 | 2022-07-05 | 2022-07-29 |

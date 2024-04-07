@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Silent Bob in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,783 likes - 53 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,784 likes - 53 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 52 | [LOOP](https://open.spotify.com/track/4pyB9Zy8Hy8Bko67IihYZR) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [LOOP](https://open.spotify.com/album/68caZ3EhG2FXjPPda0Sqp1) | 2:42 |
 | 53 | [Ekip](https://open.spotify.com/track/7158jz8FPmq8DkrqDjIDB6) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [Ekip](https://open.spotify.com/album/1u94zj4rvh7F7pRTKkNC81) | 2:35 |
 
-Snapshot ID: `MCxjYWY2ODIyNjUyZDQwNWYyM2ZhYWM0N2Q2MzZmMmU2MjE1N2ZiMThk`
+Snapshot ID: `MCw1NjJhNDJiMDc3N2NmMjk0ZjRiNDU3ZGJiOGNjYzUzMjgwZTE1Y2Ix`

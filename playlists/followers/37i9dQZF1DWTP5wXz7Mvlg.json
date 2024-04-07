@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 26672,
+  "2024-04-07": 26691,
   "date_first_scraped": "2023-01-15",
   "description": "<a href=\"spotify:artist:1rd51IrbtX9DqoU0Zxu4TV\">DJ Marky</a>'s favourite tracks. Updated regularly. Curated by DJ Marky. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "DJ Marky's track IDs",
@@ -2139,10 +2139,40 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 268071,
       "name": "Vices - Bladerunner Remix",
       "url": "https://open.spotify.com/track/5bqfrXlfvuQHDznFhHSb2C"
+    },
+    {
+      "album": {
+        "name": "More Sides of Everything",
+        "url": "https://open.spotify.com/album/6N0SBrvQhHlVRWIFqu0zBi"
+      },
+      "artists": [
+        {
+          "name": "Riya",
+          "url": "https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb"
+        },
+        {
+          "name": "Collette Warren",
+          "url": "https://open.spotify.com/artist/2pzGbNf0oadczuFlVAxZC3"
+        },
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+        },
+        {
+          "name": "Bladerunner",
+          "url": "https://open.spotify.com/artist/4yvREhViCsrwclRdBAdlOl"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269828,
+      "name": "Vices - Bladerunner Remix",
+      "url": "https://open.spotify.com/track/4Hxv7cyCQ2ebWwaLvmf8Qg"
     },
     {
       "album": {

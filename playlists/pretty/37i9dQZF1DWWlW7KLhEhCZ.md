@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: The Boy, Rudies Flacko
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,733 likes - 76 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,752 likes - 76 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 75 | [Novo Lema](https://open.spotify.com/track/33tt369xksWowFUwuBCAg3) | [NexoAnexo](https://open.spotify.com/artist/1RemuQyqsvKZEzjkOrOag6), [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn), [Thiérre](https://open.spotify.com/artist/5xeNZMWjN6taeu28YaQ7FE) | [Novo Lema](https://open.spotify.com/album/0iRYoCvYogsvqvbzJVuFX2) | 3:48 |
 | 76 | [Mlk Resumo](https://open.spotify.com/track/3SaXeqyOnYADTKNwNiqSkG) | [Paião](https://open.spotify.com/artist/59w7Io8azAdYXQp6fQjOvJ), [Ryan.4l](https://open.spotify.com/artist/6J4XzStfOx8YQGkd5xYIYU), [prodmelo!](https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ) | [Mlk Resumo](https://open.spotify.com/album/5aiq7KpjSGrNGUiOV3iyI0) | 2:14 |
 
-Snapshot ID: `MCw5ZTAyMGNiYmJiNGIzMzcwODU0N2VjODVjZmMzODg0YmU5NDA1OGY3`
+Snapshot ID: `MCxhOWZkZWE0Yjg3MDkwNzdmNzE2MzhlMzViZGU3NWU1MjliYzgyNDg4`

@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Artemas",
-  "num_followers": 478136,
+  "num_followers": 478183,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTJkODdhNDNlM2I5ZWUzZDU4NWI1Yjc0NjE1NmM3ZjAwNjJhY2Ez",
+  "snapshot_id": "MCxiZDBkYzYyMmExM2MyNDcxMDY0MWM2YTkzNTMxYjQwODliMDdkZTY1",
   "tracks": [
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Hello Sunshine",
+        "url": "https://open.spotify.com/album/5R3R5lGNcVmNXdDFljZzud"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "duration_ms": 225038,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/5dS9u36myZ35YBrhgqAIle"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "WICKED",
         "url": "https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 210027,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Hello Sunshine",
-        "url": "https://open.spotify.com/album/5R3R5lGNcVmNXdDFljZzud"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 225038,
-      "name": "Your Touch",
-      "url": "https://open.spotify.com/track/5dS9u36myZ35YBrhgqAIle"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
+        "name": "Can You Feel The Sun",
+        "url": "https://open.spotify.com/album/0P4sHlkN6qkLxWAcEKYqPx"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 223671,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/7gq2VoVnIcT2jd8JWAEjrj"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
         "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
         "url": "https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 196880,
       "name": "deadly ever after",
       "url": "https://open.spotify.com/track/1sGT7SHoxtjk18oSNSItBq"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Can You Feel The Sun",
-        "url": "https://open.spotify.com/album/0P4sHlkN6qkLxWAcEKYqPx"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 223671,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/7gq2VoVnIcT2jd8JWAEjrj"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1331,18 +1331,22 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Death Of A Fantasy",
-        "url": "https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic"
+        "name": "DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)",
+        "url": "https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3"
       },
       "artists": [
         {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        },
+        {
+          "name": "Death Stranding: Timefall",
+          "url": "https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4"
         }
       ],
-      "duration_ms": 133186,
-      "name": "THERAPY!",
-      "url": "https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V"
+      "duration_ms": 189920,
+      "name": "Sing To Me",
+      "url": "https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1363,22 +1367,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)",
-        "url": "https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3"
+        "name": "Death Of A Fantasy",
+        "url": "https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic"
       },
       "artists": [
         {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        },
-        {
-          "name": "Death Stranding: Timefall",
-          "url": "https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4"
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
         }
       ],
-      "duration_ms": 189920,
-      "name": "Sing To Me",
-      "url": "https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh"
+      "duration_ms": 133186,
+      "name": "THERAPY!",
+      "url": "https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "MERIDIAN",
-        "url": "https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC"
-      },
-      "artists": [
-        {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        }
-      ],
-      "duration_ms": 192773,
-      "name": "PUMP THE BREAK",
-      "url": "https://open.spotify.com/track/7baoqD2YuFgFTqdBwf72PC"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Failed at Math(s)",
         "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
       },
@@ -1487,6 +1471,38 @@
       "duration_ms": 222105,
       "name": "Portraits",
       "url": "https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 206687,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "MERIDIAN",
+        "url": "https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC"
+      },
+      "artists": [
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "duration_ms": 192773,
+      "name": "PUMP THE BREAK",
+      "url": "https://open.spotify.com/track/7baoqD2YuFgFTqdBwf72PC"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1527,22 +1543,6 @@
       "duration_ms": 161322,
       "name": "flowers",
       "url": "https://open.spotify.com/track/4SBECfkTJOnZFj9A8gzUQy"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 206687,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "god damn!",
-        "url": "https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv"
-      },
-      "artists": [
-        {
-          "name": "viisi",
-          "url": "https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z"
-        }
-      ],
-      "duration_ms": 116307,
-      "name": "god damn!",
-      "url": "https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 169680,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "god damn!",
+        "url": "https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv"
+      },
+      "artists": [
+        {
+          "name": "viisi",
+          "url": "https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z"
+        }
+      ],
+      "duration_ms": 116307,
+      "name": "god damn!",
+      "url": "https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U"
     },
     {
       "added_at": "2024-03-22 04:01:00",

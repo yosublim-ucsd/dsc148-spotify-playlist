@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 320322,
+  "2024-04-07": 320377,
   "date_first_scraped": "2022-02-13",
   "description": "A happy place.",
   "name": "DISCOLAND",
@@ -694,6 +694,32 @@
     },
     {
       "album": {
+        "name": "Burnin' Up (Original Mix)",
+        "url": "https://open.spotify.com/album/2wrHA0T9EBPHOBt3d1kD9e"
+      },
+      "artists": [
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        },
+        {
+          "name": "Zen Freeman",
+          "url": "https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG"
+        },
+        {
+          "name": "Ampersounds",
+          "url": "https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Burnin' Up (Original Mix)",
+      "url": "https://open.spotify.com/track/3ODQX54xuxyHlVb76kwBwb"
+    },
+    {
+      "album": {
         "name": "Burning Down The House",
         "url": "https://open.spotify.com/album/59iMjVwJBrP8CQMj11wud0"
       },
@@ -1139,6 +1165,28 @@
       "duration_ms": 422423,
       "name": "Demba - Demi Riqu\u00edsimo Remix",
       "url": "https://open.spotify.com/track/5YWYvr0ecvcz9kYpYa7xID"
+    },
+    {
+      "album": {
+        "name": "Det l\u00e4cker (Sebastian Furrer Edit)",
+        "url": "https://open.spotify.com/album/0K58w3lG2p00OCvTDLp3KA"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        },
+        {
+          "name": "Sebastian Furrer",
+          "url": "https://open.spotify.com/artist/0F0otkpvDmCa1E0ePmHmi9"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221397,
+      "name": "Det l\u00e4cker - Sebastian Furrer Edit",
+      "url": "https://open.spotify.com/track/1ixA4PqNk3745oLPMiqmVW"
     },
     {
       "album": {
@@ -2619,7 +2667,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
@@ -3561,7 +3609,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 204823,
       "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
       "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
@@ -4972,6 +5020,24 @@
     },
     {
       "album": {
+        "name": "Pick Up The Pieces",
+        "url": "https://open.spotify.com/album/6jE9BNnlGqQjJ9DZIXXxkf"
+      },
+      "artists": [
+        {
+          "name": "Doche",
+          "url": "https://open.spotify.com/artist/5Er0sKNKy1Tv7UjgmV8Vpf"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129877,
+      "name": "Pick Up The Pieces",
+      "url": "https://open.spotify.com/track/0AFWgdVAOq0hG0hYhzclhN"
+    },
+    {
+      "album": {
         "name": "Playbox",
         "url": "https://open.spotify.com/album/29TyN53CnU2go3iOWzB9dD"
       },
@@ -5023,7 +5089,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 164912,
       "name": "Pleasure Love",
       "url": "https://open.spotify.com/track/22itU9LO5xcgMIQ2wDYg3b"
@@ -5852,6 +5918,24 @@
     },
     {
       "album": {
+        "name": "So Pretty",
+        "url": "https://open.spotify.com/album/203Xqt7kaHARcEBwV9l7oh"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "So Pretty",
+      "url": "https://open.spotify.com/track/359LcUDiG0kNC9wj9LJMo8"
+    },
+    {
+      "album": {
         "name": "Soleil",
         "url": "https://open.spotify.com/album/1wdClJMfuGIwDnidRgglW7"
       },
@@ -6665,7 +6749,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 220299,
       "name": "Waiting 4 You",
       "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"

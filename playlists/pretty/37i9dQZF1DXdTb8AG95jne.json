@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: dosii(\ub3c4\uc2dc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 465592,
+  "num_followers": 465618,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTA3ZjFlZjMxZmQ5OTA0MjY2N2ZiMGU4Njk2YzY5ZTY4NDU2ZWQ3",
+  "snapshot_id": "MCxhNGVlOTk4NmMzZWZhOGVmZWMzODZmODY2NTBlN2MzZGZiODE0ZTIx",
   "tracks": [
     {
       "added_at": "2024-04-04 05:45:36",
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-04-04 05:45:36",
       "album": {
-        "name": "Hollywood",
-        "url": "https://open.spotify.com/album/0MY78gb6h0RWwO43g921z0"
+        "name": "FROM : X",
+        "url": "https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn"
       },
       "artists": [
         {
-          "name": "The Black Skirts",
-          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
+          "name": "1415",
+          "url": "https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA"
         }
       ],
-      "duration_ms": 331000,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/3XPD2voMhtskeDqtClsbaU"
+      "duration_ms": 171106,
+      "name": "When It Snows",
+      "url": "https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1"
     },
     {
       "added_at": "2024-04-04 05:45:36",
@@ -431,18 +431,18 @@
     {
       "added_at": "2024-04-04 05:45:36",
       "album": {
-        "name": "FROM : X",
-        "url": "https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn"
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/0MY78gb6h0RWwO43g921z0"
       },
       "artists": [
         {
-          "name": "1415",
-          "url": "https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA"
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
         }
       ],
-      "duration_ms": 171106,
-      "name": "When It Snows",
-      "url": "https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1"
+      "duration_ms": 331000,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/3XPD2voMhtskeDqtClsbaU"
     },
     {
       "added_at": "2024-04-04 05:45:36",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-04-04 05:45:36",
       "album": {
-        "name": "3108",
-        "url": "https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw"
-      },
-      "artists": [
-        {
-          "name": "Ha Hyun Sang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "3108",
-      "url": "https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK"
-    },
-    {
-      "added_at": "2024-04-04 05:45:36",
-      "album": {
         "name": "naps!",
         "url": "https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 205161,
       "name": "naps!",
       "url": "https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw"
+    },
+    {
+      "added_at": "2024-04-04 05:45:36",
+      "album": {
+        "name": "3108",
+        "url": "https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "3108",
+      "url": "https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK"
     },
     {
       "added_at": "2024-04-04 05:45:36",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-04-04 05:45:36",
       "album": {
+        "name": "Calibrate",
+        "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
+    },
+    {
+      "added_at": "2024-04-04 05:45:36",
+      "album": {
         "name": "Esprit",
         "url": "https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 224500,
       "name": "Answer",
       "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
-    },
-    {
-      "added_at": "2024-04-04 05:45:36",
-      "album": {
-        "name": "Calibrate",
-        "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
-      },
-      "artists": [
-        {
-          "name": "Ha Hyun Sang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
     },
     {
       "added_at": "2024-04-04 05:45:36",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-04-04 05:45:36",
       "album": {
+        "name": "Okinawa",
+        "url": "https://open.spotify.com/album/3SfmjXBkaB9ASer8mFHNg6"
+      },
+      "artists": [
+        {
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+        }
+      ],
+      "duration_ms": 348445,
+      "name": "Okinawa",
+      "url": "https://open.spotify.com/track/1CfcKv1RLdJBWhRHAZgVdf"
+    },
+    {
+      "added_at": "2024-04-04 05:45:36",
+      "album": {
         "name": "Again, Spring Days",
         "url": "https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL"
       },
@@ -819,38 +835,6 @@
     {
       "added_at": "2024-04-04 05:45:36",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
-      },
-      "artists": [
-        {
-          "name": "dosii",
-          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
-        }
-      ],
-      "duration_ms": 243321,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
-    },
-    {
-      "added_at": "2024-04-04 05:45:36",
-      "album": {
-        "name": "SPACE STATION",
-        "url": "https://open.spotify.com/album/5HtxTb1Y4w2DlZ0NUisnJJ"
-      },
-      "artists": [
-        {
-          "name": "ID:Earth",
-          "url": "https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/0Wes8mildhpOo1pguWGG9d"
-    },
-    {
-      "added_at": "2024-04-04 05:45:36",
-      "album": {
         "name": "Let Me Love My Youth",
         "url": "https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 248407,
       "name": "Let Me Love My Youth",
       "url": "https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1"
+    },
+    {
+      "added_at": "2024-04-04 05:45:36",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
+      },
+      "artists": [
+        {
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+        }
+      ],
+      "duration_ms": 243321,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
     }
   ],
   "unique_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",

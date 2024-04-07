@@ -170,7 +170,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 177075,
       "name": "Amor Falso",
       "url": "https://open.spotify.com/track/0KlDHJm8yPsGdiNhYgEYWZ"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 143349,
       "name": "Fora do Eixo - Ao Vivo",
       "url": "https://open.spotify.com/track/69PsZHMRxyHbCiBLtmUVPJ"
@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "Acertou Na Mosca",
+        "url": "https://open.spotify.com/album/4vOfQufVR5xI14wXEjgdX0"
+      },
+      "artists": [
+        {
+          "name": "Tierry",
+          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142145,
+      "name": "Hb20",
+      "url": "https://open.spotify.com/track/5fLCrCEayDFaaRMtorglwq"
+    },
+    {
+      "album": {
         "name": "Acertou na Mosca",
         "url": "https://open.spotify.com/album/5Jum3LSjwNFO8OxVo0PM2N"
       },
@@ -890,7 +908,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 142192,
       "name": "Hb20",
       "url": "https://open.spotify.com/track/4cjowWOdLUKomiRwhWpRXJ"

@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 2608,
+  "2024-04-07": 2611,
   "date_first_scraped": "2022-05-30",
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
   "name": "\uc7ac\uc988\ub9db \ud799\ud569",
@@ -1824,6 +1824,28 @@
     },
     {
       "album": {
+        "name": "roaming.",
+        "url": "https://open.spotify.com/album/6eLVFuisUwXug4uhRcQosX"
+      },
+      "artists": [
+        {
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
+        },
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "LIFE LOVE LAZY (Feat. CHOILB)",
+      "url": "https://open.spotify.com/track/6elDiM0qVAMqtYa7J4dWNh"
+    },
+    {
+      "album": {
         "name": "Millionaire Poetry",
         "url": "https://open.spotify.com/album/2iqRyGFGVwHsSgKvc6EuDv"
       },
@@ -2441,7 +2463,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 193375,
       "name": "Piss On Me",
       "url": "https://open.spotify.com/track/4GJy4M67insCFuAUhluOza"
@@ -2773,7 +2795,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 191480,
       "name": "SOAP",
       "url": "https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k"
@@ -3187,6 +3209,24 @@
       "duration_ms": 222133,
       "name": "under the ground (feat. Dean)",
       "url": "https://open.spotify.com/track/6EU4Ox9nBAE4BMatsggp8i"
+    },
+    {
+      "album": {
+        "name": "Used To Be",
+        "url": "https://open.spotify.com/album/0fTJlZVOWY9h7hvK7KGH42"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Used To Be",
+      "url": "https://open.spotify.com/track/2lbL9ybEcabfosjaM7tYOr"
     },
     {
       "album": {

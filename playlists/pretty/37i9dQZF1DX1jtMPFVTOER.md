@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,969 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,012 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Planet Nine](https://open.spotify.com/track/7fVt2s9EQVuqxTaB4UscpI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [1978](https://open.spotify.com/album/7uid7xXNdaEHU9AMOQpcwj) | 4:50 |
-| 2 | [Say Wow](https://open.spotify.com/track/27BXc7zVWqSTiWHSdOlJch) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Say Wow](https://open.spotify.com/album/3mH4zZR8kzXE9tQSYnMV2b) | 2:57 |
+| 2 | [Say Wow](https://open.spotify.com/track/27BXc7zVWqSTiWHSdOlJch) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Say Wow](https://open.spotify.com/album/3mH4zZR8kzXE9tQSYnMV2b) | 2:57 |
 | 3 | [Keepin' It Kool](https://open.spotify.com/track/05GPOsUWEBKwMnb3EukHpg) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [Kendra Dias](https://open.spotify.com/artist/4ntiWr0UeyP1duNqALGosf) | [Keepin' It Kool](https://open.spotify.com/album/0Q0b78qSFigP7oulHLChl6) | 5:25 |
 | 4 | [All The Same](https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [All The Same](https://open.spotify.com/album/0PJURdQhTdpGqgEJ60SZHq) | 5:24 |
 | 5 | [Ballin' \(Find Your Calling\)](https://open.spotify.com/track/2JlIUKN8V4VmR8TknZ2SpE) | [Kapok](https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO), [Meiwa](https://open.spotify.com/artist/6du0AH3wGlfiMx1skhT1MS) | [Ballin' \(Find Your Calling\)](https://open.spotify.com/album/77BOHJ6EKlXFqDkVzZCIZh) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Kanazawa](https://open.spotify.com/track/6wbGYLokhtcUBJKLqoCwHs) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Shigeto](https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8), [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [Hotel San Claudio](https://open.spotify.com/album/0cuhODD4wYfCeeclaYsPYu) | 3:54 |
 | 100 | [you said...](https://open.spotify.com/track/2T8gjOM7DTgu7YtwLC0ddf) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [you said...](https://open.spotify.com/album/77L359klVW9v2ODUWvNPF5) | 2:14 |
 
-Snapshot ID: `MCw5YzExYWI4MTNlMjgzMjY5OWZhZGNjNmYzNTBiMjM0ZDMxZmEwZmNl`
+Snapshot ID: `MCw3YjM0NTBkZDAzNGFmOThiM2U2YTg1NDdmNWU2NjU1MTJmYmFjZjk2`

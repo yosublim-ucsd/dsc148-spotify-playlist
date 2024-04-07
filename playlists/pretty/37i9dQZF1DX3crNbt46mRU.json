@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjc4NGIyYThlMTI2ZDVlZjU2YjdkOTEyYjI1MjZlOTk3YTUxYWZi",
+  "snapshot_id": "MCxjMjcxZWRhYjU3N2MzNDBhMzcyNWMzNTg1YmY2ODU0ZDM3OThmMjRk",
   "tracks": [
     {
       "added_at": "2024-04-05 06:50:51",
@@ -294,6 +294,10 @@
         {
           "name": "Green Montana",
           "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
       "duration_ms": 172280,
@@ -1024,7 +1028,7 @@
       },
       "artists": [
         {
-          "name": "Sira",
+          "name": "Sira Faal",
           "url": "https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs"
         },
         {

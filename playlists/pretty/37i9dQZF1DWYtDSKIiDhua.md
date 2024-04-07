@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Denise Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,097 likes - 86 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,141 likes - 86 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 52 | [Outta My Mind](https://open.spotify.com/track/5m5ZqwkHyeByNHFhTczqkt) | [Aini Mazalan](https://open.spotify.com/artist/3mfDuM7MO7MWAfFID5ecai) | [Outta My Mind](https://open.spotify.com/album/0yDJYWBNXKqtwlah6357qT) | 3:21 |
 | 53 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 |
 | 54 | [Die For You](https://open.spotify.com/track/6bGkjhsJLQsza4lCCqG3pj) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Die For You](https://open.spotify.com/album/49Mjx7DPJbwq4HB6fbdiqI) | 2:58 |
-| 55 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 |
+| 55 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 |
 | 56 | [Whatever](https://open.spotify.com/track/7FoHEr4j8y905vSLqSnCHt) | [Armi Millare](https://open.spotify.com/artist/7bT6URJrhJleZUfkrysELD) | [Whatever](https://open.spotify.com/album/57z9dMhh5EuKsovqA2666h) | 3:43 |
 | 57 | [How Soon](https://open.spotify.com/track/3xYN1E1k2yKo542ORTXM0G) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [How Soon](https://open.spotify.com/album/4jdF1Zm7qKtorqthSwAokK) | 3:10 |
 | 58 | [Pagdali](https://open.spotify.com/track/7fMR5ryCo3m38yyj1PCym4) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Pagdali](https://open.spotify.com/album/185zJ1UyWQn80NFdOCjIPJ) | 3:33 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 67 | [i love your lovin'](https://open.spotify.com/track/33IEqkx1wcNWl53cpdU3tv) | [phyllzx](https://open.spotify.com/artist/3pGw79Q5CfoBgwYw4vHfS2) | [i love your lovin'](https://open.spotify.com/album/170nuycp1kQkSy66cPJQFB) | 2:17 |
 | 68 | [When Dawn Comes Again \(feat\. BAEKHYUN\)](https://open.spotify.com/track/3K5LF6pX2oTzIQA62t6qnK) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [When Dawn Comes Again \(feat\. BAEKHYUN\)](https://open.spotify.com/album/7wgyRpzVueGdjV9yozlIYj) | 4:00 |
 | 69 | [Wish I Was Her \(feat\. Kara Chenoa\)](https://open.spotify.com/track/0msnhb9KKzAnrEknlrb5Az) | [Caccia](https://open.spotify.com/artist/26HmsOEfo4q8DJvNw3jo1a), [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [Wish I Was Her \(feat\. Kara Chenoa\)](https://open.spotify.com/album/6LqnwQFOfMMUw6iTgBtAF1) | 3:09 |
-| 70 | [don't miss me too much](https://open.spotify.com/track/3CpvvoudcR6LJtChWIOzTo) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 3:17 |
+| 70 | [don't miss me too much](https://open.spotify.com/track/3CpvvoudcR6LJtChWIOzTo) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 3:17 |
 | 71 | [SELFISH](https://open.spotify.com/track/7y73GJQDozxvtPDx0VTzXO) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [SELFISH](https://open.spotify.com/album/203K7mIwNixbwsD41xwshx) | 3:01 |
 | 72 | [handbook](https://open.spotify.com/track/75JGsgZiv72lPsjeUTiCS9) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Nieman](https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [handbook](https://open.spotify.com/album/5wodFXORE5lgHYkK4XzJeC) | 3:15 |
 | 73 | [redlight](https://open.spotify.com/track/4usL9yvJ80iPtLGNgCQWKj) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [redlight](https://open.spotify.com/album/1tTkSbF12n40Ul5ksW24QH) | 3:28 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 85 | [Feelings For You](https://open.spotify.com/track/6mWiNbLn42n9owATnMSVau) | [EDDI](https://open.spotify.com/artist/1bRHF6zV7n8uymi2ReMRQG) | [Feelings For You](https://open.spotify.com/album/5WVPOwHNsiXEXtQFigEuaR) | 1:59 |
 | 86 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 |
 
-Snapshot ID: `MCw0ODU5MzBkZTc0YjE1NzY3MTFkZDcwNWIxYmFjYjU0MzA0MzY1ZDk0`
+Snapshot ID: `MCw0MzBhNGM1ZWM1MjM0OGJhZTVlZDRiMDE4ODZhOWU5ZGM1NzM4ZTRl`

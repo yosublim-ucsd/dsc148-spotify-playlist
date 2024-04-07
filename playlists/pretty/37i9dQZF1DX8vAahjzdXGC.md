@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,678 likes - 94 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,737 likes - 94 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 93 | [magnetic](https://open.spotify.com/track/5qu7ku8i1fk1sO1ru7i7nM) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [magnetic](https://open.spotify.com/album/6hmFvR34taSRF1mqrB53TS) | 3:07 |
 | 94 | [Into the Fire](https://open.spotify.com/track/7MtC5CHn69OJYTzmA9fmQC) | [CHANSUNG](https://open.spotify.com/artist/0Xysc1acrmF3w8vMvmSUPW), [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [Changmin Lee](https://open.spotify.com/artist/4nccw03u1XLPVaMMAysdv9) | [Into the Fire](https://open.spotify.com/album/1RYTxkxZisCvw2cEDe57V6) | 3:43 |
 
-Snapshot ID: `MCxhODg5YWE3NDk2NjE5YjgzZWM4MzNlZjM4ODAyNWNhNTdkY2JlODI3`
+Snapshot ID: `MCw4OTJjMTk0OWJjYWE4YzU5ZDhiZTE5M2M2Y2Q3YWZkMWFkMTMwOTE0`

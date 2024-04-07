@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 202795,
+  "2024-04-07": 203014,
   "date_first_scraped": "2022-01-24",
-  "description": "Rimas argentinas. Foto: Trueno.",
+  "description": "Rimas argentinas. Foto: Prok & C.R.O.",
   "name": "Hip Hop Argento",
   "tracks": [
     {
@@ -1420,6 +1420,28 @@
     },
     {
       "album": {
+        "name": "Demenciales",
+        "url": "https://open.spotify.com/album/5Yy4rwXZXN8sWRCfE0V5xn"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Prok",
+          "url": "https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121301,
+      "name": "Demenciales",
+      "url": "https://open.spotify.com/track/0UJPAOOmj7KGoQgv1ytKuu"
+    },
+    {
+      "album": {
         "name": "Demonio",
         "url": "https://open.spotify.com/album/7zWmthUc2FUoNalblzLd1S"
       },
@@ -2525,7 +2547,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 223788,
       "name": "JOSEAR",
       "url": "https://open.spotify.com/track/6Lyh9aeQ4Rf9ssfUlUZB1A"
@@ -4969,7 +4991,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 233831,
       "name": "TODO PAGO",
       "url": "https://open.spotify.com/track/4IDRYddYWDSt4OTKOo6P0t"

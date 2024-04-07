@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 189590,
+  "num_followers": 189668,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTY1ZGZkN2ViM2RiOTM2NmEzOGUyYzJhNzNjM2I2NGRhYjVhNTBm",
+  "snapshot_id": "MCwxZjZlYjIxMzc1YTI5M2ViNWJhODYyNGQ4NWUzYTg2OWM5MDBmNmUx",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Feel Your Feelings Fool!",
-        "url": "https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Seashore",
-      "url": "https://open.spotify.com/track/6kQ3W5LMxh6ftjEBssYgAd"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Get Damaged",
         "url": "https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 180266,
       "name": "Becky",
       "url": "https://open.spotify.com/track/258n2M8Xg97Vk15PzmY24O"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Feel Your Feelings Fool!",
+        "url": "https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Seashore",
+      "url": "https://open.spotify.com/track/6kQ3W5LMxh6ftjEBssYgAd"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Get Awkward",
+        "url": "https://open.spotify.com/album/3NTvYh8PojyC68r2cnU398"
+      },
+      "artists": [
+        {
+          "name": "Be Your Own Pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "duration_ms": 131226,
+      "name": "Heart Throb - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/4Pmf5TmEIHkhCt2rfFeLLC"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Call the Doctor (Remastered)",
         "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 155788,
       "name": "Boys in the Band",
       "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Get Awkward",
-        "url": "https://open.spotify.com/album/3NTvYh8PojyC68r2cnU398"
-      },
-      "artists": [
-        {
-          "name": "Be Your Own Pet",
-          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
-        }
-      ],
-      "duration_ms": 131226,
-      "name": "Heart Throb - Album Version (Edited)",
-      "url": "https://open.spotify.com/track/4Pmf5TmEIHkhCt2rfFeLLC"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Sorry, Mom",
-        "url": "https://open.spotify.com/album/2S2SJWfVZ7KWjz8tfrYSvh"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 369213,
-      "name": "Word Salad",
-      "url": "https://open.spotify.com/track/69j7HErLMwAtvPCtR74tKa"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Love Me Forever",
         "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 196942,
       "name": "the kids aren't alright",
       "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Sorry, Mom",
+        "url": "https://open.spotify.com/album/2S2SJWfVZ7KWjz8tfrYSvh"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "duration_ms": 369213,
+      "name": "Word Salad",
+      "url": "https://open.spotify.com/track/69j7HErLMwAtvPCtR74tKa"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Stay Alive",
-        "url": "https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh"
-      },
-      "artists": [
-        {
-          "name": "Laura Jane Grace",
-          "url": "https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9"
-        }
-      ],
-      "duration_ms": 124533,
-      "name": "SuperNatural Possession",
-      "url": "https://open.spotify.com/track/2argENW2MZGxj0TwGtH2RZ"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Mayo Supreme",
         "url": "https://open.spotify.com/album/2T42kZHMEGCe6XkRmCWe8y"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 172432,
       "name": "Fuck the Cistem",
       "url": "https://open.spotify.com/track/6Qt0KafTAgxOBEi3XFo2eg"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Stay Alive",
+        "url": "https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh"
+      },
+      "artists": [
+        {
+          "name": "Laura Jane Grace",
+          "url": "https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9"
+        }
+      ],
+      "duration_ms": 124533,
+      "name": "SuperNatural Possession",
+      "url": "https://open.spotify.com/track/2argENW2MZGxj0TwGtH2RZ"
     },
     {
       "added_at": "2023-05-25 14:38:53",

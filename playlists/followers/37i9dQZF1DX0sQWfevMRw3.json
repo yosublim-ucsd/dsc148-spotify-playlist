@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 161670,
+  "2024-04-07": 161769,
   "date_first_scraped": "2021-12-21",
   "description": "VEM FAN E DU!?",
   "name": "30 km/h",
@@ -9357,10 +9357,28 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 127200,
       "name": "H\u00c4R KOMMER SVINERS",
       "url": "https://open.spotify.com/track/1WuQOUYOsOZNhAfvEU0fIR"
+    },
+    {
+      "album": {
+        "name": "H\u00c4R KOMMER SVINERS",
+        "url": "https://open.spotify.com/album/4Wos6tKkGifiRrsxn3XoWe"
+      },
+      "artists": [
+        {
+          "name": "SVINERS",
+          "url": "https://open.spotify.com/artist/09e2yjoFpNbQSXe2khe7yU"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "H\u00c4R KOMMER SVINERS",
+      "url": "https://open.spotify.com/track/46AgqdcUExU4jdtJ1kRJkc"
     },
     {
       "album": {

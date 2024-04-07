@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 726340,
+  "2024-04-07": 726412,
   "date_first_scraped": "2021-12-21",
   "description": "Holdin' it down for the westside. Cover: Mozzy",
   "name": "Westside Story",
@@ -2471,7 +2471,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 194342,
       "name": "Can U Dig That?",
       "url": "https://open.spotify.com/track/5poLcNswsi0NovepA5xZ7j"
@@ -2935,7 +2935,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 161354,
       "name": "Cold Stepper",
       "url": "https://open.spotify.com/track/4Pamq0oEC8imWMOwWT3v8D"
@@ -3249,6 +3249,24 @@
       "duration_ms": 151808,
       "name": "Covenant",
       "url": "https://open.spotify.com/track/7L9ype3HUCdH1AjJ3lyA8I"
+    },
+    {
+      "album": {
+        "name": "The People's Choice",
+        "url": "https://open.spotify.com/album/1kKzxIvcy2lxMb9owVIlf4"
+      },
+      "artists": [
+        {
+          "name": "R3 DA Chilliman",
+          "url": "https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108865,
+      "name": "Cracc a Smile",
+      "url": "https://open.spotify.com/track/3aqAYnLEBaelMV07jtGJTN"
     },
     {
       "album": {
@@ -4755,6 +4773,32 @@
       "duration_ms": 163135,
       "name": "Fell asleep",
       "url": "https://open.spotify.com/track/2K8bary0cLmR4lZgmgFKUm"
+    },
+    {
+      "album": {
+        "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
+        "url": "https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190104,
+      "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
+      "url": "https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61"
     },
     {
       "album": {
@@ -7530,6 +7574,28 @@
     },
     {
       "album": {
+        "name": "Pigeons & Planes presents: See You Next Year 2",
+        "url": "https://open.spotify.com/album/2HmJbK4LHezgshv0V4m9bi"
+      },
+      "artists": [
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        },
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243679,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/5oRxL1xwkTVPZSQcaOkoSc"
+    },
+    {
+      "album": {
         "name": "Jump The Broom",
         "url": "https://open.spotify.com/album/7q3VED4HNByI6D8iUOMumY"
       },
@@ -7723,7 +7789,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 132423,
       "name": "KING KONG",
       "url": "https://open.spotify.com/track/37xVrDsnZRn6AsQ2MZ6O2q"
@@ -8343,7 +8409,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 217812,
       "name": "Like That (Remix)",
       "url": "https://open.spotify.com/track/4UizJ3CSIkT0i8E86HmFV8"
@@ -9318,6 +9384,32 @@
     },
     {
       "album": {
+        "name": "LIVE FROM THE 206",
+        "url": "https://open.spotify.com/album/2T0lzqE5dQWvkFA6pxKXxk"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Iiinfinite",
+          "url": "https://open.spotify.com/artist/5tw81TqzE5gbCxMrYU710Y"
+        },
+        {
+          "name": "Tope",
+          "url": "https://open.spotify.com/artist/6w4nfg5jYD6ejjbTIB2sHq"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/0cwE2kc6cE5AlHlqr7x4jw"
+    },
+    {
+      "album": {
         "name": "Move Fast (feat. Cypress Moreno & Low The Great)",
         "url": "https://open.spotify.com/album/4hLKmlOgRA1VH1D7d9i1cH"
       },
@@ -9389,7 +9481,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 113619,
       "name": "Movie (feat. Az Chike)",
       "url": "https://open.spotify.com/track/1X1EwijiXXOmEU5iMqhFT5"
@@ -10522,6 +10614,24 @@
     },
     {
       "album": {
+        "name": "OKLOSER",
+        "url": "https://open.spotify.com/album/6Dp4fwNoZD6Sum7PEheLrJ"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169053,
+      "name": "OKLOSER",
+      "url": "https://open.spotify.com/track/3EM5ZPDSe1JjSztumpsc5n"
+    },
+    {
+      "album": {
         "name": "On My Level",
         "url": "https://open.spotify.com/album/3vMCfa0dtz0xB4TDMbdl59"
       },
@@ -10891,6 +11001,28 @@
       "duration_ms": 114059,
       "name": "Outside (Oouu Wahh) [feat. Chikoruss]",
       "url": "https://open.spotify.com/track/2fstmgxqa6LGyFuJZPolSc"
+    },
+    {
+      "album": {
+        "name": "LIVE FROM THE 206",
+        "url": "https://open.spotify.com/album/2T0lzqE5dQWvkFA6pxKXxk"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Mike G Beatz",
+          "url": "https://open.spotify.com/artist/6RiMJXZlXLl3DRdwXSF1eb"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102989,
+      "name": "Outskirts",
+      "url": "https://open.spotify.com/track/06KQ4k7nAuhWj3nr5Dk7MS"
     },
     {
       "album": {
@@ -11598,6 +11730,24 @@
     },
     {
       "album": {
+        "name": "Probably Cursed",
+        "url": "https://open.spotify.com/album/4swbbKCogvSKzIpH2ftorO"
+      },
+      "artists": [
+        {
+          "name": "EBK Jaaybo",
+          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167528,
+      "name": "Probably Cursed",
+      "url": "https://open.spotify.com/track/7oxvFIDtNVZwekhYPqqVnw"
+    },
+    {
+      "album": {
         "name": "THE PRICE EP",
         "url": "https://open.spotify.com/album/5kIXAeHBXgkmq07azjbvsS"
       },
@@ -11767,7 +11917,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 111340,
       "name": "Rank",
       "url": "https://open.spotify.com/track/4LD9TCq1FHfuVzsFNfkd7g"
@@ -12437,7 +12587,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 229841,
       "name": "Scroll (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/2C0fcDxtgH09UISZLvIyqw"
@@ -12903,7 +13053,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 103848,
       "name": "So Into You - Freestyle",
       "url": "https://open.spotify.com/track/7tm1iBwlqhERgmH3yilnef"
@@ -13135,7 +13285,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 162853,
       "name": "Sponsor",
       "url": "https://open.spotify.com/track/594ppo6O7TTzB84JQHEEjo"
@@ -13191,7 +13341,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 180800,
       "name": "Stand On It (with Future)",
       "url": "https://open.spotify.com/track/6lqRjNaL63nmwHbQcekxLh"
@@ -13797,6 +13947,28 @@
       "duration_ms": 117841,
       "name": "Talkin Bout",
       "url": "https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO"
+    },
+    {
+      "album": {
+        "name": "The People's Choice",
+        "url": "https://open.spotify.com/album/1kKzxIvcy2lxMb9owVIlf4"
+      },
+      "artists": [
+        {
+          "name": "R3 DA Chilliman",
+          "url": "https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e"
+        },
+        {
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165557,
+      "name": "Taste (feat. Karrahbooo)",
+      "url": "https://open.spotify.com/track/5dXneHqsjMuGYwdMtL7clA"
     },
     {
       "album": {
@@ -14690,6 +14862,24 @@
     },
     {
       "album": {
+        "name": "Troll Patrol",
+        "url": "https://open.spotify.com/album/0QorpWuvwBgRQ16vAeAGH6"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155428,
+      "name": "Troll Patrol",
+      "url": "https://open.spotify.com/track/7C3ZfZ5ZlDt6t6uW4K5kai"
+    },
+    {
+      "album": {
         "name": "Underrated",
         "url": "https://open.spotify.com/album/4ENTdxCVdDwfNw2c9TVvUW"
       },
@@ -14873,6 +15063,28 @@
       "duration_ms": 96000,
       "name": "Up'd The Sco",
       "url": "https://open.spotify.com/track/4vHB9vD6AiymM8Emogel0Y"
+    },
+    {
+      "album": {
+        "name": "Scarlet 2 CLAUDE",
+        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152653,
+      "name": "URRRGE!!!!!!!!!! (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/0mxMMetknt24PVQxAHwXAZ"
     },
     {
       "album": {

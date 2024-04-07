@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 451023,
+  "num_followers": 451094,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTNjYTI0YjIzYTM2ZGEyYWUzNTVlZTAxZTJiMzYzNmMyMGQzYWFj",
+  "snapshot_id": "MCw4NmQ5MDZlZTk3ZWU1YzA1MjUwYjg0NjdjYTIxNjg1ZGYyMThhMDMy",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KISS 40",
-        "url": "https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM"
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 241106,
-      "name": "I Was Made For Lovin' You - Single Mix",
-      "url": "https://open.spotify.com/track/7dEKwMoUZCpvUFLLuJQjju"
+      "duration_ms": 320226,
+      "name": "God Gave Rock 'N' Roll To You II",
+      "url": "https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
+        "name": "KISS 40",
+        "url": "https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 320226,
-      "name": "God Gave Rock 'N' Roll To You II",
-      "url": "https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu"
+      "duration_ms": 241106,
+      "name": "I Was Made For Lovin' You - Single Mix",
+      "url": "https://open.spotify.com/track/7dEKwMoUZCpvUFLLuJQjju"
     },
     {
       "added_at": null,

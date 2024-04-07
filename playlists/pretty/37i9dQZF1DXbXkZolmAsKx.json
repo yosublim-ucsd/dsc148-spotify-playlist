@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 9497,
+  "num_followers": 9520,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzM1MWQ4OTY2ZmQ5YTk0NTQ1NjMwNmYxYWM2YzZiM2ZjOGNlYThm",
+  "snapshot_id": "MCw0NmEzZWJhMzlhZTBmZmYzZDdkYWUwNDRhMDYwMTQ2NWQzMjljMTBi",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "AUN",
-        "url": "https://open.spotify.com/album/29zcWtCKrowX82m30Ta6Lh"
-      },
-      "artists": [
-        {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Kae",
-      "url": "https://open.spotify.com/track/033Vg3im3XjMERhAf180cN"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Passive Aggressive",
         "url": "https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 207993,
       "name": "Hanging Glass Structure",
       "url": "https://open.spotify.com/track/7M2AMJZISkdKAzHg7n2CUZ"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "AUN",
+        "url": "https://open.spotify.com/album/29zcWtCKrowX82m30Ta6Lh"
+      },
+      "artists": [
+        {
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Kae",
+      "url": "https://open.spotify.com/track/033Vg3im3XjMERhAf180cN"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Narkopop",
-        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
-      },
-      "artists": [
-        {
-          "name": "GAS",
-          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
-        }
-      ],
-      "duration_ms": 249700,
-      "name": "Narkopop 4",
-      "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "The Magic Place",
         "url": "https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Narkopop",
+        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
+      },
+      "artists": [
+        {
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+        }
+      ],
+      "duration_ms": 249700,
+      "name": "Narkopop 4",
+      "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "No Home of the Mind",
         "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 298697,
       "name": "Chonchos",
       "url": "https://open.spotify.com/track/58B9gtBLbeQG55l8whZz2R"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Spells (Special Edition)",
-        "url": "https://open.spotify.com/album/7Dc1cks2uIn5JQhMr0uTmR"
-      },
-      "artists": [
-        {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Selene",
-      "url": "https://open.spotify.com/track/5YDRS9iVUyN6RJjlbXNygt"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Spells (Special Edition)",
+        "url": "https://open.spotify.com/album/7Dc1cks2uIn5JQhMr0uTmR"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Selene",
+      "url": "https://open.spotify.com/track/5YDRS9iVUyN6RJjlbXNygt"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Forgotten Hill",
         "url": "https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf"
       },
@@ -1067,22 +1067,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4"
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
       "artists": [
         {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        },
-        {
-          "name": "Sebastian Plano",
-          "url": "https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr"
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
         }
       ],
-      "duration_ms": 214668,
-      "name": "Opening",
-      "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
+      "duration_ms": 517151,
+      "name": "Walking in a spiral towards the house: Side C",
+      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1119,22 +1115,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
-      },
-      "artists": [
-        {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
-        }
-      ],
-      "duration_ms": 517151,
-      "name": "Walking in a spiral towards the house: Side C",
-      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Schaum",
         "url": "https://open.spotify.com/album/58F8DIOgoFQoY112kj6sLP"
       },
@@ -1155,6 +1135,26 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        },
+        {
+          "name": "Sebastian Plano",
+          "url": "https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr"
+        }
+      ],
+      "duration_ms": 214668,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Loom Dream",
         "url": "https://open.spotify.com/album/0eW3b50zPiSOrK0SiG8ZEh"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 455925,
       "name": "Mimosa",
       "url": "https://open.spotify.com/track/04eX5ipbl4MG4RybvDmTBW"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Music For Installations",
-        "url": "https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 483566,
-      "name": "Kites I",
-      "url": "https://open.spotify.com/track/51Wa3SEDS3FQHxtvcCter8"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Music For Installations",
+        "url": "https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 483566,
+      "name": "Kites I",
+      "url": "https://open.spotify.com/track/51Wa3SEDS3FQHxtvcCter8"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Low Distance",
         "url": "https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0"
       },
@@ -1215,6 +1215,22 @@
       "duration_ms": 227458,
       "name": "Faded Earth",
       "url": "https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+      },
+      "artists": [
+        {
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+        }
+      ],
+      "duration_ms": 748623,
+      "name": "Walking in a spiral towards the house: Side D",
+      "url": "https://open.spotify.com/track/4F8HlqT6gkJDytZwMwhtGE"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1251,6 +1267,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Nightmare Ending",
+        "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 429986,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Infra",
         "url": "https://open.spotify.com/album/7zwjum4hz8odYpeZrSZyz2"
       },
@@ -1283,38 +1315,6 @@
       "duration_ms": 244786,
       "name": "Infra 1",
       "url": "https://open.spotify.com/track/3c7ZpMEp2doDCVm1Rw7Vf3"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Nightmare Ending",
-        "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 429986,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
-      },
-      "artists": [
-        {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
-        }
-      ],
-      "duration_ms": 748623,
-      "name": "Walking in a spiral towards the house: Side D",
-      "url": "https://open.spotify.com/track/4F8HlqT6gkJDytZwMwhtGE"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Drifters / Love Is the Devil",
-        "url": "https://open.spotify.com/album/0eKBCl5Qo6ds8hIrY5M6Dl"
+        "name": "Make Me Know You Sweet",
+        "url": "https://open.spotify.com/album/4cq8lOA5PvprvOw8xpLEFI"
       },
       "artists": [
         {
-          "name": "Dirty Beaches",
-          "url": "https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8"
+          "name": "Pendant",
+          "url": "https://open.spotify.com/artist/3Dwfw1WTW4TyJJim9hblas"
         }
       ],
-      "duration_ms": 222226,
-      "name": "This Is Not My City",
-      "url": "https://open.spotify.com/track/2992b6Uyw7LjfYyV2gvaFB"
+      "duration_ms": 445241,
+      "name": "AAE-KZT",
+      "url": "https://open.spotify.com/track/6kHS5vk5QLUlxy2qbCMlop"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Make Me Know You Sweet",
-        "url": "https://open.spotify.com/album/4cq8lOA5PvprvOw8xpLEFI"
+        "name": "Drifters / Love Is the Devil",
+        "url": "https://open.spotify.com/album/0eKBCl5Qo6ds8hIrY5M6Dl"
       },
       "artists": [
         {
-          "name": "Pendant",
-          "url": "https://open.spotify.com/artist/3Dwfw1WTW4TyJJim9hblas"
+          "name": "Dirty Beaches",
+          "url": "https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8"
         }
       ],
-      "duration_ms": 445241,
-      "name": "AAE-KZT",
-      "url": "https://open.spotify.com/track/6kHS5vk5QLUlxy2qbCMlop"
+      "duration_ms": 222226,
+      "name": "This Is Not My City",
+      "url": "https://open.spotify.com/track/2992b6Uyw7LjfYyV2gvaFB"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Centralia",
-        "url": "https://open.spotify.com/album/6fkI0lgbExJfl0q3wNI4sG"
-      },
-      "artists": [
-        {
-          "name": "Mountains",
-          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
-        }
-      ],
-      "duration_ms": 296133,
-      "name": "Living Lens",
-      "url": "https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "21 Exoticism ESCAP",
         "url": "https://open.spotify.com/album/0ZdjiLjmm4hJyJHsfPyt4h"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 197581,
       "name": "Gentle Flight",
       "url": "https://open.spotify.com/track/71LrMApAHFrst0uRGnp01X"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Centralia",
+        "url": "https://open.spotify.com/album/6fkI0lgbExJfl0q3wNI4sG"
+      },
+      "artists": [
+        {
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+        }
+      ],
+      "duration_ms": 296133,
+      "name": "Living Lens",
+      "url": "https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh"
     }
   ],
   "unique_name": "Ambient 2010s",

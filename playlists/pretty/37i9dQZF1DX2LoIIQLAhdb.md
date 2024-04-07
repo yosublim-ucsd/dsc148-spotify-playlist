@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Dadju x Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,660 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,721 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [SEULE \(AGAIN\)](https://open.spotify.com/track/5jHthJFk8TMUGDy532jiof) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [NISHATI](https://open.spotify.com/album/6Rl0Xb0LQKQjcFbtiptz1f) | 2:58 |
 | 40 | [SOS](https://open.spotify.com/track/51rmQPxpkfDxyhz44KtCvY) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [SOS](https://open.spotify.com/album/52xFZbg2Fsvn1s6AjpJIjb) | 2:52 |
 
-Snapshot ID: `MCwyMTE5ZjcxZTQyMGIzYzNkMDExYzQ4ODVmZDhlZGNkZTdjMzg3NWVm`
+Snapshot ID: `MCwyYmI1ZmE0YjQ3YjdjNDk5YjA0NGE2MGRkNTdkYzk1ZWQ3Y2VmZTZm`

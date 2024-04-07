@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Hoshimachi Suisei\(星街すいせい\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,650 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,454 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [Overlook](https://open.spotify.com/track/4DiOri4A9IVybvW9yzbfgT) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Mar6le](https://open.spotify.com/album/0U3YU3OcVdATKqONecYbf4) | 2:52 |
 | 75 | [iPhone feat\. Skaai](https://open.spotify.com/track/56JbxvYrxvRJuGLZEZemru) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [iPhone feat\. Skaai](https://open.spotify.com/album/4TVblZTOgvpzp9f5WAEwmM) | 2:55 |
 
-Snapshot ID: `MCw2OTAxZTUxMTM1ODM2NTE3OWRkZTM0MTBjZmNmOTI4ODIwYWMxMGM3`
+Snapshot ID: `MCw1OWRkOGUyMjYyNzBlZjRmM2YwYTdjNmZjNTRmNjY1YmRlNDMxMDIz`

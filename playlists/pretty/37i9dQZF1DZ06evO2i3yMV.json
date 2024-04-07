@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 7943,
+  "num_followers": 7944,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTdlNDZmOGY4ZmMxNTJkY2IxODYwYTYyZWU4NjQ3NWVmZTc1NTdh",
+  "snapshot_id": "MCxmZmNhNGVmY2U2MjZhNWQzMjAxZWExNzhmOTNmZjZjZDk5ZTM5ZDEz",
   "tracks": [
     {
       "added_at": null,
@@ -735,26 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lune Rouge (Remixed)",
-        "url": "https://open.spotify.com/album/5N6srwSnMVnUr2CGTbEByX"
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "MNDR",
-          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
-        },
-        {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
         }
       ],
-      "duration_ms": 190800,
-      "name": "We Love - Felix Cartal Remix",
-      "url": "https://open.spotify.com/track/2yie05svrhg545Jg8b7rte"
+      "duration_ms": 238277,
+      "name": "Renter's Anthem",
+      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
     },
     {
       "added_at": null,
@@ -791,18 +783,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+        "name": "Lune Rouge (Remixed)",
+        "url": "https://open.spotify.com/album/5N6srwSnMVnUr2CGTbEByX"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        },
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
         }
       ],
-      "duration_ms": 238277,
-      "name": "Renter's Anthem",
-      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
+      "duration_ms": 190800,
+      "name": "We Love - Felix Cartal Remix",
+      "url": "https://open.spotify.com/track/2yie05svrhg545Jg8b7rte"
     },
     {
       "added_at": null,

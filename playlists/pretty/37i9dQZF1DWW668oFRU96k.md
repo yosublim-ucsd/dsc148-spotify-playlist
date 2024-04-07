@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Robin Schulz x Timmy Trumpet x KOPPY
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,287 likes - 92 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,293 likes - 92 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 24 | [How I Feel](https://open.spotify.com/track/4jkeFaDXwcsdv39cXL2wf1) | [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I) | [How I Feel](https://open.spotify.com/album/24dDMPMYRguIBsTctAyBpq) | 3:36 |
 | 25 | [Carry You](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Carry You](https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO) | 3:35 |
 | 26 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 |
-| 27 | [Low](https://open.spotify.com/track/4ziRpLkeDT6vUgeZGsRYOm) | [MITCH DB](https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL), [Karlie Chui](https://open.spotify.com/artist/6FGGgZv1TZOF0dkIW2yENg), [Navagio](https://open.spotify.com/artist/5is5DqPrikZst947JUUy9z) | [Low](https://open.spotify.com/album/2l6fa0xdKxeqRccBMKD4oh) | 2:14 |
+| 27 | [Low](https://open.spotify.com/track/4ziRpLkeDT6vUgeZGsRYOm) | [MITCH DB](https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL), [Karlie Chui](https://open.spotify.com/artist/3DRMPNs23drO22bqK9ceWA), [Navagio](https://open.spotify.com/artist/5is5DqPrikZst947JUUy9z) | [Low](https://open.spotify.com/album/2l6fa0xdKxeqRccBMKD4oh) | 2:14 |
 | 28 | [Nothin On You](https://open.spotify.com/track/1yhjOPo2WSZHL32MrTxk4B) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Nothin On You](https://open.spotify.com/album/1Nu4WHbLLaD6jbvV4G2BSs) | 3:03 |
 | 29 | [What Took You So Long](https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [What Took You So Long](https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h) | 3:31 |
 | 30 | [PARALYZED \- TC/TC](https://open.spotify.com/track/0MD5dh34wT3D599gkS2VLR) | [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [PARALYZED \(TC/TC\)](https://open.spotify.com/album/350xyy5gGPc8ibqkgMOsMr) | 4:56 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 91 | [Alarm](https://open.spotify.com/track/46bj7kwZJ70hOI4nzhwndj) | [Fancy Floss](https://open.spotify.com/artist/36Qux635tnV9mSMJNOGUGo) | [Alarm](https://open.spotify.com/album/0Y2oVIKZhjLZiXLQhnBNXI) | 3:17 |
 | 92 | [It's Me](https://open.spotify.com/track/6XjiPb2y2zzyhzzmSLuMix) | [Ax3S](https://open.spotify.com/artist/78dCJPhjFWkzsdCVpTs5pt) | [It's Me](https://open.spotify.com/album/2OLkJJ3rzkUubtRMmzcCXx) | 2:03 |
 
-Snapshot ID: `MCxhZmU0YWZlMjgxZjQwZjdmZTgyMWU4YjA5NmVmZWM0MjRhMDljMTEw`
+Snapshot ID: `MCwyOTk3N2U0Y2MzZDE3MzNmYzNkOGM2YjdjNzMzM2ViNWFlYzhhZWEw`

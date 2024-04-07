@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 176761,
+  "num_followers": 176796,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTc4ZjQxNDViODdmYThhODhjZWJlZmIzNmE1ZjAwMTI1ODFlODdh",
+  "snapshot_id": "MCwyNzMzYjkyNmFkMzdhODc0ODk3NWI5MDM4MzBhNDcxYWE5YTAxYzFm",
   "tracks": [
     {
       "added_at": "2024-01-17 10:21:34",
@@ -407,22 +407,18 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        },
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
         }
       ],
-      "duration_ms": 221631,
-      "name": "MADAME - L'anima",
-      "url": "https://open.spotify.com/track/0uAnrNNITY7KwmOqdVEsIK"
+      "duration_ms": 207802,
+      "name": "La storia infinita",
+      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -443,18 +439,22 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
       },
       "artists": [
         {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
         }
       ],
-      "duration_ms": 207802,
-      "name": "La storia infinita",
-      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
+      "duration_ms": 221631,
+      "name": "MADAME - L'anima",
+      "url": "https://open.spotify.com/track/0uAnrNNITY7KwmOqdVEsIK"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Mi Fai Stare Bene",
-        "url": "https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ"
-      },
-      "artists": [
-        {
-          "name": "Biagio Antonacci",
-          "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "Iris (Tra Le Tue Poesie)",
-      "url": "https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
         "name": "L'ultima notte",
         "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 157566,
       "name": "L'ultima notte",
       "url": "https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
+        "name": "Mi Fai Stare Bene",
+        "url": "https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ"
+      },
+      "artists": [
+        {
+          "name": "Biagio Antonacci",
+          "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "Iris (Tra Le Tue Poesie)",
+      "url": "https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX"
     },
     {
       "added_at": "2024-01-17 10:21:34",

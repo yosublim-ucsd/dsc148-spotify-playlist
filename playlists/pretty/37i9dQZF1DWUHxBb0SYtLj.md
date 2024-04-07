@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste talentuose artiste italiane! Cover: Angelica
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,738 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,740 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Acqua ossigenata](https://open.spotify.com/track/3Q8UZcTEBbaVcg9RhShnY0) | [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Sconosciuti superstar](https://open.spotify.com/album/4DFhDSOSXmgIXXFd2VUNzg) | 2:35 |
 | 2 | [HATTORI HANZO \(feat\. Madame\)](https://open.spotify.com/track/5e6Qu6LyjBJ3xROHLhwcTT) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:46 |
-| 3 | [ARIA!](https://open.spotify.com/track/0A8vQ3UME04FMC21VDKANs) | [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY) | [ARIA!](https://open.spotify.com/album/6V1DpuIspWPskHkaOOft3G) | 2:42 |
+| 3 | [ARIA! \- From "Gloria"](https://open.spotify.com/track/0A8vQ3UME04FMC21VDKANs) | [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY) | [ARIA! \(From "Gloria"\)](https://open.spotify.com/album/6V1DpuIspWPskHkaOOft3G) | 2:42 |
 | 4 | [Tutti contro tutti](https://open.spotify.com/track/3Qi2tRCAstmItgnf1qpq71) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Tutti contro tutti](https://open.spotify.com/album/0MKxiFxj7Palssg4NDjh5h) | 2:47 |
 | 5 | [Porta Pia](https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Porta Pia](https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d) | 2:55 |
 | 6 | [MA COME SI FA](https://open.spotify.com/track/0NWiNpldKNulxKaVSOToBB) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Scraby](https://open.spotify.com/artist/3BgpK7ZHEWz7oX8376ngNL) | [MA COME SI FA](https://open.spotify.com/album/4YwdSpryGk4Ciu2fqc3OdL) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [Dentro di me](https://open.spotify.com/track/7yLuwRipesZLX1xAqY3cjz) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Dentro di me](https://open.spotify.com/album/4G7K8YMU8vCtPr9SiOZ0if) | 2:37 |
 | 50 | [Danza del Ghetto \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/2uTE3ilwfZWtMdarjkStGs) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP) | [Danza del Ghetto \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/3L2chRYOCkeN6CTXVMzi6S) | 2:14 |
 
-Snapshot ID: `MCw1NzdlZTczODdkOGRiNzI4NzdlYWE5OWRjNzhlODFjYWE4ZTcyMWNk`
+Snapshot ID: `MCw1ZDJjOGFjMDVmOGY0NWQ0ZjY0OTllYzk3MDhmZWE4ZTI1MzMzZDgw`

@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,908 songs - 3 day 0 hr 42 min
+1,909 songs - 3 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1214,6 +1214,7 @@
 | [Oonga Boonga](https://open.spotify.com/track/26QyP0HrEPW0EAggeRovc5) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Oonga Boonga](https://open.spotify.com/album/4cxVtYbW26RwdkQc8H00Pk) | 2:05 | 2023-10-13 |  |
 | [Open All Night](https://open.spotify.com/track/6Dt6AytHdXimlTCONkV95z) | [Danny Ghost](https://open.spotify.com/artist/3LoivJ8DRyZuJdk5R2tRGF) | [Open All Night](https://open.spotify.com/album/1QcHc5DY3LS2MZNMhlgjCz) | 2:50 | 2022-09-16 | 2023-01-07 |
 | [Open Mind](https://open.spotify.com/track/1kt6a5QnMUlFekTV8AHxRy) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Open Mind](https://open.spotify.com/album/21uLlTDKl4plmnUwvuYozh) | 2:32 | 2022-04-15 | 2022-05-27 |
+| [Opulence](https://open.spotify.com/track/5Lau1jCQPlGK5lS2gSW0cu) | [Leonard Hudgens](https://open.spotify.com/artist/6WpmWIpXTW0N63IGUFqIlT) | [Opulence](https://open.spotify.com/album/6aDX3sTyPUTeECzsKDbgt3) | 2:15 | 2024-03-22 |  |
 | [Opus II](https://open.spotify.com/track/47U6UBCMwwXkf7saw2VAW3) | [Terrence Woods](https://open.spotify.com/artist/68OTfPEEVauMj9rWCFSz1k) | [Opus II](https://open.spotify.com/album/11uGd9Tqjc2tfZJXY8UCx1) | 2:15 | 2022-04-15 | 2022-09-09 |
 | [Orb](https://open.spotify.com/track/0uGPVmkDuOnxFrclKurZi1) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Orb](https://open.spotify.com/album/0YfkN8XLus9Sj1PKnRvIq6) | 2:15 | 2022-09-02 |  |
 | [Orbit](https://open.spotify.com/track/1B2KxrWP52AdVVqbPqr8Za) | [ATD Beats](https://open.spotify.com/artist/2HjWgx3XLvAeEBEP8fN2uy) | [Orbit](https://open.spotify.com/album/1p7sm4gf3BkyQklULsQsel) | 2:28 | 2023-04-03 |  |
@@ -1252,7 +1253,7 @@
 | [Park Life](https://open.spotify.com/track/6TrmKrBHA1UcepoLAoCa7A) | [Mooseplant](https://open.spotify.com/artist/41f1LonnqCGklJb2ewxewh) | [Park Life](https://open.spotify.com/album/5bCGymt5IOhp1ankpc5K5l) | 2:18 | 2022-10-28 |  |
 | [park stroll](https://open.spotify.com/track/6lDAtiAKi02GGDLGxZb1OO) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [park stroll](https://open.spotify.com/album/3kJAru3uOEp1A0IAdBcgHi) | 2:08 | 2023-12-15 |  |
 | [parking lot](https://open.spotify.com/track/5oOq7LVY5RDNkZeajlOhgo) | [Beltiner](https://open.spotify.com/artist/4DzyAL1nvxYKEEavnXxVVm) | [parking lot](https://open.spotify.com/album/0fnroq8pifWBkuAX1bWsKj) | 2:19 | 2022-04-15 | 2022-09-17 |
-| [Particles](https://open.spotify.com/track/5iutyPUPT8BD6NmUjMVVj2) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [Particles](https://open.spotify.com/album/0wVaLUlQyunU42SVFMlnj5) | 2:09 | 2023-07-13 |  |
+| [Particles](https://open.spotify.com/track/5iutyPUPT8BD6NmUjMVVj2) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [Particles](https://open.spotify.com/album/0wVaLUlQyunU42SVFMlnj5) | 2:09 | 2023-07-13 | 2024-04-07 |
 | [Pasadena](https://open.spotify.com/track/1oIrVe05XbFLR6y4sngNvU) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [Pasadena](https://open.spotify.com/album/7La4e1LchRTR0ZssnD3j47) | 2:12 | 2023-12-08 |  |
 | [Pass The Pepper](https://open.spotify.com/track/0PECtKDUzSskD0Qin06lSb) | [Eclips3](https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9) | [Pass The Pepper](https://open.spotify.com/album/72jUuyNU9FVH1ShwZm4OaM) | 2:13 | 2022-09-16 | 2023-04-04 |
 | [Pass the salt](https://open.spotify.com/track/4SXsq4BLWnnQZeYYVy8Eub) | [Eclips3](https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9) | [Pass the salt](https://open.spotify.com/album/725SX9hC4DguSckhXbDzmL) | 2:08 | 2022-06-03 | 2022-12-09 |

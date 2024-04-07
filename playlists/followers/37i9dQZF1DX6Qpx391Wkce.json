@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 52744,
+  "2024-04-07": 52765,
   "date_first_scraped": "2023-08-20",
   "description": "<a href=\"spotify:artist:2xeHjPrS4EnEUIXHV9pkeg\">Monika Kruse</a>'s favorite tracks. Updated regularly. Curated by Monika Kruse. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Monika Kruse's track IDs",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 217846,
       "name": "3 Minutes to Midnight",
       "url": "https://open.spotify.com/track/17vUDLauEwEjjU07yPfFke"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 382608,
       "name": "After Six Years",
       "url": "https://open.spotify.com/track/0WRSrfxHM3ife3XjVKsFxb"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 445613,
       "name": "Changes of Perception",
       "url": "https://open.spotify.com/track/6yPT4MX0RPW1dPD902Qmh7"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 241818,
       "name": "Cycle",
       "url": "https://open.spotify.com/track/0GHv9YdoQs36TxkpmVyYIj"
@@ -922,6 +922,24 @@
     },
     {
       "album": {
+        "name": "Delusion",
+        "url": "https://open.spotify.com/album/4LPjfv1JJVp0Pm3zpOEPWA"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "Delusion",
+      "url": "https://open.spotify.com/track/58hCBEO44N41HOuIINSjhR"
+    },
+    {
+      "album": {
         "name": "Diamonds On My Mind",
         "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
       },
@@ -937,6 +955,24 @@
       "duration_ms": 168529,
       "name": "Diamonds On My Mind",
       "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/3sRWEOpJqePc6wh1tJtoAo"
+      },
+      "artists": [
+        {
+          "name": "Aio",
+          "url": "https://open.spotify.com/artist/457BDAljLqB0RTofWt8zPJ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451144,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/3OajzNWRPA3t3h2ilhx0bs"
     },
     {
       "album": {
@@ -1020,6 +1056,24 @@
     },
     {
       "album": {
+        "name": "DJ Made my Day",
+        "url": "https://open.spotify.com/album/3MZ6b7jejIQC4NxGdlYmYm"
+      },
+      "artists": [
+        {
+          "name": "Cores",
+          "url": "https://open.spotify.com/artist/7cPTd41SGeifvTvz4DmK9M"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220150,
+      "name": "DJ Made My Day",
+      "url": "https://open.spotify.com/track/4zbglHXk900LOnyiYjE5E0"
+    },
+    {
+      "album": {
         "name": "20 Years Of Dancefloor by Smiley",
         "url": "https://open.spotify.com/album/40RglEFwehUJvPb8fzGNRz"
       },
@@ -1053,6 +1107,24 @@
       "duration_ms": 370858,
       "name": "Dopemine",
       "url": "https://open.spotify.com/track/1DHpTZqedmXOahLu8HFHxT"
+    },
+    {
+      "album": {
+        "name": "Drift To The Center",
+        "url": "https://open.spotify.com/album/37267IWcXSZ4a5ZL3JoY9s"
+      },
+      "artists": [
+        {
+          "name": "Pig&Dan",
+          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460199,
+      "name": "Drift To The Center",
+      "url": "https://open.spotify.com/track/0ICwZgEQFMLBEMjiLVeuJ9"
     },
     {
       "album": {
@@ -1125,7 +1197,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 172937,
       "name": "Electronic Nation",
       "url": "https://open.spotify.com/track/5ORCkWiEMf8YPRbO2AIWvi"
@@ -1187,6 +1259,24 @@
       "duration_ms": 222352,
       "name": "Evolution of Thinking",
       "url": "https://open.spotify.com/track/3fBCeomup3asoDT42KGrqh"
+    },
+    {
+      "album": {
+        "name": "F**k Raw",
+        "url": "https://open.spotify.com/album/4PKF4k0XtkbIXiFykfd7Qo"
+      },
+      "artists": [
+        {
+          "name": "Krzysiek Teper",
+          "url": "https://open.spotify.com/artist/7lvrqWMhH8spZDuDNWmeZU"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367618,
+      "name": "F**k Raw",
+      "url": "https://open.spotify.com/track/5MBFWzMpxEtBwYZInomEnw"
     },
     {
       "album": {
@@ -1284,6 +1374,24 @@
     },
     {
       "album": {
+        "name": "Flash Station",
+        "url": "https://open.spotify.com/album/1VnYtJNW0faTG0Crh1pUQf"
+      },
+      "artists": [
+        {
+          "name": "Hollen",
+          "url": "https://open.spotify.com/artist/3XyhZgjNCOB4onNVrbtYiB"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415000,
+      "name": "Flash Station",
+      "url": "https://open.spotify.com/track/5451VUyXveqFkI4FubsH4t"
+    },
+    {
+      "album": {
         "name": "Flashback 98",
         "url": "https://open.spotify.com/album/4qL2gku5i5jFNLfLO9NvRP"
       },
@@ -1299,6 +1407,24 @@
       "duration_ms": 211764,
       "name": "Flashback 98",
       "url": "https://open.spotify.com/track/2jfIBEjBw8aaWKXbouaMeV"
+    },
+    {
+      "album": {
+        "name": "Form & Flux",
+        "url": "https://open.spotify.com/album/5P6AF3AA2c1ozeCbQ9m0Cy"
+      },
+      "artists": [
+        {
+          "name": "Deas",
+          "url": "https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340452,
+      "name": "Flux",
+      "url": "https://open.spotify.com/track/0tkS41GFbmDo7G60vQvlNM"
     },
     {
       "album": {
@@ -1364,6 +1490,28 @@
     },
     {
       "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193218,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd"
+    },
+    {
+      "album": {
         "name": "Generation",
         "url": "https://open.spotify.com/album/6KrKTifLtFBbfYmlOgrFmo"
       },
@@ -1393,7 +1541,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 269116,
       "name": "Get on the Dancefloor",
       "url": "https://open.spotify.com/track/4A2JFMF7LSbRiMCQbLoZEV"
@@ -1626,6 +1774,24 @@
     },
     {
       "album": {
+        "name": "Higher State",
+        "url": "https://open.spotify.com/album/5G4TlBoPtyurNFvZvoHWCN"
+      },
+      "artists": [
+        {
+          "name": "Drunken Kong",
+          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249058,
+      "name": "Higher State",
+      "url": "https://open.spotify.com/track/2wldMVxWHvEsJgfhmIUdea"
+    },
+    {
+      "album": {
         "name": "Higher State of Consciousness",
         "url": "https://open.spotify.com/album/4DMsPDskkWhCfALt696an6"
       },
@@ -1637,7 +1803,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 377960,
       "name": "Higher State of Consciousness (Tweekin Acid Funk)",
       "url": "https://open.spotify.com/track/6cJ3yBgG1VzRpf4xrKsfB8"
@@ -1703,7 +1869,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 361935,
       "name": "Hustle - Extended Mix",
       "url": "https://open.spotify.com/track/0jhJpXzpHTg7pJcl9rIQst"
@@ -1721,7 +1887,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 270447,
       "name": "Hydra",
       "url": "https://open.spotify.com/track/24TLhKH7Sa89pSPchSjd7a"
@@ -1743,6 +1909,32 @@
       "duration_ms": 337851,
       "name": "Hypnosis",
       "url": "https://open.spotify.com/track/7HzhldCbuhio7KE746L66l"
+    },
+    {
+      "album": {
+        "name": "I Am a Dancer (Remixes Pt. 1)",
+        "url": "https://open.spotify.com/album/7g9hdQ8EdicxHG02yr8BVN"
+      },
+      "artists": [
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        },
+        {
+          "name": "C.A.R.",
+          "url": "https://open.spotify.com/artist/0f5WhR4J5QIfykB15aOKNK"
+        },
+        {
+          "name": "Sinisa Tamamovic",
+          "url": "https://open.spotify.com/artist/6RZu4rqwk6BOFnDlUczE8g"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415748,
+      "name": "I Am a Dancer - Marc Romboy & Sinisa Tamamovic Mix",
+      "url": "https://open.spotify.com/track/58b7ctC2NTgLiSpqXs6986"
     },
     {
       "album": {
@@ -1779,6 +1971,42 @@
       "duration_ms": 245454,
       "name": "I Want to See",
       "url": "https://open.spotify.com/track/6sA8RRNRRZ5Ok1510vWNTy"
+    },
+    {
+      "album": {
+        "name": "Ibu 3000",
+        "url": "https://open.spotify.com/album/3ExfMZJQWv4wEW38AFqtmm"
+      },
+      "artists": [
+        {
+          "name": "Kaufmann (DE)",
+          "url": "https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405117,
+      "name": "Ibu 3000",
+      "url": "https://open.spotify.com/track/16NtMZv0x5wlLLQ2V3q5BF"
+    },
+    {
+      "album": {
+        "name": "Mixmag Presents Anfisa Letyago (DJ Mix)",
+        "url": "https://open.spotify.com/album/3UkKKyLMSV1xUotUQWmfW8"
+      },
+      "artists": [
+        {
+          "name": "ID",
+          "url": "https://open.spotify.com/artist/44hGRImjU9ng8plLNVSsBH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478697,
+      "name": "ID - Mixed",
+      "url": "https://open.spotify.com/track/2qCXxbe09zLzLZOP5wtK81"
     },
     {
       "album": {
@@ -1859,6 +2087,24 @@
       "duration_ms": 497306,
       "name": "In From The Night - PAS Edit",
       "url": "https://open.spotify.com/track/09ux9r7nJ3BVb4H85Df5gY"
+    },
+    {
+      "album": {
+        "name": "Error in the System",
+        "url": "https://open.spotify.com/album/47CmyOC2gshT2TMkvXuf3c"
+      },
+      "artists": [
+        {
+          "name": "Kaiserdisco",
+          "url": "https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252750,
+      "name": "In the Music",
+      "url": "https://open.spotify.com/track/5oOhfB3RRSMfX9lfcizT8x"
     },
     {
       "album": {
@@ -2152,6 +2398,28 @@
     },
     {
       "album": {
+        "name": "Fourteenth Wave",
+        "url": "https://open.spotify.com/album/6BNr0FoksDoOUGaUZbJZVh"
+      },
+      "artists": [
+        {
+          "name": "Weska",
+          "url": "https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci"
+        },
+        {
+          "name": "MC Flipside",
+          "url": "https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374500,
+      "name": "Life Lines feat. MC Flipside",
+      "url": "https://open.spotify.com/track/7eQYOBH8Ibd0zUbC6auhKd"
+    },
+    {
+      "album": {
         "name": "In Memoro",
         "url": "https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm"
       },
@@ -2269,7 +2537,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 275294,
       "name": "Love Is Not Infinite",
       "url": "https://open.spotify.com/track/0rZhv9cHSqobOyLpEa2czn"
@@ -2385,7 +2653,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 270053,
       "name": "Meet Me In The Club",
       "url": "https://open.spotify.com/track/1Td9AioxoCyIxCW6npXTfG"
@@ -2626,6 +2894,24 @@
     },
     {
       "album": {
+        "name": "Nice Guy",
+        "url": "https://open.spotify.com/album/6puTQBREqmyk28SZLtgSSh"
+      },
+      "artists": [
+        {
+          "name": "Soolver",
+          "url": "https://open.spotify.com/artist/4TQYtWb6zxq4NDkjTPhb63"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Nice Guy",
+      "url": "https://open.spotify.com/track/56kBBf0vm8HTaNuy9DL5gv"
+    },
+    {
+      "album": {
         "name": "Night Girl",
         "url": "https://open.spotify.com/album/2hUal3PIUjA2eM0u516gID"
       },
@@ -2845,7 +3131,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 361500,
       "name": "Over",
       "url": "https://open.spotify.com/track/1ZrS508oRu64oMcU7mOQ8G"
@@ -3037,7 +3323,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 159640,
       "name": "Pom Pom",
       "url": "https://open.spotify.com/track/0FCC86QdcrnadubkBZpdWB"
@@ -3255,7 +3541,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 409365,
       "name": "Reson8",
       "url": "https://open.spotify.com/track/2Mi7Ec0MTCCN4DeH9M3X3x"
@@ -3576,6 +3862,24 @@
     },
     {
       "album": {
+        "name": "Silver Spark",
+        "url": "https://open.spotify.com/album/0SWoFlfVjModLr3r5qeVNi"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261176,
+      "name": "Silver Spark",
+      "url": "https://open.spotify.com/track/2oMMOQL2NiNC97TEDmyjMk"
+    },
+    {
+      "album": {
         "name": "Simulator",
         "url": "https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ"
       },
@@ -3835,10 +4139,28 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 253173,
       "name": "Stella - Wehbba Remix",
       "url": "https://open.spotify.com/track/32JUzPc2PLBsNzYcYAvdoo"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/1o0namJe7xdY8kt1FCaCPg"
+      },
+      "artists": [
+        {
+          "name": "Skober",
+          "url": "https://open.spotify.com/artist/4QJx1t358F7E4O1lZ8g0B2"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247010,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/57JQiAwx2UwbDhJv783VFf"
     },
     {
       "album": {
@@ -3887,6 +4209,24 @@
       "duration_ms": 223506,
       "name": "Sunglasses at Night - Radio Edit",
       "url": "https://open.spotify.com/track/1F8IWVxyW60Crr06qhEBsl"
+    },
+    {
+      "album": {
+        "name": "Space Vocoder",
+        "url": "https://open.spotify.com/album/3E62nITznBVuK7kNpd3ohr"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Taboada",
+          "url": "https://open.spotify.com/artist/6dcbo1dJld5wdwLeno5MBE"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247272,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/3rYp1N6iUC5jVBxFroUWw4"
     },
     {
       "album": {
@@ -4017,7 +4357,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 323636,
       "name": "Thanos",
       "url": "https://open.spotify.com/track/3rN3iZWMekzls3yWUCbMni"
@@ -4061,7 +4401,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 404210,
       "name": "The Club Is My House - Hardspace Mix",
       "url": "https://open.spotify.com/track/1aY2jvZEQmxXSQOutrnQVi"
@@ -4163,6 +4503,24 @@
       "duration_ms": 498461,
       "name": "The Sound Of Space",
       "url": "https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih"
+    },
+    {
+      "album": {
+        "name": "Music Never Stops",
+        "url": "https://open.spotify.com/album/0o26WuwLDlmmECVwqsnMDe"
+      },
+      "artists": [
+        {
+          "name": "Kos:mo",
+          "url": "https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362888,
+      "name": "The Tribe - Original Mix",
+      "url": "https://open.spotify.com/track/3lHT8c3vKC3hdUrybNS617"
     },
     {
       "album": {
@@ -4271,7 +4629,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 364782,
       "name": "Timballe",
       "url": "https://open.spotify.com/track/60cY5llk1eegolarRcSNc6"
@@ -4307,7 +4665,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 367446,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/2sWIUF9P2wq3ZBwGY7yBkw"
@@ -4657,7 +5015,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 259130,
       "name": "When I Rock - A.D.H.S. Remix",
       "url": "https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd"

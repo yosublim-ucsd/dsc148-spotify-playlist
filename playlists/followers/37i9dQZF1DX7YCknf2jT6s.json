@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 922328,
+  "2024-04-07": 922599,
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Hamilton De Holanda",
+  "description": "New jazz for open minds. Cover: Kamasi Washington",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -99,6 +99,32 @@
       "duration_ms": 190240,
       "name": "12 Tone Blues",
       "url": "https://open.spotify.com/track/3T0B3eOgKOOPitpGvmEOui"
+    },
+    {
+      "album": {
+        "name": "15K A SHOW",
+        "url": "https://open.spotify.com/album/7Dp9ZmZUaJ95FviGCLIBgZ"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Joe Cleveland",
+          "url": "https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg"
+        },
+        {
+          "name": "Stixx Taylor",
+          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154594,
+      "name": "15k a show",
+      "url": "https://open.spotify.com/track/6GqVr10OBa2dm9EbZiSb8n"
     },
     {
       "album": {
@@ -2295,7 +2321,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 202373,
       "name": "Auntie Mabel",
       "url": "https://open.spotify.com/track/0Ysu2rPehZDiLohbVVw2gH"
@@ -2567,7 +2593,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 284000,
       "name": "Bacon Lettuce and Tmrw",
       "url": "https://open.spotify.com/track/5izpsM3fbB1oF7yNnJO69x"
@@ -4121,7 +4147,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 290725,
       "name": "Bucket of F's",
       "url": "https://open.spotify.com/track/5yBdcdmA0RuzMC4uu2a8Xt"
@@ -5049,7 +5075,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 155383,
       "name": "Coin's Edge",
       "url": "https://open.spotify.com/track/3FPvYya5ferqqnVVIpIbxS"
@@ -6834,6 +6860,28 @@
     },
     {
       "album": {
+        "name": "Dream State",
+        "url": "https://open.spotify.com/album/6KYn1PrwI7cV9BLiv6rBBK"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519603,
+      "name": "Dream State",
+      "url": "https://open.spotify.com/track/1nLU0aUyHaza8hZm1Jp6lu"
+    },
+    {
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/2EeWvxWDkaro5W8SjMHAV7"
       },
@@ -7381,6 +7429,24 @@
       "duration_ms": 148500,
       "name": "Elegua",
       "url": "https://open.spotify.com/track/6hrqOEr7Si0SXVFPvfa3Vq"
+    },
+    {
+      "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/2htZZH7a1L5zlgwpDOEwMh"
+      },
+      "artists": [
+        {
+          "name": "Niklouds",
+          "url": "https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488435,
+      "name": "Elho 67",
+      "url": "https://open.spotify.com/track/0dgXRh3B4dDlm7zXRRB5aO"
     },
     {
       "album": {
@@ -8173,7 +8239,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 430973,
       "name": "Fandango",
       "url": "https://open.spotify.com/track/2rLN8vZ2d9HGeljlmZFhTx"
@@ -8697,6 +8763,24 @@
       "duration_ms": 338000,
       "name": "For Horace",
       "url": "https://open.spotify.com/track/2zZS3p0MsOdYmS3EgcLctX"
+    },
+    {
+      "album": {
+        "name": "For Only You",
+        "url": "https://open.spotify.com/album/6XHnnnVwQS1wQ2l1WFzHzq"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240480,
+      "name": "For Only You",
+      "url": "https://open.spotify.com/track/7H9T6SnwnhOtdgnaym7zdX"
     },
     {
       "album": {
@@ -9757,6 +9841,36 @@
       "duration_ms": 402195,
       "name": "Grand Mesa",
       "url": "https://open.spotify.com/track/5XgKmvuYSEkXwPJ3a0LbIJ"
+    },
+    {
+      "album": {
+        "name": "Grapes (feat. Randy Brecker, John Patitucci & Marcus Gilmore)",
+        "url": "https://open.spotify.com/album/3CfvK1S5Od3ZXWMdsEV8FJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Ezrin",
+          "url": "https://open.spotify.com/artist/0yy7ThMTEwuK6838qetpXj"
+        },
+        {
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438520,
+      "name": "Grapes (feat. Randy Brecker, John Patitucci & Marcus Gilmore)",
+      "url": "https://open.spotify.com/track/0RmFJFPAoB5cCSgnSNvqH5"
     },
     {
       "album": {
@@ -12255,7 +12369,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 164000,
       "name": "jazz is for ordinary people",
       "url": "https://open.spotify.com/track/12BaQt9aYdTlEtKreqB5V4"
@@ -12365,6 +12479,24 @@
       "duration_ms": 233066,
       "name": "Joy Road",
       "url": "https://open.spotify.com/track/0Bh4RCRlTcWUDNCu3CPgW6"
+    },
+    {
+      "album": {
+        "name": "joycelyn's dance",
+        "url": "https://open.spotify.com/album/1ZmhzQQWURtuF9K7yPcAoJ"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "joycelyn's dance",
+      "url": "https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4"
     },
     {
       "album": {
@@ -13771,10 +13903,32 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 249150,
       "name": "Look Around You",
       "url": "https://open.spotify.com/track/7q8wKEUCNW2lJcDGqBgDQS"
+    },
+    {
+      "album": {
+        "name": "Look at Us",
+        "url": "https://open.spotify.com/album/5qjxIl52EeXU4HQO95KrvW"
+      },
+      "artists": [
+        {
+          "name": "Addict Ameba",
+          "url": "https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb"
+        },
+        {
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300040,
+      "name": "Look at Us",
+      "url": "https://open.spotify.com/track/4doSYqBNDg3bZWlOJhiVYT"
     },
     {
       "album": {
@@ -14619,6 +14773,24 @@
       "duration_ms": 252503,
       "name": "Marking My Time - BADBADNOTGOOD Edit",
       "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
+    },
+    {
+      "album": {
+        "name": "Unusual Object",
+        "url": "https://open.spotify.com/album/4fRgDwDwRmTwK7s0PhI9DA"
+      },
+      "artists": [
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425211,
+      "name": "Marvis",
+      "url": "https://open.spotify.com/track/2JG4CQN8w1sayRwwqoBMcs"
     },
     {
       "album": {
@@ -18514,6 +18686,24 @@
     },
     {
       "album": {
+        "name": "1978",
+        "url": "https://open.spotify.com/album/7uid7xXNdaEHU9AMOQpcwj"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290693,
+      "name": "Planet Nine",
+      "url": "https://open.spotify.com/track/7fVt2s9EQVuqxTaB4UscpI"
+    },
+    {
+      "album": {
         "name": "Forever Forever",
         "url": "https://open.spotify.com/album/338Gexpd2aM74CJBGfcuDC"
       },
@@ -18925,7 +19115,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 499234,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/4Kh0yUcMyxVENH4lgtcuHX"
@@ -19261,7 +19451,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 386991,
       "name": "Quince",
       "url": "https://open.spotify.com/track/7MFdf5GHVfHbeTBbrDTvOJ"
@@ -20011,7 +20201,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 242106,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/5U36mzwyFUZYiDTdRc0dqb"
@@ -21590,6 +21780,36 @@
     },
     {
       "album": {
+        "name": "Small Things",
+        "url": "https://open.spotify.com/album/0UhF4O50JAeMv9pOnhhPw3"
+      },
+      "artists": [
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        },
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        },
+        {
+          "name": "Efajemue",
+          "url": "https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1"
+        },
+        {
+          "name": "Lytmus",
+          "url": "https://open.spotify.com/artist/3elSNWFEqrOArFscSKfQn9"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179184,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/4a9FVG639jsRd9JoH3xhcZ"
+    },
+    {
+      "album": {
         "name": "SMiLE",
         "url": "https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk"
       },
@@ -23049,7 +23269,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 435280,
       "name": "Sun Streak",
       "url": "https://open.spotify.com/track/0g82AK31NDtvkFpsE50hY8"
@@ -26658,6 +26878,24 @@
     },
     {
       "album": {
+        "name": "Echoes Of The Inner Prophet",
+        "url": "https://open.spotify.com/album/3nJsyrcJShA6wyjSPvAwEg"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409594,
+      "name": "Unconscious Whispers",
+      "url": "https://open.spotify.com/track/7vs0QT0b8gSp18FB8VG9hx"
+    },
+    {
+      "album": {
         "name": "unctuous",
         "url": "https://open.spotify.com/album/2oS9491jYB24kr5DCEZOTJ"
       },
@@ -27499,6 +27737,24 @@
       "duration_ms": 291293,
       "name": "Wave Decay",
       "url": "https://open.spotify.com/track/4lBKAEQXVzaicd1FLy83Lu"
+    },
+    {
+      "album": {
+        "name": "From the North - GoGo Penguin Live in Manchester",
+        "url": "https://open.spotify.com/album/4AHcIEmL1rY1lfz6y2vJlF"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307674,
+      "name": "Wave Decay",
+      "url": "https://open.spotify.com/track/7rE5bopDSCT6dltTT8WPH9"
     },
     {
       "album": {
@@ -28969,7 +29225,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 229000,
       "name": "\u591c\u306b\u98db\u3093\u3067\u3044\u304f",
       "url": "https://open.spotify.com/track/67rD8uQal0J4yRLA5K5RGO"
@@ -29009,6 +29265,24 @@
       "duration_ms": 232000,
       "name": "\u5bb5\u5bb5\u96ea\u82b1",
       "url": "https://open.spotify.com/track/6iIxRqJjExIvewfqpOX8Bf"
+    },
+    {
+      "album": {
+        "name": "\u6708\u520a\u914d\u4fe1\u91ce\u90ce",
+        "url": "https://open.spotify.com/album/0v7UHezk6yvbSXptBElqBA"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "\u6708\u520a\u914d\u4fe1\u91ce\u90ce",
+      "url": "https://open.spotify.com/track/6HVOTmmMttcKUSsnKk8c4V"
     },
     {
       "album": {

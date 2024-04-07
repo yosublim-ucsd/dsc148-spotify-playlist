@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Burcu Güneş
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,666 likes - 69 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,676 likes - 69 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 68 | [Sessiz Eller](https://open.spotify.com/track/1MPCrn7IsMpKk5pXNt5i7y) | [Serra Arıtürk](https://open.spotify.com/artist/6my1E0Xgjweume5eR9cWW7) | [Sessiz Eller](https://open.spotify.com/album/2AHCwQnV4K4BSr7YbHyTVl) | 3:24 |
 | 69 | [Sarhoş Atlara Ağıt Yakan Kadim Balıklar](https://open.spotify.com/track/1hYAZ74SNLu6MDrTQWoMX8) | [Özge Arslan](https://open.spotify.com/artist/7rzLq3I3srzi4TCyJ9vCHo) | [Sarhoş Atlara Ağıt Yakan Kadim Balıklar](https://open.spotify.com/album/3dJDtekNr47S00Au6mFz0X) | 3:24 |
 
-Snapshot ID: `MCxlMzBiNjIxY2U3YTFjMzg1ODQ5ZWM3ZGM2MzQ5NDBmNWE5MzkxYzJm`
+Snapshot ID: `MCxkZWQwNzM2NjQ4OGU0ZGFlMWE0NjFhMGU2YWFmOGIxOGY3NTlhZWIx`

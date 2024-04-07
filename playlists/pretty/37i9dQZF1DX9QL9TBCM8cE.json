@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 25833,
+  "num_followers": 25845,
   "original_name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTExZWVhZjAwYmY5NDVlZmUyNzBlMGM1MzI0MDhhNzE5M2E2MjAw",
+  "snapshot_id": "MCw3ZDliOGYwZTI3N2M2OTllNzYxYzc3M2UyMTMxZDJjMzM3MTE5NGFm",
   "tracks": [
     {
       "added_at": "2024-02-23 06:52:32",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-02-23 06:52:32",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Stella-",
-        "url": "https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9"
-      },
-      "artists": [
-        {
-          "name": "\u82b9\u6ca2\u3042\u3055\u3072 (CV.\u7530\u4e2d\u6709\u7d00)",
-          "url": "https://open.spotify.com/artist/1WH3WJeWBh6MaSdrWmQWy4"
-        }
-      ],
-      "duration_ms": 266280,
-      "name": "\u661f\u3092\u3081\u3056\u3057\u3066",
-      "url": "https://open.spotify.com/track/7wsxyqYKYjVYsc1lSgE2X0"
-    },
-    {
-      "added_at": "2024-02-23 06:52:32",
-      "album": {
         "name": "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 02 \u30d2\u30ab\u30ea\u306edestination",
         "url": "https://open.spotify.com/album/5pV7PhnoZheAalJimumERq"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 279773,
       "name": "\u30d2\u30ab\u30ea\u306edestination",
       "url": "https://open.spotify.com/track/17EuIwsdZ6H4TPOe5SE1lz"
+    },
+    {
+      "added_at": "2024-02-23 06:52:32",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Stella-",
+        "url": "https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9"
+      },
+      "artists": [
+        {
+          "name": "\u82b9\u6ca2\u3042\u3055\u3072 (CV.\u7530\u4e2d\u6709\u7d00)",
+          "url": "https://open.spotify.com/artist/1WH3WJeWBh6MaSdrWmQWy4"
+        }
+      ],
+      "duration_ms": 266280,
+      "name": "\u661f\u3092\u3081\u3056\u3057\u3066",
+      "url": "https://open.spotify.com/track/7wsxyqYKYjVYsc1lSgE2X0"
     },
     {
       "added_at": "2024-02-23 06:52:32",
@@ -856,13 +856,13 @@
       },
       "artists": [
         {
-          "name": "\u6a0b\u53e3\u5186\u9999 (CV.\u571f\u5c4b\u674e\u592e)",
-          "url": "https://open.spotify.com/artist/4nzTh0EGvqoTb8P1KsmcVX"
+          "name": "\u5712\u7530\u667a\u4ee3\u5b50 (CV.\u767d\u77f3\u6674\u9999)",
+          "url": "https://open.spotify.com/artist/65WtViuwTDmjbuaoWruKT1"
         }
       ],
-      "duration_ms": 261265,
-      "name": "\u5922\u898b\u9ce5",
-      "url": "https://open.spotify.com/track/4LBl0NObinFBwEDPIGIoRq"
+      "duration_ms": 273693,
+      "name": "\u30c1\u30e7\u30b3\u30c7\u30fc\u30c8\u30fb\u30b5\u30f3\u30c7\u30fc",
+      "url": "https://open.spotify.com/track/0ZDPHRKLzOkQeRc785UKuA"
     }
   ],
   "unique_name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",

@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-470 songs - 22 hr 53 min
+471 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,8 @@
 | [Jeje \(Easy\)](https://open.spotify.com/track/6siJBdHjgN9jy9n04yxA9y) | [Dajon AF](https://open.spotify.com/artist/4yN3RB5NqyHi9cSyllXgeS), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Korshi T](https://open.spotify.com/artist/6LYgIKATg0RJj86yCqAxnc) | [Jeje \(Easy\)](https://open.spotify.com/album/0CrKfunCicrYq2ufIw3P0n) | 2:41 | 2023-04-20 | 2023-05-12 |
 | [Jejely](https://open.spotify.com/track/5x7NKpGAobN005jS36GnH1) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Jejely](https://open.spotify.com/album/3iMfiM40oxLibQGnttPGMO) | 3:01 | 2023-04-14 | 2023-04-28 |
 | [Jeun To Da \(JTD\)](https://open.spotify.com/track/4UTlr8oltvsDUBzrnDDWB1) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Jeun To Da \(JTD\)](https://open.spotify.com/album/1cFo2kuDypXH2ujRWGf7Bk) | 2:42 | 2022-10-21 | 2023-01-20 |
-| [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 | 2023-05-11 |  |
+| [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 | 2023-05-11 | 2024-04-07 |
+| [Jonzing Boy](https://open.spotify.com/track/5ksKJ5a1iawwfoCxWtImP9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 3:05 | 2024-04-05 |  |
 | [Journey](https://open.spotify.com/track/6wCcutlZ6e5ZqGRHT90gTH) | [Banzy Banero](https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN) | [Journey](https://open.spotify.com/album/6TBtnRStzuKt8He1SfeOlY) | 3:25 | 2024-04-05 |  |
 | [Journey](https://open.spotify.com/track/56XdgGLcurfb7bC7UFWRU8) | [Zineth](https://open.spotify.com/artist/363ZGUdJndZ1387vEIG5SO), [Billirano](https://open.spotify.com/artist/6Sb1ugPkZ8pwimM3wb378v) | [Journey](https://open.spotify.com/album/48ST5iBCTkwSH6V5zPKHXX) | 2:27 | 2024-03-15 | 2024-03-29 |
 | [just like me](https://open.spotify.com/track/5KI7I4mEtulXcv5VQJaV35) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:51 | 2024-01-12 | 2024-03-29 |

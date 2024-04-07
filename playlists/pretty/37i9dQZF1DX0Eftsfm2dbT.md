@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: 5lack
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,191 likes - 81 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,235 likes - 81 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 9 | [LOVE DIVE!](https://open.spotify.com/track/090KaN8wD6zadLWiH3pgiZ) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt), [Imsickofjun](https://open.spotify.com/artist/2W9agLVMPby4ZtAMWc4PNk) | [LOVE DIVE!](https://open.spotify.com/album/3meRiMv5hH859Va9vKcuwZ) | 3:21 |
 | 10 | [Team Tomodachi \- Remix](https://open.spotify.com/track/1TBtAioi82LToAaojj9ruU) | [Yuki Chiba](https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR), [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Team Tomodachi \(Remix\)](https://open.spotify.com/album/03GtNIvFYHk7ltVGMC3Mkh) | 3:38 |
 | 11 | [RANDO \- Double Clapperz Remix](https://open.spotify.com/track/7dZH1y8Ymj3OS7MOZJoEoS) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Double Clapperz](https://open.spotify.com/artist/7tMpkHHGx888nBtdiDZ1Ql) | [Soul Quake \(Remixes, Vol\. 1\)](https://open.spotify.com/album/374C36Dszbio6pr7BwDINq) | 2:22 |
-| 12 | [Neon \- Fully Active Ver.](https://open.spotify.com/track/15FP3rWLIaHSUYK9ueTVZ2) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [SAMI\-T](https://open.spotify.com/artist/4FUGDAUEO5GLcnFANJ25KE) | [Neon \(Fully Active Ver.\)](https://open.spotify.com/album/4Nh33dLPawNhBASd2Q6L0p) | 4:43 |
+| 12 | [Neon \- Fully Active Ver.](https://open.spotify.com/track/00GoNIoXYLDnm3jMGr5mKE) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [SAMI\-T](https://open.spotify.com/artist/4FUGDAUEO5GLcnFANJ25KE) | [DANCE](https://open.spotify.com/album/1A1yMVgOJlvlO8pkia9ThB) | 4:43 |
 | 13 | [ベストテン](https://open.spotify.com/track/1gRSHbFFmceJLjIeXqnBG9) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY) | [ベストテン](https://open.spotify.com/album/4eQR7jJBpSDyugWzuLFXzp) | 2:41 |
 | 14 | [存在](https://open.spotify.com/track/7EcSfGN8xHg69DsDL9ftao) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [存在](https://open.spotify.com/album/4lYB74MAkeqr4KrhVXmZRB) | 3:32 |
 | 15 | [PUSH 'N' PUSH](https://open.spotify.com/track/4hGhmQeSZhrS1PuQw6NnRn) | [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [PUSH 'N' PUSH](https://open.spotify.com/album/51aJFiw89D4EdD9jd6ESc0) | 2:56 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 80 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 |
 | 81 | [Do u remember me](https://open.spotify.com/track/3M8hUUiLXqKkk4PCh1KZJN) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/0f5URCBlzbh7u7TuSduM6n) | 3:28 |
 
-Snapshot ID: `MCxhZjJmOTYyNDAyODRlOWZkNWU1NzExYzkzNGY4MTFiODgzNzg3YTUz`
+Snapshot ID: `MCxlZWIxNjY2ZTY2Nzk5ZjQ4ZTM4ZmRmOTVhMzgwZTk4MGEwYjcxZDI0`

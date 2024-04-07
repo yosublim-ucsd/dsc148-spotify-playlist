@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > No es cumbia, tampoco reggaetón\. Foto: Salastkbron.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,812 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,421 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 90 | [Salimos Pa la Disco](https://open.spotify.com/track/4z4jJIU6DQKXEW1RPdY2T9) | [Jorgito Barrionuevo](https://open.spotify.com/artist/192E8ptSuYPT0rgJRyImNH), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv) | [Salimos Pa la Disco](https://open.spotify.com/album/2nbr7mn8FSUQjAm6psw5wH) | 2:06 |
 | 91 | [Castigo](https://open.spotify.com/track/2BDJWePEkczB34ZoDliNSr) | [Los Nota Lokos](https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Castigo](https://open.spotify.com/album/1gaCJAKGUtZ4zVPn4dI4KR) | 2:26 |
 | 92 | [Muevelo Mami \- Remix](https://open.spotify.com/track/73itkW7DQhxIvUTYzddQPY) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [QuixSmell](https://open.spotify.com/artist/0MrBxgZbiw0uUO3NUqWFKp) | [Muevelo Mami \(Remix\)](https://open.spotify.com/album/6hmkDW3u5cUYmZWlGY5K9a) | 3:43 |
-| 93 | [Solterosky](https://open.spotify.com/track/6AS7iD8o56oa2p7TH8COnd) | [Gonza BR](https://open.spotify.com/artist/6vo2878nQ08o3wpZVTXc15), [Dielo 98](https://open.spotify.com/artist/5t3LgF2M4SeEGJzB4ihHNM), [PACOREMIX](https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju), [Nahuell](https://open.spotify.com/artist/24asxbVJal3Vd1kM9rME4U) | [Solterosky](https://open.spotify.com/album/1raeWaD3lzb9vGsV0fRA19) | 2:25 |
+| 93 | [Solterosky](https://open.spotify.com/track/79dowBLlJTBYPkdeh9rpYL) | [Gonza BR](https://open.spotify.com/artist/6vo2878nQ08o3wpZVTXc15), [Dielo 98](https://open.spotify.com/artist/5t3LgF2M4SeEGJzB4ihHNM), [PACOREMIX](https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju), [Nahuell](https://open.spotify.com/artist/24asxbVJal3Vd1kM9rME4U) | [Solterosky](https://open.spotify.com/album/31jC4elFqdDGBB1OlU5TbV) | 2:25 |
 | 94 | [Ubicación 6 Ahora Nuvo](https://open.spotify.com/track/00fwJ8HswfeZrmMFx6Ybv2) | [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi) | [Ubicación 6 Ahora Nuvo](https://open.spotify.com/album/5K069pQBv50eR8eEYHxpT8) | 2:38 |
 | 95 | [MEGABARDO RKT 2](https://open.spotify.com/track/2W9y98tlH0fJj3440idoJc) | [Cotto Rng](https://open.spotify.com/artist/1zBDgn3DfQ8GhgXL1z7ege), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [MEGABARDO RKT 2](https://open.spotify.com/album/1oealkLAVwsg0DbmBjdTPD) | 3:27 |
 | 96 | [Flow Bakan](https://open.spotify.com/track/5JlZl7ASB97928PiYnQYZy) | [Joaking El 18](https://open.spotify.com/artist/1sm9kgIGwWpEWAHmqpSZhg), [Rodrii Ortiz](https://open.spotify.com/artist/3KeiJ1oVHnSpj8O2Qwp3r2), [Perfil Bajo](https://open.spotify.com/artist/2DrIBWDCtZiRcduhe0zMTH) | [Flow Bakan](https://open.spotify.com/album/4dTOOkKOpfksSY14n4bgPa) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 99 | [Cariñoso](https://open.spotify.com/track/5u3RFXhMZOfWDTjpgio16p) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [Cariñoso](https://open.spotify.com/album/3ZnRCl3QQCFplYUrE5A494) | 2:05 |
 | 100 | [Tu Flaite](https://open.spotify.com/track/03jyAhC78tqfRqXPo73qBt) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Tu Flaite](https://open.spotify.com/album/3jgcsYhoQlc5fJ4PngwjYt) | 2:58 |
 
-Snapshot ID: `MCw4MTQ1YmNkYzkyYjI1NjkwNDY4NjQyODYxZDY4YTQxMzgyZjJkODFk`
+Snapshot ID: `MCw5MDA3NTU3ODVkMDY5ZWUyMWJmZjE3OGE3MTY3NTdiYjMzMGMzOWY0`

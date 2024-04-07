@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 62870,
+  "num_followers": 62878,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGVkMTgzODkxMDU3M2YwYzgwOTI0ODE3Nzg0YzFlNGQ3MzVhNTdj",
+  "snapshot_id": "MCw0ODFiZTA5YTY3YWM0NGIxYmEwNjRlOTcxMTIwNmRlMDc3NWRiZGUy",
   "tracks": [
     {
       "added_at": "2024-04-04 22:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Deep Cuts",
-        "url": "https://open.spotify.com/album/58VeC1LO2OjyHXsjtI306m"
-      },
-      "artists": [
-        {
-          "name": "The Knife",
-          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
-        }
-      ],
-      "duration_ms": 231828,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5P2hEcHjoNMh33EsFPPOJE"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Fulkultur",
         "url": "https://open.spotify.com/album/5S7JB8Sx5tVQGIewXZlr9X"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 211360,
       "name": "Sl\u00e5 mig h\u00e5rt i ansiktet",
       "url": "https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Deep Cuts",
+        "url": "https://open.spotify.com/album/58VeC1LO2OjyHXsjtI306m"
+      },
+      "artists": [
+        {
+          "name": "The Knife",
+          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+        }
+      ],
+      "duration_ms": 231828,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5P2hEcHjoNMh33EsFPPOJE"
     },
     {
       "added_at": "2024-04-04 22:00:00",

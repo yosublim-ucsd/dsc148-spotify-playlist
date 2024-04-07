@@ -4,7 +4,7 @@
 
 > Este Flow tiene otro Flow\. Foto: El Jordan 23 & Fuego.
 
-676 songs - 1 day 13 hr 31 min
+677 songs - 1 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [Escondido](https://open.spotify.com/track/6w69CA5nEnFWBxyyDLjmbr) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z) | [Escondido](https://open.spotify.com/album/3HhjdsmIrTMu1wSkAvmP0R) | 2:20 | 2022-05-23 | 2022-06-07 |
 | [Ese Corte](https://open.spotify.com/track/7iBFkn9NTeNW9jfwiCzF39) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Ese Corte](https://open.spotify.com/album/5w1Dc758WHXknbwunFxAZU) | 3:39 | 2022-12-02 |  |
 | [ESE CULITO](https://open.spotify.com/track/4ezUYRDJUiLuupER93nkiX) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [ESE CULITO](https://open.spotify.com/album/04s8SgqUuaEBdElV1XwZxh) | 3:42 | 2022-05-23 | 2022-08-27 |
-| [Ese Guille](https://open.spotify.com/track/6EKqBV3VqOjQEGNnSS0hzt) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Ese Guille](https://open.spotify.com/album/6Il031Qrsr1CNq32gPxr0W) | 2:34 | 2024-01-12 |  |
+| [Ese Guille](https://open.spotify.com/track/1DFLbi4TVAwgYWcV76Rcwa) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Los Rompecorazones, Vol\. 2](https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1) | 2:34 | 2024-04-05 |  |
+| [Ese Guille](https://open.spotify.com/track/6EKqBV3VqOjQEGNnSS0hzt) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Ese Guille](https://open.spotify.com/album/6Il031Qrsr1CNq32gPxr0W) | 2:34 | 2024-01-12 | 2024-04-07 |
 | [Esperándote](https://open.spotify.com/track/4jPODA8fUJCYAMCD380ETZ) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Esperándote](https://open.spotify.com/album/7G34TQlhV4DPX3EUCF5Bp3) | 2:45 | 2023-02-24 | 2023-06-24 |
 | [Experimento 01](https://open.spotify.com/track/25yOopxmGC67836N4POHBg) | [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Experimento 01](https://open.spotify.com/album/0TD1YrV99XSu9wwRxe0MEa) | 2:54 | 2022-08-05 | 2023-04-09 |
 | [Experimento 02](https://open.spotify.com/track/6fxj742z5XMyVetyTuuK5G) | [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Experimento 02](https://open.spotify.com/album/6q5YGwlWOTQEMETLG99TEy) | 2:56 | 2022-09-09 | 2022-12-10 |

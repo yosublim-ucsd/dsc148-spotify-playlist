@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: I.M\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,649 likes - 404 songs - 22 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,940 likes - 404 songs - 22 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 7 | [Love Algorithm](https://open.spotify.com/track/4buKZXNkGakb5jK3t3AFTX) | [ONLEE](https://open.spotify.com/artist/673y8xDyKRPiixhztTAOIR) | [Love Algorithm](https://open.spotify.com/album/7DUl7hXwSfaTJoblgvWTsw) | 2:52 |
 | 8 | [New Stage](https://open.spotify.com/track/0cu2UJZYOtzpavTMpZSZWl) | [FRONTIER LEADERS](https://open.spotify.com/artist/3nCGOxYv6O8qqPcfXLK4mK) | [New Stage \(GIRLS FRONTIER Theme Song\)](https://open.spotify.com/album/5irtlzpdaDrPo6kXKWgJOl) | 3:07 |
 | 9 | [Because Of You](https://open.spotify.com/track/6y0GI0ib53qSiwtzNkSnZs) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Because Of You](https://open.spotify.com/album/6dAi6vkbADLDjncJy7t0ir) | 2:54 |
-| 10 | [Ohwho](https://open.spotify.com/track/1e3S3u46pwCL8W1DOr1ibY) | [YOUTH HOSTEL](https://open.spotify.com/artist/7zaJdQZEIfPGJ1tXpMZmTb) | [Ohwho](https://open.spotify.com/album/3tNh5fCtDXaLigW1B9NLwT) | 3:16 |
+| 10 | [Ohwho](https://open.spotify.com/track/1e3S3u46pwCL8W1DOr1ibY) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [Ohwho](https://open.spotify.com/album/3tNh5fCtDXaLigW1B9NLwT) | 3:16 |
 | 11 | [Wild](https://open.spotify.com/track/3tsdNYRfcBsIF9Ul5aNWMs) | [Biuret](https://open.spotify.com/artist/3ebT6m7SiOMVzQKgc3y9yn) | [Wild](https://open.spotify.com/album/3A7P75LAbcN5kRKRYedNvS) | 5:04 |
 | 12 | [Officially Cool](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Officially Cool](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) | 2:57 |
 | 13 | [Beautiful MAZE](https://open.spotify.com/track/03dsawwfwz82T2cuCgFNza) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [Beautiful MAZE](https://open.spotify.com/album/6QxAUGvcYLmeWfkOsQhDaC) | 3:03 |
@@ -413,4 +413,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 403 | [Summer](https://open.spotify.com/track/5vSoyvZo568CGDvdygsLXN) | [ffpp](https://open.spotify.com/artist/0cmwhNwoxr4KixoRbYwMox) | [Summer](https://open.spotify.com/album/4ZqvsRCEQvVrrI5GDxqpfh) | 3:37 |
 | 404 | [Baby it’s you](https://open.spotify.com/track/6NHnmWs8FNOdaWH3eq3mnx) | [NINE9](https://open.spotify.com/artist/06MGGkrdIi2KKfBdoAsAl9) | [9colors](https://open.spotify.com/album/69Xh5E4nygc7AqQyvPtf3T) | 3:40 |
 
-Snapshot ID: `MCw1OWMzZGJlMDQzMjdkYzFlMzI0NzA2NjMzZjc2Njg2ZGE2ZWViNTEx`
+Snapshot ID: `MCxhYjVlZWJjNmRjNzE1OTI5Y2JlMDBlOTJiYTk5MTE5MGQ1OWU4NjMy`

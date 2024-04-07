@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4r0lAfpJQo3.md) - [plain]
 
 > All bad things must come to an end\. Listen to the music inspired by Breaking Bad, curated by Vince Gilligan and Thomas Golubić.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,697 likes - 62 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,770 likes - 62 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4r0lAfpJQo3.md) - [plain]
 | 26 | [Life](https://open.spotify.com/track/6n2UqLNVojFMhqsfcCkNCT) | [Chocolate Genius Incorporated](https://open.spotify.com/artist/1FFFa130FeOx5o2lTB1dUB) | [Black Music](https://open.spotify.com/album/5xYLw686wHOAekFhvBaNaw) | 3:38 |
 | 27 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
 | 28 | [Magic Arrow](https://open.spotify.com/track/7BT2BsgZZffGmiENrzxCzy) | [Timber Timbre](https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ) | [Timber Timbre](https://open.spotify.com/album/1peaWfJtqMtLmqKK79Cpxu) | 6:04 |
-| 29 | [Ginza Samba](https://open.spotify.com/track/31aqUQQ56K4CnbG9ZTzPTB) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV), [Bola Sete](https://open.spotify.com/artist/3vVLhTD4Etza2AvvWJaNyW) | [Greatest Hits](https://open.spotify.com/album/2FBvmcQXJh8fOEvB6TzNSx) | 5:25 |
+| 29 | [Ginza Samba \- Remastered 1998](https://open.spotify.com/track/31aqUQQ56K4CnbG9ZTzPTB) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV), [Bola Sete](https://open.spotify.com/artist/3vVLhTD4Etza2AvvWJaNyW) | [Greatest Hits](https://open.spotify.com/album/2FBvmcQXJh8fOEvB6TzNSx) | 5:25 |
 | 30 | [He Venido](https://open.spotify.com/track/6SjMwdYagEiKGNtKWMO3zY) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [Locura Azul](https://open.spotify.com/album/2rTH4xLNxQxVrEBR5ykFLd) | 3:21 |
 | 31 | [Shimmy Shimmy Ya](https://open.spotify.com/track/2A0wCdXcNJbHUuw4VTq94A) | [Prince Fatty](https://open.spotify.com/artist/2KQRgrZISaDwQNpiLUTAnr), [Horseman](https://open.spotify.com/artist/6072oVyIFCVwPcftVNWF1z) | [Supersize](https://open.spotify.com/album/1NflHHLMKoBxofTCeDSrWz) | 2:56 |
 | 32 | [Shake a Bone](https://open.spotify.com/track/4GVIoldV96FaVh3CzrkCPN) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Shake a Bone](https://open.spotify.com/album/0QWAmpVpvFhSyncwiG5VWc) | 3:04 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4r0lAfpJQo3.md) - [plain]
 | 61 | [El Paso](https://open.spotify.com/track/4f8hBeMXMvssn6HtFAtblo) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 4:19 |
 | 62 | [Baby Blue \- Remastered 2010](https://open.spotify.com/track/6S3JlDAGk3uu3NtZbPnuhS) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [Straight Up \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc) | 3:37 |
 
-Snapshot ID: `MCw2OWNkMmYzNWE1ZGU3MWM3ZjM0M2VhZmNiMWVmMjFhMzc5NWQzN2Jk`
+Snapshot ID: `MCxlNjYyNDhhNWZjOGI0MmQ2YmE3NjI3NjY4MjY2NjhmMjQ1OTlhYzU1`

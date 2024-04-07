@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu?si=wH1M\-7yZQCGXxYg6WLgI\-w"> عصام صاصا </a>
 
-232 songs - 14 hr 13 min
+233 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [خارج الشارع متحول](https://open.spotify.com/track/3wt6bx8Up4q1ujsRoVtsx6) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB), [Mostafa El Gen](https://open.spotify.com/artist/2drznmRpH5GnzMiKfJDyOZ) | [خارج الشارع متحول](https://open.spotify.com/album/3WP6GZ7jlCVG6y0NJYQhBy) | 4:45 | 2023-05-30 | 2023-06-17 |
 | [خصمي بكيفه مكتفه \- انا مش بتكسف يا ابلتي](https://open.spotify.com/track/3Kroxt7mnIUfSDFGpWF5yJ) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [خصمي بكيفه مكتفه \(انا مش بتكسف يا ابلتي\)](https://open.spotify.com/album/369scONG77YROb5sy7AnTt) | 4:33 | 2022-03-30 | 2022-06-03 |
 | [خطر \(ياللي سيرتي تعباك\)](https://open.spotify.com/track/1C6pNXiVfcKO49JttTv0xJ) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [خطر \(ياللي سيرتي تعباك\)](https://open.spotify.com/album/6nXBRUkDo8ttEm2DItn3sY) | 4:00 | 2021-12-16 | 2023-07-04 |
-| [خطوة اجباري](https://open.spotify.com/track/06h6dQDVdXjnIOXGXabW02) | [نور النبوي](https://open.spotify.com/artist/2lvyyBvz0mMzl57uxbzQ15), [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [خطوة اجباري](https://open.spotify.com/album/74il7VqlKq7JEM1oiTrIm5) | 1:50 | 2022-06-06 |  |
+| [خطوة اجباري](https://open.spotify.com/track/06h6dQDVdXjnIOXGXabW02) | [نور النبوي](https://open.spotify.com/artist/2lvyyBvz0mMzl57uxbzQ15), [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [خطوة اجباري](https://open.spotify.com/album/74il7VqlKq7JEM1oiTrIm5) | 1:50 | 2022-06-06 | 2024-04-07 |
+| [خطوة اجباري](https://open.spotify.com/track/469ieKvecmZUsTkdCWkOxP) | [نور النبوي](https://open.spotify.com/artist/2lvyyBvz0mMzl57uxbzQ15), [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [خطوة اجباري](https://open.spotify.com/album/6Sw73G0pCliecI1i9zV1pD) | 1:50 | 2024-04-02 |  |
 | [خمسه](https://open.spotify.com/track/4wCanb4DaoFsYToC3HBA4H) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG), [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [خمسه](https://open.spotify.com/album/7o0HgcZU6BLz4xv5xm3v0v) | 2:32 | 2023-09-05 | 2023-09-26 |
 | [خوجه في الجنب \- وانا علي البحر ازماله بتمشي متجوزيني بنتك يا حماتي](https://open.spotify.com/track/7KWqfXjwdagIi5KuYduDVk) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [خوجه في الجنب \- وانا علي البحر ازماله بتمشي متجوزيني بنتك يا حماتي](https://open.spotify.com/album/6GI7OaIeaZmqopk0AJTIFg) | 3:31 | 2024-03-08 |  |
 | [دوست علي زرار الحرب](https://open.spotify.com/track/4qLE7m7g5C49w1oOYi4kps) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [دوست علي زرار الحرب](https://open.spotify.com/album/4ykMP6RPkUr0Og1hE0HTrm) | 3:01 | 2023-08-20 | 2023-09-06 |

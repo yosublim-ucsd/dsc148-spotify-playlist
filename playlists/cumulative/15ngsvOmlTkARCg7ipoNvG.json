@@ -14323,6 +14323,24 @@
     },
     {
       "album": {
+        "name": "Inner Peace",
+        "url": "https://open.spotify.com/album/10JQaOmLw1XPMMHYaD1Kwh"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60495,
+      "name": "Inner Peace",
+      "url": "https://open.spotify.com/track/43EbOJD3L0SEwSUusgq39w"
+    },
+    {
+      "album": {
         "name": "Inspire",
         "url": "https://open.spotify.com/album/3v9S2L1xrOAwOFECQi63uh"
       },

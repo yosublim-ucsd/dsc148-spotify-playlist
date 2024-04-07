@@ -4,7 +4,7 @@
 
 > No es cumbia, tampoco reggaetón\. Foto: Salastkbron.
 
-154 songs - 7 hr 17 min
+155 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Si quiero o si tengo?](https://open.spotify.com/track/1J5RSVH0ZdSMCal7UTF2Kg) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Si quiero o si tengo?](https://open.spotify.com/album/7ADkHeKSq9NzZKj85Zsz24) | 3:35 | 2023-12-22 | 2024-03-02 |
 | [Simpatica](https://open.spotify.com/track/34OGfTs5cj4gOXHkvndPOy) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [De cachorro](https://open.spotify.com/album/2Kx2gPJ7fgidWLzaZkxXkU) | 2:55 | 2024-02-23 |  |
 | [SOLARI RKT](https://open.spotify.com/track/19fJwQGQavo2e7z7X3Y6NW) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [SOLARI RKT](https://open.spotify.com/album/4lF3xEmbkVG2pdODv14I4y) | 2:27 | 2024-03-15 |  |
-| [Solterosky](https://open.spotify.com/track/6AS7iD8o56oa2p7TH8COnd) | [Gonza BR](https://open.spotify.com/artist/6vo2878nQ08o3wpZVTXc15), [Dielo 98](https://open.spotify.com/artist/5t3LgF2M4SeEGJzB4ihHNM), [PACOREMIX](https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju), [Nahuell](https://open.spotify.com/artist/24asxbVJal3Vd1kM9rME4U) | [Solterosky](https://open.spotify.com/album/1raeWaD3lzb9vGsV0fRA19) | 2:25 | 2024-02-16 |  |
+| [Solterosky](https://open.spotify.com/track/79dowBLlJTBYPkdeh9rpYL) | [Gonza BR](https://open.spotify.com/artist/6vo2878nQ08o3wpZVTXc15), [Dielo 98](https://open.spotify.com/artist/5t3LgF2M4SeEGJzB4ihHNM), [PACOREMIX](https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju), [Nahuell](https://open.spotify.com/artist/24asxbVJal3Vd1kM9rME4U) | [Solterosky](https://open.spotify.com/album/31jC4elFqdDGBB1OlU5TbV) | 2:25 | 2024-04-05 |  |
+| [Solterosky](https://open.spotify.com/track/6AS7iD8o56oa2p7TH8COnd) | [Gonza BR](https://open.spotify.com/artist/6vo2878nQ08o3wpZVTXc15), [Dielo 98](https://open.spotify.com/artist/5t3LgF2M4SeEGJzB4ihHNM), [PACOREMIX](https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju), [Nahuell](https://open.spotify.com/artist/24asxbVJal3Vd1kM9rME4U) | [Solterosky](https://open.spotify.com/album/1raeWaD3lzb9vGsV0fRA19) | 2:25 | 2024-02-16 | 2024-04-07 |
 | [TAKI TAKI TA RKT \- Remix](https://open.spotify.com/track/30em1iBHeo2RmOcXSWNmbT) | [Lautaro DDJ](https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC), [Tomi Rmx](https://open.spotify.com/artist/5hk5Jw9GqvzUFLCd927bnZ) | [TAKI TAKI TA RKT \(Remix\)](https://open.spotify.com/album/2EDa15V0c0qzjwjpEhFC8w) | 2:26 | 2023-12-15 | 2024-03-09 |
 | [Tal Para Cual](https://open.spotify.com/track/0mJRX0WnqWlu8Boe7gpQ1P) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Tal Para Cual](https://open.spotify.com/album/2rqHSa1Lohs3fTDDFeFnBy) | 2:31 | 2024-01-12 |  |
 | [TE AMO RMX \(feat\. Salastkbron\)](https://open.spotify.com/track/335JDXiJij27LNVm4xfhdk) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [TE AMO RMX \(feat\. Salastkbron\)](https://open.spotify.com/album/5JVoimtJeq4plcNKU3rSMF) | 4:00 | 2023-12-15 | 2023-12-23 |

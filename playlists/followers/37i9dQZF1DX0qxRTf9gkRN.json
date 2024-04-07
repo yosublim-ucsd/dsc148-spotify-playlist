@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 51682,
+  "2024-04-07": 51767,
   "date_first_scraped": "2023-08-25",
   "description": "The best and finest 00s Funk. Cover: Prince",
   "name": "I Love My 00s Funk",
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 246280,
       "name": "Runnin' - Extended",
       "url": "https://open.spotify.com/track/6x0fMgsxvhpiOspnhykuF2"
@@ -1247,6 +1247,24 @@
       "duration_ms": 307266,
       "name": "The Originator",
       "url": "https://open.spotify.com/track/3259X7jpUYfMe8ipPgkVuy"
+    },
+    {
+      "album": {
+        "name": "United States Of Division",
+        "url": "https://open.spotify.com/album/2SCgxaMeSnN22J653SEp6Q"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378806,
+      "name": "United States Of Division",
+      "url": "https://open.spotify.com/track/42IywCSd29OYc49Nfpxzcb"
     },
     {
       "album": {

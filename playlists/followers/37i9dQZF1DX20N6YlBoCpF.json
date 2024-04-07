@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 21909,
+  "2024-04-07": 21940,
   "date_first_scraped": "2022-10-01",
   "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=nCZWvUgkRzK0a8-A9t8qEg\">Jemma Catherine</a>  ",
   "name": "Nuwe Afrikaans",
@@ -3861,6 +3861,24 @@
       "duration_ms": 188450,
       "name": "Duisend Jaar Van Nou",
       "url": "https://open.spotify.com/track/1RbOEd9Jzi5NPy8tKZ5RJX"
+    },
+    {
+      "album": {
+        "name": "Een Keer",
+        "url": "https://open.spotify.com/album/0unTBwPsTtA99H46DljBTL"
+      },
+      "artists": [
+        {
+          "name": "Sharoney",
+          "url": "https://open.spotify.com/artist/5V8Agw2X5P5Z2HPhSPvZkZ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234330,
+      "name": "Een Keer",
+      "url": "https://open.spotify.com/track/78X8d12bgeD3RCQXlS1vEX"
     },
     {
       "album": {
@@ -10671,7 +10689,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 265321,
       "name": "Ons Sal Jonk Bly",
       "url": "https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r"

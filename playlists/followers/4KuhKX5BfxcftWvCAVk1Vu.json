@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 1,
+  "2024-04-07": 1,
   "date_first_scraped": "2023-12-31",
   "description": "I love my girlfriend",
   "name": "aj ",
@@ -1031,6 +1031,24 @@
       "duration_ms": 185306,
       "name": "Softly",
       "url": "https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb"
+    },
+    {
+      "album": {
+        "name": "Boys (Side B)",
+        "url": "https://open.spotify.com/album/0FpgHDHjnDWxVk48Eff0wE"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219344,
+      "name": "Strawberries",
+      "url": "https://open.spotify.com/track/0ESvfrHfNuAtkZp8SMJBOY"
     },
     {
       "album": {

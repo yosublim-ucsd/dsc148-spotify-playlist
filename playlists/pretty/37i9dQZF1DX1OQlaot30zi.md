@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Artie 5ive, Rondodasosa, MACE, Silent Bob e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,876 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,900 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 10 | [LUMIERE ᯤ \(con Izi, Ernia, Tony Boy, Digital Astro\)](https://open.spotify.com/track/4hGOZFnihN22IsswyRpueW) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 3:14 |
 | 11 | [Il Malessere \(feat\. Guè\)](https://open.spotify.com/track/2QY4kWgGeTMVkHPQXevNaS) | [Matteo Paolillo](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Edo \- Ultimo Atto](https://open.spotify.com/album/04pYMVGJMSk58Ew6QqZCay) | 2:22 |
 | 12 | [Vitamina life](https://open.spotify.com/track/2UFwuTDQMk3virqzYttqV2) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Vitamina life](https://open.spotify.com/album/3kUuHtApN9MrBWeytwRtCe) | 2:20 |
-| 13 | [Nak Su Kao \- Parte 2 \- Domo Version](https://open.spotify.com/track/6Pm7BmNjPZUKq2CCee34Ub) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Questo non è un cane / Domo](https://open.spotify.com/album/0oVlowAcydHpJvAaR3jVUK) | 2:59 |
+| 13 | [Nak Su Kao \- Parte 2 \- Domo Version](https://open.spotify.com/track/6Pm7BmNjPZUKq2CCee34Ub) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Kaos!](https://open.spotify.com/artist/5g53SDhx7H122hkasklPpx) | [Questo non è un cane / Domo](https://open.spotify.com/album/0oVlowAcydHpJvAaR3jVUK) | 2:59 |
 | 14 | [Ragazzi fuori](https://open.spotify.com/track/2QQ3rN78weEKTKBK3Op4dw) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [Johnny Marsiglia](https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Ragazzi fuori](https://open.spotify.com/album/2RgScSlYyVlMPB2KiYnS88) | 3:09 |
 | 15 | [€$¥](https://open.spotify.com/track/2MxBRTAKJbq4VLxvgO4Owg) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX) | [€$¥](https://open.spotify.com/album/6BSzbvsZtXZbrev3jaMjNg) | 2:16 |
 | 16 | [NON È FACILE](https://open.spotify.com/track/37NB4kJlOnf8BGjDUIMJF0) | [Red Roses](https://open.spotify.com/artist/3dA6K34y5FCgngffHJTjpY) | [NON È FACILE](https://open.spotify.com/album/2VIBOlpbBVZ5bn1vKJRJsf) | 2:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [1K 2K 3K](https://open.spotify.com/track/0uF1EfAMmFWW3EvdqMzJfe) | [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Prisoner](https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U) | [1K 2K 3K](https://open.spotify.com/album/2kqRGd6HpKXCJ7rrvjR8SM) | 2:38 |
 | 100 | [NASTY](https://open.spotify.com/track/7FmJ24EdZb8ktn5OBg11b8) | [XWOND](https://open.spotify.com/artist/6sRzLtxCBCC0RCGsLNkd1g), [Reizon](https://open.spotify.com/artist/0YpFRM0kzAZfjSdw0pTlDX) | [NASTY](https://open.spotify.com/album/4wsyabPdMHIJmWB38ytUeL) | 2:18 |
 
-Snapshot ID: `MCw5NThjNTYyMzNhZTI4YWVlZDZiNDJkNzY2NTNmMjE3MGU4MjYyNzZj`
+Snapshot ID: `MCxkZmI5MTk0YmE1YmMwMTdlYjkzODI2NWQ0YTVlNTgwODliMmMwMGI3`

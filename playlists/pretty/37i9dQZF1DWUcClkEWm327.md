@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcClkEWm327.md) - [plain]
 
 > ディズニーの名曲をオルゴール・サウンドで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,032 likes - 107 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,041 likes - 107 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcClkEWm327.md) - [plain]
 | 106 | [One Man's Dream II \- The Magic Lives On](https://open.spotify.com/track/1VwQkAR4DMio80cHffgAlX) | [Kaoru Ishikawa](https://open.spotify.com/artist/6ohiXhPIKO3Oe2bBT4jkoe) | [Organette Tokyo Disneyland \~Magical Selection\~](https://open.spotify.com/album/2GSCy5JxnDfdSQNg4cYK5Q) | 2:57 |
 | 107 | [Mickey Mouse Club March \- Instrumental](https://open.spotify.com/track/4FVERBLd7dxkovkCmnJh8y) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Sleepytime Lullabies](https://open.spotify.com/album/4pHb2LkBfPjbMlkGWISDF6) | 1:24 |
 
-Snapshot ID: `MCxjZDBmZmQ1Yjk5Njc0NjkzYWYzNTg2YmM4M2I5MWY0NzI2MzU3ZWNh`
+Snapshot ID: `MCxmODY5MTlmODdlOTRiMDVjYTlhNjk5MmIyNGI3ODg2MTdlOTlkYTU4`

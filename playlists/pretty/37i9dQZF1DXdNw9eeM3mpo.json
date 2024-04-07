@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 458360,
+  "num_followers": 458469,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjNiM2E1MDkzMjIxNjhlZGE0OWU2NDgwZDVkYmJlNTc5ZDVmYTMz",
+  "snapshot_id": "MCxlNmIwNWY3NTVkMTdkMjA2MWY0ZjdiNGZkMmI4ZTliNWYzOGVjYmU3",
   "tracks": [
     {
       "added_at": "2024-03-29 06:00:00",
@@ -27,8 +27,8 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Baile Infinito",
-        "url": "https://open.spotify.com/album/1zmmya1G0UWUrDVyZ2MssT"
+        "name": "Vida de locos",
+        "url": "https://open.spotify.com/album/4MNcfvhB5uKmor2POyfIqY"
       },
       "artists": [
         {
@@ -46,7 +46,7 @@
       ],
       "duration_ms": 195234,
       "name": "Vida de locos",
-      "url": "https://open.spotify.com/track/0iOA58UWDwq5jilLLOhR30"
+      "url": "https://open.spotify.com/track/4Hb9R572ZZntBXJFLk1oou"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "Que me quemen tus ojos",
         "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 159453,
       "name": "Que me quemen tus ojos",
       "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Revolusound Contra Sistema",
-        "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Corrupci\u00f3n Ska",
-      "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "A medio camino",
         "url": "https://open.spotify.com/album/3LIlsKOlDzWYosREO60Cgs"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 172811,
       "name": "A partir de ah\u00ed",
       "url": "https://open.spotify.com/track/1FMsxyf8w9PnhcA6POZ0vV"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Revolusound Contra Sistema",
+        "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Corrupci\u00f3n Ska",
+      "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Pinche Amor",
-        "url": "https://open.spotify.com/album/2wDx2AxnZrQgPKqMjmj1h9"
+        "name": "Como es que no gozas",
+        "url": "https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv"
       },
       "artists": [
         {
-          "name": "Avenida La Cumbia",
-          "url": "https://open.spotify.com/artist/48KLh2tXyDosgG8hi18blg"
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
         }
       ],
-      "duration_ms": 176823,
-      "name": "Pinche Amor",
-      "url": "https://open.spotify.com/track/2jbwRjFEWL13nkoXx8oJBy"
+      "duration_ms": 169384,
+      "name": "Como es que no gozas",
+      "url": "https://open.spotify.com/track/6hMwYF9yok533cqZB631MN"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Como es que no gozas",
-        "url": "https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv"
+        "name": "Historias de amor y otras mierdas",
+        "url": "https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt"
       },
       "artists": [
         {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+          "name": "Eskorzo",
+          "url": "https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8"
         }
       ],
-      "duration_ms": 169384,
-      "name": "Como es que no gozas",
-      "url": "https://open.spotify.com/track/6hMwYF9yok533cqZB631MN"
+      "duration_ms": 185925,
+      "name": "Me Va A Castigar El Se\u00f1or",
+      "url": "https://open.spotify.com/track/1m7FERQ0mu9OuhRTUdzHbP"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Historias de amor y otras mierdas",
-        "url": "https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt"
+        "name": "Pinche Amor",
+        "url": "https://open.spotify.com/album/2wDx2AxnZrQgPKqMjmj1h9"
       },
       "artists": [
         {
-          "name": "Eskorzo",
-          "url": "https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8"
+          "name": "Avenida La Cumbia",
+          "url": "https://open.spotify.com/artist/48KLh2tXyDosgG8hi18blg"
         }
       ],
-      "duration_ms": 185925,
-      "name": "Me Va A Castigar El Se\u00f1or",
-      "url": "https://open.spotify.com/track/1m7FERQ0mu9OuhRTUdzHbP"
+      "duration_ms": 176823,
+      "name": "Pinche Amor",
+      "url": "https://open.spotify.com/track/2jbwRjFEWL13nkoXx8oJBy"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "El Tren",
-        "url": "https://open.spotify.com/album/4giecHJ5HxJ4mucYR3UByK"
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/51OjtDRZ1zVVy8UwMv3KvL"
       },
       "artists": [
         {
-          "name": "Los Inconformes",
-          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
         }
       ],
-      "duration_ms": 196845,
-      "name": "El Tren",
-      "url": "https://open.spotify.com/track/5mIJFCipaJ8IqFe5bNH56S"
+      "duration_ms": 195083,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/3zvVb54141fDaRFq2wzHbJ"
     }
   ],
   "unique_name": "Ska Latino ",

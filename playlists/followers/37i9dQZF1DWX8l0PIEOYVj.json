@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 366456,
+  "2024-04-07": 382820,
   "date_first_scraped": "2022-07-14",
   "description": "Future & melodic bass. Cover: SLANDER & Trivecta",
   "name": "Bass Lounge",
@@ -641,7 +641,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 190666,
       "name": "Anybody Out There (feat. HENRY & Sara Phillips)",
       "url": "https://open.spotify.com/track/05tOx5wW2LGBOExPe37wdI"
@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 268800,
       "name": "Catharsis",
       "url": "https://open.spotify.com/track/5Rye7bAMBloowLfjw5fGT5"
@@ -1749,6 +1749,32 @@
       "duration_ms": 231832,
       "name": "Colors (with Eyelar)",
       "url": "https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK"
+    },
+    {
+      "album": {
+        "name": "COME BACK HOME",
+        "url": "https://open.spotify.com/album/0f6J3OVa7XztlTuQgdI595"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        },
+        {
+          "name": "Nina Sung",
+          "url": "https://open.spotify.com/artist/3IDGSw4dPbHMSnd93gkeXG"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "COME BACK HOME",
+      "url": "https://open.spotify.com/track/0WeqUDwiPd186VrFROE2KA"
     },
     {
       "album": {
@@ -2529,7 +2555,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 248275,
       "name": "Drift",
       "url": "https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun"
@@ -4708,6 +4734,28 @@
     },
     {
       "album": {
+        "name": "HARNESS",
+        "url": "https://open.spotify.com/album/3e0oTOqZwsTQc3HgMxwjrf"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        {
+          "name": "Wavedash",
+          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270206,
+      "name": "HARNESS",
+      "url": "https://open.spotify.com/track/3Ps8bLGciHq6leNN1kUHUJ"
+    },
+    {
+      "album": {
         "name": "Hate This Kind of Love (feat. HOLT)",
         "url": "https://open.spotify.com/album/7tWS1OfcBKgvupJiebvvu8"
       },
@@ -4767,7 +4815,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 208095,
       "name": "Heart of Stone (feat. Nevve)",
       "url": "https://open.spotify.com/track/5myN5N3sDQaRvMMVOTKtY9"
@@ -5679,7 +5727,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 278400,
       "name": "I'll Be Your Home",
       "url": "https://open.spotify.com/track/4bGM1EMxc8n0AXPqlbAUff"
@@ -6273,6 +6321,28 @@
       "duration_ms": 225000,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/13IZmcVnhtkMMGqO9P4IUU"
+    },
+    {
+      "album": {
+        "name": "Lifeline (Reborn)",
+        "url": "https://open.spotify.com/album/0KWR2tv5EErpvqTEWOTriI"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        },
+        {
+          "name": "Transparent Arts",
+          "url": "https://open.spotify.com/artist/1F9TDeezTpFqrwPkn1S8qW"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Lifeline (Reborn)",
+      "url": "https://open.spotify.com/track/0Gt9HuvYiNb3WbGsZl97h7"
     },
     {
       "album": {
@@ -7933,6 +8003,28 @@
       "duration_ms": 206197,
       "name": "Only One I Need",
       "url": "https://open.spotify.com/track/5tqjt07Jes01AokedrhRtQ"
+    },
+    {
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/0UnU5fsuL8C0mPPzUeAagL"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "SpaceMan Zack",
+          "url": "https://open.spotify.com/artist/53dPePMlci6GqJXISlntSK"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176516,
+      "name": "Only the Good Die Young",
+      "url": "https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc"
     },
     {
       "album": {
@@ -10983,6 +11075,32 @@
       "duration_ms": 262702,
       "name": "Waiting For Love",
       "url": "https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x"
+    },
+    {
+      "album": {
+        "name": "Waking up in a Dream",
+        "url": "https://open.spotify.com/album/5E6R0f8jsjOd1oj6bAdjtj"
+      },
+      "artists": [
+        {
+          "name": "Nikademis",
+          "url": "https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP"
+        },
+        {
+          "name": "9 Worlds",
+          "url": "https://open.spotify.com/artist/0IJ1W6ttg75kPsNGeVgkaV"
+        },
+        {
+          "name": "Donna Tella",
+          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290910,
+      "name": "Waking up in a Dream",
+      "url": "https://open.spotify.com/track/2kDzRYSeJpr7fOqRklgiYd"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 63745,
+  "num_followers": 63808,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWM2YjVhNjVlY2MwMGZlZjNlNGI0MDhiZTNiOGQyODYyYzU1YTBm",
+  "snapshot_id": "MCxlZDNiZmI3YjY5ZmJlMWE3MWZhNmY4Mjg4MWIxMmVhMDk2MzFlMDBk",
   "tracks": [
     {
       "added_at": null,
@@ -272,12 +272,12 @@
       },
       "artists": [
         {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        },
-        {
           "name": "HIXTAPE",
           "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         },
         {
           "name": "Morgan Wallen",

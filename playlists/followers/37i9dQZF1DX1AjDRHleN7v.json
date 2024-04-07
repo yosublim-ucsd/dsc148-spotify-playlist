@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 306589,
+  "2024-04-07": 306716,
   "date_first_scraped": "2023-07-10",
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
   "name": "Praiana",
@@ -284,6 +284,36 @@
     },
     {
       "album": {
+        "name": "Sabotage 50",
+        "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
+      },
+      "artists": [
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        },
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Dama Tereza - Sabotage 50",
+      "url": "https://open.spotify.com/track/6BzLWGDXIRl10dFPT3RWpq"
+    },
+    {
+      "album": {
         "name": "V\u00e1rias Ondas",
         "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
       },
@@ -557,7 +587,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 161107,
       "name": "Frequ\u00eancia do Amor",
       "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
@@ -575,7 +605,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 195918,
       "name": "Fugir Com o Sol - Ac\u00fastico",
       "url": "https://open.spotify.com/track/32HSy2asY8z7qd0mGUgenI"
@@ -861,7 +891,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 254858,
       "name": "Na Jornada - Remasterizado",
       "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"

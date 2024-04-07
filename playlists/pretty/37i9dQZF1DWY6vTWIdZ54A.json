@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 492547,
+  "num_followers": 492602,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTJjZjU1NTQ3ODE0OGQ2ZWFiNjQ2MzdhZGJmOGI3NzU1ZTBhOWE3",
+  "snapshot_id": "MCw4ZjFiMDM3ZjViMTRjOGZiZjlkM2IzZGRiOWFlM2QzYmM1MjA3NTc0",
   "tracks": [
     {
       "added_at": "2023-09-22 00:56:58",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Death By Rock And Roll",
-        "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Death By Rock And Roll",
-      "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Apple Pie",
         "url": "https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 179447,
       "name": "Apple Pie",
       "url": "https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Death By Rock And Roll",
+        "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Death By Rock And Roll",
+      "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Save Me Some Sunshine",
-        "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
-      },
-      "artists": [
-        {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
-        }
-      ],
-      "duration_ms": 217143,
-      "name": "Save Me Some Sunshine",
-      "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "I'm A King Bee",
         "url": "https://open.spotify.com/album/57q06NuEHVw0MAqZT3hEUV"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 199597,
       "name": "I'm A King Bee",
       "url": "https://open.spotify.com/track/01RPOnIW38TuFv0CvHdVmz"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Save Me Some Sunshine",
+        "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
+      },
+      "artists": [
+        {
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+        }
+      ],
+      "duration_ms": 217143,
+      "name": "Save Me Some Sunshine",
+      "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "The Boy Who Died Wolf",
-        "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 416266,
-      "name": "Wolf",
-      "url": "https://open.spotify.com/track/2S7R4trL4HITPIfvKUxcA4"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "In The Wild (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 181797,
       "name": "Raised By Wolves",
       "url": "https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "The Boy Who Died Wolf",
+        "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 416266,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/2S7R4trL4HITPIfvKUxcA4"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Hannah Wicklund and the Steppin Stones",
-        "url": "https://open.spotify.com/album/6kP0lrd4sA5I698Z6Z5ug1"
-      },
-      "artists": [
-        {
-          "name": "Hannah Wicklund",
-          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
-        }
-      ],
-      "duration_ms": 164645,
-      "name": "Bomb Through The Breeze",
-      "url": "https://open.spotify.com/track/7gLgvdBxycylxnP9iwdvuD"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 246932,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Hannah Wicklund and the Steppin Stones",
+        "url": "https://open.spotify.com/album/6kP0lrd4sA5I698Z6Z5ug1"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wicklund",
+          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
+        }
+      ],
+      "duration_ms": 164645,
+      "name": "Bomb Through The Breeze",
+      "url": "https://open.spotify.com/track/7gLgvdBxycylxnP9iwdvuD"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Are You Real?",
-        "url": "https://open.spotify.com/album/4rkueE4vDufCTC5OKoREtR"
-      },
-      "artists": [
-        {
-          "name": "Beware Of Darkness",
-          "url": "https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "Muthafucka",
-      "url": "https://open.spotify.com/track/3V3JJZVln8sC8V6raJNmKk"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Denim & Diamonds",
         "url": "https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 187867,
       "name": "First High",
       "url": "https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Are You Real?",
+        "url": "https://open.spotify.com/album/4rkueE4vDufCTC5OKoREtR"
+      },
+      "artists": [
+        {
+          "name": "Beware Of Darkness",
+          "url": "https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "Muthafucka",
+      "url": "https://open.spotify.com/track/3V3JJZVln8sC8V6raJNmKk"
     },
     {
       "added_at": "2023-09-22 00:56:58",

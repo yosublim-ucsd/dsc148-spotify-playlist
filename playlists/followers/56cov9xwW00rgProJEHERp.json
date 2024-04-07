@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 10674,
+  "2024-04-07": 10674,
   "date_first_scraped": "2023-12-14",
   "description": "Tunes from your favourite coffee shop.",
   "name": "But First Coffee",
@@ -378,6 +378,24 @@
     },
     {
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
+      "album": {
         "name": "Du temps",
         "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
       },
@@ -576,6 +594,24 @@
     },
     {
       "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/06SkY6G0aiZJVwNCPwkcb4"
+      },
+      "artists": [
+        {
+          "name": "John Moreland",
+          "url": "https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233973,
+      "name": "Gentle Violence",
+      "url": "https://open.spotify.com/track/4kjktXON6BJg5CVntKzsWP"
+    },
+    {
+      "album": {
         "name": "God and a Good Man",
         "url": "https://open.spotify.com/album/3lwqtmWopuyOY3eR6dRyWG"
       },
@@ -765,7 +801,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 294250,
       "name": "If I Ain't Got You (feat. Queen Charlotte's Global Orchestra) - Orchestral",
       "url": "https://open.spotify.com/track/34zlt87xSyaFUZGvnN0wpD"
@@ -1083,7 +1119,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 255370,
       "name": "Me Without You (Acoustic)",
       "url": "https://open.spotify.com/track/1mfPsU5u0fgdjYfKIxaJol"

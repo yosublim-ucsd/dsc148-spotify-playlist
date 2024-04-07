@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 1737680,
+  "2024-04-07": 1738666,
   "date_first_scraped": "2022-02-11",
   "description": "you up?",
   "name": "goosebumps",
@@ -4352,6 +4352,24 @@
     },
     {
       "album": {
+        "name": "Like Me",
+        "url": "https://open.spotify.com/album/73htgKILdONxhlQqlsBcQZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Short",
+          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159870,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/0iacF3uSavbQQSf37ho7W7"
+    },
+    {
+      "album": {
         "name": "Live or Die",
         "url": "https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72"
       },
@@ -6141,7 +6159,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 240341,
       "name": "Pretty Little Fears (feat. J. Cole)",
       "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"

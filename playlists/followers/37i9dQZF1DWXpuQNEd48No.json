@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 32313,
+  "2024-04-07": 32353,
   "date_first_scraped": "2023-03-30",
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: RP Singh & KD Desi Rock",
   "name": "Hip-Hop Haryanvi",
@@ -876,6 +876,36 @@
     },
     {
       "album": {
+        "name": "Chirmathi | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/01qjKLtkHQyrVLHJCqH3A6"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Mohito",
+          "url": "https://open.spotify.com/artist/47iQfoE3WJMcR4QtOHNc1M"
+        },
+        {
+          "name": "Hashbass",
+          "url": "https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO"
+        },
+        {
+          "name": "Karsh Kale",
+          "url": "https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247450,
+      "name": "Chirmathi | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/4DBlTglgmsMfeXe1UzzJD6"
+    },
+    {
+      "album": {
         "name": "Chora Baba Ka",
         "url": "https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS"
       },
@@ -1407,7 +1437,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 193433,
       "name": "Elaan",
       "url": "https://open.spotify.com/track/3dzkMcvRVdDfnfcSXZyD9j"
@@ -2591,7 +2621,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 184888,
       "name": "Lal Dabbi",
       "url": "https://open.spotify.com/track/5DKyVzIjrD99sb4i1gp3bh"
@@ -2857,7 +2887,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 163172,
       "name": "Naina Ki Talwar",
       "url": "https://open.spotify.com/track/0o26gLFYauwW6oBwtHZFZZ"

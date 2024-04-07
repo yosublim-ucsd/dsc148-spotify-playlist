@@ -4,7 +4,7 @@
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-217 songs - 13 hr 25 min
+218 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Estallados](https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Estallados](https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr) | 4:30 | 2022-03-11 | 2022-07-22 |
 | [Eternos](https://open.spotify.com/track/1NBm559BidNsITeU9OIZwV) | [Danicattack](https://open.spotify.com/artist/3F2Tn0qkuEKLKJ5fjXSQvH) | [Eternos](https://open.spotify.com/album/1U1KSrnW4SRO7UQTByTQaC) | 4:10 | 2022-06-24 | 2022-07-19 |
 | [Fiesta Entre Demonios](https://open.spotify.com/track/0O7xG0e4I188WBg93DT0G5) | [Donkristobal](https://open.spotify.com/artist/4fixbG823SdZndhG2SYAlB) | [Vida](https://open.spotify.com/album/7xpsydvszLDGU6WsSnAanq) | 2:59 | 2022-03-11 | 2022-07-23 |
+| [Fiesta Entre Demonios](https://open.spotify.com/track/4awW1AUIaS54DHzRpaJ1lC) | [Donkristobal](https://open.spotify.com/artist/4fixbG823SdZndhG2SYAlB) | [Vida](https://open.spotify.com/album/50VJQ09N278r3n743OzxT6) | 2:59 | 2023-10-07 |  |
 | [Gemas](https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE) | 3:38 | 2022-06-24 |  |
 | [Gemas](https://open.spotify.com/track/67mgOypSh1Xf9VxbLmSfvH) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/4BxZEP4iqM3Bm4iOm6q1O1) | 3:38 | 2022-03-11 | 2022-07-28 |
 | [Guadalupe \(En Vivo\) \[Desde el Teatro Colón\]](https://open.spotify.com/track/5gTdC8wTm0P9JwjCoOY04o) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [The Mills 10 Años \(En Vivo\) \[Desde el Teatro Colón\]](https://open.spotify.com/album/2lVJ4bLhN3L3ytRkbr4dzm) | 5:06 | 2022-03-11 | 2022-09-27 |
@@ -129,7 +130,7 @@
 | [Nadie Es Inocente \(feat\. Dilson Diaz & Nicolai Fella\)](https://open.spotify.com/track/4jnp4SOpXZP0Oy0YIBKxcf) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5), [Dilson Diaz](https://open.spotify.com/artist/72UArPUG7xctUaf3iXf59r), [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo) | [Pnmt Corrosion](https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96) | 3:30 | 2022-03-11 | 2022-07-25 |
 | [Neumáticos](https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Neumáticos](https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx) | 3:45 | 2023-02-14 | 2023-08-06 |
 | [Ningún Lugar](https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr) | [Los Maricas](https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy) | [IV](https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP) | 2:27 | 2022-03-11 | 2023-06-30 |
-| [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 | 2023-02-14 |  |
+| [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 | 2023-02-14 | 2024-04-07 |
 | [No Estamos Solos \- 00e11even00](https://open.spotify.com/track/4xa5RqAaKqxU19SXbh8aNu) | [Comehere](https://open.spotify.com/artist/0TOIehkogO9D6CrPSIzTsJ) | [No Estamos Solos \(00e11even00\)](https://open.spotify.com/album/6FnLeAY0SLncpRI8qJr6m3) | 3:35 | 2022-03-11 | 2022-07-03 |
 | [No Hay Palabras](https://open.spotify.com/track/2c5qpGWw2RPU4NGj0tIa0q) | [LaTenaz](https://open.spotify.com/artist/5tgY8XPEDCIADiPbVYR3zD), [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [No Hay Palabras](https://open.spotify.com/album/32ukeYc64E3IkqZtXdZaCG) | 3:53 | 2022-03-11 | 2022-07-26 |
 | [No Más](https://open.spotify.com/track/3ObCX2lb4FlM1Rn9WUppst) | [Los De Adentro](https://open.spotify.com/artist/282UIRNs6aprjrs0ynDn6v) | [Volver Amar](https://open.spotify.com/album/7lNxWPJ2lAiCVWE3iACqpW) | 3:15 | 2022-03-11 |  |

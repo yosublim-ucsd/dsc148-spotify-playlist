@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 32798,
+  "2024-04-07": 32836,
   "date_first_scraped": "2022-01-02",
   "description": "Featuring the 'Noteable' songwriters who create your favorite songs. Cover: Nicolle Galyon\n",
   "name": "Country Songwriters",
@@ -405,6 +405,32 @@
       "duration_ms": 197826,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6CebGuHR99xrFitTnOgeu2"
+    },
+    {
+      "album": {
+        "name": "Straight to the Heart",
+        "url": "https://open.spotify.com/album/0Bva4h6lgCqVXRxzAshOvj"
+      },
+      "artists": [
+        {
+          "name": "Original Demos",
+          "url": "https://open.spotify.com/artist/1fmZZUwkxbqJHhKVutRvcT"
+        },
+        {
+          "name": "Jeff Stevens",
+          "url": "https://open.spotify.com/artist/7scMFqCQcUeP9vW1qf1mV8"
+        },
+        {
+          "name": "Steve Bogard",
+          "url": "https://open.spotify.com/artist/5GBMuPKboGi5rNDAqonFbI"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217093,
+      "name": "Carrying Your Love with Me (Demo)",
+      "url": "https://open.spotify.com/track/5YHfOYvLIx3YCprzirRuWq"
     },
     {
       "album": {
@@ -1603,7 +1629,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 188225,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/09314p0WJhfG0mXqlg6hTC"
@@ -4647,6 +4673,24 @@
       "duration_ms": 273293,
       "name": "When It's My Time",
       "url": "https://open.spotify.com/track/2HKTn21q37EC4EibvaoEzg"
+    },
+    {
+      "album": {
+        "name": "When She Comes Home Tonight",
+        "url": "https://open.spotify.com/album/4q8t7dDpFa47uypBt5coDN"
+      },
+      "artists": [
+        {
+          "name": "Jordan Fletcher",
+          "url": "https://open.spotify.com/artist/43U27Vp3DiU94H7FJx804a"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284222,
+      "name": "When She Comes Home Tonight",
+      "url": "https://open.spotify.com/track/1tgn640w7LpWvti4BDTNux"
     },
     {
       "album": {

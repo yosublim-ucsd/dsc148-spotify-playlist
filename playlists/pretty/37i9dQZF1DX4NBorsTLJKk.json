@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 33480,
+  "num_followers": 33489,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTBmY2Q1OTMxODNhNzlkYzU2Y2M4NzhkZjAyNzk1YTU3ZjRjMzgy",
+  "snapshot_id": "MCwxMDIyMGRjNTNlNjJlMDFmNTcxM2RlNTVmN2RhNzY4NjFlY2MxMjJj",
   "tracks": [
     {
       "added_at": "2023-09-20 01:51:29",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u4f60\u6240\u4e0d\u77e5\u9053\u7684\u675c\u632f\u7199\u4e4b\u5167\u90e8\u6574\u4fee",
-        "url": "https://open.spotify.com/album/5bQhqKf8GVKyOj7Py0SoIS"
-      },
-      "artists": [
-        {
-          "name": "Soft Lipa",
-          "url": "https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T"
-        }
-      ],
-      "duration_ms": 285851,
-      "name": "\u96e8\u6c92\u505c\u904e",
-      "url": "https://open.spotify.com/track/4CjsfB0jDEgLcAXrlOyFmR"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/28obHlyyrD8mHa4PLlccXD"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 254248,
       "name": "\u59b3\u9084\u6015\u5927\u96e8\u55ce - \u570b\u8a9e",
       "url": "https://open.spotify.com/track/2dFeKAGD3TBcFB9TAjnlfN"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u4f60\u6240\u4e0d\u77e5\u9053\u7684\u675c\u632f\u7199\u4e4b\u5167\u90e8\u6574\u4fee",
+        "url": "https://open.spotify.com/album/5bQhqKf8GVKyOj7Py0SoIS"
+      },
+      "artists": [
+        {
+          "name": "Soft Lipa",
+          "url": "https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T"
+        }
+      ],
+      "duration_ms": 285851,
+      "name": "\u96e8\u6c92\u505c\u904e",
+      "url": "https://open.spotify.com/track/4CjsfB0jDEgLcAXrlOyFmR"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u54c8\u56c9",
-        "url": "https://open.spotify.com/album/7BL07XyqJqNjv2HU3lK7zr"
-      },
-      "artists": [
-        {
-          "name": "A-do",
-          "url": "https://open.spotify.com/artist/24C7uNrWX2Iidb6X63vTGz"
-        }
-      ],
-      "duration_ms": 275863,
-      "name": "\u4e0b\u96e8\u7684\u6642\u5019\u6703\u60f3\u4f60",
-      "url": "https://open.spotify.com/track/2P5Uv7JoJSrSQLXpVsN8kP"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
         "url": "https://open.spotify.com/album/0K3iozUW87nXOIRQAxOSHU"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "EmptyORio",
-        "url": "https://open.spotify.com/album/0Jh3xk4JvrzI4KFSvzo9tx"
+        "name": "\u54c8\u56c9",
+        "url": "https://open.spotify.com/album/7BL07XyqJqNjv2HU3lK7zr"
       },
       "artists": [
         {
-          "name": "EmptyORio",
-          "url": "https://open.spotify.com/artist/5XuYYh7VssmjmETxEBUF2M"
+          "name": "A-do",
+          "url": "https://open.spotify.com/artist/24C7uNrWX2Iidb6X63vTGz"
         }
       ],
-      "duration_ms": 172000,
-      "name": "\u96e8",
-      "url": "https://open.spotify.com/track/0Ou6DX7cbRYrofS4gLe88v"
+      "duration_ms": 275863,
+      "name": "\u4e0b\u96e8\u7684\u6642\u5019\u6703\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/2P5Uv7JoJSrSQLXpVsN8kP"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -847,18 +831,18 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "When I Leave Taipei",
-        "url": "https://open.spotify.com/album/4Q7lWTYxppgchu3kJ3lcwp"
+        "name": "EmptyORio",
+        "url": "https://open.spotify.com/album/0Jh3xk4JvrzI4KFSvzo9tx"
       },
       "artists": [
         {
-          "name": "\u912d\u8208",
-          "url": "https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE"
+          "name": "EmptyORio",
+          "url": "https://open.spotify.com/artist/5XuYYh7VssmjmETxEBUF2M"
         }
       ],
-      "duration_ms": 274212,
-      "name": "Rain in Taipei",
-      "url": "https://open.spotify.com/track/2lrNjDXlD2GKjGR93U26ZN"
+      "duration_ms": 172000,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/0Ou6DX7cbRYrofS4gLe88v"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -875,6 +859,22 @@
       "duration_ms": 270426,
       "name": "\u96e8\u5b63\u4e2d",
       "url": "https://open.spotify.com/track/0DYYzMxj5aGKbYJIQRRpQi"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "When I Leave Taipei",
+        "url": "https://open.spotify.com/album/4Q7lWTYxppgchu3kJ3lcwp"
+      },
+      "artists": [
+        {
+          "name": "\u912d\u8208",
+          "url": "https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE"
+        }
+      ],
+      "duration_ms": 274212,
+      "name": "Rain in Taipei",
+      "url": "https://open.spotify.com/track/2lrNjDXlD2GKjGR93U26ZN"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u9673\u7dba\u8c9e \u7cbe\u9078",
-        "url": "https://open.spotify.com/album/6OEP6qEplZpiSJ4bPzQtAY"
-      },
-      "artists": [
-        {
-          "name": "Cheer Chen",
-          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "\u96e8\u5929\u7684\u5c3e\u5df4 - \u6eec\u5c3e\u5c0f\u60c5\u6b4c",
-      "url": "https://open.spotify.com/track/4kDhpezOgkieB3LA0xtL9C"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u5927\u96e8\u904e\u5f8c",
         "url": "https://open.spotify.com/album/4bUQjBGUT7zwecBz4dJEKm"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 247164,
       "name": "\u5927\u96e8\u904e\u5f8c",
       "url": "https://open.spotify.com/track/6x0lsSLEaMb3LhoLBEK97h"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u9673\u7dba\u8c9e \u7cbe\u9078",
+        "url": "https://open.spotify.com/album/6OEP6qEplZpiSJ4bPzQtAY"
+      },
+      "artists": [
+        {
+          "name": "Cheer Chen",
+          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "\u96e8\u5929\u7684\u5c3e\u5df4 - \u6eec\u5c3e\u5c0f\u60c5\u6b4c",
+      "url": "https://open.spotify.com/track/4kDhpezOgkieB3LA0xtL9C"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
-        "url": "https://open.spotify.com/album/5nEFRdFxPGdN5M2nSYSznd"
-      },
-      "artists": [
-        {
-          "name": "\u767d\u983b\u7387 White Frequency",
-          "url": "https://open.spotify.com/artist/4tREKMNVSLyiI0K6IhgHVc"
-        }
-      ],
-      "duration_ms": 308170,
-      "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
-      "url": "https://open.spotify.com/track/6ZIoEvPsWnyun3w3QXBeJN"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u88ab\u96e8\u50b7\u900f (\u5e7e\u7c73\u97f3\u6a02\u5287\u300c\u5411\u5de6\u8d70,\u5411\u53f3\u8d70\u300d\u6b4c\u66f2)",
         "url": "https://open.spotify.com/album/2gpk0phoZ6Vf4jrw4lPgVl"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 252000,
       "name": "\u88ab\u96e8\u50b7\u900f - \u5e7e\u7c73\u97f3\u6a02\u5287\u300c\u5411\u5de6\u8d70,\u5411\u53f3\u8d70\u300d\u6b4c\u66f2",
       "url": "https://open.spotify.com/track/5DzWobny6yP1EzeO9KbqER"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
+        "url": "https://open.spotify.com/album/5nEFRdFxPGdN5M2nSYSznd"
+      },
+      "artists": [
+        {
+          "name": "\u767d\u983b\u7387 White Frequency",
+          "url": "https://open.spotify.com/artist/4tREKMNVSLyiI0K6IhgHVc"
+        }
+      ],
+      "duration_ms": 308170,
+      "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
+      "url": "https://open.spotify.com/track/6ZIoEvPsWnyun3w3QXBeJN"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u6211\u7684\u65b0\u9bae\u5973\u53cb",
-        "url": "https://open.spotify.com/album/0Hv4D8o5NjB9f5ESB3fKZn"
-      },
-      "artists": [
-        {
-          "name": "\u621a\u8587",
-          "url": "https://open.spotify.com/artist/2MOq4wdhVbkqa7TsiIrlIQ"
-        }
-      ],
-      "duration_ms": 270110,
-      "name": "\u96e8\u5929",
-      "url": "https://open.spotify.com/track/3cebedjB7a4qLIxSaEEgN6"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u65b0\u9bae",
         "url": "https://open.spotify.com/album/5yX5j54j65WUtQGplBScZm"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 268373,
       "name": "\u611b\u4e0a\u4e0b\u96e8\u5929",
       "url": "https://open.spotify.com/track/6GTQH0BrVbV8KO1rI1xeA7"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u6211\u7684\u65b0\u9bae\u5973\u53cb",
+        "url": "https://open.spotify.com/album/0Hv4D8o5NjB9f5ESB3fKZn"
+      },
+      "artists": [
+        {
+          "name": "\u621a\u8587",
+          "url": "https://open.spotify.com/artist/2MOq4wdhVbkqa7TsiIrlIQ"
+        }
+      ],
+      "duration_ms": 270110,
+      "name": "\u96e8\u5929",
+      "url": "https://open.spotify.com/track/3cebedjB7a4qLIxSaEEgN6"
     },
     {
       "added_at": "2023-09-20 01:51:29",

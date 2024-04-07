@@ -1,12 +1,12 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Geisha",
-  "num_followers": 52902,
+  "num_followers": 52943,
   "original_name": "Jiran Akrab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTU2NWYzMTEwNWZkM2NmY2YwYjQ2YzIyOTdkODBjOTczZjM5MTdm",
+  "snapshot_id": "MCw1YmNmMjE2MWE1ZTJkMDBjYjJmNzlkOWEzMTE2ZmI2ZmI1ZDJmMWQw",
   "tracks": [
     {
       "added_at": "2024-01-12 06:34:07",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "The 2000's Greatest",
-        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
-      },
-      "artists": [
-        {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
-        }
-      ],
-      "duration_ms": 222029,
-      "name": "Separuh Nafas",
-      "url": "https://open.spotify.com/track/6JusI70TeT9M2O1MXyXRRv"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
         "name": "Naluri Lelaki (Special Edition)",
         "url": "https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 247000,
       "name": "Kenangan Terindah",
       "url": "https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
+        "name": "The 2000's Greatest",
+        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        }
+      ],
+      "duration_ms": 222029,
+      "name": "Separuh Nafas",
+      "url": "https://open.spotify.com/track/6JusI70TeT9M2O1MXyXRRv"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "07 Des",
-        "url": "https://open.spotify.com/album/59MdGM9vovHOEqp40fpthI"
-      },
-      "artists": [
-        {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
-        }
-      ],
-      "duration_ms": 241293,
-      "name": "Seberapa Pantas",
-      "url": "https://open.spotify.com/track/1BaGfrlIWinaF77p7QASBH"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
         "name": "The 2000's Greatest",
         "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 300512,
       "name": "Kangen",
       "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
+        "name": "07 Des",
+        "url": "https://open.spotify.com/album/59MdGM9vovHOEqp40fpthI"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 241293,
+      "name": "Seberapa Pantas",
+      "url": "https://open.spotify.com/track/1BaGfrlIWinaF77p7QASBH"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "1st (Special Edition)",
-        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
         "name": "Live to Love",
         "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 245232,
       "name": "Jodoh Pasti Bertemu",
       "url": "https://open.spotify.com/track/4RO9HkL5gStGYDofw0QWDX"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
+        "name": "1st (Special Edition)",
+        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -659,18 +659,22 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "DEKADE",
-        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
+        "name": "Tentang Kamu",
+        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        },
+        {
+          "name": "Ari Lasso",
+          "url": "https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr"
         }
       ],
-      "duration_ms": 274539,
-      "name": "Panah Asmara",
-      "url": "https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5"
+      "duration_ms": 267880,
+      "name": "Aku dan Dirimu (feat. Ari Lasso)",
+      "url": "https://open.spotify.com/track/3boGp1c9CIHwwA0vktqlOP"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -695,22 +699,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Tentang Kamu",
-        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
       },
       "artists": [
         {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        },
-        {
-          "name": "Ari Lasso",
-          "url": "https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 267880,
-      "name": "Aku dan Dirimu (feat. Ari Lasso)",
-      "url": "https://open.spotify.com/track/3boGp1c9CIHwwA0vktqlOP"
+      "duration_ms": 274539,
+      "name": "Panah Asmara",
+      "url": "https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
-      },
-      "artists": [
-        {
-          "name": "Irwansyah",
-          "url": "https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "Pencinta Wanita",
-      "url": "https://open.spotify.com/track/0sMclGmddV8xeqBgI2k2yB"
-    },
-    {
-      "added_at": "2024-01-12 06:34:07",
-      "album": {
         "name": "Once",
         "url": "https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 264853,
       "name": "Dealova",
       "url": "https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi"
+    },
+    {
+      "added_at": "2024-01-12 06:34:07",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+      },
+      "artists": [
+        {
+          "name": "Irwansyah",
+          "url": "https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "Pencinta Wanita",
+      "url": "https://open.spotify.com/track/0sMclGmddV8xeqBgI2k2yB"
     },
     {
       "added_at": "2024-01-12 06:34:07",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-01-12 06:34:07",
       "album": {
-        "name": "Cinta Sejati (From \"Habibie & Ainun\")",
-        "url": "https://open.spotify.com/album/3cMuELN6TQ1pF5fkOcdhpv"
+        "name": "Agnes Is My Name",
+        "url": "https://open.spotify.com/album/53aMwJ5S2SVxCPS4AznERW"
       },
       "artists": [
         {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+          "name": "Agnes Monica",
+          "url": "https://open.spotify.com/artist/5auFhdM0ZgtH6cXwncgZ4m"
         }
       ],
-      "duration_ms": 300933,
-      "name": "Cinta Sejati - From \"Habibie & Ainun\"",
-      "url": "https://open.spotify.com/track/7zPiwqd1uxBkiHuk2OoBWJ"
+      "duration_ms": 266306,
+      "name": "Matahariku",
+      "url": "https://open.spotify.com/track/08M6ihbCJmAmfo4uoRYkOD"
     }
   ],
   "unique_name": "Jiran Akrab",

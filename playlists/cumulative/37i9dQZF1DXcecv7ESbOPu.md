@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-12,816 songs - 27 day 16 hr 2 min
+12,817 songs - 27 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4196,6 +4196,7 @@
 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-09-14 | 2023-09-22 |
 | [Gimme Your Hand](https://open.spotify.com/track/1VJSaTNZ0eMem8EdIE8iOT) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Gimme Your Hand](https://open.spotify.com/album/2VgxBA9dfpcHJmO2yfVWgZ) | 2:43 | 2024-02-22 | 2024-03-01 |
 | [Gimme Your Love](https://open.spotify.com/track/2dPmU5T804MfZTarZVq4DR) | [MEDUN](https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM), [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Gimme Your Love](https://open.spotify.com/album/6uoVz37qmU5NrIXo9bzlwO) | 2:46 | 2022-10-20 | 2022-10-28 |
+| [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/27LAUdMw4o2B3nezlmwu3l) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/0NLvbGWRDv1spIPtrjST2t) | 3:21 | 2024-04-04 |  |
 | [Girl From Pasadena](https://open.spotify.com/track/1gAuOtVasodg3ua4k5imMH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Plain White T's](https://open.spotify.com/album/7IoWse45BGeUdQepWEUa3g) | 3:18 | 2023-11-17 | 2023-12-09 |
 | [girl in new york](https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [girl in new york](https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC) | 2:57 | 2023-12-08 | 2023-12-15 |
 | [Girl In Red](https://open.spotify.com/track/7raXidf9vaOKHqZDhlDUhH) | [Amanda Fondell](https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs) | [Girl In Red](https://open.spotify.com/album/5kXjXW72Ngxt5KkDFhzrmR) | 3:36 | 2023-09-28 | 2023-10-06 |
@@ -4907,7 +4908,7 @@
 | [Hive Mind](https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:15 | 2022-09-29 | 2022-10-07 |
 | [Hjärta](https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Hjärta](https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH) | 2:38 | 2023-10-19 | 2023-11-11 |
 | [Hjärta \- Remix](https://open.spotify.com/track/1Y2S5zYRf3O67Tnx85rfop) | [Tim Jiu](https://open.spotify.com/artist/59FsP1MSPmasTb80gQU12I), [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Hjärta \(Remix\)](https://open.spotify.com/album/26p3tSqaLuf1MNdMOyoqGT) | 2:58 | 2022-10-06 | 2022-10-14 |
-| [Hjärta Av Papper](https://open.spotify.com/track/2aOIyQTST6xxIzbfwDN5dl) | [Atmosfär](https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh) | [Hjärta Av Papper](https://open.spotify.com/album/2SZBCm2yXYDh3t1wphelmu) | 2:48 | 2024-04-04 |  |
+| [Hjärta Av Papper](https://open.spotify.com/track/2aOIyQTST6xxIzbfwDN5dl) | [Atmosfär](https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh), [Zelma Szekeres](https://open.spotify.com/artist/1LQOYNZKDxD7yahtHv6klT) | [Hjärta Av Papper](https://open.spotify.com/album/2SZBCm2yXYDh3t1wphelmu) | 2:48 | 2024-04-04 |  |
 | [Hjärta Till Is](https://open.spotify.com/track/1WzTOTQCJvZJfZhf4cAa6u) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [2029](https://open.spotify.com/album/1U6RDxP0HsRlgXN9YErYp1) | 2:57 | 2024-02-08 | 2024-02-16 |
 | [Hjärtan i brand](https://open.spotify.com/track/1mjSAufxOuJSTSY1i217qn) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Hjärtan i brand](https://open.spotify.com/album/6PwRzelXpodKRSOrm3qOLr) | 2:52 | 2024-03-07 | 2024-03-15 |
 | [Hjärtat utanpå min skjorta](https://open.spotify.com/track/1OOQi3ImCyejs9oLZJeG7I) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Hjärtat utanpå min skjorta](https://open.spotify.com/album/7egKQhPVOgOgM22MIRfYmP) | 2:26 | 2023-09-21 | 2023-09-29 |

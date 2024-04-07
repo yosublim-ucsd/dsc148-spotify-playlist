@@ -4,7 +4,7 @@
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: EK\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-1,148 songs - 2 day 15 hr 44 min
+1,149 songs - 2 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,8 +402,9 @@
 | [GOBLIN \(Feat\. Homies\) \(Prod\. R.Tee\)](https://open.spotify.com/track/008hCrBLW4a7BbC6c6UUBL) | [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [SHOW ME THE MONEY 11 Semi Final](https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx) | 3:59 | 2022-12-25 |  |
 | [God Bless \(Feat\. Paul Blanco & Jay Park\)](https://open.spotify.com/track/7fkaOjdjqt5pPjOq4yOwjw) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [HOODSTAR 2](https://open.spotify.com/album/072f1DCwul9rf1nFyjLhoa) | 3:07 | 2022-05-28 | 2022-09-09 |
 | [GOD DID \(Feat\. Thug Min\) \[Prod\. TOIL\]](https://open.spotify.com/track/5LjLkUUh0curHF39ZdoQwz) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [GOD DID](https://open.spotify.com/album/7tgqhnlcveT91qRcoPnjpG) | 2:57 | 2023-01-05 | 2023-02-17 |
-| [GOD GOD GOD](https://open.spotify.com/track/00YvEZqYSsmODe0zR6Ftep) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [Show Me the Money 777 Episode 4](https://open.spotify.com/album/5gAOt24yKsdtpKRj7S0IDH) | 3:45 | 2022-08-12 |  |
+| [GOD GOD GOD](https://open.spotify.com/track/00YvEZqYSsmODe0zR6Ftep) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [Show Me the Money 777 Episode 4](https://open.spotify.com/album/5gAOt24yKsdtpKRj7S0IDH) | 3:45 | 2022-08-12 | 2024-04-07 |
 | [GOD GOD GOD](https://open.spotify.com/track/1CqgAMsJ4g1lR7xLynZ5Bm) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [Show Me the Money 777 \(Episode 4\)](https://open.spotify.com/album/2hJXkkjbuAURPsZHVTbYsw) | 3:45 | 2022-06-03 | 2022-07-20 |
+| [God Knows \(feat\. Roh Yun Ha\)](https://open.spotify.com/track/0EIxGX6H5bsJDAJVJ0abnH) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [ESCAPE](https://open.spotify.com/album/2i6JiVgJUwNU7Zh5PEa4FU) | 2:26 | 2024-04-05 |  |
 | [God's Science \- Remix](https://open.spotify.com/track/11zGLobOQ8mseZToc54RLr) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [God's Science](https://open.spotify.com/album/3GfRA7uHVRHVjt1FDHZHgd) | 3:21 | 2022-12-09 | 2022-12-20 |
 | [Godok \(Feat\. SUPERBEE\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/0NfdJoSsrPwLijeOpwIVN6) | [MUSHVENOM](https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Show Me The Money 9 Semi Final](https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V) | 4:26 | 2022-05-28 | 2023-02-17 |
 | [gogo](https://open.spotify.com/track/6higczUsxsWkvkIHPTlVkI) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [zillamode 4](https://open.spotify.com/album/6O7AASfdsj9oQMAV3do7yF) | 2:03 | 2022-06-13 | 2022-06-19 |

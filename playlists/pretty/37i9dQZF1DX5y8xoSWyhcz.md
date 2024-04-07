@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,817 likes - 125 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,839 likes - 125 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [You're in the Way](https://open.spotify.com/track/3DVhLbfqydZoui3oL8kfti) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [You're in the Way](https://open.spotify.com/album/3M5T4rxlIzbGvlQfToUkKJ) | 2:47 |
 | 125 | [lonely](https://open.spotify.com/track/3w2SbYo8eSKB7UNfEMCzOR) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [lonely](https://open.spotify.com/album/64CsI8o99iRKE1TPEfFAK3) | 3:48 |
 
-Snapshot ID: `MCxjNjQ1ZDgxNjk0YWZkZWQ4MGQwZjU3ZDMyOGVkZGFkYjg1YWQ4ODYy`
+Snapshot ID: `MCw4YzYwZjQ4MmFiODYxMDQ0YWYwYzJkYzI4NzM4YzhjOWZkNjEzZGJj`

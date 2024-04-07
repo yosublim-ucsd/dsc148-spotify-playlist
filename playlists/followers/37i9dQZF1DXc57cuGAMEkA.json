@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 104476,
+  "2024-04-07": 104494,
   "date_first_scraped": "2023-02-01",
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Benson Boone, Doja Cat, Khalid, Conan Gray, \u306a\u3068\u308a and more! cover: Benson Boone",
   "name": "New Music Friday Japan",
@@ -15721,6 +15721,40 @@
     {
       "album": {
         "name": "CrazySexyCool",
+        "url": "https://open.spotify.com/album/3UisyJ9pNJmEQv94qgUW8d"
+      },
+      "artists": [
+        {
+          "name": "SARA-J",
+          "url": "https://open.spotify.com/artist/5o11pS7iIyQ2H4Uw587jyL"
+        },
+        {
+          "name": "Kona Rose",
+          "url": "https://open.spotify.com/artist/0mGt3la29cRNic4G2pQ0HN"
+        },
+        {
+          "name": "EMI MARIA",
+          "url": "https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8"
+        },
+        {
+          "name": "FOFU",
+          "url": "https://open.spotify.com/artist/0s7Hki24pRQahhMRpU7n1U"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "CrazySexyCool",
+      "url": "https://open.spotify.com/track/1QXFePeiagf8FWZlIecd1s"
+    },
+    {
+      "album": {
+        "name": "CrazySexyCool",
         "url": "https://open.spotify.com/album/2ATtAANAsub7ZWqk0zWUBM"
       },
       "artists": [
@@ -15747,7 +15781,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 180000,
       "name": "CrazySexyCool",
       "url": "https://open.spotify.com/track/67WclpEM9YTOHUQ0sbuF4W"
@@ -15853,6 +15887,24 @@
       "duration_ms": 218080,
       "name": "Criminal Statement",
       "url": "https://open.spotify.com/track/492xO0RPfmStaFEwLAwYHt"
+    },
+    {
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229186,
+      "name": "Crocodile Tearz",
+      "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
     },
     {
       "album": {
@@ -20827,10 +20879,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 147457,
       "name": "Down Under",
       "url": "https://open.spotify.com/track/3pEUuobMzDIChsMbDtBqxv"
+    },
+    {
+      "album": {
+        "name": "Down Under",
+        "url": "https://open.spotify.com/album/4oqRX1yLyouwNe2sriRjkE"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147457,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/7Kpqw1UNndTQjwtYKbWPuA"
     },
     {
       "album": {
@@ -36728,6 +36798,24 @@
     },
     {
       "album": {
+        "name": "Inner Love Energy",
+        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219598,
+      "name": "I'm Rich",
+      "url": "https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b"
+    },
+    {
+      "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/69rwGy6j7etGpJUQ2OMH9f"
       },
@@ -37579,24 +37667,6 @@
       "duration_ms": 161840,
       "name": "ILIKEU",
       "url": "https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7"
-    },
-    {
-      "album": {
-        "name": "Inner Love Energy",
-        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "date_added": "2024-04-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219598,
-      "name": "Im Rich",
-      "url": "https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b"
     },
     {
       "album": {
@@ -40263,10 +40333,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 163186,
       "name": "Just like that",
       "url": "https://open.spotify.com/track/4LlLESCSYQCAIjMenk4MxT"
+    },
+    {
+      "album": {
+        "name": "Just like that",
+        "url": "https://open.spotify.com/album/4R263nP9eHh0lvB8qFF1iE"
+      },
+      "artists": [
+        {
+          "name": "MALIYA",
+          "url": "https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163186,
+      "name": "Just like that",
+      "url": "https://open.spotify.com/track/6m5Fqn4FCf65VqalFyKiOZ"
     },
     {
       "album": {
@@ -44647,6 +44735,24 @@
     {
       "album": {
         "name": "Losing You",
+        "url": "https://open.spotify.com/album/68DihqcGNgTJ4zul6L0mDi"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215331,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/3RLIYxIHq18yBdpcoYW4lu"
+    },
+    {
+      "album": {
+        "name": "Losing You",
         "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
       },
       "artists": [
@@ -44657,7 +44763,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 215331,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
@@ -58743,6 +58849,24 @@
     {
       "album": {
         "name": "1978",
+        "url": "https://open.spotify.com/album/7uid7xXNdaEHU9AMOQpcwj"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290693,
+      "name": "Planet Nine",
+      "url": "https://open.spotify.com/track/7fVt2s9EQVuqxTaB4UscpI"
+    },
+    {
+      "album": {
+        "name": "1978",
         "url": "https://open.spotify.com/album/55ax5GwEEbCZMIoHdoKmpp"
       },
       "artists": [
@@ -58753,7 +58877,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 290693,
       "name": "Planet Nine",
       "url": "https://open.spotify.com/track/7tzaYUtVNNC9Obk1QO8BbQ"
@@ -59805,6 +59929,28 @@
       "duration_ms": 164986,
       "name": "Problematic",
       "url": "https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF"
+    },
+    {
+      "album": {
+        "name": "Problems Over Peace",
+        "url": "https://open.spotify.com/album/7hXz1jeclKqFSWwl2QjN5w"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158895,
+      "name": "Problems Over Peace",
+      "url": "https://open.spotify.com/track/7ups0PLQ1oiRnkneh3SQSD"
     },
     {
       "album": {
@@ -81683,6 +81829,28 @@
       "duration_ms": 140826,
       "name": "Walls (with Claire Rosinkranz)",
       "url": "https://open.spotify.com/track/33xA8M79Zulen0Ms3ljqp5"
+    },
+    {
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Wanna Be (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"
     },
     {
       "album": {

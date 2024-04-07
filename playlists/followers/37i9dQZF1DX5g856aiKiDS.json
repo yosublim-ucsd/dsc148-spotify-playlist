@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 484427,
+  "2024-04-07": 484459,
   "date_first_scraped": "2022-04-20",
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
   "name": "Dalkom Cafe",
@@ -1917,7 +1917,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 155546,
       "name": "her",
       "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
@@ -3741,6 +3741,28 @@
       "duration_ms": 196661,
       "name": "Out of the Blue",
       "url": "https://open.spotify.com/track/6HqSsiX26QDecMBJyV5nj3"
+    },
+    {
+      "album": {
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/6J8ozqrMlo6p3PmcTwFM6Y"
+      },
+      "artists": [
+        {
+          "name": "DOWOON",
+          "url": "https://open.spotify.com/artist/1iKz9HvP5KMYgjky7mNNZs"
+        },
+        {
+          "name": "Song Heejin",
+          "url": "https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196661,
+      "name": "Out of the Blue (Duet with Song Heejin)",
+      "url": "https://open.spotify.com/track/2tsqYaAoyvZ53hUKXTrBfq"
     },
     {
       "album": {

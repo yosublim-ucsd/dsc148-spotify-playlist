@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 336584,
+  "2024-04-07": 336595,
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Ariah",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: CPM 22",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 183114,
       "name": "Blue",
       "url": "https://open.spotify.com/track/6XnN3odDNIC7ALIxEEkjQq"
@@ -1173,6 +1173,24 @@
       "duration_ms": 243668,
       "name": "Calmaria (Sessions)",
       "url": "https://open.spotify.com/track/5al7dvnBhJEhNpi8XCpSi0"
+    },
+    {
+      "album": {
+        "name": "Eu Nunca Fui Embora - PARTE 1",
+        "url": "https://open.spotify.com/album/4LketVVipjzizVzYqTojSE"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220407,
+      "name": "Camadas",
+      "url": "https://open.spotify.com/track/0nQ7KC076ErLNE6PtDim1V"
     },
     {
       "album": {
@@ -2549,7 +2567,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 227328,
       "name": "Esperando Voc\u00ea",
       "url": "https://open.spotify.com/track/0ugMAS9SPKkcKTUhnHL1vL"
@@ -3551,7 +3569,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 148309,
       "name": "I'M THE ONE - Vivo na Cec\u00edlia",
       "url": "https://open.spotify.com/track/2vkyCw8NdbvcBIsK0rjSZQ"
@@ -4213,7 +4231,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 163181,
       "name": "Mais Pesado Que o Mundo",
       "url": "https://open.spotify.com/track/3fjHKrKyjq7r53Nr46txRT"
@@ -4373,7 +4391,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 216393,
       "name": "Me Ajude a Viver",
       "url": "https://open.spotify.com/track/7L6QuFxG9TlYxHpPHuMQ8x"
@@ -4655,6 +4673,24 @@
       "duration_ms": 179933,
       "name": "Musketeer - Live",
       "url": "https://open.spotify.com/track/2IU774DbOINGPQHfNavI0I"
+    },
+    {
+      "album": {
+        "name": "Enfrente",
+        "url": "https://open.spotify.com/album/5vwVHEMflft9bYfPnZFLeH"
+      },
+      "artists": [
+        {
+          "name": "CPM 22",
+          "url": "https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260341,
+      "name": "M\u00e1goas Passadas",
+      "url": "https://open.spotify.com/track/02B1IKMtl384QRV2KydzEu"
     },
     {
       "album": {
@@ -6906,6 +6942,24 @@
     },
     {
       "album": {
+        "name": "Saudade Sem Paisagem (Ela Jamais Vir\u00e1)",
+        "url": "https://open.spotify.com/album/0PuCQoxexvLuUa2Ku1wbTM"
+      },
+      "artists": [
+        {
+          "name": "Ritchie",
+          "url": "https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241525,
+      "name": "Saudade Sem Paisagem (Ela Jamais Vir\u00e1)",
+      "url": "https://open.spotify.com/track/0s0xqCwSN9dpouDr06i1eg"
+    },
+    {
+      "album": {
         "name": "Scar (Bleach 2022: Thousand Year Blood War Opening)",
         "url": "https://open.spotify.com/album/0vNU3XWB9ROik9vx3BIuEc"
       },
@@ -6961,6 +7015,24 @@
       "duration_ms": 189731,
       "name": "Se Lembrar de Mim",
       "url": "https://open.spotify.com/track/13JRJM8CcGhyTzgGCiAFWf"
+    },
+    {
+      "album": {
+        "name": "Seja Quem Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/0TFiaL4ItKp7ELM5Jo7GAT"
+      },
+      "artists": [
+        {
+          "name": "O Grilo",
+          "url": "https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237034,
+      "name": "Seja Quem Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/1uMkN9lKqPE2HymaAM0IVm"
     },
     {
       "album": {
@@ -8241,6 +8313,28 @@
       "duration_ms": 179515,
       "name": "Vem Pro Meu Mundo",
       "url": "https://open.spotify.com/track/1qP3RPtEVRLtx6uYQjEaJF"
+    },
+    {
+      "album": {
+        "name": "Vendo O Mundo do Topo",
+        "url": "https://open.spotify.com/album/3wIxODYFvXiSaSQkvTbi1z"
+      },
+      "artists": [
+        {
+          "name": "Fuze",
+          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
+        },
+        {
+          "name": "Laura Schadeck",
+          "url": "https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156164,
+      "name": "Vendo O Mundo do Topo",
+      "url": "https://open.spotify.com/track/2s1OSn5a5DniMzoPWrRriK"
     },
     {
       "album": {

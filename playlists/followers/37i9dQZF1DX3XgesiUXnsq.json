@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 289809,
+  "2024-04-07": 289898,
   "date_first_scraped": "2022-05-01",
   "description": "Damn son, where'd ya find this? ",
   "name": "Raw & Uncut",
@@ -1257,6 +1257,32 @@
       "duration_ms": 159154,
       "name": "Beat Breaks (feat. Nas)",
       "url": "https://open.spotify.com/track/34rwJDeFgvZXd9KtiBkQKI"
+    },
+    {
+      "album": {
+        "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
+        "url": "https://open.spotify.com/album/5FpBZuKzH03Q38TG6crrB4"
+      },
+      "artists": [
+        {
+          "name": "Jay Exodus",
+          "url": "https://open.spotify.com/artist/5dgpDskNSWSGt4CfF3uEmA"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253590,
+      "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
+      "url": "https://open.spotify.com/track/6lKRzRSizlPqAnHSAALuqG"
     },
     {
       "album": {
@@ -4244,6 +4270,32 @@
     },
     {
       "album": {
+        "name": "FORKS ON THE ROAD",
+        "url": "https://open.spotify.com/album/3qJgxb1JvphDW7ghbaMeVs"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Daniel Son",
+          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
+        },
+        {
+          "name": "Faiza",
+          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183887,
+      "name": "FORKS ON THE ROAD",
+      "url": "https://open.spotify.com/track/593vjuHVQRH19Mwyt1HBst"
+    },
+    {
+      "album": {
         "name": "Penalty of Leadership",
         "url": "https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL"
       },
@@ -5127,7 +5179,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 151483,
       "name": "Hell Backwards",
       "url": "https://open.spotify.com/track/7iaHCeZGfVSvQjexK3c18g"
@@ -5325,7 +5377,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 222653,
       "name": "Hocus Pocus",
       "url": "https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85"
@@ -6755,7 +6807,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 198486,
       "name": "Latex Gloves",
       "url": "https://open.spotify.com/track/74sE79ReizotiesesgUm90"
@@ -7515,6 +7567,24 @@
       "duration_ms": 160236,
       "name": "MIDST",
       "url": "https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6"
+    },
+    {
+      "album": {
+        "name": "We Can't Be Stopped",
+        "url": "https://open.spotify.com/album/2MJEvcUvsLPjsvVgqn8xa4"
+      },
+      "artists": [
+        {
+          "name": "Geto Boys",
+          "url": "https://open.spotify.com/artist/3f5fB1YUbkUnW7cf7I0R48"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308733,
+      "name": "Mind Playing Tricks on Me",
+      "url": "https://open.spotify.com/track/63BokRfXSQhEU6Qi2dSJpZ"
     },
     {
       "album": {
@@ -8493,7 +8563,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 167989,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/4hLL7Gq1saeR6cyHCMP9d0"
@@ -9208,6 +9278,32 @@
     },
     {
       "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Daylyt",
+          "url": "https://open.spotify.com/artist/573vxT6vzhNRzTVIuVRnLj"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354773,
+      "name": "Pi (feat. Daylyt & Ab-Soul)",
+      "url": "https://open.spotify.com/track/0NXRZaUn11do0EzDFlXkbj"
+    },
+    {
+      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
       },
@@ -9345,7 +9441,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 282097,
       "name": "Pon Road",
       "url": "https://open.spotify.com/track/10lG3uJjTO282l4JJR2HJk"
@@ -9429,6 +9525,24 @@
       "duration_ms": 113861,
       "name": "Premium Leather",
       "url": "https://open.spotify.com/track/4Q3jWNJwkqOx7PhbQdakz4"
+    },
+    {
+      "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/2T1Fegtgpa1rrve60p4s1Y"
+      },
+      "artists": [
+        {
+          "name": "TARiiiQ",
+          "url": "https://open.spotify.com/artist/2ALwFi4e5UaTvVMddicA4g"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208571,
+      "name": "PRESSURE",
+      "url": "https://open.spotify.com/track/47M8dvlkQQcSV7IbjvK31V"
     },
     {
       "album": {
@@ -11888,6 +12002,28 @@
     },
     {
       "album": {
+        "name": "Temple Needs Water. Village Needs Peace.",
+        "url": "https://open.spotify.com/album/3qZxEeYM14wpWUVNH6rtg2"
+      },
+      "artists": [
+        {
+          "name": "Real Bad Man",
+          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
+        },
+        {
+          "name": "Lukah",
+          "url": "https://open.spotify.com/artist/4kXGF3u3kGDHDoLmbdvUzS"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220528,
+      "name": "The Facilitator",
+      "url": "https://open.spotify.com/track/7J96BhO0q61HfIHixeESCn"
+    },
+    {
+      "album": {
         "name": "The Format (Special Edition)",
         "url": "https://open.spotify.com/album/7izVYE6Opop1GmEuRNpJfF"
       },
@@ -13347,7 +13483,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 223855,
       "name": "WHAT'S THE MISSION",
       "url": "https://open.spotify.com/track/2rDq2Bsej4hmjIDa9KITsJ"

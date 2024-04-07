@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Four Year Strong
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,587 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,662 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 23 | [I, VIBRATOR](https://open.spotify.com/track/5xK5Jjp76O2t8r8J3i1SrM) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [I, VIBRATOR](https://open.spotify.com/album/4QJlgytXq1xfnEiMlcvSmf) | 4:36 |
 | 24 | [Girl Of My Dreams](https://open.spotify.com/track/5HMj2Nt9YDyOwuzSzTMV0u) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Hot Mess](https://open.spotify.com/album/79sCkEaZDNVVc5P5mPS1R4) | 2:38 |
 | 25 | [Hell](https://open.spotify.com/track/1DNrgnLWqHEC7CfTSRuvvW) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Hell](https://open.spotify.com/album/5f11kxQydj1NJONC9URJsU) | 2:06 |
-| 26 | [Am I The Menace?](https://open.spotify.com/track/7HVJD6Kjsrje6ivaXDblY0) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Am I The Menace?](https://open.spotify.com/album/3dTZbo9tPa7Ms5rcRbxDP2) | 3:01 |
+| 26 | [Am I The Menace?](https://open.spotify.com/track/7KTu2e9HlZI8NtYMW2EzAY) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Free Rein to Passions \(Deluxe\)](https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk) | 3:01 |
 | 27 | [jealous](https://open.spotify.com/track/5eGOoxRihFW5IflS1wLEio) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [girlfriend material](https://open.spotify.com/album/4np4h9pdtf5JjxZx8fiIJZ) | 2:55 |
 | 28 | [Dark Paradise](https://open.spotify.com/track/55T0Z7PSxKnPnsSJBaj4Zm) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Dark Paradise](https://open.spotify.com/album/7gEgvr73TN2aBKB3jJ2rdk) | 2:26 |
 | 29 | [I'd Get Along](https://open.spotify.com/track/561S2wvGrhFv7yJscZQnZa) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [I'd Get Along](https://open.spotify.com/album/4InmQS0emp7RwOxxjpfuK3) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [No News Is Good News](https://open.spotify.com/track/6cZntUHzJ0shH0wq7mEKUg) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [No News Is Good News](https://open.spotify.com/album/7sLi0samb6YmLrHzVa94Ei) | 3:29 |
 | 100 | [Wither](https://open.spotify.com/track/7i4bIhuiGfWxWVzKcAlQyb) | [Grumpster](https://open.spotify.com/artist/6aUzts6HmxY9CVr6U5hILq) | [Wither](https://open.spotify.com/album/7rT684tXzAmX1Qacyg2iLg) | 2:38 |
 
-Snapshot ID: `MCxiYjMzYzQ1ZTdmY2RkZTRlNDI4M2Y2MTUyN2IyMDNlZmFjM2ZlY2Y0`
+Snapshot ID: `MCw1YTA2YTdhOGI2MDBkM2NmZjRkNWI0MzQwZjkzMWJhZjZiOWUxNGM5`

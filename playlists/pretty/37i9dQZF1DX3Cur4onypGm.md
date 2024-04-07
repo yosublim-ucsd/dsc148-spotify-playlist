@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cur4onypGm.md) - [plain]
 
 > Music from "Yuki Yuna is a Hero"/アニメ「結城友奈は勇者である」シリーズの音楽をプレイリストで！©️2021 Project 2H
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,197 likes - 57 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,207 likes - 57 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cur4onypGm.md) - [plain]
 | 56 | [ツチトハナ](https://open.spotify.com/track/03rTGgh1Uhq9mbj4S0IQ1S) | [Keiichi Okabe](https://open.spotify.com/artist/0fj8MsM0gSugGUVd9RGV06), [Monaca](https://open.spotify.com/artist/3n31SpYQXw18tVaSaPiK9J) | [「結城友奈は勇者である\-勇者の章\-」オリジナルサウンドトラック](https://open.spotify.com/album/2HN2N6sHql0hE3Q5h33mMa) | 0:16 |
 | 57 | [Hoshi to Hana \- Piano ver.](https://open.spotify.com/track/4h0yKJUqQCeebYhC2kYBfb) | [Keiichi Okabe](https://open.spotify.com/artist/0fj8MsM0gSugGUVd9RGV06), [Monaca](https://open.spotify.com/artist/3n31SpYQXw18tVaSaPiK9J) | ["Yuki Yuna is a Hero" Arrange Tracks](https://open.spotify.com/album/4wrgfE1rLpSwGrndziy2oF) | 3:22 |
 
-Snapshot ID: `MCwzZjNhMjE1MWUxOGIyNjM3MTNkNmM5Y2ZhMWNhODZkNDEzODkyOTFi`
+Snapshot ID: `MCw2YWI5OTMxODA0YTA3ZDcwY2UzMDMzMjQyYzJmMTIzZWYyZDkzY2Vl`

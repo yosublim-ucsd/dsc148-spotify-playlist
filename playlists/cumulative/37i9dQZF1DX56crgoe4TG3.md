@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Wyatt Flores
 
-266 songs - 17 hr 8 min
+268 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Hard Day's Night](https://open.spotify.com/track/5zDZO6WqKkGk4oa6fkFLwH) | [Bill Evans](https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF) | [In Good Company](https://open.spotify.com/album/19tknRni9ciIV9pVGdZbTr) | 2:40 | 2021-08-20 |  |
 | [Aerials](https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P) | [The Barefoot Movement](https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt) | [Aerials](https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4) | 3:48 | 2023-02-10 |  |
 | [Africa](https://open.spotify.com/track/4XRQgH9uA2hNcphAjSoPUs) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/0uUGpBzLNyLbbHLiKkJcTk) | 4:03 | 2021-08-20 | 2023-08-19 |
+| [All I Ever Need Is You](https://open.spotify.com/track/6OEjWKO16fdprzAWXFU6IB) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [All I Ever Need Is You](https://open.spotify.com/album/16Ug2NcKJ3gHDpJvobIFwP) | 3:30 | 2024-04-06 |  |
 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 | 2022-05-27 | 2023-03-25 |
 | [Amsterdam \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4muAGMNipTEtIoYfMa9QL0) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:13 | 2021-08-20 | 2022-07-29 |
 | [Angel from Montgomery](https://open.spotify.com/track/2mKMIVcKPczPULJF13Ztvo) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Broken Hearts & Dirty Windows: Songs of John Prine](https://open.spotify.com/album/2L1Y2FRrjQ1jhGJ6d4MGnL) | 4:30 | 2022-01-21 |  |
@@ -216,6 +217,7 @@
 | [Stop Draggin' My Heart Around](https://open.spotify.com/track/4dVdOYwqfTceuuiUdUWhsx) | [Dale Ann Bradley](https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm), [Dave Adkins](https://open.spotify.com/artist/3RyXAPEFlMjXqy8dFADBaz) | [Kentucky for Me](https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv) | 3:08 | 2023-06-26 |  |
 | [Strawberries](https://open.spotify.com/track/3qAne5aXwnsa7P0uEZjlWz) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [Strawberries](https://open.spotify.com/album/7iBMQhkySSkMR80Mv5miFA) | 3:50 | 2023-05-26 |  |
 | [Stronger](https://open.spotify.com/track/5mf78CsTPJUOY2lWWbd8KB) | [Rebecca Loebe](https://open.spotify.com/artist/6FmVqyaRJUiBBLYroaonM4) | [Bees & Zombies](https://open.spotify.com/album/0JK8nmaCQqMXupnfo5ohfp) | 3:28 | 2021-08-20 | 2022-01-08 |
+| [Stuck in the Middle With You](https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Stuck in the Middle With You](https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH) | 3:56 | 2024-04-06 |  |
 | [Such Great Heights](https://open.spotify.com/track/4HUENSfoQAJiome9fSSjOK) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/7H7mBG6mk62oWCGL7L1uNI) | 4:13 | 2023-11-24 |  |
 | [Such Great Heights](https://open.spotify.com/track/4Vk9JVC3eBEY35i7JgkSTG) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/2vIgHcmDHz5Vx2hBezjumT) | 4:13 | 2021-08-20 | 2022-01-08 |
 | [Such Great Heights](https://open.spotify.com/track/79cKvTv8eVXPolBTPfx8ns) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/5nEwS94VbhdXy4IgH9YMli) | 4:13 | 2023-01-13 | 2023-12-24 |

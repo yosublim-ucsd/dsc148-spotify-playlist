@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 158076,
+  "2024-04-07": 158113,
   "date_first_scraped": "2022-01-01",
   "description": "The biggest rock songs of the moment. Cover: Sum41",
   "name": "Rock Now",
@@ -2857,7 +2857,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 211249,
       "name": "Dead Tourists",
       "url": "https://open.spotify.com/track/1vkX5szdGe9z0kZQt5CzKT"
@@ -3777,6 +3777,24 @@
       "duration_ms": 191426,
       "name": "Eye of a Hurricane",
       "url": "https://open.spotify.com/track/6aF4wdL269Vd6Gi27MuXCY"
+    },
+    {
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200010,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
     },
     {
       "album": {
@@ -4705,7 +4723,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 249586,
       "name": "Gift Horse",
       "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
@@ -8017,7 +8035,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 217402,
       "name": "Mon Argent",
       "url": "https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK"
@@ -8481,6 +8499,24 @@
       "duration_ms": 246397,
       "name": "Never Said I Love You",
       "url": "https://open.spotify.com/track/1CTvIWh1mje3HTU3jMSCRf"
+    },
+    {
+      "album": {
+        "name": "Boohoo",
+        "url": "https://open.spotify.com/album/3BmA5Ekn7N20KrfyenuwE8"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158239,
+      "name": "New Age Crisis",
+      "url": "https://open.spotify.com/track/5SGngWVsm3RyjOYYDGjwgQ"
     },
     {
       "album": {
@@ -9704,6 +9740,24 @@
     },
     {
       "album": {
+        "name": "Only God Was Above Us",
+        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228546,
+      "name": "Prep-School Gangsters",
+      "url": "https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS"
+    },
+    {
+      "album": {
         "name": "Pretty Little Broken Thing",
         "url": "https://open.spotify.com/album/3JNedfD7pj76tYf4Nt8QvG"
       },
@@ -10383,7 +10437,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 192440,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
@@ -13959,6 +14013,24 @@
       "duration_ms": 187640,
       "name": "What a Ride",
       "url": "https://open.spotify.com/track/4FVUFfcE4XZv8FW9LJwiL8"
+    },
+    {
+      "album": {
+        "name": "Package Pt. 2",
+        "url": "https://open.spotify.com/album/7I0F67GkYeGYEXfBpnUABW"
+      },
+      "artists": [
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172563,
+      "name": "What Does it Mean",
+      "url": "https://open.spotify.com/track/3K1HbnPbY0y57z7Fs2xTgr"
     },
     {
       "album": {

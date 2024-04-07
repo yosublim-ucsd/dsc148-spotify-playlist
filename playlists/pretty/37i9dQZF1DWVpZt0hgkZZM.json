@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 29896,
+  "num_followers": 29927,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTQxYjE5Mjc1MTBjMDM4ZGFhMDE0YTNiY2I2ZmZjOTY4ODk5NGI3",
+  "snapshot_id": "MCwzNjNhYTk0MDc3ZDg4NWIzNzE4NzY2OGVkOTA5OGIxZWI3YzhiMDg0",
   "tracks": [
     {
       "added_at": "2024-04-06 00:31:40",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
-        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Las Cale\u00f1as",
-      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "Muy Tropical y Bailable - 16 Exitos",
         "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
+        "name": "A Bailar Tropical",
+        "url": "https://open.spotify.com/album/4jsWeqoxStBEjucGK7Quuv"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Su Tipica",
+          "url": "https://open.spotify.com/artist/5qBFpNp9zx5aihCltUNxAJ"
+        }
+      ],
+      "duration_ms": 173490,
+      "name": "Carola",
+      "url": "https://open.spotify.com/track/5ruhUADQWwKmsaFBZH4yFO"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
         "name": "La Orquesta Que Impone El Ritmo",
         "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
       },
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "A Bailar Tropical",
-        "url": "https://open.spotify.com/album/4jsWeqoxStBEjucGK7Quuv"
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
+        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
       },
       "artists": [
         {
-          "name": "Rodolfo Su Tipica",
-          "url": "https://open.spotify.com/artist/5qBFpNp9zx5aihCltUNxAJ"
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
         }
       ],
-      "duration_ms": 173490,
-      "name": "Carola",
-      "url": "https://open.spotify.com/track/5ruhUADQWwKmsaFBZH4yFO"
+      "duration_ms": 212293,
+      "name": "Las Cale\u00f1as",
+      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
     },
     {
       "added_at": "2024-04-06 00:31:40",

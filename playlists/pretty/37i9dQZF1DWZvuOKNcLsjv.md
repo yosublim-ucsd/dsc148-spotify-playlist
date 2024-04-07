@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早く。 cover: j\-hope
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,392 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,439 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 79 | [マーガレット](https://open.spotify.com/track/2Bkkl5nQXfApA8gZAGumqZ) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [マーガレット](https://open.spotify.com/album/4kImCH3F6sEZW4dUJcKG6R) | 4:20 |
 | 80 | [Heartache](https://open.spotify.com/track/2CkmKBhCxS03RSg7EJej5a) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Heartache](https://open.spotify.com/album/3IYn6QYeiJKGgXswxQA2HG) | 3:29 |
 
-Snapshot ID: `MCw3ZmI4YTViNzA5M2NmNTI0YmZmOThjMWIxNWEzODI2NzEwZWExNTA1`
+Snapshot ID: `MCxmM2Q0ZWVmNTI5MDJmOTY0YThkMGMwZGVkZjMzMDU4NDQzOTA3ZmMx`

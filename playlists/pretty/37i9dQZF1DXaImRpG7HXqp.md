@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,934 likes - 315 songs - 13 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,024 likes - 315 songs - 13 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -324,4 +324,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 314 | [Sorrowful Disappearance](https://open.spotify.com/track/73N0xkf8N6FJQXBb6o6V0l) | [Sara Gadshill](https://open.spotify.com/artist/22RQ7nqf0fvL5ThmEP0cyD) | [Sorrowful Disappearance](https://open.spotify.com/album/5FWpJFZunTh3KsWAXwK5L8) | 2:29 |
 | 315 | [Waialeale](https://open.spotify.com/track/7u7MQvmsGsn8r77faeriZj) | [Karl Vandu](https://open.spotify.com/artist/2fpxu9mnYrt7bX78dBS2R9) | [Waialeale](https://open.spotify.com/album/753L3VlKC545I9MkCJioRt) | 3:35 |
 
-Snapshot ID: `MCw5MjhhODY2ZmJmZGQxZjcxZDBmMmIwMTU0YmExMTIzZGE5NDM2NDQz`
+Snapshot ID: `MCxlYjA0MzEyZTQwMjIxYTdjNzM2MjFiNTcxNWY1NTY4Yjg1NDFkZDk0`

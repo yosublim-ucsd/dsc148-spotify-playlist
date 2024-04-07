@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 578009,
+  "2024-04-07": 578137,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Chile.",
   "name": "Top 50 - Chile",
@@ -13169,7 +13169,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 219753,
       "name": "pa la europa",
       "url": "https://open.spotify.com/track/7f6PquSCnTPMb1AbBu92oI"
@@ -13793,7 +13793,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 230103,
       "name": "Pensando En Ti (feat. Casper Magico) - Remix",
       "url": "https://open.spotify.com/track/39Fx4IJFSU29g3Xrfj68EI"

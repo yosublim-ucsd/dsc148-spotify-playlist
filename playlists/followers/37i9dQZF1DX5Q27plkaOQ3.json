@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 984721,
+  "2024-04-07": 984748,
   "date_first_scraped": "2021-12-21",
   "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: Borgore",
   "name": "Dubstep Don",
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 202758,
       "name": "Bone Breaker",
       "url": "https://open.spotify.com/track/6t7QJBcI7xDcjKjRO4mBDf"
@@ -2613,6 +2613,28 @@
       "duration_ms": 213877,
       "name": "Death Toll",
       "url": "https://open.spotify.com/track/0ihqMYXXNEHdW7jPrMtDhA"
+    },
+    {
+      "album": {
+        "name": "Death Wish (with Micah Martin)",
+        "url": "https://open.spotify.com/album/4OUTUIrOCKPVkrpJSTGWk1"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216998,
+      "name": "Death Wish (with Micah Martin)",
+      "url": "https://open.spotify.com/track/0dZTEB9raQkSRtZkSzFx0h"
     },
     {
       "album": {
@@ -4300,6 +4322,24 @@
     },
     {
       "album": {
+        "name": "WINGZ & FANGZ",
+        "url": "https://open.spotify.com/album/49kAay1T9C8z9ijDbSpBJw"
+      },
+      "artists": [
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "FRONT SEAT",
+      "url": "https://open.spotify.com/track/0rbfl4w2wcGXpPTlDVxO5N"
+    },
+    {
+      "album": {
         "name": "Fuckin' EP",
         "url": "https://open.spotify.com/album/2IjubawH9RnKEvVd3f9lv6"
       },
@@ -4737,7 +4777,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 251586,
       "name": "GRAVEL IN YOUR HEART",
       "url": "https://open.spotify.com/track/1SRVpSqjRfQVxPj49q10Y6"
@@ -5019,7 +5059,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 154400,
       "name": "Headshot (feat. Mikey Ceaser)",
       "url": "https://open.spotify.com/track/4ZImeX5bzp2EFkN2ClFBMo"
@@ -5459,6 +5499,24 @@
       "duration_ms": 278117,
       "name": "I Had Everything",
       "url": "https://open.spotify.com/track/0HZDIyQizC8C2hX3jE8Git"
+    },
+    {
+      "album": {
+        "name": "i hate edm",
+        "url": "https://open.spotify.com/album/1S2aKEi6MWfp5FmXaS6s9a"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107586,
+      "name": "i hate edm",
+      "url": "https://open.spotify.com/track/4kxvbzdrOnxh5xadCD429G"
     },
     {
       "album": {
@@ -7192,6 +7250,24 @@
     },
     {
       "album": {
+        "name": "NEMESIS",
+        "url": "https://open.spotify.com/album/2IFyAjow9cJ4Yl8AVa5Riz"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149666,
+      "name": "NEMESIS",
+      "url": "https://open.spotify.com/track/6q1kgH3t1gYbGRD3sVV2ra"
+    },
+    {
+      "album": {
         "name": "Never Be The Same (feat. Sara Benyo)",
         "url": "https://open.spotify.com/album/11vsNOGUnRLErmbVBZ1LOe"
       },
@@ -7779,7 +7855,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 140800,
       "name": "Open Up The Pit",
       "url": "https://open.spotify.com/track/3MkqqXYys0qI4dMuHnSYXa"
@@ -9399,7 +9475,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 219428,
       "name": "SAVE U NOW",
       "url": "https://open.spotify.com/track/4K0pPcYPRIBDavThi6FD0r"
@@ -9743,6 +9819,28 @@
       "duration_ms": 132413,
       "name": "SHEEESH",
       "url": "https://open.spotify.com/track/1LhdHHyfSr8LR8dFqz3NTg"
+    },
+    {
+      "album": {
+        "name": "Shibuya",
+        "url": "https://open.spotify.com/album/1jKWlgK59zyCsxQQHHfesY"
+      },
+      "artists": [
+        {
+          "name": "FelMax",
+          "url": "https://open.spotify.com/artist/3oLY5NvzasiNds27QLs9Pa"
+        },
+        {
+          "name": "Bleaubeard",
+          "url": "https://open.spotify.com/artist/5SzAFM0ggBrOpcnzkr3U5Q"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158896,
+      "name": "Shibuya",
+      "url": "https://open.spotify.com/track/0COch7JwRyW0c7N8eZTC5w"
     },
     {
       "album": {
@@ -10319,7 +10417,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 185142,
       "name": "SPIN",
       "url": "https://open.spotify.com/track/42lxcAbf4vRpCjCDhTBUWH"
@@ -10991,7 +11089,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 185600,
       "name": "Technical Dream",
       "url": "https://open.spotify.com/track/77NuLclu2gaahkJ92maUZY"
@@ -11133,6 +11231,24 @@
       "duration_ms": 216000,
       "name": "Terror Dome",
       "url": "https://open.spotify.com/track/1HZhbhXx5ptbaGKohqEWu3"
+    },
+    {
+      "album": {
+        "name": "The Banana Song",
+        "url": "https://open.spotify.com/album/3Z64U9gwzFb0CNy7bTC0Fs"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165677,
+      "name": "The Banana Song",
+      "url": "https://open.spotify.com/track/1fTxD2WAaESaaXJqg2av2X"
     },
     {
       "album": {
@@ -12261,6 +12377,32 @@
       "duration_ms": 254487,
       "name": "Watch Your Mouth",
       "url": "https://open.spotify.com/track/7hVpOq9UfCGz1dMw2BnVqX"
+    },
+    {
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294857,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
     },
     {
       "album": {

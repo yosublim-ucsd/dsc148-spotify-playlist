@@ -1,12 +1,12 @@
 {
   "description": "The sound of Summer 2024! ",
-  "num_followers": 99370,
+  "num_followers": 99372,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDFiYzE4N2VjZjEyNjlhNTY0ZDk1OWY1MmI0ZmI1YzZkMzg4MGMw",
+  "snapshot_id": "MCw4YTgzMDUwZTg2ZmNlYTM3YjEzNGJhZWU3NmYyNTg4MDVjZWMwMGZi",
   "tracks": [
     {
       "added_at": "2024-01-04 02:49:10",
@@ -1079,18 +1079,22 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "WHAT JUST HAPPENED",
-        "url": "https://open.spotify.com/album/5cFhETbBm8L6tybXY4AZSj"
+        "name": "Still the One",
+        "url": "https://open.spotify.com/album/1dp1GNZaZFwCoqerFgVIA2"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "DJ Noiz",
+          "url": "https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK"
+        },
+        {
+          "name": "Mikey Mayz",
+          "url": "https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy"
         }
       ],
-      "duration_ms": 162191,
-      "name": "WHAT JUST HAPPENED",
-      "url": "https://open.spotify.com/track/2djNsYsA71cIs4A8YaF59J"
+      "duration_ms": 139166,
+      "name": "Still the One",
+      "url": "https://open.spotify.com/track/5kt8ukMn43YK7eMYeD2tP8"
     }
   ],
   "unique_name": "Summer Hits (3)",

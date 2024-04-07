@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทย พร้อมหลากหลายเพลงที่เลือกโดย Violette Wautier
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,810 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,811 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [แค่พูดออกมา](https://open.spotify.com/track/2awSiNNJzrVd1IyxPgFvDH) | [Bean Napason](https://open.spotify.com/artist/3JP38d8r7r0trtBel5H7nu) | [แค่พูดออกมา](https://open.spotify.com/album/0OLI81ew7GcgZkO5bKOdK5) | 4:12 |
 | 50 | [สดใส \(Keep it\)](https://open.spotify.com/track/2xO0vsM5wNXXa9LRtQzfXG) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [สดใส \(Keep it\)](https://open.spotify.com/album/5wra0606tchWv5Ez6h9yxj) | 2:54 |
 
-Snapshot ID: `MCxlYmZhZGViMTQzNWJiNDRlM2E0MmEyNjQxMTVlY2RhNzVlNzFjYzdk`
+Snapshot ID: `MCwxMDI4ZTU5YTY0NmRiNmVmODAyM2NhZmExN2FkZmVkYWRmNDNmNGQz`

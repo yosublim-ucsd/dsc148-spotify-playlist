@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Four Year Strong
 
-1,713 songs - 3 day 13 hr 20 min
+1,714 songs - 3 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Alpha Beta Sigma](https://open.spotify.com/track/5XVK6Qn09ECprvV7EFBrvb) | [CHERYM](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5) | [Alpha Beta Sigma](https://open.spotify.com/album/3yCzLLEDZHiLzRIIj8qUA5) | 3:05 | 2024-02-02 | 2024-03-15 |
 | [Already Dead](https://open.spotify.com/track/2SvNm1U3VWBS86RioI8iU5) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Already Dead](https://open.spotify.com/album/4i2BiYbdeGb7c8NA2XkmCa) | 2:39 | 2022-07-21 | 2022-09-09 |
 | [Always Halloween](https://open.spotify.com/track/1aeX231BhYUlBQHJB2XgNp) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [Always Halloween](https://open.spotify.com/album/5kJ9dTRSxvxyoegmdPl2MS) | 3:47 | 2023-10-26 | 2024-01-19 |
-| [Am I The Menace?](https://open.spotify.com/track/7HVJD6Kjsrje6ivaXDblY0) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Am I The Menace?](https://open.spotify.com/album/3dTZbo9tPa7Ms5rcRbxDP2) | 3:01 | 2024-03-22 |  |
+| [Am I The Menace?](https://open.spotify.com/track/7HVJD6Kjsrje6ivaXDblY0) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Am I The Menace?](https://open.spotify.com/album/3dTZbo9tPa7Ms5rcRbxDP2) | 3:01 | 2024-03-22 | 2024-04-07 |
+| [Am I The Menace?](https://open.spotify.com/track/7KTu2e9HlZI8NtYMW2EzAY) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Free Rein to Passions \(Deluxe\)](https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk) | 3:01 | 2024-04-05 |  |
 | [American Futbol](https://open.spotify.com/track/6MiXtoPdXIVxsaZaKLHqFJ) | [MakeWar](https://open.spotify.com/artist/0dZUiHIO2BUomz0xwglFiW) | [Get It Together](https://open.spotify.com/album/16uIgInEGd1nh7lxZ3P3vD) | 3:19 | 2021-12-17 | 2022-01-15 |
 | [An Optimist's Dilemma](https://open.spotify.com/track/4D09RCu6vkP24faRNgETXS) | [Aversions](https://open.spotify.com/artist/65fB37pXWPMPJrNg1ZJOpR) | [You Wanted the Bike](https://open.spotify.com/album/0HXlYi9tvT5oiRWNw11lKF) | 5:21 | 2024-02-16 | 2024-03-29 |
 | [Anabasi](https://open.spotify.com/track/21FxtfCTHXNc01B7Ep4tQv) | [Stormo](https://open.spotify.com/artist/6HWwPPwublvn8KbCzcV82m) | [Endocannibalismo](https://open.spotify.com/album/2ITfAjW0n3Cb0uSnzcl0eT) | 2:44 | 2023-02-10 | 2023-04-09 |

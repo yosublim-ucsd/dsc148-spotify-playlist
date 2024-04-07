@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 54616,
+  "2024-04-07": 54616,
   "date_first_scraped": "2022-06-10",
   "description": "The perfect mix of the latest pop hits! Follow this playlist and play Shakira &amp; Cardi B &quot;Punter\u00eda,&quot; Pedro Cap\u00f3 &amp; Carin Le\u00f3n  &quot;Existo&quot;, Diego Torres &amp; Carlos Vives  &quot;Kapun&quot;, Enrique Iglesias &amp; El Alfa &quot;La Botella&quot;",
   "name": "Pop Latin Hits",
@@ -736,6 +736,24 @@
     },
     {
       "album": {
+        "name": "Amor Pa\u00b4 Toda La Vida",
+        "url": "https://open.spotify.com/album/7fmQXIAgrB27LMb9bFzy3u"
+      },
+      "artists": [
+        {
+          "name": "Adriana Lucia",
+          "url": "https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197643,
+      "name": "Amor Pa\u00b4 Toda La Vida",
+      "url": "https://open.spotify.com/track/0rT8YxRplmtoCMttUF7vfF"
+    },
+    {
+      "album": {
         "name": "Anda Bien el Nene",
         "url": "https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU"
       },
@@ -1243,6 +1261,28 @@
       "duration_ms": 170809,
       "name": "Bailando Bachata",
       "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
+    },
+    {
+      "album": {
+        "name": "Bailarina",
+        "url": "https://open.spotify.com/album/0OCGfj5zYqgfbeqUaXiP2f"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185546,
+      "name": "Bailarina",
+      "url": "https://open.spotify.com/track/0PTnMPnIvXRgb5IaANYzVN"
     },
     {
       "album": {
@@ -3527,7 +3567,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 159473,
       "name": "desbarat\u00e1ndome",
       "url": "https://open.spotify.com/track/2Ves2z0imE2vQD6mwTUbXe"
@@ -14114,6 +14154,28 @@
     },
     {
       "album": {
+        "name": "Una Vida Pasada",
+        "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Una Vida Pasada",
+      "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
+    },
+    {
+      "album": {
         "name": "Una y Mil Veces (Rumba)",
         "url": "https://open.spotify.com/album/7ixHyWCOz4NvKbHMLi1P8K"
       },
@@ -14283,6 +14345,28 @@
       "duration_ms": 208894,
       "name": "Vapor",
       "url": "https://open.spotify.com/track/4yXBfJAPsDZjpjMEp9NyjT"
+    },
+    {
+      "album": {
+        "name": "Veinte A\u00f1os",
+        "url": "https://open.spotify.com/album/6Nr6WLOt5R1nh1VcxAIA1B"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        },
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204310,
+      "name": "Veinte A\u00f1os",
+      "url": "https://open.spotify.com/track/0Yq9F5wyQPrVVgS2veVxvp"
     },
     {
       "album": {

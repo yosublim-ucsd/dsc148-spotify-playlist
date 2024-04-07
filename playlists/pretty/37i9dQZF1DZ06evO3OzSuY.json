@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 23608,
+  "num_followers": 23614,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjEzMzkxYWFhZDRhM2ZlYzhkYjkzMjgxMTQyOTY1MDcwZmQxMTI5",
+  "snapshot_id": "MCxmZGVlYWMzZTgzMDIwZmYxNTc2YTIyYjlmMDExYjU4OWE0YjAyMzRm",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Acoustic Covers Vol 1",
-        "url": "https://open.spotify.com/album/4qHAgErNddHMr88Uc30hSb"
+        "name": "Shake It Up: Made in Japan",
+        "url": "https://open.spotify.com/album/5DIqbh258UC1oG6Lgerrv4"
       },
       "artists": [
         {
-          "name": "Kurt Hugo Schneider",
-          "url": "https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm"
-        },
-        {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "Bella Thorne",
+          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
         }
       ],
-      "duration_ms": 233375,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/1r5f90h75wkkd0eQYMWiqL"
+      "duration_ms": 214973,
+      "name": "The Same Heart",
+      "url": "https://open.spotify.com/track/4wPNMGse5Ra97qPDK0NRlW"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake It Up: Made in Japan",
-        "url": "https://open.spotify.com/album/5DIqbh258UC1oG6Lgerrv4"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Bella Thorne",
-          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "The Same Heart",
-      "url": "https://open.spotify.com/track/4wPNMGse5Ra97qPDK0NRlW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dig Down Deeper (From the film \"Pixie Hollow Games'')",
         "url": "https://open.spotify.com/album/52l8ah8G648dsKnBMRRYr9"
       },
@@ -619,26 +599,6 @@
       "duration_ms": 181506,
       "name": "Dig Down Deeper",
       "url": "https://open.spotify.com/track/67sdRAA6JzTA0pJxLzNR5g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shake It Up: I <3 Dance",
-        "url": "https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff"
-      },
-      "artists": [
-        {
-          "name": "Bella Thorne",
-          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "This is My Dance Floor",
-      "url": "https://open.spotify.com/track/6A4t0Qss5Azkt2D7n0XbFJ"
     },
     {
       "added_at": null,
@@ -659,6 +619,26 @@
       "duration_ms": 268973,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shake It Up: I <3 Dance",
+        "url": "https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff"
+      },
+      "artists": [
+        {
+          "name": "Bella Thorne",
+          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 187813,
+      "name": "This is My Dance Floor",
+      "url": "https://open.spotify.com/track/6A4t0Qss5Azkt2D7n0XbFJ"
     },
     {
       "added_at": null,

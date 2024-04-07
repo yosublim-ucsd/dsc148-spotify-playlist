@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 215447,
+  "2024-04-07": 215556,
   "date_first_scraped": "2021-12-30",
   "description": "let the dj set u free",
   "name": "crying on the dance floor",
@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 246506,
       "name": "Apricots",
       "url": "https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi"
@@ -1364,6 +1364,28 @@
     },
     {
       "album": {
+        "name": "Don't You Cry",
+        "url": "https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246758,
+      "name": "Don't You Cry",
+      "url": "https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"
+    },
+    {
+      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB"
       },
@@ -1397,7 +1419,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 151384,
       "name": "Erase Me (feat. Bella Renee)",
       "url": "https://open.spotify.com/track/0ptLBdLmejS79Sza6NQeAb"
@@ -1675,7 +1697,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 269149,
       "name": "Glue",
       "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
@@ -1737,7 +1759,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 144000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
@@ -2322,6 +2344,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Go Back",
+        "url": "https://open.spotify.com/album/21jGIjmCzMAhdqg5maZ7Wj"
+      },
+      "artists": [
+        {
+          "name": "Attic Beats",
+          "url": "https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149774,
+      "name": "I Wanna Go Back",
+      "url": "https://open.spotify.com/track/3b144FFdaQj64gVfsqJskt"
+    },
+    {
+      "album": {
         "name": "I Want You (feat. Braev)",
         "url": "https://open.spotify.com/album/2PBu4Kc89jFrsNZqt4ISSx"
       },
@@ -2725,6 +2765,24 @@
       "duration_ms": 227384,
       "name": "Lay It All On Me",
       "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
+    },
+    {
+      "album": {
+        "name": "There's No Tomorrow",
+        "url": "https://open.spotify.com/album/5INNKGgFD6LbVOwAOyctZ8"
+      },
+      "artists": [
+        {
+          "name": "BONNIE X CLYDE",
+          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Leave the Door Open",
+      "url": "https://open.spotify.com/track/1KYFWMnh5wVsiqncElR67h"
     },
     {
       "album": {
@@ -4418,6 +4476,24 @@
     },
     {
       "album": {
+        "name": "SAFE WITH ME (SECRETOS)",
+        "url": "https://open.spotify.com/album/3W2fOiqWefDpA1huBvt3fe"
+      },
+      "artists": [
+        {
+          "name": "Jhay Rivas",
+          "url": "https://open.spotify.com/artist/4hQHXyqZ6QlqPC76XmT2kH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "SAFE WITH ME (SECRETOS)",
+      "url": "https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR"
+    },
+    {
+      "album": {
         "name": "Silver Linings",
         "url": "https://open.spotify.com/album/0JPGUlvwYA8enb1XhaUIbh"
       },
@@ -5401,7 +5477,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "THERE 4 U",
       "url": "https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj"
@@ -6041,7 +6117,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 213546,
       "name": "You've Done Enough",
       "url": "https://open.spotify.com/track/3zPfyVThoCzQ6IB5CSGDTz"

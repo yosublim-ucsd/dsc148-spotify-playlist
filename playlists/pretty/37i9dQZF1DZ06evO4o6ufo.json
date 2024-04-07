@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 55261,
+  "num_followers": 55312,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDRjYzMxYjE4NjIwMzVmMzA0NDU3MGFhYTdlMzRiMDAxYzYyNTk4",
+  "snapshot_id": "MCxmYTczMTYyMzE0OWZhNGZhM2JhZjUzNTc1YzQzMjdiZThjMDI4MGY3",
   "tracks": [
     {
       "added_at": null,
@@ -546,11 +546,15 @@
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Del Sombrero",
+          "url": "https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt"
         }
       ],
-      "duration_ms": 189149,
-      "name": "Seraf\u00edn",
-      "url": "https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP"
+      "duration_ms": 130143,
+      "name": "Regreso Del Mayito Gordo (con Los Del Sombrero)",
+      "url": "https://open.spotify.com/track/2FzJuV1z2BcreeROrKclAV"
     },
     {
       "added_at": null,

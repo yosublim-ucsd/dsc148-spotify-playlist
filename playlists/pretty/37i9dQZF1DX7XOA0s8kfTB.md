@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XOA0s8kfTB.md) - [plain]
 
 > Music from “Girls Band Cry” / アニメ『<a href="https://girls\-band\-cry.com/">ガールズバンドクライ</a>』を彩る数々の楽曲達がここに。怒りも喜びも哀しさも全部ぶちこめ。  ©東映アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 54 likes - 16 songs - 41 min 57 sec
+[Spotify](https://open.spotify.com/user/spotify) - 160 likes - 16 songs - 41 min 57 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XOA0s8kfTB.md) - [plain]
 | 15 | [Lonely fate to be destined](https://open.spotify.com/track/2DjM6CRKEhyfGQvedX5OWQ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Lonely fate to be destined](https://open.spotify.com/album/7B9ooveGROUk58lfDBjTkx) | 3:15 |
 | 16 | [Underneath](https://open.spotify.com/track/4Kbd1Osxirz8fsRSSWdl4L) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Underneath](https://open.spotify.com/album/0RQe4x2NZxjdBXRQ5r89cp) | 2:35 |
 
-Snapshot ID: `MCxhZjRlODQ2MzFlOWQ5YjgyN2JhOGU0MmY1MTA2YWQ0N2YxZmRlMTY5`
+Snapshot ID: `MCw2N2UxZDEyMWNhYTRmMzRiY2Y5ZDZiMjlhMWMxOThlZjhlOGRmMmVh`

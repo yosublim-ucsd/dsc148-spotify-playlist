@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 17,
+  "2024-04-07": 17,
   "date_first_scraped": "2023-10-10",
   "description": "",
   "name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",
@@ -1165,6 +1165,28 @@
       "duration_ms": 159159,
       "name": "Armageddon Of The Mind",
       "url": "https://open.spotify.com/track/787sAtQKf4MjW9Nmzby94F"
+    },
+    {
+      "album": {
+        "name": "AROUND THE WORLD",
+        "url": "https://open.spotify.com/album/7ecd07HBfKzESTmmRP18eG"
+      },
+      "artists": [
+        {
+          "name": "Jiyagi",
+          "url": "https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l"
+        },
+        {
+          "name": "Michelle Barth",
+          "url": "https://open.spotify.com/artist/4ypSIxnbDQtY4LjdzLS9DO"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175421,
+      "name": "AROUND THE WORLD",
+      "url": "https://open.spotify.com/track/3mgQBnxRvpOVZ2dsYzxmsh"
     },
     {
       "album": {
@@ -16376,6 +16398,24 @@
     },
     {
       "album": {
+        "name": "OUR DESTRUCTION",
+        "url": "https://open.spotify.com/album/1IiRHjrQnS8mkEbNSXo35H"
+      },
+      "artists": [
+        {
+          "name": "Riot Shift",
+          "url": "https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196406,
+      "name": "OUR DESTRUCTION",
+      "url": "https://open.spotify.com/track/5YwRFrawW6m3gQnnnbL5CO"
+    },
+    {
+      "album": {
         "name": "Our Kingdom",
         "url": "https://open.spotify.com/album/6x3Vwunw5rmltcSIYPEFC3"
       },
@@ -20527,6 +20567,24 @@
       "duration_ms": 197468,
       "name": "Summer Secrets",
       "url": "https://open.spotify.com/track/47EcxNsrHWXozZeAzuEfjN"
+    },
+    {
+      "album": {
+        "name": "Summer SZN",
+        "url": "https://open.spotify.com/album/7LkbdAPrjF6WZocfiVxqCm"
+      },
+      "artists": [
+        {
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Summer SZN",
+      "url": "https://open.spotify.com/track/4UtWFn5sFfQUT8xbYbjTwU"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 273010,
+  "num_followers": 273037,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDQ0YTllNzdjM2RkNGM0NjVjYjc2NzFiOTgyMTgwNmM2MTc1N2Q1",
+  "snapshot_id": "MCw5NTEyNWMzZjMyZGQ5ZDk2NTdlZmY5MTJlOTFkMDk2Mzg5YThjNTU1",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escucha a Gerardo Pablo",
-        "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Pablo",
-          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Los Grillos",
-      "url": "https://open.spotify.com/track/4gey1hMb9gioAyqeCgzSxh"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "La vida entera",
         "url": "https://open.spotify.com/album/1v0TN5nqDNPhvOa35y4IOH"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Tres De Copas",
+        "url": "https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i"
+      },
+      "artists": [
+        {
+          "name": "Tres de Copas",
+          "url": "https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY"
+        }
+      ],
+      "duration_ms": 254786,
+      "name": "Hasta Donde tu vayas",
+      "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
         "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
@@ -1207,38 +1207,6 @@
       "duration_ms": 174026,
       "name": "Al Doblar la Esquina",
       "url": "https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Escucha a Gerardo Pablo",
-        "url": "https://open.spotify.com/album/2FCWZ7218jRTvfbOlJxhBw"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Pablo",
-          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Buscando un \u00c1ngel",
-      "url": "https://open.spotify.com/track/6WCMCQxjtgkSKgRBNxaO2h"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Tres De Copas",
-        "url": "https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i"
-      },
-      "artists": [
-        {
-          "name": "Tres de Copas",
-          "url": "https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY"
-        }
-      ],
-      "duration_ms": 254786,
-      "name": "Hasta Donde tu vayas",
-      "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1591,6 +1559,38 @@
       "duration_ms": 270453,
       "name": "Sembrando Amor",
       "url": "https://open.spotify.com/track/46E5ed47upzStYgFxLLT5p"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Escucha a Gerardo Pablo",
+        "url": "https://open.spotify.com/album/6lIe9K1kb6BBMXHyimpBMN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Pablo",
+          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "Buscando un \u00c1ngel",
+      "url": "https://open.spotify.com/track/6WvMIrL19C6NagMzPdbxnU"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Escucha a Gerardo Pablo",
+        "url": "https://open.spotify.com/album/6lIe9K1kb6BBMXHyimpBMN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Pablo",
+          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Los Grillos",
+      "url": "https://open.spotify.com/track/4zYdP9uCEjZ0Ww4v7wL2PJ"
     },
     {
       "added_at": "2021-07-29 16:46:05",

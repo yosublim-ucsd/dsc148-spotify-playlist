@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 177766,
+  "2024-04-07": 177838,
   "date_first_scraped": "2022-09-17",
   "description": "<a href=\"spotify:artist:6caPJFLv1wesmM7gwK1ACy\">Boris Brejcha</a>'s favorite tracks. Updated regularly. Curated by Boris Brejcha. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Boris Brejcha's track IDs",
@@ -1328,6 +1328,24 @@
     },
     {
       "album": {
+        "name": "Generation",
+        "url": "https://open.spotify.com/album/2ya2xS6n82SOhOOa1uh94l"
+      },
+      "artists": [
+        {
+          "name": "Visual Impact",
+          "url": "https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255005,
+      "name": "Generation",
+      "url": "https://open.spotify.com/track/6IroDQQ1cXenz2vcw7pJGq"
+    },
+    {
+      "album": {
         "name": "Give A Little Bit",
         "url": "https://open.spotify.com/album/5yF5qpAoOQorS2xxO0RnYK"
       },
@@ -2495,7 +2513,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 312380,
       "name": "Motionless",
       "url": "https://open.spotify.com/track/696DGyb77wqxtxXyJmz0cr"
@@ -3314,6 +3332,24 @@
     },
     {
       "album": {
+        "name": "COFU FOUR",
+        "url": "https://open.spotify.com/album/32CkwSXB3UX1djSMZRQltm"
+      },
+      "artists": [
+        {
+          "name": "Co-Fusion",
+          "url": "https://open.spotify.com/artist/54lOUDySWQlDC4tb81wjDT"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298080,
+      "name": "Six Frequecy",
+      "url": "https://open.spotify.com/track/1wo1uMDpnkiAveOHmKomZq"
+    },
+    {
+      "album": {
         "name": "Sleepless Mind (Edit)",
         "url": "https://open.spotify.com/album/2JH4rOU73W6ZxUU4NHKm4G"
       },
@@ -3543,6 +3579,24 @@
       "duration_ms": 339262,
       "name": "Subconscious",
       "url": "https://open.spotify.com/track/5R8PgzKg69PUSLxb2CDgzT"
+    },
+    {
+      "album": {
+        "name": "Terminal Zero",
+        "url": "https://open.spotify.com/album/3ujPcbVKBGsq71oMCpzi7T"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547200,
+      "name": "Terminal Zero",
+      "url": "https://open.spotify.com/track/6MhxkPB88BDyXKdV1ENFr7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-175 songs - 10 hr 2 min
+176 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [In The Morning \(Feat\. Bryn\)](https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [In The Morning](https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu) | 3:15 | 2022-05-11 |  |
 | [Insta Crush](https://open.spotify.com/track/2l5FvesT4vjxSPNrBXQ2nE) | [Snacky Chan](https://open.spotify.com/artist/4UTKdKB32XqCsQGLjZEfmw), [NASON](https://open.spotify.com/artist/1vh78yjQeZmPN9a5qLlBpi) | [Insta Crush](https://open.spotify.com/album/2o0TAVFnEMUUHFlWHhPV83) | 3:43 | 2022-05-11 | 2022-07-28 |
 | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0) | 2:58 | 2022-05-11 | 2024-03-31 |
+| [JAMI \(feat\. THAMA\)](https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [JAMI \(feat\. THAMA\)](https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k) | 3:04 | 2024-04-05 |  |
 | [Jazztext](https://open.spotify.com/track/770OKFkhuymVE3g2l9Ci3F) | [IKYO](https://open.spotify.com/artist/0pI8Vy1QRwQPVFFDVjuT49) | [Jazztext](https://open.spotify.com/album/32ljwHV48VSWXQq6uJjMj0) | 4:03 | 2022-05-11 | 2022-07-13 |
 | [Jean Jacket \(Feat\. Geegooin\)](https://open.spotify.com/track/6eUPB3noow0nUIwJ69rND9) | [ZIZO](https://open.spotify.com/artist/3hEJREUS7yu89cUN0D13Sx), [Geegooin](https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua) | [CAMPFIRE](https://open.spotify.com/album/3n4CuFapVKZHPaOJy9QOVp) | 3:09 | 2022-07-22 | 2022-07-29 |
 | [Journey](https://open.spotify.com/track/0ecHDdv7sgeV7KNIUwwR4R) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:53 | 2022-05-11 |  |
@@ -180,7 +181,7 @@
 | [너와 나](https://open.spotify.com/track/2olvuxBSILBXb2L2brRJzR) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [1Q87](https://open.spotify.com/album/6PopAFrTktanfRYFQK256w) | 3:10 | 2022-07-22 | 2022-11-13 |
 | [넋 NUGS \(feat\. THAMA\)](https://open.spotify.com/track/4vsI1y8QYSBaVHfcUBXt2p) | [Joon's Second Life](https://open.spotify.com/artist/5etf1dUZgMqYB1tQBEdgvb), [Yonghoon Jeong](https://open.spotify.com/artist/2QIJvvyb9gFXRqVKlv882e), [Soul delivery](https://open.spotify.com/artist/4OTMKWZ890jj8quiWRwfxA), [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW), [SHINDRUM](https://open.spotify.com/artist/0Zvh7pzTiN04XiiDAOzHjB), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [FOODCOURT](https://open.spotify.com/album/1GsIHj2gZzXfOGzDqZLR8K) | 4:25 | 2023-11-08 | 2023-12-10 |
 | [변하지 않아](https://open.spotify.com/track/1FsgCGr5ftxKkvlQFAaInV) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [NEVERLAND](https://open.spotify.com/album/2pk89iEVjniYqNAZNxWDx5) | 4:03 | 2022-07-22 | 2023-05-02 |
-| [변하지 않아 \(Feat\. HAON, CHANGMO\)](https://open.spotify.com/track/02gmOrzbDgLmxo2gNlux6x) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [김하온\(HAON\)](https://open.spotify.com/artist/4LglziYr7z4b0eBuPqpOtu), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [NEVERLAND](https://open.spotify.com/album/6A5LxMYSz3SmP2FffRc2wB) | 4:03 | 2023-05-02 |  |
+| [변하지 않아 \(Feat\. HAON, CHANGMO\)](https://open.spotify.com/track/02gmOrzbDgLmxo2gNlux6x) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [김하온\(HAON\)](https://open.spotify.com/artist/4LglziYr7z4b0eBuPqpOtu), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [NEVERLAND](https://open.spotify.com/album/6A5LxMYSz3SmP2FffRc2wB) | 4:03 | 2023-05-02 | 2024-04-07 |
 | [알아 I Know](https://open.spotify.com/track/0STz6MbfIfyuHPqvMq8rcO) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [SUMIN](https://open.spotify.com/artist/1LgOgkuv81qxcGBg9rJhjf) | [신인류 \(Shininryu\)](https://open.spotify.com/album/25DwzsTZrbsUWFK2FYf0Mp) | 3:30 | 2022-06-03 | 2022-07-25 |
 | [출항사](https://open.spotify.com/track/20vXwDh04U2mqDLaGNPk0R) | [Bassagong](https://open.spotify.com/artist/7j1lNIjZY1E1drWIgJloMs) | [출항사](https://open.spotify.com/album/6iQkZLuBKRlG2F3ORaFUOS) | 3:18 | 2022-06-03 | 2022-07-09 |
 

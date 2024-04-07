@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 325792,
+  "2024-04-07": 325854,
   "date_first_scraped": "2021-12-21",
   "description": "Rock with a Drop. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/",
   "name": "Rocktronic",
@@ -403,7 +403,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 250241,
       "name": "Baptize - Sullivan King Remix",
       "url": "https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q"
@@ -1861,6 +1861,28 @@
       "duration_ms": 168428,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/1KUYxwsFpCgpwygaWQu4JL"
+    },
+    {
+      "album": {
+        "name": "Death Wish (with Micah Martin)",
+        "url": "https://open.spotify.com/album/4OUTUIrOCKPVkrpJSTGWk1"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216998,
+      "name": "Death Wish (with Micah Martin)",
+      "url": "https://open.spotify.com/track/0dZTEB9raQkSRtZkSzFx0h"
     },
     {
       "album": {
@@ -3551,7 +3573,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 198000,
       "name": "Hero",
       "url": "https://open.spotify.com/track/0gU1afVwFWTspbHNot3yLa"
@@ -5458,6 +5480,28 @@
     },
     {
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/0UnU5fsuL8C0mPPzUeAagL"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "SpaceMan Zack",
+          "url": "https://open.spotify.com/artist/53dPePMlci6GqJXISlntSK"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176516,
+      "name": "Only the Good Die Young",
+      "url": "https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc"
+    },
+    {
+      "album": {
         "name": "Onyx",
         "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
       },
@@ -5994,6 +6038,28 @@
     },
     {
       "album": {
+        "name": "Raining Blood",
+        "url": "https://open.spotify.com/album/7Ixn2PzoFPcXmE5c129HLH"
+      },
+      "artists": [
+        {
+          "name": "Figure",
+          "url": "https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr"
+        },
+        {
+          "name": "Planet Blood",
+          "url": "https://open.spotify.com/artist/75CbMZiCqqja44m5d47xg1"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203657,
+      "name": "Raining Blood",
+      "url": "https://open.spotify.com/track/7aXVWwLwSFO17iuFXBHda9"
+    },
+    {
+      "album": {
         "name": "RAVEN",
         "url": "https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS"
       },
@@ -6417,7 +6483,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 196500,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/79xFgpCUqxYSQJcJBXFWSd"

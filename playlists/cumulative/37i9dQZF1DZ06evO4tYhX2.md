@@ -4,7 +4,7 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-88 songs - 7 hr 40 min
+89 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Mi Testimonio](https://open.spotify.com/track/4B35xmQlweeJW3MVXoZHK5) | [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Mil Generaciones](https://open.spotify.com/album/7He2T1RondwBwTaEofMIsA) | 4:23 | 2022-09-15 | 2022-09-17 |
 | [Mover Tu Corazón](https://open.spotify.com/track/1npfE6XYVD9lQKHobWkLrR) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [UPPEROOM](https://open.spotify.com/artist/0426BYo2LGmXZAUNv5BsMJ), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh), [Nick Gaggero](https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S) | [Dios En Casa](https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn) | 10:13 | 2022-09-14 | 2023-02-07 |
 | [Música del Cielo](https://open.spotify.com/track/3AEy6WuEVCftiWdm6cX91m) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 4:06 | 2022-09-15 |  |
-| [Nadie Como Tú](https://open.spotify.com/track/4ilNreJxoar2uDpYCeOr0P) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Nadie Como Tú](https://open.spotify.com/album/1t39A0vsBWAJUmjWY58KsX) | 7:16 | 2022-09-14 |  |
+| [Nadie Como Tú](https://open.spotify.com/track/4ilNreJxoar2uDpYCeOr0P) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Nadie Como Tú](https://open.spotify.com/album/1t39A0vsBWAJUmjWY58KsX) | 7:16 | 2022-09-14 | 2024-04-07 |
+| [Nadie Como Tú \(Sesiones Acústicas\)](https://open.spotify.com/track/1pVj7ZIqKGDkWjOyAdUAte) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj) | [Sesiones Acústicas](https://open.spotify.com/album/4qJJPN26P6zrvDj9JeWrF5) | 5:48 | 2024-04-07 |  |
 | [No Hay Lugar Más Alto \(En Vivo\) \[feat\. Christine D'clario\]](https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 8:08 | 2022-09-14 |  |
 | [No Hay Otro Amor Igual](https://open.spotify.com/track/4RS0596gvwyECO2TaEEfW3) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Sayra Morales](https://open.spotify.com/artist/0LCFwNcRyvZoiBaOELjsWk), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [No Hay Otro Amor Igual](https://open.spotify.com/album/5FJL6TqFuiIuhbRzvy0QRe) | 6:15 | 2023-02-06 |  |
 | [Não Há Lugar Mais Alto \(No Hay Lugar Más Alto \- Versión Portugués\)](https://open.spotify.com/track/19mAVzo7vhfnUx41Hed1ML) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Não Há Lugar Mais Alto \(No Hay Lugar Más Alto \- Versión Portugués\)](https://open.spotify.com/album/0tByw96XA7W1pqB6yVPqZP) | 5:05 | 2024-01-27 |  |

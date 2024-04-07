@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 585504,
+  "num_followers": 585562,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjIxYmZmOTRiNDgwMjU5YzEyNWM1ZjU3MWM2ZDBhYzczMTU3NGEx",
+  "snapshot_id": "MCw0MmRlODZhNzYwOTM5NTY4NDFkM2EyYmU5YWYyNmRkODJhYjg4ZjA3",
   "tracks": [
     {
       "added_at": "2024-03-28 23:00:00",
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
         }
       ],
-      "duration_ms": 231653,
-      "name": "Under Your Wings",
-      "url": "https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS"
+      "duration_ms": 198973,
+      "name": "Bedroom Exile",
+      "url": "https://open.spotify.com/track/4qCgx9aDj13P06lgDDhUmk"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
         }
       ],
-      "duration_ms": 198973,
-      "name": "Bedroom Exile",
-      "url": "https://open.spotify.com/track/4qCgx9aDj13P06lgDDhUmk"
+      "duration_ms": 231653,
+      "name": "Under Your Wings",
+      "url": "https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Mellow Moon",
+        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 197811,
+      "name": "3D Feelings",
+      "url": "https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 226103,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Mellow Moon",
-        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 197811,
-      "name": "3D Feelings",
-      "url": "https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Leoniden",
-        "url": "https://open.spotify.com/album/3vLc37mAx6aIQedeIlol7E"
-      },
-      "artists": [
-        {
-          "name": "Leoniden",
-          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
-        }
-      ],
-      "duration_ms": 191169,
-      "name": "Sisters",
-      "url": "https://open.spotify.com/track/0xfUruKo8PubvGKs9hVN7b"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Unpack Your Bags (Radio Edit)",
         "url": "https://open.spotify.com/album/2oCc55ntQAwff7LHwnBQWU"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 184692,
       "name": "Unpack Your Bags - Radio Edit",
       "url": "https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Leoniden",
+        "url": "https://open.spotify.com/album/3vLc37mAx6aIQedeIlol7E"
+      },
+      "artists": [
+        {
+          "name": "Leoniden",
+          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
+        }
+      ],
+      "duration_ms": 191169,
+      "name": "Sisters",
+      "url": "https://open.spotify.com/track/0xfUruKo8PubvGKs9hVN7b"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Seeking Thrills (The Ultimate Thrills Edition)",
         "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 188694,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Good Mmornin",
-        "url": "https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 336506,
-      "name": "Small Worlds",
-      "url": "https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Proportions",
         "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 277480,
       "name": "Apart",
       "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Good Mmornin",
+        "url": "https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 336506,
+      "name": "Small Worlds",
+      "url": "https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Live Vol. 1",
-        "url": "https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns"
+        "name": "Little Lucille",
+        "url": "https://open.spotify.com/album/0zPpywiwsbG0vyJAxchY6A"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "Karmic",
+          "url": "https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr"
         }
       ],
-      "duration_ms": 175375,
-      "name": "IknowhowIfeel - from Hansa Studios, Berlin",
-      "url": "https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW"
+      "duration_ms": 198510,
+      "name": "Little Lucille",
+      "url": "https://open.spotify.com/track/4EZMIxbJgUQnz6ZhW9924G"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Little Lucille",
-        "url": "https://open.spotify.com/album/0zPpywiwsbG0vyJAxchY6A"
+        "name": "Live Vol. 1",
+        "url": "https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns"
       },
       "artists": [
         {
-          "name": "Karmic",
-          "url": "https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr"
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
         }
       ],
-      "duration_ms": 198510,
-      "name": "Little Lucille",
-      "url": "https://open.spotify.com/track/4EZMIxbJgUQnz6ZhW9924G"
+      "duration_ms": 175375,
+      "name": "IknowhowIfeel - from Hansa Studios, Berlin",
+      "url": "https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "I Swear It's True",
-        "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
-      },
-      "artists": [
-        {
-          "name": "Mani Orrason",
-          "url": "https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2"
-        }
-      ],
-      "duration_ms": 235784,
-      "name": "I Swear It's True",
-      "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Like You",
         "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 173239,
       "name": "Like You",
       "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "I Swear It's True",
+        "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
+      },
+      "artists": [
+        {
+          "name": "Mani Orrason",
+          "url": "https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2"
+        }
+      ],
+      "duration_ms": 235784,
+      "name": "I Swear It's True",
+      "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Majored In Broken Hearts",
-        "url": "https://open.spotify.com/album/04nHRjoevp8LZ3J6IYR9PV"
+        "name": "Twister",
+        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
       },
       "artists": [
         {
-          "name": "Two Year Vacation",
-          "url": "https://open.spotify.com/artist/32pDhOhptrPf8qiTFG8VPZ"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 191499,
-      "name": "Majored In Broken Hearts",
-      "url": "https://open.spotify.com/track/1zIqRF5cnIkUnrKwIbFxUc"
+      "duration_ms": 216626,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Twister",
-        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
+        "name": "Majored In Broken Hearts",
+        "url": "https://open.spotify.com/album/04nHRjoevp8LZ3J6IYR9PV"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Two Year Vacation",
+          "url": "https://open.spotify.com/artist/32pDhOhptrPf8qiTFG8VPZ"
         }
       ],
-      "duration_ms": 216626,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
+      "duration_ms": 191499,
+      "name": "Majored In Broken Hearts",
+      "url": "https://open.spotify.com/track/1zIqRF5cnIkUnrKwIbFxUc"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax"
+      },
+      "artists": [
+        {
+          "name": "BILBAO",
+          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
+        }
+      ],
+      "duration_ms": 184706,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Impossible Weight",
         "url": "https://open.spotify.com/album/7ojMNjg11GhA5UQucyQyXi"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 202493,
       "name": "Impossible Weight - feat. Sharon Van Etten",
       "url": "https://open.spotify.com/track/23y2DjW3Ljd7o0ZcFnqRo9"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Mojito",
-        "url": "https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax"
-      },
-      "artists": [
-        {
-          "name": "BILBAO",
-          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
-        }
-      ],
-      "duration_ms": 184706,
-      "name": "Mojito",
-      "url": "https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx"
     },
     {
       "added_at": "2024-03-28 23:00:00",

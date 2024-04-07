@@ -4,7 +4,7 @@
 
 > This is Eva Shaw\. The essential tracks, all in one playlist.
 
-70 songs - 3 hr 31 min
+71 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [On Lock](https://open.spotify.com/track/4d83ufXO8iX3B2gEX1rg2E) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [On Lock](https://open.spotify.com/album/4qHjVCl0BSeb5CAbofzfvw) | 2:18 | 2024-01-15 |  |
 | [OUTSIDE](https://open.spotify.com/track/2if5WMiU68CavgL7OJit4Q) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [SOLO](https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B) | 3:33 | 2023-12-13 |  |
 | [PARANOID](https://open.spotify.com/track/79u0zZSV9TOSG15hBgdCtT) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Lindasson](https://open.spotify.com/artist/6DXbnRlv1UgusrKOxc39j7), [OD](https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9), [Db Bantino](https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa) | [SOLO](https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B) | 3:30 | 2023-12-13 | 2023-12-22 |
+| [please.](https://open.spotify.com/track/2804oZAOB3Ulb97Yg3dclc) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08) | [please.](https://open.spotify.com/album/6g17yirpwHrYcrflIiGxzd) | 2:44 | 2024-04-07 |  |
 | [RAQX](https://open.spotify.com/track/770erApKJNOvIdFGtn04G5) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr), [BTK Villeion](https://open.spotify.com/artist/2Mumdj049Bt1TtGicOw9gc) | [RAQX](https://open.spotify.com/album/4eeWlofq6XChtEK3UgYrD1) | 2:34 | 2023-12-13 |  |
 | [RAW \- Hype Hop Edit](https://open.spotify.com/track/6zc6ghB8QGGZszzMinhXl7) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW), [Jaay Cee](https://open.spotify.com/artist/26ediE5eaRN7qWJrt2m2lM) | [HYPE HOP 002](https://open.spotify.com/album/1UPKi2z2CFnomZOBDavCt0) | 2:53 | 2023-12-13 |  |
 | [Rise N Shine \(feat\. Poo Bear\) \- Justice Skolnik Remix](https://open.spotify.com/track/7IRQUCarlAan7Wnmm6zpTS) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX), [Justice Skolnik](https://open.spotify.com/artist/18bof4dt1gOAe3NGWRTamw) | [Rise N Shine \(feat\. Poo Bear\) \[Justice Skolnik Remix\]](https://open.spotify.com/album/1xQtIDxHbsIo36hVfPd9uc) | 3:07 | 2023-12-13 |  |

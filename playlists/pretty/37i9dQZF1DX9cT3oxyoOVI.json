@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 4963,
+  "num_followers": 1053,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2M2YjUyNjFjODc4OTVmMzQ3MzQ0YjlmMGQ1NWNjNDc2ZjYyNzg0",
+  "snapshot_id": "MCw4NDYyZGRlMTJjMjdiYjM0YzBjMTQzNjU3MjkxODcyNTVmN2E1NWY5",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "Grim Town",
-        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
-      },
-      "artists": [
-        {
-          "name": "SOAK",
-          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
-        }
-      ],
-      "duration_ms": 187185,
-      "name": "Knock Me Off My Feet",
-      "url": "https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "Dog Eat Dog",
         "url": "https://open.spotify.com/album/6EL1CpUnemPFyu30uPEu9N"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 169200,
       "name": "Dog Eat Dog",
       "url": "https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "Grim Town",
+        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "duration_ms": 187185,
+      "name": "Knock Me Off My Feet",
+      "url": "https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR"
     },
     {
       "added_at": "2023-01-30 15:22:38",

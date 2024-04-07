@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL?si=mW1WzxO8RkGkMpqNc4BhLA>kingdmusic</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,805 likes - 96 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,842 likes - 96 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 4 | [Masterpiece](https://open.spotify.com/track/2uZLPCubM0T6SS4scnB0Yc) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [SSTEDI](https://open.spotify.com/artist/1VZIyB5EgFbnBlOlY8SgYK) | [Masterpiece](https://open.spotify.com/album/1aNGYvUCMPYb8Ezn61TyjL) | 2:54 |
 | 5 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 |
 | 6 | [We Bow Down](https://open.spotify.com/track/0IkGmBCu8f9m9K4gOtGQRI) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [We Bow Down](https://open.spotify.com/album/1DpLBJNOvTDBSFosEhYAKA) | 9:00 |
-| 7 | [Hufanani](https://open.spotify.com/track/4y3Xoxq7l4JvZcEDN2tUZX) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Hufanani](https://open.spotify.com/album/4C5MP6vOv9gSXbYKSeRdNg) | 3:28 |
+| 7 | [Hafanani](https://open.spotify.com/track/4y3Xoxq7l4JvZcEDN2tUZX) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Hafanani](https://open.spotify.com/album/4C5MP6vOv9gSXbYKSeRdNg) | 3:28 |
 | 8 | [Waiting](https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Waiting](https://open.spotify.com/album/0niIWAYA59wwk1loWGcboC) | 2:22 |
 | 9 | [Waters](https://open.spotify.com/track/6FLJnQt5vRIc4KxSXSSfA8) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Soliloquy](https://open.spotify.com/album/72rRqESVlk8mDkUUq9ZZch) | 2:18 |
 | 10 | [Victory By The Blood \- Worship Soundtrack](https://open.spotify.com/track/1wQkwJeYrDAWi2BrBSqPNy) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Victory By The Blood \(Worship Soundtrack\)](https://open.spotify.com/album/7jI1ke4QU1a9eVUeNq32JK) | 2:05 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 28 | [Mercy Endures \- Live](https://open.spotify.com/track/57Z1iymt5GPoVahDy4mxiJ) | [Tee Worship](https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ) | [Mercy Endures \(Live\)](https://open.spotify.com/album/41IXn8IKo0p4mnQyw2pZrH) | 9:04 |
 | 29 | [The Same](https://open.spotify.com/track/7fUO1UeBjZb83UV8R5UNhw) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [The Same](https://open.spotify.com/album/4SkLREGsJHj1Y66ppqT5si) | 3:49 |
 | 30 | [Celebrate The King \- Live](https://open.spotify.com/track/0pjS8K8xDVuyZSv6laTYgX) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [Celebrate The King \(Live\)](https://open.spotify.com/album/2WMVdaTp9hfDypnrZ6OFC4) | 7:09 |
-| 31 | [Who Do Am \- Special Version](https://open.spotify.com/track/2BFCudzLyv9j3E6OAW4tY1) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Lady B](https://open.spotify.com/artist/33U9Q4DLwYDFIobBTPsxPz), [Cici Mira](https://open.spotify.com/artist/18xP7WQ7HxPi9TFD0hEhp3) | [Who Do Am \(Special Version\)](https://open.spotify.com/album/1lFqpxA02qDg0i8ZIGNNOw) | 2:30 |
+| 31 | [Who Do Am \- Special Version](https://open.spotify.com/track/2BFCudzLyv9j3E6OAW4tY1) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Lady B](https://open.spotify.com/artist/2AciPiTSQjES8ftBtP63fb), [Cici Mira](https://open.spotify.com/artist/18xP7WQ7HxPi9TFD0hEhp3) | [Who Do Am \(Special Version\)](https://open.spotify.com/album/1lFqpxA02qDg0i8ZIGNNOw) | 2:30 |
 | 32 | [Our Father](https://open.spotify.com/track/1lQSJrQBTGES2JoGhauQbe) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [Our Father](https://open.spotify.com/album/6aSBNuYtwTKf4zgvNBzbBO) | 2:44 |
 | 33 | [ZOE](https://open.spotify.com/track/4AfqsdZ0s4x32ne3iaT9GQ) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [ZOE](https://open.spotify.com/album/3vRboDjYhyk0q5wjlOuSGr) | 7:29 |
 | 34 | [Answer](https://open.spotify.com/track/4W9dGnVR14lfttqVS3Ky6G) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH) | [Answer](https://open.spotify.com/album/177sZTPwJaq59zVF8NILAe) | 2:05 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 95 | [Children of Zion](https://open.spotify.com/track/2YJk3ixPWxYAiv1WgWwevY) | [Lovy Elias](https://open.spotify.com/artist/1b6iYPeUiE57sQYDyyPJga) | [Children of Zion](https://open.spotify.com/album/7tJVtgcTFJ4picKH8QCxz1) | 2:28 |
 | 96 | [Yehowah](https://open.spotify.com/track/492YSuNMaBPjlxdhPhPyFk) | [Kofi Sarpong](https://open.spotify.com/artist/1GLgANr5EO6eF6dRE91s8K), [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Yehowah](https://open.spotify.com/album/1DHZ2bg3ZJhMDwFeMqQw7Z) | 5:17 |
 
-Snapshot ID: `MCw2NGQ0ZDFjZDE4NWE4YWI3MmU3MzAwMzNjMmYyMmNlN2MwODllNGI1`
+Snapshot ID: `MCw4YTc1ZTk3NjgxNDgxYjI5MDIxZmM3ODMxMDkzOTFkNmU2NzAxZWVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Robin Schulz, Timmy Trumpet, KOPPY
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,909 likes - 79 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,111 likes - 79 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 78 | [Lose My Breath](https://open.spotify.com/track/12Uewf1PMZIZ5E5SgXg2ZO) | [Nik Taylor](https://open.spotify.com/artist/3UiZcHG7Qsb6jermYL8Jzt) | [Lose My Breath](https://open.spotify.com/album/5cuIlJPsp7jhJ28j7ZhBuV) | 2:57 |
 | 79 | [with or without](https://open.spotify.com/track/7is0EzwMMPG9gLeDa79v0W) | [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [with or without](https://open.spotify.com/album/240N9nY4TedDVetqUBhjni) | 2:02 |
 
-Snapshot ID: `MCwxOGNjM2EyMGRkYTA2YmM1NTJhZmIzYjFiNjIzNWFhOWE4MDFhMzk1`
+Snapshot ID: `MCw0NzQ5ZTU2YjRlOTNiYWIyZTM4MmE5ODViNTY2YzhhMzQ2MjhkYTQ3`

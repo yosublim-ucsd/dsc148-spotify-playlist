@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 1837756,
+  "2024-04-07": 1837810,
   "date_first_scraped": "2021-12-28",
-  "description": "The best in folk & acoustic today featuring music from Hozier",
+  "description": "The best in folk & acoustic today featuring music from Katie Pruitt",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -6263,7 +6263,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 264146,
       "name": "On a Roll",
       "url": "https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain"
@@ -7208,6 +7208,24 @@
     },
     {
       "album": {
+        "name": "Mantras",
+        "url": "https://open.spotify.com/album/6gmHatBTdcFoIujxwHuZir"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232263,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/1a9YC2FLdQSfqNU9ebIJIw"
+    },
+    {
+      "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo"
       },
@@ -7805,6 +7823,24 @@
       "duration_ms": 287165,
       "name": "Stealing Dark from the Night Sky",
       "url": "https://open.spotify.com/track/58qBPB08tTvygwLhFy3qUr"
+    },
+    {
+      "album": {
+        "name": "Country",
+        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272065,
+      "name": "Stick Around",
+      "url": "https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn"
     },
     {
       "album": {
@@ -8829,7 +8865,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 152346,
       "name": "To Watch the World Spin Without You",
       "url": "https://open.spotify.com/track/0BdpYdgNeEZwHqP1vSrsw0"

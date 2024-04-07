@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 9510,
+  "2024-04-07": 9524,
   "date_first_scraped": "2023-04-07",
   "description": "Fresh gospel music from Ghana. Cover: MOGMusic",
   "name": "Aseda",
@@ -119,7 +119,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 408235,
       "name": "Amenuveve (Grace)",
       "url": "https://open.spotify.com/track/2DX6n0p3S4IZk7PwemK7J9"
@@ -247,6 +247,32 @@
       "duration_ms": 264788,
       "name": "Awurade Ye",
       "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
+    },
+    {
+      "album": {
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
     },
     {
       "album": {

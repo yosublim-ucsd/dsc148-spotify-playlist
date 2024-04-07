@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,601 likes - 160 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,620 likes - 160 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 9 | [circles](https://open.spotify.com/track/5snFgC1DedpQ5yhJINZ70A) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 2:28 |
 | 10 | [Say Yes \(feat\. Rona Ray\)](https://open.spotify.com/track/5gUVHfISusTqmRZNiTnjpu) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Say Yes \(feat\. Rona Ray\)](https://open.spotify.com/album/3ZpyFFA6SMx5oIlXlhRcCx) | 2:37 |
 | 11 | [Celebrate](https://open.spotify.com/track/61PmSBnABgBhqKhv33P27n) | [Ebony Winter](https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk) | [Celebrate](https://open.spotify.com/album/6w6fnwF3to11WEGJCzM715) | 3:03 |
-| 12 | [Say Wow](https://open.spotify.com/track/27BXc7zVWqSTiWHSdOlJch) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Say Wow](https://open.spotify.com/album/3mH4zZR8kzXE9tQSYnMV2b) | 2:57 |
+| 12 | [Say Wow](https://open.spotify.com/track/27BXc7zVWqSTiWHSdOlJch) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Say Wow](https://open.spotify.com/album/3mH4zZR8kzXE9tQSYnMV2b) | 2:57 |
 | 13 | [Rollout \(feat\. Jay Prince, Scrufizzer & Close Counters\)](https://open.spotify.com/track/16Y3IuWraX46DMtrATcIaY) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY) | [Rollout](https://open.spotify.com/album/3freFdGNjhuPplhWe9m6Gn) | 3:04 |
 | 14 | [be like that](https://open.spotify.com/track/0m3vkFhDCpZfkh0Si3AEEt) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD) | [no sleep in LA \- deluxe edition](https://open.spotify.com/album/5WDCUqOIXtmhICXT1c9fYl) | 2:29 |
 | 15 | [Lighthouse](https://open.spotify.com/track/46788befoNH7QS8zLZbfJT) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Lighthouse](https://open.spotify.com/album/2Xl05sxgAvqCXhQo4A1SQ4) | 3:40 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 159 | [Hard to Get](https://open.spotify.com/track/5y8AZ1jWdnPHrQoyhswqFw) | [Thomas Ford](https://open.spotify.com/artist/4prjwjwLedf54KWAs54ErF) | [Hard to Get](https://open.spotify.com/album/4TTi9VEk5HZmsnsywsOIuQ) | 3:03 |
 | 160 | [Drowning in Your Love \- Gold Edit](https://open.spotify.com/track/3HYanTbvNE4gyjnbjgxOoO) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze) | [ICARUS](https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p) | 3:47 |
 
-Snapshot ID: `MCxiN2UwYzg4MjQyNWVjZjFhZGVjNTc3MzU2ZjA3NjVkMTcwNmNhNjQ5`
+Snapshot ID: `MCxiY2Q1YmJlOTI2MjhhNWI1ODEwYWM4MjA5N2M1MjlmNGJmMmI1NTNh`

@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Sam Hunt, Luke Bryan, Nate Smith and more.
 
-6,307 songs - 14 day 10 hr 1 min
+6,308 songs - 14 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1575,6 +1575,7 @@
 | [Easy On A Heart](https://open.spotify.com/track/7lI0RHrrGYoX2nzEhFD9Zm) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Side Effects Of The Heart](https://open.spotify.com/album/5NyxBYEqQFpOCS4Gn3wNCK) | 3:13 | 2023-09-15 | 2023-09-23 |
 | [Easy On Me](https://open.spotify.com/track/0rWh5TqyxNGsTKZcpAUynq) | [Rī Wolf](https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n) | [Easy On Me](https://open.spotify.com/album/0rrANuba58xlrC5POSdXPA) | 3:43 | 2022-12-16 | 2023-01-06 |
 | [Easy On Me \- Live at Maida Vale, London, 2022](https://open.spotify.com/track/5JuF6J1PArOvKNDjmDLLZb) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Easy On Me \(Live at Maida Vale, London, 2022\)](https://open.spotify.com/album/3GPX7eC0dwpMc5UrGxNBZR) | 3:39 | 2022-06-24 | 2022-07-02 |
+| [Easy on You](https://open.spotify.com/track/4gLYOVcRnkuV1f7NPIpoZ4) | [Presley & Taylor](https://open.spotify.com/artist/5H6ZPpGKLbtB3O8idjxIZy) | [Limited Edition \(Side B\)](https://open.spotify.com/album/1LQQDcH7FDlFwuaWUtkfUB) | 4:04 | 2024-04-05 |  |
 | [Easy Rider](https://open.spotify.com/track/5r7dKu7EE2N1HHo09EbV8w) | [Black Mountain Whiskey Rebellion](https://open.spotify.com/artist/0dMSxrsk9Xg3vnExMbMN98) | [Easy Rider](https://open.spotify.com/album/6eOXNHxytfUye8HMgvVQ0y) | 3:02 | 2022-07-29 | 2022-08-06 |
 | [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 | 2024-01-26 | 2024-02-03 |
 | [EASY TONIGHT](https://open.spotify.com/track/6v9ZG6Mqt0ORN4N9jN1Nh0) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [EASY TONIGHT](https://open.spotify.com/album/4VANWG21U2nsR2f2b1CLJr) | 2:55 | 2022-04-15 | 2022-04-23 |

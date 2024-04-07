@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,609 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,610 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 18 | [RANDO \- Double Clapperz Remix](https://open.spotify.com/track/7dZH1y8Ymj3OS7MOZJoEoS) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Double Clapperz](https://open.spotify.com/artist/7tMpkHHGx888nBtdiDZ1Ql) | [Soul Quake \(Remixes, Vol\. 1\)](https://open.spotify.com/album/374C36Dszbio6pr7BwDINq) | 2:22 |
 | 19 | [Pull Out the Gunfingers](https://open.spotify.com/track/1ss5No7y12Nxy6SiIXsFsq) | [Jacotanu](https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T), [Catarrh Nisin](https://open.spotify.com/artist/2e9JzJnQ0tYXmQt2GI66kI) | [Pull Out the Gunfingers](https://open.spotify.com/album/0L02fBR4TCuVRtOmolwfC2) | 3:15 |
 | 20 | [5G \(feat\. MARONI\)](https://open.spotify.com/track/0nsvNmJuNuAc4ypsix8CYY) | [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA), [DopeOnigiri](https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO), [MARONI](https://open.spotify.com/artist/2k0Qus01xR72uS8ctdFDzM) | [5G \(feat\. MARONI\)](https://open.spotify.com/album/3Dj6BQqyIX6ElTPyp2QIZp) | 2:48 |
-| 21 | [Werewolf](https://open.spotify.com/track/4vioTNB97lD9LzoALX5RTI) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [Werewolf](https://open.spotify.com/album/5XnnNCdUccsfujYYCKG3bE) | 3:23 |
+| 21 | [Werewolf](https://open.spotify.com/track/4xipEWePd3K4GSHrjTjfZU) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [DANCE](https://open.spotify.com/album/1A1yMVgOJlvlO8pkia9ThB) | 3:25 |
 | 22 | [Trust](https://open.spotify.com/track/7efWcy1BeKQRuXNZEytQzh) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [Kona Rose](https://open.spotify.com/artist/0mGt3la29cRNic4G2pQ0HN), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [DRIVE MY DREAMS](https://open.spotify.com/album/1QOxEYdOCWw8OELJ7Lr3PV) | 3:30 |
 | 23 | [Sayin’ No \- ft\. Kenzo Martini](https://open.spotify.com/track/1cp7fVl4nL69r0q9Wrj24t) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [Kenzo Martini](https://open.spotify.com/artist/1fc1p9LVZ3HHdCcq87JYvQ) | [Sayin’ No \(ft\. Kenzo Martini\)](https://open.spotify.com/album/2clKd5gpmXSuUgK9AJPjJF) | 3:29 |
 | 24 | [カドデの一歩 \(feat.CHICO CARLITO\)](https://open.spotify.com/track/3sjwdwjQ1RPywevnd9o7Sw) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [カドデの一歩 \(feat.CHICO CARLITO\)](https://open.spotify.com/album/0Oh5kA3EMu2qYPLXzmORXe) | 3:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [ILIKEU](https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [ILIKEU](https://open.spotify.com/album/3Cm2wePohVXeqf3OLEZULA) | 2:41 |
 | 70 | [Slide By](https://open.spotify.com/track/6zGzTRlfl5kJabJls1fj1o) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Slide By](https://open.spotify.com/album/0cScyZvb9fmDvQ8t58aNJL) | 3:28 |
 
-Snapshot ID: `MCw0M2Q5MTc1MDg1NDBlNjQ4NzYwNjBlMjFjOTlkMGUxYWZmOTdmMjRh`
+Snapshot ID: `MCxkOTFlMmVlMzI2MWVmMDRlZDY1OWU5MWQ4ZTQ5MzUzZmU2NGE0ZDE4`

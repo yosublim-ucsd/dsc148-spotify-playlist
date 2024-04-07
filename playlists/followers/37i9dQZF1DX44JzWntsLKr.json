@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 272985,
+  "2024-04-07": 272996,
   "date_first_scraped": "2022-05-30",
   "description": "Every Monbebe's HERO.",
   "name": "This Is Monsta X",
@@ -1489,6 +1489,24 @@
       "duration_ms": 160224,
       "name": "LOVE U",
       "url": "https://open.spotify.com/track/1RWlEElordcRjV8qNjgKxw"
+    },
+    {
+      "album": {
+        "name": "Off The Beat",
+        "url": "https://open.spotify.com/album/02UEiA1Gp7KfQD2JxICLiW"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170453,
+      "name": "LURE",
+      "url": "https://open.spotify.com/track/3UFJPOdPj2U6XRDQKZ55l5"
     },
     {
       "album": {

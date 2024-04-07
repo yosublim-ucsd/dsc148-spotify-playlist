@@ -1,12 +1,12 @@
 {
   "description": "Solo artistas independientes, actualizada todos los mi\u00e9rcoles. Foto: Bautista.",
-  "num_followers": 12135,
+  "num_followers": 12142,
   "original_name": "Fresh Finds Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODE3MzUwYThlNTRjYzIxYWI0NTNkYjg4YTZhM2FmMjE3NGYwOWIx",
+  "snapshot_id": "MCxjNmJlMGIyNWNhM2VlZGFiMDE0NzFiZWM5MTZiN2RjYWE4ZDZmMWY0",
   "tracks": [
     {
       "added_at": "2024-04-02 22:00:00",
@@ -510,6 +510,10 @@
         {
           "name": "Quesada",
           "url": "https://open.spotify.com/artist/7GjPryI5OF9VCSHk8zBFly"
+        },
+        {
+          "name": "ReddyProductions",
+          "url": "https://open.spotify.com/artist/71yvFbOXbNHhClZ8ynSXzV"
         }
       ],
       "duration_ms": 166161,

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 
 > Music from "That Time I Got Reincarnated as a Slime"! /アニメ「転生したらスライムだった件」の世界を彩る楽曲をプレイリストで。©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,146 likes - 45 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,180 likes - 45 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [リムルからのスペシャルメッセージ](https://open.spotify.com/track/42Mev6O87VExV44sv1t69w) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa) | [リムルからのスペシャルメッセージ](https://open.spotify.com/album/64aI66I1pfYcTvJRPjH0vA) | 0:24 |
 | 2 | [PEACEKEEPER](https://open.spotify.com/track/6eWvLMxektDc1Yh0namRGc) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [PEACEKEEPER](https://open.spotify.com/album/5an5M8Vi6zKCqwCoxba0X7) | 3:28 |
-| 3 | [Believer](https://open.spotify.com/track/2SSYy8BmVJrfAs0OwKkTfd) | [来栖りん](https://open.spotify.com/artist/6xiHykZdET5Tp1SAC7luIA) | [Believer](https://open.spotify.com/album/7bsL267tEx3J9YRuwlNjIR) | 3:10 |
+| 3 | [Believer](https://open.spotify.com/track/1Us3olOSPKhOsItylQcBS5) | [Rin Kurusu](https://open.spotify.com/artist/25wbl0rSkHQ3w5a2V0vFQ7) | [Believer](https://open.spotify.com/album/4fpVQJHtO4qSp8y8SRlt0v) | 3:10 |
 | 4 | [MONOGRAM](https://open.spotify.com/track/135nKXuCgD9wcByXRWjB4o) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [MONOGRAM](https://open.spotify.com/album/1D7FJhAmoqrVERB7IRXZ0h) | 3:39 |
 | 5 | [ヒカリハナツ](https://open.spotify.com/track/4dvKQ8ic2ifWOFH87FBQdV) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [ヒカリハナツ](https://open.spotify.com/album/4UWYKyiyUnjkiTfrp8P3sU) | 3:20 |
 | 6 | [ココロトラベル](https://open.spotify.com/track/0DOVx6G53HGJ1ZduLJUxg0) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [ココロトラベル](https://open.spotify.com/album/6BQDmo7rsb56PwwL44Yi4f) | 3:52 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 | 44 | [友情](https://open.spotify.com/track/5G2lRkV6JP2G7IhqCoaBZo) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/5jFRupPXHSyREGzQwWiYSC) | 2:18 |
 | 45 | [繁栄](https://open.spotify.com/track/2LfIliPTd16k4z43kUWhtm) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/5jFRupPXHSyREGzQwWiYSC) | 1:26 |
 
-Snapshot ID: `MCwwZjQ3Y2I4YjdhZTkyMDQ1Njc1MzIzMzE0OWNhMGY4NTBlOGFlMGNi`
+Snapshot ID: `MCxiM2ZlNWRhNjA3M2U3NWNkZDE2ZGNiODcxMTliODAxOGZkYTY3MDll`

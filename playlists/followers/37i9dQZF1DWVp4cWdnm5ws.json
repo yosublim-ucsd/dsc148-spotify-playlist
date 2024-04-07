@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 87813,
+  "2024-04-07": 88185,
   "date_first_scraped": "2022-01-02",
   "description": "Discover new artists on the horizon this 2024. Cover: Hev Abi\n\n",
   "name": "RADAR Philippines",
@@ -403,6 +403,24 @@
       "duration_ms": 215624,
       "name": "Best Time",
       "url": "https://open.spotify.com/track/0EUhMQB6Ct1AT0mBBOZsTp"
+    },
+    {
+      "album": {
+        "name": "bet",
+        "url": "https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "bet",
+      "url": "https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa"
     },
     {
       "album": {

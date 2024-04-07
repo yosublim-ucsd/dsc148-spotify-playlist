@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 28918,
+  "2024-04-07": 28952,
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Karun",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Lisa Oduor-Noah",
   "name": "NairoBae",
   "tracks": [
     {
@@ -841,7 +841,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 262798,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/0xXSC3gjbYZUpOFsXVtp0Y"
@@ -2611,6 +2611,24 @@
       "duration_ms": 217213,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/2fSLRfuJr2utyjHrbohiWu"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/6mZk2E17q8qAkITD4bB6IS"
+      },
+      "artists": [
+        {
+          "name": "Ntinyari",
+          "url": "https://open.spotify.com/artist/6mxky4PjUkwpCDOTdOeksC"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188936,
+      "name": "Slowly (The Haux Stories)",
+      "url": "https://open.spotify.com/track/6h491wk8T2zQ8KqBc98wCu"
     },
     {
       "album": {

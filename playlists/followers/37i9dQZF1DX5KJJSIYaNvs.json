@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 64622,
+  "2024-04-07": 64623,
   "date_first_scraped": "2021-12-28",
   "description": "Listen to women at full volume. Cover - Alka Yagnik",
   "name": "EQUAL India",
@@ -667,7 +667,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 233991,
       "name": "Bhola Bhala Baby - From \"Murder Mubarak\"",
       "url": "https://open.spotify.com/track/69GPJv1vz7Z6dWcyDuVQVt"
@@ -2857,6 +2857,32 @@
       "duration_ms": 170000,
       "name": "Kyun Ho Jaate Ho Door",
       "url": "https://open.spotify.com/track/2boHTy8wRvOsr0xbf2uyBS"
+    },
+    {
+      "album": {
+        "name": "Kyun?",
+        "url": "https://open.spotify.com/album/4RrtKiswDpPgLW76tXyhaW"
+      },
+      "artists": [
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Rajesh Roshan",
+          "url": "https://open.spotify.com/artist/5c3Qxc5sTis0Oq3XcOdIJD"
+        },
+        {
+          "name": "Ibrahim Ashk",
+          "url": "https://open.spotify.com/artist/6pYpSb2tBr03kDtLwwDzUY"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "Kyun?",
+      "url": "https://open.spotify.com/track/7JBn7exshAhc7V4TI6SYqR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 116090,
+  "num_followers": 116136,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODUwMzA2YjM1NjE4ZmRmOTdmNDEyNDFlNzY4YzE2NGViOGFmMWVm",
+  "snapshot_id": "MCxlYWY0MDM1MTEwMzMxNzY5OGQwMzM1N2EyZjcxYzRkMzVkNGUxMjNm",
   "tracks": [
     {
       "added_at": "2024-03-25 13:06:06",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Sin Parar",
-        "url": "https://open.spotify.com/album/3VkyAHMysQH0SN2FjF1c0v"
-      },
-      "artists": [
-        {
-          "name": "Wiso G",
-          "url": "https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "La Qu\u00edmica",
-      "url": "https://open.spotify.com/track/08KfnyjxkgXveroTSvbMza"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "No Fear Live",
         "url": "https://open.spotify.com/album/3Q682W4ilQpUfwbFJwap4f"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 181146,
       "name": "Voltio (Live)",
       "url": "https://open.spotify.com/track/3DneCEkBhWz7Qy92mcNzW0"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "Sin Parar",
+        "url": "https://open.spotify.com/album/3VkyAHMysQH0SN2FjF1c0v"
+      },
+      "artists": [
+        {
+          "name": "Wiso G",
+          "url": "https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "La Qu\u00edmica",
+      "url": "https://open.spotify.com/track/08KfnyjxkgXveroTSvbMza"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Sandunguero",
-        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
-      },
-      "artists": [
-        {
-          "name": "Falo",
-          "url": "https://open.spotify.com/artist/5QfKUbR3EOkfzKoDNBV3xJ"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Encendio",
-      "url": "https://open.spotify.com/track/4vxPk9bmTGfkNE8wV5annp"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/3nqohzl5qqylbTrIu3PIB7"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 190266,
       "name": "Alza la Mano Si Te Gusta Fumar",
       "url": "https://open.spotify.com/track/0m6giBF179ViIADfkXcLkQ"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "Sandunguero",
+        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
+      },
+      "artists": [
+        {
+          "name": "Falo",
+          "url": "https://open.spotify.com/artist/5QfKUbR3EOkfzKoDNBV3xJ"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Encendio",
+      "url": "https://open.spotify.com/track/4vxPk9bmTGfkNE8wV5annp"
     }
   ],
   "unique_name": "Reggaeton: El Inicio",

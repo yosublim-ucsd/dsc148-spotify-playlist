@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 284336,
+  "2024-04-07": 284410,
   "date_first_scraped": "2023-12-31",
-  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Vou pro Sereno, Mumuzinho",
+  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Sorriso Maroto",
   "name": "Domingu\u00eara",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 232855,
       "name": "1 Minuto / Bem Querer - Ao Vivo",
       "url": "https://open.spotify.com/track/3G14eXMA69Hb4x8jTAAYN1"
@@ -579,6 +579,24 @@
       "duration_ms": 231283,
       "name": "Dorme com Deus / Fica - Ao Vivo",
       "url": "https://open.spotify.com/track/1Y7ShD0kGmHPwJTWOuBlHK"
+    },
+    {
+      "album": {
+        "name": "Sorriso Maroto As Antigas - Parte 1",
+        "url": "https://open.spotify.com/album/6bp0caW2RBmlCqC5k52EJw"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436536,
+      "name": "Engano / Diz Que Quer Ficar / Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/1MMZ7oNHMGrKyW7b5VkMTL"
     },
     {
       "album": {
@@ -1171,6 +1189,24 @@
       "duration_ms": 395221,
       "name": "Op\u00e7\u00f5es / Me Apaixonei pela Pessoa Errada / Sinais / Sobrenatural",
       "url": "https://open.spotify.com/track/5aWiqE2DBa3IhzW74E8Dvy"
+    },
+    {
+      "album": {
+        "name": "Pagode do Beleleu(Nada Pra Fazer-Ao Seu Lado-At\u00e9 Me Afogar)",
+        "url": "https://open.spotify.com/album/74OTz83XB0OO58sRgGSAIp"
+      },
+      "artists": [
+        {
+          "name": "Beleleu",
+          "url": "https://open.spotify.com/artist/4eo9CgNofjdvyQh05a22VJ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339839,
+      "name": "Pagode do Beleleu(Nada Pra Fazer-Ao Seu Lado-At\u00e9 Me Afogar)",
+      "url": "https://open.spotify.com/track/03YkxpabCruIRpTi0TeXTX"
     },
     {
       "album": {
@@ -2129,7 +2165,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 190667,
       "name": "\u00c1pice do Amor / Boomerang",
       "url": "https://open.spotify.com/track/5kDh9H9mCf7bjORSGR9dE5"

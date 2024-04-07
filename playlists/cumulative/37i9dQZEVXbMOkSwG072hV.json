@@ -5625,6 +5625,24 @@
     },
     {
       "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
@@ -5636,7 +5654,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
@@ -7002,6 +7020,28 @@
       "duration_ms": 200156,
       "name": "BRUXARIA ALTERNATIVA",
       "url": "https://open.spotify.com/track/729sVXS7KQK9akjCfAcXmL"
+    },
+    {
+      "album": {
+        "name": "Bruxaria Fode Psicol\u00f3gico das Planet\u00e1rias",
+        "url": "https://open.spotify.com/album/0dYz88LQpV3uFx7nfI5ZIC"
+      },
+      "artists": [
+        {
+          "name": "DJ Talala",
+          "url": "https://open.spotify.com/artist/1NzT8ZTQ1nSqaut9FZosBK"
+        },
+        {
+          "name": "Mc Santt",
+          "url": "https://open.spotify.com/artist/6hN1VnFmmeDdYFjsIwNUgP"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179339,
+      "name": "Bruxaria Fode Psicol\u00f3gico das Planet\u00e1rias",
+      "url": "https://open.spotify.com/track/2PyufRBbn5gvzW5BolCNBj"
     },
     {
       "album": {
@@ -10154,7 +10194,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 96946,
       "name": "CUTE DEPRESSED",
       "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
@@ -11191,20 +11231,24 @@
     },
     {
       "album": {
-        "name": "Depois Tu Abre a Boca pra Pode Toma Leitin",
+        "name": "Depois Tu Abre a Boca pra Poder Tomar Leitin",
         "url": "https://open.spotify.com/album/1X7guMIi6nVyqhEXjiCNON"
       },
       "artists": [
         {
           "name": "Mc CJ Forte Abra\u00e7o",
           "url": "https://open.spotify.com/artist/7CnRtDeixXa7XmGwvn2eh1"
+        },
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
         }
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 77077,
-      "name": "Depois Tu Abre a Boca pra Pode Toma Leitin",
+      "name": "Depois Tu Abre a Boca pra Poder Tomar Leitin",
       "url": "https://open.spotify.com/track/18lKNoKEGnzmqDhew5AFdr"
     },
     {
@@ -14852,6 +14896,24 @@
       "duration_ms": 138205,
       "name": "Eu Nasci Tricolor",
       "url": "https://open.spotify.com/track/4i3lCWJC6QvXbwDqZcmyAt"
+    },
+    {
+      "album": {
+        "name": "Eu Nunca Fui Embora - PARTE 1",
+        "url": "https://open.spotify.com/album/4LketVVipjzizVzYqTojSE"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185337,
+      "name": "Eu Nunca Fui Embora",
+      "url": "https://open.spotify.com/track/53yKBldokRmgrueEXDbqjj"
     },
     {
       "album": {
@@ -21542,10 +21604,32 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 297794,
       "name": "Lady Killers II (Christoph Andersson Remix)",
       "url": "https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq"
+    },
+    {
+      "album": {
+        "name": "Lady Killers II (Christoph Andersson Remix)",
+        "url": "https://open.spotify.com/album/08JECZoQNpeSledQtNZp6H"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Christoph Andersson",
+          "url": "https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297794,
+      "name": "Lady Killers II - Christoph Andersson Remix",
+      "url": "https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ"
     },
     {
       "album": {
@@ -22520,7 +22604,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -29801,6 +29885,24 @@
     },
     {
       "album": {
+        "name": "Reden\u00e7\u00e3o / PA",
+        "url": "https://open.spotify.com/album/5pzfyPYYfMcmBXoD1bvRf0"
+      },
+      "artists": [
+        {
+          "name": "Liene Show",
+          "url": "https://open.spotify.com/artist/7uz4wLTv3GdRTHrMhlYQRD"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148176,
+      "name": "N\u00e3o Passa de Ex",
+      "url": "https://open.spotify.com/track/7ctZcAq3iHS5QOMqZTkkqI"
+    },
+    {
+      "album": {
         "name": "O Bom \u00e9 Ser Bom",
         "url": "https://open.spotify.com/album/6wX50OaBFb7i0hpGcdUQKo"
       },
@@ -37036,7 +37138,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 190573,
       "name": "Sarra pra Traficante",
       "url": "https://open.spotify.com/track/0M5JXWIRM25yL8Vcx2aue4"
@@ -39168,7 +39270,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 166384,
       "name": "Smart",
       "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
@@ -41846,7 +41948,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"

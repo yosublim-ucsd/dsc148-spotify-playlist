@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: The Ghost Inside
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,795 likes - 125 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,927 likes - 125 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 124 | [Dead Souls](https://open.spotify.com/track/7aa7J2weJ0mVLu4xHEKiKu) | [Substation](https://open.spotify.com/artist/4uCcS8G5SOw5BGO67pngjC) | [Dead Souls](https://open.spotify.com/album/0yyK6w1nNjDq3YutrQMvk1) | 3:46 |
 | 125 | [Absence](https://open.spotify.com/track/0bGJxR2A2yTGCOJwcEwktz) | [Skylene](https://open.spotify.com/artist/2Rlhr0EaeREpWAkL9fctT9) | [Absence](https://open.spotify.com/album/0o5VRf3w65zCDVBVuRq9fB) | 5:45 |
 
-Snapshot ID: `MCw0MTA4YmU5YzNlYzRkMWVlZDY5MzYzZjRhODZlMGIxMjU4MDMwZmRk`
+Snapshot ID: `MCxhYWYzMTFmMDM5YmU0OGQzYjk1ZjEzYzg3NzIxNDAyNzc5NjdmYzNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,700 likes - 99 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,705 likes - 99 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 98 | [The Art of Chasing You](https://open.spotify.com/track/7HwHo4TOJzqcX9scDN7YCB) | [Magnolia Celebration](https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Too Shy, Too Blind](https://open.spotify.com/album/6MVkNSm87gfSg4rG8728ii) | 5:06 |
 | 99 | [magnetic](https://open.spotify.com/track/5qu7ku8i1fk1sO1ru7i7nM) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [magnetic](https://open.spotify.com/album/6hmFvR34taSRF1mqrB53TS) | 3:07 |
 
-Snapshot ID: `MCxkYjkyODUxMzA1OTIzYjdjYzcxMDA4YWRmOWQwMGQzZmUwODg2Mjk1`
+Snapshot ID: `MCwzZWFlZDhjOTFiMTZmZDFhMDU0MjM1Mzc0NDkxYjE0MTg0NGEyZmY4`

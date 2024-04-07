@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 627871,
+  "num_followers": 627930,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGNmM2RjMDQ0NTQ4MGI1Njc4NGNkYTZhZGY1NzI3YjgzMWQxMjYw",
+  "snapshot_id": "MCxiN2NjNGQ2NTc4MWRmYzhiOTdhYjI3NWJmODJiNDBiOTk0MjRlMjg1",
   "tracks": [
     {
       "added_at": "2024-02-02 06:37:59",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/0DTgeOcvfktR1pOb5srzbG"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "duration_ms": 254163,
+      "name": "Do You Believe In Love?",
+      "url": "https://open.spotify.com/track/16TV0mMaoL0OGGwPxTlhSV"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
         "url": "https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 210373,
       "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
       "url": "https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/0DTgeOcvfktR1pOb5srzbG"
-      },
-      "artists": [
-        {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
-        }
-      ],
-      "duration_ms": 254163,
-      "name": "Do You Believe In Love?",
-      "url": "https://open.spotify.com/track/16TV0mMaoL0OGGwPxTlhSV"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Think About These Things",
-        "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
-      },
-      "artists": [
-        {
-          "name": "Charles Jenkins",
-          "url": "https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO"
-        }
-      ],
-      "duration_ms": 153853,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Place Called Victory - EP",
         "url": "https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 383552,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Think About These Things",
+        "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
+      },
+      "artists": [
+        {
+          "name": "Charles Jenkins",
+          "url": "https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO"
+        }
+      ],
+      "duration_ms": 153853,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
-        "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
-      },
-      "artists": [
-        {
-          "name": "Daryl Coley",
-          "url": "https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01"
-        }
-      ],
-      "duration_ms": 507893,
-      "name": "Beyond The Veil - Live",
-      "url": "https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Alive In South Africa",
         "url": "https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 286000,
       "name": "Friend of God - Live",
       "url": "https://open.spotify.com/track/3crhuOV1LoARTZdukgcr6a"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
+        "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
+      },
+      "artists": [
+        {
+          "name": "Daryl Coley",
+          "url": "https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01"
+        }
+      ],
+      "duration_ms": 507893,
+      "name": "Beyond The Veil - Live",
+      "url": "https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Never Gonna Break My Faith (feat. The Boys Choir of Harlem)",
-        "url": "https://open.spotify.com/album/3nR5pUJkbh6Jm42JPjuZxL"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        },
-        {
-          "name": "The Boys Choir Of Harlem",
-          "url": "https://open.spotify.com/artist/7Cp14KBRtDwGucKNPUyT11"
-        }
-      ],
-      "duration_ms": 250107,
-      "name": "Never Gonna Break My Faith (feat. The Boys Choir of Harlem)",
-      "url": "https://open.spotify.com/track/24l5ku1oI5KdZpF0dLDjAd"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "See The Goodness",
         "url": "https://open.spotify.com/album/6XxMWmuECU2uEEChQXXQEZ"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 331223,
       "name": "See The Goodness (feat. Donnie McClurkin)",
       "url": "https://open.spotify.com/track/61XwybzaaNHNp3wsD9x87Q"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Never Gonna Break My Faith (feat. The Boys Choir of Harlem)",
+        "url": "https://open.spotify.com/album/3nR5pUJkbh6Jm42JPjuZxL"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        },
+        {
+          "name": "The Boys Choir Of Harlem",
+          "url": "https://open.spotify.com/artist/7Cp14KBRtDwGucKNPUyT11"
+        }
+      ],
+      "duration_ms": 250107,
+      "name": "Never Gonna Break My Faith (feat. The Boys Choir of Harlem)",
+      "url": "https://open.spotify.com/track/24l5ku1oI5KdZpF0dLDjAd"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1307,6 +1307,22 @@
       "duration_ms": 224136,
       "name": "Transitions",
       "url": "https://open.spotify.com/track/1nboBaRhaDHuJ29ULkLQwH"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/2fHKbSmk7aPjN7c9VKN4IH"
+      },
+      "artists": [
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        }
+      ],
+      "duration_ms": 254069,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/0zOkDAntJ2JAX5B4fu6CIW"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1379,22 +1395,6 @@
       "duration_ms": 346096,
       "name": "Come Together (feat. Tim Bowman Jr., Joy Enriquez, Kirk Franklin, Kelontae Gavin, Fred Hammond, Heavenly Joy, Le'Andria Johnson, Lecrae, Mary Mary, Jac Ross, Marvin Sapp, Karen Clark Sheard, Kierra Sheard & Shelby 5)",
       "url": "https://open.spotify.com/track/7DpfOkks38EfsrVcG9Zmhw"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/2fHKbSmk7aPjN7c9VKN4IH"
-      },
-      "artists": [
-        {
-          "name": "Kelontae Gavin",
-          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
-        }
-      ],
-      "duration_ms": 254069,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/0zOkDAntJ2JAX5B4fu6CIW"
     },
     {
       "added_at": "2024-02-02 06:37:59",

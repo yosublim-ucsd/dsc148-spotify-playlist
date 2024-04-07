@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 259567,
+  "num_followers": 259582,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTU5YmQ1ZjZhNWRjODZhOGY3MjI0YzY2NzNiNjM0ZjZjMzEyOTFj",
+  "snapshot_id": "MCxkYjRhYWIwOGE3MzllM2I3NTlkMjU2ZThhNjkyZTliOGY5ZTNkYWIy",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -531,26 +531,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "VIII",
-        "url": "https://open.spotify.com/album/1WLT9X55scygUSpb304x4L"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        },
-        {
-          "name": "Ta-ku",
-          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
-        }
-      ],
-      "duration_ms": 130271,
-      "name": "(Interlude)",
-      "url": "https://open.spotify.com/track/4GojDZAcFshu4ELQuGXrhz"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Homegrown (Remixes)",
         "url": "https://open.spotify.com/album/1I1hFpUraLXdCtDnMXSh6N"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 245000,
       "name": "Homegrown - Empty Woods Remix",
       "url": "https://open.spotify.com/track/6hBLjkIOP23jWYcPsrJM43"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "VIII",
+        "url": "https://open.spotify.com/album/1WLT9X55scygUSpb304x4L"
+      },
+      "artists": [
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        },
+        {
+          "name": "Ta-ku",
+          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+        }
+      ],
+      "duration_ms": 130271,
+      "name": "(Interlude)",
+      "url": "https://open.spotify.com/track/4GojDZAcFshu4ELQuGXrhz"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Passionfruit Falls",
-        "url": "https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l"
-      },
-      "artists": [
-        {
-          "name": "Brother Mynor",
-          "url": "https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq"
-        }
-      ],
-      "duration_ms": 101469,
-      "name": "The Falls",
-      "url": "https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "another time (world$tar money)",
@@ -659,18 +643,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Cycle",
-        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
+        "name": "Passionfruit Falls",
+        "url": "https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l"
       },
       "artists": [
         {
-          "name": "Su Na",
-          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
+          "name": "Brother Mynor",
+          "url": "https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq"
         }
       ],
-      "duration_ms": 188573,
-      "name": "Cycle",
-      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
+      "duration_ms": 101469,
+      "name": "The Falls",
+      "url": "https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -695,6 +679,22 @@
       "duration_ms": 114929,
       "name": "I've Always Been",
       "url": "https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
+      },
+      "artists": [
+        {
+          "name": "Su Na",
+          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
     },
     {
       "added_at": "2019-06-07 08:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Boom Boom On The Roof, Boom Boom In Your Ears",
-        "url": "https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP"
-      },
-      "artists": [
-        {
-          "name": "Common Tiger",
-          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
-        }
-      ],
-      "duration_ms": 175412,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Small Clan",
         "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 232312,
       "name": "Yellow Dust",
       "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Boom Boom On The Roof, Boom Boom In Your Ears",
+        "url": "https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP"
+      },
+      "artists": [
+        {
+          "name": "Common Tiger",
+          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
+        }
+      ],
+      "duration_ms": 175412,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -849,24 +849,20 @@
       "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
+      "added_at": "2019-05-24 08:01:00",
       "album": {
-        "name": "Home (feat. LEES)",
-        "url": "https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt"
+        "name": "Aisle of Palm",
+        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
       },
       "artists": [
         {
-          "name": "Gaspar Narby",
-          "url": "https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s"
-        },
-        {
-          "name": "LEES",
-          "url": "https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5"
+          "name": "Beshken",
+          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
         }
       ],
-      "duration_ms": 198776,
-      "name": "Home (feat. LEES)",
-      "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
+      "duration_ms": 218311,
+      "name": "White Gemini",
+      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -889,20 +885,24 @@
       "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
+      "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Aisle of Palm",
-        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
+        "name": "Home (feat. LEES)",
+        "url": "https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt"
       },
       "artists": [
         {
-          "name": "Beshken",
-          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
+          "name": "Gaspar Narby",
+          "url": "https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s"
+        },
+        {
+          "name": "LEES",
+          "url": "https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5"
         }
       ],
-      "duration_ms": 218311,
-      "name": "White Gemini",
-      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
+      "duration_ms": 198776,
+      "name": "Home (feat. LEES)",
+      "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Infinite Games",
-        "url": "https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI"
-      },
-      "artists": [
-        {
-          "name": "Zola Blood",
-          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Get Light",
-      "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "With You",
@@ -999,6 +983,22 @@
       "duration_ms": 145208,
       "name": "With You",
       "url": "https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Infinite Games",
+        "url": "https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI"
+      },
+      "artists": [
+        {
+          "name": "Zola Blood",
+          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Get Light",
+      "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
     },
     {
       "added_at": "2018-12-11 21:12:31",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,942 likes - 95 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,980 likes - 95 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fugue in D minor \- Spotify Singles](https://open.spotify.com/track/08ooPV5h25QXuoC6oerVuJ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Spotify Singles](https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS) | 4:45 |
 | 2 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 |
 | 3 | [Zombie \(feat\. Valerie Broussard\)](https://open.spotify.com/track/5AZJbQwaYGHWCY53k7fO57) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Zombie \(feat\. Valerie Broussard\)](https://open.spotify.com/album/1uLMooNp9bB40khUJAqe5c) | 4:44 |
-| 4 | [Ghosts 'n' Stuff \(feat\. Rob Swire\) \[Jauz Remix\]](https://open.spotify.com/track/70vjXI7oBou5buTtgiJeRW) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [Ghosts 'n' Stuff \(feat\. Rob Swire\) \[Jauz Remix\]](https://open.spotify.com/album/7lumeiXrp300roKsMEdpDT) | 3:50 |
+| 4 | [Ghosts 'n' Stuff \(feat\. Rob Swire\) \[Jauz Remix\]](https://open.spotify.com/track/70vjXI7oBou5buTtgiJeRW) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [Ghosts 'n' Stuff \(feat\. Rob Swire\) \(Jauz Remix\)](https://open.spotify.com/album/7lumeiXrp300roKsMEdpDT) | 3:50 |
 | 5 | [Witches, Witches, Witches \- The Living Tombstone Remix](https://open.spotify.com/track/3nECeZ2vi0Q8NwtBclexdH) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d), [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Witches, Witches, Witches \(The Living Tombstone Remix\)](https://open.spotify.com/album/5KvGorO0DxKf71OkIVpvAY) | 3:09 |
 | 6 | [GREEN GOBLIN \- Spotify Singles](https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Spotify Singles](https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp) | 2:09 |
 | 7 | [NALGOTICA!](https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [NALGOTICA!](https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc) | 1:54 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 94 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 |
 | 95 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 |
 
-Snapshot ID: `MCw1YTMzMGE1ZTIwMzI5MDliNTYxMDU1MjExMGRjNzU5ZDBiY2MyNDM2`
+Snapshot ID: `MCw0YmU3Mzg1ZjYzYTVhYTIzNjc5Y2Y5ZWFlY2JkYTczNzAyMmY0NDYy`

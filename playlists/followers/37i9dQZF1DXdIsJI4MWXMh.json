@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 65437,
+  "2024-04-07": 65461,
   "date_first_scraped": "2023-05-28",
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
   "name": "Ranchera Chilena",
@@ -1611,7 +1611,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 211866,
       "name": "Ojitos Verdes",
       "url": "https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv"
@@ -1665,7 +1665,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 234466,
       "name": "Por Andar de Patas Negras",
       "url": "https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K"

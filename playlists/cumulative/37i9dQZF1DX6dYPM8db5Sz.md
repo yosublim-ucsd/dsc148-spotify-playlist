@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn?si=NjDnbRXMSPSoKNz9iWVChg">Henry Ate</a>
 
-698 songs - 1 day 15 hr 55 min
+699 songs - 1 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Beach House](https://open.spotify.com/track/4X5fbAxCG8JTsHotIRUNIX) | [Kloudink](https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P) | [Beach House](https://open.spotify.com/album/432SsG5QIPGqnRfl1d6q5M) | 3:12 | 2024-01-11 | 2024-03-30 |
 | [Beanie](https://open.spotify.com/track/0NOaEisILvRznCAco87cpI) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/5DOW77U35s1Sc7oepYqymZ) | 2:12 | 2024-02-09 | 2024-04-06 |
 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 | 2024-02-09 | 2024-03-11 |
+| [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2024-02-09 |  |
 | [Beautiful Day \(Acoustic Cover\)](https://open.spotify.com/track/4Cx4C0D4w8zAgb2UFqfoPL) | [Cloud Illusions](https://open.spotify.com/artist/1E4Zlw4mvjAYIqFO6HxMBp) | [Beautiful Day \(Acoustic Cover\)](https://open.spotify.com/album/51zhilUUY6kaqSh5J3MHcF) | 4:05 | 2023-06-22 | 2023-08-05 |
 | [Before The Sun Comes Up](https://open.spotify.com/track/4wQIXWOu1YmQanVtbo8R1P) | [The Charles Géne Suite](https://open.spotify.com/artist/5IY1vGqRklTMkio7Pi33ci), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop), [Lerato lichaba](https://open.spotify.com/artist/2kGjcOOtMDyTEK9po6n9l4) | [Suite Nites](https://open.spotify.com/album/5fUfrJpzgHUemAw8TVAz4r) | 6:42 | 2022-07-21 | 2022-11-04 |
 | [Being Square](https://open.spotify.com/track/0fQLPl3LAkNCKWPhPngqnc) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Being Square](https://open.spotify.com/album/54BGBlBu9QZTpjuyANyTpE) | 3:07 | 2023-04-06 | 2023-06-16 |
@@ -577,7 +578,7 @@
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2024-01-11 |  |
 | [Sweet Like Candy](https://open.spotify.com/track/11XbBDRzrP200Vj17JOoVw) | [Melamode](https://open.spotify.com/artist/2p6RjVQV8VPibJabFDXhOi), [Ashleigh Ramsoomar](https://open.spotify.com/artist/5Nohu1KNPOhTvmmQJuK4r7) | [Sweet Like Candy](https://open.spotify.com/album/5JI713XtphDV4TDgbZN2n4) | 2:46 | 2022-09-02 | 2022-10-21 |
 | [Swim Back](https://open.spotify.com/track/5jOKm7AO3CYs79nRi03BIj) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Swim Back](https://open.spotify.com/album/4oAb0GaGkYtX3N9h89FpKt) | 4:34 | 2023-03-02 | 2023-04-15 |
-| [Sydney's Eyes](https://open.spotify.com/track/1IrcJEIzztLjlnY8QKWUGM) | [Luke Beling](https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V) | [Hard to Bleed a Winter](https://open.spotify.com/album/1LEffN4WIGVnFiFgvLkdCv) | 2:47 | 2024-02-29 |  |
+| [Sydney's Eyes](https://open.spotify.com/track/1IrcJEIzztLjlnY8QKWUGM) | [Luke Beling](https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V) | [Hard to Bleed a Winter](https://open.spotify.com/album/1LEffN4WIGVnFiFgvLkdCv) | 2:47 | 2024-02-29 | 2024-04-07 |
 | [Take A Moment](https://open.spotify.com/track/19EExmi6LOkYeR7NTqgGBD) | [Jamie\-Lee Sexton](https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h) | [Take A Moment](https://open.spotify.com/album/094V806M9aCaRlIRMAtBvD) | 3:26 | 2023-05-18 | 2023-07-07 |
 | [Take Me Home](https://open.spotify.com/track/09VP3MkHbI4TvJUMxB03Z4) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E), [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s), [Paul Timitch](https://open.spotify.com/artist/48oyFLkOdjRGiVDSf6q5MS) | [Take Me Home](https://open.spotify.com/album/0KK4ePbsPoLS2bagH6pv5T) | 2:20 | 2024-01-26 |  |
 | [Take Me Home \(One Take\)](https://open.spotify.com/track/0ihhrhAPOVGNhyaSlSFgVz) | [True nESS](https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh) | [Take Me Home \(One Take\)](https://open.spotify.com/album/00JQKIr7LCVu0bI0uVr2pY) | 2:21 | 2022-11-24 | 2023-01-13 |

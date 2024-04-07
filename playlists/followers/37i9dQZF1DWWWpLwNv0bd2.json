@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 88792,
+  "2024-04-07": 88819,
   "date_first_scraped": "2022-05-30",
   "description": "Check out the Latest Romance Tracks.\nCover : Captain Miller",
   "name": "Latest Love Tamil",
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 224095,
       "name": "Jimikki Ponnu",
       "url": "https://open.spotify.com/track/7fRIo7WyDxXn3r233GCcdL"
@@ -2789,7 +2789,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 179860,
       "name": "Naracha Mudi",
       "url": "https://open.spotify.com/track/4wsJc2zTc8343T4JgMPzdW"
@@ -3351,7 +3351,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 186692,
       "name": "Othaiyaaga - From \"Theera Kaadhal\"",
       "url": "https://open.spotify.com/track/072brmIxVs5EcCUw6cnRze"
@@ -4610,6 +4610,28 @@
     },
     {
       "album": {
+        "name": "Pon Ondru Kanden",
+        "url": "https://open.spotify.com/album/7FGND2yTrOIB3Qguok4Fvj"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222766,
+      "name": "Un Azhagai Rasithu",
+      "url": "https://open.spotify.com/track/2JXQEzgyJrPYohFDjqHAaA"
+    },
+    {
+      "album": {
         "name": "Un Oliyile (From \"Captain Miller\")",
         "url": "https://open.spotify.com/album/4q7yAY9pRBvBGViJwHUHCO"
       },
@@ -5117,6 +5139,24 @@
       "duration_ms": 304000,
       "name": "Veyyon Silli (From \"Soorarai Pottru\")",
       "url": "https://open.spotify.com/track/2gqapLp6Br7jcR1QQNBVFz"
+    },
+    {
+      "album": {
+        "name": "Vintage Love (From \"Star\")",
+        "url": "https://open.spotify.com/album/3nq5Ll8c03wZ8jlTulsfHO"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207499,
+      "name": "Vintage Love (From \"Star\")",
+      "url": "https://open.spotify.com/track/0lttJ9CNuTWRojQmg9ytla"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 58214,
+  "2024-04-07": 58234,
   "date_first_scraped": "2023-07-23",
   "description": "Os monstros e as novas caras do Metal nacional e internacional! Foto: ANGRA",
   "name": "Imp\u00e9rio do Metal",
@@ -1367,7 +1367,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 276399,
       "name": "The Beast and the Hunter",
       "url": "https://open.spotify.com/track/0vIYNPI7tuF5O57tu78Yss"
@@ -1635,6 +1635,32 @@
       "duration_ms": 373906,
       "name": "The Writing on the Wall",
       "url": "https://open.spotify.com/track/1U8WGXzEz48BDAw8RxtRmu"
+    },
+    {
+      "album": {
+        "name": "Tide Of Changes - Part I & II (JSS Version)",
+        "url": "https://open.spotify.com/album/3GpHrLAjLbwcRnmoKvnFBv"
+      },
+      "artists": [
+        {
+          "name": "ANGRA",
+          "url": "https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y"
+        },
+        {
+          "name": "Jeff Scott Soto",
+          "url": "https://open.spotify.com/artist/7afXgYjtXG2zD69Asm5q1Z"
+        },
+        {
+          "name": "Vanessa Moreno",
+          "url": "https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408089,
+      "name": "Tide Of Changes - Part I & II (JSS Version)",
+      "url": "https://open.spotify.com/track/4ZGICk9Y94ZH8dIE38lB18"
     },
     {
       "album": {

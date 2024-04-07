@@ -37243,24 +37243,6 @@
     },
     {
       "album": {
-        "name": "Loosing My Head",
-        "url": "https://open.spotify.com/album/6rRfAtEBYO3Aa0DbIGf21L"
-      },
-      "artists": [
-        {
-          "name": "B-RED",
-          "url": "https://open.spotify.com/artist/6gGH04KywUUbUWc6tmXTpM"
-        }
-      ],
-      "date_added": "2024-04-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 174614,
-      "name": "Loosing My Head",
-      "url": "https://open.spotify.com/track/0VF7NQh9Kxoex1h9vki0i2"
-    },
-    {
-      "album": {
         "name": "Loqueras",
         "url": "https://open.spotify.com/album/4NwoEaIDAPx1UFjK5uvfIl"
       },
@@ -37414,6 +37396,24 @@
       "duration_ms": 183653,
       "name": "Losing My Grip",
       "url": "https://open.spotify.com/track/12zM6bHYjq3rcqmWezwaT2"
+    },
+    {
+      "album": {
+        "name": "Losing My Head",
+        "url": "https://open.spotify.com/album/6rRfAtEBYO3Aa0DbIGf21L"
+      },
+      "artists": [
+        {
+          "name": "B-RED",
+          "url": "https://open.spotify.com/artist/6gGH04KywUUbUWc6tmXTpM"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174614,
+      "name": "Losing My Head",
+      "url": "https://open.spotify.com/track/0VF7NQh9Kxoex1h9vki0i2"
     },
     {
       "album": {
@@ -39848,12 +39848,12 @@
       },
       "artists": [
         {
-          "name": "Gino Mondana",
-          "url": "https://open.spotify.com/artist/2vsRoBbScJXFoPggL3co4M"
-        },
-        {
           "name": "Fivio Foreign",
           "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Gino Mondana",
+          "url": "https://open.spotify.com/artist/2vsRoBbScJXFoPggL3co4M"
         }
       ],
       "date_added": "2024-04-05",

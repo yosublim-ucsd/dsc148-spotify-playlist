@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,497 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,679 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 99 | [Alligator](https://open.spotify.com/track/611w5RH6Et8D5hrSqxxib7) | [Gia Ford](https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX) | [Alligator](https://open.spotify.com/album/2XXEJZqcwdc9iZLLmOPJPc) | 3:10 |
 | 100 | [QUE PASÓ](https://open.spotify.com/track/6HAPQ70OHzZ5QRfeoBUHkf) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [QUE PASÓ](https://open.spotify.com/album/5aFewLfeXMZKYFFYcPejso) | 2:25 |
 
-Snapshot ID: `MCw3MDEyODljODExNTBjNTBkMzdjMDRhMGEzZmI5MDcyMWI0MjdhYTll`
+Snapshot ID: `MCxhY2Y2ZGUwNzEzMTI4MWUyZDhiNjc4YjVmZTk2MjUyMDc0NmQ4ODA2`

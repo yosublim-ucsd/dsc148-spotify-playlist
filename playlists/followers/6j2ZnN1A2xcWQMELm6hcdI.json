@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 338042,
+  "2024-04-07": 338027,
   "date_first_scraped": "2022-06-10",
   "description": "The baddest and most influential women in music [Ex. <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>] ",
   "name": "Influence \ud83d\udc85 Hot Girl Era 2024",
@@ -5378,6 +5378,24 @@
     },
     {
       "album": {
+        "name": "OKLOSER",
+        "url": "https://open.spotify.com/album/6Dp4fwNoZD6Sum7PEheLrJ"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169053,
+      "name": "OKLOSER",
+      "url": "https://open.spotify.com/track/3EM5ZPDSe1JjSztumpsc5n"
+    },
+    {
+      "album": {
         "name": "Old Friends",
         "url": "https://open.spotify.com/album/0luE5bUcI2FzlBEyJh7Cd0"
       },
@@ -7021,6 +7039,28 @@
       "duration_ms": 199669,
       "name": "spend the money (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
+    },
+    {
+      "album": {
+        "name": "TORI.",
+        "url": "https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Kim Chaewon of LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/39j6wByxxNDb92rODch4mT"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163258,
+      "name": "spruce (feat. KIM CHAEWON of LE SSERAFIM)",
+      "url": "https://open.spotify.com/track/1LEeMr3Fpq8wH7j4Wbirew"
     },
     {
       "album": {

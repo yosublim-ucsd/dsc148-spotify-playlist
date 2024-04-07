@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 20805,
+  "2024-04-07": 20842,
   "date_first_scraped": "2023-05-27",
   "description": "For all the new African Gospel Releases this week. Cover:   <a href=https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL?si=mW1WzxO8RkGkMpqNc4BhLA>kingdmusic</a> ",
   "name": "Fresh Gospel Africa",
@@ -25668,6 +25668,32 @@
     },
     {
       "album": {
+        "name": "Man in the Mirror",
+        "url": "https://open.spotify.com/album/3T6MN2aHvAG1sTyutxQSWg"
+      },
+      "artists": [
+        {
+          "name": "Sean O\u2019Kana",
+          "url": "https://open.spotify.com/artist/1R3ZN548dmvg6I8zP5SKqc"
+        },
+        {
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+        },
+        {
+          "name": "Tamoi Kamp",
+          "url": "https://open.spotify.com/artist/4OQQIjs9bxsvL9KAc5riww"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Man in the Mirror",
+      "url": "https://open.spotify.com/track/4ehFDd2k4pY5Zd2rbkL8Ys"
+    },
+    {
+      "album": {
         "name": "The Prodigal Son",
         "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
       },
@@ -41334,6 +41360,24 @@
     },
     {
       "album": {
+        "name": "The Same",
+        "url": "https://open.spotify.com/album/4SkLREGsJHj1Y66ppqT5si"
+      },
+      "artists": [
+        {
+          "name": "Sammy Hart",
+          "url": "https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229736,
+      "name": "The Same",
+      "url": "https://open.spotify.com/track/7fUO1UeBjZb83UV8R5UNhw"
+    },
+    {
+      "album": {
         "name": "The Same Spirit",
         "url": "https://open.spotify.com/album/3oxDcrwDFk14X6dfDvEWW9"
       },
@@ -41801,6 +41845,28 @@
       "duration_ms": 210048,
       "name": "This Love",
       "url": "https://open.spotify.com/track/4Kackscg1IYMmtTJWlEqjN"
+    },
+    {
+      "album": {
+        "name": "This Mountain",
+        "url": "https://open.spotify.com/album/3i1b1OqwjPazkTsw12Q7d5"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mapepeta",
+          "url": "https://open.spotify.com/artist/1EAMWujIdiB6NTwc4BUUSH"
+        },
+        {
+          "name": "Sheri Lafontaine",
+          "url": "https://open.spotify.com/artist/0BIaDI6uNL2cHGDZIrEer5"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482485,
+      "name": "This Mountain",
+      "url": "https://open.spotify.com/track/1SDKiCanZcBy0AwXbeXRL8"
     },
     {
       "album": {

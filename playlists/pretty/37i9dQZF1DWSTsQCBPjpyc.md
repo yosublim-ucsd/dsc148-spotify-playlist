@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,508 likes - 72 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,550 likes - 72 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 71 | [Heart Of St\. Paul](https://open.spotify.com/track/3XoETx3JhzcsDjXk6CLpS9) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3CbjgETRjdUvgIJqu7qpZu) | 3:18 |
 | 72 | [Phone Booth](https://open.spotify.com/track/3uOs9LzMSrkvqKj0fWyiiP) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [Heavy Picks\-The Robert Cray Band Collection](https://open.spotify.com/album/4vxRqmFB4Tp4zXYV2HITXI) | 3:29 |
 
-Snapshot ID: `MCw0NTNlYjU3NTUzZWU2YWM4MWI3MTcxMzMwZGVmMGMxOGUyNmRjMmNi`
+Snapshot ID: `MCxmZGExY2ExMjM4YTc5MWZlOWNlZDZkOTRkZWUyNGNmYzI1MWU4MjJj`

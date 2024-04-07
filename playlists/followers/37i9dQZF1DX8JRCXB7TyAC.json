@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 33844,
+  "2024-04-07": 33886,
   "date_first_scraped": "2023-07-25",
   "description": "Workout with Haryanvi Songs. Cover: Ankit Baiyanpuria",
   "name": "Haryanvi Workout",
@@ -731,7 +731,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 168750,
       "name": "Don Dada",
       "url": "https://open.spotify.com/track/74pqHiISH1jCZcNTJrI5Qe"
@@ -897,6 +897,32 @@
       "duration_ms": 208909,
       "name": "Gunde Te Pyaar",
       "url": "https://open.spotify.com/track/3AaInQgz5j9wLN9PR87pqy"
+    },
+    {
+      "album": {
+        "name": "Gurjar Gang",
+        "url": "https://open.spotify.com/album/0LcekT7wnn60wsizvduMhe"
+      },
+      "artists": [
+        {
+          "name": "Jassi Kirarkot",
+          "url": "https://open.spotify.com/artist/2MrTNaowqRRDiTj0FKHvZP"
+        },
+        {
+          "name": "Dc",
+          "url": "https://open.spotify.com/artist/2FOKZV8ZRTKsJ9v90qIxoU"
+        },
+        {
+          "name": "Deepty",
+          "url": "https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "Gurjar Gang",
+      "url": "https://open.spotify.com/track/0Suya0KkIIaqvnXtXyGMpJ"
     },
     {
       "album": {

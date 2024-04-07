@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 201287,
+  "2024-04-07": 201293,
   "date_first_scraped": "2023-02-04",
   "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Robin Schulz x Timmy Trumpet x KOPPY",
   "name": "Electro Mix",
@@ -10663,10 +10663,40 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 159272,
       "name": "Little Love",
       "url": "https://open.spotify.com/track/0eGdM7J6f5djYzRC2GK7ey"
+    },
+    {
+      "album": {
+        "name": "Little Love",
+        "url": "https://open.spotify.com/album/6gfHyVWTfSFvw3MR2JkX9n"
+      },
+      "artists": [
+        {
+          "name": "Dallien",
+          "url": "https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ"
+        },
+        {
+          "name": "RVPTR",
+          "url": "https://open.spotify.com/artist/48fFW9rHg6jYYbPPnI1Ye4"
+        },
+        {
+          "name": "Ruxolf",
+          "url": "https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5"
+        },
+        {
+          "name": "n\u00f8ya.",
+          "url": "https://open.spotify.com/artist/7uQIdGvojsQWSphx9QHNYD"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "Little Love",
+      "url": "https://open.spotify.com/track/5FuUASiXyLlX1pEoNoDQDF"
     },
     {
       "album": {
@@ -11481,6 +11511,32 @@
     {
       "album": {
         "name": "Low",
+        "url": "https://open.spotify.com/album/2l6fa0xdKxeqRccBMKD4oh"
+      },
+      "artists": [
+        {
+          "name": "MITCH DB",
+          "url": "https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL"
+        },
+        {
+          "name": "Karlie Chui",
+          "url": "https://open.spotify.com/artist/6FGGgZv1TZOF0dkIW2yENg"
+        },
+        {
+          "name": "Navagio",
+          "url": "https://open.spotify.com/artist/5is5DqPrikZst947JUUy9z"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134072,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/4ziRpLkeDT6vUgeZGsRYOm"
+    },
+    {
+      "album": {
+        "name": "Low",
         "url": "https://open.spotify.com/album/7ok2ilxsy7loeZkIHcAsX3"
       },
       "artists": [
@@ -11499,7 +11555,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 134072,
       "name": "Low",
       "url": "https://open.spotify.com/track/5wzGl1NBbVdIFw5R4Zxonh"

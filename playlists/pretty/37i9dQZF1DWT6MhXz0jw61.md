@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Buddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,316,376 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,316,418 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Hustle Man](https://open.spotify.com/track/40jYg2r5MduOrKWAdBdTKy) | [YGTUT](https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU) | [I'm Back \(Deluxe\)](https://open.spotify.com/album/3tOznNvSuUmITjqGwR9Lj3) | 2:14 |
 | 100 | [Harajuku](https://open.spotify.com/track/1hBIqdVLtCq4OQZrx54CSU) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [TYO 808](https://open.spotify.com/album/6qT4CoP1NXZobvnam3Fyzm) | 2:07 |
 
-Snapshot ID: `MCw0OTdhYjkyOWQ0ZDY2OWM1OWI5ZWE3MWI2YjFjOTM3YWIxNjk5NWQ1`
+Snapshot ID: `MCxlY2Q1ZWE4MjYzYzNiOTg5MzljNTU3ZDBhY2MxZThmMTlkMDE0Nzcy`

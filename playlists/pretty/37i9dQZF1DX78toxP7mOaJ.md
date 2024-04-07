@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: mary in the junkyard
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,883 likes - 105 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,953 likes - 105 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 104 | [Tuk Tuk](https://open.spotify.com/track/0nhVVN2PUImbII3dY3F7tz) | [Dogmanjones](https://open.spotify.com/artist/3LZuWycCqpivjq1GP0TpvT) | [Tuk Tuk](https://open.spotify.com/album/1Ej3MhImiYwTWz6HyfpCzg) | 2:48 |
 | 105 | [Here Comes the Order of Malta](https://open.spotify.com/track/5mZJ3iwSXuLtWNMyDzfvDL) | [Oh Boland](https://open.spotify.com/artist/2HmnALl2GrcNUuI9C5visw) | [Here Comes the Order of Malta](https://open.spotify.com/album/02VVB9BavIyjqOG15OMe4p) | 3:44 |
 
-Snapshot ID: `MCw3YzVlYTQ1NWY2MjgxOWE5YTEzOGQ1ZTk1ZTZhOWI3MGVhNzI0YjQ4`
+Snapshot ID: `MCxiM2UxZjhjZmZmYjE5NzBiYmYwNGVlMzU4Nzg1YzFiNmI4YzI4YzE2`

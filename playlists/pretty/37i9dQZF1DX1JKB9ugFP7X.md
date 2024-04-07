@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del pop electrónico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,022 likes - 95 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,023 likes - 95 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 55 | [PURA](https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 2:14 |
 | 56 | [MAL NECESARIO](https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MAL NECESARIO](https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB) | 2:54 |
 | 57 | [Desaparecer](https://open.spotify.com/track/1mbA8WPUU8vUQzjyULTTCd) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Desaparecer](https://open.spotify.com/album/0yuO4ugzCbvXyyJLSfLHqh) | 4:20 |
-| 58 | [POSE!](https://open.spotify.com/track/0CBqdjYm2rVEEFbzxCtdLj) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [POSE!](https://open.spotify.com/album/20TZLmuA2scsAXFU62L1vN) | 2:52 |
-| 59 | [Flashback](https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Flashback](https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm) | 3:02 |
+| 58 | [Flashback](https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Flashback](https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm) | 3:02 |
+| 59 | [POSE!](https://open.spotify.com/track/0CBqdjYm2rVEEFbzxCtdLj) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [POSE!](https://open.spotify.com/album/20TZLmuA2scsAXFU62L1vN) | 2:52 |
 | 60 | [Un Dia de Verano](https://open.spotify.com/track/3GeqVjy0mj0rxdQEhorw8I) | [Milagros](https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU), [YOGAROCK](https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc) | [Un Dia de Verano](https://open.spotify.com/album/7mUWKTXni4xWqWkml6g3Yy) | 3:35 |
 | 61 | [CONEXIÓN DE AMOR](https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD) | [Make Mama Proud](https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI) | [Conexión De Amor](https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt) | 3:52 |
 | 62 | [Bajo Cero](https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Bajo Cero](https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7) | 4:03 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 70 | [Autosabotear \(Uffie & Lokoy Remix\)](https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [Lokoy](https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv) | [Autosabotear \(Uffie & Lokoy Remix\)](https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5) | 3:16 |
 | 71 | [El Magnetismo](https://open.spotify.com/track/4RJpJjhEH1yFizM4CGD65Z) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 5:11 |
 | 72 | [Sola por la Ciudad](https://open.spotify.com/track/1UH3xWxB8T2kTZlg37tfFs) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Poncholandia](https://open.spotify.com/album/7IY4JeLJedz5xyMDi0gfzW) | 4:40 |
-| 73 | [Romance de Fin de Semana](https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Romance de Fin de Semana](https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN) | 4:35 |
-| 74 | [Derrumbe](https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Derrumbe](https://open.spotify.com/album/23csDME5tEskWfOBPW09mi) | 3:21 |
+| 73 | [Derrumbe](https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Derrumbe](https://open.spotify.com/album/23csDME5tEskWfOBPW09mi) | 3:21 |
+| 74 | [Romance de Fin de Semana](https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Romance de Fin de Semana](https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN) | 4:35 |
 | 75 | [Volver](https://open.spotify.com/track/1t59IuGyLPy0ge1nKeQNXL) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 3:28 |
 | 76 | [Grana](https://open.spotify.com/track/5PL1SaEHcnb50LJ7itQgNO) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Fonomix](https://open.spotify.com/album/32vMhnRB3JbmRzAVd30KDL) | 2:37 |
 | 77 | [Cuando Se Apague Todo](https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [Cuando Se Apague Todo](https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS) | 3:48 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 83 | [Alta Magia \- Reversión 10 años](https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Alta Magia \(Reversión 10 años\)](https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl) | 5:57 |
 | 84 | [El Mundo Será Nuestro](https://open.spotify.com/track/44ISmW3lNQUqyqRRKrTw2K) | [GLAS](https://open.spotify.com/artist/4Z1zjj6iQYhxLY9zE9sJch) | [El Mundo Será Nuestro](https://open.spotify.com/album/4HU8TUSho4zUe3eG9I2xnX) | 4:38 |
 | 85 | [POKITO](https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [POKITO](https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T) | 4:12 |
-| 86 | [Ficción](https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Ficción](https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW) | 3:21 |
-| 87 | [Housie](https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Formas](https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF) | 3:33 |
+| 86 | [Housie](https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Formas](https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF) | 3:33 |
+| 87 | [Ficción](https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Ficción](https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW) | 3:21 |
 | 88 | [La Montaña](https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8) | [Fakuta](https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD) | [La Montaña](https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL) | 3:55 |
 | 89 | [Atentado en la Pista](https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG) | [Laika Perra Rusa](https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb) | [Marcha II](https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs) | 3:44 |
 | 90 | [Lucía](https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Lucía](https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH) | 4:49 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 94 | [Te quiero ver](https://open.spotify.com/track/5bVEYK9UQf4ow5RMU296Qj) | [Fernanda Elío](https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK) | [Después De Ti](https://open.spotify.com/album/2O8B8Y5bKAiimKnNU0p7OT) | 2:24 |
 | 95 | [Místico Mezcal](https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Atemporal](https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT) | 3:46 |
 
-Snapshot ID: `MCw0NjNjNTk2ODUwZjY1YzZjNDYwMzFjYWYzOWZkY2RiODI2OTIwZTFj`
+Snapshot ID: `MCw2MGMxZTUwOTg2NmZjNmM2M2M2NjcyNmMyMDBkZGEyYjE2NDI2NTli`

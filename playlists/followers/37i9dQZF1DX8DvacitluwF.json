@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 10857,
+  "2024-04-07": 10874,
   "date_first_scraped": "2023-10-18",
-  "description": "Only the best in South African and international RnB. Cover: <a href=\"https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf?si=-K7t4-FuSmK22E74drnYrQ>Mikhal\u00e9 Jones</a>",
+  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ?si=JXlG5TXLSlCYmG2vOSerZA>Gyakie</a>",
   "name": "R&Beats",
   "tracks": [
     {
@@ -766,6 +766,24 @@
     },
     {
       "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "December",
+      "url": "https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT"
+    },
+    {
+      "album": {
         "name": "Decide",
         "url": "https://open.spotify.com/album/28qJotgVoss0htjx54Z33G"
       },
@@ -813,7 +831,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 202460,
       "name": "Desire",
       "url": "https://open.spotify.com/track/6kSbTPcBqhPHObtLgKgJsm"
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 141176,
       "name": "End Of Summer",
       "url": "https://open.spotify.com/track/2ENNmSeAFS7Dc8Sgou8VzJ"
@@ -1544,6 +1562,24 @@
     },
     {
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN"
+      },
+      "artists": [
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182428,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY"
+    },
+    {
+      "album": {
         "name": "Filahsofy",
         "url": "https://open.spotify.com/album/0RL6vcm2zv4s50kOYSCG1t"
       },
@@ -1809,7 +1845,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 154937,
       "name": "It's You",
       "url": "https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW"
@@ -1919,6 +1955,32 @@
       "duration_ms": 179169,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/1sQKLo1aULGxkuhoESx6US"
+    },
+    {
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147071,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
     },
     {
       "album": {
@@ -2439,7 +2501,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 147046,
       "name": "No.1 (feat. Tems)",
       "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"

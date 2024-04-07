@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 334104,
+  "2024-04-07": 334122,
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Milo J & LIT killah.",
+  "description": "Flow sudamericano con La Kikada, Pablo Chill-E & Milly.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -4959,7 +4959,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 135652,
       "name": "Conexi\u00f3n (Hippie por Dentro)",
       "url": "https://open.spotify.com/track/54eCUdCFzuiN7tfx2Dsj5z"
@@ -7340,6 +7340,32 @@
     },
     {
       "album": {
+        "name": "El Heredero",
+        "url": "https://open.spotify.com/album/0T92td02Coh8Hhw1aTx9NQ"
+      },
+      "artists": [
+        {
+          "name": "MP El Juvenil",
+          "url": "https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3"
+        },
+        {
+          "name": "R loops",
+          "url": "https://open.spotify.com/artist/03PpfvyaW0cxw17j7Fwr7j"
+        },
+        {
+          "name": "T1MO",
+          "url": "https://open.spotify.com/artist/4dYIZjd9jwXZYjnqwqgiBa"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152318,
+      "name": "El Heredero",
+      "url": "https://open.spotify.com/track/3bUcRhhsos3DugtdmlVKKZ"
+    },
+    {
+      "album": {
         "name": "El Maquinon",
         "url": "https://open.spotify.com/album/0bMZM5lXzUqJonFQyMU49P"
       },
@@ -7659,7 +7685,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 142000,
       "name": "En Mi Cama",
       "url": "https://open.spotify.com/track/1vkSHRmOF2iasL6QHBrfOR"
@@ -8449,6 +8475,28 @@
       "duration_ms": 199656,
       "name": "Felices x Siempre",
       "url": "https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn"
+    },
+    {
+      "album": {
+        "name": "Female Rage",
+        "url": "https://open.spotify.com/album/13GXVYfvdKfAW2TtOPNA6N"
+      },
+      "artists": [
+        {
+          "name": "Bby Lean",
+          "url": "https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164879,
+      "name": "Female Rage",
+      "url": "https://open.spotify.com/track/34bl5PghPi6t8VOiaV4ND9"
     },
     {
       "album": {
@@ -12049,7 +12097,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 144793,
       "name": "Lanah",
       "url": "https://open.spotify.com/track/39nvMBpEmkMKMmVmBN7f4t"
@@ -16174,6 +16222,28 @@
     },
     {
       "album": {
+        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155888,
+      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
+    },
+    {
+      "album": {
         "name": "Naturaleza",
         "url": "https://open.spotify.com/album/1FeE90MPKXBIZOhKQzxHxF"
       },
@@ -16485,7 +16555,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 248571,
       "name": "NO APAGUES LA LUZ",
       "url": "https://open.spotify.com/track/1w0gzlVggcvSf3BPd9q8CL"
@@ -16669,6 +16739,28 @@
       "duration_ms": 126857,
       "name": "No Hacen Nah",
       "url": "https://open.spotify.com/track/384XdVyRJNzU7DAg2JsHkr"
+    },
+    {
+      "album": {
+        "name": "NO HAY QUE PREGUNTAR",
+        "url": "https://open.spotify.com/album/0vXcwRCCcIDgdVpaIReZFC"
+      },
+      "artists": [
+        {
+          "name": "Keityn",
+          "url": "https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202173,
+      "name": "NO HAY QUE PREGUNTAR",
+      "url": "https://open.spotify.com/track/4NhicasWolYAelOoWgeCrI"
     },
     {
       "album": {
@@ -17913,7 +18005,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 164150,
       "name": "Otra Nota",
       "url": "https://open.spotify.com/track/5MmtCMTozciY2odNvAEdJ3"
@@ -19103,7 +19195,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 193043,
       "name": "Pensandote",
       "url": "https://open.spotify.com/track/0km3c8Qiwi9kicTSTt9Ld1"
@@ -19659,7 +19751,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 264347,
       "name": "Por El Cuello",
       "url": "https://open.spotify.com/track/3rJd6gR88HvAkpkL4Ufgg3"
@@ -20247,6 +20339,24 @@
       "duration_ms": 218500,
       "name": "QUE BIEN",
       "url": "https://open.spotify.com/track/7d7jaZlPPLlorjfbdL4XEB"
+    },
+    {
+      "album": {
+        "name": "Que Hay Amor",
+        "url": "https://open.spotify.com/album/0X2LGV7tO8XoIca038V56u"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169011,
+      "name": "Que Hay Amor",
+      "url": "https://open.spotify.com/track/3YkpOplxxP5U32K6Eq4irv"
     },
     {
       "album": {
@@ -21125,6 +21235,32 @@
       "duration_ms": 191590,
       "name": "Rkt Session #2",
       "url": "https://open.spotify.com/track/1GaLuBLtsFPt7q5jIB9oHS"
+    },
+    {
+      "album": {
+        "name": "ROBARTE (REMIX)",
+        "url": "https://open.spotify.com/album/4OJVWuG91YPHdzC634pzwo"
+      },
+      "artists": [
+        {
+          "name": "El Joan",
+          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+        },
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177965,
+      "name": "ROBARTE - REMIX",
+      "url": "https://open.spotify.com/track/3NE1RQxfolHntyjtYA7dTF"
     },
     {
       "album": {
@@ -23238,6 +23374,32 @@
     },
     {
       "album": {
+        "name": "Tarzan",
+        "url": "https://open.spotify.com/album/3vhqthzJQx6ZF1AQsyprGD"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Milly",
+          "url": "https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp"
+        },
+        {
+          "name": "La Kikada",
+          "url": "https://open.spotify.com/artist/7Fpb4yEAPfiQfY0Bx0uLm5"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195761,
+      "name": "Tarzan",
+      "url": "https://open.spotify.com/track/2WuIvu6jnM0a6qho8bL4h3"
+    },
+    {
+      "album": {
         "name": "Tarzan de la Selva",
         "url": "https://open.spotify.com/album/1nTQGvg4A5uxA2kc3Zv4S4"
       },
@@ -23321,7 +23483,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 483683,
       "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) - Remix",
       "url": "https://open.spotify.com/track/6YNzvCsLwAJ4xZjdK9qk3r"
@@ -24305,7 +24467,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 146222,
       "name": "Tottenham",
       "url": "https://open.spotify.com/track/0w8kBrAU2eokRRMcxLmGB6"

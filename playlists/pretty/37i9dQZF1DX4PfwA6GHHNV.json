@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 16588,
+  "num_followers": 16590,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2Y1NGZhNzU1YzgwNDkxMzYwOTkyZDEzNzBkNGNlOTZkYjBlMDZm",
+  "snapshot_id": "MCwzNzQzZDYzYmQ2NzliMTRlZmFlM2VmNGJhYzFiZmFkNzhlMjc2OWEw",
   "tracks": [
     {
       "added_at": "2024-03-29 03:01:00",
@@ -167,30 +167,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/1WMGcN4qIb0ui7ZkljLkWi"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "D-Hit",
-          "url": "https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p"
-        },
-        {
-          "name": "Jaca Beats",
-          "url": "https://open.spotify.com/artist/0GNm0Tq6BRwavnzheRcRWl"
-        }
-      ],
-      "duration_ms": 116588,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/2XjHq66MOjqO51SxnwecnT"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Abelha",
         "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
       },
@@ -211,6 +187,30 @@
       "duration_ms": 138666,
       "name": "Abelha",
       "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/1WMGcN4qIb0ui7ZkljLkWi"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "D-Hit",
+          "url": "https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p"
+        },
+        {
+          "name": "Jaca Beats",
+          "url": "https://open.spotify.com/artist/0GNm0Tq6BRwavnzheRcRWl"
+        }
+      ],
+      "duration_ms": 116588,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/2XjHq66MOjqO51SxnwecnT"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -521,6 +521,22 @@
       "url": "https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf"
     },
     {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Fala Comigo",
+        "url": "https://open.spotify.com/album/7HdRWz0dgVDL4GPctATG1T"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9co Oficial",
+          "url": "https://open.spotify.com/artist/0ptHTBxVRPbo2qNsOaFRrx"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Fala Comigo",
+      "url": "https://open.spotify.com/track/5ZR2TRnxpq47Tp7a4FUHNi"
+    },
+    {
       "added_at": "2024-03-29 03:01:00",
       "album": {
         "name": "S\u00f3 Minha",
@@ -567,26 +583,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 194862,
-      "name": "Luar",
-      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Perigo",
         "url": "https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT"
       },
@@ -619,6 +615,42 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 194862,
+      "name": "Luar",
+      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "VER\u00c3O",
+        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "VER\u00c3O",
+      "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "O Que Ela Tem?",
         "url": "https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7"
       },
@@ -639,22 +671,6 @@
       "duration_ms": 133333,
       "name": "O Que Ela Tem?",
       "url": "https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "VER\u00c3O",
-        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "VER\u00c3O",
-      "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -699,26 +715,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Bi$",
-          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
-        }
-      ],
-      "duration_ms": 144522,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Afasta",
         "url": "https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k"
       },
@@ -739,22 +735,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Anel da Pandora",
-        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
       },
       "artists": [
         {
-          "name": "greg mc",
-          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
         },
         {
-          "name": "ESCOB4R",
-          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+          "name": "Bi$",
+          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
         }
       ],
-      "duration_ms": 199012,
-      "name": "Anel da Pandora",
-      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
+      "duration_ms": 144522,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -775,30 +771,6 @@
       "duration_ms": 215572,
       "name": "T\u00f4 Aqui de Novo",
       "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Me Diz",
-        "url": "https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP"
-      },
-      "artists": [
-        {
-          "name": "Neittan",
-          "url": "https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n"
-        },
-        {
-          "name": "Paulla",
-          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
-        },
-        {
-          "name": "AlmaViva M\u00fasica",
-          "url": "https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG"
-        }
-      ],
-      "duration_ms": 162338,
-      "name": "Me Diz",
-      "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -827,6 +799,30 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Me Diz",
+        "url": "https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP"
+      },
+      "artists": [
+        {
+          "name": "Neittan",
+          "url": "https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n"
+        },
+        {
+          "name": "Paulla",
+          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
+        },
+        {
+          "name": "AlmaViva M\u00fasica",
+          "url": "https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG"
+        }
+      ],
+      "duration_ms": 162338,
+      "name": "Me Diz",
+      "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "Arrepios",
         "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
       },
@@ -843,6 +839,26 @@
       "duration_ms": 205000,
       "name": "Arrepios",
       "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+      },
+      "artists": [
+        {
+          "name": "greg mc",
+          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
+        },
+        {
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+        }
+      ],
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -943,26 +959,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5"
-      },
-      "artists": [
-        {
-          "name": "Tito JV",
-          "url": "https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao"
-        },
-        {
-          "name": "Dj Leopoldo",
-          "url": "https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o"
-        }
-      ],
-      "duration_ms": 166438,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Lembra?",
         "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
       },
@@ -979,42 +975,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Fases Vol. 1",
-        "url": "https://open.spotify.com/album/0VUKUkjsiowwZIHheuNOaG"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5"
       },
       "artists": [
         {
-          "name": "Binho Salles",
-          "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
+          "name": "Tito JV",
+          "url": "https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao"
         },
         {
-          "name": "WALL",
-          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+          "name": "Dj Leopoldo",
+          "url": "https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o"
         }
       ],
-      "duration_ms": 146526,
-      "name": "Teimosa e Ciumenta",
-      "url": "https://open.spotify.com/track/5Xgbiv7vaRjKPq8PhXZcdd"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Atitude",
-        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
-      },
-      "artists": [
-        {
-          "name": "RUBY",
-          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
-        },
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 185741,
-      "name": "Brinca Comigo",
-      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
+      "duration_ms": 166438,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1041,20 +1017,24 @@
       "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
     },
     {
-      "added_at": "2024-04-05 03:01:00",
+      "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Fala Comigo",
-        "url": "https://open.spotify.com/album/7HdRWz0dgVDL4GPctATG1T"
+        "name": "Fases Vol. 1",
+        "url": "https://open.spotify.com/album/0VUKUkjsiowwZIHheuNOaG"
       },
       "artists": [
         {
-          "name": "P\u00e9co Oficial",
-          "url": "https://open.spotify.com/artist/0ptHTBxVRPbo2qNsOaFRrx"
+          "name": "Binho Salles",
+          "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Fala Comigo",
-      "url": "https://open.spotify.com/track/5ZR2TRnxpq47Tp7a4FUHNi"
+      "duration_ms": 146526,
+      "name": "Teimosa e Ciumenta",
+      "url": "https://open.spotify.com/track/5Xgbiv7vaRjKPq8PhXZcdd"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1071,6 +1051,26 @@
       "duration_ms": 155294,
       "name": "TocToc",
       "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Atitude",
+        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
+      },
+      "artists": [
+        {
+          "name": "RUBY",
+          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
+        },
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 185741,
+      "name": "Brinca Comigo",
+      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
     }
   ],
   "unique_name": "pique afrobeats",

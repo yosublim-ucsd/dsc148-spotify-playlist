@@ -4,7 +4,7 @@
 
 > Italian funk, disco and jazz, recent and old\. Hand\-picked by actual Italians\. 🌙
 
-288 songs - 22 hr 36 min
+289 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [Prix Choc \- Radio Edit \- High Mix](https://open.spotify.com/track/6UEhwP9HXhRlltR8y9iH8D) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Prix Choc Remixes \- EP](https://open.spotify.com/album/3gM5pBpuKsYF1LCFYUbIG8) | 3:55 | 2021-09-01 | 2022-07-29 |
 | [Puccini: Madama Butterfly, Act 2: "Un bel dì vedremo" \(Butterfly\)](https://open.spotify.com/track/3hpJpleLIWeUSYGcbbTQuj) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY), [Orchestra Del Teatro Alla Scala, Milano](https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57) | [Pure \- Maria Callas](https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO) | 4:46 | 2023-09-07 | 2023-10-02 |
 | [Pyramid \- Mixed](https://open.spotify.com/track/2n1WQwQVpkEQyIW7yBcl2H) | [Soul Bros Inc.](https://open.spotify.com/artist/1zupRZgEyj3kKwVBaMJQeX) | [Mister Saturday Night, Then And Now \(Mixed Tracks\)](https://open.spotify.com/album/5h9gVzIEGXSWtk6QDXumWo) | 2:12 | 2021-09-01 | 2022-07-20 |
-| [Questo Disco](https://open.spotify.com/track/1fz5UbtfPnSl4CX4CEsiaN) | [Better Call Savnko](https://open.spotify.com/artist/4TCFbpx6POdDCpQmn8RE62), [Savnko](https://open.spotify.com/artist/6LP9McRfEirD7mamCEK4Ck), [Ricky Borsieri](https://open.spotify.com/artist/0iAsdWb3cA4D6dgsuNYkXL), [Ursula Casadei](https://open.spotify.com/artist/0hGchcNTe3TJG7NOj2QLkN) | [Questo Disco](https://open.spotify.com/album/6JSVuzS7iXWFSSR3xC9Zbg) | 3:18 | 2023-10-01 |  |
+| [Questo Disco](https://open.spotify.com/track/1fz5UbtfPnSl4CX4CEsiaN) | [Better Call Savnko](https://open.spotify.com/artist/4TCFbpx6POdDCpQmn8RE62), [Savnko](https://open.spotify.com/artist/6LP9McRfEirD7mamCEK4Ck), [Ricky Borsieri](https://open.spotify.com/artist/0iAsdWb3cA4D6dgsuNYkXL), [Ursula Casadei](https://open.spotify.com/artist/0hGchcNTe3TJG7NOj2QLkN) | [Questo Disco](https://open.spotify.com/album/6JSVuzS7iXWFSSR3xC9Zbg) | 3:18 | 2023-10-01 | 2024-04-07 |
+| [Questo Disco](https://open.spotify.com/track/0huZLKwetU2qCHkcsneUoD) | [Savnko](https://open.spotify.com/artist/6LP9McRfEirD7mamCEK4Ck), [Better Call Savnko](https://open.spotify.com/artist/4TCFbpx6POdDCpQmn8RE62), [Ricky Borsieri](https://open.spotify.com/artist/0iAsdWb3cA4D6dgsuNYkXL), [Ursula Casadei](https://open.spotify.com/artist/0hGchcNTe3TJG7NOj2QLkN) | [Questo Disco](https://open.spotify.com/album/5UcIbaEvHyTeLfNjpwoxq6) | 3:18 | 2024-01-18 |  |
 | [Quimere \- Sognatrici Napoletane](https://open.spotify.com/track/61rXHYvOfOd8uX4apo9xs7) | [Pellegrino](https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow), [Zodyaco](https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1) | [Quimere](https://open.spotify.com/album/4Ui87sYlTNvnQc9i5ouu9I) | 4:20 | 2023-10-01 |  |
 | [Rap\-O Clap\-O \- 2013 \- Remaster](https://open.spotify.com/track/3zjPJnExupCwiukKM27m9q) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Anthology](https://open.spotify.com/album/0RHvIL5YrBdDp5RmSbAwZg) | 3:51 | 2021-09-01 | 2023-09-08 |
 | [Raw Cuts \#3](https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b) | [Danilo Plessow](https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Raw Cuts \#3](https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe) | 6:54 | 2021-09-01 | 2023-09-08 |

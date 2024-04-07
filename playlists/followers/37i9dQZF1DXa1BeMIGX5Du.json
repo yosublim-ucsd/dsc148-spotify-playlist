@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 548263,
+  "2024-04-07": 548380,
   "date_first_scraped": "2022-04-14",
   "description": "The perfectly brewed cup, the perfect songs to match. Your happy place is right here.",
   "name": "Coffee + Chill",
@@ -3833,7 +3833,7 @@
     {
       "album": {
         "name": "The Second Act",
-        "url": "https://open.spotify.com/album/4hVQwE4HbQWok3dOz2CZVs"
+        "url": "https://open.spotify.com/album/1ZcQMRWdtngrP9YuAayQcG"
       },
       "artists": [
         {
@@ -3844,6 +3844,24 @@
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219316,
+      "name": "The Second Act",
+      "url": "https://open.spotify.com/track/1TQt6A6Ox6HgD81k2CZZPJ"
+    },
+    {
+      "album": {
+        "name": "The Second Act",
+        "url": "https://open.spotify.com/album/4hVQwE4HbQWok3dOz2CZVs"
+      },
+      "artists": [
+        {
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-06",
       "duration_ms": 219316,
       "name": "The Second Act",
       "url": "https://open.spotify.com/track/5RcWnnP5TMszVvarhYaoqa"

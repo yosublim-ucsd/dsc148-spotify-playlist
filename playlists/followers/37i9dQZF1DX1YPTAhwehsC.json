@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 454576,
+  "2024-04-07": 454604,
   "date_first_scraped": "2021-12-21",
   "description": "Up and down I-95. Cover: A Boogie Wit da Hoodie",
   "name": "State of Mind",
@@ -371,6 +371,24 @@
       "duration_ms": 122251,
       "name": "2Deep (feat. Kenzo B)",
       "url": "https://open.spotify.com/track/6Zj3a93pZzni1VZNhxkFt3"
+    },
+    {
+      "album": {
+        "name": "2Humpy is Back",
+        "url": "https://open.spotify.com/album/7MhYVTaSPS0RTKWansikxZ"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "2Humpy is Back",
+      "url": "https://open.spotify.com/track/73harPbJ88fXniW9uHIYMc"
     },
     {
       "album": {
@@ -2136,6 +2154,36 @@
     },
     {
       "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/1xnYdPt8wEZyOwH8Q9GCNY"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239471,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/24b5TbtIBm5xRixapLABo7"
+    },
+    {
+      "album": {
         "name": "Bitches & Bottles",
         "url": "https://open.spotify.com/album/5wDJnlUVEHCI3C1CG40hFy"
       },
@@ -3107,6 +3155,24 @@
       "duration_ms": 196224,
       "name": "BUST DOWN (feat. Rah Swish)",
       "url": "https://open.spotify.com/track/7e2trNONVOboRYbTe5dQLQ"
+    },
+    {
+      "album": {
+        "name": "BUT IM BACK",
+        "url": "https://open.spotify.com/album/5Z5na2S2I3vTnZDNhZh9Xi"
+      },
+      "artists": [
+        {
+          "name": "YungManny",
+          "url": "https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "BUT IM BACK",
+      "url": "https://open.spotify.com/track/49Z2dsPmdG6dqXWvrqFT2F"
     },
     {
       "album": {
@@ -4517,7 +4583,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 161626,
       "name": "DIAMONDS LIGHTS FAST CARS (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/0Axs9yNdLaCiOdqrhIfnXV"
@@ -5019,7 +5085,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 152000,
       "name": "Don't Kill My Vybe",
       "url": "https://open.spotify.com/track/0wE9g4YgasoCF0dBzm5WZW"
@@ -5841,7 +5907,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 203851,
       "name": "Everything Dead",
       "url": "https://open.spotify.com/track/3nL3bZOWuFBbH4KKaWW1Vq"
@@ -6741,7 +6807,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 108530,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI"
@@ -7252,6 +7318,24 @@
     },
     {
       "album": {
+        "name": "Get a Chain",
+        "url": "https://open.spotify.com/album/5KH4xqGLRZq8425i8Ox8ee"
+      },
+      "artists": [
+        {
+          "name": "OT7 Quanny",
+          "url": "https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175078,
+      "name": "Get a Chain",
+      "url": "https://open.spotify.com/track/1z7dDacN6AUdmU9Kp2n3YK"
+    },
+    {
+      "album": {
         "name": "Get Back (feat. G Herbo)",
         "url": "https://open.spotify.com/album/29uX8kttgwZkbzDtn05yY6"
       },
@@ -7727,7 +7811,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 193922,
       "name": "Gold Crossbow",
       "url": "https://open.spotify.com/track/7b1U1WyYSe694jTqmF3tEN"
@@ -9807,7 +9891,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 178454,
       "name": "Juice In The Hood",
       "url": "https://open.spotify.com/track/3HQCjSh485i3UVGLI4TkV0"
@@ -10477,7 +10561,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 160148,
       "name": "Let Ha Go",
       "url": "https://open.spotify.com/track/6KJ4KLIDUwGZygoXyMZbUF"
@@ -11249,6 +11333,24 @@
       "duration_ms": 158297,
       "name": "Mad Max",
       "url": "https://open.spotify.com/track/4G25g9tJMVBuJt3eHkkvBZ"
+    },
+    {
+      "album": {
+        "name": "MADONNA & RIHANNA",
+        "url": "https://open.spotify.com/album/0r81t0FQLIyyAytNSLUbqy"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122482,
+      "name": "MADONNA & RIHANNA",
+      "url": "https://open.spotify.com/track/704qSGogleVeb46KLsMl2e"
     },
     {
       "album": {
@@ -12156,6 +12258,24 @@
     },
     {
       "album": {
+        "name": "porno story",
+        "url": "https://open.spotify.com/album/1u2eDAbSLeXrIiBYiHWCd3"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132469,
+      "name": "ms.beautiful V",
+      "url": "https://open.spotify.com/track/2u0I3ZqpAoj59pfYAfFyTs"
+    },
+    {
+      "album": {
         "name": "Mtv Traps",
         "url": "https://open.spotify.com/album/5HyV8cBawSYLoKIr4wKKjy"
       },
@@ -12859,6 +12979,32 @@
       "duration_ms": 168666,
       "name": "No Effort",
       "url": "https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg"
+    },
+    {
+      "album": {
+        "name": "No Knucklin Up",
+        "url": "https://open.spotify.com/album/7czVv19JISNuWMWW6qe8WL"
+      },
+      "artists": [
+        {
+          "name": "Sha Gz",
+          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
+        },
+        {
+          "name": "Yus Gz",
+          "url": "https://open.spotify.com/artist/3RMAZkh3T3IO2EUMuZMlOE"
+        },
+        {
+          "name": "Nesty Gzz",
+          "url": "https://open.spotify.com/artist/7sWzku81OpTXm3H20H97qw"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "No Knucklin Up",
+      "url": "https://open.spotify.com/track/5nO4GuFHM2Z85QusTzn5RY"
     },
     {
       "album": {
@@ -15619,6 +15765,24 @@
       "duration_ms": 214445,
       "name": "Red Ruby Da Sleeze",
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
+    },
+    {
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/5edFcPfFPfmKv1RNuwDNyi"
+      },
+      "artists": [
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196334,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/0pjLpfnkjmrKAeBpcEX2Rm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Pony Bravo en portada.
 
-2,497 songs - 6 day 1 hr 27 min
+2,498 songs - 6 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2407,7 +2407,8 @@
 | [Viajando por el interior](https://open.spotify.com/track/26vkdWyOHx3rBY2zTb7f8I) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Se nos lleva el aire](https://open.spotify.com/album/3V0gXpeLYWle5J3vy1O4Lu) | 6:55 | 2023-12-15 | 2024-01-13 |
 | [Viajero](https://open.spotify.com/track/4EZG3Fp8K0YDcoCm6hpQW2) | [Tocando Techo](https://open.spotify.com/artist/4ZoykgIxJOeaS1uoADIHqo) | [Viajero](https://open.spotify.com/album/7Ah7pupexFSxNlk0CMBoTl) | 4:15 | 2023-08-11 | 2023-08-26 |
 | [Vicente](https://open.spotify.com/track/54raWUZ2iFY03KffBi8vnx) | [Tuzeint](https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X) | [Vicente](https://open.spotify.com/album/1TpjS3QqlEpH8FhNElbpur) | 2:29 | 2023-01-20 | 2023-01-28 |
-| [Vida de locos](https://open.spotify.com/track/0iOA58UWDwq5jilLLOhR30) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Adrià Salas](https://open.spotify.com/artist/1c7dIKNsUH2LZ998pvirXH) | [Baile Infinito](https://open.spotify.com/album/1zmmya1G0UWUrDVyZ2MssT) | 3:15 | 2024-03-29 |  |
+| [Vida de locos](https://open.spotify.com/track/0iOA58UWDwq5jilLLOhR30) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Adrià Salas](https://open.spotify.com/artist/1c7dIKNsUH2LZ998pvirXH) | [Baile Infinito](https://open.spotify.com/album/1zmmya1G0UWUrDVyZ2MssT) | 3:15 | 2024-03-29 | 2024-04-07 |
+| [Vida de locos](https://open.spotify.com/track/4Hb9R572ZZntBXJFLk1oou) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Adrià Salas](https://open.spotify.com/artist/1c7dIKNsUH2LZ998pvirXH) | [Vida de locos](https://open.spotify.com/album/4MNcfvhB5uKmor2POyfIqY) | 3:15 | 2024-04-05 |  |
 | [Vida de €1](https://open.spotify.com/track/7J0Axf47PKVI3AiD4SGEOT) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov) | [Vida de 1€](https://open.spotify.com/album/5QfcgkJKLbpDpd0GoMtBPK) | 2:03 | 2024-02-23 | 2024-03-09 |
 | [vida después de la muerte](https://open.spotify.com/track/2zUn0A8heLhcQqsifMyp6b) | [Helian Evans](https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N), [Legna Hernández](https://open.spotify.com/artist/3KT60z0Op7S337GY46cXm4) | [vida después de la muerte](https://open.spotify.com/album/4sp9YxmD5buvtTjxB8Q1iH) | 2:32 | 2023-11-17 | 2023-12-02 |
 | [Vida Extra](https://open.spotify.com/track/1V66o1XgIlAanyts5LjhMF) | [Airbag](https://open.spotify.com/artist/5N5JYIR5eyLrUcwutGZdal) | [Vida Extra](https://open.spotify.com/album/0JTAb95GgPTB3tMLcg3LfS) | 2:10 | 2024-01-12 | 2024-01-27 |

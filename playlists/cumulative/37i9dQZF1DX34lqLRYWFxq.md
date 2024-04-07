@@ -4,7 +4,7 @@
 
 > Your weekly rock update\. Cover: Gustaf
 
-1,009 songs - 2 day 8 hr 1 min
+1,010 songs - 2 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Altruistic](https://open.spotify.com/track/0ZsR9WpkHI8JygR2w044jp) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Altruistic](https://open.spotify.com/album/0WTxum1YcK1H1nsboDdwrc) | 3:25 | 2024-02-23 | 2024-03-23 |
 | [Always](https://open.spotify.com/track/7fuzX8L06JinfbGT5Jm3gY) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Always](https://open.spotify.com/album/2Qxe83nN1Y8aBXIoUaxjBd) | 3:55 | 2023-12-08 | 2024-01-27 |
 | [Always on the Run](https://open.spotify.com/track/1bwSqLCZQCwRQ66zrnP23Y) | [Les Deuxluxes](https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg), [Les Shirley](https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer) | [Always on the Run](https://open.spotify.com/album/3EbFczyVasN2l2m2GaakSW) | 4:54 | 2024-03-08 |  |
-| [Am I The Menace?](https://open.spotify.com/track/7HVJD6Kjsrje6ivaXDblY0) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Am I The Menace?](https://open.spotify.com/album/3dTZbo9tPa7Ms5rcRbxDP2) | 3:01 | 2024-03-22 |  |
+| [Am I The Menace?](https://open.spotify.com/track/7HVJD6Kjsrje6ivaXDblY0) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Am I The Menace?](https://open.spotify.com/album/3dTZbo9tPa7Ms5rcRbxDP2) | 3:01 | 2024-03-22 | 2024-04-07 |
+| [Am I The Menace?](https://open.spotify.com/track/7KTu2e9HlZI8NtYMW2EzAY) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Free Rein to Passions \(Deluxe\)](https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk) | 3:01 | 2024-04-05 |  |
 | [Ambulance](https://open.spotify.com/track/5YWjjonpichJ9BPDjzBwBt) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Ambulance](https://open.spotify.com/album/4MzAmsn2lpwi0NkYtXlJdZ) | 3:27 | 2023-02-10 | 2023-03-18 |
 | [Amphetamine Smiles](https://open.spotify.com/track/5My3w0udRZoFmhSi7lBqXQ) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Amphetamine Smiles](https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY) | 3:05 | 2023-09-29 | 2023-10-29 |
 | [Amphetamine Smiles](https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:05 | 2023-10-27 | 2023-11-11 |

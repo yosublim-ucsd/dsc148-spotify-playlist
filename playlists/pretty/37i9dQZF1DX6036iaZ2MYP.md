@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Simi x Tiwa Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,231 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,313 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [I Dey Slide](https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [I Dey Slide](https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo) | 3:22 |
 | 50 | [Légende](https://open.spotify.com/track/0emGnnTL0TQrGY5r6Agbhj) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Légende](https://open.spotify.com/album/6PXVs8Ap2JMUWn2znMlcF7) | 2:45 |
 
-Snapshot ID: `MCxlM2ExZjcwZjY5ZGE1NGI2YjUzOTk0YjRjZGQwY2YzN2RhNWJiNjQy`
+Snapshot ID: `MCwwYzkwOWU0NjI2ZTMwMTk0MDY0MGEyOGZmNzI3MThhN2MwYTU0YTY0`

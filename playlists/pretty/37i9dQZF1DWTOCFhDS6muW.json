@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 23643,
+  "num_followers": 23667,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWZiYzk0MTIyNjdhNWQyZmI0NzJjMTIyZjljMzE0M2E2MjFlYzFj",
+  "snapshot_id": "MCwyNDQyMWQ3MGQ3M2ZjM2Y3Yjg4OGQ2ZTE5MmY4ZWExOGY0YWVjNDhj",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -351,6 +351,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "Sabor Catracho!, Vol. 3",
+        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Roland's",
+          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
+        }
+      ],
+      "duration_ms": 213321,
+      "name": "Laluda Bellu",
+      "url": "https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Quemala",
         "url": "https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 145321,
       "name": "Quemala",
       "url": "https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Sabor Catracho!, Vol. 3",
-        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Roland's",
-          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
-        }
-      ],
-      "duration_ms": 213321,
-      "name": "Laluda Bellu",
-      "url": "https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -471,8 +471,8 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 10",
-        "url": "https://open.spotify.com/album/4vH68G4MKGfdcs49bPpNUF"
+        "name": "Va Ca\u00f1on!",
+        "url": "https://open.spotify.com/album/5RPlUSC5OJHeOuag7HTWUe"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
         }
       ],
-      "duration_ms": 230800,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/4yCeZVmXYQwCSdvck8zFqg"
+      "duration_ms": 238184,
+      "name": "Otro Amor Llego",
+      "url": "https://open.spotify.com/track/759uPQuPn0hm8ZclHOVRn9"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -615,8 +615,8 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Va Ca\u00f1on!",
-        "url": "https://open.spotify.com/album/5RPlUSC5OJHeOuag7HTWUe"
+        "name": "Batalla de las Puntas, Vol. 10",
+        "url": "https://open.spotify.com/album/4vH68G4MKGfdcs49bPpNUF"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
         }
       ],
-      "duration_ms": 238184,
-      "name": "Otro Amor Llego",
-      "url": "https://open.spotify.com/track/759uPQuPn0hm8ZclHOVRn9"
+      "duration_ms": 230800,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/4yCeZVmXYQwCSdvck8zFqg"
     },
     {
       "added_at": "2020-05-26 15:53:13",

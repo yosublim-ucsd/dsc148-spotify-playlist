@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: The Story So Far
 
-1,174 songs - 2 day 14 hr 3 min
+1,175 songs - 2 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Crash Course](https://open.spotify.com/track/2oFf6cTGdZesNk4TxSpuJe) | [Dear Youth](https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG) | [Heirloom](https://open.spotify.com/album/0JsLMP8FHcwICqNdCgyw5C) | 3:16 | 2022-02-04 | 2022-04-21 |
 | [crash my car](https://open.spotify.com/track/4Rrl4ep3FRVuF2OZ40LQl6) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [crash my car/devil on my shoulder](https://open.spotify.com/album/0QjEeDfF38YVsbb9Bv92NC) | 2:44 | 2022-04-15 | 2022-07-12 |
 | [crash my car](https://open.spotify.com/track/51kkiW6zF66YKuwyPPUU9o) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [heartbreak highway](https://open.spotify.com/album/0d9Eey60jByinESVUbC2Uk) | 2:44 | 2023-04-10 | 2023-04-12 |
+| [Crawl II](https://open.spotify.com/track/5lriyhkDRZvtl8fKD9JU0T) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/1Suln1akGBpyDrKZENbsX9) | 3:15 | 2024-03-22 |  |
 | [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 | 2023-04-23 | 2024-03-30 |
 | [Crazy](https://open.spotify.com/track/7ox7u0VHZRTb2OJetuYF7n) | [Five AM](https://open.spotify.com/artist/5yOIBW9Rxj73pJrqhW0fpS) | [Crazy](https://open.spotify.com/album/4iM4umvgxKL38p0SGZRtaz) | 3:01 | 2022-03-25 | 2022-04-20 |
 | [Criminal](https://open.spotify.com/track/0CXQ2LNOcb6oJTWYEWKtyK) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Living Proof](https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I) | 3:22 | 2021-12-10 | 2022-05-09 |
@@ -1151,7 +1152,7 @@
 | [Wolf Boy](https://open.spotify.com/track/7uv654mZzZWHY7Lj9pnXsl) | [Incase We Crash](https://open.spotify.com/artist/60BV8AYHelvsX7RpjQXlBA) | [Wolf Boy](https://open.spotify.com/album/4oCld1YIYyaxHKz2xiYsJG) | 2:56 | 2021-12-10 | 2022-07-09 |
 | [Worst Apology](https://open.spotify.com/track/5jaFa0rv7nykoB3SbygzpM) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Worst Apology](https://open.spotify.com/album/20HDyCAkbeyQj8jdiOfE74) | 3:12 | 2023-05-12 | 2023-07-14 |
 | [Worth It](https://open.spotify.com/track/22uRfgnUlPZXfd4BCaretS) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Worth It](https://open.spotify.com/album/065aiQ08pX7qfmkRr912fL) | 3:53 | 2021-12-10 | 2022-07-27 |
-| [Would You Even](https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Would You Even](https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG) | 2:52 | 2024-02-09 |  |
+| [Would You Even](https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Would You Even](https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG) | 2:52 | 2024-02-09 | 2024-04-07 |
 | [Would You Tell Picasso To Sell His Guitars?](https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [Hand Signals](https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX) | 2:41 | 2023-10-10 |  |
 | [Wouldn't That Be Nice](https://open.spotify.com/track/4kcH1pBf54ctgrPXPsrCCY) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Wouldn't That Be Nice](https://open.spotify.com/album/0IiIfDeoBAKWnp2Uokdrp1) | 3:06 | 2022-05-20 | 2023-04-11 |
 | [WOW!](https://open.spotify.com/track/3B7PiImMLehZ18ZhZ6KAc3) | [promiser](https://open.spotify.com/artist/4OTKGQdkkR6iOn3BOzxps5) | [Clarity](https://open.spotify.com/album/6ECqLPoPb2sBwaJXLL1hRU) | 3:46 | 2022-02-04 | 2022-04-21 |

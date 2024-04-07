@@ -1,12 +1,12 @@
 {
   "description": "El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.",
-  "num_followers": 137625,
+  "num_followers": 137797,
   "original_name": "Cancionero Espinoza Paz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjZiMGJlMmJkYmVjNDNmZjg5NmQ2YWI4MGI0ZWQ0ZWU5NjFjODUy",
+  "snapshot_id": "MCxkYjFiM2EzZGFjNGRlZjRjYWM5YjY1MzQ4M2U1ZTQ4OGY3NTcwY2M1",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Mil Heridas",
-        "url": "https://open.spotify.com/album/1d6M5lgMTJfgwQCReGSWGk"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4kWqIWkEN1XMOMyWo6FN4k"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "\u00bfQui\u00e9n Es Usted?",
         "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 168840,
       "name": "La N\u00famero 20",
       "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Mil Heridas",
+        "url": "https://open.spotify.com/album/1d6M5lgMTJfgwQCReGSWGk"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4kWqIWkEN1XMOMyWo6FN4k"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "La Mejor Opci\u00f3n",
-        "url": "https://open.spotify.com/album/7we22mTDfrYLTrtpCfXKgU"
-      },
-      "artists": [
-        {
-          "name": "Banda Rancho Viejo De Julio Aramburo La Bandononona",
-          "url": "https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "La Mejor Opci\u00f3n",
-      "url": "https://open.spotify.com/track/7A9x7OMm06SBjYHAalICS8"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Las Bandas Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 148493,
       "name": "Besitos En El Cuello",
       "url": "https://open.spotify.com/track/2ZufmJCBqebEuiJdhPOnpm"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "La Mejor Opci\u00f3n",
+        "url": "https://open.spotify.com/album/7we22mTDfrYLTrtpCfXKgU"
+      },
+      "artists": [
+        {
+          "name": "Banda Rancho Viejo De Julio Aramburo La Bandononona",
+          "url": "https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "La Mejor Opci\u00f3n",
+      "url": "https://open.spotify.com/track/7A9x7OMm06SBjYHAalICS8"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Como Tortilla al Comal (Relanzamiento)",
-        "url": "https://open.spotify.com/album/29pYsVXfqCYLlmT9RGLoAw"
+        "name": "El Rancho Grande",
+        "url": "https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e"
       },
       "artists": [
         {
-          "name": "Banda Rancho Viejo De Julio Aramburo La Bandononona",
-          "url": "https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 190217,
-      "name": "Como Tortilla al Comal - Estudio",
-      "url": "https://open.spotify.com/track/0jfQ1QVYeMCbXvpg8rwqMh"
+      "duration_ms": 182906,
+      "name": "Eres Mi Paz",
+      "url": "https://open.spotify.com/track/0awSrFzOvDRklXhZSuRnMe"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "El Rancho Grande",
-        "url": "https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e"
+        "name": "Como Tortilla al Comal (Relanzamiento)",
+        "url": "https://open.spotify.com/album/29pYsVXfqCYLlmT9RGLoAw"
       },
       "artists": [
         {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+          "name": "Banda Rancho Viejo De Julio Aramburo La Bandononona",
+          "url": "https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV"
         }
       ],
-      "duration_ms": 182906,
-      "name": "Eres Mi Paz",
-      "url": "https://open.spotify.com/track/0awSrFzOvDRklXhZSuRnMe"
+      "duration_ms": 190217,
+      "name": "Como Tortilla al Comal - Estudio",
+      "url": "https://open.spotify.com/track/0jfQ1QVYeMCbXvpg8rwqMh"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "La Joya",
-        "url": "https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 232965,
-      "name": "Colores Alegres",
-      "url": "https://open.spotify.com/track/0RDabpXolwgnzW3WI0rvDD"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Arpaz",
         "url": "https://open.spotify.com/album/30LwufY2wAZn0mBiUFV4ri"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 182888,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/198f6VynNaYbX1NbAm91Lg"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "La Joya",
+        "url": "https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 232965,
+      "name": "Colores Alegres",
+      "url": "https://open.spotify.com/track/0RDabpXolwgnzW3WI0rvDD"
     },
     {
       "added_at": "2023-10-06 06:00:00",

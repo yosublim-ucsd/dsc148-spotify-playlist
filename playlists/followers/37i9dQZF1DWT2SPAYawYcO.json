@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 372778,
+  "2024-04-07": 372825,
   "date_first_scraped": "2023-06-18",
   "description": "The best new songs of the week! Cover: Empire Of The Sun",
   "name": "New Music Friday AU & NZ",
@@ -13252,6 +13252,24 @@
     },
     {
       "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229186,
+      "name": "Crocodile Tearz",
+      "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
+    },
+    {
+      "album": {
         "name": "Crocs",
         "url": "https://open.spotify.com/album/73HrFNcTUb6EefaWTYx1m7"
       },
@@ -17203,10 +17221,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 147457,
       "name": "Down Under",
       "url": "https://open.spotify.com/track/3pEUuobMzDIChsMbDtBqxv"
+    },
+    {
+      "album": {
+        "name": "Down Under",
+        "url": "https://open.spotify.com/album/4oqRX1yLyouwNe2sriRjkE"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147457,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/7Kpqw1UNndTQjwtYKbWPuA"
     },
     {
       "album": {
@@ -36879,7 +36915,7 @@
     {
       "album": {
         "name": "Losing You",
-        "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
+        "url": "https://open.spotify.com/album/68DihqcGNgTJ4zul6L0mDi"
       },
       "artists": [
         {
@@ -36890,6 +36926,24 @@
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 215331,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/3RLIYxIHq18yBdpcoYW4lu"
+    },
+    {
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-06",
       "duration_ms": 215331,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
@@ -51221,10 +51275,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 133509,
       "name": "Sabrina",
       "url": "https://open.spotify.com/track/55uNNOwHRL3K5p7NyEywoR"
+    },
+    {
+      "album": {
+        "name": "DEATH WOBBLES",
+        "url": "https://open.spotify.com/album/2u8cg1AiXAlZmUqsmUqG5S"
+      },
+      "artists": [
+        {
+          "name": "CODY JON",
+          "url": "https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133509,
+      "name": "Sabrina",
+      "url": "https://open.spotify.com/track/7yOar7IBHJzDfUy6drSJla"
     },
     {
       "album": {
@@ -60969,7 +61041,7 @@
     {
       "album": {
         "name": "The Second Act",
-        "url": "https://open.spotify.com/album/4hVQwE4HbQWok3dOz2CZVs"
+        "url": "https://open.spotify.com/album/1ZcQMRWdtngrP9YuAayQcG"
       },
       "artists": [
         {
@@ -60980,6 +61052,24 @@
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219316,
+      "name": "The Second Act",
+      "url": "https://open.spotify.com/track/1TQt6A6Ox6HgD81k2CZZPJ"
+    },
+    {
+      "album": {
+        "name": "The Second Act",
+        "url": "https://open.spotify.com/album/4hVQwE4HbQWok3dOz2CZVs"
+      },
+      "artists": [
+        {
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-06",
       "duration_ms": 219316,
       "name": "The Second Act",
       "url": "https://open.spotify.com/track/5RcWnnP5TMszVvarhYaoqa"
@@ -65817,6 +65907,28 @@
       "duration_ms": 55133,
       "name": "walls",
       "url": "https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn"
+    },
+    {
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Wanna Be (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"
     },
     {
       "album": {

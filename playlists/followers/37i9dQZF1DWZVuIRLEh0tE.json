@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 230863,
+  "2024-04-07": 231007,
   "date_first_scraped": "2022-03-22",
-  "description": "Porque no to' e' Dembow en RD loco. Portada: Tokischa",
+  "description": "Porque no to' e' Dembow en RD loco. Portada: Dowba Montana",
   "name": "Flow Dominicano",
   "tracks": [
     {
@@ -869,7 +869,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 164701,
       "name": "BPL",
       "url": "https://open.spotify.com/track/63qrZdrypAm5HKsyvGQYeB"
@@ -1432,6 +1432,50 @@
     },
     {
       "album": {
+        "name": "Cuero Caro",
+        "url": "https://open.spotify.com/album/0kqSvlx5pdMOYWaWiw7EUC"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158241,
+      "name": "Cuero Caro",
+      "url": "https://open.spotify.com/track/7axxLnHLlcHeXkc4Si82zN"
+    },
+    {
+      "album": {
+        "name": "Dame la Luz",
+        "url": "https://open.spotify.com/album/46cUWvchdHqSX9gzJp5pyL"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Sammy The Greatest",
+          "url": "https://open.spotify.com/artist/51NCx9Br54qYPezwKIvIz3"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131316,
+      "name": "Dame la Luz",
+      "url": "https://open.spotify.com/track/2TH3UhwhdbdG1TdF7bctyD"
+    },
+    {
+      "album": {
         "name": "Dando Para",
         "url": "https://open.spotify.com/album/38t2TJP8C2S7MYf3RzmHZv"
       },
@@ -1912,6 +1956,24 @@
     },
     {
       "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/3VtCd0WwP9PUzQzt00fyiE"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138986,
+      "name": "DM",
+      "url": "https://open.spotify.com/track/0XKqFNGb80dIVeVKVyAitY"
+    },
+    {
+      "album": {
         "name": "EL REY DEL DEMBOW",
         "url": "https://open.spotify.com/album/3ZONXDp5lBlScH7helYBko"
       },
@@ -2201,7 +2263,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 238268,
       "name": "El Coquero",
       "url": "https://open.spotify.com/track/0CAiugQfyGMtnMUhVLzsd0"
@@ -2279,7 +2341,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 144017,
       "name": "El Menor",
       "url": "https://open.spotify.com/track/2W5YWGCKJoYAVBr34yDuhh"
@@ -2301,7 +2363,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 269259,
       "name": "El Rap Me Habl\u00f3",
       "url": "https://open.spotify.com/track/2xtwS2ciyfhTM0NLZCfYF4"
@@ -2751,7 +2813,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 121263,
       "name": "Explicito - Deluxe",
       "url": "https://open.spotify.com/track/5ykJEBmfZuSv6h4eeqVFEQ"
@@ -2813,7 +2875,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 163395,
       "name": "F\u00fanebre",
       "url": "https://open.spotify.com/track/2mSTIY3YHxMXh0jeHPZ2ij"
@@ -3171,7 +3233,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 151186,
       "name": "Jalo!",
       "url": "https://open.spotify.com/track/35nBGKbeqPfVFSuaMxmQQQ"
@@ -3281,6 +3343,24 @@
       "duration_ms": 159906,
       "name": "LA 9",
       "url": "https://open.spotify.com/track/6Jt51CKJnGipV8clWfvC9f"
+    },
+    {
+      "album": {
+        "name": "440",
+        "url": "https://open.spotify.com/album/3JvzKWFVLsfO0EHgcv5bwN"
+      },
+      "artists": [
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165937,
+      "name": "La Era de los Que Son",
+      "url": "https://open.spotify.com/track/4E0yWnkIYy4co8SS5303b3"
     },
     {
       "album": {
@@ -3501,7 +3581,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 158400,
       "name": "La Victoria Ta Bobo",
       "url": "https://open.spotify.com/track/22uq5Te3TotHZnTV3mWjWc"
@@ -3659,6 +3739,28 @@
       "duration_ms": 100500,
       "name": "Lo Prende Sola",
       "url": "https://open.spotify.com/track/5O7eUbzeG5BYrFrInNZmP3"
+    },
+    {
+      "album": {
+        "name": "Lo Que Toy Viviendo",
+        "url": "https://open.spotify.com/album/2vu4s6WRgLHdcJxrkNYQpp"
+      },
+      "artists": [
+        {
+          "name": "Jhayseven",
+          "url": "https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd"
+        },
+        {
+          "name": "Yeral El De Lo Palo",
+          "url": "https://open.spotify.com/artist/0gNBwt2gBwViwnZKRYoPJb"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143326,
+      "name": "Lo Que Toy Viviendo",
+      "url": "https://open.spotify.com/track/05NpqbYbqaHlwzyDr1B4y6"
     },
     {
       "album": {
@@ -4622,6 +4724,32 @@
     },
     {
       "album": {
+        "name": "MODO KOBE",
+        "url": "https://open.spotify.com/album/5M8FEvC3TxpiFiJ7MqFu9m"
+      },
+      "artists": [
+        {
+          "name": "Ehybi M",
+          "url": "https://open.spotify.com/artist/47cl0pmEqzqCjVeUR53cGH"
+        },
+        {
+          "name": "Uriel Produce",
+          "url": "https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC"
+        },
+        {
+          "name": "Young Money",
+          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173061,
+      "name": "MODO KOBE",
+      "url": "https://open.spotify.com/track/1j1GIBtMCPT406UauNH8g5"
+    },
+    {
+      "album": {
         "name": "Molly",
         "url": "https://open.spotify.com/album/2FoFaHoCjmLKxuA1bfi9BO"
       },
@@ -5034,6 +5162,24 @@
     },
     {
       "album": {
+        "name": "No Viven Haci",
+        "url": "https://open.spotify.com/album/2oI2q1Hx492GIW1l5hd8IE"
+      },
+      "artists": [
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134452,
+      "name": "No Viven Haci",
+      "url": "https://open.spotify.com/track/29IX3qrYcEtwtYfQ7aoqE2"
+    },
+    {
+      "album": {
         "name": "Noche De Terror",
         "url": "https://open.spotify.com/album/5cXjd2dW6cVlKJGPm4RpHl"
       },
@@ -5071,7 +5217,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 146938,
       "name": "Nota",
       "url": "https://open.spotify.com/track/18xTLZz0jnxFCz0krVzFme"
@@ -5509,7 +5655,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 156734,
       "name": "Que Loquera",
       "url": "https://open.spotify.com/track/2QOSj9QzA1szxKhM3ehYxc"
@@ -5984,6 +6130,24 @@
     },
     {
       "album": {
+        "name": "Spotify",
+        "url": "https://open.spotify.com/album/6dq2D5kZ0fKm3QesyOvLEs"
+      },
+      "artists": [
+        {
+          "name": "Xcelencia",
+          "url": "https://open.spotify.com/artist/7c34Wg8HcWO9BWhHLwiXsr"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184784,
+      "name": "Spotify",
+      "url": "https://open.spotify.com/track/1YfzQcjFqCGEHDJ2Lko8ve"
+    },
+    {
+      "album": {
         "name": "Suano",
         "url": "https://open.spotify.com/album/0HTcZUGg213cNLdkM33BTh"
       },
@@ -6043,7 +6207,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 163977,
       "name": "Sushi",
       "url": "https://open.spotify.com/track/09GpTKIbVAYdVBalUf5Piz"
@@ -6171,7 +6335,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 271500,
       "name": "Tamo Aqui",
       "url": "https://open.spotify.com/track/6AJFywxgDicFxyhBRmNUbr"
@@ -6390,6 +6554,24 @@
     },
     {
       "album": {
+        "name": "Te`Tan Buscando",
+        "url": "https://open.spotify.com/album/4cnNXat2FpEp18mJJicrNR"
+      },
+      "artists": [
+        {
+          "name": "Chino la Rabia",
+          "url": "https://open.spotify.com/artist/5eTqST9Gmh11HlBeSZei7K"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136598,
+      "name": "Te`Tan Buscando",
+      "url": "https://open.spotify.com/track/6zgpeswHj422yiTUp6oNci"
+    },
+    {
+      "album": {
         "name": "Tiembla",
         "url": "https://open.spotify.com/album/6UPZluwCWXaysCKvksMikq"
       },
@@ -6459,7 +6641,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 272532,
       "name": "Tiguere DK",
       "url": "https://open.spotify.com/track/51TtkQklDfojAEDEF2l8zM"
@@ -6638,6 +6820,24 @@
     },
     {
       "album": {
+        "name": "Traicionera",
+        "url": "https://open.spotify.com/album/2COGXs5S3VRD2lZIXETmXt"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145882,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/4fwbRBhWnvTtBqkRR6hqA0"
+    },
+    {
+      "album": {
         "name": "Tranza (Pt. 1)",
         "url": "https://open.spotify.com/album/7anBbRn50ldYnUhUJtQ5gB"
       },
@@ -6793,7 +6993,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 153600,
       "name": "Tyler Perry",
       "url": "https://open.spotify.com/track/2UuQkWdTcMDok263P3q5eA"
@@ -6829,7 +7029,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 210359,
       "name": "Un Da\u00f1ao",
       "url": "https://open.spotify.com/track/7rqcbCQBQkGOPqNc8lgYmx"

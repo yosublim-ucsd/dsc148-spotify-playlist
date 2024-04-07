@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 8166,
+  "num_followers": 8169,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGNiNjAxOTQwZDRkOGZkM2Y4Y2Q5OGZkZTg3M2Y4MzNmNDA2Mjc1",
+  "snapshot_id": "MCxhNWNkYzY0NTBlMWUwNTc5NTk4ZWFhYTZmODVjZjgzMjM5ZjZkMWU1",
   "tracks": [
     {
       "added_at": null,
@@ -536,17 +536,21 @@
       "added_at": null,
       "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM"
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
       "artists": [
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Nappy Nina",
+          "url": "https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx"
         }
       ],
-      "duration_ms": 140876,
-      "name": "MY IMAGINATION \uc0c1\uc0c1",
-      "url": "https://open.spotify.com/track/2WWtQEsjxl7cVKx352Z40D"
+      "duration_ms": 170424,
+      "name": "MONEY CAN'T BUY",
+      "url": "https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX"
     }
   ],
   "unique_name": "This Is Yaeji",

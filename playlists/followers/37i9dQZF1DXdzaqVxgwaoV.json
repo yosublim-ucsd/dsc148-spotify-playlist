@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 125184,
+  "2024-04-07": 125168,
   "date_first_scraped": "2023-11-11",
   "description": "La m\u00fasica que enciende las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia.",
   "name": "M\u00fasica Decembrina",
@@ -597,7 +597,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 162933,
       "name": "El Arruinao",
       "url": "https://open.spotify.com/track/2ECNhpxm22jpykDObxrfe1"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 173386,
       "name": "El Hijo Ausente",
       "url": "https://open.spotify.com/track/0MylXcqKagwOrtMNQDyj1B"

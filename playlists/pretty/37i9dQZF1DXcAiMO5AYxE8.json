@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 502086,
+  "num_followers": 502207,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDc5NjVhYzBjN2ZhYzMxYjcyYmY0YzQ2OTY0ZjQzMTdlNzE0YTVm",
+  "snapshot_id": "MCwxYmIzNTdiOTk5YjI4NDNkNTcwYjYzZDMyMDI5ZjMyNjM2OTg0NWU0",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -551,6 +551,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "What Cha Gonna Do With My Lovin'",
+        "url": "https://open.spotify.com/album/6cBpPLXrHESAJU4lFyBsdl"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 246893,
+      "name": "What Cha Gonna Do With My Lovin'",
+      "url": "https://open.spotify.com/track/7aWlIvlA3FoH51yekCpCau"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Skyy Line",
         "url": "https://open.spotify.com/album/5YNJQp00hB4tUznV7zrAV2"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "What Cha Gonna Do With My Lovin'",
-        "url": "https://open.spotify.com/album/6cBpPLXrHESAJU4lFyBsdl"
+        "name": "Winner Takes All",
+        "url": "https://open.spotify.com/album/0SVqyFBkvKyaZMRKKftr6z"
       },
       "artists": [
         {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 246893,
-      "name": "What Cha Gonna Do With My Lovin'",
-      "url": "https://open.spotify.com/track/7aWlIvlA3FoH51yekCpCau"
+      "duration_ms": 315880,
+      "name": "It's a Disco Night (Rock Don't Stop), Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/4mJfDc1mot6O8NvPbXaTgq"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -599,22 +615,6 @@
       "duration_ms": 386426,
       "name": "Bad Luck (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Winner Takes All",
-        "url": "https://open.spotify.com/album/0SVqyFBkvKyaZMRKKftr6z"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 315880,
-      "name": "It's a Disco Night (Rock Don't Stop), Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/4mJfDc1mot6O8NvPbXaTgq"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -699,22 +699,18 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+        "name": "Dream On (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4aCdchywqaGFfH2kIK4blx"
       },
       "artists": [
         {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "George Duke",
+          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
         }
       ],
-      "duration_ms": 213853,
-      "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
-      "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
+      "duration_ms": 312680,
+      "name": "Shine On",
+      "url": "https://open.spotify.com/track/7BOAXgaGfRDWwYbUqE5tuQ"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -731,22 +727,6 @@
       "duration_ms": 179533,
       "name": "What Can I Say",
       "url": "https://open.spotify.com/track/1bDjowPMtoft6kd33wUkof"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Dream On (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4aCdchywqaGFfH2kIK4blx"
-      },
-      "artists": [
-        {
-          "name": "George Duke",
-          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
-        }
-      ],
-      "duration_ms": 312680,
-      "name": "Shine On",
-      "url": "https://open.spotify.com/track/7BOAXgaGfRDWwYbUqE5tuQ"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -779,6 +759,26 @@
       "duration_ms": 180280,
       "name": "More, More, More - Single Version",
       "url": "https://open.spotify.com/track/3AE5u8SGUVStmdjXzHWflz"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
+      "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
     },
     {
       "added_at": "2021-07-04 17:34:32",

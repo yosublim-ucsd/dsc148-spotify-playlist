@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 379278,
+  "2024-04-07": 379290,
   "date_first_scraped": "2021-12-21",
   "description": "Bringing the roaring 20s into the 2020s",
   "name": "Electro Swing",
@@ -101,6 +101,24 @@
       "duration_ms": 240812,
       "name": "AKH Odessa",
       "url": "https://open.spotify.com/track/5Y6jWzTtil6LwMChWEE8Tu"
+    },
+    {
+      "album": {
+        "name": "All I Do Is Dream of You",
+        "url": "https://open.spotify.com/album/40CoFAmcDM4KxiMt9dYYQ7"
+      },
+      "artists": [
+        {
+          "name": "Intended Immigration",
+          "url": "https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163375,
+      "name": "All I Do Is Dream of You",
+      "url": "https://open.spotify.com/track/3IB2bQ7dcIGmMajOOxtZPe"
     },
     {
       "album": {
@@ -625,7 +643,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 170619,
       "name": "Boring 20s",
       "url": "https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01"
@@ -1871,6 +1889,32 @@
       "duration_ms": 178992,
       "name": "Friend Like Me - Electro Swing Mix",
       "url": "https://open.spotify.com/track/1O3RcayIzF1Ng6H9XMGwNq"
+    },
+    {
+      "album": {
+        "name": "Future Looks Like You",
+        "url": "https://open.spotify.com/album/19fVKHO3Bk6F17KBOLqJ3v"
+      },
+      "artists": [
+        {
+          "name": "Balduin",
+          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        },
+        {
+          "name": "Chris Weeks",
+          "url": "https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154083,
+      "name": "Future Looks Like You",
+      "url": "https://open.spotify.com/track/4LrJYsHcIC1l2U4Lenn4Rp"
     },
     {
       "album": {
@@ -3365,7 +3409,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 170624,
       "name": "Love Music (Intended Immigration Electro Swing Remix)",
       "url": "https://open.spotify.com/track/662kImMrejn6sAfNvVMk3U"

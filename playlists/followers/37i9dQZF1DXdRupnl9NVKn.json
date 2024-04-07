@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 280370,
+  "2024-04-07": 280493,
   "date_first_scraped": "2022-05-30",
   "description": "Neverland, your queens are here!",
   "name": "This Is (G)I-DLE",
@@ -223,6 +223,24 @@
       "duration_ms": 204040,
       "name": "Change",
       "url": "https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD"
+    },
+    {
+      "album": {
+        "name": "Could It Be",
+        "url": "https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI"
+      },
+      "artists": [
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "Could It Be",
+      "url": "https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8"
     },
     {
       "album": {

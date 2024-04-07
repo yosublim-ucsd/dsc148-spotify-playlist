@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Francely Abreuu\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,628 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,803 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [BB](https://open.spotify.com/track/7EK0zxNhtgm9RXt5kGFJ5a) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Paisajes](https://open.spotify.com/album/7iK07OpJA0CQZu8sLfJrwf) | 3:09 |
 | 50 | [No vas sola](https://open.spotify.com/track/4WyEY1IsC2CtlVkW5ClHKv) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [No vas sola](https://open.spotify.com/album/6tlydPE9AwNpfOFIyEHUZH) | 2:32 |
 
-Snapshot ID: `MCxiZDU3NzhhMjBhMGM2N2FlZmM4YTk4ODFhYjZkNDk5ZjdjYjMyYzA5`
+Snapshot ID: `MCw4NmZhMzA5ZDczZjYxMmE0MzNhYmIzNDEwOWNhYjI3MTI4OGFhZDI2`

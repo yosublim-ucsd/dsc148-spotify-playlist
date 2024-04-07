@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 14609,
+  "2024-04-07": 14649,
   "date_first_scraped": "2023-04-07",
   "description": "African Praise music taking you all the way up!",
   "name": "Higher",
@@ -453,7 +453,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 184337,
       "name": "Blessed Year",
       "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
@@ -2373,6 +2373,24 @@
       "duration_ms": 91760,
       "name": "We Praise You Lord",
       "url": "https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q"
+    },
+    {
+      "album": {
+        "name": "Welenga",
+        "url": "https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ"
+      },
+      "artists": [
+        {
+          "name": "Beracah",
+          "url": "https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195970,
+      "name": "Welenga",
+      "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
     },
     {
       "album": {

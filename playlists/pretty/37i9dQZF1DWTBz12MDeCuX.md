@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,139 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,294 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 71 | [Andere Stadt](https://open.spotify.com/track/132NdYQcNLGGoPhPNUdQcW) | [Yosho](https://open.spotify.com/artist/3teKhev8dyP7LKMcDrS2kT) | [Andere Stadt](https://open.spotify.com/album/0ZnscXjJpv6ADS5D23sTPB) | 2:20 |
 | 72 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 |
 | 73 | [Hotbox](https://open.spotify.com/track/32Z0VTh6WdfNODptGc9OC0) | [Sicko](https://open.spotify.com/artist/0QiFjnDDT6vUrKuh7OukgE), [prod.anno](https://open.spotify.com/artist/1SGLVfATshO6K1jRTGeOxz) | [Hotbox](https://open.spotify.com/album/25ySdvbDJi00CicDFOumF7) | 2:35 |
-| 74 | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1) | 4:57 |
+| 74 | [Lady Killers II \- Christoph Andersson Remix](https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/08JECZoQNpeSledQtNZp6H) | 4:57 |
 | 75 | [Ravergirl](https://open.spotify.com/track/2qRvOQSjhmussrIPBe8SRC) | [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [Ravergirl](https://open.spotify.com/album/51ipbR3ZPjPpbiQPoX0Y9u) | 2:38 |
 | 76 | [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 |
 | 77 | [Sie sagt](https://open.spotify.com/track/2fDx4w2rGgr73T0cwt3GMl) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Sie sagt](https://open.spotify.com/album/7Ljv1ueJapDDF22Qx7JEJB) | 2:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [FUSSBALLMÄNNER](https://open.spotify.com/track/6U5aqDss5uxfK2OONL7ZhS) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [mysli](https://open.spotify.com/artist/7fAAhnFkNkTqt6DV13Zo0U) | [FUSSBALLMÄNNER](https://open.spotify.com/album/5N7zbMgXQbRV8vNfIxmiZ9) | 2:08 |
 | 100 | [schwarzer toyota](https://open.spotify.com/track/6zV5WGrUYlR2i4AiaKfrKN) | [skrt cobain](https://open.spotify.com/artist/7rlplvcY6ubrKGdhRJUvuV), [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [schwarzer toyota](https://open.spotify.com/album/3jqLPA1NJbCGkZIBLNaW1k) | 1:56 |
 
-Snapshot ID: `MCwzN2I4YWRjOGEzMmU3ZGExYzIzNTY1ODA3NzAzNDBkYzJiMzEwMzk4`
+Snapshot ID: `MCxjNDk5NDVlZThjNGU1OGM0MzBhZTE4NmNkMmZjNDBlNzMxZDQwZmFi`

@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 444598,
+  "2024-04-07": 444672,
   "date_first_scraped": "2021-12-21",
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Lizz Wright",
   "name": "Blues Roots",
@@ -1507,6 +1507,24 @@
       "duration_ms": 277675,
       "name": "Empty Me Out",
       "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
+    },
+    {
+      "album": {
+        "name": "Enjoy the Ride",
+        "url": "https://open.spotify.com/album/67A2C0Zy9gvtUPdh6BtJNE"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219093,
+      "name": "Enjoy the Ride",
+      "url": "https://open.spotify.com/track/6dqhw83H9eKMb0qTCv17k3"
     },
     {
       "album": {
@@ -4033,7 +4051,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 205533,
       "name": "Nothing Without You",
       "url": "https://open.spotify.com/track/4tWTkbx3mO8izydaLLh4oR"

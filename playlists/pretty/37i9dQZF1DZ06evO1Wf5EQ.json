@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 454,
+  "num_followers": 456,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTEwYjZmNzcwZDMxYzJmOTk3ZjJiNmUwNmVkZjZhZWE4MzI2ZjJi",
+  "snapshot_id": "MCw3NWRiNDQ3NjY0N2UzMGNhN2ZmMTVkMmIyZTMyOGExYTU4MmRlNGYx",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monsieur Spade (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
+        "name": "Chupa (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 147973,
-      "name": "Sam Spade",
-      "url": "https://open.spotify.com/track/27vtIAcLqCDrwQ5jkyDDrY"
+      "duration_ms": 70364,
+      "name": "La Cajita de M\u00fasica",
+      "url": "https://open.spotify.com/track/6tfcj3Fheeg4H21Lx8ZAzA"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 74586,
-      "name": "Tricked",
-      "url": "https://open.spotify.com/track/6DRA0bA2uKiq21dLrP8vTo"
+      "duration_ms": 147973,
+      "name": "Sam Spade",
+      "url": "https://open.spotify.com/track/27vtIAcLqCDrwQ5jkyDDrY"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 138226,
-      "name": "Clues",
-      "url": "https://open.spotify.com/track/3H3l6kMGyCKZu2Aq89yO6o"
+      "duration_ms": 74586,
+      "name": "Tricked",
+      "url": "https://open.spotify.com/track/6DRA0bA2uKiq21dLrP8vTo"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 93191,
-      "name": "A Perfect Dinner",
-      "url": "https://open.spotify.com/track/5nYsEif2J6p4qhKzBHBVS7"
+      "duration_ms": 144739,
+      "name": "The Remsen",
+      "url": "https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chupa (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
+        "name": "Monsieur Spade (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 70364,
-      "name": "La Cajita de M\u00fasica",
-      "url": "https://open.spotify.com/track/6tfcj3Fheeg4H21Lx8ZAzA"
+      "duration_ms": 138226,
+      "name": "Clues",
+      "url": "https://open.spotify.com/track/3H3l6kMGyCKZu2Aq89yO6o"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

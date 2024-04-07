@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:57YsESW6BGZLHQgOg8AiAq">Charity Gayle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,315 likes - 104 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,409 likes - 104 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 79 | [Proof](https://open.spotify.com/track/0qwW1Fxn8hdtCHPS6rdY6I) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Proof \- EP](https://open.spotify.com/album/7bmRLfPR7uJNX9psXM4h7k) | 3:25 |
 | 80 | [Vapor](https://open.spotify.com/track/0Js83vOQdCT1fv3j91ttQa) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Vapor](https://open.spotify.com/album/6kftp7tcMcozXA4dOtwW4B) | 2:45 |
 | 81 | [He Loves You](https://open.spotify.com/track/7hIUa8bnpReOOG9K57wLGd) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [He Loves You](https://open.spotify.com/album/5aw5jIy2Bu0301M6u0qfb7) | 2:41 |
-| 82 | [Suelto \(I give you my dreams\)](https://open.spotify.com/track/0vrKtAUNi7cyaWmYlcm41O) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Suelto \(I give you my dreams\)](https://open.spotify.com/album/1xrugty1f3HPpYITsbHatD) | 3:48 |
+| 82 | [Suelto \(I give you my dreams\)](https://open.spotify.com/track/0vrKtAUNi7cyaWmYlcm41O) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Suelto \(I give you my dreams\)](https://open.spotify.com/album/1xrugty1f3HPpYITsbHatD) | 3:48 |
 | 83 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 |
 | 84 | [Okay](https://open.spotify.com/track/0Ehe5i3c8L9YkhjtXrB7Kv) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Sonus dulcis](https://open.spotify.com/album/0lRCqEXOagHInK8wwQ7tbr) | 2:41 |
 | 85 | [Run To You](https://open.spotify.com/track/4AsOs1rWSG0IAdLnY8ZfTT) | [Elijah Thomas](https://open.spotify.com/artist/5BqcwDlPPGX7XmIOcUgFfU) | [Rewind](https://open.spotify.com/album/6VjN6VVqwiECDESbK2bush) | 3:37 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 103 | [The Blood \(Live\)](https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 5:12 |
 | 104 | [Come Jesus Come](https://open.spotify.com/track/6WHe4Ilqwx9H5cY8V9glhr) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Come Jesus Come](https://open.spotify.com/album/0aYbAtML1iNwTXvkMdwirB) | 4:58 |
 
-Snapshot ID: `MCxiZGY4NTI2ZjViYjg0MmJiNDAxOGUyYTM2NTQ3MTkxZDlmMTQzMTcw`
+Snapshot ID: `MCxjZTMwNTMzMGYzOGNjODhjMTQ0NjVmMWRiZDg5YzkzZmUxOGI0ODA3`

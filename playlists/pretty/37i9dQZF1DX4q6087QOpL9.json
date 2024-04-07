@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 103592,
+  "num_followers": 103626,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTE4MTU4YzMzNTIwMzZkY2Q2ZjJlZWI2MjY1ODc4MTljMTFhMjEy",
+  "snapshot_id": "MCxiZDhkYmMzZDU4NjY0NTI5YzY3NGE1NDI1ZGFmMzllZjk5ZmYwYzky",
   "tracks": [
     {
       "added_at": "2024-04-04 22:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
+        "name": "One Starry Night",
+        "url": "https://open.spotify.com/album/2A7TtLvMmgHy9UqK0dkGsz"
+      },
+      "artists": [
+        {
+          "name": "Kevin Yost",
+          "url": "https://open.spotify.com/artist/1FPV5yJGV2urezFSaXrYDV"
+        }
+      ],
+      "duration_ms": 419000,
+      "name": "If She Only Knew",
+      "url": "https://open.spotify.com/track/4uYEhYjwMCPCuqPbUz6MOm"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
         "name": "Love & Happiness (feat. India)",
         "url": "https://open.spotify.com/album/5SeyhiafZ5HRUtNWI8GM5Z"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "One Starry Night",
-        "url": "https://open.spotify.com/album/2A7TtLvMmgHy9UqK0dkGsz"
-      },
-      "artists": [
-        {
-          "name": "Kevin Yost",
-          "url": "https://open.spotify.com/artist/1FPV5yJGV2urezFSaXrYDV"
-        }
-      ],
-      "duration_ms": 419000,
-      "name": "If She Only Knew",
-      "url": "https://open.spotify.com/track/4uYEhYjwMCPCuqPbUz6MOm"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Lucas",
         "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
       },
@@ -727,26 +727,22 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "For The Love Of You",
-        "url": "https://open.spotify.com/album/0Rz64BMaXSXvcKhCAArE0N"
+        "name": "The World As I See It",
+        "url": "https://open.spotify.com/album/35k3GDc2yR6yt1pBbzrgOH"
       },
       "artists": [
         {
-          "name": "D'Moov",
-          "url": "https://open.spotify.com/artist/0WwhZixKFdbA82jqpKWaKO"
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
         },
         {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        },
-        {
-          "name": "Frankie Feliciano",
-          "url": "https://open.spotify.com/artist/5KjteRQRJaHk16aYeZ08Ej"
+          "name": "Danil Wright",
+          "url": "https://open.spotify.com/artist/4J6QzNsE9xdzhl1UHfRnMA"
         }
       ],
-      "duration_ms": 433729,
-      "name": "For The Love Of You - Frankie Feliciano Ricanstruction Vocal Mix",
-      "url": "https://open.spotify.com/track/1AYiU9FfDyGcYcQ7237fuN"
+      "duration_ms": 449026,
+      "name": "Church Lady - Extended Mix",
+      "url": "https://open.spotify.com/track/1qWHn1ryKKQQZk4Z9DGurI"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -771,22 +767,26 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "The World As I See It",
-        "url": "https://open.spotify.com/album/35k3GDc2yR6yt1pBbzrgOH"
+        "name": "For The Love Of You",
+        "url": "https://open.spotify.com/album/0Rz64BMaXSXvcKhCAArE0N"
       },
       "artists": [
         {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+          "name": "D'Moov",
+          "url": "https://open.spotify.com/artist/0WwhZixKFdbA82jqpKWaKO"
         },
         {
-          "name": "Danil Wright",
-          "url": "https://open.spotify.com/artist/4J6QzNsE9xdzhl1UHfRnMA"
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        },
+        {
+          "name": "Frankie Feliciano",
+          "url": "https://open.spotify.com/artist/5KjteRQRJaHk16aYeZ08Ej"
         }
       ],
-      "duration_ms": 449026,
-      "name": "Church Lady - Extended Mix",
-      "url": "https://open.spotify.com/track/1qWHn1ryKKQQZk4Z9DGurI"
+      "duration_ms": 433729,
+      "name": "For The Love Of You - Frankie Feliciano Ricanstruction Vocal Mix",
+      "url": "https://open.spotify.com/track/1AYiU9FfDyGcYcQ7237fuN"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/7hGcxc5mdwMoA559pZ6vSQ"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+        }
+      ],
+      "duration_ms": 504933,
+      "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
+      "url": "https://open.spotify.com/track/29Obf0yYT5cppVWJLx9iu0"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
         "name": "Black Mahogani",
         "url": "https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6"
       },
@@ -1031,6 +1047,22 @@
       "duration_ms": 415933,
       "name": "Shades of Jae",
       "url": "https://open.spotify.com/track/2jzdxxtPk8hI5AlVJMI1dh"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Atmosfear",
+        "url": "https://open.spotify.com/album/6l6VDvfN2xbSz6sFDXWJxz"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 310040,
+      "name": "Colouration",
+      "url": "https://open.spotify.com/track/5R0O1izXn9jy0PQn1Ki2Lt"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1055,38 +1087,6 @@
       "duration_ms": 365250,
       "name": "Angels - Crackazat Remix",
       "url": "https://open.spotify.com/track/47asp73irkfYAFCjD1KOxJ"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Atmosfear",
-        "url": "https://open.spotify.com/album/6l6VDvfN2xbSz6sFDXWJxz"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "Colouration",
-      "url": "https://open.spotify.com/track/5R0O1izXn9jy0PQn1Ki2Lt"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/7hGcxc5mdwMoA559pZ6vSQ"
-      },
-      "artists": [
-        {
-          "name": "Sounds Of Blackness",
-          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
-        }
-      ],
-      "duration_ms": 504933,
-      "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
-      "url": "https://open.spotify.com/track/29Obf0yYT5cppVWJLx9iu0"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
-        "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Alana",
-          "url": "https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u"
-        }
-      ],
-      "duration_ms": 391883,
-      "name": "Love Changes (feat. Alana) - Deep Mix",
-      "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Set Me Free - Remixes",
         "url": "https://open.spotify.com/album/5bh6uUNIySnxJCbdBTUwKV"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 435920,
       "name": "Set Me Free - Original Mix",
       "url": "https://open.spotify.com/track/1ZYMfaDlaigLdi7hJgpxdX"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
+        "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Alana",
+          "url": "https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u"
+        }
+      ],
+      "duration_ms": 391883,
+      "name": "Love Changes (feat. Alana) - Deep Mix",
+      "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
+        "name": "History Repeating",
+        "url": "https://open.spotify.com/album/0SshAJzzWIFTmybkYTDXVz"
+      },
+      "artists": [
+        {
+          "name": "Ezel",
+          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "duration_ms": 451200,
+      "name": "History Repeating",
+      "url": "https://open.spotify.com/track/5PVZSiUu7ODHWfbfWgqhqR"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
         "name": "Alex Attias Presents Lillygood Party Vol. 2",
         "url": "https://open.spotify.com/album/2oeRB95IyG2Pr2KpB83HbP"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 538744,
       "name": "How Bad I Want Ya - Gu Peak True Time Mix",
       "url": "https://open.spotify.com/track/1ahoN2VQWi84I48TrV7r0X"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "History Repeating",
-        "url": "https://open.spotify.com/album/0SshAJzzWIFTmybkYTDXVz"
-      },
-      "artists": [
-        {
-          "name": "Ezel",
-          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
-        },
-        {
-          "name": "Rona Ray",
-          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
-        }
-      ],
-      "duration_ms": 451200,
-      "name": "History Repeating",
-      "url": "https://open.spotify.com/track/5PVZSiUu7ODHWfbfWgqhqR"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Irene - Remixes, Vol. 1",
-        "url": "https://open.spotify.com/album/0Oj4whJbnVdvOmvTPJtSYY"
-      },
-      "artists": [
-        {
-          "name": "Izy",
-          "url": "https://open.spotify.com/artist/79aQimb3liMvrff1f9Rn3F"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "They Don't Care - Yoruba Soul Extended Mix",
-      "url": "https://open.spotify.com/track/7EMkf1CmxRSFIBgqa3pbSC"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "1996 - 2006 The House Album",
         "url": "https://open.spotify.com/album/42JvpUZuj716xD5fIwa5uO"
       },
@@ -1575,22 +1555,42 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/6KV80D3ILcPYRKetKucQ68"
+        "name": "Irene - Remixes, Vol. 1",
+        "url": "https://open.spotify.com/album/0Oj4whJbnVdvOmvTPJtSYY"
       },
       "artists": [
         {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+          "name": "Izy",
+          "url": "https://open.spotify.com/artist/79aQimb3liMvrff1f9Rn3F"
         },
         {
-          "name": "Nadirah Shakoor",
-          "url": "https://open.spotify.com/artist/6NxIOj0bsCWjW5mJGDEFwy"
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 388777,
-      "name": "Pride (Main Mix)",
-      "url": "https://open.spotify.com/track/6g2O54hw97iNV0Y9kXdrAP"
+      "duration_ms": 400000,
+      "name": "They Don't Care - Yoruba Soul Extended Mix",
+      "url": "https://open.spotify.com/track/7EMkf1CmxRSFIBgqa3pbSC"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/1VrJizKgfnE4cSt0EFLZu0"
+      },
+      "artists": [
+        {
+          "name": "Ananda Project",
+          "url": "https://open.spotify.com/artist/5SMPsvWbnxL1B6SRIAn37c"
+        },
+        {
+          "name": "Gaelle",
+          "url": "https://open.spotify.com/artist/5Y05sxUHmmYpTRHNA5u6Jy"
+        }
+      ],
+      "duration_ms": 402800,
+      "name": "Cascades of Colour - Extended Mix",
+      "url": "https://open.spotify.com/track/2hvPAweFTgcAn9caYJh564"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1615,22 +1615,38 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/1VrJizKgfnE4cSt0EFLZu0"
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/6KV80D3ILcPYRKetKucQ68"
       },
       "artists": [
         {
-          "name": "Ananda Project",
-          "url": "https://open.spotify.com/artist/5SMPsvWbnxL1B6SRIAn37c"
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         },
         {
-          "name": "Gaelle",
-          "url": "https://open.spotify.com/artist/5Y05sxUHmmYpTRHNA5u6Jy"
+          "name": "Nadirah Shakoor",
+          "url": "https://open.spotify.com/artist/6NxIOj0bsCWjW5mJGDEFwy"
         }
       ],
-      "duration_ms": 402800,
-      "name": "Cascades of Colour - Extended Mix",
-      "url": "https://open.spotify.com/track/2hvPAweFTgcAn9caYJh564"
+      "duration_ms": 388777,
+      "name": "Pride (Main Mix)",
+      "url": "https://open.spotify.com/track/6g2O54hw97iNV0Y9kXdrAP"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Heat Up",
+        "url": "https://open.spotify.com/album/47ZNHA2NLqAZTT7ZcWPVVS"
+      },
+      "artists": [
+        {
+          "name": "Peven Everett",
+          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Heat Up - Radio Edit",
+      "url": "https://open.spotify.com/track/1gJvChg4l4OfnOhN1K8DrX"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1659,46 +1675,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Heat Up",
-        "url": "https://open.spotify.com/album/47ZNHA2NLqAZTT7ZcWPVVS"
-      },
-      "artists": [
-        {
-          "name": "Peven Everett",
-          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Heat Up - Radio Edit",
-      "url": "https://open.spotify.com/track/1gJvChg4l4OfnOhN1K8DrX"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "(un)Reliable Recordings Presents: New Things Remixes",
-        "url": "https://open.spotify.com/album/6s7tgDqfY7bsaKT3WSCOlF"
-      },
-      "artists": [
-        {
-          "name": "Michal Martyniuk",
-          "url": "https://open.spotify.com/artist/4pkzD9szYtQ8bBbUqTD0BC"
-        },
-        {
-          "name": "Eric Kupper",
-          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
-        },
-        {
-          "name": "YaniKa",
-          "url": "https://open.spotify.com/artist/1bQgRbaK4120BXwW3LbVTZ"
-        }
-      ],
-      "duration_ms": 377069,
-      "name": "New Things (Eric Kupper Remix)",
-      "url": "https://open.spotify.com/track/21MaZOysLgNhO0MjWezOiX"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Holy Sun",
         "url": "https://open.spotify.com/album/0Rss280gMlEq7MuYgOlCry"
       },
@@ -1723,26 +1699,26 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Devoted",
-        "url": "https://open.spotify.com/album/4CDM5zo71P6JWyDzovwcZh"
+        "name": "(un)Reliable Recordings Presents: New Things Remixes",
+        "url": "https://open.spotify.com/album/6s7tgDqfY7bsaKT3WSCOlF"
       },
       "artists": [
         {
-          "name": "Micky More & Andy Tee",
-          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
+          "name": "Michal Martyniuk",
+          "url": "https://open.spotify.com/artist/4pkzD9szYtQ8bBbUqTD0BC"
         },
         {
-          "name": "Reverendos Of Soul",
-          "url": "https://open.spotify.com/artist/33jL232lcWHCMDWg0yk7JK"
+          "name": "Eric Kupper",
+          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
         },
         {
-          "name": "Anduze",
-          "url": "https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn"
+          "name": "YaniKa",
+          "url": "https://open.spotify.com/artist/1bQgRbaK4120BXwW3LbVTZ"
         }
       ],
-      "duration_ms": 220475,
-      "name": "Devoted - Radio Edit",
-      "url": "https://open.spotify.com/track/1HzfuIqWacyHTNjyY99Ivu"
+      "duration_ms": 377069,
+      "name": "New Things (Eric Kupper Remix)",
+      "url": "https://open.spotify.com/track/21MaZOysLgNhO0MjWezOiX"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -1779,6 +1755,30 @@
       "duration_ms": 361653,
       "name": "Free - Andr\u00e9s Remix",
       "url": "https://open.spotify.com/track/4OS4TRXB2bBVDGO2hEqBgS"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Devoted",
+        "url": "https://open.spotify.com/album/4CDM5zo71P6JWyDzovwcZh"
+      },
+      "artists": [
+        {
+          "name": "Micky More & Andy Tee",
+          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
+        },
+        {
+          "name": "Reverendos Of Soul",
+          "url": "https://open.spotify.com/artist/33jL232lcWHCMDWg0yk7JK"
+        },
+        {
+          "name": "Anduze",
+          "url": "https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn"
+        }
+      ],
+      "duration_ms": 220475,
+      "name": "Devoted - Radio Edit",
+      "url": "https://open.spotify.com/track/1HzfuIqWacyHTNjyY99Ivu"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -2007,26 +2007,18 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "I Thank You",
-        "url": "https://open.spotify.com/album/6nnLLH1JF1utW5SqtTcEF4"
+        "name": "DJ-Kicks (DJ Tennis) [DJ Mix]",
+        "url": "https://open.spotify.com/album/2pzrqp12CEqxTDmzJY3QbV"
       },
       "artists": [
         {
-          "name": "Sgt Slick",
-          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
-        },
-        {
-          "name": "Karina Chavez",
-          "url": "https://open.spotify.com/artist/6do67Hf42o6pTOOum7bzMh"
-        },
-        {
-          "name": "Michael Gray",
-          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+          "name": "Kenny Dixon Jr.",
+          "url": "https://open.spotify.com/artist/17D4XhKTcpssfBwEITytUb"
         }
       ],
-      "duration_ms": 192863,
-      "name": "I Thank You - Michael Gray Remix",
-      "url": "https://open.spotify.com/track/6SWLYWbysISo0bkIjSU2Kg"
+      "duration_ms": 285617,
+      "name": "Soul Sounds - Mixed",
+      "url": "https://open.spotify.com/track/2PlH4gu2nA5yU1mLg904Py"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -2071,18 +2063,26 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "DJ-Kicks (DJ Tennis) [DJ Mix]",
-        "url": "https://open.spotify.com/album/2pzrqp12CEqxTDmzJY3QbV"
+        "name": "I Thank You",
+        "url": "https://open.spotify.com/album/6nnLLH1JF1utW5SqtTcEF4"
       },
       "artists": [
         {
-          "name": "Kenny Dixon Jr.",
-          "url": "https://open.spotify.com/artist/17D4XhKTcpssfBwEITytUb"
+          "name": "Sgt Slick",
+          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
+        },
+        {
+          "name": "Karina Chavez",
+          "url": "https://open.spotify.com/artist/6do67Hf42o6pTOOum7bzMh"
+        },
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
         }
       ],
-      "duration_ms": 285617,
-      "name": "Soul Sounds - Mixed",
-      "url": "https://open.spotify.com/track/2PlH4gu2nA5yU1mLg904Py"
+      "duration_ms": 192863,
+      "name": "I Thank You - Michael Gray Remix",
+      "url": "https://open.spotify.com/track/6SWLYWbysISo0bkIjSU2Kg"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
+        "name": "I Never Knew Love",
+        "url": "https://open.spotify.com/album/2nIniMGpYsChZLPYNcvocw"
+      },
+      "artists": [
+        {
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        }
+      ],
+      "duration_ms": 229464,
+      "name": "I Never Knew Love - Made In Detroit Mix",
+      "url": "https://open.spotify.com/track/2PLQlE2zQKT3JfH3lWhIrz"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
         "name": "Straight From The Heart (Moplen Remix)",
         "url": "https://open.spotify.com/album/3BM47PnpTojvOKwFx7fy3F"
       },
@@ -2191,22 +2207,6 @@
       "duration_ms": 365395,
       "name": "I've Gotta Stand Up (Brand New Man) - Dave Lee Garage City Mix",
       "url": "https://open.spotify.com/track/1WrWti3qRX8WFcudGkAXtJ"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "I Never Knew Love",
-        "url": "https://open.spotify.com/album/2nIniMGpYsChZLPYNcvocw"
-      },
-      "artists": [
-        {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        }
-      ],
-      "duration_ms": 229464,
-      "name": "I Never Knew Love - Made In Detroit Mix",
-      "url": "https://open.spotify.com/track/2PLQlE2zQKT3JfH3lWhIrz"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
-        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
-      },
-      "artists": [
-        {
-          "name": "Julien Jabre",
-          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
-        }
-      ],
-      "duration_ms": 642782,
-      "name": "Swimming Places",
-      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "House Legends",
         "url": "https://open.spotify.com/album/7iKMqmzTBogRrZZTGo36WH"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 507323,
       "name": "Reach 4 Freedom - DF's Vocal Mix",
       "url": "https://open.spotify.com/track/54X05f5d050gA2NYxvBvqk"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
+        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
+      },
+      "artists": [
+        {
+          "name": "Julien Jabre",
+          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
+        }
+      ],
+      "duration_ms": 642782,
+      "name": "Swimming Places",
+      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -2615,26 +2615,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "Sentindo Muito Bem",
-        "url": "https://open.spotify.com/album/7joJVEYGXsGUSyNGfvaWou"
-      },
-      "artists": [
-        {
-          "name": "Peter Mac",
-          "url": "https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc"
-        },
-        {
-          "name": "Lalo Leyy",
-          "url": "https://open.spotify.com/artist/2cGCehXhlgeYfZH9bj1wZJ"
-        }
-      ],
-      "duration_ms": 435306,
-      "name": "Sentindo Muito Bem - Original Mix",
-      "url": "https://open.spotify.com/track/0TO9ClnPbTTo3S0CkyE0YQ"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Karizma Remixed",
         "url": "https://open.spotify.com/album/1jqwtVXVinpV8HVCpdiK00"
       },
@@ -2655,6 +2635,46 @@
       "duration_ms": 476097,
       "name": "Gypsy Woman (She's Homeless) - Coflo Soulful Mix",
       "url": "https://open.spotify.com/track/0U35iCBlT3ZPBDH9QrHobs"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Sentindo Muito Bem",
+        "url": "https://open.spotify.com/album/7joJVEYGXsGUSyNGfvaWou"
+      },
+      "artists": [
+        {
+          "name": "Peter Mac",
+          "url": "https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc"
+        },
+        {
+          "name": "Lalo Leyy",
+          "url": "https://open.spotify.com/artist/2cGCehXhlgeYfZH9bj1wZJ"
+        }
+      ],
+      "duration_ms": 435306,
+      "name": "Sentindo Muito Bem - Original Mix",
+      "url": "https://open.spotify.com/track/0TO9ClnPbTTo3S0CkyE0YQ"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
+        "name": "Give My Love",
+        "url": "https://open.spotify.com/album/2C6xwwyCGut5DTdQ0AfxgZ"
+      },
+      "artists": [
+        {
+          "name": "Art of Tones",
+          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
+        },
+        {
+          "name": "Inaya Day",
+          "url": "https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h"
+        }
+      ],
+      "duration_ms": 379171,
+      "name": "Give My Love - Extended Mix",
+      "url": "https://open.spotify.com/track/0uqzX8JdJQspQxUkoPC68i"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -2699,26 +2719,6 @@
       "duration_ms": 501320,
       "name": "Elements of Life - Album Mix",
       "url": "https://open.spotify.com/track/33hWBifGdyJbPjCGwiqL6x"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Give My Love",
-        "url": "https://open.spotify.com/album/2C6xwwyCGut5DTdQ0AfxgZ"
-      },
-      "artists": [
-        {
-          "name": "Art of Tones",
-          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
-        },
-        {
-          "name": "Inaya Day",
-          "url": "https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h"
-        }
-      ],
-      "duration_ms": 379171,
-      "name": "Give My Love - Extended Mix",
-      "url": "https://open.spotify.com/track/0uqzX8JdJQspQxUkoPC68i"
     },
     {
       "added_at": "2024-04-04 22:00:00",
@@ -2999,30 +2999,6 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "How He Works (feat. Nico Vega) [Remixes]",
-        "url": "https://open.spotify.com/album/1Qsr3G0Kw5Fhp5zA9FAMy2"
-      },
-      "artists": [
-        {
-          "name": "Louie Vega",
-          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
-        },
-        {
-          "name": "Nico Vega",
-          "url": "https://open.spotify.com/artist/0fEGnq2Ds44iXvTBhu9Xmx"
-        },
-        {
-          "name": "Cee ElAssaad",
-          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
-        }
-      ],
-      "duration_ms": 424113,
-      "name": "How He Works (feat. Nico Vega) - Cee ElAssaad Remix",
-      "url": "https://open.spotify.com/track/6YzcH2ogzF1CvNMjfmlqNU"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
         "name": "Make A Way",
         "url": "https://open.spotify.com/album/1naMhW1gTqsRdRwwGwmZPV"
       },
@@ -3047,6 +3023,30 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
+        "name": "How He Works (feat. Nico Vega) [Remixes]",
+        "url": "https://open.spotify.com/album/1Qsr3G0Kw5Fhp5zA9FAMy2"
+      },
+      "artists": [
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Nico Vega",
+          "url": "https://open.spotify.com/artist/0fEGnq2Ds44iXvTBhu9Xmx"
+        },
+        {
+          "name": "Cee ElAssaad",
+          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
+        }
+      ],
+      "duration_ms": 424113,
+      "name": "How He Works (feat. Nico Vega) - Cee ElAssaad Remix",
+      "url": "https://open.spotify.com/track/6YzcH2ogzF1CvNMjfmlqNU"
+    },
+    {
+      "added_at": "2024-04-04 22:00:00",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/7if5T5GgLmQbe2uaZBcTAZ"
       },
@@ -3067,26 +3067,22 @@
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
-        "name": "I Don't Mind (ReelSoul & DJ Spen Remix)",
-        "url": "https://open.spotify.com/album/0ut2ljbZcJdgj8jwu7H18D"
+        "name": "Betcha Wouldn't Hurt Me",
+        "url": "https://open.spotify.com/album/0kpPKhMy5OHxSZ0ohmxVQt"
       },
       "artists": [
         {
-          "name": "Maysa",
-          "url": "https://open.spotify.com/artist/6XGfdDOtv4mLiHnHwrZhDC"
+          "name": "Teddy Douglas",
+          "url": "https://open.spotify.com/artist/35UGEVPSCcrS0sdLjALMBj"
         },
         {
-          "name": "DJ Spen",
-          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
-        },
-        {
-          "name": "Reelsoul",
-          "url": "https://open.spotify.com/artist/2BrpHfecMN0szTiQ0H0sWE"
+          "name": "Sharon Brown Adams",
+          "url": "https://open.spotify.com/artist/7HW6vJ0W3rGNLAFJ0orZjW"
         }
       ],
-      "duration_ms": 440975,
-      "name": "I Don't Mind (ReelSoul & DJ Spen Remix)",
-      "url": "https://open.spotify.com/track/2V7wbLN0gbQLhY92CLt3un"
+      "duration_ms": 350431,
+      "name": "Betcha Wouldn't Hurt Me (Vocal Mix)",
+      "url": "https://open.spotify.com/track/1bZKtZDLahZfdvPleIoCmZ"
     }
   ],
   "unique_name": "Soulful House",

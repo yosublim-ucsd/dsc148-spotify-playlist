@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 47 min 18 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 58 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Prelude \(Demo\) \- Bonus Track](https://open.spotify.com/track/4JoIwRJvEmVml9vkR0cgga) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Killswitch Engage \(Expanded Edition\) \[2004 Remaster\]](https://open.spotify.com/album/1MgyBHsiad6REK9veCUATT) | 2:03 |
-| 2 | [Summer Died In Connersville \- Instrumental Version](https://open.spotify.com/track/5PtniEoXt3tALHCu6azNHB) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [Digital Renegade \[Instrumental Version\]](https://open.spotify.com/album/2EGx88OVWH7a0BQXpfvP6M) | 3:18 |
-| 3 | [El Travieso](https://open.spotify.com/track/2pGuyTYdZ4tUbYtjNHc9zv) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 3:10 |
-| 4 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 |
-| 5 | [NZT48 \[Razihel Remix\]](https://open.spotify.com/track/6uaBcmytUwrs2fCld6rkpM) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [Renegades Forever](https://open.spotify.com/album/4umO9auiv91JhDUQfzQfKz) | 5:49 |
-| 6 | [Keep You Around](https://open.spotify.com/track/4Kp1NMyG6MZzbGtmNnTbXq) | [Ashlie Amber](https://open.spotify.com/artist/10uZfqpZrD77s8GhJyEaEA) | [Keep You Around](https://open.spotify.com/album/1KIPnoqKZIfMqNjqpeMJqr) | 3:10 |
-| 7 | [Ramble On \- 1990 Remaster](https://open.spotify.com/track/3MODES4TNtygekLl146Dxd) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:23 |
-| 8 | [To the River](https://open.spotify.com/track/0vyFjhfJ9DNLPX7vl3qc73) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Restless Years \(Bonus Track Version\)](https://open.spotify.com/album/7bKpo64AXgj2T9MEISV3X1) | 4:37 |
-| 9 | [The Flow](https://open.spotify.com/track/4qKN1tcFLmAJP7ZURRTl5k) | [From Indian Lakes](https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9) | [The Flow](https://open.spotify.com/album/4v4EJ3JDlrGSVZDeq51Btd) | 4:04 |
-| 10 | [Los 5 Pesos](https://open.spotify.com/track/2rv7odMbWI4Hn9h3COlMUA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [No Ando Solo](https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0) | 4:05 |
-| 11 | [Crazy](https://open.spotify.com/track/6FKAY8ff6Ea9YnPEStq8QI) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Tough Love: Best Of The Ballads \(International Version\)](https://open.spotify.com/album/2UhyWgiFb1ZDB1p0Uyljd4) | 5:16 |
-| 12 | [Sunday Morning](https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:04 |
+| 1 | [Tomb Of Insomnia](https://open.spotify.com/track/3EaocDUUsEYMkf73n9chdC) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Dance Of December Souls](https://open.spotify.com/album/611qjYkverDCtHobUsMEOX) | 13:06 |
+| 2 | [My Generation](https://open.spotify.com/track/6ivSibCrdgMEIkzV9RViR7) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kerplunk!](https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2) | 2:19 |
+| 3 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
+| 4 | [Tears in Heaven \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 4:40 |
+| 5 | [It's The End Of The World As We Know It \(And I Feel Fine\)](https://open.spotify.com/track/2abfaXRfvXr9ErmI8oqz4g) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(The I.R.S\. Years Vintage 1987\)](https://open.spotify.com/album/2y1UeJQy95zVxN8Y6IjUck) | 4:06 |
+| 6 | [Need To Talk \- Kordz Remix](https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc), [kordz](https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN) | [Need To Talk \(Kordz Remix\)](https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go) | 3:38 |
+| 7 | [London's Burning \- Remastered](https://open.spotify.com/track/0y8zZOu4u6NmoW7u1jEQzo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 2:11 |
+| 8 | [Canción del Pirata](https://open.spotify.com/track/3MrOsc7HrqgTvHKjXqI6CH) | [Dark Moor](https://open.spotify.com/artist/0YWKRTzA4kBceGwjywtMkh) | [Ancestral Romance](https://open.spotify.com/album/2Atx2yBbZOlRdBQ1KMB3bb) | 5:49 |
+| 9 | [Hurricane](https://open.spotify.com/track/1lqMLr9Wj7SM2F9AikGcxN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 8:32 |
+| 10 | [Whatchu Say ?](https://open.spotify.com/track/38Myszu0cRqEwZbzUWE80J) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [Whatchu Say ?](https://open.spotify.com/album/4emUcj6mqDLRpNUMLVTpfY) | 2:38 |
+| 11 | [When The Curtain Falls](https://open.spotify.com/track/2ZMI0QNoqU9fQZFirR9WpK) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Anthem Of The Peaceful Army](https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX) | 3:42 |
+| 12 | [Nunca Quedas Mal Con Nadie](https://open.spotify.com/track/3sXcNNIsVso8d8gZGwcCoj) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Ni por la Razon, Ni por la Fuerza \- Antologia](https://open.spotify.com/album/3lw3Fh1bzFCGQaDRE1AguX) | 4:16 |
 
-Snapshot ID: `NzcsMmEyYmQ2OGJjZTk5ZWEyMDZkMDI3OWJhODNlNTMzMDE3NDk0MjRjOQ==`
+Snapshot ID: `NzgsYTBlYjk0Mzg5YWEwMjgxMzEzY2JhZTY5NmQ2YzRlYmZmNGMwNjcwNw==`

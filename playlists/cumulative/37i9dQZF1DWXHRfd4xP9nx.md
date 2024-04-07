@@ -4,7 +4,7 @@
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-335 songs - 15 hr 42 min
+336 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Focus To Rain Sound](https://open.spotify.com/track/1Zlgk780ReXjity59pzdWB) | [Storm Machine](https://open.spotify.com/artist/2pXi0IcglHeXlVJqcDStpk) | [Unlimited Rain](https://open.spotify.com/album/5AAGGHlY1D0SqdfOKcXJh2) | 2:28 | 2022-10-27 |  |
 | [Forest Spirits \(Rain\)](https://open.spotify.com/track/3VeEplQsKzt4ls3tTJrtvO) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Gentle Waters](https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD) | 2:40 | 2022-10-27 |  |
 | [Forgotten Skies](https://open.spotify.com/track/5hY7DPBIJJc0tIBVMBIcIZ) | [cloudcity](https://open.spotify.com/artist/3GLqH1P5kbxsIWqCwOwaB8) | [Forgotten Skies](https://open.spotify.com/album/0YXwzkrl8DQFvjXbcTdeSe) | 3:28 | 2022-10-27 |  |
+| [Fresh Rain](https://open.spotify.com/track/1njdvJKqgAChKbnwYrqu3X) | [Rainissance](https://open.spotify.com/artist/6PNRmG7qpedAEZsQl6KMYw) | [Fresh Rain](https://open.spotify.com/album/7iFvPYkKnvDfTP6rTyKSGH) | 3:48 | 2024-03-21 |  |
 | [From The Clouds](https://open.spotify.com/track/5Tq5QmvIqEPV9mQt6FkvEj) | [Nue](https://open.spotify.com/artist/4zPX6V2gCI5nf46EQTpRr9) | [When The Sky Falls](https://open.spotify.com/album/1H0ZCcT128FPgX948kZkQx) | 3:32 | 2022-10-27 |  |
 | [FX Rain](https://open.spotify.com/track/3S2BYGQOFY8CGwQg5Imf6L) | [Epic Sleep](https://open.spotify.com/artist/38dOlLBxTQQFh4ElaWTpCt) | [FX Rain](https://open.spotify.com/album/6JPwjjjGwmy5J0Yx5YBPmm) | 3:03 | 2024-03-21 |  |
 | [Garasia Rain Forest](https://open.spotify.com/track/0I42DRVbtMJr0bLEO6ZQB6) | [Literrain](https://open.spotify.com/artist/4rwOqhIQpWyk3Tx4GbiqMw) | [Garasia Rain Forest](https://open.spotify.com/album/05T1og9UcFJdSUzZcobUfz) | 2:07 | 2022-10-27 |  |
@@ -173,7 +174,7 @@
 | [Oceanic](https://open.spotify.com/track/1NVcDFQmpBEqQYWXm9ACiQ) | [Million Drops](https://open.spotify.com/artist/5YAVAS1dk0z1XUMEhgblwD) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:23 | 2023-12-20 |  |
 | [Oddly Comforting Rain](https://open.spotify.com/track/5jqg4YlLGLuTg4yZCS9lh1) | [Muggy Forecast](https://open.spotify.com/artist/37NFZB0swR3yaCGntPM9f9) | [Current Affairs](https://open.spotify.com/album/3wYZkK01LPqIowyDN4Wubv) | 2:00 | 2022-10-27 |  |
 | [Oneiric Rain](https://open.spotify.com/track/4KVtQrlK6ABMi5UkSuXHBF) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Oneiric Rains](https://open.spotify.com/album/32P9pdkNBQm0ZL2vMUGHYb) | 2:54 | 2022-10-27 |  |
-| [Over the Fields \- Approaching...](https://open.spotify.com/track/0pxhuhOSHm2QxIWpu0vlCt) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Autumn Rains](https://open.spotify.com/album/7DTbEBe6bJoKeZgfW7nqdZ) | 5:02 | 2024-03-21 |  |
+| [Over the Fields \- Approaching...](https://open.spotify.com/track/0pxhuhOSHm2QxIWpu0vlCt) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Autumn Rains](https://open.spotify.com/album/7DTbEBe6bJoKeZgfW7nqdZ) | 5:02 | 2024-03-21 | 2024-04-07 |
 | [Park Rain, Pt 3](https://open.spotify.com/track/6B3LSqUplxRJAuw08I1a2z) | [8k Sound Library](https://open.spotify.com/artist/6sRNUITxFooMYE0SjJU4Wf) | [Park Rain](https://open.spotify.com/album/0OSGFgcL8AcqkdDTJMrcN3) | 3:32 | 2022-10-27 | 2023-12-21 |
 | [Park Rain, Pt 4](https://open.spotify.com/track/5qnmkmUZl9IN12jjqmCjcP) | [8k Sound Library](https://open.spotify.com/artist/6sRNUITxFooMYE0SjJU4Wf) | [Park Rain](https://open.spotify.com/album/0OSGFgcL8AcqkdDTJMrcN3) | 3:58 | 2022-10-27 |  |
 | [Pastures \(Rain\)](https://open.spotify.com/track/5nydxQakoXHdU0sDSpA2IZ) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Lightrise \(Rain\)](https://open.spotify.com/album/7JosAVi4UAQ2LT0Bjoyex6) | 3:00 | 2023-12-20 |  |

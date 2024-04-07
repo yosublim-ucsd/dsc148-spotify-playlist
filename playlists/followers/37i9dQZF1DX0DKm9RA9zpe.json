@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 16703,
+  "2024-04-07": 16706,
   "date_first_scraped": "2022-05-15",
   "description": "This is the official playlist of JTBC Superband, an audition program for musical geniuses for global superbands. (\uae00\ub85c\ubc8c \uc288\ud37c\ubc34\ub4dc\ub97c \uc704\ud55c \uc74c\uc545 \ucc9c\uc7ac\ub4e4\uc758 \uc624\ub514\uc158 \ud504\ub85c\uadf8\ub7a8 JTBC \uc288\ud37c\ubc34\ub4dc\uc758 \uacf5\uc2dd \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\uc785\ub2c8\ub2e4.)",
   "name": "SUPER BAND (\uc288\ud37c\ubc34\ub4dc)",
@@ -6654,6 +6654,32 @@
     },
     {
       "album": {
+        "name": "SuperBand2 - Episode.7",
+        "url": "https://open.spotify.com/album/0qsAYtrZvAg9jc1cSReTGY"
+      },
+      "artists": [
+        {
+          "name": "\uc774\ub3d9\ud5cc",
+          "url": "https://open.spotify.com/artist/6kPDr9t5FoV9ekHxNtWiQd"
+        },
+        {
+          "name": "Son Jinwook",
+          "url": "https://open.spotify.com/artist/3XNhEom3SbSx7UoJlduOsz"
+        },
+        {
+          "name": "\uc815\ubbfc\ud601",
+          "url": "https://open.spotify.com/artist/4i2Lq4vxmtR8l9jqwVO8vZ"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304556,
+      "name": "\uc5ec\ub984 \uaf43",
+      "url": "https://open.spotify.com/track/0sp0tgeB9irsoPUEYFXALF"
+    },
+    {
+      "album": {
         "name": "SUPER BAND 2 - Episode.7",
         "url": "https://open.spotify.com/album/7znpPJOvOsOZ5mNgBlRW1B"
       },
@@ -6677,32 +6703,6 @@
       "duration_ms": 304556,
       "name": "\uc5ec\ub984 \uaf43",
       "url": "https://open.spotify.com/track/0DkZnE7C9CAuZP6tqQGWAX"
-    },
-    {
-      "album": {
-        "name": "SuperBand2 - Episode.7",
-        "url": "https://open.spotify.com/album/0qsAYtrZvAg9jc1cSReTGY"
-      },
-      "artists": [
-        {
-          "name": "\uc774\ub3d9\ud5cc",
-          "url": "https://open.spotify.com/artist/6kPDr9t5FoV9ekHxNtWiQd"
-        },
-        {
-          "name": "\uc190\uc9c4\uc6b1",
-          "url": "https://open.spotify.com/artist/3XNhEom3SbSx7UoJlduOsz"
-        },
-        {
-          "name": "\uc815\ubbfc\ud601",
-          "url": "https://open.spotify.com/artist/4i2Lq4vxmtR8l9jqwVO8vZ"
-        }
-      ],
-      "date_added": "2021-10-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 304556,
-      "name": "\uc5ec\ub984 \uaf43",
-      "url": "https://open.spotify.com/track/0sp0tgeB9irsoPUEYFXALF"
     },
     {
       "album": {

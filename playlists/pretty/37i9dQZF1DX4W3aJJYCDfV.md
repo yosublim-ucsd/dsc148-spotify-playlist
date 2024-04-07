@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Glass Animals \(pictured\), Benson Boone, Griff and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,920 likes - 127 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,009 likes - 127 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 81 | [Happy](https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Happy](https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN) | 3:02 |
 | 82 | [The Greatest Love Story](https://open.spotify.com/track/6OLsbcgTKzLFlrLyS8hfhP) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [The Greatest Love Story](https://open.spotify.com/album/7dirys5qllztWQ6hKXPq4o) | 3:22 |
 | 83 | [Forever](https://open.spotify.com/track/0yKrYgNr5YFBejUHxgnUUa) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Forever](https://open.spotify.com/album/51vSs9kb86T7dtQvP2kCKu) | 3:49 |
-| 84 | [Say Wow](https://open.spotify.com/track/27BXc7zVWqSTiWHSdOlJch) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Say Wow](https://open.spotify.com/album/3mH4zZR8kzXE9tQSYnMV2b) | 2:57 |
+| 84 | [Say Wow](https://open.spotify.com/track/27BXc7zVWqSTiWHSdOlJch) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Say Wow](https://open.spotify.com/album/3mH4zZR8kzXE9tQSYnMV2b) | 2:57 |
 | 85 | [Warning](https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Cimone](https://open.spotify.com/artist/70Uu0DbDSR5uIKlaYmZIHU) | [Warning](https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs) | 4:06 |
 | 86 | [AlterCast](https://open.spotify.com/track/6Jy6wfYnsK1bj3RloImfR5) | [KOAN Sound](https://open.spotify.com/artist/1NCLweIUpq8knzemBwAwoo) | [AlterCast](https://open.spotify.com/album/7iL0PWQkwkJG5NTESuBuTf) | 4:33 |
 | 87 | [Honeymoons Over interlude](https://open.spotify.com/track/224kGaZzHamVgDkTxSL9XL) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn) | [Heartbreak Therapy](https://open.spotify.com/album/0UAiwta8WdzuvCRy6bRWnM) | 1:59 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 126 | [If It Is Love](https://open.spotify.com/track/0OFsRCsWTeW2hmPxRI7VZQ) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [If It Is Love](https://open.spotify.com/album/4kb1Sw8lZoThU29WhGR48o) | 3:22 |
 | 127 | [One](https://open.spotify.com/track/2jZ7QU2zzb4upMpVXAm1nb) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [One](https://open.spotify.com/album/07xQoYhMMM1fjl3y8eQPTo) | 4:02 |
 
-Snapshot ID: `MCxjZmU3ZDI3MDBlYjc1OTZhNTQ5ZDJlYzAxNWNhYWVmNTJmNzE0OTUw`
+Snapshot ID: `MCwwOTRhMTY0N2ZhZTc1Y2EwOWVjMDcwYzQyNWZkYTg1NTMyN2I3NjU2`

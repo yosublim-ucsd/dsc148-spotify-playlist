@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Incircle
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,595 likes - 102 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,603 likes - 102 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 101 | [Here I Am](https://open.spotify.com/track/5SMpWjfz8r4X39FB96u7Ps) | [The Krankers](https://open.spotify.com/artist/2ztGhiyALcRM1tKRUJrIYi) | [Here I Am](https://open.spotify.com/album/0RvLlrpepb4HTw1Huy7icE) | 4:52 |
 | 102 | [God's Eye](https://open.spotify.com/track/6TwaLEeVKsnyjpcPuuOo3U) | [Domm Duarte](https://open.spotify.com/artist/2fzBCB64PrQlVa33UJ3YVI) | [God's Eye](https://open.spotify.com/album/5VvowtQo41m62NHjFaD2c7) | 2:06 |
 
-Snapshot ID: `MCw1MzEzMjZlMWNmOWE4OTM5YjYzOTQxZTI0OTFiMTRmMjQ3ZDJlMGM2`
+Snapshot ID: `MCxhZWFlNDgyY2U1MDRmNGQ4YzJmNWU0MjY0ZDE2MTljOGRhYWMwMDY2`

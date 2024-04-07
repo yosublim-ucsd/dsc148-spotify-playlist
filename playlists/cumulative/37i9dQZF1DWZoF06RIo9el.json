@@ -5312,10 +5312,28 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 171301,
       "name": "Estupefacientes",
       "url": "https://open.spotify.com/track/4qWVvcTUNRD3DX8pBXKo5J"
+    },
+    {
+      "album": {
+        "name": "Flints",
+        "url": "https://open.spotify.com/album/3LHNCPG05vaTt9jTQC2OGI"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171301,
+      "name": "Estupefacientes",
+      "url": "https://open.spotify.com/track/7KsfiA44adkRuUbuRNVs5I"
     },
     {
       "album": {

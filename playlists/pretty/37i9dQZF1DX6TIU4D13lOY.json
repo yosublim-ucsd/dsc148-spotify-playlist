@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 251495,
+  "num_followers": 251557,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGMwMmNlZmU1OWU2YzBhZjE3MjQyZGVlNzFmZjViOWE2YTE0YTdm",
+  "snapshot_id": "MCw1YzRjOGJhNDIwNmY4YzZlNTBiMzEyNzM2YjQ5MTYzZDZiYTY1NjA3",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -529,7 +529,7 @@
       "artists": [
         {
           "name": "Ace",
-          "url": "https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP"
+          "url": "https://open.spotify.com/artist/5zWjD9ZjC2Lo0BB1M9gSC4"
         }
       ],
       "duration_ms": 204226,
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Late Night Tales: Music For Pleasure",
-        "url": "https://open.spotify.com/album/0GPZjIWU4sF8wmdNv67Ukc"
-      },
-      "artists": [
-        {
-          "name": "Player",
-          "url": "https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Baby Come Back",
-      "url": "https://open.spotify.com/track/2eRYuzlSOBk3HlMsCSOLPJ"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Waking & Dreaming",
         "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 234040,
       "name": "Still the One",
       "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Late Night Tales: Music For Pleasure",
+        "url": "https://open.spotify.com/album/0GPZjIWU4sF8wmdNv67Ukc"
+      },
+      "artists": [
+        {
+          "name": "Player",
+          "url": "https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "Baby Come Back",
+      "url": "https://open.spotify.com/track/2eRYuzlSOBk3HlMsCSOLPJ"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -859,22 +859,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "A Night on the Town (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7nge8Pafna5rU1a0ek7dKN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "Tonight's the Night (Gonna Be Alright) - 2009 Remaster",
-      "url": "https://open.spotify.com/track/10LRRKPmx8uHcSxLVWK0ct"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "In the Pocket (2019 Remaster)",
         "url": "https://open.spotify.com/album/45fMwpxS1ZOMqNt8Rq5pxP"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 273306,
       "name": "Shower the People - 2019 Remaster",
       "url": "https://open.spotify.com/track/1Pwcxq35Hl2kqwUVd5XCRg"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "A Night on the Town (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7nge8Pafna5rU1a0ek7dKN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "Tonight's the Night (Gonna Be Alright) - 2009 Remaster",
+      "url": "https://open.spotify.com/track/10LRRKPmx8uHcSxLVWK0ct"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -907,22 +907,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "The Pretender",
-        "url": "https://open.spotify.com/album/1AqUcQKtf2AQ6rFRKIBei8"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 351000,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/7Gr61S9VTm8fcYfAo4Fd9g"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/5sO231e431rq8r9mV1uFJH"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 180133,
       "name": "We Just Disagree",
       "url": "https://open.spotify.com/track/7qpuECko60EoztznowMWj1"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "The Pretender",
+        "url": "https://open.spotify.com/album/1AqUcQKtf2AQ6rFRKIBei8"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 351000,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/7Gr61S9VTm8fcYfAo4Fd9g"
     },
     {
       "added_at": "2020-01-07 15:31:11",

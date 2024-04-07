@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 87892,
+  "2024-04-07": 87905,
   "date_first_scraped": "2023-03-19",
   "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Khalid",
   "name": "Groovin' R&B",
@@ -1237,7 +1237,7 @@
     {
       "album": {
         "name": "CrazySexyCool",
-        "url": "https://open.spotify.com/album/2ATtAANAsub7ZWqk0zWUBM"
+        "url": "https://open.spotify.com/album/3UisyJ9pNJmEQv94qgUW8d"
       },
       "artists": [
         {
@@ -1264,6 +1264,40 @@
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 180000,
+      "name": "CrazySexyCool",
+      "url": "https://open.spotify.com/track/1QXFePeiagf8FWZlIecd1s"
+    },
+    {
+      "album": {
+        "name": "CrazySexyCool",
+        "url": "https://open.spotify.com/album/2ATtAANAsub7ZWqk0zWUBM"
+      },
+      "artists": [
+        {
+          "name": "SARA-J",
+          "url": "https://open.spotify.com/artist/5o11pS7iIyQ2H4Uw587jyL"
+        },
+        {
+          "name": "Kona Rose",
+          "url": "https://open.spotify.com/artist/0mGt3la29cRNic4G2pQ0HN"
+        },
+        {
+          "name": "EMI MARIA",
+          "url": "https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8"
+        },
+        {
+          "name": "FOFU",
+          "url": "https://open.spotify.com/artist/0s7Hki24pRQahhMRpU7n1U"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-06",
       "duration_ms": 180000,
       "name": "CrazySexyCool",
       "url": "https://open.spotify.com/track/67WclpEM9YTOHUQ0sbuF4W"
@@ -3337,10 +3371,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 163186,
       "name": "Just like that",
       "url": "https://open.spotify.com/track/4LlLESCSYQCAIjMenk4MxT"
+    },
+    {
+      "album": {
+        "name": "Just like that",
+        "url": "https://open.spotify.com/album/4R263nP9eHh0lvB8qFF1iE"
+      },
+      "artists": [
+        {
+          "name": "MALIYA",
+          "url": "https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163186,
+      "name": "Just like that",
+      "url": "https://open.spotify.com/track/6m5Fqn4FCf65VqalFyKiOZ"
     },
     {
       "album": {
@@ -3742,6 +3794,28 @@
     },
     {
       "album": {
+        "name": "Love One Another",
+        "url": "https://open.spotify.com/album/2BKXSl0ktKpWNHzqdAAy1T"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        },
+        {
+          "name": "knoak",
+          "url": "https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224552,
+      "name": "Loa",
+      "url": "https://open.spotify.com/track/1Y9CRlWO9wpEuPgo3yFyOJ"
+    },
+    {
+      "album": {
         "name": "Loa",
         "url": "https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ"
       },
@@ -3757,7 +3831,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 226476,
       "name": "Loa",
       "url": "https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt"

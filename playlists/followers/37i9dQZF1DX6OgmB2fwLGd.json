@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 1399198,
+  "2024-04-07": 1399332,
   "date_first_scraped": "2021-12-21",
   "description": "Shotgun Willy, born and raised on the internet.",
   "name": "Internet People",
@@ -7179,7 +7179,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 129445,
       "name": "GREEN GOBLIN - Spotify Singles",
       "url": "https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar"
@@ -17811,7 +17811,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 151125,
       "name": "two cups (feat. Ms. Tee)",
       "url": "https://open.spotify.com/track/4kpJhEL1V8pgqz3vJTj5Tu"
@@ -17877,6 +17877,28 @@
       "duration_ms": 115208,
       "name": "Ukraine - Let Me Talk Afro Drill Mix",
       "url": "https://open.spotify.com/track/1EHkclXJgi9XKP9xbp51hk"
+    },
+    {
+      "album": {
+        "name": "YOUNG GENIUS",
+        "url": "https://open.spotify.com/album/1ZSTVGuahoSWHnRjxqmqkJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159452,
+      "name": "UNDERDOG SONG (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/7AJYW0SKABcwCW4HnsDIWh"
     },
     {
       "album": {

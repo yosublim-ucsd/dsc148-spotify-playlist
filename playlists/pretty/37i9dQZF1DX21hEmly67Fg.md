@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,355 likes - 95 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,502 likes - 95 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 94 | [Thinking Out Loud](https://open.spotify.com/track/55Kunp4OMnygqTnW7jgua4) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [10](https://open.spotify.com/album/1Zky97zfugw0DZQzKPkWFB) | 3:52 |
 | 95 | [My Heart Will Go On](https://open.spotify.com/track/7g7zKzgHOmRYYyYWr66gTW) | [Nazareno Aversa](https://open.spotify.com/artist/5i0O6tyJDlb7ADVL0W7eeT) | [Piano Cover](https://open.spotify.com/album/5JImxehtOINJnpAEIVGbJi) | 3:11 |
 
-Snapshot ID: `MCxlYzg5NWUzNWNiMmRlNjM2ZTNjNDFkMDFiYjZlODVhOWYyYTY1ZTdi`
+Snapshot ID: `MCwyNmMxMWFhY2UwYjk1MWRkODZhMWQ3MzgwZmM0NGY0N2ZlZGRkZjZm`

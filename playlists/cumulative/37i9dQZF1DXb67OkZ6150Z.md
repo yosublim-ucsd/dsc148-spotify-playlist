@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Arlo Parks
 
-432 songs - 1 day 2 hr 29 min
+433 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Back To Black](https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Back To Black](https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7) | 4:02 | 2021-03-12 |  |
 | [Bad Man](https://open.spotify.com/track/5jlechEPcQgjdHgr2t57w8) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place \(Expanded\)](https://open.spotify.com/album/0BxC9YkHqyPbj5sk9wvJ1m) | 3:38 | 2022-04-01 | 2023-10-06 |
 | [Bad News from Home](https://open.spotify.com/track/09r0BhkaegSmwwotdCTEYk) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Bad News from Home](https://open.spotify.com/album/2ai61yElRZv3KdhXa66GkD) | 2:49 | 2022-01-28 | 2023-09-08 |
+| [Bad News from Home](https://open.spotify.com/track/0HQ2t0Yl9qYmsSz38a22lW) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [The Full Moon Project](https://open.spotify.com/album/0VraDVmjkr0vVjaZqLM7bi) | 2:49 | 2024-03-08 |  |
 | [Bad Religion](https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Bad Religion / A Pair Of Brown Eyes](https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp) | 4:20 | 2021-10-08 |  |
 | [Bad Romance](https://open.spotify.com/track/4gvspsfveHS7I5Alr2pfp2) | [Veil](https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg) | [Bad Romance](https://open.spotify.com/album/3l9tsAiTVPtgkSEDBhGHUP) | 4:04 | 2021-03-12 | 2022-04-14 |
 | [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 | 2021-08-27 |  |
@@ -402,7 +403,7 @@
 | [Walking on Broken Glass](https://open.spotify.com/track/0ZCs6DZnq2GifODJZsUZXV) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV), [Goodwerks](https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM) | [Broken Glass, Vol\. 1](https://open.spotify.com/album/3ajA1SGBwUrVIaqaUZBiR8) | 3:35 | 2023-07-20 | 2023-08-19 |
 | [Waterfalls](https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [The Georgia EP](https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN) | 4:24 | 2021-03-12 |  |
 | [Waterfalls](https://open.spotify.com/track/2Yw2YF0bnoYnqviXWSBEjg) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Waterfalls](https://open.spotify.com/album/6l33cvRau5lAHzmgfAe4Xu) | 4:26 | 2021-03-12 | 2022-07-29 |
-| [Watermelon Sugar](https://open.spotify.com/track/3HuDP04EGt9J2aOYMo1cp0) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Watermelon Sugar](https://open.spotify.com/album/3OzQZtbkfRfir7LueAUh1i) | 3:34 | 2021-07-21 |  |
+| [Watermelon Sugar](https://open.spotify.com/track/3HuDP04EGt9J2aOYMo1cp0) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Watermelon Sugar](https://open.spotify.com/album/3OzQZtbkfRfir7LueAUh1i) | 3:34 | 2021-07-21 | 2024-04-07 |
 | [We've Only Just Begun](https://open.spotify.com/track/7k5HyCB5x9NSJenU1jWV6n) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [We've Only Just Begun](https://open.spotify.com/album/3ADljSEaWZ0rWgy97vNqbZ) | 4:19 | 2021-03-12 | 2022-04-17 |
 | [Weird Fishes](https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Weird Fishes](https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv) | 5:54 | 2021-03-12 | 2023-08-09 |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 | 2022-08-08 | 2022-08-17 |

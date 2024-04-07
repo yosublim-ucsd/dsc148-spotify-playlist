@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzU0MWM0NWU4MzRhMTVmNmZhNTU1ZTY1M2Y5YmQ2MTVmZDk4YzA2",
+  "snapshot_id": "MCw3MTNjNDdiNDM0NDEzOTJlMGY0MjVlMGY0MGUzMDkwYWZlYTg0YmQz",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 120586,
-      "name": "Bullet Head",
-      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
+      "duration_ms": 204186,
+      "name": "Role Models",
+      "url": "https://open.spotify.com/track/5dDguee73zfJMY9zmG0euw"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coma Happy",
-        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
+        "name": "Bullet Head",
+        "url": "https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 226602,
-      "name": "Coma Happy",
-      "url": "https://open.spotify.com/track/3PRA9QSYQjNJk5EGEiIlLS"
+      "duration_ms": 163699,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/2FGDUtevCco1pUEzomho3z"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 204186,
-      "name": "Role Models",
-      "url": "https://open.spotify.com/track/5dDguee73zfJMY9zmG0euw"
+      "duration_ms": 120586,
+      "name": "Bullet Head",
+      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bullet Head",
-        "url": "https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG"
+        "name": "Coma Happy",
+        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 163699,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/2FGDUtevCco1pUEzomho3z"
+      "duration_ms": 226602,
+      "name": "Coma Happy",
+      "url": "https://open.spotify.com/track/3PRA9QSYQjNJk5EGEiIlLS"
     },
     {
       "added_at": null,

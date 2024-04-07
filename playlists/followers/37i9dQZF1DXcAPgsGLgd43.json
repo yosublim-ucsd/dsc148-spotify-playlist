@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 6081,
+  "2024-04-07": 6092,
   "date_first_scraped": "2022-05-13",
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
   "name": "Latin House",
@@ -1012,6 +1012,28 @@
     },
     {
       "album": {
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/6g3AEpunohq2j4CNSyCYqS"
+      },
+      "artists": [
+        {
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+        },
+        {
+          "name": "MARE",
+          "url": "https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/2tSmQJiBtXPN2Ourf9Q5mv"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Parti\u00f3 (feat. Dateless)",
         "url": "https://open.spotify.com/album/5J1JjIlgMzcTvmR4OwYHH5"
       },
@@ -1601,7 +1623,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 265778,
       "name": "Espantap\u00e1jaros - Captain Planet Remix",
       "url": "https://open.spotify.com/track/4m7PfIMZoBtdL4LZ0qtP8W"
@@ -1783,7 +1805,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 174404,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
@@ -3086,6 +3108,32 @@
     },
     {
       "album": {
+        "name": "Pa\u2019lante (Tigerbalm Remix)",
+        "url": "https://open.spotify.com/album/4p8UZqwr12NUuWxOcFmXqQ"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        },
+        {
+          "name": "Tigerbalm",
+          "url": "https://open.spotify.com/artist/7gTt4sJdCRNNmvTarUN4lo"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312759,
+      "name": "Pa\u2019lante - Tigerbalm Remix",
+      "url": "https://open.spotify.com/track/2xjUbVp53H7uJa9gMejURT"
+    },
+    {
+      "album": {
         "name": "Pelota",
         "url": "https://open.spotify.com/album/5fIhFcKkwc1TGivrJD5vdU"
       },
@@ -3644,6 +3692,28 @@
     },
     {
       "album": {
+        "name": "Sombrerito Blanco",
+        "url": "https://open.spotify.com/album/5PKL9k6BGnnjTdPQ8aRJfu"
+      },
+      "artists": [
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127559,
+      "name": "Sombrerito Blanco",
+      "url": "https://open.spotify.com/track/4cjmKKcFPKflJQzXQUa1dp"
+    },
+    {
+      "album": {
         "name": "Soy Candela",
         "url": "https://open.spotify.com/album/5zpCg6IbOsWFsASZiMqZ1y"
       },
@@ -4047,7 +4117,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 190393,
       "name": "T\u00f3cate",
       "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"

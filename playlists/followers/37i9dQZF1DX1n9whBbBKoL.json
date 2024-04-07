@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 766967,
+  "2024-04-07": 767113,
   "date_first_scraped": "2022-01-17",
   "description": "Ambient drone to make you feel weightless.",
   "name": "Floating Through Space",
@@ -39,6 +39,24 @@
       "duration_ms": 154576,
       "name": "417 Hz Tides of Renewal",
       "url": "https://open.spotify.com/track/0RQWxPgzp8qRDsyx8XtnW5"
+    },
+    {
+      "album": {
+        "name": "528 Hz Concentration",
+        "url": "https://open.spotify.com/album/4VwIN2C6nTBepf0Cr8p9so"
+      },
+      "artists": [
+        {
+          "name": "Nova Hz",
+          "url": "https://open.spotify.com/artist/64u2kTvOnLTB0pLf9Lc45Y"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "528 Hz Concentration",
+      "url": "https://open.spotify.com/track/5V9e3c5xa0oFHWccONeuqJ"
     },
     {
       "album": {
@@ -276,6 +294,24 @@
     },
     {
       "album": {
+        "name": "Agreement",
+        "url": "https://open.spotify.com/album/2YzjIDe9aM5tq75fApnyRs"
+      },
+      "artists": [
+        {
+          "name": "Zims Ele",
+          "url": "https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Agreement",
+      "url": "https://open.spotify.com/track/0hQN2kDFS4f1doAwUH91pL"
+    },
+    {
+      "album": {
         "name": "Alignment",
         "url": "https://open.spotify.com/album/1oIcD5Icrn4DBpJSXf5eLs"
       },
@@ -503,7 +539,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 229367,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/368jncPJF0SYxzqyBXapXj"
@@ -604,6 +640,24 @@
     },
     {
       "album": {
+        "name": "Astral Hypnosis",
+        "url": "https://open.spotify.com/album/0LNQODw7rNojWPJV1x15rO"
+      },
+      "artists": [
+        {
+          "name": "Quantum Echo",
+          "url": "https://open.spotify.com/artist/5XYrESv3QLk0cIMDdFEGqd"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Astral Hypnosis",
+      "url": "https://open.spotify.com/track/7ieuTdNnBk3VGZ51qIpH1M"
+    },
+    {
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7898KcnclYbvNAdYWnwZW1"
       },
@@ -651,7 +705,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 143052,
       "name": "Beautiful Imagination",
       "url": "https://open.spotify.com/track/5LEHlRPjGcZ5RdagAwXpHS"
@@ -748,6 +802,24 @@
     },
     {
       "album": {
+        "name": "Blissful Breeze",
+        "url": "https://open.spotify.com/album/2BVKx1soGE44pXFTj2EXkn"
+      },
+      "artists": [
+        {
+          "name": "Aurora Novara",
+          "url": "https://open.spotify.com/artist/01Yy0uR2H9jYuImGLmMi70"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Blissful Breeze",
+      "url": "https://open.spotify.com/track/5mEstebX16SCW56WWnEluW"
+    },
+    {
+      "album": {
         "name": "Blissful Mind",
         "url": "https://open.spotify.com/album/2YK0j5hggZEpf4Lb0w2V0T"
       },
@@ -781,6 +853,24 @@
       "duration_ms": 233121,
       "name": "Blood Moon",
       "url": "https://open.spotify.com/track/65ip2ya2ftUbZHZrfCWuVt"
+    },
+    {
+      "album": {
+        "name": "Blue Space",
+        "url": "https://open.spotify.com/album/61XdLKwPdiuCNdmYceKBbn"
+      },
+      "artists": [
+        {
+          "name": "Reactor Micrograms",
+          "url": "https://open.spotify.com/artist/7tHx6w7wSKqeRFTfrs0t7C"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158890,
+      "name": "Blue Space",
+      "url": "https://open.spotify.com/track/3T8131ohjWcQckq1iJTVdH"
     },
     {
       "album": {
@@ -831,7 +921,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 141061,
       "name": "Bylgjur",
       "url": "https://open.spotify.com/track/1QcZEkKC9yLrt4EWIWVHWS"
@@ -1155,7 +1245,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 159913,
       "name": "Crevice",
       "url": "https://open.spotify.com/track/5DH1vidFEjKOWjpwEoI8CS"
@@ -1281,7 +1371,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 124087,
       "name": "Delta Sinus Noise Pad",
       "url": "https://open.spotify.com/track/7sKPbqAPAP4llKXGEXqCaH"
@@ -1425,7 +1515,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 152418,
       "name": "Dreams of the Universe",
       "url": "https://open.spotify.com/track/2PCzhRAdaQxLl3UJT8N4zY"
@@ -1864,6 +1954,24 @@
     },
     {
       "album": {
+        "name": "flights",
+        "url": "https://open.spotify.com/album/1aDSIQ5APF3fhrrGghC49A"
+      },
+      "artists": [
+        {
+          "name": "Aquas",
+          "url": "https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "flights",
+      "url": "https://open.spotify.com/track/4myGizD4eC9nAaWgwZqdCd"
+    },
+    {
+      "album": {
         "name": "floating through skies",
         "url": "https://open.spotify.com/album/6RwX53r1RC1vqNyIit3M1W"
       },
@@ -2023,6 +2131,24 @@
       "duration_ms": 196109,
       "name": "Glauben",
       "url": "https://open.spotify.com/track/6A1rTs49C6c3KVyGoKG6el"
+    },
+    {
+      "album": {
+        "name": "Glowing Serenity",
+        "url": "https://open.spotify.com/album/4tlf1Tm9VYTpFILVuRoglN"
+      },
+      "artists": [
+        {
+          "name": "Oliver Skye",
+          "url": "https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Glowing Serenity",
+      "url": "https://open.spotify.com/track/3uB7A1ZPamTIQKCjPg8LG8"
     },
     {
       "album": {
@@ -2397,7 +2523,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 183996,
       "name": "Lighthouses - Ambient Version",
       "url": "https://open.spotify.com/track/4VTYAMP7kQ7YjmGpGtuJBo"
@@ -2451,7 +2577,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 172374,
       "name": "Long Distances",
       "url": "https://open.spotify.com/track/4hLRBySljQhnEhNBNNdspx"
@@ -2631,7 +2757,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 138361,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/4AxLkuDH6lAh4zfAqnMk1n"
@@ -2847,7 +2973,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 156000,
       "name": "Norrbotten",
       "url": "https://open.spotify.com/track/5ardBAnHzOgVgwbC7lUeoj"
@@ -3081,7 +3207,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 236000,
       "name": "Panalipa Bisignatus",
       "url": "https://open.spotify.com/track/6LjyIMfDZkn2uY2sLM6Hdk"
@@ -3189,7 +3315,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 176635,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/3DlKVRc8O2XjaFV5vQ5j0S"
@@ -4623,6 +4749,24 @@
       "duration_ms": 248147,
       "name": "Welkin",
       "url": "https://open.spotify.com/track/3hqnqpefPxDGTtLwGuaRG6"
+    },
+    {
+      "album": {
+        "name": "Wide spectrum",
+        "url": "https://open.spotify.com/album/1Jnjj1URlD4AVeY12ieRkS"
+      },
+      "artists": [
+        {
+          "name": "Rholdyn",
+          "url": "https://open.spotify.com/artist/4ktfzrkBglLNINMa5B6yEQ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "Wide spectrum",
+      "url": "https://open.spotify.com/track/6tHrrqlHFbK1Al2UmNzHm4"
     },
     {
       "album": {

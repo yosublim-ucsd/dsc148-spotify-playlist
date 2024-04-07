@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: Griff.",
-  "num_followers": 285206,
+  "num_followers": 285194,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjdmZTI2YjIwNzhmZWYwODU1NzVmNDgwNmViODgwNmJjYTIxMjBi",
+  "snapshot_id": "MCxmYmEzNWI5ZDA4MGUxNzU4ZDk3MGZkZjc0OGZmMDdkMjJiYzhiZjBl",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -124,7 +124,7 @@
       },
       "artists": [
         {
-          "name": "thuy",
+          "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
@@ -635,18 +635,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+        "name": "Khutti",
+        "url": "https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z"
       },
       "artists": [
         {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 213640,
-      "name": "girls like me don't cry",
-      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
+      "duration_ms": 132771,
+      "name": "Khutti",
+      "url": "https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -667,22 +671,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Khutti",
-        "url": "https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z"
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
       "artists": [
         {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 132771,
-      "name": "Khutti",
-      "url": "https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj"
+      "duration_ms": 213640,
+      "name": "girls like me don't cry",
+      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "3 new words",
-        "url": "https://open.spotify.com/album/3dCIy3cVrxA4JjlbSUGbCm"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "3 new words",
-      "url": "https://open.spotify.com/track/5M1OsXPtMfVM6hbrwIiZnr"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 220484,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5jhpphz9p3wuSThnkFCTZv"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "3 new words",
+        "url": "https://open.spotify.com/album/3dCIy3cVrxA4JjlbSUGbCm"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "3 new words",
+      "url": "https://open.spotify.com/track/5M1OsXPtMfVM6hbrwIiZnr"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "life with u",
-        "url": "https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 205275,
-      "name": "life with u",
-      "url": "https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Sunny",
         "url": "https://open.spotify.com/album/5FyY9wYLHeJoFzPl0tOU5k"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 180596,
       "name": "I say bye",
       "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "life with u",
+        "url": "https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 205275,
+      "name": "life with u",
+      "url": "https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1156,7 +1156,7 @@
           "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
         },
         {
-          "name": "thuy",
+          "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "ENVY",
-        "url": "https://open.spotify.com/album/01Z8iIlYdFrWxsG4bdSdL2"
-      },
-      "artists": [
-        {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
-        }
-      ],
-      "duration_ms": 202753,
-      "name": "ENVY",
-      "url": "https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
         "url": "https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2"
       },
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "ENVY",
+        "url": "https://open.spotify.com/album/01Z8iIlYdFrWxsG4bdSdL2"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 202753,
+      "name": "ENVY",
+      "url": "https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "House on a Hill",
         "url": "https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 173661,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/2lHJ0k2PbqwVJXy6dRyakY"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 201480,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3RnSyeEzR2AU7ZQN2poS6Z"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "duration_ms": 173661,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Water Worship Pray",
-        "url": "https://open.spotify.com/album/6IEFi4N1Ge92j1kCFZxXeo"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 191016,
-      "name": "Water Worship Pray",
-      "url": "https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "APESHIT",
         "url": "https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 151400,
       "name": "APESHIT",
       "url": "https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Water Worship Pray",
+        "url": "https://open.spotify.com/album/6IEFi4N1Ge92j1kCFZxXeo"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 191016,
+      "name": "Water Worship Pray",
+      "url": "https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1679,22 +1679,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Think Twice",
-        "url": "https://open.spotify.com/album/4xTdNoSXzygD6vzyHw5Tlu"
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/4q2bsMhNwwPFu57oEg3MZ6"
       },
       "artists": [
         {
-          "name": "A.G.O",
-          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+          "name": "niko rain",
+          "url": "https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV"
         },
         {
-          "name": "Yoshi T.",
-          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
+          "name": "EJEAN",
+          "url": "https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz"
         }
       ],
-      "duration_ms": 192700,
-      "name": "Think Twice",
-      "url": "https://open.spotify.com/track/287GfoUeiVLiSN2ehJ740d"
+      "duration_ms": 161000,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/4OUJAdeUmoqDh0iBWlvaoy"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1715,22 +1715,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/4q2bsMhNwwPFu57oEg3MZ6"
+        "name": "Think Twice",
+        "url": "https://open.spotify.com/album/4xTdNoSXzygD6vzyHw5Tlu"
       },
       "artists": [
         {
-          "name": "niko rain",
-          "url": "https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV"
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
         },
         {
-          "name": "EJEAN",
-          "url": "https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz"
+          "name": "Yoshi T.",
+          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/4OUJAdeUmoqDh0iBWlvaoy"
+      "duration_ms": 192700,
+      "name": "Think Twice",
+      "url": "https://open.spotify.com/track/287GfoUeiVLiSN2ehJ740d"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "SEEING PINK",
-        "url": "https://open.spotify.com/album/2nSCMCTFyMGUf3bLI2bCed"
-      },
-      "artists": [
-        {
-          "name": "hyejin",
-          "url": "https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX"
-        },
-        {
-          "name": "kasper",
-          "url": "https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "SEEING PINK",
-      "url": "https://open.spotify.com/track/1F0Lmgb46zDkAefUhkJXB0"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Future Reference",
         "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 152058,
       "name": "Care (feat. Bakar)",
       "url": "https://open.spotify.com/track/28Irf1qUrZ3Dbw9rXmXxHN"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "SEEING PINK",
+        "url": "https://open.spotify.com/album/2nSCMCTFyMGUf3bLI2bCed"
+      },
+      "artists": [
+        {
+          "name": "hyejin",
+          "url": "https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX"
+        },
+        {
+          "name": "kasper",
+          "url": "https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "SEEING PINK",
+      "url": "https://open.spotify.com/track/1F0Lmgb46zDkAefUhkJXB0"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Invited",
-        "url": "https://open.spotify.com/album/4Kyw6l5l1o0nC6jWIYOhbU"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        }
-      ],
-      "duration_ms": 141364,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/53qXTnllCBKcPZel26XAvL"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "moviestar",
         "url": "https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 138714,
       "name": "moviestar",
       "url": "https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Invited",
+        "url": "https://open.spotify.com/album/4Kyw6l5l1o0nC6jWIYOhbU"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "duration_ms": 141364,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/53qXTnllCBKcPZel26XAvL"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "PARAVI",
+        "url": "https://open.spotify.com/album/27d1Ladlcuhf4E10k07EVR"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "Revenge Body",
+      "url": "https://open.spotify.com/track/46TPA4mVzk1WE4eFItCLG6"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "MEIGUANXIDEYO",
         "url": "https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu"
       },
@@ -2383,22 +2399,6 @@
       "duration_ms": 167845,
       "name": "If It's Time",
       "url": "https://open.spotify.com/track/6tl3V3Br8AFYE6q9khDdR6"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "PARAVI",
-        "url": "https://open.spotify.com/album/27d1Ladlcuhf4E10k07EVR"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "Revenge Body",
-      "url": "https://open.spotify.com/track/46TPA4mVzk1WE4eFItCLG6"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2531,6 +2531,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "whatislove2u?",
+        "url": "https://open.spotify.com/album/54PDrXJ7a0If3sawApXJQ3"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 115759,
+      "name": "HAPPY ENDING",
+      "url": "https://open.spotify.com/track/6OGaQWSZCskbFH9CgldHTQ"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Have You Ever Seen The Rain?",
         "url": "https://open.spotify.com/album/0XFemF1cFczOzimPAjPksh"
       },
@@ -2547,22 +2563,6 @@
       "duration_ms": 278613,
       "name": "Have You Ever Seen The Rain?",
       "url": "https://open.spotify.com/track/2KGcEUHgC2NcXH5i7lu6CO"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "whatislove2u?",
-        "url": "https://open.spotify.com/album/54PDrXJ7a0If3sawApXJQ3"
-      },
-      "artists": [
-        {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
-        }
-      ],
-      "duration_ms": 115759,
-      "name": "HAPPY ENDING",
-      "url": "https://open.spotify.com/track/6OGaQWSZCskbFH9CgldHTQ"
     }
   ],
   "unique_name": "Jasmine",

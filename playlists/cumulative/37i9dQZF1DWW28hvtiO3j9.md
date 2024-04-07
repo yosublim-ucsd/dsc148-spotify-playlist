@@ -4,7 +4,7 @@
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-121 songs - 8 hr 56 min
+122 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Older Girl](https://open.spotify.com/track/6oGLKGeI4tM4jaVWe9sBoF) | [1986 OMEGA TRIBE](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [Navigator](https://open.spotify.com/album/4dDdb8mXZgAcw6QAO6oKc9) | 4:15 | 2022-06-28 | 2023-12-08 |
 | [Rainy Night Lady](https://open.spotify.com/track/5odvPKsaAlnnW50ZgGvDi3) | [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [Thanks Giving](https://open.spotify.com/album/75dMYkPm0XQZkvtaBXxGmO) | 5:11 | 2022-05-24 | 2022-07-29 |
 | [Remember Summer Days](https://open.spotify.com/track/1qUo7d5lAOclNVbTUY0A2R) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:55 | 2022-05-24 |  |
+| [RIVER'S ISLAND](https://open.spotify.com/track/7Exa7vhvBOr1GHNuEA50zy) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [RIVER'S ISLAND](https://open.spotify.com/album/0UEB5zj5SfE3tdgP4wP2jC) | 4:38 | 2023-03-21 |  |
 | [RIVER'S ISLAND](https://open.spotify.com/track/22p7tgi6cFVBaH7vAbgcUY) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [River's Island](https://open.spotify.com/album/6HM0SPu1eIv721SbsO8l3o) | 4:38 | 2022-05-24 | 2024-03-28 |
 | [Riverside Hotel](https://open.spotify.com/track/1XNCDQ5vKH9Am4d2LiWYzI) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [NEVER ENDING SUMMER REMIX](https://open.spotify.com/album/0ZbNM7icPjo2rt0l56xGWW) | 4:27 | 2022-09-27 | 2023-12-08 |
 | [Riverside Hotel \- 2020 Remix](https://open.spotify.com/track/6DVQXBOMRvrCjHYbrirvHL) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [NEVER ENDING SUMMER REMIX](https://open.spotify.com/album/44dHale91iIB64OLX7m40c) | 4:27 | 2023-03-21 |  |
@@ -107,7 +108,7 @@
 | [君のハートはマリンブルー](https://open.spotify.com/track/7lCLr2ba1wrfkO57EVEQCR) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [RIVER'S ISLAND REMIX](https://open.spotify.com/album/1CHYyTJlifCw5ZqHbswXYw) | 4:57 | 2022-05-24 | 2022-07-29 |
 | [君のハートはマリンブルー](https://open.spotify.com/track/04d2ceRCfAaBwuQfG1WwMK) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [OMEGA TRIBE GROOVE](https://open.spotify.com/album/7o5mbjGsvO2PrDkL1IRPch) | 4:59 | 2022-06-28 | 2024-03-28 |
 | [君は天然色](https://open.spotify.com/track/0LyR8MZT3A2tp58dgHeNhB) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 5:06 | 2022-05-24 |  |
-| [土曜の夜はパラダイス](https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [VITAMIN E・P・O](https://open.spotify.com/album/6IpND4kv199toWznRRTqrW) | 4:09 | 2022-05-24 |  |
+| [土曜の夜はパラダイス](https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [VITAMIN E・P・O](https://open.spotify.com/album/6IpND4kv199toWznRRTqrW) | 4:09 | 2022-05-24 | 2024-04-07 |
 | [堤防](https://open.spotify.com/track/7LHCJ0DMseGtg6R7F54XK9) | [二名敦子](https://open.spotify.com/artist/6E3IfpRGFBLViCZZ5syIRj) | [Fluorescent Lamp](https://open.spotify.com/album/1QT6NeEA9ipoIlnxFf9MZ4) | 4:24 | 2022-05-24 | 2022-07-27 |
 | [夏と秋のGood\-Luck](https://open.spotify.com/track/2mYULlDHrU6okgNls8rIBM) | [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [Thanks Giving](https://open.spotify.com/album/75dMYkPm0XQZkvtaBXxGmO) | 4:39 | 2022-05-24 | 2022-07-29 |
 | [思い出のビーチクラブ](https://open.spotify.com/track/6ynyyNv3m9ghqePgtDUQCE) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [稲垣潤一 meets 林哲司](https://open.spotify.com/album/7AVLTM7be4utQhJ3yPBc89) | 4:37 | 2022-05-24 |  |

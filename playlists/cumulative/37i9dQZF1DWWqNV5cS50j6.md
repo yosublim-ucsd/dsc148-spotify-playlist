@@ -4,7 +4,7 @@
 
 > ?! ft\. Malcolm Todd
 
-1,645 songs - 3 day 7 hr 8 min
+1,646 songs - 3 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [boythots](https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [boythots](https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv) | 2:17 | 2022-09-19 | 2023-01-28 |
 | [BRAVE NEW WORLD](https://open.spotify.com/track/7H0X7VDcwpLGC1hch6lZiY) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [BRAVE NEW WORLD](https://open.spotify.com/album/43Os7lr3eToEhw9WfLBo7X) | 3:13 | 2020-10-13\* | 2020-11-03 |
 | [broke my car radio](https://open.spotify.com/track/1bfeENogqEumwYjvzTC6Bj) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [things with wings](https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO) | 2:03 | 2022-05-20 | 2022-10-05 |
-| [brown eyes\*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD) | [Ree6e](https://open.spotify.com/artist/2U90T4sTIVVjC3klG9QrHW) | [brown eyes\*](https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO) | 2:43 | 2024-03-29 |  |
+| [brown eyes\*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [brown eyes\*](https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO) | 2:43 | 2024-03-29 |  |
 | [Brown Suede](https://open.spotify.com/track/0xMfB9eQQwDSnPhMtfBdfQ) | [J'von](https://open.spotify.com/artist/3dQZZuz1lE7E872IAyIhTq), [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL) | [Brown Suede](https://open.spotify.com/album/3xow47mylEHVpdP953sX89) | 2:33 | 2021-07-22 | 2021-10-16 |
 | [Bruiseboy](https://open.spotify.com/track/5DmNUZcVPIWeIlTJaRQSg5) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Bruiseboy](https://open.spotify.com/album/0Tbvzuaxk2sdujIHqOgRdw) | 3:23 | 2020-10-13\* | 2020-11-03 |
 | [Budapest](https://open.spotify.com/track/1y7H87T1kXMWSIAmmzhe4i) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Front Porch](https://open.spotify.com/album/693SYKBg0WBDyhaSDyeTZB) | 2:39 | 2023-11-07 | 2024-01-10 |
@@ -895,6 +895,7 @@
 | [MARMALADE](https://open.spotify.com/track/7vdv0eDg178o0uUtGvRfm8) | [Donte Thomas](https://open.spotify.com/artist/53F7MNlYur7XEV75tY3Yor), [Ki$](https://open.spotify.com/artist/1oaYpFkpJmfkE0IVBJkfnM) | [COLORS](https://open.spotify.com/album/2qhRG0jx3hR8GjZ6gpUagh) | 3:38 | 2020-10-13\* | 2020-11-03 |
 | [marry me](https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [marry me](https://open.spotify.com/album/3YQB61zHmPUUNFVHEtqKP1) | 2:37 | 2023-09-01 |  |
 | [Martina Soleil \(Living At The Same Time\)](https://open.spotify.com/track/1BEjhtSuXdCf2NVofV71DD) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Martina Soleil \(Living At The Same Time\)](https://open.spotify.com/album/2FIbisWv6Q7QZVvevvCE3G) | 3:07 | 2023-02-24 | 2023-04-15 |
+| [MASC \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0FdW7MEbDKdz8v5TXqcFkG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2) | 3:25 | 2024-04-05 |  |
 | [Mask Off \(Feelings\)](https://open.spotify.com/track/5yozbGmaHKYcNW1qE26qMl) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SG8\*](https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S) | 3:06 | 2021-09-23 | 2022-03-01 |
 | [Mastodon Matador](https://open.spotify.com/track/0LMnm18zZKMlRe59xxA3o3) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX) | [Mixtape](https://open.spotify.com/album/6eI1jzNYFmvtOuVbS6KuCg) | 1:56 | 2022-11-08 | 2023-04-29 |
 | [Matador](https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Matador](https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi) | 3:16 | 2022-10-07 | 2022-11-22 |
@@ -1586,7 +1587,7 @@
 | [What's Up](https://open.spotify.com/track/02JpaqMNkPsPXxrPdlPOzh) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [What's Up](https://open.spotify.com/album/1SDqmtr9TxNXnz7WyzXuCn) | 2:56 | 2023-03-01 | 2023-04-15 |
 | [When I'm Down](https://open.spotify.com/track/556l9P7WVZVyYUBjT1YFTT) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [When I'm Down](https://open.spotify.com/album/4j5u2UH5L7qGhkodeRxBZm) | 2:44 | 2020-10-13\* | 2020-11-03 |
 | [WHERE FLOWERS GO TO DIE](https://open.spotify.com/track/41v1NkuMJPYcDhM9j2S2v5) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [ARENA](https://open.spotify.com/album/5rRo5aHnN90CeipzqdeRAJ) | 3:04 | 2023-05-19 | 2023-07-22 |
-| [WHIPCREAM](https://open.spotify.com/track/55iO3rILBsWI8bMntmW1Mh) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 2:36 | 2023-09-15 |  |
+| [WHIPCREAM](https://open.spotify.com/track/55iO3rILBsWI8bMntmW1Mh) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 2:36 | 2023-09-15 | 2024-04-07 |
 | [WHITE CAPRICE](https://open.spotify.com/track/3Q0h7wkHLIlwySLGZYqFPu) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [REAL B\*TCHES DON'T DIE!](https://open.spotify.com/album/2man3aalGPUqaZqKrTBdDX) | 3:16 | 2023-05-26 | 2023-09-16 |
 | [White Honda](https://open.spotify.com/track/57uA9JRQxD9BoEx3N6FC8N) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [White Honda](https://open.spotify.com/album/24ihEz3AzFTqxVH2SfGI0u) | 3:15 | 2022-06-17 | 2022-08-06 |
 | [Whiteclaw](https://open.spotify.com/track/6DpLbRHQLP3dJvz3khE3UE) | [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Hits Of Today](https://open.spotify.com/album/1jHO2EMilNQVl5JnMRtQU3) | 2:47 | 2022-08-19 | 2022-10-05 |

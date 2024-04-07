@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 27526,
+  "2024-04-07": 27555,
   "date_first_scraped": "2022-03-24",
-  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Big Bllakk",
+  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: SD9, VND, Raflow",
   "name": "Rima Avan\u00e7ada",
   "tracks": [
     {
@@ -567,6 +567,36 @@
       "duration_ms": 347083,
       "name": "Aquelas",
       "url": "https://open.spotify.com/track/3F9czW1F6VhdE3yCOV5T5c"
+    },
+    {
+      "album": {
+        "name": "Sabotage 50",
+        "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
+      },
+      "artists": [
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        },
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+        },
+        {
+          "name": "VANDAL",
+          "url": "https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r"
+        },
+        {
+          "name": "Tejo Damasceno",
+          "url": "https://open.spotify.com/artist/1E6ZKfQ04BdPiDCk0cwZS0"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193306,
+      "name": "Aracn\u00eddeo - Sabotage 50",
+      "url": "https://open.spotify.com/track/5D6PqNmX0Q0waCNOZfThnz"
     },
     {
       "album": {
@@ -1707,7 +1737,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 136666,
       "name": "Cria da Norte",
       "url": "https://open.spotify.com/track/1uT3bipBc4YL7hOykga1Jg"
@@ -3230,6 +3260,32 @@
     },
     {
       "album": {
+        "name": "O Retrato Falado da Minha Face",
+        "url": "https://open.spotify.com/album/6OZiT5xv7XoRc5wHE3XI44"
+      },
+      "artists": [
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Anti Ayoa",
+          "url": "https://open.spotify.com/artist/163jYTZvbiCiNlpqL3YJjM"
+        },
+        {
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Fui s\u00f3 um mano",
+      "url": "https://open.spotify.com/track/1pxXdpMiFgVVaa4rdGdhLZ"
+    },
+    {
+      "album": {
         "name": "F\u00f4lego",
         "url": "https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s"
       },
@@ -3505,6 +3561,32 @@
       "duration_ms": 195520,
       "name": "Guerra Fria",
       "url": "https://open.spotify.com/track/1RnCESf8Q5VhetZiADD64W"
+    },
+    {
+      "album": {
+        "name": "Hipnose (Remix)",
+        "url": "https://open.spotify.com/album/7noPmS42gPtabnsXxhIXyw"
+      },
+      "artists": [
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        },
+        {
+          "name": "EricBeatz",
+          "url": "https://open.spotify.com/artist/6sPErN4KkLfCtU7vsybzG3"
+        },
+        {
+          "name": "walla C",
+          "url": "https://open.spotify.com/artist/7gNMuPrYJTsTFE8oWT5UO6"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133134,
+      "name": "Hipnose - Remix",
+      "url": "https://open.spotify.com/track/6PZ0O5Hioxf1Z0ZM77bZGc"
     },
     {
       "album": {
@@ -3785,7 +3867,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 165104,
       "name": "Lisboa",
       "url": "https://open.spotify.com/track/1kWaccuEalyb2QF7RQ8xzA"
@@ -5667,7 +5749,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 148965,
       "name": "Runners",
       "url": "https://open.spotify.com/track/3fjl0PWCP5Xzx4fScMvXfr"
@@ -5827,7 +5909,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 148900,
       "name": "Sem Ind\u00edcios",
       "url": "https://open.spotify.com/track/7gTXqvvcKYz4Gqmn358AjF"

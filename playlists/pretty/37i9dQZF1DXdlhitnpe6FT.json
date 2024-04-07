@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 224060,
+  "num_followers": 224234,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzY1ZWUzN2UzMjNjMjYxMzBlNWM1MDc1M2ZkMDRiYjRkOTRkNjlm",
+  "snapshot_id": "MCwwNDNlNTJjZTVhNjQyZmIwMWRhNjQyNWE0ZmY1ZTIzZDYyNjg1ODU3",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -855,22 +855,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Gold Series - Latin Romance",
-        "url": "https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya"
-      },
-      "artists": [
-        {
-          "name": "Francis Goya",
-          "url": "https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak"
-        }
-      ],
-      "duration_ms": 234962,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Canciones Inolvidables",
         "url": "https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 220400,
       "name": "Soleado",
       "url": "https://open.spotify.com/track/33D7r5tvQ5bDlzjIdrqUhP"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Gold Series - Latin Romance",
+        "url": "https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya"
+      },
+      "artists": [
+        {
+          "name": "Francis Goya",
+          "url": "https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak"
+        }
+      ],
+      "duration_ms": 234962,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -903,26 +903,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The New Limelight",
-        "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
-      },
-      "artists": [
-        {
-          "name": "Charlie Chaplin",
-          "url": "https://open.spotify.com/artist/1qqZKSFPWKwT4Rtcu5zc8h"
-        },
-        {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "Limelight",
-      "url": "https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Temas Prohibidos del Cine",
         "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
       },
@@ -939,18 +919,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
+        "name": "The New Limelight",
+        "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
       },
       "artists": [
         {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+          "name": "Charlie Chaplin",
+          "url": "https://open.spotify.com/artist/1qqZKSFPWKwT4Rtcu5zc8h"
+        },
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
         }
       ],
-      "duration_ms": 153133,
-      "name": "The Girl from Ipanema",
-      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
+      "duration_ms": 166293,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -983,6 +967,22 @@
       "duration_ms": 193720,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "The Girl from Ipanema",
+      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Boleros Bonitos",
-        "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Rom\u00e1ntica de La Habana",
-          "url": "https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Best of Pop Concerto Orchestra",
         "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 156773,
       "name": "Lady Milady",
       "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Boleros Bonitos",
+        "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Rom\u00e1ntica de La Habana",
+          "url": "https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "A Regar La Polilla",
-        "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Pimentel",
-          "url": "https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU"
-        }
-      ],
-      "duration_ms": 200411,
-      "name": "Frenesi",
-      "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "The Ferrante & Teicher Collection",
         "url": "https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "A Regar La Polilla",
+        "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Pimentel",
+          "url": "https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU"
+        }
+      ],
+      "duration_ms": 200411,
+      "name": "Frenesi",
+      "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "A Swingin' Safari",
         "url": "https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu"
       },
@@ -1435,22 +1435,6 @@
       "duration_ms": 135666,
       "name": "A Swingin' Safari",
       "url": "https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "The Pink Panther - Original Soundtrack",
-        "url": "https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 169413,
-      "name": "Something for Sellers - From the Mirisch-G & E Production \"The Pink Panther\"",
-      "url": "https://open.spotify.com/track/0Y6C8gl6ypXDfRGM1fbbAq"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "The Pink Panther - Original Soundtrack",
+        "url": "https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 169413,
+      "name": "Something for Sellers - From the Mirisch-G & E Production \"The Pink Panther\"",
+      "url": "https://open.spotify.com/track/0Y6C8gl6ypXDfRGM1fbbAq"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "20 Golden Greats",
         "url": "https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu"
       },
@@ -1483,22 +1483,6 @@
       "duration_ms": 168053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Presentando a Los Indios Tabajaras",
-        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
-      },
-      "artists": [
-        {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "Ave Maria No Morro",
-      "url": "https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1531,6 +1515,22 @@
       "duration_ms": 160866,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/2R5uw1Sa7XjU5AcriEeQER"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Presentando a Los Indios Tabajaras",
+        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "duration_ms": 154506,
+      "name": "Ave Maria No Morro",
+      "url": "https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Presentando a Los Indios Tabajaras",
-        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
-      },
-      "artists": [
-        {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
-        }
-      ],
-      "duration_ms": 157013,
-      "name": "Star Dust",
-      "url": "https://open.spotify.com/track/77LRyr9vn47HVc0PhBcIMj"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "16 Joyas Del New Age",
         "url": "https://open.spotify.com/album/49Zu2qynr0zOPKHrM3qqto"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 173616,
       "name": "Moon Over Montevideo",
       "url": "https://open.spotify.com/track/4FcWZ82tsQ1As33m2SR2gN"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Presentando a Los Indios Tabajaras",
+        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "duration_ms": 157013,
+      "name": "Star Dust",
+      "url": "https://open.spotify.com/track/77LRyr9vn47HVc0PhBcIMj"
     },
     {
       "added_at": "2020-12-08 19:02:01",

@@ -1113,6 +1113,40 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 05 GRAC&E NOCTURNE",
+        "url": "https://open.spotify.com/album/0B2XmMPI5yOglVVOGluA6o"
+      },
+      "artists": [
+        {
+          "name": "GRAC&E NOCTURNE",
+          "url": "https://open.spotify.com/artist/4yG45aWE3Sd2up0JSW6rOa"
+        },
+        {
+          "name": "Tomoka Tenkubashi (CV: Kotori Koiwai)",
+          "url": "https://open.spotify.com/artist/5ftm42yZ4mdsrNtEdl8nrm"
+        },
+        {
+          "name": "Megumi Tokoro (CV: Yukiyo Fujii)",
+          "url": "https://open.spotify.com/artist/5xRVfZ3FGcLVFE2lMlTmxS"
+        },
+        {
+          "name": "Chizuru Nikaido (CV: Kanako Nomura)",
+          "url": "https://open.spotify.com/artist/1QpIAQVxfJz3DMqFfs5B4G"
+        },
+        {
+          "name": "Rio Momose (CV: Rikako Yamaguchi)",
+          "url": "https://open.spotify.com/artist/4nMZGzn6WqI033nRyHoZvV"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250120,
+      "name": "Dark star, Distant moon",
+      "url": "https://open.spotify.com/track/0D1HpcwoKFakMQyXKC2lj1"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 13",
         "url": "https://open.spotify.com/album/18emGDILjED5k84d8M78NI"
       },
@@ -1568,7 +1602,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 302413,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/7IuzOOTsDhqiAm37lvq3Fg"
@@ -2102,7 +2136,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 299453,
       "name": "Hyakka wa Gekka ni Chirinuruo",
       "url": "https://open.spotify.com/track/7A4TX1FVJeUZd15pdb4ttC"
@@ -2518,7 +2552,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 248800,
       "name": "LOVE is GAME",
       "url": "https://open.spotify.com/track/78bN76pwC3tPCzwtdaAmRn"

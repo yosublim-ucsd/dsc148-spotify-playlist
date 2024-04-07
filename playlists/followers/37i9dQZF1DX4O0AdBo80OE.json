@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 73970,
+  "2024-04-07": 74007,
   "date_first_scraped": "2023-06-14",
   "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Robot95 y Jesse Baez en portada.",
   "name": "Rap Latte",
@@ -409,10 +409,28 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 166496,
       "name": "Bagels y Caf\u00e9",
       "url": "https://open.spotify.com/track/1bkMM9f67Taz4VhE0eswro"
+    },
+    {
+      "album": {
+        "name": "DEMONI",
+        "url": "https://open.spotify.com/album/579QwAdy8vNKS8oA9saZNt"
+      },
+      "artists": [
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270226,
+      "name": "BANANA SPLIT",
+      "url": "https://open.spotify.com/track/1u3M4TOIbIWiazizGcVWA8"
     },
     {
       "album": {
@@ -709,10 +727,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 185129,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/1pW8N9hv4VWNj3CNy0UppI"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/1xP6yQjv1X8LgcyEB9crlh"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185129,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/27yAHok6o2qCnA0EHA20SY"
     },
     {
       "album": {
@@ -1061,7 +1097,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 207898,
       "name": "Felicidades",
       "url": "https://open.spotify.com/track/1jx9ljlGXGrN1sIuEpBfnF"
@@ -1383,6 +1419,28 @@
       "duration_ms": 250133,
       "name": "Ladrillo Y Cemento",
       "url": "https://open.spotify.com/track/5wtHUpXijyXyaeND3HMfF6"
+    },
+    {
+      "album": {
+        "name": "le valgo madre",
+        "url": "https://open.spotify.com/album/15I3kzFmi64ex1BpKf8Erk"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156952,
+      "name": "le valgo madre",
+      "url": "https://open.spotify.com/track/6L0gsXZazztIohGMF2EoGa"
     },
     {
       "album": {

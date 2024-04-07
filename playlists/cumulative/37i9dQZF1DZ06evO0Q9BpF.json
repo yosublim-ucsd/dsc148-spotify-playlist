@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260221,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/6KwQ4NFdhpZw39FtPOEDAu"
+    },
+    {
+      "album": {
         "name": "Eres T\u00fa",
         "url": "https://open.spotify.com/album/7qC6N9vB5cPCzUgRLbhMVw"
       },
@@ -644,7 +662,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 342945,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/33dFdcaqLv97oVBHCo6Wcz"

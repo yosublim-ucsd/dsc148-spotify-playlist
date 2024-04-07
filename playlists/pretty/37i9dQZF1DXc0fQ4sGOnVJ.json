@@ -1,12 +1,12 @@
 {
   "description": "Crank it up. Cover: Brantley Gilbert",
-  "num_followers": 146985,
+  "num_followers": 146981,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGIwOWY2ZDA5ZDU4NWNkYzA1Y2Y2MzhhNDhiZWUwMTcwZWQxMTM0",
+  "snapshot_id": "MCxkYWQxMTEzZDQ3YjIxZmQ3NThkNzE3M2YwYWI5ODk4MmMwMDliMmFl",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Down by the Riverside",
+        "url": "https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC"
+      },
+      "artists": [
+        {
+          "name": "Willie Jones",
+          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
+        }
+      ],
+      "duration_ms": 179741,
+      "name": "Down by the Riverside",
+      "url": "https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "The Grind",
         "url": "https://open.spotify.com/album/4r9uwGEGbssusA5DTt3SwE"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 186261,
       "name": "Duramax (feat. Young Gunner)",
       "url": "https://open.spotify.com/track/5nWcMMEUUY7QeNHCrQoiKe"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Down by the Riverside",
-        "url": "https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC"
-      },
-      "artists": [
-        {
-          "name": "Willie Jones",
-          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
-        }
-      ],
-      "duration_ms": 179741,
-      "name": "Down by the Riverside",
-      "url": "https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -499,22 +499,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "The Bubba Mathis EP",
-        "url": "https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G"
+        "name": "John Wayne",
+        "url": "https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY"
       },
       "artists": [
         {
-          "name": "Bubba Sparxxx",
-          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
-        },
-        {
-          "name": "Yelawolf",
-          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+          "name": "J. Hartley",
+          "url": "https://open.spotify.com/artist/6NQutZjdXEEvb4B4JuBRNT"
         }
       ],
-      "duration_ms": 211888,
-      "name": "Put in Work",
-      "url": "https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV"
+      "duration_ms": 158685,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -535,18 +531,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "John Wayne",
-        "url": "https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY"
+        "name": "The Bubba Mathis EP",
+        "url": "https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G"
       },
       "artists": [
         {
-          "name": "J. Hartley",
-          "url": "https://open.spotify.com/artist/6NQutZjdXEEvb4B4JuBRNT"
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        },
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
         }
       ],
-      "duration_ms": 158685,
-      "name": "John Wayne",
-      "url": "https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe"
+      "duration_ms": 211888,
+      "name": "Put in Work",
+      "url": "https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Tall Boy",
-        "url": "https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w"
+        "name": "Kuntry Livin'",
+        "url": "https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "SMO",
+          "url": "https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9"
         }
       ],
-      "duration_ms": 140128,
-      "name": "Tall Boy",
-      "url": "https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn"
+      "duration_ms": 170400,
+      "name": "Bumpy Road",
+      "url": "https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Kuntry Livin'",
-        "url": "https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0"
+        "name": "Tall Boy",
+        "url": "https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w"
       },
       "artists": [
         {
-          "name": "SMO",
-          "url": "https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 170400,
-      "name": "Bumpy Road",
-      "url": "https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB"
+      "duration_ms": 140128,
+      "name": "Tall Boy",
+      "url": "https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn"
     },
     {
       "added_at": "2024-03-08 05:00:00",

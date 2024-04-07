@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Empire Of The Sun
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,778 likes - 88 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,825 likes - 88 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 87 | [Rocket To Ride](https://open.spotify.com/track/6MjBcqlmlWTO1HtEHvcVTF) | [Jess Locke](https://open.spotify.com/artist/1Ck46b7PKDf9z3QwrWiUOf) | [Rocket To Ride](https://open.spotify.com/album/6cHRfp65a7Ho75CosKcT2M) | 2:47 |
 | 88 | [Beautiful Dancers](https://open.spotify.com/track/4UzYOXWZU0w79GuKMXobpc) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Beautiful Dancers](https://open.spotify.com/album/5EE6lWnCXFGVjeTCsmUQY8) | 6:14 |
 
-Snapshot ID: `MCw1YzY2NThlNWEyOTQxMGI1MDMyMTMyMWFjMTAzYjNjNDNhOTBiOGQz`
+Snapshot ID: `MCw1MGUyN2U2NjIyODljNjRlMGEyMGMwZTE2MDY3ZDM2NGY4Nzk3YzBh`

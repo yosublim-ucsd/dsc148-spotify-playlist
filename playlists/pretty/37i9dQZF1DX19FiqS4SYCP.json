@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 135046,
+  "num_followers": 135053,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDQyZTkwYzYzYjViMDQwNjA4ZTlmZmRlNGY5ZmE4NDY3MzRkYjg5",
+  "snapshot_id": "MCxkYmJhN2QyYjQyMGYzOTVmODEwZGZiYzNiNDU0ZDNjNDBmODllYzc1",
   "tracks": [
     {
       "added_at": "2023-09-13 20:37:36",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Te Llevo En Mi Alma",
-        "url": "https://open.spotify.com/album/3wMfT06yH67fOLn2OVecfA"
-      },
-      "artists": [
-        {
-          "name": "Mike Gonzalez Iconiczz",
-          "url": "https://open.spotify.com/artist/4afRalL7UqAGeT0btMm53X"
-        }
-      ],
-      "duration_ms": 224256,
-      "name": "Mi Necesidad",
-      "url": "https://open.spotify.com/track/38Whv9YVvOOKmz59rRVATi"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Porque T\u00fa",
         "url": "https://open.spotify.com/album/0VizQMPXbj9M5ReEfpNIst"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Anda Vuela Y Vete",
-        "url": "https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw"
+        "name": "Te Llevo En Mi Alma",
+        "url": "https://open.spotify.com/album/3wMfT06yH67fOLn2OVecfA"
       },
       "artists": [
         {
-          "name": "Kamryn Ramirez",
-          "url": "https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md"
+          "name": "Mike Gonzalez Iconiczz",
+          "url": "https://open.spotify.com/artist/4afRalL7UqAGeT0btMm53X"
         }
       ],
-      "duration_ms": 165866,
-      "name": "Anda Vuela Y Vete",
-      "url": "https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq"
+      "duration_ms": 224256,
+      "name": "Mi Necesidad",
+      "url": "https://open.spotify.com/track/38Whv9YVvOOKmz59rRVATi"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -487,18 +471,34 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Pura Sabrosura",
-        "url": "https://open.spotify.com/album/007AGLSQRBYHMtIvW8Z2mv"
+        "name": "Anda Vuela Y Vete",
+        "url": "https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw"
       },
       "artists": [
         {
-          "name": "Severo y Grupo Fuego",
-          "url": "https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6"
+          "name": "Kamryn Ramirez",
+          "url": "https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md"
         }
       ],
-      "duration_ms": 159637,
-      "name": "Pura Sabrosura",
-      "url": "https://open.spotify.com/track/3etkEQi64KOu73UexyHvCU"
+      "duration_ms": 165866,
+      "name": "Anda Vuela Y Vete",
+      "url": "https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Amor Condicional",
+        "url": "https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lamas",
+          "url": "https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG"
+        }
+      ],
+      "duration_ms": 257137,
+      "name": "Amor Condicional",
+      "url": "https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Amor Condicional",
-        "url": "https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK"
+        "name": "Pura Sabrosura",
+        "url": "https://open.spotify.com/album/007AGLSQRBYHMtIvW8Z2mv"
       },
       "artists": [
         {
-          "name": "Hilda Lamas",
-          "url": "https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG"
+          "name": "Severo y Grupo Fuego",
+          "url": "https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6"
         }
       ],
-      "duration_ms": 257137,
-      "name": "Amor Condicional",
-      "url": "https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd"
+      "duration_ms": 159637,
+      "name": "Pura Sabrosura",
+      "url": "https://open.spotify.com/track/3etkEQi64KOu73UexyHvCU"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -631,22 +631,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Quiereme (Hard Core Tex-Mex Version)",
-        "url": "https://open.spotify.com/album/0ZprEjt9HQi9GHR6dZAD8m"
+        "name": "El Gallo Dez",
+        "url": "https://open.spotify.com/album/5z4UvrB6OWDoWwKxdo6fJs"
       },
       "artists": [
         {
-          "name": "El Tiempo",
-          "url": "https://open.spotify.com/artist/0DxGeLKI2FB9WsIi8dmPr2"
-        },
-        {
-          "name": "Juan P. Moreno",
-          "url": "https://open.spotify.com/artist/0tlZzUtqFwN2raxLbHTH5I"
+          "name": "El Gallo Dez",
+          "url": "https://open.spotify.com/artist/6aNPWxwAyANkwbvhmgE1O5"
         }
       ],
-      "duration_ms": 207463,
-      "name": "Quiereme - Hard Core Tex-Mex Version",
-      "url": "https://open.spotify.com/track/0Mw3XtMS8mVa0TePH6JWPS"
+      "duration_ms": 203879,
+      "name": "Rogando por tu amor - Version Tejana",
+      "url": "https://open.spotify.com/track/0X5KIZpfrBXDz363PIEwfS"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -667,18 +663,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "El Gallo Dez",
-        "url": "https://open.spotify.com/album/5z4UvrB6OWDoWwKxdo6fJs"
+        "name": "Quiereme (Hard Core Tex-Mex Version)",
+        "url": "https://open.spotify.com/album/0ZprEjt9HQi9GHR6dZAD8m"
       },
       "artists": [
         {
-          "name": "El Gallo Dez",
-          "url": "https://open.spotify.com/artist/6aNPWxwAyANkwbvhmgE1O5"
+          "name": "El Tiempo",
+          "url": "https://open.spotify.com/artist/0DxGeLKI2FB9WsIi8dmPr2"
+        },
+        {
+          "name": "Juan P. Moreno",
+          "url": "https://open.spotify.com/artist/0tlZzUtqFwN2raxLbHTH5I"
         }
       ],
-      "duration_ms": 203879,
-      "name": "Rogando por tu amor - Version Tejana",
-      "url": "https://open.spotify.com/track/0X5KIZpfrBXDz363PIEwfS"
+      "duration_ms": 207463,
+      "name": "Quiereme - Hard Core Tex-Mex Version",
+      "url": "https://open.spotify.com/track/0Mw3XtMS8mVa0TePH6JWPS"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Soy Ella",
-        "url": "https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN"
-      },
-      "artists": [
-        {
-          "name": "Joanna Rae",
-          "url": "https://open.spotify.com/artist/3qYF2FA6cKdt8jFsOlzljR"
-        }
-      ],
-      "duration_ms": 179908,
-      "name": "Soy Ella",
-      "url": "https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Porque Te Amo",
         "url": "https://open.spotify.com/album/0drmVwgibymg1PiFUMnyhe"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 187623,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/7zHFYAKZG0yBG2yqTYYmKB"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Soy Ella",
+        "url": "https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN"
+      },
+      "artists": [
+        {
+          "name": "Joanna Rae",
+          "url": "https://open.spotify.com/artist/3qYF2FA6cKdt8jFsOlzljR"
+        }
+      ],
+      "duration_ms": 179908,
+      "name": "Soy Ella",
+      "url": "https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Ven",
-        "url": "https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV"
-      },
-      "artists": [
-        {
-          "name": "ALICIA C",
-          "url": "https://open.spotify.com/artist/0JEYuKSjp4pSEcUujGTz0X"
-        }
-      ],
-      "duration_ms": 177225,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Que Dolor",
         "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Los Peces En El Rio",
-        "url": "https://open.spotify.com/album/1exTpPwJ4ZUqf6l37TKlMX"
+        "name": "Ven",
+        "url": "https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV"
       },
       "artists": [
         {
-          "name": "Veronique Medrano",
-          "url": "https://open.spotify.com/artist/4fN7gCSTewGjaMJnuk8K2h"
+          "name": "ALICIA C",
+          "url": "https://open.spotify.com/artist/0JEYuKSjp4pSEcUujGTz0X"
         }
       ],
-      "duration_ms": 181846,
-      "name": "Los Peces En El Rio",
-      "url": "https://open.spotify.com/track/2hXxwyJm64VCEURkHq0le5"
+      "duration_ms": 177225,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1087,6 +1071,22 @@
       "duration_ms": 204355,
       "name": "La Tequilera",
       "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Los Peces En El Rio",
+        "url": "https://open.spotify.com/album/1exTpPwJ4ZUqf6l37TKlMX"
+      },
+      "artists": [
+        {
+          "name": "Veronique Medrano",
+          "url": "https://open.spotify.com/artist/4fN7gCSTewGjaMJnuk8K2h"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Los Peces En El Rio",
+      "url": "https://open.spotify.com/track/2hXxwyJm64VCEURkHq0le5"
     },
     {
       "added_at": "2023-09-13 20:37:36",

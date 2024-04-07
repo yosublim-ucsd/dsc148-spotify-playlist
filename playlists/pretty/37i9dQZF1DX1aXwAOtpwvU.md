@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5RwiBwEEW5dOXGUlEVA0LT">stickxr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,706 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,712 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 59 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 | 60 | [Luksus](https://open.spotify.com/track/032wbCjB0T5yY6B1Sp7t5b) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH), [Trill Pem](https://open.spotify.com/artist/0x4xJCGDyTlKr47RF2WXzu) | [Luksus](https://open.spotify.com/album/59qNkAOwe8LEdKRqwocPD6) | 2:44 |
 
-Snapshot ID: `MCwwY2FlOWIxYWFhZWQwZjNmNmJlMDNhMGVjM2VjN2FmOGNjNGU5ZWMy`
+Snapshot ID: `MCw0OTRiMDE2MzI4NWU0MTM0Nzk5NzM4NmRmNzM2ZmExNjBjNjJhYjY3`

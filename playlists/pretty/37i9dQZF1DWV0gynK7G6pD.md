@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Víkingur Ólafsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,315 likes - 89 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,420 likes - 89 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 45 | [Echoes of the Delta: IX\. Riffs 'Round the Sun](https://open.spotify.com/track/3CTqxYQJRvKiYNSMBQnUYZ) | [Mike Post](https://open.spotify.com/artist/2roaPGR1goiiLQxrG5dXiF) | [Message from the Mountains & Echoes of the Delta](https://open.spotify.com/album/2FWIok5FXcLOwDBWdmWgTd) | 1:42 |
 | 46 | [Im wunderschönen Monat Mai](https://open.spotify.com/track/0NTjP5v1HIjBqkKWrgZpT7) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Kristjan Randalu](https://open.spotify.com/artist/0UQW5kxRc9XEPwasEQH1rc) | [Dichterliebe](https://open.spotify.com/album/2aOUvMLeWPYFaggyHtzZ5M) | 3:23 |
 | 47 | [Study No\. 3](https://open.spotify.com/track/3FrbfhFS2J1RGAzYwt9tGw) | [Frederic Hand](https://open.spotify.com/artist/7CsGILLqpnf5mqFmNTQvap), [Anders Miolin](https://open.spotify.com/artist/0BNlCKQPbiGIRTVnzKfJgy) | [Study No\. 3](https://open.spotify.com/album/1SqZMqFey8Vl6HtsnMOUbK) | 2:11 |
-| 48 | [Percussion Concert: I\. Triangle](https://open.spotify.com/track/32F9Nt2n8E5leuakp545N9) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Percussion Concert: I\. Triangle](https://open.spotify.com/album/6aim8cUpFezmu8x7fc0rhD) | 6:25 |
+| 48 | [Percussion Concert: I\. Triangle](https://open.spotify.com/track/32F9Nt2n8E5leuakp545N9) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Colin Currie](https://open.spotify.com/artist/13Tk0FNK9aJCXG4lh0VacH), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Percussion Concert: I\. Triangle](https://open.spotify.com/album/6aim8cUpFezmu8x7fc0rhD) | 6:25 |
 | 49 | [A Sparrow Alighted Upon Our Shoulder](https://open.spotify.com/track/3ET6UT5DmWLFtRnjq4GHjN) | [Francesca Guccione](https://open.spotify.com/artist/1DH9QaxJXwzct8bPwiWZBa) | [A Sparrow Alighted Upon Our Shoulder](https://open.spotify.com/album/2QrpMN5z1nmfYwJCbq6TH9) | 2:27 |
 | 50 | [Pacifica](https://open.spotify.com/track/55VGEGacfrhX3o5sseRUCC) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Chapter II: How Dark It Is Before Dawn](https://open.spotify.com/album/3PtdHn0NDmOUPRNmRsuPfN) | 3:40 |
 | 51 | [Charlotte \(Renaissance Version\)](https://open.spotify.com/track/120LcosShhgkVj2PtRUrpw) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Charlotte \(Renaissance Version\)](https://open.spotify.com/album/6GiLTenU1pnLVyeY4qqUE2) | 3:48 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 88 | [Assaggio per violino solo in G Minor, BeRI 320: III.](https://open.spotify.com/track/2UFwMZxbVLOe0oKqcGpNDE) | [Johan Helmich Roman](https://open.spotify.com/artist/7fmuw46A73YYDDI1AV6KZd), [Fabio Biondi](https://open.spotify.com/artist/3r1dphXjVBOwbUAYrrkEkQ) | [Johan Helmich Roman: Assaggio per violino solo in G Minor, BeRI 320: III.](https://open.spotify.com/album/20pPbls4W2Bcjs5ndYa2mL) | 1:32 |
 | 89 | [Enstantaneler: 1, Fishermen pulling the Nets](https://open.spotify.com/track/6mY5d60WuosFzzZxGHkMMB) | [Cemal Reşit Rey](https://open.spotify.com/artist/495NIslNdqYhDuveHFO6H8), [Howard Griffiths](https://open.spotify.com/artist/6htlEU4z5WGJCDAkOFGGDq), [Deutsches Symphonie\-Orchester Berlin](https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY) | [Cemal Reşit Rey: Enstantaneler \- Fishermen pulling the Nets](https://open.spotify.com/album/3zvlY60cLyROohr9Yg1K2e) | 2:22 |
 
-Snapshot ID: `MCwxMDJiOGY3YThmOTI1ZmU5MzIxNTQzYTI1ZGVjNWQwMjIzNGFkZWRm`
+Snapshot ID: `MCwxMjU2MmQ0MzQwNjA4MzQ4MTQ0M2Y0NzQ0OGRiNDcxZTkyY2MxNjAy`

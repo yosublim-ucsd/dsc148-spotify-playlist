@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: ERRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,991 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,065 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 38 | [Where Are the Punks?!?!](https://open.spotify.com/track/2BwNxXx1tDpcA2btA89i6X) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO) | [Where Are the Punks?!?!](https://open.spotify.com/album/7jF4ehwNp9Mzocu3KqEqBj) | 2:28 |
 | 39 | [Cerberus](https://open.spotify.com/track/3nKB6CX99QJtMKhkmRHMZT) | [Dagoba](https://open.spotify.com/artist/1iZlQG09PwkMVMumsvgFj4) | [Cerberus](https://open.spotify.com/album/3rUg65O02DR6P8js6NmW1u) | 5:06 |
 | 40 | [Rat Flag](https://open.spotify.com/track/4Hkv3nMChZ6pVKKOnIL0p7) | [Iron Monkey](https://open.spotify.com/artist/5Qfqa9FeOchAWt6kfuvZbY) | [Spleen & Goad](https://open.spotify.com/album/7DkPE4lRsekjNu3PEvd4Sa) | 6:12 |
-| 41 | [F.A.M](https://open.spotify.com/track/3XLx72QHWFHK63RcS9isAh) | [Dvrk](https://open.spotify.com/artist/2veLy5cp8tE2IUS47EwzlB) | [F.A.M](https://open.spotify.com/album/5D1XsHBPqLMLNX56hLrDi4) | 3:06 |
+| 41 | [F.A.M](https://open.spotify.com/track/3XLx72QHWFHK63RcS9isAh) | [DVRK](https://open.spotify.com/artist/2veLy5cp8tE2IUS47EwzlB) | [F.A.M](https://open.spotify.com/album/5D1XsHBPqLMLNX56hLrDi4) | 3:06 |
 | 42 | [Heavy is the Crown of Bone](https://open.spotify.com/track/7C3vZ55BUVYiGIVXF5qcuc) | [Crypt Sermon](https://open.spotify.com/artist/363ih5wuNGWBFcjeKFG8cc) | [Heavy is the Crown of Bone](https://open.spotify.com/album/5vlIW1EihV1nQnsJQNgH1p) | 5:08 |
 | 43 | [A World To Win](https://open.spotify.com/track/4fWOHzBRTGfTRcI1n7Xw7W) | [Skywalker](https://open.spotify.com/artist/2dAlHzOkoe1xGzFLBVzE5Q), [Chiefland](https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW) | [All News Is Bad News](https://open.spotify.com/album/2SveRAr0NAvhO4MaAUpBDE) | 4:03 |
 | 44 | [Burden](https://open.spotify.com/track/4Oxunak9nKxWUZMal3Si1G) | [VILT](https://open.spotify.com/artist/1XXNLj17d3wBoKtFWkik8a) | [Burden](https://open.spotify.com/album/1usdqc8vNb0kNNQAFfQ3Hw) | 4:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [A Thousand And One Nights](https://open.spotify.com/track/7uobUroo7ILntz7btYCYEd) | [Letallis](https://open.spotify.com/artist/71jhbcJpI5iRMKJWzvwQ4E) | [A Thousand And One Nights](https://open.spotify.com/album/3lVOfuNaQPZm8WE8xp6g23) | 5:09 |
 | 50 | [Stingrays](https://open.spotify.com/track/3K1YJagpe0qpIO4tG8Rzyy) | [Gallamesh](https://open.spotify.com/artist/5nhUfUVXvd3Pjd9OkKBcEV) | [Stingrays](https://open.spotify.com/album/7pgARXyCtOIUJPkZ9TtDfW) | 3:26 |
 
-Snapshot ID: `MCxjMTIzNTZmNDI4ZjYxNjc2YzE2YTI1NWMyY2FlZTRjOWM1ZWZiMmM4`
+Snapshot ID: `MCwyZDhlY2JjNGY3OWI0YjdmMDdkZjVhZmExNTk1NWI0MGMxNWQyZDMw`

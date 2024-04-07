@@ -1,12 +1,12 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 68597,
+  "num_followers": 68609,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2RiMjkxNjc5YWI2NTE4MDUyNmZiZTcxY2MwZDVmYzFiMGVhYWIx",
+  "snapshot_id": "MCxjMmEzMzZmZDU0MWNiYzBlZDMyNzFkMTFjMTNkZmEyNDQ3NzVjNDc4",
   "tracks": [
     {
       "added_at": null,
@@ -226,11 +226,15 @@
         {
           "name": "Architects",
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        },
+        {
+          "name": "Winston McCall",
+          "url": "https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO"
         }
       ],
-      "duration_ms": 212063,
-      "name": "Giving Blood",
-      "url": "https://open.spotify.com/track/5OVb8VkoO9ZYG64ngOPZpW"
+      "duration_ms": 242356,
+      "name": "Impermanence",
+      "url": "https://open.spotify.com/track/3p7qbTzPf4jKeEEwy765sI"
     },
     {
       "added_at": null,
@@ -290,15 +294,11 @@
         {
           "name": "Architects",
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        },
-        {
-          "name": "Winston McCall",
-          "url": "https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO"
         }
       ],
-      "duration_ms": 242356,
-      "name": "Impermanence",
-      "url": "https://open.spotify.com/track/3p7qbTzPf4jKeEEwy765sI"
+      "duration_ms": 212063,
+      "name": "Giving Blood",
+      "url": "https://open.spotify.com/track/5OVb8VkoO9ZYG64ngOPZpW"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Heavy music for heavy feelings.",
-  "num_followers": 244229,
+  "num_followers": 244385,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjJmYWVlN2Y0N2YwNDI5N2MzMzhiMWIyMWU5ZmQwZTE1YTdkNmM1",
+  "snapshot_id": "MCw2NDc3NGVkNDY0ODhjM2NkMWU3ZDM0ODYzOGNkN2NmYTY1Mjc2MmQw",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -713,6 +713,22 @@
       "url": "https://open.spotify.com/track/10aGiE3OEk4dKeUzcHINZs"
     },
     {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "mainstream sellout (life in pink deluxe)",
+        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 174833,
+      "name": "last november",
+      "url": "https://open.spotify.com/track/7AbpTqNbxpqWQjKcSOpYvq"
+    },
+    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "POST HUMAN: SURVIVAL HORROR",
@@ -731,22 +747,6 @@
       "duration_ms": 243140,
       "name": "One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death (feat. Amy Lee)",
       "url": "https://open.spotify.com/track/20Kau1BL5IUaPo4l488D57"
-    },
-    {
-      "added_at": "2023-02-16 19:56:13",
-      "album": {
-        "name": "mainstream sellout (life in pink deluxe)",
-        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 174833,
-      "name": "last november",
-      "url": "https://open.spotify.com/track/7AbpTqNbxpqWQjKcSOpYvq"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/7lLgr9yoa1vToPYyEfZ8Dp"
     },
     {
-      "added_at": "2023-02-16 19:56:13",
-      "album": {
-        "name": "INTELLECTUAL PROPERTY",
-        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 157053,
-      "name": "SELF-SABOTAGE",
-      "url": "https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH"
-    },
-    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "SO WHAT?",
@@ -891,6 +875,22 @@
       "duration_ms": 254500,
       "name": "ANTI-SOCIAL",
       "url": "https://open.spotify.com/track/7f6X7zERAXAbIYVLizIZ3O"
+    },
+    {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 157053,
+      "name": "SELF-SABOTAGE",
+      "url": "https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "The Mortal Coil",
-        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 281807,
-      "name": "Crooked Path",
-      "url": "https://open.spotify.com/track/2oDbxBYY3kt7mFzIXJrGMv"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Letters",
         "url": "https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 179756,
       "name": "Pain",
       "url": "https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "The Mortal Coil",
+        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 281807,
+      "name": "Crooked Path",
+      "url": "https://open.spotify.com/track/2oDbxBYY3kt7mFzIXJrGMv"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 240206,
-      "name": "love song",
-      "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 194954,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5jZAtF5byijpW7UCJsUYK8"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 240206,
+      "name": "love song",
+      "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
     },
     {
       "added_at": "2022-08-25 23:00:00",

@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 860556,
+  "2024-04-07": 860578,
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: Kito & Chrome Sparks",
+  "description": "The best indie dance tracks of the moment. Cover: Brijean",
   "name": "metropolis",
   "tracks": [
     {
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 243790,
       "name": "Ano Kute",
       "url": "https://open.spotify.com/track/7AVo8r39yuGyTE9MWxRweE"
@@ -1585,7 +1585,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 141206,
       "name": "Baby You're A Star",
       "url": "https://open.spotify.com/track/2YDEPymI2wEv7QDDfOrHcA"
@@ -1625,6 +1625,24 @@
       "duration_ms": 202746,
       "name": "Babychan",
       "url": "https://open.spotify.com/track/5RSInLIfZArNJ9oCxAFcy0"
+    },
+    {
+      "album": {
+        "name": "Back 2 Life",
+        "url": "https://open.spotify.com/album/1goOossnTZUZBTi92aBxon"
+      },
+      "artists": [
+        {
+          "name": "Ruby Red",
+          "url": "https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182051,
+      "name": "Back 2 Life",
+      "url": "https://open.spotify.com/track/3PynSvD5MuWQjv8y3CJtT9"
     },
     {
       "album": {
@@ -3666,6 +3684,28 @@
     },
     {
       "album": {
+        "name": "look at me but through me",
+        "url": "https://open.spotify.com/album/2Nin3ZwsF1sdkYt2rMkiIb"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        },
+        {
+          "name": "Hailes",
+          "url": "https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253386,
+      "name": "caught up",
+      "url": "https://open.spotify.com/track/18rUsFjE2GoJaO2eesZtUP"
+    },
+    {
+      "album": {
         "name": "Inner Circuitry",
         "url": "https://open.spotify.com/album/2vHPBoZuIIBBsfHjRZdoAA"
       },
@@ -3866,6 +3906,24 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218179,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
+    },
+    {
+      "album": {
         "name": "Mogadisco - Dancing Mogadishu (Somalia 1972 - 1991) [Analog Africa No.29]",
         "url": "https://open.spotify.com/album/267SehTmD0zRYQJtZo9JL7"
       },
@@ -4045,6 +4103,28 @@
       "duration_ms": 163978,
       "name": "Closed for Renovations",
       "url": "https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0H8umWFwpuPhTWNkdNIQ8u"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210491,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2lOHkxQWUxaFF0skm6emgA"
     },
     {
       "album": {
@@ -4456,6 +4536,24 @@
     },
     {
       "album": {
+        "name": "Cortez",
+        "url": "https://open.spotify.com/album/1K9MSzHcYvkZ2dLTiZdoqj"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145777,
+      "name": "Cortez",
+      "url": "https://open.spotify.com/track/0fYgE2xkoAwFcD1H5u3meG"
+    },
+    {
+      "album": {
         "name": "Costa",
         "url": "https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7"
       },
@@ -4471,7 +4569,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 216400,
       "name": "Costa",
       "url": "https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0"
@@ -5269,6 +5367,24 @@
       "duration_ms": 177520,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9"
+    },
+    {
+      "album": {
+        "name": "Don't Ask",
+        "url": "https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245985,
+      "name": "Don't Ask",
+      "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
     },
     {
       "album": {
@@ -8934,6 +9050,24 @@
     },
     {
       "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0Ru6DolWQL9XhdfereDhpS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146776,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/5G6mtgQ3cirV1SrN6mUAMj"
+    },
+    {
+      "album": {
         "name": "heart of mine",
         "url": "https://open.spotify.com/album/481YxIHg7ob0L4BNEAbFzm"
       },
@@ -9211,7 +9345,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 418038,
       "name": "Hey Mami - Rick Wade Remix",
       "url": "https://open.spotify.com/track/3HKu3DTebFhJyvZZkSYuBm"
@@ -11577,6 +11711,24 @@
       "duration_ms": 235198,
       "name": "JOY (Push The Button)",
       "url": "https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB"
+    },
+    {
+      "album": {
+        "name": "joycelyn's dance",
+        "url": "https://open.spotify.com/album/1ZmhzQQWURtuF9K7yPcAoJ"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "joycelyn's dance",
+      "url": "https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4"
     },
     {
       "album": {
@@ -13981,7 +14133,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 241440,
       "name": "maybe so",
       "url": "https://open.spotify.com/track/7CaMXv5RApsEGYZ6QIjrT6"
@@ -14272,6 +14424,24 @@
     },
     {
       "album": {
+        "name": "Gangbusters Melody Club",
+        "url": "https://open.spotify.com/album/4li43Kruh0Mrh0SGsIipvU"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221636,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/2Ki0bQiWB2F09S0BiS079l"
+    },
+    {
+      "album": {
         "name": "Sonic Poems",
         "url": "https://open.spotify.com/album/61LDldyfICKlRKjauyeWdn"
       },
@@ -14429,6 +14599,24 @@
       "duration_ms": 360995,
       "name": "Monstertruck - Joe Goddard Remix",
       "url": "https://open.spotify.com/track/3XMo9CI5tJn56VWo0INrYM"
+    },
+    {
+      "album": {
+        "name": "Mont Royal",
+        "url": "https://open.spotify.com/album/7famLQ1yFrcmlF94xdbN3s"
+      },
+      "artists": [
+        {
+          "name": "Mont Duamel",
+          "url": "https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220487,
+      "name": "Mont Royal",
+      "url": "https://open.spotify.com/track/1DfZo2KOWMWjipIajW9Xww"
     },
     {
       "album": {
@@ -14835,7 +15023,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 173346,
       "name": "Nandakke?",
       "url": "https://open.spotify.com/track/3lgPLaan7Kt1KGfNGdtMO8"
@@ -15003,7 +15191,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 323785,
       "name": "New World (Flow)",
       "url": "https://open.spotify.com/track/3EYkvUWZoysixyAYDDxsbA"
@@ -15815,7 +16003,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 210484,
       "name": "okok",
       "url": "https://open.spotify.com/track/5cnzY2pz4gUFNGyhLJRvxh"
@@ -16705,7 +16893,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 130285,
       "name": "Peace In Silence",
       "url": "https://open.spotify.com/track/1GsurkwM6YwfQ9rNr14Of8"
@@ -19691,7 +19879,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 204878,
       "name": "Sprungboard",
       "url": "https://open.spotify.com/track/734tGYxSWui9uJ2SMlN1B1"
@@ -20727,7 +20915,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 234666,
       "name": "Talking Too Much",
       "url": "https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq"
@@ -21942,6 +22130,24 @@
     },
     {
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124710,
+      "name": "Time - Edit",
+      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
+    },
+    {
+      "album": {
         "name": "Time (Franc Moody Remix)",
         "url": "https://open.spotify.com/album/0p0lwwbGFL7irLqbVGGAHY"
       },
@@ -22871,7 +23077,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 229024,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/6b57FDNY52AlFJa81vTijE"
@@ -24059,6 +24265,24 @@
       "duration_ms": 243573,
       "name": "Wolf - Sextile Remix",
       "url": "https://open.spotify.com/track/5JVA84RfilAsYOI51MMrXh"
+    },
+    {
+      "album": {
+        "name": "Workin' On It",
+        "url": "https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215823,
+      "name": "Workin\u2019 On It",
+      "url": "https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx"
     },
     {
       "album": {

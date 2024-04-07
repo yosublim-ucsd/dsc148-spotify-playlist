@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 5121,
+  "2024-04-07": 5129,
   "date_first_scraped": "2023-01-11",
   "description": "Kaitlyn Aurelia Smith's Takeover selection, as previously featured on <a href=\"spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL\">Ambient X</a>.",
   "name": "Ambient X Takeover: Kaitlyn Aurelia Smith",
@@ -357,10 +357,28 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 325480,
       "name": "Wet The Day",
       "url": "https://open.spotify.com/track/1QYp72zf8szkIynwO7LfZR"
+    },
+    {
+      "album": {
+        "name": "One Day I'll Be On Time",
+        "url": "https://open.spotify.com/album/4mtKlmGhK7go7cZ2SLiTgR"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325480,
+      "name": "Wet The Day",
+      "url": "https://open.spotify.com/track/5lonsVzKnb7zYiLvtj5s5v"
     },
     {
       "album": {

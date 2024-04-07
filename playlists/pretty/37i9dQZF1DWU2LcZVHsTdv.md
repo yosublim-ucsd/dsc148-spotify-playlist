@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,625 likes - 184 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,659 likes - 184 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 183 | [We All Carry Something](https://open.spotify.com/track/2SKI2QSQB2XluzxUJ31QD0) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Never Gets Old](https://open.spotify.com/album/5cJSeRqQ9d07IUjUCVoVvK) | 3:26 |
 | 184 | [Three Wooden Crosses](https://open.spotify.com/track/0riGx0wA6jMQsFmgdOUgcH) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Rise and Shine](https://open.spotify.com/album/3w1h1oQiVj7Z6GRgu8WRCX) | 3:21 |
 
-Snapshot ID: `MCxkZTRmOWQxMTUwOGNmOTQ5OWJlMDRkNjE2M2IzODc1ZTM5N2YzMGNl`
+Snapshot ID: `MCwyYWU1MGIzYWRlZjUzYThjZGY3MzJiYzU4Yjc0NjdhNjc2OTc3ZGJk`

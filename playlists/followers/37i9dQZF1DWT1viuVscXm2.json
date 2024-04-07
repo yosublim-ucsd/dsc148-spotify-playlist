@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 947218,
+  "2024-04-07": 948013,
   "date_first_scraped": "2022-01-02",
   "description": "y de la buena!",
   "name": "Esto es Cumbia",
@@ -1690,6 +1690,28 @@
     },
     {
       "album": {
+        "name": "Baile Infinito",
+        "url": "https://open.spotify.com/album/1zpggciAeGOsTlKKaSJxMR"
+      },
+      "artists": [
+        {
+          "name": "Tomo Como Rey",
+          "url": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198188,
+      "name": "Es lo que hay",
+      "url": "https://open.spotify.com/track/4sYiGhu0HEL0ZlkbHesfYC"
+    },
+    {
+      "album": {
         "name": "Es Tan Grande Este Amor",
         "url": "https://open.spotify.com/album/2zJ3aQpwT8EmleuSKUEsdD"
       },
@@ -2213,7 +2235,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 258293,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn"
@@ -2446,6 +2468,32 @@
     },
     {
       "album": {
+        "name": "La Soledad",
+        "url": "https://open.spotify.com/album/0x21UGuU3JDw19AtjkHgxI"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Club",
+          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
+        },
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        },
+        {
+          "name": "El Club de la Cumbia",
+          "url": "https://open.spotify.com/artist/1WTE076oMv3AL15Ics0qnU"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286795,
+      "name": "La Soledad",
+      "url": "https://open.spotify.com/track/07c2XkjJl0nMgMhYsxyPww"
+    },
+    {
+      "album": {
         "name": "La Suavecita",
         "url": "https://open.spotify.com/album/6q21ZGgKA5pJzJj5K1lyfB"
       },
@@ -2617,7 +2665,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 210357,
       "name": "Llorar\u00e1s M\u00e1s de 10 Veces",
       "url": "https://open.spotify.com/track/10VUJfqV8GGuJovH0x9Q4e"
@@ -4281,7 +4329,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 217094,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/5opUwRIhCuOG0AA8H3gFQL"
@@ -5185,6 +5233,24 @@
       "duration_ms": 168751,
       "name": "Turreto",
       "url": "https://open.spotify.com/track/6z9h8Q7K1hzItz9Tt5HcmE"
+    },
+    {
+      "album": {
+        "name": "Tuyo Siempre",
+        "url": "https://open.spotify.com/album/5iWCGpIviT851tliidHWm7"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173887,
+      "name": "Tuyo Siempre",
+      "url": "https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m"
     },
     {
       "album": {

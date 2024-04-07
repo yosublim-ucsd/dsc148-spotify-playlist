@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYva3WHwOh0z.md) - [plain]
 
 > ¡Las canciones rancheras de Luismi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,082 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,215 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYva3WHwOh0z.md) - [plain]
 | 49 | [Noche De Ronda](https://open.spotify.com/track/7c3Qsn4lCTdVKiuxItqC03) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 4:20 |
 | 50 | [Romance \(No me platiques más / No sé tú / La puerta / La barca / Inolvidable\) \- En vivo](https://open.spotify.com/track/4RDhCX2agyMpLcIeMhZhUu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 11:12 |
 
-Snapshot ID: `MCxkZmYwMzFjMmMwOWNlNTMxYzJmNmY2N2U0NTNiYTBiZjk2YWMzOGZl`
+Snapshot ID: `MCw1ZjI2NjM2Y2M2M2M5ZWFiYjRhYTMxYjkzODQyOTc3NGE3ODhjZTM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Renn y Yexel
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,190 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,209 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [Historia](https://open.spotify.com/track/7zHZTHScVaGQ7ETXBiuHRH) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Historia](https://open.spotify.com/album/1I8gUYpocfQL7AOiSz1wLB) | 2:59 |
 | 100 | [DOSiS](https://open.spotify.com/track/45hMdaPF4b47baFQHgI5Mj) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [DOSiS](https://open.spotify.com/album/5gJ0BZlRum6qWfJKlem3z8) | 3:34 |
 
-Snapshot ID: `MCw5NjRmYTY4OTg1N2QyMGVmMjVhMmMxMzk1MmFhODkwNDZhNmM4Yjhj`
+Snapshot ID: `MCxhOGRiMTYzNGZkNTcwZDIwOWQ0OGE0NTc4MmMzM2ZkZDk4YzJhOTBk`

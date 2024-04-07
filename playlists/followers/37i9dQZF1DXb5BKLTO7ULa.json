@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 260273,
+  "2024-04-07": 260315,
   "date_first_scraped": "2023-02-25",
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: Roxy Dekker",
   "name": "New Music Friday NL",
@@ -19813,6 +19813,24 @@
       "duration_ms": 161410,
       "name": "Crew Thang",
       "url": "https://open.spotify.com/track/5a8brwyxP2Ga832uYrY2lQ"
+    },
+    {
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229186,
+      "name": "Crocodile Tearz",
+      "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
     },
     {
       "album": {
@@ -55704,6 +55722,24 @@
     },
     {
       "album": {
+        "name": "Liever Mezelf Niet",
+        "url": "https://open.spotify.com/album/0tRorJVriSuBjHYih4ytee"
+      },
+      "artists": [
+        {
+          "name": "Machario",
+          "url": "https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163444,
+      "name": "Liever Mezelf Niet",
+      "url": "https://open.spotify.com/track/3j2mDTK0ypXPa24xLPHyS6"
+    },
+    {
+      "album": {
         "name": "Mixed Personalities",
         "url": "https://open.spotify.com/album/2U85JUW3Qx79yhNjIN4Rmk"
       },
@@ -58067,6 +58103,24 @@
     {
       "album": {
         "name": "Losing You",
+        "url": "https://open.spotify.com/album/68DihqcGNgTJ4zul6L0mDi"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215331,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/3RLIYxIHq18yBdpcoYW4lu"
+    },
+    {
+      "album": {
+        "name": "Losing You",
         "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
       },
       "artists": [
@@ -58077,7 +58131,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 215331,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
@@ -63297,10 +63351,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 162026,
       "name": "More Grace",
       "url": "https://open.spotify.com/track/01OZZ6TtohuvmWKWGYmizc"
+    },
+    {
+      "album": {
+        "name": "Brothers & Sisters",
+        "url": "https://open.spotify.com/album/2VmcCIkNH8csGrM5ztrs4T"
+      },
+      "artists": [
+        {
+          "name": "Michelle David & The True-tones",
+          "url": "https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162026,
+      "name": "More Grace",
+      "url": "https://open.spotify.com/track/5WopyzYU7fGAtGcTBDXDyG"
     },
     {
       "album": {

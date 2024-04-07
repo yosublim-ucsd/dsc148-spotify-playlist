@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Bautista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,135 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,142 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 27 | [En Equipo](https://open.spotify.com/track/6ZpXeXpAQs1YwAtMJasBpE) | [Impacto Vudu](https://open.spotify.com/artist/4q9S9g5IA3WQtjeNa11obo) | [En Equipo](https://open.spotify.com/album/3zY91jUXnefDSlgtsjERlo) | 3:07 |
 | 28 | [malomalo](https://open.spotify.com/track/4Rr1NzCQdDkeqnFkVKfbQR) | [Dulze](https://open.spotify.com/artist/1PNJOvNCIMG9dN4cy7IG4D) | [malomalo](https://open.spotify.com/album/0ml9bnyTHGK8nq9B356ska) | 2:35 |
 | 29 | [Para arriesgar](https://open.spotify.com/track/4JcTcCn37iUrYTP5POQEyG) | [El vecino de la luna](https://open.spotify.com/artist/0djfMal3VEOhwQiwvOFz56) | [Para arriesgar](https://open.spotify.com/album/3iq1GhmUFUQDMCSCooQlXZ) | 3:00 |
-| 30 | [CHICA CITY](https://open.spotify.com/track/4NazE2sVFsUMs5KPLhCwMz) | [Quesada](https://open.spotify.com/artist/7GjPryI5OF9VCSHk8zBFly) | [CHICA CITY](https://open.spotify.com/album/5q2az97UAdL5eKMjQUgV9a) | 2:46 |
+| 30 | [CHICA CITY](https://open.spotify.com/track/4NazE2sVFsUMs5KPLhCwMz) | [Quesada](https://open.spotify.com/artist/7GjPryI5OF9VCSHk8zBFly), [ReddyProductions](https://open.spotify.com/artist/71yvFbOXbNHhClZ8ynSXzV) | [CHICA CITY](https://open.spotify.com/album/5q2az97UAdL5eKMjQUgV9a) | 2:46 |
 | 31 | [INSEPARABLES](https://open.spotify.com/track/3raXO5SlviDhtQAQtq8D32) | [Bune](https://open.spotify.com/artist/33IFDtR9lhtwvYW2uj9ZCh), [「lotura」](https://open.spotify.com/artist/347aXH0FxOPoncMbbvqjmE) | [INSEPARABLES](https://open.spotify.com/album/4E4tVpVJJymynO97bc7y0j) | 5:27 |
 | 32 | [ROMPER EL HIELO](https://open.spotify.com/track/4I6NMcBVLosTv9etcsq3No) | [TRIA](https://open.spotify.com/artist/1GCZZAo2jKhMG78ladGxgZ) | [ROMPER EL HIELO](https://open.spotify.com/album/3fsx63RxMkXBZJQSQyoH1m) | 4:03 |
 | 33 | [aomori](https://open.spotify.com/track/0okf3rqmPedCNxvAyxlTUw) | [Thiago Rubia](https://open.spotify.com/artist/3utoM4wU2U6SuyuNdsN3cg), [Palma](https://open.spotify.com/artist/53bE8ng6x55LRxaulhgxDg) | [aomori](https://open.spotify.com/album/0ZQUlfLeTU371QJUnSpIwW) | 1:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 59 | [Moleskines](https://open.spotify.com/track/1zlQUYSyD47ZVKWIqjbtjO) | [Mastrolilli](https://open.spotify.com/artist/73TfmuRhZsMwVSwn2II6SW) | [Moleskines](https://open.spotify.com/album/7xNWaa3naYNHTG3sQpiqj3) | 2:02 |
 | 60 | [Promesa Bordada en el Sol](https://open.spotify.com/track/3nSE42PE4gMEFvywib3zhN) | [Sacoga](https://open.spotify.com/artist/2apBghN8YxnOPWkp1pFetI) | [Promesa Bordada en el Sol](https://open.spotify.com/album/0zc3Wkygay2ZocApvVVWBh) | 8:30 |
 
-Snapshot ID: `MCw1ODE3MzUwYThlNTRjYzIxYWI0NTNkYjg4YTZhM2FmMjE3NGYwOWIx`
+Snapshot ID: `MCxjNmJlMGIyNWNhM2VlZGFiMDE0NzFiZWM5MTZiN2RjYWE4ZDZmMWY0`

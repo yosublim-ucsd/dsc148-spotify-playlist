@@ -1,12 +1,12 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 678700,
+  "num_followers": 678879,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWFmZjQzNTA5OGNmMGFjOWU5ZjdhM2IyMzhmZGI0OGI4Y2YwYzA3",
+  "snapshot_id": "MCw1YzViZDE2Njg0NTRlMzRkZDY3ODAwOThiYjZiNWM3NmU2NTc4OTlh",
   "tracks": [
     {
       "added_at": "2024-02-06 15:45:26",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Poolside",
-        "url": "https://open.spotify.com/album/2cVH1uyLsHNv5LfZmL1eMX"
-      },
-      "artists": [
-        {
-          "name": "Nu Shooz",
-          "url": "https://open.spotify.com/artist/2The4Ur661sLPGndcUuuLu"
-        }
-      ],
-      "duration_ms": 326506,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/0KCCNoVVXBatkTRvKOEf2t"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "New York, London, Paris, Munich",
         "url": "https://open.spotify.com/album/1NYT6pqKJdfCPOKtbgqbLV"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Songs From The Big Chair (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+        "name": "Poolside",
+        "url": "https://open.spotify.com/album/2cVH1uyLsHNv5LfZmL1eMX"
       },
       "artists": [
         {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+          "name": "Nu Shooz",
+          "url": "https://open.spotify.com/artist/2The4Ur661sLPGndcUuuLu"
         }
       ],
-      "duration_ms": 340582,
-      "name": "Everybody Wants To Rule The World - Extended Version",
-      "url": "https://open.spotify.com/track/7uBdncahX0bULWkpaDax8y"
+      "duration_ms": 326506,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/0KCCNoVVXBatkTRvKOEf2t"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -631,6 +615,22 @@
       "duration_ms": 369084,
       "name": "Hypnotic Tango - Original 12\" Version",
       "url": "https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 340582,
+      "name": "Everybody Wants To Rule The World - Extended Version",
+      "url": "https://open.spotify.com/track/7uBdncahX0bULWkpaDax8y"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 369693,
+      "name": "Material Girl - Extended Dance Remix",
+      "url": "https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Don't Look Any Further (Expanded Edition)",
         "url": "https://open.spotify.com/album/4OUaPGTJDxhHCSyZxdWvXk"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 323786,
       "name": "Don't Look Any Further - Original 12\u201d M+M Mix",
       "url": "https://open.spotify.com/track/03qJBUtJvcKKqvsySHCJHi"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 369693,
-      "name": "Material Girl - Extended Dance Remix",
-      "url": "https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS"
     },
     {
       "added_at": "2024-02-06 15:45:26",

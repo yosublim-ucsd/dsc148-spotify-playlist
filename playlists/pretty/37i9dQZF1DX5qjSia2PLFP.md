@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: <a href="spotify:artist:1IppGzPqPv70sKbraW5Q2L">Baby Kia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,380 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,625 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 74 | [It's TS](https://open.spotify.com/track/2bj7ZnOPZZCgj3vRHDIVEM) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [C My Side](https://open.spotify.com/album/0yUMVA7aCUTvCt8txudyWp) | 2:44 |
 | 75 | [ON THE RADAR CONCRETE CYPHER \(feat\. Lil Yachty, Camo!, KARRAHBOOO, Dc2trill, Draft Day\)](https://open.spotify.com/track/55VwJauY4a1oV5VbNLJo2p) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo](https://open.spotify.com/artist/2o2AdpYle5NrFYEU7AoMOe), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 5:48 |
 
-Snapshot ID: `MCw1YmQ4YmIzYzE1MDg4ZmIyOGQzNTQ1MjAzYjAyMTZkOTEyNzJhY2I0`
+Snapshot ID: `MCwxMTZiMjhkOWU0ZDA3ZmViOTk3MTk5MDRhZWUxZjAyODNiM2Y5Zjdh`

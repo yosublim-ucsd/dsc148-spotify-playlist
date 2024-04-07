@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 186187,
       "name": "Another",
       "url": "https://open.spotify.com/track/3e8RJKof3ohJkoEKChvH2F"
@@ -1311,6 +1311,32 @@
     },
     {
       "album": {
+        "name": "In The Quiet",
+        "url": "https://open.spotify.com/album/6AJzq43Wwf38iYJ9WnD2BH"
+      },
+      "artists": [
+        {
+          "name": "Able Faces",
+          "url": "https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2"
+        },
+        {
+          "name": "MA:RK",
+          "url": "https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF"
+        },
+        {
+          "name": "Montagu",
+          "url": "https://open.spotify.com/artist/6eHaNJTQcHcvkwGTl3V4vb"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172619,
+      "name": "In The Quiet",
+      "url": "https://open.spotify.com/track/249ezY4pPzbgSgxfwnHrnT"
+    },
+    {
+      "album": {
         "name": "In Your Arms",
         "url": "https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi"
       },
@@ -1526,7 +1552,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 449149,
       "name": "L'ow\u00e8 L'ow\u00e8",
       "url": "https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx"
@@ -3036,6 +3062,24 @@
       "duration_ms": 228387,
       "name": "Was It The Wind That Stirred The Trees",
       "url": "https://open.spotify.com/track/7DhgAwnYzYnJzSdqQhTYwB"
+    },
+    {
+      "album": {
+        "name": "When Everything Was New",
+        "url": "https://open.spotify.com/album/42OTAsIABBpoxlgibM6rye"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267481,
+      "name": "When Everything Was New",
+      "url": "https://open.spotify.com/track/3RvZSJe1YFaCR34mRnABDX"
     },
     {
       "album": {

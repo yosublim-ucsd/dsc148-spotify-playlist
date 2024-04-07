@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 112473,
+  "2024-04-07": 112544,
   "date_first_scraped": "2022-03-22",
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: BARBEL",
   "name": "Flow Panam\u00e1",
@@ -2034,6 +2034,24 @@
     },
     {
       "album": {
+        "name": "HLF (H\u00e9ctor Lavoe Freestyle)",
+        "url": "https://open.spotify.com/album/7u3NzmbK9DITNkMFFRkAzr"
+      },
+      "artists": [
+        {
+          "name": "Shyno",
+          "url": "https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292848,
+      "name": "HLF (H\u00e9ctor Lavoe Freestyle)",
+      "url": "https://open.spotify.com/track/22hQABpEq03SraVcB27lak"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Negro Que Rojo",
         "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
       },
@@ -2325,6 +2343,28 @@
       "duration_ms": 175694,
       "name": "Judas",
       "url": "https://open.spotify.com/track/6AgaV6iDCGiAi652RC30Dc"
+    },
+    {
+      "album": {
+        "name": "KALI UCHIS",
+        "url": "https://open.spotify.com/album/7HkB5l9xTp38n2NnCMUaQO"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174595,
+      "name": "KALI UCHIS",
+      "url": "https://open.spotify.com/track/2IrbGEpptL9B1tsHNwRxJV"
     },
     {
       "album": {
@@ -3097,7 +3137,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 199666,
       "name": "Maldita Envidia",
       "url": "https://open.spotify.com/track/64clTCIU6JkDpu4OaxP5w1"
@@ -3127,6 +3167,24 @@
       "duration_ms": 195790,
       "name": "Marea",
       "url": "https://open.spotify.com/track/0Tc8CHVs3vUi13dXQempoo"
+    },
+    {
+      "album": {
+        "name": "El de la 13",
+        "url": "https://open.spotify.com/album/6nsnGe7s1rqHAusbBl683c"
+      },
+      "artists": [
+        {
+          "name": "Macho LXIII",
+          "url": "https://open.spotify.com/artist/1xsgehlnoi9qCRerdbIraD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199149,
+      "name": "Mascaras de Gas",
+      "url": "https://open.spotify.com/track/6DKTMxwJVDPQTDFMTmE2AQ"
     },
     {
       "album": {
@@ -4195,7 +4253,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 144466,
       "name": "PLAY",
       "url": "https://open.spotify.com/track/6SvstSpXKqUTQ8aVjoVxjx"
@@ -4605,7 +4663,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 167703,
       "name": "ROTO",
       "url": "https://open.spotify.com/track/4qX6wVJJpIOhAoW1HwZuBB"

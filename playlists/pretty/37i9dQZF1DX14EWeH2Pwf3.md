@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Rhove
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,839 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,234 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Mattone \(feat\. Kuremino, Nerissima Serpe\)](https://open.spotify.com/track/4qb7IDiPEuWPOkCFAPhlfg) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mattone](https://open.spotify.com/album/3xOrZWX1VzcemFpMZ9z132) | 2:22 |
 | 50 | [BUTTERFLY \(feat\. Simba La Rue\)](https://open.spotify.com/track/64XgqICgALmJ4nGeuOc6LS) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [BUTTERFLY \(feat\. Simba La Rue\)](https://open.spotify.com/album/0LQztskA5rLSCCNMY2fqHx) | 2:56 |
 
-Snapshot ID: `MCw1MGExYzUzNTYxODY2NDQ0MTkzYmQ5MGU3ODYxNjE5OGIxZDc3MzE1`
+Snapshot ID: `MCwyYTliZjM3ZmIwM2NkZmQxZWI0MTI1MTI3NmRhMDk2MmI1ODFkYzY1`

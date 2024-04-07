@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Charli XCX
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,217 likes - 84 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,232 likes - 84 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 83 | [Touch \- Motez Remix](https://open.spotify.com/track/2K3Z6LLoOyjS9iCli8CcZN) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus Remixes Pt\. 1](https://open.spotify.com/album/44OfDdAkaGo5wLOAHFTO4a) | 5:13 |
 | 84 | [One More Night](https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [One More Night](https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng) | 2:44 |
 
-Snapshot ID: `MCw0NjZjOTAxZGQwNjY4MjkzMGMzN2E2YmM5ODQ4MjI5Y2VjZDA2YjJl`
+Snapshot ID: `MCxjOTA0NDNjNzJmOGE3NWMyZTRmZjMxY2ZmNGJiNmNhNGEwM2RmODll`

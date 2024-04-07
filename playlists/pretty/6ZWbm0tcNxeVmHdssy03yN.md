@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 40,906 likes - 95 songs - 4 hr 42 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 40,927 likes - 95 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mental \(feat\. Fivio Foreign\)](https://open.spotify.com/track/0AZZXtTg4qWo2tLxvSJuc3) | [Gino Mondana](https://open.spotify.com/artist/2vsRoBbScJXFoPggL3co4M), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Mental \(feat\. Fivio Foreign\)](https://open.spotify.com/album/7u9vPwFNqiMzNyO4LY1Ejt) | 3:59 |
+| 1 | [Mental \(feat\. Fivio Foreign\)](https://open.spotify.com/track/0AZZXtTg4qWo2tLxvSJuc3) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Gino Mondana](https://open.spotify.com/artist/2vsRoBbScJXFoPggL3co4M) | [Mental \(feat\. Fivio Foreign\)](https://open.spotify.com/album/7u9vPwFNqiMzNyO4LY1Ejt) | 3:59 |
 | 2 | [joycelyn's dance](https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [joycelyn's dance](https://open.spotify.com/album/1ZmhzQQWURtuF9K7yPcAoJ) | 3:18 |
 | 3 | [Love Don't Live Here](https://open.spotify.com/track/3BAk0wbzxqCsL1IXg8Lpgg) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Love Don't Live Here](https://open.spotify.com/album/0obUJFiKbvXFY9BygOIATx) | 2:29 |
 | 4 | [Interstellar](https://open.spotify.com/track/3gEu8hQn94HveUMkDoy1yB) | [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [XO EGO](https://open.spotify.com/album/2hTNlvPOVJN02vIdtrk1Zr) | 3:06 |
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 6 | [Where The Gods Won't Go](https://open.spotify.com/track/6MgN9GBew3vO5XDhCl0TYp) | [Karl Michael](https://open.spotify.com/artist/4zFqfg8R6X9aUWIdYm3xTT) | [Where The Gods Won't Go](https://open.spotify.com/album/3GHdBLm4d1YFBfbuFzxP98) | 2:59 |
 | 7 | [Ntwana Whateva](https://open.spotify.com/track/61VUTkpTNINznrTYbOGKZO) | [Breeze Zulu Bass King](https://open.spotify.com/artist/6iZAD8LOEDd5fluTDkIU4q), [808RSA](https://open.spotify.com/artist/5sIbt07rSAUcgbNWjSZOSz) | [Ntwana Whateva](https://open.spotify.com/album/1hXFN5HvtQEU1eP1InBBiN) | 3:32 |
 | 8 | [BIG DAWG](https://open.spotify.com/track/7pTBMsn72jgNhvpOCsJfST) | [Mark Akol](https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb), [Sipho the Gift](https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8) | [THE HEIST](https://open.spotify.com/album/4WX5zJBwQAvWqNFjjpkgh0) | 2:08 |
-| 9 | [Loosing My Head](https://open.spotify.com/track/0VF7NQh9Kxoex1h9vki0i2) | [B\-RED](https://open.spotify.com/artist/6gGH04KywUUbUWc6tmXTpM) | [Loosing My Head](https://open.spotify.com/album/6rRfAtEBYO3Aa0DbIGf21L) | 2:54 |
+| 9 | [Losing My Head](https://open.spotify.com/track/0VF7NQh9Kxoex1h9vki0i2) | [B\-RED](https://open.spotify.com/artist/6gGH04KywUUbUWc6tmXTpM) | [Losing My Head](https://open.spotify.com/album/6rRfAtEBYO3Aa0DbIGf21L) | 2:54 |
 | 10 | [Drill Ain't Dead](https://open.spotify.com/track/0XeQlzhl9G1CNppf7G8g5b) | [Tel Money](https://open.spotify.com/artist/0tZEZDemDVkndCOnjHyrAW) | [Drill Ain't Dead](https://open.spotify.com/album/6NJvlXWN7YKv7B0e4cnHgC) | 2:26 |
 | 11 | [Bando Dreams](https://open.spotify.com/track/2NOztnEDC8DRhUnNDnPPc9) | [Yung Fume](https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o) | [Bando Dreams](https://open.spotify.com/album/0cnAVLptwrxogIRT9fxCuV) | 3:05 |
 | 12 | [suitcase of memories](https://open.spotify.com/track/3CJchrGGPRV0U4GO87lpLy) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [with love\. x](https://open.spotify.com/album/4YHQJ6xn5SmN5N8esu03ve) | 3:47 |

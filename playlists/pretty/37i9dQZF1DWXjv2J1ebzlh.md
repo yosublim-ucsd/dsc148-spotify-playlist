@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,224 likes - 1,191 songs - 3 day 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,261 likes - 1,191 songs - 3 day 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -449,7 +449,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 439 | [I Need Somebody To Love Tonight](https://open.spotify.com/track/0wotnD2zTSOUDwVBN863fi) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Expansions](https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW) | 4:02 |
 | 440 | [Canto Chorado](https://open.spotify.com/track/5FZJuO5h2jaW08ajHYJIz0) | [Os Originais Do Samba](https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg) | [Os Originais Do Samba](https://open.spotify.com/album/72ITnY3eflQkRLbLYkRkaZ) | 5:04 |
 | 441 | [Easy Greasy, Pt\. 1](https://open.spotify.com/track/3pazqZ3akYInpPcjnjiKFf) | [Gentle](https://open.spotify.com/artist/4J5A7WeY47c1F2HmaYBpOK), [Janion](https://open.spotify.com/artist/04mv5tetTKmfmtf4TNzOa9) | [Easy Greasy](https://open.spotify.com/album/3TMU1qtNiq9C9y3GlWvyPx) | 3:28 |
-| 442 | [Viento](https://open.spotify.com/track/7zL4CNqsvUfRaQhf7umIpR) | [Grupo Celeste](https://open.spotify.com/artist/34UKlYNjRGEZF8Xzbga81s) | [...El Fabuloso!](https://open.spotify.com/album/4G1IedTXpiFxfgc8YcIRyC) | 3:49 |
+| 442 | [Viento \- Original Master Tapes](https://open.spotify.com/track/5T7sDNFZYdCGQfuEyikNNP) | [Grupo Celeste](https://open.spotify.com/artist/34UKlYNjRGEZF8Xzbga81s) | [...El Fabuloso! \(Original Master Tapes\)](https://open.spotify.com/album/3hibYFnC3qZ7FyHUJ6KnuR) | 3:49 |
 | 443 | [My Queen Is Nanny Of The Maroons](https://open.spotify.com/track/3XxUkSDs1q76SetgaioRKN) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 6:41 |
 | 444 | [Dia Ja Manche](https://open.spotify.com/track/7zsFoCTsDuKvH7HUiA1yDi) | [Dionisio Maio](https://open.spotify.com/artist/0uQTMkrmJQgd8XPVJPjezw) | [Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/7yYCur0sIPkHz2PE62YHDP) | 4:36 |
 | 445 | [Samba Saravah](https://open.spotify.com/track/2g86TduNPjOj3bRcgpQEpL) | [Pierre Barouh](https://open.spotify.com/artist/2YjZP3rHnFiJNTw6ZkCJkl) | [Un homme et une femme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk) | 4:36 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Free My People](https://open.spotify.com/track/4JhLVR6gpyPsrt8hw3GYTq) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Soul Jazz Records Presents NIGERIA SOUL FEVER \- Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/3ZRiP7ntKDD2wuiRuyLhfs) | 4:52 |
 | 1191 | [Flor De Piña](https://open.spotify.com/track/0XyyR9QFZYpMLh0fzZtBHw) | [La Marimba Del Estado De Oaxaca](https://open.spotify.com/artist/0Ck35azLqcQ0Bvbu9rNcOr) | [Mañanitas Oaxaqueñas](https://open.spotify.com/album/0Dq0v1awfhTgbp0rBKp8g6) | 2:25 |
 
-Snapshot ID: `MCw2ZTlhODA0ZmQ0MGUwNzA2ODA3NTNjMjQ5NmU3MjIyOTU5MWVhNzcz`
+Snapshot ID: `MCw5N2I3MTZmZTMyN2NhODE5MjZlM2MwZDNiYWFjZTRjZjQ3ZGVjZjA1`

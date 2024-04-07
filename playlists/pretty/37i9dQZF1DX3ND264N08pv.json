@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 72093,
+  "num_followers": 72121,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzEwZGU3ODBhNTgwN2JjMDNlNDViMjVhZjVlYTc3MjI5MzdiNWQ4",
+  "snapshot_id": "MCwzOTY1NGYxNWY2Mzk0MGM5NGI1ZTRlMWJhMjQ4OWEyOWM1ZmI2ZGVm",
   "tracks": [
     {
       "added_at": "2024-03-26 15:23:23",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
+        "name": "Not Afraid to Fall",
+        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 185230,
+      "name": "Not Afraid to Fall",
+      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
         "name": "Trippie naar de klote",
         "url": "https://open.spotify.com/album/3yey7HNNhu0asuLy02BWuh"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 192000,
       "name": "Trippie naar de klote",
       "url": "https://open.spotify.com/track/4Tz5h4M9dEVTJPk1x2kImp"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
-        "name": "Not Afraid to Fall",
-        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 185230,
-      "name": "Not Afraid to Fall",
-      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
-      },
-      "artists": [
-        {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
-        }
-      ],
-      "duration_ms": 178975,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
         "name": "Adrenaline (Never Surrender Remix)",
         "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
       },
@@ -1371,22 +1355,34 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "No Rules",
-        "url": "https://open.spotify.com/album/4BthNnsYQRqzWirIhkpNl9"
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
       },
       "artists": [
         {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        },
-        {
-          "name": "XELOR",
-          "url": "https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf"
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
         }
       ],
-      "duration_ms": 183268,
-      "name": "LEGEND (feat. XELOR)",
-      "url": "https://open.spotify.com/track/4CSQFGPnH6Q6UzcequUkKn"
+      "duration_ms": 178975,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
+        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
+        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
+      },
+      "artists": [
+        {
+          "name": "GridKiller",
+          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
+        }
+      ],
+      "duration_ms": 322666,
+      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
+      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1411,22 +1407,6 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
-        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
-      },
-      "artists": [
-        {
-          "name": "GridKiller",
-          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
-        }
-      ],
-      "duration_ms": 322666,
-      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
-      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
         "name": "Blow Up",
         "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 204439,
       "name": "Blow Up",
       "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
+        "name": "No Rules",
+        "url": "https://open.spotify.com/album/4BthNnsYQRqzWirIhkpNl9"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "XELOR",
+          "url": "https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf"
+        }
+      ],
+      "duration_ms": 183268,
+      "name": "LEGEND (feat. XELOR)",
+      "url": "https://open.spotify.com/track/4CSQFGPnH6Q6UzcequUkKn"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1507,30 +1507,6 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "STRUGGLE TO SURVIVE (2023 RMX)",
-        "url": "https://open.spotify.com/album/6Qfszcle60C258we00nyTG"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        },
-        {
-          "name": "Frenchkillerz",
-          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
-        },
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 206590,
-      "name": "STRUGGLE TO SURVIVE (2023 RMX)",
-      "url": "https://open.spotify.com/track/0pTxkc8DLhLexqfATjm4Yu"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
         "name": "HIT IT",
         "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
       },
@@ -1595,6 +1571,22 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
+        "name": "THE 4TH DIMENSION",
+        "url": "https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 203052,
+      "name": "Oldschool The School",
+      "url": "https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
         "name": "Wake Up Now",
         "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
       },
@@ -1611,18 +1603,26 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "THE 4TH DIMENSION",
-        "url": "https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8"
+        "name": "STRUGGLE TO SURVIVE (2023 RMX)",
+        "url": "https://open.spotify.com/album/6Qfszcle60C258we00nyTG"
       },
       "artists": [
         {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "Frenchkillerz",
+          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
+        },
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
         }
       ],
-      "duration_ms": 203052,
-      "name": "Oldschool The School",
-      "url": "https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO"
+      "duration_ms": 206590,
+      "name": "STRUGGLE TO SURVIVE (2023 RMX)",
+      "url": "https://open.spotify.com/track/0pTxkc8DLhLexqfATjm4Yu"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1647,22 +1647,22 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "Til The AM",
-        "url": "https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8"
+        "name": "Het Verbond",
+        "url": "https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM"
       },
       "artists": [
         {
-          "name": "EQUAL2",
-          "url": "https://open.spotify.com/artist/3gghhafHb61InwF1vnntja"
+          "name": "Furyan",
+          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
         },
         {
-          "name": "Animal Side",
-          "url": "https://open.spotify.com/artist/1mS2PHJJAJfrFuT0j2a531"
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
         }
       ],
-      "duration_ms": 188511,
-      "name": "Til The AM",
-      "url": "https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU"
+      "duration_ms": 256457,
+      "name": "Het Verbond",
+      "url": "https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1687,22 +1687,22 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "Het Verbond",
-        "url": "https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM"
+        "name": "Til The AM",
+        "url": "https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8"
       },
       "artists": [
         {
-          "name": "Furyan",
-          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
+          "name": "EQUAL2",
+          "url": "https://open.spotify.com/artist/3gghhafHb61InwF1vnntja"
         },
         {
-          "name": "Da Mouth of Madness",
-          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
+          "name": "Animal Side",
+          "url": "https://open.spotify.com/artist/1mS2PHJJAJfrFuT0j2a531"
         }
       ],
-      "duration_ms": 256457,
-      "name": "Het Verbond",
-      "url": "https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8"
+      "duration_ms": 188511,
+      "name": "Til The AM",
+      "url": "https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "TH3 FL0W",
-        "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
-      },
-      "artists": [
-        {
-          "name": "Mind Compressor",
-          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
-        }
-      ],
-      "duration_ms": 154272,
-      "name": "TH3 FL0W",
-      "url": "https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
         "name": "Number One Thriller",
         "url": "https://open.spotify.com/album/0rguy92JmcRjE98uNQ9aIn"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 192324,
       "name": "Number One Thriller",
       "url": "https://open.spotify.com/track/675l6GVF65IS81eznAR2po"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
+        "name": "TH3 FL0W",
+        "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
+      },
+      "artists": [
+        {
+          "name": "Mind Compressor",
+          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+        }
+      ],
+      "duration_ms": 154272,
+      "name": "TH3 FL0W",
+      "url": "https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh"
     },
     {
       "added_at": "2024-03-26 15:23:23",

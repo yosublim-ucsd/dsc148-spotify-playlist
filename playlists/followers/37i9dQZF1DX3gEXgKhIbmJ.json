@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 12223,
+  "2024-04-07": 12235,
   "date_first_scraped": "2023-09-18",
   "description": "pra entrar e ficar na onda",
   "name": "Jersey BR",
@@ -966,6 +966,28 @@
     },
     {
       "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "JOCA",
+          "url": "https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208036,
+      "name": "Devagar",
+      "url": "https://open.spotify.com/track/1Pq1ZyRXgFXZwmCbIFCfOP"
+    },
+    {
+      "album": {
         "name": "DO IT AGAIN (feat. 2Rare)",
         "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
       },
@@ -1077,7 +1099,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 194020,
       "name": "ELAS PINTAM",
       "url": "https://open.spotify.com/track/3HzDmhzi7LNVSb0VjTi0il"
@@ -1199,7 +1221,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 164571,
       "name": "Fanfic",
       "url": "https://open.spotify.com/track/16Ir3dL5UWiWZLoHLteDGu"
@@ -1401,7 +1423,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 132629,
       "name": "Fura Moletom",
       "url": "https://open.spotify.com/track/1hIYUPdxYNswLJcjDgdoHp"
@@ -2439,7 +2461,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 180821,
       "name": "Op\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/27x579ayIvantoVe6PP97U"
@@ -3231,7 +3253,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 115200,
       "name": "Twerk",
       "url": "https://open.spotify.com/track/1iHneRZXPvuNGBJCC32dPR"

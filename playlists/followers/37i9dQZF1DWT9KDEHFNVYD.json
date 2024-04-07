@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 11890,
+  "2024-04-07": 11900,
   "date_first_scraped": "2022-06-30",
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
   "name": "Krautrock",
@@ -949,7 +949,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 391002,
       "name": "Cassettesingle",
       "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
@@ -3035,7 +3035,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 217133,
       "name": "Like Foxes Through Fences",
       "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"

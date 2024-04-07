@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones Cristianas.  Foto: <a href=\"spotify:artist:45ofU8JjddtvjfP1UXV7um\">Ayrton Day</a>",
-  "num_followers": 140743,
+  "num_followers": 140911,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTRkNmMwMDQ1OWVjNTYzY2EyMDA5ZWUzZTRmY2Q3NGZjOWVhYTlh",
+  "snapshot_id": "MCw3ODZiNDNlMWIwODllOThmNmM3Mzc4Y2E3NTJjODU3MjhiZmI0ZTc1",
   "tracks": [
     {
       "added_at": "2024-04-05 15:29:54",
@@ -546,6 +546,10 @@
         {
           "name": "Sarai Rivera",
           "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
       "duration_ms": 228435,

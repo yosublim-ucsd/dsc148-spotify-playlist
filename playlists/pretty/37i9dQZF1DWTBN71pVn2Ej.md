@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The shape of noise to come.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,097 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,136 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [Rug](https://open.spotify.com/track/5diR0rIuLlwQPwhHr4c7oq) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Overthinking Everything](https://open.spotify.com/album/4tgOzgaMwxPVQXpG9BIzP2) | 1:54 |
 | 60 | [Constant Headache](https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8), [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Constant Headache](https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK) | 3:01 |
 
-Snapshot ID: `MCw0NjI1MDU4YmViYTYzNmFjNTk1ZTE2NjkzNzgwM2U3ZThiNzU4N2Zi`
+Snapshot ID: `MCxjZWNmNTI2NzJkMDI1MDhkNTVkYjk5MGNiOGNkZTNiYzEyYzNhNzU3`

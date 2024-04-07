@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 457778,
+  "2024-04-07": 457995,
   "date_first_scraped": "2022-04-20",
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
   "name": "Tantra",
@@ -5598,6 +5598,24 @@
     },
     {
       "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
+    },
+    {
+      "album": {
         "name": "Katoa",
         "url": "https://open.spotify.com/album/4lxbeDBHemLmKqjFTz7GIx"
       },
@@ -6183,6 +6201,28 @@
       "duration_ms": 253701,
       "name": "Life Is...",
       "url": "https://open.spotify.com/track/0DSxtNjXsZk06n3Fqdjl26"
+    },
+    {
+      "album": {
+        "name": "Lifetime (KASSIN Remix)",
+        "url": "https://open.spotify.com/album/40VYumgeItn0xMNP5pp1eM"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        },
+        {
+          "name": "Kassin",
+          "url": "https://open.spotify.com/artist/3KNQV3MQsTnUfJaVpZUfCk"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321815,
+      "name": "Lifetime - KASSIN Remix",
+      "url": "https://open.spotify.com/track/1x8T63Txd5UnTvHUKlN4x0"
     },
     {
       "album": {
@@ -7173,7 +7213,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 268573,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7"
@@ -7359,7 +7399,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 321951,
       "name": "MONTE",
       "url": "https://open.spotify.com/track/37PacxDrLWaHtYMPV8IYse"
@@ -8575,7 +8615,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 375483,
       "name": "Osaya",
       "url": "https://open.spotify.com/track/5Hmc0lNbOukoKNToiDtMai"
@@ -10171,6 +10211,28 @@
       "duration_ms": 466229,
       "name": "So Flute - Simon Vuarambon Remix",
       "url": "https://open.spotify.com/track/0GhZtMF0Oub3yXyDRR5ib8"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1KzSi6di0a0c4ZotbQuyBI"
+      },
+      "artists": [
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        },
+        {
+          "name": "Sean Doron",
+          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344738,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2"
     },
     {
       "album": {

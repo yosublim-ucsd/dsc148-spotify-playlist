@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 322024,
+  "2024-04-07": 322121,
   "date_first_scraped": "2022-07-19",
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
   "name": "Industrial Metal",
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 264750,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9"
@@ -2767,6 +2767,24 @@
       "duration_ms": 270466,
       "name": "New Messiah",
       "url": "https://open.spotify.com/track/784D068nWk6mUvEXkufPnF"
+    },
+    {
+      "album": {
+        "name": "The Algorithm",
+        "url": "https://open.spotify.com/album/4K3EGyXF7wdfaR4fGPlOXg"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217071,
+      "name": "Obliteration",
+      "url": "https://open.spotify.com/track/3juffqyuhqPTonmbbi4tDs"
     },
     {
       "album": {

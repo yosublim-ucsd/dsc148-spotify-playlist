@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1559582,
+  "num_followers": 1560196,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTY3MGY4NDc4YmExMDc0ODExZmY2YWI3YzM4MmU0NGE4ZDk3YTZi",
+  "snapshot_id": "MCw5YmIyNzAwMDUxNmU4MjJjODIyNmE5MTdiZTA1ZmZhN2U1N2JhNTcx",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -959,6 +959,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Western Dream",
+        "url": "https://open.spotify.com/album/2kscq6zA1a9vFQy8MsWFM0"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 401360,
+      "name": "World, Hold On (Children of the Sky)",
+      "url": "https://open.spotify.com/track/04jZqMtDNKGjIsRdf5vHtK"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Perfect Day",
         "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 188000,
       "name": "Gettin' Over You (feat. Fergie & LMFAO)",
       "url": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Western Dream",
-        "url": "https://open.spotify.com/album/2kscq6zA1a9vFQy8MsWFM0"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 401360,
-      "name": "World, Hold On (Children of the Sky)",
-      "url": "https://open.spotify.com/track/04jZqMtDNKGjIsRdf5vHtK"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Kirsty Hawkshaw",
-          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
-        }
-      ],
-      "duration_ms": 524933,
-      "name": "Just Be",
-      "url": "https://open.spotify.com/track/6SDy0CHEvHB591MeizBrqY"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "It's Too Late",
         "url": "https://open.spotify.com/album/4eIaAaqb84HRhdBWonGK5Q"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 181230,
       "name": "It's Too Late - Dirty South Radio Edit",
       "url": "https://open.spotify.com/track/2WMur8xCATjMHLgpPHdosc"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Kirsty Hawkshaw",
+          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
+        }
+      ],
+      "duration_ms": 524933,
+      "name": "Just Be",
+      "url": "https://open.spotify.com/track/6SDy0CHEvHB591MeizBrqY"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1439,18 +1439,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+        "name": "Somewhere (feat. Sarah Lynn)",
+        "url": "https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "DJ Mog",
+          "url": "https://open.spotify.com/artist/1hi6iazfUhvaqpt9f0kCcF"
+        },
+        {
+          "name": "Sarah Lynn",
+          "url": "https://open.spotify.com/artist/2uJPnLW3muLMdYB3H61h5K"
         }
       ],
-      "duration_ms": 719133,
-      "name": "Forever Today",
-      "url": "https://open.spotify.com/track/3v2ZkuMfIB57fXEQLNynjA"
+      "duration_ms": 235866,
+      "name": "Somewhere (feat. Sarah Lynn) - Radio Edit",
+      "url": "https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1475,22 +1479,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Somewhere (feat. Sarah Lynn)",
-        "url": "https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH"
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
       },
       "artists": [
         {
-          "name": "DJ Mog",
-          "url": "https://open.spotify.com/artist/1hi6iazfUhvaqpt9f0kCcF"
-        },
-        {
-          "name": "Sarah Lynn",
-          "url": "https://open.spotify.com/artist/2uJPnLW3muLMdYB3H61h5K"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 235866,
-      "name": "Somewhere (feat. Sarah Lynn) - Radio Edit",
-      "url": "https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M"
+      "duration_ms": 719133,
+      "name": "Forever Today",
+      "url": "https://open.spotify.com/track/3v2ZkuMfIB57fXEQLNynjA"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7"
+      },
+      "artists": [
+        {
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Heartbreak - Radio Edit",
+      "url": "https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Army Of Two",
         "url": "https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 187500,
       "name": "Army Of Two - Radio Version",
       "url": "https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7"
-      },
-      "artists": [
-        {
-          "name": "M'Black",
-          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Heartbreak - Radio Edit",
-      "url": "https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
-      },
-      "artists": [
-        {
-          "name": "Kim Leoni",
-          "url": "https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b"
-        }
-      ],
-      "duration_ms": 169893,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "I Found U",
         "url": "https://open.spotify.com/album/4wP9UvfCSFH8Z95rCt1UjB"
       },
@@ -2019,6 +2003,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
+      },
+      "artists": [
+        {
+          "name": "Kim Leoni",
+          "url": "https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b"
+        }
+      ],
+      "duration_ms": 169893,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Make Your Move",
         "url": "https://open.spotify.com/album/3dQXJeWW3lQVy5DiEK3vxV"
       },
@@ -2031,6 +2031,26 @@
       "duration_ms": 171280,
       "name": "Make Your Move - Radio Edit",
       "url": "https://open.spotify.com/track/2Ug4PnkxcwkcL3fhM0B9Xe"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "Bellatrax",
+          "url": "https://open.spotify.com/artist/0tHbQT6zoj3pYpn5QUJveE"
+        },
+        {
+          "name": "Sophia May",
+          "url": "https://open.spotify.com/artist/5f2X43MBIQUucziUGfZbjg"
+        }
+      ],
+      "duration_ms": 208360,
+      "name": "I Can\u2019t Help Myself (feat. Sophia May) - Radio Edit",
+      "url": "https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2063,26 +2083,6 @@
       "duration_ms": 180133,
       "name": "The Girl You Lost to Cocaine - Sander van Doorn Edit",
       "url": "https://open.spotify.com/track/223Vmr6rEbuujhHLFpsgVj"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "Bellatrax",
-          "url": "https://open.spotify.com/artist/0tHbQT6zoj3pYpn5QUJveE"
-        },
-        {
-          "name": "Sophia May",
-          "url": "https://open.spotify.com/artist/5f2X43MBIQUucziUGfZbjg"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "I Can\u2019t Help Myself (feat. Sophia May) - Radio Edit",
-      "url": "https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx"
     },
     {
       "added_at": "2023-03-22 14:00:00",

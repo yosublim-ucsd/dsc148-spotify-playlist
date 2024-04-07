@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 133361,
+  "2024-04-07": 133427,
   "date_first_scraped": "2022-03-24",
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
   "name": "Trap Classe",
@@ -583,7 +583,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 172973,
       "name": "Ak Forty Seven",
       "url": "https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG"
@@ -6371,6 +6371,28 @@
       "duration_ms": 145365,
       "name": "Pedro Bala",
       "url": "https://open.spotify.com/track/2Dh5R6Jhlhu6C9FtgV1XQF"
+    },
+    {
+      "album": {
+        "name": "2 L3Trinha",
+        "url": "https://open.spotify.com/album/4cbEBTjZqyqvjADtg2mgBN"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "prodmelo!",
+          "url": "https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130671,
+      "name": "Pepp@ 2",
+      "url": "https://open.spotify.com/track/4Yrs6DDP7GRTZIj9oJ4SPS"
     },
     {
       "album": {

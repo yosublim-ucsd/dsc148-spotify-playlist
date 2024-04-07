@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 50076,
+  "num_followers": 50191,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDhmZDdiMzJlNWU5NTNmMjZkZGY5ZDNiMGMzNDQwNWE3Mzk0OWIx",
+  "snapshot_id": "MCxhYjIwOTZhMGJkMjE1MWM4YzFjZmNmNGJiNTdiY2M3YzBlYWFmZTRl",
   "tracks": [
     {
       "added_at": "2024-03-15 05:25:16",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
+        "name": "Good Vibes Only E.P",
+        "url": "https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN"
+      },
+      "artists": [
+        {
+          "name": "Nastic Groove",
+          "url": "https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56"
+        }
+      ],
+      "duration_ms": 353701,
+      "name": "You've Been Missing Me",
+      "url": "https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 417600,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
-        "name": "Good Vibes Only E.P",
-        "url": "https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN"
-      },
-      "artists": [
-        {
-          "name": "Nastic Groove",
-          "url": "https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56"
-        }
-      ],
-      "duration_ms": 353701,
-      "name": "You've Been Missing Me",
-      "url": "https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -419,30 +419,6 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
-        "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
-      },
-      "artists": [
-        {
-          "name": "Sitha",
-          "url": "https://open.spotify.com/artist/44t9AevT07GOmWQ3cplcfM"
-        },
-        {
-          "name": "BlaQ Afro-Kay",
-          "url": "https://open.spotify.com/artist/5FMpvRvyyk5EUo26xIJ80E"
-        },
-        {
-          "name": "Laps Rsa",
-          "url": "https://open.spotify.com/artist/46RRPn997jjhnUkheJxOXQ"
-        }
-      ],
-      "duration_ms": 400103,
-      "name": "Winter Nights - BlaQ Afro-Kay Remix",
-      "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
         "name": "Never Thought",
         "url": "https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj"
       },
@@ -471,18 +447,26 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "Feel Good EP",
-        "url": "https://open.spotify.com/album/42QNc5GHCJuJEDuWRiPi9a"
+        "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
+        "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
       },
       "artists": [
         {
-          "name": "Pando G",
-          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+          "name": "Sitha",
+          "url": "https://open.spotify.com/artist/44t9AevT07GOmWQ3cplcfM"
+        },
+        {
+          "name": "BlaQ Afro-Kay",
+          "url": "https://open.spotify.com/artist/5FMpvRvyyk5EUo26xIJ80E"
+        },
+        {
+          "name": "Laps Rsa",
+          "url": "https://open.spotify.com/artist/46RRPn997jjhnUkheJxOXQ"
         }
       ],
-      "duration_ms": 392855,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/5CorwaqtOJRLBaUocl7v5t"
+      "duration_ms": 400103,
+      "name": "Winter Nights - BlaQ Afro-Kay Remix",
+      "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -503,6 +487,22 @@
       "duration_ms": 395709,
       "name": "Love I Know",
       "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
+        "name": "Feel Good EP",
+        "url": "https://open.spotify.com/album/42QNc5GHCJuJEDuWRiPi9a"
+      },
+      "artists": [
+        {
+          "name": "Pando G",
+          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+        }
+      ],
+      "duration_ms": 392855,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/5CorwaqtOJRLBaUocl7v5t"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -567,26 +567,6 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "Ksasenjalo (Re-Imagined)",
-        "url": "https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ"
-      },
-      "artists": [
-        {
-          "name": "Zano",
-          "url": "https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq"
-        },
-        {
-          "name": "Exte C",
-          "url": "https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23"
-        }
-      ],
-      "duration_ms": 401228,
-      "name": "Ksasenjalo (Exte C Remix)",
-      "url": "https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
         "name": "Next Generation",
         "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 342887,
       "name": "Monomotapa",
       "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
+        "name": "Ksasenjalo (Re-Imagined)",
+        "url": "https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ"
+      },
+      "artists": [
+        {
+          "name": "Zano",
+          "url": "https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq"
+        },
+        {
+          "name": "Exte C",
+          "url": "https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23"
+        }
+      ],
+      "duration_ms": 401228,
+      "name": "Ksasenjalo (Exte C Remix)",
+      "url": "https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "To The World",
-        "url": "https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v"
-      },
-      "artists": [
-        {
-          "name": "Brazo Wa Afrika",
-          "url": "https://open.spotify.com/artist/6uGuuIkpLIWdUYVJit1dvP"
-        },
-        {
-          "name": "Chymamusique",
-          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
-        }
-      ],
-      "duration_ms": 387494,
-      "name": "To The World",
-      "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 366217,
       "name": "With You",
       "url": "https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
+        "name": "To The World",
+        "url": "https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v"
+      },
+      "artists": [
+        {
+          "name": "Brazo Wa Afrika",
+          "url": "https://open.spotify.com/artist/6uGuuIkpLIWdUYVJit1dvP"
+        },
+        {
+          "name": "Chymamusique",
+          "url": "https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI"
+        }
+      ],
+      "duration_ms": 387494,
+      "name": "To The World",
+      "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "I Rise Again",
-        "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
-      },
-      "artists": [
-        {
-          "name": "Zico SA",
-          "url": "https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc"
-        }
-      ],
-      "duration_ms": 556673,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
-    },
-    {
-      "added_at": "2024-03-15 05:25:16",
-      "album": {
         "name": "Little Me",
         "url": "https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2024-03-15 05:25:16",
       "album": {
-        "name": "Artform",
-        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
+        "name": "I Rise Again",
+        "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
       },
       "artists": [
         {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+          "name": "Zico SA",
+          "url": "https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc"
         }
       ],
-      "duration_ms": 459731,
-      "name": "Flute Activation - Original Mix",
-      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
+      "duration_ms": 556673,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
     },
     {
       "added_at": "2024-03-15 05:25:16",
@@ -911,6 +895,22 @@
       "duration_ms": 465288,
       "name": "Those Times",
       "url": "https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn"
+    },
+    {
+      "added_at": "2024-03-15 05:25:16",
+      "album": {
+        "name": "Artform",
+        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        }
+      ],
+      "duration_ms": 459731,
+      "name": "Flute Activation - Original Mix",
+      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
     },
     {
       "added_at": "2024-03-15 05:25:16",

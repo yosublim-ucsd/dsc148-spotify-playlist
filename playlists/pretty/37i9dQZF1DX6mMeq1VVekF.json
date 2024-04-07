@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: BXKS",
-  "num_followers": 174293,
+  "num_followers": 174371,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGQ3YmU5YjRjOGY3MWQ1M2FkM2IwMDMzZWM4ZDYxNDAyZjRiMjFh",
+  "snapshot_id": "MCw4ZDAzZmRiZTE4MDFlZDRkNWIzMDk2ZGEwNTFhOWNiYmE1Y2Q5NzBh",
   "tracks": [
     {
       "added_at": "2023-11-24 12:22:37",
@@ -1055,18 +1055,26 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
-        "name": "luvu222",
-        "url": "https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5"
+        "name": "48 Hours",
+        "url": "https://open.spotify.com/album/7B8hgK92g5E2WnKkKjEzRp"
       },
       "artists": [
         {
-          "name": "Moko",
-          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+          "name": "Ryder",
+          "url": "https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Dr\u00e9 Six",
+          "url": "https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4"
         }
       ],
-      "duration_ms": 110571,
-      "name": "luvu222",
-      "url": "https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW"
+      "duration_ms": 147954,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/7h4WdSxVKr8uciqXs3zAXw"
     }
   ],
   "unique_name": "Free Form",

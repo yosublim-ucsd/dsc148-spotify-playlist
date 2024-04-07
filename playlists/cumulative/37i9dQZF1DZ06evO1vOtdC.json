@@ -386,10 +386,32 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-07",
       "duration_ms": 186599,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough (feat. Sean Paul) [Dutty Remix]",
+        "url": "https://open.spotify.com/album/2DLOoOsgsI1bhX0VF3BQ59"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2024-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188148,
+      "name": "Can't Get Enough (feat. Sean Paul) - Dutty Remix",
+      "url": "https://open.spotify.com/track/5Bb1giXHdhdmjGCTmU4kno"
     },
     {
       "album": {
@@ -880,7 +902,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 165154,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/7xl8Bg3rcjYsF31NUGbrQA"

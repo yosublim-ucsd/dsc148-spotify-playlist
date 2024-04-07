@@ -1,7 +1,7 @@
 {
-  "2024-04-06": 59918,
+  "2024-04-07": 59947,
   "date_first_scraped": "2022-02-06",
-  "description": "Meet the future. New artists on the horizon. Cover: Ege Can Sal.",
+  "description": "Meet the future. New artists on the horizon. Cover: Shego.",
   "name": "RADAR Global ",
   "tracks": [
     {
@@ -435,7 +435,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 240773,
       "name": "A Good Life",
       "url": "https://open.spotify.com/track/7cqSU30Mt3B6PsRaMVHsIh"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 186976,
       "name": "Acid Rain",
       "url": "https://open.spotify.com/track/0u1qECibAI6V0t4cvItL2F"
@@ -3230,6 +3230,24 @@
     },
     {
       "album": {
+        "name": "Cartwheels",
+        "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124013,
+      "name": "Cartwheels",
+      "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
+    },
+    {
+      "album": {
         "name": "Casei Com a Putaria",
         "url": "https://open.spotify.com/album/4cLbAcr21lNTq9oTGGTvQi"
       },
@@ -4217,7 +4235,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 209751,
       "name": "Curtain Call",
       "url": "https://open.spotify.com/track/1McaBph49HIifhnGMg4a1f"
@@ -4909,7 +4927,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 177433,
       "name": "Disposition",
       "url": "https://open.spotify.com/track/0i0vwerF4OY1DCdzu57nLf"
@@ -5383,7 +5401,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 224000,
       "name": "DUST OFF / START AGAIN",
       "url": "https://open.spotify.com/track/5vyDsprQI2koIpWbFIrAqI"
@@ -8357,7 +8375,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 209500,
       "name": "Hottest Man Alive 1995",
       "url": "https://open.spotify.com/track/0LodhNOnEi9nnvYvWgq8M6"
@@ -10025,7 +10043,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 260953,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0FE88E5srw7mcCheEmMtBr"
@@ -12711,7 +12729,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 182786,
       "name": "Movie",
       "url": "https://open.spotify.com/track/1WITR6MPT2E5QkOwNz9aRm"
@@ -14001,7 +14019,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 167909,
       "name": "Nosebleeds",
       "url": "https://open.spotify.com/track/0inudhDQkXZ6DjJ2X0lbcy"
@@ -15757,7 +15775,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 140157,
       "name": "procrastinating",
       "url": "https://open.spotify.com/track/15iHiRaaYkXvpN5b8iGqDE"
@@ -18087,7 +18105,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 202360,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/7IR6eTDsqLvKPv0gCf7baZ"
@@ -19003,7 +19021,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 152920,
       "name": "The Whole Story",
       "url": "https://open.spotify.com/track/32nJA8poeqnOofwpmdnl5k"
@@ -20189,7 +20207,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 215080,
       "name": "Una Cumbia Triste",
       "url": "https://open.spotify.com/track/0aZTEC8uIFXLJpkYRby45Y"
@@ -20229,7 +20247,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 197219,
       "name": "Unhappier",
       "url": "https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR"
@@ -21055,7 +21073,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 184005,
       "name": "When It's Over",
       "url": "https://open.spotify.com/track/2EcsBI9PipH9K8cikqZixI"

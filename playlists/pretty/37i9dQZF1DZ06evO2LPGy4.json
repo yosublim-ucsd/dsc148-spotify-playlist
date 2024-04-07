@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 424287,
+  "num_followers": 424354,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTYyMjQ1YWVjZmM3Yzc5YWViYmNjYmU4YWY0N2E2MTUwYTljZThl",
+  "snapshot_id": "MCw4MjdhNmU3Mzk3MzE2ZTcyN2Y2ZTIxZDNmYjg4YTFlYzUzZmUwN2My",
   "tracks": [
     {
       "added_at": null,
@@ -455,30 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hola Coraz\u00f3n (En Vivo)",
-        "url": "https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "Wil Caro",
-          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
-        }
-      ],
-      "duration_ms": 185514,
-      "name": "Hola Coraz\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Dios y El Diablo (Deluxe Version)",
         "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
@@ -535,22 +511,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Parca",
-        "url": "https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG"
+        "name": "Hola Coraz\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Wil Caro",
+          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
         }
       ],
-      "duration_ms": 193612,
-      "name": "La Parca",
-      "url": "https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK"
+      "duration_ms": 185514,
+      "name": "Hola Coraz\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2"
     },
     {
       "added_at": null,
@@ -567,6 +547,26 @@
       "duration_ms": 198026,
       "name": "Aquiles Afirmo",
       "url": "https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Parca",
+        "url": "https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 193612,
+      "name": "La Parca",
+      "url": "https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK"
     },
     {
       "added_at": null,

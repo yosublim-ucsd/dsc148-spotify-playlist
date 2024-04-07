@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 11538,
+  "2024-04-07": 11559,
   "date_first_scraped": "2022-04-19",
   "description": "If you're driving a car, flying a plane, or riding a bus - these songs about transportation are for you.",
   "name": "Traffic Jam",
@@ -715,6 +715,24 @@
       "duration_ms": 120880,
       "name": "Fiona Fire Truck",
       "url": "https://open.spotify.com/track/7AM0FxBwHdoH2trAhpqS5m"
+    },
+    {
+      "album": {
+        "name": "Fire Truck",
+        "url": "https://open.spotify.com/album/0duOJCEVDodd3JmPFW88sz"
+      },
+      "artists": [
+        {
+          "name": "The Quokkas",
+          "url": "https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117120,
+      "name": "Fire Truck",
+      "url": "https://open.spotify.com/track/3SoJzVHAWLr08rQerBHB9H"
     },
     {
       "album": {

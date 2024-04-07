@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 172018,
+  "2024-04-07": 172094,
   "date_first_scraped": "2021-12-21",
   "description": "The best new dance & electronic by independent artists and labels. Cover: Selena Faider. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
@@ -1706,6 +1706,24 @@
     },
     {
       "album": {
+        "name": "Amity",
+        "url": "https://open.spotify.com/album/3WXfs112YzRjnvZs2luu2I"
+      },
+      "artists": [
+        {
+          "name": "Severo",
+          "url": "https://open.spotify.com/artist/5HqJR4LXclbZPAwQ636j84"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Amity",
+      "url": "https://open.spotify.com/track/2waz8yYKbVxsANBalXl3Ut"
+    },
+    {
+      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/49PsE96re17thGX6bXbhZX"
       },
@@ -2761,6 +2779,24 @@
       "duration_ms": 327619,
       "name": "Bailar",
       "url": "https://open.spotify.com/track/5oVteFuCbsFdDQR5NYS2yo"
+    },
+    {
+      "album": {
+        "name": "Bailarina (Pyura Remix)",
+        "url": "https://open.spotify.com/album/47knKqo7d15Q9ZA5HIWUG3"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316227,
+      "name": "Bailarina - Pyura Remix",
+      "url": "https://open.spotify.com/track/3FlSY7bo72ON7rHBgtBMGX"
     },
     {
       "album": {
@@ -12583,7 +12619,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 226249,
       "name": "Fly With Me",
       "url": "https://open.spotify.com/track/6ZbczOUKEUWZLxchgKbk9p"
@@ -12605,6 +12641,24 @@
       "duration_ms": 420001,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/2Py5mwVwgCHMXXUnPhj0QL"
+    },
+    {
+      "album": {
+        "name": "focus on me",
+        "url": "https://open.spotify.com/album/6TL0pGuxaIE2KbX5aEN9eD"
+      },
+      "artists": [
+        {
+          "name": "Sven Yamaha",
+          "url": "https://open.spotify.com/artist/30QfHJafHhRAP0v1wieSWH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132140,
+      "name": "focus on me",
+      "url": "https://open.spotify.com/track/1DbQsKYmIJXBebNOX8youe"
     },
     {
       "album": {
@@ -21565,6 +21619,24 @@
       "duration_ms": 145228,
       "name": "Make Up My Mind",
       "url": "https://open.spotify.com/track/2FXwX8wv2nmDy1U8NRiHo2"
+    },
+    {
+      "album": {
+        "name": "Make You Look",
+        "url": "https://open.spotify.com/album/6U0fhe2i6Ra6xhXKqsd6kM"
+      },
+      "artists": [
+        {
+          "name": "Dee Mad",
+          "url": "https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "Make You Look",
+      "url": "https://open.spotify.com/track/1JV2huNb9YzUfRzJVA0ato"
     },
     {
       "album": {
@@ -31845,7 +31917,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 258292,
       "name": "Straight from the Underground",
       "url": "https://open.spotify.com/track/3aChvUQ1AxLrRZM43C1DQm"
@@ -33845,6 +33917,28 @@
       "duration_ms": 346775,
       "name": "The Gates Will Open",
       "url": "https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4"
+    },
+    {
+      "album": {
+        "name": "The Gates Will Open (Glimji Remix)",
+        "url": "https://open.spotify.com/album/0oraRL1T4ciObCzqw3o3rv"
+      },
+      "artists": [
+        {
+          "name": "Karma Kid",
+          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
+        },
+        {
+          "name": "Glimji",
+          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302625,
+      "name": "The Gates Will Open - Glimji Remix",
+      "url": "https://open.spotify.com/track/2ZPMDmgjLLddJKDEOiAjRb"
     },
     {
       "album": {
@@ -37978,6 +38072,28 @@
     },
     {
       "album": {
+        "name": "Wikidest DJ",
+        "url": "https://open.spotify.com/album/0kbT9bsuLwT17rK9zp3Gzr"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "ELOQ",
+          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176205,
+      "name": "Wikidest DJ",
+      "url": "https://open.spotify.com/track/23Vzz30Kuo6mvtC08pTBX0"
+    },
+    {
+      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/3mbvYM42ufrBY4ISpF8rtP"
       },
@@ -38145,6 +38261,28 @@
       "duration_ms": 231176,
       "name": "without ur love",
       "url": "https://open.spotify.com/track/4EZWt3NPTOoY9LBk7GuFmC"
+    },
+    {
+      "album": {
+        "name": "without you",
+        "url": "https://open.spotify.com/album/05maWYabu665iJoxUOxDHB"
+      },
+      "artists": [
+        {
+          "name": "QRTR",
+          "url": "https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj"
+        },
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336350,
+      "name": "without you",
+      "url": "https://open.spotify.com/track/7H42rYILst7JUooiGyqz9u"
     },
     {
       "album": {

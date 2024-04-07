@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,443 likes - 52 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,507 likes - 52 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 51 | [4K \- Ao Vivo](https://open.spotify.com/track/5A2y5UOgdzXLRtJBW25vRi) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Guias e Ondas \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/6WYmfXGrDk2qWsJwTXkq84) | 4:02 |
 | 52 | [Ibama](https://open.spotify.com/track/4kwpMz3xyNdpEDa2YHXHTv) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Ibama](https://open.spotify.com/album/7vVig3rfGwo2TTsLhRSFuE) | 2:55 |
 
-Snapshot ID: `MCwzYTc2MmRhYjU3MzZmZTJhYjQ1YjBmYTRmODkxODI2YTI5ZTM5OTQz`
+Snapshot ID: `MCwwNzA2NGY3ZWJkYjE0NmRlMDllYTgyMjE0ZTdkZDdkZGVhNDNmZTM3`

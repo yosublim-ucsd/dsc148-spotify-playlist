@@ -4,13 +4,14 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-785 songs - 1 day 9 hr 1 min
+786 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1.6.18](https://open.spotify.com/track/5VMKVWjfxPHFeLa3eWZFec) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [1.6.18](https://open.spotify.com/album/5BmneWRR8U5ATZzJhXgCB4) | 2:29 | 2022-05-27 |  |
 | [19\-02\-21](https://open.spotify.com/track/0t4M1iM4ZQmoGOq9JJFy8s) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb), [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [19\-02\-21](https://open.spotify.com/album/2W50YH9yqzFYAO4aynCp0R) | 2:16 | 2022-05-27 | 2023-08-28 |
 | [A French Film](https://open.spotify.com/track/72eFRpAOIUP4W5LF9pBydT) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [A French Film](https://open.spotify.com/album/2JmiWAL0pcAGTBatnbPcp4) | 2:19 | 2023-12-18 |  |
+| [A Fresh Start](https://open.spotify.com/track/2jlX4uHv42kpI4RrkjF9LK) | [Roger Swift](https://open.spotify.com/artist/7LFWOpUVxbAkCBMVycZT5k) | [A Fresh Start](https://open.spotify.com/album/0HfJtkvuSY9WjsWE6wm5c2) | 2:38 | 2024-04-03 |  |
 | [A Gentle Place](https://open.spotify.com/track/2kgwWNOn9IUCoQuJIReVUH) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [A Gentle Place](https://open.spotify.com/album/2m1Abw0Fac9M57oaStSyaw) | 2:13 | 2023-08-21 |  |
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2022-05-27 | 2023-04-26 |
 | [A Heavy Heart](https://open.spotify.com/track/4pbeMmSR2AUaZUUkTZq2Jz) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [A Heavy Heart](https://open.spotify.com/album/0s9UY6BfLpQWYx9Q1nNZoD) | 1:58 | 2022-05-27 | 2023-07-25 |
@@ -25,7 +26,7 @@
 | [A Place Like This](https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [A Place Like This](https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy) | 2:01 | 2022-05-27 | 2022-09-24 |
 | [A Right Time to Plant and Another to Reap](https://open.spotify.com/track/4pqQYahNRXKNylayHXoaDa) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [A Right Time to Plant and Another to Reap](https://open.spotify.com/album/49XknZnGlbOO6szF6uxKwV) | 2:03 | 2022-05-27 |  |
 | [a silent conversation](https://open.spotify.com/track/0P57HvwLXbtPnXUJ2viiOh) | [like gentle rain](https://open.spotify.com/artist/1buksjoq8qDrWEYexFNnG4) | [a silent conversation](https://open.spotify.com/album/41XBHPwHv3Wvm0kxFPx2oy) | 2:16 | 2023-03-06 | 2023-03-28 |
-| [A Te](https://open.spotify.com/track/4h6HLXd9COTiaOhWBmzY2R) | [Agatha Messina](https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI) | [A Te](https://open.spotify.com/album/5A7PwvWXXWtY9qI9tEHslK) | 2:44 | 2023-09-18 |  |
+| [A Te](https://open.spotify.com/track/4h6HLXd9COTiaOhWBmzY2R) | [Agatha Messina](https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI) | [A Te](https://open.spotify.com/album/5A7PwvWXXWtY9qI9tEHslK) | 2:44 | 2023-09-18 | 2024-04-07 |
 | [A Thought Evoked](https://open.spotify.com/track/5CIuhTu5H6req55w8yBejp) | [Chloé Czans](https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu) | [A Thought Evoked](https://open.spotify.com/album/5tbZrlYXjQCuPYF9IwjI7w) | 2:54 | 2022-05-27 | 2022-09-24 |
 | [A Way Home](https://open.spotify.com/track/4X0WmlJ9fl8O33QvEdPSoK) | [Javier Escudero](https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N) | [A Way Home](https://open.spotify.com/album/0jStWbRbpRbNHX03YoQzOP) | 2:48 | 2024-02-21 |  |
 | [Above Light](https://open.spotify.com/track/2CoBu5GndGDiqwHiBUp3ZT) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Above Light](https://open.spotify.com/album/6CAfWb9Pc7ThbXdGR5sr7R) | 3:11 | 2022-05-27 | 2023-05-26 |

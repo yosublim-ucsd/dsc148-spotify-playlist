@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90245,
+  "num_followers": 90239,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTQzN2RmMWQ4YWY0NmMwNzkxMDdkMzg1YzBkMzFlMDdkZjVjOTc3",
+  "snapshot_id": "MCw0YWVlZjdhZTJhYjBkYzhhY2YwZTVhMzA2ZGE1MWYwZGJjYjc1ZTI1",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Day and Night",
-        "url": "https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5"
-      },
-      "artists": [
-        {
-          "name": "Otis Lloyid",
-          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
-        }
-      ],
-      "duration_ms": 191611,
-      "name": "Day and Night",
-      "url": "https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "My Girl (Gemini)",
         "url": "https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 153089,
       "name": "My Girl (Gemini)",
       "url": "https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Day and Night",
+        "url": "https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5"
+      },
+      "artists": [
+        {
+          "name": "Otis Lloyid",
+          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
+        }
+      ],
+      "duration_ms": 191611,
+      "name": "Day and Night",
+      "url": "https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx"
     },
     {
       "added_at": "2023-08-01 17:14:44",

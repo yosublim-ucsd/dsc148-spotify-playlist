@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Roxy Dekker
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,273 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,315 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 68 | [Blik Op Jou](https://open.spotify.com/track/6n7MvjxLnE0EYNVDn5kh6c) | [Jada Borsato](https://open.spotify.com/artist/6EdpDU1kcKCtErNVnIpUbE) | [Blik Op Jou](https://open.spotify.com/album/2eszVV2AEnzsQX5cPnKA15) | 3:11 |
 | 69 | [Fainted Love](https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:50 |
 | 70 | [Hoe Zou Het Zijn](https://open.spotify.com/track/1Ozx074E5K8p5QNoIgKnrt) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Hoe Zou Het Zijn](https://open.spotify.com/album/2ALYBOS62AwjwUTxPuQZtN) | 2:20 |
-| 71 | [Weed & Videogames](https://open.spotify.com/track/5V8NIbC1m0FC2t697j6Bua) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [weed & videogames](https://open.spotify.com/album/4VomEJXaT4uQeNzfP9aVmr) | 3:03 |
+| 71 | [weed & videogames](https://open.spotify.com/track/5V8NIbC1m0FC2t697j6Bua) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [weed & videogames](https://open.spotify.com/album/4VomEJXaT4uQeNzfP9aVmr) | 3:03 |
 | 72 | [Eat Pray Love](https://open.spotify.com/track/4N3IOS0sHBSy51BREPj4yi) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Eat Pray Love](https://open.spotify.com/album/7xGpSyTEDKjhC6VDTsrn3a) | 2:15 |
 | 73 | [Forever](https://open.spotify.com/track/4RPs3OeGwQFwUm3fuMbhgI) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Fabiana Palladino](https://open.spotify.com/album/42oaWsdIjvtngWBANg0tux) | 3:59 |
 | 74 | [Lost My Mind](https://open.spotify.com/track/6CHtttdgeH8eNgsfFONPsj) | [Will Eason](https://open.spotify.com/artist/0mXr7zTlXU4FgOoiOHbQHs) | [Lost My Mind](https://open.spotify.com/album/0aIcksDdcaCcDG9cAe3J94) | 3:38 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 80 | [Hell On Earth](https://open.spotify.com/track/4HFwG2nLdtwHpw7zpZJJWQ) | [Wendy Moore](https://open.spotify.com/artist/3hVaUYcJaBFuGQim6qmC6l) | [Hell On Earth](https://open.spotify.com/album/6pDzC8llatcUFSlHuQC27O) | 2:28 |
 | 81 | [Head To Toe](https://open.spotify.com/track/1gojlolNmPyTQC3Ka677Tv) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh), [Raven Artson](https://open.spotify.com/artist/1pjq57xf16MzNclnMU6Mvk) | [Head To Toe](https://open.spotify.com/album/7MGONvHa0wGfj1xe61hm6V) | 2:52 |
 | 82 | [My Love \(Work Harder\)](https://open.spotify.com/track/1vQQGG93pNmSUK4o1lNzD0) | [Soulchaser](https://open.spotify.com/artist/1kzRFs7LyMmSf4N7TEObWt) | [My Love \(Work Harder\)](https://open.spotify.com/album/0KMZfo8Xk4c9v6M1ngj8WH) | 2:24 |
-| 83 | [Hou ik te weing van mezelf](https://open.spotify.com/track/2j5vAHjU1JBBqihW6z56TS) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Hou ik te weinig van mezelf](https://open.spotify.com/album/34RXbvn4DMPXqm1cm6Lli0) | 2:24 |
+| 83 | [Hou ik te weinig van mezelf](https://open.spotify.com/track/2j5vAHjU1JBBqihW6z56TS) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Hou ik te weinig van mezelf](https://open.spotify.com/album/34RXbvn4DMPXqm1cm6Lli0) | 2:24 |
 | 84 | [You Win](https://open.spotify.com/track/406quAahnEyERGT0EinaiM) | [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [You Win](https://open.spotify.com/album/6ANvJpZEvGfkYNN8mFrGif) | 2:35 |
 | 85 | [Thrash](https://open.spotify.com/track/4pYh2g7nKlSZmE33sS2QxV) | [Stella](https://open.spotify.com/artist/46gCA7cp3vzZpJWB7fS1db) | [Thrash](https://open.spotify.com/album/3iDxiM9BnL4Z6Cuvz2yg3D) | 4:02 |
 | 86 | [Aardbei en Vanille](https://open.spotify.com/track/4TZjJSHcExsyHgHlgvOmwQ) | [Rens, Jaïr & Ome Uncle](https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD) | [Aardbei en Vanille](https://open.spotify.com/album/5GjRV1K4ngwxvORNRo0xfn) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Cherish](https://open.spotify.com/track/256duzyAQ2cgNI0Bh89K0m) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Cherish](https://open.spotify.com/album/5OVwztAS3zX3ufTgXZNA8R) | 2:28 |
 | 100 | [Point of View](https://open.spotify.com/track/6aF81cWRsSIK0lF7sirYat) | [Okke Punt](https://open.spotify.com/artist/62eGoLRCLKqObqDkLfYDVP) | [Point of View](https://open.spotify.com/album/6fBdzISWaqSWYjiT3H5TXO) | 3:53 |
 
-Snapshot ID: `MCwzNTg1ZDE4MzQwMDcyNTQwNjJmYzM0NjEyMzMyNmQwYzgyNzE0NmE3`
+Snapshot ID: `MCw5YTJjZGQ4ODc2YTFhZWY5YmZkNzVmZjdmODIyYTRiNTlkMzAzYTNm`

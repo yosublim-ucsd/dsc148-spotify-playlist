@@ -1,5 +1,5 @@
 {
-  "2024-04-06": 166532,
+  "2024-04-07": 166553,
   "date_first_scraped": "2022-03-24",
   "description": "aqueles papo de amor tlgd n\u00e3o?",
   "name": "Flow Romance",
@@ -2485,7 +2485,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 140000,
       "name": "Deixa de Ser Tonta 2",
       "url": "https://open.spotify.com/track/6cF3IwHGkt1DHwY9lq4Xwi"
@@ -4536,6 +4536,24 @@
     },
     {
       "album": {
+        "name": "Guias",
+        "url": "https://open.spotify.com/album/6WAXHLHTabPee7zj94KUJa"
+      },
+      "artists": [
+        {
+          "name": "Mc Robs",
+          "url": "https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Guias",
+      "url": "https://open.spotify.com/track/0hzecTCRyi7y0szoqhsXOa"
+    },
+    {
+      "album": {
         "name": "Gumball",
         "url": "https://open.spotify.com/album/3cXNC67o6QAYFzwo86RvVd"
       },
@@ -5411,7 +5429,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-06",
       "duration_ms": 175999,
       "name": "Logo Eu",
       "url": "https://open.spotify.com/track/6rCAD1L3H87qRNGGVli37l"
@@ -6551,6 +6569,32 @@
       "duration_ms": 207608,
       "name": "MINHA MULHER",
       "url": "https://open.spotify.com/track/3geQbVRLtHqhJXMNbJHmPo"
+    },
+    {
+      "album": {
+        "name": "L0V3 Tvp3",
+        "url": "https://open.spotify.com/album/4VMbvm1NCu8KmeuXnYEZcN"
+      },
+      "artists": [
+        {
+          "name": "Eddu Chaves",
+          "url": "https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa"
+        },
+        {
+          "name": "6ok",
+          "url": "https://open.spotify.com/artist/5XDiuqXrXt0JEvB8Qu6zhI"
+        },
+        {
+          "name": "ogoin",
+          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203999,
+      "name": "Misterios",
+      "url": "https://open.spotify.com/track/4HWpdig5qBwjSX7zPkzFF6"
     },
     {
       "album": {
